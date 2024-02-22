@@ -1,0 +1,219 @@
+name: Detailed Roadmap
+on:
+  schedule:
+    # Runs every hour
+    - cron: "0 * * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-youtube:
+    name: Update this repo's Readme
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch and insert videos from Playlist 1
+        id: playlist_1
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://www.youtube.com/feeds/videos.xml?playlist_id=PLOJR6EhNalnvUXy1RQL5DWxIj7KdCJBmq"
+          comment_tag_name: "LINUX"
+          max_post_count: "100"
+          custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
+          date_format: "mmm d, yyyy"
+          template: |
+            <table>
+            <tr>
+            <td><a href="$url"><img width="140px" src="http://img.youtube.com/vi/$videoId/maxresdefault.jpg"></a></td>
+            <td><a href="$url">$title</a><br/>$date</td>
+            </tr>
+            </table>
+            $newline
+      - name: Fetch and insert videos from Playlist 2
+        id: playlist_2
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://www.youtube.com/feeds/videos.xml?playlist_id=PLOJR6EhNalnsQNexfdDn3DgKxUvIgTpDK"
+          comment_tag_name: "NETWORK"
+          max_post_count: "100"
+          custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
+          date_format: "mmm d, yyyy"
+          template: |
+           <table>
+            <tr>
+            <td><a href="$url"><img width="140px" src="http://img.youtube.com/vi/$videoId/maxresdefault.jpg"></a></td>
+            <td><a href="$url">$title</a><br/>$date</td>
+            </tr>
+            </table>
+            $newline
+
+      # Fetch and insert videos from Playlist 3
+      - name: Fetch and insert videos from Playlist 3
+        id: playlist_3
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://www.youtube.com/feeds/videos.xml?playlist_id=PLOJR6EhNalnsj_PIenPD7LF3TnTZujasb"
+          comment_tag_name: "SQL"
+          max_post_count: "100"
+          custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
+          date_format: "mmm d, yyyy"
+          template: |
+           <table>
+            <tr>
+            <td><a href="$url"><img width="140px" src="http://img.youtube.com/vi/$videoId/maxresdefault.jpg"></a></td>
+            <td><a href="$url">$title</a><br/>$date</td>
+            </tr>
+            </table>
+            $newline
+
+      # Fetch and insert videos from Playlist 4
+      - name: Fetch and insert videos from Playlist 4
+        id: playlist_4
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://www.youtube.com/feeds/videos.xml?playlist_id=PLOJR6EhNalnthGdlZwnRwlHk4L3mTgQHD"
+          comment_tag_name: "PYTHON"
+          max_post_count: "100"
+          custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
+          date_format: "mmm d, yyyy"
+          template: | 
+           <table>
+            <tr>
+            <td><a href="$url"><img width="140px" src="http://img.youtube.com/vi/$videoId/maxresdefault.jpg"></a></td>
+            <td><a href="$url">$title</a><br/>$date</td>
+            </tr>
+            </table>
+            $newline
+
+      # Fetch and insert videos from Playlist 5
+      - name: Fetch and insert videos from Playlist 5
+        id: playlist_5
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://www.youtube.com/feeds/videos.xml?playlist_id=PLOJR6EhNalnu7wxeH4suOSLMdGPAYHoqm"
+          comment_tag_name: "OSINT"
+          max_post_count: "100"
+          custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
+          date_format: "mmm d, yyyy"
+          template: |
+            <table>
+            <tr>
+            <td><a href="$url"><img width="140px" src="http://img.youtube.com/vi/$videoId/maxresdefault.jpg"></a></td>
+            <td><a href="$url">$title</a><br/>$date</td>
+            </tr>
+            </table>
+            $newline
+
+      # Fetch and insert videos from Playlist 6
+      - name: Fetch and insert videos from Playlist 6
+        id: playlist_6
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://www.youtube.com/feeds/videos.xml?playlist_id=PLOJR6EhNalnu5bVVqtOauOuv4bVhtQZdf"
+          comment_tag_name: "BASH"
+          max_post_count: "100"
+          custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
+          date_format: "mmm d, yyyy"
+          template: |
+            <table>
+            <tr>
+            <td><a href="$url"><img width="140px" src="http://img.youtube.com/vi/$videoId/maxresdefault.jpg"></a></td>
+            <td><a href="$url">$title</a><br/>$date</td>
+            </tr>
+            </table>
+            $newline
+
+   # Fetch and insert videos from Playlist 7
+      - name: Fetch and insert videos from Playlist 7
+        id: playlist_7
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://www.youtube.com/feeds/videos.xml?playlist_id=PLOJR6EhNalnu-ESDmxURAtE2s9bNzWPfj"
+          comment_tag_name: "BASICCONCEPTS"
+          max_post_count: "100"
+          custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
+          date_format: "mmm d, yyyy"
+          template: |
+            <table>
+            <tr>
+            <td><a href="$url"><img width="140px" src="http://img.youtube.com/vi/$videoId/maxresdefault.jpg"></a></td>
+            <td><a href="$url">$title</a><br/>$date</td>
+            </tr>
+            </table>
+            $newline
+# Fetch and insert videos from Playlist 8
+      - name: Fetch and insert videos from Playlist 8
+        id: playlist_8
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://www.youtube.com/feeds/videos.xml?playlist_id=PLOJR6EhNalnu7hgxu7QhA9GrF9i23JX9A"
+          comment_tag_name: "WEB"
+          max_post_count: "100"
+          custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
+          date_format: "mmm d, yyyy"
+          template: |
+            <table>
+            <tr>
+            <td><a href="$url"><img width="140px" src="http://img.youtube.com/vi/$videoId/maxresdefault.jpg"></a></td>
+            <td><a href="$url">$title</a><br/>$date</td>
+            </tr>
+            </table>
+            $newline
+
+# Fetch and insert videos from Playlist 9
+      - name: Fetch and insert videos from Playlist 9
+        id: playlist_9
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://www.youtube.com/feeds/videos.xml?playlist_id=PLOJR6EhNalnvp092-sA_LWbqQsJHavUK2"
+          comment_tag_name: "ANDROID"
+          max_post_count: "100"
+          custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
+          date_format: "mmm d, yyyy"
+          template: |
+            <table>
+            <tr>
+            <td><a href="$url"><img width="140px" src="http://img.youtube.com/vi/$videoId/maxresdefault.jpg"></a></td>
+            <td><a href="$url">$title</a><br/>$date</td>
+            </tr>
+            </table>
+            $newline
+
+# Fetch and insert videos from Playlist 10
+      - name: Fetch and insert videos from Playlist 10
+        id: playlist_10
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://www.youtube.com/feeds/videos.xml?playlist_id=PLOJR6EhNalnuh6eovYTds8tbUI9EcRbtp"
+          comment_tag_name: "MALWARE"
+          max_post_count: "100"
+          custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
+          date_format: "mmm d, yyyy"
+          template: |
+            <table>
+            <tr>
+            <td><a href="$url"><img width="140px" src="http://img.youtube.com/vi/$videoId/maxresdefault.jpg"></a></td>
+            <td><a href="$url">$title</a><br/>$date</td>
+            </tr>
+            </table>
+            $newline
+
+# Fetch and insert videos from Playlist 11
+      - name: Fetch and insert videos from Playlist 11
+        id: playlist_11
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://www.youtube.com/feeds/videos.xml?playlist_id=PLOJR6EhNalnsZdSuODRA2ou1FBoPX6pme"
+          comment_tag_name: "DIGITAL FORENSICS"
+          max_post_count: "100"
+          custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
+          date_format: "mmm d, yyyy"
+          template: |
+            <table>
+            <tr>
+            <td><a href="$url"><img width="140px" src="http://img.youtube.com/vi/$videoId/maxresdefault.jpg"></a></td>
+            <td><a href="$url">$title</a><br/>$date</td>
+            </tr>
+            </table>
+            $newline
