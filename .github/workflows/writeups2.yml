@@ -1,0 +1,19 @@
+name: Latest writeups
+on:
+  workflow_dispatch:
+  schedule:
+    - cron:  "*/1 * * * *"
+permissions:
+      contents: write
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's Writeups
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: "WRITEUPS"
+          readme_path : ./Writeups.md
+          max_post_count: "5000"
+          feed_list: "https://technicalnavigator.in/category/linux-android-windows/feed/,https://www.hackerone.com/blog.rss,https://infosecwriteups.com/feed,https://medium.com/feed/tag/bug-bounty-writeup,https://www.bleepingcomputer.com/tutorials/feed/"
