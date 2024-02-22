@@ -5,7 +5,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [IDOR: The Simple Switch](https://medium.com/@ganga_/idor-the-simple-switch-19d881358552?source=rss------bug_bounty_writeup-5)
 - [$500 Bounty on Reflected XSS on Shopify](https://medium.com/bug-bounty-writeups/500-bounty-on-reflected-xss-on-shopify-083925879077?source=rss------bug_bounty_writeup-5)
 - [Decoding the Characteristics of Modern Pentesting: Speed](https://www.hackerone.com/penetration-testing/modern-pentesting-speed)
-- [Web Cache Poisoing leads to ATO &lpar;Account takeover&rpar;](https://medium.com/@hoosgamer/web-cache-poisoing-leads-to-ato-account-takeover-2522b4583a97?source=rss------bug_bounty_writeup-5)
+- [Web Cache Poisoing leads to ATO &lpar;Account takeover&rpar;](https://infosecwriteups.com/web-cache-poisoing-leads-to-ato-account-takeover-2522b4583a97?source=rss------bug_bounty_writeup-5)
 - [Missed IWCON 2023? Catch Recorded Expert Sessions Here.](https://infosecwriteups.com/missed-iwcon-2023-catch-recorded-expert-sessions-here-8d62cf34dd37?source=rss----7b722bfd1b8d---4)
 - [HTB — Lame](https://infosecwriteups.com/htb-lame-13b949b481dc?source=rss----7b722bfd1b8d---4)
 - [Portswigger — Path Traversal All Labs Walkthrough&lpar;Bug Bounty Prep&rpar;[by dollarboysushil]](https://infosecwriteups.com/portswigger-path-traversal-all-labs-walkthrough-bug-bounty-prep-by-dollarboysushil-85ab64d6106a?source=rss----7b722bfd1b8d---4)
