@@ -957,6 +957,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Salesforce Teams Up With All-Star Hackers at H1-4420](https://www.hackerone.com/lhe/salesforce-h1-4420)
 - [Responsible AI at HackerOne](https://www.hackerone.com/thought-leadership/responsible-ai)
 <!-- WRITEUPS:END -->
+[Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
 ### Capture The Flag (CTF) Platforms 🧑🏻‍💻💪
 
