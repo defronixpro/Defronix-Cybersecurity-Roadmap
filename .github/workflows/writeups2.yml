@@ -1,4 +1,4 @@
-name: Latest writeups
+name: Latest writeups 2
 on:
   workflow_dispatch:
   schedule:
