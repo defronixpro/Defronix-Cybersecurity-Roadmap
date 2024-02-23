@@ -906,6 +906,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Missed IWCON 2023? Catch Recorded Expert Sessions Here &lpar;Pt. 2&rpar;](https://infosecwriteups.com/missed-iwcon-2023-catch-recorded-expert-sessions-here-pt-2-27237d02cfbf?source=rss----7b722bfd1b8d---4)
 - [How Automation Detected Default Admin Credential Worth $500](https://vijetareigns.medium.com/how-automation-detected-default-admin-credential-worth-500-d6c09719d307?source=rss------bug_bounty_writeup-5)
 - [How i was able to hack over 10 million websites using BAC : broken access controle .](https://medium.com/@zack0x01_/how-i-was-able-to-hack-over-10-million-websites-using-bac-broken-access-controle-ce6b704e3dcb?source=rss------bug_bounty_writeup-5)
 - [Disclose assigned apps of any facebook user](https://gtm0x01.medium.com/disclose-assigned-apps-of-any-facebook-user-e78bcff1de71?source=rss------bug_bounty_writeup-5)
@@ -922,7 +923,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [PortSwigger — LAB-5 Web shell upload via obfuscated file extension &lpar;Bug Bounty Prep&rpar;[by…](https://infosecwriteups.com/portswigger-lab-5-web-shell-upload-via-obfuscated-file-extension-bug-bounty-prep-by-5232dd3fb8fa?source=rss----7b722bfd1b8d---4)
 - [Amazon’s Network Offers Potential For Disaster Response and Military Communications](https://infosecwriteups.com/amazons-network-offers-potential-for-disaster-response-and-military-communications-b68a847a340c?source=rss----7b722bfd1b8d---4)
 - [The UI Slip I Hit 750$: UI Manipulation Leading to Unauthorized Permission Changes](https://infosecwriteups.com/the-ui-slip-i-hit-750-ui-manipulation-leading-to-unauthorized-permission-changes-d65621d8dd96?source=rss----7b722bfd1b8d---4)
-- [How to learn OWASP for beginners](https://infosecwriteups.com/how-to-learn-owasp-for-beginners-dd971ceb6c11?source=rss----7b722bfd1b8d---4)
 - [GitHub Recon- For Finding Sensitive Information](https://medium.com/@pawan_rawat/github-recon-for-finding-sensitive-information-aecdeb9c9dce?source=rss------bug_bounty_writeup-5)
 - [How an Improper Access Control Vulnerability Led to Account Theft in One Click](https://www.hackerone.com/vulnerability-management/improper-access-control-deep-dive)
 - [Tow Senario To Pre Account TakeOver](https://medium.com/@Hackoura001/tow-senario-to-pre-account-takeover-e437b772b0e2?source=rss------bug_bounty_writeup-5)
