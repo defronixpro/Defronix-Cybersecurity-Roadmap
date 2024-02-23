@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How i was able to hack over 10 million websites using BAC : broken access controle .](https://medium.com/@zack0x01_/how-i-was-able-to-hack-over-10-million-websites-using-bac-broken-access-controle-ce6b704e3dcb?source=rss------bug_bounty_writeup-5)
 - [Disclose assigned apps of any facebook user](https://gtm0x01.medium.com/disclose-assigned-apps-of-any-facebook-user-e78bcff1de71?source=rss------bug_bounty_writeup-5)
 - [IDOR: The Simple Switch](https://medium.com/@ganga_/idor-the-simple-switch-19d881358552?source=rss------bug_bounty_writeup-5)
 - [$500 Bounty on Reflected XSS on Shopify](https://medium.com/bug-bounty-writeups/500-bounty-on-reflected-xss-on-shopify-083925879077?source=rss------bug_bounty_writeup-5)
@@ -21,7 +22,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Tow Senario To Pre Account TakeOver](https://medium.com/@Hackoura001/tow-senario-to-pre-account-takeover-e437b772b0e2?source=rss------bug_bounty_writeup-5)
 - [Three simple Vulnerabilities while Recon](https://medium.com/@Hackoura001/three-simple-vulnerabilities-while-recon-7c9c1534b9cf?source=rss------bug_bounty_writeup-5)
 - [Price Manipulation Through Encoded Url Parameter on Private Program](https://medium.com/@bry4nzheng/idor-insecure-direct-object-referece-price-manipulation-through-encoded-url-parameter-4232fa4758b0?source=rss------bug_bounty_writeup-5)
-- [Business Logic Flaw Price Manipulation on Private Bug Bounty Program](https://medium.com/@bry4nzheng/idor-insecure-direct-object-reference-price-manipulation-on-private-bug-bounty-program-2527431ffcfd?source=rss------bug_bounty_writeup-5)
 - [How to Use AI Prompting for Security Vulnerabilities](https://www.hackerone.com/ai/how-to-use-ai-prompting)
 - [Recap: Elite Pentesters Tell All in a Live Q&amp;A](https://www.hackerone.com/penetration-testing/pentester-ama-recap)
 - [How to Find Mistakes Earlier and Save Money With Code Security Audit](https://www.hackerone.com/vulnerability-management/find-mistakes-save-money-code-security-audit)
