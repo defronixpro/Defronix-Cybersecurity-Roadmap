@@ -906,6 +906,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [The Risk of AI Voice Cloning: Q&amp;A With an AI Hacker](https://www.hackerone.com/ai/voice-cloning-qa)
 - [Missed IWCON 2023? Catch Recorded Expert Sessions Here &lpar;Pt. 2&rpar;](https://infosecwriteups.com/missed-iwcon-2023-catch-recorded-expert-sessions-here-pt-2-27237d02cfbf?source=rss----7b722bfd1b8d---4)
 - [How Automation Detected Default Admin Credential Worth $500](https://vijetareigns.medium.com/how-automation-detected-default-admin-credential-worth-500-d6c09719d307?source=rss------bug_bounty_writeup-5)
 - [How i was able to hack over 10 million websites using BAC : broken access controle .](https://medium.com/@zack0x01_/how-i-was-able-to-hack-over-10-million-websites-using-bac-broken-access-controle-ce6b704e3dcb?source=rss------bug_bounty_writeup-5)
@@ -955,7 +956,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [An Emerging Playbook for AI Red Teaming With HackerOne](https://www.hackerone.com/thought-leadership/ai-safety-red-teaming)
 - [5 Common Mistakes When Running a Bug Bounty Program](https://www.hackerone.com/vulnerability-management/common-bug-bounty-program-mistakes)
 - [Salesforce Teams Up With All-Star Hackers at H1-4420](https://www.hackerone.com/lhe/salesforce-h1-4420)
-- [Responsible AI at HackerOne](https://www.hackerone.com/thought-leadership/responsible-ai)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
