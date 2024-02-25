@@ -1,7 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
-- [I took over 10 Million Accounts, Easy API Hacking](https://ravaan21.medium.com/i-took-over-10-million-accounts-easy-api-hacking-89a7092abe40?source=rss------bug_bounty_writeup-5)
+- [I took over 10 Million Accounts, Easy API Hacking](https://infosecwriteups.com/i-took-over-10-million-accounts-easy-api-hacking-89a7092abe40?source=rss------bug_bounty_writeup-5)
 - [500$ Access Control Bug: Performed Restricted Actions in Developer Settings by low level user.](https://infosecwriteups.com/500-access-control-bug-performed-restricted-actions-in-developer-settings-by-low-level-user-b4ecaa6d1aa1?source=rss----7b722bfd1b8d---4)
 - [HTB — Jerry](https://infosecwriteups.com/htb-jerry-0947990ec3ca?source=rss----7b722bfd1b8d---4)
 - [PortSwigger — LAB-6 Remote code execution via polyglot web shell upload &lpar;Bug Bounty Prep&rpar;[by…](https://infosecwriteups.com/portswigger-lab-6-remote-code-execution-via-polyglot-web-shell-upload-bug-bounty-prep-by-b426b0d50d39?source=rss----7b722bfd1b8d---4)
