@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [I took over 10 Million Accounts, Easy API Hacking](https://ravaan21.medium.com/i-took-over-10-million-accounts-easy-api-hacking-89a7092abe40?source=rss------bug_bounty_writeup-5)
 - [500$ Access Control Bug: Performed Restricted Actions in Developer Settings by low level user.](https://infosecwriteups.com/500-access-control-bug-performed-restricted-actions-in-developer-settings-by-low-level-user-b4ecaa6d1aa1?source=rss----7b722bfd1b8d---4)
 - [HTB — Jerry](https://infosecwriteups.com/htb-jerry-0947990ec3ca?source=rss----7b722bfd1b8d---4)
 - [PortSwigger — LAB-6 Remote code execution via polyglot web shell upload &lpar;Bug Bounty Prep&rpar;[by…](https://infosecwriteups.com/portswigger-lab-6-remote-code-execution-via-polyglot-web-shell-upload-bug-bounty-prep-by-b426b0d50d39?source=rss----7b722bfd1b8d---4)
@@ -22,7 +23,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [GitHub Recon- For Finding Sensitive Information](https://medium.com/@pawan_rawat/github-recon-for-finding-sensitive-information-aecdeb9c9dce?source=rss------bug_bounty_writeup-5)
 - [How an Improper Access Control Vulnerability Led to Account Theft in One Click](https://www.hackerone.com/vulnerability-management/improper-access-control-deep-dive)
 - [Tow Senario To Pre Account TakeOver](https://medium.com/@Hackoura001/tow-senario-to-pre-account-takeover-e437b772b0e2?source=rss------bug_bounty_writeup-5)
-- [Three simple Vulnerabilities while Recon](https://medium.com/@Hackoura001/three-simple-vulnerabilities-while-recon-7c9c1534b9cf?source=rss------bug_bounty_writeup-5)
 - [How to Use AI Prompting for Security Vulnerabilities](https://www.hackerone.com/ai/how-to-use-ai-prompting)
 - [Recap: Elite Pentesters Tell All in a Live Q&amp;A](https://www.hackerone.com/penetration-testing/pentester-ama-recap)
 - [How to Find Mistakes Earlier and Save Money With Code Security Audit](https://www.hackerone.com/vulnerability-management/find-mistakes-save-money-code-security-audit)
