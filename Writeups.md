@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Missed IWCON 2023? Catch Recorded Expert Sessions Here &lpar;Pt. 3&rpar;](https://infosecwriteups.com/missed-iwcon-2023-catch-recorded-expert-sessions-here-pt-3-3d5d626ff90c?source=rss----7b722bfd1b8d---4)
 - [I took over 10 Million Accounts, Easy API Hacking](https://infosecwriteups.com/i-took-over-10-million-accounts-easy-api-hacking-89a7092abe40?source=rss------bug_bounty_writeup-5)
 - [500$ Access Control Bug: Performed Restricted Actions in Developer Settings by low level user.](https://infosecwriteups.com/500-access-control-bug-performed-restricted-actions-in-developer-settings-by-low-level-user-b4ecaa6d1aa1?source=rss----7b722bfd1b8d---4)
 - [HTB — Jerry](https://infosecwriteups.com/htb-jerry-0947990ec3ca?source=rss----7b722bfd1b8d---4)
@@ -11,7 +12,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Unleash the Power of Penetration Testing: How to Install Metasploitable in Kali Linux Easily!](https://infosecwriteups.com/unleash-the-power-of-penetration-testing-how-to-install-metasploitable-in-kali-linux-easily-9c2ebb458df?source=rss----7b722bfd1b8d---4)
 - [Install Dirsearch on Kali](https://infosecwriteups.com/install-dirsearch-on-kali-4d5e7096676a?source=rss----7b722bfd1b8d---4)
 - [Portswigger — Command Injection All Labs Walkthrough&lpar;Bug Bounty Prep&rpar;[by dollarboysushil]](https://infosecwriteups.com/portswigger-command-injection-all-labs-walkthrough-bug-bounty-prep-by-dollarboysushil-e836421212cf?source=rss----7b722bfd1b8d---4)
-- [Hacking Tools You Should Be Learning in 2024](https://infosecwriteups.com/hacking-tools-you-should-be-learning-in-2024-e6875215d4f2?source=rss----7b722bfd1b8d---4)
 - [The Risk of AI Voice Cloning: Q&amp;A With an AI Hacker](https://www.hackerone.com/ai/voice-cloning-qa)
 - [How Automation Detected Default Admin Credential Worth $500](https://vijetareigns.medium.com/how-automation-detected-default-admin-credential-worth-500-d6c09719d307?source=rss------bug_bounty_writeup-5)
 - [How i was able to hack over 10 million websites using BAC : broken access controle .](https://medium.com/@zack0x01_/how-i-was-able-to-hack-over-10-million-websites-using-bac-broken-access-controle-ce6b704e3dcb?source=rss------bug_bounty_writeup-5)
