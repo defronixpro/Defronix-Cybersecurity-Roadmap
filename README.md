@@ -631,9 +631,9 @@ Cybersecurity is a diverse field with numerous specialized domains, each focusin
 ## Domain 🕵️⚔️
 
 <details >
-<summary>Web Pentesting </summary>
+<summary id ="bug-bounty">Web Pentesting </summary>
 
-<details id ="bug-bounty">
+<details >
 <summary>Playlist</summary>
 <!-- WEB:START --><table>
 <tr>
