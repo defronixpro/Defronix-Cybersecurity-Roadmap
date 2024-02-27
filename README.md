@@ -630,10 +630,10 @@ Cybersecurity is a diverse field with numerous specialized domains, each focusin
 
 ## Domain 🕵️⚔️
 
-<details id ="bug-bounty">
+<details >
 <summary>Web Pentesting </summary>
 
-<details>
+<details id ="bug-bounty">
 <summary>Playlist</summary>
 <!-- WEB:START --><table>
 <tr>
