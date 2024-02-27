@@ -906,6 +906,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Hai: The AI Assistant for Vulnerability Intelligence](https://www.hackerone.com/ai/hai-ai-assistant-vulnerability-intelligence)
+- [Snap&#39;s Safety Efforts With AI Red Teaming From HackerOne](https://www.hackerone.com/ai/snap-ai-red-teaming)
 - [Missed IWCON 2023? Catch Recorded Expert Sessions Here &lpar;Pt. 3&rpar;](https://infosecwriteups.com/missed-iwcon-2023-catch-recorded-expert-sessions-here-pt-3-3d5d626ff90c?source=rss----7b722bfd1b8d---4)
 - [I took over 10 Million Accounts, Easy API Hacking](https://infosecwriteups.com/i-took-over-10-million-accounts-easy-api-hacking-89a7092abe40?source=rss------bug_bounty_writeup-5)
 - [500$ Access Control Bug: Performed Restricted Actions in Developer Settings by low level user.](https://infosecwriteups.com/500-access-control-bug-performed-restricted-actions-in-developer-settings-by-low-level-user-b4ecaa6d1aa1?source=rss----7b722bfd1b8d---4)
@@ -954,8 +956,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [2024 Budget Planning: Preparing For U.S. Mandates to Implement Vulnerability Disclosure Policies &lpar;VDPs&rpar;](https://www.hackerone.com/security-compliance/budgeting-for-vdps)
 - [What Is the Difference Between Pentesting and Bug Bounty?](https://www.hackerone.com/penetration-testing/what-difference-between-pentesting-and-bug-bounty)
 - [An Emerging Playbook for AI Red Teaming With HackerOne](https://www.hackerone.com/thought-leadership/ai-safety-red-teaming)
-- [5 Common Mistakes When Running a Bug Bounty Program](https://www.hackerone.com/vulnerability-management/common-bug-bounty-program-mistakes)
-- [Salesforce Teams Up With All-Star Hackers at H1-4420](https://www.hackerone.com/lhe/salesforce-h1-4420)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
