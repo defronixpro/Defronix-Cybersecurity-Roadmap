@@ -916,6 +916,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [From Encryption to Decryption: LockBit Ransomware’s Shutdown](https://infosecwriteups.com/from-encryption-to-decryption-lockbit-ransomwares-shutdown-a1a8e0453d9c?source=rss----7b722bfd1b8d---4)
 - [A Comprehensive Guide on GraphQL Testing](https://infosecwriteups.com/a-comprehensive-guide-on-graphql-testing-35917bd44807?source=rss----7b722bfd1b8d---4)
 - [Android Hacking: Exploiting Broadcast Receiver](https://infosecwriteups.com/android-hacking-exploiting-broadcast-receiver-a0bec16ecc08?source=rss----7b722bfd1b8d---4)
+- [Hai: The AI Assistant for Vulnerability Intelligence](https://www.hackerone.com/ai/hai-ai-assistant-vulnerability-intelligence)
+- [Snap&#39;s Safety Efforts With AI Red Teaming From HackerOne](https://www.hackerone.com/ai/snap-ai-red-teaming)
 - [I took over 10 Million Accounts, Easy API Hacking](https://infosecwriteups.com/i-took-over-10-million-accounts-easy-api-hacking-89a7092abe40?source=rss------bug_bounty_writeup-5)
 - [The Risk of AI Voice Cloning: Q&amp;A With an AI Hacker](https://www.hackerone.com/ai/voice-cloning-qa)
 - [How Automation Detected Default Admin Credential Worth $500](https://vijetareigns.medium.com/how-automation-detected-default-admin-credential-worth-500-d6c09719d307?source=rss------bug_bounty_writeup-5)
@@ -954,8 +956,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [2024 Budget Planning: Preparing For U.S. Mandates to Implement Vulnerability Disclosure Policies &lpar;VDPs&rpar;](https://www.hackerone.com/security-compliance/budgeting-for-vdps)
 - [What Is the Difference Between Pentesting and Bug Bounty?](https://www.hackerone.com/penetration-testing/what-difference-between-pentesting-and-bug-bounty)
 - [An Emerging Playbook for AI Red Teaming With HackerOne](https://www.hackerone.com/thought-leadership/ai-safety-red-teaming)
-- [5 Common Mistakes When Running a Bug Bounty Program](https://www.hackerone.com/vulnerability-management/common-bug-bounty-program-mistakes)
-- [Salesforce Teams Up With All-Star Hackers at H1-4420](https://www.hackerone.com/lhe/salesforce-h1-4420)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
