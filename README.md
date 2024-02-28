@@ -908,6 +908,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Hack Stories: Hacking Hackers EP:2](https://infosecwriteups.com/hack-stories-hacking-hackers-ep-2-b4d2e628781e?source=rss----7b722bfd1b8d---4)
 - [how i make 6,000$ with jwt manipulation on web3 crypto application ?](https://medium.com/@zack0x01_/how-i-make-6-000-with-jwt-manipulation-on-web3-crypto-application-1e659c927647?source=rss------bug_bounty_writeup-5)
 - [Escalation of Windows Privilege: Kernel Exploit.](https://infosecwriteups.com/escalation-of-windows-privilege-kernel-exploit-bddda00c1ab2?source=rss----7b722bfd1b8d---4)
 - [Mastering ARP Cache Poisoning with Scapy: A Step-by-Step Tutorial](https://infosecwriteups.com/mastering-arp-cache-poisoning-with-scapy-a-step-by-step-tutorial-bff926773f0a?source=rss----7b722bfd1b8d---4)
@@ -918,7 +919,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How to Create a Local Kubernetes Cluster: Terraform and Ansible](https://infosecwriteups.com/how-to-create-a-local-kubernetes-cluster-terraform-and-ansible-44fa9d77a56b?source=rss----7b722bfd1b8d---4)
 - [From Encryption to Decryption: LockBit Ransomware’s Shutdown](https://infosecwriteups.com/from-encryption-to-decryption-lockbit-ransomwares-shutdown-a1a8e0453d9c?source=rss----7b722bfd1b8d---4)
 - [A Comprehensive Guide on GraphQL Testing](https://infosecwriteups.com/a-comprehensive-guide-on-graphql-testing-35917bd44807?source=rss----7b722bfd1b8d---4)
-- [Android Hacking: Exploiting Broadcast Receiver](https://infosecwriteups.com/android-hacking-exploiting-broadcast-receiver-a0bec16ecc08?source=rss----7b722bfd1b8d---4)
 - [Hai: The AI Assistant for Vulnerability Intelligence](https://www.hackerone.com/ai/hai-ai-assistant-vulnerability-intelligence)
 - [Snap&#39;s Safety Efforts With AI Red Teaming From HackerOne](https://www.hackerone.com/ai/snap-ai-red-teaming)
 - [I took over 10 Million Accounts, Easy API Hacking](https://infosecwriteups.com/i-took-over-10-million-accounts-easy-api-hacking-89a7092abe40?source=rss------bug_bounty_writeup-5)
