@@ -630,7 +630,7 @@ Cybersecurity is a diverse field with numerous specialized domains, each focusin
 
 ## Domain 🕵️⚔️
 
-In order to expand, you need click (arrow button) on respective mentioned domain (Web, Android etc). 
+In order to expand, you need to click (arrow button) on respective mentioned domain (Web, Android etc). 
 
 <details id="bug-bounty" >
 <summary>Web Pentesting / Bug Bounty</summary>
