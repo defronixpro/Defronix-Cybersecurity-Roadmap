@@ -908,6 +908,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [how i make 6,000$ with jwt manipulation on web3 crypto application ?](https://medium.com/@zack0x01_/how-i-make-6-000-with-jwt-manipulation-on-web3-crypto-application-1e659c927647?source=rss------bug_bounty_writeup-5)
 - [Escalation of Windows Privilege: Kernel Exploit.](https://infosecwriteups.com/escalation-of-windows-privilege-kernel-exploit-bddda00c1ab2?source=rss----7b722bfd1b8d---4)
 - [Mastering ARP Cache Poisoning with Scapy: A Step-by-Step Tutorial](https://infosecwriteups.com/mastering-arp-cache-poisoning-with-scapy-a-step-by-step-tutorial-bff926773f0a?source=rss----7b722bfd1b8d---4)
 - [Mastering Samba &lpar;SMB&rpar; Exploitation: A Comprehensive Pentesting Guide](https://infosecwriteups.com/mastering-samba-exploitation-a-comprehensive-pentesting-guide-016ae61c1031?source=rss----7b722bfd1b8d---4)
@@ -931,7 +932,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Web Cache Poisoing leads to ATO &lpar;Account takeover&rpar;](https://infosecwriteups.com/web-cache-poisoing-leads-to-ato-account-takeover-2522b4583a97?source=rss------bug_bounty_writeup-5)
 - [GitHub Recon- For Finding Sensitive Information](https://medium.com/@pawan_rawat/github-recon-for-finding-sensitive-information-aecdeb9c9dce?source=rss------bug_bounty_writeup-5)
 - [How an Improper Access Control Vulnerability Led to Account Theft in One Click](https://www.hackerone.com/vulnerability-management/improper-access-control-deep-dive)
-- [Tow Senario To Pre Account TakeOver](https://medium.com/@Hackoura001/tow-senario-to-pre-account-takeover-e437b772b0e2?source=rss------bug_bounty_writeup-5)
 - [How to Use AI Prompting for Security Vulnerabilities](https://www.hackerone.com/ai/how-to-use-ai-prompting)
 - [Recap: Elite Pentesters Tell All in a Live Q&amp;A](https://www.hackerone.com/penetration-testing/pentester-ama-recap)
 - [How to Find Mistakes Earlier and Save Money With Code Security Audit](https://www.hackerone.com/vulnerability-management/find-mistakes-save-money-code-security-audit)
