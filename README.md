@@ -908,6 +908,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [A Beginner’s Guide to DNS Reconnaissance &lpar;Part 1&rpar;](https://infosecwriteups.com/a-beginners-guide-to-dns-reconnaissance-part-1-6cd9f502db7d?source=rss----7b722bfd1b8d---4)
 - [Simple Tips for Bug Bounty Beginners: Finding API Key Leakage Vulnerabilities](https://medium.com/@anishnarayan/simple-tips-for-bug-bounty-beginners-finding-api-key-leakage-vulnerabilities-eddc416216ce?source=rss------bug_bounty_writeup-5)
 - [Missed IWCON 2023? Catch Recorded Expert Sessions Here &lpar;Pt. 4&rpar;](https://infosecwriteups.com/missed-iwcon-2023-catch-recorded-expert-sessions-here-pt-4-f15ea9dfa26c?source=rss----7b722bfd1b8d---4)
 - [Hack Stories: Hacking Hackers EP:2](https://infosecwriteups.com/hack-stories-hacking-hackers-ep-2-b4d2e628781e?source=rss----7b722bfd1b8d---4)
@@ -919,7 +920,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [The Domino Effect: Strategies to Prevent Supply Chain Cyber Disruptions](https://infosecwriteups.com/the-domino-effect-strategies-to-prevent-supply-chain-cyber-disruptions-2c6143e20703?source=rss----7b722bfd1b8d---4)
 - [How to Create a Local Kubernetes Cluster: Terraform and Ansible](https://infosecwriteups.com/how-to-create-a-local-kubernetes-cluster-terraform-and-ansible-44fa9d77a56b?source=rss----7b722bfd1b8d---4)
 - [From Encryption to Decryption: LockBit Ransomware’s Shutdown](https://infosecwriteups.com/from-encryption-to-decryption-lockbit-ransomwares-shutdown-a1a8e0453d9c?source=rss----7b722bfd1b8d---4)
-- [A Comprehensive Guide on GraphQL Testing](https://infosecwriteups.com/a-comprehensive-guide-on-graphql-testing-35917bd44807?source=rss----7b722bfd1b8d---4)
 - [Hai: The AI Assistant for Vulnerability Intelligence](https://www.hackerone.com/ai/hai-ai-assistant-vulnerability-intelligence)
 - [Snap&#39;s Safety Efforts With AI Red Teaming From HackerOne](https://www.hackerone.com/ai/snap-ai-red-teaming)
 - [The Risk of AI Voice Cloning: Q&amp;A With an AI Hacker](https://www.hackerone.com/ai/voice-cloning-qa)
