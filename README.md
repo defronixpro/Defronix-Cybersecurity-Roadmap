@@ -908,6 +908,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Simple Tips for Bug Bounty Beginners: Finding API Key Leakage Vulnerabilities](https://medium.com/@anishnarayan/simple-tips-for-bug-bounty-beginners-finding-api-key-leakage-vulnerabilities-eddc416216ce?source=rss------bug_bounty_writeup-5)
 - [Missed IWCON 2023? Catch Recorded Expert Sessions Here &lpar;Pt. 4&rpar;](https://infosecwriteups.com/missed-iwcon-2023-catch-recorded-expert-sessions-here-pt-4-f15ea9dfa26c?source=rss----7b722bfd1b8d---4)
 - [Hack Stories: Hacking Hackers EP:2](https://infosecwriteups.com/hack-stories-hacking-hackers-ep-2-b4d2e628781e?source=rss----7b722bfd1b8d---4)
 - [how i make 6,000$ with jwt manipulation on web3 crypto application ?](https://medium.com/@zack0x01_/how-i-make-6-000-with-jwt-manipulation-on-web3-crypto-application-1e659c927647?source=rss------bug_bounty_writeup-5)
@@ -929,7 +930,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [$500 Bounty on Reflected XSS on Shopify](https://medium.com/bug-bounty-writeups/500-bounty-on-reflected-xss-on-shopify-083925879077?source=rss------bug_bounty_writeup-5)
 - [Decoding the Characteristics of Modern Pentesting: Speed](https://www.hackerone.com/penetration-testing/modern-pentesting-speed)
 - [Web Cache Poisoing leads to ATO &lpar;Account takeover&rpar;](https://infosecwriteups.com/web-cache-poisoing-leads-to-ato-account-takeover-2522b4583a97?source=rss------bug_bounty_writeup-5)
-- [GitHub Recon- For Finding Sensitive Information](https://medium.com/@pawan_rawat/github-recon-for-finding-sensitive-information-aecdeb9c9dce?source=rss------bug_bounty_writeup-5)
 - [How an Improper Access Control Vulnerability Led to Account Theft in One Click](https://www.hackerone.com/vulnerability-management/improper-access-control-deep-dive)
 - [How to Use AI Prompting for Security Vulnerabilities](https://www.hackerone.com/ai/how-to-use-ai-prompting)
 - [Recap: Elite Pentesters Tell All in a Live Q&amp;A](https://www.hackerone.com/penetration-testing/pentester-ama-recap)
