@@ -914,14 +914,13 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Mastering ARP Cache Poisoning with Scapy: A Step-by-Step Tutorial](https://infosecwriteups.com/mastering-arp-cache-poisoning-with-scapy-a-step-by-step-tutorial-bff926773f0a?source=rss----7b722bfd1b8d---4)
 - [Mastering Samba &lpar;SMB&rpar; Exploitation: A Comprehensive Pentesting Guide](https://infosecwriteups.com/mastering-samba-exploitation-a-comprehensive-pentesting-guide-016ae61c1031?source=rss----7b722bfd1b8d---4)
 - [Spoofing User-Agents: A neat trick to outsmart Microsoft](https://infosecwriteups.com/spoofing-user-agents-a-neat-trick-to-outsmart-microsoft-934cdce1959c?source=rss----7b722bfd1b8d---4)
-- [I took over 10 Million Accounts, Easy API Hacking](https://infosecwriteups.com/i-took-over-10-million-accounts-easy-api-hacking-89a7092abe40?source=rss----7b722bfd1b8d---4)
 - [The Domino Effect: Strategies to Prevent Supply Chain Cyber Disruptions](https://infosecwriteups.com/the-domino-effect-strategies-to-prevent-supply-chain-cyber-disruptions-2c6143e20703?source=rss----7b722bfd1b8d---4)
 - [How to Create a Local Kubernetes Cluster: Terraform and Ansible](https://infosecwriteups.com/how-to-create-a-local-kubernetes-cluster-terraform-and-ansible-44fa9d77a56b?source=rss----7b722bfd1b8d---4)
 - [From Encryption to Decryption: LockBit Ransomware’s Shutdown](https://infosecwriteups.com/from-encryption-to-decryption-lockbit-ransomwares-shutdown-a1a8e0453d9c?source=rss----7b722bfd1b8d---4)
 - [A Comprehensive Guide on GraphQL Testing](https://infosecwriteups.com/a-comprehensive-guide-on-graphql-testing-35917bd44807?source=rss----7b722bfd1b8d---4)
+- [Android Hacking: Exploiting Broadcast Receiver](https://infosecwriteups.com/android-hacking-exploiting-broadcast-receiver-a0bec16ecc08?source=rss----7b722bfd1b8d---4)
 - [Hai: The AI Assistant for Vulnerability Intelligence](https://www.hackerone.com/ai/hai-ai-assistant-vulnerability-intelligence)
 - [Snap&#39;s Safety Efforts With AI Red Teaming From HackerOne](https://www.hackerone.com/ai/snap-ai-red-teaming)
-- [I took over 10 Million Accounts, Easy API Hacking](https://infosecwriteups.com/i-took-over-10-million-accounts-easy-api-hacking-89a7092abe40?source=rss------bug_bounty_writeup-5)
 - [The Risk of AI Voice Cloning: Q&amp;A With an AI Hacker](https://www.hackerone.com/ai/voice-cloning-qa)
 - [How Automation Detected Default Admin Credential Worth $500](https://vijetareigns.medium.com/how-automation-detected-default-admin-credential-worth-500-d6c09719d307?source=rss------bug_bounty_writeup-5)
 - [How i was able to hack over 10 million websites using BAC : broken access controle .](https://medium.com/@zack0x01_/how-i-was-able-to-hack-over-10-million-websites-using-bac-broken-access-controle-ce6b704e3dcb?source=rss------bug_bounty_writeup-5)
@@ -958,6 +957,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [2024 Budget Planning: Preparing For U.S. Mandates to Implement Vulnerability Disclosure Policies &lpar;VDPs&rpar;](https://www.hackerone.com/security-compliance/budgeting-for-vdps)
 - [What Is the Difference Between Pentesting and Bug Bounty?](https://www.hackerone.com/penetration-testing/what-difference-between-pentesting-and-bug-bounty)
 - [An Emerging Playbook for AI Red Teaming With HackerOne](https://www.hackerone.com/thought-leadership/ai-safety-red-teaming)
+- [5 Common Mistakes When Running a Bug Bounty Program](https://www.hackerone.com/vulnerability-management/common-bug-bounty-program-mistakes)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
