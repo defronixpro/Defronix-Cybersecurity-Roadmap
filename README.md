@@ -908,8 +908,18 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [A Beginner’s Guide to DNS Reconnaissance &lpar;Part 1&rpar;](https://infosecwriteups.com/a-beginners-guide-to-dns-reconnaissance-part-1-6cd9f502db7d?source=rss----7b722bfd1b8d---4)
 - [Simple Tips for Bug Bounty Beginners: Finding API Key Leakage Vulnerabilities](https://medium.com/@anishnarayan/simple-tips-for-bug-bounty-beginners-finding-api-key-leakage-vulnerabilities-eddc416216ce?source=rss------bug_bounty_writeup-5)
+- [Missed IWCON 2023? Catch Recorded Expert Sessions Here &lpar;Pt. 4&rpar;](https://infosecwriteups.com/missed-iwcon-2023-catch-recorded-expert-sessions-here-pt-4-f15ea9dfa26c?source=rss----7b722bfd1b8d---4)
+- [Hack Stories: Hacking Hackers EP:2](https://infosecwriteups.com/hack-stories-hacking-hackers-ep-2-b4d2e628781e?source=rss----7b722bfd1b8d---4)
 - [how i make 6,000$ with jwt manipulation on web3 crypto application ?](https://medium.com/@zack0x01_/how-i-make-6-000-with-jwt-manipulation-on-web3-crypto-application-1e659c927647?source=rss------bug_bounty_writeup-5)
+- [Escalation of Windows Privilege: Kernel Exploit.](https://infosecwriteups.com/escalation-of-windows-privilege-kernel-exploit-bddda00c1ab2?source=rss----7b722bfd1b8d---4)
+- [Mastering ARP Cache Poisoning with Scapy: A Step-by-Step Tutorial](https://infosecwriteups.com/mastering-arp-cache-poisoning-with-scapy-a-step-by-step-tutorial-bff926773f0a?source=rss----7b722bfd1b8d---4)
+- [Mastering Samba &lpar;SMB&rpar; Exploitation: A Comprehensive Pentesting Guide](https://infosecwriteups.com/mastering-samba-exploitation-a-comprehensive-pentesting-guide-016ae61c1031?source=rss----7b722bfd1b8d---4)
+- [Spoofing User-Agents: A neat trick to outsmart Microsoft](https://infosecwriteups.com/spoofing-user-agents-a-neat-trick-to-outsmart-microsoft-934cdce1959c?source=rss----7b722bfd1b8d---4)
+- [The Domino Effect: Strategies to Prevent Supply Chain Cyber Disruptions](https://infosecwriteups.com/the-domino-effect-strategies-to-prevent-supply-chain-cyber-disruptions-2c6143e20703?source=rss----7b722bfd1b8d---4)
+- [How to Create a Local Kubernetes Cluster: Terraform and Ansible](https://infosecwriteups.com/how-to-create-a-local-kubernetes-cluster-terraform-and-ansible-44fa9d77a56b?source=rss----7b722bfd1b8d---4)
+- [From Encryption to Decryption: LockBit Ransomware’s Shutdown](https://infosecwriteups.com/from-encryption-to-decryption-lockbit-ransomwares-shutdown-a1a8e0453d9c?source=rss----7b722bfd1b8d---4)
 - [Hai: The AI Assistant for Vulnerability Intelligence](https://www.hackerone.com/ai/hai-ai-assistant-vulnerability-intelligence)
 - [Snap&#39;s Safety Efforts With AI Red Teaming From HackerOne](https://www.hackerone.com/ai/snap-ai-red-teaming)
 - [The Risk of AI Voice Cloning: Q&amp;A With an AI Hacker](https://www.hackerone.com/ai/voice-cloning-qa)
@@ -948,16 +958,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [What Is the Difference Between Pentesting and Bug Bounty?](https://www.hackerone.com/penetration-testing/what-difference-between-pentesting-and-bug-bounty)
 - [An Emerging Playbook for AI Red Teaming With HackerOne](https://www.hackerone.com/thought-leadership/ai-safety-red-teaming)
 - [5 Common Mistakes When Running a Bug Bounty Program](https://www.hackerone.com/vulnerability-management/common-bug-bounty-program-mistakes)
-- [Salesforce Teams Up With All-Star Hackers at H1-4420](https://www.hackerone.com/lhe/salesforce-h1-4420)
-- [Responsible AI at HackerOne](https://www.hackerone.com/thought-leadership/responsible-ai)
-- [Elevate CVE Remediation with EPSS, Now Integrated in HackerOne Hacktivity](https://www.hackerone.com/vulnerability-management/hacktivity-epss-integration)
-- [Kicking Off the Final Round of the 2023 Ambassador World Cup](https://www.hackerone.com/lhe/awc-final-round-2023)
-- [Meet HackerOne’s Brand Ambassadors That Break the Hacker Stereotype](https://www.hackerone.com/ethical-hacker/young-hackers-for-good)
-- [How Ethical Hackers Are Securing Elections](https://www.hackerone.com/ethical-hacker/election-security)
-- [What Do New Cybersecurity Rules Mean For CISOs?](https://www.hackerone.com/security-compliance/new-cybersecurity-rules-for-cisos)
-- [About the HackerOne Engineering Mentoring Program](https://www.hackerone.com/culture-and-talent/engineer-mentoring)
-- [What is the HackerOnesie?](https://www.hackerone.com/culture-and-talent/hackeronesie)
-- [Women in Sales: The Importance of a Diverse Team](https://www.hackerone.com/culture-and-talent/women-in-sales)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
