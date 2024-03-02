@@ -908,6 +908,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [3 Mistakes Every Beginner Ethical Hacker Makes](https://infosecwriteups.com/3-mistakes-every-beginner-ethical-hacker-makes-f86fa5ee96c9?source=rss----7b722bfd1b8d---4)
 - [10 DNS Enumeration Tips &amp; Tricks](https://infosecwriteups.com/10-dns-enumeration-tips-tricks-f33c94e32d8e?source=rss----7b722bfd1b8d---4)
 - [A Beginner’s Guide to DNS Reconnaissance &lpar;Part 1&rpar;](https://infosecwriteups.com/a-beginners-guide-to-dns-reconnaissance-part-1-6cd9f502db7d?source=rss----7b722bfd1b8d---4)
 - [Simple Tips for Bug Bounty Beginners: Finding API Key Leakage Vulnerabilities](https://medium.com/@anishnarayan/simple-tips-for-bug-bounty-beginners-finding-api-key-leakage-vulnerabilities-eddc416216ce?source=rss------bug_bounty_writeup-5)
@@ -919,7 +920,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Mastering Samba &lpar;SMB&rpar; Exploitation: A Comprehensive Pentesting Guide](https://infosecwriteups.com/mastering-samba-exploitation-a-comprehensive-pentesting-guide-016ae61c1031?source=rss----7b722bfd1b8d---4)
 - [Spoofing User-Agents: A neat trick to outsmart Microsoft](https://infosecwriteups.com/spoofing-user-agents-a-neat-trick-to-outsmart-microsoft-934cdce1959c?source=rss----7b722bfd1b8d---4)
 - [The Domino Effect: Strategies to Prevent Supply Chain Cyber Disruptions](https://infosecwriteups.com/the-domino-effect-strategies-to-prevent-supply-chain-cyber-disruptions-2c6143e20703?source=rss----7b722bfd1b8d---4)
-- [How to Create a Local Kubernetes Cluster: Terraform and Ansible](https://infosecwriteups.com/how-to-create-a-local-kubernetes-cluster-terraform-and-ansible-44fa9d77a56b?source=rss----7b722bfd1b8d---4)
 - [Hai: The AI Assistant for Vulnerability Intelligence](https://www.hackerone.com/ai/hai-ai-assistant-vulnerability-intelligence)
 - [Snap&#39;s Safety Efforts With AI Red Teaming From HackerOne](https://www.hackerone.com/ai/snap-ai-red-teaming)
 - [The Risk of AI Voice Cloning: Q&amp;A With an AI Hacker](https://www.hackerone.com/ai/voice-cloning-qa)
