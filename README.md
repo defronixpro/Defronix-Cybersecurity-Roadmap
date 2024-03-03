@@ -908,6 +908,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Missed IWCON 2023? Catch Recorded Expert Sessions Here &lpar;Pt. 5&rpar;](https://infosecwriteups.com/missed-iwcon-2023-catch-recorded-expert-sessions-here-pt-5-927ce9dab342?source=rss----7b722bfd1b8d---4)
 - [3 Mistakes Every Beginner Ethical Hacker Makes](https://infosecwriteups.com/3-mistakes-every-beginner-ethical-hacker-makes-f86fa5ee96c9?source=rss----7b722bfd1b8d---4)
 - [10 DNS Enumeration Tips &amp; Tricks](https://infosecwriteups.com/10-dns-enumeration-tips-tricks-f33c94e32d8e?source=rss----7b722bfd1b8d---4)
 - [A Beginner’s Guide to DNS Reconnaissance &lpar;Part 1&rpar;](https://infosecwriteups.com/a-beginners-guide-to-dns-reconnaissance-part-1-6cd9f502db7d?source=rss----7b722bfd1b8d---4)
@@ -919,7 +920,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Mastering ARP Cache Poisoning with Scapy: A Step-by-Step Tutorial](https://infosecwriteups.com/mastering-arp-cache-poisoning-with-scapy-a-step-by-step-tutorial-bff926773f0a?source=rss----7b722bfd1b8d---4)
 - [Mastering Samba &lpar;SMB&rpar; Exploitation: A Comprehensive Pentesting Guide](https://infosecwriteups.com/mastering-samba-exploitation-a-comprehensive-pentesting-guide-016ae61c1031?source=rss----7b722bfd1b8d---4)
 - [Spoofing User-Agents: A neat trick to outsmart Microsoft](https://infosecwriteups.com/spoofing-user-agents-a-neat-trick-to-outsmart-microsoft-934cdce1959c?source=rss----7b722bfd1b8d---4)
-- [The Domino Effect: Strategies to Prevent Supply Chain Cyber Disruptions](https://infosecwriteups.com/the-domino-effect-strategies-to-prevent-supply-chain-cyber-disruptions-2c6143e20703?source=rss----7b722bfd1b8d---4)
 - [Hai: The AI Assistant for Vulnerability Intelligence](https://www.hackerone.com/ai/hai-ai-assistant-vulnerability-intelligence)
 - [Snap&#39;s Safety Efforts With AI Red Teaming From HackerOne](https://www.hackerone.com/ai/snap-ai-red-teaming)
 - [The Risk of AI Voice Cloning: Q&amp;A With an AI Hacker](https://www.hackerone.com/ai/voice-cloning-qa)
