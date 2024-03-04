@@ -908,6 +908,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [OTP Bypass Via Response Manipulation](https://medium.com/@maratherao93/otp-bypass-via-response-manipulation-e55352c5c419?source=rss------bug_bounty_writeup-5)
 - [Missed IWCON 2023? Catch Recorded Expert Sessions Here &lpar;Pt. 5&rpar;](https://infosecwriteups.com/missed-iwcon-2023-catch-recorded-expert-sessions-here-pt-5-927ce9dab342?source=rss----7b722bfd1b8d---4)
 - [3 Mistakes Every Beginner Ethical Hacker Makes](https://infosecwriteups.com/3-mistakes-every-beginner-ethical-hacker-makes-f86fa5ee96c9?source=rss----7b722bfd1b8d---4)
 - [10 DNS Enumeration Tips &amp; Tricks](https://infosecwriteups.com/10-dns-enumeration-tips-tricks-f33c94e32d8e?source=rss----7b722bfd1b8d---4)
@@ -957,7 +958,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [2024 Budget Planning: Preparing For U.S. Mandates to Implement Vulnerability Disclosure Policies &lpar;VDPs&rpar;](https://www.hackerone.com/security-compliance/budgeting-for-vdps)
 - [What Is the Difference Between Pentesting and Bug Bounty?](https://www.hackerone.com/penetration-testing/what-difference-between-pentesting-and-bug-bounty)
 - [An Emerging Playbook for AI Red Teaming With HackerOne](https://www.hackerone.com/thought-leadership/ai-safety-red-teaming)
-- [5 Common Mistakes When Running a Bug Bounty Program](https://www.hackerone.com/vulnerability-management/common-bug-bounty-program-mistakes)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
