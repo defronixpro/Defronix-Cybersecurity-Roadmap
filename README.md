@@ -918,7 +918,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [GTFOBins and LOLBAS: Mastering Binary Exploitation for Unix and Windows](https://infosecwriteups.com/gtfobins-and-lolbas-mastering-binary-exploitation-in-ethical-hacking-for-unix-and-windows-30dd86e52370?source=rss----7b722bfd1b8d---4)
 - [cybers11.3 Lab: Blind XXE with out-of-band interaction | 2024](https://infosecwriteups.com/cybers11-3-lab-blind-xxe-with-out-of-band-interaction-2024-9f2f5caf98ad?source=rss----7b722bfd1b8d---4)
 - [Setting Up Your Azure OpenAI BYOD: A Step-by-Step Guide](https://infosecwriteups.com/setting-up-your-azure-openai-byod-a-step-by-step-guide-cb016d0808f9?source=rss----7b722bfd1b8d---4)
-- [OTP Bypass Via Response Manipulation](https://medium.com/@maratherao93/otp-bypass-via-response-manipulation-e55352c5c419?source=rss------bug_bounty_writeup-5)
+- [OTP Bypass Via Response Manipulation](https://maratherao93.medium.com/otp-bypass-via-response-manipulation-e55352c5c419?source=rss------bug_bounty_writeup-5)
 - [Simple Tips for Bug Bounty Beginners: Finding API Key Leakage Vulnerabilities](https://medium.com/@anishnarayan/simple-tips-for-bug-bounty-beginners-finding-api-key-leakage-vulnerabilities-eddc416216ce?source=rss------bug_bounty_writeup-5)
 - [how i make 6,000$ with jwt manipulation on web3 crypto application ?](https://medium.com/@zack0x01_/how-i-make-6-000-with-jwt-manipulation-on-web3-crypto-application-1e659c927647?source=rss------bug_bounty_writeup-5)
 - [Hai: The AI Assistant for Vulnerability Intelligence](https://www.hackerone.com/ai/hai-ai-assistant-vulnerability-intelligence)
