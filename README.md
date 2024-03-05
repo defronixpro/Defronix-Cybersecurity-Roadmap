@@ -908,6 +908,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I Found Multiple XSS Vulnerabilities Using Unknown Techniques](https://infosecwriteups.com/how-i-found-multiple-xss-vulnerabilities-using-unknown-techniques-74f8e705ea0d?source=rss----7b722bfd1b8d---4)
 - [10.3 Lab: SSRF with blacklist-based input filter | 2024](https://infosecwriteups.com/10-3-lab-ssrf-with-blacklist-based-input-filter-2024-9a7972ab7e8f?source=rss----7b722bfd1b8d---4)
 - [Circumventing Common SSRF Defenses: A Deep Dive into Strategies and Techniques](https://infosecwriteups.com/circumventing-common-ssrf-defenses-a-deep-dive-into-strategies-and-techniques-c9607f1bb61e?source=rss----7b722bfd1b8d---4)
 - [Mastering Wireshark: A Beginner’s Guide for Networks Analysis](https://infosecwriteups.com/mastering-wireshark-a-comprehensive-guide-for-networks-analysis-6b2b8d5c1812?source=rss----7b722bfd1b8d---4)
@@ -917,7 +918,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Mastering Cross-Site Scripting &lpar;XSS&rpar;: Risks, Detection, and Prevention — Beginner’s Guide](https://infosecwriteups.com/mastering-cross-site-scripting-xss-risks-detection-and-prevention-3cee199d2fff?source=rss----7b722bfd1b8d---4)
 - [GTFOBins and LOLBAS: Mastering Binary Exploitation for Unix and Windows](https://infosecwriteups.com/gtfobins-and-lolbas-mastering-binary-exploitation-in-ethical-hacking-for-unix-and-windows-30dd86e52370?source=rss----7b722bfd1b8d---4)
 - [cybers11.3 Lab: Blind XXE with out-of-band interaction | 2024](https://infosecwriteups.com/cybers11-3-lab-blind-xxe-with-out-of-band-interaction-2024-9f2f5caf98ad?source=rss----7b722bfd1b8d---4)
-- [Setting Up Your Azure OpenAI BYOD: A Step-by-Step Guide](https://infosecwriteups.com/setting-up-your-azure-openai-byod-a-step-by-step-guide-cb016d0808f9?source=rss----7b722bfd1b8d---4)
 - [OTP Bypass Via Response Manipulation](https://maratherao93.medium.com/otp-bypass-via-response-manipulation-e55352c5c419?source=rss------bug_bounty_writeup-5)
 - [Simple Tips for Bug Bounty Beginners: Finding API Key Leakage Vulnerabilities](https://medium.com/@anishnarayan/simple-tips-for-bug-bounty-beginners-finding-api-key-leakage-vulnerabilities-eddc416216ce?source=rss------bug_bounty_writeup-5)
 - [how i make 6,000$ with jwt manipulation on web3 crypto application ?](https://medium.com/@zack0x01_/how-i-make-6-000-with-jwt-manipulation-on-web3-crypto-application-1e659c927647?source=rss------bug_bounty_writeup-5)
