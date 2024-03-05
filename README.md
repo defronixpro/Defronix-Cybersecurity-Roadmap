@@ -908,6 +908,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How can i manipulate price of any product?](https://medium.com/@midoeljoker30/how-can-i-manipulate-price-of-any-product-0da047299cea?source=rss------bug_bounty_writeup-5)
 - [How I Found Multiple XSS Vulnerabilities Using Unknown Techniques](https://infosecwriteups.com/how-i-found-multiple-xss-vulnerabilities-using-unknown-techniques-74f8e705ea0d?source=rss----7b722bfd1b8d---4)
 - [10.3 Lab: SSRF with blacklist-based input filter | 2024](https://infosecwriteups.com/10-3-lab-ssrf-with-blacklist-based-input-filter-2024-9a7972ab7e8f?source=rss----7b722bfd1b8d---4)
 - [Circumventing Common SSRF Defenses: A Deep Dive into Strategies and Techniques](https://infosecwriteups.com/circumventing-common-ssrf-defenses-a-deep-dive-into-strategies-and-techniques-c9607f1bb61e?source=rss----7b722bfd1b8d---4)
@@ -930,7 +931,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [IDOR: The Simple Switch](https://medium.com/@ganga_/idor-the-simple-switch-19d881358552?source=rss------bug_bounty_writeup-5)
 - [$500 Bounty on Reflected XSS on Shopify](https://medium.com/bug-bounty-writeups/500-bounty-on-reflected-xss-on-shopify-083925879077?source=rss------bug_bounty_writeup-5)
 - [Decoding the Characteristics of Modern Pentesting: Speed](https://www.hackerone.com/penetration-testing/modern-pentesting-speed)
-- [Web Cache Poisoing leads to ATO &lpar;Account takeover&rpar;](https://infosecwriteups.com/web-cache-poisoing-leads-to-ato-account-takeover-2522b4583a97?source=rss------bug_bounty_writeup-5)
 - [How an Improper Access Control Vulnerability Led to Account Theft in One Click](https://www.hackerone.com/vulnerability-management/improper-access-control-deep-dive)
 - [How to Use AI Prompting for Security Vulnerabilities](https://www.hackerone.com/ai/how-to-use-ai-prompting)
 - [Recap: Elite Pentesters Tell All in a Live Q&amp;A](https://www.hackerone.com/penetration-testing/pentester-ama-recap)
