@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Cross-Window-Communication Misconfig and Is jQuery Really Vulnerable?](https://mouhannadalhmedi.medium.com/cross-window-communication-misconfig-and-is-jquery-really-vulnerable-ec8f709f6dc4?source=rss------bug_bounty_writeup-5)
 - [SANS Offensive CTF - Taskist:: 01–04](https://infosecwriteups.com/sans-offensive-ctf-taskist-01-04-56452aa43905?source=rss----7b722bfd1b8d---4)
 - [How can i manipulate price of any product?](https://medium.com/@midoeljoker30/how-can-i-manipulate-price-of-any-product-0da047299cea?source=rss------bug_bounty_writeup-5)
 - [How I Found Multiple XSS Vulnerabilities Using Unknown Techniques](https://infosecwriteups.com/how-i-found-multiple-xss-vulnerabilities-using-unknown-techniques-74f8e705ea0d?source=rss----7b722bfd1b8d---4)
@@ -22,7 +23,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How i was able to hack over 10 million websites using BAC : broken access controle .](https://medium.com/@zack0x01_/how-i-was-able-to-hack-over-10-million-websites-using-bac-broken-access-controle-ce6b704e3dcb?source=rss------bug_bounty_writeup-5)
 - [Disclose assigned apps of any facebook user](https://gtm0x01.medium.com/disclose-assigned-apps-of-any-facebook-user-e78bcff1de71?source=rss------bug_bounty_writeup-5)
 - [IDOR: The Simple Switch](https://medium.com/@ganga_/idor-the-simple-switch-19d881358552?source=rss------bug_bounty_writeup-5)
-- [$500 Bounty on Reflected XSS on Shopify](https://medium.com/bug-bounty-writeups/500-bounty-on-reflected-xss-on-shopify-083925879077?source=rss------bug_bounty_writeup-5)
 - [Decoding the Characteristics of Modern Pentesting: Speed](https://www.hackerone.com/penetration-testing/modern-pentesting-speed)
 - [How an Improper Access Control Vulnerability Led to Account Theft in One Click](https://www.hackerone.com/vulnerability-management/improper-access-control-deep-dive)
 - [How to Use AI Prompting for Security Vulnerabilities](https://www.hackerone.com/ai/how-to-use-ai-prompting)
