@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [SANS Offensive CTF - Taskist:: 01–04](https://infosecwriteups.com/sans-offensive-ctf-taskist-01-04-56452aa43905?source=rss----7b722bfd1b8d---4)
 - [How can i manipulate price of any product?](https://medium.com/@midoeljoker30/how-can-i-manipulate-price-of-any-product-0da047299cea?source=rss------bug_bounty_writeup-5)
 - [How I Found Multiple XSS Vulnerabilities Using Unknown Techniques](https://infosecwriteups.com/how-i-found-multiple-xss-vulnerabilities-using-unknown-techniques-74f8e705ea0d?source=rss----7b722bfd1b8d---4)
 - [10.3 Lab: SSRF with blacklist-based input filter | 2024](https://infosecwriteups.com/10-3-lab-ssrf-with-blacklist-based-input-filter-2024-9a7972ab7e8f?source=rss----7b722bfd1b8d---4)
@@ -11,7 +12,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Mastering CSRF: A Beginner’s Guide to Cross-Site Request Forgery](https://infosecwriteups.com/mastering-csrf-a-comprehensive-guide-to-cross-site-request-forgery-a380aca0eab0?source=rss----7b722bfd1b8d---4)
 - [Mastering Cross-Site Scripting &lpar;XSS&rpar;: Risks, Detection, and Prevention — Beginner’s Guide](https://infosecwriteups.com/mastering-cross-site-scripting-xss-risks-detection-and-prevention-3cee199d2fff?source=rss----7b722bfd1b8d---4)
 - [GTFOBins and LOLBAS: Mastering Binary Exploitation for Unix and Windows](https://infosecwriteups.com/gtfobins-and-lolbas-mastering-binary-exploitation-in-ethical-hacking-for-unix-and-windows-30dd86e52370?source=rss----7b722bfd1b8d---4)
-- [cybers11.3 Lab: Blind XXE with out-of-band interaction | 2024](https://infosecwriteups.com/cybers11-3-lab-blind-xxe-with-out-of-band-interaction-2024-9f2f5caf98ad?source=rss----7b722bfd1b8d---4)
 - [OTP Bypass Via Response Manipulation](https://maratherao93.medium.com/otp-bypass-via-response-manipulation-e55352c5c419?source=rss------bug_bounty_writeup-5)
 - [Simple Tips for Bug Bounty Beginners: Finding API Key Leakage Vulnerabilities](https://medium.com/@anishnarayan/simple-tips-for-bug-bounty-beginners-finding-api-key-leakage-vulnerabilities-eddc416216ce?source=rss------bug_bounty_writeup-5)
 - [how i make 6,000$ with jwt manipulation on web3 crypto application ?](https://medium.com/@zack0x01_/how-i-make-6-000-with-jwt-manipulation-on-web3-crypto-application-1e659c927647?source=rss------bug_bounty_writeup-5)
