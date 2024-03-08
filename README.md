@@ -909,7 +909,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
 - [Fixing Facebook: A Privacy Issue Ignored?](https://medium.com/@mynkpdr/fixing-facebook-a-privacy-issue-ignored-6c048dacc824?source=rss------bug_bounty_writeup-5)
-- [Cross-Window-Communication Misconfig and Is jQuery Really Vulnerable?](https://mouhannadalhmedi.medium.com/cross-window-communication-misconfig-and-is-jquery-really-vulnerable-ec8f709f6dc4?source=rss------bug_bounty_writeup-5)
+- [PostMessage , Cross-Window-Communication Misconfig &lpar; from out-of-scope to P2 with 5x reward &rpar;](https://mouhannadalhmedi.medium.com/cross-window-communication-misconfig-and-is-jquery-really-vulnerable-ec8f709f6dc4?source=rss------bug_bounty_writeup-5)
 - [SANS Offensive CTF - Taskist:: 01–04](https://infosecwriteups.com/sans-offensive-ctf-taskist-01-04-56452aa43905?source=rss----7b722bfd1b8d---4)
 - [How can i manipulate price of any product?](https://medium.com/@midoeljoker30/how-can-i-manipulate-price-of-any-product-0da047299cea?source=rss------bug_bounty_writeup-5)
 - [How I Found Multiple XSS Vulnerabilities Using Unknown Techniques](https://infosecwriteups.com/how-i-found-multiple-xss-vulnerabilities-using-unknown-techniques-74f8e705ea0d?source=rss----7b722bfd1b8d---4)
