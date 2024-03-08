@@ -908,6 +908,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [The White House Should Prioritize Cybersecurity in its Budget](https://www.hackerone.com/public-policy/white-house-budget-cybersecurity)
 - [Fixing Facebook: A Privacy Issue Ignored?](https://medium.com/@mynkpdr/fixing-facebook-a-privacy-issue-ignored-6c048dacc824?source=rss------bug_bounty_writeup-5)
 - [PostMessage , Cross-Window-Communication Misconfig &lpar; from out-of-scope to P2 with 5x reward &rpar;](https://mouhannadalhmedi.medium.com/cross-window-communication-misconfig-and-is-jquery-really-vulnerable-ec8f709f6dc4?source=rss------bug_bounty_writeup-5)
 - [SANS Offensive CTF - Taskist:: 01–04](https://infosecwriteups.com/sans-offensive-ctf-taskist-01-04-56452aa43905?source=rss----7b722bfd1b8d---4)
@@ -957,7 +958,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Vulnerability Prioritization: Severity Does Not Mean Priority](https://www.hackerone.com/vulnerability-management/severity-does-not-mean-priority)
 - [2024 Budget Planning: Preparing For U.S. Mandates to Implement Vulnerability Disclosure Policies &lpar;VDPs&rpar;](https://www.hackerone.com/security-compliance/budgeting-for-vdps)
 - [What Is the Difference Between Pentesting and Bug Bounty?](https://www.hackerone.com/penetration-testing/what-difference-between-pentesting-and-bug-bounty)
-- [An Emerging Playbook for AI Red Teaming With HackerOne](https://www.hackerone.com/thought-leadership/ai-safety-red-teaming)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
