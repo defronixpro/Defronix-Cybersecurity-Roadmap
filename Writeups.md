@@ -1,13 +1,8 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
-- [Bug Bounty Challenge: Day 1/15–09/03/2024](https://wallotry.medium.com/bug-bounty-challenge-day-1-15-09-03-2024-f7b1824f2262?source=rss------bug_bounty_writeup-5)
-- [Bug Bounty Challenge: Day 0/15](https://wallotry.medium.com/bug-bounty-challenge-day-0-15-8e88c5b4cc6b?source=rss------bug_bounty_writeup-5)
 - [The White House Should Prioritize Cybersecurity in its Budget](https://www.hackerone.com/public-policy/white-house-budget-cybersecurity)
-- [Fixing Facebook: A Privacy Issue Ignored?](https://medium.com/@mynkpdr/fixing-facebook-a-privacy-issue-ignored-6c048dacc824?source=rss------bug_bounty_writeup-5)
-- [PostMessage , Cross-Window-Communication Misconfig &lpar; from out-of-scope to P2 with 5x reward &rpar;](https://mouhannadalhmedi.medium.com/cross-window-communication-misconfig-and-is-jquery-really-vulnerable-ec8f709f6dc4?source=rss------bug_bounty_writeup-5)
 - [SANS Offensive CTF - Taskist:: 01–04](https://infosecwriteups.com/sans-offensive-ctf-taskist-01-04-56452aa43905?source=rss----7b722bfd1b8d---4)
-- [How can i manipulate price of any product?](https://medium.com/@midoeljoker30/how-can-i-manipulate-price-of-any-product-0da047299cea?source=rss------bug_bounty_writeup-5)
 - [How I Found Multiple XSS Vulnerabilities Using Unknown Techniques](https://infosecwriteups.com/how-i-found-multiple-xss-vulnerabilities-using-unknown-techniques-74f8e705ea0d?source=rss----7b722bfd1b8d---4)
 - [10.3 Lab: SSRF with blacklist-based input filter | 2024](https://infosecwriteups.com/10-3-lab-ssrf-with-blacklist-based-input-filter-2024-9a7972ab7e8f?source=rss----7b722bfd1b8d---4)
 - [Circumventing Common SSRF Defenses: A Deep Dive into Strategies and Techniques](https://infosecwriteups.com/circumventing-common-ssrf-defenses-a-deep-dive-into-strategies-and-techniques-c9607f1bb61e?source=rss----7b722bfd1b8d---4)
@@ -17,13 +12,9 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Mastering CSRF: A Beginner’s Guide to Cross-Site Request Forgery](https://infosecwriteups.com/mastering-csrf-a-comprehensive-guide-to-cross-site-request-forgery-a380aca0eab0?source=rss----7b722bfd1b8d---4)
 - [Mastering Cross-Site Scripting &lpar;XSS&rpar;: Risks, Detection, and Prevention — Beginner’s Guide](https://infosecwriteups.com/mastering-cross-site-scripting-xss-risks-detection-and-prevention-3cee199d2fff?source=rss----7b722bfd1b8d---4)
 - [GTFOBins and LOLBAS: Mastering Binary Exploitation for Unix and Windows](https://infosecwriteups.com/gtfobins-and-lolbas-mastering-binary-exploitation-in-ethical-hacking-for-unix-and-windows-30dd86e52370?source=rss----7b722bfd1b8d---4)
-- [OTP Bypass Via Response Manipulation](https://maratherao93.medium.com/otp-bypass-via-response-manipulation-e55352c5c419?source=rss------bug_bounty_writeup-5)
-- [Simple Tips for Bug Bounty Beginners: Finding API Key Leakage Vulnerabilities](https://medium.com/@anishnarayan/simple-tips-for-bug-bounty-beginners-finding-api-key-leakage-vulnerabilities-eddc416216ce?source=rss------bug_bounty_writeup-5)
-- [how i make 6,000$ with jwt manipulation on web3 crypto application ?](https://medium.com/@zack0x01_/how-i-make-6-000-with-jwt-manipulation-on-web3-crypto-application-1e659c927647?source=rss------bug_bounty_writeup-5)
 - [Hai: The AI Assistant for Vulnerability Intelligence](https://www.hackerone.com/ai/hai-ai-assistant-vulnerability-intelligence)
 - [Snap&#39;s Safety Efforts With AI Red Teaming From HackerOne](https://www.hackerone.com/ai/snap-ai-red-teaming)
 - [The Risk of AI Voice Cloning: Q&amp;A With an AI Hacker](https://www.hackerone.com/ai/voice-cloning-qa)
-- [How Automation Detected Default Admin Credential Worth $500](https://vijetareigns.medium.com/how-automation-detected-default-admin-credential-worth-500-d6c09719d307?source=rss------bug_bounty_writeup-5)
 - [Decoding the Characteristics of Modern Pentesting: Speed](https://www.hackerone.com/penetration-testing/modern-pentesting-speed)
 - [How an Improper Access Control Vulnerability Led to Account Theft in One Click](https://www.hackerone.com/vulnerability-management/improper-access-control-deep-dive)
 - [How to Use AI Prompting for Security Vulnerabilities](https://www.hackerone.com/ai/how-to-use-ai-prompting)
