@@ -908,6 +908,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Bug Bounty Challenge: Day 2/15–10/03/2024](https://wallotry.medium.com/bug-bounty-challenge-day-1-15-10-03-2024-b946472d71c8?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Challenge: Day 1/15–09/03/2024](https://wallotry.medium.com/bug-bounty-challenge-day-1-15-09-03-2024-f7b1824f2262?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Challenge: Day 0/15](https://wallotry.medium.com/bug-bounty-challenge-day-0-15-8e88c5b4cc6b?source=rss------bug_bounty_writeup-5)
 - [The White House Should Prioritize Cybersecurity in its Budget](https://www.hackerone.com/public-policy/white-house-budget-cybersecurity)
@@ -930,7 +931,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Hai: The AI Assistant for Vulnerability Intelligence](https://www.hackerone.com/ai/hai-ai-assistant-vulnerability-intelligence)
 - [Snap&#39;s Safety Efforts With AI Red Teaming From HackerOne](https://www.hackerone.com/ai/snap-ai-red-teaming)
 - [The Risk of AI Voice Cloning: Q&amp;A With an AI Hacker](https://www.hackerone.com/ai/voice-cloning-qa)
-- [How Automation Detected Default Admin Credential Worth $500](https://vijetareigns.medium.com/how-automation-detected-default-admin-credential-worth-500-d6c09719d307?source=rss------bug_bounty_writeup-5)
 - [Decoding the Characteristics of Modern Pentesting: Speed](https://www.hackerone.com/penetration-testing/modern-pentesting-speed)
 - [How an Improper Access Control Vulnerability Led to Account Theft in One Click](https://www.hackerone.com/vulnerability-management/improper-access-control-deep-dive)
 - [How to Use AI Prompting for Security Vulnerabilities](https://www.hackerone.com/ai/how-to-use-ai-prompting)
