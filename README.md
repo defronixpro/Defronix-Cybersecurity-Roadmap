@@ -908,6 +908,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Shift Left is Dead: A Post Mortem](https://www.hackerone.com/vulnerability-management/shift-left-is-dead)
 - [NCSC Recognises The Work Of Ethical Hackers With An Appreciation Event](https://www.hackerone.com/customer-stories/ncsc-appreciation-event)
 - [Bug Bounty Challenge: Day 3/15–11/03/2024](https://wallotry.medium.com/bug-bounty-challenge-day-3-15-11-03-2024-38993610e657?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Challenge: Day 2/15–10/03/2024](https://wallotry.medium.com/bug-bounty-challenge-day-1-15-10-03-2024-b946472d71c8?source=rss------bug_bounty_writeup-5)
@@ -957,7 +958,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How VDP Aligns With Zero Trust](https://www.hackerone.com/security-compliance/zero-trust-vdp)
 - [Fortifying Assets for SEC Compliance with HackerOne](https://www.hackerone.com/public-policy/fortify-assets-sec-compliance)
 - [Meet the Talent Strategy Team](https://www.hackerone.com/culture-and-talent/meet-talent-strategy-team)
-- [Vulnerability Prioritization: Severity Does Not Mean Priority](https://www.hackerone.com/vulnerability-management/severity-does-not-mean-priority)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
