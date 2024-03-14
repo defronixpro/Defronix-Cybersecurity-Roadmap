@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Bug Bounty Challenge: Day 5–14/03/2024](https://wallotry.medium.com/bug-bounty-challenge-day-5-14-03-2024-b8fe8dae8cb5?source=rss------bug_bounty_writeup-5)
 - [Shift Left is Dead: A Post Mortem](https://www.hackerone.com/vulnerability-management/shift-left-is-dead)
 - [NCSC Recognises The Work Of Ethical Hackers With An Appreciation Event](https://www.hackerone.com/customer-stories/ncsc-appreciation-event)
 - [Bug Bounty Challenge: Day 3/15–11/03/2024](https://wallotry.medium.com/bug-bounty-challenge-day-3-15-11-03-2024-38993610e657?source=rss------bug_bounty_writeup-5)
@@ -23,7 +24,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [GTFOBins and LOLBAS: Mastering Binary Exploitation for Unix and Windows](https://infosecwriteups.com/gtfobins-and-lolbas-mastering-binary-exploitation-in-ethical-hacking-for-unix-and-windows-30dd86e52370?source=rss----7b722bfd1b8d---4)
 - [OTP Bypass Via Response Manipulation](https://maratherao93.medium.com/otp-bypass-via-response-manipulation-e55352c5c419?source=rss------bug_bounty_writeup-5)
 - [Simple Tips for Bug Bounty Beginners: Finding API Key Leakage Vulnerabilities](https://medium.com/@anishnarayan/simple-tips-for-bug-bounty-beginners-finding-api-key-leakage-vulnerabilities-eddc416216ce?source=rss------bug_bounty_writeup-5)
-- [how i make 6,000$ with jwt manipulation on web3 crypto application ?](https://medium.com/@zack0x01_/how-i-make-6-000-with-jwt-manipulation-on-web3-crypto-application-1e659c927647?source=rss------bug_bounty_writeup-5)
 - [Hai: The AI Assistant for Vulnerability Intelligence](https://www.hackerone.com/ai/hai-ai-assistant-vulnerability-intelligence)
 - [Snap&#39;s Safety Efforts With AI Red Teaming From HackerOne](https://www.hackerone.com/ai/snap-ai-red-teaming)
 - [The Risk of AI Voice Cloning: Q&amp;A With an AI Hacker](https://www.hackerone.com/ai/voice-cloning-qa)
