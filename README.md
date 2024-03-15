@@ -908,6 +908,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Bug Bounty Challenge: Day 6–15/03/2024](https://wallotry.medium.com/bug-bounty-challenge-day-6-15-03-2024-a5c6c1a67647?source=rss------bug_bounty_writeup-5)
+- [Degrees of Innovation: HackerOne’s Next Step in Inclusive Hiring](https://www.hackerone.com/culture-and-talent/degrees-innovation-hackerones-next-step-inclusive-hiring)
 - [Story of Lock up users’ account by DOS attack cost $1,100](https://infosecwriteups.com/story-of-lock-up-users-account-by-dos-attack-cost-1-100-87b47d06a7c1?source=rss----7b722bfd1b8d---4)
 - [Practical Exploitation of XXE&lpar;CVE-2018–8033&rpar; and Mitigating in Apache OFBiz](https://infosecwriteups.com/practical-exploitation-of-xxe-cve-2018-8033-and-mitigating-in-apache-ofbiz-56ae8233c2b4?source=rss----7b722bfd1b8d---4)
 - [PwnAdventure: A Unique Blend of MMORPG and Cybersecurity Training](https://infosecwriteups.com/pwnadventure-a-unique-blend-of-mmorpg-and-cybersecurity-training-ed7003f1dc63?source=rss----7b722bfd1b8d---4)
@@ -931,7 +933,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [The White House Should Prioritize Cybersecurity in its Budget](https://www.hackerone.com/public-policy/white-house-budget-cybersecurity)
 - [Fixing Facebook: A Privacy Issue Ignored?](https://medium.com/@mynkpdr/fixing-facebook-a-privacy-issue-ignored-6c048dacc824?source=rss------bug_bounty_writeup-5)
 - [PostMessage , Cross-Window-Communication Misconfig &lpar; from out-of-scope to P2 with 5x reward &rpar;](https://mouhannadalhmedi.medium.com/cross-window-communication-misconfig-and-is-jquery-really-vulnerable-ec8f709f6dc4?source=rss------bug_bounty_writeup-5)
-- [How can i manipulate price of any product?](https://medium.com/@midoeljoker30/how-can-i-manipulate-price-of-any-product-0da047299cea?source=rss------bug_bounty_writeup-5)
 - [Hai: The AI Assistant for Vulnerability Intelligence](https://www.hackerone.com/ai/hai-ai-assistant-vulnerability-intelligence)
 - [Snap&#39;s Safety Efforts With AI Red Teaming From HackerOne](https://www.hackerone.com/ai/snap-ai-red-teaming)
 - [The Risk of AI Voice Cloning: Q&amp;A With an AI Hacker](https://www.hackerone.com/ai/voice-cloning-qa)
@@ -957,7 +958,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Mercado Libre’s Journey to a Public Bug Bounty Program](https://www.hackerone.com/customer-stories/mercado-libre-public-bug-bounty)
 - [Inaugural Glass Firewall Conference Invites Women to Learn About Cybersecurity](https://www.hackerone.com/community/glass-firewall-conference)
 - [How VDP Aligns With Zero Trust](https://www.hackerone.com/security-compliance/zero-trust-vdp)
-- [Fortifying Assets for SEC Compliance with HackerOne](https://www.hackerone.com/public-policy/fortify-assets-sec-compliance)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
