@@ -908,6 +908,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Penetration Testing Microsoft Copilot 365](https://infosecwriteups.com/penetration-testing-microsoft-copilot-365-910301660dac?source=rss----7b722bfd1b8d---4)
 - [Bug Bounty Challenge: Day 6–15/03/2024](https://wallotry.medium.com/bug-bounty-challenge-day-6-15-03-2024-a5c6c1a67647?source=rss------bug_bounty_writeup-5)
 - [Degrees of Innovation: HackerOne’s Next Step in Inclusive Hiring](https://www.hackerone.com/culture-and-talent/degrees-innovation-hackerones-next-step-inclusive-hiring)
 - [Story of Lock up users’ account by DOS attack cost $1,100](https://infosecwriteups.com/story-of-lock-up-users-account-by-dos-attack-cost-1-100-87b47d06a7c1?source=rss----7b722bfd1b8d---4)
@@ -919,7 +920,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [LLM AI Security Checklist](https://infosecwriteups.com/llm-ai-security-checklist-06ce587d42fa?source=rss----7b722bfd1b8d---4)
 - [Mastering WordPress Penetration Testing: A Step-by-Step Guide](https://infosecwriteups.com/mastering-wordpress-penetration-testing-a-step-by-step-guide-d99a06487486?source=rss----7b722bfd1b8d---4)
 - [$600 Simple MFA Bypass — Graphql](https://infosecwriteups.com/600-simple-mfa-bypass-graphql-b46c6a4c5b82?source=rss----7b722bfd1b8d---4)
-- [Mastering Scapy for Network Security: A Hands-On Guide to Scanning and DNS Reflection](https://infosecwriteups.com/mastering-scapy-for-network-security-a-hands-on-guide-to-scanning-and-dns-reflection-ce7fbf6f463f?source=rss----7b722bfd1b8d---4)
 - [BBP: App Receives All Messages of Logged Out User](https://medium.com/@harryfyx/bbp-app-receives-all-messages-of-logged-out-user-fc2a5b5543ae?source=rss------bug_bounty_writeup-5)
 - [Account takeover via Password reset](https://medium.com/@Rahulkrishnan_R_Panicker/account-takeover-via-password-reset-c2658e1f58eb?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Challenge: Day 5–14/03/2024](https://wallotry.medium.com/bug-bounty-challenge-day-5-14-03-2024-b8fe8dae8cb5?source=rss------bug_bounty_writeup-5)
