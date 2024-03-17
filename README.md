@@ -908,6 +908,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Bug Bounty Learning Path](https://bevijaygupta.medium.com/bug-bounty-learning-path-0c0015d6a71d?source=rss------bug_bounty_writeup-5)
 - [HTB — Netmon](https://infosecwriteups.com/htb-netmon-5951e2a46486?source=rss----7b722bfd1b8d---4)
 - [Bug Bounty Challenge: Day 7–16/03/2024](https://wallotry.medium.com/bug-bounty-challenge-day-7-16-03-2024-5c48ff96f9d0?source=rss------bug_bounty_writeup-5)
 - [Penetration Testing Microsoft Copilot 365](https://infosecwriteups.com/penetration-testing-microsoft-copilot-365-910301660dac?source=rss----7b722bfd1b8d---4)
@@ -932,7 +933,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Bug Bounty Challenge: Day 1/15–09/03/2024](https://wallotry.medium.com/bug-bounty-challenge-day-1-15-09-03-2024-f7b1824f2262?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Challenge: Day 0/15](https://wallotry.medium.com/bug-bounty-challenge-day-0-15-8e88c5b4cc6b?source=rss------bug_bounty_writeup-5)
 - [The White House Should Prioritize Cybersecurity in its Budget](https://www.hackerone.com/public-policy/white-house-budget-cybersecurity)
-- [Fixing Facebook: A Privacy Issue Ignored?](https://medium.com/@mynkpdr/fixing-facebook-a-privacy-issue-ignored-6c048dacc824?source=rss------bug_bounty_writeup-5)
 - [Hai: The AI Assistant for Vulnerability Intelligence](https://www.hackerone.com/ai/hai-ai-assistant-vulnerability-intelligence)
 - [Snap&#39;s Safety Efforts With AI Red Teaming From HackerOne](https://www.hackerone.com/ai/snap-ai-red-teaming)
 - [The Risk of AI Voice Cloning: Q&amp;A With an AI Hacker](https://www.hackerone.com/ai/voice-cloning-qa)
