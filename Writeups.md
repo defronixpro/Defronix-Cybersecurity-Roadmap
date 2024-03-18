@@ -24,7 +24,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Bug Bounty Challenge: Day 3/15–11/03/2024](https://wallotry.medium.com/bug-bounty-challenge-day-3-15-11-03-2024-38993610e657?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Challenge: Day 2/15–10/03/2024](https://wallotry.medium.com/bug-bounty-challenge-day-1-15-10-03-2024-b946472d71c8?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Challenge: Day 1/15–09/03/2024](https://wallotry.medium.com/bug-bounty-challenge-day-1-15-09-03-2024-f7b1824f2262?source=rss------bug_bounty_writeup-5)
-- [Bug Bounty Challenge: Day 0/15](https://wallotry.medium.com/bug-bounty-challenge-day-0-15-8e88c5b4cc6b?source=rss------bug_bounty_writeup-5)
 - [The White House Should Prioritize Cybersecurity in its Budget](https://www.hackerone.com/public-policy/white-house-budget-cybersecurity)
 - [Hai: The AI Assistant for Vulnerability Intelligence](https://www.hackerone.com/ai/hai-ai-assistant-vulnerability-intelligence)
 - [Snap&#39;s Safety Efforts With AI Red Teaming From HackerOne](https://www.hackerone.com/ai/snap-ai-red-teaming)
