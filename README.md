@@ -928,6 +928,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [BBP: App Receives All Messages of Logged Out User](https://medium.com/@harryfyx/bbp-app-receives-all-messages-of-logged-out-user-fc2a5b5543ae?source=rss------bug_bounty_writeup-5)
 - [Account takeover via Password reset](https://medium.com/@Rahulkrishnan_R_Panicker/account-takeover-via-password-reset-c2658e1f58eb?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Challenge: Day 5–14/03/2024](https://wallotry.medium.com/bug-bounty-challenge-day-5-14-03-2024-b8fe8dae8cb5?source=rss------bug_bounty_writeup-5)
+- [AI Safety vs. AI Security](https://www.hackerone.com/ai/safety-vs-security)
 - [HackerOne’s In-Depth Approach to Vulnerability Triage and Validation](https://www.hackerone.com/hackerones-depth-approach-vulnerability-triage-and-validation)
 - [Shift Left is Dead: A Post Mortem](https://www.hackerone.com/vulnerability-management/shift-left-is-dead)
 - [NCSC Recognises The Work Of Ethical Hackers With An Appreciation Event](https://www.hackerone.com/customer-stories/ncsc-appreciation-event)
@@ -957,7 +958,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Mercado Libre’s Journey to a Public Bug Bounty Program](https://www.hackerone.com/customer-stories/mercado-libre-public-bug-bounty)
 - [Inaugural Glass Firewall Conference Invites Women to Learn About Cybersecurity](https://www.hackerone.com/community/glass-firewall-conference)
 - [How VDP Aligns With Zero Trust](https://www.hackerone.com/security-compliance/zero-trust-vdp)
-- [Fortifying Assets for SEC Compliance with HackerOne](https://www.hackerone.com/public-policy/fortify-assets-sec-compliance)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
