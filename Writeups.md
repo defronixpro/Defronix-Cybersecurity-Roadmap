@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Bypassing an IDOR A couple of times — $$$$](https://medium.com/@bxrowski0x/bypassing-an-idor-a-couple-of-times-4d67555a1545?source=rss------bug_bounty_writeup-5)
 - [$200 Business Logic Blunder In Sole Source Project](https://medium.com/@_0jatin0_/200-business-logic-blunder-in-sole-source-project-99a7bbe0d2f0?source=rss------bug_bounty_writeup-5)
 - [CVE-2024–28436 Cross-Site Scripting Vulnerability in D-Link DAP Products](https://djallalakira.medium.com/cve-2024-28436-cross-site-scripting-vulnerability-in-d-link-dap-products-3596976cc99f?source=rss------bug_bounty_writeup-5)
 - [Hunting JavaScript File for Bug Hunters](https://blog.stackademic.com/hunting-javascript-file-for-bug-hunters-e8b278a1306a?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [LLM AI Security Checklist](https://infosecwriteups.com/llm-ai-security-checklist-06ce587d42fa?source=rss----7b722bfd1b8d---4)
 - [BBP: App Receives All Messages of Logged Out User](https://medium.com/@harryfyx/bbp-app-receives-all-messages-of-logged-out-user-fc2a5b5543ae?source=rss------bug_bounty_writeup-5)
 - [Account takeover via Password reset](https://medium.com/@Rahulkrishnan_R_Panicker/account-takeover-via-password-reset-c2658e1f58eb?source=rss------bug_bounty_writeup-5)
-- [Bug Bounty Challenge: Day 5–14/03/2024](https://wallotry.medium.com/bug-bounty-challenge-day-5-14-03-2024-b8fe8dae8cb5?source=rss------bug_bounty_writeup-5)
 - [AI Safety vs. AI Security](https://www.hackerone.com/ai/safety-vs-security)
 - [HackerOne’s In-Depth Approach to Vulnerability Triage and Validation](https://www.hackerone.com/hackerones-depth-approach-vulnerability-triage-and-validation)
 - [Shift Left is Dead: A Post Mortem](https://www.hackerone.com/vulnerability-management/shift-left-is-dead)
