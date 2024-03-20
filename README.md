@@ -908,6 +908,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [$200 Business Logic Blunder In Sole Source Project](https://medium.com/@_0jatin0_/200-business-logic-blunder-in-sole-source-project-99a7bbe0d2f0?source=rss------bug_bounty_writeup-5)
 - [CVE-2024–28436 Cross-Site Scripting Vulnerability in D-Link DAP Products](https://djallalakira.medium.com/cve-2024-28436-cross-site-scripting-vulnerability-in-d-link-dap-products-3596976cc99f?source=rss------bug_bounty_writeup-5)
 - [Hunting JavaScript File for Bug Hunters](https://blog.stackademic.com/hunting-javascript-file-for-bug-hunters-e8b278a1306a?source=rss------bug_bounty_writeup-5)
 - [4 Ways Cybercrime Could Impact Your Loan Business](https://infosecwriteups.com/4-ways-cybercrime-could-impact-your-loan-business-25076a810a77?source=rss----7b722bfd1b8d---4)
@@ -930,7 +931,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [HackerOne’s In-Depth Approach to Vulnerability Triage and Validation](https://www.hackerone.com/hackerones-depth-approach-vulnerability-triage-and-validation)
 - [Shift Left is Dead: A Post Mortem](https://www.hackerone.com/vulnerability-management/shift-left-is-dead)
 - [NCSC Recognises The Work Of Ethical Hackers With An Appreciation Event](https://www.hackerone.com/customer-stories/ncsc-appreciation-event)
-- [Bug Bounty Challenge: Day 3/15–11/03/2024](https://wallotry.medium.com/bug-bounty-challenge-day-3-15-11-03-2024-38993610e657?source=rss------bug_bounty_writeup-5)
 - [The White House Should Prioritize Cybersecurity in its Budget](https://www.hackerone.com/public-policy/white-house-budget-cybersecurity)
 - [Hai: The AI Assistant for Vulnerability Intelligence](https://www.hackerone.com/ai/hai-ai-assistant-vulnerability-intelligence)
 - [Snap&#39;s Safety Efforts With AI Red Teaming From HackerOne](https://www.hackerone.com/ai/snap-ai-red-teaming)
