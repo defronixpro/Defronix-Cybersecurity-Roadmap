@@ -908,7 +908,9 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Reversing The Trend: Support and Mediation Win as a Team](https://www.hackerone.com/culture-and-talent/reversing-trend-support-and-mediation-win-team)
 - [Bypassing an IDOR A couple of times — $$$$](https://medium.com/@bxrowski0x/bypassing-an-idor-a-couple-of-times-4d67555a1545?source=rss------bug_bounty_writeup-5)
+- [Decoding the Characteristics of Modern Pentesting: Effectiveness](https://www.hackerone.com/penetration-testing/modern-pentesting-effectiveness)
 - [$200 Business Logic Blunder In Sole Source Project](https://medium.com/@_0jatin0_/200-business-logic-blunder-in-sole-source-project-99a7bbe0d2f0?source=rss------bug_bounty_writeup-5)
 - [CVE-2024–28436 Cross-Site Scripting Vulnerability in D-Link DAP Products](https://djallalakira.medium.com/cve-2024-28436-cross-site-scripting-vulnerability-in-d-link-dap-products-3596976cc99f?source=rss------bug_bounty_writeup-5)
 - [Hunting JavaScript File for Bug Hunters](https://blog.stackademic.com/hunting-javascript-file-for-bug-hunters-e8b278a1306a?source=rss------bug_bounty_writeup-5)
@@ -956,8 +958,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Maintaining the Intelligence Edge in Cybersecurity](https://www.hackerone.com/ceo/maintaining-intelligence-edge-cybersecurity)
 - [Hack My Career: Meet Kayla Underkoffler](https://www.hackerone.com/culture-and-talent/hack-my-career-meet-kayla-underkoffler)
 - [Mercado Libre’s Journey to a Public Bug Bounty Program](https://www.hackerone.com/customer-stories/mercado-libre-public-bug-bounty)
-- [Inaugural Glass Firewall Conference Invites Women to Learn About Cybersecurity](https://www.hackerone.com/community/glass-firewall-conference)
-- [How VDP Aligns With Zero Trust](https://www.hackerone.com/security-compliance/zero-trust-vdp)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
