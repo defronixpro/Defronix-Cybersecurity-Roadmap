@@ -908,7 +908,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [How an Information Disclosure Vulnerability Led to Critical Data Exposure](https://www.hackerone.com/vulnerability-management/information-disclosure-deep-dive)
 - [Reversing The Trend: Support and Mediation Win as a Team](https://www.hackerone.com/culture-and-talent/reversing-trend-support-and-mediation-win-team)
 - [Bypassing an IDOR A couple of times — $$$$](https://medium.com/@bxrowski0x/bypassing-an-idor-a-couple-of-times-4d67555a1545?source=rss------bug_bounty_writeup-5)
 - [Decoding the Characteristics of Modern Pentesting: Effectiveness](https://www.hackerone.com/penetration-testing/modern-pentesting-effectiveness)
@@ -958,6 +957,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [2024 Live Hacking Events](https://www.hackerone.com/lhe/2024-lhe-invitations)
 - [Maintaining the Intelligence Edge in Cybersecurity](https://www.hackerone.com/ceo/maintaining-intelligence-edge-cybersecurity)
 - [Hack My Career: Meet Kayla Underkoffler](https://www.hackerone.com/culture-and-talent/hack-my-career-meet-kayla-underkoffler)
+- [Mercado Libre’s Journey to a Public Bug Bounty Program](https://www.hackerone.com/customer-stories/mercado-libre-public-bug-bounty)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
