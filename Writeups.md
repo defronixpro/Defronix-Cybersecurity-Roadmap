@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Attacking XSLT in Web Applications](https://adipsharif.medium.com/attacking-xslt-in-web-applications-ea538a8fb9d0?source=rss------bug_bounty_writeup-5)
 - [Reflected XSS into HTML context with most tags and attributes blocked:-](https://medium.com/@kabi_777/reflected-xss-into-html-context-with-most-tags-and-attributes-blocked-61181687a4bc?source=rss------bug_bounty_writeup-5)
 - [Reversing The Trend: Support and Mediation Win as a Team](https://www.hackerone.com/culture-and-talent/reversing-trend-support-and-mediation-win-team)
 - [Bypassing an IDOR A couple of times — $$$$](https://medium.com/@bxrowski0x/bypassing-an-idor-a-couple-of-times-4d67555a1545?source=rss------bug_bounty_writeup-5)
@@ -22,7 +23,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [User Enumeration Techniques and Tactics In an Active Directory Pentesting Engagement.](https://infosecwriteups.com/user-enumeration-techniques-and-tactics-in-an-active-directory-pentesting-engagement-c634bf241017?source=rss----7b722bfd1b8d---4)
 - [LLM AI Security Checklist](https://infosecwriteups.com/llm-ai-security-checklist-06ce587d42fa?source=rss----7b722bfd1b8d---4)
 - [Mastering WordPress Penetration Testing: A Step-by-Step Guide](https://infosecwriteups.com/mastering-wordpress-penetration-testing-a-step-by-step-guide-d99a06487486?source=rss----7b722bfd1b8d---4)
-- [BBP: App Receives All Messages of Logged Out User](https://medium.com/@harryfyx/bbp-app-receives-all-messages-of-logged-out-user-fc2a5b5543ae?source=rss------bug_bounty_writeup-5)
 - [AI Safety vs. AI Security](https://www.hackerone.com/ai/safety-vs-security)
 - [HackerOne’s In-Depth Approach to Vulnerability Triage and Validation](https://www.hackerone.com/hackerones-depth-approach-vulnerability-triage-and-validation)
 - [Shift Left is Dead: A Post Mortem](https://www.hackerone.com/vulnerability-management/shift-left-is-dead)
