@@ -908,6 +908,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Reflected XSS into HTML context with most tags and attributes blocked:-](https://medium.com/@kabi_777/reflected-xss-into-html-context-with-most-tags-and-attributes-blocked-61181687a4bc?source=rss------bug_bounty_writeup-5)
 - [Reversing The Trend: Support and Mediation Win as a Team](https://www.hackerone.com/culture-and-talent/reversing-trend-support-and-mediation-win-team)
 - [Bypassing an IDOR A couple of times — $$$$](https://medium.com/@bxrowski0x/bypassing-an-idor-a-couple-of-times-4d67555a1545?source=rss------bug_bounty_writeup-5)
 - [Decoding the Characteristics of Modern Pentesting: Effectiveness](https://www.hackerone.com/penetration-testing/modern-pentesting-effectiveness)
@@ -929,7 +930,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [LLM AI Security Checklist](https://infosecwriteups.com/llm-ai-security-checklist-06ce587d42fa?source=rss----7b722bfd1b8d---4)
 - [Mastering WordPress Penetration Testing: A Step-by-Step Guide](https://infosecwriteups.com/mastering-wordpress-penetration-testing-a-step-by-step-guide-d99a06487486?source=rss----7b722bfd1b8d---4)
 - [BBP: App Receives All Messages of Logged Out User](https://medium.com/@harryfyx/bbp-app-receives-all-messages-of-logged-out-user-fc2a5b5543ae?source=rss------bug_bounty_writeup-5)
-- [Account takeover via Password reset](https://medium.com/@Rahulkrishnan_R_Panicker/account-takeover-via-password-reset-c2658e1f58eb?source=rss------bug_bounty_writeup-5)
 - [AI Safety vs. AI Security](https://www.hackerone.com/ai/safety-vs-security)
 - [HackerOne’s In-Depth Approach to Vulnerability Triage and Validation](https://www.hackerone.com/hackerones-depth-approach-vulnerability-triage-and-validation)
 - [Shift Left is Dead: A Post Mortem](https://www.hackerone.com/vulnerability-management/shift-left-is-dead)
