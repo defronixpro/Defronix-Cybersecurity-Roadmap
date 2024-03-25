@@ -908,6 +908,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [What Are Bug Bounties and How Do They Work?](https://www.hackerone.com/vulnerability-management/what-are-bug-bounties-how-do-they-work-examples)
 - [Attacking XSLT in Web Applications](https://adipsharif.medium.com/attacking-xslt-in-web-applications-ea538a8fb9d0?source=rss------bug_bounty_writeup-5)
 - [Reflected XSS into HTML context with most tags and attributes blocked:-](https://medium.com/@kabi_777/reflected-xss-into-html-context-with-most-tags-and-attributes-blocked-61181687a4bc?source=rss------bug_bounty_writeup-5)
 - [How an Information Disclosure Vulnerability Led to Critical Data Exposure](https://www.hackerone.com/vulnerability-management/information-disclosure-deep-dive)
@@ -957,7 +958,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How Do You Know Ethical Hackers Can Be Trusted?](https://www.hackerone.com/vulnerability-management/clear-and-gateway)
 - [2024 Live Hacking Events](https://www.hackerone.com/lhe/2024-lhe-invitations)
 - [Maintaining the Intelligence Edge in Cybersecurity](https://www.hackerone.com/ceo/maintaining-intelligence-edge-cybersecurity)
-- [Hack My Career: Meet Kayla Underkoffler](https://www.hackerone.com/culture-and-talent/hack-my-career-meet-kayla-underkoffler)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
