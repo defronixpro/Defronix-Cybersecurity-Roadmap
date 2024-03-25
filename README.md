@@ -908,6 +908,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [[Account Take Over] through reset password token leaked in response, 2500 € Reward](https://infosecwriteups.com/account-take-over-through-reset-password-token-leaked-in-response-2500-reward-b643f97a7c67?source=rss------bug_bounty_writeup-5)
 - [What Are Bug Bounties and How Do They Work?](https://www.hackerone.com/vulnerability-management/what-are-bug-bounties-how-do-they-work-examples)
 - [Attacking XSLT in Web Applications](https://adipsharif.medium.com/attacking-xslt-in-web-applications-ea538a8fb9d0?source=rss------bug_bounty_writeup-5)
 - [Reflected XSS into HTML context with most tags and attributes blocked:-](https://medium.com/@kabi_777/reflected-xss-into-html-context-with-most-tags-and-attributes-blocked-61181687a4bc?source=rss------bug_bounty_writeup-5)
@@ -923,7 +924,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [HTB — Netmon](https://infosecwriteups.com/htb-netmon-5951e2a46486?source=rss----7b722bfd1b8d---4)
 - [Bug Bounty Challenge: Day 7–16/03/2024](https://wallotry.medium.com/bug-bounty-challenge-day-7-16-03-2024-5c48ff96f9d0?source=rss------bug_bounty_writeup-5)
 - [Penetration Testing Microsoft Copilot 365](https://infosecwriteups.com/penetration-testing-microsoft-copilot-365-910301660dac?source=rss----7b722bfd1b8d---4)
-- [Bug Bounty Challenge: Day 6–15/03/2024](https://wallotry.medium.com/bug-bounty-challenge-day-6-15-03-2024-a5c6c1a67647?source=rss------bug_bounty_writeup-5)
 - [Degrees of Innovation: HackerOne’s Next Step in Inclusive Hiring](https://www.hackerone.com/culture-and-talent/degrees-innovation-hackerones-next-step-inclusive-hiring)
 - [Story of Lock up users’ account by DOS attack cost $1,100](https://infosecwriteups.com/story-of-lock-up-users-account-by-dos-attack-cost-1-100-87b47d06a7c1?source=rss----7b722bfd1b8d---4)
 - [Practical Exploitation of XXE&lpar;CVE-2018–8033&rpar; and Mitigating in Apache OFBiz](https://infosecwriteups.com/practical-exploitation-of-xxe-cve-2018-8033-and-mitigating-in-apache-ofbiz-56ae8233c2b4?source=rss----7b722bfd1b8d---4)
