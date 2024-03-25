@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [What Are Bug Bounties and How Do They Work?](https://www.hackerone.com/vulnerability-management/what-are-bug-bounties-how-do-they-work-examples)
 - [Attacking XSLT in Web Applications](https://adipsharif.medium.com/attacking-xslt-in-web-applications-ea538a8fb9d0?source=rss------bug_bounty_writeup-5)
 - [Reflected XSS into HTML context with most tags and attributes blocked:-](https://medium.com/@kabi_777/reflected-xss-into-html-context-with-most-tags-and-attributes-blocked-61181687a4bc?source=rss------bug_bounty_writeup-5)
 - [How an Information Disclosure Vulnerability Led to Critical Data Exposure](https://www.hackerone.com/vulnerability-management/information-disclosure-deep-dive)
@@ -258,7 +259,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Vulnerability Assessment I A Complete Guide](https://www.hackerone.com/vulnerability-management/vulnerability-assessment-i-complete-guide)
 - [What We Can Learn From Recent Ransomware Attacks](https://www.hackerone.com/vulnerability-management/what-we-can-learn-recent-ransomware-attacks)
 - [How to Use HackerOne and PagerDuty to Identify When Vulnerabilities Need Action](https://www.hackerone.com/vulnerability-management/how-use-hackerone-and-pagerduty-identify-when-vulnerabilities-need-action)
-- [What Are Bug Bounties? How Do They Work? [With Examples]](https://www.hackerone.com/vulnerability-management/what-are-bug-bounties-how-do-they-work-examples)
 - [How the Industry’s First Hacker-Powered API Helps Hackers Automate Workflows](https://www.hackerone.com/application-security/how-industrys-first-hacker-powered-api-helps-hackers-automate-workflows)
 - [How HackerOne Positively Influences Zebra’s Software Development Life Cycle](https://www.hackerone.com/vulnerability-management/zebra-secure-development-lifecycle)
 - [Bug Bounty vs. CTF [Understanding Differences &amp; Benefits]](https://www.hackerone.com/bug-bounty-vs-ctf-understanding-differences-benefits)
