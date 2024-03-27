@@ -908,6 +908,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Vulnerability Disclosure Policy Requirements for UK Smart Products](https://www.hackerone.com/public-policy/vdp-requirements-uk-smart-products)
 - [[Account Take Over] through reset password token leaked in response, 2500 € Reward](https://infosecwriteups.com/account-take-over-through-reset-password-token-leaked-in-response-2500-reward-b643f97a7c67?source=rss------bug_bounty_writeup-5)
 - [What Are Bug Bounties and How Do They Work?](https://www.hackerone.com/vulnerability-management/what-are-bug-bounties-how-do-they-work-examples)
 - [Attacking XSLT in Web Applications](https://adipsharif.medium.com/attacking-xslt-in-web-applications-ea538a8fb9d0?source=rss------bug_bounty_writeup-5)
@@ -957,7 +958,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Interpret the 2023 GigaOm PTaaS Radar Report with HackerOne](https://www.hackerone.com/penetration-testing/hackerone-named-leader-penetration-testing-service-ptaas-gigaom-radar-report)
 - [How Do You Know Ethical Hackers Can Be Trusted?](https://www.hackerone.com/vulnerability-management/clear-and-gateway)
 - [2024 Live Hacking Events](https://www.hackerone.com/lhe/2024-lhe-invitations)
-- [Maintaining the Intelligence Edge in Cybersecurity](https://www.hackerone.com/ceo/maintaining-intelligence-edge-cybersecurity)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
