@@ -908,6 +908,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Unveiling all techniques to find IDOR’S in web applications](https://adipsharif.medium.com/unveiling-all-techniques-to-find-idors-in-web-applications-578d2b8aa28a?source=rss------bug_bounty_writeup-5)
 - [Vulnerability Disclosure Policy Requirements for UK Smart Products](https://www.hackerone.com/public-policy/vdp-requirements-uk-smart-products)
 - [[Account Take Over] through reset password token leaked in response, 2500 € Reward](https://infosecwriteups.com/account-take-over-through-reset-password-token-leaked-in-response-2500-reward-b643f97a7c67?source=rss------bug_bounty_writeup-5)
 - [What Are Bug Bounties and How Do They Work?](https://www.hackerone.com/vulnerability-management/what-are-bug-bounties-how-do-they-work-examples)
@@ -923,7 +924,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [4 Ways Cybercrime Could Impact Your Loan Business](https://infosecwriteups.com/4-ways-cybercrime-could-impact-your-loan-business-25076a810a77?source=rss----7b722bfd1b8d---4)
 - [Bug Bounty Learning Path](https://bevijaygupta.medium.com/bug-bounty-learning-path-0c0015d6a71d?source=rss------bug_bounty_writeup-5)
 - [HTB — Netmon](https://infosecwriteups.com/htb-netmon-5951e2a46486?source=rss----7b722bfd1b8d---4)
-- [Bug Bounty Challenge: Day 7–16/03/2024](https://wallotry.medium.com/bug-bounty-challenge-day-7-16-03-2024-5c48ff96f9d0?source=rss------bug_bounty_writeup-5)
 - [Penetration Testing Microsoft Copilot 365](https://infosecwriteups.com/penetration-testing-microsoft-copilot-365-910301660dac?source=rss----7b722bfd1b8d---4)
 - [Degrees of Innovation: HackerOne’s Next Step in Inclusive Hiring](https://www.hackerone.com/culture-and-talent/degrees-innovation-hackerones-next-step-inclusive-hiring)
 - [Story of Lock up users’ account by DOS attack cost $1,100](https://infosecwriteups.com/story-of-lock-up-users-account-by-dos-attack-cost-1-100-87b47d06a7c1?source=rss----7b722bfd1b8d---4)
