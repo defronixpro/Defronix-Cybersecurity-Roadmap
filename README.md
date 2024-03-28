@@ -908,6 +908,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Stargazing Risks: Exploring the Data Breach that Exposed NASA Employees’ PII](https://interc3pt3r.medium.com/stargazing-risks-exploring-the-data-breach-that-exposed-nasa-employees-pii-68692cf7a5e9?source=rss------bug_bounty_writeup-5)
+- [How to write a Walkthrough](https://bevijaygupta.medium.com/how-to-write-a-walkthrough-23eee7f6777c?source=rss------bug_bounty_writeup-5)
 - [Unveiling all techniques to find IDOR’S in web applications](https://adipsharif.medium.com/unveiling-all-techniques-to-find-idors-in-web-applications-578d2b8aa28a?source=rss------bug_bounty_writeup-5)
 - [Vulnerability Disclosure Policy Requirements for UK Smart Products](https://www.hackerone.com/public-policy/vdp-requirements-uk-smart-products)
 - [[Account Take Over] through reset password token leaked in response, 2500 € Reward](https://infosecwriteups.com/account-take-over-through-reset-password-token-leaked-in-response-2500-reward-b643f97a7c67?source=rss------bug_bounty_writeup-5)
@@ -922,7 +924,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [CVE-2024–28436 Cross-Site Scripting Vulnerability in D-Link DAP Products](https://djallalakira.medium.com/cve-2024-28436-cross-site-scripting-vulnerability-in-d-link-dap-products-3596976cc99f?source=rss------bug_bounty_writeup-5)
 - [Hunting JavaScript File for Bug Hunters](https://blog.stackademic.com/hunting-javascript-file-for-bug-hunters-e8b278a1306a?source=rss------bug_bounty_writeup-5)
 - [4 Ways Cybercrime Could Impact Your Loan Business](https://infosecwriteups.com/4-ways-cybercrime-could-impact-your-loan-business-25076a810a77?source=rss----7b722bfd1b8d---4)
-- [Bug Bounty Learning Path](https://bevijaygupta.medium.com/bug-bounty-learning-path-0c0015d6a71d?source=rss------bug_bounty_writeup-5)
 - [HTB — Netmon](https://infosecwriteups.com/htb-netmon-5951e2a46486?source=rss----7b722bfd1b8d---4)
 - [Penetration Testing Microsoft Copilot 365](https://infosecwriteups.com/penetration-testing-microsoft-copilot-365-910301660dac?source=rss----7b722bfd1b8d---4)
 - [Degrees of Innovation: HackerOne’s Next Step in Inclusive Hiring](https://www.hackerone.com/culture-and-talent/degrees-innovation-hackerones-next-step-inclusive-hiring)
@@ -957,7 +958,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Career Growth: Insights from Tiffany Jones, VP of Go to Market Operations and Strategy](https://www.hackerone.com/culture-and-talent/career-growth-insights-tiffany-jones-vp-go-market-operations-and-strategy)
 - [Interpret the 2023 GigaOm PTaaS Radar Report with HackerOne](https://www.hackerone.com/penetration-testing/hackerone-named-leader-penetration-testing-service-ptaas-gigaom-radar-report)
 - [How Do You Know Ethical Hackers Can Be Trusted?](https://www.hackerone.com/vulnerability-management/clear-and-gateway)
-- [2024 Live Hacking Events](https://www.hackerone.com/lhe/2024-lhe-invitations)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
