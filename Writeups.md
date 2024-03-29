@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [This is how, in a matter of minutes, I located an information discloser.](https://interc3pt3r.medium.com/this-is-how-in-a-matter-of-minutes-i-located-an-information-discloser-4cdf2addf6b3?source=rss------bug_bounty_writeup-5)
 - [HTB Analytics Walkthrough](https://infosecwriteups.com/htb-analytics-walkthrough-fd256a170fae?source=rss----7b722bfd1b8d---4)
 - [Reverse Engineering | CTF Newbies | Part 1](https://infosecwriteups.com/reverse-engineering-ctf-newbies-part-1-cbd0aa47a90d?source=rss----7b722bfd1b8d---4)
 - [CTF: Where Experts Play And Flags Fall | CTF Newbies](https://infosecwriteups.com/ctf-where-experts-play-and-flags-fall-ctf-newbies-3ab9513ab7d3?source=rss----7b722bfd1b8d---4)
@@ -26,7 +27,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Decoding the Characteristics of Modern Pentesting: Effectiveness](https://www.hackerone.com/penetration-testing/modern-pentesting-effectiveness)
 - [$200 Business Logic Blunder In Sole Source Project](https://medium.com/@_0jatin0_/200-business-logic-blunder-in-sole-source-project-99a7bbe0d2f0?source=rss------bug_bounty_writeup-5)
 - [CVE-2024–28436 Cross-Site Scripting Vulnerability in D-Link DAP Products](https://djallalakira.medium.com/cve-2024-28436-cross-site-scripting-vulnerability-in-d-link-dap-products-3596976cc99f?source=rss------bug_bounty_writeup-5)
-- [Hunting JavaScript File for Bug Hunters](https://blog.stackademic.com/hunting-javascript-file-for-bug-hunters-e8b278a1306a?source=rss------bug_bounty_writeup-5)
 - [Degrees of Innovation: HackerOne’s Next Step in Inclusive Hiring](https://www.hackerone.com/culture-and-talent/degrees-innovation-hackerones-next-step-inclusive-hiring)
 - [AI Safety vs. AI Security](https://www.hackerone.com/ai/safety-vs-security)
 - [HackerOne’s In-Depth Approach to Vulnerability Triage and Validation](https://www.hackerone.com/hackerones-depth-approach-vulnerability-triage-and-validation)
