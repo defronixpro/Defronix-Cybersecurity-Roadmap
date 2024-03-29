@@ -1,16 +1,16 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [HTB Analytics Walkthrough](https://infosecwriteups.com/htb-analytics-walkthrough-fd256a170fae?source=rss----7b722bfd1b8d---4)
+- [Reverse Engineering | CTF Newbies | Part 1](https://infosecwriteups.com/reverse-engineering-ctf-newbies-part-1-cbd0aa47a90d?source=rss----7b722bfd1b8d---4)
+- [CTF: Where Experts Play And Flags Fall | CTF Newbies](https://infosecwriteups.com/ctf-where-experts-play-and-flags-fall-ctf-newbies-3ab9513ab7d3?source=rss----7b722bfd1b8d---4)
+- [Polyglot Files: The Cybersecurity Chameleon Threat](https://infosecwriteups.com/polyglot-files-the-cybersecurity-chameleon-threat-29890e382b59?source=rss----7b722bfd1b8d---4)
+- [Crafting Chaos: A deep dive into developing Shellcode Loaders!](https://infosecwriteups.com/crafting-chaos-a-deep-dive-into-developing-shellcode-loaders-a965a80903f2?source=rss----7b722bfd1b8d---4)
+- [Under the Hood: How Fuzzing Really Works](https://infosecwriteups.com/under-the-hood-how-fuzzing-really-works-f16ee58be279?source=rss----7b722bfd1b8d---4)
 - [THM — Expose](https://infosecwriteups.com/thm-expose-4ceca4bcbd53?source=rss----7b722bfd1b8d---4)
 - [[Account Take Over] through reset password token leaked in response, 2500 € Reward](https://infosecwriteups.com/account-take-over-through-reset-password-token-leaked-in-response-2500-reward-b643f97a7c67?source=rss----7b722bfd1b8d---4)
 - [HTB Cyber Apocalypse CTF 2024 — Reversing](https://infosecwriteups.com/htb-cyber-apocalypse-ctf-2024-reversing-d9eb85c59ca9?source=rss----7b722bfd1b8d---4)
 - [HTB Cyber Apocalypse CTF 2024 — Web](https://infosecwriteups.com/htb-cyber-apocalypse-ctf-2024-web-50b31126de50?source=rss----7b722bfd1b8d---4)
-- [DEVIN AI Is Just The start — Why Cybersecurity Professionals Should be VERY Worried](https://infosecwriteups.com/devin-ai-is-just-the-start-why-cybersecurity-professionals-should-be-very-worried-d0a1a4fe563c?source=rss----7b722bfd1b8d---4)
-- [HTB Cyber Apocalypse CTF 2024 Write-ups](https://infosecwriteups.com/htb-cyber-apocalypse-ctf-2024-write-ups-95246e14ac48?source=rss----7b722bfd1b8d---4)
-- [MAN IN THE MIDDLE ATTACKS &lpar;MITM&rpar; [ LISTEN AND RELAY ] ATTACKS IN WINDOWS ACTIVE DIRECTORY](https://infosecwriteups.com/man-in-the-middle-attacks-mitm-listen-and-relay-attacks-in-windows-active-directory-9315d39c845f?source=rss----7b722bfd1b8d---4)
-- [Your Crypto Wallets/Currency, is NOT Safe from Hackers &amp; How to Secure It!](https://infosecwriteups.com/your-crypto-wallets-currency-is-not-safe-from-hackers-how-to-secure-it-9abd3ec5fa1?source=rss----7b722bfd1b8d---4)
-- [HTB Cyber Apocalypse CTF 2024 — Hardware](https://infosecwriteups.com/htb-cyber-apocalypse-ctf-2024-hardware-a45ddedae49b?source=rss----7b722bfd1b8d---4)
-- [Mastering Linux Permissions: A Cybersecurity Essential](https://infosecwriteups.com/mastering-linux-permissions-a-cybersecurity-essential-a35da66bbf82?source=rss----7b722bfd1b8d---4)
 - [Stargazing Risks: Exploring the Data Breach that Exposed NASA Employees’ PII](https://interc3pt3r.medium.com/stargazing-risks-exploring-the-data-breach-that-exposed-nasa-employees-pii-68692cf7a5e9?source=rss------bug_bounty_writeup-5)
 - [How to write a Walkthrough](https://bevijaygupta.medium.com/how-to-write-a-walkthrough-23eee7f6777c?source=rss------bug_bounty_writeup-5)
 - [Unveiling all techniques to find IDOR’S in web applications](https://adipsharif.medium.com/unveiling-all-techniques-to-find-idors-in-web-applications-578d2b8aa28a?source=rss------bug_bounty_writeup-5)
