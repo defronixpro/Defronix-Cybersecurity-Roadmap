@@ -1,6 +1,11 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Find Blind XSS like a pro.](https://infosecwriteups.com/find-blind-xss-like-a-pro-470be7cd8a08?source=rss----7b722bfd1b8d---4)
+- [13.12 Lab: Reflected DOM XSS — Cross Site Scripting | 2024](https://infosecwriteups.com/13-12-lab-reflected-dom-xss-cross-site-scripting-2024-0dc98e91ae42?source=rss----7b722bfd1b8d---4)
+- [Exploring the PinePhone: A Tech Enthusiast’s Dream for Privacy and Hacking](https://infosecwriteups.com/exploring-the-pinephone-a-tech-enthusiasts-dream-for-privacy-and-customization-c892f7b4049e?source=rss----7b722bfd1b8d---4)
+- [TryHackMe writeup: Digital Forensics Case B4DM755](https://infosecwriteups.com/tryhackme-writeup-digital-forensics-case-b4dm755-e196e00eae9a?source=rss----7b722bfd1b8d---4)
+- [All about Ethical Hacking](https://infosecwriteups.com/all-about-ethical-hacking-277b9c3e4b36?source=rss----7b722bfd1b8d---4)
 - [Stargazing Risks: Exploring the Data Breach that Exposed NASA Employees’ PII](https://interc3pt3r.medium.com/stargazing-risks-exploring-the-data-breach-that-exposed-nasa-employees-pii-68692cf7a5e9?source=rss------bug_bounty_writeup-5)
 - [How to write a Walkthrough](https://bevijaygupta.medium.com/how-to-write-a-walkthrough-23eee7f6777c?source=rss------bug_bounty_writeup-5)
 - [Unveiling all techniques to find IDOR’S in web applications](https://adipsharif.medium.com/unveiling-all-techniques-to-find-idors-in-web-applications-578d2b8aa28a?source=rss------bug_bounty_writeup-5)
@@ -22,11 +27,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Degrees of Innovation: HackerOne’s Next Step in Inclusive Hiring](https://www.hackerone.com/culture-and-talent/degrees-innovation-hackerones-next-step-inclusive-hiring)
 - [Story of Lock up users’ account by DOS attack cost $1,100](https://infosecwriteups.com/story-of-lock-up-users-account-by-dos-attack-cost-1-100-87b47d06a7c1?source=rss----7b722bfd1b8d---4)
 - [Practical Exploitation of XXE&lpar;CVE-2018–8033&rpar; and Mitigating in Apache OFBiz](https://infosecwriteups.com/practical-exploitation-of-xxe-cve-2018-8033-and-mitigating-in-apache-ofbiz-56ae8233c2b4?source=rss----7b722bfd1b8d---4)
-- [PwnAdventure: A Unique Blend of MMORPG and Cybersecurity Training](https://infosecwriteups.com/pwnadventure-a-unique-blend-of-mmorpg-and-cybersecurity-training-ed7003f1dc63?source=rss----7b722bfd1b8d---4)
-- [MRS #2: Bypassing premium features by checking “premium validation” parameters &lpar;€€€&rpar;](https://infosecwriteups.com/mrs-2-bypassing-premium-features-by-checking-premium-validation-parameters-f2e211fad160?source=rss----7b722bfd1b8d---4)
-- [User Enumeration Techniques and Tactics In an Active Directory Pentesting Engagement.](https://infosecwriteups.com/user-enumeration-techniques-and-tactics-in-an-active-directory-pentesting-engagement-c634bf241017?source=rss----7b722bfd1b8d---4)
-- [LLM AI Security Checklist](https://infosecwriteups.com/llm-ai-security-checklist-06ce587d42fa?source=rss----7b722bfd1b8d---4)
-- [Mastering WordPress Penetration Testing: A Step-by-Step Guide](https://infosecwriteups.com/mastering-wordpress-penetration-testing-a-step-by-step-guide-d99a06487486?source=rss----7b722bfd1b8d---4)
 - [AI Safety vs. AI Security](https://www.hackerone.com/ai/safety-vs-security)
 - [HackerOne’s In-Depth Approach to Vulnerability Triage and Validation](https://www.hackerone.com/hackerones-depth-approach-vulnerability-triage-and-validation)
 - [Shift Left is Dead: A Post Mortem](https://www.hackerone.com/vulnerability-management/shift-left-is-dead)
