@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [A Journey into Unusual Header Injection](https://medium.com/@imusabkhan/a-journey-into-unusual-header-injection-693cc0ddecc6?source=rss------bug_bounty_writeup-5)
 - [Chain of Rate Limit Bypass and Weak Token Expiry Leads To Account Take Over](https://medium.com/@ozomarzu/chain-of-rate-limit-bypass-and-weak-token-expiry-leads-to-account-take-over-d9cddf598c9c?source=rss------bug_bounty_writeup-5)
 - [HTB — Active](https://infosecwriteups.com/htb-active-d9fed1c4da72?source=rss----7b722bfd1b8d---4)
 - [This is how, in a matter of minutes, I located an information discloser.](https://interc3pt3r.medium.com/this-is-how-in-a-matter-of-minutes-i-located-an-information-discloser-4cdf2addf6b3?source=rss------bug_bounty_writeup-5)
@@ -27,7 +28,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Reversing The Trend: Support and Mediation Win as a Team](https://www.hackerone.com/culture-and-talent/reversing-trend-support-and-mediation-win-team)
 - [Bypassing an IDOR A couple of times — $$$$](https://medium.com/@bxrowski0x/bypassing-an-idor-a-couple-of-times-4d67555a1545?source=rss------bug_bounty_writeup-5)
 - [Decoding the Characteristics of Modern Pentesting: Effectiveness](https://www.hackerone.com/penetration-testing/modern-pentesting-effectiveness)
-- [$200 Business Logic Blunder In Sole Source Project](https://medium.com/@_0jatin0_/200-business-logic-blunder-in-sole-source-project-99a7bbe0d2f0?source=rss------bug_bounty_writeup-5)
 - [Degrees of Innovation: HackerOne’s Next Step in Inclusive Hiring](https://www.hackerone.com/culture-and-talent/degrees-innovation-hackerones-next-step-inclusive-hiring)
 - [AI Safety vs. AI Security](https://www.hackerone.com/ai/safety-vs-security)
 - [HackerOne’s In-Depth Approach to Vulnerability Triage and Validation](https://www.hackerone.com/hackerones-depth-approach-vulnerability-triage-and-validation)
