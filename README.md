@@ -908,6 +908,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I Was Able To Find My First VALID XSS](https://medium.com/@harshsolanki2810/how-i-was-able-to-find-my-first-valid-xss-b1b8bd727b6a?source=rss------bug_bounty_writeup-5)
 - [A Journey into Unusual Header Injection](https://medium.com/@imusabkhan/a-journey-into-unusual-header-injection-693cc0ddecc6?source=rss------bug_bounty_writeup-5)
 - [Chain of Rate Limit Bypass and Weak Token Expiry Leads To Account Take Over](https://medium.com/@ozomarzu/chain-of-rate-limit-bypass-and-weak-token-expiry-leads-to-account-take-over-d9cddf598c9c?source=rss------bug_bounty_writeup-5)
 - [HTB — Active](https://infosecwriteups.com/htb-active-d9fed1c4da72?source=rss----7b722bfd1b8d---4)
@@ -933,7 +934,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Reflected XSS into HTML context with most tags and attributes blocked:-](https://medium.com/@kabi_777/reflected-xss-into-html-context-with-most-tags-and-attributes-blocked-61181687a4bc?source=rss------bug_bounty_writeup-5)
 - [How an Information Disclosure Vulnerability Led to Critical Data Exposure](https://www.hackerone.com/vulnerability-management/information-disclosure-deep-dive)
 - [Reversing The Trend: Support and Mediation Win as a Team](https://www.hackerone.com/culture-and-talent/reversing-trend-support-and-mediation-win-team)
-- [Bypassing an IDOR A couple of times — $$$$](https://medium.com/@bxrowski0x/bypassing-an-idor-a-couple-of-times-4d67555a1545?source=rss------bug_bounty_writeup-5)
 - [Decoding the Characteristics of Modern Pentesting: Effectiveness](https://www.hackerone.com/penetration-testing/modern-pentesting-effectiveness)
 - [Degrees of Innovation: HackerOne’s Next Step in Inclusive Hiring](https://www.hackerone.com/culture-and-talent/degrees-innovation-hackerones-next-step-inclusive-hiring)
 - [AI Safety vs. AI Security](https://www.hackerone.com/ai/safety-vs-security)
