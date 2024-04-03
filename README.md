@@ -911,6 +911,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Bug Bounty Challenge: Day 9–03/04/2024](https://wallotry.medium.com/bug-bounty-challenge-day-9-03-04-2024-f7a6303bb674?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Challenge: Day 8–02/04/2024](https://wallotry.medium.com/bug-bounty-challenge-day-8-02-04-2024-604382e079ac?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Challenge: Update](https://wallotry.medium.com/bug-bounty-challenge-update-ebd1fa31426c?source=rss------bug_bounty_writeup-5)
+- [XZ Utils CVE-2024-3094: A Tale of Broken Trust, Curious Persistence, and a Call to Action](https://www.hackerone.com/vulnerability-management/cve-2024-3094)
 - [How I Was Able To Find My First VALID XSS](https://medium.com/@0xdartx/how-i-was-able-to-find-my-first-valid-xss-b1b8bd727b6a?source=rss------bug_bounty_writeup-5)
 - [A Journey into Unusual Header Injection](https://medium.com/@imusabkhan/a-journey-into-unusual-header-injection-693cc0ddecc6?source=rss------bug_bounty_writeup-5)
 - [Chain of Rate Limit Bypass and Weak Token Expiry Leads To Account Take Over](https://medium.com/@ozomarzu/chain-of-rate-limit-bypass-and-weak-token-expiry-leads-to-account-take-over-d9cddf598c9c?source=rss------bug_bounty_writeup-5)
@@ -957,7 +958,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Unlocking Trust in AI: The Ethical Hacker&#39;s Approach to AI Red Teaming](https://www.hackerone.com/ai/ethical-hackers-ai-red-teaming)
 - [The 2023 Ambassador World Cup Final: Results, Impact, and Looking Ahead](https://www.hackerone.com/lhe/awc-finals-2023)
 - [How to Use Your Bug Bounty Budget Efficiently](https://www.hackerone.com/vulnerability-management/bug-bounty-budget-efficiency)
-- [Career Growth: Insights from Tiffany Jones, VP of Go to Market Operations and Strategy](https://www.hackerone.com/culture-and-talent/career-growth-insights-tiffany-jones-vp-go-market-operations-and-strategy)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
