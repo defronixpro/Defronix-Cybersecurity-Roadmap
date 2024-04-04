@@ -909,6 +909,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
 - [Bug Bounty Challenge: Day 10–04/04/2024](https://wallotry.medium.com/bug-bounty-challenge-day-10-04-04-2024-d7d40e226af2?source=rss------bug_bounty_writeup-5)
+- [Ten Practical Tips For High-Value Pentest Engagements](https://www.hackerone.com/penetration-testing/ten-practical-tips-high-value-pentest-engagements)
 - [Smart Fuzzing — Finding bugs like no one else. By Gilson Oliveira](https://medium.com/@gilsgil/smart-fuzzing-finding-bugs-like-no-one-else-by-gilson-oliveira-d6aa0dbc285b?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Challenge: Day 9–03/04/2024](https://wallotry.medium.com/bug-bounty-challenge-day-9-03-04-2024-f7a6303bb674?source=rss------bug_bounty_writeup-5)
 - [Pre-Pentest Checklist Part 1: Essential Questions to Answer Before Your Next Pentest](https://www.hackerone.com/penetration-testing/pre-pentest-checklist-part1)
@@ -957,7 +958,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [The Power of Connection: The Importance of Weekly All-Hands Meetings at HackerOne](https://www.hackerone.com/culture-and-talent/power-connection-importance-weekly-all-hands-meetings-hackerone)
 - [SEGA and SIX Group: The Value of VDP and Bug Bounty](https://www.hackerone.com/customer-stories/sega-six-group)
 - [Unlocking Trust in AI: The Ethical Hacker&#39;s Approach to AI Red Teaming](https://www.hackerone.com/ai/ethical-hackers-ai-red-teaming)
-- [The 2023 Ambassador World Cup Final: Results, Impact, and Looking Ahead](https://www.hackerone.com/lhe/awc-finals-2023)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
