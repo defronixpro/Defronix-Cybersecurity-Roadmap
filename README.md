@@ -908,6 +908,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Bug Bounty Challenge: Day 10–04/04/2024](https://wallotry.medium.com/bug-bounty-challenge-day-10-04-04-2024-d7d40e226af2?source=rss------bug_bounty_writeup-5)
 - [Smart Fuzzing — Finding bugs like no one else. By Gilson Oliveira](https://medium.com/@gilsgil/smart-fuzzing-finding-bugs-like-no-one-else-by-gilson-oliveira-d6aa0dbc285b?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Challenge: Day 9–03/04/2024](https://wallotry.medium.com/bug-bounty-challenge-day-9-03-04-2024-f7a6303bb674?source=rss------bug_bounty_writeup-5)
 - [Pre-Pentest Checklist Part 1: Essential Questions to Answer Before Your Next Pentest](https://www.hackerone.com/penetration-testing/pre-pentest-checklist-part1)
@@ -931,7 +932,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [HackerOne Company Values Matter: Respect All People](https://www.hackerone.com/culture-and-talent/hackerone-company-values-matter-respect-all-people)
 - [Recap: Experts Break Down AI Red Teaming in a Live Q&amp;A](https://www.hackerone.com/generative-ai/recap-experts-break-down-ai-red-teaming-live-qa)
 - [Stargazing Risks: Exploring the Data Breach that Exposed NASA Employees’ PII](https://interc3pt3r.medium.com/stargazing-risks-exploring-the-data-breach-that-exposed-nasa-employees-pii-68692cf7a5e9?source=rss------bug_bounty_writeup-5)
-- [How to write a Walkthrough](https://bevijaygupta.medium.com/how-to-write-a-walkthrough-23eee7f6777c?source=rss------bug_bounty_writeup-5)
 - [Vulnerability Disclosure Policy Requirements for UK Smart Products](https://www.hackerone.com/public-policy/vdp-requirements-uk-smart-products)
 - [What Are Bug Bounties and How Do They Work?](https://www.hackerone.com/vulnerability-management/what-are-bug-bounties-how-do-they-work-examples)
 - [How an Information Disclosure Vulnerability Led to Critical Data Exposure](https://www.hackerone.com/vulnerability-management/information-disclosure-deep-dive)
