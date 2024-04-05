@@ -1,6 +1,10 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Skyrocket Your Bug Bounty Success Using These Crawlers](https://infosecwriteups.com/skyrocket-your-bug-bounty-success-using-these-crawlers-03ce28efb498?source=rss----7b722bfd1b8d---4)
+- [Exploiting Language Models &lpar;LLM&rpar; with “Virtual Prompt Injection” &lpar;VPI&rpar;](https://infosecwriteups.com/exploiting-language-models-llm-with-virtual-prompt-injection-vpi-c5d2fe5a6439?source=rss----7b722bfd1b8d---4)
+- [What happens when a DNS request is made?](https://infosecwriteups.com/what-happens-when-a-dns-request-is-made-10f26c5501f9?source=rss----7b722bfd1b8d---4)
+- [Comprehensive Guide to AWS WAF — Protecting Web Applications](https://infosecwriteups.com/comprehensive-guide-to-aws-waf-protecting-web-applications-23846e4a59ed?source=rss----7b722bfd1b8d---4)
 - [Bug Bounty Challenge: Day 10–04/04/2024](https://wallotry.medium.com/bug-bounty-challenge-day-10-04-04-2024-d7d40e226af2?source=rss------bug_bounty_writeup-5)
 - [Ten Practical Tips For High-Value Pentest Engagements](https://www.hackerone.com/penetration-testing/ten-practical-tips-high-value-pentest-engagements)
 - [Smart Fuzzing — Finding bugs like no one else. By Gilson Oliveira](https://medium.com/@gilsgil/smart-fuzzing-finding-bugs-like-no-one-else-by-gilson-oliveira-d6aa0dbc285b?source=rss------bug_bounty_writeup-5)
@@ -19,10 +23,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [CTF: Where Experts Play And Flags Fall | CTF Newbies](https://infosecwriteups.com/ctf-where-experts-play-and-flags-fall-ctf-newbies-3ab9513ab7d3?source=rss----7b722bfd1b8d---4)
 - [Polyglot Files: The Cybersecurity Chameleon Threat](https://infosecwriteups.com/polyglot-files-the-cybersecurity-chameleon-threat-29890e382b59?source=rss----7b722bfd1b8d---4)
 - [Crafting Chaos: A deep dive into developing Shellcode Loaders!](https://infosecwriteups.com/crafting-chaos-a-deep-dive-into-developing-shellcode-loaders-a965a80903f2?source=rss----7b722bfd1b8d---4)
-- [Under the Hood: How Fuzzing Really Works](https://infosecwriteups.com/under-the-hood-how-fuzzing-really-works-f16ee58be279?source=rss----7b722bfd1b8d---4)
-- [THM — Expose](https://infosecwriteups.com/thm-expose-4ceca4bcbd53?source=rss----7b722bfd1b8d---4)
-- [[Account Take Over] through reset password token leaked in response, 2500 € Reward](https://infosecwriteups.com/account-take-over-through-reset-password-token-leaked-in-response-2500-reward-b643f97a7c67?source=rss----7b722bfd1b8d---4)
-- [HTB Cyber Apocalypse CTF 2024 — Reversing](https://infosecwriteups.com/htb-cyber-apocalypse-ctf-2024-reversing-d9eb85c59ca9?source=rss----7b722bfd1b8d---4)
 - [HackerOne Company Values Matter: Respect All People](https://www.hackerone.com/culture-and-talent/hackerone-company-values-matter-respect-all-people)
 - [Recap: Experts Break Down AI Red Teaming in a Live Q&amp;A](https://www.hackerone.com/generative-ai/recap-experts-break-down-ai-red-teaming-live-qa)
 - [Stargazing Risks: Exploring the Data Breach that Exposed NASA Employees’ PII](https://interc3pt3r.medium.com/stargazing-risks-exploring-the-data-breach-that-exposed-nasa-employees-pii-68692cf7a5e9?source=rss------bug_bounty_writeup-5)
