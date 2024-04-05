@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Race Condition Authentication Bypass Leads to Full Account Takeover](https://medium.com/@keizobugbounty/race-condition-authentication-bypass-leads-to-full-account-takeover-6b5c9bc0a54d?source=rss------bug_bounty_writeup-5)
 - [Skyrocket Your Bug Bounty Success Using These Crawlers](https://infosecwriteups.com/skyrocket-your-bug-bounty-success-using-these-crawlers-03ce28efb498?source=rss----7b722bfd1b8d---4)
 - [Exploiting Language Models &lpar;LLM&rpar; with “Virtual Prompt Injection” &lpar;VPI&rpar;](https://infosecwriteups.com/exploiting-language-models-llm-with-virtual-prompt-injection-vpi-c5d2fe5a6439?source=rss----7b722bfd1b8d---4)
 - [What happens when a DNS request is made?](https://infosecwriteups.com/what-happens-when-a-dns-request-is-made-10f26c5501f9?source=rss----7b722bfd1b8d---4)
@@ -25,7 +26,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Crafting Chaos: A deep dive into developing Shellcode Loaders!](https://infosecwriteups.com/crafting-chaos-a-deep-dive-into-developing-shellcode-loaders-a965a80903f2?source=rss----7b722bfd1b8d---4)
 - [HackerOne Company Values Matter: Respect All People](https://www.hackerone.com/culture-and-talent/hackerone-company-values-matter-respect-all-people)
 - [Recap: Experts Break Down AI Red Teaming in a Live Q&amp;A](https://www.hackerone.com/generative-ai/recap-experts-break-down-ai-red-teaming-live-qa)
-- [Stargazing Risks: Exploring the Data Breach that Exposed NASA Employees’ PII](https://interc3pt3r.medium.com/stargazing-risks-exploring-the-data-breach-that-exposed-nasa-employees-pii-68692cf7a5e9?source=rss------bug_bounty_writeup-5)
 - [Vulnerability Disclosure Policy Requirements for UK Smart Products](https://www.hackerone.com/public-policy/vdp-requirements-uk-smart-products)
 - [What Are Bug Bounties and How Do They Work?](https://www.hackerone.com/vulnerability-management/what-are-bug-bounties-how-do-they-work-examples)
 - [How an Information Disclosure Vulnerability Led to Critical Data Exposure](https://www.hackerone.com/vulnerability-management/information-disclosure-deep-dive)
