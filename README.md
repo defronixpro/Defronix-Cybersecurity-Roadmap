@@ -908,7 +908,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [Unauthorized Access to an Internal App Used by Apple to Protect Confidential Information Shared on…](https://amineaboud.medium.com/unauthorized-access-to-an-internal-app-used-by-apple-to-protect-confidential-information-shared-on-c8835a80079b?source=rss------bug_bounty_writeup-5)
+- [Host Header Manipulation Leading to Unauthorized Access to Apple’s Internal Slack bot &lpar;Bug Bounty&rpar;](https://amineaboud.medium.com/unauthorized-access-to-an-internal-app-used-by-apple-to-protect-confidential-information-shared-on-c8835a80079b?source=rss------bug_bounty_writeup-5)
 - [UUIDs Unmasked: Exploiting IDOR for User Data Access](https://medium.com/@cybersolution2172/uuids-unmasked-exploiting-idor-for-user-data-access-b199e3b08563?source=rss------bug_bounty_writeup-5)
 - [Race Condition Authentication Bypass Leads to Full Account Takeover](https://medium.com/@keizobugbounty/race-condition-authentication-bypass-leads-to-full-account-takeover-6b5c9bc0a54d?source=rss------bug_bounty_writeup-5)
 - [Skyrocket Your Bug Bounty Success Using These Crawlers](https://infosecwriteups.com/skyrocket-your-bug-bounty-success-using-these-crawlers-03ce28efb498?source=rss----7b722bfd1b8d---4)
