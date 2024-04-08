@@ -921,6 +921,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Shield your System — XZ Utils Backdoor &lpar;Linux Distribution&rpar;](https://infosecwriteups.com/shield-your-system-xz-utils-backdoor-linux-distribution-54583b071ccc?source=rss----7b722bfd1b8d---4)
 - [Host Header Manipulation Leading to Unauthorized Access to Apple’s Internal Slack bot &lpar;Bug Bounty&rpar;](https://amineaboud.medium.com/unauthorized-access-to-an-internal-app-used-by-apple-to-protect-confidential-information-shared-on-c8835a80079b?source=rss------bug_bounty_writeup-5)
 - [UUIDs Unmasked: Exploiting IDOR for User Data Access](https://medium.com/@cybersolution2172/uuids-unmasked-exploiting-idor-for-user-data-access-b199e3b08563?source=rss------bug_bounty_writeup-5)
+- [The Importance of Credential Rotations: Best Practices for Security and Data Protection](https://www.hackerone.com/vulnerability-management/credentials-rotation)
 - [Race Condition Authentication Bypass Leads to Full Account Takeover](https://medium.com/@keizobugbounty/race-condition-authentication-bypass-leads-to-full-account-takeover-6b5c9bc0a54d?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Challenge: Day 10–04/04/2024](https://wallotry.medium.com/bug-bounty-challenge-day-10-04-04-2024-d7d40e226af2?source=rss------bug_bounty_writeup-5)
 - [Ten Practical Tips For High-Value Pentest Engagements](https://www.hackerone.com/penetration-testing/ten-practical-tips-high-value-pentest-engagements)
@@ -957,7 +958,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How Coordinated Vulnerability Disclosure Can Boost Election Integrity and Public Perception](https://www.hackerone.com/security-compliance/election-integrity-coordinated-vulnerability-disclosure)
 - [The Power of Connection: The Importance of Weekly All-Hands Meetings at HackerOne](https://www.hackerone.com/culture-and-talent/power-connection-importance-weekly-all-hands-meetings-hackerone)
 - [SEGA and SIX Group: The Value of VDP and Bug Bounty](https://www.hackerone.com/customer-stories/sega-six-group)
-- [Unlocking Trust in AI: The Ethical Hacker&#39;s Approach to AI Red Teaming](https://www.hackerone.com/ai/ethical-hackers-ai-red-teaming)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
