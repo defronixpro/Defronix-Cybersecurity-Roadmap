@@ -17,7 +17,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [UUIDs Unmasked: Exploiting IDOR for User Data Access](https://medium.com/@cybersolution2172/uuids-unmasked-exploiting-idor-for-user-data-access-b199e3b08563?source=rss------bug_bounty_writeup-5)
 - [The Importance of Credential Rotations: Best Practices for Security and Data Protection](https://www.hackerone.com/vulnerability-management/credentials-rotation)
 - [Race Condition Authentication Bypass Leads to Full Account Takeover](https://medium.com/@keizobugbounty/race-condition-authentication-bypass-leads-to-full-account-takeover-6b5c9bc0a54d?source=rss------bug_bounty_writeup-5)
-- [Bug Bounty Challenge: Day 10–04/04/2024](https://wallotry.medium.com/bug-bounty-challenge-day-10-04-04-2024-d7d40e226af2?source=rss------bug_bounty_writeup-5)
+- [Bug Bounty Challenge: Day 10–05/04/2024](https://wallotry.medium.com/bug-bounty-challenge-day-10-04-04-2024-d7d40e226af2?source=rss------bug_bounty_writeup-5)
 - [Ten Practical Tips For High-Value Pentest Engagements](https://www.hackerone.com/penetration-testing/ten-practical-tips-high-value-pentest-engagements)
 - [Smart Fuzzing — Finding bugs like no one else. By Gilson Oliveira](https://medium.com/@gilsgil/smart-fuzzing-finding-bugs-like-no-one-else-by-gilson-oliveira-d6aa0dbc285b?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Challenge: Day 9–03/04/2024](https://wallotry.medium.com/bug-bounty-challenge-day-9-03-04-2024-f7a6303bb674?source=rss------bug_bounty_writeup-5)
