@@ -908,6 +908,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Designing Micro-Segmentation for Enhanced Security with Jump Hosts](https://infosecwriteups.com/designing-micro-segmentation-for-enhanced-security-with-jump-hosts-1ee6b31f6d03?source=rss----7b722bfd1b8d---4)
 - [Google Bug Hunters](https://bevijaygupta.medium.com/google-bug-hunters-673e2f5c2600?source=rss------bug_bounty_writeup-5)
 - [The Power of Open Source Intelligence | OSINT | CTF Newbies](https://infosecwriteups.com/the-power-of-open-source-intelligence-osint-ctf-newbies-b39db0421dd4?source=rss----7b722bfd1b8d---4)
 - [Decoding the Web: Exploring the Depths of Exploitation | CTF Newbies](https://infosecwriteups.com/decoding-the-web-exploring-the-depths-of-exploitation-ctf-newbies-233293a2a739?source=rss----7b722bfd1b8d---4)
@@ -918,7 +919,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How I hacked Biometric machine just by using a calculator](https://infosecwriteups.com/how-i-hacked-biometric-machine-just-by-using-a-calculator-794e4254cedb?source=rss----7b722bfd1b8d---4)
 - [How to Automatically Deploy a Malware Analysis Environment](https://infosecwriteups.com/how-to-automatically-deploy-a-malware-analysis-environment-47258fb7aeb1?source=rss----7b722bfd1b8d---4)
 - [How to start Bug Bounty Hunting $$$$ in 2024?? | A short RoadMap](https://infosecwriteups.com/how-to-start-bug-bounty-hunting-in-2024-a-short-roadmap-9f9eeddd24ca?source=rss----7b722bfd1b8d---4)
-- [Shield your System — XZ Utils Backdoor &lpar;Linux Distribution&rpar;](https://infosecwriteups.com/shield-your-system-xz-utils-backdoor-linux-distribution-54583b071ccc?source=rss----7b722bfd1b8d---4)
 - [Host Header Manipulation Leading to Unauthorized Access to Apple’s Internal Slack bot &lpar;Bug Bounty&rpar;](https://amineaboud.medium.com/unauthorized-access-to-an-internal-app-used-by-apple-to-protect-confidential-information-shared-on-c8835a80079b?source=rss------bug_bounty_writeup-5)
 - [UUIDs Unmasked: Exploiting IDOR for User Data Access](https://medium.com/@cybersolution2172/uuids-unmasked-exploiting-idor-for-user-data-access-b199e3b08563?source=rss------bug_bounty_writeup-5)
 - [The Importance of Credential Rotations: Best Practices for Security and Data Protection](https://www.hackerone.com/vulnerability-management/credentials-rotation)
