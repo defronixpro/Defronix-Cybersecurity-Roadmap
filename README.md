@@ -908,9 +908,13 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [HackerOne Celebrates Global Work from Home Day](https://www.hackerone.com/culture-and-talent/hackerone-celebrates-global-work-home-day)
 - [Roadmap to ISO 27001](https://infosecwriteups.com/roadmap-to-iso-27001-8a94188e9ec5?source=rss----7b722bfd1b8d---4)
+- [Decoding the Characteristics of Modern Pentesting: Value](https://www.hackerone.com/penetration-testing/modern-pentesting-value)
+- [HackerOne Company Values Matter: Lead with Integrity](https://www.hackerone.com/culture-and-talent/hackerone-company-values-matter-lead-integrity)
 - [Bug Hunting Methodology for Beginners](https://bevijaygupta.medium.com/bug-hunting-methodology-for-beginners-ce7ee1b11c25?source=rss------bug_bounty_writeup-5)
 - [Designing Micro-Segmentation for Enhanced Security with Jump Hosts](https://infosecwriteups.com/designing-micro-segmentation-for-enhanced-security-with-jump-hosts-1ee6b31f6d03?source=rss----7b722bfd1b8d---4)
+- [HackerOne’s Digital First Workplace](https://www.hackerone.com/culture-and-talent/hackerones-digital-first-workplace)
 - [Google Bug Hunters](https://bevijaygupta.medium.com/google-bug-hunters-673e2f5c2600?source=rss------bug_bounty_writeup-5)
 - [The Power of Open Source Intelligence | OSINT | CTF Newbies](https://infosecwriteups.com/the-power-of-open-source-intelligence-osint-ctf-newbies-b39db0421dd4?source=rss----7b722bfd1b8d---4)
 - [Decoding the Web: Exploring the Depths of Exploitation | CTF Newbies](https://infosecwriteups.com/decoding-the-web-exploring-the-depths-of-exploitation-ctf-newbies-233293a2a739?source=rss----7b722bfd1b8d---4)
@@ -954,10 +958,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Recap: Elite Pentesters Tell All in a Live Q&amp;A](https://www.hackerone.com/penetration-testing/pentester-ama-recap)
 - [How to Find Mistakes Earlier and Save Money With Code Security Audit](https://www.hackerone.com/vulnerability-management/find-mistakes-save-money-code-security-audit)
 - [How a Cross-Site Scripting Vulnerability Led to Account Takeover](https://www.hackerone.com/vulnerability-management/xss-deep-dive)
-- [HackerOne Partners With Semgrep to Combine Expert Code Review With Powerful Automation](https://www.hackerone.com/vulnerability-management/semgrep-partnership)
-- [How Coordinated Vulnerability Disclosure Can Boost Election Integrity and Public Perception](https://www.hackerone.com/security-compliance/election-integrity-coordinated-vulnerability-disclosure)
-- [The Power of Connection: The Importance of Weekly All-Hands Meetings at HackerOne](https://www.hackerone.com/culture-and-talent/power-connection-importance-weekly-all-hands-meetings-hackerone)
-- [SEGA and SIX Group: The Value of VDP and Bug Bounty](https://www.hackerone.com/customer-stories/sega-six-group)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
