@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [THM — Grep](https://infosecwriteups.com/thm-grep-f360bbc9fb24?source=rss----7b722bfd1b8d---4)
 - [HackerOne Celebrates Global Work from Home Day](https://www.hackerone.com/culture-and-talent/hackerone-celebrates-global-work-home-day)
 - [Roadmap to ISO 27001](https://infosecwriteups.com/roadmap-to-iso-27001-8a94188e9ec5?source=rss----7b722bfd1b8d---4)
 - [Decoding the Characteristics of Modern Pentesting: Value](https://www.hackerone.com/penetration-testing/modern-pentesting-value)
@@ -16,7 +17,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [VulnHub - Kioptrix: Level 4 &lpar;1.3&rpar; &lpar;#4&rpar;](https://infosecwriteups.com/vulnhub-kioptrix-level-4-1-3-4-ad25b000b058?source=rss----7b722bfd1b8d---4)
 - [picoCTF 2024 — Write-up — Forensics](https://infosecwriteups.com/picoctf-2024-write-up-forensics-c471e79e6af9?source=rss----7b722bfd1b8d---4)
 - [How I hacked Biometric machine just by using a calculator](https://infosecwriteups.com/how-i-hacked-biometric-machine-just-by-using-a-calculator-794e4254cedb?source=rss----7b722bfd1b8d---4)
-- [How to Automatically Deploy a Malware Analysis Environment](https://infosecwriteups.com/how-to-automatically-deploy-a-malware-analysis-environment-47258fb7aeb1?source=rss----7b722bfd1b8d---4)
 - [Host Header Manipulation Leading to Unauthorized Access to Apple’s Internal Slack bot &lpar;Bug Bounty&rpar;](https://amineaboud.medium.com/unauthorized-access-to-an-internal-app-used-by-apple-to-protect-confidential-information-shared-on-c8835a80079b?source=rss------bug_bounty_writeup-5)
 - [UUIDs Unmasked: Exploiting IDOR for User Data Access](https://medium.com/@cybersolution2172/uuids-unmasked-exploiting-idor-for-user-data-access-b199e3b08563?source=rss------bug_bounty_writeup-5)
 - [The Importance of Credential Rotations: Best Practices for Security and Data Protection](https://www.hackerone.com/vulnerability-management/credentials-rotation)
