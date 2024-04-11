@@ -908,6 +908,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Bug Bounty Challenge: Day 16–11/04/2024](https://wallotry.medium.com/bug-bounty-challenge-day-16-11-04-2024-effc5c820319?source=rss------bug_bounty_writeup-5)
 - [THM — Grep](https://infosecwriteups.com/thm-grep-f360bbc9fb24?source=rss----7b722bfd1b8d---4)
 - [HackerOne Celebrates Global Work from Home Day](https://www.hackerone.com/culture-and-talent/hackerone-celebrates-global-work-home-day)
 - [Roadmap to ISO 27001](https://infosecwriteups.com/roadmap-to-iso-27001-8a94188e9ec5?source=rss----7b722bfd1b8d---4)
@@ -934,7 +935,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Bug Bounty Challenge: Day 9–03/04/2024](https://wallotry.medium.com/bug-bounty-challenge-day-9-03-04-2024-f7a6303bb674?source=rss------bug_bounty_writeup-5)
 - [Pre-Pentest Checklist Part 1: Essential Questions to Answer Before Your Next Pentest](https://www.hackerone.com/penetration-testing/pre-pentest-checklist-part1)
 - [Bug Bounty Challenge: Day 8–02/04/2024](https://wallotry.medium.com/bug-bounty-challenge-day-8-02-04-2024-604382e079ac?source=rss------bug_bounty_writeup-5)
-- [Bug Bounty Challenge: Update](https://wallotry.medium.com/bug-bounty-challenge-update-ebd1fa31426c?source=rss------bug_bounty_writeup-5)
 - [XZ Utils CVE-2024-3094: A Tale of Broken Trust, Curious Persistence, and a Call to Action](https://www.hackerone.com/vulnerability-management/cve-2024-3094)
 - [HackerOne Company Values Matter: Respect All People](https://www.hackerone.com/culture-and-talent/hackerone-company-values-matter-respect-all-people)
 - [Recap: Experts Break Down AI Red Teaming in a Live Q&amp;A](https://www.hackerone.com/generative-ai/recap-experts-break-down-ai-red-teaming-live-qa)
