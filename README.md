@@ -908,6 +908,9 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Exploiting Generative AI Apps With Prompt Injection](https://infosecwriteups.com/exploiting-generative-ai-apps-with-prompt-injection-33b0ff1aa07a?source=rss----7b722bfd1b8d---4)
+- [Why you should care about the xz exploit](https://infosecwriteups.com/why-you-should-care-about-the-xz-exploit-7144ca210160?source=rss----7b722bfd1b8d---4)
+- [How I Hacked Your Private Repository in GitHub &lpar;And Got JackShit&rpar;](https://infosecwriteups.com/how-i-hacked-your-private-repository-in-github-and-got-jackshit-cb7c342570b2?source=rss----7b722bfd1b8d---4)
 - [What is the effectiveness of bombarding sites?](https://infosecwriteups.com/what-is-the-effectiveness-of-bombarding-sites-f7308c094e9b?source=rss----7b722bfd1b8d---4)
 - [Unlocking with Cryptography | CTF Newbies](https://infosecwriteups.com/unlocking-with-cryptography-ctf-newbies-bbe042dc97e4?source=rss----7b722bfd1b8d---4)
 - [CVE-2024–24576: A Critical Rust Vulnerability on Windows](https://infosecwriteups.com/cve-2024-24576-a-critical-rust-vulnerability-on-windows-4f0bb1a332e9?source=rss----7b722bfd1b8d---4)
@@ -915,9 +918,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Unlocking the Future of Internet with Named-Data Networking &lpar;NDN&rpar;](https://infosecwriteups.com/unlocking-the-future-of-internet-with-named-data-networking-ndn-6493b99d0000?source=rss----7b722bfd1b8d---4)
 - [Breaking Free: 26 Advanced Techniques to Escape Docker Containers](https://infosecwriteups.com/breaking-free-26-advanced-techniques-to-escape-docker-containers-530049816b55?source=rss----7b722bfd1b8d---4)
 - [Art of onscrollend | Demonstrating XSS through scroll events write-up](https://infosecwriteups.com/art-of-onscrollend-demonstrating-xss-through-scroll-events-write-up-d3b33afaaf64?source=rss----7b722bfd1b8d---4)
-- [Conquering the eJPTv2 Exam: My Journey](https://infosecwriteups.com/conquering-the-ejptv2-exam-my-journey-302722832868?source=rss----7b722bfd1b8d---4)
-- [Malicious Domain Detection using Machine Learning](https://infosecwriteups.com/malicious-domain-detection-using-machine-learning-f1745a78580d?source=rss----7b722bfd1b8d---4)
-- [Hacking the Giant: How I Discovered Google’s Vulnerability and Hall of Fame Recognition](https://infosecwriteups.com/hacking-the-giant-how-i-discovered-googles-vulnerability-and-hall-of-fame-recognition-694a9c18684a?source=rss----7b722bfd1b8d---4)
 - [Broken Access Control &lpar;IDOR&rpar; on Forgot Password Could Lead to Attacker Change Password for Every…](https://medium.com/@blackarazi/broken-access-control-idor-on-forgot-password-could-lead-to-attacker-change-password-for-every-e1b18e075b5a?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Challenge: Day 16–11/04/2024](https://wallotry.medium.com/bug-bounty-challenge-day-16-11-04-2024-effc5c820319?source=rss------bug_bounty_writeup-5)
 - [How a Race Condition Vulnerability Could Cast Multiple Votes](https://www.hackerone.com/vulnerability-management/sherrets-race-condition)
