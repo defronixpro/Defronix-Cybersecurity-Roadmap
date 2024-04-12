@@ -1,6 +1,9 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Mastering Linux Commands: A Complete Guide for Beginners](https://infosecwriteups.com/mastering-linux-commands-a-complete-guide-for-beginners-dd5fb2bb2a7d?source=rss----7b722bfd1b8d---4)
+- [Cybersecurity 2024: How to Secure an Entry-Level Job as a Hacker!](https://infosecwriteups.com/cybersecurity-2024-how-to-secure-an-entry-level-job-as-a-hacker-05926a08aa24?source=rss----7b722bfd1b8d---4)
+- [Step by Step Complete Beginners guide of iOS penetration testing with corellium](https://infosecwriteups.com/step-by-step-complete-beginners-guide-of-ios-penetration-testing-with-corellium-2b9e9c6382c2?source=rss----7b722bfd1b8d---4)
 - [Broken Access Control &lpar;IDOR&rpar; on Forgot Password Could Lead to Attacker Change Password for Every…](https://medium.com/@blackarazi/broken-access-control-idor-on-forgot-password-could-lead-to-attacker-change-password-for-every-e1b18e075b5a?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Challenge: Day 16–11/04/2024](https://wallotry.medium.com/bug-bounty-challenge-day-16-11-04-2024-effc5c820319?source=rss------bug_bounty_writeup-5)
 - [How a Race Condition Vulnerability Could Cast Multiple Votes](https://www.hackerone.com/vulnerability-management/sherrets-race-condition)
@@ -18,9 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Decoding the Web: Exploring the Depths of Exploitation | CTF Newbies](https://infosecwriteups.com/decoding-the-web-exploring-the-depths-of-exploitation-ctf-newbies-233293a2a739?source=rss----7b722bfd1b8d---4)
 - [Breaking the Light Speed Barrier: The Revolutionary FLIP Protocol Unveiled](https://infosecwriteups.com/breaking-the-light-speed-barrier-the-revolutionary-flip-protocol-unveiled-7c4538c7651e?source=rss----7b722bfd1b8d---4)
 - [Securing LLM-Based Systems with SecGPT: A Dive into Its Purpose-Driven Architecture](https://infosecwriteups.com/securing-llm-based-systems-with-secgpt-a-dive-into-its-purpose-driven-architecture-4407a7f49007?source=rss----7b722bfd1b8d---4)
-- [VulnHub - Kioptrix: Level 4 &lpar;1.3&rpar; &lpar;#4&rpar;](https://infosecwriteups.com/vulnhub-kioptrix-level-4-1-3-4-ad25b000b058?source=rss----7b722bfd1b8d---4)
-- [picoCTF 2024 — Write-up — Forensics](https://infosecwriteups.com/picoctf-2024-write-up-forensics-c471e79e6af9?source=rss----7b722bfd1b8d---4)
-- [How I hacked Biometric machine just by using a calculator](https://infosecwriteups.com/how-i-hacked-biometric-machine-just-by-using-a-calculator-794e4254cedb?source=rss----7b722bfd1b8d---4)
 - [Host Header Manipulation Leading to Unauthorized Access to Apple’s Internal Slack bot &lpar;Bug Bounty&rpar;](https://amineaboud.medium.com/unauthorized-access-to-an-internal-app-used-by-apple-to-protect-confidential-information-shared-on-c8835a80079b?source=rss------bug_bounty_writeup-5)
 - [UUIDs Unmasked: Exploiting IDOR for User Data Access](https://medium.com/@cybersolution2172/uuids-unmasked-exploiting-idor-for-user-data-access-b199e3b08563?source=rss------bug_bounty_writeup-5)
 - [The Importance of Credential Rotations: Best Practices for Security and Data Protection](https://www.hackerone.com/vulnerability-management/credentials-rotation)
