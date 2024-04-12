@@ -908,6 +908,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Microsoft Bug Bounty](https://bevijaygupta.medium.com/microsoft-bug-bounty-1295263b135e?source=rss------bug_bounty_writeup-5)
 - [Using E-Notation to bypass Access Control restrictions to access arbitrary user PII-discussions](https://medium.com/@keizobugbounty/using-e-notation-to-bypass-access-control-restrictions-to-access-arbitrary-user-pii-discussions-1fa014b544d4?source=rss------bug_bounty_writeup-5)
 - [Demystifying Array Injections](https://infosecwriteups.com/demystifying-array-injections-934042f50132?source=rss----7b722bfd1b8d---4)
 - [Exploiting Generative AI Apps With Prompt Injection](https://infosecwriteups.com/exploiting-generative-ai-apps-with-prompt-injection-33b0ff1aa07a?source=rss----7b722bfd1b8d---4)
@@ -935,7 +936,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Race Condition Authentication Bypass Leads to Full Account Takeover](https://medium.com/@keizobugbounty/race-condition-authentication-bypass-leads-to-full-account-takeover-6b5c9bc0a54d?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Challenge: Day 10–05/04/2024](https://wallotry.medium.com/bug-bounty-challenge-day-10-04-04-2024-d7d40e226af2?source=rss------bug_bounty_writeup-5)
 - [Ten Practical Tips For High-Value Pentest Engagements](https://www.hackerone.com/penetration-testing/ten-practical-tips-high-value-pentest-engagements)
-- [Smart Fuzzing — Finding bugs like no one else. By Gilson Oliveira](https://medium.com/@gilsgil/smart-fuzzing-finding-bugs-like-no-one-else-by-gilson-oliveira-d6aa0dbc285b?source=rss------bug_bounty_writeup-5)
 - [Pre-Pentest Checklist Part 1: Essential Questions to Answer Before Your Next Pentest](https://www.hackerone.com/penetration-testing/pre-pentest-checklist-part1)
 - [An Emerging Playbook for AI Red Teaming With HackerOne](https://www.hackerone.com/thought-leadership/ai-safety-red-teaming)
 - [XZ Utils CVE-2024-3094: A Tale of Broken Trust, Curious Persistence, and a Call to Action](https://www.hackerone.com/vulnerability-management/cve-2024-3094)
