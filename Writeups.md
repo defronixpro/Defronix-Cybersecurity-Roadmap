@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Enhancing Digital Security: Strategies for Secret Detection and Management](https://infosecwriteups.com/enhancing-digital-security-strategies-for-secret-detection-and-management-f3c543c7e25c?source=rss----7b722bfd1b8d---4)
 - [Hijacking your JavaScript using prototype pollution](https://infosecwriteups.com/hijacking-your-javascript-using-prototype-pollution-8caeac16b13f?source=rss----7b722bfd1b8d---4)
 - [TryHackMe CTF Collection Vol. 2](https://infosecwriteups.com/tryhackme-ctf-collection-vol-2-e570d487ebc3?source=rss----7b722bfd1b8d---4)
 - [HackerOne Company Values Matter: Default to Disclosure](https://www.hackerone.com/culture-and-talent/hackerone-company-values-matter-default-disclosure)
@@ -13,7 +14,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [What is the effectiveness of bombarding sites?](https://infosecwriteups.com/what-is-the-effectiveness-of-bombarding-sites-f7308c094e9b?source=rss----7b722bfd1b8d---4)
 - [Unlocking with Cryptography | CTF Newbies](https://infosecwriteups.com/unlocking-with-cryptography-ctf-newbies-bbe042dc97e4?source=rss----7b722bfd1b8d---4)
 - [CVE-2024–24576: A Critical Rust Vulnerability on Windows](https://infosecwriteups.com/cve-2024-24576-a-critical-rust-vulnerability-on-windows-4f0bb1a332e9?source=rss----7b722bfd1b8d---4)
-- [Introduction to Kerberos](https://infosecwriteups.com/introduction-to-kerberos-39a1922ec5ac?source=rss----7b722bfd1b8d---4)
 - [Broken Access Control &lpar;IDOR&rpar; on Forgot Password Could Lead to Attacker Change Password for Every…](https://medium.com/@blackarazi/broken-access-control-idor-on-forgot-password-could-lead-to-attacker-change-password-for-every-e1b18e075b5a?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Challenge: Day 16–11/04/2024](https://wallotry.medium.com/bug-bounty-challenge-day-16-11-04-2024-effc5c820319?source=rss------bug_bounty_writeup-5)
 - [How a Race Condition Vulnerability Could Cast Multiple Votes](https://www.hackerone.com/vulnerability-management/sherrets-race-condition)
