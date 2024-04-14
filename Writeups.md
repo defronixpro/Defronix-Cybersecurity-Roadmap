@@ -11,7 +11,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Demystifying Array Injections](https://infosecwriteups.com/demystifying-array-injections-934042f50132?source=rss----7b722bfd1b8d---4)
 - [Exploiting Generative AI Apps With Prompt Injection](https://infosecwriteups.com/exploiting-generative-ai-apps-with-prompt-injection-33b0ff1aa07a?source=rss----7b722bfd1b8d---4)
 - [Why you should care about the xz exploit](https://infosecwriteups.com/why-you-should-care-about-the-xz-exploit-7144ca210160?source=rss----7b722bfd1b8d---4)
-- [How I Hacked Your Private Repository in GitHub &lpar;And Got JackShit&rpar;](https://infosecwriteups.com/how-i-hacked-your-private-repository-in-github-and-got-jackshit-cb7c342570b2?source=rss----7b722bfd1b8d---4)
+- [[CRITICAL] How I Hacked Your Private Repository in GitHub &lpar;And Got JackShit&rpar;](https://infosecwriteups.com/how-i-hacked-your-private-repository-in-github-and-got-jackshit-cb7c342570b2?source=rss----7b722bfd1b8d---4)
 - [What is the effectiveness of bombarding sites?](https://infosecwriteups.com/what-is-the-effectiveness-of-bombarding-sites-f7308c094e9b?source=rss----7b722bfd1b8d---4)
 - [Unlocking with Cryptography | CTF Newbies](https://infosecwriteups.com/unlocking-with-cryptography-ctf-newbies-bbe042dc97e4?source=rss----7b722bfd1b8d---4)
 - [Broken Access Control &lpar;IDOR&rpar; on Forgot Password Could Lead to Attacker Change Password for Every…](https://medium.com/@blackarazi/broken-access-control-idor-on-forgot-password-could-lead-to-attacker-change-password-for-every-e1b18e075b5a?source=rss------bug_bounty_writeup-5)
