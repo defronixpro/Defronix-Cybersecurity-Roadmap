@@ -908,6 +908,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [HTB CTF: Cracking Passwords with Hashcat](https://infosecwriteups.com/htb-ctf-cracking-passwords-with-hashcat-6a932514e5c8?source=rss----7b722bfd1b8d---4)
 - [A unique SSRF hunt &lpar; Invite user functionality vulnerable to blind SSRF attack &rpar;](https://medium.com/@abhishek8602314652/a-unique-ssrf-hunt-invite-user-functionality-vulnerable-to-blind-ssrf-attack-c6804b2b398b?source=rss------bug_bounty_writeup-5)
 - [HTB — Bashed](https://infosecwriteups.com/htb-bashed-2e7c3915c81e?source=rss----7b722bfd1b8d---4)
 - [XZ Backdoor —  Breaching Trust in Open-Source Collaborative Development](https://infosecwriteups.com/xz-backdoor-breaching-trust-in-open-source-collaborative-development-4b6510629b03?source=rss----7b722bfd1b8d---4)
@@ -921,7 +922,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Exploiting Generative AI Apps With Prompt Injection](https://infosecwriteups.com/exploiting-generative-ai-apps-with-prompt-injection-33b0ff1aa07a?source=rss----7b722bfd1b8d---4)
 - [Why you should care about the xz exploit](https://infosecwriteups.com/why-you-should-care-about-the-xz-exploit-7144ca210160?source=rss----7b722bfd1b8d---4)
 - [[CRITICAL] How I Hacked Your Private Repository in GitHub &lpar;And Got JackShit&rpar;](https://infosecwriteups.com/how-i-hacked-your-private-repository-in-github-and-got-jackshit-cb7c342570b2?source=rss----7b722bfd1b8d---4)
-- [What is the effectiveness of bombarding sites?](https://infosecwriteups.com/what-is-the-effectiveness-of-bombarding-sites-f7308c094e9b?source=rss----7b722bfd1b8d---4)
 - [Broken Access Control &lpar;IDOR&rpar; on Forgot Password Could Lead to Attacker Change Password for Every…](https://medium.com/@blackarazi/broken-access-control-idor-on-forgot-password-could-lead-to-attacker-change-password-for-every-e1b18e075b5a?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Challenge: Day 16–11/04/2024](https://wallotry.medium.com/bug-bounty-challenge-day-16-11-04-2024-effc5c820319?source=rss------bug_bounty_writeup-5)
 - [How a Race Condition Vulnerability Could Cast Multiple Votes](https://www.hackerone.com/vulnerability-management/sherrets-race-condition)
