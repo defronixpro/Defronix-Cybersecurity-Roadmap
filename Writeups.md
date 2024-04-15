@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [CSRF &lpar;1/3&rpar;](https://medium.com/@karimelsayed0x1/csrf-1-3-22050bf9c92c?source=rss------bug_bounty_writeup-5)
 - [HTB CTF: Cracking Passwords with Hashcat](https://infosecwriteups.com/htb-ctf-cracking-passwords-with-hashcat-6a932514e5c8?source=rss----7b722bfd1b8d---4)
 - [A unique SSRF hunt &lpar; Invite user functionality vulnerable to blind SSRF attack &rpar;](https://medium.com/@abhishek8602314652/a-unique-ssrf-hunt-invite-user-functionality-vulnerable-to-blind-ssrf-attack-c6804b2b398b?source=rss------bug_bounty_writeup-5)
 - [HTB — Bashed](https://infosecwriteups.com/htb-bashed-2e7c3915c81e?source=rss----7b722bfd1b8d---4)
@@ -28,7 +29,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Host Header Manipulation Leading to Unauthorized Access to Apple’s Internal Slack bot &lpar;Bug Bounty&rpar;](https://amineaboud.medium.com/unauthorized-access-to-an-internal-app-used-by-apple-to-protect-confidential-information-shared-on-c8835a80079b?source=rss------bug_bounty_writeup-5)
 - [UUIDs Unmasked: Exploiting IDOR for User Data Access](https://medium.com/@cybersolution2172/uuids-unmasked-exploiting-idor-for-user-data-access-b199e3b08563?source=rss------bug_bounty_writeup-5)
 - [The Importance of Credential Rotations: Best Practices for Security and Data Protection](https://www.hackerone.com/vulnerability-management/credentials-rotation)
-- [Race Condition Authentication Bypass Leads to Full Account Takeover](https://medium.com/@keizobugbounty/race-condition-authentication-bypass-leads-to-full-account-takeover-6b5c9bc0a54d?source=rss------bug_bounty_writeup-5)
 - [Ten Practical Tips For High-Value Pentest Engagements](https://www.hackerone.com/penetration-testing/ten-practical-tips-high-value-pentest-engagements)
 - [Pre-Pentest Checklist Part 1: Essential Questions to Answer Before Your Next Pentest](https://www.hackerone.com/penetration-testing/pre-pentest-checklist-part1)
 - [An Emerging Playbook for AI Red Teaming With HackerOne](https://www.hackerone.com/thought-leadership/ai-safety-red-teaming)
