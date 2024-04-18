@@ -908,6 +908,9 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Code Reviews, Small Moments, Big Impacts](https://www.hackerone.com/engineering/code-review-impact)
+- [AI Interaction Hacks: Tips and Tricks for Crafting Effective Prompts](https://www.hackerone.com/engineering/ai-prompting-tips)
+- [Getting Started on Personal Development](https://www.hackerone.com/engineering/personal-development)
 - [Tutorial on x86 Architecture: From Basics to Cybersecurity Links](https://infosecwriteups.com/tutorial-on-x86-architecture-from-basics-to-cybersecurity-links-c01d956d4d85?source=rss----7b722bfd1b8d---4)
 - [NTFS Filesystem: Alternate Data Stream &lpar;ADS&rpar;](https://infosecwriteups.com/ntfs-filesystem-alternate-data-stream-ads-c0e4a2402563?source=rss----7b722bfd1b8d---4)
 - [Creating Payloads with ScareCrow to Mimic Reputable Sources and Bypass Anti-Virus](https://infosecwriteups.com/creating-payloads-with-scarecrow-to-mimic-reputable-sources-and-bypass-anti-virus-01196cac741e?source=rss----7b722bfd1b8d---4)
@@ -955,9 +958,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [NCSC Recognises The Work Of Ethical Hackers With An Appreciation Event](https://www.hackerone.com/customer-stories/ncsc-appreciation-event)
 - [The White House Should Prioritize Cybersecurity in its Budget](https://www.hackerone.com/public-policy/white-house-budget-cybersecurity)
 - [Hai: The AI Assistant for Vulnerability Intelligence](https://www.hackerone.com/ai/hai-ai-assistant-vulnerability-intelligence)
-- [Snap&#39;s Safety Efforts With AI Red Teaming From HackerOne](https://www.hackerone.com/ai/snap-ai-red-teaming)
-- [The Risk of AI Voice Cloning: Q&amp;A With an AI Hacker](https://www.hackerone.com/ai/voice-cloning-qa)
-- [Decoding the Characteristics of Modern Pentesting: Speed](https://www.hackerone.com/penetration-testing/modern-pentesting-speed)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
