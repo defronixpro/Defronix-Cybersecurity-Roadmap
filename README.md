@@ -910,6 +910,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 <!-- WRITEUPS:START -->
 - [Code Reviews, Small Moments, Big Impacts](https://www.hackerone.com/engineering/code-review-impact)
 - [AI Interaction Hacks: Tips and Tricks for Crafting Effective Prompts](https://www.hackerone.com/engineering/ai-prompting-tips)
+- [FAQ: Everything Hackers Need to Know About the 2024 Ambassador World Cup](https://www.hackerone.com/hackerone-community-blog/awc-faq)
 - [Getting Started on Personal Development](https://www.hackerone.com/engineering/personal-development)
 - [Tutorial on x86 Architecture: From Basics to Cybersecurity Links](https://infosecwriteups.com/tutorial-on-x86-architecture-from-basics-to-cybersecurity-links-c01d956d4d85?source=rss----7b722bfd1b8d---4)
 - [NTFS Filesystem: Alternate Data Stream &lpar;ADS&rpar;](https://infosecwriteups.com/ntfs-filesystem-alternate-data-stream-ads-c0e4a2402563?source=rss----7b722bfd1b8d---4)
@@ -957,7 +958,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Shift Left is Dead: A Post Mortem](https://www.hackerone.com/vulnerability-management/shift-left-is-dead)
 - [NCSC Recognises The Work Of Ethical Hackers With An Appreciation Event](https://www.hackerone.com/customer-stories/ncsc-appreciation-event)
 - [The White House Should Prioritize Cybersecurity in its Budget](https://www.hackerone.com/public-policy/white-house-budget-cybersecurity)
-- [Hai: The AI Assistant for Vulnerability Intelligence](https://www.hackerone.com/ai/hai-ai-assistant-vulnerability-intelligence)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
