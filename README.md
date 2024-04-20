@@ -908,6 +908,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Bug Bounty Challenge &lpar;final&rpar;: Day 1–20/04/2024](https://wallotry.medium.com/bug-bounty-challenge-final-day-1-20-04-2024-2db4a6c86cc2?source=rss------bug_bounty_writeup-5)
 - [How I Disclosed Employees PII | The mistake I made..|](https://medium.com/@the.bugcrowd.testerpawan/how-i-disclosed-employees-pii-the-mistake-i-made-ca299a155440?source=rss------bug_bounty_writeup-5)
 - [Race Condition on Change Email Leads to Arbitrary Email Forgery](https://medium.com/@blackarazi/race-condition-on-change-email-leads-to-arbitrary-email-forgery-741b720ac840?source=rss------bug_bounty_writeup-5)
 - [Code Reviews, Small Moments, Big Impacts](https://www.hackerone.com/engineering/code-review-impact)
@@ -939,7 +940,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [HackerOne Company Values Matter: Lead with Integrity](https://www.hackerone.com/culture-and-talent/hackerone-company-values-matter-lead-integrity)
 - [Bug Hunting Methodology for Beginners](https://bevijaygupta.medium.com/bug-hunting-methodology-for-beginners-ce7ee1b11c25?source=rss------bug_bounty_writeup-5)
 - [HackerOne’s Digital First Workplace](https://www.hackerone.com/culture-and-talent/hackerones-digital-first-workplace)
-- [Google Bug Hunters](https://bevijaygupta.medium.com/google-bug-hunters-673e2f5c2600?source=rss------bug_bounty_writeup-5)
 - [The Importance of Credential Rotations: Best Practices for Security and Data Protection](https://www.hackerone.com/engineering/credentials-rotation)
 - [Ten Practical Tips For High-Value Pentest Engagements](https://www.hackerone.com/penetration-testing/ten-practical-tips-high-value-pentest-engagements)
 - [Pre-Pentest Checklist Part 1: Essential Questions to Answer Before Your Next Pentest](https://www.hackerone.com/penetration-testing/pre-pentest-checklist-part1)
