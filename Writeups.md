@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Bug Bounty Challenge &lpar;final&rpar;: Day 1–21/04/2024](https://wallotry.medium.com/bug-bounty-challenge-final-day-1-21-04-2024-f832f23f0464?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Challenge &lpar;final&rpar;: Day 1–20/04/2024](https://wallotry.medium.com/bug-bounty-challenge-final-day-1-20-04-2024-2db4a6c86cc2?source=rss------bug_bounty_writeup-5)
 - [How I Disclosed Employees PII | The mistake I made..|](https://medium.com/@the.bugcrowd.testerpawan/how-i-disclosed-employees-pii-the-mistake-i-made-ca299a155440?source=rss------bug_bounty_writeup-5)
 - [Race Condition on Change Email Leads to Arbitrary Email Forgery](https://medium.com/@blackarazi/race-condition-on-change-email-leads-to-arbitrary-email-forgery-741b720ac840?source=rss------bug_bounty_writeup-5)
@@ -31,7 +32,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [HackerOne Celebrates Global Work from Home Day](https://www.hackerone.com/culture-and-talent/hackerone-celebrates-global-work-home-day)
 - [Decoding the Characteristics of Modern Pentesting: Value](https://www.hackerone.com/penetration-testing/modern-pentesting-value)
 - [HackerOne Company Values Matter: Lead with Integrity](https://www.hackerone.com/culture-and-talent/hackerone-company-values-matter-lead-integrity)
-- [Bug Hunting Methodology for Beginners](https://bevijaygupta.medium.com/bug-hunting-methodology-for-beginners-ce7ee1b11c25?source=rss------bug_bounty_writeup-5)
 - [HackerOne’s Digital First Workplace](https://www.hackerone.com/culture-and-talent/hackerones-digital-first-workplace)
 - [The Importance of Credential Rotations: Best Practices for Security and Data Protection](https://www.hackerone.com/engineering/credentials-rotation)
 - [Ten Practical Tips For High-Value Pentest Engagements](https://www.hackerone.com/penetration-testing/ten-practical-tips-high-value-pentest-engagements)
