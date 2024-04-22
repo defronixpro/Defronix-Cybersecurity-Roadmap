@@ -908,6 +908,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Beware of Method Swapping: Unveiling a Potential Security Vulnerability](https://infosecwriteups.com/beware-of-method-swapping-unveiling-a-potential-security-vulnerability-cc66c867e3b2?source=rss------bug_bounty_writeup-5)
+- [How to avoid burnouts in bugbounty?](https://medium.com/@mr_prey3r/how-to-avoid-burnouts-in-bugbounty-4d97e14f1ff1?source=rss------bug_bounty_writeup-5)
 - [How many months took you to find your first bug ?! Let s see](https://medium.com/@aiz3nsk/how-many-months-took-you-to-find-your-first-bug-let-s-see-c48e4cce0c29?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Challenge &lpar;final&rpar;: Day 2–21/04/2024](https://wallotry.medium.com/bug-bounty-challenge-final-day-1-21-04-2024-f832f23f0464?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Challenge &lpar;final&rpar;: Day 1–20/04/2024](https://wallotry.medium.com/bug-bounty-challenge-final-day-1-20-04-2024-2db4a6c86cc2?source=rss------bug_bounty_writeup-5)
@@ -933,8 +935,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [A unique SSRF hunt &lpar; Invite user functionality vulnerable to blind SSRF attack &rpar;](https://medium.com/@abhishek8602314652/a-unique-ssrf-hunt-invite-user-functionality-vulnerable-to-blind-ssrf-attack-c6804b2b398b?source=rss------bug_bounty_writeup-5)
 - [HackerOne Company Values Matter: Default to Disclosure](https://www.hackerone.com/culture-and-talent/hackerone-company-values-matter-default-disclosure)
 - [Microsoft Bug Bounty](https://bevijaygupta.medium.com/microsoft-bug-bounty-1295263b135e?source=rss------bug_bounty_writeup-5)
-- [Using E-Notation to bypass Access Control restrictions to access arbitrary user PII-discussions](https://medium.com/@keizobugbounty/using-e-notation-to-bypass-access-control-restrictions-to-access-arbitrary-user-pii-discussions-1fa014b544d4?source=rss------bug_bounty_writeup-5)
-- [Broken Access Control &lpar;IDOR&rpar; on Forgot Password Could Lead to Attacker Change Password for Every…](https://medium.com/@blackarazi/broken-access-control-idor-on-forgot-password-could-lead-to-attacker-change-password-for-every-e1b18e075b5a?source=rss------bug_bounty_writeup-5)
 - [How a Race Condition Vulnerability Could Cast Multiple Votes](https://www.hackerone.com/vulnerability-management/sherrets-race-condition)
 - [HackerOne Celebrates Global Work from Home Day](https://www.hackerone.com/culture-and-talent/hackerone-celebrates-global-work-home-day)
 - [Decoding the Characteristics of Modern Pentesting: Value](https://www.hackerone.com/penetration-testing/modern-pentesting-value)
