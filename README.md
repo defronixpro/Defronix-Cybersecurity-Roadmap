@@ -908,7 +908,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [Bug Bounty Challenge &lpar;final&rpar;: Day 1–21/04/2024](https://wallotry.medium.com/bug-bounty-challenge-final-day-1-21-04-2024-f832f23f0464?source=rss------bug_bounty_writeup-5)
+- [Bug Bounty Challenge &lpar;final&rpar;: Day 2–21/04/2024](https://wallotry.medium.com/bug-bounty-challenge-final-day-1-21-04-2024-f832f23f0464?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Challenge &lpar;final&rpar;: Day 1–20/04/2024](https://wallotry.medium.com/bug-bounty-challenge-final-day-1-20-04-2024-2db4a6c86cc2?source=rss------bug_bounty_writeup-5)
 - [How I Disclosed Employees PII | The mistake I made..|](https://medium.com/@the.bugcrowd.testerpawan/how-i-disclosed-employees-pii-the-mistake-i-made-ca299a155440?source=rss------bug_bounty_writeup-5)
 - [Race Condition on Change Email Leads to Arbitrary Email Forgery](https://medium.com/@blackarazi/race-condition-on-change-email-leads-to-arbitrary-email-forgery-741b720ac840?source=rss------bug_bounty_writeup-5)
