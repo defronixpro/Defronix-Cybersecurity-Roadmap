@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How I found my First Valid bug](https://medium.com/@tanyago/how-i-found-my-first-valid-bug-2a9c87ce7a91?source=rss------bug_bounty_writeup-5)
 - [Mastering Shodan Search Engine](https://infosecwriteups.com/mastering-shodan-search-engine-8c80b80dae09?source=rss----7b722bfd1b8d---4)
 - [Email Verification Bypass via Remember Me](https://infosecwriteups.com/email-verification-bypass-via-remember-me-c6d34e6060e9?source=rss----7b722bfd1b8d---4)
 - [Exploiting Symlinks: A Deep Dive into CVE-2024–28185 and CVE-2024–28189 of Judge0 Sandboxes](https://infosecwriteups.com/exploiting-symlinks-a-deep-dive-into-cve-2024-28185-and-cve-2024-28189-of-judge0-sandboxes-36bd471cfc4d?source=rss----7b722bfd1b8d---4)
@@ -27,7 +28,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Pre-Pentest Checklist Part 2: Essential Questions to Answer Before Your Next Pentest](https://www.hackerone.com/penetration-testing/pre-pentest-checklist-part2)
 - [Making Sense of the Sisense News](https://www.hackerone.com/vulnerability-management/sisense-breach)
 - [CSRF &lpar;1/3&rpar;](https://medium.com/@karimelsayed0x1/csrf-1-3-22050bf9c92c?source=rss------bug_bounty_writeup-5)
-- [A unique SSRF hunt &lpar; Invite user functionality vulnerable to blind SSRF attack &rpar;](https://medium.com/@abhishek8602314652/a-unique-ssrf-hunt-invite-user-functionality-vulnerable-to-blind-ssrf-attack-c6804b2b398b?source=rss------bug_bounty_writeup-5)
 - [HackerOne Company Values Matter: Default to Disclosure](https://www.hackerone.com/culture-and-talent/hackerone-company-values-matter-default-disclosure)
 - [How a Race Condition Vulnerability Could Cast Multiple Votes](https://www.hackerone.com/vulnerability-management/sherrets-race-condition)
 - [HackerOne Celebrates Global Work from Home Day](https://www.hackerone.com/culture-and-talent/hackerone-celebrates-global-work-home-day)
