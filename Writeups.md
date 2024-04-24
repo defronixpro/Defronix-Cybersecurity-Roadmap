@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Bug Bounty Challenge &lpar;final&rpar;: Day 4–24/04/2024](https://wallotry.medium.com/bug-bounty-challenge-final-day-4-24-04-2024-ad138e4d1357?source=rss------bug_bounty_writeup-5)
 - [SOC 2 and Pentesting: What You Need to Know](https://www.hackerone.com/security-compliance/soc-2-pentesting)
 - [Hack Stories: Hacking Hackers EP:3](https://infosecwriteups.com/hack-stories-hacking-hackers-ep-3-11b1f0e002e8?source=rss----7b722bfd1b8d---4)
 - [Human-Powered Security: The Value of Ethical Hackers &amp; Bug Bounty](https://www.hackerone.com/vulnerability-management/human-powered-security)
@@ -29,7 +30,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Getting Started on Personal Development](https://www.hackerone.com/engineering/personal-development)
 - [Pre-Pentest Checklist Part 2: Essential Questions to Answer Before Your Next Pentest](https://www.hackerone.com/penetration-testing/pre-pentest-checklist-part2)
 - [Making Sense of the Sisense News](https://www.hackerone.com/vulnerability-management/sisense-breach)
-- [CSRF &lpar;1/3&rpar;](https://medium.com/@karimelsayed0x1/csrf-1-3-22050bf9c92c?source=rss------bug_bounty_writeup-5)
 - [HackerOne Company Values Matter: Default to Disclosure](https://www.hackerone.com/culture-and-talent/hackerone-company-values-matter-default-disclosure)
 - [How a Race Condition Vulnerability Could Cast Multiple Votes](https://www.hackerone.com/vulnerability-management/sherrets-race-condition)
 - [HackerOne Celebrates Global Work from Home Day](https://www.hackerone.com/culture-and-talent/hackerone-celebrates-global-work-home-day)
