@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Bug Bounty Challenge &lpar;final&rpar;: Day 5–25/04/2024](https://wallotry.medium.com/bug-bounty-challenge-final-day-5-25-04-2024-a8d33630fe73?source=rss------bug_bounty_writeup-5)
 - [Understanding 403 Bypass: A Critical Vulnerability in Web Application Security](https://infosecwriteups.com/understanding-403-bypass-a-critical-vulnerability-in-web-application-security-2b9f0318f3a4?source=rss----7b722bfd1b8d---4)
 - [Bug Bounty Tools](https://medium.com/@malishakali2002/bug-bounty-tools-bedcf7b94f8d?source=rss------bug_bounty_writeup-5)
 - [Hack My Career: Meet Frances H](https://www.hackerone.com/culture-and-talent/hack-my-career-meet-frances-h)
@@ -24,7 +25,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How many months took you to find your first bug ?! Let s see](https://medium.com/@aiz3nsk/how-many-months-took-you-to-find-your-first-bug-let-s-see-c48e4cce0c29?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Challenge &lpar;final&rpar;: Day 2–21/04/2024](https://wallotry.medium.com/bug-bounty-challenge-final-day-1-21-04-2024-f832f23f0464?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Challenge &lpar;final&rpar;: Day 1–20/04/2024](https://wallotry.medium.com/bug-bounty-challenge-final-day-1-20-04-2024-2db4a6c86cc2?source=rss------bug_bounty_writeup-5)
-- [How I Disclosed Employees PII | The mistake I made..|](https://medium.com/@the.bugcrowd.testerpawan/how-i-disclosed-employees-pii-the-mistake-i-made-ca299a155440?source=rss------bug_bounty_writeup-5)
 - [Code Reviews, Small Moments, Big Impacts](https://www.hackerone.com/engineering/code-review-impact)
 - [AI Interaction Hacks: Tips and Tricks for Crafting Effective Prompts](https://www.hackerone.com/engineering/ai-prompting-tips)
 - [FAQ: Everything Hackers Need to Know About the 2024 Ambassador World Cup](https://www.hackerone.com/hackerone-community-blog/awc-faq)
