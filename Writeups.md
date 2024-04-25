@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Understanding 403 Bypass: A Critical Vulnerability in Web Application Security](https://infosecwriteups.com/understanding-403-bypass-a-critical-vulnerability-in-web-application-security-2b9f0318f3a4?source=rss----7b722bfd1b8d---4)
 - [Bug Bounty Tools](https://medium.com/@malishakali2002/bug-bounty-tools-bedcf7b94f8d?source=rss------bug_bounty_writeup-5)
 - [Hack My Career: Meet Frances H](https://www.hackerone.com/culture-and-talent/hack-my-career-meet-frances-h)
 - [Bug Bounty Challenge &lpar;final&rpar;: Day 4–24/04/2024](https://wallotry.medium.com/bug-bounty-challenge-final-day-4-24-04-2024-ad138e4d1357?source=rss------bug_bounty_writeup-5)
@@ -16,7 +17,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Information Disclosure: Story of 500€ + 400$ Bounty](https://infosecwriteups.com/information-disclosure-story-of-500-400-bounty-97d3b343f9ad?source=rss----7b722bfd1b8d---4)
 - [Demystifying Password Cracking: Attacks and Defence Strategies](https://infosecwriteups.com/demystifying-password-cracking-attacks-and-defence-strategies-1304bda73249?source=rss----7b722bfd1b8d---4)
 - [Race Condition and Broken Access Control on Developer Dashboard](https://infosecwriteups.com/race-condition-and-broken-access-control-on-developer-dashboard-2a4e62c5f841?source=rss----7b722bfd1b8d---4)
-- [Windows Fundamentals 1 | TryHackMe Walk-Through](https://infosecwriteups.com/windows-fundamentals-1-tryhackme-walkthrough-20fae4f9bd68?source=rss----7b722bfd1b8d---4)
 - [Bug Bounty Challenge &lpar;final&rpar;: Day 3–22/04/2024](https://wallotry.medium.com/bug-bounty-challenge-final-day-3-22-04-2024-51adde52bf60?source=rss------bug_bounty_writeup-5)
 - [Beware of Method Swapping: Unveiling a Potential Security Vulnerability](https://medium.com/@hohky_/beware-of-method-swapping-unveiling-a-potential-security-vulnerability-cc66c867e3b2?source=rss------bug_bounty_writeup-5)
 - [How to avoid burnouts in bugbounty?](https://medium.com/@mr_prey3r/how-to-avoid-burnouts-in-bugbounty-4d97e14f1ff1?source=rss------bug_bounty_writeup-5)
