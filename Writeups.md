@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Bug Bounty Challenge &lpar;final&rpar;: Day 8–28/04/2024](https://wallotry.medium.com/bug-bounty-challenge-final-day-8-28-04-2024-67bac40e6a35?source=rss------bug_bounty_writeup-5)
 - [How to choose less competitive Bug Bounty Programs &lpar; No VDPs&rpar;](https://medium.com/@h3mantsaini/how-to-choose-less-competitive-bug-bounty-programs-no-vdps-0acc3ddfe9b8?source=rss------bug_bounty_writeup-5)
 - [Private Interact.sh server setup with a web dashboard](https://infosecwriteups.com/private-interact-sh-server-setup-with-a-web-dashboard-6b0320645536?source=rss----7b722bfd1b8d---4)
 - [I found a simple but rare misconfiguration and got $200 on a hackerone program](https://harish45.medium.com/i-found-a-simple-but-rare-misconfiguration-and-got-200-on-a-hackerone-program-5863b6c51538?source=rss------bug_bounty_writeup-5)
@@ -25,7 +26,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Beware of Method Swapping: Unveiling a Potential Security Vulnerability](https://infosecwriteups.com/beware-of-method-swapping-unveiling-a-potential-security-vulnerability-cc66c867e3b2?source=rss------bug_bounty_writeup-5)
 - [How to avoid burnouts in bugbounty?](https://medium.com/@mr_prey3r/how-to-avoid-burnouts-in-bugbounty-4d97e14f1ff1?source=rss------bug_bounty_writeup-5)
 - [Capital One Teams Up With Top-Tier Ethical Hackers at H1-305](https://www.hackerone.com/lhe/capital-one-h1-305)
-- [How many months took you to find your first bug ?! Let s see](https://medium.com/@aiz3nsk/how-many-months-took-you-to-find-your-first-bug-let-s-see-c48e4cce0c29?source=rss------bug_bounty_writeup-5)
 - [Code Reviews, Small Moments, Big Impacts](https://www.hackerone.com/engineering/code-review-impact)
 - [AI Interaction Hacks: Tips and Tricks for Crafting Effective Prompts](https://www.hackerone.com/engineering/ai-prompting-tips)
 - [FAQ: Everything Hackers Need to Know About the 2024 Ambassador World Cup](https://www.hackerone.com/hackerone-community-blog/awc-faq)
