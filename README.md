@@ -908,8 +908,14 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Think You’re Talking to Real Customer Service? Think Again: Unveiling the Customer Service Scam](https://infosecwriteups.com/think-youre-talking-to-real-customer-service-think-again-unveiling-the-customer-service-scam-f212919a79fb?source=rss----7b722bfd1b8d---4)
+- [Improve Your Security Skills with OWASP Juice Shop!](https://infosecwriteups.com/improve-your-security-skills-with-owasp-juice-shop-78f36797ef1c?source=rss----7b722bfd1b8d---4)
+- [Is That Really Your Bank Calling? Unraveling the Web of Vishing Scams!](https://infosecwriteups.com/is-that-really-your-bank-calling-unraveling-the-web-of-vishing-scams-d52439b5fd15?source=rss----7b722bfd1b8d---4)
 - [Bug Bounty Challenge &lpar;final&rpar;: Day 8–28/04/2024](https://wallotry.medium.com/bug-bounty-challenge-final-day-8-28-04-2024-67bac40e6a35?source=rss------bug_bounty_writeup-5)
 - [How to choose less competitive Bug Bounty Programs &lpar; No VDPs&rpar;](https://medium.com/@h3mantsaini/how-to-choose-less-competitive-bug-bounty-programs-no-vdps-0acc3ddfe9b8?source=rss------bug_bounty_writeup-5)
+- [Lessons Learned from Over a Decade of On-Call](https://www.hackerone.com/engineering/on-call-lessons)
+- [Kubernetes — A Journey Has Just Begun](https://www.hackerone.com/engineering/kubernetes)
+- [On Writing Well as a Software Engineer](https://www.hackerone.com/engineering/writing-tips-software-engineer)
 - [Private Interact.sh server setup with a web dashboard](https://infosecwriteups.com/private-interact-sh-server-setup-with-a-web-dashboard-6b0320645536?source=rss----7b722bfd1b8d---4)
 - [I found a simple but rare misconfiguration and got $200 on a hackerone program](https://harish45.medium.com/i-found-a-simple-but-rare-misconfiguration-and-got-200-on-a-hackerone-program-5863b6c51538?source=rss------bug_bounty_writeup-5)
 - [Accelerate Find-to-Fix Cycles With Hai](https://www.hackerone.com/ai/accelerate-find-to-fix-hai)
@@ -926,9 +932,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Email Verification Bypass via Remember Me](https://infosecwriteups.com/email-verification-bypass-via-remember-me-c6d34e6060e9?source=rss----7b722bfd1b8d---4)
 - [Exploiting Symlinks: A Deep Dive into CVE-2024–28185 and CVE-2024–28189 of Judge0 Sandboxes](https://infosecwriteups.com/exploiting-symlinks-a-deep-dive-into-cve-2024-28185-and-cve-2024-28189-of-judge0-sandboxes-36bd471cfc4d?source=rss----7b722bfd1b8d---4)
 - [Typo Trouble: Exploring the Telegram Python RCE Vulnerability](https://infosecwriteups.com/typo-trouble-exploring-the-telegram-python-rce-vulnerability-b7bc8a12c9ba?source=rss----7b722bfd1b8d---4)
-- [Active DNS Recon using AXIOM](https://infosecwriteups.com/active-dns-recon-using-axiom-a5239b95f5ad?source=rss----7b722bfd1b8d---4)
-- [Information Disclosure: Story of 500€ + 400$ Bounty](https://infosecwriteups.com/information-disclosure-story-of-500-400-bounty-97d3b343f9ad?source=rss----7b722bfd1b8d---4)
-- [Demystifying Password Cracking: Attacks and Defence Strategies](https://infosecwriteups.com/demystifying-password-cracking-attacks-and-defence-strategies-1304bda73249?source=rss----7b722bfd1b8d---4)
 - [Bug Bounty Challenge &lpar;final&rpar;: Day 3–22/04/2024](https://wallotry.medium.com/bug-bounty-challenge-final-day-3-22-04-2024-51adde52bf60?source=rss------bug_bounty_writeup-5)
 - [Beware of Method Swapping: Unveiling a Potential Security Vulnerability](https://infosecwriteups.com/beware-of-method-swapping-unveiling-a-potential-security-vulnerability-cc66c867e3b2?source=rss------bug_bounty_writeup-5)
 - [How to avoid burnouts in bugbounty?](https://medium.com/@mr_prey3r/how-to-avoid-burnouts-in-bugbounty-4d97e14f1ff1?source=rss------bug_bounty_writeup-5)
@@ -955,9 +958,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Vulnerability Disclosure Policy Requirements for UK Smart Products](https://www.hackerone.com/public-policy/vdp-requirements-uk-smart-products)
 - [What Are Bug Bounties and How Do They Work?](https://www.hackerone.com/vulnerability-management/what-are-bug-bounties-how-do-they-work-examples)
 - [How an Information Disclosure Vulnerability Led to Critical Data Exposure](https://www.hackerone.com/vulnerability-management/information-disclosure-deep-dive)
-- [Reversing The Trend: Support and Mediation Win as a Team](https://www.hackerone.com/culture-and-talent/reversing-trend-support-and-mediation-win-team)
-- [Decoding the Characteristics of Modern Pentesting: Effectiveness](https://www.hackerone.com/penetration-testing/modern-pentesting-effectiveness)
-- [Degrees of Innovation: HackerOne’s Next Step in Inclusive Hiring](https://www.hackerone.com/culture-and-talent/degrees-innovation-hackerones-next-step-inclusive-hiring)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
