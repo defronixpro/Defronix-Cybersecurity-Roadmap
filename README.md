@@ -908,6 +908,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Bug Bounty Challenge &lpar;final&rpar;: Day 9–29/04/2024](https://wallotry.medium.com/bug-bounty-challenge-final-day-9-29-04-2024-9643d90e3ccf?source=rss------bug_bounty_writeup-5)
 - [The Diamond Model: Simple Intelligence-Driven Intrusion Analysis](https://infosecwriteups.com/the-diamond-model-simple-intelligence-driven-intrusion-analysis-b422e0e5da26?source=rss----7b722bfd1b8d---4)
 - [Analysis of Competing Hypotheses: How to Find Plausible Answers](https://infosecwriteups.com/analysis-of-competing-hypotheses-how-to-find-plausible-answers-d5992ac545a1?source=rss----7b722bfd1b8d---4)
 - [Devvortex Hackthebox Walkthrough](https://infosecwriteups.com/devvortex-hackthebox-walkthrough-6b6cbf8df1eb?source=rss----7b722bfd1b8d---4)
@@ -934,7 +935,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How I found my First Valid bug](https://medium.com/@tanyago/how-i-found-my-first-valid-bug-2a9c87ce7a91?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Challenge &lpar;final&rpar;: Day 3–22/04/2024](https://wallotry.medium.com/bug-bounty-challenge-final-day-3-22-04-2024-51adde52bf60?source=rss------bug_bounty_writeup-5)
 - [Beware of Method Swapping: Unveiling a Potential Security Vulnerability](https://infosecwriteups.com/beware-of-method-swapping-unveiling-a-potential-security-vulnerability-cc66c867e3b2?source=rss------bug_bounty_writeup-5)
-- [How to avoid burnouts in bugbounty?](https://medium.com/@mr_prey3r/how-to-avoid-burnouts-in-bugbounty-4d97e14f1ff1?source=rss------bug_bounty_writeup-5)
 - [Capital One Teams Up With Top-Tier Ethical Hackers at H1-305](https://www.hackerone.com/lhe/capital-one-h1-305)
 - [Code Reviews, Small Moments, Big Impacts](https://www.hackerone.com/engineering/code-review-impact)
 - [AI Interaction Hacks: Tips and Tricks for Crafting Effective Prompts](https://www.hackerone.com/engineering/ai-prompting-tips)
