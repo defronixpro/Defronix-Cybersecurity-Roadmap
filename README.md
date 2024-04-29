@@ -909,6 +909,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
 - [Bug Bounty Challenge &lpar;final&rpar;: Day 9–29/04/2024](https://wallotry.medium.com/bug-bounty-challenge-final-day-9-29-04-2024-9643d90e3ccf?source=rss------bug_bounty_writeup-5)
+- [How a Prompt Injection Vulnerability Led to Data Exfiltration](https://www.hackerone.com/ai/prompt-injection-deep-dive)
 - [The Diamond Model: Simple Intelligence-Driven Intrusion Analysis](https://infosecwriteups.com/the-diamond-model-simple-intelligence-driven-intrusion-analysis-b422e0e5da26?source=rss----7b722bfd1b8d---4)
 - [Analysis of Competing Hypotheses: How to Find Plausible Answers](https://infosecwriteups.com/analysis-of-competing-hypotheses-how-to-find-plausible-answers-d5992ac545a1?source=rss----7b722bfd1b8d---4)
 - [Devvortex Hackthebox Walkthrough](https://infosecwriteups.com/devvortex-hackthebox-walkthrough-6b6cbf8df1eb?source=rss----7b722bfd1b8d---4)
@@ -957,7 +958,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Recap: Experts Break Down AI Red Teaming in a Live Q&amp;A](https://www.hackerone.com/generative-ai/recap-experts-break-down-ai-red-teaming-live-qa)
 - [Vulnerability Disclosure Policy Requirements for UK Smart Products](https://www.hackerone.com/public-policy/vdp-requirements-uk-smart-products)
 - [What Are Bug Bounties and How Do They Work?](https://www.hackerone.com/vulnerability-management/what-are-bug-bounties-how-do-they-work-examples)
-- [How an Information Disclosure Vulnerability Led to Critical Data Exposure](https://www.hackerone.com/vulnerability-management/information-disclosure-deep-dive)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
