@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [No Dev Team? No Problem: Writing Malware and Anti-Malware With GenAI](https://infosecwriteups.com/no-dev-team-no-problem-writing-malware-and-anti-malware-with-genai-cbce13160e13?source=rss----7b722bfd1b8d---4)
 - [Bug Bounty Challenge &lpar;final&rpar;: Day 9–29/04/2024](https://wallotry.medium.com/bug-bounty-challenge-final-day-9-29-04-2024-9643d90e3ccf?source=rss------bug_bounty_writeup-5)
 - [How a Prompt Injection Vulnerability Led to Data Exfiltration](https://www.hackerone.com/ai/prompt-injection-deep-dive)
 - [The Diamond Model: Simple Intelligence-Driven Intrusion Analysis](https://infosecwriteups.com/the-diamond-model-simple-intelligence-driven-intrusion-analysis-b422e0e5da26?source=rss----7b722bfd1b8d---4)
@@ -12,7 +13,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How to Optimize Data Sources: Collection Management Framework](https://infosecwriteups.com/how-to-optimize-data-sources-collection-management-framework-190a9e5dd781?source=rss----7b722bfd1b8d---4)
 - [Should You Invest In Cybersecurity Degrees or Certifications For Your Career ??](https://infosecwriteups.com/should-you-invest-in-cybersecurity-degrees-or-certifications-for-your-career-d8347ef47177?source=rss----7b722bfd1b8d---4)
 - [Reading Between the Lines of Code: Ziraat_Stealer](https://infosecwriteups.com/reading-between-the-lines-of-code-ziraat-stealer-68f4971d0e85?source=rss----7b722bfd1b8d---4)
-- [Securing Your Data in the Cloud](https://infosecwriteups.com/securing-your-data-in-the-cloud-479131efd5fc?source=rss----7b722bfd1b8d---4)
 - [Bug Bounty Challenge &lpar;final&rpar;: Day 8–28/04/2024](https://wallotry.medium.com/bug-bounty-challenge-final-day-8-28-04-2024-67bac40e6a35?source=rss------bug_bounty_writeup-5)
 - [How to choose less competitive Bug Bounty Programs &lpar; No VDPs&rpar;](https://medium.com/@h3mantsaini/how-to-choose-less-competitive-bug-bounty-programs-no-vdps-0acc3ddfe9b8?source=rss------bug_bounty_writeup-5)
 - [Lessons Learned from Over a Decade of On-Call](https://www.hackerone.com/engineering/on-call-lessons)
