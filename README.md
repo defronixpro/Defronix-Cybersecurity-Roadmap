@@ -908,7 +908,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [Bug Bounty Challenge &lpar;final&rpar;: [CONCLUSION]](https://wallotry.medium.com/bug-bounty-challenge-final-day-10-30-04-2024-75a6f93d2687?source=rss------bug_bounty_writeup-5)
+- [Bug Bounty Challenge &lpar;final&rpar;: CONCLUSION](https://wallotry.medium.com/bug-bounty-challenge-final-day-10-30-04-2024-75a6f93d2687?source=rss------bug_bounty_writeup-5)
 - [Honeypots 101: A Beginner’s Guide to Honeypots](https://infosecwriteups.com/honeypots-101-a-beginners-guide-to-honeypots-51469d90d125?source=rss----7b722bfd1b8d---4)
 - [No Dev Team? No Problem: Writing Malware and Anti-Malware With GenAI](https://infosecwriteups.com/no-dev-team-no-problem-writing-malware-and-anti-malware-with-genai-cbce13160e13?source=rss----7b722bfd1b8d---4)
 - [Bug Bounty Challenge &lpar;final&rpar;: Day 9–29/04/2024](https://wallotry.medium.com/bug-bounty-challenge-final-day-9-29-04-2024-9643d90e3ccf?source=rss------bug_bounty_writeup-5)
