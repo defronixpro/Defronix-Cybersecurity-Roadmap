@@ -908,6 +908,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [My First Verified Bug Bounty: Unmasking Flaws in University Web Apps](https://medium.com/@rafisyafrinaldi17/my-first-verified-bug-bounty-unmasking-flaws-in-university-web-apps-6c6b5fb1e8da?source=rss------bug_bounty_writeup-5)
 - [How I Bypass CSP that allow a iframe injection in a chat bot + HTML injection on emails](https://medium.com/@jeetpal2007/how-i-bypass-csp-that-allow-a-iframe-injection-in-a-chat-bot-html-injection-on-emails-9d588aeef4c3?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Challenge &lpar;final&rpar;: CONCLUSION](https://wallotry.medium.com/bug-bounty-challenge-final-day-10-30-04-2024-75a6f93d2687?source=rss------bug_bounty_writeup-5)
 - [Honeypots 101: A Beginner’s Guide to Honeypots](https://infosecwriteups.com/honeypots-101-a-beginners-guide-to-honeypots-51469d90d125?source=rss----7b722bfd1b8d---4)
@@ -935,7 +936,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Bug Bounty Challenge &lpar;final&rpar;: Day 4–24/04/2024](https://wallotry.medium.com/bug-bounty-challenge-final-day-4-24-04-2024-ad138e4d1357?source=rss------bug_bounty_writeup-5)
 - [SOC 2 and Pentesting: What You Need to Know](https://www.hackerone.com/security-compliance/soc-2-pentesting)
 - [Human-Powered Security: The Value of Ethical Hackers &amp; Bug Bounty](https://www.hackerone.com/vulnerability-management/human-powered-security)
-- [How I found my First Valid bug](https://medium.com/@tanyago/how-i-found-my-first-valid-bug-2a9c87ce7a91?source=rss------bug_bounty_writeup-5)
 - [Capital One Teams Up With Top-Tier Ethical Hackers at H1-305](https://www.hackerone.com/lhe/capital-one-h1-305)
 - [Code Reviews, Small Moments, Big Impacts](https://www.hackerone.com/engineering/code-review-impact)
 - [AI Interaction Hacks: Tips and Tricks for Crafting Effective Prompts](https://www.hackerone.com/engineering/ai-prompting-tips)
