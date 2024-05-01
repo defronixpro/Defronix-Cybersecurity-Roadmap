@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How I Bypass CSP that allow a iframe injection in a chat bot + HTML injection on emails](https://medium.com/@jeetpal2007/how-i-bypass-csp-that-allow-a-iframe-injection-in-a-chat-bot-html-injection-on-emails-9d588aeef4c3?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Challenge &lpar;final&rpar;: CONCLUSION](https://wallotry.medium.com/bug-bounty-challenge-final-day-10-30-04-2024-75a6f93d2687?source=rss------bug_bounty_writeup-5)
 - [Honeypots 101: A Beginner’s Guide to Honeypots](https://infosecwriteups.com/honeypots-101-a-beginners-guide-to-honeypots-51469d90d125?source=rss----7b722bfd1b8d---4)
 - [No Dev Team? No Problem: Writing Malware and Anti-Malware With GenAI](https://infosecwriteups.com/no-dev-team-no-problem-writing-malware-and-anti-malware-with-genai-cbce13160e13?source=rss----7b722bfd1b8d---4)
@@ -28,7 +29,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [SOC 2 and Pentesting: What You Need to Know](https://www.hackerone.com/security-compliance/soc-2-pentesting)
 - [Human-Powered Security: The Value of Ethical Hackers &amp; Bug Bounty](https://www.hackerone.com/vulnerability-management/human-powered-security)
 - [How I found my First Valid bug](https://medium.com/@tanyago/how-i-found-my-first-valid-bug-2a9c87ce7a91?source=rss------bug_bounty_writeup-5)
-- [Bug Bounty Challenge &lpar;final&rpar;: Day 3–22/04/2024](https://wallotry.medium.com/bug-bounty-challenge-final-day-3-22-04-2024-51adde52bf60?source=rss------bug_bounty_writeup-5)
 - [Capital One Teams Up With Top-Tier Ethical Hackers at H1-305](https://www.hackerone.com/lhe/capital-one-h1-305)
 - [Code Reviews, Small Moments, Big Impacts](https://www.hackerone.com/engineering/code-review-impact)
 - [AI Interaction Hacks: Tips and Tricks for Crafting Effective Prompts](https://www.hackerone.com/engineering/ai-prompting-tips)
