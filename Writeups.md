@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [AWS S3 Bucket Misconfiguration Exposes PII and Documents of Job Seekers](https://infosecwriteups.com/aws-s3-bucket-misconfiguration-exposes-pii-and-documents-of-job-seekers-7b1332b0ecf1?source=rss----7b722bfd1b8d---4)
 - [HackerOne’s Next Stage of Growth](https://www.hackerone.com/hackerones-next-stage-growth)
 - [My First Verified Bug Bounty: Unmasking Flaws in University Web Apps](https://medium.com/@rafisyafrinaldi17/my-first-verified-bug-bounty-unmasking-flaws-in-university-web-apps-6c6b5fb1e8da?source=rss------bug_bounty_writeup-5)
 - [How I Bypass CSP that allow a iframe injection in a chat bot + HTML injection on emails](https://medium.com/@jeetpal2007/how-i-bypass-csp-that-allow-a-iframe-injection-in-a-chat-bot-html-injection-on-emails-9d588aeef4c3?source=rss------bug_bounty_writeup-5)
@@ -16,7 +17,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How I Accidentally Discovered an Insecure Direct Object Reference &lpar;IDOR&rpar; Vulnerability on Coursera](https://infosecwriteups.com/how-i-accidentally-discovered-an-insecure-direct-object-reference-idor-vulnerability-on-coursera-5ee2a1200742?source=rss----7b722bfd1b8d---4)
 - [TryHackMe - Mr. Robot CTF](https://infosecwriteups.com/tryhackme-mr-robot-ctf-eca346eaa793?source=rss----7b722bfd1b8d---4)
 - [Threat Modeling: A Staple of Great Cyber Threat Intelligence](https://infosecwriteups.com/threat-modeling-a-staple-of-great-cyber-threat-intelligence-ebd5d42fc397?source=rss----7b722bfd1b8d---4)
-- [How to Optimize Data Sources: Collection Management Framework](https://infosecwriteups.com/how-to-optimize-data-sources-collection-management-framework-190a9e5dd781?source=rss----7b722bfd1b8d---4)
 - [Bug Bounty Challenge &lpar;final&rpar;: Day 8–28/04/2024](https://wallotry.medium.com/bug-bounty-challenge-final-day-8-28-04-2024-67bac40e6a35?source=rss------bug_bounty_writeup-5)
 - [How to choose less competitive Bug Bounty Programs &lpar; No VDPs&rpar;](https://medium.com/@h3mantsaini/how-to-choose-less-competitive-bug-bounty-programs-no-vdps-0acc3ddfe9b8?source=rss------bug_bounty_writeup-5)
 - [Lessons Learned from Over a Decade of On-Call](https://www.hackerone.com/engineering/on-call-lessons)
