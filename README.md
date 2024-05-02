@@ -915,6 +915,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [CREST and Pentesting: What You Need to Know](https://www.hackerone.com/security-compliance/crest-pentesting)
+- [HackerOne and Zoom Select EverythingALS as the Latest Charity For #Hackforgood](https://www.hackerone.com/customer-stories/zoom-als-hackforgood)
 - [AWS S3 Bucket Misconfiguration Exposes PII and Documents of Job Seekers](https://infosecwriteups.com/aws-s3-bucket-misconfiguration-exposes-pii-and-documents-of-job-seekers-7b1332b0ecf1?source=rss----7b722bfd1b8d---4)
 - [HackerOne’s Next Stage of Growth](https://www.hackerone.com/hackerones-next-stage-growth)
 - [My First Verified Bug Bounty: Unmasking Flaws in University Web Apps](https://medium.com/@rafisyafrinaldi17/my-first-verified-bug-bounty-unmasking-flaws-in-university-web-apps-6c6b5fb1e8da?source=rss------bug_bounty_writeup-5)
@@ -963,8 +965,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [What Are Bug Bounties and How Do They Work?](https://www.hackerone.com/vulnerability-management/what-are-bug-bounties-how-do-they-work-examples)
 - [How an Information Disclosure Vulnerability Led to Critical Data Exposure](https://www.hackerone.com/vulnerability-management/information-disclosure-deep-dive)
 - [Reversing The Trend: Support and Mediation Win as a Team](https://www.hackerone.com/culture-and-talent/reversing-trend-support-and-mediation-win-team)
-- [Decoding the Characteristics of Modern Pentesting: Effectiveness](https://www.hackerone.com/penetration-testing/modern-pentesting-effectiveness)
-- [Degrees of Innovation: HackerOne’s Next Step in Inclusive Hiring](https://www.hackerone.com/culture-and-talent/degrees-innovation-hackerones-next-step-inclusive-hiring)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
