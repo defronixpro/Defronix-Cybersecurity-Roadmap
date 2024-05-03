@@ -915,6 +915,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [HackerOne’s Spring Day of Service](https://www.hackerone.com/culture-and-talent/hackerones-spring-day-service)
 - [CREST and Pentesting: What You Need to Know](https://www.hackerone.com/security-compliance/crest-pentesting)
 - [HackerOne and Zoom Select EverythingALS as the Latest Charity For #Hackforgood](https://www.hackerone.com/customer-stories/zoom-als-hackforgood)
 - [AWS S3 Bucket Misconfiguration Exposes PII and Documents of Job Seekers](https://infosecwriteups.com/aws-s3-bucket-misconfiguration-exposes-pii-and-documents-of-job-seekers-7b1332b0ecf1?source=rss----7b722bfd1b8d---4)
@@ -964,7 +965,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Vulnerability Disclosure Policy Requirements for UK Smart Products](https://www.hackerone.com/public-policy/vdp-requirements-uk-smart-products)
 - [What Are Bug Bounties and How Do They Work?](https://www.hackerone.com/vulnerability-management/what-are-bug-bounties-how-do-they-work-examples)
 - [How an Information Disclosure Vulnerability Led to Critical Data Exposure](https://www.hackerone.com/vulnerability-management/information-disclosure-deep-dive)
-- [Reversing The Trend: Support and Mediation Win as a Team](https://www.hackerone.com/culture-and-talent/reversing-trend-support-and-mediation-win-team)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
