@@ -915,6 +915,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [BugBountyTraining Lab: FastFoodHackings Part 1](https://hoppp3r.medium.com/bugbountytraining-lab-fastfoodhackings-part-1-39a7b06fdef9?source=rss------bug_bounty_writeup-5)
 - [HackerOne’s Spring Day of Service](https://www.hackerone.com/culture-and-talent/hackerones-spring-day-service)
 - [CREST and Pentesting: What You Need to Know](https://www.hackerone.com/security-compliance/crest-pentesting)
 - [HackerOne and Zoom Select EverythingALS as the Latest Charity For #Hackforgood](https://www.hackerone.com/customer-stories/zoom-als-hackforgood)
@@ -964,7 +965,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Recap: Experts Break Down AI Red Teaming in a Live Q&amp;A](https://www.hackerone.com/generative-ai/recap-experts-break-down-ai-red-teaming-live-qa)
 - [Vulnerability Disclosure Policy Requirements for UK Smart Products](https://www.hackerone.com/public-policy/vdp-requirements-uk-smart-products)
 - [What Are Bug Bounties and How Do They Work?](https://www.hackerone.com/vulnerability-management/what-are-bug-bounties-how-do-they-work-examples)
-- [How an Information Disclosure Vulnerability Led to Critical Data Exposure](https://www.hackerone.com/vulnerability-management/information-disclosure-deep-dive)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
