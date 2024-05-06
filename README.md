@@ -782,6 +782,13 @@ In order to expand, you need to click (arrow button) on respective mentioned dom
 
 <!-- ANDROID:START --><table>
 <tr>
+<td><a href="https://www.youtube.com/watch?v=rskuGUMltfE"><img width="140px" src="http://img.youtube.com/vi/rskuGUMltfE/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=rskuGUMltfE">Android Pentesting Live Training Announcement For Bug Hunters [ Hindi ]</a><br/>May 6, 2024</td>
+</tr>
+</table>
+
+<table>
+<tr>
 <td><a href="https://www.youtube.com/watch?v=C6_6Q9xJ8Nk"><img width="140px" src="http://img.youtube.com/vi/C6_6Q9xJ8Nk/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=C6_6Q9xJ8Nk">Using Emulator To Setup Android Pentesting Lab Part 2 - Bug Bounty Free Course [ Hindi ]</a><br/>Dec 27, 2023</td>
 </tr>
