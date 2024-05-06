@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Join HackerOne’s Ambassador World Cup](https://www.hackerone.com/lhe/join-ambassador-world-cup)
 - [BugBountyTraining Lab: FastFoodHackings Part 1](https://hoppp3r.medium.com/bugbountytraining-lab-fastfoodhackings-part-1-39a7b06fdef9?source=rss------bug_bounty_writeup-5)
 - [Follow-up or Fail](https://www.hackerone.com/engineering/follow-up-or-fail)
 - [HackerOne Invests in Leaders with New Development Program](https://www.hackerone.com/culture-and-talent/hackerone-invests-leaders-new-development-program)
@@ -971,7 +972,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [An Emerging Playbook for AI Red Teaming With HackerOne](https://www.hackerone.com/thought-leadership/ai-safety-red-teaming)
 - [XZ Utils CVE-2024-3094: A Tale of Broken Trust, Curious Persistence, and a Call to Action](https://www.hackerone.com/vulnerability-management/cve-2024-3094)
 - [HackerOne Company Values Matter: Respect All People](https://www.hackerone.com/culture-and-talent/hackerone-company-values-matter-respect-all-people)
-- [Recap: Experts Break Down AI Red Teaming in a Live Q&amp;A](https://www.hackerone.com/generative-ai/recap-experts-break-down-ai-red-teaming-live-qa)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
