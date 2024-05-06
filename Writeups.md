@@ -2,6 +2,8 @@
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
 - [BugBountyTraining Lab: FastFoodHackings Part 1](https://hoppp3r.medium.com/bugbountytraining-lab-fastfoodhackings-part-1-39a7b06fdef9?source=rss------bug_bounty_writeup-5)
+- [Follow-up or Fail](https://www.hackerone.com/engineering/follow-up-or-fail)
+- [HackerOne Invests in Leaders with New Development Program](https://www.hackerone.com/culture-and-talent/hackerone-invests-leaders-new-development-program)
 - [HackerOne’s Spring Day of Service](https://www.hackerone.com/culture-and-talent/hackerones-spring-day-service)
 - [CREST and Pentesting: What You Need to Know](https://www.hackerone.com/security-compliance/crest-pentesting)
 - [HackerOne and Zoom Select EverythingALS as the Latest Charity For #Hackforgood](https://www.hackerone.com/customer-stories/zoom-als-hackforgood)
