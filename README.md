@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Setting Up an Environment for Web Hacking](https://www.hackerone.com/ethical-hacker/setting-up-web-hacking-environment)
 - [Join HackerOne’s Ambassador World Cup](https://www.hackerone.com/lhe/join-ambassador-world-cup)
 - [BugBountyTraining Lab: FastFoodHackings Part 1](https://hoppp3r.medium.com/bugbountytraining-lab-fastfoodhackings-part-1-39a7b06fdef9?source=rss------bug_bounty_writeup-5)
 - [Follow-up or Fail](https://www.hackerone.com/engineering/follow-up-or-fail)
@@ -959,7 +960,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [FAQ: Everything Hackers Need to Know About the 2024 Ambassador World Cup](https://www.hackerone.com/hackerone-community-blog/awc-faq)
 - [Getting Started on Personal Development](https://www.hackerone.com/engineering/personal-development)
 - [Pre-Pentest Checklist Part 2: Essential Questions to Answer Before Your Next Pentest](https://www.hackerone.com/penetration-testing/pre-pentest-checklist-part2)
-- [Making Sense of the Sisense News](https://www.hackerone.com/vulnerability-management/sisense-breach)
 - [HackerOne Company Values Matter: Default to Disclosure](https://www.hackerone.com/culture-and-talent/hackerone-company-values-matter-default-disclosure)
 - [How a Race Condition Vulnerability Could Cast Multiple Votes](https://www.hackerone.com/vulnerability-management/sherrets-race-condition)
 - [HackerOne Celebrates Global Work from Home Day](https://www.hackerone.com/culture-and-talent/hackerone-celebrates-global-work-home-day)
