@@ -923,7 +923,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
 - [How I Hacked Indian Government Sub-Registrar Database](https://medium.com/@maxcyber882/how-i-hacked-indian-government-sub-registrar-database-18a4f4670f07?source=rss------bug_bounty_writeup-5)
-- [ISO 27001 and Pentesting: What You Need to Know](https://www.hackerone.com/security-compliance/iso-27001-pentesting)
 - [BugBountyTraining Lab: FastFoodHackings Part 2](https://hoppp3r.medium.com/bugbountytraining-lab-fastfoodhackings-part-2-313e9e6ffbd4?source=rss------bug_bounty_writeup-5)
 - [Setting Up an Environment for Web Hacking](https://www.hackerone.com/ethical-hacker/setting-up-web-hacking-environment)
 - [Join HackerOne’s Ambassador World Cup](https://www.hackerone.com/lhe/join-ambassador-world-cup)
@@ -972,6 +971,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Ten Practical Tips For High-Value Pentest Engagements](https://www.hackerone.com/penetration-testing/ten-practical-tips-high-value-pentest-engagements)
 - [Pre-Pentest Checklist Part 1: Essential Questions to Answer Before Your Next Pentest](https://www.hackerone.com/penetration-testing/pre-pentest-checklist-part1)
 - [An Emerging Playbook for AI Red Teaming With HackerOne](https://www.hackerone.com/thought-leadership/ai-safety-red-teaming)
+- [XZ Utils CVE-2024-3094: A Tale of Broken Trust, Curious Persistence, and a Call to Action](https://www.hackerone.com/vulnerability-management/cve-2024-3094)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
