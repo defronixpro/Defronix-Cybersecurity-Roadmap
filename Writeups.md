@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [XSS | Here’s how I got my first bounty](https://medium.com/@sM0ky4/xss-heres-how-i-got-my-first-bounty-4f64785fe6f8?source=rss------bug_bounty_writeup-5)
 - [How I Hacked Indian Government Sub-Registrar Database](https://medium.com/@maxcyber882/how-i-hacked-indian-government-sub-registrar-database-18a4f4670f07?source=rss------bug_bounty_writeup-5)
 - [BugBountyTraining Lab: FastFoodHackings Part 2](https://hoppp3r.medium.com/bugbountytraining-lab-fastfoodhackings-part-2-313e9e6ffbd4?source=rss------bug_bounty_writeup-5)
 - [Setting Up an Environment for Web Hacking](https://www.hackerone.com/ethical-hacker/setting-up-web-hacking-environment)
@@ -29,7 +30,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Lessons Learned from Over a Decade of On-Call](https://www.hackerone.com/engineering/on-call-lessons)
 - [Kubernetes — A Journey Has Just Begun](https://www.hackerone.com/engineering/kubernetes)
 - [On Writing Well as a Software Engineer](https://www.hackerone.com/engineering/writing-tips-software-engineer)
-- [I found a simple but rare misconfiguration and got $200 on a hackerone program](https://harish45.medium.com/i-found-a-simple-but-rare-misconfiguration-and-got-200-on-a-hackerone-program-5863b6c51538?source=rss------bug_bounty_writeup-5)
 - [Accelerate Find-to-Fix Cycles With Hai](https://www.hackerone.com/ai/accelerate-find-to-fix-hai)
 - [Hack My Career: Meet Frances H](https://www.hackerone.com/culture-and-talent/hack-my-career-meet-frances-h)
 - [SOC 2 and Pentesting: What You Need to Know](https://www.hackerone.com/security-compliance/soc-2-pentesting)
