@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [A Strange Tale of Email Verification Bypass](https://medium.com/@Arioex/a-strange-tale-of-email-verification-bypass-5eda231d14d8?source=rss------bug_bounty_writeup-5)
 - [CSRF Bypass Combined with IDOR To Complete Account Takeover!](https://medium.com/@ozomarzu/csrf-bypass-combined-with-idor-to-complete-account-takeover-f4995c5946d3?source=rss------bug_bounty_writeup-5)
 - [WolvCTF 2024: Forensics Challenges](https://infosecwriteups.com/wolvctf-2024-forensics-challenges-3f307fab6576?source=rss----7b722bfd1b8d---4)
 - [Defense against Ransomware](https://infosecwriteups.com/defense-against-ransomware-8bf30532e93d?source=rss----7b722bfd1b8d---4)
