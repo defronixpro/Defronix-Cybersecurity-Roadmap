@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Hook, Line, and Sinker: Navigating the Waters of Phishing Attacks in 2024](https://infosecwriteups.com/hook-line-and-sinker-navigating-the-waters-of-phishing-attacks-in-2024-a809f127525a?source=rss----7b722bfd1b8d---4)
 - [My Hunt: Discovering Microsoft Bugs](https://infosecwriteups.com/my-hunt-discovering-microsoft-bugs-f6a9c790bec0?source=rss----7b722bfd1b8d---4)
 - [A Guide To Securing Your Remote Access Using SSH Keys](https://infosecwriteups.com/a-guide-to-securing-your-remote-access-using-ssh-keys-84b48097f3bf?source=rss----7b722bfd1b8d---4)
 - [A Strange Tale of Email Verification Bypass](https://medium.com/@Arioex/a-strange-tale-of-email-verification-bypass-5eda231d14d8?source=rss------bug_bounty_writeup-5)
@@ -12,7 +13,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Admin Account Takeover](https://infosecwriteups.com/admin-account-takeover-ab7535fe0fdb?source=rss----7b722bfd1b8d---4)
 - [Sensitive data leak using IDOR in integration service](https://infosecwriteups.com/sensitive-data-leak-using-idor-in-integration-service-d9301be9c91e?source=rss----7b722bfd1b8d---4)
 - [Understanding Zero Trust Architecture: A New Paradigm in Cybersecurity](https://infosecwriteups.com/understanding-zero-trust-architecture-a-new-paradigm-in-cybersecurity-b0f144f75f6c?source=rss----7b722bfd1b8d---4)
-- [HackTheBox Academy: Privilege Escalation](https://infosecwriteups.com/hackthebox-academy-privilege-escalation-ca0a8ad2259e?source=rss----7b722bfd1b8d---4)
 - [How Serialized Cookies Led to RCE on a WordPress Website](https://www.hackerone.com/vulnerability-management/wordpress-custom-theme-rce)
 - [XSS | Here’s how I got my first bounty](https://medium.com/@sM0ky4/xss-heres-how-i-got-my-first-bounty-4f64785fe6f8?source=rss------bug_bounty_writeup-5)
 - [How I Hacked Indian Government Sub-Registrar Database](https://medium.com/@maxcyber882/how-i-hacked-indian-government-sub-registrar-database-18a4f4670f07?source=rss------bug_bounty_writeup-5)
