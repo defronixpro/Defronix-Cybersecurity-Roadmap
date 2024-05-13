@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [HacktheBox Starting Point: Explosion Walkthrough](https://infosecwriteups.com/hackthebox-starting-point-explosion-walkthrough-55c0c78940d7?source=rss----7b722bfd1b8d---4)
 - [5 Ways I Can Find Your Deleted Files as An Ethical Hacker!](https://infosecwriteups.com/5-ways-i-can-find-your-deleted-files-as-an-ethical-hacker-4bc6508392fa?source=rss----7b722bfd1b8d---4)
 - [For Business Reasons | TryHackMe Write-Up](https://infosecwriteups.com/for-business-reasons-tryhackme-write-up-215818dad959?source=rss----7b722bfd1b8d---4)
 - [BSQL Injection Shenanigans](https://infosecwriteups.com/bsql-injection-shenanigans-d6bd545d475a?source=rss----7b722bfd1b8d---4)
@@ -10,7 +11,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Creative | TryHackMe Write-Up](https://infosecwriteups.com/creative-tryhackme-write-up-120b26abb719?source=rss----7b722bfd1b8d---4)
 - [Hook, Line, and Sinker: Navigating the Waters of Phishing Attacks in 2024](https://infosecwriteups.com/hook-line-and-sinker-navigating-the-waters-of-phishing-attacks-in-2024-a809f127525a?source=rss----7b722bfd1b8d---4)
 - [My Hunt: Discovering Microsoft Bugs](https://infosecwriteups.com/my-hunt-discovering-microsoft-bugs-f6a9c790bec0?source=rss----7b722bfd1b8d---4)
-- [A Guide To Securing Your Remote Access Using SSH Keys](https://infosecwriteups.com/a-guide-to-securing-your-remote-access-using-ssh-keys-84b48097f3bf?source=rss----7b722bfd1b8d---4)
 - [A Strange Tale of Email Verification Bypass](https://medium.com/@Arioex/a-strange-tale-of-email-verification-bypass-5eda231d14d8?source=rss------bug_bounty_writeup-5)
 - [CSRF Bypass Combined with IDOR To Complete Account Takeover!](https://medium.com/@ozomarzu/csrf-bypass-combined-with-idor-to-complete-account-takeover-f4995c5946d3?source=rss------bug_bounty_writeup-5)
 - [How Serialized Cookies Led to RCE on a WordPress Website](https://www.hackerone.com/vulnerability-management/wordpress-custom-theme-rce)
