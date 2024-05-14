@@ -922,6 +922,9 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [JNDI Injection — The Complete Story](https://infosecwriteups.com/jndi-injection-the-complete-story-4c5bfbb3f6e1?source=rss----7b722bfd1b8d---4)
+- [How Ethical Hackers Are Securing Elections](https://www.hackerone.com/ethical-hacker/election-security)
+- [HackerOne Company Values Matter: Win as a Team](https://www.hackerone.com/culture-and-talent/hackerone-company-values-matter-win-team)
 - [Hundreds of companies’ internal data exposed — Part 2: The FreshService misconfiguration](https://infosecwriteups.com/hundreds-of-companies-internal-data-exposed-part-2-the-freshservice-misconfiguration-a9432c0b5dc8?source=rss----7b722bfd1b8d---4)
 - [HacktheBox Starting Point: Explosion Walkthrough](https://infosecwriteups.com/hackthebox-starting-point-explosion-walkthrough-55c0c78940d7?source=rss----7b722bfd1b8d---4)
 - [5 Ways I Can Find Your Deleted Files as An Ethical Hacker!](https://infosecwriteups.com/5-ways-i-can-find-your-deleted-files-as-an-ethical-hacker-4bc6508392fa?source=rss----7b722bfd1b8d---4)
@@ -931,8 +934,12 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [My LLM Bug Bounty Journey on Hugging Face Hub via Protect AI](https://infosecwriteups.com/my-llm-bug-bounty-journey-on-hugging-face-hub-via-protect-ai-9f3a1bc72c2e?source=rss----7b722bfd1b8d---4)
 - [Hacking into 30+ tesla cars around the world using a third party software](https://infosecwriteups.com/hacking-into-30-tesla-cars-around-the-world-using-a-third-party-software-00957ac68c92?source=rss----7b722bfd1b8d---4)
 - [Creative | TryHackMe Write-Up](https://infosecwriteups.com/creative-tryhackme-write-up-120b26abb719?source=rss----7b722bfd1b8d---4)
-- [Hook, Line, and Sinker: Navigating the Waters of Phishing Attacks in 2024](https://infosecwriteups.com/hook-line-and-sinker-navigating-the-waters-of-phishing-attacks-in-2024-a809f127525a?source=rss----7b722bfd1b8d---4)
+- [Why I Keep a Brag Document — and How It Can Help You](https://www.hackerone.com/engineering/brag-document)
+- [I Suggest You Take a Nap](https://www.hackerone.com/engineering/take-a-nap)
+- [On Listening](https://www.hackerone.com/engineering/on-listening)
+- [Building Bridges: The Art of Effective Communication Across Teams](https://www.hackerone.com/engineering/cross-team-communication)
 - [A Strange Tale of Email Verification Bypass](https://medium.com/@Arioex/a-strange-tale-of-email-verification-bypass-5eda231d14d8?source=rss------bug_bounty_writeup-5)
+- [A Guide to Get the Most Out of Your One-on-ones](https://www.hackerone.com/engineering/one-on-ones-guide)
 - [CSRF Bypass Combined with IDOR To Complete Account Takeover!](https://medium.com/@ozomarzu/csrf-bypass-combined-with-idor-to-complete-account-takeover-f4995c5946d3?source=rss------bug_bounty_writeup-5)
 - [How Serialized Cookies Led to RCE on a WordPress Website](https://www.hackerone.com/vulnerability-management/wordpress-custom-theme-rce)
 - [XSS | Here’s how I got my first bounty](https://medium.com/@sM0ky4/xss-heres-how-i-got-my-first-bounty-4f64785fe6f8?source=rss------bug_bounty_writeup-5)
@@ -965,13 +972,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Getting Started on Personal Development](https://www.hackerone.com/engineering/personal-development)
 - [Pre-Pentest Checklist Part 2: Essential Questions to Answer Before Your Next Pentest](https://www.hackerone.com/penetration-testing/pre-pentest-checklist-part2)
 - [HackerOne Company Values Matter: Default to Disclosure](https://www.hackerone.com/culture-and-talent/hackerone-company-values-matter-default-disclosure)
-- [How a Race Condition Vulnerability Could Cast Multiple Votes](https://www.hackerone.com/vulnerability-management/sherrets-race-condition)
-- [HackerOne Celebrates Global Work from Home Day](https://www.hackerone.com/culture-and-talent/hackerone-celebrates-global-work-home-day)
-- [Decoding the Characteristics of Modern Pentesting: Value](https://www.hackerone.com/penetration-testing/modern-pentesting-value)
-- [HackerOne Company Values Matter: Lead with Integrity](https://www.hackerone.com/culture-and-talent/hackerone-company-values-matter-lead-integrity)
-- [HackerOne’s Digital First Workplace](https://www.hackerone.com/culture-and-talent/hackerones-digital-first-workplace)
-- [The Importance of Credential Rotations: Best Practices for Security and Data Protection](https://www.hackerone.com/engineering/credentials-rotation)
-- [Ten Practical Tips For High-Value Pentest Engagements](https://www.hackerone.com/penetration-testing/ten-practical-tips-high-value-pentest-engagements)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
