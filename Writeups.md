@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Broken Access Control &lpar;IDOR&rpar; &amp; Credential Leak at Legacy API Video Transcode](https://medium.com/@blackarazi/broken-access-control-idor-credential-leak-at-legacy-api-video-transcode-9b5d729fb2d6?source=rss------bug_bounty_writeup-5)
 - [JNDI Injection — The Complete Story](https://infosecwriteups.com/jndi-injection-the-complete-story-4c5bfbb3f6e1?source=rss----7b722bfd1b8d---4)
 - [How Ethical Hackers Are Securing Elections](https://www.hackerone.com/ethical-hacker/election-security)
 - [HackerOne Company Values Matter: Win as a Team](https://www.hackerone.com/culture-and-talent/hackerone-company-values-matter-win-team)
