@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Broken Access Control &lpar;IDOR&rpar; &amp; Credential Leak at Legacy API Video Transcode](https://medium.com/@blackarazi/broken-access-control-idor-credential-leak-at-legacy-api-video-transcode-9b5d729fb2d6?source=rss------bug_bounty_writeup-5)
 - [JNDI Injection — The Complete Story](https://infosecwriteups.com/jndi-injection-the-complete-story-4c5bfbb3f6e1?source=rss----7b722bfd1b8d---4)
 - [How Ethical Hackers Are Securing Elections](https://www.hackerone.com/ethical-hacker/election-security)
 - [HackerOne Company Values Matter: Win as a Team](https://www.hackerone.com/culture-and-talent/hackerone-company-values-matter-win-team)
@@ -971,7 +972,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [FAQ: Everything Hackers Need to Know About the 2024 Ambassador World Cup](https://www.hackerone.com/hackerone-community-blog/awc-faq)
 - [Getting Started on Personal Development](https://www.hackerone.com/engineering/personal-development)
 - [Pre-Pentest Checklist Part 2: Essential Questions to Answer Before Your Next Pentest](https://www.hackerone.com/penetration-testing/pre-pentest-checklist-part2)
-- [HackerOne Company Values Matter: Default to Disclosure](https://www.hackerone.com/culture-and-talent/hackerone-company-values-matter-default-disclosure)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
