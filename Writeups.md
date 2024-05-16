@@ -1,7 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
-- [Unveiling a Bug in KYC Verification In A Crypto Platform: The Discovery Worth $$$](https://medium.com/@srishavinkumar/unveiling-a-surprising-bug-in-kyc-verification-the-discovery-worth-a82f3282b033?source=rss------bug_bounty_writeup-5)
+- [Discovery Worth $$$ in KYC Verification Feature : Bug Bounty](https://medium.com/@srishavinkumar/unveiling-a-surprising-bug-in-kyc-verification-the-discovery-worth-a82f3282b033?source=rss------bug_bounty_writeup-5)
 - [How hackers help Jedox secure cloud assets and stay one step ahead](https://www.hackerone.com/customer-stories/how-hackers-help-jedox-secure-cloud-assets-and-stay-one-step-ahead)
 - [Winning Together Through Synergy and Vulnerabilities](https://www.hackerone.com/engineering-blog/winning-together-through-synergy-and-vulnerabilities)
 - [Broken Access Control &lpar;IDOR&rpar; &amp; Credential Leak at Legacy API Video Transcode](https://medium.com/@blackarazi/broken-access-control-idor-credential-leak-at-legacy-api-video-transcode-9b5d729fb2d6?source=rss------bug_bounty_writeup-5)
