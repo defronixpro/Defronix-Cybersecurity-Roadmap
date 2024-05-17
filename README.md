@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Leaking[ID+Token] Leads To Sensitive Data Disclosure](https://0xm0r4d.medium.com/leaking-id-token-leads-to-sensitive-data-disclosure-fac5a9fc2b7a?source=rss------bug_bounty_writeup-5)
 - [Simple Tips for Bug Bounty Beginners: Finding PII Vulnerabilities](https://medium.com/@anishnarayan/simple-tips-for-bug-bounty-beginners-finding-pii-vulnerabilities-3db5a7151dd4?source=rss------bug_bounty_writeup-5)
 - [The Hacker’s Mind -Recon Mind map](https://medium.com/@tamhacker1/the-hackers-mind-recon-mind-map-39d14e3750fb?source=rss------bug_bounty_writeup-5)
 - [How I got Critical IDOR in one of India’s Best Known Food Delivery Website](https://medium.com/@bajajkrrish11/how-i-got-critical-idor-in-one-of-indias-best-known-food-delivery-website-5349c521e44b?source=rss------bug_bounty_writeup-5)
@@ -952,7 +953,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [XSS | Here’s how I got my first bounty](https://medium.com/@sM0ky4/xss-heres-how-i-got-my-first-bounty-4f64785fe6f8?source=rss------bug_bounty_writeup-5)
 - [How I Hacked Indian Government Sub-Registrar Database](https://medium.com/@maxcyber882/how-i-hacked-indian-government-sub-registrar-database-18a4f4670f07?source=rss------bug_bounty_writeup-5)
 - [ISO 27001 and Pentesting: What You Need to Know](https://www.hackerone.com/security-compliance/iso-27001-pentesting)
-- [BugBountyTraining Lab: FastFoodHackings Part 2](https://hoppp3r.medium.com/bugbountytraining-lab-fastfoodhackings-part-2-313e9e6ffbd4?source=rss------bug_bounty_writeup-5)
 - [Setting Up an Environment for Web Hacking](https://www.hackerone.com/ethical-hacker/setting-up-web-hacking-environment)
 - [Join HackerOne’s Ambassador World Cup](https://www.hackerone.com/lhe/join-ambassador-world-cup)
 - [Follow-up or Fail](https://www.hackerone.com/engineering/follow-up-or-fail)
