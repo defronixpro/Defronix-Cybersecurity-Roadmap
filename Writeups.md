@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [The Hacker’s Mind -Recon Mind map](https://medium.com/@tamhacker1/the-hackers-mind-recon-mind-map-39d14e3750fb?source=rss------bug_bounty_writeup-5)
 - [How I got Critical IDOR in one of India’s Best Known Food Delivery Website](https://medium.com/@bajajkrrish11/how-i-got-critical-idor-in-one-of-indias-best-known-food-delivery-website-5349c521e44b?source=rss------bug_bounty_writeup-5)
 - [Discovery Worth $$$ in KYC Verification Feature : Bug Bounty](https://medium.com/@srishavinkumar/unveiling-a-surprising-bug-in-kyc-verification-the-discovery-worth-a82f3282b033?source=rss------bug_bounty_writeup-5)
 - [How Hackers Help Jedox Secure Cloud Assets and Stay One Step Ahead](https://www.hackerone.com/customer-stories/how-hackers-help-jedox-secure-cloud-assets-and-stay-one-step-ahead)
@@ -39,7 +40,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [CREST and Pentesting: What You Need to Know](https://www.hackerone.com/security-compliance/crest-pentesting)
 - [HackerOne and Zoom Select EverythingALS as the Latest Charity For #Hackforgood](https://www.hackerone.com/customer-stories/zoom-als-hackforgood)
 - [HackerOne’s Next Stage of Growth](https://www.hackerone.com/hackerones-next-stage-growth)
-- [My First Verified Bug Bounty: Unmasking Flaws in University Web Apps](https://medium.com/@rafisyafrinaldi17/my-first-verified-bug-bounty-unmasking-flaws-in-university-web-apps-6c6b5fb1e8da?source=rss------bug_bounty_writeup-5)
 - [How a Prompt Injection Vulnerability Led to Data Exfiltration](https://www.hackerone.com/ai/prompt-injection-deep-dive)
 - [Lessons Learned from Over a Decade of On-Call](https://www.hackerone.com/engineering/on-call-lessons)
 - [Kubernetes — A Journey Has Just Begun](https://www.hackerone.com/engineering/kubernetes)
