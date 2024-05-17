@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Simple Tips for Bug Bounty Beginners: Finding PII Vulnerabilities](https://medium.com/@anishnarayan/simple-tips-for-bug-bounty-beginners-finding-pii-vulnerabilities-3db5a7151dd4?source=rss------bug_bounty_writeup-5)
 - [The Hacker’s Mind -Recon Mind map](https://medium.com/@tamhacker1/the-hackers-mind-recon-mind-map-39d14e3750fb?source=rss------bug_bounty_writeup-5)
 - [How I got Critical IDOR in one of India’s Best Known Food Delivery Website](https://medium.com/@bajajkrrish11/how-i-got-critical-idor-in-one-of-indias-best-known-food-delivery-website-5349c521e44b?source=rss------bug_bounty_writeup-5)
 - [Discovery Worth $$$ in KYC Verification Feature : Bug Bounty](https://medium.com/@srishavinkumar/unveiling-a-surprising-bug-in-kyc-verification-the-discovery-worth-a82f3282b033?source=rss------bug_bounty_writeup-5)
@@ -954,7 +955,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [BugBountyTraining Lab: FastFoodHackings Part 2](https://hoppp3r.medium.com/bugbountytraining-lab-fastfoodhackings-part-2-313e9e6ffbd4?source=rss------bug_bounty_writeup-5)
 - [Setting Up an Environment for Web Hacking](https://www.hackerone.com/ethical-hacker/setting-up-web-hacking-environment)
 - [Join HackerOne’s Ambassador World Cup](https://www.hackerone.com/lhe/join-ambassador-world-cup)
-- [BugBountyTraining Lab: FastFoodHackings Part 1](https://hoppp3r.medium.com/bugbountytraining-lab-fastfoodhackings-part-1-39a7b06fdef9?source=rss------bug_bounty_writeup-5)
 - [Follow-up or Fail](https://www.hackerone.com/engineering/follow-up-or-fail)
 - [HackerOne Invests in Leaders with New Development Program](https://www.hackerone.com/culture-and-talent/hackerone-invests-leaders-new-development-program)
 - [HackerOne’s Spring Day of Service](https://www.hackerone.com/culture-and-talent/hackerones-spring-day-service)
