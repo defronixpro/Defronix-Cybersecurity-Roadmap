@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Time-Based Google OAuth Account Takeover: Adventures in Bug Bounties](https://medium.com/@iamrizwanvp/time-based-google-oauth-account-takeover-my-bug-bounty-journey-a0f534227bc6?source=rss------bug_bounty_writeup-5)
 - [Security@: The Top 3 Lessons From Security Leaders](https://www.hackerone.com/customer-stories/security-lessons)
 - [Reflected XSS Leading to Account Takeover](https://0onoproblem.medium.com/reflected-xss-leading-to-account-takeover-bea862cba885?source=rss------bug_bounty_writeup-5)
 - [Discovering a $5000 RCE via Dependency Confusion Vulnerability](https://nvk0x.medium.com/discovering-a-5000-rce-via-dependency-confusion-vulnerability-6b0c08ecd5de?source=rss------bug_bounty_writeup-5)
@@ -15,7 +16,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How Hackers Help Jedox Secure Cloud Assets and Stay One Step Ahead](https://www.hackerone.com/customer-stories/how-hackers-help-jedox-secure-cloud-assets-and-stay-one-step-ahead)
 - [Winning Together Through Synergy and Vulnerabilities](https://www.hackerone.com/engineering/winning-together-synergy-vulnerabilities)
 - [Community-driven PTaaS vs. Automated Pentesting](https://www.hackerone.com/penetration-testing/ptaas-vs-automated-pentesting)
-- [Broken Access Control &lpar;IDOR&rpar; &amp; Credential Leak at Legacy API Video Transcode](https://medium.com/@blackarazi/broken-access-control-idor-credential-leak-at-legacy-api-video-transcode-9b5d729fb2d6?source=rss------bug_bounty_writeup-5)
 - [JNDI Injection — The Complete Story](https://infosecwriteups.com/jndi-injection-the-complete-story-4c5bfbb3f6e1?source=rss----7b722bfd1b8d---4)
 - [How Ethical Hackers Are Securing Elections](https://www.hackerone.com/ethical-hacker/election-security)
 - [HackerOne Company Values Matter: Win as a Team](https://www.hackerone.com/culture-and-talent/hackerone-company-values-matter-win-team)
