@@ -922,6 +922,11 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Microsoft Activation Scripts &lpar;MAS&rpar;: Guide to Freely Activating Windows and Office](https://infosecwriteups.com/microsoft-activation-scripts-mas-guide-to-freely-activating-windows-and-office-21d1d8349d36?source=rss----7b722bfd1b8d---4)
+- [Scheduled Network Activity Reports using a Simple set of Tools](https://infosecwriteups.com/scheduled-network-activity-reports-using-a-simple-set-of-tools-646367b22c33?source=rss----7b722bfd1b8d---4)
+- [Bypass Firewall by Finding Origin IP](https://infosecwriteups.com/bypass-firewall-by-finding-origin-ip-41ba984e1342?source=rss----7b722bfd1b8d---4)
+- [Root user account takeover via SQL Injection](https://infosecwriteups.com/root-user-account-takeover-via-sql-injection-5c21a6091d4c?source=rss----7b722bfd1b8d---4)
+- [Honeypots 102: Setting up a SANS Internet Storm Center’s DShield Honeypot](https://infosecwriteups.com/honeypots-102-setting-up-a-sans-internet-storm-centers-dshield-honeypot-1ec1774bd949?source=rss----7b722bfd1b8d---4)
 - [What You Need to Know About the EU’s Cyber Resilience Act](https://www.hackerone.com/public-policy/eu-cyber-resilience-act)
 - [Time-Based Google OAuth Account Takeover: Adventures in Bug Bounties](https://medium.com/@iamrizwanvp/time-based-google-oauth-account-takeover-my-bug-bounty-journey-a0f534227bc6?source=rss------bug_bounty_writeup-5)
 - [Security@: The Top 3 Bug Bounty Lessons From Security Leaders](https://www.hackerone.com/customer-stories/security-lessons)
@@ -945,11 +950,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [HacktheBox Starting Point: Explosion Walkthrough](https://infosecwriteups.com/hackthebox-starting-point-explosion-walkthrough-55c0c78940d7?source=rss----7b722bfd1b8d---4)
 - [5 Ways I Can Find Your Deleted Files as An Ethical Hacker!](https://infosecwriteups.com/5-ways-i-can-find-your-deleted-files-as-an-ethical-hacker-4bc6508392fa?source=rss----7b722bfd1b8d---4)
 - [For Business Reasons | TryHackMe Write-Up](https://infosecwriteups.com/for-business-reasons-tryhackme-write-up-215818dad959?source=rss----7b722bfd1b8d---4)
-- [BSQL Injection Shenanigans](https://infosecwriteups.com/bsql-injection-shenanigans-d6bd545d475a?source=rss----7b722bfd1b8d---4)
-- [Bypassing UAC](https://infosecwriteups.com/bypassing-uac-1ba99a173b30?source=rss----7b722bfd1b8d---4)
-- [My LLM Bug Bounty Journey on Hugging Face Hub via Protect AI](https://infosecwriteups.com/my-llm-bug-bounty-journey-on-hugging-face-hub-via-protect-ai-9f3a1bc72c2e?source=rss----7b722bfd1b8d---4)
-- [Hacking into 30+ tesla cars around the world using a third party software](https://infosecwriteups.com/hacking-into-30-tesla-cars-around-the-world-using-a-third-party-software-00957ac68c92?source=rss----7b722bfd1b8d---4)
-- [Creative | TryHackMe Write-Up](https://infosecwriteups.com/creative-tryhackme-write-up-120b26abb719?source=rss----7b722bfd1b8d---4)
 - [Why I Keep a Brag Document — and How It Can Help You](https://www.hackerone.com/engineering/brag-document)
 - [I Suggest You Take a Nap](https://www.hackerone.com/engineering/take-a-nap)
 - [On Listening](https://www.hackerone.com/engineering/on-listening)
