@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [AI Developers’ AMA: AI System Design and Development](https://www.hackerone.com/ai/developers-system-design-development)
 - [Microsoft Activation Scripts &lpar;MAS&rpar;: Guide to Freely Activating Windows and Office](https://infosecwriteups.com/microsoft-activation-scripts-mas-guide-to-freely-activating-windows-and-office-21d1d8349d36?source=rss----7b722bfd1b8d---4)
 - [Scheduled Network Activity Reports using a Simple set of Tools](https://infosecwriteups.com/scheduled-network-activity-reports-using-a-simple-set-of-tools-646367b22c33?source=rss----7b722bfd1b8d---4)
 - [Bypass Firewall by Finding Origin IP](https://infosecwriteups.com/bypass-firewall-by-finding-origin-ip-41ba984e1342?source=rss----7b722bfd1b8d---4)
@@ -971,7 +972,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [On Writing Well as a Software Engineer](https://www.hackerone.com/engineering/writing-tips-software-engineer)
 - [Accelerate Find-to-Fix Cycles With Hai](https://www.hackerone.com/ai/accelerate-find-to-fix-hai)
 - [Hack My Career: Meet Frances H](https://www.hackerone.com/culture-and-talent/hack-my-career-meet-frances-h)
-- [SOC 2 and Pentesting: What You Need to Know](https://www.hackerone.com/security-compliance/soc-2-pentesting)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
