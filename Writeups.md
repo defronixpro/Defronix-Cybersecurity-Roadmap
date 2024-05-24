@@ -1,16 +1,16 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [TCM Academy Walkthrough : A Hands-On Experience](https://infosecwriteups.com/tcm-academy-walkthrough-a-hands-on-experience-e891243c61a8?source=rss----7b722bfd1b8d---4)
+- [THM:A Comprehensive Guide to the Pickle Rick TryHackMe Challenge](https://infosecwriteups.com/thm-a-comprehensive-guide-to-the-pickle-rick-tryhackme-challenge-9a157238e628?source=rss----7b722bfd1b8d---4)
+- [Fingerprinting Databases: Error based SQLi &lpar;Oracle, MySQL, MS&rpar;](https://infosecwriteups.com/fingerprinting-databases-error-based-sqli-oracle-mysql-ms-08926f83124f?source=rss----7b722bfd1b8d---4)
+- [CVE-2023–52424: The WiFi SSID Confusion Attack Explained](https://infosecwriteups.com/cve-2023-52424-the-wifi-ssid-confusion-attack-explained-26e43f5cff40?source=rss----7b722bfd1b8d---4)
+- [The Ultimate Cyber Security Weapon: SharePoint Lists](https://infosecwriteups.com/the-ultimate-cyber-security-weapon-sharepoint-lists-6232b74903fb?source=rss----7b722bfd1b8d---4)
+- [Biometric Authentication: Exploring Advancements, Vulnerabilities, and Ethical Considerations](https://infosecwriteups.com/biometric-authentication-exploring-advancements-vulnerabilities-and-ethical-considerations-72cf80084ab4?source=rss----7b722bfd1b8d---4)
 - [Shhh…Don’t Tell the Database Admin: SQLi Lab Exploits](https://infosecwriteups.com/shhh-dont-tell-the-database-admin-sqli-lab-exploits-5472db4c76ce?source=rss----7b722bfd1b8d---4)
 - [Google Dorking | THM](https://infosecwriteups.com/google-dorking-thm-a87dc849c4b8?source=rss----7b722bfd1b8d---4)
 - [How I Got My First Bounty: The Exciting Story of My Bug Bounty Breakthrough](https://infosecwriteups.com/how-i-got-my-first-bounty-the-exciting-story-of-my-bug-bounty-breakthrough-d8391973ed41?source=rss----7b722bfd1b8d---4)
 - [CVE-2024–4761: Exploiting Chrome’s JavaScript Engine Highly Exploited &lpar;PoC presented&rpar;](https://infosecwriteups.com/cve-2024-4761-exploiting-chromes-javascript-engine-highly-exploited-poc-presented-dcf9cab95c00?source=rss----7b722bfd1b8d---4)
-- [TryHackMe - Network Services](https://infosecwriteups.com/tryhackme-network-services-08874b587a38?source=rss----7b722bfd1b8d---4)
-- [Enriching Microsoft Sentinel Incidents with AlienVault OTX Threat Intelligence Playbook](https://infosecwriteups.com/enriching-microsoft-sentinel-incidents-with-alienvault-otx-threat-intelligence-playbook-570d91325ebf?source=rss----7b722bfd1b8d---4)
-- [BSQL Injection Shenanigans 2](https://infosecwriteups.com/bsql-injection-shenanigans-2-75e96df54e2a?source=rss----7b722bfd1b8d---4)
-- [Google Cybersecurity Certification: Your Gateway to a New Career ?](https://infosecwriteups.com/google-cybersecurity-certification-your-gateway-to-a-new-career-236a8a47c60e?source=rss----7b722bfd1b8d---4)
-- [CyberLens — TryHackMe Writeup](https://infosecwriteups.com/cyberlens-tryhackme-writeup-d3320449ce41?source=rss----7b722bfd1b8d---4)
-- [Session fixation | Cookie injection leading to ATO Write-Up](https://infosecwriteups.com/session-fixation-cookie-injection-leading-to-ato-write-up-98e29d2851b9?source=rss----7b722bfd1b8d---4)
 - [AI Developers’ AMA: AI System Design and Development](https://www.hackerone.com/ai/developers-system-design-development)
 - [What You Need to Know About the EU’s Cyber Resilience Act](https://www.hackerone.com/public-policy/eu-cyber-resilience-act)
 - [Time-Based Google OAuth Account Takeover: Adventures in Bug Bounties](https://medium.com/@iamrizwanvp/time-based-google-oauth-account-takeover-my-bug-bounty-journey-a0f534227bc6?source=rss------bug_bounty_writeup-5)
