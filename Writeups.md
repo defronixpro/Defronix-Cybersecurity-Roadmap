@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [AI Developers’ AMA: AI System Design and Development](https://www.hackerone.com/ai/developers-system-design-development)
 - [Microsoft Activation Scripts &lpar;MAS&rpar;: Guide to Freely Activating Windows and Office](https://infosecwriteups.com/microsoft-activation-scripts-mas-guide-to-freely-activating-windows-and-office-21d1d8349d36?source=rss----7b722bfd1b8d---4)
 - [Scheduled Network Activity Reports using a Simple set of Tools](https://infosecwriteups.com/scheduled-network-activity-reports-using-a-simple-set-of-tools-646367b22c33?source=rss----7b722bfd1b8d---4)
 - [Bypass Firewall by Finding Origin IP](https://infosecwriteups.com/bypass-firewall-by-finding-origin-ip-41ba984e1342?source=rss----7b722bfd1b8d---4)
@@ -136,8 +137,8 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Strengthening the SDLC with Security Advisory Services &lpar;SAS&rpar;](https://www.hackerone.com/vulnerability-management/security-advisory-services-sdlc)
 - [Zoom and Salesforce: The Role of Hackers in Addressing Security Challenges](https://www.hackerone.com/vulnerability-management/zoom-salesforce-ethical-hackers)
 - [Amazon&#39;s Security Researcher Collaboration: Highlights from H1-213](https://www.hackerone.com/live-hacking-events/amazons-security-researcher-collaboration-highlights-h1-213)
-- [Five Takeaways from Ohio Secretary of State&#39;s VDP Success Story](https://www.hackerone.com/vulnerability-disclosure/five-takeaways-ohio-secretary-states-vdp-success-story)
 - [Security Should Never Sleep: Adopting Continuous Testing for Evolving Threats](https://www.hackerone.com/vulnerability-management/adopting-continuous-testing-evolving-threats)
+- [Five Takeaways from Ohio Secretary of State&#39;s VDP Success Story](https://www.hackerone.com/vulnerability-disclosure/five-takeaways-ohio-secretary-states-vdp-success-story)
 - [Generative AI and Security: HackerOne&#39;s Predictions](https://www.hackerone.com/thought-leadership/generative-ai-security-predictions)
 - [Takeaways from a Conversation Between Hackers and Program Managers](https://www.hackerone.com/best-practices/a-conversation-between-hackers-and-program-managers)
 - [Grammarly CISO Suha Can Discusses the Impact of Preemptive Security with HackerOne](https://www.hackerone.com/customer-stories/grammarly-ciso-suha-can-discusses-preemptive-security)
@@ -235,8 +236,8 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [5 Security Stages of the DevSecOps Pipeline](https://www.hackerone.com/application-security/5-security-stages-devsecops-pipeline)
 - [FFUF fuzzer | web-application penetration-testing](https://technicalnavigator.in/ffuf-fuzzer-web-application-penetration-testing/)
 - [Hacker&#39;s Health: Adverse Effects of Doomscrolling](https://www.hackerone.com/hackers-health-adverse-effects-doomscrolling)
-- [DevSecOps vs DevOps: What is the Difference?](https://www.hackerone.com/application-security/devsecops-vs-devops-what-difference)
 - [The Most Overlooked Server Permission Checks](https://www.hackerone.com/application-security/most-overlooked-server-permission-checks)
+- [DevSecOps vs DevOps: What is the Difference?](https://www.hackerone.com/application-security/devsecops-vs-devops-what-difference)
 - [How Bug Bounty Uncovered A 5-Year-Old Vulnerability In Hours](https://www.hackerone.com/ethical-hacker/how-bug-bounty-uncovered-5-year-old-vulnerability-hours)
 - [Live Hacking Event Invitations - 2022 Guide](https://www.hackerone.com/live-hacking-event-invitations-2022-guide)
 - [CISOs: Do You Know the Security Risks of Your Organization&#39;s Next M&amp;A?](https://www.hackerone.com/vulnerability-management/cisos-do-you-know-security-risks-your-organizations-next-ma)
@@ -665,8 +666,8 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [H1-415 Live Hacking Event Delivers to Customers, Community, and Hackers](https://www.hackerone.com/ethical-hacker/h1-415-live-hacking-event-delivers-customers-community-and-hackers)
 - [Introducing CWE-based Weaknesses](https://www.hackerone.com/hackerone-community-blog/introducing-cwe-based-weaknesses)
 - [HackerOne, Bountycraft, and Nullcon](https://www.hackerone.com/company-news/hackerone-bountycraft-and-nullcon)
-- [Rockstar Games Launches Public HackerOne Bug Bounty Program](https://www.hackerone.com/application-security/rockstar-games-launches-public-hackerone-bug-bounty-program)
 - [HackerOne Professional Free For Open Source Projects](https://www.hackerone.com/hackerone-community-blog/hackerone-professional-free-open-source-projects)
+- [Rockstar Games Launches Public HackerOne Bug Bounty Program](https://www.hackerone.com/application-security/rockstar-games-launches-public-hackerone-bug-bounty-program)
 - [RSA stands for Really Sweet Activities: HackerOne recaps an epic week](https://www.hackerone.com/company-news/rsa-stands-really-sweet-activities-hackerone-recaps-epic-week)
 - [Flexport leverages bug bounty programs to secure their customers highly confidential shipping data](https://www.hackerone.com/application-security/flexport-leverages-bug-bounty-programs-secure-their-customers-highly)
 - [Bug Bounties Help Keepsafe Secure The Data of 50 Million Consumers](https://www.hackerone.com/security-compliance/bug-bounties-help-keepsafe-secure-data-50-million-consumers)
