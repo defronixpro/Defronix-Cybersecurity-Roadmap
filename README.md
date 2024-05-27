@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [The bugs: List of weird vulnerabilities](https://noobsixt9.medium.com/the-bugs-list-of-weird-vulnerabilities-6bc98fc5c1cc?source=rss------bug_bounty_writeup-5)
 - [THM — Athena](https://infosecwriteups.com/thm-athena-afafaf479750?source=rss----7b722bfd1b8d---4)
 - [TCM Academy Walkthrough : A Hands-On Experience](https://infosecwriteups.com/tcm-academy-walkthrough-a-hands-on-experience-e891243c61a8?source=rss----7b722bfd1b8d---4)
 - [THM:A Comprehensive Guide to the Pickle Rick TryHackMe Challenge](https://infosecwriteups.com/thm-a-comprehensive-guide-to-the-pickle-rick-tryhackme-challenge-9a157238e628?source=rss----7b722bfd1b8d---4)
@@ -945,7 +946,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [The Hacker’s Mind -Recon Mind map](https://medium.com/@tamhacker1/the-hackers-mind-recon-mind-map-39d14e3750fb?source=rss------bug_bounty_writeup-5)
 - [How a Business Logic Vulnerability Led to Unlimited Discount Redemption](https://www.hackerone.com/vulnerability-management/stripe-business-logic-error-bug)
 - [How I got Critical IDOR in one of India’s Best Known Food Delivery Website](https://medium.com/@bajajkrrish11/how-i-got-critical-idor-in-one-of-indias-best-known-food-delivery-website-5349c521e44b?source=rss------bug_bounty_writeup-5)
-- [Discovery Worth $$$ in KYC Verification Feature : Bug Bounty](https://medium.com/@srishavinkumar/unveiling-a-surprising-bug-in-kyc-verification-the-discovery-worth-a82f3282b033?source=rss------bug_bounty_writeup-5)
 - [How Hackers Help Jedox Secure Cloud Assets and Stay One Step Ahead](https://www.hackerone.com/customer-stories/how-hackers-help-jedox-secure-cloud-assets-and-stay-one-step-ahead)
 - [Winning Together Through Synergy and Vulnerabilities](https://www.hackerone.com/engineering/winning-together-synergy-vulnerabilities)
 - [Community-driven PTaaS vs. Automated Pentesting](https://www.hackerone.com/penetration-testing/ptaas-vs-automated-pentesting)
