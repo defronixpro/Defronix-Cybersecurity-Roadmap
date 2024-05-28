@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [HackerOne Spot Checks for On-Demand, Targeted Security Testing](https://www.hackerone.com/vulnerability-management/spot-checks)
 - [The bugs: List of weird vulnerabilities](https://noobsixt9.medium.com/the-bugs-list-of-weird-vulnerabilities-6bc98fc5c1cc?source=rss------bug_bounty_writeup-5)
 - [THM — Athena](https://infosecwriteups.com/thm-athena-afafaf479750?source=rss----7b722bfd1b8d---4)
 - [TCM Academy Walkthrough : A Hands-On Experience](https://infosecwriteups.com/tcm-academy-walkthrough-a-hands-on-experience-e891243c61a8?source=rss----7b722bfd1b8d---4)
@@ -971,7 +972,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Kubernetes — A Journey Has Just Begun](https://www.hackerone.com/engineering/kubernetes)
 - [On Writing Well as a Software Engineer](https://www.hackerone.com/engineering/writing-tips-software-engineer)
 - [Accelerate Find-to-Fix Cycles With Hai](https://www.hackerone.com/ai/accelerate-find-to-fix-hai)
-- [Hack My Career: Meet Frances H](https://www.hackerone.com/culture-and-talent/hack-my-career-meet-frances-h)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
