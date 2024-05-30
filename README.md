@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [A Beautiful Bug: Interesting URL scheme bypass + Race Condition.](https://medium.com/@Nightbloodz/a-beautiful-bug-interesting-url-scheme-bypass-race-condition-61109771a250?source=rss------bug_bounty_writeup-5)
 - [GDPR and Pentesting: What You Need to Know](https://www.hackerone.com/security-compliance/gdpr-pentesting)
 - [5 Bug Bounty Insights From SIX Group](https://www.hackerone.com/customer-stories/six-group-bug-bounty)
 - [Embracing Resilience: HackerOne&#39;s Approach to Disaster Recovery](https://www.hackerone.com/engineering/disaster-recovery)
@@ -949,7 +950,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How I Hacked NASA Using Google Dork in Just 10 Minutes](https://medium.com/@gaurish.main/how-i-hacked-nasa-using-google-dork-in-just-10-minutes-6ce3b3401512?source=rss------bug_bounty_writeup-5)
 - [Leaking[ID+Token] Leads To Sensitive Data Disclosure](https://0xm0r4d.medium.com/leaking-id-token-leads-to-sensitive-data-disclosure-fac5a9fc2b7a?source=rss------bug_bounty_writeup-5)
 - [Simple Tips for Bug Bounty Beginners: Finding PII Vulnerabilities](https://medium.com/@anishnarayan/simple-tips-for-bug-bounty-beginners-finding-pii-vulnerabilities-3db5a7151dd4?source=rss------bug_bounty_writeup-5)
-- [The Hacker’s Mind -Recon Mind map](https://medium.com/@tamhacker1/the-hackers-mind-recon-mind-map-39d14e3750fb?source=rss------bug_bounty_writeup-5)
 - [How a Business Logic Vulnerability Led to Unlimited Discount Redemption](https://www.hackerone.com/vulnerability-management/stripe-business-logic-error-bug)
 - [How Hackers Help Jedox Secure Cloud Assets and Stay One Step Ahead](https://www.hackerone.com/customer-stories/how-hackers-help-jedox-secure-cloud-assets-and-stay-one-step-ahead)
 - [Winning Together Through Synergy and Vulnerabilities](https://www.hackerone.com/engineering/winning-together-synergy-vulnerabilities)
