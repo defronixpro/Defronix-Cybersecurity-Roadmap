@@ -922,6 +922,9 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [5 Bug Bounty Insights From SIX Group](https://www.hackerone.com/customer-stories/six-group-bug-bounty)
+- [Embracing Resilience: HackerOne&#39;s Approach to Disaster Recovery](https://www.hackerone.com/engineering/disaster-recovery)
+- [HackerOne Applauds Senator Warner’s Support for Legal Protection of AI Red Teaming](https://www.hackerone.com/public-policy/senator-warner-ai-red-teaming)
 - [Subdomain takeover via AWS s3 bucket](https://infosecwriteups.com/subdomain-takeover-via-aws-s3-bucket-9c54b1b71c46?source=rss----7b722bfd1b8d---4)
 - [Understanding the CrowdStrike 2024 Global Threat Report](https://infosecwriteups.com/understanding-the-crowdstrike-2024-global-threat-report-7dd77a40e0ab?source=rss----7b722bfd1b8d---4)
 - [Prevent Cross-Site Scripting Attacks in Node.js](https://infosecwriteups.com/prevent-cross-site-scripting-attacks-in-node-js-6b6fa5dd689f?source=rss----7b722bfd1b8d---4)
@@ -969,9 +972,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [HackerOne’s Next Stage of Growth](https://www.hackerone.com/hackerones-next-stage-growth)
 - [How a Prompt Injection Vulnerability Led to Data Exfiltration](https://www.hackerone.com/ai/prompt-injection-deep-dive)
 - [Lessons Learned from Over a Decade of On-Call](https://www.hackerone.com/engineering/on-call-lessons)
-- [Kubernetes — A Journey Has Just Begun](https://www.hackerone.com/engineering/kubernetes)
-- [On Writing Well as a Software Engineer](https://www.hackerone.com/engineering/writing-tips-software-engineer)
-- [Accelerate Find-to-Fix Cycles With Hai](https://www.hackerone.com/ai/accelerate-find-to-fix-hai)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
