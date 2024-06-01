@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Use FFUF to bypass Burp Suite’s Intruder attacks delay!!!](https://hackermater.medium.com/use-ffuf-to-bypass-burp-suite-intruder-attacks-delay-c5087c912741?source=rss------bug_bounty_writeup-5)
 - [Digging into Javascript to find the gem](https://rudrasarkar.medium.com/digging-into-javascript-to-find-the-gem-688c06c38db7?source=rss------bug_bounty_writeup-5)
 - [A Beautiful Bug: Interesting URL scheme bypass + Race Condition.](https://medium.com/@Nightbloodz/a-beautiful-bug-interesting-url-scheme-bypass-race-condition-61109771a250?source=rss------bug_bounty_writeup-5)
 - [GDPR and Pentesting: What You Need to Know](https://www.hackerone.com/security-compliance/gdpr-pentesting)
@@ -947,7 +948,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Discovering a $5000 RCE via Dependency Confusion Vulnerability](https://nvk0x.medium.com/discovering-a-5000-rce-via-dependency-confusion-vulnerability-6b0c08ecd5de?source=rss------bug_bounty_writeup-5)
 - [IDOR Explained: Discover It Through a Simple Story!](https://medium.com/@1hehaq/idor-explained-discover-it-through-a-simple-story-ca4a018f6d4c?source=rss------bug_bounty_writeup-5)
 - [How I Hacked NASA Using Google Dork in Just 10 Minutes](https://medium.com/@gaurish.main/how-i-hacked-nasa-using-google-dork-in-just-10-minutes-6ce3b3401512?source=rss------bug_bounty_writeup-5)
-- [Leaking[ID+Token] Leads To Sensitive Data Disclosure](https://0xm0r4d.medium.com/leaking-id-token-leads-to-sensitive-data-disclosure-fac5a9fc2b7a?source=rss------bug_bounty_writeup-5)
 - [How a Business Logic Vulnerability Led to Unlimited Discount Redemption](https://www.hackerone.com/vulnerability-management/stripe-business-logic-error-bug)
 - [How Hackers Help Jedox Secure Cloud Assets and Stay One Step Ahead](https://www.hackerone.com/customer-stories/how-hackers-help-jedox-secure-cloud-assets-and-stay-one-step-ahead)
 - [Winning Together Through Synergy and Vulnerabilities](https://www.hackerone.com/engineering/winning-together-synergy-vulnerabilities)
