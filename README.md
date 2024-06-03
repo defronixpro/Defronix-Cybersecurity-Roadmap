@@ -922,7 +922,9 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [HackerOne&#39;s Top 10 AI EMB&lpar;arrassments&rpar;](https://www.hackerone.com/ai/top-10-ai-embarrassments)
 - [Use FFUF to bypass Burp Suite’s Intruder attacks delay!!!](https://hackermater.medium.com/use-ffuf-to-bypass-burp-suite-intruder-attacks-delay-c5087c912741?source=rss------bug_bounty_writeup-5)
+- [3 Bug Bounty Lessons From Retail &amp; eCommerce Customers](https://www.hackerone.com/customer-stories/retail-ecommerce-lessons)
 - [Digging into Javascript to find the gem](https://rudrasarkar.medium.com/digging-into-javascript-to-find-the-gem-688c06c38db7?source=rss------bug_bounty_writeup-5)
 - [A Beautiful Bug: Interesting URL scheme bypass + Race Condition.](https://medium.com/@Nightbloodz/a-beautiful-bug-interesting-url-scheme-bypass-race-condition-61109771a250?source=rss------bug_bounty_writeup-5)
 - [GDPR and Pentesting: What You Need to Know](https://www.hackerone.com/security-compliance/gdpr-pentesting)
@@ -970,8 +972,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [HackerOne and Zoom Select EverythingALS as the Latest Charity For #Hackforgood](https://www.hackerone.com/customer-stories/zoom-als-hackforgood)
 - [HackerOne’s Next Stage of Growth](https://www.hackerone.com/hackerones-next-stage-growth)
 - [How a Prompt Injection Vulnerability Led to Data Exfiltration](https://www.hackerone.com/ai/prompt-injection-deep-dive)
-- [Lessons Learned from Over a Decade of On-Call](https://www.hackerone.com/engineering/on-call-lessons)
-- [Kubernetes — A Journey Has Just Begun](https://www.hackerone.com/engineering/kubernetes)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
