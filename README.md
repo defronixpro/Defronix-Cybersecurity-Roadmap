@@ -954,6 +954,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How Hackers Help Jedox Secure Cloud Assets and Stay One Step Ahead](https://www.hackerone.com/customer-stories/how-hackers-help-jedox-secure-cloud-assets-and-stay-one-step-ahead)
 - [Winning Together Through Synergy and Vulnerabilities](https://www.hackerone.com/engineering/winning-together-synergy-vulnerabilities)
 - [Community-driven PTaaS vs. Automated Pentesting](https://www.hackerone.com/penetration-testing/ptaas-vs-automated-pentesting)
+- [What Is a Vulnerability Disclosure Program and Do You Need One?](https://www.hackerone.com/vulnerability-disclosure/what-vulnerability-disclosure-program-and-do-you-need-one)
 - [How Ethical Hackers Are Securing Elections](https://www.hackerone.com/ethical-hacker/election-security)
 - [HackerOne Company Values Matter: Win as a Team](https://www.hackerone.com/culture-and-talent/hackerone-company-values-matter-win-team)
 - [Why I Keep a Brag Document — and How It Can Help You](https://www.hackerone.com/engineering/brag-document)
@@ -971,7 +972,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [CREST and Pentesting: What You Need to Know](https://www.hackerone.com/security-compliance/crest-pentesting)
 - [HackerOne and Zoom Select EverythingALS as the Latest Charity For #Hackforgood](https://www.hackerone.com/customer-stories/zoom-als-hackforgood)
 - [HackerOne’s Next Stage of Growth](https://www.hackerone.com/hackerones-next-stage-growth)
-- [How a Prompt Injection Vulnerability Led to Data Exfiltration](https://www.hackerone.com/ai/prompt-injection-deep-dive)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
