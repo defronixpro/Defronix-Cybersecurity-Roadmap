@@ -21,7 +21,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Unauthenticated Cache Purge, Really a Bug?](https://medium.com/@anonymoustriager/unauthenticated-cache-purge-really-a-bug-1da44d6fbfd9?source=rss------bug_bounty_writeup-5)
 - [HackerOne Spot Checks for On-Demand, Targeted Security Testing](https://www.hackerone.com/vulnerability-management/spot-checks)
 - [The bugs: List of weird vulnerabilities](https://noobsixt9.medium.com/the-bugs-list-of-weird-vulnerabilities-6bc98fc5c1cc?source=rss------bug_bounty_writeup-5)
-- [Building Own Nuclei Templates](https://ott3rly.medium.com/building-own-nuclei-templates-c0e45ea7aac7?source=rss------bug_bounty_writeup-5)
+- [Building Own Nuclei Templates](https://infosecwriteups.com/building-own-nuclei-templates-c0e45ea7aac7?source=rss------bug_bounty_writeup-5)
 - [AI Developers’ AMA: AI System Design and Development](https://www.hackerone.com/ai/developers-system-design-development)
 - [What You Need to Know About the EU’s Cyber Resilience Act](https://www.hackerone.com/public-policy/eu-cyber-resilience-act)
 - [Time-Based Google OAuth Account Takeover: Adventures in Bug Bounties](https://medium.com/@iamrizwanvp/time-based-google-oauth-account-takeover-my-bug-bounty-journey-a0f534227bc6?source=rss------bug_bounty_writeup-5)
