@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Fresh Targets to hunt on for $$$$&lpar;wildscope&rpar;](https://medium.com/@anonymoustriager/fresh-targets-to-hunt-on-for-wildscope-abdebaf4f94d?source=rss------bug_bounty_writeup-5)
 - [From Zero to Hero:  Your Guide to Building a Bug Bounty Program With HackerOne](https://www.hackerone.com/vulnerability-management/bug-bounty-program-guide)
 - [HackerOne Company Values Matter: Execute with Excellence](https://www.hackerone.com/culture-and-talent/hackerone-company-values-matter-execute-excellence)
 - [How I Found My First RCE](https://medium.com/@HackerJacke/how-i-found-my-first-rce-daa69decb4c3?source=rss------bug_bounty_writeup-5)
@@ -32,7 +33,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Time-Based Google OAuth Account Takeover: Adventures in Bug Bounties](https://medium.com/@iamrizwanvp/time-based-google-oauth-account-takeover-my-bug-bounty-journey-a0f534227bc6?source=rss------bug_bounty_writeup-5)
 - [Security@: The Top 3 Bug Bounty Lessons From Security Leaders](https://www.hackerone.com/customer-stories/security-lessons)
 - [Reflected XSS Leading to Account Takeover](https://0onoproblem.medium.com/reflected-xss-leading-to-account-takeover-bea862cba885?source=rss------bug_bounty_writeup-5)
-- [Discovering a $5000 RCE via Dependency Confusion Vulnerability](https://nvk0x.medium.com/discovering-a-5000-rce-via-dependency-confusion-vulnerability-6b0c08ecd5de?source=rss------bug_bounty_writeup-5)
 - [How a Business Logic Vulnerability Led to Unlimited Discount Redemption](https://www.hackerone.com/vulnerability-management/stripe-business-logic-error-bug)
 - [How Hackers Help Jedox Secure Cloud Assets and Stay One Step Ahead](https://www.hackerone.com/customer-stories/how-hackers-help-jedox-secure-cloud-assets-and-stay-one-step-ahead)
 - [Winning Together Through Synergy and Vulnerabilities](https://www.hackerone.com/engineering/winning-together-synergy-vulnerabilities)
