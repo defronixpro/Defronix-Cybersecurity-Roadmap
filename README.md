@@ -922,7 +922,10 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [HackerOne Company Values Matter: Execute with Excellence](https://www.hackerone.com/culture-and-talent/hackerone-company-values-matter-execute-excellence)
 - [How I Found My First RCE](https://medium.com/@HackerJacke/how-i-found-my-first-rce-daa69decb4c3?source=rss------bug_bounty_writeup-5)
+- [NIST CSF 2.0 and Pentesting: What You Need to Know](https://www.hackerone.com/security-compliance/nist-csf-pentesting)
+- [Hack My Career: Advice from HackerOne Employees](https://www.hackerone.com/culture-and-talent/hack-my-career-advice-hackerone-employees)
 - [BYOVD Attacks: The Hidden Threats of Vulnerable Drivers](https://infosecwriteups.com/byovd-attacks-the-hidden-threats-of-vulnerable-drivers-d1aebe9b552e?source=rss----7b722bfd1b8d---4)
 - [Mitigating Malware](https://infosecwriteups.com/mitigating-malware-923d6dfad0a8?source=rss----7b722bfd1b8d---4)
 - [Building Own Nuclei Templates](https://infosecwriteups.com/building-own-nuclei-templates-c0e45ea7aac7?source=rss----7b722bfd1b8d---4)
@@ -969,9 +972,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Follow-up or Fail](https://www.hackerone.com/engineering/follow-up-or-fail)
 - [HackerOne Invests in Leaders with New Development Program](https://www.hackerone.com/culture-and-talent/hackerone-invests-leaders-new-development-program)
 - [HackerOne’s Spring Day of Service](https://www.hackerone.com/culture-and-talent/hackerones-spring-day-service)
-- [CREST and Pentesting: What You Need to Know](https://www.hackerone.com/security-compliance/crest-pentesting)
-- [HackerOne and Zoom Select EverythingALS as the Latest Charity For #Hackforgood](https://www.hackerone.com/customer-stories/zoom-als-hackforgood)
-- [HackerOne’s Next Stage of Growth](https://www.hackerone.com/hackerones-next-stage-growth)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
