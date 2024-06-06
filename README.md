@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I Found My First RCE](https://medium.com/@HackerJacke/how-i-found-my-first-rce-daa69decb4c3?source=rss------bug_bounty_writeup-5)
 - [BYOVD Attacks: The Hidden Threats of Vulnerable Drivers](https://infosecwriteups.com/byovd-attacks-the-hidden-threats-of-vulnerable-drivers-d1aebe9b552e?source=rss----7b722bfd1b8d---4)
 - [Mitigating Malware](https://infosecwriteups.com/mitigating-malware-923d6dfad0a8?source=rss----7b722bfd1b8d---4)
 - [Building Own Nuclei Templates](https://infosecwriteups.com/building-own-nuclei-templates-c0e45ea7aac7?source=rss----7b722bfd1b8d---4)
@@ -949,7 +950,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Security@: The Top 3 Bug Bounty Lessons From Security Leaders](https://www.hackerone.com/customer-stories/security-lessons)
 - [Reflected XSS Leading to Account Takeover](https://0onoproblem.medium.com/reflected-xss-leading-to-account-takeover-bea862cba885?source=rss------bug_bounty_writeup-5)
 - [Discovering a $5000 RCE via Dependency Confusion Vulnerability](https://nvk0x.medium.com/discovering-a-5000-rce-via-dependency-confusion-vulnerability-6b0c08ecd5de?source=rss------bug_bounty_writeup-5)
-- [IDOR Explained: Discover It Through a Simple Story!](https://medium.com/@1hehaq/idor-explained-discover-it-through-a-simple-story-ca4a018f6d4c?source=rss------bug_bounty_writeup-5)
 - [How a Business Logic Vulnerability Led to Unlimited Discount Redemption](https://www.hackerone.com/vulnerability-management/stripe-business-logic-error-bug)
 - [How Hackers Help Jedox Secure Cloud Assets and Stay One Step Ahead](https://www.hackerone.com/customer-stories/how-hackers-help-jedox-secure-cloud-assets-and-stay-one-step-ahead)
 - [Winning Together Through Synergy and Vulnerabilities](https://www.hackerone.com/engineering/winning-together-synergy-vulnerabilities)
