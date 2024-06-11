@@ -951,6 +951,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [GDPR and Pentesting: What You Need to Know](https://www.hackerone.com/security-compliance/gdpr-pentesting)
 - [Embracing Resilience: HackerOne&#39;s Approach to Disaster Recovery](https://www.hackerone.com/engineering/disaster-recovery)
 - [HackerOne Spot Checks for On-Demand, Targeted Security Testing](https://www.hackerone.com/vulnerability-management/spot-checks)
+- [HackerOne&#39;s Cloud Security Capabilities for AWS Customers](https://www.hackerone.com/penetration-testing/hackerones-cloud-security-capabilities-aws-customers)
 - [AI Developers’ AMA: AI System Design and Development](https://www.hackerone.com/ai/developers-system-design-development)
 - [What You Need to Know About the EU’s Cyber Resilience Act](https://www.hackerone.com/public-policy/eu-cyber-resilience-act)
 - [Security@: The Top 3 Bug Bounty Lessons From Security Leaders](https://www.hackerone.com/customer-stories/security-lessons)
@@ -971,7 +972,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Setting Up an Environment for Web Hacking](https://www.hackerone.com/ethical-hacker/setting-up-web-hacking-environment)
 - [Join HackerOne’s Ambassador World Cup](https://www.hackerone.com/lhe/join-ambassador-world-cup)
 - [Follow-up or Fail](https://www.hackerone.com/engineering/follow-up-or-fail)
-- [HackerOne Invests in Leaders with New Development Program](https://www.hackerone.com/culture-and-talent/hackerone-invests-leaders-new-development-program)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
