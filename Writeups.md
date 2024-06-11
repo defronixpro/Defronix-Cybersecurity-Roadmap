@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Account Takeover &lpar;ATO&rpar; Checklist](https://medium.com/@anonymoustriager/account-takeover-ato-checklist-f67d2543b01f?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Hunting — Complete Guide &lpar;Part -1&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-1-21a87e35fdfa?source=rss------bug_bounty_writeup-5)
 - [Fresh Targets to hunt on for $$$$&lpar;wildscope&rpar;](https://medium.com/@anonymoustriager/fresh-targets-to-hunt-on-for-wildscope-abdebaf4f94d?source=rss------bug_bounty_writeup-5)
 - [From Zero to Hero:  Your Guide to Building a Bug Bounty Program With HackerOne](https://www.hackerone.com/vulnerability-management/bug-bounty-program-guide)
@@ -31,7 +32,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Building Own Nuclei Templates](https://infosecwriteups.com/building-own-nuclei-templates-c0e45ea7aac7?source=rss------bug_bounty_writeup-5)
 - [AI Developers’ AMA: AI System Design and Development](https://www.hackerone.com/ai/developers-system-design-development)
 - [What You Need to Know About the EU’s Cyber Resilience Act](https://www.hackerone.com/public-policy/eu-cyber-resilience-act)
-- [Time-Based Google OAuth Account Takeover: Adventures in Bug Bounties](https://medium.com/@iamrizwanvp/time-based-google-oauth-account-takeover-my-bug-bounty-journey-a0f534227bc6?source=rss------bug_bounty_writeup-5)
 - [Security@: The Top 3 Bug Bounty Lessons From Security Leaders](https://www.hackerone.com/customer-stories/security-lessons)
 - [How a Business Logic Vulnerability Led to Unlimited Discount Redemption](https://www.hackerone.com/vulnerability-management/stripe-business-logic-error-bug)
 - [How Hackers Help Jedox Secure Cloud Assets and Stay One Step Ahead](https://www.hackerone.com/customer-stories/how-hackers-help-jedox-secure-cloud-assets-and-stay-one-step-ahead)
