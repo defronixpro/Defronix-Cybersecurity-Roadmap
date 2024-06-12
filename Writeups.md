@@ -1,8 +1,16 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Bug Bounty Hunting — Complete Guide &lpar;Part-2&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-2-ef65d69de157?source=rss------bug_bounty_writeup-5)
+- [How I found OpenHAB Automation Panels Accessible Without Authentication](https://medium.com/@jeetpal2007/how-i-found-openhab-automation-panels-accessible-without-authentication-d9edbb3280fd?source=rss------bug_bounty_writeup-5)
+- [How I found a account takeover on a web 3 platform](https://medium.com/@jeetpal2007/how-i-found-a-account-takeover-on-a-web-3-platform-27953f37944b?source=rss------bug_bounty_writeup-5)
+- [How to exploit CVE-2024–24919 path traversal](https://medium.com/@jeetpal2007/how-to-exploit-cve-2024-24919-path-traversal-5493c50d2581?source=rss------bug_bounty_writeup-5)
+- [Account Takeover &lpar;ATO&rpar; Checklist](https://medium.com/@anonymoustriager/account-takeover-ato-checklist-f67d2543b01f?source=rss------bug_bounty_writeup-5)
+- [Bug Bounty Hunting — Complete Guide &lpar;Part -1&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-1-21a87e35fdfa?source=rss------bug_bounty_writeup-5)
+- [Fresh Targets to hunt on for $$$$&lpar;wildscope&rpar;](https://medium.com/@anonymoustriager/fresh-targets-to-hunt-on-for-wildscope-abdebaf4f94d?source=rss------bug_bounty_writeup-5)
 - [From Zero to Hero:  Your Guide to Building a Bug Bounty Program With HackerOne](https://www.hackerone.com/vulnerability-management/bug-bounty-program-guide)
 - [HackerOne Company Values Matter: Execute with Excellence](https://www.hackerone.com/culture-and-talent/hackerone-company-values-matter-execute-excellence)
+- [How I Found My First RCE](https://medium.com/@HackerJacke/how-i-found-my-first-rce-daa69decb4c3?source=rss------bug_bounty_writeup-5)
 - [NIST CSF 2.0 and Pentesting: What You Need to Know](https://www.hackerone.com/security-compliance/nist-csf-pentesting)
 - [Hack My Career: Advice from HackerOne Employees](https://www.hackerone.com/culture-and-talent/hack-my-career-advice-hackerone-employees)
 - [BYOVD Attacks: The Hidden Threats of Vulnerable Drivers](https://infosecwriteups.com/byovd-attacks-the-hidden-threats-of-vulnerable-drivers-d1aebe9b552e?source=rss----7b722bfd1b8d---4)
@@ -16,7 +24,9 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Install Subfinder |Tool](https://infosecwriteups.com/install-subfinder-tool-cd7f4eaadff4?source=rss----7b722bfd1b8d---4)
 - [Web Application Penetration Checklist](https://infosecwriteups.com/web-application-penetration-checklist-fdb34c466975?source=rss----7b722bfd1b8d---4)
 - [HackerOne&#39;s List of Top 10 AI EMB&lpar;arrassments&rpar;](https://www.hackerone.com/ai/top-10-ai-embarrassments)
+- [Use FFUF to bypass Burp Suite’s Intruder attacks delay!!!](https://hackermater.medium.com/use-ffuf-to-bypass-burp-suite-intruder-attacks-delay-c5087c912741?source=rss------bug_bounty_writeup-5)
 - [3 Bug Bounty Lessons From Retail &amp; eCommerce Customers](https://www.hackerone.com/customer-stories/retail-ecommerce-lessons)
+- [Digging into Javascript to find the gem](https://rudrasarkar.medium.com/digging-into-javascript-to-find-the-gem-688c06c38db7?source=rss------bug_bounty_writeup-5)
 - [GDPR and Pentesting: What You Need to Know](https://www.hackerone.com/security-compliance/gdpr-pentesting)
 - [Embracing Resilience: HackerOne&#39;s Approach to Disaster Recovery](https://www.hackerone.com/engineering/disaster-recovery)
 - [HackerOne Spot Checks for On-Demand, Targeted Security Testing](https://www.hackerone.com/vulnerability-management/spot-checks)
