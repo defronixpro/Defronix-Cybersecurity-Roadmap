@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [What HackerOne Customers Can Tell You About Securing Organizational Buy-In for Ethical Hackers](https://www.hackerone.com/customer-stories/securing-organizational-buy-in)
 - [Bug Bounty Hunting — Complete Guide &lpar;Part-2&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-2-ef65d69de157?source=rss------bug_bounty_writeup-5)
 - [How I found OpenHAB Automation Panels Accessible Without Authentication](https://medium.com/@jeetpal2007/how-i-found-openhab-automation-panels-accessible-without-authentication-d9edbb3280fd?source=rss------bug_bounty_writeup-5)
 - [How I found a account takeover on a web 3 platform](https://medium.com/@jeetpal2007/how-i-found-a-account-takeover-on-a-web-3-platform-27953f37944b?source=rss------bug_bounty_writeup-5)
@@ -971,7 +972,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Lessons Learned from Over a Decade of On-Call](https://www.hackerone.com/engineering/on-call-lessons)
 - [Kubernetes — A Journey Has Just Begun](https://www.hackerone.com/engineering/kubernetes)
 - [On Writing Well as a Software Engineer](https://www.hackerone.com/engineering/writing-tips-software-engineer)
-- [Accelerate Find-to-Fix Cycles With Hai](https://www.hackerone.com/ai/accelerate-find-to-fix-hai)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
