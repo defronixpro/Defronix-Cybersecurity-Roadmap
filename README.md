@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Bug Bounty Hunting — Complete Guide &lpar;Part — 3&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-3-141b7bfa6ed6?source=rss------bug_bounty_writeup-5)
 - [What HackerOne Customers Can Tell You About Securing Organizational Buy-In for Ethical Hackers](https://www.hackerone.com/customer-stories/securing-organizational-buy-in)
 - [Bug Bounty Hunting — Complete Guide &lpar;Part-2&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-2-ef65d69de157?source=rss------bug_bounty_writeup-5)
 - [How I found OpenHAB Automation Panels Accessible Without Authentication](https://medium.com/@jeetpal2007/how-i-found-openhab-automation-panels-accessible-without-authentication-d9edbb3280fd?source=rss------bug_bounty_writeup-5)
@@ -938,7 +939,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [HackerOne&#39;s List of Top 10 AI EMB&lpar;arrassments&rpar;](https://www.hackerone.com/ai/top-10-ai-embarrassments)
 - [Use FFUF to bypass Burp Suite’s Intruder attacks delay!!!](https://hackermater.medium.com/use-ffuf-to-bypass-burp-suite-intruder-attacks-delay-c5087c912741?source=rss------bug_bounty_writeup-5)
 - [3 Bug Bounty Lessons From Retail &amp; eCommerce Customers](https://www.hackerone.com/customer-stories/retail-ecommerce-lessons)
-- [Digging into Javascript to find the gem](https://rudrasarkar.medium.com/digging-into-javascript-to-find-the-gem-688c06c38db7?source=rss------bug_bounty_writeup-5)
 - [GDPR and Pentesting: What You Need to Know](https://www.hackerone.com/security-compliance/gdpr-pentesting)
 - [Embracing Resilience: HackerOne&#39;s Approach to Disaster Recovery](https://www.hackerone.com/engineering/disaster-recovery)
 - [HackerOne Spot Checks for On-Demand, Targeted Security Testing](https://www.hackerone.com/vulnerability-management/spot-checks)
