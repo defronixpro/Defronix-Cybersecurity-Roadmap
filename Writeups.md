@@ -1,6 +1,8 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [IDOR + Account Takeover: How I Secured Personal Information &lpar;PII&rpar; of 5.17M Electricity Consumers](https://infosecwriteups.com/idor-account-takeover-how-i-secured-personal-information-pii-of-5-17m-electricity-consumers-a9db5e4999b9?source=rss----7b722bfd1b8d---4)
+- [Your Own Search Engines For Bug Bounty](https://infosecwriteups.com/your-own-search-engines-for-bug-bounty-773845aa4e6a?source=rss----7b722bfd1b8d---4)
 - [Airplane: THM WALKTHROUGH](https://infosecwriteups.com/airplane-thm-walkthrough-8f8e25e13fe9?source=rss----7b722bfd1b8d---4)
 - [Honeypots 103: Decoding Your SANS DShield Honeypot’s Data](https://infosecwriteups.com/honeypots-103-decoding-your-sans-dshield-honeypots-data-194dfb7b5a5f?source=rss----7b722bfd1b8d---4)
 - [Ransomware Evolution and Defense Strategies](https://infosecwriteups.com/ransomware-evolution-and-defense-strategies-481c79fc5a13?source=rss----7b722bfd1b8d---4)
@@ -9,8 +11,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Lab10 : Uncovering Admin Password Through Conditional Error Handling in SQL Injection](https://infosecwriteups.com/lab10-uncovering-admin-password-through-conditional-error-handling-in-sql-injection-3323874710b1?source=rss----7b722bfd1b8d---4)
 - [I Asked Three CISOs How To Succeed In Cybersecurity. This Is What I Learnt …](https://infosecwriteups.com/i-asked-three-cisos-how-to-succeed-in-cybersecurity-this-is-what-i-learnt-b1fbc2b11a75?source=rss----7b722bfd1b8d---4)
 - [Case Study: Foodmandu Breach by 1337mickey](https://infosecwriteups.com/case-study-foodmandu-breach-a3970282cb70?source=rss----7b722bfd1b8d---4)
-- [Case Study: Vianet Data Breach](https://infosecwriteups.com/case-study-vianet-data-breach-cb5dd9d8959c?source=rss----7b722bfd1b8d---4)
-- [Malware, viruses, worms, and Trojan horses](https://infosecwriteups.com/malware-viruses-worms-and-trojan-horses-10695b7d15ac?source=rss----7b722bfd1b8d---4)
 - [Bug Bounty Hunting — Complete Guide &lpar;Part — 3&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-3-141b7bfa6ed6?source=rss------bug_bounty_writeup-5)
 - [What HackerOne Customers Can Tell You About Securing Organizational Buy-In for Ethical Hackers](https://www.hackerone.com/customer-stories/securing-organizational-buy-in)
 - [Bug Bounty Hunting — Complete Guide &lpar;Part-2&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-2-ef65d69de157?source=rss------bug_bounty_writeup-5)
