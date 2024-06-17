@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Content Discovery With FFUF](https://infosecwriteups.com/content-discovery-with-ffuf-5bc81d2d8db6?source=rss----7b722bfd1b8d---4)
 - [OpManager: CSRF &amp; XS-Leak Chained for Information Disclosure](https://infosecwriteups.com/opmanager-csrf-xs-leak-chained-for-information-disclosure-382c6ee518ca?source=rss----7b722bfd1b8d---4)
 - [5 Methods I Use To Discover APIs](https://infosecwriteups.com/5-methods-i-use-to-discover-apis-6d646baa3ffb?source=rss----7b722bfd1b8d---4)
 - [Analyzing a Phishing Email Header](https://infosecwriteups.com/analyzing-a-phishing-email-header-f940e06fdc82?source=rss----7b722bfd1b8d---4)
@@ -931,7 +932,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Busting CSRF: The Hidden Dangers of JSON Exploited](https://infosecwriteups.com/busting-csrf-the-hidden-dangers-of-json-exploited-fd4aeb4cf47e?source=rss----7b722bfd1b8d---4)
 - [Discovering a $5000 RCE via Dependency Confusion Vulnerability](https://infosecwriteups.com/discovering-a-5000-rce-via-dependency-confusion-vulnerability-6b0c08ecd5de?source=rss----7b722bfd1b8d---4)
 - [“The Evolution of Phishing Attacks: From Deceptive Emails to Sophisticated Cyber Threats”](https://infosecwriteups.com/phishing-attacks-12afa03e7301?source=rss----7b722bfd1b8d---4)
-- [“Strengthening Your Cybersecurity Posture: Comprehensive Guide to Conducting Vulnerability…](https://infosecwriteups.com/strengthening-your-cybersecurity-posture-comprehensive-guide-to-conducting-vulnerability-407fa05117c2?source=rss----7b722bfd1b8d---4)
 - [Bug Bounty Hunting — Complete Guide &lpar;Part — 3&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-3-141b7bfa6ed6?source=rss------bug_bounty_writeup-5)
 - [What HackerOne Customers Can Tell You About Securing Organizational Buy-In for Ethical Hackers](https://www.hackerone.com/customer-stories/securing-organizational-buy-in)
 - [Bug Bounty Hunting — Complete Guide &lpar;Part-2&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-2-ef65d69de157?source=rss------bug_bounty_writeup-5)
