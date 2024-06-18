@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Bug Bounty Hunting — Complete Guide &lpar;Part-5&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-5-efb95db2210b?source=rss------bug_bounty_writeup-5)
+- [Bug Bounty Hunting — Complete Guide &lpar;Part -4&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-4-00e815fa8026?source=rss------bug_bounty_writeup-5)
 - [IDORs: What are they and how to find them](https://infosecwriteups.com/idors-what-are-they-and-how-to-find-them-f4393fbb522a?source=rss----7b722bfd1b8d---4)
 - [Content Discovery With FFUF](https://infosecwriteups.com/content-discovery-with-ffuf-5bc81d2d8db6?source=rss----7b722bfd1b8d---4)
 - [OpManager: CSRF &amp; XS-Leak Chained for Information Disclosure](https://infosecwriteups.com/opmanager-csrf-xs-leak-chained-for-information-disclosure-382c6ee518ca?source=rss----7b722bfd1b8d---4)
@@ -941,10 +943,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Account Takeover &lpar;ATO&rpar; Checklist](https://medium.com/@anonymoustriager/account-takeover-ato-checklist-f67d2543b01f?source=rss------bug_bounty_writeup-5)
 - [Content Discovery With FFUF](https://infosecwriteups.com/content-discovery-with-ffuf-5bc81d2d8db6?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Hunting — Complete Guide &lpar;Part -1&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-1-21a87e35fdfa?source=rss------bug_bounty_writeup-5)
-- [Fresh Targets to hunt on for $$$$&lpar;wildscope&rpar;](https://medium.com/@anonymoustriager/fresh-targets-to-hunt-on-for-wildscope-abdebaf4f94d?source=rss------bug_bounty_writeup-5)
 - [From Zero to Hero:  Your Guide to Building a Bug Bounty Program With HackerOne](https://www.hackerone.com/vulnerability-management/bug-bounty-program-guide)
 - [HackerOne Company Values Matter: Execute with Excellence](https://www.hackerone.com/culture-and-talent/hackerone-company-values-matter-execute-excellence)
-- [How I Found My First RCE](https://medium.com/@HackerJacke/how-i-found-my-first-rce-daa69decb4c3?source=rss------bug_bounty_writeup-5)
 - [NIST CSF 2.0 and Pentesting: What You Need to Know](https://www.hackerone.com/security-compliance/nist-csf-pentesting)
 - [Hack My Career: Advice from HackerOne Employees](https://www.hackerone.com/culture-and-talent/hack-my-career-advice-hackerone-employees)
 - [HackerOne&#39;s List of Top 10 AI EMB&lpar;arrassments&rpar;](https://www.hackerone.com/ai/top-10-ai-embarrassments)
