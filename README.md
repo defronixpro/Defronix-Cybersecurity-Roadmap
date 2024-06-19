@@ -922,7 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [Mastering Bug Bounty: Tips and Strategies for Success](https://medium.com/@whitehatcyber404/mastering-bug-bounty-tips-and-strategies-for-success-df27b24f2009?source=rss------bug_bounty_writeup-5)
+- [Mastering Bug Bounty: Tips and Strategies for Success](https://medium.com/@cyber_catz/mastering-bug-bounty-tips-and-strategies-for-success-df27b24f2009?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Hunting — Complete Guide &lpar;Part-5&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-5-efb95db2210b?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Hunting — Complete Guide &lpar;Part -4&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-4-00e815fa8026?source=rss------bug_bounty_writeup-5)
 - [IDORs: What are they and how to find them](https://infosecwriteups.com/idors-what-are-they-and-how-to-find-them-f4393fbb522a?source=rss----7b722bfd1b8d---4)
