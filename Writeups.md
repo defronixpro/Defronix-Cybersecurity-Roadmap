@@ -1,8 +1,6 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
-- [Bug Bounty Hunting — Complete Guide &lpar;Part-5&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-5-efb95db2210b?source=rss------bug_bounty_writeup-5)
-- [Bug Bounty Hunting — Complete Guide &lpar;Part -4&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-4-00e815fa8026?source=rss------bug_bounty_writeup-5)
 - [IDORs: What are they and how to find them](https://infosecwriteups.com/idors-what-are-they-and-how-to-find-them-f4393fbb522a?source=rss----7b722bfd1b8d---4)
 - [Content Discovery With FFUF](https://infosecwriteups.com/content-discovery-with-ffuf-5bc81d2d8db6?source=rss----7b722bfd1b8d---4)
 - [OpManager: CSRF &amp; XS-Leak Chained for Information Disclosure](https://infosecwriteups.com/opmanager-csrf-xs-leak-chained-for-information-disclosure-382c6ee518ca?source=rss----7b722bfd1b8d---4)
@@ -13,15 +11,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Real World GitLab Account Take Over](https://infosecwriteups.com/real-world-gitlab-account-take-over-b2e9896a1835?source=rss----7b722bfd1b8d---4)
 - [Busting CSRF: The Hidden Dangers of JSON Exploited](https://infosecwriteups.com/busting-csrf-the-hidden-dangers-of-json-exploited-fd4aeb4cf47e?source=rss----7b722bfd1b8d---4)
 - [Discovering a $5000 RCE via Dependency Confusion Vulnerability](https://infosecwriteups.com/discovering-a-5000-rce-via-dependency-confusion-vulnerability-6b0c08ecd5de?source=rss----7b722bfd1b8d---4)
-- [Bug Bounty Hunting — Complete Guide &lpar;Part — 3&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-3-141b7bfa6ed6?source=rss------bug_bounty_writeup-5)
 - [What HackerOne Customers Can Tell You About Securing Organizational Buy-In for Ethical Hackers](https://www.hackerone.com/customer-stories/securing-organizational-buy-in)
-- [Bug Bounty Hunting — Complete Guide &lpar;Part-2&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-2-ef65d69de157?source=rss------bug_bounty_writeup-5)
-- [How I found OpenHAB Automation Panels Accessible Without Authentication](https://medium.com/@jeetpal2007/how-i-found-openhab-automation-panels-accessible-without-authentication-d9edbb3280fd?source=rss------bug_bounty_writeup-5)
-- [How I found a account takeover on a web 3 platform](https://medium.com/@jeetpal2007/how-i-found-a-account-takeover-on-a-web-3-platform-27953f37944b?source=rss------bug_bounty_writeup-5)
-- [How to exploit CVE-2024–24919 path traversal](https://medium.com/@jeetpal2007/how-to-exploit-cve-2024-24919-path-traversal-5493c50d2581?source=rss------bug_bounty_writeup-5)
-- [Account Takeover &lpar;ATO&rpar; Checklist](https://medium.com/@anonymoustriager/account-takeover-ato-checklist-f67d2543b01f?source=rss------bug_bounty_writeup-5)
-- [Content Discovery With FFUF](https://infosecwriteups.com/content-discovery-with-ffuf-5bc81d2d8db6?source=rss------bug_bounty_writeup-5)
-- [Bug Bounty Hunting — Complete Guide &lpar;Part -1&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-1-21a87e35fdfa?source=rss------bug_bounty_writeup-5)
 - [From Zero to Hero:  Your Guide to Building a Bug Bounty Program With HackerOne](https://www.hackerone.com/vulnerability-management/bug-bounty-program-guide)
 - [HackerOne Company Values Matter: Execute with Excellence](https://www.hackerone.com/culture-and-talent/hackerone-company-values-matter-execute-excellence)
 - [NIST CSF 2.0 and Pentesting: What You Need to Know](https://www.hackerone.com/security-compliance/nist-csf-pentesting)
