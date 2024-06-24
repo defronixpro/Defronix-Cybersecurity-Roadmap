@@ -925,6 +925,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Bug Bounty Hunting — Complete Guide &lpar;Part-8&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-8-3d5a833a4842?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Hunting — Complete Guide &lpar;Part-7&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-7-6a8786ecb6f4?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Hunting — Complete Guide &lpar;Part-6&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-6-2ad674553fa0?source=rss------bug_bounty_writeup-5)
+- [Celebrating International Women in Engineering Day](https://www.hackerone.com/culture-and-talent/celebrating-international-women-engineering-day)
+- [Sales Development Representatives Win as a Team](https://www.hackerone.com/culture-and-talent/sdr-win-team)
 - [Mastering Bug Bounty: Tips and Strategies for Success](https://medium.com/@cyber_catz/mastering-bug-bounty-tips-and-strategies-for-success-df27b24f2009?source=rss------bug_bounty_writeup-5)
 - [Community-driven PTaaS vs. Traditional Pentesting](https://www.hackerone.com/penetration-testing/ptaas-vs-traditional-pentest)
 - [Bug Bounty Hunting — Complete Guide &lpar;Part-5&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-5-efb95db2210b?source=rss------bug_bounty_writeup-5)
@@ -970,8 +972,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Building Bridges: The Art of Effective Communication Across Teams](https://www.hackerone.com/engineering/cross-team-communication)
 - [A Guide to Get the Most Out of Your One-on-ones](https://www.hackerone.com/engineering/one-on-ones-guide)
 - [How Serialized Cookies Led to RCE on a WordPress Website](https://www.hackerone.com/vulnerability-management/wordpress-custom-theme-rce)
-- [ISO 27001 and Pentesting: What You Need to Know](https://www.hackerone.com/security-compliance/iso-27001-pentesting)
-- [Setting Up an Environment for Web Hacking](https://www.hackerone.com/ethical-hacker/setting-up-web-hacking-environment)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
