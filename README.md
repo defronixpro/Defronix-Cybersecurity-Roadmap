@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Bug Bounty Hunting — Complete Guide &lpar;Part-6&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-6-2ad674553fa0?source=rss------bug_bounty_writeup-5)
 - [Mastering Bug Bounty: Tips and Strategies for Success](https://medium.com/@cyber_catz/mastering-bug-bounty-tips-and-strategies-for-success-df27b24f2009?source=rss------bug_bounty_writeup-5)
 - [Community-driven PTaaS vs. Traditional Pentesting](https://www.hackerone.com/penetration-testing/ptaas-vs-traditional-pentest)
 - [Bug Bounty Hunting — Complete Guide &lpar;Part-5&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-5-efb95db2210b?source=rss------bug_bounty_writeup-5)
@@ -943,7 +944,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How I found a account takeover on a web 3 platform](https://medium.com/@jeetpal2007/how-i-found-a-account-takeover-on-a-web-3-platform-27953f37944b?source=rss------bug_bounty_writeup-5)
 - [How to exploit CVE-2024–24919 path traversal](https://medium.com/@jeetpal2007/how-to-exploit-cve-2024-24919-path-traversal-5493c50d2581?source=rss------bug_bounty_writeup-5)
 - [Account Takeover &lpar;ATO&rpar; Checklist](https://medium.com/@anonymoustriager/account-takeover-ato-checklist-f67d2543b01f?source=rss------bug_bounty_writeup-5)
-- [Content Discovery With FFUF](https://infosecwriteups.com/content-discovery-with-ffuf-5bc81d2d8db6?source=rss------bug_bounty_writeup-5)
 - [From Zero to Hero:  Your Guide to Building a Bug Bounty Program With HackerOne](https://www.hackerone.com/vulnerability-management/bug-bounty-program-guide)
 - [HackerOne Company Values Matter: Execute with Excellence](https://www.hackerone.com/culture-and-talent/hackerone-company-values-matter-execute-excellence)
 - [NIST CSF 2.0 and Pentesting: What You Need to Know](https://www.hackerone.com/security-compliance/nist-csf-pentesting)
