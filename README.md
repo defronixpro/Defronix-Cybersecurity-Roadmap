@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How to Find XSS](https://www.hackerone.com/ethical-hacker/how-to-find-xss)
 - [ZDay Olarak Bulduğum PostMessage XSS Zafiyetinin Analizi](https://grolar.medium.com/zday-olarak-buldu%C4%9Fum-postmessage-xss-zafiyetinin-analizi-4c81471e32e5?source=rss------bug_bounty_writeup-5)
 - [Trust Machine Dockerlabs.es](https://infosecwriteups.com/trust-machine-dockerlabs-es-147b0a369282?source=rss----7b722bfd1b8d---4)
 - [SQLi WAF Bypass Techniques Part 1 — Time-Based Attacks](https://infosecwriteups.com/sqli-waf-bypass-techniques-part-1-time-based-attacks-7749689c72ed?source=rss----7b722bfd1b8d---4)
@@ -930,9 +931,9 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Install Naabu Kali or Parrot](https://infosecwriteups.com/install-naabu-kali-or-parrot-ec70622bf03a?source=rss----7b722bfd1b8d---4)
 - [HTB Office Writeup](https://infosecwriteups.com/htb-office-writeup-c2a8b08d4ead?source=rss----7b722bfd1b8d---4)
 - [Why &amp; How I Use Linode VPS For My Personal and Cybersecurity Projects](https://infosecwriteups.com/why-how-i-use-linode-vps-for-my-personal-and-cybersecurity-projects-d7f268ad784a?source=rss----7b722bfd1b8d---4)
-- [Exploring Blockchain Technology: Decentralized Ledger Systems Revolutionizing Data Management](https://infosecwriteups.com/exploring-blockchain-technology-decentralized-ledger-systems-revolutionizing-data-management-76649630ad04?source=rss----7b722bfd1b8d---4)
 - [DLL Injection With Rust](https://infosecwriteups.com/dll-injection-with-rust-8688757c9ec8?source=rss----7b722bfd1b8d---4)
 - [Safeguarding Health Data: The Critical Role of Cybersecurity in Healthcare](https://infosecwriteups.com/safeguarding-health-data-the-critical-role-of-cybersecurity-in-healthcare-1e8b85d22040?source=rss----7b722bfd1b8d---4)
+- [Install Rustcan on Kali Linux](https://infosecwriteups.com/install-rustcan-on-kali-linux-81e19db8dcee?source=rss----7b722bfd1b8d---4)
 - [Bug Bounty Hunting — Complete Guide &lpar;Part-10&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-10-466f0806866b?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Hunting — Complete Guide &lpar;Part-9&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-9-f76dc4218c1c?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Hunting — Complete Guide &lpar;Part-8&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-8-3d5a833a4842?source=rss------bug_bounty_writeup-5)
@@ -971,7 +972,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [On Listening](https://www.hackerone.com/engineering/on-listening)
 - [Building Bridges: The Art of Effective Communication Across Teams](https://www.hackerone.com/engineering/cross-team-communication)
 - [A Guide to Get the Most Out of Your One-on-ones](https://www.hackerone.com/engineering/one-on-ones-guide)
-- [How Serialized Cookies Led to RCE on a WordPress Website](https://www.hackerone.com/vulnerability-management/wordpress-custom-theme-rce)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
