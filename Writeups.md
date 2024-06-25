@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How to Find XSS](https://www.hackerone.com/ethical-hacker/how-to-find-xss)
 - [ZDay Olarak Bulduğum PostMessage XSS Zafiyetinin Analizi](https://grolar.medium.com/zday-olarak-buldu%C4%9Fum-postmessage-xss-zafiyetinin-analizi-4c81471e32e5?source=rss------bug_bounty_writeup-5)
 - [Trust Machine Dockerlabs.es](https://infosecwriteups.com/trust-machine-dockerlabs-es-147b0a369282?source=rss----7b722bfd1b8d---4)
 - [SQLi WAF Bypass Techniques Part 1 — Time-Based Attacks](https://infosecwriteups.com/sqli-waf-bypass-techniques-part-1-time-based-attacks-7749689c72ed?source=rss----7b722bfd1b8d---4)
@@ -138,8 +139,8 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Meet HackerOne’s Brand Ambassadors That Break the Hacker Stereotype](https://www.hackerone.com/ethical-hacker/young-hackers-for-good)
 - [What Do New Cybersecurity Rules Mean For CISOs?](https://www.hackerone.com/security-compliance/new-cybersecurity-rules-for-cisos)
 - [About the HackerOne Engineering Mentoring Program](https://www.hackerone.com/culture-and-talent/engineer-mentoring)
-- [What is the HackerOnesie?](https://www.hackerone.com/culture-and-talent/hackeronesie)
 - [Women in Sales: The Importance of a Diverse Team](https://www.hackerone.com/culture-and-talent/women-in-sales)
+- [What is the HackerOnesie?](https://www.hackerone.com/culture-and-talent/hackeronesie)
 - [Why This Moment In Cybersecurity Needs Hackers To Protect All Software](https://www.hackerone.com/blogs-hackerones-ceo/why-moment-cybersecurity-needs-hackers-protect-all-software)
 - [Ethical Hacking: Unveiling the Power of Hacking for Good in Cybersecurity](https://www.hackerone.com/thought-leadership/aws-podcast-ethical-hacking-cybersecurity)
 - [The Hacker Perspective on Generative AI and Cybersecurity](https://www.hackerone.com/thought-leadership/generative-ai-cybersecurity-hacker-perspective)
@@ -151,8 +152,8 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [HackerOne and the OWASP Top 10 for LLM: A Powerful Alliance for Secure AI](https://www.hackerone.com/vulnerability-management/owasp-llm-vulnerabilities)
 - [Company Update](https://www.hackerone.com/company-news/company-update)
 - [Strengthening the SDLC with Security Advisory Services &lpar;SAS&rpar;](https://www.hackerone.com/vulnerability-management/security-advisory-services-sdlc)
-- [Amazon&#39;s Security Researcher Collaboration: Highlights from H1-213](https://www.hackerone.com/live-hacking-events/amazons-security-researcher-collaboration-highlights-h1-213)
 - [Zoom and Salesforce: The Role of Hackers in Addressing Security Challenges](https://www.hackerone.com/vulnerability-management/zoom-salesforce-ethical-hackers)
+- [Amazon&#39;s Security Researcher Collaboration: Highlights from H1-213](https://www.hackerone.com/live-hacking-events/amazons-security-researcher-collaboration-highlights-h1-213)
 - [Five Takeaways from Ohio Secretary of State&#39;s VDP Success Story](https://www.hackerone.com/vulnerability-disclosure/five-takeaways-ohio-secretary-states-vdp-success-story)
 - [Security Should Never Sleep: Adopting Continuous Testing for Evolving Threats](https://www.hackerone.com/vulnerability-management/adopting-continuous-testing-evolving-threats)
 - [Generative AI and Security: HackerOne&#39;s Predictions](https://www.hackerone.com/thought-leadership/generative-ai-security-predictions)
@@ -408,8 +409,8 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [There is no room for racism or inequality here.](https://www.hackerone.com/ceo/there-no-room-racism-or-inequality-here)
 - [100 Hacking Tools and Resources](https://www.hackerone.com/ethical-hacker/100-hacking-tools-and-resources)
 - [The Journey in Data: HackerOne Hits 100 Million Dollars in Bounties](https://www.hackerone.com/ethical-hacker/journey-data-hackerone-hits-100-million-dollars-bounties)
-- [Thanks For Being Part Of The Journey to $100 Million in Bounties!](https://www.hackerone.com/ethical-hacker/thanks-being-part-journey-100-million-bounties)
 - [$100 Million Paid - One Billion in Sight for Hackers](https://www.hackerone.com/ceo/100-million-paid-one-billion-sight-hackers)
+- [Thanks For Being Part Of The Journey to $100 Million in Bounties!](https://www.hackerone.com/ethical-hacker/thanks-being-part-journey-100-million-bounties)
 - [10 Ways to Hack Your “New Normal” Workweek](https://www.hackerone.com/company-news/10-ways-hack-your-new-normal-workweek)
 - [How Federal Agencies Use Vulnerability Disclosure Policies to Level Up Security](https://www.hackerone.com/vulnerability-management/how-federal-agencies-use-vulnerability-disclosure-policies-level-security)
 - [Security by the People: Announcing HackerOne’s FedRAMP Authorization](https://www.hackerone.com/vulnerability-management/security-people-announcing-hackerones-fedramp-authorization)
