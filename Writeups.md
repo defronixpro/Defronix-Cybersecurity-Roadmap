@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Bug Bounty Hunting — Complete Guide &lpar;Part-10&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-10-466f0806866b?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Hunting — Complete Guide &lpar;Part-9&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-9-f76dc4218c1c?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Hunting — Complete Guide &lpar;Part-8&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-8-3d5a833a4842?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Hunting — Complete Guide &lpar;Part-7&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-7-6a8786ecb6f4?source=rss------bug_bounty_writeup-5)
@@ -24,7 +25,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [SQLi WAF Bypass Techniques Part 1 — Time-Based Attacks](https://infosecwriteups.com/sqli-waf-bypass-techniques-part-1-time-based-attacks-7749689c72ed?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Hunting — Complete Guide &lpar;Part — 3&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-3-141b7bfa6ed6?source=rss------bug_bounty_writeup-5)
 - [What HackerOne Customers Can Tell You About Securing Organizational Buy-In for Ethical Hackers](https://www.hackerone.com/customer-stories/securing-organizational-buy-in)
-- [Bug Bounty Hunting — Complete Guide &lpar;Part-2&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-2-ef65d69de157?source=rss------bug_bounty_writeup-5)
 - [From Zero to Hero:  Your Guide to Building a Bug Bounty Program With HackerOne](https://www.hackerone.com/vulnerability-management/bug-bounty-program-guide)
 - [HackerOne Company Values Matter: Execute with Excellence](https://www.hackerone.com/culture-and-talent/hackerone-company-values-matter-execute-excellence)
 - [NIST CSF 2.0 and Pentesting: What You Need to Know](https://www.hackerone.com/security-compliance/nist-csf-pentesting)
