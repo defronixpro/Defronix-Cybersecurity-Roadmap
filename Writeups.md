@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Bug Bounty Hunting — Complete Guide &lpar;Part-12&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-12-4b892dc13d9f?source=rss------bug_bounty_writeup-5)
 - [How to Find XSS](https://www.hackerone.com/ethical-hacker/how-to-find-xss)
 - [ZDay Olarak Bulduğum PostMessage XSS Zafiyetinin Analizi](https://grolar.medium.com/zday-olarak-buldu%C4%9Fum-postmessage-xss-zafiyetinin-analizi-4c81471e32e5?source=rss------bug_bounty_writeup-5)
 - [Trust Machine Dockerlabs.es](https://infosecwriteups.com/trust-machine-dockerlabs-es-147b0a369282?source=rss----7b722bfd1b8d---4)
@@ -24,7 +25,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Community-driven PTaaS vs. Traditional Pentesting](https://www.hackerone.com/penetration-testing/ptaas-vs-traditional-pentest)
 - [Bug Bounty Hunting — Complete Guide &lpar;Part-5&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-5-efb95db2210b?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Hunting — Complete Guide &lpar;Part -4&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-4-00e815fa8026?source=rss------bug_bounty_writeup-5)
-- [SQLi WAF Bypass Techniques Part 1 — Time-Based Attacks](https://infosecwriteups.com/sqli-waf-bypass-techniques-part-1-time-based-attacks-7749689c72ed?source=rss------bug_bounty_writeup-5)
 - [What HackerOne Customers Can Tell You About Securing Organizational Buy-In for Ethical Hackers](https://www.hackerone.com/customer-stories/securing-organizational-buy-in)
 - [From Zero to Hero:  Your Guide to Building a Bug Bounty Program With HackerOne](https://www.hackerone.com/vulnerability-management/bug-bounty-program-guide)
 - [HackerOne Company Values Matter: Execute with Excellence](https://www.hackerone.com/culture-and-talent/hackerone-company-values-matter-execute-excellence)
