@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Bug Bounty Hunting — Complete Guide &lpar;Part-13&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-13-b7bc7fa2123b?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Hunting — Complete Guide &lpar;Part-12&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-12-4b892dc13d9f?source=rss------bug_bounty_writeup-5)
 - [How to Find XSS](https://www.hackerone.com/ethical-hacker/how-to-find-xss)
 - [ZDay Olarak Bulduğum PostMessage XSS Zafiyetinin Analizi](https://grolar.medium.com/zday-olarak-buldu%C4%9Fum-postmessage-xss-zafiyetinin-analizi-4c81471e32e5?source=rss------bug_bounty_writeup-5)
@@ -945,7 +946,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Mastering Bug Bounty: Tips and Strategies for Success](https://medium.com/@cyber_catz/mastering-bug-bounty-tips-and-strategies-for-success-df27b24f2009?source=rss------bug_bounty_writeup-5)
 - [Community-driven PTaaS vs. Traditional Pentesting](https://www.hackerone.com/penetration-testing/ptaas-vs-traditional-pentest)
 - [Bug Bounty Hunting — Complete Guide &lpar;Part-5&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-5-efb95db2210b?source=rss------bug_bounty_writeup-5)
-- [Bug Bounty Hunting — Complete Guide &lpar;Part -4&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-4-00e815fa8026?source=rss------bug_bounty_writeup-5)
 - [What HackerOne Customers Can Tell You About Securing Organizational Buy-In for Ethical Hackers](https://www.hackerone.com/customer-stories/securing-organizational-buy-in)
 - [From Zero to Hero:  Your Guide to Building a Bug Bounty Program With HackerOne](https://www.hackerone.com/vulnerability-management/bug-bounty-program-guide)
 - [HackerOne Company Values Matter: Execute with Excellence](https://www.hackerone.com/culture-and-talent/hackerone-company-values-matter-execute-excellence)
