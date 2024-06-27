@@ -922,15 +922,18 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Common Ecommerce Vulnerabilities: Reflected XSS](https://www.hackerone.com/vulnerability-management/reflected-xss-ecommerce)
 - [Hunting Bugs for RE Hunter 350](https://vijetareigns.medium.com/hunting-bugs-for-re-hunter-350-81338c4ebf20?source=rss------bug_bounty_writeup-5)
 - [Writeup: Discovering and Exploiting XSS Vulnerabilities — My First Bug Hunting Reward](https://medium.com/@heyrm/writeup-discovering-and-exploiting-xss-vulnerabilities-my-first-bug-hunting-reward-0dfb0ebfd6aa?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Hunting — Complete Guide &lpar;Part-17&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-17-8d38292448cf?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Hunting — Complete Guide &lpar;Part-16&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-16-aacc2aab0f71?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Hunting — Complete Guide &lpar;Part-15&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-15-2cd3a0188386?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Hunting — Complete Guide &lpar;Part-14&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-14-985969cf2f17?source=rss------bug_bounty_writeup-5)
+- [Pentesting for NIST 800-53, FISMA, and FedRAMP](https://www.hackerone.com/security-compliance/nist-800-53-fisma-fedramp)
 - [Exploiting Role Persistence in LinkedIn Page Management](https://medium.com/@drnimishadavis/exploiting-role-persistence-in-linkedin-page-management-cce1391320f4?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Hunting — Complete Guide &lpar;Part-13&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-13-b7bc7fa2123b?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Hunting — Complete Guide &lpar;Part-12&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-12-4b892dc13d9f?source=rss------bug_bounty_writeup-5)
+- [Pride Month: Stories from Our LGBTQ+ Employees](https://www.hackerone.com/culture-and-talent/pride-month-stories-our-lgbtq-employees)
 - [How to Find XSS](https://www.hackerone.com/ethical-hacker/how-to-find-xss)
 - [Gerçek Dünyadan PostMessage XSS Zafiyetinin Analizi](https://grolar.medium.com/zday-olarak-buldu%C4%9Fum-postmessage-xss-zafiyetinin-analizi-4c81471e32e5?source=rss------bug_bounty_writeup-5)
 - [Trust Machine Dockerlabs.es](https://infosecwriteups.com/trust-machine-dockerlabs-es-147b0a369282?source=rss----7b722bfd1b8d---4)
@@ -969,9 +972,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [HackerOne Company Values Matter: Win as a Team](https://www.hackerone.com/culture-and-talent/hackerone-company-values-matter-win-team)
 - [Why I Keep a Brag Document — and How It Can Help You](https://www.hackerone.com/engineering/brag-document)
 - [I Suggest You Take a Nap](https://www.hackerone.com/engineering/take-a-nap)
-- [On Listening](https://www.hackerone.com/engineering/on-listening)
-- [Building Bridges: The Art of Effective Communication Across Teams](https://www.hackerone.com/engineering/cross-team-communication)
-- [A Guide to Get the Most Out of Your One-on-ones](https://www.hackerone.com/engineering/one-on-ones-guide)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
