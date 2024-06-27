@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Writeup: Discovering and Exploiting XSS Vulnerabilities — My First Bug Hunting Reward](https://medium.com/@heyrm/writeup-discovering-and-exploiting-xss-vulnerabilities-my-first-bug-hunting-reward-0dfb0ebfd6aa?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Hunting — Complete Guide &lpar;Part-17&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-17-8d38292448cf?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Hunting — Complete Guide &lpar;Part-16&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-16-aacc2aab0f71?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Hunting — Complete Guide &lpar;Part-15&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-15-2cd3a0188386?source=rss------bug_bounty_writeup-5)
@@ -942,7 +943,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Safeguarding Health Data: The Critical Role of Cybersecurity in Healthcare](https://infosecwriteups.com/safeguarding-health-data-the-critical-role-of-cybersecurity-in-healthcare-1e8b85d22040?source=rss----7b722bfd1b8d---4)
 - [Install Rustcan on Kali Linux](https://infosecwriteups.com/install-rustcan-on-kali-linux-81e19db8dcee?source=rss----7b722bfd1b8d---4)
 - [Bug Bounty Hunting — Complete Guide &lpar;Part-10&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-10-466f0806866b?source=rss------bug_bounty_writeup-5)
-- [Bug Bounty Hunting — Complete Guide &lpar;Part-9&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-9-f76dc4218c1c?source=rss------bug_bounty_writeup-5)
 - [Celebrating International Women in Engineering Day](https://www.hackerone.com/culture-and-talent/celebrating-international-women-engineering-day)
 - [Sales Development Representatives Win as a Team](https://www.hackerone.com/culture-and-talent/sdr-win-team)
 - [Community-driven PTaaS vs. Traditional Pentesting](https://www.hackerone.com/penetration-testing/ptaas-vs-traditional-pentest)
