@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Hunting Bugs for RE Hunter 350](https://vijetareigns.medium.com/hunting-bugs-for-re-hunter-350-81338c4ebf20?source=rss------bug_bounty_writeup-5)
 - [Writeup: Discovering and Exploiting XSS Vulnerabilities — My First Bug Hunting Reward](https://medium.com/@heyrm/writeup-discovering-and-exploiting-xss-vulnerabilities-my-first-bug-hunting-reward-0dfb0ebfd6aa?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Hunting — Complete Guide &lpar;Part-17&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-17-8d38292448cf?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Hunting — Complete Guide &lpar;Part-16&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-16-aacc2aab0f71?source=rss------bug_bounty_writeup-5)
@@ -21,7 +22,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [DLL Injection With Rust](https://infosecwriteups.com/dll-injection-with-rust-8688757c9ec8?source=rss----7b722bfd1b8d---4)
 - [Safeguarding Health Data: The Critical Role of Cybersecurity in Healthcare](https://infosecwriteups.com/safeguarding-health-data-the-critical-role-of-cybersecurity-in-healthcare-1e8b85d22040?source=rss----7b722bfd1b8d---4)
 - [Install Rustcan on Kali Linux](https://infosecwriteups.com/install-rustcan-on-kali-linux-81e19db8dcee?source=rss----7b722bfd1b8d---4)
-- [Bug Bounty Hunting — Complete Guide &lpar;Part-10&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-10-466f0806866b?source=rss------bug_bounty_writeup-5)
 - [Celebrating International Women in Engineering Day](https://www.hackerone.com/culture-and-talent/celebrating-international-women-engineering-day)
 - [Sales Development Representatives Win as a Team](https://www.hackerone.com/culture-and-talent/sdr-win-team)
 - [Community-driven PTaaS vs. Traditional Pentesting](https://www.hackerone.com/penetration-testing/ptaas-vs-traditional-pentest)
