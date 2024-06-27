@@ -922,6 +922,10 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Bug Bounty Hunting — Complete Guide &lpar;Part-17&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-17-8d38292448cf?source=rss------bug_bounty_writeup-5)
+- [Bug Bounty Hunting — Complete Guide &lpar;Part-16&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-16-aacc2aab0f71?source=rss------bug_bounty_writeup-5)
+- [Bug Bounty Hunting — Complete Guide &lpar;Part-15&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-15-2cd3a0188386?source=rss------bug_bounty_writeup-5)
+- [Bug Bounty Hunting — Complete Guide &lpar;Part-14&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-14-985969cf2f17?source=rss------bug_bounty_writeup-5)
 - [Exploiting Role Persistence in LinkedIn Page Management](https://medium.com/@drnimishadavis/exploiting-role-persistence-in-linkedin-page-management-cce1391320f4?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Hunting — Complete Guide &lpar;Part-13&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-13-b7bc7fa2123b?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Hunting — Complete Guide &lpar;Part-12&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-12-4b892dc13d9f?source=rss------bug_bounty_writeup-5)
@@ -939,12 +943,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Install Rustcan on Kali Linux](https://infosecwriteups.com/install-rustcan-on-kali-linux-81e19db8dcee?source=rss----7b722bfd1b8d---4)
 - [Bug Bounty Hunting — Complete Guide &lpar;Part-10&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-10-466f0806866b?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Hunting — Complete Guide &lpar;Part-9&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-9-f76dc4218c1c?source=rss------bug_bounty_writeup-5)
-- [Bug Bounty Hunting — Complete Guide &lpar;Part-8&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-8-3d5a833a4842?source=rss------bug_bounty_writeup-5)
-- [Bug Bounty Hunting — Complete Guide &lpar;Part-7&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-7-6a8786ecb6f4?source=rss------bug_bounty_writeup-5)
-- [Bug Bounty Hunting — Complete Guide &lpar;Part-6&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-6-2ad674553fa0?source=rss------bug_bounty_writeup-5)
 - [Celebrating International Women in Engineering Day](https://www.hackerone.com/culture-and-talent/celebrating-international-women-engineering-day)
 - [Sales Development Representatives Win as a Team](https://www.hackerone.com/culture-and-talent/sdr-win-team)
-- [Mastering Bug Bounty: Tips and Strategies for Success](https://medium.com/@cyber_catz/mastering-bug-bounty-tips-and-strategies-for-success-df27b24f2009?source=rss------bug_bounty_writeup-5)
 - [Community-driven PTaaS vs. Traditional Pentesting](https://www.hackerone.com/penetration-testing/ptaas-vs-traditional-pentest)
 - [What HackerOne Customers Can Tell You About Securing Organizational Buy-In for Ethical Hackers](https://www.hackerone.com/customer-stories/securing-organizational-buy-in)
 - [From Zero to Hero:  Your Guide to Building a Bug Bounty Program With HackerOne](https://www.hackerone.com/vulnerability-management/bug-bounty-program-guide)
