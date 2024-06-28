@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Bug Bounty Hunting — Complete Guide &lpar;Part-18&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-18-5179747f60c3?source=rss------bug_bounty_writeup-5)
 - [Common Ecommerce Vulnerabilities: Reflected XSS](https://www.hackerone.com/vulnerability-management/reflected-xss-ecommerce)
 - [Hunting Bugs for RE Hunter 350](https://vijetareigns.medium.com/hunting-bugs-for-re-hunter-350-81338c4ebf20?source=rss------bug_bounty_writeup-5)
 - [Writeup: Discovering and Exploiting XSS Vulnerabilities — My First Bug Hunting Reward](https://medium.com/@heyrm/writeup-discovering-and-exploiting-xss-vulnerabilities-my-first-bug-hunting-reward-0dfb0ebfd6aa?source=rss------bug_bounty_writeup-5)
@@ -935,7 +936,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Bug Bounty Hunting — Complete Guide &lpar;Part-12&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-12-4b892dc13d9f?source=rss------bug_bounty_writeup-5)
 - [Pride Month: Stories from Our LGBTQ+ Employees](https://www.hackerone.com/culture-and-talent/pride-month-stories-our-lgbtq-employees)
 - [How to Find XSS](https://www.hackerone.com/ethical-hacker/how-to-find-xss)
-- [Gerçek Dünyadan PostMessage XSS Zafiyetinin Analizi](https://grolar.medium.com/zday-olarak-buldu%C4%9Fum-postmessage-xss-zafiyetinin-analizi-4c81471e32e5?source=rss------bug_bounty_writeup-5)
 - [Trust Machine Dockerlabs.es](https://infosecwriteups.com/trust-machine-dockerlabs-es-147b0a369282?source=rss----7b722bfd1b8d---4)
 - [SQLi WAF Bypass Techniques Part 1 — Time-Based Attacks](https://infosecwriteups.com/sqli-waf-bypass-techniques-part-1-time-based-attacks-7749689c72ed?source=rss----7b722bfd1b8d---4)
 - [Here Is Another Way To Secure Your Browser](https://infosecwriteups.com/here-is-another-way-to-secure-your-browser-a4823d035998?source=rss----7b722bfd1b8d---4)
