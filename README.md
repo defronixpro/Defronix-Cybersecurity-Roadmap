@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Introducing HackerOne&#39;s Hai API: Revolutionize Your Workflow Automation with AI](https://www.hackerone.com/ai/hai-api)
 - [Bug Bounty Hunting — Complete Guide &lpar;Part-20&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-20-a60e30106e0c?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Hunting — Complete Guide &lpar;Part-19&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-19-7dfd1bd2d1ba?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Hunting — Complete Guide &lpar;Part-18&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-18-5179747f60c3?source=rss------bug_bounty_writeup-5)
@@ -971,7 +972,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How Ethical Hackers Are Securing Elections](https://www.hackerone.com/ethical-hacker/election-security)
 - [HackerOne Company Values Matter: Win as a Team](https://www.hackerone.com/culture-and-talent/hackerone-company-values-matter-win-team)
 - [Why I Keep a Brag Document — and How It Can Help You](https://www.hackerone.com/engineering/brag-document)
-- [I Suggest You Take a Nap](https://www.hackerone.com/engineering/take-a-nap)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
