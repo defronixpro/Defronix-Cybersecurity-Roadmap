@@ -1,6 +1,9 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Bug Bounty Hunting — Complete Guide &lpar;Part-23&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-23-9f3497d279f1?source=rss------bug_bounty_writeup-5)
+- [Bug Bounty Hunting — Complete Guide &lpar;Part-22&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-22-8edd54306b83?source=rss------bug_bounty_writeup-5)
+- [Bug Bounty Hunting — Complete Guide &lpar;Part-21&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-21-e008298773da?source=rss------bug_bounty_writeup-5)
 - [0-click Account Takeover &lpar;ATO&rpar; via Google Authentication](https://medium.com/@elcapitano7x/0-click-account-takeover-ato-via-google-authentication-b63a01a80a03?source=rss------bug_bounty_writeup-5)
 - [Introducing HackerOne&#39;s Hai API: Revolutionize Your Workflow Automation with AI](https://www.hackerone.com/ai/hai-api)
 - [Bug Bounty Hunting — Complete Guide &lpar;Part-20&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-20-a60e30106e0c?source=rss------bug_bounty_writeup-5)
@@ -10,9 +13,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Hunting Bugs for RE Hunter 350](https://vijetareigns.medium.com/hunting-bugs-for-re-hunter-350-81338c4ebf20?source=rss------bug_bounty_writeup-5)
 - [Writeup: Discovering and Exploiting XSS Vulnerabilities — My First Bug Hunting Reward](https://medium.com/@heyrm/writeup-discovering-and-exploiting-xss-vulnerabilities-my-first-bug-hunting-reward-0dfb0ebfd6aa?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Hunting — Complete Guide &lpar;Part-17&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-17-8d38292448cf?source=rss------bug_bounty_writeup-5)
-- [Bug Bounty Hunting — Complete Guide &lpar;Part-16&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-16-aacc2aab0f71?source=rss------bug_bounty_writeup-5)
-- [Bug Bounty Hunting — Complete Guide &lpar;Part-15&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-15-2cd3a0188386?source=rss------bug_bounty_writeup-5)
-- [Bug Bounty Hunting — Complete Guide &lpar;Part-14&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-14-985969cf2f17?source=rss------bug_bounty_writeup-5)
 - [Pentesting for NIST 800-53, FISMA, and FedRAMP](https://www.hackerone.com/security-compliance/nist-800-53-fisma-fedramp)
 - [Pride Month: Stories from Our LGBTQ+ Employees](https://www.hackerone.com/culture-and-talent/pride-month-stories-our-lgbtq-employees)
 - [How to Find XSS](https://www.hackerone.com/ethical-hacker/how-to-find-xss)
