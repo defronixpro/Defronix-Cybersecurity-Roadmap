@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [XSS TEST CASE TASK](https://medium.com/@avar.talha08/xss-test-case-task-7a4bfd5b223a?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Hunting — Complete Guide &lpar;Part-26&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-26-49760a380496?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Hunting — Complete Guide &lpar;Part-25&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-25-25328dcc629f?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Hunting — Complete Guide &lpar;Part-24&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-24-17e137c514ed?source=rss------bug_bounty_writeup-5)
@@ -932,7 +933,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Introducing HackerOne&#39;s Hai API: Revolutionize Your Workflow Automation with AI](https://www.hackerone.com/ai/hai-api)
 - [Bug Bounty Hunting — Complete Guide &lpar;Part-20&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-20-a60e30106e0c?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Hunting — Complete Guide &lpar;Part-19&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-19-7dfd1bd2d1ba?source=rss------bug_bounty_writeup-5)
-- [Bug Bounty Hunting — Complete Guide &lpar;Part-18&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-18-5179747f60c3?source=rss------bug_bounty_writeup-5)
 - [Common Ecommerce Vulnerabilities: Reflected XSS](https://www.hackerone.com/vulnerability-management/reflected-xss-ecommerce)
 - [Pentesting for NIST 800-53, FISMA, and FedRAMP](https://www.hackerone.com/security-compliance/nist-800-53-fisma-fedramp)
 - [Pride Month: Stories from Our LGBTQ+ Employees](https://www.hackerone.com/culture-and-talent/pride-month-stories-our-lgbtq-employees)
