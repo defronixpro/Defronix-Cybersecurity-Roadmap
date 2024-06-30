@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Bug Bounty Hunting — Complete Guide &lpar;Part-26&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-26-49760a380496?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Hunting — Complete Guide &lpar;Part-25&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-25-25328dcc629f?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Hunting — Complete Guide &lpar;Part-24&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-24-17e137c514ed?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Hunting — Complete Guide &lpar;Part-23&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-23-9f3497d279f1?source=rss------bug_bounty_writeup-5)
@@ -933,7 +934,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Bug Bounty Hunting — Complete Guide &lpar;Part-19&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-19-7dfd1bd2d1ba?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Hunting — Complete Guide &lpar;Part-18&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-18-5179747f60c3?source=rss------bug_bounty_writeup-5)
 - [Common Ecommerce Vulnerabilities: Reflected XSS](https://www.hackerone.com/vulnerability-management/reflected-xss-ecommerce)
-- [Hunting Bugs for RE Hunter 350](https://vijetareigns.medium.com/hunting-bugs-for-re-hunter-350-81338c4ebf20?source=rss------bug_bounty_writeup-5)
 - [Pentesting for NIST 800-53, FISMA, and FedRAMP](https://www.hackerone.com/security-compliance/nist-800-53-fisma-fedramp)
 - [Pride Month: Stories from Our LGBTQ+ Employees](https://www.hackerone.com/culture-and-talent/pride-month-stories-our-lgbtq-employees)
 - [How to Find XSS](https://www.hackerone.com/ethical-hacker/how-to-find-xss)
