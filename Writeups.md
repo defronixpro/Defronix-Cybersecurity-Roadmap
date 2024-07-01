@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Abusing Cloud-Based Sandboxes During Lockdown: An Exploration of Microsoft Services](https://infosecwriteups.com/abusing-cloud-based-sandboxes-during-lockdown-an-exploration-of-microsoft-services-24e59b2daa39?source=rss----7b722bfd1b8d---4)
 - [How I Found CVE-2019-9826 on one of famous crypto company. $$$$](https://medium.com/@a7madhacck/how-i-found-cve-2019-9826-on-one-of-famous-crypto-company-f23d9ba69861?source=rss------bug_bounty_writeup-5)
 - [XSS TEST CASE TASK](https://medium.com/@avar.talha08/xss-test-case-task-7a4bfd5b223a?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Hunting — Complete Guide &lpar;Part-26&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-26-49760a380496?source=rss------bug_bounty_writeup-5)
@@ -25,7 +26,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [DLL Injection With Rust](https://infosecwriteups.com/dll-injection-with-rust-8688757c9ec8?source=rss----7b722bfd1b8d---4)
 - [Safeguarding Health Data: The Critical Role of Cybersecurity in Healthcare](https://infosecwriteups.com/safeguarding-health-data-the-critical-role-of-cybersecurity-in-healthcare-1e8b85d22040?source=rss----7b722bfd1b8d---4)
 - [Install Rustcan on Kali Linux](https://infosecwriteups.com/install-rustcan-on-kali-linux-81e19db8dcee?source=rss----7b722bfd1b8d---4)
-- [Reverse Engineering My Own Malware](https://infosecwriteups.com/build-a-brute-reverse-engineering-my-own-malware-b64f3c7741c3?source=rss----7b722bfd1b8d---4)
 - [Celebrating International Women in Engineering Day](https://www.hackerone.com/culture-and-talent/celebrating-international-women-engineering-day)
 - [Sales Development Representatives Win as a Team](https://www.hackerone.com/culture-and-talent/sdr-win-team)
 - [Community-driven PTaaS vs. Traditional Pentesting](https://www.hackerone.com/penetration-testing/ptaas-vs-traditional-pentest)
