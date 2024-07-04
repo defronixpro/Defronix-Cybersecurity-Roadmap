@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I Found an IDOR Vulnerability in a Public Program on HackerOne](https://medium.com/@muhammadfurqanoffical/how-i-found-an-idor-vulnerability-in-a-public-program-on-hackerone-44c6724b0292?source=rss------bug_bounty_writeup-5)
 - [How I Discovered Authentication Bypass That Blocks Users from Accessing the Website ?](https://sayedv2.medium.com/how-i-discovered-authentication-bypass-that-blocks-users-from-accessing-the-website-93140fa180ac?source=rss------bug_bounty_writeup-5)
 - [1500$: CR/LF Injection](https://infosecwriteups.com/1500-cr-lf-injection-0d2a75f02ef3?source=rss----7b722bfd1b8d---4)
 - [Story of a 1000$ Open Redirect](https://infosecwriteups.com/story-of-a-1000-open-redirect-1405fb8a0e7a?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Bug Bounty Hunting — Complete Guide &lpar;Part-23&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-23-9f3497d279f1?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Hunting — Complete Guide &lpar;Part-22&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-22-8edd54306b83?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Hunting — Complete Guide &lpar;Part-21&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-21-e008298773da?source=rss------bug_bounty_writeup-5)
-- [0-click Account Takeover &lpar;ATO&rpar; via Google Authentication](https://medium.com/@elcapitano7x/0-click-account-takeover-ato-via-google-authentication-b63a01a80a03?source=rss------bug_bounty_writeup-5)
 - [Introducing HackerOne&#39;s Hai API: Revolutionize Your Workflow Automation with AI](https://www.hackerone.com/ai/hai-api)
 - [Common Ecommerce Vulnerabilities: Reflected XSS](https://www.hackerone.com/vulnerability-management/reflected-xss-ecommerce)
 - [Pentesting for NIST 800-53, FISMA, and FedRAMP](https://www.hackerone.com/security-compliance/nist-800-53-fisma-fedramp)
