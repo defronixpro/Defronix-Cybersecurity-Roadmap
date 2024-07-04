@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I Discovered Authentication Bypass That Blocks Users from Accessing the Website ?](https://sayedv2.medium.com/how-i-discovered-authentication-bypass-that-blocks-users-from-accessing-the-website-93140fa180ac?source=rss------bug_bounty_writeup-5)
 - [1500$: CR/LF Injection](https://infosecwriteups.com/1500-cr-lf-injection-0d2a75f02ef3?source=rss----7b722bfd1b8d---4)
 - [Story of a 1000$ Open Redirect](https://infosecwriteups.com/story-of-a-1000-open-redirect-1405fb8a0e7a?source=rss----7b722bfd1b8d---4)
 - [Phishing or What?? How I Got Access to the Internal Email of a Company](https://infosecwriteups.com/phishing-or-what-how-i-got-access-to-the-internal-email-of-a-company-a098fb08728?source=rss----7b722bfd1b8d---4)
@@ -942,7 +943,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Bug Bounty Hunting — Complete Guide &lpar;Part-21&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-21-e008298773da?source=rss------bug_bounty_writeup-5)
 - [0-click Account Takeover &lpar;ATO&rpar; via Google Authentication](https://medium.com/@elcapitano7x/0-click-account-takeover-ato-via-google-authentication-b63a01a80a03?source=rss------bug_bounty_writeup-5)
 - [Introducing HackerOne&#39;s Hai API: Revolutionize Your Workflow Automation with AI](https://www.hackerone.com/ai/hai-api)
-- [Bug Bounty Hunting — Complete Guide &lpar;Part-20&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-20-a60e30106e0c?source=rss------bug_bounty_writeup-5)
 - [Common Ecommerce Vulnerabilities: Reflected XSS](https://www.hackerone.com/vulnerability-management/reflected-xss-ecommerce)
 - [Pentesting for NIST 800-53, FISMA, and FedRAMP](https://www.hackerone.com/security-compliance/nist-800-53-fisma-fedramp)
 - [Pride Month: Stories from Our LGBTQ+ Employees](https://www.hackerone.com/culture-and-talent/pride-month-stories-our-lgbtq-employees)
