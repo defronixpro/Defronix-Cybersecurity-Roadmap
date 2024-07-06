@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [A Simple 2FA Bypass](https://infosecwriteups.com/a-simple-2fa-bypass-43c8af9006ec?source=rss------bug_bounty_writeup-5)
 - [How I Found an IDOR Vulnerability in a Public Program on HackerOne](https://medium.com/@muhammadfurqanoffical/how-i-found-an-idor-vulnerability-in-a-public-program-on-hackerone-44c6724b0292?source=rss------bug_bounty_writeup-5)
 - [How I Discovered Authentication Bypass That Blocks Users from Accessing the Website ?](https://sayedv2.medium.com/how-i-discovered-authentication-bypass-that-blocks-users-from-accessing-the-website-93140fa180ac?source=rss------bug_bounty_writeup-5)
 - [1500$: CR/LF Injection](https://infosecwriteups.com/1500-cr-lf-injection-0d2a75f02ef3?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Bug Bounty Hunting — Complete Guide &lpar;Part-24&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-24-17e137c514ed?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Hunting — Complete Guide &lpar;Part-23&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-23-9f3497d279f1?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Hunting — Complete Guide &lpar;Part-22&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-22-8edd54306b83?source=rss------bug_bounty_writeup-5)
-- [Bug Bounty Hunting — Complete Guide &lpar;Part-21&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-21-e008298773da?source=rss------bug_bounty_writeup-5)
 - [Introducing HackerOne&#39;s Hai API: Revolutionize Your Workflow Automation with AI](https://www.hackerone.com/ai/hai-api)
 - [Common Ecommerce Vulnerabilities: Reflected XSS](https://www.hackerone.com/vulnerability-management/reflected-xss-ecommerce)
 - [Pentesting for NIST 800-53, FISMA, and FedRAMP](https://www.hackerone.com/security-compliance/nist-800-53-fisma-fedramp)
