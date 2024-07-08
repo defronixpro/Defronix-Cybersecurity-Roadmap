@@ -929,6 +929,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Find XSS on the Fly &lpar; Full guide &rpar;](https://medium.com/@zack0x01_/find-xss-on-the-fly-full-guide-300f07fb86ae?source=rss------bug_bounty_writeup-5)
 - [A Simple 2FA Bypass](https://infosecwriteups.com/a-simple-2fa-bypass-43c8af9006ec?source=rss----7b722bfd1b8d---4)
 - [Data Profiling Reveals Why 39+ U.S. States Banned TikTok](https://infosecwriteups.com/data-profiling-reveals-why-39-u-s-states-banned-tiktok-4c64f968af7b?source=rss----7b722bfd1b8d---4)
 - [BountyDork: Your Ultimate Automatic Dorking Testing Companion For Bug Bounty](https://infosecwriteups.com/bountydork-your-ultimate-automatic-dorking-testing-companion-for-bug-bounty-b2bd41cb7344?source=rss----7b722bfd1b8d---4)
@@ -948,7 +949,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How I Found CVE-2019-9826 on one of famous crypto company. $$$$](https://medium.com/@a7madhacck/how-i-found-cve-2019-9826-on-one-of-famous-crypto-company-f23d9ba69861?source=rss------bug_bounty_writeup-5)
 - [XSS TEST CASE TASK](https://medium.com/@avar.talha08/xss-test-case-task-7a4bfd5b223a?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Hunting — Complete Guide &lpar;Part-26&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-26-49760a380496?source=rss------bug_bounty_writeup-5)
-- [Bug Bounty Hunting — Complete Guide &lpar;Part-25&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-25-25328dcc629f?source=rss------bug_bounty_writeup-5)
 - [Introducing HackerOne&#39;s Hai API: Revolutionize Your Workflow Automation with AI](https://www.hackerone.com/ai/hai-api)
 - [Common Ecommerce Vulnerabilities: Reflected XSS](https://www.hackerone.com/vulnerability-management/reflected-xss-ecommerce)
 - [Pentesting for NIST 800-53, FISMA, and FedRAMP](https://www.hackerone.com/security-compliance/nist-800-53-fisma-fedramp)
