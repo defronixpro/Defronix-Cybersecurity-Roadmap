@@ -1,6 +1,17 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Find XSS on the Fly &lpar; Full guide &rpar;](https://medium.com/@zack0x01_/find-xss-on-the-fly-full-guide-300f07fb86ae?source=rss------bug_bounty_writeup-5)
+- [A Simple 2FA Bypass](https://infosecwriteups.com/a-simple-2fa-bypass-43c8af9006ec?source=rss----7b722bfd1b8d---4)
+- [Data Profiling Reveals Why 39+ U.S. States Banned TikTok](https://infosecwriteups.com/data-profiling-reveals-why-39-u-s-states-banned-tiktok-4c64f968af7b?source=rss----7b722bfd1b8d---4)
+- [BountyDork: Your Ultimate Automatic Dorking Testing Companion For Bug Bounty](https://infosecwriteups.com/bountydork-your-ultimate-automatic-dorking-testing-companion-for-bug-bounty-b2bd41cb7344?source=rss----7b722bfd1b8d---4)
+- [RegreSSHion &lpar;CVE-2024–6387&rpar;: Dive into the Latest OpenSSH Server Threat](https://infosecwriteups.com/regresshion-cve-2024-6387-dive-into-the-latest-openssh-server-threat-ba4a6e0983e4?source=rss----7b722bfd1b8d---4)
+- [Do You Need To Know Coding In Cloud Security ??](https://infosecwriteups.com/do-you-need-to-know-coding-in-cloud-security-3ee686c0c814?source=rss----7b722bfd1b8d---4)
+- [Step-by-Step Guide on How to Hack Phone Remotely](https://infosecwriteups.com/step-by-step-guide-on-how-to-hack-phone-remotely-a8b1b8d13015?source=rss----7b722bfd1b8d---4)
+- [Enabling Reproducible and Verification of Time to Network Protocol Testing](https://infosecwriteups.com/unveiling-nsct-a-breakthrough-in-network-protocol-testing-b2356c2c7d70?source=rss----7b722bfd1b8d---4)
+- [Art of finding zero day vulnerabilities using Open Source AI](https://infosecwriteups.com/art-of-finding-zero-day-vulnerabilities-using-open-source-ai-e26eaaf323cb?source=rss----7b722bfd1b8d---4)
+- [Unlocking Kubernetes Security: The Complete Checklist](https://infosecwriteups.com/unlocking-kubernetes-security-the-complete-checklist-538fff3adacf?source=rss----7b722bfd1b8d---4)
+- [0 Click — Account Takeover | Bug Bounty](https://infosecwriteups.com/0-click-account-takeover-bug-bounty-12d6641f69f5?source=rss----7b722bfd1b8d---4)
 - [0 Click — Account Takeover | Bug Bounty](https://infosecwriteups.com/0-click-account-takeover-bug-bounty-12d6641f69f5?source=rss------bug_bounty_writeup-5)
 - [Ctrl + U to Bounty: How I Found Sensitive Info in the Source Code](https://rofes1337.medium.com/ctrl-u-to-bounty-how-i-found-sensitive-info-in-the-source-code-e583528ee2fe?source=rss------bug_bounty_writeup-5)
 - [Race Conditions Attacks To limit bypass](https://sharmajijvs.medium.com/race-conditions-attacks-to-limit-bypass-c9dee647145b?source=rss------bug_bounty_writeup-5)
@@ -10,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How I Found CVE-2019-9826 on one of famous crypto company. $$$$](https://medium.com/@a7madhacck/how-i-found-cve-2019-9826-on-one-of-famous-crypto-company-f23d9ba69861?source=rss------bug_bounty_writeup-5)
 - [XSS TEST CASE TASK](https://medium.com/@avar.talha08/xss-test-case-task-7a4bfd5b223a?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Hunting — Complete Guide &lpar;Part-26&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-26-49760a380496?source=rss------bug_bounty_writeup-5)
-- [Bug Bounty Hunting — Complete Guide &lpar;Part-25&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-25-25328dcc629f?source=rss------bug_bounty_writeup-5)
 - [Introducing HackerOne&#39;s Hai API: Revolutionize Your Workflow Automation with AI](https://www.hackerone.com/ai/hai-api)
 - [Common Ecommerce Vulnerabilities: Reflected XSS](https://www.hackerone.com/vulnerability-management/reflected-xss-ecommerce)
 - [Pentesting for NIST 800-53, FISMA, and FedRAMP](https://www.hackerone.com/security-compliance/nist-800-53-fisma-fedramp)
