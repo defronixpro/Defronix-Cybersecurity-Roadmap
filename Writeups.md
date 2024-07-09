@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [The Power of Semicolon “I hacked the dutch government and all i got was this lousy t-shirt”](https://medium.com/@whoadnan01/the-power-of-semicolon-i-hacked-the-dutch-government-and-all-i-got-was-this-lousy-t-shirt-04945371115f?source=rss------bug_bounty_writeup-5)
 - [Find XSS on the Fly &lpar; Full guide &rpar;](https://medium.com/@zack0x01_/find-xss-on-the-fly-full-guide-300f07fb86ae?source=rss------bug_bounty_writeup-5)
 - [A Simple 2FA Bypass](https://infosecwriteups.com/a-simple-2fa-bypass-43c8af9006ec?source=rss----7b722bfd1b8d---4)
 - [Data Profiling Reveals Why 39+ U.S. States Banned TikTok](https://infosecwriteups.com/data-profiling-reveals-why-39-u-s-states-banned-tiktok-4c64f968af7b?source=rss----7b722bfd1b8d---4)
@@ -22,7 +23,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How I Discovered Authentication Bypass That Blocks Users from Accessing the Website ?](https://sayedv2.medium.com/how-i-discovered-authentication-bypass-that-blocks-users-from-accessing-the-website-93140fa180ac?source=rss------bug_bounty_writeup-5)
 - [How I Found CVE-2019-9826 on one of famous crypto company. $$$$](https://medium.com/@a7madhacck/how-i-found-cve-2019-9826-on-one-of-famous-crypto-company-f23d9ba69861?source=rss------bug_bounty_writeup-5)
 - [XSS TEST CASE TASK](https://medium.com/@avar.talha08/xss-test-case-task-7a4bfd5b223a?source=rss------bug_bounty_writeup-5)
-- [Bug Bounty Hunting — Complete Guide &lpar;Part-26&rpar;](https://medium.com/@rafid19/bug-bounty-hunting-complete-guide-part-26-49760a380496?source=rss------bug_bounty_writeup-5)
 - [Introducing HackerOne&#39;s Hai API: Revolutionize Your Workflow Automation with AI](https://www.hackerone.com/ai/hai-api)
 - [Common Ecommerce Vulnerabilities: Reflected XSS](https://www.hackerone.com/vulnerability-management/reflected-xss-ecommerce)
 - [Pentesting for NIST 800-53, FISMA, and FedRAMP](https://www.hackerone.com/security-compliance/nist-800-53-fisma-fedramp)
