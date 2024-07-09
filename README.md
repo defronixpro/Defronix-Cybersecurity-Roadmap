@@ -941,9 +941,11 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Unlocking Kubernetes Security: The Complete Checklist](https://infosecwriteups.com/unlocking-kubernetes-security-the-complete-checklist-538fff3adacf?source=rss----7b722bfd1b8d---4)
 - [0 Click — Account Takeover | Bug Bounty](https://infosecwriteups.com/0-click-account-takeover-bug-bounty-12d6641f69f5?source=rss----7b722bfd1b8d---4)
 - [0 Click — Account Takeover | Bug Bounty](https://infosecwriteups.com/0-click-account-takeover-bug-bounty-12d6641f69f5?source=rss------bug_bounty_writeup-5)
+- [DORA: What You Need to Know](https://www.hackerone.com/penetration-testing/dora)
 - [Ctrl + U to Bounty: How I Found Sensitive Info in the Source Code](https://rofes1337.medium.com/ctrl-u-to-bounty-how-i-found-sensitive-info-in-the-source-code-e583528ee2fe?source=rss------bug_bounty_writeup-5)
 - [Race Conditions Attacks To limit bypass](https://sharmajijvs.medium.com/race-conditions-attacks-to-limit-bypass-c9dee647145b?source=rss------bug_bounty_writeup-5)
 - [A Simple 2FA Bypass](https://infosecwriteups.com/a-simple-2fa-bypass-43c8af9006ec?source=rss------bug_bounty_writeup-5)
+- [What HackerOne Customers Say About Remediating Vulnerabilities and Getting the Best Results From Hackers](https://www.hackerone.com/customer-stories/get-the-most-from-hackers)
 - [How I Found an IDOR Vulnerability in a Public Program on HackerOne](https://medium.com/@muhammadfurqanoffical/how-i-found-an-idor-vulnerability-in-a-public-program-on-hackerone-44c6724b0292?source=rss------bug_bounty_writeup-5)
 - [How I Discovered Authentication Bypass That Blocks Users from Accessing the Website ?](https://sayedv2.medium.com/how-i-discovered-authentication-bypass-that-blocks-users-from-accessing-the-website-93140fa180ac?source=rss------bug_bounty_writeup-5)
 - [How I Found CVE-2019-9826 on one of famous crypto company. $$$$](https://medium.com/@a7madhacck/how-i-found-cve-2019-9826-on-one-of-famous-crypto-company-f23d9ba69861?source=rss------bug_bounty_writeup-5)
@@ -977,8 +979,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Community-driven PTaaS vs. Automated Pentesting](https://www.hackerone.com/penetration-testing/ptaas-vs-automated-pentesting)
 - [What Is a Vulnerability Disclosure Program and Do You Need One?](https://www.hackerone.com/vulnerability-disclosure/what-vulnerability-disclosure-program-and-do-you-need-one)
 - [How Ethical Hackers Are Securing Elections](https://www.hackerone.com/ethical-hacker/election-security)
-- [HackerOne Company Values Matter: Win as a Team](https://www.hackerone.com/culture-and-talent/hackerone-company-values-matter-win-team)
-- [Why I Keep a Brag Document — and How It Can Help You](https://www.hackerone.com/engineering/brag-document)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
