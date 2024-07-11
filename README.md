@@ -929,8 +929,10 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Feedback-Driven Interviewing at HackerOne](https://www.hackerone.com/culture-and-talent/feedback-driven-interviewing-hackerone)
 - [How i got Broken link hijacking vulnerability in Gov website](https://medium.com/@sreejihkn43073/how-i-got-broken-link-hijacking-vulnerability-in-gov-website-eafdc867a187?source=rss------bug_bounty_writeup-5)
 - [Disclose the email address and phone number of chinese business reseller](https://gtm0x01.medium.com/disclose-the-email-address-and-phone-number-of-chinese-business-reseller-f882978b8733?source=rss------bug_bounty_writeup-5)
+- [Pentesting for Web Applications](https://www.hackerone.com/penetration-testing/web-applications)
 - [The Power of Semicolon “I hacked the dutch government and all i got was this lousy t-shirt”](https://medium.com/@whoadnan01/the-power-of-semicolon-i-hacked-the-dutch-government-and-all-i-got-was-this-lousy-t-shirt-04945371115f?source=rss------bug_bounty_writeup-5)
 - [Find XSS on the Fly &lpar; Full guide &rpar;](https://medium.com/@zack0x01_/find-xss-on-the-fly-full-guide-300f07fb86ae?source=rss------bug_bounty_writeup-5)
 - [A Simple 2FA Bypass](https://infosecwriteups.com/a-simple-2fa-bypass-43c8af9006ec?source=rss----7b722bfd1b8d---4)
@@ -977,8 +979,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How Hackers Help Jedox Secure Cloud Assets and Stay One Step Ahead](https://www.hackerone.com/customer-stories/how-hackers-help-jedox-secure-cloud-assets-and-stay-one-step-ahead)
 - [Winning Together Through Synergy and Vulnerabilities](https://www.hackerone.com/engineering/winning-together-synergy-vulnerabilities)
 - [Community-driven PTaaS vs. Automated Pentesting](https://www.hackerone.com/penetration-testing/ptaas-vs-automated-pentesting)
-- [What Is a Vulnerability Disclosure Program and Do You Need One?](https://www.hackerone.com/vulnerability-disclosure/what-vulnerability-disclosure-program-and-do-you-need-one)
-- [How Ethical Hackers Are Securing Elections](https://www.hackerone.com/ethical-hacker/election-security)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
