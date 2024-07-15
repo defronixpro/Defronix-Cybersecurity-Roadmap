@@ -929,8 +929,10 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [10 Years of the GitHub Security Bug Bounty Program](https://www.hackerone.com/customer-stories/10-years-github-security-bug-bounty-program)
 - [Securing Crypto Company: Addressing Web 2.0 Vulnerabilities](https://metanetwebhostingsecurity.medium.com/securing-crypto-company-addressing-web-2-0-vulnerabilities-209bd7fc3d85?source=rss------bug_bounty_writeup-5)
 - [Feedback-Driven Interviewing at HackerOne](https://www.hackerone.com/culture-and-talent/feedback-driven-interviewing-hackerone)
+- [What HackerOne Customers Say About the Problems Hackers Solve](https://www.hackerone.com/customer-stories/hackers-solve-problems)
 - [How i got Broken link hijacking vulnerability in Gov website](https://medium.com/@sreejihkn43073/how-i-got-broken-link-hijacking-vulnerability-in-gov-website-eafdc867a187?source=rss------bug_bounty_writeup-5)
 - [Disclose the email address and phone number of chinese business reseller](https://gtm0x01.medium.com/disclose-the-email-address-and-phone-number-of-chinese-business-reseller-f882978b8733?source=rss------bug_bounty_writeup-5)
 - [Pentesting for Web Applications](https://www.hackerone.com/penetration-testing/web-applications)
@@ -977,8 +979,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Security@: The Top 3 Bug Bounty Lessons From Security Leaders](https://www.hackerone.com/customer-stories/security-lessons)
 - [How a Business Logic Vulnerability Led to Unlimited Discount Redemption](https://www.hackerone.com/vulnerability-management/stripe-business-logic-error-bug)
 - [How Hackers Help Jedox Secure Cloud Assets and Stay One Step Ahead](https://www.hackerone.com/customer-stories/how-hackers-help-jedox-secure-cloud-assets-and-stay-one-step-ahead)
-- [Winning Together Through Synergy and Vulnerabilities](https://www.hackerone.com/engineering/winning-together-synergy-vulnerabilities)
-- [Community-driven PTaaS vs. Automated Pentesting](https://www.hackerone.com/penetration-testing/ptaas-vs-automated-pentesting)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
