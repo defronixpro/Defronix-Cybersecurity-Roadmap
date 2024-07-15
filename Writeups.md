@@ -1,8 +1,10 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [10 Years of the GitHub Security Bug Bounty Program](https://www.hackerone.com/customer-stories/10-years-github-security-bug-bounty-program)
 - [Securing Crypto Company: Addressing Web 2.0 Vulnerabilities](https://metanetwebhostingsecurity.medium.com/securing-crypto-company-addressing-web-2-0-vulnerabilities-209bd7fc3d85?source=rss------bug_bounty_writeup-5)
 - [Feedback-Driven Interviewing at HackerOne](https://www.hackerone.com/culture-and-talent/feedback-driven-interviewing-hackerone)
+- [What HackerOne Customers Say About the Problems Hackers Solve](https://www.hackerone.com/customer-stories/hackers-solve-problems)
 - [How i got Broken link hijacking vulnerability in Gov website](https://medium.com/@sreejihkn43073/how-i-got-broken-link-hijacking-vulnerability-in-gov-website-eafdc867a187?source=rss------bug_bounty_writeup-5)
 - [Disclose the email address and phone number of chinese business reseller](https://gtm0x01.medium.com/disclose-the-email-address-and-phone-number-of-chinese-business-reseller-f882978b8733?source=rss------bug_bounty_writeup-5)
 - [Pentesting for Web Applications](https://www.hackerone.com/penetration-testing/web-applications)
