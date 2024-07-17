@@ -1,7 +1,6 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
-- [IDOR at the Get Payment Data Endpoint Leads to Personal Identifiable Information &lpar;PII&rpar; Disclosure](https://medium.com/@blackarazi/idor-at-the-get-payment-data-endpoint-leads-to-personal-identifiable-information-pii-disclosure-7956c57058af?source=rss------bug_bounty_writeup-5)
 - [10 Years of the GitHub Security Bug Bounty Program](https://www.hackerone.com/customer-stories/10-years-github-security-bug-bounty-program)
 - [Securing Crypto Company: Addressing Web 2.0 Vulnerabilities](https://metanetwebhostingsecurity.medium.com/securing-crypto-company-addressing-web-2-0-vulnerabilities-209bd7fc3d85?source=rss------bug_bounty_writeup-5)
 - [Feedback-Driven Interviewing at HackerOne](https://www.hackerone.com/culture-and-talent/feedback-driven-interviewing-hackerone)
