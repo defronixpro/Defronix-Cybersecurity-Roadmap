@@ -929,6 +929,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [The First Bug bounty forum !](https://elb4rt0.medium.com/the-first-bug-bounty-forum-ba0399fb70c0?source=rss------bug_bounty_writeup-5)
 - [Information Disclosure that made me $2000 in under 5 minutes](https://medium.com/@sugamdangal52/information-disclosure-that-made-me-2000-in-under-5-minutes-63e1ce00ca07?source=rss------bug_bounty_writeup-5)
 - [How HackerOne Organizes a Remote Hack Week](https://www.hackerone.com/culture-and-talent/how-hackerone-organizes-remote-hack-week)
 - [10 Years of the GitHub Security Bug Bounty Program](https://www.hackerone.com/customer-stories/10-years-github-security-bug-bounty-program)
@@ -953,7 +954,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [0 Click — Account Takeover | Bug Bounty](https://infosecwriteups.com/0-click-account-takeover-bug-bounty-12d6641f69f5?source=rss------bug_bounty_writeup-5)
 - [DORA: What You Need to Know](https://www.hackerone.com/penetration-testing/dora)
 - [Ctrl + U to Bounty: How I Found Sensitive Info in the Source Code](https://rofes1337.medium.com/ctrl-u-to-bounty-how-i-found-sensitive-info-in-the-source-code-e583528ee2fe?source=rss------bug_bounty_writeup-5)
-- [Race Conditions Attacks To limit bypass](https://sharmajijvs.medium.com/race-conditions-attacks-to-limit-bypass-c9dee647145b?source=rss------bug_bounty_writeup-5)
 - [What HackerOne Customers Say About Remediating Vulnerabilities and Getting the Best Results From Hackers](https://www.hackerone.com/customer-stories/get-the-most-from-hackers)
 - [Introducing HackerOne&#39;s Hai API: Revolutionize Your Workflow Automation with AI](https://www.hackerone.com/ai/hai-api)
 - [Common Ecommerce Vulnerabilities: Reflected XSS](https://www.hackerone.com/vulnerability-management/reflected-xss-ecommerce)
