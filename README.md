@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Discovering Account Takeover Vulnerability Through Source Map Analysis](https://medium.com/@eduardinholuiz691/discovering-account-takeover-vulnerability-through-source-map-analysis-0cd4038cbc04?source=rss------bug_bounty_writeup-5)
 - [First €200 bug that started my Bug Bounty Career](https://medium.com/@sugamdangal52/first-200-bug-that-started-my-bug-bounty-career-c11a871e116f?source=rss------bug_bounty_writeup-5)
 - [The First Bug bounty forum !](https://elb4rt0.medium.com/the-first-bug-bounty-forum-ba0399fb70c0?source=rss------bug_bounty_writeup-5)
 - [Information Disclosure that made me $2000 in under 5 minutes](https://medium.com/@sugamdangal52/information-disclosure-that-made-me-2000-in-under-5-minutes-63e1ce00ca07?source=rss------bug_bounty_writeup-5)
@@ -945,7 +946,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Art of finding zero day vulnerabilities using Open Source AI](https://infosecwriteups.com/art-of-finding-zero-day-vulnerabilities-using-open-source-ai-e26eaaf323cb?source=rss----7b722bfd1b8d---4)
 - [Unlocking Kubernetes Security: The Complete Checklist](https://infosecwriteups.com/unlocking-kubernetes-security-the-complete-checklist-538fff3adacf?source=rss----7b722bfd1b8d---4)
 - [0 Click — Account Takeover | Bug Bounty](https://infosecwriteups.com/0-click-account-takeover-bug-bounty-12d6641f69f5?source=rss----7b722bfd1b8d---4)
-- [0 Click — Account Takeover | Bug Bounty](https://infosecwriteups.com/0-click-account-takeover-bug-bounty-12d6641f69f5?source=rss------bug_bounty_writeup-5)
 - [DORA: What You Need to Know](https://www.hackerone.com/penetration-testing/dora)
 - [What HackerOne Customers Say About Remediating Vulnerabilities and Getting the Best Results From Hackers](https://www.hackerone.com/customer-stories/get-the-most-from-hackers)
 - [Introducing HackerOne&#39;s Hai API: Revolutionize Your Workflow Automation with AI](https://www.hackerone.com/ai/hai-api)
