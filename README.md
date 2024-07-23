@@ -922,7 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [Discovering Account Takeover Vulnerability Through Source Map Analysis](https://medium.com/@eduardinholuiz691/discovering-account-takeover-vulnerability-through-source-map-analysis-0cd4038cbc04?source=rss------bug_bounty_writeup-5)
+- [Discovering Account Takeover Vulnerability Through Source Map Analysis](https://medium.com/@danielsilva691/discovering-account-takeover-vulnerability-through-source-map-analysis-0cd4038cbc04?source=rss------bug_bounty_writeup-5)
 - [First €200 bug that started my Bug Bounty Career](https://medium.com/@sugamdangal52/first-200-bug-that-started-my-bug-bounty-career-c11a871e116f?source=rss------bug_bounty_writeup-5)
 - [The First Bug bounty forum !](https://elb4rt0.medium.com/the-first-bug-bounty-forum-ba0399fb70c0?source=rss------bug_bounty_writeup-5)
 - [Information Disclosure that made me $2000 in under 5 minutes](https://medium.com/@sugamdangal52/information-disclosure-that-made-me-2000-in-under-5-minutes-63e1ce00ca07?source=rss------bug_bounty_writeup-5)
