@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Custom Inbox Enhancements: Revolutionizing Vulnerability Management for Enterprises](https://www.hackerone.com/vulnerability-management/custom-inbox-enhancements)
 - [Discovering Account Takeover Vulnerability Through Source Map Analysis](https://medium.com/@danielsilva691/discovering-account-takeover-vulnerability-through-source-map-analysis-0cd4038cbc04?source=rss------bug_bounty_writeup-5)
 - [First €200 bug that started my Bug Bounty Career](https://medium.com/@sugamdangal52/first-200-bug-that-started-my-bug-bounty-career-c11a871e116f?source=rss------bug_bounty_writeup-5)
 - [The First Bug bounty forum !](https://elb4rt0.medium.com/the-first-bug-bounty-forum-ba0399fb70c0?source=rss------bug_bounty_writeup-5)
@@ -971,7 +972,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [AI Developers’ AMA: AI System Design and Development](https://www.hackerone.com/ai/developers-system-design-development)
 - [What You Need to Know About the EU’s Cyber Resilience Act](https://www.hackerone.com/public-policy/eu-cyber-resilience-act)
 - [Security@: The Top 3 Bug Bounty Lessons From Security Leaders](https://www.hackerone.com/customer-stories/security-lessons)
-- [How a Business Logic Vulnerability Led to Unlimited Discount Redemption](https://www.hackerone.com/vulnerability-management/stripe-business-logic-error-bug)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
