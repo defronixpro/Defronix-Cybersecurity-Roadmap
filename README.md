@@ -927,6 +927,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [The First Bug bounty forum !](https://elb4rt0.medium.com/the-first-bug-bounty-forum-ba0399fb70c0?source=rss------bug_bounty_writeup-5)
 - [Information Disclosure that made me $2000 in under 5 minutes](https://medium.com/@sugamdangal52/information-disclosure-that-made-me-2000-in-under-5-minutes-63e1ce00ca07?source=rss------bug_bounty_writeup-5)
 - [How HackerOne Organizes a Remote Hack Week](https://www.hackerone.com/culture-and-talent/how-hackerone-organizes-remote-hack-week)
+- [IDOR at the Get Payment Data Endpoint Leads to Personal Identifiable Information &lpar;PII&rpar; Disclosure](https://medium.com/@blackarazi/idor-at-the-get-payment-data-endpoint-leads-to-personal-identifiable-information-pii-disclosure-7956c57058af?source=rss------bug_bounty_writeup-5)
 - [10 Years of the GitHub Security Bug Bounty Program](https://www.hackerone.com/customer-stories/10-years-github-security-bug-bounty-program)
 - [Securing Crypto Company: Addressing Web 2.0 Vulnerabilities](https://metanetwebhostingsecurity.medium.com/securing-crypto-company-addressing-web-2-0-vulnerabilities-209bd7fc3d85?source=rss------bug_bounty_writeup-5)
 - [Feedback-Driven Interviewing at HackerOne](https://www.hackerone.com/culture-and-talent/feedback-driven-interviewing-hackerone)
@@ -971,7 +972,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [What You Need to Know About the EU’s Cyber Resilience Act](https://www.hackerone.com/public-policy/eu-cyber-resilience-act)
 - [Security@: The Top 3 Bug Bounty Lessons From Security Leaders](https://www.hackerone.com/customer-stories/security-lessons)
 - [How a Business Logic Vulnerability Led to Unlimited Discount Redemption](https://www.hackerone.com/vulnerability-management/stripe-business-logic-error-bug)
-- [How Hackers Help Jedox Secure Cloud Assets and Stay One Step Ahead](https://www.hackerone.com/customer-stories/how-hackers-help-jedox-secure-cloud-assets-and-stay-one-step-ahead)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
