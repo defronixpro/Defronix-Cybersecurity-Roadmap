@@ -924,6 +924,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 <!-- WRITEUPS:START -->
 - [IDOR : Payment Fraud on GYM Membership website](https://uzet.medium.com/idor-payment-fraud-on-gym-membership-website-d4e67f07db57?source=rss------bug_bounty_writeup-5)
 - [Python for Penetration Testing: Automating Cybersecurity with Python](https://infosecwriteups.com/python-for-penetration-testing-automating-cybersecurity-with-python-f9ea2165852a?source=rss----7b722bfd1b8d---4)
+- [Hack My Career: Meet Naz Bozdemir](https://www.hackerone.com/culture-and-talent/hack-my-career-meet-naz-bozdemir)
 - [Custom Inbox Enhancements: Revolutionizing Vulnerability Management for Enterprises](https://www.hackerone.com/vulnerability-management/custom-inbox-enhancements)
 - [Discovering Account Takeover Vulnerability Through Source Map Analysis](https://medium.com/@danielsilva691/discovering-account-takeover-vulnerability-through-source-map-analysis-0cd4038cbc04?source=rss------bug_bounty_writeup-5)
 - [First €200 bug that started my Bug Bounty Career](https://medium.com/@sugamdangal52/first-200-bug-that-started-my-bug-bounty-career-c11a871e116f?source=rss------bug_bounty_writeup-5)
@@ -971,7 +972,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [HackerOne&#39;s Cloud Security Capabilities for AWS Customers](https://www.hackerone.com/penetration-testing/hackerones-cloud-security-capabilities-aws-customers)
 - [AI Developers’ AMA: AI System Design and Development](https://www.hackerone.com/ai/developers-system-design-development)
 - [What You Need to Know About the EU’s Cyber Resilience Act](https://www.hackerone.com/public-policy/eu-cyber-resilience-act)
-- [Security@: The Top 3 Bug Bounty Lessons From Security Leaders](https://www.hackerone.com/customer-stories/security-lessons)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
