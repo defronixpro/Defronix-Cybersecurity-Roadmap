@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Lessons from HackerOne’s First Recharge Week](https://www.hackerone.com/culture-and-talent/lessons-hackerones-first-recharge-week)
 - [Privilege Escalation via Race Condition !](https://medium.com/@Ahmex000/privilege-escalation-via-race-condition-a2e641aeb2d9?source=rss------bug_bounty_writeup-5)
 - [IDOR : Payment Fraud on GYM Membership website](https://uzet.medium.com/idor-payment-fraud-on-gym-membership-website-d4e67f07db57?source=rss------bug_bounty_writeup-5)
 - [Python for Penetration Testing: Automating Cybersecurity with Python](https://infosecwriteups.com/python-for-penetration-testing-automating-cybersecurity-with-python-f9ea2165852a?source=rss----7b722bfd1b8d---4)
@@ -971,7 +972,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Embracing Resilience: HackerOne&#39;s Approach to Disaster Recovery](https://www.hackerone.com/engineering/disaster-recovery)
 - [HackerOne Spot Checks for On-Demand, Targeted Security Testing](https://www.hackerone.com/vulnerability-management/spot-checks)
 - [HackerOne&#39;s Cloud Security Capabilities for AWS Customers](https://www.hackerone.com/penetration-testing/hackerones-cloud-security-capabilities-aws-customers)
-- [AI Developers’ AMA: AI System Design and Development](https://www.hackerone.com/ai/developers-system-design-development)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
