@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Open Redirect Vulnerability in Microsoft Create Portal](https://zeynalxan.medium.com/open-redirect-vulnerability-in-microsoft-create-portal-6654eb3e6b7a?source=rss------bug_bounty_writeup-5)
 - [Lessons from HackerOne’s First Recharge Week](https://www.hackerone.com/culture-and-talent/lessons-hackerones-first-recharge-week)
 - [Privilege Escalation via Race Condition !](https://medium.com/@Ahmex000/privilege-escalation-via-race-condition-a2e641aeb2d9?source=rss------bug_bounty_writeup-5)
 - [IDOR : Payment Fraud on GYM Membership website](https://uzet.medium.com/idor-payment-fraud-on-gym-membership-website-d4e67f07db57?source=rss------bug_bounty_writeup-5)
@@ -940,7 +941,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Feedback-Driven Interviewing at HackerOne](https://www.hackerone.com/culture-and-talent/feedback-driven-interviewing-hackerone)
 - [What HackerOne Customers Say About the Problems Hackers Solve](https://www.hackerone.com/customer-stories/hackers-solve-problems)
 - [How i got Broken link hijacking vulnerability in Gov website](https://medium.com/@sreejihkn43073/how-i-got-broken-link-hijacking-vulnerability-in-gov-website-eafdc867a187?source=rss------bug_bounty_writeup-5)
-- [Disclose the email address and phone number of chinese business reseller](https://gtm0x01.medium.com/disclose-the-email-address-and-phone-number-of-chinese-business-reseller-f882978b8733?source=rss------bug_bounty_writeup-5)
 - [Pentesting for Web Applications](https://www.hackerone.com/penetration-testing/web-applications)
 - [A Simple 2FA Bypass](https://infosecwriteups.com/a-simple-2fa-bypass-43c8af9006ec?source=rss----7b722bfd1b8d---4)
 - [Data Profiling Reveals Why 39+ U.S. States Banned TikTok](https://infosecwriteups.com/data-profiling-reveals-why-39-u-s-states-banned-tiktok-4c64f968af7b?source=rss----7b722bfd1b8d---4)
