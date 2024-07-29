@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [New Plans](https://medium.com/@nnface/new-plans-0b11cfa5495d?source=rss------bug_bounty_writeup-5)
 - [The Looming Threat: How an IDOR Vulnerability Could Have Exposed Millions of Merchants Details.](https://medium.com/@cy3erbeast/the-looming-threat-how-an-idor-vulnerability-could-have-exposed-millions-of-merchants-details-f488725489a0?source=rss------bug_bounty_writeup-5)
 - [CORS Checker by Professor the Hunter: Your Ultimate Tool for Testing Cross-Origin Resource Sharing](https://bughuntar.medium.com/cors-checker-by-professor-the-hunter-your-ultimate-tool-for-testing-cross-origin-resource-sharing-7521ff486cdf?source=rss------bug_bounty_writeup-5)
 - [github-recon
@@ -938,7 +939,6 @@ Github Search is a quite powerful and useful feature that can be used…](https:
 - [Custom Inbox Enhancements: Revolutionizing Vulnerability Management for Enterprises](https://www.hackerone.com/vulnerability-management/custom-inbox-enhancements)
 - [Discovering Account Takeover Vulnerability Through Source Map Analysis](https://medium.com/@danielsilva691/discovering-account-takeover-vulnerability-through-source-map-analysis-0cd4038cbc04?source=rss------bug_bounty_writeup-5)
 - [First €200 bug that started my Bug Bounty Career](https://medium.com/@sugamdangal52/first-200-bug-that-started-my-bug-bounty-career-c11a871e116f?source=rss------bug_bounty_writeup-5)
-- [The First Bug bounty forum !](https://elb4rt0.medium.com/the-first-bug-bounty-forum-ba0399fb70c0?source=rss------bug_bounty_writeup-5)
 - [How HackerOne Organizes a Remote Hack Week](https://www.hackerone.com/culture-and-talent/how-hackerone-organizes-remote-hack-week)
 - [10 Years of the GitHub Security Bug Bounty Program](https://www.hackerone.com/customer-stories/10-years-github-security-bug-bounty-program)
 - [Feedback-Driven Interviewing at HackerOne](https://www.hackerone.com/culture-and-talent/feedback-driven-interviewing-hackerone)
