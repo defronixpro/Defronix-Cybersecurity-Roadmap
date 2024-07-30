@@ -933,6 +933,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How Malicious Tactics Are Getting Instagram Accounts Unfairly Banned: A Critical Threat to Users](https://infosecwriteups.com/how-malicious-tactics-are-getting-instagram-accounts-unfairly-banned-a-critical-threat-to-users-64969b339756?source=rss----7b722bfd1b8d---4)
 - [Hacking OWASP Juice Shop: Part 1 - Discovering Vulnerabilities](https://infosecwriteups.com/hacking-owasp-juice-shop-part-1-discovering-vulnerabilities-b85e974fb3e5?source=rss----7b722bfd1b8d---4)
 - [New Plans](https://medium.com/@nnface/new-plans-0b11cfa5495d?source=rss------bug_bounty_writeup-5)
+- [How a GraphQL Bug Resulted in Authentication Bypass](https://www.hackerone.com/vulnerability-management/graphql-authentication-bypass)
 - [The Looming Threat: How an IDOR Vulnerability Could Have Exposed Millions of Merchants Details.](https://medium.com/@cy3erbeast/the-looming-threat-how-an-idor-vulnerability-could-have-exposed-millions-of-merchants-details-f488725489a0?source=rss------bug_bounty_writeup-5)
 - [CORS Checker by Professor the Hunter: Your Ultimate Tool for Testing Cross-Origin Resource Sharing](https://bughuntar.medium.com/cors-checker-by-professor-the-hunter-your-ultimate-tool-for-testing-cross-origin-resource-sharing-7521ff486cdf?source=rss------bug_bounty_writeup-5)
 - [github-recon
@@ -973,7 +974,6 @@ Github Search is a quite powerful and useful feature that can be used…](https:
 - [GDPR and Pentesting: What You Need to Know](https://www.hackerone.com/security-compliance/gdpr-pentesting)
 - [Embracing Resilience: HackerOne&#39;s Approach to Disaster Recovery](https://www.hackerone.com/engineering/disaster-recovery)
 - [HackerOne Spot Checks for On-Demand, Targeted Security Testing](https://www.hackerone.com/vulnerability-management/spot-checks)
-- [HackerOne&#39;s Cloud Security Capabilities for AWS Customers](https://www.hackerone.com/penetration-testing/hackerones-cloud-security-capabilities-aws-customers)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
