@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [LFI WITH PHPINFO TO RCE](https://infosecwriteups.com/lfi-with-phpinfo-to-rce-78318f0dc9ce?source=rss----7b722bfd1b8d---4)
 - [Hacking OWASP Juice Shop: Part 2 — Exposing Critical Vulnerabilities in the Payment Flow](https://infosecwriteups.com/hacking-owasp-juice-shop-part-2-exposing-critical-vulnerabilities-in-the-payment-flow-45630ed1633e?source=rss----7b722bfd1b8d---4)
 - [Exposing cybercrime.gov.in Phishing: The Browser-In-The-Browser Scam](https://infosecwriteups.com/exposing-cybercrime-gov-in-phishing-the-browser-in-the-browser-scam-0c0bad0a93d5?source=rss----7b722bfd1b8d---4)
 - [1000$ IDOR : Unauthorized Project Inclusion in Expense](https://infosecwriteups.com/1000-idor-unauthorized-project-inclusion-in-expense-b9ce08b28c71?source=rss----7b722bfd1b8d---4)
@@ -931,7 +932,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How Malicious Tactics Are Getting Instagram Accounts Unfairly Banned: A Critical Threat to Users](https://infosecwriteups.com/how-malicious-tactics-are-getting-instagram-accounts-unfairly-banned-a-critical-threat-to-users-64969b339756?source=rss----7b722bfd1b8d---4)
 - [Hacking OWASP Juice Shop: Part 1 - Discovering Vulnerabilities](https://infosecwriteups.com/hacking-owasp-juice-shop-part-1-discovering-vulnerabilities-b85e974fb3e5?source=rss----7b722bfd1b8d---4)
 - [Diving Deeper: Unveiling Extra Security Flaws in a TryHackMe BAC Lab](https://infosecwriteups.com/diving-deeper-unveiling-extra-security-flaws-in-a-tryhackme-bac-lab-9f1573fa248d?source=rss----7b722bfd1b8d---4)
-- [Domain Enumeration with PowerShell| Active Directory Penetration Testing](https://infosecwriteups.com/domain-enumeration-with-active-directory-penetration-testing-4c61d09914b6?source=rss----7b722bfd1b8d---4)
 - [New Plans](https://medium.com/@nnface/new-plans-0b11cfa5495d?source=rss------bug_bounty_writeup-5)
 - [The Looming Threat: How an IDOR Vulnerability Could Have Exposed Millions of Merchants Details.](https://medium.com/@cy3erbeast/the-looming-threat-how-an-idor-vulnerability-could-have-exposed-millions-of-merchants-details-f488725489a0?source=rss------bug_bounty_writeup-5)
 - [CORS Checker by Professor the Hunter: Your Ultimate Tool for Testing Cross-Origin Resource Sharing](https://bughuntar.medium.com/cors-checker-by-professor-the-hunter-your-ultimate-tool-for-testing-cross-origin-resource-sharing-7521ff486cdf?source=rss------bug_bounty_writeup-5)
