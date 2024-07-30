@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Pentesting Large Language Model Applications and AI Decoy Bypass](https://infosecwriteups.com/pentesting-large-language-model-applications-and-ai-decoy-bypass-140e1f50db3c?source=rss----7b722bfd1b8d---4)
 - [LFI WITH PHPINFO TO RCE](https://infosecwriteups.com/lfi-with-phpinfo-to-rce-78318f0dc9ce?source=rss----7b722bfd1b8d---4)
 - [Hacking OWASP Juice Shop: Part 2 — Exposing Critical Vulnerabilities in the Payment Flow](https://infosecwriteups.com/hacking-owasp-juice-shop-part-2-exposing-critical-vulnerabilities-in-the-payment-flow-45630ed1633e?source=rss----7b722bfd1b8d---4)
 - [Exposing cybercrime.gov.in Phishing: The Browser-In-The-Browser Scam](https://infosecwriteups.com/exposing-cybercrime-gov-in-phishing-the-browser-in-the-browser-scam-0c0bad0a93d5?source=rss----7b722bfd1b8d---4)
@@ -10,7 +11,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [JS Link Finder Burp Suite Extension Guide](https://infosecwriteups.com/js-link-finder-burp-suite-extension-guide-e4809a6da268?source=rss----7b722bfd1b8d---4)
 - [How Malicious Tactics Are Getting Instagram Accounts Unfairly Banned: A Critical Threat to Users](https://infosecwriteups.com/how-malicious-tactics-are-getting-instagram-accounts-unfairly-banned-a-critical-threat-to-users-64969b339756?source=rss----7b722bfd1b8d---4)
 - [Hacking OWASP Juice Shop: Part 1 - Discovering Vulnerabilities](https://infosecwriteups.com/hacking-owasp-juice-shop-part-1-discovering-vulnerabilities-b85e974fb3e5?source=rss----7b722bfd1b8d---4)
-- [Diving Deeper: Unveiling Extra Security Flaws in a TryHackMe BAC Lab](https://infosecwriteups.com/diving-deeper-unveiling-extra-security-flaws-in-a-tryhackme-bac-lab-9f1573fa248d?source=rss----7b722bfd1b8d---4)
 - [New Plans](https://medium.com/@nnface/new-plans-0b11cfa5495d?source=rss------bug_bounty_writeup-5)
 - [The Looming Threat: How an IDOR Vulnerability Could Have Exposed Millions of Merchants Details.](https://medium.com/@cy3erbeast/the-looming-threat-how-an-idor-vulnerability-could-have-exposed-millions-of-merchants-details-f488725489a0?source=rss------bug_bounty_writeup-5)
 - [CORS Checker by Professor the Hunter: Your Ultimate Tool for Testing Cross-Origin Resource Sharing](https://bughuntar.medium.com/cors-checker-by-professor-the-hunter-your-ultimate-tool-for-testing-cross-origin-resource-sharing-7521ff486cdf?source=rss------bug_bounty_writeup-5)
