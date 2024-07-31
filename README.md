@@ -922,7 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [Don’t know where to look for bugs ?? In Depth Recon Bug Bounty — Part 02](https://omarora1603.medium.com/dont-know-where-to-look-for-bugs-in-depth-recon-bug-bounty-part-02-9d7c55e045aa?source=rss------bug_bounty_writeup-5)
+- [Getting Ready for PNPT: My Study Plan and Prep Strategy](https://infosecwriteups.com/getting-ready-for-pnpt-my-study-plan-and-prep-strategy-fcfc9b60fb77?source=rss----7b722bfd1b8d---4)
+- [Don’t know where to look for bugs ?? In Depth Recon Bug Bounty — Part 02](https://infosecwriteups.com/dont-know-where-to-look-for-bugs-in-depth-recon-bug-bounty-part-02-9d7c55e045aa?source=rss------bug_bounty_writeup-5)
 - [Introduction to Linux for Blue Teaming](https://infosecwriteups.com/introduction-to-linux-for-blue-teaming-2ab3273cc884?source=rss----7b722bfd1b8d---4)
 - [Pentesting Large Language Model Applications and AI Decoy Bypass](https://infosecwriteups.com/pentesting-large-language-model-applications-and-ai-decoy-bypass-140e1f50db3c?source=rss----7b722bfd1b8d---4)
 - [LFI WITH PHPINFO TO RCE](https://infosecwriteups.com/lfi-with-phpinfo-to-rce-78318f0dc9ce?source=rss----7b722bfd1b8d---4)
@@ -932,7 +933,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Intro to Debugging Java Web Servers Without Source Code For Security Researchers](https://infosecwriteups.com/intro-to-debugging-java-web-servers-without-source-code-for-security-researchers-80ff00de4753?source=rss----7b722bfd1b8d---4)
 - [AXIOM vs ShadowClone](https://infosecwriteups.com/axiom-vs-shadowclone-147a26878c7c?source=rss----7b722bfd1b8d---4)
 - [JS Link Finder Burp Suite Extension Guide](https://infosecwriteups.com/js-link-finder-burp-suite-extension-guide-e4809a6da268?source=rss----7b722bfd1b8d---4)
-- [How Malicious Tactics Are Getting Instagram Accounts Unfairly Banned: A Critical Threat to Users](https://infosecwriteups.com/how-malicious-tactics-are-getting-instagram-accounts-unfairly-banned-a-critical-threat-to-users-64969b339756?source=rss----7b722bfd1b8d---4)
 - [New Plans](https://medium.com/@nnface/new-plans-0b11cfa5495d?source=rss------bug_bounty_writeup-5)
 - [How a GraphQL Bug Resulted in Authentication Bypass](https://www.hackerone.com/vulnerability-management/graphql-authentication-bypass)
 - [The Looming Threat: How an IDOR Vulnerability Could Have Exposed Millions of Merchants Details.](https://medium.com/@cy3erbeast/the-looming-threat-how-an-idor-vulnerability-could-have-exposed-millions-of-merchants-details-f488725489a0?source=rss------bug_bounty_writeup-5)
