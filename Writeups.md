@@ -2,6 +2,7 @@
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
 - [Getting Ready for PNPT: My Study Plan and Prep Strategy](https://infosecwriteups.com/getting-ready-for-pnpt-my-study-plan-and-prep-strategy-fcfc9b60fb77?source=rss----7b722bfd1b8d---4)
+- [Don’t know where to look for bugs ?? In Depth Recon Bug Bounty — Part 02](https://infosecwriteups.com/dont-know-where-to-look-for-bugs-in-depth-recon-bug-bounty-part-02-9d7c55e045aa?source=rss------bug_bounty_writeup-5)
 - [Introduction to Linux for Blue Teaming](https://infosecwriteups.com/introduction-to-linux-for-blue-teaming-2ab3273cc884?source=rss----7b722bfd1b8d---4)
 - [Pentesting Large Language Model Applications and AI Decoy Bypass](https://infosecwriteups.com/pentesting-large-language-model-applications-and-ai-decoy-bypass-140e1f50db3c?source=rss----7b722bfd1b8d---4)
 - [LFI WITH PHPINFO TO RCE](https://infosecwriteups.com/lfi-with-phpinfo-to-rce-78318f0dc9ce?source=rss----7b722bfd1b8d---4)
@@ -11,11 +12,22 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Intro to Debugging Java Web Servers Without Source Code For Security Researchers](https://infosecwriteups.com/intro-to-debugging-java-web-servers-without-source-code-for-security-researchers-80ff00de4753?source=rss----7b722bfd1b8d---4)
 - [AXIOM vs ShadowClone](https://infosecwriteups.com/axiom-vs-shadowclone-147a26878c7c?source=rss----7b722bfd1b8d---4)
 - [JS Link Finder Burp Suite Extension Guide](https://infosecwriteups.com/js-link-finder-burp-suite-extension-guide-e4809a6da268?source=rss----7b722bfd1b8d---4)
+- [New Plans](https://medium.com/@nnface/new-plans-0b11cfa5495d?source=rss------bug_bounty_writeup-5)
 - [How a GraphQL Bug Resulted in Authentication Bypass](https://www.hackerone.com/vulnerability-management/graphql-authentication-bypass)
+- [The Looming Threat: How an IDOR Vulnerability Could Have Exposed Millions of Merchants Details.](https://medium.com/@cy3erbeast/the-looming-threat-how-an-idor-vulnerability-could-have-exposed-millions-of-merchants-details-f488725489a0?source=rss------bug_bounty_writeup-5)
+- [CORS Checker by Professor the Hunter: Your Ultimate Tool for Testing Cross-Origin Resource Sharing](https://bughuntar.medium.com/cors-checker-by-professor-the-hunter-your-ultimate-tool-for-testing-cross-origin-resource-sharing-7521ff486cdf?source=rss------bug_bounty_writeup-5)
+- [github-recon
+github-recon :
+Github Search is a quite powerful and useful feature that can be used…](https://medium.com/@aaedoo54/github-recon-github-recon-github-search-is-a-quite-powerful-and-useful-feature-that-can-be-used-818f2bfe5c00?source=rss------bug_bounty_writeup-5)
+- [Account Takeover using IDOR in Password reset Functionality](https://infosecwriteups.com/account-takeover-using-idor-in-password-reset-functionality-0d62c1bd5760?source=rss------bug_bounty_writeup-5)
+- [Open Redirect Vulnerability in Microsoft Create Portal](https://zeynalxan.medium.com/open-redirect-vulnerability-in-microsoft-create-portal-6654eb3e6b7a?source=rss------bug_bounty_writeup-5)
 - [Lessons from HackerOne’s First Recharge Week](https://www.hackerone.com/culture-and-talent/lessons-hackerones-first-recharge-week)
+- [Privilege Escalation via Race Condition !](https://medium.com/@Ahmex000/privilege-escalation-via-race-condition-a2e641aeb2d9?source=rss------bug_bounty_writeup-5)
+- [IDOR : Payment Fraud on GYM Membership website](https://uzet.medium.com/idor-payment-fraud-on-gym-membership-website-d4e67f07db57?source=rss------bug_bounty_writeup-5)
 - [HIPAA and Pentesting: What You Need to Know](https://www.hackerone.com/security-compliance/hipaa-pentesting)
 - [Hack My Career: Meet Naz Bozdemir](https://www.hackerone.com/culture-and-talent/hack-my-career-meet-naz-bozdemir)
 - [Custom Inbox Enhancements: Revolutionizing Vulnerability Management for Enterprises](https://www.hackerone.com/vulnerability-management/custom-inbox-enhancements)
+- [Discovering Account Takeover Vulnerability Through Source Map Analysis](https://medium.com/@danielsilva691/discovering-account-takeover-vulnerability-through-source-map-analysis-0cd4038cbc04?source=rss------bug_bounty_writeup-5)
 - [How HackerOne Organizes a Remote Hack Week](https://www.hackerone.com/culture-and-talent/how-hackerone-organizes-remote-hack-week)
 - [10 Years of the GitHub Security Bug Bounty Program](https://www.hackerone.com/customer-stories/10-years-github-security-bug-bounty-program)
 - [Feedback-Driven Interviewing at HackerOne](https://www.hackerone.com/culture-and-talent/feedback-driven-interviewing-hackerone)
