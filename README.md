@@ -925,6 +925,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Getting Ready for PNPT: My Study Plan and Prep Strategy](https://infosecwriteups.com/getting-ready-for-pnpt-my-study-plan-and-prep-strategy-fcfc9b60fb77?source=rss----7b722bfd1b8d---4)
 - [Don’t know where to look for bugs ?? In Depth Recon Bug Bounty — Part 02](https://infosecwriteups.com/dont-know-where-to-look-for-bugs-in-depth-recon-bug-bounty-part-02-9d7c55e045aa?source=rss------bug_bounty_writeup-5)
 - [Introduction to Linux for Blue Teaming](https://infosecwriteups.com/introduction-to-linux-for-blue-teaming-2ab3273cc884?source=rss----7b722bfd1b8d---4)
+- [Introducing HackerOne Gateway Internal Network Testing: Superior Security for Internal Networks](https://www.hackerone.com/penetration-testing/gateway-internal-network-testing)
 - [Pentesting Large Language Model Applications and AI Decoy Bypass](https://infosecwriteups.com/pentesting-large-language-model-applications-and-ai-decoy-bypass-140e1f50db3c?source=rss----7b722bfd1b8d---4)
 - [LFI WITH PHPINFO TO RCE](https://infosecwriteups.com/lfi-with-phpinfo-to-rce-78318f0dc9ce?source=rss----7b722bfd1b8d---4)
 - [Hacking OWASP Juice Shop: Part 2 — Exposing Critical Vulnerabilities in the Payment Flow](https://infosecwriteups.com/hacking-owasp-juice-shop-part-2-exposing-critical-vulnerabilities-in-the-payment-flow-45630ed1633e?source=rss----7b722bfd1b8d---4)
@@ -973,7 +974,6 @@ Github Search is a quite powerful and useful feature that can be used…](https:
 - [3 Bug Bounty Lessons From Retail &amp; eCommerce Customers](https://www.hackerone.com/customer-stories/retail-ecommerce-lessons)
 - [GDPR and Pentesting: What You Need to Know](https://www.hackerone.com/security-compliance/gdpr-pentesting)
 - [Embracing Resilience: HackerOne&#39;s Approach to Disaster Recovery](https://www.hackerone.com/engineering/disaster-recovery)
-- [HackerOne Spot Checks for On-Demand, Targeted Security Testing](https://www.hackerone.com/vulnerability-management/spot-checks)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
