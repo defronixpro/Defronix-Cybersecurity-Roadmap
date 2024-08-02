@@ -1,6 +1,8 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Best youtube channels to learn bughunting and penetration testing](https://medium.com/@sangamahesh650/best-youtube-channels-to-learn-bughunting-and-penetration-testing-eea2e78a202a?source=rss------bug_bounty_writeup-5)
+- [Finding subdomains from google](https://medium.com/@sangamahesh650/finding-subdomains-from-google-7f370fe60ad1?source=rss------bug_bounty_writeup-5)
 - [IoT Cyber Security: Protecting Your Connected World](https://infosecwriteups.com/iot-cyber-security-protecting-your-connected-world-e2580793b209?source=rss----7b722bfd1b8d---4)
 - [Hacking Porn and Dating sites — a Theme Based Bugbounty Hunting](https://infosecwriteups.com/hacking-porn-and-dating-sites-a-theme-based-bugbounty-hunting-d024b8137bc7?source=rss----7b722bfd1b8d---4)
 - [Top Google Dorks Explained](https://infosecwriteups.com/top-google-dorks-explained-ee6cac1673da?source=rss----7b722bfd1b8d---4)
@@ -24,11 +26,9 @@ Github Search is a quite powerful and useful feature that can be used…](https:
 - [Open Redirect Vulnerability in Microsoft Create Portal](https://zeynalxan.medium.com/open-redirect-vulnerability-in-microsoft-create-portal-6654eb3e6b7a?source=rss------bug_bounty_writeup-5)
 - [Lessons from HackerOne’s First Recharge Week](https://www.hackerone.com/culture-and-talent/lessons-hackerones-first-recharge-week)
 - [Privilege Escalation via Race Condition !](https://medium.com/@Ahmex000/privilege-escalation-via-race-condition-a2e641aeb2d9?source=rss------bug_bounty_writeup-5)
-- [IDOR : Payment Fraud on GYM Membership website](https://uzet.medium.com/idor-payment-fraud-on-gym-membership-website-d4e67f07db57?source=rss------bug_bounty_writeup-5)
 - [HIPAA and Pentesting: What You Need to Know](https://www.hackerone.com/security-compliance/hipaa-pentesting)
 - [Hack My Career: Meet Naz Bozdemir](https://www.hackerone.com/culture-and-talent/hack-my-career-meet-naz-bozdemir)
 - [Streamline Report Management with Custom Inboxes: Reducing Delays and Security Risks](https://www.hackerone.com/vulnerability-management/custom-inbox-enhancements)
-- [Discovering Account Takeover Vulnerability Through Source Map Analysis](https://medium.com/@danielsilva691/discovering-account-takeover-vulnerability-through-source-map-analysis-0cd4038cbc04?source=rss------bug_bounty_writeup-5)
 - [How HackerOne Organizes a Remote Hack Week](https://www.hackerone.com/culture-and-talent/how-hackerone-organizes-remote-hack-week)
 - [10 Years of the GitHub Security Bug Bounty Program](https://www.hackerone.com/customer-stories/10-years-github-security-bug-bounty-program)
 - [Feedback-Driven Interviewing at HackerOne](https://www.hackerone.com/culture-and-talent/feedback-driven-interviewing-hackerone)
