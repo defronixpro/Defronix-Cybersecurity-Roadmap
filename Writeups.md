@@ -13,6 +13,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [HTB | Chatterbox](https://infosecwriteups.com/htb-chatterbox-7deaeec365b5?source=rss----7b722bfd1b8d---4)
 - [’Tis a Hostile Work Environment: Word Maldoc Analysis](https://infosecwriteups.com/tis-a-hostile-work-environment-word-maldoc-analysis-2d3c642403ed?source=rss----7b722bfd1b8d---4)
 - [Don’t know where to look for bugs ?? In Depth Recon Bug Bounty — Part 02](https://infosecwriteups.com/dont-know-where-to-look-for-bugs-in-depth-recon-bug-bounty-part-02-9d7c55e045aa?source=rss----7b722bfd1b8d---4)
+- [Security Page Updates: Boosting Consistency &amp; Transparency for Security Researchers and Customers](https://www.hackerone.com/security-page-updates)
 - [Don’t know where to look for bugs ?? In Depth Recon Bug Bounty — Part 02](https://infosecwriteups.com/dont-know-where-to-look-for-bugs-in-depth-recon-bug-bounty-part-02-9d7c55e045aa?source=rss------bug_bounty_writeup-5)
 - [Introducing HackerOne Gateway Internal Network Testing: Superior Security for Internal Networks](https://www.hackerone.com/penetration-testing/gateway-internal-network-testing)
 - [New Plans](https://medium.com/@nnface/new-plans-0b11cfa5495d?source=rss------bug_bounty_writeup-5)
