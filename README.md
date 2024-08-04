@@ -946,7 +946,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 github-recon :
 Github Search is a quite powerful and useful feature that can be used…](https://medium.com/@aaedoo54/github-recon-github-recon-github-search-is-a-quite-powerful-and-useful-feature-that-can-be-used-818f2bfe5c00?source=rss------bug_bounty_writeup-5)
 - [Account Takeover using IDOR in Password reset Functionality](https://infosecwriteups.com/account-takeover-using-idor-in-password-reset-functionality-0d62c1bd5760?source=rss------bug_bounty_writeup-5)
-- [Open Redirect Vulnerability in Microsoft Create Portal](https://zeynalxan.medium.com/open-redirect-vulnerability-in-microsoft-create-portal-6654eb3e6b7a?source=rss------bug_bounty_writeup-5)
 - [Lessons from HackerOne’s First Recharge Week](https://www.hackerone.com/culture-and-talent/lessons-hackerones-first-recharge-week)
 - [Are You Ready for the New NIST Control Around Public Disclosure Programs?](https://www.hackerone.com/security-compliance/nist-vdp-control)
 - [HIPAA and Pentesting: What You Need to Know](https://www.hackerone.com/security-compliance/hipaa-pentesting)
@@ -974,6 +973,7 @@ Github Search is a quite powerful and useful feature that can be used…](https:
 - [Hack My Career: Advice from HackerOne Employees](https://www.hackerone.com/culture-and-talent/hack-my-career-advice-hackerone-employees)
 - [HackerOne&#39;s List of Top 10 AI EMB&lpar;arrassments&rpar;](https://www.hackerone.com/ai/top-10-ai-embarrassments)
 - [3 Bug Bounty Lessons From Retail &amp; eCommerce Customers](https://www.hackerone.com/customer-stories/retail-ecommerce-lessons)
+- [GDPR and Pentesting: What You Need to Know](https://www.hackerone.com/security-compliance/gdpr-pentesting)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
