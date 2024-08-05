@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [2024 N00bz CTF Pastebin Writeup](https://medium.com/@alimuhammadsecured/2024-n00bz-ctf-pastebin-writeup-aaa8991187ed?source=rss------bug_bounty_writeup-5)
 - [How could privilege escalation vulnerability lead to full account takeover?](https://medium.com/@moxallam/how-could-privilege-escalation-vulnerability-lead-to-full-account-takeover-0d49d3d5fbee?source=rss------bug_bounty_writeup-5)
 - [Best youtube channels to learn bughunting and penetration testing](https://medium.com/@sangamahesh650/best-youtube-channels-to-learn-bughunting-and-penetration-testing-eea2e78a202a?source=rss------bug_bounty_writeup-5)
 - [Finding subdomains from google](https://medium.com/@sangamahesh650/finding-subdomains-from-google-7f370fe60ad1?source=rss------bug_bounty_writeup-5)
@@ -973,7 +974,6 @@ Github Search is a quite powerful and useful feature that can be used…](https:
 - [Hack My Career: Advice from HackerOne Employees](https://www.hackerone.com/culture-and-talent/hack-my-career-advice-hackerone-employees)
 - [HackerOne&#39;s List of Top 10 AI EMB&lpar;arrassments&rpar;](https://www.hackerone.com/ai/top-10-ai-embarrassments)
 - [3 Bug Bounty Lessons From Retail &amp; eCommerce Customers](https://www.hackerone.com/customer-stories/retail-ecommerce-lessons)
-- [GDPR and Pentesting: What You Need to Know](https://www.hackerone.com/security-compliance/gdpr-pentesting)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
