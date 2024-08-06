@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Race Condition About The User Version and Ignored](https://r0b0ts.medium.com/race-condition-about-the-user-version-and-ignored-c98fec642d1b?source=rss------bug_bounty_writeup-5)
 - [My First Bug Bounty: CORS Misconfiguration](https://r0b0ts.medium.com/my-first-bug-bounty-cors-misconfiguration-3e6f38835c4e?source=rss------bug_bounty_writeup-5)
 - [Tips for Parents Working from Home from HackerOne Employees](https://www.hackerone.com/culture-and-talent/tips-parents-working-home-hackerone-employees)
 - [2024 N00bz CTF Pastebin Writeup](https://medium.com/@alimuhammadsecured/2024-n00bz-ctf-pastebin-writeup-aaa8991187ed?source=rss------bug_bounty_writeup-5)
@@ -945,9 +946,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How a GraphQL Bug Resulted in Authentication Bypass](https://www.hackerone.com/vulnerability-management/graphql-authentication-bypass)
 - [The Looming Threat: How an IDOR Vulnerability Could Have Exposed Millions of Merchants Details.](https://medium.com/@cy3erbeast/the-looming-threat-how-an-idor-vulnerability-could-have-exposed-millions-of-merchants-details-f488725489a0?source=rss------bug_bounty_writeup-5)
 - [CORS Checker by Professor the Hunter: Your Ultimate Tool for Testing Cross-Origin Resource Sharing](https://bughuntar.medium.com/cors-checker-by-professor-the-hunter-your-ultimate-tool-for-testing-cross-origin-resource-sharing-7521ff486cdf?source=rss------bug_bounty_writeup-5)
-- [github-recon
-github-recon :
-Github Search is a quite powerful and useful feature that can be used…](https://medium.com/@aaedoo54/github-recon-github-recon-github-search-is-a-quite-powerful-and-useful-feature-that-can-be-used-818f2bfe5c00?source=rss------bug_bounty_writeup-5)
 - [Lessons from HackerOne’s First Recharge Week](https://www.hackerone.com/culture-and-talent/lessons-hackerones-first-recharge-week)
 - [Are You Ready for the New NIST Control Around Public Disclosure Programs?](https://www.hackerone.com/security-compliance/nist-vdp-control)
 - [HIPAA and Pentesting: What You Need to Know](https://www.hackerone.com/security-compliance/hipaa-pentesting)
