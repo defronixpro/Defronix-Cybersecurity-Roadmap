@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Tips for Parents Working from Home from HackerOne Employees](https://www.hackerone.com/culture-and-talent/tips-parents-working-home-hackerone-employees)
 - [2024 N00bz CTF Pastebin Writeup](https://medium.com/@alimuhammadsecured/2024-n00bz-ctf-pastebin-writeup-aaa8991187ed?source=rss------bug_bounty_writeup-5)
 - [How could privilege escalation vulnerability lead to full account takeover?](https://medium.com/@moxallam/how-could-privilege-escalation-vulnerability-lead-to-full-account-takeover-0d49d3d5fbee?source=rss------bug_bounty_writeup-5)
 - [Best youtube channels to learn bughunting and penetration testing](https://medium.com/@sangamahesh650/best-youtube-channels-to-learn-bughunting-and-penetration-testing-eea2e78a202a?source=rss------bug_bounty_writeup-5)
