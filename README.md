@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Day 6 of 30 Days — 30 Vulnerabilities | Sensitive Data Exposure](https://medium.com/@kumawatabhijeet2002/day-6-of-30-days-30-vulnerabilities-sensitive-data-exposure-1c855a5396f9?source=rss------bug_bounty_writeup-5)
 - [Day 6 of 30 Days — 30 Vulnerabilities | Sensitive Data Exposure](https://it4chis3c.medium.com/day-6-of-30-days-30-vulnerabilities-sensitive-data-exposure-8001f758ac61?source=rss------bug_bounty_writeup-5)
 - [Easiest P3/P4 security misconfiguration to make $$ as a beginner.](https://medium.com/@sugamdangal52/easiest-p3-p4-security-misconfiguration-to-make-as-a-beginner-d4f019ad4b85?source=rss------bug_bounty_writeup-5)
 - [Race Condition About The User Version and Ignored](https://r0b0ts.medium.com/race-condition-about-the-user-version-and-ignored-c98fec642d1b?source=rss------bug_bounty_writeup-5)
@@ -944,7 +945,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Security Page Updates: Boosting Consistency &amp; Transparency for Security Researchers and Customers](https://www.hackerone.com/security-page-updates)
 - [Don’t know where to look for bugs ?? In Depth Recon Bug Bounty — Part 02](https://infosecwriteups.com/dont-know-where-to-look-for-bugs-in-depth-recon-bug-bounty-part-02-9d7c55e045aa?source=rss------bug_bounty_writeup-5)
 - [Introducing HackerOne Gateway Internal Network Testing: Superior Security for Internal Networks](https://www.hackerone.com/penetration-testing/gateway-internal-network-testing)
-- [New Plans](https://medium.com/@nnface/new-plans-0b11cfa5495d?source=rss------bug_bounty_writeup-5)
 - [How a GraphQL Bug Resulted in Authentication Bypass](https://www.hackerone.com/vulnerability-management/graphql-authentication-bypass)
 - [Lessons from HackerOne’s First Recharge Week](https://www.hackerone.com/culture-and-talent/lessons-hackerones-first-recharge-week)
 - [Are You Ready for the New NIST Control Around Public Disclosure Programs?](https://www.hackerone.com/security-compliance/nist-vdp-control)
