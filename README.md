@@ -924,6 +924,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 <!-- WRITEUPS:START -->
 - [Day 6 of 30 Days — 30 Vulnerabilities | Sensitive Data Exposure](https://it4chis3c.medium.com/day-6-of-30-days-30-vulnerabilities-sensitive-data-exposure-8001f758ac61?source=rss------bug_bounty_writeup-5)
 - [Easiest P3/P4 security misconfiguration to make $$ as a beginner.](https://medium.com/@sugamdangal52/easiest-p3-p4-security-misconfiguration-to-make-as-a-beginner-d4f019ad4b85?source=rss------bug_bounty_writeup-5)
+- [A Visual Guide to Bug Bounty Success](https://www.hackerone.com/application-security/visual-guide-bug-bounty-success)
 - [Race Condition About The User Version and Ignored](https://r0b0ts.medium.com/race-condition-about-the-user-version-and-ignored-c98fec642d1b?source=rss------bug_bounty_writeup-5)
 - [My First Bug Bounty: CORS Misconfiguration](https://r0b0ts.medium.com/my-first-bug-bounty-cors-misconfiguration-3e6f38835c4e?source=rss------bug_bounty_writeup-5)
 - [Tips for Parents Working from Home from HackerOne Employees](https://www.hackerone.com/culture-and-talent/tips-parents-working-home-hackerone-employees)
@@ -971,7 +972,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [HackerOne Company Values Matter: Execute with Excellence](https://www.hackerone.com/culture-and-talent/hackerone-company-values-matter-execute-excellence)
 - [NIST CSF 2.0 and Pentesting: What You Need to Know](https://www.hackerone.com/security-compliance/nist-csf-pentesting)
 - [Hack My Career: Advice from HackerOne Employees](https://www.hackerone.com/culture-and-talent/hack-my-career-advice-hackerone-employees)
-- [HackerOne&#39;s List of Top 10 AI EMB&lpar;arrassments&rpar;](https://www.hackerone.com/ai/top-10-ai-embarrassments)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
