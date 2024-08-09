@@ -1,7 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
-- [How to connect to the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-connect-to-the-dark-web-using-the-tor-browser/)
+- [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [Day 6 of 30 Days — 30 Vulnerabilities | Sensitive Data Exposure](https://medium.com/@kumawatabhijeet2002/day-6-of-30-days-30-vulnerabilities-sensitive-data-exposure-1c855a5396f9?source=rss------bug_bounty_writeup-5)
 - [Day 6 of 30 Days — 30 Vulnerabilities | Sensitive Data Exposure](https://it4chis3c.medium.com/day-6-of-30-days-30-vulnerabilities-sensitive-data-exposure-8001f758ac61?source=rss------bug_bounty_writeup-5)
 - [Easiest P3/P4 security misconfiguration to make $$ as a beginner.](https://medium.com/@sugamdangal52/easiest-p3-p4-security-misconfiguration-to-make-as-a-beginner-d4f019ad4b85?source=rss------bug_bounty_writeup-5)
