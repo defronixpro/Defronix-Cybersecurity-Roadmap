@@ -9,7 +9,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Race Condition About The User Version and Ignored](https://r0b0ts.medium.com/race-condition-about-the-user-version-and-ignored-c98fec642d1b?source=rss------bug_bounty_writeup-5)
 - [My First Bug Bounty: CORS Misconfiguration](https://r0b0ts.medium.com/my-first-bug-bounty-cors-misconfiguration-3e6f38835c4e?source=rss------bug_bounty_writeup-5)
 - [Tips for Parents Working from Home from HackerOne Employees](https://www.hackerone.com/culture-and-talent/tips-parents-working-home-hackerone-employees)
-- [OSINT — using Whatsmyname.app](https://medium.com/@alimuhammadsecured/2024-n00bz-ctf-pastebin-writeup-aaa8991187ed?source=rss------bug_bounty_writeup-5)
+- [OSINT — using Whatsmyname.app](https://medium.com/thedeephub/2024-n00bz-ctf-pastebin-writeup-aaa8991187ed?source=rss------bug_bounty_writeup-5)
 - [How could privilege escalation vulnerability lead to full account takeover?](https://medium.com/@moxallam/how-could-privilege-escalation-vulnerability-lead-to-full-account-takeover-0d49d3d5fbee?source=rss------bug_bounty_writeup-5)
 - [Best youtube channels to learn bughunting and penetration testing](https://medium.com/@sangamahesh650/best-youtube-channels-to-learn-bughunting-and-penetration-testing-eea2e78a202a?source=rss------bug_bounty_writeup-5)
 - [Finding subdomains from google](https://medium.com/@sangamahesh650/finding-subdomains-from-google-7f370fe60ad1?source=rss------bug_bounty_writeup-5)
