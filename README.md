@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [IDOR — How I Leaked Data of 50k+ Users](https://medium.com/@YourFinalSin/idor-how-i-leaked-data-of-50k-users-bc44201e777a?source=rss------bug_bounty_writeup-5)
 - [What After Recon ? Part 01 Bug Bounty Methodology](https://omarora1603.medium.com/what-after-recon-part-01-bug-bounty-methodology-25ff3705a738?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [Day 6 of 30 Days — 30 Vulnerabilities | Sensitive Data Exposure](https://medium.com/@kumawatabhijeet2002/day-6-of-30-days-30-vulnerabilities-sensitive-data-exposure-1c855a5396f9?source=rss------bug_bounty_writeup-5)
@@ -934,7 +935,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [OSINT — using Whatsmyname.app](https://medium.com/thedeephub/2024-n00bz-ctf-pastebin-writeup-aaa8991187ed?source=rss------bug_bounty_writeup-5)
 - [How could privilege escalation vulnerability lead to full account takeover?](https://medium.com/@moxallam/how-could-privilege-escalation-vulnerability-lead-to-full-account-takeover-0d49d3d5fbee?source=rss------bug_bounty_writeup-5)
 - [Best youtube channels to learn bughunting and penetration testing](https://medium.com/@sangamahesh650/best-youtube-channels-to-learn-bughunting-and-penetration-testing-eea2e78a202a?source=rss------bug_bounty_writeup-5)
-- [Finding subdomains from google](https://medium.com/@sangamahesh650/finding-subdomains-from-google-7f370fe60ad1?source=rss------bug_bounty_writeup-5)
 - [IoT Cyber Security: Protecting Your Connected World](https://infosecwriteups.com/iot-cyber-security-protecting-your-connected-world-e2580793b209?source=rss----7b722bfd1b8d---4)
 - [Hacking Porn and Dating sites — a Theme Based Bugbounty Hunting](https://infosecwriteups.com/hacking-porn-and-dating-sites-a-theme-based-bugbounty-hunting-d024b8137bc7?source=rss----7b722bfd1b8d---4)
 - [Top Google Dorks Explained](https://infosecwriteups.com/top-google-dorks-explained-ee6cac1673da?source=rss----7b722bfd1b8d---4)
