@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Simple but Elegant DOM XSS on Hidden Parameter— Bypassing Filter](https://medium.com/@YourFinalSin/simple-but-elegant-dom-xss-on-hidden-parameter-bypassing-filter-ab58ca1e6135?source=rss------bug_bounty_writeup-5)
 - [Mr. Robot](https://infosecwriteups.com/mr-robot-387d9cf0afbe?source=rss----7b722bfd1b8d---4)
 - [From Fries to Flaws : My Journey into Web App Security &lpar;Part V&rpar;](https://infosecwriteups.com/from-fries-to-flaws-my-journey-into-web-app-security-part-v-f0ea86e55845?source=rss----7b722bfd1b8d---4)
 - [$800 Improper Authorization Flaw: Unauthorized Project Reclaiming Post Transfer](https://infosecwriteups.com/800-improper-authorization-flaw-unauthorized-project-reclaiming-post-transfer-15fe36976604?source=rss----7b722bfd1b8d---4)
@@ -12,7 +13,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Hacking OWASP Juice Shop: Part 5- Privilege Escalation via Manipulated User Registration](https://infosecwriteups.com/hacking-owasp-juice-shop-part-5-privilege-escalation-via-manipulated-user-registration-4b1c5227aa81?source=rss----7b722bfd1b8d---4)
 - [From Fries to Flaws : My Journey into Web App Security &lpar;Part III&rpar;](https://infosecwriteups.com/from-fries-to-flaws-my-journey-into-web-app-security-part-iii-ce91eb384da7?source=rss----7b722bfd1b8d---4)
 - [How I got my first $13500 bounty through Parameter Polluting &lpar;HPP&rpar;](https://infosecwriteups.com/how-i-got-my-first-13500-bounty-through-parameter-polluting-hpp-179666b8e8bb?source=rss------bug_bounty_writeup-5)
-- [IDOR — How I Leaked Data of 50k+ Users](https://medium.com/@YourFinalSin/idor-how-i-leaked-data-of-50k-users-bc44201e777a?source=rss------bug_bounty_writeup-5)
+- [IDOR — How I was able to access PII of 50k+ Users](https://medium.com/@YourFinalSin/idor-how-i-leaked-data-of-50k-users-bc44201e777a?source=rss------bug_bounty_writeup-5)
 - [What After Recon ? Part 01 Bug Bounty Methodology](https://omarora1603.medium.com/what-after-recon-part-01-bug-bounty-methodology-25ff3705a738?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [HTB Academy: Attacking Common Services — Hard Lab](https://medium.com/@mazalwebdesign/htb-academy-attacking-common-services-hard-lab-1652608c4dae?source=rss------bug_bounty_writeup-5)
@@ -23,7 +24,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Race Condition About The User Version and Ignored](https://r0b0ts.medium.com/race-condition-about-the-user-version-and-ignored-c98fec642d1b?source=rss------bug_bounty_writeup-5)
 - [My First Bug Bounty: CORS Misconfiguration](https://r0b0ts.medium.com/my-first-bug-bounty-cors-misconfiguration-3e6f38835c4e?source=rss------bug_bounty_writeup-5)
 - [Tips for Parents Working from Home from HackerOne Employees](https://www.hackerone.com/culture-and-talent/tips-parents-working-home-hackerone-employees)
-- [OSINT — using Whatsmyname.app](https://medium.com/thedeephub/2024-n00bz-ctf-pastebin-writeup-aaa8991187ed?source=rss------bug_bounty_writeup-5)
 - [Security Page Updates: Boosting Consistency &amp; Transparency for Security Researchers and Customers](https://www.hackerone.com/security-page-updates)
 - [Introducing HackerOne Gateway Internal Network Testing: Superior Security for Internal Networks](https://www.hackerone.com/penetration-testing/gateway-internal-network-testing)
 - [How a GraphQL Bug Resulted in Authentication Bypass](https://www.hackerone.com/vulnerability-management/graphql-authentication-bypass)
