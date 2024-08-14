@@ -1,7 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
-- [Simple but Elegant DOM XSS on Hidden Parameter— Bypassing Filter](https://medium.com/@YourFinalSin/simple-but-elegant-dom-xss-on-hidden-parameter-bypassing-filter-ab58ca1e6135?source=rss------bug_bounty_writeup-5)
+- [DOM XSS — Simple but Elegant on Hidden Parameter— Bypassing Filter](https://medium.com/@YourFinalSin/simple-but-elegant-dom-xss-on-hidden-parameter-bypassing-filter-ab58ca1e6135?source=rss------bug_bounty_writeup-5)
 - [Mr. Robot](https://infosecwriteups.com/mr-robot-387d9cf0afbe?source=rss----7b722bfd1b8d---4)
 - [From Fries to Flaws : My Journey into Web App Security &lpar;Part V&rpar;](https://infosecwriteups.com/from-fries-to-flaws-my-journey-into-web-app-security-part-v-f0ea86e55845?source=rss----7b722bfd1b8d---4)
 - [$800 Improper Authorization Flaw: Unauthorized Project Reclaiming Post Transfer](https://infosecwriteups.com/800-improper-authorization-flaw-unauthorized-project-reclaiming-post-transfer-15fe36976604?source=rss----7b722bfd1b8d---4)
