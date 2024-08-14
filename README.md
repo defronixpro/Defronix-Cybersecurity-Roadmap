@@ -922,7 +922,10 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [From Ice to Intrigue: How MegaMart’s Smart Fridges Unleashed a Cyber Espionage Crisis and What It…](https://infosecwriteups.com/from-ice-to-intrigue-how-megamarts-smart-fridges-unleashed-a-cyber-espionage-crisis-and-what-it-c014a3db5b11?source=rss----7b722bfd1b8d---4)
 - [DOM XSS — Simple but Elegant on Hidden Parameter— Bypassing Filter](https://medium.com/@YourFinalSin/simple-but-elegant-dom-xss-on-hidden-parameter-bypassing-filter-ab58ca1e6135?source=rss------bug_bounty_writeup-5)
+- [5 Questions to Assess Your Organization’s Bug Bounty Readiness](https://www.hackerone.com/vulnerability-management/bug-bounty-readiness-questions)
+- [Hack My Career: Meet Alek Relyea](https://www.hackerone.com/culture-and-talent/hack-my-career-meet-alek-relyea)
 - [Mr. Robot](https://infosecwriteups.com/mr-robot-387d9cf0afbe?source=rss----7b722bfd1b8d---4)
 - [From Fries to Flaws : My Journey into Web App Security &lpar;Part V&rpar;](https://infosecwriteups.com/from-fries-to-flaws-my-journey-into-web-app-security-part-v-f0ea86e55845?source=rss----7b722bfd1b8d---4)
 - [$800 Improper Authorization Flaw: Unauthorized Project Reclaiming Post Transfer](https://infosecwriteups.com/800-improper-authorization-flaw-unauthorized-project-reclaiming-post-transfer-15fe36976604?source=rss----7b722bfd1b8d---4)
@@ -932,11 +935,12 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Electron JS ASAR Integrity Bypass](https://infosecwriteups.com/electron-js-asar-integrity-bypass-431ac4269ed5?source=rss----7b722bfd1b8d---4)
 - [JSON Web Tand Their Vulnerabilities](https://infosecwriteups.com/json-web-tand-their-vulnerabilities-99aef74a32b6?source=rss----7b722bfd1b8d---4)
 - [Hacking OWASP Juice Shop: Part 5- Privilege Escalation via Manipulated User Registration](https://infosecwriteups.com/hacking-owasp-juice-shop-part-5-privilege-escalation-via-manipulated-user-registration-4b1c5227aa81?source=rss----7b722bfd1b8d---4)
-- [From Fries to Flaws : My Journey into Web App Security &lpar;Part III&rpar;](https://infosecwriteups.com/from-fries-to-flaws-my-journey-into-web-app-security-part-iii-ce91eb384da7?source=rss----7b722bfd1b8d---4)
 - [How I got my first $13500 bounty through Parameter Polluting &lpar;HPP&rpar;](https://infosecwriteups.com/how-i-got-my-first-13500-bounty-through-parameter-polluting-hpp-179666b8e8bb?source=rss------bug_bounty_writeup-5)
 - [IDOR — How I was able to access PII of 50k+ Users](https://medium.com/@YourFinalSin/idor-how-i-leaked-data-of-50k-users-bc44201e777a?source=rss------bug_bounty_writeup-5)
 - [What After Recon ? Part 01 Bug Bounty Methodology](https://omarora1603.medium.com/what-after-recon-part-01-bug-bounty-methodology-25ff3705a738?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
+- [How Hai’s Report Summarization Turns Complex Data Into Actionable Insights](https://www.hackerone.com/ai/hai-report-summarization)
+- [Anthropic Expands Their Model Safety Bug Bounty Program](https://www.hackerone.com/customer-stories/anthropic-expands-bug-bounty-program)
 - [HTB Academy: Attacking Common Services — Hard Lab](https://medium.com/@mazalwebdesign/htb-academy-attacking-common-services-hard-lab-1652608c4dae?source=rss------bug_bounty_writeup-5)
 - [Day 6 of 30 Days — 30 Vulnerabilities | Sensitive Data Exposure](https://medium.com/@kumawatabhijeet2002/day-6-of-30-days-30-vulnerabilities-sensitive-data-exposure-1c855a5396f9?source=rss------bug_bounty_writeup-5)
 - [Day 6 of 30 Days — 30 Vulnerabilities | Sensitive Data Exposure](https://it4chis3c.medium.com/day-6-of-30-days-30-vulnerabilities-sensitive-data-exposure-8001f758ac61?source=rss------bug_bounty_writeup-5)
@@ -968,10 +972,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Celebrating International Women in Engineering Day](https://www.hackerone.com/culture-and-talent/celebrating-international-women-engineering-day)
 - [Sales Development Representatives Win as a Team](https://www.hackerone.com/culture-and-talent/sdr-win-team)
 - [Community-driven PTaaS vs. Traditional Pentesting](https://www.hackerone.com/penetration-testing/ptaas-vs-traditional-pentest)
-- [What HackerOne Customers Can Tell You About Securing Organizational Buy-In for Ethical Hackers](https://www.hackerone.com/customer-stories/securing-organizational-buy-in)
-- [From Zero to Hero:  Your Guide to Building a Bug Bounty Program With HackerOne](https://www.hackerone.com/vulnerability-management/bug-bounty-program-guide)
-- [HackerOne Company Values Matter: Execute with Excellence](https://www.hackerone.com/culture-and-talent/hackerone-company-values-matter-execute-excellence)
-- [NIST CSF 2.0 and Pentesting: What You Need to Know](https://www.hackerone.com/security-compliance/nist-csf-pentesting)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
