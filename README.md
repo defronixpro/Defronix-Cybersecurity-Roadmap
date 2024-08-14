@@ -922,7 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [Simple but Elegant DOM XSS on Hidden Parameter— Bypassing Filter](https://medium.com/@YourFinalSin/simple-but-elegant-dom-xss-on-hidden-parameter-bypassing-filter-ab58ca1e6135?source=rss------bug_bounty_writeup-5)
+- [DOM XSS — Simple but Elegant on Hidden Parameter— Bypassing Filter](https://medium.com/@YourFinalSin/simple-but-elegant-dom-xss-on-hidden-parameter-bypassing-filter-ab58ca1e6135?source=rss------bug_bounty_writeup-5)
 - [Mr. Robot](https://infosecwriteups.com/mr-robot-387d9cf0afbe?source=rss----7b722bfd1b8d---4)
 - [From Fries to Flaws : My Journey into Web App Security &lpar;Part V&rpar;](https://infosecwriteups.com/from-fries-to-flaws-my-journey-into-web-app-security-part-v-f0ea86e55845?source=rss----7b722bfd1b8d---4)
 - [$800 Improper Authorization Flaw: Unauthorized Project Reclaiming Post Transfer](https://infosecwriteups.com/800-improper-authorization-flaw-unauthorized-project-reclaiming-post-transfer-15fe36976604?source=rss----7b722bfd1b8d---4)
