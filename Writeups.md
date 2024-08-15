@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Infosec Writeups Is Now In The Boost Nomination Pilot Program](https://infosecwriteups.com/infosec-writeups-is-now-in-the-boost-nomination-pilot-program-46d866639af8?source=rss----7b722bfd1b8d---4)
 - [From Ice to Intrigue: How MegaMart’s Smart Fridges Unleashed a Cyber Espionage Crisis and What It…](https://infosecwriteups.com/from-ice-to-intrigue-how-megamarts-smart-fridges-unleashed-a-cyber-espionage-crisis-and-what-it-c014a3db5b11?source=rss----7b722bfd1b8d---4)
 - [DOM XSS — Simple but Elegant on Hidden Parameter— Bypassing Filter](https://medium.com/@YourFinalSin/simple-but-elegant-dom-xss-on-hidden-parameter-bypassing-filter-ab58ca1e6135?source=rss------bug_bounty_writeup-5)
 - [5 Questions to Assess Your Organization’s Bug Bounty Readiness](https://www.hackerone.com/vulnerability-management/bug-bounty-readiness-questions)
@@ -13,7 +14,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Flutter Windows Thick Client SSL Pinning Bypass](https://infosecwriteups.com/flutter-windows-thick-client-ssl-pinning-bypass-492389ae1218?source=rss----7b722bfd1b8d---4)
 - [Electron JS ASAR Integrity Bypass](https://infosecwriteups.com/electron-js-asar-integrity-bypass-431ac4269ed5?source=rss----7b722bfd1b8d---4)
 - [JSON Web Tand Their Vulnerabilities](https://infosecwriteups.com/json-web-tand-their-vulnerabilities-99aef74a32b6?source=rss----7b722bfd1b8d---4)
-- [Hacking OWASP Juice Shop: Part 5- Privilege Escalation via Manipulated User Registration](https://infosecwriteups.com/hacking-owasp-juice-shop-part-5-privilege-escalation-via-manipulated-user-registration-4b1c5227aa81?source=rss----7b722bfd1b8d---4)
 - [How I got my first $13500 bounty through Parameter Polluting &lpar;HPP&rpar;](https://infosecwriteups.com/how-i-got-my-first-13500-bounty-through-parameter-polluting-hpp-179666b8e8bb?source=rss------bug_bounty_writeup-5)
 - [IDOR — How I was able to access PII of 50k+ Users](https://medium.com/@YourFinalSin/idor-how-i-leaked-data-of-50k-users-bc44201e777a?source=rss------bug_bounty_writeup-5)
 - [What After Recon ? Part 01 Bug Bounty Methodology](https://omarora1603.medium.com/what-after-recon-part-01-bug-bounty-methodology-25ff3705a738?source=rss------bug_bounty_writeup-5)
