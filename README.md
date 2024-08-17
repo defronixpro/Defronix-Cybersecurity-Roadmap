@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Sub-finder tool methodology](https://medium.com/@tharunteja725_8686/sub-finder-tool-methodology-1dcb2622b0d5?source=rss------bug_bounty_writeup-5)
 - [Forced SSO Session Fixation](https://infosecwriteups.com/forced-sso-session-fixation-5d3b457b79cb?source=rss----7b722bfd1b8d---4)
 - [Level Up Your Linux-Fu: Essential Linux Skills For Cybersecurity Newbies](https://infosecwriteups.com/level-up-your-linux-fu-essential-linux-skills-for-cybersecurity-newbies-7a4d92521ac0?source=rss----7b722bfd1b8d---4)
 - [Infosec Writeups Is Now In The Boost Nomination Pilot Program](https://infosecwriteups.com/infosec-writeups-is-now-in-the-boost-nomination-pilot-program-46d866639af8?source=rss----7b722bfd1b8d---4)
@@ -947,7 +948,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Easiest P3/P4 security misconfiguration to make $$ as a beginner.](https://medium.com/@sugamdangal52/easiest-p3-p4-security-misconfiguration-to-make-as-a-beginner-d4f019ad4b85?source=rss------bug_bounty_writeup-5)
 - [A Visual Guide to Bug Bounty Success](https://www.hackerone.com/application-security/visual-guide-bug-bounty-success)
 - [Race Condition About The User Version and Ignored](https://r0b0ts.medium.com/race-condition-about-the-user-version-and-ignored-c98fec642d1b?source=rss------bug_bounty_writeup-5)
-- [My First Bug Bounty: CORS Misconfiguration](https://r0b0ts.medium.com/my-first-bug-bounty-cors-misconfiguration-3e6f38835c4e?source=rss------bug_bounty_writeup-5)
 - [Tips for Parents Working from Home from HackerOne Employees](https://www.hackerone.com/culture-and-talent/tips-parents-working-home-hackerone-employees)
 - [Security Page Updates: Boosting Consistency &amp; Transparency for Security Researchers and Customers](https://www.hackerone.com/security-page-updates)
 - [Introducing HackerOne Gateway Internal Network Testing: Superior Security for Internal Networks](https://www.hackerone.com/penetration-testing/gateway-internal-network-testing)
