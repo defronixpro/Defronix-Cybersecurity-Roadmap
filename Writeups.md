@@ -1,6 +1,9 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How Automation Detected Default Admin Credential Worth $500](https://medium.com/@bilalresearcher/how-automation-detected-default-admin-credential-worth-500-9f2c3ed460c4?source=rss------bug_bounty_writeup-5)
+- [Accessing deleted comment for $$: A Bug Bounty Writeup](https://medium.com/@bilalresearcher/accessing-deleted-comment-for-a-bug-bounty-writeup-085e836660c1?source=rss------bug_bounty_writeup-5)
+- [PII Disclosure Worth $750](https://medium.com/@bilalresearcher/pii-disclosure-worth-750-1f9caeac484f?source=rss------bug_bounty_writeup-5)
 - [Sub-finder tool methodology](https://medium.com/@tharunteja725_8686/sub-finder-tool-methodology-1dcb2622b0d5?source=rss------bug_bounty_writeup-5)
 - [Forced SSO Session Fixation](https://infosecwriteups.com/forced-sso-session-fixation-5d3b457b79cb?source=rss----7b722bfd1b8d---4)
 - [Level Up Your Linux-Fu: Essential Linux Skills For Cybersecurity Newbies](https://infosecwriteups.com/level-up-your-linux-fu-essential-linux-skills-for-cybersecurity-newbies-7a4d92521ac0?source=rss----7b722bfd1b8d---4)
@@ -23,10 +26,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Anthropic Expands Their Model Safety Bug Bounty Program](https://www.hackerone.com/customer-stories/anthropic-expands-bug-bounty-program)
 - [HTB Academy: Attacking Common Services — Hard Lab](https://medium.com/@mazalwebdesign/htb-academy-attacking-common-services-hard-lab-1652608c4dae?source=rss------bug_bounty_writeup-5)
 - [Day 6 of 30 Days — 30 Vulnerabilities | Sensitive Data Exposure](https://medium.com/@kumawatabhijeet2002/day-6-of-30-days-30-vulnerabilities-sensitive-data-exposure-1c855a5396f9?source=rss------bug_bounty_writeup-5)
-- [Day 6 of 30 Days — 30 Vulnerabilities | Sensitive Data Exposure](https://it4chis3c.medium.com/day-6-of-30-days-30-vulnerabilities-sensitive-data-exposure-8001f758ac61?source=rss------bug_bounty_writeup-5)
-- [Easiest P3/P4 security misconfiguration to make $$ as a beginner.](https://medium.com/@sugamdangal52/easiest-p3-p4-security-misconfiguration-to-make-as-a-beginner-d4f019ad4b85?source=rss------bug_bounty_writeup-5)
 - [A Visual Guide to Bug Bounty Success](https://www.hackerone.com/application-security/visual-guide-bug-bounty-success)
-- [Race Condition About The User Version and Ignored](https://r0b0ts.medium.com/race-condition-about-the-user-version-and-ignored-c98fec642d1b?source=rss------bug_bounty_writeup-5)
 - [Tips for Parents Working from Home from HackerOne Employees](https://www.hackerone.com/culture-and-talent/tips-parents-working-home-hackerone-employees)
 - [Security Page Updates: Boosting Consistency &amp; Transparency for Security Researchers and Customers](https://www.hackerone.com/security-page-updates)
 - [Introducing HackerOne Gateway Internal Network Testing: Superior Security for Internal Networks](https://www.hackerone.com/penetration-testing/gateway-internal-network-testing)
