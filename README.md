@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Best Directory Brute-forcing Tools for Beginner Bug Hunters](https://medium.com/@josuofficial327/best-directory-brute-forcing-tools-for-beginner-bug-hunters-3388dd97c055?source=rss------bug_bounty_writeup-5)
 - [How Automation Detected Default Admin Credential Worth $500](https://medium.com/@bilalresearcher/how-automation-detected-default-admin-credential-worth-500-9f2c3ed460c4?source=rss------bug_bounty_writeup-5)
 - [Accessing deleted comment for $$: A Bug Bounty Writeup](https://medium.com/@bilalresearcher/accessing-deleted-comment-for-a-bug-bounty-writeup-085e836660c1?source=rss------bug_bounty_writeup-5)
 - [PII Disclosure Worth $750](https://medium.com/@bilalresearcher/pii-disclosure-worth-750-1f9caeac484f?source=rss------bug_bounty_writeup-5)
@@ -946,7 +947,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How Hai’s Report Summarization Turns Complex Data Into Actionable Insights](https://www.hackerone.com/ai/hai-report-summarization)
 - [Anthropic Expands Their Model Safety Bug Bounty Program](https://www.hackerone.com/customer-stories/anthropic-expands-bug-bounty-program)
 - [HTB Academy: Attacking Common Services — Hard Lab](https://medium.com/@mazalwebdesign/htb-academy-attacking-common-services-hard-lab-1652608c4dae?source=rss------bug_bounty_writeup-5)
-- [Day 6 of 30 Days — 30 Vulnerabilities | Sensitive Data Exposure](https://medium.com/@kumawatabhijeet2002/day-6-of-30-days-30-vulnerabilities-sensitive-data-exposure-1c855a5396f9?source=rss------bug_bounty_writeup-5)
 - [A Visual Guide to Bug Bounty Success](https://www.hackerone.com/application-security/visual-guide-bug-bounty-success)
 - [Tips for Parents Working from Home from HackerOne Employees](https://www.hackerone.com/culture-and-talent/tips-parents-working-home-hackerone-employees)
 - [Security Page Updates: Boosting Consistency &amp; Transparency for Security Researchers and Customers](https://www.hackerone.com/security-page-updates)
