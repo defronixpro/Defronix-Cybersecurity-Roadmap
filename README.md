@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How Quantum Computing Will Impact Your Cybersecurity Career](https://infosecwriteups.com/how-quantum-computing-will-impact-your-cybersecurity-career-452c2f4e084d?source=rss----7b722bfd1b8d---4)
+- [The Unlikely Cyberattack via Smart Coffee Machines](https://infosecwriteups.com/the-unlikely-cyberattack-via-smart-coffee-machines-6993bb50a01e?source=rss----7b722bfd1b8d---4)
 - [Best Directory Brute-forcing Tools for Beginner Bug Hunters](https://medium.com/@josuofficial327/best-directory-brute-forcing-tools-for-beginner-bug-hunters-3388dd97c055?source=rss------bug_bounty_writeup-5)
 - [How Automation Detected Default Admin Credential Worth $500](https://medium.com/@bilalresearcher/how-automation-detected-default-admin-credential-worth-500-9f2c3ed460c4?source=rss------bug_bounty_writeup-5)
 - [Accessing deleted comment for $$: A Bug Bounty Writeup](https://medium.com/@bilalresearcher/accessing-deleted-comment-for-a-bug-bounty-writeup-085e836660c1?source=rss------bug_bounty_writeup-5)
@@ -938,8 +940,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [From Fries to Flaws : My Journey into Web App Security &lpar;Part V&rpar;](https://infosecwriteups.com/from-fries-to-flaws-my-journey-into-web-app-security-part-v-f0ea86e55845?source=rss----7b722bfd1b8d---4)
 - [$800 Improper Authorization Flaw: Unauthorized Project Reclaiming Post Transfer](https://infosecwriteups.com/800-improper-authorization-flaw-unauthorized-project-reclaiming-post-transfer-15fe36976604?source=rss----7b722bfd1b8d---4)
 - [From Fries to Flaws : My Journey into Web App Security &lpar;Part IV&rpar;](https://infosecwriteups.com/from-fries-to-flaws-my-journey-into-web-app-security-part-iv-956c3fcbec68?source=rss----7b722bfd1b8d---4)
-- [Windows Event IDs That Every Cybersecurity Analyst MUST Know](https://infosecwriteups.com/windows-event-ids-that-every-cybersecurity-analyst-must-know-83f863484174?source=rss----7b722bfd1b8d---4)
-- [Flutter Windows Thick Client SSL Pinning Bypass](https://infosecwriteups.com/flutter-windows-thick-client-ssl-pinning-bypass-492389ae1218?source=rss----7b722bfd1b8d---4)
 - [How I got my first $13500 bounty through Parameter Polluting &lpar;HPP&rpar;](https://infosecwriteups.com/how-i-got-my-first-13500-bounty-through-parameter-polluting-hpp-179666b8e8bb?source=rss------bug_bounty_writeup-5)
 - [IDOR — How I was able to access PII of 50k+ Users](https://medium.com/@YourFinalSin/idor-how-i-leaked-data-of-50k-users-bc44201e777a?source=rss------bug_bounty_writeup-5)
 - [What After Recon ? Part 01 Bug Bounty Methodology](https://omarora1603.medium.com/what-after-recon-part-01-bug-bounty-methodology-25ff3705a738?source=rss------bug_bounty_writeup-5)
