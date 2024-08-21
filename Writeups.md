@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Day 16 of 30 Days — 30 Vulnerabilities | Subdomain Takeover](https://it4chis3c.medium.com/day-16-of-30-days-30-vulnerabilities-subdomain-takeover-562e7bcda91e?source=rss------bug_bounty_writeup-5)
 - [How Quantum Computing Will Impact Your Cybersecurity Career](https://infosecwriteups.com/how-quantum-computing-will-impact-your-cybersecurity-career-452c2f4e084d?source=rss----7b722bfd1b8d---4)
 - [The Unlikely Cyberattack via Smart Coffee Machines](https://infosecwriteups.com/the-unlikely-cyberattack-via-smart-coffee-machines-6993bb50a01e?source=rss----7b722bfd1b8d---4)
 - [Best Directory Brute-forcing Tools for Beginner Bug Hunters](https://medium.com/@josuofficial327/best-directory-brute-forcing-tools-for-beginner-bug-hunters-3388dd97c055?source=rss------bug_bounty_writeup-5)
@@ -27,7 +28,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How Hai’s Report Summarization Turns Complex Data Into Actionable Insights](https://www.hackerone.com/ai/hai-report-summarization)
 - [Anthropic Expands Their Model Safety Bug Bounty Program](https://www.hackerone.com/customer-stories/anthropic-expands-bug-bounty-program)
-- [HTB Academy: Attacking Common Services — Hard Lab](https://medium.com/@mazalwebdesign/htb-academy-attacking-common-services-hard-lab-1652608c4dae?source=rss------bug_bounty_writeup-5)
 - [A Visual Guide to Bug Bounty Success](https://www.hackerone.com/application-security/visual-guide-bug-bounty-success)
 - [Tips for Parents Working from Home from HackerOne Employees](https://www.hackerone.com/culture-and-talent/tips-parents-working-home-hackerone-employees)
 - [Security Page Updates: Boosting Consistency &amp; Transparency for Security Researchers and Customers](https://www.hackerone.com/security-page-updates)
