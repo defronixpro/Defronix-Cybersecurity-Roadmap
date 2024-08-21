@@ -1,6 +1,8 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [[Account Take Over] through reset password token leaked in response, 2500 € Reward](https://medium.com/@bilalresearcher/account-take-over-through-reset-password-token-leaked-in-response-2500-reward-97cc22d0b65d?source=rss------bug_bounty_writeup-5)
+- [Discovering a $5000 RCE via Dependency Confusion Vulnerability](https://medium.com/@bilalresearcher/discovering-a-5000-rce-via-dependency-confusion-vulnerability-9a1cd88ddb0c?source=rss------bug_bounty_writeup-5)
 - [A Simple 2FA Bypass](https://medium.com/@bilalresearcher/a-simple-2fa-bypass-368a2861c6df?source=rss------bug_bounty_writeup-5)
 - [Account Takeover using IDOR in Password reset Functionality](https://medium.com/@bilalresearcher/account-takeover-using-idor-in-password-reset-functionality-b736a85f4f02?source=rss------bug_bounty_writeup-5)
 - [How I got my first $13500 bounty through Parameter Polluting &lpar;HPP&rpar;](https://medium.com/@bilalresearcher/how-i-got-my-first-13500-bounty-through-parameter-polluting-hpp-237bd8cdfeff?source=rss------bug_bounty_writeup-5)
@@ -11,14 +13,12 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How Automation Detected Default Admin Credential Worth $500](https://medium.com/@bilalresearcher/how-automation-detected-default-admin-credential-worth-500-9f2c3ed460c4?source=rss------bug_bounty_writeup-5)
 - [Accessing deleted comment for $$: A Bug Bounty Writeup](https://medium.com/@bilalresearcher/accessing-deleted-comment-for-a-bug-bounty-writeup-085e836660c1?source=rss------bug_bounty_writeup-5)
 - [PII Disclosure Worth $750](https://medium.com/@bilalresearcher/pii-disclosure-worth-750-1f9caeac484f?source=rss------bug_bounty_writeup-5)
-- [Sub-finder tool methodology](https://medium.com/@tharunteja725_8686/sub-finder-tool-methodology-1dcb2622b0d5?source=rss------bug_bounty_writeup-5)
 - [Hack My Career: Meet Bertijn Eldering](https://www.hackerone.com/culture-and-talent/hack-my-career-meet-bertijn-eldering)
 - [Forced SSO Session Fixation](https://infosecwriteups.com/forced-sso-session-fixation-5d3b457b79cb?source=rss----7b722bfd1b8d---4)
 - [Takeaways from the Dismissal of the Government’s Case Against the SolarWinds CISO](https://www.hackerone.com/public-policy/solarwinds-case-dismissal)
 - [Level Up Your Linux-Fu: Essential Linux Skills For Cybersecurity Newbies](https://infosecwriteups.com/level-up-your-linux-fu-essential-linux-skills-for-cybersecurity-newbies-7a4d92521ac0?source=rss----7b722bfd1b8d---4)
 - [Infosec Writeups Is Now In The Boost Nomination Pilot Program](https://infosecwriteups.com/infosec-writeups-is-now-in-the-boost-nomination-pilot-program-46d866639af8?source=rss----7b722bfd1b8d---4)
 - [From Ice to Intrigue: How MegaMart’s Smart Fridges Unleashed a Cyber Espionage Crisis and What It…](https://infosecwriteups.com/from-ice-to-intrigue-how-megamarts-smart-fridges-unleashed-a-cyber-espionage-crisis-and-what-it-c014a3db5b11?source=rss----7b722bfd1b8d---4)
-- [DOM XSS — Simple but Elegant on Hidden Parameter— Bypassing Filter](https://medium.com/@YourFinalSin/simple-but-elegant-dom-xss-on-hidden-parameter-bypassing-filter-ab58ca1e6135?source=rss------bug_bounty_writeup-5)
 - [5 Questions to Assess Your Organization’s Bug Bounty Readiness](https://www.hackerone.com/vulnerability-management/bug-bounty-readiness-questions)
 - [Hack My Career: Meet Alek Relyea](https://www.hackerone.com/culture-and-talent/hack-my-career-meet-alek-relyea)
 - [Mr. Robot](https://infosecwriteups.com/mr-robot-387d9cf0afbe?source=rss----7b722bfd1b8d---4)
