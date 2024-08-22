@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Exposing Source Code via SVN: A $400 Discovery](https://infosecwriteups.com/exposing-source-code-via-svn-a-400-discovery-9fc54b3f3f31?source=rss----7b722bfd1b8d---4)
+- [Discover Your Target’s OS with Just a Ping Command](https://infosecwriteups.com/discover-your-targets-os-with-just-a-ping-command-e742b189462c?source=rss----7b722bfd1b8d---4)
 - [Authorization bypass due to cache misconfiguration](https://medium.com/@bilalresearcher/authorization-bypass-due-to-cache-misconfiguration-7407aa1c6374?source=rss------bug_bounty_writeup-5)
 - [Authorization bypass due to cache misconfiguration](https://rikeshbaniya.medium.com/authorization-bypass-due-to-cache-misconfiguration-fde8b2332d2d?source=rss------bug_bounty_writeup-5)
 - [Forging a Path to Account Takeover: Copy Password Reset Link Vulnerability worth $$$$.](https://medium.com/@bilalresearcher/forging-a-path-to-account-takeover-copy-password-reset-link-vulnerability-worth-3135c3df60d6?source=rss------bug_bounty_writeup-5)
@@ -944,8 +946,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Hack My Career: Meet Alek Relyea](https://www.hackerone.com/culture-and-talent/hack-my-career-meet-alek-relyea)
 - [Mr. Robot](https://infosecwriteups.com/mr-robot-387d9cf0afbe?source=rss----7b722bfd1b8d---4)
 - [From Fries to Flaws : My Journey into Web App Security &lpar;Part V&rpar;](https://infosecwriteups.com/from-fries-to-flaws-my-journey-into-web-app-security-part-v-f0ea86e55845?source=rss----7b722bfd1b8d---4)
-- [$800 Improper Authorization Flaw: Unauthorized Project Reclaiming Post Transfer](https://infosecwriteups.com/800-improper-authorization-flaw-unauthorized-project-reclaiming-post-transfer-15fe36976604?source=rss----7b722bfd1b8d---4)
-- [From Fries to Flaws : My Journey into Web App Security &lpar;Part IV&rpar;](https://infosecwriteups.com/from-fries-to-flaws-my-journey-into-web-app-security-part-iv-956c3fcbec68?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How Hai’s Report Summarization Turns Complex Data Into Actionable Insights](https://www.hackerone.com/ai/hai-report-summarization)
 - [Anthropic Expands Their Model Safety Bug Bounty Program](https://www.hackerone.com/customer-stories/anthropic-expands-bug-bounty-program)
