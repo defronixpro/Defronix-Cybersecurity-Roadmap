@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Authorization bypass due to cache misconfiguration](https://medium.com/@bilalresearcher/authorization-bypass-due-to-cache-misconfiguration-7407aa1c6374?source=rss------bug_bounty_writeup-5)
 - [Authorization bypass due to cache misconfiguration](https://rikeshbaniya.medium.com/authorization-bypass-due-to-cache-misconfiguration-fde8b2332d2d?source=rss------bug_bounty_writeup-5)
 - [Forging a Path to Account Takeover: Copy Password Reset Link Vulnerability worth $$$$.](https://medium.com/@bilalresearcher/forging-a-path-to-account-takeover-copy-password-reset-link-vulnerability-worth-3135c3df60d6?source=rss------bug_bounty_writeup-5)
 - [[Account Take Over] through reset password token leaked in response, 2500 € Reward](https://medium.com/@bilalresearcher/account-take-over-through-reset-password-token-leaked-in-response-2500-reward-97cc22d0b65d?source=rss------bug_bounty_writeup-5)
@@ -12,7 +13,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How Quantum Computing Will Impact Your Cybersecurity Career](https://infosecwriteups.com/how-quantum-computing-will-impact-your-cybersecurity-career-452c2f4e084d?source=rss----7b722bfd1b8d---4)
 - [The Unlikely Cyberattack via Smart Coffee Machines](https://infosecwriteups.com/the-unlikely-cyberattack-via-smart-coffee-machines-6993bb50a01e?source=rss----7b722bfd1b8d---4)
 - [Best Directory Brute-forcing Tools for Beginner Bug Hunters](https://medium.com/@josuofficial327/best-directory-brute-forcing-tools-for-beginner-bug-hunters-3388dd97c055?source=rss------bug_bounty_writeup-5)
-- [How Automation Detected Default Admin Credential Worth $500](https://medium.com/@bilalresearcher/how-automation-detected-default-admin-credential-worth-500-9f2c3ed460c4?source=rss------bug_bounty_writeup-5)
 - [Hack My Career: Meet Bertijn Eldering](https://www.hackerone.com/culture-and-talent/hack-my-career-meet-bertijn-eldering)
 - [Forced SSO Session Fixation](https://infosecwriteups.com/forced-sso-session-fixation-5d3b457b79cb?source=rss----7b722bfd1b8d---4)
 - [Takeaways from the Dismissal of the Government’s Case Against the SolarWinds CISO](https://www.hackerone.com/public-policy/solarwinds-case-dismissal)
