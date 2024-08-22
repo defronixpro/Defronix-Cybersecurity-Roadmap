@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Instagram and Meta 2FA Bypass by Unprotected Backup Code Retrieval in Accounts Center](https://medium.com/@scriptshuva/instagram-and-meta-2fa-bypass-by-unprotected-backup-code-retrieval-in-accounts-center-c735ff650f10?source=rss------bug_bounty_writeup-5)
 - [The Power of Multi-Factor Authentication: Securing Your Digital World](https://infosecwriteups.com/the-power-of-multi-factor-authentication-securing-your-digital-world-45a8c6ac40ef?source=rss----7b722bfd1b8d---4)
 - [AS-REP Roasting: The Consequence of Disabling Kerberos Preauthentication](https://infosecwriteups.com/as-rep-roasting-the-consequence-of-disabling-kerberos-preauthentication-9237ff7e8896?source=rss----7b722bfd1b8d---4)
 - [Microsoft Sentinel- Custom Data Connector for Azure VMware Solution &lpar;AVS&rpar;](https://infosecwriteups.com/microsoft-sentinel-custom-data-connector-for-azure-vmware-solution-avs-c7a4484cd269?source=rss----7b722bfd1b8d---4)
@@ -939,7 +940,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Day 16 of 30 Days — 30 Vulnerabilities | Subdomain Takeover](https://it4chis3c.medium.com/day-16-of-30-days-30-vulnerabilities-subdomain-takeover-562e7bcda91e?source=rss------bug_bounty_writeup-5)
 - [How Quantum Computing Will Impact Your Cybersecurity Career](https://infosecwriteups.com/how-quantum-computing-will-impact-your-cybersecurity-career-452c2f4e084d?source=rss----7b722bfd1b8d---4)
 - [The Unlikely Cyberattack via Smart Coffee Machines](https://infosecwriteups.com/the-unlikely-cyberattack-via-smart-coffee-machines-6993bb50a01e?source=rss----7b722bfd1b8d---4)
-- [Best Directory Brute-forcing Tools for Beginner Bug Hunters](https://medium.com/@josuofficial327/best-directory-brute-forcing-tools-for-beginner-bug-hunters-3388dd97c055?source=rss------bug_bounty_writeup-5)
 - [Hack My Career: Meet Bertijn Eldering](https://www.hackerone.com/culture-and-talent/hack-my-career-meet-bertijn-eldering)
 - [Forced SSO Session Fixation](https://infosecwriteups.com/forced-sso-session-fixation-5d3b457b79cb?source=rss----7b722bfd1b8d---4)
 - [Takeaways from the Dismissal of the Government’s Case Against the SolarWinds CISO](https://www.hackerone.com/public-policy/solarwinds-case-dismissal)
