@@ -1,6 +1,12 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [The Power of Multi-Factor Authentication: Securing Your Digital World](https://infosecwriteups.com/the-power-of-multi-factor-authentication-securing-your-digital-world-45a8c6ac40ef?source=rss----7b722bfd1b8d---4)
+- [AS-REP Roasting: The Consequence of Disabling Kerberos Preauthentication](https://infosecwriteups.com/as-rep-roasting-the-consequence-of-disabling-kerberos-preauthentication-9237ff7e8896?source=rss----7b722bfd1b8d---4)
+- [Microsoft Sentinel- Custom Data Connector for Azure VMware Solution &lpar;AVS&rpar;](https://infosecwriteups.com/microsoft-sentinel-custom-data-connector-for-azure-vmware-solution-avs-c7a4484cd269?source=rss----7b722bfd1b8d---4)
+- [CVE-2018–7600: When Drupalgeddon Strikes](https://infosecwriteups.com/cve-2018-7600-when-drupalgeddon-strikes-b2b5acc071f6?source=rss----7b722bfd1b8d---4)
+- [Exposing Source Code via SVN: A $400 Discovery](https://infosecwriteups.com/exposing-source-code-via-svn-a-400-discovery-9fc54b3f3f31?source=rss----7b722bfd1b8d---4)
+- [Discover Your Target’s OS with Just a Ping Command](https://infosecwriteups.com/discover-your-targets-os-with-just-a-ping-command-e742b189462c?source=rss----7b722bfd1b8d---4)
 - [Authorization bypass due to cache misconfiguration](https://medium.com/@bilalresearcher/authorization-bypass-due-to-cache-misconfiguration-7407aa1c6374?source=rss------bug_bounty_writeup-5)
 - [Authorization bypass due to cache misconfiguration](https://rikeshbaniya.medium.com/authorization-bypass-due-to-cache-misconfiguration-fde8b2332d2d?source=rss------bug_bounty_writeup-5)
 - [Forging a Path to Account Takeover: Copy Password Reset Link Vulnerability worth $$$$.](https://medium.com/@bilalresearcher/forging-a-path-to-account-takeover-copy-password-reset-link-vulnerability-worth-3135c3df60d6?source=rss------bug_bounty_writeup-5)
@@ -17,14 +23,8 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Forced SSO Session Fixation](https://infosecwriteups.com/forced-sso-session-fixation-5d3b457b79cb?source=rss----7b722bfd1b8d---4)
 - [Takeaways from the Dismissal of the Government’s Case Against the SolarWinds CISO](https://www.hackerone.com/public-policy/solarwinds-case-dismissal)
 - [Level Up Your Linux-Fu: Essential Linux Skills For Cybersecurity Newbies](https://infosecwriteups.com/level-up-your-linux-fu-essential-linux-skills-for-cybersecurity-newbies-7a4d92521ac0?source=rss----7b722bfd1b8d---4)
-- [Infosec Writeups Is Now In The Boost Nomination Pilot Program](https://infosecwriteups.com/infosec-writeups-is-now-in-the-boost-nomination-pilot-program-46d866639af8?source=rss----7b722bfd1b8d---4)
-- [From Ice to Intrigue: How MegaMart’s Smart Fridges Unleashed a Cyber Espionage Crisis and What It…](https://infosecwriteups.com/from-ice-to-intrigue-how-megamarts-smart-fridges-unleashed-a-cyber-espionage-crisis-and-what-it-c014a3db5b11?source=rss----7b722bfd1b8d---4)
 - [5 Questions to Assess Your Organization’s Bug Bounty Readiness](https://www.hackerone.com/vulnerability-management/bug-bounty-readiness-questions)
 - [Hack My Career: Meet Alek Relyea](https://www.hackerone.com/culture-and-talent/hack-my-career-meet-alek-relyea)
-- [Mr. Robot](https://infosecwriteups.com/mr-robot-387d9cf0afbe?source=rss----7b722bfd1b8d---4)
-- [From Fries to Flaws : My Journey into Web App Security &lpar;Part V&rpar;](https://infosecwriteups.com/from-fries-to-flaws-my-journey-into-web-app-security-part-v-f0ea86e55845?source=rss----7b722bfd1b8d---4)
-- [$800 Improper Authorization Flaw: Unauthorized Project Reclaiming Post Transfer](https://infosecwriteups.com/800-improper-authorization-flaw-unauthorized-project-reclaiming-post-transfer-15fe36976604?source=rss----7b722bfd1b8d---4)
-- [From Fries to Flaws : My Journey into Web App Security &lpar;Part IV&rpar;](https://infosecwriteups.com/from-fries-to-flaws-my-journey-into-web-app-security-part-iv-956c3fcbec68?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How Hai’s Report Summarization Turns Complex Data Into Actionable Insights](https://www.hackerone.com/ai/hai-report-summarization)
 - [Anthropic Expands Their Model Safety Bug Bounty Program](https://www.hackerone.com/customer-stories/anthropic-expands-bug-bounty-program)
