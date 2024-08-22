@@ -5,7 +5,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [AS-REP Roasting: The Consequence of Disabling Kerberos Preauthentication](https://infosecwriteups.com/as-rep-roasting-the-consequence-of-disabling-kerberos-preauthentication-9237ff7e8896?source=rss----7b722bfd1b8d---4)
 - [Microsoft Sentinel- Custom Data Connector for Azure VMware Solution &lpar;AVS&rpar;](https://infosecwriteups.com/microsoft-sentinel-custom-data-connector-for-azure-vmware-solution-avs-c7a4484cd269?source=rss----7b722bfd1b8d---4)
 - [CVE-2018–7600: When Drupalgeddon Strikes](https://infosecwriteups.com/cve-2018-7600-when-drupalgeddon-strikes-b2b5acc071f6?source=rss----7b722bfd1b8d---4)
-- [Exposing Source Code via SVN: A $400 Discovery](https://infosecwriteups.com/exposing-source-code-via-svn-a-400-discovery-9fc54b3f3f31?source=rss----7b722bfd1b8d---4)
+- [Exposing Database Creds via SVN: A $400 Discovery](https://infosecwriteups.com/exposing-source-code-via-svn-a-400-discovery-9fc54b3f3f31?source=rss----7b722bfd1b8d---4)
 - [Discover Your Target’s OS with Just a Ping Command](https://infosecwriteups.com/discover-your-targets-os-with-just-a-ping-command-e742b189462c?source=rss----7b722bfd1b8d---4)
 - [Authorization bypass due to cache misconfiguration](https://medium.com/@bilalresearcher/authorization-bypass-due-to-cache-misconfiguration-7407aa1c6374?source=rss------bug_bounty_writeup-5)
 - [Authorization bypass due to cache misconfiguration](https://rikeshbaniya.medium.com/authorization-bypass-due-to-cache-misconfiguration-fde8b2332d2d?source=rss------bug_bounty_writeup-5)
