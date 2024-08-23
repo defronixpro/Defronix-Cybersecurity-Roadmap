@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Hidden in Plain Sight: Uncovering RCE on a Forgotten Axis2 Instance](https://medium.com/@domenicoveneziano/hidden-in-plain-sight-uncovering-rce-on-a-forgotten-axis2-instance-86ddc91f1415?source=rss------bug_bounty_writeup-5)
 - [All in One TryHackMe Write-up](https://infosecwriteups.com/all-in-one-tryhackme-write-up-303eaa2caa8?source=rss----7b722bfd1b8d---4)
 - [Cracking Windows 10 hashes](https://infosecwriteups.com/cracking-windows-10-hashes-59c8a7fc775f?source=rss----7b722bfd1b8d---4)
 - [Bounty Hacker Write-up, TryHackMe](https://infosecwriteups.com/bounty-hacker-write-up-tryhackme-4afca1389f5a?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [A Simple 2FA Bypass](https://medium.com/@bilalresearcher/a-simple-2fa-bypass-368a2861c6df?source=rss------bug_bounty_writeup-5)
 - [Account Takeover using IDOR in Password reset Functionality](https://medium.com/@bilalresearcher/account-takeover-using-idor-in-password-reset-functionality-b736a85f4f02?source=rss------bug_bounty_writeup-5)
 - [How I got my first $13500 bounty through Parameter Polluting &lpar;HPP&rpar;](https://medium.com/@bilalresearcher/how-i-got-my-first-13500-bounty-through-parameter-polluting-hpp-237bd8cdfeff?source=rss------bug_bounty_writeup-5)
-- [Day 16 of 30 Days — 30 Vulnerabilities | Subdomain Takeover](https://it4chis3c.medium.com/day-16-of-30-days-30-vulnerabilities-subdomain-takeover-562e7bcda91e?source=rss------bug_bounty_writeup-5)
 - [Hack My Career: Meet Bertijn Eldering](https://www.hackerone.com/culture-and-talent/hack-my-career-meet-bertijn-eldering)
 - [Takeaways from the Dismissal of the Government’s Case Against the SolarWinds CISO](https://www.hackerone.com/public-policy/solarwinds-case-dismissal)
 - [5 Questions to Assess Your Organization’s Bug Bounty Readiness](https://www.hackerone.com/vulnerability-management/bug-bounty-readiness-questions)
