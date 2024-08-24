@@ -1,6 +1,8 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Chain of Rate Limit Bypass and Weak Token Expiry Leads To Account Take Over](https://medium.com/@bilalresearcher/chain-of-rate-limit-bypass-and-weak-token-expiry-leads-to-account-take-over-0cf794fef31c?source=rss------bug_bounty_writeup-5)
+- [CSRF Bypass Combined with IDOR To Complete Account Takeover!](https://medium.com/@bilalresearcher/csrf-bypass-combined-with-idor-to-complete-account-takeover-588b34b9cf60?source=rss------bug_bounty_writeup-5)
 - [User information disclosure via message reactions](https://medium.com/@bilalresearcher/user-information-disclosure-via-message-reactions-affc72cfd8de?source=rss------bug_bounty_writeup-5)
 - [IDOR Lead to Data Leak](https://medium.com/@bilalresearcher/idor-lead-to-data-leak-6943ade0a3d6?source=rss------bug_bounty_writeup-5)
 - [XSS &amp; IDOR &amp; CSRF to ATO](https://medium.com/@bilalresearcher/xss-idor-csrf-to-ato-0e898876789d?source=rss------bug_bounty_writeup-5)
@@ -9,8 +11,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Discovering a Session Persistence Vulnerability That Led to a $$$$ Bounty](https://medium.com/@bilalresearcher/discovering-a-session-persistence-vulnerability-that-led-to-a-bounty-bbf3dd526f01?source=rss------bug_bounty_writeup-5)
 - [Bypassing methods that I used to find CSRF vulnerabilities](https://medium.com/@bilalresearcher/bypassing-methods-that-i-used-to-find-csrf-vulnerabilities-0709cc8a3c4d?source=rss------bug_bounty_writeup-5)
 - [Mobile Pentesting: A Walkthrough of the First  10 Challenges on Injured Android App-Part1](https://medium.com/@mly57003/mobile-pentesting-a-walkthrough-of-the-first-10-challenges-on-injured-android-app-part1-0e85c600494f?source=rss------bug_bounty_writeup-5)
-- [One-click Account Take Over](https://medium.com/@bilalresearcher/one-click-account-take-over-50e4128c990d?source=rss------bug_bounty_writeup-5)
-- [0-click Full Account Takeover](https://medium.com/@bilalresearcher/0-click-full-account-takeover-0ddc951e14ae?source=rss------bug_bounty_writeup-5)
 - [All in One TryHackMe Write-up](https://infosecwriteups.com/all-in-one-tryhackme-write-up-303eaa2caa8?source=rss----7b722bfd1b8d---4)
 - [Cracking Windows 10 hashes](https://infosecwriteups.com/cracking-windows-10-hashes-59c8a7fc775f?source=rss----7b722bfd1b8d---4)
 - [Bounty Hacker Write-up, TryHackMe](https://infosecwriteups.com/bounty-hacker-write-up-tryhackme-4afca1389f5a?source=rss----7b722bfd1b8d---4)
