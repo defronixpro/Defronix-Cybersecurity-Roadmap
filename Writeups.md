@@ -1,16 +1,16 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [User information disclosure via message reactions](https://medium.com/@bilalresearcher/user-information-disclosure-via-message-reactions-affc72cfd8de?source=rss------bug_bounty_writeup-5)
+- [IDOR Lead to Data Leak](https://medium.com/@bilalresearcher/idor-lead-to-data-leak-6943ade0a3d6?source=rss------bug_bounty_writeup-5)
+- [XSS &amp; IDOR &amp; CSRF to ATO](https://medium.com/@bilalresearcher/xss-idor-csrf-to-ato-0e898876789d?source=rss------bug_bounty_writeup-5)
+- [How I Turned a Rate-Limit Bypass into an Account Takeover](https://medium.com/@bilalresearcher/how-i-turned-a-rate-limit-bypass-into-an-account-takeover-5a50b0f4dc6a?source=rss------bug_bounty_writeup-5)
+- [$$$ Bypassing SSRF Restrictions on a Google Product: A Journey Through DNS Rebinding](https://medium.com/@bilalresearcher/bypassing-ssrf-restrictions-on-a-google-product-a-journey-through-dns-rebinding-caaf00ebe479?source=rss------bug_bounty_writeup-5)
+- [Discovering a Session Persistence Vulnerability That Led to a $$$$ Bounty](https://medium.com/@bilalresearcher/discovering-a-session-persistence-vulnerability-that-led-to-a-bounty-bbf3dd526f01?source=rss------bug_bounty_writeup-5)
 - [Bypassing methods that I used to find CSRF vulnerabilities](https://medium.com/@bilalresearcher/bypassing-methods-that-i-used-to-find-csrf-vulnerabilities-0709cc8a3c4d?source=rss------bug_bounty_writeup-5)
 - [Mobile Pentesting: A Walkthrough of the First  10 Challenges on Injured Android App-Part1](https://medium.com/@mly57003/mobile-pentesting-a-walkthrough-of-the-first-10-challenges-on-injured-android-app-part1-0e85c600494f?source=rss------bug_bounty_writeup-5)
 - [One-click Account Take Over](https://medium.com/@bilalresearcher/one-click-account-take-over-50e4128c990d?source=rss------bug_bounty_writeup-5)
 - [0-click Full Account Takeover](https://medium.com/@bilalresearcher/0-click-full-account-takeover-0ddc951e14ae?source=rss------bug_bounty_writeup-5)
-- [Drupal Website Takeover | Admin Dashboard](https://medium.com/@bilalresearcher/drupal-website-takeover-admin-dashboard-6ae4a34d0689?source=rss------bug_bounty_writeup-5)
-- [STRIPE Live Key Exposed:: Bounty: $1000](https://medium.com/@bilalresearcher/stripe-live-key-exposed-bounty-1000-57018f1d4520?source=rss------bug_bounty_writeup-5)
-- [[GraphQL IDOR]Leaking credit card information of 1000s of users [External Audit]](https://medium.com/@bilalresearcher/graphql-idor-leaking-credit-card-information-of-1000s-of-users-external-audit-1404256b761f?source=rss------bug_bounty_writeup-5)
-- [Exposing Database Creds via SVN: A $400 Discovery](https://medium.com/@bilalresearcher/exposing-database-creds-via-svn-a-400-discovery-fa7c2de288bf?source=rss------bug_bounty_writeup-5)
-- [Reset password Checklist](https://medium.com/@hozayfan782/reset-password-checklist-1ebabdd6c0f3?source=rss------bug_bounty_writeup-5)
-- [Hidden in Plain Sight: Uncovering RCE on a Forgotten Axis2 Instance](https://medium.com/@domenicoveneziano/hidden-in-plain-sight-uncovering-rce-on-a-forgotten-axis2-instance-86ddc91f1415?source=rss------bug_bounty_writeup-5)
 - [All in One TryHackMe Write-up](https://infosecwriteups.com/all-in-one-tryhackme-write-up-303eaa2caa8?source=rss----7b722bfd1b8d---4)
 - [Cracking Windows 10 hashes](https://infosecwriteups.com/cracking-windows-10-hashes-59c8a7fc775f?source=rss----7b722bfd1b8d---4)
 - [Bounty Hacker Write-up, TryHackMe](https://infosecwriteups.com/bounty-hacker-write-up-tryhackme-4afca1389f5a?source=rss----7b722bfd1b8d---4)
