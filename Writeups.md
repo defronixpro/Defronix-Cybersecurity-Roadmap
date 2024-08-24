@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Reset password Checklist](https://medium.com/@hozayfan782/reset-password-checklist-1ebabdd6c0f3?source=rss------bug_bounty_writeup-5)
 - [Hidden in Plain Sight: Uncovering RCE on a Forgotten Axis2 Instance](https://medium.com/@domenicoveneziano/hidden-in-plain-sight-uncovering-rce-on-a-forgotten-axis2-instance-86ddc91f1415?source=rss------bug_bounty_writeup-5)
 - [Boost Subdomain Discovery with Subfinder and API Integrations](https://saurabh-jain.medium.com/integrating-shodan-and-censys-api-keys-into-subfinder-c28452af2efb?source=rss------bug_bounty_writeup-5)
 - [All in One TryHackMe Write-up](https://infosecwriteups.com/all-in-one-tryhackme-write-up-303eaa2caa8?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [[Account Take Over] through reset password token leaked in response, 2500 € Reward](https://medium.com/@bilalresearcher/account-take-over-through-reset-password-token-leaked-in-response-2500-reward-97cc22d0b65d?source=rss------bug_bounty_writeup-5)
 - [Discovering a $5000 RCE via Dependency Confusion Vulnerability](https://medium.com/@bilalresearcher/discovering-a-5000-rce-via-dependency-confusion-vulnerability-9a1cd88ddb0c?source=rss------bug_bounty_writeup-5)
 - [A Simple 2FA Bypass](https://medium.com/@bilalresearcher/a-simple-2fa-bypass-368a2861c6df?source=rss------bug_bounty_writeup-5)
-- [Account Takeover using IDOR in Password reset Functionality](https://medium.com/@bilalresearcher/account-takeover-using-idor-in-password-reset-functionality-b736a85f4f02?source=rss------bug_bounty_writeup-5)
 - [100 Hacking Tools and Resources](https://www.hackerone.com/ethical-hacker/100-hacking-tools-and-resources)
 - [Retail Under Attack: 6 Learnings from a Retail Customer](https://www.hackerone.com/customer-stories/retail-under-attack)
 - [Hack My Career: Meet Bertijn Eldering](https://www.hackerone.com/culture-and-talent/hack-my-career-meet-bertijn-eldering)
