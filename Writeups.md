@@ -1,6 +1,10 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Drupal Website Takeover | Admin Dashboard](https://medium.com/@bilalresearcher/drupal-website-takeover-admin-dashboard-6ae4a34d0689?source=rss------bug_bounty_writeup-5)
+- [STRIPE Live Key Exposed:: Bounty: $1000](https://medium.com/@bilalresearcher/stripe-live-key-exposed-bounty-1000-57018f1d4520?source=rss------bug_bounty_writeup-5)
+- [[GraphQL IDOR]Leaking credit card information of 1000s of users [External Audit]](https://medium.com/@bilalresearcher/graphql-idor-leaking-credit-card-information-of-1000s-of-users-external-audit-1404256b761f?source=rss------bug_bounty_writeup-5)
+- [Exposing Database Creds via SVN: A $400 Discovery](https://medium.com/@bilalresearcher/exposing-database-creds-via-svn-a-400-discovery-fa7c2de288bf?source=rss------bug_bounty_writeup-5)
 - [Reset password Checklist](https://medium.com/@hozayfan782/reset-password-checklist-1ebabdd6c0f3?source=rss------bug_bounty_writeup-5)
 - [Hidden in Plain Sight: Uncovering RCE on a Forgotten Axis2 Instance](https://medium.com/@domenicoveneziano/hidden-in-plain-sight-uncovering-rce-on-a-forgotten-axis2-instance-86ddc91f1415?source=rss------bug_bounty_writeup-5)
 - [Boost Subdomain Discovery with Subfinder and API Integrations](https://saurabh-jain.medium.com/integrating-shodan-and-censys-api-keys-into-subfinder-c28452af2efb?source=rss------bug_bounty_writeup-5)
@@ -17,10 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Instagram and Meta 2FA Bypass by Unprotected Backup Code Retrieval in Accounts Center](https://medium.com/@scriptshuva/instagram-and-meta-2fa-bypass-by-unprotected-backup-code-retrieval-in-accounts-center-c735ff650f10?source=rss------bug_bounty_writeup-5)
 - [Authorization bypass due to cache misconfiguration](https://medium.com/@bilalresearcher/authorization-bypass-due-to-cache-misconfiguration-7407aa1c6374?source=rss------bug_bounty_writeup-5)
 - [Authorization bypass due to cache misconfiguration](https://rikeshbaniya.medium.com/authorization-bypass-due-to-cache-misconfiguration-fde8b2332d2d?source=rss------bug_bounty_writeup-5)
-- [Forging a Path to Account Takeover: Copy Password Reset Link Vulnerability worth $$$$.](https://medium.com/@bilalresearcher/forging-a-path-to-account-takeover-copy-password-reset-link-vulnerability-worth-3135c3df60d6?source=rss------bug_bounty_writeup-5)
-- [[Account Take Over] through reset password token leaked in response, 2500 € Reward](https://medium.com/@bilalresearcher/account-take-over-through-reset-password-token-leaked-in-response-2500-reward-97cc22d0b65d?source=rss------bug_bounty_writeup-5)
-- [Discovering a $5000 RCE via Dependency Confusion Vulnerability](https://medium.com/@bilalresearcher/discovering-a-5000-rce-via-dependency-confusion-vulnerability-9a1cd88ddb0c?source=rss------bug_bounty_writeup-5)
-- [A Simple 2FA Bypass](https://medium.com/@bilalresearcher/a-simple-2fa-bypass-368a2861c6df?source=rss------bug_bounty_writeup-5)
 - [100 Hacking Tools and Resources](https://www.hackerone.com/ethical-hacker/100-hacking-tools-and-resources)
 - [Retail Under Attack: 6 Learnings from a Retail Customer](https://www.hackerone.com/customer-stories/retail-under-attack)
 - [Hack My Career: Meet Bertijn Eldering](https://www.hackerone.com/culture-and-talent/hack-my-career-meet-bertijn-eldering)
