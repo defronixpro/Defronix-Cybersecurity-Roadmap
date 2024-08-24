@@ -923,6 +923,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
 - [Hidden in Plain Sight: Uncovering RCE on a Forgotten Axis2 Instance](https://medium.com/@domenicoveneziano/hidden-in-plain-sight-uncovering-rce-on-a-forgotten-axis2-instance-86ddc91f1415?source=rss------bug_bounty_writeup-5)
+- [Boost Subdomain Discovery with Subfinder and API Integrations](https://saurabh-jain.medium.com/integrating-shodan-and-censys-api-keys-into-subfinder-c28452af2efb?source=rss------bug_bounty_writeup-5)
 - [All in One TryHackMe Write-up](https://infosecwriteups.com/all-in-one-tryhackme-write-up-303eaa2caa8?source=rss----7b722bfd1b8d---4)
 - [Cracking Windows 10 hashes](https://infosecwriteups.com/cracking-windows-10-hashes-59c8a7fc775f?source=rss----7b722bfd1b8d---4)
 - [Bounty Hacker Write-up, TryHackMe](https://infosecwriteups.com/bounty-hacker-write-up-tryhackme-4afca1389f5a?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Discovering a $5000 RCE via Dependency Confusion Vulnerability](https://medium.com/@bilalresearcher/discovering-a-5000-rce-via-dependency-confusion-vulnerability-9a1cd88ddb0c?source=rss------bug_bounty_writeup-5)
 - [A Simple 2FA Bypass](https://medium.com/@bilalresearcher/a-simple-2fa-bypass-368a2861c6df?source=rss------bug_bounty_writeup-5)
 - [Account Takeover using IDOR in Password reset Functionality](https://medium.com/@bilalresearcher/account-takeover-using-idor-in-password-reset-functionality-b736a85f4f02?source=rss------bug_bounty_writeup-5)
-- [How I got my first $13500 bounty through Parameter Polluting &lpar;HPP&rpar;](https://medium.com/@bilalresearcher/how-i-got-my-first-13500-bounty-through-parameter-polluting-hpp-237bd8cdfeff?source=rss------bug_bounty_writeup-5)
 - [100 Hacking Tools and Resources](https://www.hackerone.com/ethical-hacker/100-hacking-tools-and-resources)
 - [Retail Under Attack: 6 Learnings from a Retail Customer](https://www.hackerone.com/customer-stories/retail-under-attack)
 - [Hack My Career: Meet Bertijn Eldering](https://www.hackerone.com/culture-and-talent/hack-my-career-meet-bertijn-eldering)
