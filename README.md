@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Exploiting Log4j RCE in Apple App Store.](https://medium.com/@meharhuzaifa777/exploiting-log4j-rce-in-apple-app-store-ca99a549de1f?source=rss------bug_bounty_writeup-5)
 - [HOW TO START IN BUG BOUNTY HUNTING](https://medium.com/@gouravrathod8788/how-to-start-in-bug-bounty-hunting-848f5c74807f?source=rss------bug_bounty_writeup-5)
 - [Day 20 0f 30 Days — 30 Vulnerabilities | Host Header Injection](https://it4chis3c.medium.com/day-20-0f-30-days-30-vulnerabilities-host-header-injection-2745e21f7eba?source=rss------bug_bounty_writeup-5)
 - [Chain of Rate Limit Bypass and Weak Token Expiry Leads To Account Take Over](https://medium.com/@bilalresearcher/chain-of-rate-limit-bypass-and-weak-token-expiry-leads-to-account-take-over-0cf794fef31c?source=rss------bug_bounty_writeup-5)
@@ -931,7 +932,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [XSS &amp; IDOR &amp; CSRF to ATO](https://medium.com/@bilalresearcher/xss-idor-csrf-to-ato-0e898876789d?source=rss------bug_bounty_writeup-5)
 - [How I Turned a Rate-Limit Bypass into an Account Takeover](https://medium.com/@bilalresearcher/how-i-turned-a-rate-limit-bypass-into-an-account-takeover-5a50b0f4dc6a?source=rss------bug_bounty_writeup-5)
 - [$$$ Bypassing SSRF Restrictions on a Google Product: A Journey Through DNS Rebinding](https://medium.com/@bilalresearcher/bypassing-ssrf-restrictions-on-a-google-product-a-journey-through-dns-rebinding-caaf00ebe479?source=rss------bug_bounty_writeup-5)
-- [Discovering a Session Persistence Vulnerability That Led to a $$$$ Bounty](https://medium.com/@bilalresearcher/discovering-a-session-persistence-vulnerability-that-led-to-a-bounty-bbf3dd526f01?source=rss------bug_bounty_writeup-5)
 - [All in One TryHackMe Write-up](https://infosecwriteups.com/all-in-one-tryhackme-write-up-303eaa2caa8?source=rss----7b722bfd1b8d---4)
 - [Cracking Windows 10 hashes](https://infosecwriteups.com/cracking-windows-10-hashes-59c8a7fc775f?source=rss----7b722bfd1b8d---4)
 - [Bounty Hacker Write-up, TryHackMe](https://infosecwriteups.com/bounty-hacker-write-up-tryhackme-4afca1389f5a?source=rss----7b722bfd1b8d---4)
