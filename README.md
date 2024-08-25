@@ -922,7 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [Exploiting Log4j RCE in Apple App Store.](https://medium.com/@meharhuzaifa777/exploiting-log4j-rce-in-apple-app-store-ca99a549de1f?source=rss------bug_bounty_writeup-5)
+- [How I got $24000 Bounty from a Log4j RCE in Apple App Store.](https://medium.com/@meharhuzaifa777/exploiting-log4j-rce-in-apple-app-store-ca99a549de1f?source=rss------bug_bounty_writeup-5)
 - [HOW TO START IN BUG BOUNTY HUNTING](https://medium.com/@gouravrathod8788/how-to-start-in-bug-bounty-hunting-848f5c74807f?source=rss------bug_bounty_writeup-5)
 - [Day 20 0f 30 Days — 30 Vulnerabilities | Host Header Injection](https://it4chis3c.medium.com/day-20-0f-30-days-30-vulnerabilities-host-header-injection-2745e21f7eba?source=rss------bug_bounty_writeup-5)
 - [Chain of Rate Limit Bypass and Weak Token Expiry Leads To Account Take Over](https://medium.com/@bilalresearcher/chain-of-rate-limit-bypass-and-weak-token-expiry-leads-to-account-take-over-0cf794fef31c?source=rss------bug_bounty_writeup-5)
