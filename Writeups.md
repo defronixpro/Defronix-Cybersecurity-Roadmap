@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Race Condition in bug bounty platform](https://itsravikiran25.medium.com/race-condition-in-bug-bounty-platform-b863e1c71d8a?source=rss------bug_bounty_writeup-5)
 - [Intruder + Frida to Account Takeover](https://medium.com/@bilalresearcher/intruder-frida-to-account-takeover-548d4dd785ef?source=rss------bug_bounty_writeup-5)
 - [Using E-Notation to bypass Access Control restrictions to access arbitrary user PII-discussions](https://medium.com/@bilalresearcher/using-e-notation-to-bypass-access-control-restrictions-to-access-arbitrary-user-pii-discussions-d16bbad42394?source=rss------bug_bounty_writeup-5)
 - [How I got $24000 Bounty from a Log4j RCE in Apple App Store.](https://medium.com/@meharhuzaifa777/exploiting-log4j-rce-in-apple-app-store-ca99a549de1f?source=rss------bug_bounty_writeup-5)
@@ -10,7 +11,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [CSRF Bypass Combined with IDOR To Complete Account Takeover!](https://medium.com/@bilalresearcher/csrf-bypass-combined-with-idor-to-complete-account-takeover-588b34b9cf60?source=rss------bug_bounty_writeup-5)
 - [User information disclosure via message reactions](https://medium.com/@bilalresearcher/user-information-disclosure-via-message-reactions-affc72cfd8de?source=rss------bug_bounty_writeup-5)
 - [IDOR Lead to Data Leak](https://medium.com/@bilalresearcher/idor-lead-to-data-leak-6943ade0a3d6?source=rss------bug_bounty_writeup-5)
-- [XSS &amp; IDOR &amp; CSRF to ATO](https://medium.com/@bilalresearcher/xss-idor-csrf-to-ato-0e898876789d?source=rss------bug_bounty_writeup-5)
 - [All in One TryHackMe Write-up](https://infosecwriteups.com/all-in-one-tryhackme-write-up-303eaa2caa8?source=rss----7b722bfd1b8d---4)
 - [Cracking Windows 10 hashes](https://infosecwriteups.com/cracking-windows-10-hashes-59c8a7fc775f?source=rss----7b722bfd1b8d---4)
 - [Bounty Hacker Write-up, TryHackMe](https://infosecwriteups.com/bounty-hacker-write-up-tryhackme-4afca1389f5a?source=rss----7b722bfd1b8d---4)
