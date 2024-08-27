@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How i get OTP bypass leads to ATO](https://kiraadx.medium.com/how-i-get-otp-bypass-leads-to-ato-a7645ade3a90?source=rss------bug_bounty_writeup-5)
 - [Day 20 0f 30 Days — 30 Vulnerabilities | Host Header Injection](https://medium.com/@kumawatabhijeet2002/day-20-0f-30-days-30-vulnerabilities-host-header-injection-9bc006b4734c?source=rss------bug_bounty_writeup-5)
 - [Exploring ARP Poisoning: A Practical Lab Guide to Understanding and Implementing Spoofing Attacks](https://infosecwriteups.com/exploring-arp-poisoning-a-practical-lab-guide-to-understanding-and-implementing-spoofing-attacks-d8513c3fc958?source=rss----7b722bfd1b8d---4)
 - [How To Get Stored Xss &amp; RCE Using Bypass Signature &amp; Extension Via File Upload |_|](https://medium.com/@bilalresearcher/how-to-get-stored-xss-rce-using-bypass-signature-extension-via-file-upload-9b3e8d9348cd?source=rss------bug_bounty_writeup-5)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Uncovering CVE-2021–42013: The Forgotten RCE Vulnerability](https://infosecwriteups.com/uncovering-cve-2021-42013-the-forgotten-rce-vulnerability-f1b237ef8c91?source=rss----7b722bfd1b8d---4)
 - [CVE-2024–31982: When a Simple Wiki Search Turns into a RCE Party](https://infosecwriteups.com/cve-2024-31982-when-a-simple-wiki-search-turns-into-a-rce-party-abd9d34cf0e3?source=rss----7b722bfd1b8d---4)
 - [10 Essential SSH Server Security Tips &amp; Best Practices](https://infosecwriteups.com/10-essential-ssh-server-security-tips-best-practices-b5643e3d509b?source=rss----7b722bfd1b8d---4)
-- [Race Condition in bug bounty platform](https://itsravikiran25.medium.com/race-condition-in-bug-bounty-platform-b863e1c71d8a?source=rss------bug_bounty_writeup-5)
 - [100 Hacking Tools and Resources](https://www.hackerone.com/ethical-hacker/100-hacking-tools-and-resources)
 - [Retail Under Attack: 6 Learnings from a Retail Customer](https://www.hackerone.com/customer-stories/retail-under-attack)
 - [Hack My Career: Meet Bertijn Eldering](https://www.hackerone.com/culture-and-talent/hack-my-career-meet-bertijn-eldering)
