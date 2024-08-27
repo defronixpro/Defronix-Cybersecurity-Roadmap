@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Day 21 of 30 Days — 30 Vulnerabilities | OAuth Misconfigurations](https://it4chis3c.medium.com/day-21-of-30-days-30-vulnerabilities-oauth-misconfigurations-5d4cba345f25?source=rss------bug_bounty_writeup-5)
 - [Exploiting IDORs via JSON Globbing](https://medium.com/@bountyget/exploiting-idors-via-json-globbing-e4c6e2c0535c?source=rss------bug_bounty_writeup-5)
 - [How i get OTP bypass leads to ATO](https://kiraadx.medium.com/how-i-get-otp-bypass-leads-to-ato-a7645ade3a90?source=rss------bug_bounty_writeup-5)
 - [Day 20 0f 30 Days — 30 Vulnerabilities | Host Header Injection](https://medium.com/@kumawatabhijeet2002/day-20-0f-30-days-30-vulnerabilities-host-header-injection-9bc006b4734c?source=rss------bug_bounty_writeup-5)
@@ -11,7 +12,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Advanced Web Cache Poisoning Techniques &lpar;Part 2&rpar;: Tools, Methods, and Exploits](https://medium.com/@bilalresearcher/advanced-web-cache-poisoning-techniques-part-2-tools-methods-and-exploits-b379aeb7ab36?source=rss------bug_bounty_writeup-5)
 - [Unraveling Web Cache Poisoning: A Deep Dive &lpar;Part 1&rpar;](https://medium.com/@bilalresearcher/unraveling-web-cache-poisoning-a-deep-dive-part-1-49fa00e81d1a?source=rss------bug_bounty_writeup-5)
 - [Finding IDOR Vulnerabilities: Key Endpoints and Resources](https://medium.com/@bilalresearcher/finding-idor-vulnerabilities-key-endpoints-and-resources-e4c2457aa231?source=rss------bug_bounty_writeup-5)
-- [How I was able to discover ATO Via IDOR vulnerability](https://medium.com/@bilalresearcher/how-i-was-able-to-discover-ato-via-idor-vulnerability-c31d074a62e8?source=rss------bug_bounty_writeup-5)
 - [Downloading VMware Fusion and Workstation 17 Pro Free](https://infosecwriteups.com/downloading-vmware-fusion-and-workstation-17-pro-free-2b8dfd59cd3e?source=rss----7b722bfd1b8d---4)
 - [How Do I Secure Your CI/CD Pipeline?](https://infosecwriteups.com/how-do-i-secure-your-ci-cd-pipeline-afc8e6ee5c44?source=rss----7b722bfd1b8d---4)
 - [I Tried 5 Firebird Projects in PostgreSQL — Here’s How They Worked](https://infosecwriteups.com/i-tried-5-firebird-projects-in-postgresql-heres-how-they-worked-9949d045e12c?source=rss----7b722bfd1b8d---4)
