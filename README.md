@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Your Car’s Secret Weakness: The Hidden Dangers of Bluetooth](https://infosecwriteups.com/your-cars-secret-weakness-the-hidden-dangers-of-bluetooth-6af570e6726b?source=rss----7b722bfd1b8d---4)
 - [Day 21 of 30 Days — 30 Vulnerabilities | OAuth Misconfigurations](https://it4chis3c.medium.com/day-21-of-30-days-30-vulnerabilities-oauth-misconfigurations-5d4cba345f25?source=rss------bug_bounty_writeup-5)
 - [Exploiting IDORs via JSON Globbing](https://medium.com/@bountyget/exploiting-idors-via-json-globbing-e4c6e2c0535c?source=rss------bug_bounty_writeup-5)
 - [How i get OTP bypass leads to ATO](https://kiraadx.medium.com/how-i-get-otp-bypass-leads-to-ato-a7645ade3a90?source=rss------bug_bounty_writeup-5)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Windows System Files Every Cyber Analyst Should Know](https://infosecwriteups.com/windows-system-files-every-cyber-analyst-should-know-7549b0044004?source=rss----7b722bfd1b8d---4)
 - [Uncovering CVE-2021–42013: The Forgotten RCE Vulnerability](https://infosecwriteups.com/uncovering-cve-2021-42013-the-forgotten-rce-vulnerability-f1b237ef8c91?source=rss----7b722bfd1b8d---4)
 - [CVE-2024–31982: When a Simple Wiki Search Turns into a RCE Party](https://infosecwriteups.com/cve-2024-31982-when-a-simple-wiki-search-turns-into-a-rce-party-abd9d34cf0e3?source=rss----7b722bfd1b8d---4)
-- [10 Essential SSH Server Security Tips &amp; Best Practices](https://infosecwriteups.com/10-essential-ssh-server-security-tips-best-practices-b5643e3d509b?source=rss----7b722bfd1b8d---4)
 - [100 Hacking Tools and Resources](https://www.hackerone.com/ethical-hacker/100-hacking-tools-and-resources)
 - [Retail Under Attack: 6 Learnings from a Retail Customer](https://www.hackerone.com/customer-stories/retail-under-attack)
 - [Hack My Career: Meet Bertijn Eldering](https://www.hackerone.com/culture-and-talent/hack-my-career-meet-bertijn-eldering)
