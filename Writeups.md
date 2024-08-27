@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Day 20 0f 30 Days — 30 Vulnerabilities | Host Header Injection](https://medium.com/@kumawatabhijeet2002/day-20-0f-30-days-30-vulnerabilities-host-header-injection-9bc006b4734c?source=rss------bug_bounty_writeup-5)
 - [Exploring ARP Poisoning: A Practical Lab Guide to Understanding and Implementing Spoofing Attacks](https://infosecwriteups.com/exploring-arp-poisoning-a-practical-lab-guide-to-understanding-and-implementing-spoofing-attacks-d8513c3fc958?source=rss----7b722bfd1b8d---4)
 - [How To Get Stored Xss &amp; RCE Using Bypass Signature &amp; Extension Via File Upload |_|](https://medium.com/@bilalresearcher/how-to-get-stored-xss-rce-using-bypass-signature-extension-via-file-upload-9b3e8d9348cd?source=rss------bug_bounty_writeup-5)
 - [Find Blind XSS like a pro.](https://medium.com/@bilalresearcher/find-blind-xss-like-a-pro-ddc9ef8d5e89?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [CVE-2024–31982: When a Simple Wiki Search Turns into a RCE Party](https://infosecwriteups.com/cve-2024-31982-when-a-simple-wiki-search-turns-into-a-rce-party-abd9d34cf0e3?source=rss----7b722bfd1b8d---4)
 - [10 Essential SSH Server Security Tips &amp; Best Practices](https://infosecwriteups.com/10-essential-ssh-server-security-tips-best-practices-b5643e3d509b?source=rss----7b722bfd1b8d---4)
 - [Race Condition in bug bounty platform](https://itsravikiran25.medium.com/race-condition-in-bug-bounty-platform-b863e1c71d8a?source=rss------bug_bounty_writeup-5)
-- [Intruder + Frida to Account Takeover](https://medium.com/@bilalresearcher/intruder-frida-to-account-takeover-548d4dd785ef?source=rss------bug_bounty_writeup-5)
 - [100 Hacking Tools and Resources](https://www.hackerone.com/ethical-hacker/100-hacking-tools-and-resources)
 - [Retail Under Attack: 6 Learnings from a Retail Customer](https://www.hackerone.com/customer-stories/retail-under-attack)
 - [Hack My Career: Meet Bertijn Eldering](https://www.hackerone.com/culture-and-talent/hack-my-career-meet-bertijn-eldering)
