@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Exploiting Second-Order IDOR Vulnerabilities](https://medium.com/@bountyget/exploiting-second-order-idor-vulnerabilities-6d2554eb1319?source=rss------bug_bounty_writeup-5)
+- [Exploiting IDORs in APIs That Use Static Keywords](https://medium.com/@bountyget/exploiting-idors-in-apis-that-use-static-keywords-f94b7797634a?source=rss------bug_bounty_writeup-5)
 - [Unveiling all the techniques to find IDOR’S in web applications](https://medium.com/@bilalresearcher/unveiling-all-the-techniques-to-find-idors-in-web-applications-4022d0da6955?source=rss------bug_bounty_writeup-5)
 - [SSTI Exploitation Part II In Web Applications &lpar;with exploitation example&rpar;](https://medium.com/@bilalresearcher/ssti-exploitation-part-ii-in-web-applications-with-exploitation-example-03b6b666c216?source=rss------bug_bounty_writeup-5)
 - [SSTI Injections Identification During Pentesting Web Applications &lpar;with exploitation example&rpar;](https://medium.com/@bilalresearcher/ssti-injections-identification-during-pentesting-web-applications-with-exploitation-example-3ab0e0288dca?source=rss------bug_bounty_writeup-5)
@@ -929,8 +931,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How I was able to Edit/Read Users Workspaces/Data without any access to it](https://medium.com/@bilalresearcher/how-i-was-able-to-edit-read-users-workspaces-data-without-any-access-to-it-88d049f540c3?source=rss------bug_bounty_writeup-5)
 - [Busting CSRF: The Hidden Dangers of JSON Exploited](https://medium.com/@bilalresearcher/busting-csrf-the-hidden-dangers-of-json-exploited-6b3857f35719?source=rss------bug_bounty_writeup-5)
 - [SQL Injections for bug bounty](https://medium.com/@bilalresearcher/sql-injections-for-bug-bounty-c9435b51571f?source=rss------bug_bounty_writeup-5)
-- [Pushing yourself through hard hunting days: A bug hunter’s perspective](https://medium.com/@bilalresearcher/pushing-yourself-through-hard-hunting-days-a-bug-hunters-perspective-6197742c88be?source=rss------bug_bounty_writeup-5)
-- [Exploiting PostMessage for cool XSS vulnerabilities](https://medium.com/@bilalresearcher/exploiting-postmessage-for-cool-xss-vulnerabilities-53091edd09a2?source=rss------bug_bounty_writeup-5)
 - [Your Car’s Secret Weakness: The Hidden Dangers of Bluetooth](https://infosecwriteups.com/your-cars-secret-weakness-the-hidden-dangers-of-bluetooth-6af570e6726b?source=rss----7b722bfd1b8d---4)
 - [Exploring ARP Poisoning: A Practical Lab Guide to Understanding and Implementing Spoofing Attacks](https://infosecwriteups.com/exploring-arp-poisoning-a-practical-lab-guide-to-understanding-and-implementing-spoofing-attacks-d8513c3fc958?source=rss----7b722bfd1b8d---4)
 - [Downloading VMware Fusion and Workstation 17 Pro Free](https://infosecwriteups.com/downloading-vmware-fusion-and-workstation-17-pro-free-2b8dfd59cd3e?source=rss----7b722bfd1b8d---4)
