@@ -922,6 +922,9 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Asymmetric Returns: How MSSPs are Using Automation to Outcompete One Another](https://infosecwriteups.com/asymmetric-returns-how-mssps-are-using-automation-to-outcompete-one-another-7d466eaf989f?source=rss----7b722bfd1b8d---4)
+- [Chamilo LMS 1.11.14: Analysis of Two Blind SQL Injection Vulnerabilities](https://infosecwriteups.com/chamilo-lms-1-11-14-analysis-of-two-blind-sql-injection-vulnerabilities-c04643fe637d?source=rss----7b722bfd1b8d---4)
+- [Day 22 of 30 Days — 30 Vulnerabilities | Business Logic Flaws](https://it4chis3c.medium.com/day-22-of-30-days-30-vulnerabilities-business-logic-flaws-2bf75d4df572?source=rss------bug_bounty_writeup-5)
 - [IDOR : Deleting Comments Like a Boss!](https://medium.com/@tanyago/idor-deleting-comments-like-a-boss-0413a375024f?source=rss------bug_bounty_writeup-5)
 - [Exploiting Second-Order IDOR Vulnerabilities](https://medium.com/@bountyget/exploiting-second-order-idor-vulnerabilities-6d2554eb1319?source=rss------bug_bounty_writeup-5)
 - [Exploiting IDORs in APIs That Use Static Keywords](https://medium.com/@bountyget/exploiting-idors-in-apis-that-use-static-keywords-f94b7797634a?source=rss------bug_bounty_writeup-5)
@@ -930,7 +933,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [SSTI Injections Identification During Pentesting Web Applications &lpar;with exploitation example&rpar;](https://medium.com/@bilalresearcher/ssti-injections-identification-during-pentesting-web-applications-with-exploitation-example-3ab0e0288dca?source=rss------bug_bounty_writeup-5)
 - [Discovering Two Out-of-Scope Blind/Stored XSS Vulnerabilities in an Admin Panel on a Public Bug…](https://medium.com/@bilalresearcher/discovering-two-out-of-scope-blind-stored-xss-vulnerabilities-in-an-admin-panel-on-a-public-bug-2b5c12ba37b8?source=rss------bug_bounty_writeup-5)
 - [How I was able to Edit/Read Users Workspaces/Data without any access to it](https://medium.com/@bilalresearcher/how-i-was-able-to-edit-read-users-workspaces-data-without-any-access-to-it-88d049f540c3?source=rss------bug_bounty_writeup-5)
-- [Busting CSRF: The Hidden Dangers of JSON Exploited](https://medium.com/@bilalresearcher/busting-csrf-the-hidden-dangers-of-json-exploited-6b3857f35719?source=rss------bug_bounty_writeup-5)
 - [Your Car’s Secret Weakness: The Hidden Dangers of Bluetooth](https://infosecwriteups.com/your-cars-secret-weakness-the-hidden-dangers-of-bluetooth-6af570e6726b?source=rss----7b722bfd1b8d---4)
 - [Exploring ARP Poisoning: A Practical Lab Guide to Understanding and Implementing Spoofing Attacks](https://infosecwriteups.com/exploring-arp-poisoning-a-practical-lab-guide-to-understanding-and-implementing-spoofing-attacks-d8513c3fc958?source=rss----7b722bfd1b8d---4)
 - [Downloading VMware Fusion and Workstation 17 Pro Free](https://infosecwriteups.com/downloading-vmware-fusion-and-workstation-17-pro-free-2b8dfd59cd3e?source=rss----7b722bfd1b8d---4)
@@ -939,8 +941,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Solving the Prompt Airlines CTF](https://infosecwriteups.com/solving-the-prompt-airlines-ctf-2235c725050b?source=rss----7b722bfd1b8d---4)
 - [Unlocking OAuth Security](https://infosecwriteups.com/unlocking-oauth-security-1c57475ab286?source=rss----7b722bfd1b8d---4)
 - [Windows System Files Every Cyber Analyst Should Know](https://infosecwriteups.com/windows-system-files-every-cyber-analyst-should-know-7549b0044004?source=rss----7b722bfd1b8d---4)
-- [Uncovering CVE-2021–42013: The Forgotten RCE Vulnerability](https://infosecwriteups.com/uncovering-cve-2021-42013-the-forgotten-rce-vulnerability-f1b237ef8c91?source=rss----7b722bfd1b8d---4)
-- [CVE-2024–31982: When a Simple Wiki Search Turns into a RCE Party](https://infosecwriteups.com/cve-2024-31982-when-a-simple-wiki-search-turns-into-a-rce-party-abd9d34cf0e3?source=rss----7b722bfd1b8d---4)
 - [100 Hacking Tools and Resources](https://www.hackerone.com/ethical-hacker/100-hacking-tools-and-resources)
 - [Retail Under Attack: 6 Learnings from a Retail Customer](https://www.hackerone.com/customer-stories/retail-under-attack)
 - [Hack My Career: Meet Bertijn Eldering](https://www.hackerone.com/culture-and-talent/hack-my-career-meet-bertijn-eldering)
