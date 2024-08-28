@@ -1,6 +1,8 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Asymmetric Returns: How MSSPs are Using Automation to Outcompete One Another](https://infosecwriteups.com/asymmetric-returns-how-mssps-are-using-automation-to-outcompete-one-another-7d466eaf989f?source=rss----7b722bfd1b8d---4)
+- [Chamilo LMS 1.11.14: Analysis of Two Blind SQL Injection Vulnerabilities](https://infosecwriteups.com/chamilo-lms-1-11-14-analysis-of-two-blind-sql-injection-vulnerabilities-c04643fe637d?source=rss----7b722bfd1b8d---4)
 - [Day 22 of 30 Days — 30 Vulnerabilities | Business Logic Flaws](https://it4chis3c.medium.com/day-22-of-30-days-30-vulnerabilities-business-logic-flaws-2bf75d4df572?source=rss------bug_bounty_writeup-5)
 - [IDOR : Deleting Comments Like a Boss!](https://medium.com/@tanyago/idor-deleting-comments-like-a-boss-0413a375024f?source=rss------bug_bounty_writeup-5)
 - [Exploiting Second-Order IDOR Vulnerabilities](https://medium.com/@bountyget/exploiting-second-order-idor-vulnerabilities-6d2554eb1319?source=rss------bug_bounty_writeup-5)
@@ -18,8 +20,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Solving the Prompt Airlines CTF](https://infosecwriteups.com/solving-the-prompt-airlines-ctf-2235c725050b?source=rss----7b722bfd1b8d---4)
 - [Unlocking OAuth Security](https://infosecwriteups.com/unlocking-oauth-security-1c57475ab286?source=rss----7b722bfd1b8d---4)
 - [Windows System Files Every Cyber Analyst Should Know](https://infosecwriteups.com/windows-system-files-every-cyber-analyst-should-know-7549b0044004?source=rss----7b722bfd1b8d---4)
-- [Uncovering CVE-2021–42013: The Forgotten RCE Vulnerability](https://infosecwriteups.com/uncovering-cve-2021-42013-the-forgotten-rce-vulnerability-f1b237ef8c91?source=rss----7b722bfd1b8d---4)
-- [CVE-2024–31982: When a Simple Wiki Search Turns into a RCE Party](https://infosecwriteups.com/cve-2024-31982-when-a-simple-wiki-search-turns-into-a-rce-party-abd9d34cf0e3?source=rss----7b722bfd1b8d---4)
 - [100 Hacking Tools and Resources](https://www.hackerone.com/ethical-hacker/100-hacking-tools-and-resources)
 - [Retail Under Attack: 6 Learnings from a Retail Customer](https://www.hackerone.com/customer-stories/retail-under-attack)
 - [Hack My Career: Meet Bertijn Eldering](https://www.hackerone.com/culture-and-talent/hack-my-career-meet-bertijn-eldering)
