@@ -10,7 +10,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [SQL Injections for bug bounty](https://medium.com/@bilalresearcher/sql-injections-for-bug-bounty-c9435b51571f?source=rss------bug_bounty_writeup-5)
 - [Pushing yourself through hard hunting days: A bug hunter’s perspective](https://medium.com/@bilalresearcher/pushing-yourself-through-hard-hunting-days-a-bug-hunters-perspective-6197742c88be?source=rss------bug_bounty_writeup-5)
 - [Exploiting PostMessage for cool XSS vulnerabilities](https://medium.com/@bilalresearcher/exploiting-postmessage-for-cool-xss-vulnerabilities-53091edd09a2?source=rss------bug_bounty_writeup-5)
-- [Logic Flaw: User Account Lockout](https://medium.com/@bilalresearcher/logic-flaw-user-account-lockout-44f93e9f37ca?source=rss------bug_bounty_writeup-5)
 - [Your Car’s Secret Weakness: The Hidden Dangers of Bluetooth](https://infosecwriteups.com/your-cars-secret-weakness-the-hidden-dangers-of-bluetooth-6af570e6726b?source=rss----7b722bfd1b8d---4)
 - [Exploring ARP Poisoning: A Practical Lab Guide to Understanding and Implementing Spoofing Attacks](https://infosecwriteups.com/exploring-arp-poisoning-a-practical-lab-guide-to-understanding-and-implementing-spoofing-attacks-d8513c3fc958?source=rss----7b722bfd1b8d---4)
 - [Downloading VMware Fusion and Workstation 17 Pro Free](https://infosecwriteups.com/downloading-vmware-fusion-and-workstation-17-pro-free-2b8dfd59cd3e?source=rss----7b722bfd1b8d---4)
