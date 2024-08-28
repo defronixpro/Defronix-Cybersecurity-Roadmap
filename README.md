@@ -936,7 +936,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Your Car’s Secret Weakness: The Hidden Dangers of Bluetooth](https://infosecwriteups.com/your-cars-secret-weakness-the-hidden-dangers-of-bluetooth-6af570e6726b?source=rss----7b722bfd1b8d---4)
 - [Exploring ARP Poisoning: A Practical Lab Guide to Understanding and Implementing Spoofing Attacks](https://infosecwriteups.com/exploring-arp-poisoning-a-practical-lab-guide-to-understanding-and-implementing-spoofing-attacks-d8513c3fc958?source=rss----7b722bfd1b8d---4)
 - [Downloading VMware Fusion and Workstation 17 Pro Free](https://infosecwriteups.com/downloading-vmware-fusion-and-workstation-17-pro-free-2b8dfd59cd3e?source=rss----7b722bfd1b8d---4)
-- [How Do I Secure Your CI/CD Pipeline?](https://infosecwriteups.com/how-do-i-secure-your-ci-cd-pipeline-afc8e6ee5c44?source=rss----7b722bfd1b8d---4)
+- [How Do I Secure CI/CD Pipeline?](https://infosecwriteups.com/how-do-i-secure-your-ci-cd-pipeline-afc8e6ee5c44?source=rss----7b722bfd1b8d---4)
 - [I Tried 5 Firebird Projects in PostgreSQL — Here’s How They Worked](https://infosecwriteups.com/i-tried-5-firebird-projects-in-postgresql-heres-how-they-worked-9949d045e12c?source=rss----7b722bfd1b8d---4)
 - [Solving the Prompt Airlines CTF](https://infosecwriteups.com/solving-the-prompt-airlines-ctf-2235c725050b?source=rss----7b722bfd1b8d---4)
 - [Unlocking OAuth Security](https://infosecwriteups.com/unlocking-oauth-security-1c57475ab286?source=rss----7b722bfd1b8d---4)
