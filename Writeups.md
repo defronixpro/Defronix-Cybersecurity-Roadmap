@@ -1,6 +1,9 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Disable Any Customer Ability To Create Service Account With Business Logic Vulnerability](https://medium.com/@bilalresearcher/disable-any-customer-ability-to-create-service-account-with-business-logic-vulnerability-05ab37901a4a?source=rss------bug_bounty_writeup-5)
+- [Reflected XSS To Account Takeover Without Stealing Session Cookie](https://medium.com/@bilalresearcher/reflected-xss-to-account-takeover-without-stealing-session-cookie-413e522aac40?source=rss------bug_bounty_writeup-5)
+- [Detecting Blind Injection Attacks with Discord Webhooks](https://medium.com/@bilalresearcher/detecting-blind-injection-attacks-with-discord-webhooks-9a9d3b566bf1?source=rss------bug_bounty_writeup-5)
 - [A Beautiful Bug: Interesting URL scheme bypass + Race Condition](https://medium.com/@bilalresearcher/a-beautiful-bug-interesting-url-scheme-bypass-race-condition-e8ff79361740?source=rss------bug_bounty_writeup-5)
 - [My Journey to the United Nations Hall of Fame: A Story of Lucky Me](https://medium.com/@siddharth_1/my-journey-to-the-united-nations-hall-of-fame-a-story-of-lucky-me-d489d93bd363?source=rss------bug_bounty_writeup-5)
 - [Day 23 of 30 Days — 30 Vulnerabilities | JSON Web Token &lpar;JWT&rpar; Attacks](https://it4chis3c.medium.com/day-23-of-30-days-30-vulnerabilities-json-web-token-jwt-attacks-89e59be23777?source=rss------bug_bounty_writeup-5)
@@ -10,9 +13,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Day 22 of 30 Days — 30 Vulnerabilities | Business Logic Flaws](https://it4chis3c.medium.com/day-22-of-30-days-30-vulnerabilities-business-logic-flaws-2bf75d4df572?source=rss------bug_bounty_writeup-5)
 - [IDOR : Deleting Comments Like a Boss!](https://medium.com/@tanyago/idor-deleting-comments-like-a-boss-0413a375024f?source=rss------bug_bounty_writeup-5)
 - [Exploiting Second-Order IDOR Vulnerabilities](https://medium.com/@bountyget/exploiting-second-order-idor-vulnerabilities-6d2554eb1319?source=rss------bug_bounty_writeup-5)
-- [Exploiting IDORs in APIs That Use Static Keywords](https://medium.com/@bountyget/exploiting-idors-in-apis-that-use-static-keywords-f94b7797634a?source=rss------bug_bounty_writeup-5)
-- [Mass Account Takeover via Reset Password](https://medium.com/@sniss_thomas/mass-account-takeover-via-reset-password-52574c0a0597?source=rss------bug_bounty_writeup-5)
-- [Unveiling all the techniques to find IDOR’S in web applications](https://medium.com/@bilalresearcher/unveiling-all-the-techniques-to-find-idors-in-web-applications-4022d0da6955?source=rss------bug_bounty_writeup-5)
 - [Your Car’s Secret Weakness: The Hidden Dangers of Bluetooth](https://infosecwriteups.com/your-cars-secret-weakness-the-hidden-dangers-of-bluetooth-6af570e6726b?source=rss----7b722bfd1b8d---4)
 - [Exploring ARP Poisoning: A Practical Lab Guide to Understanding and Implementing Spoofing Attacks](https://infosecwriteups.com/exploring-arp-poisoning-a-practical-lab-guide-to-understanding-and-implementing-spoofing-attacks-d8513c3fc958?source=rss----7b722bfd1b8d---4)
 - [Downloading VMware Fusion and Workstation 17 Pro Free](https://infosecwriteups.com/downloading-vmware-fusion-and-workstation-17-pro-free-2b8dfd59cd3e?source=rss----7b722bfd1b8d---4)
