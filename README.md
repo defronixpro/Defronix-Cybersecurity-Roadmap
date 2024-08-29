@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [XSS Web Application Firewall Bypass Techniques](https://medium.com/@bilalresearcher/xss-web-application-firewall-bypass-techniques-e10476b5fa72?source=rss------bug_bounty_writeup-5)
 - [OAuth CSRF: Exploiting the Authorization Code Flow for Account Takeover](https://medium.com/@bilalresearcher/oauth-csrf-exploiting-the-authorization-code-flow-for-account-takeover-b1e3790416b7?source=rss------bug_bounty_writeup-5)
 - [Two Factor Authentication Bypass via using Victim’s DeviceID](https://medium.com/@bilalresearcher/two-factor-authentication-bypass-via-using-victims-deviceid-1fc10bfe95c9?source=rss------bug_bounty_writeup-5)
 - [Bypassed an Admin Panel Using SQL Payloads](https://medium.com/@bilalresearcher/bypassed-an-admin-panel-using-sql-payloads-572574b41d1c?source=rss------bug_bounty_writeup-5)
@@ -931,7 +932,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Advanced SQLMap Customization](https://medium.com/@bilalresearcher/advanced-sqlmap-customization-34d04b6c0984?source=rss------bug_bounty_writeup-5)
 - [Disable Any Customer Ability To Create Service Account With Business Logic Vulnerability](https://medium.com/@bilalresearcher/disable-any-customer-ability-to-create-service-account-with-business-logic-vulnerability-05ab37901a4a?source=rss------bug_bounty_writeup-5)
 - [Reflected XSS To Account Takeover Without Stealing Session Cookie](https://medium.com/@bilalresearcher/reflected-xss-to-account-takeover-without-stealing-session-cookie-413e522aac40?source=rss------bug_bounty_writeup-5)
-- [Detecting Blind Injection Attacks with Discord Webhooks](https://medium.com/@bilalresearcher/detecting-blind-injection-attacks-with-discord-webhooks-9a9d3b566bf1?source=rss------bug_bounty_writeup-5)
 - [Asymmetric Returns: How MSSPs are Using Automation to Outcompete One Another](https://infosecwriteups.com/asymmetric-returns-how-mssps-are-using-automation-to-outcompete-one-another-7d466eaf989f?source=rss----7b722bfd1b8d---4)
 - [Chamilo LMS 1.11.14: Analysis of Two Blind SQL Injection Vulnerabilities](https://infosecwriteups.com/chamilo-lms-1-11-14-analysis-of-two-blind-sql-injection-vulnerabilities-c04643fe637d?source=rss----7b722bfd1b8d---4)
 - [Your Car’s Secret Weakness: The Hidden Dangers of Bluetooth](https://infosecwriteups.com/your-cars-secret-weakness-the-hidden-dangers-of-bluetooth-6af570e6726b?source=rss----7b722bfd1b8d---4)
