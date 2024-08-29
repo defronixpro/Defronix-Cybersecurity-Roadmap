@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Day 23 of 30 Days — 30 Vulnerabilities | JSON Web Token &lpar;JWT&rpar; Attacks](https://it4chis3c.medium.com/day-23-of-30-days-30-vulnerabilities-json-web-token-jwt-attacks-89e59be23777?source=rss------bug_bounty_writeup-5)
 - [How to Find DOM XSS During Code Review of Java](https://medium.com/@bountyget/how-to-find-dom-xss-during-code-review-of-java-3d84c4c7ad40?source=rss------bug_bounty_writeup-5)
 - [Asymmetric Returns: How MSSPs are Using Automation to Outcompete One Another](https://infosecwriteups.com/asymmetric-returns-how-mssps-are-using-automation-to-outcompete-one-another-7d466eaf989f?source=rss----7b722bfd1b8d---4)
 - [Chamilo LMS 1.11.14: Analysis of Two Blind SQL Injection Vulnerabilities](https://infosecwriteups.com/chamilo-lms-1-11-14-analysis-of-two-blind-sql-injection-vulnerabilities-c04643fe637d?source=rss----7b722bfd1b8d---4)
@@ -933,7 +934,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Unveiling all the techniques to find IDOR’S in web applications](https://medium.com/@bilalresearcher/unveiling-all-the-techniques-to-find-idors-in-web-applications-4022d0da6955?source=rss------bug_bounty_writeup-5)
 - [SSTI Exploitation Part II In Web Applications &lpar;with exploitation example&rpar;](https://medium.com/@bilalresearcher/ssti-exploitation-part-ii-in-web-applications-with-exploitation-example-03b6b666c216?source=rss------bug_bounty_writeup-5)
 - [SSTI Injections Identification During Pentesting Web Applications &lpar;with exploitation example&rpar;](https://medium.com/@bilalresearcher/ssti-injections-identification-during-pentesting-web-applications-with-exploitation-example-3ab0e0288dca?source=rss------bug_bounty_writeup-5)
-- [Discovering Two Out-of-Scope Blind/Stored XSS Vulnerabilities in an Admin Panel on a Public Bug…](https://medium.com/@bilalresearcher/discovering-two-out-of-scope-blind-stored-xss-vulnerabilities-in-an-admin-panel-on-a-public-bug-2b5c12ba37b8?source=rss------bug_bounty_writeup-5)
 - [Your Car’s Secret Weakness: The Hidden Dangers of Bluetooth](https://infosecwriteups.com/your-cars-secret-weakness-the-hidden-dangers-of-bluetooth-6af570e6726b?source=rss----7b722bfd1b8d---4)
 - [Exploring ARP Poisoning: A Practical Lab Guide to Understanding and Implementing Spoofing Attacks](https://infosecwriteups.com/exploring-arp-poisoning-a-practical-lab-guide-to-understanding-and-implementing-spoofing-attacks-d8513c3fc958?source=rss----7b722bfd1b8d---4)
 - [Downloading VMware Fusion and Workstation 17 Pro Free](https://infosecwriteups.com/downloading-vmware-fusion-and-workstation-17-pro-free-2b8dfd59cd3e?source=rss----7b722bfd1b8d---4)
