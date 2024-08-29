@@ -1,6 +1,8 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [OAuth CSRF: Exploiting the Authorization Code Flow for Account Takeover](https://medium.com/@bilalresearcher/oauth-csrf-exploiting-the-authorization-code-flow-for-account-takeover-b1e3790416b7?source=rss------bug_bounty_writeup-5)
+- [Two Factor Authentication Bypass via using Victim’s DeviceID](https://medium.com/@bilalresearcher/two-factor-authentication-bypass-via-using-victims-deviceid-1fc10bfe95c9?source=rss------bug_bounty_writeup-5)
 - [Bypassed an Admin Panel Using SQL Payloads](https://medium.com/@bilalresearcher/bypassed-an-admin-panel-using-sql-payloads-572574b41d1c?source=rss------bug_bounty_writeup-5)
 - [Hunting JavaScript File for Bug Hunters](https://medium.com/@bilalresearcher/hunting-javascript-file-for-bug-hunters-ae4af0479a9c?source=rss------bug_bounty_writeup-5)
 - [Common 403 Bypasses Part 2](https://medium.com/@bilalresearcher/common-403-bypasses-part-2-80fd094a86fe?source=rss------bug_bounty_writeup-5)
@@ -9,8 +11,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Disable Any Customer Ability To Create Service Account With Business Logic Vulnerability](https://medium.com/@bilalresearcher/disable-any-customer-ability-to-create-service-account-with-business-logic-vulnerability-05ab37901a4a?source=rss------bug_bounty_writeup-5)
 - [Reflected XSS To Account Takeover Without Stealing Session Cookie](https://medium.com/@bilalresearcher/reflected-xss-to-account-takeover-without-stealing-session-cookie-413e522aac40?source=rss------bug_bounty_writeup-5)
 - [Detecting Blind Injection Attacks with Discord Webhooks](https://medium.com/@bilalresearcher/detecting-blind-injection-attacks-with-discord-webhooks-9a9d3b566bf1?source=rss------bug_bounty_writeup-5)
-- [A Beautiful Bug: Interesting URL scheme bypass + Race Condition](https://medium.com/@bilalresearcher/a-beautiful-bug-interesting-url-scheme-bypass-race-condition-e8ff79361740?source=rss------bug_bounty_writeup-5)
-- [My Journey to the United Nations Hall of Fame: A Story of Lucky Me](https://medium.com/@siddharth_1/my-journey-to-the-united-nations-hall-of-fame-a-story-of-lucky-me-d489d93bd363?source=rss------bug_bounty_writeup-5)
 - [Asymmetric Returns: How MSSPs are Using Automation to Outcompete One Another](https://infosecwriteups.com/asymmetric-returns-how-mssps-are-using-automation-to-outcompete-one-another-7d466eaf989f?source=rss----7b722bfd1b8d---4)
 - [Chamilo LMS 1.11.14: Analysis of Two Blind SQL Injection Vulnerabilities](https://infosecwriteups.com/chamilo-lms-1-11-14-analysis-of-two-blind-sql-injection-vulnerabilities-c04643fe637d?source=rss----7b722bfd1b8d---4)
 - [Your Car’s Secret Weakness: The Hidden Dangers of Bluetooth](https://infosecwriteups.com/your-cars-secret-weakness-the-hidden-dangers-of-bluetooth-6af570e6726b?source=rss----7b722bfd1b8d---4)
