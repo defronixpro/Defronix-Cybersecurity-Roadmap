@@ -7,6 +7,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [IDOR : Deleting Comments Like a Boss!](https://medium.com/@tanyago/idor-deleting-comments-like-a-boss-0413a375024f?source=rss------bug_bounty_writeup-5)
 - [Exploiting Second-Order IDOR Vulnerabilities](https://medium.com/@bountyget/exploiting-second-order-idor-vulnerabilities-6d2554eb1319?source=rss------bug_bounty_writeup-5)
 - [Exploiting IDORs in APIs That Use Static Keywords](https://medium.com/@bountyget/exploiting-idors-in-apis-that-use-static-keywords-f94b7797634a?source=rss------bug_bounty_writeup-5)
+- [Mass Account Takeover via Reset Password](https://medium.com/@sniss_thomas/mass-account-takeover-via-reset-password-52574c0a0597?source=rss------bug_bounty_writeup-5)
 - [Unveiling all the techniques to find IDOR’S in web applications](https://medium.com/@bilalresearcher/unveiling-all-the-techniques-to-find-idors-in-web-applications-4022d0da6955?source=rss------bug_bounty_writeup-5)
 - [SSTI Exploitation Part II In Web Applications &lpar;with exploitation example&rpar;](https://medium.com/@bilalresearcher/ssti-exploitation-part-ii-in-web-applications-with-exploitation-example-03b6b666c216?source=rss------bug_bounty_writeup-5)
 - [SSTI Injections Identification During Pentesting Web Applications &lpar;with exploitation example&rpar;](https://medium.com/@bilalresearcher/ssti-injections-identification-during-pentesting-web-applications-with-exploitation-example-3ab0e0288dca?source=rss------bug_bounty_writeup-5)
