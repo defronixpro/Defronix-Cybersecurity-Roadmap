@@ -922,16 +922,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [XSS Web Application Firewall Bypass Techniques](https://medium.com/@bilalresearcher/xss-web-application-firewall-bypass-techniques-e10476b5fa72?source=rss------bug_bounty_writeup-5)
-- [OAuth CSRF: Exploiting the Authorization Code Flow for Account Takeover](https://medium.com/@bilalresearcher/oauth-csrf-exploiting-the-authorization-code-flow-for-account-takeover-b1e3790416b7?source=rss------bug_bounty_writeup-5)
-- [Two Factor Authentication Bypass via using Victim’s DeviceID](https://medium.com/@bilalresearcher/two-factor-authentication-bypass-via-using-victims-deviceid-1fc10bfe95c9?source=rss------bug_bounty_writeup-5)
-- [Bypassed an Admin Panel Using SQL Payloads](https://medium.com/@bilalresearcher/bypassed-an-admin-panel-using-sql-payloads-572574b41d1c?source=rss------bug_bounty_writeup-5)
-- [Hunting JavaScript File for Bug Hunters](https://medium.com/@bilalresearcher/hunting-javascript-file-for-bug-hunters-ae4af0479a9c?source=rss------bug_bounty_writeup-5)
-- [Common 403 Bypasses Part 2](https://medium.com/@bilalresearcher/common-403-bypasses-part-2-80fd094a86fe?source=rss------bug_bounty_writeup-5)
-- [Common 403 Bypasses Part 1](https://medium.com/@bilalresearcher/common-403-bypasses-part-1-a693a8413108?source=rss------bug_bounty_writeup-5)
-- [Advanced SQLMap Customization](https://medium.com/@bilalresearcher/advanced-sqlmap-customization-34d04b6c0984?source=rss------bug_bounty_writeup-5)
-- [Disable Any Customer Ability To Create Service Account With Business Logic Vulnerability](https://medium.com/@bilalresearcher/disable-any-customer-ability-to-create-service-account-with-business-logic-vulnerability-05ab37901a4a?source=rss------bug_bounty_writeup-5)
-- [Reflected XSS To Account Takeover Without Stealing Session Cookie](https://medium.com/@bilalresearcher/reflected-xss-to-account-takeover-without-stealing-session-cookie-413e522aac40?source=rss------bug_bounty_writeup-5)
 - [Asymmetric Returns: How MSSPs are Using Automation to Outcompete One Another](https://infosecwriteups.com/asymmetric-returns-how-mssps-are-using-automation-to-outcompete-one-another-7d466eaf989f?source=rss----7b722bfd1b8d---4)
 - [Chamilo LMS 1.11.14: Analysis of Two Blind SQL Injection Vulnerabilities](https://infosecwriteups.com/chamilo-lms-1-11-14-analysis-of-two-blind-sql-injection-vulnerabilities-c04643fe637d?source=rss----7b722bfd1b8d---4)
 - [Your Car’s Secret Weakness: The Hidden Dangers of Bluetooth](https://infosecwriteups.com/your-cars-secret-weakness-the-hidden-dangers-of-bluetooth-6af570e6726b?source=rss----7b722bfd1b8d---4)
@@ -972,6 +962,16 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Common Ecommerce Vulnerabilities: Reflected XSS](https://www.hackerone.com/vulnerability-management/reflected-xss-ecommerce)
 - [Pentesting for NIST 800-53, FISMA, and FedRAMP](https://www.hackerone.com/security-compliance/nist-800-53-fisma-fedramp)
 - [Pride Month: Stories from Our LGBTQ+ Employees](https://www.hackerone.com/culture-and-talent/pride-month-stories-our-lgbtq-employees)
+- [How to Find XSS](https://www.hackerone.com/ethical-hacker/how-to-find-xss)
+- [Celebrating International Women in Engineering Day](https://www.hackerone.com/culture-and-talent/celebrating-international-women-engineering-day)
+- [Sales Development Representatives Win as a Team](https://www.hackerone.com/culture-and-talent/sdr-win-team)
+- [Community-driven PTaaS vs. Traditional Pentesting](https://www.hackerone.com/penetration-testing/ptaas-vs-traditional-pentest)
+- [What HackerOne Customers Can Tell You About Securing Organizational Buy-In for Ethical Hackers](https://www.hackerone.com/customer-stories/securing-organizational-buy-in)
+- [From Zero to Hero:  Your Guide to Building a Bug Bounty Program With HackerOne](https://www.hackerone.com/vulnerability-management/bug-bounty-program-guide)
+- [HackerOne Company Values Matter: Execute with Excellence](https://www.hackerone.com/culture-and-talent/hackerone-company-values-matter-execute-excellence)
+- [NIST CSF 2.0 and Pentesting: What You Need to Know](https://www.hackerone.com/security-compliance/nist-csf-pentesting)
+- [Hack My Career: Advice from HackerOne Employees](https://www.hackerone.com/culture-and-talent/hack-my-career-advice-hackerone-employees)
+- [HackerOne&#39;s List of Top 10 AI EMB&lpar;arrassments&rpar;](https://www.hackerone.com/ai/top-10-ai-embarrassments)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
