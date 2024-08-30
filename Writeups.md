@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [My Five Minute Critical Vulnerability Discovery on Hackerone](https://medium.com/@0xvan/my-five-minute-critical-vulnerability-discovery-on-hackerone-067258333c80?source=rss------bug_bounty_writeup-5)
 - [New trick to make self xss impactful](https://medium.com/@Rahulkrishnan_R_Panicker/new-trick-to-make-self-xss-impactful-073d52a07d4f?source=rss------bug_bounty_writeup-5)
 - [Asymmetric Returns: How MSSPs are Using Automation to Outcompete One Another](https://infosecwriteups.com/asymmetric-returns-how-mssps-are-using-automation-to-outcompete-one-another-7d466eaf989f?source=rss----7b722bfd1b8d---4)
 - [Chamilo LMS 1.11.14: Analysis of Two Blind SQL Injection Vulnerabilities](https://infosecwriteups.com/chamilo-lms-1-11-14-analysis-of-two-blind-sql-injection-vulnerabilities-c04643fe637d?source=rss----7b722bfd1b8d---4)
