@@ -3,6 +3,8 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 <!-- WRITEUPS:START -->
 - [My Five Minute Critical Vulnerability Discovery on Hackerone](https://medium.com/@0xvan/my-five-minute-critical-vulnerability-discovery-on-hackerone-067258333c80?source=rss------bug_bounty_writeup-5)
 - [New trick to make self xss impactful](https://medium.com/@Rahulkrishnan_R_Panicker/new-trick-to-make-self-xss-impactful-073d52a07d4f?source=rss------bug_bounty_writeup-5)
+- [Pentesting for iOS Mobile Applications](https://www.hackerone.com/penetration-testing/ios-mobile-applications)
+- [How Hai Facilitates Clear and Effective Communication](https://www.hackerone.com/ai/hai-facilitates-effective-communication)
 - [Asymmetric Returns: How MSSPs are Using Automation to Outcompete One Another](https://infosecwriteups.com/asymmetric-returns-how-mssps-are-using-automation-to-outcompete-one-another-7d466eaf989f?source=rss----7b722bfd1b8d---4)
 - [Chamilo LMS 1.11.14: Analysis of Two Blind SQL Injection Vulnerabilities](https://infosecwriteups.com/chamilo-lms-1-11-14-analysis-of-two-blind-sql-injection-vulnerabilities-c04643fe637d?source=rss----7b722bfd1b8d---4)
 - [Your Car’s Secret Weakness: The Hidden Dangers of Bluetooth](https://infosecwriteups.com/your-cars-secret-weakness-the-hidden-dangers-of-bluetooth-6af570e6726b?source=rss----7b722bfd1b8d---4)
