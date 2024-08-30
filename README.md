@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [HackerOne’s Commitment to Learning and Development](https://www.hackerone.com/culture-and-talent/hackerones-commitment-learning-and-development)
 - [My Five Minute Critical Vulnerability Discovery on Hackerone](https://medium.com/@0xvan/my-five-minute-critical-vulnerability-discovery-on-hackerone-067258333c80?source=rss------bug_bounty_writeup-5)
 - [New trick to make self xss impactful](https://medium.com/@Rahulkrishnan_R_Panicker/new-trick-to-make-self-xss-impactful-073d52a07d4f?source=rss------bug_bounty_writeup-5)
 - [Pentesting for iOS Mobile Applications](https://www.hackerone.com/penetration-testing/ios-mobile-applications)
@@ -971,7 +972,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Sales Development Representatives Win as a Team](https://www.hackerone.com/culture-and-talent/sdr-win-team)
 - [Community-driven PTaaS vs. Traditional Pentesting](https://www.hackerone.com/penetration-testing/ptaas-vs-traditional-pentest)
 - [What HackerOne Customers Can Tell You About Securing Organizational Buy-In for Ethical Hackers](https://www.hackerone.com/customer-stories/securing-organizational-buy-in)
-- [From Zero to Hero:  Your Guide to Building a Bug Bounty Program With HackerOne](https://www.hackerone.com/vulnerability-management/bug-bounty-program-guide)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
