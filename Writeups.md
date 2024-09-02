@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How to Automate Subdomain Takeover Finding: Low Hang Fruit…](https://dkcyberz.medium.com/how-to-automate-subdomain-takeover-finding-low-hang-fruit-5733f2794df1?source=rss------bug_bounty_writeup-5)
 - [Business logic / Failed defense Vulnerability in bug bounty](https://itsravikiran25.medium.com/business-logic-failed-defense-vulnerability-in-bug-bounty-4ab932a1a200?source=rss------bug_bounty_writeup-5)
 - [How I Hacked into Yamaha using CVE 2017-5487](https://medium.com/@josuofficial327/how-i-found-an-easy-cve-in-yamaha-964366a34b59?source=rss------bug_bounty_writeup-5)
 - [Writeup: Path mapping for web cache deception @ PortSwigger Academy](https://infosecwriteups.com/writeup-path-mapping-for-web-cache-deception-portswigger-academy-184ae04ca4c7?source=rss----7b722bfd1b8d---4)
