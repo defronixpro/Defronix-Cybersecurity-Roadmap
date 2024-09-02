@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I Found an Easy CVE in Yamaha](https://medium.com/@josuofficial327/how-i-found-an-easy-cve-in-yamaha-964366a34b59?source=rss------bug_bounty_writeup-5)
 - [Writeup: Path mapping for web cache deception @ PortSwigger Academy](https://infosecwriteups.com/writeup-path-mapping-for-web-cache-deception-portswigger-academy-184ae04ca4c7?source=rss----7b722bfd1b8d---4)
 - [A Story About How I Found XSS in ASUS](https://infosecwriteups.com/a-story-about-how-i-found-xss-in-asus-cb233ce3bb9c?source=rss----7b722bfd1b8d---4)
 - [What is /etc/passwd group shadow file in Linux](https://infosecwriteups.com/what-is-etc-passwd-group-shadow-file-in-linux-bd7b28f353f3?source=rss----7b722bfd1b8d---4)
@@ -971,7 +972,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Celebrating International Women in Engineering Day](https://www.hackerone.com/culture-and-talent/celebrating-international-women-engineering-day)
 - [Sales Development Representatives Win as a Team](https://www.hackerone.com/culture-and-talent/sdr-win-team)
 - [Community-driven PTaaS vs. Traditional Pentesting](https://www.hackerone.com/penetration-testing/ptaas-vs-traditional-pentest)
-- [What HackerOne Customers Can Tell You About Securing Organizational Buy-In for Ethical Hackers](https://www.hackerone.com/customer-stories/securing-organizational-buy-in)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
