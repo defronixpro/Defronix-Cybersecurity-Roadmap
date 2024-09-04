@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Broken Authentication Leads to the Ability to Unsubscribe Other Users&#39; Payment Reminders](https://medium.com/@blackarazi/broken-authentication-leads-to-the-ability-to-unsubscribe-other-users-payment-reminders-0fdb1a63edec?source=rss------bug_bounty_writeup-5)
 - [How to Automate Subdomain Takeover Finding: Low Hang Fruit…](https://dkcyberz.medium.com/how-to-automate-subdomain-takeover-finding-low-hang-fruit-5733f2794df1?source=rss------bug_bounty_writeup-5)
 - [Business logic / Failed defense Vulnerability in bug bounty](https://itsravikiran25.medium.com/business-logic-failed-defense-vulnerability-in-bug-bounty-4ab932a1a200?source=rss------bug_bounty_writeup-5)
 - [How I Hacked into Yamaha using CVE 2017-5487](https://medium.com/@josuofficial327/how-i-found-an-easy-cve-in-yamaha-964366a34b59?source=rss------bug_bounty_writeup-5)
@@ -971,7 +972,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Pentesting for NIST 800-53, FISMA, and FedRAMP](https://www.hackerone.com/security-compliance/nist-800-53-fisma-fedramp)
 - [Pride Month: Stories from Our LGBTQ+ Employees](https://www.hackerone.com/culture-and-talent/pride-month-stories-our-lgbtq-employees)
 - [How to Find XSS](https://www.hackerone.com/ethical-hacker/how-to-find-xss)
-- [Celebrating International Women in Engineering Day](https://www.hackerone.com/culture-and-talent/celebrating-international-women-engineering-day)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
