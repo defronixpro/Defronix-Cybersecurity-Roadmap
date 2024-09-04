@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [OSCP is not the same anymore](https://infosecwriteups.com/oscp-is-not-the-same-anymore-82b93a7aca58?source=rss----7b722bfd1b8d---4)
 - [Zomatoooo! IDOR in Saved Payments](https://prateeksrivastavaa.medium.com/zomatoooo-idor-in-saved-payments-f8c014879741?source=rss------bug_bounty_writeup-5)
 - [Broken Authentication Leads to the Ability to Unsubscribe Other Users&#39; Payment Reminders](https://medium.com/@blackarazi/broken-authentication-leads-to-the-ability-to-unsubscribe-other-users-payment-reminders-0fdb1a63edec?source=rss------bug_bounty_writeup-5)
 - [Crushing FUD: Embracing Ethical Hackers to Strengthen Cybersecurity](https://www.hackerone.com/vulnerability-management/crushing-fud)
@@ -16,7 +17,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How to Get Started in Bug Bounty Hunting: A Comprehensive Beginner’s Guide](https://infosecwriteups.com/how-to-get-started-in-bug-bounty-hunting-a-comprehensive-beginners-guide-4cdaf3dcd910?source=rss----7b722bfd1b8d---4)
 - [The Discovery of CVE-2024–5947: Authentication Bypass in Deep Sea Electronics DSE855](https://infosecwriteups.com/the-discovery-of-cve-2024-5947-authentication-bypass-in-deep-sea-electronics-dse855-5fa2e89cbdfb?source=rss----7b722bfd1b8d---4)
 - [Certified AI/ML Pentester &lpar;C-AI/MLPen&rpar; Review](https://infosecwriteups.com/certified-ai-ml-pentester-c-ai-mlpen-review-f465bcdef8ef?source=rss----7b722bfd1b8d---4)
-- [The Hunt for XXE to LFI: How I Uncovered CVE-2019–9670 in a Bug Bounty Program](https://infosecwriteups.com/the-hunt-for-xxe-to-lfi-how-i-uncovered-cve-2019-9670-in-a-bug-bounty-program-5668e4afa806?source=rss----7b722bfd1b8d---4)
 - [HackerOne’s Commitment to Learning and Development](https://www.hackerone.com/culture-and-talent/hackerones-commitment-learning-and-development)
 - [My Five Minute Critical Vulnerability Discovery on Hackerone](https://medium.com/@0xvan/my-five-minute-critical-vulnerability-discovery-on-hackerone-067258333c80?source=rss------bug_bounty_writeup-5)
 - [New trick to make self xss impactful](https://medium.com/@Rahulkrishnan_R_Panicker/new-trick-to-make-self-xss-impactful-073d52a07d4f?source=rss------bug_bounty_writeup-5)
