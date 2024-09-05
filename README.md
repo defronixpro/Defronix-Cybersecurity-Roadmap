@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Quantifying the Value of Bug Bounty Programs: ROI, ROM, or Both?](https://www.hackerone.com/vulnerability-management/quantifying-value-bug-bounty-programs-roi-rom-or-both)
 - [OSCP is not the same anymore](https://infosecwriteups.com/oscp-is-not-the-same-anymore-82b93a7aca58?source=rss----7b722bfd1b8d---4)
 - [Zomatoooo! IDOR in Saved Payments](https://prateeksrivastavaa.medium.com/zomatoooo-idor-in-saved-payments-f8c014879741?source=rss------bug_bounty_writeup-5)
 - [Broken Authentication Leads to the Ability to Unsubscribe Other Users&#39; Payment Reminders](https://medium.com/@blackarazi/broken-authentication-leads-to-the-ability-to-unsubscribe-other-users-payment-reminders-0fdb1a63edec?source=rss------bug_bounty_writeup-5)
@@ -971,7 +972,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [What HackerOne Customers Say About Remediating Vulnerabilities and Getting the Best Results From Hackers](https://www.hackerone.com/customer-stories/get-the-most-from-hackers)
 - [Introducing HackerOne&#39;s Hai API: Revolutionize Your Workflow Automation with AI](https://www.hackerone.com/ai/hai-api)
 - [Common Ecommerce Vulnerabilities: Reflected XSS](https://www.hackerone.com/vulnerability-management/reflected-xss-ecommerce)
-- [Pentesting for NIST 800-53, FISMA, and FedRAMP](https://www.hackerone.com/security-compliance/nist-800-53-fisma-fedramp)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
