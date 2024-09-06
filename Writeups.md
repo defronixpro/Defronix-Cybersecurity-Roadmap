@@ -4,7 +4,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Quantifying the Value of Bug Bounty Programs: ROI, ROM, or Both?](https://www.hackerone.com/vulnerability-management/quantifying-value-bug-bounty-programs-roi-rom-or-both)
 - [OSCP is not the same anymore](https://infosecwriteups.com/oscp-is-not-the-same-anymore-82b93a7aca58?source=rss----7b722bfd1b8d---4)
 - [Zomatoooo! IDOR in Saved Payments](https://prateeksrivastavaa.medium.com/zomatoooo-idor-in-saved-payments-f8c014879741?source=rss------bug_bounty_writeup-5)
-- [Broken Authentication Leads to the Ability to Unsubscribe Other Users&#39; Payment Reminders](https://medium.com/@blackarazi/broken-authentication-leads-to-the-ability-to-unsubscribe-other-users-payment-reminders-0fdb1a63edec?source=rss------bug_bounty_writeup-5)
+- [Broken Authentication Leads to the Ability to Unsubscribe Other Users&#39; Reminders](https://medium.com/@blackarazi/broken-authentication-leads-to-the-ability-to-unsubscribe-other-users-payment-reminders-0fdb1a63edec?source=rss------bug_bounty_writeup-5)
 - [Crushing FUD: Embracing Ethical Hackers to Strengthen Cybersecurity](https://www.hackerone.com/vulnerability-management/crushing-fud)
 - [How to Automate Subdomain Takeover Finding: Low Hang Fruit…](https://dkcyberz.medium.com/how-to-automate-subdomain-takeover-finding-low-hang-fruit-5733f2794df1?source=rss------bug_bounty_writeup-5)
 - [Business logic / Failed defense Vulnerability in bug bounty](https://itsravikiran25.medium.com/business-logic-failed-defense-vulnerability-in-bug-bounty-4ab932a1a200?source=rss------bug_bounty_writeup-5)
