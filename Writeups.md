@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Bug Bounty Road ️ Map ️](https://osintteam.blog/bug-bounty-road-%EF%B8%8F-map-%EF%B8%8F-b42c14750a6a?source=rss------bug_bounty_writeup-5)
 - [As Luck Would Have It — tales of good fortune in bug bounty](https://medium.com/@l_s_/as-luck-would-have-it-tales-of-good-fortune-in-bug-bounty-9c56d31b3ef5?source=rss------bug_bounty_writeup-5)
 - [[$12000] 3 Critical 0-click TikTok Account Takeover Vulnerabilities, 2FA bypass &amp; more security…](https://vojtechcekal.medium.com/12000-3-critical-0-click-tiktok-account-takeover-vulnerabilities-2fa-bypass-more-security-78554827cfc3?source=rss------bug_bounty_writeup-5)
 - [Quantifying the Value of Bug Bounty Programs: ROI, ROM, or Both?](https://www.hackerone.com/vulnerability-management/quantifying-value-bug-bounty-programs-roi-rom-or-both)
