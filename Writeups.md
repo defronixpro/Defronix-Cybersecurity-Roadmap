@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Mass Account Takeover Via Stored XSS](https://pentestershihab.medium.com/mass-account-takeover-via-stored-xss-40328623902d?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Road ️ Map ️](https://osintteam.blog/bug-bounty-road-%EF%B8%8F-map-%EF%B8%8F-b42c14750a6a?source=rss------bug_bounty_writeup-5)
 - [As Luck Would Have It — tales of good fortune in bug bounty](https://medium.com/@l_s_/as-luck-would-have-it-tales-of-good-fortune-in-bug-bounty-9c56d31b3ef5?source=rss------bug_bounty_writeup-5)
 - [[$12000] How I found 3 Critical 0-click TikTok Account Takeover Vulnerabilities, 2FA bypass &amp; more…](https://vojtechcekal.medium.com/12000-3-critical-0-click-tiktok-account-takeover-vulnerabilities-2fa-bypass-more-security-78554827cfc3?source=rss------bug_bounty_writeup-5)
@@ -23,7 +24,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Certified AI/ML Pentester &lpar;C-AI/MLPen&rpar; Review](https://infosecwriteups.com/certified-ai-ml-pentester-c-ai-mlpen-review-f465bcdef8ef?source=rss----7b722bfd1b8d---4)
 - [HackerOne’s Commitment to Learning and Development](https://www.hackerone.com/culture-and-talent/hackerones-commitment-learning-and-development)
 - [My Five Minute Critical Vulnerability Discovery on Hackerone](https://medium.com/@0xvan/my-five-minute-critical-vulnerability-discovery-on-hackerone-067258333c80?source=rss------bug_bounty_writeup-5)
-- [New trick to make self xss impactful](https://medium.com/@Rahulkrishnan_R_Panicker/new-trick-to-make-self-xss-impactful-073d52a07d4f?source=rss------bug_bounty_writeup-5)
 - [Pentesting for iOS Mobile Applications](https://www.hackerone.com/penetration-testing/ios-mobile-applications)
 - [How Hai Facilitates Clear and Effective Communication](https://www.hackerone.com/ai/hai-facilitates-effective-communication)
 - [100 Hacking Tools and Resources](https://www.hackerone.com/ethical-hacker/100-hacking-tools-and-resources)
