@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Discovering a Stored XSS Vulnerability on a Bug Bounty Program](https://anmolvishwakarma7466.medium.com/discovering-a-stored-xss-vulnerability-on-a-bug-bounty-program-8dad1b475695?source=rss------bug_bounty_writeup-5)
 - [Mass Account Takeover Via Stored XSS](https://pentestershihab.medium.com/mass-account-takeover-via-stored-xss-40328623902d?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Road ️ Map ️](https://osintteam.blog/bug-bounty-road-%EF%B8%8F-map-%EF%B8%8F-b42c14750a6a?source=rss------bug_bounty_writeup-5)
 - [As Luck Would Have It — tales of good fortune in bug bounty](https://medium.com/@l_s_/as-luck-would-have-it-tales-of-good-fortune-in-bug-bounty-9c56d31b3ef5?source=rss------bug_bounty_writeup-5)
@@ -944,7 +945,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [The Discovery of CVE-2024–5947: Authentication Bypass in Deep Sea Electronics DSE855](https://infosecwriteups.com/the-discovery-of-cve-2024-5947-authentication-bypass-in-deep-sea-electronics-dse855-5fa2e89cbdfb?source=rss----7b722bfd1b8d---4)
 - [Certified AI/ML Pentester &lpar;C-AI/MLPen&rpar; Review](https://infosecwriteups.com/certified-ai-ml-pentester-c-ai-mlpen-review-f465bcdef8ef?source=rss----7b722bfd1b8d---4)
 - [HackerOne’s Commitment to Learning and Development](https://www.hackerone.com/culture-and-talent/hackerones-commitment-learning-and-development)
-- [My Five Minute Critical Vulnerability Discovery on Hackerone](https://medium.com/@0xvan/my-five-minute-critical-vulnerability-discovery-on-hackerone-067258333c80?source=rss------bug_bounty_writeup-5)
 - [Pentesting for iOS Mobile Applications](https://www.hackerone.com/penetration-testing/ios-mobile-applications)
 - [How Hai Facilitates Clear and Effective Communication](https://www.hackerone.com/ai/hai-facilitates-effective-communication)
 - [100 Hacking Tools and Resources](https://www.hackerone.com/ethical-hacker/100-hacking-tools-and-resources)
