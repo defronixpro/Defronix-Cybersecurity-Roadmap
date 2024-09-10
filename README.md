@@ -934,6 +934,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [A Story About How I Found CVE-2024–24919 in Sony’s HackerOne Program &lpar;and Ended Up Getting Swag&rpar;](https://infosecwriteups.com/a-story-about-how-i-found-cve-2024-24919-in-sonys-hackerone-program-and-ended-up-getting-swag-394c6dd18c04?source=rss----7b722bfd1b8d---4)
 - [My recon methodology for hunting CVE-2021–42063 led to discovering an RXSS vulnerability in the…](https://infosecwriteups.com/my-recon-methodology-for-hunting-cve-2021-42063-led-to-discovering-an-rxss-vulnerability-in-the-80bd4ca0f623?source=rss----7b722bfd1b8d---4)
 - [My first Hall of Fame &lpar;HoF&rpar; | Bug Bounty Journey.](https://rivudon.medium.com/my-first-hall-of-fame-hof-bug-bounty-journey-59a56b1e96c2?source=rss------bug_bounty_writeup-5)
+- [Capital One Launches Public Bug Bounty Program with HackerOne](https://www.hackerone.com/customer-stories/capital-one-public-bug-bounty)
 - [Self-XSS to ATO via Quick Login feature](https://thecatfather.medium.com/self-xss-to-ato-via-quick-login-feature-532df12d1c08?source=rss------bug_bounty_writeup-5)
 - [From Basics to Advanced: SQL Injection Types, Payloads](https://bootstrapsecurity.medium.com/sql-injection-types-payloads-vulnerabilities-508a180c339b?source=rss------bug_bounty_writeup-5)
 - [Discovering a Stored XSS Vulnerability on a Bug Bounty Program](https://anmolvishwakarma7466.medium.com/discovering-a-stored-xss-vulnerability-on-a-bug-bounty-program-8dad1b475695?source=rss------bug_bounty_writeup-5)
@@ -971,7 +972,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [10 Years of the GitHub Security Bug Bounty Program](https://www.hackerone.com/customer-stories/10-years-github-security-bug-bounty-program)
 - [Feedback-Driven Interviewing at HackerOne](https://www.hackerone.com/culture-and-talent/feedback-driven-interviewing-hackerone)
 - [What HackerOne Customers Say About the Problems Hackers Solve](https://www.hackerone.com/customer-stories/hackers-solve-problems)
-- [Pentesting for Web Applications](https://www.hackerone.com/penetration-testing/web-applications)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
