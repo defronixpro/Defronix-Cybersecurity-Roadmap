@@ -942,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Bug Bounty Road ️ Map ️](https://osintteam.blog/bug-bounty-road-%EF%B8%8F-map-%EF%B8%8F-b42c14750a6a?source=rss------bug_bounty_writeup-5)
 - [From Prospect to Partner: Jon Stone Shares HackerOne Career Story](https://www.hackerone.com/culture-and-talent/prospect-partner-jon-stone-shares-hackerone-career-story)
 - [As Luck Would Have It — tales of good fortune in bug bounty](https://medium.com/@l_s_/as-luck-would-have-it-tales-of-good-fortune-in-bug-bounty-9c56d31b3ef5?source=rss------bug_bounty_writeup-5)
-- [[$12000] How I found 3 Critical 0-click TikTok Account Takeover Vulnerabilities, 2FA bypass &amp; more…](https://vojtechcekal.medium.com/12000-3-critical-0-click-tiktok-account-takeover-vulnerabilities-2fa-bypass-more-security-78554827cfc3?source=rss------bug_bounty_writeup-5)
 - [Quantifying the Value of Bug Bounty Programs: ROI, ROM, or Both?](https://www.hackerone.com/vulnerability-management/quantifying-value-bug-bounty-programs-roi-rom-or-both)
 - [Zomatoooo! IDOR in Saved Payments](https://prateeksrivastavaa.medium.com/zomatoooo-idor-in-saved-payments-f8c014879741?source=rss------bug_bounty_writeup-5)
 - [Crushing FUD: Embracing Ethical Hackers to Strengthen Cybersecurity](https://www.hackerone.com/vulnerability-management/crushing-fud)
@@ -972,6 +971,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [10 Years of the GitHub Security Bug Bounty Program](https://www.hackerone.com/customer-stories/10-years-github-security-bug-bounty-program)
 - [Feedback-Driven Interviewing at HackerOne](https://www.hackerone.com/culture-and-talent/feedback-driven-interviewing-hackerone)
 - [What HackerOne Customers Say About the Problems Hackers Solve](https://www.hackerone.com/customer-stories/hackers-solve-problems)
+- [Pentesting for Web Applications](https://www.hackerone.com/penetration-testing/web-applications)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
