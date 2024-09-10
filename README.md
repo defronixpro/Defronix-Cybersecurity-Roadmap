@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I find Time Base SQL Injection…!](https://medium.com/@mpjani294/how-i-find-time-base-sql-injection-dbec7420d97a?source=rss------bug_bounty_writeup-5)
+- [Announcing Hai Plays: Personalize Your Playbook for Spot-On Security Advice](https://www.hackerone.com/ai/hai-plays)
 - [TU PRIMER BOUNTY: SUBDOMAIN TAKEOVER EN IPAPER Y CÓMO PUEDES APROVECHARLO](https://medium.com/@g4b0.0rb/tu-primer-bounty-subdomain-takeover-en-ipaper-y-c%C3%B3mo-puedes-aprovecharlo-3d53307365d5?source=rss------bug_bounty_writeup-5)
 - [The “Who Needs Secure Attachments Anyway?” Saga](https://medium.com/@shobitsharma/the-who-needs-secure-attachments-anyway-saga-6026dc61a371?source=rss------bug_bounty_writeup-5)
 - [Linux reverse shell that &lpar;almost&rpar; always works.](https://infosecwriteups.com/linux-reverse-shell-that-almost-always-works-20d9f4521719?source=rss----7b722bfd1b8d---4)
@@ -970,8 +972,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How HackerOne Organizes a Remote Hack Week](https://www.hackerone.com/culture-and-talent/how-hackerone-organizes-remote-hack-week)
 - [10 Years of the GitHub Security Bug Bounty Program](https://www.hackerone.com/customer-stories/10-years-github-security-bug-bounty-program)
 - [Feedback-Driven Interviewing at HackerOne](https://www.hackerone.com/culture-and-talent/feedback-driven-interviewing-hackerone)
-- [What HackerOne Customers Say About the Problems Hackers Solve](https://www.hackerone.com/customer-stories/hackers-solve-problems)
-- [Pentesting for Web Applications](https://www.hackerone.com/penetration-testing/web-applications)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
