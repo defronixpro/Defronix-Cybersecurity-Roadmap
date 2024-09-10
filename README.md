@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [The “Who Needs Secure Attachments Anyway?” Saga](https://medium.com/@shobitsharma/the-who-needs-secure-attachments-anyway-saga-6026dc61a371?source=rss------bug_bounty_writeup-5)
 - [Linux reverse shell that &lpar;almost&rpar; always works.](https://infosecwriteups.com/linux-reverse-shell-that-almost-always-works-20d9f4521719?source=rss----7b722bfd1b8d---4)
 - [Windows reverse shell that &lpar;almost&rpar; always works.](https://infosecwriteups.com/windows-reverse-shell-that-almost-always-works-2aab514f820f?source=rss----7b722bfd1b8d---4)
 - [Optimal Ethical Hacker Setup for Penetration Testing](https://infosecwriteups.com/optimal-ethical-hacker-setup-for-penetration-testing-4847a8afbe45?source=rss----7b722bfd1b8d---4)
@@ -943,7 +944,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [[$12000] How I found 3 Critical 0-click TikTok Account Takeover Vulnerabilities, 2FA bypass &amp; more…](https://vojtechcekal.medium.com/12000-3-critical-0-click-tiktok-account-takeover-vulnerabilities-2fa-bypass-more-security-78554827cfc3?source=rss------bug_bounty_writeup-5)
 - [Quantifying the Value of Bug Bounty Programs: ROI, ROM, or Both?](https://www.hackerone.com/vulnerability-management/quantifying-value-bug-bounty-programs-roi-rom-or-both)
 - [Zomatoooo! IDOR in Saved Payments](https://prateeksrivastavaa.medium.com/zomatoooo-idor-in-saved-payments-f8c014879741?source=rss------bug_bounty_writeup-5)
-- [Broken Authentication Leads to the Ability to Unsubscribe Other Users&#39; Reminders](https://medium.com/@blackarazi/broken-authentication-leads-to-the-ability-to-unsubscribe-other-users-payment-reminders-0fdb1a63edec?source=rss------bug_bounty_writeup-5)
 - [Crushing FUD: Embracing Ethical Hackers to Strengthen Cybersecurity](https://www.hackerone.com/vulnerability-management/crushing-fud)
 - [HackerOne’s Commitment to Learning and Development](https://www.hackerone.com/culture-and-talent/hackerones-commitment-learning-and-development)
 - [Pentesting for iOS Mobile Applications](https://www.hackerone.com/penetration-testing/ios-mobile-applications)
