@@ -1,6 +1,8 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Google Safe Browsing Blacklisting Due to Website Compromise](https://infosecwriteups.com/google-safe-browsing-blacklisting-due-to-website-compromise-1d57af2a0513?source=rss----7b722bfd1b8d---4)
+- [Large-Scale Data Exfiltration: Exploiting Secrets in .env Files to Compromise Cloud Accounts](https://infosecwriteups.com/large-scale-data-exfiltration-exploiting-secrets-in-env-files-to-compromise-cloud-accounts-107dce22e601?source=rss----7b722bfd1b8d---4)
 - [How I got RCE on an Indian university without admin credentials Tale of directory listing, SQL…](https://medium.com/@alimuhammadsecured/how-i-got-rce-on-an-indian-university-without-admin-credentials-tale-of-directory-listing-sql-1f77e2933011?source=rss------bug_bounty_writeup-5)
 - [How I find Time Base SQL Injection…!](https://medium.com/@mpjani294/how-i-find-time-base-sql-injection-dbec7420d97a?source=rss------bug_bounty_writeup-5)
 - [Announcing Hai Plays: Personalize Your Playbook for Spot-On Security Advice](https://www.hackerone.com/ai/hai-plays)
@@ -15,8 +17,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Mastering Reconnaissance with Nmap: Unveiling Your Target’s Secrets](https://infosecwriteups.com/mastering-reconnaissance-with-nmap-unveiling-your-targets-secrets-ec940d05a140?source=rss----7b722bfd1b8d---4)
 - [Would you mind to tell me what your bank balance is? No? Okay, I’ll hack it.](https://infosecwriteups.com/would-you-mind-to-tell-me-what-your-bank-balance-is-no-okay-ill-hack-it-b3f49810cfe2?source=rss----7b722bfd1b8d---4)
 - [How to Actually Learn Hacking in 2024–25 : A Practical Guide](https://infosecwriteups.com/how-to-actually-learn-hacking-in-2024-25-a-practical-guide-faaca1dda42b?source=rss----7b722bfd1b8d---4)
-- [A Story About How I Found CVE-2024–24919 in Sony’s HackerOne Program &lpar;and Ended Up Getting Swag&rpar;](https://infosecwriteups.com/a-story-about-how-i-found-cve-2024-24919-in-sonys-hackerone-program-and-ended-up-getting-swag-394c6dd18c04?source=rss----7b722bfd1b8d---4)
-- [My recon methodology for hunting CVE-2021–42063 led to discovering an RXSS vulnerability in the…](https://infosecwriteups.com/my-recon-methodology-for-hunting-cve-2021-42063-led-to-discovering-an-rxss-vulnerability-in-the-80bd4ca0f623?source=rss----7b722bfd1b8d---4)
 - [My first Hall of Fame &lpar;HoF&rpar; | Bug Bounty Journey.](https://rivudon.medium.com/my-first-hall-of-fame-hof-bug-bounty-journey-59a56b1e96c2?source=rss------bug_bounty_writeup-5)
 - [Capital One Launches Public Bug Bounty Program with HackerOne](https://www.hackerone.com/customer-stories/capital-one-public-bug-bounty)
 - [Self-XSS to ATO via Quick Login feature](https://thecatfather.medium.com/self-xss-to-ato-via-quick-login-feature-532df12d1c08?source=rss------bug_bounty_writeup-5)
