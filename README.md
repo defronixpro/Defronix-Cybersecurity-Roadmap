@@ -941,7 +941,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [My first Hall of Fame &lpar;HoF&rpar; | Bug Bounty Journey.](https://rivudon.medium.com/my-first-hall-of-fame-hof-bug-bounty-journey-59a56b1e96c2?source=rss------bug_bounty_writeup-5)
 - [Capital One Launches Public Bug Bounty Program with HackerOne](https://www.hackerone.com/customer-stories/capital-one-public-bug-bounty)
 - [Self-XSS to ATO via Quick Login feature](https://thecatfather.medium.com/self-xss-to-ato-via-quick-login-feature-532df12d1c08?source=rss------bug_bounty_writeup-5)
-- [From Basics to Advanced: SQL Injection Types, Payloads](https://bootstrapsecurity.medium.com/sql-injection-types-payloads-vulnerabilities-508a180c339b?source=rss------bug_bounty_writeup-5)
+- [From Basics to Advanced: SQL Injection Types, Payloads](https://medium.com/@bootstrapsecurity/sql-injection-types-payloads-vulnerabilities-508a180c339b?source=rss------bug_bounty_writeup-5)
 - [Discovering a Stored XSS Vulnerability on a Bug Bounty Program](https://anmolvishwakarma7466.medium.com/discovering-a-stored-xss-vulnerability-on-a-bug-bounty-program-8dad1b475695?source=rss------bug_bounty_writeup-5)
 - [Mass Account Takeover Via Stored XSS](https://pentestershihab.medium.com/mass-account-takeover-via-stored-xss-40328623902d?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Road ️ Map ️](https://osintteam.blog/bug-bounty-road-%EF%B8%8F-map-%EF%B8%8F-b42c14750a6a?source=rss------bug_bounty_writeup-5)
