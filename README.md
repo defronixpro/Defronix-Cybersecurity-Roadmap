@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [My first XSS: Reflected XSS](https://medium.com/@osamamohamed21212121/my-first-xss-reflected-xss-0949992b94ab?source=rss------bug_bounty_writeup-5)
 - [The Rise of Bug Bounty Programs in S-1 Filings: A New Standard in Corporate Security](https://www.hackerone.com/vulnerability-management/bug-bounty-s-1-filings)
 - [Google Safe Browsing Blacklisting Due to Website Compromise](https://infosecwriteups.com/google-safe-browsing-blacklisting-due-to-website-compromise-1d57af2a0513?source=rss----7b722bfd1b8d---4)
 - [Large-Scale Data Exfiltration: Exploiting Secrets in .env Files to Compromise Cloud Accounts](https://infosecwriteups.com/large-scale-data-exfiltration-exploiting-secrets-in-env-files-to-compromise-cloud-accounts-107dce22e601?source=rss----7b722bfd1b8d---4)
@@ -945,7 +946,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [From Basics to Advanced: SQL Injection Types, Payloads](https://medium.com/@bootstrapsecurity/sql-injection-types-payloads-vulnerabilities-508a180c339b?source=rss------bug_bounty_writeup-5)
 - [Discovering a Stored XSS Vulnerability on a Bug Bounty Program](https://anmolvishwakarma7466.medium.com/discovering-a-stored-xss-vulnerability-on-a-bug-bounty-program-8dad1b475695?source=rss------bug_bounty_writeup-5)
 - [Mass Account Takeover Via Stored XSS](https://pentestershihab.medium.com/mass-account-takeover-via-stored-xss-40328623902d?source=rss------bug_bounty_writeup-5)
-- [Bug Bounty Road ️ Map ️](https://osintteam.blog/bug-bounty-road-%EF%B8%8F-map-%EF%B8%8F-b42c14750a6a?source=rss------bug_bounty_writeup-5)
 - [From Prospect to Partner: Jon Stone Shares HackerOne Career Story](https://www.hackerone.com/culture-and-talent/prospect-partner-jon-stone-shares-hackerone-career-story)
 - [Quantifying the Value of Bug Bounty Programs: ROI, ROM, or Both?](https://www.hackerone.com/vulnerability-management/quantifying-value-bug-bounty-programs-roi-rom-or-both)
 - [Crushing FUD: Embracing Ethical Hackers to Strengthen Cybersecurity](https://www.hackerone.com/vulnerability-management/crushing-fud)
