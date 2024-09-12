@@ -955,7 +955,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [100 Hacking Tools and Resources](https://www.hackerone.com/ethical-hacker/100-hacking-tools-and-resources)
 - [Retail Under Attack: 6 Learnings from a Retail Customer](https://www.hackerone.com/customer-stories/retail-under-attack)
 - [Hack My Career: Meet Bertijn Eldering](https://www.hackerone.com/culture-and-talent/hack-my-career-meet-bertijn-eldering)
-- [Takeaways from the Dismissal of the Government’s Case Against the SolarWinds CISO](https://www.hackerone.com/public-policy/solarwinds-case-dismissal)
+- [Takeaways from the Dismissal of Most of the Government’s Case Against the SolarWinds CISO](https://www.hackerone.com/public-policy/solarwinds-case-dismissal)
 - [5 Questions to Assess Your Organization’s Bug Bounty Readiness](https://www.hackerone.com/vulnerability-management/bug-bounty-readiness-questions)
 - [Hack My Career: Meet Alek Relyea](https://www.hackerone.com/culture-and-talent/hack-my-career-meet-alek-relyea)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
