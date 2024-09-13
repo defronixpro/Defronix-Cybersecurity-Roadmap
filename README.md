@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [API Hacking for Beginners: A Guide to Exploiting API Vulnerabilities](https://medium.com/@bootstrapsecurity/guide-to-hack-and-exploit-api-vulnerabilities-d0b57b93db7d?source=rss------bug_bounty_writeup-5)
 - [My first Account-take-over](https://medium.com/@osamamohamed21212121/my-first-account-take-over-f6590c4a3a54?source=rss------bug_bounty_writeup-5)
 - [My journey to find CSRF &lpar;Cross-Site Request Forgery &rpar;](https://medium.com/@osamamohamed21212121/my-journey-to-find-csrf-cross-site-request-forgery-ddf1e1bd579d?source=rss------bug_bounty_writeup-5)
 - [My first XSS: Reflected XSS](https://medium.com/@osamamohamed21212121/my-first-xss-reflected-xss-0949992b94ab?source=rss------bug_bounty_writeup-5)
@@ -937,15 +938,14 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Linux reverse shell that &lpar;almost&rpar; always works.](https://infosecwriteups.com/linux-reverse-shell-that-almost-always-works-20d9f4521719?source=rss----7b722bfd1b8d---4)
 - [Windows reverse shell that &lpar;almost&rpar; always works.](https://infosecwriteups.com/windows-reverse-shell-that-almost-always-works-2aab514f820f?source=rss----7b722bfd1b8d---4)
 - [Optimal Ethical Hacker Setup for Penetration Testing](https://infosecwriteups.com/optimal-ethical-hacker-setup-for-penetration-testing-4847a8afbe45?source=rss----7b722bfd1b8d---4)
-- [How to Recover Deleted Files Using Foremost](https://infosecwriteups.com/how-to-recover-deleted-files-using-foremost-in-linux-7b070ffcb307?source=rss----7b722bfd1b8d---4)
 - [Essential Windows Network Commands Every SOC Analyst Must Know](https://infosecwriteups.com/essential-windows-network-commands-every-soc-analyst-must-know-cd1187b9e8f7?source=rss----7b722bfd1b8d---4)
 - [Mastering Reconnaissance with Nmap: Unveiling Your Target’s Secrets](https://infosecwriteups.com/mastering-reconnaissance-with-nmap-unveiling-your-targets-secrets-ec940d05a140?source=rss----7b722bfd1b8d---4)
 - [Would you mind to tell me what your bank balance is? No? Okay, I’ll hack it.](https://infosecwriteups.com/would-you-mind-to-tell-me-what-your-bank-balance-is-no-okay-ill-hack-it-b3f49810cfe2?source=rss----7b722bfd1b8d---4)
 - [How to Actually Learn Hacking in 2024–25 : A Practical Guide](https://infosecwriteups.com/how-to-actually-learn-hacking-in-2024-25-a-practical-guide-faaca1dda42b?source=rss----7b722bfd1b8d---4)
+- [A Story About How I Found CVE-2024–24919 in Sony’s HackerOne Program &lpar;and Ended Up Getting Swag&rpar;](https://infosecwriteups.com/a-story-about-how-i-found-cve-2024-24919-in-sonys-hackerone-program-and-ended-up-getting-swag-394c6dd18c04?source=rss----7b722bfd1b8d---4)
 - [My first Hall of Fame &lpar;HoF&rpar; | Bug Bounty Journey.](https://rivudon.medium.com/my-first-hall-of-fame-hof-bug-bounty-journey-59a56b1e96c2?source=rss------bug_bounty_writeup-5)
 - [Capital One Launches Public Bug Bounty Program with HackerOne](https://www.hackerone.com/customer-stories/capital-one-public-bug-bounty)
 - [Self-XSS to ATO via Quick Login feature](https://thecatfather.medium.com/self-xss-to-ato-via-quick-login-feature-532df12d1c08?source=rss------bug_bounty_writeup-5)
-- [From Basics to Advanced: SQL Injection Types, Payloads](https://medium.com/@bootstrapsecurity/sql-injection-types-payloads-vulnerabilities-508a180c339b?source=rss------bug_bounty_writeup-5)
 - [From Prospect to Partner: Jon Stone Shares HackerOne Career Story](https://www.hackerone.com/culture-and-talent/prospect-partner-jon-stone-shares-hackerone-career-story)
 - [Quantifying the Value of Bug Bounty Programs: ROI, ROM, or Both?](https://www.hackerone.com/vulnerability-management/quantifying-value-bug-bounty-programs-roi-rom-or-both)
 - [Crushing FUD: Embracing Ethical Hackers to Strengthen Cybersecurity](https://www.hackerone.com/vulnerability-management/crushing-fud)
