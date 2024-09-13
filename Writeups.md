@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [API Hacking for Beginners: A Guide to Exploiting API Vulnerabilities](https://medium.com/@bootstrapsecurity/guide-to-hack-and-exploit-api-vulnerabilities-d0b57b93db7d?source=rss------bug_bounty_writeup-5)
 - [My first Account-take-over](https://medium.com/@osamamohamed21212121/my-first-account-take-over-f6590c4a3a54?source=rss------bug_bounty_writeup-5)
 - [My journey to find CSRF &lpar;Cross-Site Request Forgery &rpar;](https://medium.com/@osamamohamed21212121/my-journey-to-find-csrf-cross-site-request-forgery-ddf1e1bd579d?source=rss------bug_bounty_writeup-5)
 - [My first XSS: Reflected XSS](https://medium.com/@osamamohamed21212121/my-first-xss-reflected-xss-0949992b94ab?source=rss------bug_bounty_writeup-5)
@@ -24,7 +25,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [My first Hall of Fame &lpar;HoF&rpar; | Bug Bounty Journey.](https://rivudon.medium.com/my-first-hall-of-fame-hof-bug-bounty-journey-59a56b1e96c2?source=rss------bug_bounty_writeup-5)
 - [Capital One Launches Public Bug Bounty Program with HackerOne](https://www.hackerone.com/customer-stories/capital-one-public-bug-bounty)
 - [Self-XSS to ATO via Quick Login feature](https://thecatfather.medium.com/self-xss-to-ato-via-quick-login-feature-532df12d1c08?source=rss------bug_bounty_writeup-5)
-- [From Basics to Advanced: SQL Injection Types, Payloads](https://medium.com/@bootstrapsecurity/sql-injection-types-payloads-vulnerabilities-508a180c339b?source=rss------bug_bounty_writeup-5)
 - [From Prospect to Partner: Jon Stone Shares HackerOne Career Story](https://www.hackerone.com/culture-and-talent/prospect-partner-jon-stone-shares-hackerone-career-story)
 - [Quantifying the Value of Bug Bounty Programs: ROI, ROM, or Both?](https://www.hackerone.com/vulnerability-management/quantifying-value-bug-bounty-programs-roi-rom-or-both)
 - [Crushing FUD: Embracing Ethical Hackers to Strengthen Cybersecurity](https://www.hackerone.com/vulnerability-management/crushing-fud)
