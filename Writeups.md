@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Critical Data Breach Exposed: A Deep Dive into a Government Agency’s Security Flaw](https://medium.com/@contact.adnanks/critical-data-breach-exposed-a-deep-dive-into-a-government-agencys-security-flaw-3c4a9b431de6?source=rss------bug_bounty_writeup-5)
 - [Open Redirect via Image Upload](https://medium.com/@osamamohamed21212121/open-redirect-via-image-upload-bf6f87f8d447?source=rss------bug_bounty_writeup-5)
 - [SSRF Via Image Upload](https://medium.com/@osamamohamed21212121/ssrf-via-image-upload-f046e2d0e692?source=rss------bug_bounty_writeup-5)
 - [Stored XSS via Image Upload](https://medium.com/@osamamohamed21212121/stored-xss-via-image-upload-b75edecf1e54?source=rss------bug_bounty_writeup-5)
@@ -13,7 +14,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Google Safe Browsing Blacklisting Due to Website Compromise](https://infosecwriteups.com/google-safe-browsing-blacklisting-due-to-website-compromise-1d57af2a0513?source=rss----7b722bfd1b8d---4)
 - [Large-Scale Data Exfiltration: Exploiting Secrets in .env Files to Compromise Cloud Accounts](https://infosecwriteups.com/large-scale-data-exfiltration-exploiting-secrets-in-env-files-to-compromise-cloud-accounts-107dce22e601?source=rss----7b722bfd1b8d---4)
 - [How I got RCE on an Indian university without admin credentials Tale of directory listing, SQL…](https://medium.com/thedeephub/how-i-got-rce-on-an-indian-university-without-admin-credentials-tale-of-directory-listing-sql-1f77e2933011?source=rss------bug_bounty_writeup-5)
-- [How I find Time Base SQL Injection…!](https://medium.com/@mpjani294/how-i-find-time-base-sql-injection-dbec7420d97a?source=rss------bug_bounty_writeup-5)
 - [Announcing Hai Plays: Personalize Your Playbook for Spot-On Security Advice](https://www.hackerone.com/ai/hai-plays)
 - [Hack My Career: Harley Kimball’s Journey to DEFCON](https://www.hackerone.com/culture-and-talent/hack-my-career-harley-kimballs-journey-defcon)
 - [Linux reverse shell that &lpar;almost&rpar; always works.](https://infosecwriteups.com/linux-reverse-shell-that-almost-always-works-20d9f4521719?source=rss----7b722bfd1b8d---4)
