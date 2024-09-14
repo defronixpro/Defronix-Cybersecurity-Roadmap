@@ -922,6 +922,9 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Open Redirect via Image Upload](https://medium.com/@osamamohamed21212121/open-redirect-via-image-upload-bf6f87f8d447?source=rss------bug_bounty_writeup-5)
+- [SSRF Via Image Upload](https://medium.com/@osamamohamed21212121/ssrf-via-image-upload-f046e2d0e692?source=rss------bug_bounty_writeup-5)
+- [Stored XSS via Image Upload](https://medium.com/@osamamohamed21212121/stored-xss-via-image-upload-b75edecf1e54?source=rss------bug_bounty_writeup-5)
 - [IDOR in Bug Bounty Program](https://medium.com/@osamamohamed21212121/idor-in-bug-bounty-program-8fbbffe32f6e?source=rss------bug_bounty_writeup-5)
 - [API Hacking for Beginners: A Guide to Exploiting API Vulnerabilities](https://medium.com/@bootstrapsecurity/guide-to-hack-and-exploit-api-vulnerabilities-d0b57b93db7d?source=rss------bug_bounty_writeup-5)
 - [My first Account-take-over](https://medium.com/@osamamohamed21212121/my-first-account-take-over-f6590c4a3a54?source=rss------bug_bounty_writeup-5)
@@ -934,8 +937,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How I find Time Base SQL Injection…!](https://medium.com/@mpjani294/how-i-find-time-base-sql-injection-dbec7420d97a?source=rss------bug_bounty_writeup-5)
 - [Announcing Hai Plays: Personalize Your Playbook for Spot-On Security Advice](https://www.hackerone.com/ai/hai-plays)
 - [Hack My Career: Harley Kimball’s Journey to DEFCON](https://www.hackerone.com/culture-and-talent/hack-my-career-harley-kimballs-journey-defcon)
-- [TU PRIMER BOUNTY: SUBDOMAIN TAKEOVER EN IPAPER Y CÓMO PUEDES APROVECHARLO](https://medium.com/@g4b0.0rb/tu-primer-bounty-subdomain-takeover-en-ipaper-y-c%C3%B3mo-puedes-aprovecharlo-3d53307365d5?source=rss------bug_bounty_writeup-5)
-- [The “Who Needs Secure Attachments Anyway?” Saga](https://medium.com/@shobitsharma/the-who-needs-secure-attachments-anyway-saga-6026dc61a371?source=rss------bug_bounty_writeup-5)
 - [Linux reverse shell that &lpar;almost&rpar; always works.](https://infosecwriteups.com/linux-reverse-shell-that-almost-always-works-20d9f4521719?source=rss----7b722bfd1b8d---4)
 - [Windows reverse shell that &lpar;almost&rpar; always works.](https://infosecwriteups.com/windows-reverse-shell-that-almost-always-works-2aab514f820f?source=rss----7b722bfd1b8d---4)
 - [Optimal Ethical Hacker Setup for Penetration Testing](https://infosecwriteups.com/optimal-ethical-hacker-setup-for-penetration-testing-4847a8afbe45?source=rss----7b722bfd1b8d---4)
@@ -944,7 +945,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Would you mind to tell me what your bank balance is? No? Okay, I’ll hack it.](https://infosecwriteups.com/would-you-mind-to-tell-me-what-your-bank-balance-is-no-okay-ill-hack-it-b3f49810cfe2?source=rss----7b722bfd1b8d---4)
 - [How to Actually Learn Hacking in 2024–25 : A Practical Guide](https://infosecwriteups.com/how-to-actually-learn-hacking-in-2024-25-a-practical-guide-faaca1dda42b?source=rss----7b722bfd1b8d---4)
 - [A Story About How I Found CVE-2024–24919 in Sony’s HackerOne Program &lpar;and Ended Up Getting Swag&rpar;](https://infosecwriteups.com/a-story-about-how-i-found-cve-2024-24919-in-sonys-hackerone-program-and-ended-up-getting-swag-394c6dd18c04?source=rss----7b722bfd1b8d---4)
-- [My first Hall of Fame &lpar;HoF&rpar; | Bug Bounty Journey.](https://rivudon.medium.com/my-first-hall-of-fame-hof-bug-bounty-journey-59a56b1e96c2?source=rss------bug_bounty_writeup-5)
 - [Capital One Launches Public Bug Bounty Program with HackerOne](https://www.hackerone.com/customer-stories/capital-one-public-bug-bounty)
 - [From Prospect to Partner: Jon Stone Shares HackerOne Career Story](https://www.hackerone.com/culture-and-talent/prospect-partner-jon-stone-shares-hackerone-career-story)
 - [Quantifying the Value of Bug Bounty Programs: ROI, ROM, or Both?](https://www.hackerone.com/vulnerability-management/quantifying-value-bug-bounty-programs-roi-rom-or-both)
