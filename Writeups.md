@@ -1,6 +1,8 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Open Redirect via Image Upload](https://medium.com/@osamamohamed21212121/open-redirect-via-image-upload-bf6f87f8d447?source=rss------bug_bounty_writeup-5)
+- [SSRF Via Image Upload](https://medium.com/@osamamohamed21212121/ssrf-via-image-upload-f046e2d0e692?source=rss------bug_bounty_writeup-5)
 - [Stored XSS via Image Upload](https://medium.com/@osamamohamed21212121/stored-xss-via-image-upload-b75edecf1e54?source=rss------bug_bounty_writeup-5)
 - [IDOR in Bug Bounty Program](https://medium.com/@osamamohamed21212121/idor-in-bug-bounty-program-8fbbffe32f6e?source=rss------bug_bounty_writeup-5)
 - [API Hacking for Beginners: A Guide to Exploiting API Vulnerabilities](https://medium.com/@bootstrapsecurity/guide-to-hack-and-exploit-api-vulnerabilities-d0b57b93db7d?source=rss------bug_bounty_writeup-5)
@@ -14,8 +16,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How I find Time Base SQL Injection…!](https://medium.com/@mpjani294/how-i-find-time-base-sql-injection-dbec7420d97a?source=rss------bug_bounty_writeup-5)
 - [Announcing Hai Plays: Personalize Your Playbook for Spot-On Security Advice](https://www.hackerone.com/ai/hai-plays)
 - [Hack My Career: Harley Kimball’s Journey to DEFCON](https://www.hackerone.com/culture-and-talent/hack-my-career-harley-kimballs-journey-defcon)
-- [TU PRIMER BOUNTY: SUBDOMAIN TAKEOVER EN IPAPER Y CÓMO PUEDES APROVECHARLO](https://medium.com/@g4b0.0rb/tu-primer-bounty-subdomain-takeover-en-ipaper-y-c%C3%B3mo-puedes-aprovecharlo-3d53307365d5?source=rss------bug_bounty_writeup-5)
-- [The “Who Needs Secure Attachments Anyway?” Saga](https://medium.com/@shobitsharma/the-who-needs-secure-attachments-anyway-saga-6026dc61a371?source=rss------bug_bounty_writeup-5)
 - [Linux reverse shell that &lpar;almost&rpar; always works.](https://infosecwriteups.com/linux-reverse-shell-that-almost-always-works-20d9f4521719?source=rss----7b722bfd1b8d---4)
 - [Windows reverse shell that &lpar;almost&rpar; always works.](https://infosecwriteups.com/windows-reverse-shell-that-almost-always-works-2aab514f820f?source=rss----7b722bfd1b8d---4)
 - [Optimal Ethical Hacker Setup for Penetration Testing](https://infosecwriteups.com/optimal-ethical-hacker-setup-for-penetration-testing-4847a8afbe45?source=rss----7b722bfd1b8d---4)
