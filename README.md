@@ -922,7 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [How i got 100$ bounty](https://medium.com/@mukkumukku110/how-i-got-100-bounty-b3dd58e82e00?source=rss------bug_bounty_writeup-5)
+- [How to Set Up Proxychains in Kali Linux](https://medium.com/@vignesh6872610/how-to-set-up-proxychains-in-kali-linux-ddd44c3502af?source=rss------bug_bounty_writeup-5)
+- [How i got 100$ bounty](https://doordiefordream.medium.com/how-i-got-100-bounty-b3dd58e82e00?source=rss------bug_bounty_writeup-5)
 - [Critical Data Breach Exposed: A Deep Dive into a Government Agency’s Security Flaw](https://medium.com/@contact.adnanks/critical-data-breach-exposed-a-deep-dive-into-a-government-agencys-security-flaw-3c4a9b431de6?source=rss------bug_bounty_writeup-5)
 - [Open Redirect via Image Upload](https://medium.com/@osamamohamed21212121/open-redirect-via-image-upload-bf6f87f8d447?source=rss------bug_bounty_writeup-5)
 - [SSRF Via Image Upload](https://medium.com/@osamamohamed21212121/ssrf-via-image-upload-f046e2d0e692?source=rss------bug_bounty_writeup-5)
@@ -931,7 +932,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [API Hacking for Beginners: A Guide to Exploiting API Vulnerabilities](https://medium.com/@bootstrapsecurity/guide-to-hack-and-exploit-api-vulnerabilities-d0b57b93db7d?source=rss------bug_bounty_writeup-5)
 - [My first Account-take-over](https://medium.com/@osamamohamed21212121/my-first-account-take-over-f6590c4a3a54?source=rss------bug_bounty_writeup-5)
 - [My journey to find CSRF &lpar;Cross-Site Request Forgery &rpar;](https://medium.com/@osamamohamed21212121/my-journey-to-find-csrf-cross-site-request-forgery-ddf1e1bd579d?source=rss------bug_bounty_writeup-5)
-- [My first XSS: Reflected XSS](https://medium.com/@osamamohamed21212121/my-first-xss-reflected-xss-0949992b94ab?source=rss------bug_bounty_writeup-5)
 - [The Rise of Bug Bounty Programs in S-1 Filings: A New Standard in Corporate Security](https://www.hackerone.com/vulnerability-management/bug-bounty-s-1-filings)
 - [Google Safe Browsing Blacklisting Due to Website Compromise](https://infosecwriteups.com/google-safe-browsing-blacklisting-due-to-website-compromise-1d57af2a0513?source=rss----7b722bfd1b8d---4)
 - [Large-Scale Data Exfiltration: Exploiting Secrets in .env Files to Compromise Cloud Accounts](https://infosecwriteups.com/large-scale-data-exfiltration-exploiting-secrets-in-env-files-to-compromise-cloud-accounts-107dce22e601?source=rss----7b722bfd1b8d---4)
