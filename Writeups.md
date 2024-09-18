@@ -1,7 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
-- [Scanning ip’s got from virustotal](https://medium.com/@loyalonlytoday/scanning-ips-got-from-virustotal-7baa7398ba83?source=rss------bug_bounty_writeup-5)
+- [Scanning ip’s got from virustotal to find a bug](https://medium.com/@loyalonlytoday/scanning-ips-got-from-virustotal-7baa7398ba83?source=rss------bug_bounty_writeup-5)
 - [How I got my first $$$ bounty?](https://medium.com/@yashsomalkar/how-i-got-my-first-bounty-098d75ae650d?source=rss------bug_bounty_writeup-5)
 - [From GitHub Recon to Hotstar Admin Access: A Deep Dive into Security Flaws](https://infosecwriteups.com/from-github-recon-to-hotstar-admin-access-a-deep-dive-into-security-flaws-2e4ae0ec937e?source=rss------bug_bounty_writeup-5)
 - [How to Set Up Proxychains in Kali Linux](https://medium.com/@vignesh6872610/how-to-set-up-proxychains-in-kali-linux-ddd44c3502af?source=rss------bug_bounty_writeup-5)
