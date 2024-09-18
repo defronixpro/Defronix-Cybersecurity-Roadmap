@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Scanning ip’s got from virustotal](https://medium.com/@loyalonlytoday/scanning-ips-got-from-virustotal-7baa7398ba83?source=rss------bug_bounty_writeup-5)
 - [How I got my first $$$ bounty?](https://medium.com/@yashsomalkar/how-i-got-my-first-bounty-098d75ae650d?source=rss------bug_bounty_writeup-5)
 - [From GitHub Recon to Hotstar Admin Access: A Deep Dive into Security Flaws](https://infosecwriteups.com/from-github-recon-to-hotstar-admin-access-a-deep-dive-into-security-flaws-2e4ae0ec937e?source=rss------bug_bounty_writeup-5)
 - [How to Set Up Proxychains in Kali Linux](https://medium.com/@vignesh6872610/how-to-set-up-proxychains-in-kali-linux-ddd44c3502af?source=rss------bug_bounty_writeup-5)
@@ -931,7 +932,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [SSRF Via Image Upload](https://medium.com/@osamamohamed21212121/ssrf-via-image-upload-f046e2d0e692?source=rss------bug_bounty_writeup-5)
 - [Stored XSS via Image Upload](https://medium.com/@osamamohamed21212121/stored-xss-via-image-upload-b75edecf1e54?source=rss------bug_bounty_writeup-5)
 - [IDOR in Bug Bounty Program](https://medium.com/@osamamohamed21212121/idor-in-bug-bounty-program-8fbbffe32f6e?source=rss------bug_bounty_writeup-5)
-- [API Hacking for Beginners: A Guide to Exploiting API Vulnerabilities](https://medium.com/@bootstrapsecurity/guide-to-hack-and-exploit-api-vulnerabilities-d0b57b93db7d?source=rss------bug_bounty_writeup-5)
 - [The Rise of Bug Bounty Programs in S-1 Filings: A New Standard in Corporate Security](https://www.hackerone.com/vulnerability-management/bug-bounty-s-1-filings)
 - [Google Safe Browsing Blacklisting Due to Website Compromise](https://infosecwriteups.com/google-safe-browsing-blacklisting-due-to-website-compromise-1d57af2a0513?source=rss----7b722bfd1b8d---4)
 - [Large-Scale Data Exfiltration: Exploiting Secrets in .env Files to Compromise Cloud Accounts](https://infosecwriteups.com/large-scale-data-exfiltration-exploiting-secrets-in-env-files-to-compromise-cloud-accounts-107dce22e601?source=rss----7b722bfd1b8d---4)
