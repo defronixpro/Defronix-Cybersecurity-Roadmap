@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How to install Bug Bounty Hunting Tools on Linux and Windows by using Golang&lpar;Go&rpar;[ProjectDiscovery]](https://medium.com/@abdulrahman.muhammad.qarni52/getting-started-with-projectdiscovery-tools-on-linux-and-windows-70e644f1198c?source=rss------bug_bounty_writeup-5)
 - [Hacking-Hub Messagebox &lpar;write-up&rpar;](https://medium.com/@sys_br3ach3r/hacking-hub-msgbox-write-up-209ebbbebec5?source=rss------bug_bounty_writeup-5)
 - [Scanning ip’s got from virustotal to find a bug](https://medium.com/@loyalonlytoday/scanning-ips-got-from-virustotal-7baa7398ba83?source=rss------bug_bounty_writeup-5)
 - [How I got my first $$$ bounty?](https://medium.com/@yashsomalkar/how-i-got-my-first-bounty-098d75ae650d?source=rss------bug_bounty_writeup-5)
@@ -931,7 +932,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Critical Data Breach Exposed: A Deep Dive into a Government Agency’s Security Flaw](https://medium.com/@contact.adnanks/critical-data-breach-exposed-a-deep-dive-into-a-government-agencys-security-flaw-3c4a9b431de6?source=rss------bug_bounty_writeup-5)
 - [Open Redirect via Image Upload](https://medium.com/@osamamohamed21212121/open-redirect-via-image-upload-bf6f87f8d447?source=rss------bug_bounty_writeup-5)
 - [SSRF Via Image Upload](https://medium.com/@osamamohamed21212121/ssrf-via-image-upload-f046e2d0e692?source=rss------bug_bounty_writeup-5)
-- [Stored XSS via Image Upload](https://medium.com/@osamamohamed21212121/stored-xss-via-image-upload-b75edecf1e54?source=rss------bug_bounty_writeup-5)
 - [The Rise of Bug Bounty Programs in S-1 Filings: A New Standard in Corporate Security](https://www.hackerone.com/vulnerability-management/bug-bounty-s-1-filings)
 - [Google Safe Browsing Blacklisting Due to Website Compromise](https://infosecwriteups.com/google-safe-browsing-blacklisting-due-to-website-compromise-1d57af2a0513?source=rss----7b722bfd1b8d---4)
 - [Large-Scale Data Exfiltration: Exploiting Secrets in .env Files to Compromise Cloud Accounts](https://infosecwriteups.com/large-scale-data-exfiltration-exploiting-secrets-in-env-files-to-compromise-cloud-accounts-107dce22e601?source=rss----7b722bfd1b8d---4)
