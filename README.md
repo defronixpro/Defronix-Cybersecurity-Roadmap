@@ -923,6 +923,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
 - [Finding a easy p4](https://medium.com/@loyalonlytoday/finding-a-easy-p4-e32c47c8b54a?source=rss------bug_bounty_writeup-5)
+- [How to Accelerate Vulnerability Remediation with Hai](https://www.hackerone.com/ai/accelerate-vulnerability-remediation-with-hai)
 - [How to install Bug Bounty Hunting Tools on Linux and Windows by using Golang&lpar;Go&rpar;[ProjectDiscovery]](https://medium.com/@abdulrahman.muhammad.qarni52/getting-started-with-projectdiscovery-tools-on-linux-and-windows-70e644f1198c?source=rss------bug_bounty_writeup-5)
 - [Hacking-Hub Messagebox &lpar;write-up&rpar;](https://medium.com/@sys_br3ach3r/hacking-hub-msgbox-write-up-209ebbbebec5?source=rss------bug_bounty_writeup-5)
 - [Scanning ip’s got from virustotal to find a bug](https://medium.com/@loyalonlytoday/scanning-ips-got-from-virustotal-7baa7398ba83?source=rss------bug_bounty_writeup-5)
@@ -971,7 +972,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Are You Ready for the New NIST Control Around Public Disclosure Programs?](https://www.hackerone.com/security-compliance/nist-vdp-control)
 - [HIPAA and Pentesting: What You Need to Know](https://www.hackerone.com/security-compliance/hipaa-pentesting)
 - [Hack My Career: Meet Naz Bozdemir](https://www.hackerone.com/culture-and-talent/hack-my-career-meet-naz-bozdemir)
-- [Streamline Report Management with Custom Inboxes: Reducing Delays and Security Risks](https://www.hackerone.com/vulnerability-management/custom-inbox-enhancements)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
