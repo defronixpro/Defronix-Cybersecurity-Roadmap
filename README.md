@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [DOM-based XSS: The Case of `innerHTML` and `location.search`](https://medium.com/@codingbolt.in/dom-based-xss-the-case-of-innerhtml-and-location-search-373c47866c56?source=rss------bug_bounty_writeup-5)
 - [Simple IDOR vulnerability can lead to leak Email address of all users](https://r0b0ts.medium.com/simple-idor-vulnerability-can-lead-to-leak-email-address-of-all-users-055ada3ba3fc?source=rss------bug_bounty_writeup-5)
 - [Some Token Leak Can Lead to Disclose a Lot of Users’ Personal Data](https://r0b0ts.medium.com/some-token-leak-can-lead-to-disclose-a-lot-of-users-personal-data-6b5b7748ccec?source=rss------bug_bounty_writeup-5)
 - [Finding a easy p4](https://medium.com/@loyalonlytoday/finding-a-easy-p4-e32c47c8b54a?source=rss------bug_bounty_writeup-5)
@@ -933,7 +934,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [From GitHub Recon to Hotstar Admin Access: A Deep Dive into Security Flaws](https://infosecwriteups.com/from-github-recon-to-hotstar-admin-access-a-deep-dive-into-security-flaws-2e4ae0ec937e?source=rss------bug_bounty_writeup-5)
 - [Introducing HackerOne Automations](https://www.hackerone.com/vulnerability-management/introducing-hackerone-automations)
 - [How to Set Up Proxychains in Kali Linux](https://medium.com/@vignesh6872610/how-to-set-up-proxychains-in-kali-linux-ddd44c3502af?source=rss------bug_bounty_writeup-5)
-- [How i got 100$ bounty](https://doordiefordream.medium.com/how-i-got-100-bounty-b3dd58e82e00?source=rss------bug_bounty_writeup-5)
 - [The Rise of Bug Bounty Programs in S-1 Filings: A New Standard in Corporate Security](https://www.hackerone.com/vulnerability-management/bug-bounty-s-1-filings)
 - [Google Safe Browsing Blacklisting Due to Website Compromise](https://infosecwriteups.com/google-safe-browsing-blacklisting-due-to-website-compromise-1d57af2a0513?source=rss----7b722bfd1b8d---4)
 - [Large-Scale Data Exfiltration: Exploiting Secrets in .env Files to Compromise Cloud Accounts](https://infosecwriteups.com/large-scale-data-exfiltration-exploiting-secrets-in-env-files-to-compromise-cloud-accounts-107dce22e601?source=rss----7b722bfd1b8d---4)
