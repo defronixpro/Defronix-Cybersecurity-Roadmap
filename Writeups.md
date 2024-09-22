@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How I Hacked Into a Nationwide University Database System Exposing Thousands of Student Records](https://1-day.medium.com/how-i-hacked-into-a-nationwide-university-database-system-exposing-thousands-of-student-records-65dce4e4ee23?source=rss------bug_bounty_writeup-5)
 - [How I Discovered an Account Takeover from a Reset Password Vulnerability](https://medium.com/@bountyget/how-i-discovered-an-account-takeover-from-a-reset-password-vulnerability-aa39fe0896b5?source=rss------bug_bounty_writeup-5)
 - [test:test type of bug](https://medium.com/@bxrowski0x/test-test-type-of-bug-cfb352d9bf85?source=rss------bug_bounty_writeup-5)
 - [DOM-based XSS: The Case of `innerHTML` and `location.search`](https://medium.com/@codingbolt.in/dom-based-xss-the-case-of-innerhtml-and-location-search-373c47866c56?source=rss------bug_bounty_writeup-5)
@@ -11,7 +12,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How to install Bug Bounty Hunting Tools on Linux and Windows by using Golang&lpar;Go&rpar;[ProjectDiscovery]](https://medium.com/@abdulrahman.muhammad.qarni52/getting-started-with-projectdiscovery-tools-on-linux-and-windows-70e644f1198c?source=rss------bug_bounty_writeup-5)
 - [Hacking-Hub Messagebox &lpar;write-up&rpar;](https://medium.com/@sys_br3ach3r/hacking-hub-msgbox-write-up-209ebbbebec5?source=rss------bug_bounty_writeup-5)
 - [Scanning ip’s got from virustotal to find a bug](https://medium.com/@loyalonlytoday/scanning-ips-got-from-virustotal-7baa7398ba83?source=rss------bug_bounty_writeup-5)
-- [How I got my first $$$ bounty?](https://medium.com/@yashsomalkar/how-i-got-my-first-bounty-098d75ae650d?source=rss------bug_bounty_writeup-5)
 - [Introducing HackerOne Automations](https://www.hackerone.com/vulnerability-management/introducing-hackerone-automations)
 - [The Rise of Bug Bounty Programs in S-1 Filings: A New Standard in Corporate Security](https://www.hackerone.com/vulnerability-management/bug-bounty-s-1-filings)
 - [Google Safe Browsing Blacklisting Due to Website Compromise](https://infosecwriteups.com/google-safe-browsing-blacklisting-due-to-website-compromise-1d57af2a0513?source=rss----7b722bfd1b8d---4)
