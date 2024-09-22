@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I Discovered an Account Takeover from a Reset Password Vulnerability](https://medium.com/@bountyget/how-i-discovered-an-account-takeover-from-a-reset-password-vulnerability-aa39fe0896b5?source=rss------bug_bounty_writeup-5)
 - [test:test type of bug](https://medium.com/@bxrowski0x/test-test-type-of-bug-cfb352d9bf85?source=rss------bug_bounty_writeup-5)
 - [DOM-based XSS: The Case of `innerHTML` and `location.search`](https://medium.com/@codingbolt.in/dom-based-xss-the-case-of-innerhtml-and-location-search-373c47866c56?source=rss------bug_bounty_writeup-5)
 - [Simple IDOR vulnerability can lead to leak Email address of all users](https://r0b0ts.medium.com/simple-idor-vulnerability-can-lead-to-leak-email-address-of-all-users-055ada3ba3fc?source=rss------bug_bounty_writeup-5)
@@ -932,7 +933,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Hacking-Hub Messagebox &lpar;write-up&rpar;](https://medium.com/@sys_br3ach3r/hacking-hub-msgbox-write-up-209ebbbebec5?source=rss------bug_bounty_writeup-5)
 - [Scanning ip’s got from virustotal to find a bug](https://medium.com/@loyalonlytoday/scanning-ips-got-from-virustotal-7baa7398ba83?source=rss------bug_bounty_writeup-5)
 - [How I got my first $$$ bounty?](https://medium.com/@yashsomalkar/how-i-got-my-first-bounty-098d75ae650d?source=rss------bug_bounty_writeup-5)
-- [From GitHub Recon to Hotstar Admin Access: A Deep Dive into Security Flaws](https://infosecwriteups.com/from-github-recon-to-hotstar-admin-access-a-deep-dive-into-security-flaws-2e4ae0ec937e?source=rss------bug_bounty_writeup-5)
 - [Introducing HackerOne Automations](https://www.hackerone.com/vulnerability-management/introducing-hackerone-automations)
 - [The Rise of Bug Bounty Programs in S-1 Filings: A New Standard in Corporate Security](https://www.hackerone.com/vulnerability-management/bug-bounty-s-1-filings)
 - [Google Safe Browsing Blacklisting Due to Website Compromise](https://infosecwriteups.com/google-safe-browsing-blacklisting-due-to-website-compromise-1d57af2a0513?source=rss----7b722bfd1b8d---4)
