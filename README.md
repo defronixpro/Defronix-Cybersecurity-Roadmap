@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Unlocking Bug Bounties: The Power of Port Scanning](https://bevijaygupta.medium.com/unlocking-bug-bounties-the-power-of-port-scanning-ebca71c898a7?source=rss------bug_bounty_writeup-5)
+- [RXSS with My Approach](https://medium.com/@nomad8061/rxss-with-my-approach-c9a989d3ba0b?source=rss------bug_bounty_writeup-5)
 - [HTB | Help -GraphQL and Blind SQL](https://infosecwriteups.com/htb-help-graphql-and-blind-sql-5967ecebf9e1?source=rss----7b722bfd1b8d---4)
 - [Pfsense Installation and Configuration Guide](https://infosecwriteups.com/pfsense-installation-and-configuration-71559299dd7b?source=rss----7b722bfd1b8d---4)
 - [Virus Detection through PfSense &amp; Log forwarding to Wazuh](https://infosecwriteups.com/virus-detection-through-pfsense-log-forwarding-to-wazuh-bf35418ee785?source=rss----7b722bfd1b8d---4)
@@ -941,8 +943,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Finding a easy p4](https://medium.com/@loyalonlytoday/finding-a-easy-p4-e32c47c8b54a?source=rss------bug_bounty_writeup-5)
 - [How to Accelerate Vulnerability Remediation with Hai](https://www.hackerone.com/ai/accelerate-vulnerability-remediation-with-hai)
 - [How to install Bug Bounty Hunting Tools on Linux and Windows by using Golang&lpar;Go&rpar;[ProjectDiscovery]](https://medium.com/@abdulrahman.muhammad.qarni52/getting-started-with-projectdiscovery-tools-on-linux-and-windows-70e644f1198c?source=rss------bug_bounty_writeup-5)
-- [Hacking-Hub Messagebox &lpar;write-up&rpar;](https://medium.com/@sys_br3ach3r/hacking-hub-msgbox-write-up-209ebbbebec5?source=rss------bug_bounty_writeup-5)
-- [Scanning ip’s got from virustotal to find a bug](https://medium.com/@loyalonlytoday/scanning-ips-got-from-virustotal-7baa7398ba83?source=rss------bug_bounty_writeup-5)
 - [Introducing HackerOne Automations](https://www.hackerone.com/vulnerability-management/introducing-hackerone-automations)
 - [The Rise of Bug Bounty Programs in S-1 Filings: A New Standard in Corporate Security](https://www.hackerone.com/vulnerability-management/bug-bounty-s-1-filings)
 - [Announcing Hai Plays: Personalize Your Playbook for Spot-On Security Advice](https://www.hackerone.com/ai/hai-plays)
