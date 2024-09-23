@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Unauthenticated API Endpoint to Create Support Ticket Worth $500](https://vijetareigns.medium.com/unauthenticated-api-endpoint-to-create-support-ticket-worth-500-789e91ad9a00?source=rss------bug_bounty_writeup-5)
 - [Unlocking Bug Bounties: The Power of Port Scanning](https://bevijaygupta.medium.com/unlocking-bug-bounties-the-power-of-port-scanning-ebca71c898a7?source=rss------bug_bounty_writeup-5)
 - [RXSS with My Approach](https://medium.com/@nomad8061/rxss-with-my-approach-c9a989d3ba0b?source=rss------bug_bounty_writeup-5)
 - [HTB | Help -GraphQL and Blind SQL](https://infosecwriteups.com/htb-help-graphql-and-blind-sql-5967ecebf9e1?source=rss----7b722bfd1b8d---4)
@@ -942,7 +943,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Some Token Leak Can Lead to Disclose a Lot of Users’ Personal Data](https://r0b0ts.medium.com/some-token-leak-can-lead-to-disclose-a-lot-of-users-personal-data-6b5b7748ccec?source=rss------bug_bounty_writeup-5)
 - [Finding a easy p4](https://medium.com/@loyalonlytoday/finding-a-easy-p4-e32c47c8b54a?source=rss------bug_bounty_writeup-5)
 - [How to Accelerate Vulnerability Remediation with Hai](https://www.hackerone.com/ai/accelerate-vulnerability-remediation-with-hai)
-- [How to install Bug Bounty Hunting Tools on Linux and Windows by using Golang&lpar;Go&rpar;[ProjectDiscovery]](https://medium.com/@abdulrahman.muhammad.qarni52/getting-started-with-projectdiscovery-tools-on-linux-and-windows-70e644f1198c?source=rss------bug_bounty_writeup-5)
 - [Introducing HackerOne Automations](https://www.hackerone.com/vulnerability-management/introducing-hackerone-automations)
 - [The Rise of Bug Bounty Programs in S-1 Filings: A New Standard in Corporate Security](https://www.hackerone.com/vulnerability-management/bug-bounty-s-1-filings)
 - [Announcing Hai Plays: Personalize Your Playbook for Spot-On Security Advice](https://www.hackerone.com/ai/hai-plays)
