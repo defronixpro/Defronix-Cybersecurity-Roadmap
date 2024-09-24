@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Panduan Bagi Pemula untuk Memasuki Dunia Bug Bounty](https://medium.com/@mrp.bpp/panduan-bagi-pemula-untuk-memasuki-dunia-bug-bounty-bba812d0f680?source=rss------bug_bounty_writeup-5)
 - [Security — Like Layers of Onion &lpar;Defense&rpar;](https://infosecwriteups.com/security-like-layers-of-onion-defense-32b8ad6d7e26?source=rss------bug_bounty_writeup-5)
 - [test:test not Part 2](https://medium.com/@bxrowski0x/test-test-not-part-2-492fb030c8c2?source=rss------bug_bounty_writeup-5)
 - [Unauthenticated API Endpoint to Create Support Ticket Worth $500](https://vijetareigns.medium.com/unauthenticated-api-endpoint-to-create-support-ticket-worth-500-789e91ad9a00?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How I Discovered an Account Takeover from a Reset Password Vulnerability](https://medium.com/@bountyget/how-i-discovered-an-account-takeover-from-a-reset-password-vulnerability-aa39fe0896b5?source=rss------bug_bounty_writeup-5)
 - [test:test type of bug](https://medium.com/@bxrowski0x/test-test-type-of-bug-cfb352d9bf85?source=rss------bug_bounty_writeup-5)
 - [DOM-based XSS: The Case of `innerHTML` and `location.search`](https://medium.com/@codingbolt.in/dom-based-xss-the-case-of-innerhtml-and-location-search-373c47866c56?source=rss------bug_bounty_writeup-5)
-- [Simple IDOR vulnerability can lead to leak Email address of all users](https://r0b0ts.medium.com/simple-idor-vulnerability-can-lead-to-leak-email-address-of-all-users-055ada3ba3fc?source=rss------bug_bounty_writeup-5)
 - [How to Accelerate Vulnerability Remediation with Hai](https://www.hackerone.com/ai/accelerate-vulnerability-remediation-with-hai)
 - [Introducing HackerOne Automations](https://www.hackerone.com/vulnerability-management/introducing-hackerone-automations)
 - [The Rise of Bug Bounty Programs in S-1 Filings: A New Standard in Corporate Security](https://www.hackerone.com/vulnerability-management/bug-bounty-s-1-filings)
