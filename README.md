@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Mendapatkan Akses SMTP Melalui Celah SQL Injection](https://rdnzx.medium.com/mendapatkan-akses-smtp-melalui-celah-sql-injection-f6d593fcad5e?source=rss------bug_bounty_writeup-5)
 - [Purchasing Golden Number at a Lower Price: A $800 Bounty Story](https://medium.com/@harrmahar/purchasing-golden-number-at-a-lower-price-a-800-bounty-story-4e9a5a18e477?source=rss------bug_bounty_writeup-5)
 - [Reflected XSS into HTML context with most tags and attributes blocked](https://medium.com/@codingbolt.in/reflected-xss-into-html-context-with-most-tags-and-attributes-blocked-0bb80ac37064?source=rss------bug_bounty_writeup-5)
 - [Panduan Bagi Pemula untuk Memasuki Dunia Bug Bounty](https://medium.com/@mrp.bpp/panduan-bagi-pemula-untuk-memasuki-dunia-bug-bounty-bba812d0f680?source=rss------bug_bounty_writeup-5)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Top 10 Cybersecurity-Related Movies You Should Watch](https://infosecwriteups.com/top-10-cybersecurity-related-movies-you-should-watch-c3b1b2ce2666?source=rss----7b722bfd1b8d---4)
 - [Escape Unveiled: Active Directory ADCS Exploit Walkthrough](https://infosecwriteups.com/escape-unveiled-active-directory-adcs-exploit-walkthrough-85cf58d3185b?source=rss----7b722bfd1b8d---4)
 - [How I Hacked Into a Nationwide University Database System Exposing Thousands of Student Records](https://1-day.medium.com/how-i-hacked-into-a-nationwide-university-database-system-exposing-thousands-of-student-records-65dce4e4ee23?source=rss------bug_bounty_writeup-5)
-- [How I Discovered an Account Takeover from a Reset Password Vulnerability](https://medium.com/@bountyget/how-i-discovered-an-account-takeover-from-a-reset-password-vulnerability-aa39fe0896b5?source=rss------bug_bounty_writeup-5)
 - [How to Accelerate Vulnerability Remediation with Hai](https://www.hackerone.com/ai/accelerate-vulnerability-remediation-with-hai)
 - [Introducing HackerOne Automations](https://www.hackerone.com/vulnerability-management/introducing-hackerone-automations)
 - [The Rise of Bug Bounty Programs in S-1 Filings: A New Standard in Corporate Security](https://www.hackerone.com/vulnerability-management/bug-bounty-s-1-filings)
