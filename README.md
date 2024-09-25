@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [IDOR Leads To Account Takeover](https://medium.com/@mhdrizkiabrar640/idor-leads-to-account-takeover-6adf73bd268b?source=rss------bug_bounty_writeup-5)
 - [Reflected XSS into a template literal with angle brackets, single, double quotes, backslash and…](https://medium.com/@codingbolt.in/reflected-xss-into-a-template-literal-with-angle-brackets-single-double-quotes-backslash-and-5acbbd9f2631?source=rss------bug_bounty_writeup-5)
 - [How I proved impact with Google Map API Key](https://r0b0ts.medium.com/how-i-proved-impact-with-google-map-api-key-7aa801616abb?source=rss------bug_bounty_writeup-5)
 - [Exploring the Role of Port Scanning in Bug Bounty Hunting](https://bevijaygupta.medium.com/exploring-the-role-of-port-scanning-in-bug-bounty-hunting-169a1d723bb0?source=rss------bug_bounty_writeup-5)
@@ -931,7 +932,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Panduan Bagi Pemula untuk Memasuki Dunia Bug Bounty](https://medium.com/@mrp.bpp/panduan-bagi-pemula-untuk-memasuki-dunia-bug-bounty-bba812d0f680?source=rss------bug_bounty_writeup-5)
 - [Security — Like Layers of Onion &lpar;Defense&rpar;](https://infosecwriteups.com/security-like-layers-of-onion-defense-32b8ad6d7e26?source=rss------bug_bounty_writeup-5)
 - [test:test not Part 2](https://medium.com/@bxrowski0x/test-test-not-part-2-492fb030c8c2?source=rss------bug_bounty_writeup-5)
-- [Unauthenticated API Endpoint to Create Support Ticket Worth $500](https://vijetareigns.medium.com/unauthenticated-api-endpoint-to-create-support-ticket-worth-500-789e91ad9a00?source=rss------bug_bounty_writeup-5)
 - [HTB | Help -GraphQL and Blind SQL](https://infosecwriteups.com/htb-help-graphql-and-blind-sql-5967ecebf9e1?source=rss----7b722bfd1b8d---4)
 - [Pfsense Installation and Configuration Guide](https://infosecwriteups.com/pfsense-installation-and-configuration-71559299dd7b?source=rss----7b722bfd1b8d---4)
 - [Virus Detection through PfSense &amp; Log forwarding to Wazuh](https://infosecwriteups.com/virus-detection-through-pfsense-log-forwarding-to-wazuh-bf35418ee785?source=rss----7b722bfd1b8d---4)
