@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I proved impact with Google Map API Key](https://r0b0ts.medium.com/how-i-proved-impact-with-google-map-api-key-7aa801616abb?source=rss------bug_bounty_writeup-5)
 - [Exploring the Role of Port Scanning in Bug Bounty Hunting](https://bevijaygupta.medium.com/exploring-the-role-of-port-scanning-in-bug-bounty-hunting-169a1d723bb0?source=rss------bug_bounty_writeup-5)
 - [Mendapatkan Akses SMTP Melalui Celah SQL Injection](https://rdnzx.medium.com/mendapatkan-akses-smtp-melalui-celah-sql-injection-f6d593fcad5e?source=rss------bug_bounty_writeup-5)
 - [Purchasing Golden Number at a Lower Price: A $800 Bounty Story](https://medium.com/@harrmahar/purchasing-golden-number-at-a-lower-price-a-800-bounty-story-4e9a5a18e477?source=rss------bug_bounty_writeup-5)
@@ -931,7 +932,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [test:test not Part 2](https://medium.com/@bxrowski0x/test-test-not-part-2-492fb030c8c2?source=rss------bug_bounty_writeup-5)
 - [Unauthenticated API Endpoint to Create Support Ticket Worth $500](https://vijetareigns.medium.com/unauthenticated-api-endpoint-to-create-support-ticket-worth-500-789e91ad9a00?source=rss------bug_bounty_writeup-5)
 - [Unlocking Bug Bounties: The Power of Port Scanning](https://bevijaygupta.medium.com/unlocking-bug-bounties-the-power-of-port-scanning-ebca71c898a7?source=rss------bug_bounty_writeup-5)
-- [RXSS with My Approach](https://medium.com/@nomad8061/rxss-with-my-approach-c9a989d3ba0b?source=rss------bug_bounty_writeup-5)
 - [HTB | Help -GraphQL and Blind SQL](https://infosecwriteups.com/htb-help-graphql-and-blind-sql-5967ecebf9e1?source=rss----7b722bfd1b8d---4)
 - [Pfsense Installation and Configuration Guide](https://infosecwriteups.com/pfsense-installation-and-configuration-71559299dd7b?source=rss----7b722bfd1b8d---4)
 - [Virus Detection through PfSense &amp; Log forwarding to Wazuh](https://infosecwriteups.com/virus-detection-through-pfsense-log-forwarding-to-wazuh-bf35418ee785?source=rss----7b722bfd1b8d---4)
