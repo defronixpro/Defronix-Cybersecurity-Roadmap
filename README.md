@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Exploiting XSS to perform CSRF](https://medium.com/@codingbolt.in/exploiting-xss-to-perform-csrf-1aac291690bd?source=rss------bug_bounty_writeup-5)
 - [A Guide To Subdomain Takeovers 2.0](https://www.hackerone.com/community/guide-subdomain-takeovers)
 - [IDOR Leads To Account Takeover](https://medium.com/@mhdrizkiabrar640/idor-leads-to-account-takeover-6adf73bd268b?source=rss------bug_bounty_writeup-5)
 - [Reflected XSS into a template literal with angle brackets, single, double quotes, backslash and…](https://medium.com/@codingbolt.in/reflected-xss-into-a-template-literal-with-angle-brackets-single-double-quotes-backslash-and-5acbbd9f2631?source=rss------bug_bounty_writeup-5)
@@ -932,7 +933,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Purchasing Golden Number at a Lower Price: A $800 Bounty Story](https://medium.com/@harrmahar/purchasing-golden-number-at-a-lower-price-a-800-bounty-story-4e9a5a18e477?source=rss------bug_bounty_writeup-5)
 - [Reflected XSS into HTML context with most tags and attributes blocked](https://medium.com/@codingbolt.in/reflected-xss-into-html-context-with-most-tags-and-attributes-blocked-0bb80ac37064?source=rss------bug_bounty_writeup-5)
 - [Panduan Bagi Pemula untuk Memasuki Dunia Bug Bounty](https://medium.com/@mrp.bpp/panduan-bagi-pemula-untuk-memasuki-dunia-bug-bounty-bba812d0f680?source=rss------bug_bounty_writeup-5)
-- [Security — Like Layers of Onion &lpar;Defense&rpar;](https://infosecwriteups.com/security-like-layers-of-onion-defense-32b8ad6d7e26?source=rss------bug_bounty_writeup-5)
 - [HTB | Help -GraphQL and Blind SQL](https://infosecwriteups.com/htb-help-graphql-and-blind-sql-5967ecebf9e1?source=rss----7b722bfd1b8d---4)
 - [Pfsense Installation and Configuration Guide](https://infosecwriteups.com/pfsense-installation-and-configuration-71559299dd7b?source=rss----7b722bfd1b8d---4)
 - [Virus Detection through PfSense &amp; Log forwarding to Wazuh](https://infosecwriteups.com/virus-detection-through-pfsense-log-forwarding-to-wazuh-bf35418ee785?source=rss----7b722bfd1b8d---4)
