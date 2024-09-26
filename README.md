@@ -922,7 +922,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [Bug bounty – Recon Tips for subdomain enumeration](https://medium.com/@tharunteja725_8686/bug-bounty-recon-tips-for-subdomain-enumeration-0b3d51ad1cc8?source=rss------bug_bounty_writeup-5)
 - [IDOR Leads To Account Takeover](https://medium.com/@mhdrizkiabrar640/idor-leads-to-account-takeover-6adf73bd268b?source=rss------bug_bounty_writeup-5)
 - [Reflected XSS into a template literal with angle brackets, single, double quotes, backslash and…](https://medium.com/@codingbolt.in/reflected-xss-into-a-template-literal-with-angle-brackets-single-double-quotes-backslash-and-5acbbd9f2631?source=rss------bug_bounty_writeup-5)
 - [How I proved impact with Google Map API Key](https://r0b0ts.medium.com/how-i-proved-impact-with-google-map-api-key-7aa801616abb?source=rss------bug_bounty_writeup-5)
@@ -972,6 +971,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Are You Ready for the New NIST Control Around Public Disclosure Programs?](https://www.hackerone.com/security-compliance/nist-vdp-control)
 - [HIPAA and Pentesting: What You Need to Know](https://www.hackerone.com/security-compliance/hipaa-pentesting)
 - [Hack My Career: Meet Naz Bozdemir](https://www.hackerone.com/culture-and-talent/hack-my-career-meet-naz-bozdemir)
+- [Streamline Report Management with Custom Inboxes: Reducing Delays and Security Risks](https://www.hackerone.com/vulnerability-management/custom-inbox-enhancements)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
