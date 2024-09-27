@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [SQL injection vulnerability allowing login bypass](https://medium.com/@codingbolt.in/sql-injection-vulnerability-allowing-login-bypass-7f1de7d77a6a?source=rss------bug_bounty_writeup-5)
+- [SQL injection vulnerability in WHERE clause allowing retrieval of hidden data](https://medium.com/@codingbolt.in/sql-injection-vulnerability-in-where-clause-allowing-retrieval-of-hidden-data-8ea2be5f13df?source=rss------bug_bounty_writeup-5)
 - [Level Up your Bug Bounty Game — to P1s and P2s Series : PART 1](https://medium.com/@nireshpandian19/level-up-your-bug-bounty-game-to-p1s-and-p2s-series-part-1-edaa702c8499?source=rss------bug_bounty_writeup-5)
 - [Exploiting XSS to perform CSRF](https://medium.com/@codingbolt.in/exploiting-xss-to-perform-csrf-1aac291690bd?source=rss------bug_bounty_writeup-5)
 - [A Guide To Subdomain Takeovers 2.0](https://www.hackerone.com/community/guide-subdomain-takeovers)
@@ -931,8 +933,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How I proved impact with Google Map API Key](https://r0b0ts.medium.com/how-i-proved-impact-with-google-map-api-key-7aa801616abb?source=rss------bug_bounty_writeup-5)
 - [Exploring the Role of Port Scanning in Bug Bounty Hunting](https://bevijaygupta.medium.com/exploring-the-role-of-port-scanning-in-bug-bounty-hunting-169a1d723bb0?source=rss------bug_bounty_writeup-5)
 - [Mendapatkan Akses SMTP Melalui Celah SQL Injection](https://rdnzx.medium.com/mendapatkan-akses-smtp-melalui-celah-sql-injection-f6d593fcad5e?source=rss------bug_bounty_writeup-5)
-- [Purchasing Golden Number at a Lower Price: A $800 Bounty Story](https://medium.com/@harrmahar/purchasing-golden-number-at-a-lower-price-a-800-bounty-story-4e9a5a18e477?source=rss------bug_bounty_writeup-5)
-- [Reflected XSS into HTML context with most tags and attributes blocked](https://medium.com/@codingbolt.in/reflected-xss-into-html-context-with-most-tags-and-attributes-blocked-0bb80ac37064?source=rss------bug_bounty_writeup-5)
 - [HTB | Help -GraphQL and Blind SQL](https://infosecwriteups.com/htb-help-graphql-and-blind-sql-5967ecebf9e1?source=rss----7b722bfd1b8d---4)
 - [Pfsense Installation and Configuration Guide](https://infosecwriteups.com/pfsense-installation-and-configuration-71559299dd7b?source=rss----7b722bfd1b8d---4)
 - [Virus Detection through PfSense &amp; Log forwarding to Wazuh](https://infosecwriteups.com/virus-detection-through-pfsense-log-forwarding-to-wazuh-bf35418ee785?source=rss----7b722bfd1b8d---4)
