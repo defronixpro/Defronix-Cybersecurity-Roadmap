@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [SQL injection attack, querying the database type and version on MySQL and Microsoft](https://medium.com/@codingbolt.in/sql-injection-attack-querying-the-database-type-and-version-on-mysql-and-microsoft-162715c6cd0e?source=rss------bug_bounty_writeup-5)
+- [SQL injection attack, querying the database type and version on Oracle](https://medium.com/@codingbolt.in/sql-injection-attack-querying-the-database-type-and-version-on-oracle-f78a035c654d?source=rss------bug_bounty_writeup-5)
 - [Exploiting a Logic Bug in Discount Codes Generation](https://medium.com/@sam_0x0/exploiting-a-logic-bug-in-discount-code-generation-a7f624bb396f?source=rss------bug_bounty_writeup-5)
 - [SQL injection vulnerability allowing login bypass](https://medium.com/@codingbolt.in/sql-injection-vulnerability-allowing-login-bypass-7f1de7d77a6a?source=rss------bug_bounty_writeup-5)
 - [SQL injection vulnerability in WHERE clause allowing retrieval of hidden data](https://medium.com/@codingbolt.in/sql-injection-vulnerability-in-where-clause-allowing-retrieval-of-hidden-data-8ea2be5f13df?source=rss------bug_bounty_writeup-5)
@@ -931,8 +933,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [IDOR Leads To Account Takeover](https://medium.com/@mhdrizkiabrar640/idor-leads-to-account-takeover-6adf73bd268b?source=rss------bug_bounty_writeup-5)
 - [Reflected XSS into a template literal with angle brackets, single, double quotes, backslash and…](https://medium.com/@codingbolt.in/reflected-xss-into-a-template-literal-with-angle-brackets-single-double-quotes-backslash-and-5acbbd9f2631?source=rss------bug_bounty_writeup-5)
 - [How to Streamline Your SDLC With Hai](https://www.hackerone.com/ai/streamline-sdlc-with-hai)
-- [How I proved impact with Google Map API Key](https://r0b0ts.medium.com/how-i-proved-impact-with-google-map-api-key-7aa801616abb?source=rss------bug_bounty_writeup-5)
-- [Exploring the Role of Port Scanning in Bug Bounty Hunting](https://bevijaygupta.medium.com/exploring-the-role-of-port-scanning-in-bug-bounty-hunting-169a1d723bb0?source=rss------bug_bounty_writeup-5)
 - [HTB | Help -GraphQL and Blind SQL](https://infosecwriteups.com/htb-help-graphql-and-blind-sql-5967ecebf9e1?source=rss----7b722bfd1b8d---4)
 - [Pfsense Installation and Configuration Guide](https://infosecwriteups.com/pfsense-installation-and-configuration-71559299dd7b?source=rss----7b722bfd1b8d---4)
 - [Virus Detection through PfSense &amp; Log forwarding to Wazuh](https://infosecwriteups.com/virus-detection-through-pfsense-log-forwarding-to-wazuh-bf35418ee785?source=rss----7b722bfd1b8d---4)
