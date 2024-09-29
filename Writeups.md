@@ -1,6 +1,10 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Modded Versions of Popular Android Apps Used to Distribute New Variant of Necro Malware](https://infosecwriteups.com/modded-versions-of-popular-android-apps-used-to-distribute-new-variant-of-necro-malware-ccb3ccd8c57d?source=rss----7b722bfd1b8d---4)
+- [Going Crazy with Farming VDPs: Extplorer Admin Panel Bypass &amp; Remote Code Execution &lpar;RCE&rpar;](https://infosecwriteups.com/going-crazy-with-farming-vdps-extplorer-admin-panel-bypass-remote-code-execution-rce-ed6ae27bbce9?source=rss----7b722bfd1b8d---4)
+- [OffSec Play Lab: DC-1 Walkthrough](https://infosecwriteups.com/offsec-play-lab-dc-1-walkthrough-88d207b57acc?source=rss----7b722bfd1b8d---4)
+- [Will Software Updates lead to Cyberattacks ?](https://infosecwriteups.com/will-software-updates-lead-to-cyberattacks-38d629f565cb?source=rss----7b722bfd1b8d---4)
 - [how i found union based sql injection in hackerone public vdp program?](https://doordiefordream.medium.com/how-i-found-union-based-sql-injection-in-hackerone-public-vdp-program-7c76d61f6c77?source=rss------bug_bounty_writeup-5)
 - [Bypassing Filters: SSRF Exploitation via DNS Rebinding with Just 1 in 30 Successful Requests](https://mokhansec.medium.com/bypassing-filters-ssrf-exploitation-via-dns-rebinding-with-just-1-in-30-successful-requests-2fdc3a9cfd7d?source=rss------bug_bounty_writeup-5)
 - [SQL injection attack, querying the database type and version on MySQL and Microsoft](https://medium.com/@codingbolt.in/sql-injection-attack-querying-the-database-type-and-version-on-mysql-and-microsoft-162715c6cd0e?source=rss------bug_bounty_writeup-5)
@@ -18,10 +22,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [From GitHub Recon to Hotstar Admin Access: A Deep Dive into Security Flaws](https://infosecwriteups.com/from-github-recon-to-hotstar-admin-access-a-deep-dive-into-security-flaws-2e4ae0ec937e?source=rss----7b722bfd1b8d---4)
 - [PeakLight Campaign — MSHTA](https://infosecwriteups.com/peaklight-campaign-mshta-a7f45aec50ab?source=rss----7b722bfd1b8d---4)
 - [Open-Source Intelligence &lpar;OSINT&rpar;: A Powerful Tool for Information Gathering 2024–2025](https://infosecwriteups.com/open-source-intelligence-osint-a-powerful-tool-for-information-gathering-2024-2025-2b23d983b2b8?source=rss----7b722bfd1b8d---4)
-- [Top Cybersecurity Certifications For Beginners in 2024 and 2025: All You Need To Know](https://infosecwriteups.com/top-cybersecurity-certifications-for-beginners-in-2024-and-2025-all-you-need-to-know-fa1dc198e106?source=rss----7b722bfd1b8d---4)
-- [Top Websites to Learn Hacking and Compete in Capture the Flag &lpar;CTF&rpar;](https://infosecwriteups.com/top-websites-to-learn-hacking-and-compete-in-capture-the-flag-ctf-ec5c18ecfd70?source=rss----7b722bfd1b8d---4)
-- [Top 10 Cybersecurity-Related Movies You Should Watch](https://infosecwriteups.com/top-10-cybersecurity-related-movies-you-should-watch-c3b1b2ce2666?source=rss----7b722bfd1b8d---4)
-- [Escape Unveiled: Active Directory ADCS Exploit Walkthrough](https://infosecwriteups.com/escape-unveiled-active-directory-adcs-exploit-walkthrough-85cf58d3185b?source=rss----7b722bfd1b8d---4)
 - [How to Accelerate Vulnerability Remediation with Hai](https://www.hackerone.com/ai/accelerate-vulnerability-remediation-with-hai)
 - [Introducing HackerOne Automations](https://www.hackerone.com/vulnerability-management/introducing-hackerone-automations)
 - [The Rise of Bug Bounty Programs in S-1 Filings: A New Standard in Corporate Security](https://www.hackerone.com/vulnerability-management/bug-bounty-s-1-filings)
