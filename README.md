@@ -961,7 +961,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Takeaways from the Dismissal of Most of the Government’s Case Against the SolarWinds CISO](https://www.hackerone.com/public-policy/solarwinds-case-dismissal)
 - [5 Questions to Assess Your Organization’s Bug Bounty Readiness](https://www.hackerone.com/vulnerability-management/bug-bounty-readiness-questions)
 - [Hack My Career: Meet Alek Relyea](https://www.hackerone.com/culture-and-talent/hack-my-career-meet-alek-relyea)
-- [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How Hai’s Report Summarization Turns Complex Data Into Actionable Insights](https://www.hackerone.com/ai/hai-report-summarization)
 - [Anthropic Expands Their Model Safety Bug Bounty Program](https://www.hackerone.com/customer-stories/anthropic-expands-bug-bounty-program)
 - [A Visual Guide to Bug Bounty Success](https://www.hackerone.com/application-security/visual-guide-bug-bounty-success)
@@ -972,6 +971,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Lessons from HackerOne’s First Recharge Week](https://www.hackerone.com/culture-and-talent/lessons-hackerones-first-recharge-week)
 - [Are You Ready for the New NIST Control Around Public Disclosure Programs?](https://www.hackerone.com/security-compliance/nist-vdp-control)
 - [HIPAA and Pentesting: What You Need to Know](https://www.hackerone.com/security-compliance/hipaa-pentesting)
+- [Hack My Career: Meet Naz Bozdemir](https://www.hackerone.com/culture-and-talent/hack-my-career-meet-naz-bozdemir)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
