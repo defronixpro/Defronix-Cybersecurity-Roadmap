@@ -3,7 +3,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 <!-- WRITEUPS:START -->
 - [SQL injection attack, querying the database type and version on MySQL and Microsoft](https://medium.com/@codingbolt.in/sql-injection-attack-querying-the-database-type-and-version-on-mysql-and-microsoft-162715c6cd0e?source=rss------bug_bounty_writeup-5)
 - [SQL injection attack, querying the database type and version on Oracle](https://medium.com/@codingbolt.in/sql-injection-attack-querying-the-database-type-and-version-on-oracle-f78a035c654d?source=rss------bug_bounty_writeup-5)
-- [Exploiting a Logic Bug in Discount Codes Generation](https://medium.com/@sam_0x0/exploiting-a-logic-bug-in-discount-code-generation-a7f624bb396f?source=rss------bug_bounty_writeup-5)
+- [Exploiting a Logic Bug in Discount Codes Generation](https://infosecwriteups.com/exploiting-a-logic-bug-in-discount-code-generation-a7f624bb396f?source=rss------bug_bounty_writeup-5)
 - [SQL injection vulnerability allowing login bypass](https://medium.com/@codingbolt.in/sql-injection-vulnerability-allowing-login-bypass-7f1de7d77a6a?source=rss------bug_bounty_writeup-5)
 - [SQL injection vulnerability in WHERE clause allowing retrieval of hidden data](https://medium.com/@codingbolt.in/sql-injection-vulnerability-in-where-clause-allowing-retrieval-of-hidden-data-8ea2be5f13df?source=rss------bug_bounty_writeup-5)
 - [Level Up your Bug Bounty Game — to P1s and P2s Series : PART 1](https://medium.com/@nireshpandian19/level-up-your-bug-bounty-game-to-p1s-and-p2s-series-part-1-edaa702c8499?source=rss------bug_bounty_writeup-5)
