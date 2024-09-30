@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Easy P2 — Pre account takeover via Facebook OAuth misconfiguration](https://sudosuraj.medium.com/easy-p2-pre-account-takeover-via-facebook-oauth-misconfiguration-23c681ba8f07?source=rss------bug_bounty_writeup-5)
 - [The Hidden Gem of Pentest Certifications in 2024](https://infosecwriteups.com/the-hidden-gem-of-pentest-certifications-in-2024-67fa7a5b57cc?source=rss----7b722bfd1b8d---4)
 - [Understanding Inconsistencies in IP Address Classification Across Programming Languages](https://infosecwriteups.com/understanding-inconsistencies-in-ip-address-classification-across-programming-languages-19b2645b10a9?source=rss----7b722bfd1b8d---4)
 - [Powershell Network Commandes](https://infosecwriteups.com/powershell-network-commandes-63bf4f612ef9?source=rss----7b722bfd1b8d---4)
@@ -971,7 +972,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How a GraphQL Bug Resulted in Authentication Bypass](https://www.hackerone.com/vulnerability-management/graphql-authentication-bypass)
 - [Lessons from HackerOne’s First Recharge Week](https://www.hackerone.com/culture-and-talent/lessons-hackerones-first-recharge-week)
 - [Are You Ready for the New NIST Control Around Public Disclosure Programs?](https://www.hackerone.com/security-compliance/nist-vdp-control)
-- [HIPAA and Pentesting: What You Need to Know](https://www.hackerone.com/security-compliance/hipaa-pentesting)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
