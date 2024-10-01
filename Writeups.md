@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Sneaking into your documents: How I hacked DigiLocker?](https://prateeksrivastavaa.medium.com/sneaking-into-your-documents-how-i-hacked-digilocker-ae6dc44267fb?source=rss------bug_bounty_writeup-5)
 - [Why can’t Bug Bounty Hunter find a bug?](https://m0hitrawat.medium.com/why-cant-bug-bounty-hunter-find-a-bug-b5c9bc72a30d?source=rss------bug_bounty_writeup-5)
 - [Easy P2 — Pre account takeover via Facebook OAuth misconfiguration](https://sudosuraj.medium.com/easy-p2-pre-account-takeover-via-facebook-oauth-misconfiguration-23c681ba8f07?source=rss------bug_bounty_writeup-5)
 - [The Hidden Gem of Pentest Certifications in 2024](https://infosecwriteups.com/the-hidden-gem-of-pentest-certifications-in-2024-67fa7a5b57cc?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Exploiting a Logic Bug in Discount Codes Generation](https://infosecwriteups.com/exploiting-a-logic-bug-in-discount-code-generation-a7f624bb396f?source=rss------bug_bounty_writeup-5)
 - [SQL injection vulnerability allowing login bypass](https://medium.com/@codingbolt.in/sql-injection-vulnerability-allowing-login-bypass-7f1de7d77a6a?source=rss------bug_bounty_writeup-5)
 - [SQL injection vulnerability in WHERE clause allowing retrieval of hidden data](https://medium.com/@codingbolt.in/sql-injection-vulnerability-in-where-clause-allowing-retrieval-of-hidden-data-8ea2be5f13df?source=rss------bug_bounty_writeup-5)
-- [Level Up your Bug Bounty Game — to P1s and P2s Series : PART 1](https://medium.com/@nireshpandian19/level-up-your-bug-bounty-game-to-p1s-and-p2s-series-part-1-edaa702c8499?source=rss------bug_bounty_writeup-5)
 - [A Guide To Subdomain Takeovers 2.0](https://www.hackerone.com/community/guide-subdomain-takeovers)
 - [How to Streamline Your SDLC With Hai](https://www.hackerone.com/ai/streamline-sdlc-with-hai)
 - [How to Accelerate Vulnerability Remediation with Hai](https://www.hackerone.com/ai/accelerate-vulnerability-remediation-with-hai)
