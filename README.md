@@ -922,7 +922,10 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Escalating stored XSS to Account Takeover](https://nyein-chan-aung.medium.com/escalating-stored-xss-to-account-takeover-28c549cd5f6b?source=rss------bug_bounty_writeup-5)
+- [Sneaking into your documents: How I hacked DigiLocker?](https://medium.com/codechef-vit/sneaking-into-your-documents-how-i-hacked-digilocker-ae6dc44267fb?source=rss------bug_bounty_writeup-5)
 - [Why can’t Bug Bounty Hunter find a bug?](https://m0hitrawat.medium.com/why-cant-bug-bounty-hunter-find-a-bug-b5c9bc72a30d?source=rss------bug_bounty_writeup-5)
+- [How To Find Broken Access Control Vulnerabilities in the Wild](https://www.hackerone.com/community/find-broken-access-control-vulnerabilities)
 - [Easy P2 — Pre account takeover via Facebook OAuth misconfiguration](https://sudosuraj.medium.com/easy-p2-pre-account-takeover-via-facebook-oauth-misconfiguration-23c681ba8f07?source=rss------bug_bounty_writeup-5)
 - [The Hidden Gem of Pentest Certifications in 2024](https://infosecwriteups.com/the-hidden-gem-of-pentest-certifications-in-2024-67fa7a5b57cc?source=rss----7b722bfd1b8d---4)
 - [Understanding Inconsistencies in IP Address Classification Across Programming Languages](https://infosecwriteups.com/understanding-inconsistencies-in-ip-address-classification-across-programming-languages-19b2645b10a9?source=rss----7b722bfd1b8d---4)
@@ -939,9 +942,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [SQL injection attack, querying the database type and version on MySQL and Microsoft](https://medium.com/@codingbolt.in/sql-injection-attack-querying-the-database-type-and-version-on-mysql-and-microsoft-162715c6cd0e?source=rss------bug_bounty_writeup-5)
 - [SQL injection attack, querying the database type and version on Oracle](https://medium.com/@codingbolt.in/sql-injection-attack-querying-the-database-type-and-version-on-oracle-f78a035c654d?source=rss------bug_bounty_writeup-5)
 - [Exploiting a Logic Bug in Discount Codes Generation](https://infosecwriteups.com/exploiting-a-logic-bug-in-discount-code-generation-a7f624bb396f?source=rss------bug_bounty_writeup-5)
+- [NIS2: Next Step Forward on EU Security Requirements](https://www.hackerone.com/public-policy/nis2-eu-security-requirements)
 - [SQL injection vulnerability allowing login bypass](https://medium.com/@codingbolt.in/sql-injection-vulnerability-allowing-login-bypass-7f1de7d77a6a?source=rss------bug_bounty_writeup-5)
-- [SQL injection vulnerability in WHERE clause allowing retrieval of hidden data](https://medium.com/@codingbolt.in/sql-injection-vulnerability-in-where-clause-allowing-retrieval-of-hidden-data-8ea2be5f13df?source=rss------bug_bounty_writeup-5)
-- [Level Up your Bug Bounty Game — to P1s and P2s Series : PART 1](https://medium.com/@nireshpandian19/level-up-your-bug-bounty-game-to-p1s-and-p2s-series-part-1-edaa702c8499?source=rss------bug_bounty_writeup-5)
 - [A Guide To Subdomain Takeovers 2.0](https://www.hackerone.com/community/guide-subdomain-takeovers)
 - [How to Streamline Your SDLC With Hai](https://www.hackerone.com/ai/streamline-sdlc-with-hai)
 - [How to Accelerate Vulnerability Remediation with Hai](https://www.hackerone.com/ai/accelerate-vulnerability-remediation-with-hai)
@@ -970,8 +972,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Security Page Updates: Boosting Consistency &amp; Transparency for Security Researchers and Customers](https://www.hackerone.com/security-page-updates)
 - [Introducing HackerOne Gateway Internal Network Testing: Superior Security for Internal Networks](https://www.hackerone.com/penetration-testing/gateway-internal-network-testing)
 - [How a GraphQL Bug Resulted in Authentication Bypass](https://www.hackerone.com/vulnerability-management/graphql-authentication-bypass)
-- [Lessons from HackerOne’s First Recharge Week](https://www.hackerone.com/culture-and-talent/lessons-hackerones-first-recharge-week)
-- [Are You Ready for the New NIST Control Around Public Disclosure Programs?](https://www.hackerone.com/security-compliance/nist-vdp-control)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
