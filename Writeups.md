@@ -1,7 +1,8 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
-- [Sneaking into your documents: How I hacked DigiLocker?](https://prateeksrivastavaa.medium.com/sneaking-into-your-documents-how-i-hacked-digilocker-ae6dc44267fb?source=rss------bug_bounty_writeup-5)
+- [Escalating stored XSS to Account Takeover](https://nyein-chan-aung.medium.com/escalating-stored-xss-to-account-takeover-28c549cd5f6b?source=rss------bug_bounty_writeup-5)
+- [Sneaking into your documents: How I hacked DigiLocker?](https://medium.com/codechef-vit/sneaking-into-your-documents-how-i-hacked-digilocker-ae6dc44267fb?source=rss------bug_bounty_writeup-5)
 - [Why can’t Bug Bounty Hunter find a bug?](https://m0hitrawat.medium.com/why-cant-bug-bounty-hunter-find-a-bug-b5c9bc72a30d?source=rss------bug_bounty_writeup-5)
 - [How To Find Broken Access Control Vulnerabilities in the Wild](https://www.hackerone.com/community/find-broken-access-control-vulnerabilities)
 - [Easy P2 — Pre account takeover via Facebook OAuth misconfiguration](https://sudosuraj.medium.com/easy-p2-pre-account-takeover-via-facebook-oauth-misconfiguration-23c681ba8f07?source=rss------bug_bounty_writeup-5)
@@ -22,7 +23,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Exploiting a Logic Bug in Discount Codes Generation](https://infosecwriteups.com/exploiting-a-logic-bug-in-discount-code-generation-a7f624bb396f?source=rss------bug_bounty_writeup-5)
 - [NIS2: Next Step Forward on EU Security Requirements](https://www.hackerone.com/public-policy/nis2-eu-security-requirements)
 - [SQL injection vulnerability allowing login bypass](https://medium.com/@codingbolt.in/sql-injection-vulnerability-allowing-login-bypass-7f1de7d77a6a?source=rss------bug_bounty_writeup-5)
-- [SQL injection vulnerability in WHERE clause allowing retrieval of hidden data](https://medium.com/@codingbolt.in/sql-injection-vulnerability-in-where-clause-allowing-retrieval-of-hidden-data-8ea2be5f13df?source=rss------bug_bounty_writeup-5)
 - [A Guide To Subdomain Takeovers 2.0](https://www.hackerone.com/community/guide-subdomain-takeovers)
 - [How to Streamline Your SDLC With Hai](https://www.hackerone.com/ai/streamline-sdlc-with-hai)
 - [How to Accelerate Vulnerability Remediation with Hai](https://www.hackerone.com/ai/accelerate-vulnerability-remediation-with-hai)
@@ -200,8 +200,8 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Strengthening the SDLC with Security Advisory Services &lpar;SAS&rpar;](https://www.hackerone.com/vulnerability-management/security-advisory-services-sdlc)
 - [Zoom and Salesforce: The Role of Hackers in Addressing Security Challenges](https://www.hackerone.com/vulnerability-management/zoom-salesforce-ethical-hackers)
 - [Amazon&#39;s Security Researcher Collaboration: Highlights from H1-213](https://www.hackerone.com/live-hacking-events/amazons-security-researcher-collaboration-highlights-h1-213)
-- [Security Should Never Sleep: Adopting Continuous Testing for Evolving Threats](https://www.hackerone.com/vulnerability-management/adopting-continuous-testing-evolving-threats)
 - [Five Takeaways from Ohio Secretary of State&#39;s VDP Success Story](https://www.hackerone.com/vulnerability-disclosure/five-takeaways-ohio-secretary-states-vdp-success-story)
+- [Security Should Never Sleep: Adopting Continuous Testing for Evolving Threats](https://www.hackerone.com/vulnerability-management/adopting-continuous-testing-evolving-threats)
 - [Generative AI and Security: HackerOne&#39;s Predictions](https://www.hackerone.com/thought-leadership/generative-ai-security-predictions)
 - [Takeaways from a Conversation Between Hackers and Program Managers](https://www.hackerone.com/best-practices/a-conversation-between-hackers-and-program-managers)
 - [Grammarly CISO Suha Can Discusses the Impact of Preemptive Security with HackerOne](https://www.hackerone.com/customer-stories/grammarly-ciso-suha-can-discusses-preemptive-security)
@@ -719,8 +719,8 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [H1-415 Live Hacking Event Delivers to Customers, Community, and Hackers](https://www.hackerone.com/ethical-hacker/h1-415-live-hacking-event-delivers-customers-community-and-hackers)
 - [Introducing CWE-based Weaknesses](https://www.hackerone.com/hackerone-community-blog/introducing-cwe-based-weaknesses)
 - [HackerOne, Bountycraft, and Nullcon](https://www.hackerone.com/company-news/hackerone-bountycraft-and-nullcon)
-- [HackerOne Professional Free For Open Source Projects](https://www.hackerone.com/hackerone-community-blog/hackerone-professional-free-open-source-projects)
 - [Rockstar Games Launches Public HackerOne Bug Bounty Program](https://www.hackerone.com/application-security/rockstar-games-launches-public-hackerone-bug-bounty-program)
+- [HackerOne Professional Free For Open Source Projects](https://www.hackerone.com/hackerone-community-blog/hackerone-professional-free-open-source-projects)
 - [RSA stands for Really Sweet Activities: HackerOne recaps an epic week](https://www.hackerone.com/company-news/rsa-stands-really-sweet-activities-hackerone-recaps-epic-week)
 - [Flexport leverages bug bounty programs to secure their customers highly confidential shipping data](https://www.hackerone.com/application-security/flexport-leverages-bug-bounty-programs-secure-their-customers-highly)
 - [Bug Bounties Help Keepsafe Secure The Data of 50 Million Consumers](https://www.hackerone.com/security-compliance/bug-bounties-help-keepsafe-secure-data-50-million-consumers)
