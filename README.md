@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [VDP: Broken Session Management Allows Unlimited Free Scans on Pentesting Website](https://medium.com/@enigma_/vdp-broken-session-management-allows-unlimited-free-scans-on-pentesting-website-99467dce1d3c?source=rss------bug_bounty_writeup-5)
 - [SQL injection attack, listing the database contents on Oracle](https://medium.com/@codingbolt.in/sql-injection-attack-listing-the-database-contents-on-oracle-ceb843466f32?source=rss------bug_bounty_writeup-5)
 - [How to Easily Get the Hall of Fame on NASA’s Vulnerability Disclosure Program - II](https://medium.com/@rajkumarshanmugam/how-to-easily-get-the-hall-of-fame-on-nasas-vulnerability-disclosure-program-ii-4cc5c2a65f3b?source=rss------bug_bounty_writeup-5)
 - [$175 Prototype Pollution Vulnerability — My first bounty](https://1-day.medium.com/175-prototype-pollution-vulnerability-my-first-bounty-197738a32330?source=rss------bug_bounty_writeup-5)
@@ -942,7 +943,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Top 20 Must-Have Hacking Gadgets for Cybersecurity Professionals](https://infosecwriteups.com/top-20-must-have-hacking-gadgets-for-cybersecurity-professionals-bec4dfe896cf?source=rss----7b722bfd1b8d---4)
 - [how i found union based sql injection in hackerone public vdp program?](https://doordiefordream.medium.com/how-i-found-union-based-sql-injection-in-hackerone-public-vdp-program-7c76d61f6c77?source=rss------bug_bounty_writeup-5)
 - [Bypassing Filters: SSRF Exploitation via DNS Rebinding with Just 1 in 30 Successful Requests](https://mokhansec.medium.com/bypassing-filters-ssrf-exploitation-via-dns-rebinding-with-just-1-in-30-successful-requests-2fdc3a9cfd7d?source=rss------bug_bounty_writeup-5)
-- [SQL injection attack, querying the database type and version on MySQL and Microsoft](https://medium.com/@codingbolt.in/sql-injection-attack-querying-the-database-type-and-version-on-mysql-and-microsoft-162715c6cd0e?source=rss------bug_bounty_writeup-5)
 - [NIS2: Next Step Forward on EU Security Requirements](https://www.hackerone.com/public-policy/nis2-eu-security-requirements)
 - [A Guide To Subdomain Takeovers 2.0](https://www.hackerone.com/community/guide-subdomain-takeovers)
 - [How to Streamline Your SDLC With Hai](https://www.hackerone.com/ai/streamline-sdlc-with-hai)
