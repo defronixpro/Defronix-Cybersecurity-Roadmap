@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [one of the best tool for subdomains finding.](https://osintteam.blog/one-of-the-best-tool-for-subdomains-finding-0769dff261f4?source=rss------bug_bounty_writeup-5)
 - [GraphQL vs REST: Comparison and exploit](https://medium.com/@kabi_777/graphql-vs-rest-comparison-and-security-insights-f481f3389e43?source=rss------bug_bounty_writeup-5)
 - [VDP: Broken Session Management Allows Unlimited Free Scans on Pentesting Website](https://medium.com/@enigma_/vdp-broken-session-management-allows-unlimited-free-scans-on-pentesting-website-99467dce1d3c?source=rss------bug_bounty_writeup-5)
 - [SQL injection attack, listing the database contents on Oracle](https://medium.com/@codingbolt.in/sql-injection-attack-listing-the-database-contents-on-oracle-ceb843466f32?source=rss------bug_bounty_writeup-5)
@@ -21,7 +22,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Setup Guide for OffSec’s Free Play Lab](https://infosecwriteups.com/setup-guide-for-offsecs-free-play-lab-da9bfd004674?source=rss----7b722bfd1b8d---4)
 - [Subdomain Takeovers for Beginners](https://infosecwriteups.com/subdomain-takeovers-for-beginners-a51ed74db543?source=rss----7b722bfd1b8d---4)
 - [Top 20 Must-Have Hacking Gadgets for Cybersecurity Professionals](https://infosecwriteups.com/top-20-must-have-hacking-gadgets-for-cybersecurity-professionals-bec4dfe896cf?source=rss----7b722bfd1b8d---4)
-- [how i found union based sql injection in hackerone public vdp program?](https://doordiefordream.medium.com/how-i-found-union-based-sql-injection-in-hackerone-public-vdp-program-7c76d61f6c77?source=rss------bug_bounty_writeup-5)
 - [NIS2: Next Step Forward on EU Security Requirements](https://www.hackerone.com/public-policy/nis2-eu-security-requirements)
 - [A Guide To Subdomain Takeovers 2.0](https://www.hackerone.com/community/guide-subdomain-takeovers)
 - [How to Streamline Your SDLC With Hai](https://www.hackerone.com/ai/streamline-sdlc-with-hai)
