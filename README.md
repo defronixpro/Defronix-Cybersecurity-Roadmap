@@ -942,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Subdomain Takeovers for Beginners](https://infosecwriteups.com/subdomain-takeovers-for-beginners-a51ed74db543?source=rss----7b722bfd1b8d---4)
 - [Top 20 Must-Have Hacking Gadgets for Cybersecurity Professionals](https://infosecwriteups.com/top-20-must-have-hacking-gadgets-for-cybersecurity-professionals-bec4dfe896cf?source=rss----7b722bfd1b8d---4)
 - [how i found union based sql injection in hackerone public vdp program?](https://doordiefordream.medium.com/how-i-found-union-based-sql-injection-in-hackerone-public-vdp-program-7c76d61f6c77?source=rss------bug_bounty_writeup-5)
-- [Bypassing Filters: SSRF Exploitation via DNS Rebinding with Just 1 in 30 Successful Requests](https://mokhansec.medium.com/bypassing-filters-ssrf-exploitation-via-dns-rebinding-with-just-1-in-30-successful-requests-2fdc3a9cfd7d?source=rss------bug_bounty_writeup-5)
 - [NIS2: Next Step Forward on EU Security Requirements](https://www.hackerone.com/public-policy/nis2-eu-security-requirements)
 - [A Guide To Subdomain Takeovers 2.0](https://www.hackerone.com/community/guide-subdomain-takeovers)
 - [How to Streamline Your SDLC With Hai](https://www.hackerone.com/ai/streamline-sdlc-with-hai)
@@ -972,6 +971,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Security Page Updates: Boosting Consistency &amp; Transparency for Security Researchers and Customers](https://www.hackerone.com/security-page-updates)
 - [Introducing HackerOne Gateway Internal Network Testing: Superior Security for Internal Networks](https://www.hackerone.com/penetration-testing/gateway-internal-network-testing)
 - [How a GraphQL Bug Resulted in Authentication Bypass](https://www.hackerone.com/vulnerability-management/graphql-authentication-bypass)
+- [Lessons from HackerOne’s First Recharge Week](https://www.hackerone.com/culture-and-talent/lessons-hackerones-first-recharge-week)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
