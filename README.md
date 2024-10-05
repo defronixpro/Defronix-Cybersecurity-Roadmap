@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Sensitive Data Leak using Cors Misconfiguration in prominent Domain Registrar](https://infosecwriteups.com/sensitive-data-leak-using-cors-misconfiguration-in-prominent-domain-registrar-b3010e4e6501?source=rss------bug_bounty_writeup-5)
 - [one of the best tool for subdomains finding.](https://osintteam.blog/one-of-the-best-tool-for-subdomains-finding-0769dff261f4?source=rss------bug_bounty_writeup-5)
 - [GraphQL vs REST: Comparison and exploit](https://medium.com/@kabi_777/graphql-vs-rest-comparison-and-security-insights-f481f3389e43?source=rss------bug_bounty_writeup-5)
 - [VDP: Broken Session Management Allows Unlimited Free Scans on Pentesting Website](https://medium.com/@enigma_/vdp-broken-session-management-allows-unlimited-free-scans-on-pentesting-website-99467dce1d3c?source=rss------bug_bounty_writeup-5)
@@ -932,7 +933,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Sneaking into your documents: How I hacked DigiLocker?](https://medium.com/codechef-vit/sneaking-into-your-documents-how-i-hacked-digilocker-ae6dc44267fb?source=rss------bug_bounty_writeup-5)
 - [Why can’t Bug Bounty Hunter find a bug?](https://m0hitrawat.medium.com/why-cant-bug-bounty-hunter-find-a-bug-b5c9bc72a30d?source=rss------bug_bounty_writeup-5)
 - [How To Find Broken Access Control Vulnerabilities in the Wild](https://www.hackerone.com/community/find-broken-access-control-vulnerabilities)
-- [Easy P2 — Pre account takeover via Facebook OAuth misconfiguration](https://sudosuraj.medium.com/easy-p2-pre-account-takeover-via-facebook-oauth-misconfiguration-23c681ba8f07?source=rss------bug_bounty_writeup-5)
 - [The Hidden Gem of Pentest Certifications in 2024](https://infosecwriteups.com/the-hidden-gem-of-pentest-certifications-in-2024-67fa7a5b57cc?source=rss----7b722bfd1b8d---4)
 - [Understanding Inconsistencies in IP Address Classification Across Programming Languages](https://infosecwriteups.com/understanding-inconsistencies-in-ip-address-classification-across-programming-languages-19b2645b10a9?source=rss----7b722bfd1b8d---4)
 - [Powershell Network Commandes](https://infosecwriteups.com/powershell-network-commandes-63bf4f612ef9?source=rss----7b722bfd1b8d---4)
