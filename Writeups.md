@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Race Condition , Allows creation of unlimited projects, bypassing free-tier limits.](https://dark0x.medium.com/race-condition-allows-creation-of-unlimited-projects-bypassing-free-tier-limits-109dd91c6783?source=rss------bug_bounty_writeup-5)
 - [Exploiting server-side parameter pollution in a query string](https://medium.com/@codingbolt.in/exploiting-server-side-parameter-pollution-in-a-query-string-38768943c6ca?source=rss------bug_bounty_writeup-5)
 - [Sensitive Data Leak using Cors Misconfiguration in prominent Domain Registrar](https://infosecwriteups.com/sensitive-data-leak-using-cors-misconfiguration-in-prominent-domain-registrar-b3010e4e6501?source=rss------bug_bounty_writeup-5)
 - [one of the best tool for subdomains finding.](https://osintteam.blog/one-of-the-best-tool-for-subdomains-finding-0769dff261f4?source=rss------bug_bounty_writeup-5)
@@ -10,7 +11,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How to Easily Get the Hall of Fame on NASA’s Vulnerability Disclosure Program - II](https://medium.com/@rajkumarshanmugam/how-to-easily-get-the-hall-of-fame-on-nasas-vulnerability-disclosure-program-ii-4cc5c2a65f3b?source=rss------bug_bounty_writeup-5)
 - [$175 Prototype Pollution Vulnerability — My first bounty](https://1-day.medium.com/175-prototype-pollution-vulnerability-my-first-bounty-197738a32330?source=rss------bug_bounty_writeup-5)
 - [Escalating stored XSS to Account Takeover](https://nyein-chan-aung.medium.com/escalating-stored-xss-to-account-takeover-28c549cd5f6b?source=rss------bug_bounty_writeup-5)
-- [Sneaking into your documents: How I hacked DigiLocker?](https://medium.com/codechef-vit/sneaking-into-your-documents-how-i-hacked-digilocker-ae6dc44267fb?source=rss------bug_bounty_writeup-5)
 - [How To Find Broken Access Control Vulnerabilities in the Wild](https://www.hackerone.com/community/find-broken-access-control-vulnerabilities)
 - [The Hidden Gem of Pentest Certifications in 2024](https://infosecwriteups.com/the-hidden-gem-of-pentest-certifications-in-2024-67fa7a5b57cc?source=rss----7b722bfd1b8d---4)
 - [Understanding Inconsistencies in IP Address Classification Across Programming Languages](https://infosecwriteups.com/understanding-inconsistencies-in-ip-address-classification-across-programming-languages-19b2645b10a9?source=rss----7b722bfd1b8d---4)
