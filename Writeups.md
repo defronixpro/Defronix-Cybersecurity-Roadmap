@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How I Got my First Bounty €€ ?](https://medium.com/@muralidharan1530/how-i-got-my-first-bounty-776e8487f9a0?source=rss------bug_bounty_writeup-5)
 - [How a Simple Bug Could Have Taken Down Your Instagram Tags](https://medium.com/@kiril.krivogyz/how-a-simple-bug-could-have-taken-down-your-instagram-tags-d3247e931c9d?source=rss------bug_bounty_writeup-5)
 - [Subdomain Enumeration | BBOT ✅&gt;= Subfinder + Sublist3r + Assetfinder + Amass ❌](https://medium.com/@kumawatabhijeet2002/subdomain-enumeration-bbot-subfinder-sublist3r-assetfinder-amass-e4880cf4ab5b?source=rss------bug_bounty_writeup-5)
 - [High-Risk Vulnerabilities in Apache HTTP Server’s mod_proxy Encoding Problem Allow Authentication…](https://infosecwriteups.com/high-risk-vulnerabilities-in-apache-http-servers-mod-proxy-encoding-problem-allow-authentication-cbe8d422738d?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [GraphQL vs REST: Comparison and exploit](https://medium.com/@kabi_777/graphql-vs-rest-comparison-and-security-insights-f481f3389e43?source=rss------bug_bounty_writeup-5)
 - [VDP: Broken Session Management Allows Unlimited Free Scans on Pentesting Website](https://medium.com/@enigma_/vdp-broken-session-management-allows-unlimited-free-scans-on-pentesting-website-99467dce1d3c?source=rss------bug_bounty_writeup-5)
 - [SQL injection attack, listing the database contents on Oracle](https://medium.com/@codingbolt.in/sql-injection-attack-listing-the-database-contents-on-oracle-ceb843466f32?source=rss------bug_bounty_writeup-5)
-- [How to Easily Get the Hall of Fame on NASA’s Vulnerability Disclosure Program - II](https://medium.com/@rajkumarshanmugam/how-to-easily-get-the-hall-of-fame-on-nasas-vulnerability-disclosure-program-ii-4cc5c2a65f3b?source=rss------bug_bounty_writeup-5)
 - [How To Find Broken Access Control Vulnerabilities in the Wild](https://www.hackerone.com/community/find-broken-access-control-vulnerabilities)
 - [NIS2: Next Step Forward on EU Security Requirements](https://www.hackerone.com/public-policy/nis2-eu-security-requirements)
 - [A Guide To Subdomain Takeovers 2.0](https://www.hackerone.com/community/guide-subdomain-takeovers)
