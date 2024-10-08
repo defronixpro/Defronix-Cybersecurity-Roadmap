@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [A quick P2 vulnerability, just like that !](https://medium.com/@nireshpandian19/a-quick-p2-vulnerability-just-like-that-5fc4f25f3b09?source=rss------bug_bounty_writeup-5)
 - [How I Got my First Bounty €€ ?](https://medium.com/@muralidharan1530/how-i-got-my-first-bounty-776e8487f9a0?source=rss------bug_bounty_writeup-5)
 - [How a Simple Bug Could Have Taken Down Your Instagram Tags](https://medium.com/@kiril.krivogyz/how-a-simple-bug-could-have-taken-down-your-instagram-tags-d3247e931c9d?source=rss------bug_bounty_writeup-5)
 - [Subdomain Enumeration | BBOT ✅&gt;= Subfinder + Sublist3r + Assetfinder + Amass ❌](https://medium.com/@kumawatabhijeet2002/subdomain-enumeration-bbot-subfinder-sublist3r-assetfinder-amass-e4880cf4ab5b?source=rss------bug_bounty_writeup-5)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [one of the best tool for subdomains finding.](https://osintteam.blog/one-of-the-best-tool-for-subdomains-finding-0769dff261f4?source=rss------bug_bounty_writeup-5)
 - [GraphQL vs REST: Comparison and exploit](https://medium.com/@kabi_777/graphql-vs-rest-comparison-and-security-insights-f481f3389e43?source=rss------bug_bounty_writeup-5)
 - [VDP: Broken Session Management Allows Unlimited Free Scans on Pentesting Website](https://medium.com/@enigma_/vdp-broken-session-management-allows-unlimited-free-scans-on-pentesting-website-99467dce1d3c?source=rss------bug_bounty_writeup-5)
-- [SQL injection attack, listing the database contents on Oracle](https://medium.com/@codingbolt.in/sql-injection-attack-listing-the-database-contents-on-oracle-ceb843466f32?source=rss------bug_bounty_writeup-5)
 - [How To Find Broken Access Control Vulnerabilities in the Wild](https://www.hackerone.com/community/find-broken-access-control-vulnerabilities)
 - [NIS2: Next Step Forward on EU Security Requirements](https://www.hackerone.com/public-policy/nis2-eu-security-requirements)
 - [A Guide To Subdomain Takeovers 2.0](https://www.hackerone.com/community/guide-subdomain-takeovers)
