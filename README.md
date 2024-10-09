@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How an IDOR Vulnerability Led to User Profile Modification](https://www.hackerone.com/vulnerability-management/idor-vulnerability-deep-dive)
 - [How I got a 5000 $ Bounty from Microsoft](https://medium.com/@bashir69emceeaka5/how-i-got-a-5000-bounty-from-microsoft-fb2e27fd40f7?source=rss------bug_bounty_writeup-5)
 - [A quick P2 vulnerability, just like that !](https://medium.com/@nireshpandian19/a-quick-p2-vulnerability-just-like-that-5fc4f25f3b09?source=rss------bug_bounty_writeup-5)
 - [How I Got my First Bounty €€ ?](https://medium.com/@muralidharan1530/how-i-got-my-first-bounty-776e8487f9a0?source=rss------bug_bounty_writeup-5)
@@ -971,7 +972,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Tips for Parents Working from Home from HackerOne Employees](https://www.hackerone.com/culture-and-talent/tips-parents-working-home-hackerone-employees)
 - [Security Page Updates: Boosting Consistency &amp; Transparency for Security Researchers and Customers](https://www.hackerone.com/security-page-updates)
 - [Introducing HackerOne Gateway Internal Network Testing: Superior Security for Internal Networks](https://www.hackerone.com/penetration-testing/gateway-internal-network-testing)
-- [How a GraphQL Bug Resulted in Authentication Bypass](https://www.hackerone.com/vulnerability-management/graphql-authentication-bypass)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
