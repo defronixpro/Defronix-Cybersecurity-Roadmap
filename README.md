@@ -923,7 +923,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
 - [The Recruitment Process: What to Expect When You Apply at HackerOne](https://www.hackerone.com/culture-and-talent/recruitment-process-what-expect-when-you-apply-hackerone)
-- [No Easy P1s on the fly if your site runs WP or Drupal](https://medium.com/@nireshpandian19/no-easy-p1s-on-the-fly-if-your-site-runs-wp-or-drupal-a7700650f86b?source=rss------bug_bounty_writeup-5)
+- [Easy P1s on the fly if your site runs WP or Drupal](https://medium.com/@nireshpandian19/no-easy-p1s-on-the-fly-if-your-site-runs-wp-or-drupal-a7700650f86b?source=rss------bug_bounty_writeup-5)
 - [Pentesting for Internal Networks](https://www.hackerone.com/penetration-testing/internal-network-pentests)
 - [How an IDOR Vulnerability Led to User Profile Modification](https://www.hackerone.com/vulnerability-management/idor-vulnerability-deep-dive)
 - [How I got a 5000 $ Bounty from Microsoft](https://medium.com/@bashir69emceeaka5/how-i-got-a-5000-bounty-from-microsoft-fb2e27fd40f7?source=rss------bug_bounty_writeup-5)
