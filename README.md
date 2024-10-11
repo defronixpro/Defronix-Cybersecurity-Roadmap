@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Endpoint confusion lead to 2FA bypass](https://medium.com/@mohamed0xmuslim/endpoint-confusion-lead-to-2fa-bypass-67015dbb4c70?source=rss------bug_bounty_writeup-5)
 - [Introduction to Netcat](https://medium.com/@Code_With_Ssn/introduction-to-netcat-af57e11ee756?source=rss------bug_bounty_writeup-5)
 - [The Recruitment Process: What to Expect When You Apply at HackerOne](https://www.hackerone.com/culture-and-talent/recruitment-process-what-expect-when-you-apply-hackerone)
 - [Easy P1s on the fly if your site runs WP or Drupal](https://medium.com/@nireshpandian19/no-easy-p1s-on-the-fly-if-your-site-runs-wp-or-drupal-a7700650f86b?source=rss------bug_bounty_writeup-5)
@@ -944,7 +945,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [HTB | Editorial — SSRF and CVE-2022–24439](https://infosecwriteups.com/htb-editorial-ssrf-and-cve-2022-24439-c1feb9f343fc?source=rss----7b722bfd1b8d---4)
 - [Race Condition , Allows creation of unlimited projects, bypassing free-tier limits.](https://dark0x.medium.com/race-condition-allows-creation-of-unlimited-projects-bypassing-free-tier-limits-109dd91c6783?source=rss------bug_bounty_writeup-5)
 - [Exploiting server-side parameter pollution in a query string](https://medium.com/@codingbolt.in/exploiting-server-side-parameter-pollution-in-a-query-string-38768943c6ca?source=rss------bug_bounty_writeup-5)
-- [Sensitive Data Leak using Cors Misconfiguration in prominent Domain Registrar](https://infosecwriteups.com/sensitive-data-leak-using-cors-misconfiguration-in-prominent-domain-registrar-b3010e4e6501?source=rss------bug_bounty_writeup-5)
 - [How To Find Broken Access Control Vulnerabilities in the Wild](https://www.hackerone.com/community/find-broken-access-control-vulnerabilities)
 - [NIS2: Next Step Forward on EU Security Requirements](https://www.hackerone.com/public-policy/nis2-eu-security-requirements)
 - [A Guide To Subdomain Takeovers 2.0](https://www.hackerone.com/community/guide-subdomain-takeovers)
