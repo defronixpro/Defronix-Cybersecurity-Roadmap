@@ -1,7 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
-- [How I Discovered Account Takeover &lpar;ATO&rpar; via Cross-Site Scripting &lpar;XSS&rpar;](https://medium.com/@jeetpal2007/how-i-discovered-account-takeover-ato-via-cross-site-scripting-xss-34698ee54009?source=rss------bug_bounty_writeup-5)
+- [How I Discovered Account Takeover &lpar;ATO&rpar; via Cross-Site Scripting &lpar;XSS&rpar;](https://osintteam.blog/how-i-discovered-account-takeover-ato-via-cross-site-scripting-xss-34698ee54009?source=rss------bug_bounty_writeup-5)
 - [Endpoint confusion lead to 2FA bypass](https://medium.com/@mohamed0xmuslim/endpoint-confusion-lead-to-2fa-bypass-67015dbb4c70?source=rss------bug_bounty_writeup-5)
 - [Introduction to Netcat](https://medium.com/@Code_With_Ssn/introduction-to-netcat-af57e11ee756?source=rss------bug_bounty_writeup-5)
 - [The Recruitment Process: What to Expect When You Apply at HackerOne](https://www.hackerone.com/culture-and-talent/recruitment-process-what-expect-when-you-apply-hackerone)
