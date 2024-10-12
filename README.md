@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I Discovered Account Takeover &lpar;ATO&rpar; via Cross-Site Scripting &lpar;XSS&rpar;](https://medium.com/@jeetpal2007/how-i-discovered-account-takeover-ato-via-cross-site-scripting-xss-34698ee54009?source=rss------bug_bounty_writeup-5)
 - [Endpoint confusion lead to 2FA bypass](https://medium.com/@mohamed0xmuslim/endpoint-confusion-lead-to-2fa-bypass-67015dbb4c70?source=rss------bug_bounty_writeup-5)
 - [Introduction to Netcat](https://medium.com/@Code_With_Ssn/introduction-to-netcat-af57e11ee756?source=rss------bug_bounty_writeup-5)
 - [The Recruitment Process: What to Expect When You Apply at HackerOne](https://www.hackerone.com/culture-and-talent/recruitment-process-what-expect-when-you-apply-hackerone)
@@ -944,7 +945,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Uncovering 0-Days: The Crucial Role of RFCs in Vulnerability Research and the Recent Windows…](https://infosecwriteups.com/uncovering-0-days-the-crucial-role-of-rfcs-in-vulnerability-research-and-the-recent-windows-de6b7538e54f?source=rss----7b722bfd1b8d---4)
 - [HTB | Editorial — SSRF and CVE-2022–24439](https://infosecwriteups.com/htb-editorial-ssrf-and-cve-2022-24439-c1feb9f343fc?source=rss----7b722bfd1b8d---4)
 - [Race Condition , Allows creation of unlimited projects, bypassing free-tier limits.](https://dark0x.medium.com/race-condition-allows-creation-of-unlimited-projects-bypassing-free-tier-limits-109dd91c6783?source=rss------bug_bounty_writeup-5)
-- [Exploiting server-side parameter pollution in a query string](https://medium.com/@codingbolt.in/exploiting-server-side-parameter-pollution-in-a-query-string-38768943c6ca?source=rss------bug_bounty_writeup-5)
 - [How To Find Broken Access Control Vulnerabilities in the Wild](https://www.hackerone.com/community/find-broken-access-control-vulnerabilities)
 - [NIS2: Next Step Forward on EU Security Requirements](https://www.hackerone.com/public-policy/nis2-eu-security-requirements)
 - [A Guide To Subdomain Takeovers 2.0](https://www.hackerone.com/community/guide-subdomain-takeovers)
