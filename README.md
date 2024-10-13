@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Breaking the Game: Score Manipulation and Leaderboard Takeover](https://aminudin.medium.com/breaking-the-game-score-manipulation-and-leaderboard-takeover-b3ab16d02060?source=rss------bug_bounty_writeup-5)
 - [How I Discovered Account Takeover &lpar;ATO&rpar; via Cross-Site Scripting &lpar;XSS&rpar;](https://osintteam.blog/how-i-discovered-account-takeover-ato-via-cross-site-scripting-xss-34698ee54009?source=rss------bug_bounty_writeup-5)
 - [Endpoint confusion lead to 2FA bypass](https://medium.com/@mohamed0xmuslim/endpoint-confusion-lead-to-2fa-bypass-67015dbb4c70?source=rss------bug_bounty_writeup-5)
 - [Broken Access Control Vulnerability in an Order Management System](https://medium.com/@omdubey170/broken-access-control-vulnerability-in-an-order-management-system-8a1097b03926?source=rss------bug_bounty_writeup-5)
@@ -934,7 +935,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [A quick P2 vulnerability, just like that !](https://medium.com/@nireshpandian19/a-quick-p2-vulnerability-just-like-that-5fc4f25f3b09?source=rss------bug_bounty_writeup-5)
 - [How I Got my First Bounty €€ ?](https://medium.com/@muralidharan1530/how-i-got-my-first-bounty-776e8487f9a0?source=rss------bug_bounty_writeup-5)
 - [How a Simple Bug Could Have Taken Down Your Instagram Tags](https://medium.com/@kiril.krivogyz/how-a-simple-bug-could-have-taken-down-your-instagram-tags-d3247e931c9d?source=rss------bug_bounty_writeup-5)
-- [Subdomain Enumeration | BBOT ✅&gt;= Subfinder + Sublist3r + Assetfinder + Amass ❌](https://medium.com/@kumawatabhijeet2002/subdomain-enumeration-bbot-subfinder-sublist3r-assetfinder-amass-e4880cf4ab5b?source=rss------bug_bounty_writeup-5)
 - [High-Risk Vulnerabilities in Apache HTTP Server’s mod_proxy Encoding Problem Allow Authentication…](https://infosecwriteups.com/high-risk-vulnerabilities-in-apache-http-servers-mod-proxy-encoding-problem-allow-authentication-cbe8d422738d?source=rss----7b722bfd1b8d---4)
 - [IOS Penetration Testing: Guide to Static Testing](https://infosecwriteups.com/ios-penetration-testing-guide-to-static-analysis-4a9dea5d672d?source=rss----7b722bfd1b8d---4)
 - [I Studied 100+ SSRF Reports, and Here’s What I Learned](https://infosecwriteups.com/i-studied-100-ssrf-reports-and-heres-what-i-learned-1654c72ee2df?source=rss----7b722bfd1b8d---4)
