@@ -1,7 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
-- [JWT Authentication Bypass leads to Admin Control Panel](https://medium.com/@hohky_/jwt-authentication-bypass-leads-to-admin-control-panel-dfa6efcdcbf5?source=rss------bug_bounty_writeup-5)
+- [JWT Authentication Bypass leads to Admin Control Panel](https://infosecwriteups.com/jwt-authentication-bypass-leads-to-admin-control-panel-dfa6efcdcbf5?source=rss------bug_bounty_writeup-5)
 - [Understanding Session Management Vulnerabilities: The Case of Password Resets](https://medium.com/@ad.abhi0013/understanding-session-management-vulnerabilities-the-case-of-password-resets-0f5bb123f598?source=rss------bug_bounty_writeup-5)
 - [Passively Found Secrets in Javascript File on a Private Bug Bounty Program](https://medium.com/@sharp488/passively-found-secrets-in-javascript-file-on-a-private-bug-bounty-program-36eb29c2a35c?source=rss------bug_bounty_writeup-5)
 - [Breaking the Game: Score Manipulation and Leaderboard Takeover](https://aminudin.medium.com/breaking-the-game-score-manipulation-and-leaderboard-takeover-b3ab16d02060?source=rss------bug_bounty_writeup-5)
