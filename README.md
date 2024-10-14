@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [My First Cybersec Internship](https://medium.com/@krishnast545/my-first-cybersec-internship-04b0651bbb63?source=rss------bug_bounty_writeup-5)
 - [JWT Authentication Bypass leads to Admin Control Panel](https://infosecwriteups.com/jwt-authentication-bypass-leads-to-admin-control-panel-dfa6efcdcbf5?source=rss------bug_bounty_writeup-5)
 - [Understanding Session Management Vulnerabilities: The Case of Password Resets](https://medium.com/@ad.abhi0013/understanding-session-management-vulnerabilities-the-case-of-password-resets-0f5bb123f598?source=rss------bug_bounty_writeup-5)
 - [Passively Found Secrets in Javascript File on a Private Bug Bounty Program](https://medium.com/@sharp488/passively-found-secrets-in-javascript-file-on-a-private-bug-bounty-program-36eb29c2a35c?source=rss------bug_bounty_writeup-5)
@@ -934,7 +935,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Easy P1s on the fly if your site runs WP or Drupal](https://medium.com/@nireshpandian19/no-easy-p1s-on-the-fly-if-your-site-runs-wp-or-drupal-a7700650f86b?source=rss------bug_bounty_writeup-5)
 - [Pentesting for Internal Networks](https://www.hackerone.com/penetration-testing/internal-network-pentests)
 - [How an IDOR Vulnerability Led to User Profile Modification](https://www.hackerone.com/vulnerability-management/idor-vulnerability-deep-dive)
-- [How I got a 5000 $ Bounty from Microsoft](https://medium.com/@bashir69emceeaka5/how-i-got-a-5000-bounty-from-microsoft-fb2e27fd40f7?source=rss------bug_bounty_writeup-5)
 - [High-Risk Vulnerabilities in Apache HTTP Server’s mod_proxy Encoding Problem Allow Authentication…](https://infosecwriteups.com/high-risk-vulnerabilities-in-apache-http-servers-mod-proxy-encoding-problem-allow-authentication-cbe8d422738d?source=rss----7b722bfd1b8d---4)
 - [IOS Penetration Testing: Guide to Static Testing](https://infosecwriteups.com/ios-penetration-testing-guide-to-static-analysis-4a9dea5d672d?source=rss----7b722bfd1b8d---4)
 - [I Studied 100+ SSRF Reports, and Here’s What I Learned](https://infosecwriteups.com/i-studied-100-ssrf-reports-and-heres-what-i-learned-1654c72ee2df?source=rss----7b722bfd1b8d---4)
