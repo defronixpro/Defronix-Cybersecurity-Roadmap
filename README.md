@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How To Use HackerOne’s Global Vulnerability Policy Map](https://www.hackerone.com/public-policy/global-vulnerability-policy-map)
 - [Phone Number Takeover via OTP Bypass in inDrive](https://medium.com/@regan_temudo/phone-number-takeover-via-otp-bypass-in-indrive-989d20510047?source=rss------bug_bounty_writeup-5)
 - [My First Cybersec Internship](https://medium.com/@krishnast545/my-first-cybersec-internship-04b0651bbb63?source=rss------bug_bounty_writeup-5)
 - [JWT Authentication Bypass leads to Admin Control Panel](https://infosecwriteups.com/jwt-authentication-bypass-leads-to-admin-control-panel-dfa6efcdcbf5?source=rss------bug_bounty_writeup-5)
@@ -929,9 +930,11 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Passively Found Secrets in Javascript File on a Private Bug Bounty Program](https://medium.com/@sharp488/passively-found-secrets-in-javascript-file-on-a-private-bug-bounty-program-36eb29c2a35c?source=rss------bug_bounty_writeup-5)
 - [Breaking the Game: Score Manipulation and Leaderboard Takeover](https://aminudin.medium.com/breaking-the-game-score-manipulation-and-leaderboard-takeover-b3ab16d02060?source=rss------bug_bounty_writeup-5)
 - [How I Discovered Account Takeover &lpar;ATO&rpar; via Cross-Site Scripting &lpar;XSS&rpar;](https://osintteam.blog/how-i-discovered-account-takeover-ato-via-cross-site-scripting-xss-34698ee54009?source=rss------bug_bounty_writeup-5)
+- [European Council Adopts Cyber Resilience Act](https://www.hackerone.com/public-policy/eu-council-cyber-resilience-act)
 - [Endpoint confusion lead to 2FA bypass](https://medium.com/@mohamed0xmuslim/endpoint-confusion-lead-to-2fa-bypass-67015dbb4c70?source=rss------bug_bounty_writeup-5)
 - [Broken Access Control Vulnerability in an Order Management System](https://medium.com/@omdubey170/broken-access-control-vulnerability-in-an-order-management-system-8a1097b03926?source=rss------bug_bounty_writeup-5)
 - [Introduction to Netcat](https://medium.com/@Code_With_Ssn/introduction-to-netcat-af57e11ee756?source=rss------bug_bounty_writeup-5)
+- [Measure Your AI Risk Preparedness with This Interactive Self-Assessment Tool](https://www.hackerone.com/ai/ai-security-readiness-quiz)
 - [The Recruitment Process: What to Expect When You Apply at HackerOne](https://www.hackerone.com/culture-and-talent/recruitment-process-what-expect-when-you-apply-hackerone)
 - [Pentesting for Internal Networks](https://www.hackerone.com/penetration-testing/internal-network-pentests)
 - [How an IDOR Vulnerability Led to User Profile Modification](https://www.hackerone.com/vulnerability-management/idor-vulnerability-deep-dive)
@@ -969,9 +972,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Hack My Career: Meet Alek Relyea](https://www.hackerone.com/culture-and-talent/hack-my-career-meet-alek-relyea)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How Hai’s Report Summarization Turns Complex Data Into Actionable Insights](https://www.hackerone.com/ai/hai-report-summarization)
-- [Anthropic Expands Their Model Safety Bug Bounty Program](https://www.hackerone.com/customer-stories/anthropic-expands-bug-bounty-program)
-- [A Visual Guide to Bug Bounty Success](https://www.hackerone.com/application-security/visual-guide-bug-bounty-success)
-- [Tips for Parents Working from Home from HackerOne Employees](https://www.hackerone.com/culture-and-talent/tips-parents-working-home-hackerone-employees)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
