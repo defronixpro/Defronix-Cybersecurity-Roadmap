@@ -947,7 +947,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Critical Vulnerabilities in porte_plume plugin to Remote Exploits -$$$$ Bounty -CVE-2024–7954](https://infosecwriteups.com/critical-vulnerabilities-in-porte-plume-plugin-to-remote-exploits-bounty-cve-2024-7954-3dbee45134ac?source=rss----7b722bfd1b8d---4)
 - [THM Smag Grotto: Learn Web Security, Privilege Escalation &lpar;Walkthrough&rpar;](https://infosecwriteups.com/thm-smag-grotto-learn-web-security-privilege-escalation-walkthrough-637fe042f292?source=rss----7b722bfd1b8d---4)
 - [Uncovering 0-Days: The Crucial Role of RFCs in Vulnerability Research and the Recent Windows…](https://infosecwriteups.com/uncovering-0-days-the-crucial-role-of-rfcs-in-vulnerability-research-and-the-recent-windows-de6b7538e54f?source=rss----7b722bfd1b8d---4)
-- [HTB | Editorial — SSRF and CVE-2022–24439](https://infosecwriteups.com/htb-editorial-ssrf-and-cve-2022-24439-c1feb9f343fc?source=rss----7b722bfd1b8d---4)
+- [HTB | Resolute — DnsAdmins Abuse](https://infosecwriteups.com/htb-resolute-dnsadmins-abuse-24e2aa93c8f2?source=rss----7b722bfd1b8d---4)
 - [How To Find Broken Access Control Vulnerabilities in the Wild](https://www.hackerone.com/community/find-broken-access-control-vulnerabilities)
 - [NIS2: Next Step Forward on EU Security Requirements](https://www.hackerone.com/public-policy/nis2-eu-security-requirements)
 - [A Guide To Subdomain Takeovers 2.0](https://www.hackerone.com/community/guide-subdomain-takeovers)
