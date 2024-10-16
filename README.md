@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [UUIDs: A False Sense Of Security](https://ehteshamulhaq198.medium.com/uuids-a-false-sense-of-security-10467497daae?source=rss------bug_bounty_writeup-5)
 - [How To Use HackerOne’s Global Vulnerability Policy Map](https://www.hackerone.com/public-policy/global-vulnerability-policy-map)
 - [Phone Number Takeover via OTP Bypass in inDrive](https://medium.com/@regan_temudo/phone-number-takeover-via-otp-bypass-in-indrive-989d20510047?source=rss------bug_bounty_writeup-5)
 - [My First Cybersec Internship](https://medium.com/@krishnast545/my-first-cybersec-internship-04b0651bbb63?source=rss------bug_bounty_writeup-5)
@@ -933,7 +934,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [European Council Adopts Cyber Resilience Act](https://www.hackerone.com/public-policy/eu-council-cyber-resilience-act)
 - [Endpoint confusion lead to 2FA bypass](https://medium.com/@mohamed0xmuslim/endpoint-confusion-lead-to-2fa-bypass-67015dbb4c70?source=rss------bug_bounty_writeup-5)
 - [Broken Access Control Vulnerability in an Order Management System](https://medium.com/@omdubey170/broken-access-control-vulnerability-in-an-order-management-system-8a1097b03926?source=rss------bug_bounty_writeup-5)
-- [Introduction to Netcat](https://medium.com/@Code_With_Ssn/introduction-to-netcat-af57e11ee756?source=rss------bug_bounty_writeup-5)
 - [Measure Your AI Risk Preparedness with This Interactive Self-Assessment Tool](https://www.hackerone.com/ai/ai-security-readiness-quiz)
 - [The Recruitment Process: What to Expect When You Apply at HackerOne](https://www.hackerone.com/culture-and-talent/recruitment-process-what-expect-when-you-apply-hackerone)
 - [Pentesting for Internal Networks](https://www.hackerone.com/penetration-testing/internal-network-pentests)
