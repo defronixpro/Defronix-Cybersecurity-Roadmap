@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [IDOR lead to Restriction Bypass!!](https://kumarmohank889.medium.com/idor-lead-to-restriction-bypass-7f42d593ffd4?source=rss------bug_bounty_writeup-5)
 - [Your approach to finding XSS would change after you read this](https://medium.com/@nireshpandian19/your-approach-to-finding-xss-would-change-after-you-read-this-8292fcafefc1?source=rss------bug_bounty_writeup-5)
 - [UUIDs: A False Sense Of Security](https://ehteshamulhaq198.medium.com/uuids-a-false-sense-of-security-10467497daae?source=rss------bug_bounty_writeup-5)
 - [How To Use HackerOne’s Global Vulnerability Policy Map](https://www.hackerone.com/public-policy/global-vulnerability-policy-map)
@@ -12,7 +13,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Breaking the Game: Score Manipulation and Leaderboard Takeover](https://aminudin.medium.com/breaking-the-game-score-manipulation-and-leaderboard-takeover-b3ab16d02060?source=rss------bug_bounty_writeup-5)
 - [How I Discovered Account Takeover &lpar;ATO&rpar; via Cross-Site Scripting &lpar;XSS&rpar;](https://osintteam.blog/how-i-discovered-account-takeover-ato-via-cross-site-scripting-xss-34698ee54009?source=rss------bug_bounty_writeup-5)
 - [European Council Adopts Cyber Resilience Act](https://www.hackerone.com/public-policy/eu-council-cyber-resilience-act)
-- [Endpoint confusion lead to 2FA bypass](https://medium.com/@mohamed0xmuslim/endpoint-confusion-lead-to-2fa-bypass-67015dbb4c70?source=rss------bug_bounty_writeup-5)
 - [Measure Your AI Risk Preparedness with This Interactive Self-Assessment Tool](https://www.hackerone.com/ai/ai-security-readiness-quiz)
 - [The Recruitment Process: What to Expect When You Apply at HackerOne](https://www.hackerone.com/culture-and-talent/recruitment-process-what-expect-when-you-apply-hackerone)
 - [Pentesting for Internal Networks](https://www.hackerone.com/penetration-testing/internal-network-pentests)
