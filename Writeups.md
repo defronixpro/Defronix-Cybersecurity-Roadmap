@@ -2,7 +2,7 @@
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
 - [FROM OUT OF SCOPE TO ACCEPTED](https://medium.com/@nightcoders0/from-out-of-scope-to-accepted-4f52e626b734?source=rss------bug_bounty_writeup-5)
-- [Bug Bounty — IDOR lead to Restriction Bypass!!](https://kumarmohank889.medium.com/idor-lead-to-restriction-bypass-7f42d593ffd4?source=rss------bug_bounty_writeup-5)
+- [IDOR lead to Restriction Bypass!!](https://kumarmohank889.medium.com/idor-lead-to-restriction-bypass-7f42d593ffd4?source=rss------bug_bounty_writeup-5)
 - [Your approach to finding XSS would change after you read this](https://medium.com/@nireshpandian19/your-approach-to-finding-xss-would-change-after-you-read-this-8292fcafefc1?source=rss------bug_bounty_writeup-5)
 - [UUIDs: A False Sense Of Security](https://ehteshamulhaq198.medium.com/uuids-a-false-sense-of-security-10467497daae?source=rss------bug_bounty_writeup-5)
 - [How To Use HackerOne’s Global Vulnerability Policy Map](https://www.hackerone.com/public-policy/global-vulnerability-policy-map)
