@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [FROM OUT OF SCOPE TO ACCEPTED](https://medium.com/@nightcoders0/from-out-of-scope-to-accepted-4f52e626b734?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty — IDOR lead to Restriction Bypass!!](https://kumarmohank889.medium.com/idor-lead-to-restriction-bypass-7f42d593ffd4?source=rss------bug_bounty_writeup-5)
 - [Your approach to finding XSS would change after you read this](https://medium.com/@nireshpandian19/your-approach-to-finding-xss-would-change-after-you-read-this-8292fcafefc1?source=rss------bug_bounty_writeup-5)
 - [UUIDs: A False Sense Of Security](https://ehteshamulhaq198.medium.com/uuids-a-false-sense-of-security-10467497daae?source=rss------bug_bounty_writeup-5)
@@ -932,7 +933,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Understanding Session Management Vulnerabilities: The Case of Password Resets](https://medium.com/@ad.abhi0013/understanding-session-management-vulnerabilities-the-case-of-password-resets-0f5bb123f598?source=rss------bug_bounty_writeup-5)
 - [Passively Found Secrets in Javascript File on a Private Bug Bounty Program](https://medium.com/@sharp488/passively-found-secrets-in-javascript-file-on-a-private-bug-bounty-program-36eb29c2a35c?source=rss------bug_bounty_writeup-5)
 - [Breaking the Game: Score Manipulation and Leaderboard Takeover](https://aminudin.medium.com/breaking-the-game-score-manipulation-and-leaderboard-takeover-b3ab16d02060?source=rss------bug_bounty_writeup-5)
-- [How I Discovered Account Takeover &lpar;ATO&rpar; via Cross-Site Scripting &lpar;XSS&rpar;](https://osintteam.blog/how-i-discovered-account-takeover-ato-via-cross-site-scripting-xss-34698ee54009?source=rss------bug_bounty_writeup-5)
 - [European Council Adopts Cyber Resilience Act](https://www.hackerone.com/public-policy/eu-council-cyber-resilience-act)
 - [Measure Your AI Risk Preparedness with This Interactive Self-Assessment Tool](https://www.hackerone.com/ai/ai-security-readiness-quiz)
 - [The Recruitment Process: What to Expect When You Apply at HackerOne](https://www.hackerone.com/culture-and-talent/recruitment-process-what-expect-when-you-apply-hackerone)
