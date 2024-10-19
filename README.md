@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I Found a Subdomain Takeover Bug and Earned a $500 Bounty](https://medium.com/@D2Cy/how-i-found-a-subdomain-takeover-bug-and-earned-a-500-bounty-0edc139fe994?source=rss------bug_bounty_writeup-5)
 - [How I am starting my Bug Bounty Hunting Journey](https://cybersechemmars.medium.com/how-i-am-starting-my-bug-bounty-hunting-journey-6d807a367d80?source=rss------bug_bounty_writeup-5)
 - [From JavaScript Analysis To UUID Pattern Exploration Revealed a Critical IDOR!](https://medium.com/@ozomarzu/from-javascript-analysis-to-uuid-pattern-exploration-revealed-a-critical-idor-5c526451e7ec?source=rss------bug_bounty_writeup-5)
 - [A Comprehensive Guide to API Fuzzing: Strengthen Your API Security](https://medium.com/@Code_With_Ssn/a-comprehensive-guide-to-api-fuzzing-strengthen-your-api-security-5c00aac974b0?source=rss------bug_bounty_writeup-5)
@@ -932,7 +933,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Your approach to finding XSS would change after you read this](https://medium.com/@nireshpandian19/your-approach-to-finding-xss-would-change-after-you-read-this-8292fcafefc1?source=rss------bug_bounty_writeup-5)
 - [UUIDs: A False Sense Of Security](https://ehteshamulhaq198.medium.com/uuids-a-false-sense-of-security-10467497daae?source=rss------bug_bounty_writeup-5)
 - [How To Use HackerOne’s Global Vulnerability Policy Map](https://www.hackerone.com/public-policy/global-vulnerability-policy-map)
-- [Phone Number Takeover via OTP Bypass in inDrive](https://medium.com/@regan_temudo/phone-number-takeover-via-otp-bypass-in-indrive-989d20510047?source=rss------bug_bounty_writeup-5)
 - [European Council Adopts Cyber Resilience Act](https://www.hackerone.com/public-policy/eu-council-cyber-resilience-act)
 - [Measure Your AI Risk Preparedness with This Interactive Self-Assessment Tool](https://www.hackerone.com/ai/ai-security-readiness-quiz)
 - [The Recruitment Process: What to Expect When You Apply at HackerOne](https://www.hackerone.com/culture-and-talent/recruitment-process-what-expect-when-you-apply-hackerone)
