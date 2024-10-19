@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [From JavaScript Analysis To UUID Pattern Exploration Revealed a Critical IDOR!](https://medium.com/@ozomarzu/from-javascript-analysis-to-uuid-pattern-exploration-revealed-a-critical-idor-5c526451e7ec?source=rss------bug_bounty_writeup-5)
 - [A Comprehensive Guide to API Fuzzing: Strengthen Your API Security](https://medium.com/@Code_With_Ssn/a-comprehensive-guide-to-api-fuzzing-strengthen-your-api-security-5c00aac974b0?source=rss------bug_bounty_writeup-5)
 - [Use Case: Bypassing In-App Purchase By Payment Client-Side Validation](https://secfathy0x1.medium.com/use-case-bypassing-in-app-purchase-by-payment-client-side-validation-e87e2c775a9c?source=rss------bug_bounty_writeup-5)
 - [I Can Crash Anyone’s  Instagram Post - Zero Day-Permanent DoS | Meta | BugBounty | 2024](https://prathapilango.medium.com/i-can-crash-anyones-instagram-post-zero-day-permanent-dos-meta-bugbounty-2024-a2e50ac15caf?source=rss------bug_bounty_writeup-5)
@@ -932,7 +933,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How To Use HackerOne’s Global Vulnerability Policy Map](https://www.hackerone.com/public-policy/global-vulnerability-policy-map)
 - [Phone Number Takeover via OTP Bypass in inDrive](https://medium.com/@regan_temudo/phone-number-takeover-via-otp-bypass-in-indrive-989d20510047?source=rss------bug_bounty_writeup-5)
 - [My First Cybersec Internship](https://medium.com/@krishnast545/my-first-cybersec-internship-04b0651bbb63?source=rss------bug_bounty_writeup-5)
-- [JWT Authentication Bypass leads to Admin Control Panel](https://infosecwriteups.com/jwt-authentication-bypass-leads-to-admin-control-panel-dfa6efcdcbf5?source=rss------bug_bounty_writeup-5)
 - [European Council Adopts Cyber Resilience Act](https://www.hackerone.com/public-policy/eu-council-cyber-resilience-act)
 - [Measure Your AI Risk Preparedness with This Interactive Self-Assessment Tool](https://www.hackerone.com/ai/ai-security-readiness-quiz)
 - [The Recruitment Process: What to Expect When You Apply at HackerOne](https://www.hackerone.com/culture-and-talent/recruitment-process-what-expect-when-you-apply-hackerone)
