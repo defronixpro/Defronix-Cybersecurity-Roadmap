@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How i tricked Crypto Trading Site into sending Dangerous email to it’s Users](https://medium.com/@Rahulkrishnan_R_Panicker/how-i-tricked-crypto-trading-site-into-sending-dangerous-email-to-its-users-a11a972c470f?source=rss------bug_bounty_writeup-5)
 - [how did I lose $5000?](https://medium.com/@mr.matrex00.7/how-did-i-lose-5000-6bf4a5c7cbf7?source=rss------bug_bounty_writeup-5)
 - [My first SQLi vulnerability](https://medium.com/@rimed.software/my-first-sqli-vulnerability-f1eaab78eadf?source=rss------bug_bounty_writeup-5)
 - [Token leakage through untrusted 3rd party](https://osintteam.blog/token-leakage-through-untrusted-3rd-party-dff1ff955a02?source=rss------bug_bounty_writeup-5)
@@ -931,7 +932,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [A Comprehensive Guide to API Fuzzing: Strengthen Your API Security](https://medium.com/@Code_With_Ssn/a-comprehensive-guide-to-api-fuzzing-strengthen-your-api-security-5c00aac974b0?source=rss------bug_bounty_writeup-5)
 - [Use Case: Bypassing In-App Purchase By Payment Client-Side Validation](https://secfathy0x1.medium.com/use-case-bypassing-in-app-purchase-by-payment-client-side-validation-e87e2c775a9c?source=rss------bug_bounty_writeup-5)
 - [I Can Crash Anyone’s  Instagram Post - Zero Day-Permanent DoS | Meta | BugBounty | 2024](https://prathapilango.medium.com/i-can-crash-anyones-instagram-post-zero-day-permanent-dos-meta-bugbounty-2024-a2e50ac15caf?source=rss------bug_bounty_writeup-5)
-- [FROM OUT OF SCOPE TO ACCEPTED](https://medium.com/@nightcoders0/from-out-of-scope-to-accepted-4f52e626b734?source=rss------bug_bounty_writeup-5)
 - [How To Use HackerOne’s Global Vulnerability Policy Map](https://www.hackerone.com/public-policy/global-vulnerability-policy-map)
 - [European Council Adopts Cyber Resilience Act](https://www.hackerone.com/public-policy/eu-council-cyber-resilience-act)
 - [Measure Your AI Risk Preparedness with This Interactive Self-Assessment Tool](https://www.hackerone.com/ai/ai-security-readiness-quiz)
