@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Bug Bounty Methodology for SQL Injection with Waybash URLs](https://pwn0sec.medium.com/bug-bounty-methodology-for-sql-injection-with-waybash-urls-d1d13d0ebdaa?source=rss------bug_bounty_writeup-5)
 - [How i found 22 LFI in the same program using automation tricks](https://medium.com/@zomasec/how-i-found-22-lfi-in-the-same-program-using-automation-tricks-3ea303d24f4a?source=rss------bug_bounty_writeup-5)
 - [How i tricked Crypto Trading Site into sending Dangerous email to it’s Users](https://medium.com/@Rahulkrishnan_R_Panicker/how-i-tricked-crypto-trading-site-into-sending-dangerous-email-to-its-users-a11a972c470f?source=rss------bug_bounty_writeup-5)
 - [how did I lose $5000?](https://medium.com/@mr.matrex00.7/how-did-i-lose-5000-6bf4a5c7cbf7?source=rss------bug_bounty_writeup-5)
@@ -10,7 +11,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How I am starting my Bug Bounty Hunting Journey](https://cybersechemmars.medium.com/how-i-am-starting-my-bug-bounty-hunting-journey-6d807a367d80?source=rss------bug_bounty_writeup-5)
 - [From JavaScript Analysis To UUID Pattern Exploration Revealed a Critical IDOR!](https://medium.com/@ozomarzu/from-javascript-analysis-to-uuid-pattern-exploration-revealed-a-critical-idor-5c526451e7ec?source=rss------bug_bounty_writeup-5)
 - [A Comprehensive Guide to API Fuzzing: Strengthen Your API Security](https://medium.com/@Code_With_Ssn/a-comprehensive-guide-to-api-fuzzing-strengthen-your-api-security-5c00aac974b0?source=rss------bug_bounty_writeup-5)
-- [Use Case: Bypassing In-App Purchase By Payment Client-Side Validation](https://secfathy0x1.medium.com/use-case-bypassing-in-app-purchase-by-payment-client-side-validation-e87e2c775a9c?source=rss------bug_bounty_writeup-5)
 - [How To Use HackerOne’s Global Vulnerability Policy Map](https://www.hackerone.com/public-policy/global-vulnerability-policy-map)
 - [European Council Adopts Cyber Resilience Act](https://www.hackerone.com/public-policy/eu-council-cyber-resilience-act)
 - [Measure Your AI Risk Preparedness with This Interactive Self-Assessment Tool](https://www.hackerone.com/ai/ai-security-readiness-quiz)
