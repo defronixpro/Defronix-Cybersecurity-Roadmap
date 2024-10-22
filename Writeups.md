@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Breaking Boundaries: Discovering Session Invalidation Failures in User Roles](https://medium.com/@hawkeye69669/breaking-boundaries-discovering-session-invalidation-failures-in-user-roles-84711777f9f2?source=rss------bug_bounty_writeup-5)
 - [SQL Injection](https://infosecwriteups.com/sql-injection-cb7f0ec28510?source=rss----7b722bfd1b8d---4)
 - [Investigate Web Attacks Challenge &lpar;Let’s Defend&rpar;](https://infosecwriteups.com/investigate-web-attacks-challenge-lets-defend-24ea96524290?source=rss----7b722bfd1b8d---4)
 - [LLM Penetration Testing Checklist](https://infosecwriteups.com/llm-penetration-testing-checklist-87eda0ce2991?source=rss----7b722bfd1b8d---4)
@@ -14,8 +15,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [My first SQLi vulnerability](https://medium.com/@rimed.software/my-first-sqli-vulnerability-f1eaab78eadf?source=rss------bug_bounty_writeup-5)
 - [Token leakage through untrusted 3rd party](https://osintteam.blog/token-leakage-through-untrusted-3rd-party-dff1ff955a02?source=rss------bug_bounty_writeup-5)
 - [How I Found a Subdomain Takeover Bug and Earned a $500 Bounty](https://medium.com/@D2Cy/how-i-found-a-subdomain-takeover-bug-and-earned-a-500-bounty-0edc139fe994?source=rss------bug_bounty_writeup-5)
-- [How I am starting my Bug Bounty Hunting Journey](https://cybersechemmars.medium.com/how-i-am-starting-my-bug-bounty-hunting-journey-6d807a367d80?source=rss------bug_bounty_writeup-5)
-- [From JavaScript Analysis To UUID Pattern Exploration Revealed a Critical IDOR!](https://medium.com/@ozomarzu/from-javascript-analysis-to-uuid-pattern-exploration-revealed-a-critical-idor-5c526451e7ec?source=rss------bug_bounty_writeup-5)
 - [How To Use HackerOne’s Global Vulnerability Policy Map](https://www.hackerone.com/public-policy/global-vulnerability-policy-map)
 - [European Council Adopts Cyber Resilience Act](https://www.hackerone.com/public-policy/eu-council-cyber-resilience-act)
 - [Measure Your AI Risk Preparedness with This Interactive Self-Assessment Tool](https://www.hackerone.com/ai/ai-security-readiness-quiz)
