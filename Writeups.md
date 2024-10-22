@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [SQL Injection](https://infosecwriteups.com/sql-injection-cb7f0ec28510?source=rss----7b722bfd1b8d---4)
 - [Investigate Web Attacks Challenge &lpar;Let’s Defend&rpar;](https://infosecwriteups.com/investigate-web-attacks-challenge-lets-defend-24ea96524290?source=rss----7b722bfd1b8d---4)
 - [LLM Penetration Testing Checklist](https://infosecwriteups.com/llm-penetration-testing-checklist-87eda0ce2991?source=rss----7b722bfd1b8d---4)
 - [Using Application Functionality to Exploit Insecure Deserialization](https://infosecwriteups.com/using-application-functionality-to-exploit-insecure-deserialization-b4e7c6abdae1?source=rss----7b722bfd1b8d---4)
@@ -26,7 +27,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [I Studied 100+ SSRF Reports, and Here’s What I Learned](https://infosecwriteups.com/i-studied-100-ssrf-reports-and-heres-what-i-learned-1654c72ee2df?source=rss----7b722bfd1b8d---4)
 - [IDOR Leads To Account Takeover](https://infosecwriteups.com/idor-leads-to-account-takeover-28fe6e300a49?source=rss----7b722bfd1b8d---4)
 - [Why I Quit Bug Bounty Hunting :&lpar;](https://infosecwriteups.com/why-i-quit-bug-bounty-hunting-95e81c907a6f?source=rss----7b722bfd1b8d---4)
-- [From Conflict to Collaboration: The Evolution of Vulnerability Disclosure](https://infosecwriteups.com/understanding-coordinated-vulnerability-disclosure-cvd-vulnerability-disclosure-programs-vdp-27ea33c882e0?source=rss----7b722bfd1b8d---4)
 - [How To Find Broken Access Control Vulnerabilities in the Wild](https://www.hackerone.com/community/find-broken-access-control-vulnerabilities)
 - [NIS2: Next Step Forward on EU Security Requirements](https://www.hackerone.com/public-policy/nis2-eu-security-requirements)
 - [A Guide To Subdomain Takeovers 2.0](https://www.hackerone.com/community/guide-subdomain-takeovers)
