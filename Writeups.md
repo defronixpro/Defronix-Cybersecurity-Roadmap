@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Using Application Functionality to Exploit Insecure Deserialization](https://infosecwriteups.com/using-application-functionality-to-exploit-insecure-deserialization-b4e7c6abdae1?source=rss----7b722bfd1b8d---4)
 - [Go — ing Rogue: The Malware Development Odyssey &lpar;Part I&rpar;](https://infosecwriteups.com/go-ing-rogue-the-malware-development-odyssey-part-i-e89e3be6bcfb?source=rss----7b722bfd1b8d---4)
 - [Forget password OTP flaw lead to Account Takeover.](https://medium.com/@bughunt789/forget-password-otp-flaw-lead-to-account-takeover-b3f2b847952b?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Methodology for SQL Injection with Waybash URLs](https://pwn0sec.medium.com/bug-bounty-methodology-for-sql-injection-with-waybash-urls-d1d13d0ebdaa?source=rss------bug_bounty_writeup-5)
@@ -26,7 +27,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [From Conflict to Collaboration: The Evolution of Vulnerability Disclosure](https://infosecwriteups.com/understanding-coordinated-vulnerability-disclosure-cvd-vulnerability-disclosure-programs-vdp-27ea33c882e0?source=rss----7b722bfd1b8d---4)
 - [Critical Vulnerabilities in porte_plume plugin to Remote Exploits -$$$$ Bounty -CVE-2024–7954](https://infosecwriteups.com/critical-vulnerabilities-in-porte-plume-plugin-to-remote-exploits-bounty-cve-2024-7954-3dbee45134ac?source=rss----7b722bfd1b8d---4)
 - [THM Smag Grotto: Learn Web Security, Privilege Escalation &lpar;Walkthrough&rpar;](https://infosecwriteups.com/thm-smag-grotto-learn-web-security-privilege-escalation-walkthrough-637fe042f292?source=rss----7b722bfd1b8d---4)
-- [Uncovering 0-Days: The Crucial Role of RFCs in Vulnerability Research and the Recent Windows…](https://infosecwriteups.com/uncovering-0-days-the-crucial-role-of-rfcs-in-vulnerability-research-and-the-recent-windows-de6b7538e54f?source=rss----7b722bfd1b8d---4)
 - [How To Find Broken Access Control Vulnerabilities in the Wild](https://www.hackerone.com/community/find-broken-access-control-vulnerabilities)
 - [NIS2: Next Step Forward on EU Security Requirements](https://www.hackerone.com/public-policy/nis2-eu-security-requirements)
 - [A Guide To Subdomain Takeovers 2.0](https://www.hackerone.com/community/guide-subdomain-takeovers)
