@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Single endpoint leads to two bounties!&lpar;400$&rpar;](https://medium.com/@noureldin1042/single-endpoint-leads-to-two-bounties-400-7dd96cf601c7?source=rss------bug_bounty_writeup-5)
 - [Breaking Boundaries: Discovering Session Invalidation Failures in User Roles](https://medium.com/@hawkeye69669/breaking-boundaries-discovering-session-invalidation-failures-in-user-roles-84711777f9f2?source=rss------bug_bounty_writeup-5)
 - [SQL Injection](https://infosecwriteups.com/sql-injection-cb7f0ec28510?source=rss----7b722bfd1b8d---4)
 - [Investigate Web Attacks Challenge &lpar;Let’s Defend&rpar;](https://infosecwriteups.com/investigate-web-attacks-challenge-lets-defend-24ea96524290?source=rss----7b722bfd1b8d---4)
@@ -935,7 +936,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [how did I lose $5000?](https://medium.com/@mr.matrex00.7/how-did-i-lose-5000-6bf4a5c7cbf7?source=rss------bug_bounty_writeup-5)
 - [My first SQLi vulnerability](https://medium.com/@rimed.software/my-first-sqli-vulnerability-f1eaab78eadf?source=rss------bug_bounty_writeup-5)
 - [Token leakage through untrusted 3rd party](https://osintteam.blog/token-leakage-through-untrusted-3rd-party-dff1ff955a02?source=rss------bug_bounty_writeup-5)
-- [How I Found a Subdomain Takeover Bug and Earned a $500 Bounty](https://medium.com/@D2Cy/how-i-found-a-subdomain-takeover-bug-and-earned-a-500-bounty-0edc139fe994?source=rss------bug_bounty_writeup-5)
 - [How To Use HackerOne’s Global Vulnerability Policy Map](https://www.hackerone.com/public-policy/global-vulnerability-policy-map)
 - [European Council Adopts Cyber Resilience Act](https://www.hackerone.com/public-policy/eu-council-cyber-resilience-act)
 - [Measure Your AI Risk Preparedness with This Interactive Self-Assessment Tool](https://www.hackerone.com/ai/ai-security-readiness-quiz)
