@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Parameter tampering result in product price manipulation](https://infosecwriteups.com/parameter-tampering-result-in-product-price-manipulation-356c07a571e5?source=rss----7b722bfd1b8d---4)
 - [Hacking My College panel using University Website Like a Pro](https://infosecwriteups.com/hacking-my-college-panel-using-university-website-like-a-pro-9dd075133dce?source=rss----7b722bfd1b8d---4)
 - [Single endpoint leads to two bounties!&lpar;400$&rpar;](https://medium.com/@noureldin1042/single-endpoint-leads-to-two-bounties-400-7dd96cf601c7?source=rss------bug_bounty_writeup-5)
 - [Breaking Boundaries: Discovering Session Invalidation Failures in User Roles](https://medium.com/@hawkeye69669/breaking-boundaries-discovering-session-invalidation-failures-in-user-roles-84711777f9f2?source=rss------bug_bounty_writeup-5)
@@ -937,6 +938,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [how did I lose $5000?](https://medium.com/@mr.matrex00.7/how-did-i-lose-5000-6bf4a5c7cbf7?source=rss------bug_bounty_writeup-5)
 - [My first SQLi vulnerability](https://medium.com/@rimed.software/my-first-sqli-vulnerability-f1eaab78eadf?source=rss------bug_bounty_writeup-5)
 - [Token leakage through untrusted 3rd party](https://osintteam.blog/token-leakage-through-untrusted-3rd-party-dff1ff955a02?source=rss------bug_bounty_writeup-5)
+- [Vulnerability Deep Dive: Gaining RCE Through ImageMagick With Frans Rosen](https://www.hackerone.com/vulnerability-management/gaining-rce-through-imagemagick)
 - [How To Use HackerOne’s Global Vulnerability Policy Map](https://www.hackerone.com/public-policy/global-vulnerability-policy-map)
 - [European Council Adopts Cyber Resilience Act](https://www.hackerone.com/public-policy/eu-council-cyber-resilience-act)
 - [Measure Your AI Risk Preparedness with This Interactive Self-Assessment Tool](https://www.hackerone.com/ai/ai-security-readiness-quiz)
@@ -946,7 +948,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [High-Risk Vulnerabilities in Apache HTTP Server’s mod_proxy Encoding Problem Allow Authentication…](https://infosecwriteups.com/high-risk-vulnerabilities-in-apache-http-servers-mod-proxy-encoding-problem-allow-authentication-cbe8d422738d?source=rss----7b722bfd1b8d---4)
 - [IOS Penetration Testing: Guide to Static Testing](https://infosecwriteups.com/ios-penetration-testing-guide-to-static-analysis-4a9dea5d672d?source=rss----7b722bfd1b8d---4)
 - [I Studied 100+ SSRF Reports, and Here’s What I Learned](https://infosecwriteups.com/i-studied-100-ssrf-reports-and-heres-what-i-learned-1654c72ee2df?source=rss----7b722bfd1b8d---4)
-- [IDOR Leads To Account Takeover](https://infosecwriteups.com/idor-leads-to-account-takeover-28fe6e300a49?source=rss----7b722bfd1b8d---4)
 - [How To Find Broken Access Control Vulnerabilities in the Wild](https://www.hackerone.com/community/find-broken-access-control-vulnerabilities)
 - [NIS2: Next Step Forward on EU Security Requirements](https://www.hackerone.com/public-policy/nis2-eu-security-requirements)
 - [A Guide To Subdomain Takeovers 2.0](https://www.hackerone.com/community/guide-subdomain-takeovers)
@@ -971,7 +972,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Hack My Career: Meet Alek Relyea](https://www.hackerone.com/culture-and-talent/hack-my-career-meet-alek-relyea)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How Hai’s Report Summarization Turns Complex Data Into Actionable Insights](https://www.hackerone.com/ai/hai-report-summarization)
-- [Anthropic Expands Their Model Safety Bug Bounty Program](https://www.hackerone.com/customer-stories/anthropic-expands-bug-bounty-program)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
