@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [GoldenJackal Strikes Again: APT Group Breaches Air-Gapped European Government Systems](https://infosecwriteups.com/goldenjackal-strikes-again-apt-group-breaches-air-gapped-european-government-systems-12edfb56fcc2?source=rss----7b722bfd1b8d---4)
 - [Bugcrowd Triage is Terrible](https://medium.com/@cybersecnoneed/bugcrowd-triage-is-terrible-97065059aaff?source=rss------bug_bounty_writeup-5)
 - [50€ Rabbit Hole — Plain as Cake Bugs](https://medium.com/@rootplinix/50-rabbit-hole-plain-as-cake-bugs-e3e0940f93ce?source=rss------bug_bounty_writeup-5)
 - [Stored XSS Critical or NOT?](https://medium.com/@mrro0o0tt/stored-xss-critical-or-not-da9eb9b19029?source=rss------bug_bounty_writeup-5)
@@ -947,7 +948,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How an IDOR Vulnerability Led to User Profile Modification](https://www.hackerone.com/vulnerability-management/idor-vulnerability-deep-dive)
 - [High-Risk Vulnerabilities in Apache HTTP Server’s mod_proxy Encoding Problem Allow Authentication…](https://infosecwriteups.com/high-risk-vulnerabilities-in-apache-http-servers-mod-proxy-encoding-problem-allow-authentication-cbe8d422738d?source=rss----7b722bfd1b8d---4)
 - [IOS Penetration Testing: Guide to Static Testing](https://infosecwriteups.com/ios-penetration-testing-guide-to-static-analysis-4a9dea5d672d?source=rss----7b722bfd1b8d---4)
-- [I Studied 100+ SSRF Reports, and Here’s What I Learned](https://infosecwriteups.com/i-studied-100-ssrf-reports-and-heres-what-i-learned-1654c72ee2df?source=rss----7b722bfd1b8d---4)
 - [How To Find Broken Access Control Vulnerabilities in the Wild](https://www.hackerone.com/community/find-broken-access-control-vulnerabilities)
 - [NIS2: Next Step Forward on EU Security Requirements](https://www.hackerone.com/public-policy/nis2-eu-security-requirements)
 - [A Guide To Subdomain Takeovers 2.0](https://www.hackerone.com/community/guide-subdomain-takeovers)
