@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Bugcrowd Triage is Terrible](https://medium.com/@cybersecnoneed/bugcrowd-triage-is-terrible-97065059aaff?source=rss------bug_bounty_writeup-5)
 - [50€ Rabbit Hole — Plain as Cake Bugs](https://medium.com/@rootplinix/50-rabbit-hole-plain-as-cake-bugs-e3e0940f93ce?source=rss------bug_bounty_writeup-5)
 - [Stored XSS Critical or NOT?](https://medium.com/@mrro0o0tt/stored-xss-critical-or-not-da9eb9b19029?source=rss------bug_bounty_writeup-5)
 - [Parameter tampering result in product price manipulation](https://infosecwriteups.com/parameter-tampering-result-in-product-price-manipulation-356c07a571e5?source=rss----7b722bfd1b8d---4)
@@ -937,8 +938,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Bug Bounty Methodology for SQL Injection with Waybash URLs](https://pwn0sec.medium.com/bug-bounty-methodology-for-sql-injection-with-waybash-urls-d1d13d0ebdaa?source=rss------bug_bounty_writeup-5)
 - [How i found 22 LFI in the same program using automation tricks](https://medium.com/@zomasec/how-i-found-22-lfi-in-the-same-program-using-automation-tricks-3ea303d24f4a?source=rss------bug_bounty_writeup-5)
 - [How i tricked Crypto Trading Site into sending Dangerous email to it’s Users](https://medium.com/@Rahulkrishnan_R_Panicker/how-i-tricked-crypto-trading-site-into-sending-dangerous-email-to-its-users-a11a972c470f?source=rss------bug_bounty_writeup-5)
-- [how did I lose $5000?](https://medium.com/@mr.matrex00.7/how-did-i-lose-5000-6bf4a5c7cbf7?source=rss------bug_bounty_writeup-5)
-- [Vulnerability Deep Dive: Gaining RCE Through ImageMagick With Frans Rosen](https://www.hackerone.com/vulnerability-management/gaining-rce-through-imagemagick)
 - [How To Use HackerOne’s Global Vulnerability Policy Map](https://www.hackerone.com/public-policy/global-vulnerability-policy-map)
 - [European Council Adopts Cyber Resilience Act](https://www.hackerone.com/public-policy/eu-council-cyber-resilience-act)
 - [Measure Your AI Risk Preparedness with This Interactive Self-Assessment Tool](https://www.hackerone.com/ai/ai-security-readiness-quiz)
@@ -972,6 +971,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Hack My Career: Meet Alek Relyea](https://www.hackerone.com/culture-and-talent/hack-my-career-meet-alek-relyea)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How Hai’s Report Summarization Turns Complex Data Into Actionable Insights](https://www.hackerone.com/ai/hai-report-summarization)
+- [Anthropic Expands Their Model Safety Bug Bounty Program](https://www.hackerone.com/customer-stories/anthropic-expands-bug-bounty-program)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
