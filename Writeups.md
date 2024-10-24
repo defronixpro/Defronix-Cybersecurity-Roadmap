@@ -17,6 +17,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How i found 22 LFI in the same program using automation tricks](https://medium.com/@zomasec/how-i-found-22-lfi-in-the-same-program-using-automation-tricks-3ea303d24f4a?source=rss------bug_bounty_writeup-5)
 - [How i tricked Crypto Trading Site into sending Dangerous email to it’s Users](https://medium.com/@Rahulkrishnan_R_Panicker/how-i-tricked-crypto-trading-site-into-sending-dangerous-email-to-its-users-a11a972c470f?source=rss------bug_bounty_writeup-5)
 - [how did I lose $5000?](https://medium.com/@mr.matrex00.7/how-did-i-lose-5000-6bf4a5c7cbf7?source=rss------bug_bounty_writeup-5)
+- [Vulnerability Deep Dive: Gaining RCE Through ImageMagick With Frans Rosen](https://www.hackerone.com/vulnerability-management/gaining-rce-through-imagemagick)
 - [How To Use HackerOne’s Global Vulnerability Policy Map](https://www.hackerone.com/public-policy/global-vulnerability-policy-map)
 - [European Council Adopts Cyber Resilience Act](https://www.hackerone.com/public-policy/eu-council-cyber-resilience-act)
 - [Measure Your AI Risk Preparedness with This Interactive Self-Assessment Tool](https://www.hackerone.com/ai/ai-security-readiness-quiz)
