@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Unreleased function leads to 150$ bounty](https://medium.com/@noureldin1042/unreleased-function-leads-to-150-bounty-c8521e3e3ba8?source=rss------bug_bounty_writeup-5)
 - [GoldenJackal Strikes Again: APT Group Breaches Air-Gapped European Government Systems](https://infosecwriteups.com/goldenjackal-strikes-again-apt-group-breaches-air-gapped-european-government-systems-12edfb56fcc2?source=rss----7b722bfd1b8d---4)
 - [Bugcrowd Triage is Terrible](https://medium.com/@cybersecnoneed/bugcrowd-triage-is-terrible-97065059aaff?source=rss------bug_bounty_writeup-5)
 - [50€ Rabbit Hole — Plain as Cake Bugs](https://medium.com/@rootplinix/50-rabbit-hole-plain-as-cake-bugs-e3e0940f93ce?source=rss------bug_bounty_writeup-5)
@@ -938,7 +939,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Forget password OTP flaw lead to Account Takeover.](https://medium.com/@bughunt789/forget-password-otp-flaw-lead-to-account-takeover-b3f2b847952b?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Methodology for SQL Injection with Waybash URLs](https://pwn0sec.medium.com/bug-bounty-methodology-for-sql-injection-with-waybash-urls-d1d13d0ebdaa?source=rss------bug_bounty_writeup-5)
 - [How i found 22 LFI in the same program using automation tricks](https://medium.com/@zomasec/how-i-found-22-lfi-in-the-same-program-using-automation-tricks-3ea303d24f4a?source=rss------bug_bounty_writeup-5)
-- [How i tricked Crypto Trading Site into sending Dangerous email to it’s Users](https://medium.com/@Rahulkrishnan_R_Panicker/how-i-tricked-crypto-trading-site-into-sending-dangerous-email-to-its-users-a11a972c470f?source=rss------bug_bounty_writeup-5)
 - [Vulnerability Deep Dive: Gaining RCE Through ImageMagick With Frans Rosen](https://www.hackerone.com/vulnerability-management/gaining-rce-through-imagemagick)
 - [How To Use HackerOne’s Global Vulnerability Policy Map](https://www.hackerone.com/public-policy/global-vulnerability-policy-map)
 - [European Council Adopts Cyber Resilience Act](https://www.hackerone.com/public-policy/eu-council-cyber-resilience-act)
