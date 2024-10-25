@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [My step by step process on how I do Bug Bounty Hunting: From finding targets to Submission of the…](https://pwndecoco.medium.com/my-step-by-step-process-on-how-i-do-bug-bounty-program-from-finding-targets-to-submission-of-the-d25939b2a1b3?source=rss------bug_bounty_writeup-5)
 - [Measure, Compare, and Enhance Security Programs with HackerOne Benchmarks](https://www.hackerone.com/vulnerability-management/hackerone-benchmarks)
 - [Unreleased function leads to 150$ bounty](https://medium.com/@noureldin1042/unreleased-function-leads-to-150-bounty-c8521e3e3ba8?source=rss------bug_bounty_writeup-5)
 - [GoldenJackal Strikes Again: APT Group Breaches Air-Gapped European Government Systems](https://infosecwriteups.com/goldenjackal-strikes-again-apt-group-breaches-air-gapped-european-government-systems-12edfb56fcc2?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Forget password OTP flaw lead to Account Takeover.](https://medium.com/@bughunt789/forget-password-otp-flaw-lead-to-account-takeover-b3f2b847952b?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Methodology for SQL Injection with Waybash URLs](https://pwn0sec.medium.com/bug-bounty-methodology-for-sql-injection-with-waybash-urls-d1d13d0ebdaa?source=rss------bug_bounty_writeup-5)
 - [OWASP Top 10: The Risk of Cryptographic Failures](https://www.hackerone.com/vulnerability-management/cryptographic-failures)
-- [How i found 22 LFI in the same program using automation tricks](https://medium.com/@zomasec/how-i-found-22-lfi-in-the-same-program-using-automation-tricks-3ea303d24f4a?source=rss------bug_bounty_writeup-5)
 - [Vulnerability Deep Dive: Gaining RCE Through ImageMagick With Frans Rosen](https://www.hackerone.com/vulnerability-management/gaining-rce-through-imagemagick)
 - [How To Use HackerOne’s Global Vulnerability Policy Map](https://www.hackerone.com/public-policy/global-vulnerability-policy-map)
 - [European Council Adopts Cyber Resilience Act](https://www.hackerone.com/public-policy/eu-council-cyber-resilience-act)
