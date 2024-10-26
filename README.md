@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How To Choose Self-Hosted Bug Bounty Program | Programs Insights](https://medium.com/@the.air.cyborg/how-to-choose-self-hosted-bug-bounty-program-programs-insights-01b0297c6b21?source=rss------bug_bounty_writeup-5)
 - [My step by step process on how I do Bug Bounty Hunting: From finding targets to Submission of the…](https://pwndecoco.medium.com/my-step-by-step-process-on-how-i-do-bug-bounty-program-from-finding-targets-to-submission-of-the-d25939b2a1b3?source=rss------bug_bounty_writeup-5)
 - [Measure, Compare, and Enhance Security Programs with HackerOne Benchmarks](https://www.hackerone.com/vulnerability-management/hackerone-benchmarks)
 - [Unreleased function leads to 150$ bounty](https://medium.com/@noureldin1042/unreleased-function-leads-to-150-bounty-c8521e3e3ba8?source=rss------bug_bounty_writeup-5)
@@ -940,7 +941,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Using Application Functionality to Exploit Insecure Deserialization](https://infosecwriteups.com/using-application-functionality-to-exploit-insecure-deserialization-b4e7c6abdae1?source=rss----7b722bfd1b8d---4)
 - [Go — ing Rogue: The Malware Development Odyssey &lpar;Part I&rpar;](https://infosecwriteups.com/go-ing-rogue-the-malware-development-odyssey-part-i-e89e3be6bcfb?source=rss----7b722bfd1b8d---4)
 - [Forget password OTP flaw lead to Account Takeover.](https://medium.com/@bughunt789/forget-password-otp-flaw-lead-to-account-takeover-b3f2b847952b?source=rss------bug_bounty_writeup-5)
-- [Bug Bounty Methodology for SQL Injection with Waybash URLs](https://pwn0sec.medium.com/bug-bounty-methodology-for-sql-injection-with-waybash-urls-d1d13d0ebdaa?source=rss------bug_bounty_writeup-5)
 - [OWASP Top 10: The Risk of Cryptographic Failures](https://www.hackerone.com/vulnerability-management/cryptographic-failures)
 - [Vulnerability Deep Dive: Gaining RCE Through ImageMagick With Frans Rosen](https://www.hackerone.com/vulnerability-management/gaining-rce-through-imagemagick)
 - [How To Use HackerOne’s Global Vulnerability Policy Map](https://www.hackerone.com/public-policy/global-vulnerability-policy-map)
