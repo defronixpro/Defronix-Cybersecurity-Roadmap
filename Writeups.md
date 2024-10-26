@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [500$ Idor vulnerability.](https://medium.com/@noureldin1042/500-idor-vulnerability-dfc5d6f31119?source=rss------bug_bounty_writeup-5)
 - [How to Handle Burnout as a Bug Bounty Hunter: Step-by-Step Guide](https://bevijaygupta.medium.com/how-to-handle-burnout-as-a-bug-bounty-hunter-step-by-step-guide-173bdc11386d?source=rss------bug_bounty_writeup-5)
 - [How To Choose Self-Hosted Bug Bounty Program | Programs Insights](https://medium.com/@the.air.cyborg/how-to-choose-self-hosted-bug-bounty-program-programs-insights-01b0297c6b21?source=rss------bug_bounty_writeup-5)
 - [My step by step process on how I do Bug Bounty Hunting: From finding targets to Submission of the…](https://pwndecoco.medium.com/my-step-by-step-process-on-how-i-do-bug-bounty-program-from-finding-targets-to-submission-of-the-d25939b2a1b3?source=rss------bug_bounty_writeup-5)
