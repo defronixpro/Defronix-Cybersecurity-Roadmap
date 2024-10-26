@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Dependency Confusion Unleashed: How One Misconfiguration Can Compromise an Entire System](https://medium.com/@omargamal4em/dependency-confusion-unleashed-how-one-misconfiguration-can-compromise-an-entire-system-e0df2a26c341?source=rss------bug_bounty_writeup-5)
 - [500$ Idor vulnerability.](https://medium.com/@noureldin1042/500-idor-vulnerability-dfc5d6f31119?source=rss------bug_bounty_writeup-5)
 - [How to Handle Burnout as a Bug Bounty Hunter: Step-by-Step Guide](https://bevijaygupta.medium.com/how-to-handle-burnout-as-a-bug-bounty-hunter-step-by-step-guide-173bdc11386d?source=rss------bug_bounty_writeup-5)
 - [How To Choose Self-Hosted Bug Bounty Program | Programs Insights](https://medium.com/@the.air.cyborg/how-to-choose-self-hosted-bug-bounty-program-programs-insights-01b0297c6b21?source=rss------bug_bounty_writeup-5)
@@ -936,7 +937,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Parameter tampering result in product price manipulation](https://infosecwriteups.com/parameter-tampering-result-in-product-price-manipulation-356c07a571e5?source=rss----7b722bfd1b8d---4)
 - [Hacking My College panel using University Website Like a Pro](https://infosecwriteups.com/hacking-my-college-panel-using-university-website-like-a-pro-9dd075133dce?source=rss----7b722bfd1b8d---4)
 - [Single endpoint leads to two bounties!&lpar;400$&rpar;](https://medium.com/@noureldin1042/single-endpoint-leads-to-two-bounties-400-7dd96cf601c7?source=rss------bug_bounty_writeup-5)
-- [Breaking Boundaries: Discovering Session Invalidation Failures in User Roles](https://medium.com/@hawkeye69669/breaking-boundaries-discovering-session-invalidation-failures-in-user-roles-84711777f9f2?source=rss------bug_bounty_writeup-5)
 - [SQL Injection](https://infosecwriteups.com/sql-injection-cb7f0ec28510?source=rss----7b722bfd1b8d---4)
 - [Investigate Web Attacks Challenge &lpar;Let’s Defend&rpar;](https://infosecwriteups.com/investigate-web-attacks-challenge-lets-defend-24ea96524290?source=rss----7b722bfd1b8d---4)
 - [LLM Penetration Testing Checklist](https://infosecwriteups.com/llm-penetration-testing-checklist-87eda0ce2991?source=rss----7b722bfd1b8d---4)
