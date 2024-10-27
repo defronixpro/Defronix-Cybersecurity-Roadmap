@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [My Roadmap and the Tools I plan to use to aid my journey.](https://cybersechemmars.medium.com/my-roadmap-and-the-tools-i-plan-to-use-to-aid-my-journey-4f720504fce6?source=rss------bug_bounty_writeup-5)
 - [SQL Injections and the cute $2000 bounty](https://medium.com/@nireshpandian19/sql-injections-and-the-cute-2000-bounty-2d18441ee0e3?source=rss------bug_bounty_writeup-5)
 - [Dependency Confusion Unleashed: How One Misconfiguration Can Compromise an Entire System](https://medium.com/@omargamal4em/dependency-confusion-unleashed-how-one-misconfiguration-can-compromise-an-entire-system-e0df2a26c341?source=rss------bug_bounty_writeup-5)
 - [500$ Idor vulnerability.](https://medium.com/@noureldin1042/500-idor-vulnerability-dfc5d6f31119?source=rss------bug_bounty_writeup-5)
@@ -934,7 +935,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Bugcrowd Triage is Terrible](https://medium.com/@cybersecnoneed/bugcrowd-triage-is-terrible-97065059aaff?source=rss------bug_bounty_writeup-5)
 - [50€ Rabbit Hole — Plain as Cake Bugs](https://medium.com/@rootplinix/50-rabbit-hole-plain-as-cake-bugs-e3e0940f93ce?source=rss------bug_bounty_writeup-5)
 - [AWS Security Configuration Review and Best Practices](https://www.hackerone.com/penetration-testing/aws-security-configuration)
-- [Stored XSS Critical or NOT?](https://medium.com/@mrro0o0tt/stored-xss-critical-or-not-da9eb9b19029?source=rss------bug_bounty_writeup-5)
 - [Parameter tampering result in product price manipulation](https://infosecwriteups.com/parameter-tampering-result-in-product-price-manipulation-356c07a571e5?source=rss----7b722bfd1b8d---4)
 - [Hacking My College panel using University Website Like a Pro](https://infosecwriteups.com/hacking-my-college-panel-using-university-website-like-a-pro-9dd075133dce?source=rss----7b722bfd1b8d---4)
 - [SQL Injection](https://infosecwriteups.com/sql-injection-cb7f0ec28510?source=rss----7b722bfd1b8d---4)
