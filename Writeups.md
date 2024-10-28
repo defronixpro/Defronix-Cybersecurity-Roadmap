@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Bypassed the admin panel by reading “support team quotes”](https://medium.com/@test123cybertest/bypassed-the-admin-panel-by-reading-support-team-quotes-f18c1fe1bfed?source=rss------bug_bounty_writeup-5)
 - [Bug on ParrotCTF](https://infosecwriteups.com/bug-on-parrotctf-e64424b0d043?source=rss----7b722bfd1b8d---4)
 - [How to Configure Static and Dynamic IP Addresses in Linux](https://infosecwriteups.com/how-to-configure-static-and-dynamic-ip-addresses-in-linux-a-step-by-step-guide-using-ifconfig-and-48551ce4bc45?source=rss----7b722bfd1b8d---4)
 - [JWT Authentication Bypass leads to Admin Control Panel](https://infosecwriteups.com/jwt-authentication-bypass-leads-to-admin-control-panel-dfa6efcdcbf5?source=rss----7b722bfd1b8d---4)
@@ -21,7 +22,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Measure, Compare, and Enhance Security Programs with HackerOne Benchmarks](https://www.hackerone.com/vulnerability-management/hackerone-benchmarks)
 - [Unreleased function leads to 150$ bounty](https://medium.com/@noureldin1042/unreleased-function-leads-to-150-bounty-c8521e3e3ba8?source=rss------bug_bounty_writeup-5)
 - [Bugcrowd Triage is Terrible](https://medium.com/@cybersecnoneed/bugcrowd-triage-is-terrible-97065059aaff?source=rss------bug_bounty_writeup-5)
-- [50€ Rabbit Hole — Plain as Cake Bugs](https://medium.com/@rootplinix/50-rabbit-hole-plain-as-cake-bugs-e3e0940f93ce?source=rss------bug_bounty_writeup-5)
 - [AWS Security Configuration Review and Best Practices](https://www.hackerone.com/penetration-testing/aws-security-configuration)
 - [OWASP Top 10: The Risk of Cryptographic Failures](https://www.hackerone.com/vulnerability-management/cryptographic-failures)
 - [Vulnerability Deep Dive: Gaining RCE Through ImageMagick With Frans Rosen](https://www.hackerone.com/vulnerability-management/gaining-rce-through-imagemagick)
