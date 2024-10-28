@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Securing Our Elections Through Vulnerability Testing and Disclosure](https://www.hackerone.com/public-policy/securing-elections-through-vulnerability-testing)
 - [Bypassed the admin panel by reading “support team quotes”](https://medium.com/@test123cybertest/bypassed-the-admin-panel-by-reading-support-team-quotes-f18c1fe1bfed?source=rss------bug_bounty_writeup-5)
 - [Bug on ParrotCTF](https://infosecwriteups.com/bug-on-parrotctf-e64424b0d043?source=rss----7b722bfd1b8d---4)
 - [How to Configure Static and Dynamic IP Addresses in Linux](https://infosecwriteups.com/how-to-configure-static-and-dynamic-ip-addresses-in-linux-a-step-by-step-guide-using-ifconfig-and-48551ce4bc45?source=rss----7b722bfd1b8d---4)
@@ -971,7 +972,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [100 Hacking Tools and Resources](https://www.hackerone.com/ethical-hacker/100-hacking-tools-and-resources)
 - [Retail Under Attack: 6 Learnings from a Retail Customer](https://www.hackerone.com/customer-stories/retail-under-attack)
 - [Hack My Career: Meet Bertijn Eldering](https://www.hackerone.com/culture-and-talent/hack-my-career-meet-bertijn-eldering)
-- [Takeaways from the Dismissal of Most of the Government’s Case Against the SolarWinds CISO](https://www.hackerone.com/public-policy/solarwinds-case-dismissal)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
