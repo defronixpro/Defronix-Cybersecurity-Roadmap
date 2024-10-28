@@ -922,16 +922,16 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Bug on ParrotCTF](https://infosecwriteups.com/bug-on-parrotctf-e64424b0d043?source=rss----7b722bfd1b8d---4)
+- [How to Configure Static and Dynamic IP Addresses in Linux](https://infosecwriteups.com/how-to-configure-static-and-dynamic-ip-addresses-in-linux-a-step-by-step-guide-using-ifconfig-and-48551ce4bc45?source=rss----7b722bfd1b8d---4)
+- [JWT Authentication Bypass leads to Admin Control Panel](https://infosecwriteups.com/jwt-authentication-bypass-leads-to-admin-control-panel-dfa6efcdcbf5?source=rss----7b722bfd1b8d---4)
+- [NMAP Cheat Sheet: Beginner to Advanced](https://infosecwriteups.com/nmap-cheat-sheet-beginner-to-advanced-787b19a113f4?source=rss----7b722bfd1b8d---4)
+- [Common web application threats &amp; risk](https://infosecwriteups.com/common-web-application-threats-risk-8d54b6a23acb?source=rss----7b722bfd1b8d---4)
 - [DLL hijacking in TOTOLINK A600UB Driver Installer](https://infosecwriteups.com/dll-hijacking-in-totolink-a600ub-driver-installer-13787c4d97b4?source=rss----7b722bfd1b8d---4)
 - [HTB | Cascade — Reverse Engineering - DnSpy and AD Recycle](https://infosecwriteups.com/htb-cascade-reverse-engineering-dnspy-and-ad-recycle-ecd045caca7d?source=rss----7b722bfd1b8d---4)
 - [Electron JS Application Penetration Testing](https://infosecwriteups.com/electron-js-application-penetration-testing-b0809af324f6?source=rss----7b722bfd1b8d---4)
 - [Basics of PowerShell 2024–2025: My Take on Learning It the Fun Way](https://infosecwriteups.com/basics-of-powershell-2024-2025-my-take-on-learning-it-the-fun-way-6566c908a8fb?source=rss----7b722bfd1b8d---4)
 - [Demystifying OSINT](https://infosecwriteups.com/demystifying-osint-e1c287b17e0c?source=rss----7b722bfd1b8d---4)
-- [Exploring Splunk Data Administration: Parsing, Event Line Breaking, and Data Privacy](https://infosecwriteups.com/exploring-splunk-data-administration-parsing-event-line-breaking-and-data-privacy-c6fee9d2fce1?source=rss----7b722bfd1b8d---4)
-- [Breaking Barriers: Hacking RFID Cards at the University [Beginner Level]](https://infosecwriteups.com/breaking-barriers-hacking-rfid-cards-at-the-university-beginner-level-f58e9ca0eb9f?source=rss----7b722bfd1b8d---4)
-- [How i Find Database Credentials via Mass Recon &amp; Recon Scoping on Gcash](https://infosecwriteups.com/how-i-find-database-credentials-via-mass-recon-recon-scoping-on-gcash-f43a0dae3ec1?source=rss----7b722bfd1b8d---4)
-- [Bypassing Account Suspension Using Anonymous Posting | Facebook Bug Bounty](https://infosecwriteups.com/bypassing-account-suspension-using-anonymous-posting-facebook-bug-bounty-b204433c98d1?source=rss----7b722bfd1b8d---4)
-- [Utilizing AI Model for Hacking: Bypassing CAPTCHAs using AI leads to Account Takeover | Bug Bounty](https://infosecwriteups.com/utilizing-ai-model-for-hacking-bypassing-captchas-using-ai-leads-to-account-takeover-bug-bounty-028804b779a0?source=rss----7b722bfd1b8d---4)
 - [My Roadmap and the Tools I plan to use to aid my journey.](https://cybersechemmars.medium.com/my-roadmap-and-the-tools-i-plan-to-use-to-aid-my-journey-4f720504fce6?source=rss------bug_bounty_writeup-5)
 - [SQL Injections and the cute $2000 bounty](https://medium.com/@nireshpandian19/sql-injections-and-the-cute-2000-bounty-2d18441ee0e3?source=rss------bug_bounty_writeup-5)
 - [Dependency Confusion Unleashed: How One Misconfiguration Can Compromise an Entire System](https://medium.com/@omargamal4em/dependency-confusion-unleashed-how-one-misconfiguration-can-compromise-an-entire-system-e0df2a26c341?source=rss------bug_bounty_writeup-5)
