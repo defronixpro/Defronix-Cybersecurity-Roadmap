@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [My step by step process on how I do Bug Bounty Hunting: From finding targets to Submission of the…](https://pwndecoco.medium.com/my-step-by-step-process-on-how-i-do-bug-bounty-hunting-from-finding-targets-to-submission-of-the-c3ad5d4b07ad?source=rss------bug_bounty_writeup-5)
 - [How I get Open Redirect Vulnerability in BBP ?](https://medium.com/@keroayman77/how-i-get-open-redirect-vulnerability-in-bbp-6006e5a34602?source=rss------bug_bounty_writeup-5)
 - [How I Started My Bug Bounty Journey…!!!](https://harshbardhanx.medium.com/how-i-started-my-bug-bounty-journey-1b9683fa6252?source=rss------bug_bounty_writeup-5)
 - [How I Stopped a Data Breach In 2 Minutes: A Lesson on Insecure Direct Object…](https://medium.com/@susapr/how-i-stopped-a-data-breach-in-2-minutes-a-lesson-on-insecure-direct-object-1b4d08443ab7?source=rss------bug_bounty_writeup-5)
@@ -942,7 +943,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [SQL Injections and the cute $2000 bounty](https://medium.com/@nireshpandian19/sql-injections-and-the-cute-2000-bounty-2d18441ee0e3?source=rss------bug_bounty_writeup-5)
 - [Dependency Confusion Unleashed: How One Misconfiguration Can Compromise an Entire System](https://medium.com/@omargamal4em/dependency-confusion-unleashed-how-one-misconfiguration-can-compromise-an-entire-system-e0df2a26c341?source=rss------bug_bounty_writeup-5)
 - [500$ Idor vulnerability.](https://medium.com/@noureldin1042/500-idor-vulnerability-dfc5d6f31119?source=rss------bug_bounty_writeup-5)
-- [How to Handle Burnout as a Bug Bounty Hunter: Step-by-Step Guide](https://bevijaygupta.medium.com/how-to-handle-burnout-as-a-bug-bounty-hunter-step-by-step-guide-173bdc11386d?source=rss------bug_bounty_writeup-5)
 - [Measure, Compare, and Enhance Security Programs with HackerOne Benchmarks](https://www.hackerone.com/vulnerability-management/hackerone-benchmarks)
 - [AWS Security Configuration Review and Best Practices](https://www.hackerone.com/penetration-testing/aws-security-configuration)
 - [OWASP Top 10: The Risk of Cryptographic Failures](https://www.hackerone.com/vulnerability-management/cryptographic-failures)
