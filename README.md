@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I Started My Bug Bounty Journey…!!!](https://harshbardhanx.medium.com/how-i-started-my-bug-bounty-journey-1b9683fa6252?source=rss------bug_bounty_writeup-5)
 - [How I Stopped a Data Breach In 2 Minutes: A Lesson on Insecure Direct Object…](https://medium.com/@susapr/how-i-stopped-a-data-breach-in-2-minutes-a-lesson-on-insecure-direct-object-1b4d08443ab7?source=rss------bug_bounty_writeup-5)
 - [Breaking Down My Bug Bounty Find: Exploiting EC-Council’s iClass Platform](https://medium.com/@salaheddine_kalada/breaking-down-my-bug-bounty-find-exploiting-ec-councils-iclass-platform-68bd9a6c8460?source=rss------bug_bounty_writeup-5)
 - [Securing Our Elections Through Vulnerability Testing and Disclosure](https://www.hackerone.com/public-policy/securing-elections-through-vulnerability-testing)
@@ -942,7 +943,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [500$ Idor vulnerability.](https://medium.com/@noureldin1042/500-idor-vulnerability-dfc5d6f31119?source=rss------bug_bounty_writeup-5)
 - [How to Handle Burnout as a Bug Bounty Hunter: Step-by-Step Guide](https://bevijaygupta.medium.com/how-to-handle-burnout-as-a-bug-bounty-hunter-step-by-step-guide-173bdc11386d?source=rss------bug_bounty_writeup-5)
 - [How To Choose Self-Hosted Bug Bounty Program | Programs Insights](https://medium.com/@the.air.cyborg/how-to-choose-self-hosted-bug-bounty-program-programs-insights-01b0297c6b21?source=rss------bug_bounty_writeup-5)
-- [My step by step process on how I do Bug Bounty Hunting: From finding targets to Submission of the…](https://pwndecoco.medium.com/my-step-by-step-process-on-how-i-do-bug-bounty-program-from-finding-targets-to-submission-of-the-d25939b2a1b3?source=rss------bug_bounty_writeup-5)
 - [Measure, Compare, and Enhance Security Programs with HackerOne Benchmarks](https://www.hackerone.com/vulnerability-management/hackerone-benchmarks)
 - [AWS Security Configuration Review and Best Practices](https://www.hackerone.com/penetration-testing/aws-security-configuration)
 - [OWASP Top 10: The Risk of Cryptographic Failures](https://www.hackerone.com/vulnerability-management/cryptographic-failures)
