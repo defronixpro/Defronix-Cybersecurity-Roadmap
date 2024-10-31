@@ -922,8 +922,10 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Tale of Zendesk 0 day and a potential 25K $ bounty](https://rikeshbaniya.medium.com/tale-of-zendesk-0-day-and-a-potential-25k-bounty-61bcf9c5dc06?source=rss------bug_bounty_writeup-5)
 - [7 Real-Life Bug Bounties That Made Headlines: Lessons You Can’t Afford to Miss!](https://medium.com/@qaafqasim/7-real-life-bug-bounties-that-made-headlines-lessons-you-cant-afford-to-miss-4b812b2caafa?source=rss------bug_bounty_writeup-5)
 - [SSRF to Internal Port Scanning on Self-Hosted Platform](https://infosecwriteups.com/ssrf-to-internal-port-scanning-on-self-hosted-platform-05a17a461eed?source=rss------bug_bounty_writeup-5)
+- [Who Should Own AI Risk at Your Organization?](https://www.hackerone.com/ai/who-owns-ai-risk)
 - [Lets Get into the Real field.](https://harshbardhanx.medium.com/lets-get-into-the-real-field-b2c9278d0b63?source=rss------bug_bounty_writeup-5)
 - [My First Remote Code Execution &lpar;RCE&rpar;](https://medium.com/@prasenjitkantipaul/my-first-remote-code-execution-rce-ea9c3e32943f?source=rss------bug_bounty_writeup-5)
 - [My step by step process on how I do Bug Bounty Hunting: From finding targets to Submission of the…](https://pwndecoco.medium.com/my-step-by-step-process-on-how-i-do-bug-bounty-hunting-from-finding-targets-to-submission-of-the-c3ad5d4b07ad?source=rss------bug_bounty_writeup-5)
@@ -932,7 +934,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How I Stopped a Data Breach In 2 Minutes: A Lesson on Insecure Direct Object…](https://medium.com/@susapr/how-i-stopped-a-data-breach-in-2-minutes-a-lesson-on-insecure-direct-object-1b4d08443ab7?source=rss------bug_bounty_writeup-5)
 - [Breaking Down My Bug Bounty Find: Exploiting EC-Council’s iClass Platform](https://medium.com/@salaheddine_kalada/breaking-down-my-bug-bounty-find-exploiting-ec-councils-iclass-platform-68bd9a6c8460?source=rss------bug_bounty_writeup-5)
 - [Securing Our Elections Through Vulnerability Testing and Disclosure](https://www.hackerone.com/public-policy/securing-elections-through-vulnerability-testing)
-- [Bypassed the admin panel by reading “support team quotes”](https://medium.com/@test123cybertest/bypassed-the-admin-panel-by-reading-support-team-quotes-f18c1fe1bfed?source=rss------bug_bounty_writeup-5)
 - [Bug on ParrotCTF](https://infosecwriteups.com/bug-on-parrotctf-e64424b0d043?source=rss----7b722bfd1b8d---4)
 - [How to Configure Static and Dynamic IP Addresses in Linux](https://infosecwriteups.com/how-to-configure-static-and-dynamic-ip-addresses-in-linux-a-step-by-step-guide-using-ifconfig-and-48551ce4bc45?source=rss----7b722bfd1b8d---4)
 - [JWT Authentication Bypass leads to Admin Control Panel](https://infosecwriteups.com/jwt-authentication-bypass-leads-to-admin-control-panel-dfa6efcdcbf5?source=rss----7b722bfd1b8d---4)
@@ -971,7 +972,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How Hai Facilitates Clear and Effective Communication](https://www.hackerone.com/ai/hai-facilitates-effective-communication)
 - [100 Hacking Tools and Resources](https://www.hackerone.com/ethical-hacker/100-hacking-tools-and-resources)
 - [Retail Under Attack: 6 Learnings from a Retail Customer](https://www.hackerone.com/customer-stories/retail-under-attack)
-- [Hack My Career: Meet Bertijn Eldering](https://www.hackerone.com/culture-and-talent/hack-my-career-meet-bertijn-eldering)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
