@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Configuring Burp Suite with Firefox &lpar;Step-by-Step&rpar;](https://harshbardhanx.medium.com/configuring-burp-suite-with-firefox-step-by-step-40f56a706546?source=rss------bug_bounty_writeup-5)
 - [Tale of Zendesk 0 day and a potential 25K $ bounty](https://rikeshbaniya.medium.com/tale-of-zendesk-0-day-and-a-potential-25k-bounty-61bcf9c5dc06?source=rss------bug_bounty_writeup-5)
 - [7 Real-Life Bug Bounties That Made Headlines: Lessons You Can’t Afford to Miss!](https://medium.com/@qaafqasim/7-real-life-bug-bounties-that-made-headlines-lessons-you-cant-afford-to-miss-4b812b2caafa?source=rss------bug_bounty_writeup-5)
 - [SSRF to Internal Port Scanning on Self-Hosted Platform](https://medium.com/@jeetpal2007/ssrf-to-internal-port-scanning-on-self-hosted-platform-05a17a461eed?source=rss------bug_bounty_writeup-5)
@@ -932,7 +933,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How I get Open Redirect Vulnerability in BBP ?](https://keroayman77.medium.com/how-i-get-open-redirect-vulnerability-in-bbp-6006e5a34602?source=rss------bug_bounty_writeup-5)
 - [How I Started My Bug Bounty Journey…!!!](https://harshbardhanx.medium.com/how-i-started-my-bug-bounty-journey-1b9683fa6252?source=rss------bug_bounty_writeup-5)
 - [How I Stopped a Data Breach In 2 Minutes: A Lesson on Insecure Direct Object…](https://medium.com/@susapr/how-i-stopped-a-data-breach-in-2-minutes-a-lesson-on-insecure-direct-object-1b4d08443ab7?source=rss------bug_bounty_writeup-5)
-- [Breaking Down My Bug Bounty Find: Exploiting EC-Council’s iClass Platform](https://medium.com/@salaheddine_kalada/breaking-down-my-bug-bounty-find-exploiting-ec-councils-iclass-platform-68bd9a6c8460?source=rss------bug_bounty_writeup-5)
 - [Securing Our Elections Through Vulnerability Testing and Disclosure](https://www.hackerone.com/public-policy/securing-elections-through-vulnerability-testing)
 - [Bug on ParrotCTF](https://infosecwriteups.com/bug-on-parrotctf-e64424b0d043?source=rss----7b722bfd1b8d---4)
 - [How to Configure Static and Dynamic IP Addresses in Linux](https://infosecwriteups.com/how-to-configure-static-and-dynamic-ip-addresses-in-linux-a-step-by-step-guide-using-ifconfig-and-48551ce4bc45?source=rss----7b722bfd1b8d---4)
