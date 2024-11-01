@@ -3,7 +3,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 <!-- WRITEUPS:START -->
 - [Tale of Zendesk 0 day and a potential 25K $ bounty](https://rikeshbaniya.medium.com/tale-of-zendesk-0-day-and-a-potential-25k-bounty-61bcf9c5dc06?source=rss------bug_bounty_writeup-5)
 - [7 Real-Life Bug Bounties That Made Headlines: Lessons You Can’t Afford to Miss!](https://medium.com/@qaafqasim/7-real-life-bug-bounties-that-made-headlines-lessons-you-cant-afford-to-miss-4b812b2caafa?source=rss------bug_bounty_writeup-5)
-- [SSRF to Internal Port Scanning on Self-Hosted Platform](https://infosecwriteups.com/ssrf-to-internal-port-scanning-on-self-hosted-platform-05a17a461eed?source=rss------bug_bounty_writeup-5)
+- [SSRF to Internal Port Scanning on Self-Hosted Platform](https://medium.com/@jeetpal2007/ssrf-to-internal-port-scanning-on-self-hosted-platform-05a17a461eed?source=rss------bug_bounty_writeup-5)
 - [Who Should Own AI Risk at Your Organization?](https://www.hackerone.com/ai/who-owns-ai-risk)
 - [Lets Get into the Real field.](https://harshbardhanx.medium.com/lets-get-into-the-real-field-b2c9278d0b63?source=rss------bug_bounty_writeup-5)
 - [My First Remote Code Execution &lpar;RCE&rpar;](https://medium.com/@prasenjitkantipaul/my-first-remote-code-execution-rce-ea9c3e32943f?source=rss------bug_bounty_writeup-5)
