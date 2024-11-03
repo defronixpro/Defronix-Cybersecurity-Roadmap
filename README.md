@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [“Keyed In” Compromising an entire organization through their API](https://medium.com/@s1renhead/keyed-in-compromising-an-entire-organization-through-their-api-2ed6cb54eec5?source=rss------bug_bounty_writeup-5)
 - [AcquiFinder | a tool to grab acquisitions of a company by Crunchbase](https://medium.com/@AmmarxLe0x/acquifinder-a-tool-to-grab-acquisitions-of-a-company-by-crunchbase-6315db784813?source=rss------bug_bounty_writeup-5)
 - [Account Takeover Via Google Auth Misconfiguration](https://medium.com/@abdulparkar/account-takeover-via-google-auth-misconfiguration-af4a59dd82e7?source=rss------bug_bounty_writeup-5)
 - [Simple Tips for Bug Bounty Beginners: Escalating to XSS &lpar;XSS Series Part — 2&rpar;](https://medium.com/@anishnarayan/simple-tips-for-bug-bounty-beginners-escalating-to-xss-xss-series-part-2-1d6b75ecf942?source=rss------bug_bounty_writeup-5)
@@ -932,7 +933,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Who Should Own AI Risk at Your Organization?](https://www.hackerone.com/ai/who-owns-ai-risk)
 - [Lets Get into the Real field.](https://harshbardhanx.medium.com/lets-get-into-the-real-field-b2c9278d0b63?source=rss------bug_bounty_writeup-5)
 - [My First Remote Code Execution &lpar;RCE&rpar;](https://medium.com/@prasenjitkantipaul/my-first-remote-code-execution-rce-ea9c3e32943f?source=rss------bug_bounty_writeup-5)
-- [My step by step process on how I do Bug Bounty Hunting: From finding targets to Submission of the…](https://pwndecoco.medium.com/my-step-by-step-process-on-how-i-do-bug-bounty-hunting-from-finding-targets-to-submission-of-the-c3ad5d4b07ad?source=rss------bug_bounty_writeup-5)
 - [Securing Our Elections Through Vulnerability Testing and Disclosure](https://www.hackerone.com/public-policy/securing-elections-through-vulnerability-testing)
 - [Bug on ParrotCTF](https://infosecwriteups.com/bug-on-parrotctf-e64424b0d043?source=rss----7b722bfd1b8d---4)
 - [How to Configure Static and Dynamic IP Addresses in Linux](https://infosecwriteups.com/how-to-configure-static-and-dynamic-ip-addresses-in-linux-a-step-by-step-guide-using-ifconfig-and-48551ce4bc45?source=rss----7b722bfd1b8d---4)
