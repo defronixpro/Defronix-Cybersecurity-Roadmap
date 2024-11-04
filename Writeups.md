@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Easy logic bug that leaks the email for every user](https://medium.com/@banertheinrich/easy-logic-bug-that-leaks-the-email-for-every-user-ef2d9d0cf088?source=rss------bug_bounty_writeup-5)
 - [“Keyed In” Compromising an entire organization through their API](https://medium.com/@s1renhead/keyed-in-compromising-an-entire-organization-through-their-api-2ed6cb54eec5?source=rss------bug_bounty_writeup-5)
 - [AcquiFinder | a tool to grab acquisitions of a company by Crunchbase](https://medium.com/@AmmarxLe0x/acquifinder-a-tool-to-grab-acquisitions-of-a-company-by-crunchbase-6315db784813?source=rss------bug_bounty_writeup-5)
 - [Account Takeover Via Google Auth Misconfiguration](https://medium.com/@abdulparkar/account-takeover-via-google-auth-misconfiguration-af4a59dd82e7?source=rss------bug_bounty_writeup-5)
@@ -11,7 +12,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [SSRF to Internal Port Scanning on Self-Hosted Platform](https://medium.com/@jeetpal2007/ssrf-to-internal-port-scanning-on-self-hosted-platform-05a17a461eed?source=rss------bug_bounty_writeup-5)
 - [Who Should Own AI Risk at Your Organization?](https://www.hackerone.com/ai/who-owns-ai-risk)
 - [Lets Get into the Real field.](https://harshbardhanx.medium.com/lets-get-into-the-real-field-b2c9278d0b63?source=rss------bug_bounty_writeup-5)
-- [My First Remote Code Execution &lpar;RCE&rpar;](https://medium.com/@prasenjitkantipaul/my-first-remote-code-execution-rce-ea9c3e32943f?source=rss------bug_bounty_writeup-5)
 - [Securing Our Elections Through Vulnerability Testing and Disclosure](https://www.hackerone.com/public-policy/securing-elections-through-vulnerability-testing)
 - [Bug on ParrotCTF](https://infosecwriteups.com/bug-on-parrotctf-e64424b0d043?source=rss----7b722bfd1b8d---4)
 - [How to Configure Static and Dynamic IP Addresses in Linux](https://infosecwriteups.com/how-to-configure-static-and-dynamic-ip-addresses-in-linux-a-step-by-step-guide-using-ifconfig-and-48551ce4bc45?source=rss----7b722bfd1b8d---4)
