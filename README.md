@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Breaking the Rules: How a Race Condition Allowed Me to Bypass the Limits](https://medium.com/@manibharathi.b/breaking-the-rules-how-a-race-condition-allowed-me-to-bypass-the-limits-by-mani-d6840746a04e?source=rss------bug_bounty_writeup-5)
 - [Cloud flare bypass leads to Account Takeover via Password Reset Poisoning](https://medium.com/@abdulparkar/cloud-flare-bypass-leads-to-account-takeover-via-password-reset-poisoning-ba349d784b97?source=rss------bug_bounty_writeup-5)
 - [Easy logic bug that leaks the email for every user](https://medium.com/@banertheinrich/easy-logic-bug-that-leaks-the-email-for-every-user-ef2d9d0cf088?source=rss------bug_bounty_writeup-5)
 - [“Keyed In” Compromising an entire organization through their API](https://medium.com/@s1renhead/keyed-in-compromising-an-entire-organization-through-their-api-2ed6cb54eec5?source=rss------bug_bounty_writeup-5)
@@ -931,7 +932,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Configuring Burp Suite with Firefox &lpar;Step-by-Step&rpar;](https://harshbardhanx.medium.com/configuring-burp-suite-with-firefox-step-by-step-40f56a706546?source=rss------bug_bounty_writeup-5)
 - [Tale of Zendesk 0 day and a potential 25K $ bounty](https://rikeshbaniya.medium.com/tale-of-zendesk-0-day-and-a-potential-25k-bounty-61bcf9c5dc06?source=rss------bug_bounty_writeup-5)
 - [7 Real-Life Bug Bounties That Made Headlines: Lessons You Can’t Afford to Miss!](https://medium.com/@qaafqasim/7-real-life-bug-bounties-that-made-headlines-lessons-you-cant-afford-to-miss-4b812b2caafa?source=rss------bug_bounty_writeup-5)
-- [SSRF to Internal Port Scanning on Self-Hosted Platform](https://medium.com/@jeetpal2007/ssrf-to-internal-port-scanning-on-self-hosted-platform-05a17a461eed?source=rss------bug_bounty_writeup-5)
 - [Who Should Own AI Risk at Your Organization?](https://www.hackerone.com/ai/who-owns-ai-risk)
 - [Securing Our Elections Through Vulnerability Testing and Disclosure](https://www.hackerone.com/public-policy/securing-elections-through-vulnerability-testing)
 - [Bug on ParrotCTF](https://infosecwriteups.com/bug-on-parrotctf-e64424b0d043?source=rss----7b722bfd1b8d---4)
