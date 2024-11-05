@@ -922,7 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [How I Got Paid for an Out-of-Scope Vulnerability](https://medium.com/@abdulparkar/how-i-got-paid-for-an-out-of-scope-vulnerability-4e51eb93db5c?source=rss------bug_bounty_writeup-5)
+- [SIP OPTIONS Abuse And Flood Vulnerability &lpar;exploit Voip&rpar;](https://medium.com/@zpx15266/sip-options-abuse-and-flood-vulnerability-exploit-voip-b9bc030909ae?source=rss------bug_bounty_writeup-5)
+- [How I Got Paid for an Out-of-Scope Vulnerability $$$](https://medium.com/@abdulparkar/how-i-got-paid-for-an-out-of-scope-vulnerability-4e51eb93db5c?source=rss------bug_bounty_writeup-5)
 - [Essential Bug Hunting Tools for Beginners: Start Your Journey in Cybersecurity](https://myselfakash20.medium.com/essential-bug-hunting-tools-for-beginners-start-your-journey-in-cybersecurity-ea51e1f26068?source=rss------bug_bounty_writeup-5)
 - [How I Found HTML Injection?](https://medium.com/@gitlime71/how-i-found-html-injection-bdbbf2861d95?source=rss------bug_bounty_writeup-5)
 - [The OAuth Oversight: When Configuration Errors Turn into Account Hijacks](https://medium.com/@ProwlSec/the-oauth-oversight-when-configuration-errors-turn-into-account-hijacks-5ed1f9c83d16?source=rss------bug_bounty_writeup-5)
@@ -931,7 +932,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Easy logic bug that leaks the email for every user](https://medium.com/@banertheinrich/easy-logic-bug-that-leaks-the-email-for-every-user-ef2d9d0cf088?source=rss------bug_bounty_writeup-5)
 - [“Keyed In” Compromising an entire organization through their API](https://medium.com/@s1renhead/keyed-in-compromising-an-entire-organization-through-their-api-2ed6cb54eec5?source=rss------bug_bounty_writeup-5)
 - [AcquiFinder | a tool to grab acquisitions of a company by Crunchbase](https://medium.com/@AmmarxLe0x/acquifinder-a-tool-to-grab-acquisitions-of-a-company-by-crunchbase-6315db784813?source=rss------bug_bounty_writeup-5)
-- [Account Takeover Via Google Auth Misconfiguration](https://medium.com/@abdulparkar/account-takeover-via-google-auth-misconfiguration-af4a59dd82e7?source=rss------bug_bounty_writeup-5)
 - [Who Should Own AI Risk at Your Organization?](https://www.hackerone.com/ai/who-owns-ai-risk)
 - [Securing Our Elections Through Vulnerability Testing and Disclosure](https://www.hackerone.com/public-policy/securing-elections-through-vulnerability-testing)
 - [Bug on ParrotCTF](https://infosecwriteups.com/bug-on-parrotctf-e64424b0d043?source=rss----7b722bfd1b8d---4)
