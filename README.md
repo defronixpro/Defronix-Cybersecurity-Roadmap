@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [A Step-by-Step Guide to the Bug Hunting Process: From Reconnaissance to Reporting](https://myselfakash20.medium.com/a-step-by-step-guide-to-the-bug-hunting-process-from-reconnaissance-to-reporting-9991b06314b8?source=rss------bug_bounty_writeup-5)
 - [How I Earned $350 Exploiting Clickjacking Vulnerability to Trigger XSS Attack](https://medium.com/@abdulparkar/how-i-earned-350-exploiting-clickjacking-vulnerability-to-trigger-xss-attack-23b3216ca640?source=rss------bug_bounty_writeup-5)
 - [How I found my first bug!](https://medium.com/@karim.engmohamed/how-i-found-my-first-bug-b1f21046deb7?source=rss------bug_bounty_writeup-5)
 - [SIP OPTIONS Abuse And Flood Vulnerability &lpar;exploit Voip&rpar;](https://medium.com/@zpx15266/sip-options-abuse-and-flood-vulnerability-exploit-voip-b9bc030909ae?source=rss------bug_bounty_writeup-5)
@@ -931,7 +932,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [The OAuth Oversight: When Configuration Errors Turn into Account Hijacks](https://medium.com/@ProwlSec/the-oauth-oversight-when-configuration-errors-turn-into-account-hijacks-5ed1f9c83d16?source=rss------bug_bounty_writeup-5)
 - [Breaking the Rules: How a Race Condition Allowed Me to Bypass the Limits](https://medium.com/@manibharathi.b/breaking-the-rules-how-a-race-condition-allowed-me-to-bypass-the-limits-by-mani-d6840746a04e?source=rss------bug_bounty_writeup-5)
 - [Cloud flare bypass leads to Account Takeover via Password Reset Poisoning](https://medium.com/@abdulparkar/cloud-flare-bypass-leads-to-account-takeover-via-password-reset-poisoning-ba349d784b97?source=rss------bug_bounty_writeup-5)
-- [Easy logic bug that leaks the email for every user](https://medium.com/@banertheinrich/easy-logic-bug-that-leaks-the-email-for-every-user-ef2d9d0cf088?source=rss------bug_bounty_writeup-5)
 - [Who Should Own AI Risk at Your Organization?](https://www.hackerone.com/ai/who-owns-ai-risk)
 - [Securing Our Elections Through Vulnerability Testing and Disclosure](https://www.hackerone.com/public-policy/securing-elections-through-vulnerability-testing)
 - [Bug on ParrotCTF](https://infosecwriteups.com/bug-on-parrotctf-e64424b0d043?source=rss----7b722bfd1b8d---4)
