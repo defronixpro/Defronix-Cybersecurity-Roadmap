@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [My First and easiest Bug i have found](https://aboalezz1.medium.com/my-first-and-easiest-bug-i-have-found-3b7daee5d2f9?source=rss------bug_bounty_writeup-5)
 - [Wahh I got 100$ for submitting A Dos
 Hey Fellow hackers I’m Mr_alexander](https://medium.com/@alexandermr289/wahh-i-got-100-for-submitting-a-dos-hey-fellow-hackers-im-mr-alexander-b7df6d5b1dfa?source=rss------bug_bounty_writeup-5)
 - [Critical Security Findings at the University of Cambridge: A Methodology for Detecting Exposed…](https://infosecwriteups.com/critical-security-findings-at-the-university-of-cambridge-a-methodology-for-detecting-exposed-02df63976710?source=rss------bug_bounty_writeup-5)
@@ -11,7 +12,6 @@ Hey Fellow hackers I’m Mr_alexander](https://medium.com/@alexandermr289/wahh-i
 - [SIP OPTIONS Abuse And Flood Vulnerability &lpar;exploit Voip&rpar;](https://medium.com/@zpx15266/sip-options-abuse-and-flood-vulnerability-exploit-voip-b9bc030909ae?source=rss------bug_bounty_writeup-5)
 - [How I Got Paid for an Out-of-Scope Vulnerability $$$](https://medium.com/@abdulparkar/how-i-got-paid-for-an-out-of-scope-vulnerability-4e51eb93db5c?source=rss------bug_bounty_writeup-5)
 - [Essential Bug Hunting Tools for Beginners: Start Your Journey in Cybersecurity](https://myselfakash20.medium.com/essential-bug-hunting-tools-for-beginners-start-your-journey-in-cybersecurity-ea51e1f26068?source=rss------bug_bounty_writeup-5)
-- [How I Found HTML Injection?](https://medium.com/@gitlime71/how-i-found-html-injection-bdbbf2861d95?source=rss------bug_bounty_writeup-5)
 - [Who Should Own AI Risk at Your Organization?](https://www.hackerone.com/ai/who-owns-ai-risk)
 - [Securing Our Elections Through Vulnerability Testing and Disclosure](https://www.hackerone.com/public-policy/securing-elections-through-vulnerability-testing)
 - [Bug on ParrotCTF](https://infosecwriteups.com/bug-on-parrotctf-e64424b0d043?source=rss----7b722bfd1b8d---4)
