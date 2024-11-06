@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Bypassing Promo Code Validation via Response Manipulation Enabled the Creation of a Business…](https://anas0x1.medium.com/bypassing-promo-code-validation-via-response-manipulation-enabled-the-creation-of-a-business-3f926b19c0bb?source=rss------bug_bounty_writeup-5)
+- [IDOR Vulnerability Allowed the Deletion of Any User from an Administrator Account.](https://anas0x1.medium.com/idor-vulnerability-allowed-the-deletion-of-any-user-from-an-administrator-account-da64e79ce1b0?source=rss------bug_bounty_writeup-5)
 - [An IDOR and Auth Bypass That Led to Mass Account Takeover — KSFE](https://1-day.medium.com/an-idor-and-auth-bypass-that-led-to-mass-account-takeover-ksfe-db04cec8d730?source=rss------bug_bounty_writeup-5)
 - [How an Improper Access Control Vulnerability Led to Account Theft in One Click](https://www.hackerone.com/vulnerability-management/improper-access-control-deep-dive)
 - [My First and easiest Bug i have found](https://aboalezz1.medium.com/my-first-and-easiest-bug-i-have-found-3b7daee5d2f9?source=rss------bug_bounty_writeup-5)
@@ -933,8 +935,6 @@ Hey Fellow hackers I’m Mr_alexander](https://medium.com/@alexandermr289/wahh-i
 - [How I Earned $350 Exploiting Clickjacking Vulnerability to Trigger XSS Attack](https://medium.com/@abdulparkar/how-i-earned-350-exploiting-clickjacking-vulnerability-to-trigger-xss-attack-23b3216ca640?source=rss------bug_bounty_writeup-5)
 - [How I found my first bug!](https://medium.com/@karim.engmohamed/how-i-found-my-first-bug-b1f21046deb7?source=rss------bug_bounty_writeup-5)
 - [How an Information Disclosure Vulnerability Led to Critical Data Exposure](https://www.hackerone.com/vulnerability-management/information-disclosure-deep-dive)
-- [SIP OPTIONS Abuse And Flood Vulnerability &lpar;exploit Voip&rpar;](https://medium.com/@zpx15266/sip-options-abuse-and-flood-vulnerability-exploit-voip-b9bc030909ae?source=rss------bug_bounty_writeup-5)
-- [How I Got Paid for an Out-of-Scope Vulnerability $$$](https://medium.com/@abdulparkar/how-i-got-paid-for-an-out-of-scope-vulnerability-4e51eb93db5c?source=rss------bug_bounty_writeup-5)
 - [How a Cross-Site Scripting Vulnerability Led to Account Takeover](https://www.hackerone.com/vulnerability-management/xss-deep-dive)
 - [Who Should Own AI Risk at Your Organization?](https://www.hackerone.com/ai/who-owns-ai-risk)
 - [Securing Our Elections Through Vulnerability Testing and Disclosure](https://www.hackerone.com/public-policy/securing-elections-through-vulnerability-testing)
