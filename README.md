@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Wahh I got 100$ for submitting A Dos
+Hey Fellow hackers I’m Mr_alexander](https://medium.com/@alexandermr289/wahh-i-got-100-for-submitting-a-dos-hey-fellow-hackers-im-mr-alexander-b7df6d5b1dfa?source=rss------bug_bounty_writeup-5)
 - [Critical Security Findings at the University of Cambridge: A Methodology for Detecting Exposed…](https://infosecwriteups.com/critical-security-findings-at-the-university-of-cambridge-a-methodology-for-detecting-exposed-02df63976710?source=rss------bug_bounty_writeup-5)
 - [JSLeakRecon: The Ultimate Tool for Detecting Potential Leaks in JavaScript Files](https://systemweakness.com/jsleakrecon-the-ultimate-tool-for-detecting-potential-leaks-in-javascript-files-31b146bba2e2?source=rss------bug_bounty_writeup-5)
 - [A Step-by-Step Guide to the Bug Hunting Process: From Reconnaissance to Reporting](https://myselfakash20.medium.com/a-step-by-step-guide-to-the-bug-hunting-process-from-reconnaissance-to-reporting-9991b06314b8?source=rss------bug_bounty_writeup-5)
@@ -931,7 +933,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How I Got Paid for an Out-of-Scope Vulnerability $$$](https://medium.com/@abdulparkar/how-i-got-paid-for-an-out-of-scope-vulnerability-4e51eb93db5c?source=rss------bug_bounty_writeup-5)
 - [Essential Bug Hunting Tools for Beginners: Start Your Journey in Cybersecurity](https://myselfakash20.medium.com/essential-bug-hunting-tools-for-beginners-start-your-journey-in-cybersecurity-ea51e1f26068?source=rss------bug_bounty_writeup-5)
 - [How I Found HTML Injection?](https://medium.com/@gitlime71/how-i-found-html-injection-bdbbf2861d95?source=rss------bug_bounty_writeup-5)
-- [The OAuth Oversight: When Configuration Errors Turn into Account Hijacks](https://medium.com/@ProwlSec/the-oauth-oversight-when-configuration-errors-turn-into-account-hijacks-5ed1f9c83d16?source=rss------bug_bounty_writeup-5)
 - [Who Should Own AI Risk at Your Organization?](https://www.hackerone.com/ai/who-owns-ai-risk)
 - [Securing Our Elections Through Vulnerability Testing and Disclosure](https://www.hackerone.com/public-policy/securing-elections-through-vulnerability-testing)
 - [Bug on ParrotCTF](https://infosecwriteups.com/bug-on-parrotctf-e64424b0d043?source=rss----7b722bfd1b8d---4)
