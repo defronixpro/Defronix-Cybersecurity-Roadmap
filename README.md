@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [An IDOR and Auth Bypass That Led to Mass Account Takeover — KSFE](https://1-day.medium.com/an-idor-and-auth-bypass-that-led-to-mass-account-takeover-ksfe-db04cec8d730?source=rss------bug_bounty_writeup-5)
+- [How an Improper Access Control Vulnerability Led to Account Theft in One Click](https://www.hackerone.com/vulnerability-management/improper-access-control-deep-dive)
 - [My First and easiest Bug i have found](https://aboalezz1.medium.com/my-first-and-easiest-bug-i-have-found-3b7daee5d2f9?source=rss------bug_bounty_writeup-5)
 - [Wahh I got 100$ for submitting A Dos
 Hey Fellow hackers I’m Mr_alexander](https://medium.com/@alexandermr289/wahh-i-got-100-for-submitting-a-dos-hey-fellow-hackers-im-mr-alexander-b7df6d5b1dfa?source=rss------bug_bounty_writeup-5)
@@ -930,9 +932,10 @@ Hey Fellow hackers I’m Mr_alexander](https://medium.com/@alexandermr289/wahh-i
 - [A Step-by-Step Guide to the Bug Hunting Process: From Reconnaissance to Reporting](https://myselfakash20.medium.com/a-step-by-step-guide-to-the-bug-hunting-process-from-reconnaissance-to-reporting-9991b06314b8?source=rss------bug_bounty_writeup-5)
 - [How I Earned $350 Exploiting Clickjacking Vulnerability to Trigger XSS Attack](https://medium.com/@abdulparkar/how-i-earned-350-exploiting-clickjacking-vulnerability-to-trigger-xss-attack-23b3216ca640?source=rss------bug_bounty_writeup-5)
 - [How I found my first bug!](https://medium.com/@karim.engmohamed/how-i-found-my-first-bug-b1f21046deb7?source=rss------bug_bounty_writeup-5)
+- [How an Information Disclosure Vulnerability Led to Critical Data Exposure](https://www.hackerone.com/vulnerability-management/information-disclosure-deep-dive)
 - [SIP OPTIONS Abuse And Flood Vulnerability &lpar;exploit Voip&rpar;](https://medium.com/@zpx15266/sip-options-abuse-and-flood-vulnerability-exploit-voip-b9bc030909ae?source=rss------bug_bounty_writeup-5)
 - [How I Got Paid for an Out-of-Scope Vulnerability $$$](https://medium.com/@abdulparkar/how-i-got-paid-for-an-out-of-scope-vulnerability-4e51eb93db5c?source=rss------bug_bounty_writeup-5)
-- [Essential Bug Hunting Tools for Beginners: Start Your Journey in Cybersecurity](https://myselfakash20.medium.com/essential-bug-hunting-tools-for-beginners-start-your-journey-in-cybersecurity-ea51e1f26068?source=rss------bug_bounty_writeup-5)
+- [How a Cross-Site Scripting Vulnerability Led to Account Takeover](https://www.hackerone.com/vulnerability-management/xss-deep-dive)
 - [Who Should Own AI Risk at Your Organization?](https://www.hackerone.com/ai/who-owns-ai-risk)
 - [Securing Our Elections Through Vulnerability Testing and Disclosure](https://www.hackerone.com/public-policy/securing-elections-through-vulnerability-testing)
 - [Bug on ParrotCTF](https://infosecwriteups.com/bug-on-parrotctf-e64424b0d043?source=rss----7b722bfd1b8d---4)
@@ -970,9 +973,6 @@ Hey Fellow hackers I’m Mr_alexander](https://medium.com/@alexandermr289/wahh-i
 - [Crushing FUD: Embracing Ethical Hackers to Strengthen Cybersecurity](https://www.hackerone.com/vulnerability-management/crushing-fud)
 - [HackerOne’s Commitment to Learning and Development](https://www.hackerone.com/culture-and-talent/hackerones-commitment-learning-and-development)
 - [Pentesting for iOS Mobile Applications](https://www.hackerone.com/penetration-testing/ios-mobile-applications)
-- [How Hai Facilitates Clear and Effective Communication](https://www.hackerone.com/ai/hai-facilitates-effective-communication)
-- [100 Hacking Tools and Resources](https://www.hackerone.com/ethical-hacker/100-hacking-tools-and-resources)
-- [Retail Under Attack: 6 Learnings from a Retail Customer](https://www.hackerone.com/customer-stories/retail-under-attack)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
