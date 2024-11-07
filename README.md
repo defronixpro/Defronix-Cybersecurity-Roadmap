@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [No Rate Limiting — Bug](https://medium.com/@Jitheshjithu/no-rate-limiting-bug-7107cfc5d175?source=rss------bug_bounty_writeup-5)
 - [Bypass Rich Text Editors lead to Stored XSS - $500 Rewards](https://medium.com/@bugbounty_learners/bypass-rich-text-editors-lead-to-stored-xss-500-rewards-077e22eba20f?source=rss------bug_bounty_writeup-5)
 - [Google Dorking in Bug Hunting: Uncovering Hidden Vulnerabilities](https://myselfakash20.medium.com/google-dorking-in-bug-hunting-uncovering-hidden-vulnerabilities-aebe773f73be?source=rss------bug_bounty_writeup-5)
 - [Unlocking Engagement with Employee Feedback](https://www.hackerone.com/culture-and-talent/unlocking-engagement-employee-feedback)
@@ -934,9 +935,9 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Wahh I got 100$ for submitting A Dos
 Hey Fellow hackers I’m Mr_alexander](https://medium.com/@alexandermr289/wahh-i-got-100-for-submitting-a-dos-hey-fellow-hackers-im-mr-alexander-b7df6d5b1dfa?source=rss------bug_bounty_writeup-5)
 - [Critical Security Findings at the University of Cambridge: A Methodology for Detecting Exposed…](https://infosecwriteups.com/critical-security-findings-at-the-university-of-cambridge-a-methodology-for-detecting-exposed-02df63976710?source=rss------bug_bounty_writeup-5)
-- [JSLeakRecon: The Ultimate Tool for Detecting Potential Leaks in JavaScript Files](https://systemweakness.com/jsleakrecon-the-ultimate-tool-for-detecting-potential-leaks-in-javascript-files-31b146bba2e2?source=rss------bug_bounty_writeup-5)
 - [How an Information Disclosure Vulnerability Led to Critical Data Exposure](https://www.hackerone.com/vulnerability-management/information-disclosure-deep-dive)
 - [How a Cross-Site Scripting Vulnerability Led to Account Takeover](https://www.hackerone.com/vulnerability-management/xss-deep-dive)
+- [How a Business Logic Vulnerability Led to Unlimited Discount Redemption](https://www.hackerone.com/vulnerability-management/stripe-business-logic-error-bug)
 - [Who Should Own AI Risk at Your Organization?](https://www.hackerone.com/ai/who-owns-ai-risk)
 - [Securing Our Elections Through Vulnerability Testing and Disclosure](https://www.hackerone.com/public-policy/securing-elections-through-vulnerability-testing)
 - [Bug on ParrotCTF](https://infosecwriteups.com/bug-on-parrotctf-e64424b0d043?source=rss----7b722bfd1b8d---4)
@@ -972,7 +973,6 @@ Hey Fellow hackers I’m Mr_alexander](https://medium.com/@alexandermr289/wahh-i
 - [From Prospect to Partner: Jon Stone Shares HackerOne Career Story](https://www.hackerone.com/culture-and-talent/prospect-partner-jon-stone-shares-hackerone-career-story)
 - [Quantifying the Value of Bug Bounty Programs: ROI, ROM, or Both?](https://www.hackerone.com/vulnerability-management/quantifying-value-bug-bounty-programs-roi-rom-or-both)
 - [Crushing FUD: Embracing Ethical Hackers to Strengthen Cybersecurity](https://www.hackerone.com/vulnerability-management/crushing-fud)
-- [HackerOne’s Commitment to Learning and Development](https://www.hackerone.com/culture-and-talent/hackerones-commitment-learning-and-development)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
