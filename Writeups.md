@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Google Dorking in Bug Hunting: Uncovering Hidden Vulnerabilities](https://myselfakash20.medium.com/google-dorking-in-bug-hunting-uncovering-hidden-vulnerabilities-aebe773f73be?source=rss------bug_bounty_writeup-5)
 - [Unlocking Engagement with Employee Feedback](https://www.hackerone.com/culture-and-talent/unlocking-engagement-employee-feedback)
 - [Behind the Scenes: How I Hacked one of the largest Amusement Park in the Philippines.](https://medium.com/hacking101/behind-the-scenes-how-i-hacked-one-of-the-largest-amusement-park-in-the-philippines-be38566ed563?source=rss------bug_bounty_writeup-5)
 - [Bypassing Promo Code Validation via Response Manipulation Enabled the Creation of a Business…](https://anas0x1.medium.com/bypassing-promo-code-validation-via-response-manipulation-enabled-the-creation-of-a-business-3f926b19c0bb?source=rss------bug_bounty_writeup-5)
@@ -13,7 +14,6 @@ Hey Fellow hackers I’m Mr_alexander](https://medium.com/@alexandermr289/wahh-i
 - [Critical Security Findings at the University of Cambridge: A Methodology for Detecting Exposed…](https://infosecwriteups.com/critical-security-findings-at-the-university-of-cambridge-a-methodology-for-detecting-exposed-02df63976710?source=rss------bug_bounty_writeup-5)
 - [JSLeakRecon: The Ultimate Tool for Detecting Potential Leaks in JavaScript Files](https://systemweakness.com/jsleakrecon-the-ultimate-tool-for-detecting-potential-leaks-in-javascript-files-31b146bba2e2?source=rss------bug_bounty_writeup-5)
 - [A Step-by-Step Guide to the Bug Hunting Process: From Reconnaissance to Reporting](https://myselfakash20.medium.com/a-step-by-step-guide-to-the-bug-hunting-process-from-reconnaissance-to-reporting-9991b06314b8?source=rss------bug_bounty_writeup-5)
-- [How I Earned $350 Exploiting Clickjacking Vulnerability to Trigger XSS Attack](https://medium.com/@abdulparkar/how-i-earned-350-exploiting-clickjacking-vulnerability-to-trigger-xss-attack-23b3216ca640?source=rss------bug_bounty_writeup-5)
 - [How an Information Disclosure Vulnerability Led to Critical Data Exposure](https://www.hackerone.com/vulnerability-management/information-disclosure-deep-dive)
 - [How a Cross-Site Scripting Vulnerability Led to Account Takeover](https://www.hackerone.com/vulnerability-management/xss-deep-dive)
 - [Who Should Own AI Risk at Your Organization?](https://www.hackerone.com/ai/who-owns-ai-risk)
