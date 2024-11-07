@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How To Automate Your Broad Scope Recon](https://thexssrat.medium.com/how-to-automate-your-broad-scope-recon-a4ff998dea0e?source=rss------bug_bounty_writeup-5)
 - [Exposing hidden DOS techniques laying in plain sight.](https://medium.com/@omarahmed_13016/exposing-hidden-dos-techniques-laying-in-plain-sight-29965ab1d53b?source=rss------bug_bounty_writeup-5)
 - [No Rate Limiting — Bug](https://medium.com/@Jitheshjithu/no-rate-limiting-bug-7107cfc5d175?source=rss------bug_bounty_writeup-5)
 - [Bypass Rich Text Editors lead to Stored XSS - $500 Rewards](https://medium.com/@bugbounty_learners/bypass-rich-text-editors-lead-to-stored-xss-500-rewards-077e22eba20f?source=rss------bug_bounty_writeup-5)
@@ -933,8 +934,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [An IDOR and Auth Bypass That Led to Mass Account Takeover — KSFE](https://1-day.medium.com/an-idor-and-auth-bypass-that-led-to-mass-account-takeover-ksfe-db04cec8d730?source=rss------bug_bounty_writeup-5)
 - [How an Improper Access Control Vulnerability Led to Account Theft in One Click](https://www.hackerone.com/vulnerability-management/improper-access-control-deep-dive)
 - [My First and easiest Bug i have found](https://aboalezz1.medium.com/my-first-and-easiest-bug-i-have-found-3b7daee5d2f9?source=rss------bug_bounty_writeup-5)
-- [Wahh I got 100$ for submitting A Dos
-Hey Fellow hackers I’m Mr_alexander](https://medium.com/@alexandermr289/wahh-i-got-100-for-submitting-a-dos-hey-fellow-hackers-im-mr-alexander-b7df6d5b1dfa?source=rss------bug_bounty_writeup-5)
 - [How an Information Disclosure Vulnerability Led to Critical Data Exposure](https://www.hackerone.com/vulnerability-management/information-disclosure-deep-dive)
 - [How a Cross-Site Scripting Vulnerability Led to Account Takeover](https://www.hackerone.com/vulnerability-management/xss-deep-dive)
 - [How a Business Logic Vulnerability Led to Unlimited Discount Redemption](https://www.hackerone.com/vulnerability-management/stripe-business-logic-error-bug)
