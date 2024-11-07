@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Unlocking Engagement with Employee Feedback](https://www.hackerone.com/culture-and-talent/unlocking-engagement-employee-feedback)
 - [Behind the Scenes: How I Hacked one of the largest Amusement Park in the Philippines.](https://medium.com/hacking101/behind-the-scenes-how-i-hacked-one-of-the-largest-amusement-park-in-the-philippines-be38566ed563?source=rss------bug_bounty_writeup-5)
 - [Bypassing Promo Code Validation via Response Manipulation Enabled the Creation of a Business…](https://anas0x1.medium.com/bypassing-promo-code-validation-via-response-manipulation-enabled-the-creation-of-a-business-3f926b19c0bb?source=rss------bug_bounty_writeup-5)
 - [IDOR Vulnerability Allowed the Deletion of Any User from an Administrator Account.](https://anas0x1.medium.com/idor-vulnerability-allowed-the-deletion-of-any-user-from-an-administrator-account-da64e79ce1b0?source=rss------bug_bounty_writeup-5)
@@ -972,7 +973,6 @@ Hey Fellow hackers I’m Mr_alexander](https://medium.com/@alexandermr289/wahh-i
 - [Quantifying the Value of Bug Bounty Programs: ROI, ROM, or Both?](https://www.hackerone.com/vulnerability-management/quantifying-value-bug-bounty-programs-roi-rom-or-both)
 - [Crushing FUD: Embracing Ethical Hackers to Strengthen Cybersecurity](https://www.hackerone.com/vulnerability-management/crushing-fud)
 - [HackerOne’s Commitment to Learning and Development](https://www.hackerone.com/culture-and-talent/hackerones-commitment-learning-and-development)
-- [Pentesting for iOS Mobile Applications](https://www.hackerone.com/penetration-testing/ios-mobile-applications)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
