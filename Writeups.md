@@ -5,7 +5,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How To Automate Your Broad Scope Recon](https://thexssrat.medium.com/how-to-automate-your-broad-scope-recon-a4ff998dea0e?source=rss------bug_bounty_writeup-5)
 - [Exposing hidden DOS techniques laying in plain sight.](https://medium.com/@omarahmed_13016/exposing-hidden-dos-techniques-laying-in-plain-sight-29965ab1d53b?source=rss------bug_bounty_writeup-5)
 - [No Rate Limiting — Bug](https://medium.com/@Jitheshjithu/no-rate-limiting-bug-7107cfc5d175?source=rss------bug_bounty_writeup-5)
-- [Bypass Rich Text Editors lead to Stored XSS - $500 Rewards](https://medium.com/@bugbounty_learners/bypass-rich-text-editors-lead-to-stored-xss-500-rewards-077e22eba20f?source=rss------bug_bounty_writeup-5)
+- [XSS Restction bypass lead Stored HackerOne Program — $500](https://medium.com/@bugbounty_learners/bypass-rich-text-editors-lead-to-stored-xss-500-rewards-077e22eba20f?source=rss------bug_bounty_writeup-5)
 - [Google Dorking in Bug Hunting: Uncovering Hidden Vulnerabilities](https://myselfakash20.medium.com/google-dorking-in-bug-hunting-uncovering-hidden-vulnerabilities-aebe773f73be?source=rss------bug_bounty_writeup-5)
 - [Unlocking Engagement with Employee Feedback](https://www.hackerone.com/culture-and-talent/unlocking-engagement-employee-feedback)
 - [Behind the Scenes: How I Hacked one of the largest Amusement Park in the Philippines.](https://medium.com/hacking101/behind-the-scenes-how-i-hacked-one-of-the-largest-amusement-park-in-the-philippines-be38566ed563?source=rss------bug_bounty_writeup-5)
