@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Building a Virtual Ethical Hacking Home Lab — Part 2: Lab Topology](https://infosecwriteups.com/building-a-virtual-ethical-hacking-home-lab-part-2-lab-topology-d38e13fe7bd3?source=rss----7b722bfd1b8d---4)
 - [Why is recon so very important? API key exposure by only recon](https://medium.com/@karim.engmohamed/why-is-recon-so-very-important-api-key-exposure-by-only-recon-f8aff4ab1ac3?source=rss------bug_bounty_writeup-5)
 - [How To Automate Your Broad Scope Recon](https://thexssrat.medium.com/how-to-automate-your-broad-scope-recon-a4ff998dea0e?source=rss------bug_bounty_writeup-5)
 - [Exposing hidden DOS techniques laying in plain sight.](https://medium.com/@omarahmed_13016/exposing-hidden-dos-techniques-laying-in-plain-sight-29965ab1d53b?source=rss------bug_bounty_writeup-5)
@@ -948,7 +949,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [HTB | Cascade — Reverse Engineering - DnSpy and AD Recycle](https://infosecwriteups.com/htb-cascade-reverse-engineering-dnspy-and-ad-recycle-ecd045caca7d?source=rss----7b722bfd1b8d---4)
 - [Electron JS Application Penetration Testing](https://infosecwriteups.com/electron-js-application-penetration-testing-b0809af324f6?source=rss----7b722bfd1b8d---4)
 - [Basics of PowerShell 2024–2025: My Take on Learning It the Fun Way](https://infosecwriteups.com/basics-of-powershell-2024-2025-my-take-on-learning-it-the-fun-way-6566c908a8fb?source=rss----7b722bfd1b8d---4)
-- [Demystifying OSINT](https://infosecwriteups.com/demystifying-osint-e1c287b17e0c?source=rss----7b722bfd1b8d---4)
 - [Measure, Compare, and Enhance Security Programs with HackerOne Benchmarks](https://www.hackerone.com/vulnerability-management/hackerone-benchmarks)
 - [AWS Security Configuration Review and Best Practices](https://www.hackerone.com/penetration-testing/aws-security-configuration)
 - [OWASP Top 10: The Risk of Cryptographic Failures](https://www.hackerone.com/vulnerability-management/cryptographic-failures)
