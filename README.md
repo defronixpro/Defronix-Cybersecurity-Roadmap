@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Breaking into ‘Instant’: A Step-by-Step Guide to Capturing User and Root Flags](https://medium.com/@vignesh6872610/breaking-into-instant-a-step-by-step-guide-to-capturing-user-and-root-flags-5cd095a2e209?source=rss------bug_bounty_writeup-5)
 - [Username restrictions bypass on Hackerone program](https://medium.com/@bugbounty_learners/username-restrictions-bypass-on-hackerone-program-61f4c8ff8b44?source=rss------bug_bounty_writeup-5)
 - [“Hack Smarter, Not Harder: Google Dorks for Fast Bug Hunting and Recon”](https://myselfakash20.medium.com/hack-smarter-not-harder-google-dorks-for-fast-bug-hunting-and-recon-3029a4004cfd?source=rss------bug_bounty_writeup-5)
 - [Building a Virtual Ethical Hacking Home Lab — Part 2: Lab Topology](https://infosecwriteups.com/building-a-virtual-ethical-hacking-home-lab-part-2-lab-topology-d38e13fe7bd3?source=rss----7b722bfd1b8d---4)
@@ -933,7 +934,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Google Dorking in Bug Hunting: Uncovering Hidden Vulnerabilities](https://myselfakash20.medium.com/google-dorking-in-bug-hunting-uncovering-hidden-vulnerabilities-aebe773f73be?source=rss------bug_bounty_writeup-5)
 - [Unlocking Engagement with Employee Feedback](https://www.hackerone.com/culture-and-talent/unlocking-engagement-employee-feedback)
 - [Behind the Scenes: How I Hacked one of the largest Amusement Park in the Philippines.](https://medium.com/hacking101/behind-the-scenes-how-i-hacked-one-of-the-largest-amusement-park-in-the-philippines-be38566ed563?source=rss------bug_bounty_writeup-5)
-- [Bypassing Promo Code Validation via Response Manipulation Enabled the Creation of a Business…](https://anas0x1.medium.com/bypassing-promo-code-validation-via-response-manipulation-enabled-the-creation-of-a-business-3f926b19c0bb?source=rss------bug_bounty_writeup-5)
 - [How an Improper Access Control Vulnerability Led to Account Theft in One Click](https://www.hackerone.com/vulnerability-management/improper-access-control-deep-dive)
 - [How an Information Disclosure Vulnerability Led to Critical Data Exposure](https://www.hackerone.com/vulnerability-management/information-disclosure-deep-dive)
 - [How a Cross-Site Scripting Vulnerability Led to Account Takeover](https://www.hackerone.com/vulnerability-management/xss-deep-dive)
@@ -947,8 +947,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Common web application threats &amp; risk](https://infosecwriteups.com/common-web-application-threats-risk-8d54b6a23acb?source=rss----7b722bfd1b8d---4)
 - [DLL hijacking in TOTOLINK A600UB Driver Installer](https://infosecwriteups.com/dll-hijacking-in-totolink-a600ub-driver-installer-13787c4d97b4?source=rss----7b722bfd1b8d---4)
 - [HTB | Cascade — Reverse Engineering - DnSpy and AD Recycle](https://infosecwriteups.com/htb-cascade-reverse-engineering-dnspy-and-ad-recycle-ecd045caca7d?source=rss----7b722bfd1b8d---4)
-- [Electron JS Application Penetration Testing](https://infosecwriteups.com/electron-js-application-penetration-testing-b0809af324f6?source=rss----7b722bfd1b8d---4)
 - [Basics of PowerShell 2024–2025: My Take on Learning It the Fun Way](https://infosecwriteups.com/basics-of-powershell-2024-2025-my-take-on-learning-it-the-fun-way-6566c908a8fb?source=rss----7b722bfd1b8d---4)
+- [Demystifying OSINT](https://infosecwriteups.com/demystifying-osint-e1c287b17e0c?source=rss----7b722bfd1b8d---4)
 - [Measure, Compare, and Enhance Security Programs with HackerOne Benchmarks](https://www.hackerone.com/vulnerability-management/hackerone-benchmarks)
 - [AWS Security Configuration Review and Best Practices](https://www.hackerone.com/penetration-testing/aws-security-configuration)
 - [OWASP Top 10: The Risk of Cryptographic Failures](https://www.hackerone.com/vulnerability-management/cryptographic-failures)
