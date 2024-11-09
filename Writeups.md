@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Breaking into ‘Instant’: A Step-by-Step Guide to Capturing User and Root Flags](https://medium.com/@vignesh6872610/breaking-into-instant-a-step-by-step-guide-to-capturing-user-and-root-flags-5cd095a2e209?source=rss------bug_bounty_writeup-5)
 - [Username restrictions bypass on Hackerone program](https://medium.com/@bugbounty_learners/username-restrictions-bypass-on-hackerone-program-61f4c8ff8b44?source=rss------bug_bounty_writeup-5)
 - [“Hack Smarter, Not Harder: Google Dorks for Fast Bug Hunting and Recon”](https://myselfakash20.medium.com/hack-smarter-not-harder-google-dorks-for-fast-bug-hunting-and-recon-3029a4004cfd?source=rss------bug_bounty_writeup-5)
 - [Building a Virtual Ethical Hacking Home Lab — Part 2: Lab Topology](https://infosecwriteups.com/building-a-virtual-ethical-hacking-home-lab-part-2-lab-topology-d38e13fe7bd3?source=rss----7b722bfd1b8d---4)
@@ -12,7 +13,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Google Dorking in Bug Hunting: Uncovering Hidden Vulnerabilities](https://myselfakash20.medium.com/google-dorking-in-bug-hunting-uncovering-hidden-vulnerabilities-aebe773f73be?source=rss------bug_bounty_writeup-5)
 - [Unlocking Engagement with Employee Feedback](https://www.hackerone.com/culture-and-talent/unlocking-engagement-employee-feedback)
 - [Behind the Scenes: How I Hacked one of the largest Amusement Park in the Philippines.](https://medium.com/hacking101/behind-the-scenes-how-i-hacked-one-of-the-largest-amusement-park-in-the-philippines-be38566ed563?source=rss------bug_bounty_writeup-5)
-- [Bypassing Promo Code Validation via Response Manipulation Enabled the Creation of a Business…](https://anas0x1.medium.com/bypassing-promo-code-validation-via-response-manipulation-enabled-the-creation-of-a-business-3f926b19c0bb?source=rss------bug_bounty_writeup-5)
 - [How an Improper Access Control Vulnerability Led to Account Theft in One Click](https://www.hackerone.com/vulnerability-management/improper-access-control-deep-dive)
 - [How an Information Disclosure Vulnerability Led to Critical Data Exposure](https://www.hackerone.com/vulnerability-management/information-disclosure-deep-dive)
 - [How a Cross-Site Scripting Vulnerability Led to Account Takeover](https://www.hackerone.com/vulnerability-management/xss-deep-dive)
