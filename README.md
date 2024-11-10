@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I able to inject my malicious link in Email Confirmation Link &lpar; Link Injection / Open Redirect…](https://infosecwriteups.com/how-i-able-to-inject-my-malicious-link-in-email-confirmation-link-link-injection-open-redirect-dbf95075f89c?source=rss------bug_bounty_writeup-5)
+- [Mastering Reconnaissance: The Ultimate Guide for Bug Hunters &lpar;Part 1&rpar;](https://myselfakash20.medium.com/mastering-reconnaissance-the-ultimate-guide-for-bug-hunters-part-1-b91a2367ee65?source=rss------bug_bounty_writeup-5)
 - [Broken Authentication: Full Methodology for Identifying and Exploiting Vulnerabilities](https://dineshpathro9.medium.com/broken-authentication-full-methodology-for-identifying-and-exploiting-vulnerabilities-63a55c3d4399?source=rss------bug_bounty_writeup-5)
 - [Breaking into ‘Instant’: A Step-by-Step Guide to Capturing User and Root Flags](https://medium.com/@vignesh6872610/breaking-into-instant-a-step-by-step-guide-to-capturing-user-and-root-flags-5cd095a2e209?source=rss------bug_bounty_writeup-5)
 - [Username restrictions bypass on Hackerone program](https://medium.com/@bugbounty_learners/username-restrictions-bypass-on-hackerone-program-61f4c8ff8b44?source=rss------bug_bounty_writeup-5)
@@ -931,8 +933,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Why is recon so very important? API key exposure by only recon](https://medium.com/@karim.engmohamed/why-is-recon-so-very-important-api-key-exposure-by-only-recon-f8aff4ab1ac3?source=rss------bug_bounty_writeup-5)
 - [How To Automate Your Broad Scope Recon](https://thexssrat.medium.com/how-to-automate-your-broad-scope-recon-a4ff998dea0e?source=rss------bug_bounty_writeup-5)
 - [Exposing hidden DOS techniques laying in plain sight.](https://medium.com/@omarahmed_13016/exposing-hidden-dos-techniques-laying-in-plain-sight-29965ab1d53b?source=rss------bug_bounty_writeup-5)
-- [No Rate Limiting — Bug](https://medium.com/@Jitheshjithu/no-rate-limiting-bug-7107cfc5d175?source=rss------bug_bounty_writeup-5)
-- [XSS Restction bypass lead Stored HackerOne Program — $500](https://medium.com/@bugbounty_learners/bypass-rich-text-editors-lead-to-stored-xss-500-rewards-077e22eba20f?source=rss------bug_bounty_writeup-5)
 - [Unlocking Engagement with Employee Feedback](https://www.hackerone.com/culture-and-talent/unlocking-engagement-employee-feedback)
 - [How an Improper Access Control Vulnerability Led to Account Theft in One Click](https://www.hackerone.com/vulnerability-management/improper-access-control-deep-dive)
 - [How an Information Disclosure Vulnerability Led to Critical Data Exposure](https://www.hackerone.com/vulnerability-management/information-disclosure-deep-dive)
