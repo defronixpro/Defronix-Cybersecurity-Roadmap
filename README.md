@@ -922,7 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [How I able to inject my malicious link in Email Confirmation Link &lpar; Link Injection / Open Redirect…](https://infosecwriteups.com/how-i-able-to-inject-my-malicious-link-in-email-confirmation-link-link-injection-open-redirect-dbf95075f89c?source=rss------bug_bounty_writeup-5)
+- [How I was able to inject my malicious link in Email Confirmation Link &lpar; Link Injection / Open…](https://infosecwriteups.com/how-i-able-to-inject-my-malicious-link-in-email-confirmation-link-link-injection-open-redirect-dbf95075f89c?source=rss------bug_bounty_writeup-5)
 - [Mastering Reconnaissance: The Ultimate Guide for Bug Hunters &lpar;Part 1&rpar;](https://myselfakash20.medium.com/mastering-reconnaissance-the-ultimate-guide-for-bug-hunters-part-1-b91a2367ee65?source=rss------bug_bounty_writeup-5)
 - [Broken Authentication: Full Methodology for Identifying and Exploiting Vulnerabilities](https://dineshpathro9.medium.com/broken-authentication-full-methodology-for-identifying-and-exploiting-vulnerabilities-63a55c3d4399?source=rss------bug_bounty_writeup-5)
 - [Breaking into ‘Instant’: A Step-by-Step Guide to Capturing User and Root Flags](https://medium.com/@vignesh6872610/breaking-into-instant-a-step-by-step-guide-to-capturing-user-and-root-flags-5cd095a2e209?source=rss------bug_bounty_writeup-5)
