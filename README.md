@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [CRLF Injection Zero to Master](https://medium.com/@bugbounty_learners/crlf-injection-zero-to-master-17a93afc33a3?source=rss------bug_bounty_writeup-5)
 - [Week 1: Documenting My Journey as a Full-Time Bug Hunter](https://mokhansec.medium.com/week-1-documenting-my-journey-as-a-full-time-bug-hunter-fbe1bbefeb79?source=rss------bug_bounty_writeup-5)
 - [How I was able to inject malicious link in Email Confirmation Link &lpar; Link Injection / Open…](https://cybersecuritywriteups.com/how-i-able-to-inject-my-malicious-link-in-email-confirmation-link-link-injection-open-redirect-dbf95075f89c?source=rss------bug_bounty_writeup-5)
 - [Mastering Reconnaissance: The Ultimate Guide for Bug Hunters &lpar;Part 1&rpar;](https://myselfakash20.medium.com/mastering-reconnaissance-the-ultimate-guide-for-bug-hunters-part-1-b91a2367ee65?source=rss------bug_bounty_writeup-5)
@@ -932,7 +933,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Building a Virtual Ethical Hacking Home Lab — Part 2: Lab Topology](https://infosecwriteups.com/building-a-virtual-ethical-hacking-home-lab-part-2-lab-topology-d38e13fe7bd3?source=rss----7b722bfd1b8d---4)
 - [Deactivating any User Account - HackerOne Private Program](https://medium.com/@bugbounty_learners/deactivating-any-user-account-hackerone-private-program-b5aa8b412819?source=rss------bug_bounty_writeup-5)
 - [Why is recon so very important? API key exposure by only recon](https://medium.com/@karim.engmohamed/why-is-recon-so-very-important-api-key-exposure-by-only-recon-f8aff4ab1ac3?source=rss------bug_bounty_writeup-5)
-- [How To Automate Your Broad Scope Recon](https://thexssrat.medium.com/how-to-automate-your-broad-scope-recon-a4ff998dea0e?source=rss------bug_bounty_writeup-5)
 - [Unlocking Engagement with Employee Feedback](https://www.hackerone.com/culture-and-talent/unlocking-engagement-employee-feedback)
 - [How an Improper Access Control Vulnerability Led to Account Theft in One Click](https://www.hackerone.com/vulnerability-management/improper-access-control-deep-dive)
 - [How an Information Disclosure Vulnerability Led to Critical Data Exposure](https://www.hackerone.com/vulnerability-management/information-disclosure-deep-dive)
