@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [#Task 20 - HTTP Request Sumgling — Basics &amp; Types -&gt; Only for Bigners](https://medium.com/@bugbounty_learners/task-1-http-request-sumgling-basics-types-only-for-bigners-2157461dca3e?source=rss------bug_bounty_writeup-5)
 - [How a Unique Combination Opened the Door to an IDOR](https://infosecwriteups.com/how-a-unique-combination-opened-the-door-to-an-idor-f44a3efe51e8?source=rss------bug_bounty_writeup-5)
 - [CRLF Injection Zero to Master](https://medium.com/@bugbounty_learners/crlf-injection-zero-to-master-17a93afc33a3?source=rss------bug_bounty_writeup-5)
 - [Week 1: Documenting My Journey as a Full-Time Bug Hunter](https://mokhansec.medium.com/week-1-documenting-my-journey-as-a-full-time-bug-hunter-fbe1bbefeb79?source=rss------bug_bounty_writeup-5)
@@ -11,7 +12,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Username restrictions bypass on Hackerone program](https://medium.com/@bugbounty_learners/username-restrictions-bypass-on-hackerone-program-61f4c8ff8b44?source=rss------bug_bounty_writeup-5)
 - [“Hack Smarter, Not Harder: Google Dorks for Fast Bug Hunting and Recon”](https://myselfakash20.medium.com/hack-smarter-not-harder-google-dorks-for-fast-bug-hunting-and-recon-3029a4004cfd?source=rss------bug_bounty_writeup-5)
 - [Building a Virtual Ethical Hacking Home Lab — Part 2: Lab Topology](https://infosecwriteups.com/building-a-virtual-ethical-hacking-home-lab-part-2-lab-topology-d38e13fe7bd3?source=rss----7b722bfd1b8d---4)
-- [Delete any User Account - HackerOne Private Program](https://medium.com/@bugbounty_learners/deactivating-any-user-account-hackerone-private-program-b5aa8b412819?source=rss------bug_bounty_writeup-5)
 - [Unlocking Engagement with Employee Feedback](https://www.hackerone.com/culture-and-talent/unlocking-engagement-employee-feedback)
 - [How an Improper Access Control Vulnerability Led to Account Theft in One Click](https://www.hackerone.com/vulnerability-management/improper-access-control-deep-dive)
 - [How an Information Disclosure Vulnerability Led to Critical Data Exposure](https://www.hackerone.com/vulnerability-management/information-disclosure-deep-dive)
