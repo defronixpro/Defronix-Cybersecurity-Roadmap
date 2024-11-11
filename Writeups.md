@@ -11,7 +11,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Username restrictions bypass on Hackerone program](https://medium.com/@bugbounty_learners/username-restrictions-bypass-on-hackerone-program-61f4c8ff8b44?source=rss------bug_bounty_writeup-5)
 - [“Hack Smarter, Not Harder: Google Dorks for Fast Bug Hunting and Recon”](https://myselfakash20.medium.com/hack-smarter-not-harder-google-dorks-for-fast-bug-hunting-and-recon-3029a4004cfd?source=rss------bug_bounty_writeup-5)
 - [Building a Virtual Ethical Hacking Home Lab — Part 2: Lab Topology](https://infosecwriteups.com/building-a-virtual-ethical-hacking-home-lab-part-2-lab-topology-d38e13fe7bd3?source=rss----7b722bfd1b8d---4)
-- [Deactivating any User Account - HackerOne Private Program](https://medium.com/@bugbounty_learners/deactivating-any-user-account-hackerone-private-program-b5aa8b412819?source=rss------bug_bounty_writeup-5)
+- [Delete any User Account - HackerOne Private Program](https://medium.com/@bugbounty_learners/deactivating-any-user-account-hackerone-private-program-b5aa8b412819?source=rss------bug_bounty_writeup-5)
 - [Unlocking Engagement with Employee Feedback](https://www.hackerone.com/culture-and-talent/unlocking-engagement-employee-feedback)
 - [How an Improper Access Control Vulnerability Led to Account Theft in One Click](https://www.hackerone.com/vulnerability-management/improper-access-control-deep-dive)
 - [How an Information Disclosure Vulnerability Led to Critical Data Exposure](https://www.hackerone.com/vulnerability-management/information-disclosure-deep-dive)
