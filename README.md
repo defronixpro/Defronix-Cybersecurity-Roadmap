@@ -931,7 +931,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [CRLF Injection Zero to Master](https://medium.com/@bugbounty_learners/crlf-injection-zero-to-master-17a93afc33a3?source=rss------bug_bounty_writeup-5)
 - [Week 1: Documenting My Journey as a Full-Time Bug Hunter](https://mokhansec.medium.com/week-1-documenting-my-journey-as-a-full-time-bug-hunter-fbe1bbefeb79?source=rss------bug_bounty_writeup-5)
 - [How I was able to inject malicious link in Email Confirmation Link &lpar; Link Injection / Open…](https://cybersecuritywriteups.com/how-i-able-to-inject-my-malicious-link-in-email-confirmation-link-link-injection-open-redirect-dbf95075f89c?source=rss------bug_bounty_writeup-5)
-- [Mastering Reconnaissance: The Ultimate Guide for Bug Hunters &lpar;Part 1&rpar;](https://myselfakash20.medium.com/mastering-reconnaissance-the-ultimate-guide-for-bug-hunters-part-1-b91a2367ee65?source=rss------bug_bounty_writeup-5)
 - [Building a Virtual Ethical Hacking Home Lab — Part 2: Lab Topology](https://infosecwriteups.com/building-a-virtual-ethical-hacking-home-lab-part-2-lab-topology-d38e13fe7bd3?source=rss----7b722bfd1b8d---4)
 - [Unlocking Engagement with Employee Feedback](https://www.hackerone.com/culture-and-talent/unlocking-engagement-employee-feedback)
 - [How an Improper Access Control Vulnerability Led to Account Theft in One Click](https://www.hackerone.com/vulnerability-management/improper-access-control-deep-dive)
@@ -972,6 +971,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [From Prospect to Partner: Jon Stone Shares HackerOne Career Story](https://www.hackerone.com/culture-and-talent/prospect-partner-jon-stone-shares-hackerone-career-story)
 - [Quantifying the Value of Bug Bounty Programs: ROI, ROM, or Both?](https://www.hackerone.com/vulnerability-management/quantifying-value-bug-bounty-programs-roi-rom-or-both)
 - [Crushing FUD: Embracing Ethical Hackers to Strengthen Cybersecurity](https://www.hackerone.com/vulnerability-management/crushing-fud)
+- [HackerOne’s Commitment to Learning and Development](https://www.hackerone.com/culture-and-talent/hackerones-commitment-learning-and-development)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
