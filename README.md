@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Showing Impact is Your friend &lpar;500$+500$ bounties&rpar;](https://medium.com/@noureldin1042/showing-impact-is-your-friend-500-500-bounties-2ed87f3a64b7?source=rss------bug_bounty_writeup-5)
+- [Mastering Reconnaissance Part 2: Advanced Scanning, Content Discovery, and Automation for Bug…](https://myselfakash20.medium.com/mastering-reconnaissance-part-2-advanced-scanning-content-discovery-and-automation-for-bug-8903a7c190a6?source=rss------bug_bounty_writeup-5)
 - [Exposing the Dark Side of Google Dorks: How I Extracted Millions of Emails.](https://pwndecoco.medium.com/exposing-the-dark-side-of-google-dorks-how-i-extracted-millions-of-emails-0fe0f7f6db8b?source=rss------bug_bounty_writeup-5)
 - [Won’t Fix Vulnerabilities in Google Colab](https://0xjin.medium.com/wont-fix-vulnerabilities-in-google-colab-fcd3b6581746?source=rss------bug_bounty_writeup-5)
 - [#Task 20 - HTTP Request Sumgling — Basics &amp; Types -&gt; Only for Bigners](https://medium.com/@bugbounty_learners/task-1-http-request-sumgling-basics-types-only-for-bigners-2157461dca3e?source=rss------bug_bounty_writeup-5)
@@ -930,8 +932,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Week 1: Documenting My Journey as a Full-Time Bug Hunter](https://mokhansec.medium.com/week-1-documenting-my-journey-as-a-full-time-bug-hunter-fbe1bbefeb79?source=rss------bug_bounty_writeup-5)
 - [How I was able to inject malicious link in Email Confirmation Link &lpar; Link Injection / Open…](https://cybersecuritywriteups.com/how-i-able-to-inject-my-malicious-link-in-email-confirmation-link-link-injection-open-redirect-dbf95075f89c?source=rss------bug_bounty_writeup-5)
 - [Mastering Reconnaissance: The Ultimate Guide for Bug Hunters &lpar;Part 1&rpar;](https://myselfakash20.medium.com/mastering-reconnaissance-the-ultimate-guide-for-bug-hunters-part-1-b91a2367ee65?source=rss------bug_bounty_writeup-5)
-- [Broken Authentication: Full Methodology for Identifying and Exploiting Vulnerabilities](https://dineshpathro9.medium.com/broken-authentication-full-methodology-for-identifying-and-exploiting-vulnerabilities-63a55c3d4399?source=rss------bug_bounty_writeup-5)
-- [Breaking into ‘Instant’: A Step-by-Step Guide to Capturing User and Root Flags](https://medium.com/@vignesh6872610/breaking-into-instant-a-step-by-step-guide-to-capturing-user-and-root-flags-5cd095a2e209?source=rss------bug_bounty_writeup-5)
 - [Building a Virtual Ethical Hacking Home Lab — Part 2: Lab Topology](https://infosecwriteups.com/building-a-virtual-ethical-hacking-home-lab-part-2-lab-topology-d38e13fe7bd3?source=rss----7b722bfd1b8d---4)
 - [Unlocking Engagement with Employee Feedback](https://www.hackerone.com/culture-and-talent/unlocking-engagement-employee-feedback)
 - [How an Improper Access Control Vulnerability Led to Account Theft in One Click](https://www.hackerone.com/vulnerability-management/improper-access-control-deep-dive)
