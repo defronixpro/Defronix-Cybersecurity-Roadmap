@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [1500$ Open Reduction Bug: Performed Restricted Actions in login page](https://medium.com/@bugbounty_learners/1500-open-reduction-bug-performed-restricted-actions-in-login-page-4194359c1fc2?source=rss------bug_bounty_writeup-5)
 - [Breaking In with Guest: My First Bug Bounty](https://ghostman01.medium.com/guest-admin-a7c70aa10ddb?source=rss------bug_bounty_writeup-5)
 - [How I Found an SQL Injection in coupon code](https://medium.com/@gheeX/how-i-found-an-sql-injection-in-coupon-code-f31d6eb1a720?source=rss------bug_bounty_writeup-5)
 - [️‍♂️Recon For New Bug bounty Hunters — Short Story](https://sud-defcon.medium.com/%EF%B8%8F-%EF%B8%8Frecon-for-new-bug-bounty-hunters-short-story-2992e780fbbb?source=rss------bug_bounty_writeup-5)
@@ -930,7 +931,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Mastering Reconnaissance Part 2: Advanced Scanning, Content Discovery, and Automation for Bug…](https://myselfakash20.medium.com/mastering-reconnaissance-part-2-advanced-scanning-content-discovery-and-automation-for-bug-8903a7c190a6?source=rss------bug_bounty_writeup-5)
 - [Exposing the Dark Side of Google Dorks: How I Extracted Millions of Emails.](https://medium.com/hacking101/exposing-the-dark-side-of-google-dorks-how-i-extracted-millions-of-emails-0fe0f7f6db8b?source=rss------bug_bounty_writeup-5)
 - [Won’t Fix Vulnerabilities in Google Colab](https://0xjin.medium.com/wont-fix-vulnerabilities-in-google-colab-fcd3b6581746?source=rss------bug_bounty_writeup-5)
-- [HTTP Request Sumgling  —  Only for Biggers](https://medium.com/@bugbounty_learners/task-1-http-request-sumgling-basics-types-only-for-bigners-2157461dca3e?source=rss------bug_bounty_writeup-5)
 - [Building a Virtual Ethical Hacking Home Lab — Part 2: Lab Topology](https://infosecwriteups.com/building-a-virtual-ethical-hacking-home-lab-part-2-lab-topology-d38e13fe7bd3?source=rss----7b722bfd1b8d---4)
 - [Unlocking Engagement with Employee Feedback](https://www.hackerone.com/culture-and-talent/unlocking-engagement-employee-feedback)
 - [How an Improper Access Control Vulnerability Led to Account Theft in One Click](https://www.hackerone.com/vulnerability-management/improper-access-control-deep-dive)
