@@ -1,6 +1,9 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Go — ing Rogue: The Malware Development Odyssey &lpar;Part III&rpar;](https://infosecwriteups.com/go-ing-rogue-the-malware-development-odyssey-part-iii-d721db74178c?source=rss----7b722bfd1b8d---4)
+- [Privilege Escalation Techniques for Ethical Hackers](https://infosecwriteups.com/privilege-escalation-techniques-for-ethical-hackers-7b593d92dfca?source=rss----7b722bfd1b8d---4)
+- [Mobile Application Penetration Testing Checklist](https://infosecwriteups.com/mobile-application-penetration-testing-checklist-460deadf3d9f?source=rss----7b722bfd1b8d---4)
 - [1500$ Open Reduction Bug: Performed Restricted Actions in login page](https://medium.com/@bugbounty_learners/1500-open-reduction-bug-performed-restricted-actions-in-login-page-4194359c1fc2?source=rss------bug_bounty_writeup-5)
 - [Breaking In with Guest: My First Bug Bounty](https://ghostman01.medium.com/guest-admin-a7c70aa10ddb?source=rss------bug_bounty_writeup-5)
 - [How I Found an SQL Injection in coupon code](https://medium.com/@gheeX/how-i-found-an-sql-injection-in-coupon-code-f31d6eb1a720?source=rss------bug_bounty_writeup-5)
@@ -24,9 +27,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [NMAP Cheat Sheet: Beginner to Advanced](https://infosecwriteups.com/nmap-cheat-sheet-beginner-to-advanced-787b19a113f4?source=rss----7b722bfd1b8d---4)
 - [Common web application threats &amp; risk](https://infosecwriteups.com/common-web-application-threats-risk-8d54b6a23acb?source=rss----7b722bfd1b8d---4)
 - [DLL hijacking in TOTOLINK A600UB Driver Installer | CVE-2024–51141](https://infosecwriteups.com/dll-hijacking-in-totolink-a600ub-driver-installer-13787c4d97b4?source=rss----7b722bfd1b8d---4)
-- [HTB | Cascade — Reverse Engineering - DnSpy and AD Recycle](https://infosecwriteups.com/htb-cascade-reverse-engineering-dnspy-and-ad-recycle-ecd045caca7d?source=rss----7b722bfd1b8d---4)
-- [Basics of PowerShell 2024–2025: My Take on Learning It the Fun Way](https://infosecwriteups.com/basics-of-powershell-2024-2025-my-take-on-learning-it-the-fun-way-6566c908a8fb?source=rss----7b722bfd1b8d---4)
-- [Demystifying OSINT](https://infosecwriteups.com/demystifying-osint-e1c287b17e0c?source=rss----7b722bfd1b8d---4)
 - [Measure, Compare, and Enhance Security Programs with HackerOne Benchmarks](https://www.hackerone.com/vulnerability-management/hackerone-benchmarks)
 - [AWS Security Configuration Review and Best Practices](https://www.hackerone.com/penetration-testing/aws-security-configuration)
 - [OWASP Top 10: The Risk of Cryptographic Failures](https://www.hackerone.com/vulnerability-management/cryptographic-failures)
