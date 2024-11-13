@@ -23,7 +23,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [JWT Authentication Bypass leads to Admin Control Panel](https://infosecwriteups.com/jwt-authentication-bypass-leads-to-admin-control-panel-dfa6efcdcbf5?source=rss----7b722bfd1b8d---4)
 - [NMAP Cheat Sheet: Beginner to Advanced](https://infosecwriteups.com/nmap-cheat-sheet-beginner-to-advanced-787b19a113f4?source=rss----7b722bfd1b8d---4)
 - [Common web application threats &amp; risk](https://infosecwriteups.com/common-web-application-threats-risk-8d54b6a23acb?source=rss----7b722bfd1b8d---4)
-- [DLL hijacking in TOTOLINK A600UB Driver Installer](https://infosecwriteups.com/dll-hijacking-in-totolink-a600ub-driver-installer-13787c4d97b4?source=rss----7b722bfd1b8d---4)
+- [DLL hijacking in TOTOLINK A600UB Driver Installer | CVE-2024–51141](https://infosecwriteups.com/dll-hijacking-in-totolink-a600ub-driver-installer-13787c4d97b4?source=rss----7b722bfd1b8d---4)
 - [HTB | Cascade — Reverse Engineering - DnSpy and AD Recycle](https://infosecwriteups.com/htb-cascade-reverse-engineering-dnspy-and-ad-recycle-ecd045caca7d?source=rss----7b722bfd1b8d---4)
 - [Basics of PowerShell 2024–2025: My Take on Learning It the Fun Way](https://infosecwriteups.com/basics-of-powershell-2024-2025-my-take-on-learning-it-the-fun-way-6566c908a8fb?source=rss----7b722bfd1b8d---4)
 - [Demystifying OSINT](https://infosecwriteups.com/demystifying-osint-e1c287b17e0c?source=rss----7b722bfd1b8d---4)
