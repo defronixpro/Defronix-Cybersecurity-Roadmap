@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [AI in Bug Bounty Hunting: A Step-by-Step Tutorial for Beginners](https://prakash888kpk.medium.com/ai-in-bug-bounty-hunting-a-step-by-step-tutorial-for-beginners-673e24aed66c?source=rss------bug_bounty_writeup-5)
 - [How I Uncovered an SSRF Vulnerability in a Private HackerOne Program](https://medium.com/@josuofficial327/how-i-uncovered-an-ssrf-vulnerability-in-a-private-hackerone-program-4c3146b414ff?source=rss------bug_bounty_writeup-5)
 - [HackerOne’s Fall Day of Service](https://www.hackerone.com/culture-and-talent/hackerones-fall-day-service)
 - [How HackerOne Disproved an MFA Bypass With a Spot Check](https://www.hackerone.com/vulnerability-management/spot-check-mfa-bypass)
@@ -14,7 +15,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [HTTP Desync Attack &lpar;Request Smuggling&rpar; - Mass Account Takeover](https://medium.com/@bugbounty_learners/http-desync-attack-request-smuggling-mass-account-takeover-0292fcc8c4a4?source=rss------bug_bounty_writeup-5)
 - [Showing Impact is Your friend &lpar;500$+500$ bounties&rpar;](https://medium.com/@noureldin1042/showing-impact-is-your-friend-500-500-bounties-2ed87f3a64b7?source=rss------bug_bounty_writeup-5)
 - [Mastering Reconnaissance Part 2: Advanced Scanning, Content Discovery, and Automation for Bug…](https://myselfakash20.medium.com/mastering-reconnaissance-part-2-advanced-scanning-content-discovery-and-automation-for-bug-8903a7c190a6?source=rss------bug_bounty_writeup-5)
-- [Exposing the Dark Side of Google Dorks: How I Extracted Millions of Emails.](https://medium.com/hacking101/exposing-the-dark-side-of-google-dorks-how-i-extracted-millions-of-emails-0fe0f7f6db8b?source=rss------bug_bounty_writeup-5)
 - [Building a Virtual Ethical Hacking Home Lab — Part 2: Lab Topology](https://infosecwriteups.com/building-a-virtual-ethical-hacking-home-lab-part-2-lab-topology-d38e13fe7bd3?source=rss----7b722bfd1b8d---4)
 - [Unlocking Engagement with Employee Feedback](https://www.hackerone.com/culture-and-talent/unlocking-engagement-employee-feedback)
 - [How an Improper Access Control Vulnerability Led to Account Theft in One Click](https://www.hackerone.com/vulnerability-management/improper-access-control-deep-dive)
