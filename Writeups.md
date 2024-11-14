@@ -1,6 +1,8 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [CVE-2021–20323 the XSS Vulnerability in Keycloak that affect many web application](https://infosecwriteups.com/cve-2021-20323-the-xss-vulnerability-in-keycloak-f39e998106dc?source=rss----7b722bfd1b8d---4)
+- [AI Can Now Take Over Your Computer .. Is Your Cybersecurity Team Ready ?](https://infosecwriteups.com/ai-can-now-take-over-your-computer-is-your-cybersecurity-team-ready-91996a819880?source=rss----7b722bfd1b8d---4)
 - [My Journey to Drugs Hall of Fame in just 10 minutes](https://medium.com/@bugbounty_learners/my-journey-to-drugs-hall-of-fame-in-just-10-minutes-dcd03240e42a?source=rss------bug_bounty_writeup-5)
 - [Mastering Reconnaissance Part 3: Unleashing Advanced Exploitation and Post-Recon Tactics](https://myselfakash20.medium.com/mastering-reconnaissance-part-3-unleashing-advanced-exploitation-and-post-recon-tactics-b81369678040?source=rss------bug_bounty_writeup-5)
 - [AI in Bug Bounty Hunting: A Step-by-Step Tutorial for Beginners](https://prakash888kpk.medium.com/ai-in-bug-bounty-hunting-a-step-by-step-tutorial-for-beginners-673e24aed66c?source=rss------bug_bounty_writeup-5)
@@ -27,8 +29,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How to Configure Static and Dynamic IP Addresses in Linux](https://infosecwriteups.com/how-to-configure-static-and-dynamic-ip-addresses-in-linux-a-step-by-step-guide-using-ifconfig-and-48551ce4bc45?source=rss----7b722bfd1b8d---4)
 - [JWT Authentication Bypass leads to Admin Control Panel](https://infosecwriteups.com/jwt-authentication-bypass-leads-to-admin-control-panel-dfa6efcdcbf5?source=rss----7b722bfd1b8d---4)
 - [NMAP Cheat Sheet: Beginner to Advanced](https://infosecwriteups.com/nmap-cheat-sheet-beginner-to-advanced-787b19a113f4?source=rss----7b722bfd1b8d---4)
-- [Common web application threats &amp; risk](https://infosecwriteups.com/common-web-application-threats-risk-8d54b6a23acb?source=rss----7b722bfd1b8d---4)
-- [DLL hijacking in TOTOLINK A600UB Driver Installer | CVE-2024–51141](https://infosecwriteups.com/dll-hijacking-in-totolink-a600ub-driver-installer-13787c4d97b4?source=rss----7b722bfd1b8d---4)
 - [Measure, Compare, and Enhance Security Programs with HackerOne Benchmarks](https://www.hackerone.com/vulnerability-management/hackerone-benchmarks)
 - [AWS Security Configuration Review and Best Practices](https://www.hackerone.com/penetration-testing/aws-security-configuration)
 - [OWASP Top 10: The Risk of Cryptographic Failures](https://www.hackerone.com/vulnerability-management/cryptographic-failures)
