@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [My Journey to Drugs Hall of Fame in just 10 minutes](https://medium.com/@bugbounty_learners/my-journey-to-drugs-hall-of-fame-in-just-10-minutes-dcd03240e42a?source=rss------bug_bounty_writeup-5)
+- [Mastering Reconnaissance Part 3: Unleashing Advanced Exploitation and Post-Recon Tactics](https://myselfakash20.medium.com/mastering-reconnaissance-part-3-unleashing-advanced-exploitation-and-post-recon-tactics-b81369678040?source=rss------bug_bounty_writeup-5)
 - [AI in Bug Bounty Hunting: A Step-by-Step Tutorial for Beginners](https://prakash888kpk.medium.com/ai-in-bug-bounty-hunting-a-step-by-step-tutorial-for-beginners-673e24aed66c?source=rss------bug_bounty_writeup-5)
 - [How I Uncovered an SSRF Vulnerability in a Private HackerOne Program](https://medium.com/@josuofficial327/how-i-uncovered-an-ssrf-vulnerability-in-a-private-hackerone-program-4c3146b414ff?source=rss------bug_bounty_writeup-5)
 - [HackerOne’s Fall Day of Service](https://www.hackerone.com/culture-and-talent/hackerones-fall-day-service)
@@ -934,8 +936,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How I Found an SQL Injection in coupon code](https://medium.com/@gheeX/how-i-found-an-sql-injection-in-coupon-code-f31d6eb1a720?source=rss------bug_bounty_writeup-5)
 - [️‍♂️Recon For New Bug bounty Hunters — Short Story](https://sud-defcon.medium.com/%EF%B8%8F-%EF%B8%8Frecon-for-new-bug-bounty-hunters-short-story-2992e780fbbb?source=rss------bug_bounty_writeup-5)
 - [HTTP Desync Attack &lpar;Request Smuggling&rpar; - Mass Account Takeover](https://medium.com/@bugbounty_learners/http-desync-attack-request-smuggling-mass-account-takeover-0292fcc8c4a4?source=rss------bug_bounty_writeup-5)
-- [Showing Impact is Your friend &lpar;500$+500$ bounties&rpar;](https://medium.com/@noureldin1042/showing-impact-is-your-friend-500-500-bounties-2ed87f3a64b7?source=rss------bug_bounty_writeup-5)
-- [Mastering Reconnaissance Part 2: Advanced Scanning, Content Discovery, and Automation for Bug…](https://myselfakash20.medium.com/mastering-reconnaissance-part-2-advanced-scanning-content-discovery-and-automation-for-bug-8903a7c190a6?source=rss------bug_bounty_writeup-5)
 - [Building a Virtual Ethical Hacking Home Lab — Part 2: Lab Topology](https://infosecwriteups.com/building-a-virtual-ethical-hacking-home-lab-part-2-lab-topology-d38e13fe7bd3?source=rss----7b722bfd1b8d---4)
 - [Unlocking Engagement with Employee Feedback](https://www.hackerone.com/culture-and-talent/unlocking-engagement-employee-feedback)
 - [How an Improper Access Control Vulnerability Led to Account Theft in One Click](https://www.hackerone.com/vulnerability-management/improper-access-control-deep-dive)
