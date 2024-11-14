@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [HackerOne’s Fall Day of Service](https://www.hackerone.com/culture-and-talent/hackerones-fall-day-service)
+- [How HackerOne Disproved an MFA Bypass With a Spot Check](https://www.hackerone.com/vulnerability-management/spot-check-mfa-bypass)
 - [Go — ing Rogue: The Malware Development Odyssey &lpar;Part III&rpar;](https://infosecwriteups.com/go-ing-rogue-the-malware-development-odyssey-part-iii-d721db74178c?source=rss----7b722bfd1b8d---4)
 - [Privilege Escalation Techniques for Ethical Hackers](https://infosecwriteups.com/privilege-escalation-techniques-for-ethical-hackers-7b593d92dfca?source=rss----7b722bfd1b8d---4)
 - [Mobile Application Penetration Testing Checklist](https://infosecwriteups.com/mobile-application-penetration-testing-checklist-460deadf3d9f?source=rss----7b722bfd1b8d---4)
@@ -970,8 +972,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Capital One Launches Public Bug Bounty Program with HackerOne](https://www.hackerone.com/customer-stories/capital-one-public-bug-bounty)
 - [From Prospect to Partner: Jon Stone Shares HackerOne Career Story](https://www.hackerone.com/culture-and-talent/prospect-partner-jon-stone-shares-hackerone-career-story)
 - [Quantifying the Value of Bug Bounty Programs: ROI, ROM, or Both?](https://www.hackerone.com/vulnerability-management/quantifying-value-bug-bounty-programs-roi-rom-or-both)
-- [Crushing FUD: Embracing Ethical Hackers to Strengthen Cybersecurity](https://www.hackerone.com/vulnerability-management/crushing-fud)
-- [HackerOne’s Commitment to Learning and Development](https://www.hackerone.com/culture-and-talent/hackerones-commitment-learning-and-development)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
