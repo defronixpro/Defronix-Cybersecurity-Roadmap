@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How did I found Account Takeover Vulnerability on takeuforward.org](https://rajukani100.medium.com/how-did-i-found-account-takeover-vulnerability-on-takeuforward-org-735630b4167c?source=rss------bug_bounty_writeup-5)
 - [Essential Linux Security Practices — Part 2](https://infosecwriteups.com/essential-linux-security-practices-part-2-143025ac6495?source=rss----7b722bfd1b8d---4)
 - [Dark Web Scraping Using AI : Tools, Techniques, and Challenges](https://infosecwriteups.com/dark-web-scraping-using-ai-tools-techniques-and-challenges-bf18f833cca9?source=rss----7b722bfd1b8d---4)
 - [Cybersecurity 101: Specializations &amp; Job roles — Part I](https://infosecwriteups.com/cybersecurity-101-specializations-job-roles-part-i-285f9bc1caca?source=rss----7b722bfd1b8d---4)
