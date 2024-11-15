@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How did I found Account Takeover Vulnerability on takeuforward.org](https://rajukani100.medium.com/how-did-i-found-account-takeover-vulnerability-on-takeuforward-org-735630b4167c?source=rss------bug_bounty_writeup-5)
 - [Essential Linux Security Practices — Part 2](https://infosecwriteups.com/essential-linux-security-practices-part-2-143025ac6495?source=rss----7b722bfd1b8d---4)
 - [Dark Web Scraping Using AI : Tools, Techniques, and Challenges](https://infosecwriteups.com/dark-web-scraping-using-ai-tools-techniques-and-challenges-bf18f833cca9?source=rss----7b722bfd1b8d---4)
 - [Cybersecurity 101: Specializations &amp; Job roles — Part I](https://infosecwriteups.com/cybersecurity-101-specializations-job-roles-part-i-285f9bc1caca?source=rss----7b722bfd1b8d---4)
@@ -971,7 +972,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Hack My Career: Harley Kimball’s Journey to DEFCON](https://www.hackerone.com/culture-and-talent/hack-my-career-harley-kimballs-journey-defcon)
 - [Capital One Launches Public Bug Bounty Program with HackerOne](https://www.hackerone.com/customer-stories/capital-one-public-bug-bounty)
 - [From Prospect to Partner: Jon Stone Shares HackerOne Career Story](https://www.hackerone.com/culture-and-talent/prospect-partner-jon-stone-shares-hackerone-career-story)
-- [Quantifying the Value of Bug Bounty Programs: ROI, ROM, or Both?](https://www.hackerone.com/vulnerability-management/quantifying-value-bug-bounty-programs-roi-rom-or-both)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
