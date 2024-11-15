@@ -923,7 +923,9 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
 - [3 reflected XSS in one program](https://xsametyigit.medium.com/3-reflected-xss-in-one-program-c50469c6d522?source=rss------bug_bounty_writeup-5)
+- [Flexible Data Retrieval at Scale with HAQL](https://www.hackerone.com/engineering/haql)
 - [How I Got Access to an Admin Portal by Response Manipulation](https://medium.com/@anonymousshetty2003/how-i-got-access-to-an-admin-portal-by-response-manipulation-d2abeec7ce58?source=rss------bug_bounty_writeup-5)
+- [AI in SecOps: How AI is Impacting Red and Blue Team Operations](https://www.hackerone.com/ai/sans-red-blue-team-ops)
 - [Today How to get $500 Bounty on HackerOne — P3](https://medium.com/@bugbounty_learners/today-how-to-get-500-bounty-on-hackerone-p3-345fa44f76a3?source=rss------bug_bounty_writeup-5)
 - [My first bounty](https://medium.com/@josuofficial327/my-first-bounty-fdddb7ef5611?source=rss------bug_bounty_writeup-5)
 - [How to Test for DNS Zone Transfer Attacks](https://dineshpathro9.medium.com/how-to-test-for-dns-zone-transfer-attacks-bf7c604bb28a?source=rss------bug_bounty_writeup-5)
@@ -970,8 +972,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Announcing Hai Plays: Personalize Your Playbook for Spot-On Security Advice](https://www.hackerone.com/ai/hai-plays)
 - [Hack My Career: Harley Kimball’s Journey to DEFCON](https://www.hackerone.com/culture-and-talent/hack-my-career-harley-kimballs-journey-defcon)
 - [Capital One Launches Public Bug Bounty Program with HackerOne](https://www.hackerone.com/customer-stories/capital-one-public-bug-bounty)
-- [From Prospect to Partner: Jon Stone Shares HackerOne Career Story](https://www.hackerone.com/culture-and-talent/prospect-partner-jon-stone-shares-hackerone-career-story)
-- [Quantifying the Value of Bug Bounty Programs: ROI, ROM, or Both?](https://www.hackerone.com/vulnerability-management/quantifying-value-bug-bounty-programs-roi-rom-or-both)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
