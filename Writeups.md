@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [my first bounty](https://medium.com/@josuofficial327/my-first-bounty-fdddb7ef5611?source=rss------bug_bounty_writeup-5)
 - [How to Test for DNS Zone Transfer Attacks](https://dineshpathro9.medium.com/how-to-test-for-dns-zone-transfer-attacks-bf7c604bb28a?source=rss------bug_bounty_writeup-5)
 - [How did I found Account Takeover Vulnerability on takeuforward.org](https://rajukani100.medium.com/how-did-i-found-account-takeover-vulnerability-on-takeuforward-org-735630b4167c?source=rss------bug_bounty_writeup-5)
 - [Essential Linux Security Practices — Part 2](https://infosecwriteups.com/essential-linux-security-practices-part-2-143025ac6495?source=rss----7b722bfd1b8d---4)
@@ -21,8 +22,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How HackerOne Disproved an MFA Bypass With a Spot Check](https://www.hackerone.com/vulnerability-management/spot-check-mfa-bypass)
 - [1500$ Open Reduction Bug: Performed Restricted Actions in login page](https://medium.com/@bugbounty_learners/1500-open-reduction-bug-performed-restricted-actions-in-login-page-4194359c1fc2?source=rss------bug_bounty_writeup-5)
 - [Breaking In with Guest: My First Bug Bounty](https://ghostman01.medium.com/guest-admin-a7c70aa10ddb?source=rss------bug_bounty_writeup-5)
-- [How I Found an SQL Injection in coupon code](https://medium.com/@gheeX/how-i-found-an-sql-injection-in-coupon-code-f31d6eb1a720?source=rss------bug_bounty_writeup-5)
-- [️‍♂️Recon For New Bug bounty Hunters — Short Story](https://sud-defcon.medium.com/%EF%B8%8F-%EF%B8%8Frecon-for-new-bug-bounty-hunters-short-story-2992e780fbbb?source=rss------bug_bounty_writeup-5)
 - [Unlocking Engagement with Employee Feedback](https://www.hackerone.com/culture-and-talent/unlocking-engagement-employee-feedback)
 - [How an Improper Access Control Vulnerability Led to Account Theft in One Click](https://www.hackerone.com/vulnerability-management/improper-access-control-deep-dive)
 - [How an Information Disclosure Vulnerability Led to Critical Data Exposure](https://www.hackerone.com/vulnerability-management/information-disclosure-deep-dive)
