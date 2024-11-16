@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How Did I Get My First Collaboration Bounty Of $1000?](https://medium.com/@pguru978/how-did-i-get-my-first-collaboration-bounty-of-1000-dc64ec02a6c7?source=rss------bug_bounty_writeup-5)
+- [Exploiting Android Activities with Drozer: A Step-by-Step Guide](https://medium.com/@ayushkumar12021987/exploiting-android-activities-with-drozer-a-step-by-step-guide-ebc9b564758d?source=rss------bug_bounty_writeup-5)
 - [Account takover via forget password](https://medium.com/@amirreza.marzban/account-takover-via-forget-password-4ec6514f29ee?source=rss------bug_bounty_writeup-5)
 - [Mastering Recon for Bug Hunters, Part 4: Advanced Strategies &amp; Real-World Examples](https://myselfakash20.medium.com/mastering-recon-for-bug-hunters-part-4-advanced-strategies-real-world-examples-5de1a7aa7f84?source=rss------bug_bounty_writeup-5)
 - [Heroku Subdomain Takeover](https://xsametyigit.medium.com/heroku-subdomain-takeover-39b9f1ce7c4c?source=rss------bug_bounty_writeup-5)
@@ -931,8 +933,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [AI in SecOps: How AI is Impacting Red and Blue Team Operations](https://www.hackerone.com/ai/sans-red-blue-team-ops)
 - [Today How to get $500 Bounty on HackerOne — P3](https://medium.com/@bugbounty_learners/today-how-to-get-500-bounty-on-hackerone-p3-345fa44f76a3?source=rss------bug_bounty_writeup-5)
 - [My first bounty](https://medium.com/@josuofficial327/my-first-bounty-fdddb7ef5611?source=rss------bug_bounty_writeup-5)
-- [How to Test for DNS Zone Transfer Attacks](https://dineshpathro9.medium.com/how-to-test-for-dns-zone-transfer-attacks-bf7c604bb28a?source=rss------bug_bounty_writeup-5)
-- [How did I found Account Takeover Vulnerability on takeuforward.org](https://rajukani100.medium.com/how-did-i-found-account-takeover-vulnerability-on-takeuforward-org-735630b4167c?source=rss------bug_bounty_writeup-5)
 - [Essential Linux Security Practices — Part 2](https://infosecwriteups.com/essential-linux-security-practices-part-2-143025ac6495?source=rss----7b722bfd1b8d---4)
 - [Dark Web Scraping Using AI : Tools, Techniques, and Challenges](https://infosecwriteups.com/dark-web-scraping-using-ai-tools-techniques-and-challenges-bf18f833cca9?source=rss----7b722bfd1b8d---4)
 - [Cybersecurity 101: Specializations &amp; Job roles — Part I](https://infosecwriteups.com/cybersecurity-101-specializations-job-roles-part-i-285f9bc1caca?source=rss----7b722bfd1b8d---4)
