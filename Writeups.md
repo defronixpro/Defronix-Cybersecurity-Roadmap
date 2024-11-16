@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Mastering Recon for Bug Hunters, Part 4: Advanced Strategies &amp; Real-World Examples](https://myselfakash20.medium.com/mastering-recon-for-bug-hunters-part-4-advanced-strategies-real-world-examples-5de1a7aa7f84?source=rss------bug_bounty_writeup-5)
 - [Heroku Subdomain Takeover](https://xsametyigit.medium.com/heroku-subdomain-takeover-39b9f1ce7c4c?source=rss------bug_bounty_writeup-5)
 - [3 reflected XSS in one program](https://xsametyigit.medium.com/3-reflected-xss-in-one-program-c50469c6d522?source=rss------bug_bounty_writeup-5)
 - [Flexible Data Retrieval at Scale with HAQL](https://www.hackerone.com/engineering/haql)
@@ -21,7 +22,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Oski Lab: Cyber Defenders Write-up](https://infosecwriteups.com/oski-lab-cyber-defenders-write-up-40d5a54b3bc6?source=rss----7b722bfd1b8d---4)
 - [Python Basics Tryhackme](https://infosecwriteups.com/python-basics-tryhackme-7341b38fe680?source=rss----7b722bfd1b8d---4)
 - [My Journey to Drugs Hall of Fame in just 10 minutes](https://medium.com/@bugbounty_learners/my-journey-to-drugs-hall-of-fame-in-just-10-minutes-dcd03240e42a?source=rss------bug_bounty_writeup-5)
-- [Mastering Reconnaissance Part 3: Unleashing Advanced Exploitation and Post-Recon Tactics](https://myselfakash20.medium.com/mastering-reconnaissance-part-3-unleashing-advanced-exploitation-and-post-recon-tactics-b81369678040?source=rss------bug_bounty_writeup-5)
 - [HackerOne’s Fall Day of Service](https://www.hackerone.com/culture-and-talent/hackerones-fall-day-service)
 - [How HackerOne Disproved an MFA Bypass With a Spot Check](https://www.hackerone.com/vulnerability-management/spot-check-mfa-bypass)
 - [Unlocking Engagement with Employee Feedback](https://www.hackerone.com/culture-and-talent/unlocking-engagement-employee-feedback)
