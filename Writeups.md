@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Browser’s Secret Diary: Memory Dumps Unveiled](https://infosecwriteups.com/browsers-secret-diary-memory-dumps-unveiled-6b8185156674?source=rss----7b722bfd1b8d---4)
 - [Sofia Santos: OSINT Exercise #002](https://infosecwriteups.com/sofia-santos-osint-exercise-002-c7869ab0b3a1?source=rss----7b722bfd1b8d---4)
 - [cybPython Packages and Libraries for Cybersecurity](https://infosecwriteups.com/cybpython-packages-and-libraries-for-cybersecurity-2a3640737c82?source=rss----7b722bfd1b8d---4)
 - [IDOR leading to broken functionality](https://infosecwriteups.com/idor-leading-to-broken-functionality-9aa0ce602ff3?source=rss----7b722bfd1b8d---4)
@@ -10,7 +11,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [A Comprehensive Beginner’s Guide to the Linux Kernel](https://infosecwriteups.com/a-comprehensive-beginners-guide-to-the-linux-kernel-9c4995c4cc66?source=rss----7b722bfd1b8d---4)
 - [How Hackers Turn Your Information into a Weapon](https://infosecwriteups.com/how-hackers-turn-your-information-into-a-weapon-bb3d8f283a75?source=rss----7b722bfd1b8d---4)
 - [Uncovering an IDOR on Reacted.com — A Curious Bug Hunter’s Tale ️‍♂️✨](https://infosecwriteups.com/uncovering-an-idor-on-reacted-com-a-curious-bug-hunters-tale-%EF%B8%8F-%EF%B8%8F-99f2bcf742af?source=rss----7b722bfd1b8d---4)
-- [The ATT&amp;CK Navigator: A Powerful Tool for Visualizing Cyber Attacks](https://infosecwriteups.com/the-att-ck-navigator-a-powerful-tool-for-visualizing-cyber-attacks-3a8a18253895?source=rss----7b722bfd1b8d---4)
 - [How Did I Get My First Collaboration Bounty Of $1000?](https://medium.com/@pguru978/how-did-i-get-my-first-collaboration-bounty-of-1000-dc64ec02a6c7?source=rss------bug_bounty_writeup-5)
 - [Exploiting Android Activities with Drozer: A Step-by-Step Guide](https://medium.com/@ayushkumar12021987/exploiting-android-activities-with-drozer-a-step-by-step-guide-ebc9b564758d?source=rss------bug_bounty_writeup-5)
 - [Account takover via forget password](https://medium.com/@amirreza.marzban/account-takover-via-forget-password-4ec6514f29ee?source=rss------bug_bounty_writeup-5)
