@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Heroku Subdomain Takeover](https://xsametyigit.medium.com/heroku-subdomain-takeover-39b9f1ce7c4c?source=rss------bug_bounty_writeup-5)
 - [3 reflected XSS in one program](https://xsametyigit.medium.com/3-reflected-xss-in-one-program-c50469c6d522?source=rss------bug_bounty_writeup-5)
 - [Flexible Data Retrieval at Scale with HAQL](https://www.hackerone.com/engineering/haql)
 - [How I Got Access to an Admin Portal by Response Manipulation](https://medium.com/@anonymousshetty2003/how-i-got-access-to-an-admin-portal-by-response-manipulation-d2abeec7ce58?source=rss------bug_bounty_writeup-5)
@@ -942,7 +943,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Python Basics Tryhackme](https://infosecwriteups.com/python-basics-tryhackme-7341b38fe680?source=rss----7b722bfd1b8d---4)
 - [My Journey to Drugs Hall of Fame in just 10 minutes](https://medium.com/@bugbounty_learners/my-journey-to-drugs-hall-of-fame-in-just-10-minutes-dcd03240e42a?source=rss------bug_bounty_writeup-5)
 - [Mastering Reconnaissance Part 3: Unleashing Advanced Exploitation and Post-Recon Tactics](https://myselfakash20.medium.com/mastering-reconnaissance-part-3-unleashing-advanced-exploitation-and-post-recon-tactics-b81369678040?source=rss------bug_bounty_writeup-5)
-- [AI in Bug Bounty Hunting: A Step-by-Step Tutorial for Beginners](https://prakash888kpk.medium.com/ai-in-bug-bounty-hunting-a-step-by-step-tutorial-for-beginners-673e24aed66c?source=rss------bug_bounty_writeup-5)
 - [HackerOne’s Fall Day of Service](https://www.hackerone.com/culture-and-talent/hackerones-fall-day-service)
 - [How HackerOne Disproved an MFA Bypass With a Spot Check](https://www.hackerone.com/vulnerability-management/spot-check-mfa-bypass)
 - [Unlocking Engagement with Employee Feedback](https://www.hackerone.com/culture-and-talent/unlocking-engagement-employee-feedback)
