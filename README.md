@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Weak Password Reset functionality](https://rootxabit.medium.com/weak-password-reset-functionality-8afe83e38213?source=rss------bug_bounty_writeup-5)
 - [Bypass of Username Policy: Breaking the Rules with a Simple Trick](https://medium.com/@mrcix/bypass-of-username-policy-breaking-the-rules-with-a-simple-trick-fcf7ce97925c?source=rss------bug_bounty_writeup-5)
 - [Look This !](https://medium.com/@0xDARK/look-this-9f7aeb20af83?source=rss------bug_bounty_writeup-5)
 - [Browser’s Secret Diary: Memory Dumps Unveiled](https://infosecwriteups.com/browsers-secret-diary-memory-dumps-unveiled-6b8185156674?source=rss----7b722bfd1b8d---4)
@@ -934,7 +935,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [A Comprehensive Beginner’s Guide to the Linux Kernel](https://infosecwriteups.com/a-comprehensive-beginners-guide-to-the-linux-kernel-9c4995c4cc66?source=rss----7b722bfd1b8d---4)
 - [How Hackers Turn Your Information into a Weapon](https://infosecwriteups.com/how-hackers-turn-your-information-into-a-weapon-bb3d8f283a75?source=rss----7b722bfd1b8d---4)
 - [Uncovering an IDOR on Reacted.com — A Curious Bug Hunter’s Tale ️‍♂️✨](https://infosecwriteups.com/uncovering-an-idor-on-reacted-com-a-curious-bug-hunters-tale-%EF%B8%8F-%EF%B8%8F-99f2bcf742af?source=rss----7b722bfd1b8d---4)
-- [How Did I Get My First Collaboration Bounty Of $1000?](https://medium.com/@pguru978/how-did-i-get-my-first-collaboration-bounty-of-1000-dc64ec02a6c7?source=rss------bug_bounty_writeup-5)
+- [How Did I Get My First Collaboration Bounty Of $1000?](https://cybersecuritywriteups.com/how-did-i-get-my-first-collaboration-bounty-of-1000-dc64ec02a6c7?source=rss------bug_bounty_writeup-5)
 - [Exploiting Android Activities with Drozer: A Step-by-Step Guide](https://medium.com/@ayushkumar12021987/exploiting-android-activities-with-drozer-a-step-by-step-guide-ebc9b564758d?source=rss------bug_bounty_writeup-5)
 - [Account takover via forget password](https://medium.com/@amirreza.marzban/account-takover-via-forget-password-4ec6514f29ee?source=rss------bug_bounty_writeup-5)
 - [Mastering Recon for Bug Hunters, Part 4: Advanced Strategies &amp; Real-World Examples](https://myselfakash20.medium.com/mastering-recon-for-bug-hunters-part-4-advanced-strategies-real-world-examples-5de1a7aa7f84?source=rss------bug_bounty_writeup-5)
@@ -943,7 +944,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Flexible Data Retrieval at Scale with HAQL](https://www.hackerone.com/engineering/haql)
 - [How I Got Access to an Admin Portal by Response Manipulation](https://medium.com/@anonymousshetty2003/how-i-got-access-to-an-admin-portal-by-response-manipulation-d2abeec7ce58?source=rss------bug_bounty_writeup-5)
 - [AI in SecOps: How AI is Impacting Red and Blue Team Operations](https://www.hackerone.com/ai/sans-red-blue-team-ops)
-- [Today How to get $500 Bounty on HackerOne — P3](https://medium.com/@bugbounty_learners/today-how-to-get-500-bounty-on-hackerone-p3-345fa44f76a3?source=rss------bug_bounty_writeup-5)
 - [HackerOne’s Fall Day of Service](https://www.hackerone.com/culture-and-talent/hackerones-fall-day-service)
 - [How HackerOne Disproved an MFA Bypass With a Spot Check](https://www.hackerone.com/vulnerability-management/spot-check-mfa-bypass)
 - [Unlocking Engagement with Employee Feedback](https://www.hackerone.com/culture-and-talent/unlocking-engagement-employee-feedback)
