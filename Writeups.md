@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Weak Password Reset functionality](https://medium.com/@zabit3000/weak-password-reset-functionality-8afe83e38213?source=rss------bug_bounty_writeup-5)
 - [Bypass of Username Policy: Breaking the Rules with a Simple Trick](https://medium.com/@mrcix/bypass-of-username-policy-breaking-the-rules-with-a-simple-trick-fcf7ce97925c?source=rss------bug_bounty_writeup-5)
 - [Look This !](https://medium.com/@0xDARK/look-this-9f7aeb20af83?source=rss------bug_bounty_writeup-5)
 - [Browser’s Secret Diary: Memory Dumps Unveiled](https://infosecwriteups.com/browsers-secret-diary-memory-dumps-unveiled-6b8185156674?source=rss----7b722bfd1b8d---4)
@@ -22,7 +23,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Flexible Data Retrieval at Scale with HAQL](https://www.hackerone.com/engineering/haql)
 - [How I Got Access to an Admin Portal by Response Manipulation](https://medium.com/@anonymousshetty2003/how-i-got-access-to-an-admin-portal-by-response-manipulation-d2abeec7ce58?source=rss------bug_bounty_writeup-5)
 - [AI in SecOps: How AI is Impacting Red and Blue Team Operations](https://www.hackerone.com/ai/sans-red-blue-team-ops)
-- [Today How to get $500 Bounty on HackerOne — P3](https://medium.com/@bugbounty_learners/today-how-to-get-500-bounty-on-hackerone-p3-345fa44f76a3?source=rss------bug_bounty_writeup-5)
 - [HackerOne’s Fall Day of Service](https://www.hackerone.com/culture-and-talent/hackerones-fall-day-service)
 - [How HackerOne Disproved an MFA Bypass With a Spot Check](https://www.hackerone.com/vulnerability-management/spot-check-mfa-bypass)
 - [Unlocking Engagement with Employee Feedback](https://www.hackerone.com/culture-and-talent/unlocking-engagement-employee-feedback)
