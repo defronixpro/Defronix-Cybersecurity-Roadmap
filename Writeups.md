@@ -1,7 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
-- [Weak Password Reset functionality](https://medium.com/@zabit3000/weak-password-reset-functionality-8afe83e38213?source=rss------bug_bounty_writeup-5)
+- [Weak Password Reset functionality](https://rootxabit.medium.com/weak-password-reset-functionality-8afe83e38213?source=rss------bug_bounty_writeup-5)
 - [Bypass of Username Policy: Breaking the Rules with a Simple Trick](https://medium.com/@mrcix/bypass-of-username-policy-breaking-the-rules-with-a-simple-trick-fcf7ce97925c?source=rss------bug_bounty_writeup-5)
 - [Look This !](https://medium.com/@0xDARK/look-this-9f7aeb20af83?source=rss------bug_bounty_writeup-5)
 - [Browser’s Secret Diary: Memory Dumps Unveiled](https://infosecwriteups.com/browsers-secret-diary-memory-dumps-unveiled-6b8185156674?source=rss----7b722bfd1b8d---4)
