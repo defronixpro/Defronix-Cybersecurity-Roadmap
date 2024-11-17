@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [FB OAuth Misconfiguration](https://xsametyigit.medium.com/fb-oauth-misconfiguration-d6c2f5d067d8?source=rss------bug_bounty_writeup-5)
 - [API Hacktics: Unveiling Vulnerabilities in Modern Web APIs](https://myselfakash20.medium.com/api-hacktics-unveiling-vulnerabilities-in-modern-web-apis-e41cc09a2b9d?source=rss------bug_bounty_writeup-5)
 - [Week 2: Hard Work Transforms into a 5-Digit Payday](https://mokhansec.medium.com/week-2-hard-work-transforms-into-a-5-digit-payday-8087819bccd9?source=rss------bug_bounty_writeup-5)
 - [Exposing Open Redirect Vulnerabilities: JavaScript File Analysis in HTTP History Burp Suite](https://medium.com/@gheeX/exposing-open-redirect-vulnerabilities-javascript-file-analysis-in-http-history-burp-suite-c64bd1c93c54?source=rss------bug_bounty_writeup-5)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Uncovering an IDOR on Reacted.com — A Curious Bug Hunter’s Tale ️‍♂️✨](https://infosecwriteups.com/uncovering-an-idor-on-reacted-com-a-curious-bug-hunters-tale-%EF%B8%8F-%EF%B8%8F-99f2bcf742af?source=rss----7b722bfd1b8d---4)
 - [How Did I Get My First Collaboration Bounty Of $1000?](https://cybersecuritywriteups.com/how-did-i-get-my-first-collaboration-bounty-of-1000-dc64ec02a6c7?source=rss------bug_bounty_writeup-5)
 - [Exploiting Android Activities with Drozer: A Step-by-Step Guide](https://medium.com/@ayushkumar12021987/exploiting-android-activities-with-drozer-a-step-by-step-guide-ebc9b564758d?source=rss------bug_bounty_writeup-5)
-- [Account takover via forget password](https://medium.com/@amirreza.marzban/account-takover-via-forget-password-4ec6514f29ee?source=rss------bug_bounty_writeup-5)
 - [Flexible Data Retrieval at Scale with HAQL](https://www.hackerone.com/engineering/haql)
 - [AI in SecOps: How AI is Impacting Red and Blue Team Operations](https://www.hackerone.com/ai/sans-red-blue-team-ops)
 - [HackerOne’s Fall Day of Service](https://www.hackerone.com/culture-and-talent/hackerones-fall-day-service)
