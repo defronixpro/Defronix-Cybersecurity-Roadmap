@@ -14,7 +14,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [A Comprehensive Beginner’s Guide to the Linux Kernel](https://infosecwriteups.com/a-comprehensive-beginners-guide-to-the-linux-kernel-9c4995c4cc66?source=rss----7b722bfd1b8d---4)
 - [How Hackers Turn Your Information into a Weapon](https://infosecwriteups.com/how-hackers-turn-your-information-into-a-weapon-bb3d8f283a75?source=rss----7b722bfd1b8d---4)
 - [Uncovering an IDOR on Reacted.com — A Curious Bug Hunter’s Tale ️‍♂️✨](https://infosecwriteups.com/uncovering-an-idor-on-reacted-com-a-curious-bug-hunters-tale-%EF%B8%8F-%EF%B8%8F-99f2bcf742af?source=rss----7b722bfd1b8d---4)
-- [How Did I Get My First Collaboration Bounty Of $1000?](https://medium.com/@pguru978/how-did-i-get-my-first-collaboration-bounty-of-1000-dc64ec02a6c7?source=rss------bug_bounty_writeup-5)
+- [How Did I Get My First Collaboration Bounty Of $1000?](https://cybersecuritywriteups.com/how-did-i-get-my-first-collaboration-bounty-of-1000-dc64ec02a6c7?source=rss------bug_bounty_writeup-5)
 - [Exploiting Android Activities with Drozer: A Step-by-Step Guide](https://medium.com/@ayushkumar12021987/exploiting-android-activities-with-drozer-a-step-by-step-guide-ebc9b564758d?source=rss------bug_bounty_writeup-5)
 - [Account takover via forget password](https://medium.com/@amirreza.marzban/account-takover-via-forget-password-4ec6514f29ee?source=rss------bug_bounty_writeup-5)
 - [Mastering Recon for Bug Hunters, Part 4: Advanced Strategies &amp; Real-World Examples](https://myselfakash20.medium.com/mastering-recon-for-bug-hunters-part-4-advanced-strategies-real-world-examples-5de1a7aa7f84?source=rss------bug_bounty_writeup-5)
