@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Exposing Open Redirect Vulnerabilities: JavaScript File Analysis in HTTP History Burp Suite](https://medium.com/@gheeX/exposing-open-redirect-vulnerabilities-javascript-file-analysis-in-http-history-burp-suite-c64bd1c93c54?source=rss------bug_bounty_writeup-5)
 - [Comprehensive Guide to Exploitation Techniques for Bug Bounty Hunters: From Beginner to Advanced](https://myselfakash20.medium.com/comprehensive-guide-to-exploitation-techniques-for-bug-bounty-hunters-from-beginner-to-advanced-b32001326b9e?source=rss------bug_bounty_writeup-5)
 - [Weak Password Reset functionality](https://rootxabit.medium.com/weak-password-reset-functionality-8afe83e38213?source=rss------bug_bounty_writeup-5)
 - [Bypass of Username Policy: Breaking the Rules with a Simple Trick](https://medium.com/@mrcix/bypass-of-username-policy-breaking-the-rules-with-a-simple-trick-fcf7ce97925c?source=rss------bug_bounty_writeup-5)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Account takover via forget password](https://medium.com/@amirreza.marzban/account-takover-via-forget-password-4ec6514f29ee?source=rss------bug_bounty_writeup-5)
 - [Mastering Recon for Bug Hunters, Part 4: Advanced Strategies &amp; Real-World Examples](https://myselfakash20.medium.com/mastering-recon-for-bug-hunters-part-4-advanced-strategies-real-world-examples-5de1a7aa7f84?source=rss------bug_bounty_writeup-5)
 - [Heroku Subdomain Takeover](https://xsametyigit.medium.com/heroku-subdomain-takeover-39b9f1ce7c4c?source=rss------bug_bounty_writeup-5)
-- [3 reflected XSS in one program](https://xsametyigit.medium.com/3-reflected-xss-in-one-program-c50469c6d522?source=rss------bug_bounty_writeup-5)
 - [Flexible Data Retrieval at Scale with HAQL](https://www.hackerone.com/engineering/haql)
 - [AI in SecOps: How AI is Impacting Red and Blue Team Operations](https://www.hackerone.com/ai/sans-red-blue-team-ops)
 - [HackerOne’s Fall Day of Service](https://www.hackerone.com/culture-and-talent/hackerones-fall-day-service)
