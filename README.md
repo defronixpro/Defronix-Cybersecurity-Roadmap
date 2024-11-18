@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [From Novice to Pro: My Journey to Earning Through Bug Bounty Hunting](https://myselfakash20.medium.com/from-novice-to-pro-my-journey-to-earning-through-bug-bounty-hunting-3f123d19c39a?source=rss------bug_bounty_writeup-5)
 - [Building a Powerful Packet Sniffing Tool with Python](https://infosecwriteups.com/building-a-powerful-packet-sniffing-tool-with-python-896545b1fd71?source=rss----7b722bfd1b8d---4)
 - [Ticketmaster Data Breach Potentially Impacts 560 Million Customers](https://infosecwriteups.com/ticketmaster-data-breach-potentially-impacts-560-million-customers-dce7dcb054fb?source=rss----7b722bfd1b8d---4)
 - [SSRF to Internal Port Scanning on Self-Hosted Platform](https://infosecwriteups.com/ssrf-to-internal-port-scanning-on-self-hosted-platform-05a17a461eed?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Sofia Santos: OSINT Exercise #002](https://infosecwriteups.com/sofia-santos-osint-exercise-002-c7869ab0b3a1?source=rss----7b722bfd1b8d---4)
 - [cybPython Packages and Libraries for Cybersecurity](https://infosecwriteups.com/cybpython-packages-and-libraries-for-cybersecurity-2a3640737c82?source=rss----7b722bfd1b8d---4)
 - [How Did I Get My First Collaboration Bounty Of $1000?](https://cybersecuritywriteups.com/how-did-i-get-my-first-collaboration-bounty-of-1000-dc64ec02a6c7?source=rss------bug_bounty_writeup-5)
-- [Exploiting Android Activities with Drozer: A Step-by-Step Guide](https://medium.com/@ayushkumar12021987/exploiting-android-activities-with-drozer-a-step-by-step-guide-ebc9b564758d?source=rss------bug_bounty_writeup-5)
 - [Flexible Data Retrieval at Scale with HAQL](https://www.hackerone.com/engineering/haql)
 - [AI in SecOps: How AI is Impacting Red and Blue Team Operations](https://www.hackerone.com/ai/sans-red-blue-team-ops)
 - [HackerOne’s Fall Day of Service](https://www.hackerone.com/culture-and-talent/hackerones-fall-day-service)
