@@ -1,6 +1,13 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Building a Powerful Packet Sniffing Tool with Python](https://infosecwriteups.com/building-a-powerful-packet-sniffing-tool-with-python-896545b1fd71?source=rss----7b722bfd1b8d---4)
+- [Ticketmaster Data Breach Potentially Impacts 560 Million Customers](https://infosecwriteups.com/ticketmaster-data-breach-potentially-impacts-560-million-customers-dce7dcb054fb?source=rss----7b722bfd1b8d---4)
+- [SSRF to Internal Port Scanning on Self-Hosted Platform](https://infosecwriteups.com/ssrf-to-internal-port-scanning-on-self-hosted-platform-05a17a461eed?source=rss----7b722bfd1b8d---4)
+- [Zero Day Exploit](https://infosecwriteups.com/zero-day-exploit-af8497153fd4?source=rss----7b722bfd1b8d---4)
+- [OWASP Top 10–2021 Tryhackme Writeup](https://infosecwriteups.com/owasp-top-10-2021-tryhackme-writeup-56f2a04c895e?source=rss----7b722bfd1b8d---4)
+- [Bad Bots: The Unseen Cyber Threat and the Fight to Secure the Internet](https://infosecwriteups.com/bad-bots-the-unseen-cyber-threat-and-the-fight-to-secure-the-internet-9ae6e0d1ef23?source=rss----7b722bfd1b8d---4)
+- [Inside a Fictitious Cyber Breach: Artemis’ IT Vulnerability Report](https://infosecwriteups.com/inside-a-fictitious-cyber-breach-artemis-it-vulnerability-report-dc9da2af3d73?source=rss----7b722bfd1b8d---4)
 - [FB OAuth Misconfiguration](https://xsametyigit.medium.com/fb-oauth-misconfiguration-d6c2f5d067d8?source=rss------bug_bounty_writeup-5)
 - [API Hacktics: Unveiling Vulnerabilities in Modern Web APIs](https://myselfakash20.medium.com/api-hacktics-unveiling-vulnerabilities-in-modern-web-apis-e41cc09a2b9d?source=rss------bug_bounty_writeup-5)
 - [Week 2: Hard Work Transforms into a 5-Digit Payday](https://mokhansec.medium.com/week-2-hard-work-transforms-into-a-5-digit-payday-8087819bccd9?source=rss------bug_bounty_writeup-5)
@@ -12,13 +19,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Browser’s Secret Diary: Memory Dumps Unveiled](https://infosecwriteups.com/browsers-secret-diary-memory-dumps-unveiled-6b8185156674?source=rss----7b722bfd1b8d---4)
 - [Sofia Santos: OSINT Exercise #002](https://infosecwriteups.com/sofia-santos-osint-exercise-002-c7869ab0b3a1?source=rss----7b722bfd1b8d---4)
 - [cybPython Packages and Libraries for Cybersecurity](https://infosecwriteups.com/cybpython-packages-and-libraries-for-cybersecurity-2a3640737c82?source=rss----7b722bfd1b8d---4)
-- [IDOR leading to broken functionality](https://infosecwriteups.com/idor-leading-to-broken-functionality-9aa0ce602ff3?source=rss----7b722bfd1b8d---4)
-- [The Mindset of a Penetration Tester](https://infosecwriteups.com/the-mindset-of-a-penetration-tester-20ee8588d465?source=rss----7b722bfd1b8d---4)
-- [Building an Integrated Threat Intelligence Platform Using Python and Kibana](https://infosecwriteups.com/building-an-integrated-threat-intelligence-platform-using-python-and-kibana-84503afe6251?source=rss----7b722bfd1b8d---4)
-- [How to Add Windows Machines as Log Sources to QRadar: A Step-by-Step Guide](https://infosecwriteups.com/how-to-add-windows-machines-as-log-sources-to-qradar-a-step-by-step-guide-5ab44cce9ddd?source=rss----7b722bfd1b8d---4)
-- [A Comprehensive Beginner’s Guide to the Linux Kernel](https://infosecwriteups.com/a-comprehensive-beginners-guide-to-the-linux-kernel-9c4995c4cc66?source=rss----7b722bfd1b8d---4)
-- [How Hackers Turn Your Information into a Weapon](https://infosecwriteups.com/how-hackers-turn-your-information-into-a-weapon-bb3d8f283a75?source=rss----7b722bfd1b8d---4)
-- [Uncovering an IDOR on Reacted.com — A Curious Bug Hunter’s Tale ️‍♂️✨](https://infosecwriteups.com/uncovering-an-idor-on-reacted-com-a-curious-bug-hunters-tale-%EF%B8%8F-%EF%B8%8F-99f2bcf742af?source=rss----7b722bfd1b8d---4)
 - [How Did I Get My First Collaboration Bounty Of $1000?](https://cybersecuritywriteups.com/how-did-i-get-my-first-collaboration-bounty-of-1000-dc64ec02a6c7?source=rss------bug_bounty_writeup-5)
 - [Exploiting Android Activities with Drozer: A Step-by-Step Guide](https://medium.com/@ayushkumar12021987/exploiting-android-activities-with-drozer-a-step-by-step-guide-ebc9b564758d?source=rss------bug_bounty_writeup-5)
 - [Flexible Data Retrieval at Scale with HAQL](https://www.hackerone.com/engineering/haql)
