@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Purple Team Activities: Where Offense Meets Defense to Strengthen Cyber Resilience](https://infosecwriteups.com/purple-team-activities-where-offense-meets-defense-to-strengthen-cyber-resilience-82e76fafe76b?source=rss----7b722bfd1b8d---4)
+- [IDOR Leading To Improper Access Control](https://infosecwriteups.com/idor-leading-to-improper-access-control-c3999aa28fc4?source=rss----7b722bfd1b8d---4)
 - [From Novice to Pro: My Journey to Earning Through Bug Bounty Hunting](https://myselfakash20.medium.com/from-novice-to-pro-my-journey-to-earning-through-bug-bounty-hunting-3f123d19c39a?source=rss------bug_bounty_writeup-5)
 - [Building a Powerful Packet Sniffing Tool with Python](https://infosecwriteups.com/building-a-powerful-packet-sniffing-tool-with-python-896545b1fd71?source=rss----7b722bfd1b8d---4)
 - [Ticketmaster Data Breach Potentially Impacts 560 Million Customers](https://infosecwriteups.com/ticketmaster-data-breach-potentially-impacts-560-million-customers-dce7dcb054fb?source=rss----7b722bfd1b8d---4)
@@ -939,8 +941,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Bypass of Username Policy: Breaking the Rules with a Simple Trick](https://medium.com/@mrcix/bypass-of-username-policy-breaking-the-rules-with-a-simple-trick-fcf7ce97925c?source=rss------bug_bounty_writeup-5)
 - [Look This !](https://medium.com/@0xDARK/look-this-9f7aeb20af83?source=rss------bug_bounty_writeup-5)
 - [Browser’s Secret Diary: Memory Dumps Unveiled](https://infosecwriteups.com/browsers-secret-diary-memory-dumps-unveiled-6b8185156674?source=rss----7b722bfd1b8d---4)
-- [Sofia Santos: OSINT Exercise #002](https://infosecwriteups.com/sofia-santos-osint-exercise-002-c7869ab0b3a1?source=rss----7b722bfd1b8d---4)
-- [cybPython Packages and Libraries for Cybersecurity](https://infosecwriteups.com/cybpython-packages-and-libraries-for-cybersecurity-2a3640737c82?source=rss----7b722bfd1b8d---4)
 - [How Did I Get My First Collaboration Bounty Of $1000?](https://cybersecuritywriteups.com/how-did-i-get-my-first-collaboration-bounty-of-1000-dc64ec02a6c7?source=rss------bug_bounty_writeup-5)
 - [Flexible Data Retrieval at Scale with HAQL](https://www.hackerone.com/engineering/haql)
 - [AI in SecOps: How AI is Impacting Red and Blue Team Operations](https://www.hackerone.com/ai/sans-red-blue-team-ops)
