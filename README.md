@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Importance of Shodan in Bug Hunting: Your Ultimate Guide to Finding Hidden Gems](https://osintteam.blog/importance-of-shodan-in-bug-hunting-your-ultimate-guide-to-finding-hidden-gems-45cf87201d11?source=rss------bug_bounty_writeup-5)
 - [Purple Team Activities: Where Offense Meets Defense to Strengthen Cyber Resilience](https://infosecwriteups.com/purple-team-activities-where-offense-meets-defense-to-strengthen-cyber-resilience-82e76fafe76b?source=rss----7b722bfd1b8d---4)
 - [IDOR Leading To Improper Access Control](https://infosecwriteups.com/idor-leading-to-improper-access-control-c3999aa28fc4?source=rss----7b722bfd1b8d---4)
 - [From Novice to Pro: My Journey to Earning Through Bug Bounty Hunting](https://myselfakash20.medium.com/from-novice-to-pro-my-journey-to-earning-through-bug-bounty-hunting-3f123d19c39a?source=rss------bug_bounty_writeup-5)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Bypass of Username Policy: Breaking the Rules with a Simple Trick](https://medium.com/@mrcix/bypass-of-username-policy-breaking-the-rules-with-a-simple-trick-fcf7ce97925c?source=rss------bug_bounty_writeup-5)
 - [Look This !](https://medium.com/@0xDARK/look-this-9f7aeb20af83?source=rss------bug_bounty_writeup-5)
 - [Browser’s Secret Diary: Memory Dumps Unveiled](https://infosecwriteups.com/browsers-secret-diary-memory-dumps-unveiled-6b8185156674?source=rss----7b722bfd1b8d---4)
-- [How Did I Get My First Collaboration Bounty Of $1000?](https://cybersecuritywriteups.com/how-did-i-get-my-first-collaboration-bounty-of-1000-dc64ec02a6c7?source=rss------bug_bounty_writeup-5)
 - [Flexible Data Retrieval at Scale with HAQL](https://www.hackerone.com/engineering/haql)
 - [AI in SecOps: How AI is Impacting Red and Blue Team Operations](https://www.hackerone.com/ai/sans-red-blue-team-ops)
 - [HackerOne’s Fall Day of Service](https://www.hackerone.com/culture-and-talent/hackerones-fall-day-service)
