@@ -1,6 +1,8 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [HackTheBox Writeup — Easy Machine Walkthrough](https://infosecwriteups.com/hackthebox-writeup-easy-machine-walkthrough-a99d7696dd62?source=rss----7b722bfd1b8d---4)
+- [Pivoting in Penetration Testing: A Comprehensive Guide](https://infosecwriteups.com/pivoting-in-penetration-testing-a-comprehensive-guide-cfa090e45ee0?source=rss----7b722bfd1b8d---4)
 - [Importance of Shodan in Bug Hunting: Your Ultimate Guide to Finding Hidden Gems](https://osintteam.blog/importance-of-shodan-in-bug-hunting-your-ultimate-guide-to-finding-hidden-gems-45cf87201d11?source=rss------bug_bounty_writeup-5)
 - [Purple Team Activities: Where Offense Meets Defense to Strengthen Cyber Resilience](https://infosecwriteups.com/purple-team-activities-where-offense-meets-defense-to-strengthen-cyber-resilience-82e76fafe76b?source=rss----7b722bfd1b8d---4)
 - [IDOR Leading To Improper Access Control](https://infosecwriteups.com/idor-leading-to-improper-access-control-c3999aa28fc4?source=rss----7b722bfd1b8d---4)
@@ -11,7 +13,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Zero Day Exploit](https://infosecwriteups.com/zero-day-exploit-af8497153fd4?source=rss----7b722bfd1b8d---4)
 - [OWASP Top 10–2021 Tryhackme Writeup](https://infosecwriteups.com/owasp-top-10-2021-tryhackme-writeup-56f2a04c895e?source=rss----7b722bfd1b8d---4)
 - [Bad Bots: The Unseen Cyber Threat and the Fight to Secure the Internet](https://infosecwriteups.com/bad-bots-the-unseen-cyber-threat-and-the-fight-to-secure-the-internet-9ae6e0d1ef23?source=rss----7b722bfd1b8d---4)
-- [Inside a Fictitious Cyber Breach: Artemis’ IT Vulnerability Report](https://infosecwriteups.com/inside-a-fictitious-cyber-breach-artemis-it-vulnerability-report-dc9da2af3d73?source=rss----7b722bfd1b8d---4)
 - [FB OAuth Misconfiguration](https://xsametyigit.medium.com/fb-oauth-misconfiguration-d6c2f5d067d8?source=rss------bug_bounty_writeup-5)
 - [API Hacktics: Unveiling Vulnerabilities in Modern Web APIs](https://osintteam.blog/api-hacktics-unveiling-vulnerabilities-in-modern-web-apis-e41cc09a2b9d?source=rss------bug_bounty_writeup-5)
 - [Week 2: Hard Work Transforms into a 5-Digit Payday](https://mokhansec.medium.com/week-2-hard-work-transforms-into-a-5-digit-payday-8087819bccd9?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Weak Password Reset functionality](https://rootxabit.medium.com/weak-password-reset-functionality-8afe83e38213?source=rss------bug_bounty_writeup-5)
 - [Bypass of Username Policy: Breaking the Rules with a Simple Trick](https://medium.com/@mrcix/bypass-of-username-policy-breaking-the-rules-with-a-simple-trick-fcf7ce97925c?source=rss------bug_bounty_writeup-5)
 - [Look This !](https://medium.com/@0xDARK/look-this-9f7aeb20af83?source=rss------bug_bounty_writeup-5)
-- [Browser’s Secret Diary: Memory Dumps Unveiled](https://infosecwriteups.com/browsers-secret-diary-memory-dumps-unveiled-6b8185156674?source=rss----7b722bfd1b8d---4)
 - [Flexible Data Retrieval at Scale with HAQL](https://www.hackerone.com/engineering/haql)
 - [AI in SecOps: How AI is Impacting Red and Blue Team Operations](https://www.hackerone.com/ai/sans-red-blue-team-ops)
 - [HackerOne’s Fall Day of Service](https://www.hackerone.com/culture-and-talent/hackerones-fall-day-service)
