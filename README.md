@@ -922,6 +922,11 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [A Easy P4 in 10 min The Story of Finding Interesting Vulnerability inVDP program](https://infosecwriteups.com/the-story-of-finding-and-mitigating-no-rate-limiting-vulnerability-in-pickmycareer-7b2653d18bbc?source=rss----7b722bfd1b8d---4)
+- [HTB — Included](https://infosecwriteups.com/htb-included-cba3eb482413?source=rss----7b722bfd1b8d---4)
+- [Leviathan6 : Over The Wire](https://infosecwriteups.com/leviathan6-over-the-wire-1f2363918462?source=rss----7b722bfd1b8d---4)
+- [A Step-by-Step Walkthrough of the Netsquare CTF Challenge](https://infosecwriteups.com/a-step-by-step-walkthrough-of-the-netsquare-ctf-challenge-58212b63d44b?source=rss----7b722bfd1b8d---4)
+- [Defending Web Portals: Harnessing ModSecurity, Honeypots, and AppSensor for Robust Security](https://infosecwriteups.com/defending-web-portals-harnessing-modsecurity-honeypots-and-appsensor-for-robust-security-38526db8593d?source=rss----7b722bfd1b8d---4)
 - [Unlock Bug Bounty Brilliance: The Ultimate Guide to Browser Extensions That Supercharge Your…](https://osintteam.blog/unlock-bug-bounty-brilliance-the-ultimate-guide-to-browser-extensions-that-supercharge-your-fbb323e29dc0?source=rss------bug_bounty_writeup-5)
 - [HackTheBox Writeup — Easy Machine Walkthrough](https://infosecwriteups.com/hackthebox-writeup-easy-machine-walkthrough-a99d7696dd62?source=rss----7b722bfd1b8d---4)
 - [Pivoting in Penetration Testing: A Comprehensive Guide](https://infosecwriteups.com/pivoting-in-penetration-testing-a-comprehensive-guide-cfa090e45ee0?source=rss----7b722bfd1b8d---4)
@@ -931,11 +936,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [IDOR Leading To Improper Access Control](https://infosecwriteups.com/idor-leading-to-improper-access-control-c3999aa28fc4?source=rss----7b722bfd1b8d---4)
 - [From Novice to Pro: My Journey to Earning Through Bug Bounty Hunting](https://myselfakash20.medium.com/from-novice-to-pro-my-journey-to-earning-through-bug-bounty-hunting-3f123d19c39a?source=rss------bug_bounty_writeup-5)
 - [Building a Powerful Packet Sniffing Tool with Python](https://infosecwriteups.com/building-a-powerful-packet-sniffing-tool-with-python-896545b1fd71?source=rss----7b722bfd1b8d---4)
-- [Ticketmaster Data Breach Potentially Impacts 560 Million Customers](https://infosecwriteups.com/ticketmaster-data-breach-potentially-impacts-560-million-customers-dce7dcb054fb?source=rss----7b722bfd1b8d---4)
-- [SSRF to Internal Port Scanning on Self-Hosted Platform](https://infosecwriteups.com/ssrf-to-internal-port-scanning-on-self-hosted-platform-05a17a461eed?source=rss----7b722bfd1b8d---4)
-- [Zero Day Exploit](https://infosecwriteups.com/zero-day-exploit-af8497153fd4?source=rss----7b722bfd1b8d---4)
-- [OWASP Top 10–2021 Tryhackme Writeup](https://infosecwriteups.com/owasp-top-10-2021-tryhackme-writeup-56f2a04c895e?source=rss----7b722bfd1b8d---4)
-- [Bad Bots: The Unseen Cyber Threat and the Fight to Secure the Internet](https://infosecwriteups.com/bad-bots-the-unseen-cyber-threat-and-the-fight-to-secure-the-internet-9ae6e0d1ef23?source=rss----7b722bfd1b8d---4)
 - [FB OAuth Misconfiguration](https://xsametyigit.medium.com/fb-oauth-misconfiguration-d6c2f5d067d8?source=rss------bug_bounty_writeup-5)
 - [API Hacktics: Unveiling Vulnerabilities in Modern Web APIs](https://osintteam.blog/api-hacktics-unveiling-vulnerabilities-in-modern-web-apis-e41cc09a2b9d?source=rss------bug_bounty_writeup-5)
 - [Week 2: Hard Work Transforms into a 5-Digit Payday](https://mokhansec.medium.com/week-2-hard-work-transforms-into-a-5-digit-payday-8087819bccd9?source=rss------bug_bounty_writeup-5)
