@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Unlock Bug Bounty Brilliance: The Ultimate Guide to Browser Extensions That Supercharge Your…](https://osintteam.blog/unlock-bug-bounty-brilliance-the-ultimate-guide-to-browser-extensions-that-supercharge-your-fbb323e29dc0?source=rss------bug_bounty_writeup-5)
 - [HackTheBox Writeup — Easy Machine Walkthrough](https://infosecwriteups.com/hackthebox-writeup-easy-machine-walkthrough-a99d7696dd62?source=rss----7b722bfd1b8d---4)
 - [Pivoting in Penetration Testing: A Comprehensive Guide](https://infosecwriteups.com/pivoting-in-penetration-testing-a-comprehensive-guide-cfa090e45ee0?source=rss----7b722bfd1b8d---4)
 - [Importance of Shodan in Bug Hunting: Your Ultimate Guide to Finding Hidden Gems](https://osintteam.blog/importance-of-shodan-in-bug-hunting-your-ultimate-guide-to-finding-hidden-gems-45cf87201d11?source=rss------bug_bounty_writeup-5)
@@ -21,7 +22,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Comprehensive Guide to Exploitation Techniques for Bug Bounty Hunters: From Beginner to Advanced](https://myselfakash20.medium.com/comprehensive-guide-to-exploitation-techniques-for-bug-bounty-hunters-from-beginner-to-advanced-b32001326b9e?source=rss------bug_bounty_writeup-5)
 - [Weak Password Reset functionality](https://rootxabit.medium.com/weak-password-reset-functionality-8afe83e38213?source=rss------bug_bounty_writeup-5)
 - [Bypass of Username Policy: Breaking the Rules with a Simple Trick](https://medium.com/@mrcix/bypass-of-username-policy-breaking-the-rules-with-a-simple-trick-fcf7ce97925c?source=rss------bug_bounty_writeup-5)
-- [Look This !](https://medium.com/@0xDARK/look-this-9f7aeb20af83?source=rss------bug_bounty_writeup-5)
 - [Flexible Data Retrieval at Scale with HAQL](https://www.hackerone.com/engineering/haql)
 - [AI in SecOps: How AI is Impacting Red and Blue Team Operations](https://www.hackerone.com/ai/sans-red-blue-team-ops)
 - [HackerOne’s Fall Day of Service](https://www.hackerone.com/culture-and-talent/hackerones-fall-day-service)
