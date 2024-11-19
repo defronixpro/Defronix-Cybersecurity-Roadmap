@@ -925,6 +925,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [HackTheBox Writeup — Easy Machine Walkthrough](https://infosecwriteups.com/hackthebox-writeup-easy-machine-walkthrough-a99d7696dd62?source=rss----7b722bfd1b8d---4)
 - [Pivoting in Penetration Testing: A Comprehensive Guide](https://infosecwriteups.com/pivoting-in-penetration-testing-a-comprehensive-guide-cfa090e45ee0?source=rss----7b722bfd1b8d---4)
 - [Importance of Shodan in Bug Hunting: Your Ultimate Guide to Finding Hidden Gems](https://osintteam.blog/importance-of-shodan-in-bug-hunting-your-ultimate-guide-to-finding-hidden-gems-45cf87201d11?source=rss------bug_bounty_writeup-5)
+- [How REI Strengthens Security with HackerOne’s Global Security Researcher Community](https://www.hackerone.com/customer-story/rei-strengthens-security)
 - [Purple Team Activities: Where Offense Meets Defense to Strengthen Cyber Resilience](https://infosecwriteups.com/purple-team-activities-where-offense-meets-defense-to-strengthen-cyber-resilience-82e76fafe76b?source=rss----7b722bfd1b8d---4)
 - [IDOR Leading To Improper Access Control](https://infosecwriteups.com/idor-leading-to-improper-access-control-c3999aa28fc4?source=rss----7b722bfd1b8d---4)
 - [From Novice to Pro: My Journey to Earning Through Bug Bounty Hunting](https://myselfakash20.medium.com/from-novice-to-pro-my-journey-to-earning-through-bug-bounty-hunting-3f123d19c39a?source=rss------bug_bounty_writeup-5)
@@ -971,7 +972,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Introducing HackerOne Automations](https://www.hackerone.com/vulnerability-management/introducing-hackerone-automations)
 - [The Rise of Bug Bounty Programs in S-1 Filings: A New Standard in Corporate Security](https://www.hackerone.com/vulnerability-management/bug-bounty-s-1-filings)
 - [Announcing Hai Plays: Personalize Your Playbook for Spot-On Security Advice](https://www.hackerone.com/ai/hai-plays)
-- [Hack My Career: Harley Kimball’s Journey to DEFCON](https://www.hackerone.com/culture-and-talent/hack-my-career-harley-kimballs-journey-defcon)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
