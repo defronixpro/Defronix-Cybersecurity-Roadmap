@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [The $2,200 ATO Most Bug Hunters Overlooked by Closing Intruder Too Soon](https://mokhansec.medium.com/the-2-200-ato-most-bug-hunters-overlooked-by-closing-intruder-too-soon-505f21d56732?source=rss------bug_bounty_writeup-5)
 - [Bypassing Password Reuse Restriction A Security Flaw.](https://aman0.medium.com/bypassing-password-reuse-restriction-a-security-flaw-1bf2210d9bbd?source=rss------bug_bounty_writeup-5)
 - [Worth 10000$ Cracking the Price Barrier: Exploiting Price Tampering on an E-Commerce Website](https://medium.com/@kumawatabhijeet2002/worth-10000-cracking-the-price-barrier-exploiting-price-tampering-on-an-e-commerce-website-19e3f82f52aa?source=rss------bug_bounty_writeup-5)
 - [How HackerOne Employees Stay Connected and Have Fun](https://www.hackerone.com/culture-and-talent/how-hackerone-employees-stay-connected-and-have-fun)
@@ -943,7 +944,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [FB OAuth Misconfiguration](https://xsametyigit.medium.com/fb-oauth-misconfiguration-d6c2f5d067d8?source=rss------bug_bounty_writeup-5)
 - [API Hacktics: Unveiling Vulnerabilities in Modern Web APIs](https://osintteam.blog/api-hacktics-unveiling-vulnerabilities-in-modern-web-apis-e41cc09a2b9d?source=rss------bug_bounty_writeup-5)
 - [Week 2: Hard Work Transforms into a 5-Digit Payday](https://mokhansec.medium.com/week-2-hard-work-transforms-into-a-5-digit-payday-8087819bccd9?source=rss------bug_bounty_writeup-5)
-- [Exposing Open Redirect Vulnerabilities: JavaScript File Analysis in HTTP History Burp Suite](https://medium.com/@gheeX/exposing-open-redirect-vulnerabilities-javascript-file-analysis-in-http-history-burp-suite-c64bd1c93c54?source=rss------bug_bounty_writeup-5)
 - [Flexible Data Retrieval at Scale with HAQL](https://www.hackerone.com/engineering/haql)
 - [AI in SecOps: How AI is Impacting Red and Blue Team Operations](https://www.hackerone.com/ai/sans-red-blue-team-ops)
 - [HackerOne’s Fall Day of Service](https://www.hackerone.com/culture-and-talent/hackerones-fall-day-service)
