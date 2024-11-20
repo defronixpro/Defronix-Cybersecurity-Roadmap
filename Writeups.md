@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Honey, did you leave the APIs open again?](https://medium.com/@l_s_/honey-you-left-the-apis-open-again-c382a3a2d917?source=rss------bug_bounty_writeup-5)
 - [How i find Open Redirect and RFD on Steam domain](https://medium.com/@alcatech042/how-i-find-open-redirect-and-rfd-on-steam-domain-7f8b27457e5a?source=rss------bug_bounty_writeup-5)
 - [How Hidden 3xXSS got revealed](https://medium.com/@0xbugatti/how-hidden-3xxss-got-revealed-b42f041d36f6?source=rss------bug_bounty_writeup-5)
 - [The $2,200 ATO Most Bug Hunters Overlooked by Closing Intruder Too Soon](https://mokhansec.medium.com/the-2-200-ato-most-bug-hunters-overlooked-by-closing-intruder-too-soon-505f21d56732?source=rss------bug_bounty_writeup-5)
@@ -22,7 +23,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [IDOR Leading To Improper Access Control](https://infosecwriteups.com/idor-leading-to-improper-access-control-c3999aa28fc4?source=rss----7b722bfd1b8d---4)
 - [Building a Powerful Packet Sniffing Tool with Python](https://infosecwriteups.com/building-a-powerful-packet-sniffing-tool-with-python-896545b1fd71?source=rss----7b722bfd1b8d---4)
 - [FB OAuth Misconfiguration](https://xsametyigit.medium.com/fb-oauth-misconfiguration-d6c2f5d067d8?source=rss------bug_bounty_writeup-5)
-- [API Hacktics: Unveiling Vulnerabilities in Modern Web APIs](https://osintteam.blog/api-hacktics-unveiling-vulnerabilities-in-modern-web-apis-e41cc09a2b9d?source=rss------bug_bounty_writeup-5)
 - [Flexible Data Retrieval at Scale with HAQL](https://www.hackerone.com/engineering/haql)
 - [AI in SecOps: How AI is Impacting Red and Blue Team Operations](https://www.hackerone.com/ai/sans-red-blue-team-ops)
 - [HackerOne’s Fall Day of Service](https://www.hackerone.com/culture-and-talent/hackerones-fall-day-service)
