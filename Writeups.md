@@ -1,6 +1,8 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Worth 10000$ Cracking the Price Barrier: Exploiting Price Tampering on an E-Commerce Website](https://medium.com/@kumawatabhijeet2002/worth-10000-cracking-the-price-barrier-exploiting-price-tampering-on-an-e-commerce-website-19e3f82f52aa?source=rss------bug_bounty_writeup-5)
+- [How HackerOne Employees Stay Connected and Have Fun](https://www.hackerone.com/culture-and-talent/how-hackerone-employees-stay-connected-and-have-fun)
 - [Easy admin Access By Gaming with JSON](https://medium.com/@0xbugatti/easy-admin-access-by-gaming-with-json-5ec5313e2236?source=rss------bug_bounty_writeup-5)
 - [A Easy P4 in 10 min The Story of Finding Interesting Vulnerability inVDP program](https://infosecwriteups.com/the-story-of-finding-and-mitigating-no-rate-limiting-vulnerability-in-pickmycareer-7b2653d18bbc?source=rss----7b722bfd1b8d---4)
 - [HTB — Included](https://infosecwriteups.com/htb-included-cba3eb482413?source=rss----7b722bfd1b8d---4)
@@ -21,7 +23,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Week 2: Hard Work Transforms into a 5-Digit Payday](https://mokhansec.medium.com/week-2-hard-work-transforms-into-a-5-digit-payday-8087819bccd9?source=rss------bug_bounty_writeup-5)
 - [Exposing Open Redirect Vulnerabilities: JavaScript File Analysis in HTTP History Burp Suite](https://medium.com/@gheeX/exposing-open-redirect-vulnerabilities-javascript-file-analysis-in-http-history-burp-suite-c64bd1c93c54?source=rss------bug_bounty_writeup-5)
 - [Comprehensive Guide to Exploitation Techniques for Bug Bounty Hunters: From Beginner to Advanced](https://myselfakash20.medium.com/comprehensive-guide-to-exploitation-techniques-for-bug-bounty-hunters-from-beginner-to-advanced-b32001326b9e?source=rss------bug_bounty_writeup-5)
-- [Weak Password Reset functionality](https://rootxabit.medium.com/weak-password-reset-functionality-8afe83e38213?source=rss------bug_bounty_writeup-5)
 - [Flexible Data Retrieval at Scale with HAQL](https://www.hackerone.com/engineering/haql)
 - [AI in SecOps: How AI is Impacting Red and Blue Team Operations](https://www.hackerone.com/ai/sans-red-blue-team-ops)
 - [HackerOne’s Fall Day of Service](https://www.hackerone.com/culture-and-talent/hackerones-fall-day-service)
@@ -466,9 +467,9 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How does Pentesting fit into your overall security strategy?](https://www.hackerone.com/penetration-testing/how-does-pentesting-fit-your-overall-security-strategy)
 - [h1-2006 CTF](https://www.hackerone.com/ethical-hacker/h1-2006-ctf)
 - [Crowdsourcing Racial Justice and Equality](https://www.hackerone.com/company-news/crowdsourcing-racial-justice-and-equality)
-- [There is no room for racism or inequality here.](https://www.hackerone.com/ceo/there-no-room-racism-or-inequality-here)
+- [There is no room for racism or inequality here.](https://www.hackerone.com/blogs-hackerones-former-ceo/there-no-room-racism-or-inequality-here)
 - [The Journey in Data: HackerOne Hits 100 Million Dollars in Bounties](https://www.hackerone.com/ethical-hacker/journey-data-hackerone-hits-100-million-dollars-bounties)
-- [$100 Million Paid - One Billion in Sight for Hackers](https://www.hackerone.com/ceo/100-million-paid-one-billion-sight-hackers)
+- [$100 Million Paid - One Billion in Sight for Hackers](https://www.hackerone.com/blogs-hackerones-former-ceo/100-million-paid-one-billion-sight-hackers)
 - [Thanks For Being Part Of The Journey to $100 Million in Bounties!](https://www.hackerone.com/ethical-hacker/thanks-being-part-journey-100-million-bounties)
 - [10 Ways to Hack Your “New Normal” Workweek](https://www.hackerone.com/company-news/10-ways-hack-your-new-normal-workweek)
 - [How Federal Agencies Use Vulnerability Disclosure Policies to Level Up Security](https://www.hackerone.com/vulnerability-management/how-federal-agencies-use-vulnerability-disclosure-policies-level-security)
