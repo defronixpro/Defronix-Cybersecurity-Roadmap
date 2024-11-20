@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Worth 10000$ Cracking the Price Barrier: Exploiting Price Tampering on an E-Commerce Website](https://medium.com/@kumawatabhijeet2002/worth-10000-cracking-the-price-barrier-exploiting-price-tampering-on-an-e-commerce-website-19e3f82f52aa?source=rss------bug_bounty_writeup-5)
 - [How HackerOne Employees Stay Connected and Have Fun](https://www.hackerone.com/culture-and-talent/how-hackerone-employees-stay-connected-and-have-fun)
 - [Easy admin Access By Gaming with JSON](https://medium.com/@0xbugatti/easy-admin-access-by-gaming-with-json-5ec5313e2236?source=rss------bug_bounty_writeup-5)
 - [A Easy P4 in 10 min The Story of Finding Interesting Vulnerability inVDP program](https://infosecwriteups.com/the-story-of-finding-and-mitigating-no-rate-limiting-vulnerability-in-pickmycareer-7b2653d18bbc?source=rss----7b722bfd1b8d---4)
@@ -943,7 +944,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Week 2: Hard Work Transforms into a 5-Digit Payday](https://mokhansec.medium.com/week-2-hard-work-transforms-into-a-5-digit-payday-8087819bccd9?source=rss------bug_bounty_writeup-5)
 - [Exposing Open Redirect Vulnerabilities: JavaScript File Analysis in HTTP History Burp Suite](https://medium.com/@gheeX/exposing-open-redirect-vulnerabilities-javascript-file-analysis-in-http-history-burp-suite-c64bd1c93c54?source=rss------bug_bounty_writeup-5)
 - [Comprehensive Guide to Exploitation Techniques for Bug Bounty Hunters: From Beginner to Advanced](https://myselfakash20.medium.com/comprehensive-guide-to-exploitation-techniques-for-bug-bounty-hunters-from-beginner-to-advanced-b32001326b9e?source=rss------bug_bounty_writeup-5)
-- [Weak Password Reset functionality](https://rootxabit.medium.com/weak-password-reset-functionality-8afe83e38213?source=rss------bug_bounty_writeup-5)
 - [Flexible Data Retrieval at Scale with HAQL](https://www.hackerone.com/engineering/haql)
 - [AI in SecOps: How AI is Impacting Red and Blue Team Operations](https://www.hackerone.com/ai/sans-red-blue-team-ops)
 - [HackerOne’s Fall Day of Service](https://www.hackerone.com/culture-and-talent/hackerones-fall-day-service)
