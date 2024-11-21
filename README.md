@@ -929,6 +929,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Observability Strategies to Efficiently Scale Kubernetes Pods](https://infosecwriteups.com/observability-strategies-to-efficiently-scale-kubernetes-pods-81b778108111?source=rss----7b722bfd1b8d---4)
 - [How I Reported Over 50 security vulnerability in a Single Program with Just the Main App in Scope](https://medium.com/@abdalah336/how-i-reported-over-50-security-vulnerability-in-a-single-program-with-just-the-main-app-in-scope-0045b9d39644?source=rss------bug_bounty_writeup-5)
 - [Honey, did you leave the APIs open again?](https://medium.com/@l_s_/honey-you-left-the-apis-open-again-c382a3a2d917?source=rss------bug_bounty_writeup-5)
+- [How Inadequate Authentication Logic Led to an MFA Bypass and Account Takeover](https://www.hackerone.com/how-inadequate-authentication-logic-led-mfa-bypass-and-account-takeover)
 - [How i find Open Redirect and RFD on Steam domain](https://medium.com/@Aizen-arrancar/how-i-find-open-redirect-and-rfd-on-steam-domain-7f8b27457e5a?source=rss------bug_bounty_writeup-5)
 - [How Hidden 3xXSS got revealed](https://medium.com/@0xbugatti/how-hidden-3xxss-got-revealed-b42f041d36f6?source=rss------bug_bounty_writeup-5)
 - [The $2,200 ATO Most Bug Hunters Overlooked by Closing Intruder Too Soon](https://mokhansec.medium.com/the-2-200-ato-most-bug-hunters-overlooked-by-closing-intruder-too-soon-505f21d56732?source=rss------bug_bounty_writeup-5)
@@ -971,7 +972,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How to Streamline Your SDLC With Hai](https://www.hackerone.com/ai/streamline-sdlc-with-hai)
 - [How to Accelerate Vulnerability Remediation with Hai](https://www.hackerone.com/ai/accelerate-vulnerability-remediation-with-hai)
 - [Introducing HackerOne Automations](https://www.hackerone.com/vulnerability-management/introducing-hackerone-automations)
-- [The Rise of Bug Bounty Programs in S-1 Filings: A New Standard in Corporate Security](https://www.hackerone.com/vulnerability-management/bug-bounty-s-1-filings)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
