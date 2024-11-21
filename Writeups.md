@@ -1,6 +1,11 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Have You Been Hacked Before on Instagram or Know Someone Who Has? Here’s How to Stay Safe](https://infosecwriteups.com/have-you-been-hacked-before-on-instagram-or-know-someone-who-has-heres-how-to-stay-safe-0ffa195afbb0?source=rss----7b722bfd1b8d---4)
+- [Sofia Santos: OSINT Exercise #003](https://infosecwriteups.com/sofia-santos-osint-exercise-003-1b175a72e1bb?source=rss----7b722bfd1b8d---4)
+- [XSS | Here’s how I got my first bounty](https://infosecwriteups.com/xss-heres-how-i-got-my-first-bounty-4f64785fe6f8?source=rss----7b722bfd1b8d---4)
+- [Bug Bounty | Here’s Why Your Way To Success Doesn’t Lie In Learning](https://infosecwriteups.com/bug-bounty-heres-why-your-way-to-success-doesn-t-lie-in-learning-bc72d4000b88?source=rss----7b722bfd1b8d---4)
+- [Observability Strategies to Efficiently Scale Kubernetes Pods](https://infosecwriteups.com/observability-strategies-to-efficiently-scale-kubernetes-pods-81b778108111?source=rss----7b722bfd1b8d---4)
 - [How I Reported Over 50 security vulnerability in a Single Program with Just the Main App in Scope](https://medium.com/@abdalah336/how-i-reported-over-50-security-vulnerability-in-a-single-program-with-just-the-main-app-in-scope-0045b9d39644?source=rss------bug_bounty_writeup-5)
 - [Honey, did you leave the APIs open again?](https://medium.com/@l_s_/honey-you-left-the-apis-open-again-c382a3a2d917?source=rss------bug_bounty_writeup-5)
 - [How i find Open Redirect and RFD on Steam domain](https://medium.com/@Aizen-arrancar/how-i-find-open-redirect-and-rfd-on-steam-domain-7f8b27457e5a?source=rss------bug_bounty_writeup-5)
@@ -16,13 +21,8 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [A Step-by-Step Walkthrough of the Netsquare CTF Challenge](https://infosecwriteups.com/a-step-by-step-walkthrough-of-the-netsquare-ctf-challenge-58212b63d44b?source=rss----7b722bfd1b8d---4)
 - [Defending Web Portals: Harnessing ModSecurity, Honeypots, and AppSensor for Robust Security](https://infosecwriteups.com/defending-web-portals-harnessing-modsecurity-honeypots-and-appsensor-for-robust-security-38526db8593d?source=rss----7b722bfd1b8d---4)
 - [Unlock Bug Bounty Brilliance: The Ultimate Guide to Browser Extensions That Supercharge Your…](https://osintteam.blog/unlock-bug-bounty-brilliance-the-ultimate-guide-to-browser-extensions-that-supercharge-your-fbb323e29dc0?source=rss------bug_bounty_writeup-5)
-- [HackTheBox Writeup — Easy Machine Walkthrough](https://infosecwriteups.com/hackthebox-writeup-easy-machine-walkthrough-a99d7696dd62?source=rss----7b722bfd1b8d---4)
-- [Pivoting in Penetration Testing: A Comprehensive Guide](https://infosecwriteups.com/pivoting-in-penetration-testing-a-comprehensive-guide-cfa090e45ee0?source=rss----7b722bfd1b8d---4)
 - [Importance of Shodan in Bug Hunting: Your Ultimate Guide to Finding Hidden Gems](https://osintteam.blog/importance-of-shodan-in-bug-hunting-your-ultimate-guide-to-finding-hidden-gems-45cf87201d11?source=rss------bug_bounty_writeup-5)
 - [How REI Strengthens Security with HackerOne’s Global Security Researcher Community](https://www.hackerone.com/customer-story/rei-strengthens-security)
-- [Purple Team Activities: Where Offense Meets Defense to Strengthen Cyber Resilience](https://infosecwriteups.com/purple-team-activities-where-offense-meets-defense-to-strengthen-cyber-resilience-82e76fafe76b?source=rss----7b722bfd1b8d---4)
-- [IDOR Leading To Improper Access Control](https://infosecwriteups.com/idor-leading-to-improper-access-control-c3999aa28fc4?source=rss----7b722bfd1b8d---4)
-- [Building a Powerful Packet Sniffing Tool with Python](https://infosecwriteups.com/building-a-powerful-packet-sniffing-tool-with-python-896545b1fd71?source=rss----7b722bfd1b8d---4)
 - [Flexible Data Retrieval at Scale with HAQL](https://www.hackerone.com/engineering/haql)
 - [AI in SecOps: How AI is Impacting Red and Blue Team Operations](https://www.hackerone.com/ai/sans-red-blue-team-ops)
 - [HackerOne’s Fall Day of Service](https://www.hackerone.com/culture-and-talent/hackerones-fall-day-service)
