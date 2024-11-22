@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [My Journey Finding Bugs on NASA](https://cybersecuritywriteups.com/my-journey-finding-bugs-on-nasa-a2296d142b0a?source=rss------bug_bounty_writeup-5)
 - [Have You Been Hacked Before on Instagram or Know Someone Who Has? Here’s How to Stay Safe](https://infosecwriteups.com/have-you-been-hacked-before-on-instagram-or-know-someone-who-has-heres-how-to-stay-safe-0ffa195afbb0?source=rss----7b722bfd1b8d---4)
 - [Sofia Santos: OSINT Exercise #003](https://infosecwriteups.com/sofia-santos-osint-exercise-003-1b175a72e1bb?source=rss----7b722bfd1b8d---4)
 - [XSS | Here’s how I got my first bounty](https://infosecwriteups.com/xss-heres-how-i-got-my-first-bounty-4f64785fe6f8?source=rss----7b722bfd1b8d---4)
@@ -971,7 +972,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How to Streamline Your SDLC With Hai](https://www.hackerone.com/ai/streamline-sdlc-with-hai)
 - [How to Accelerate Vulnerability Remediation with Hai](https://www.hackerone.com/ai/accelerate-vulnerability-remediation-with-hai)
 - [Introducing HackerOne Automations](https://www.hackerone.com/vulnerability-management/introducing-hackerone-automations)
-- [The Rise of Bug Bounty Programs in S-1 Filings: A New Standard in Corporate Security](https://www.hackerone.com/vulnerability-management/bug-bounty-s-1-filings)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
