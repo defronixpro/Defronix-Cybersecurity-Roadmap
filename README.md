@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Finding and Exploiting open SMB service [bug bounty write-up].](https://medium.com/@sugamdangal52/finding-and-exploiting-open-smb-service-bug-bounty-write-up-492d72cd2fa3?source=rss------bug_bounty_writeup-5)
 - [My Journey Finding Bugs on NASA](https://cybersecuritywriteups.com/my-journey-finding-bugs-on-nasa-a2296d142b0a?source=rss------bug_bounty_writeup-5)
 - [Have You Been Hacked Before on Instagram or Know Someone Who Has? Here’s How to Stay Safe](https://infosecwriteups.com/have-you-been-hacked-before-on-instagram-or-know-someone-who-has-heres-how-to-stay-safe-0ffa195afbb0?source=rss----7b722bfd1b8d---4)
 - [Sofia Santos: OSINT Exercise #003](https://infosecwriteups.com/sofia-santos-osint-exercise-003-1b175a72e1bb?source=rss----7b722bfd1b8d---4)
@@ -943,7 +944,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Leviathan6 : Over The Wire](https://infosecwriteups.com/leviathan6-over-the-wire-1f2363918462?source=rss----7b722bfd1b8d---4)
 - [A Step-by-Step Walkthrough of the Netsquare CTF Challenge](https://infosecwriteups.com/a-step-by-step-walkthrough-of-the-netsquare-ctf-challenge-58212b63d44b?source=rss----7b722bfd1b8d---4)
 - [Defending Web Portals: Harnessing ModSecurity, Honeypots, and AppSensor for Robust Security](https://infosecwriteups.com/defending-web-portals-harnessing-modsecurity-honeypots-and-appsensor-for-robust-security-38526db8593d?source=rss----7b722bfd1b8d---4)
-- [Unlock Bug Bounty Brilliance: The Ultimate Guide to Browser Extensions That Supercharge Your…](https://osintteam.blog/unlock-bug-bounty-brilliance-the-ultimate-guide-to-browser-extensions-that-supercharge-your-fbb323e29dc0?source=rss------bug_bounty_writeup-5)
 - [How REI Strengthens Security with HackerOne’s Global Security Researcher Community](https://www.hackerone.com/customer-story/rei-strengthens-security)
 - [Flexible Data Retrieval at Scale with HAQL](https://www.hackerone.com/engineering/haql)
 - [AI in SecOps: How AI is Impacting Red and Blue Team Operations](https://www.hackerone.com/ai/sans-red-blue-team-ops)
