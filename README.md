@@ -943,7 +943,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [A Step-by-Step Walkthrough of the Netsquare CTF Challenge](https://infosecwriteups.com/a-step-by-step-walkthrough-of-the-netsquare-ctf-challenge-58212b63d44b?source=rss----7b722bfd1b8d---4)
 - [Defending Web Portals: Harnessing ModSecurity, Honeypots, and AppSensor for Robust Security](https://infosecwriteups.com/defending-web-portals-harnessing-modsecurity-honeypots-and-appsensor-for-robust-security-38526db8593d?source=rss----7b722bfd1b8d---4)
 - [Unlock Bug Bounty Brilliance: The Ultimate Guide to Browser Extensions That Supercharge Your…](https://osintteam.blog/unlock-bug-bounty-brilliance-the-ultimate-guide-to-browser-extensions-that-supercharge-your-fbb323e29dc0?source=rss------bug_bounty_writeup-5)
-- [Importance of Shodan in Bug Hunting: Your Ultimate Guide to Finding Hidden Gems](https://osintteam.blog/importance-of-shodan-in-bug-hunting-your-ultimate-guide-to-finding-hidden-gems-45cf87201d11?source=rss------bug_bounty_writeup-5)
 - [How REI Strengthens Security with HackerOne’s Global Security Researcher Community](https://www.hackerone.com/customer-story/rei-strengthens-security)
 - [Flexible Data Retrieval at Scale with HAQL](https://www.hackerone.com/engineering/haql)
 - [AI in SecOps: How AI is Impacting Red and Blue Team Operations](https://www.hackerone.com/ai/sans-red-blue-team-ops)
@@ -972,6 +971,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How to Streamline Your SDLC With Hai](https://www.hackerone.com/ai/streamline-sdlc-with-hai)
 - [How to Accelerate Vulnerability Remediation with Hai](https://www.hackerone.com/ai/accelerate-vulnerability-remediation-with-hai)
 - [Introducing HackerOne Automations](https://www.hackerone.com/vulnerability-management/introducing-hackerone-automations)
+- [The Rise of Bug Bounty Programs in S-1 Filings: A New Standard in Corporate Security](https://www.hackerone.com/vulnerability-management/bug-bounty-s-1-filings)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
