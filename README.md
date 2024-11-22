@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Unveiling a Critical Bug in One of the World’s Largest Banks: My Barclays Story](https://cybersecuritywriteups.com/unveiling-a-critical-bug-in-one-of-the-worlds-largest-banks-my-barclays-story-34a9fb5f5140?source=rss------bug_bounty_writeup-5)
 - [Finding and Exploiting open SMB service [bug bounty write-up].](https://medium.com/@sugamdangal52/finding-and-exploiting-open-smb-service-bug-bounty-write-up-492d72cd2fa3?source=rss------bug_bounty_writeup-5)
 - [My Journey Finding Bugs on NASA](https://cybersecuritywriteups.com/my-journey-finding-bugs-on-nasa-a2296d142b0a?source=rss------bug_bounty_writeup-5)
 - [Have You Been Hacked Before on Instagram or Know Someone Who Has? Here’s How to Stay Safe](https://infosecwriteups.com/have-you-been-hacked-before-on-instagram-or-know-someone-who-has-heres-how-to-stay-safe-0ffa195afbb0?source=rss----7b722bfd1b8d---4)
@@ -938,7 +939,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Bypassing Password Reuse Restriction A Security Flaw.](https://aman0.medium.com/bypassing-password-reuse-restriction-a-security-flaw-1bf2210d9bbd?source=rss------bug_bounty_writeup-5)
 - [Worth 10000$ Cracking the Price Barrier: Exploiting Price Tampering on an E-Commerce Website](https://medium.com/@kumawatabhijeet2002/worth-10000-cracking-the-price-barrier-exploiting-price-tampering-on-an-e-commerce-website-19e3f82f52aa?source=rss------bug_bounty_writeup-5)
 - [How HackerOne Employees Stay Connected and Have Fun](https://www.hackerone.com/culture-and-talent/how-hackerone-employees-stay-connected-and-have-fun)
-- [Easy admin Access By Gaming with JSON](https://medium.com/@0xbugatti/easy-admin-access-by-gaming-with-json-5ec5313e2236?source=rss------bug_bounty_writeup-5)
 - [A Easy P4 in 10 min The Story of Finding Interesting Vulnerability inVDP program](https://infosecwriteups.com/the-story-of-finding-and-mitigating-no-rate-limiting-vulnerability-in-pickmycareer-7b2653d18bbc?source=rss----7b722bfd1b8d---4)
 - [HTB — Included](https://infosecwriteups.com/htb-included-cba3eb482413?source=rss----7b722bfd1b8d---4)
 - [Leviathan6 : Over The Wire](https://infosecwriteups.com/leviathan6-over-the-wire-1f2363918462?source=rss----7b722bfd1b8d---4)
