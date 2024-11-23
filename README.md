@@ -922,6 +922,9 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Methods to bypass 403 &amp; 401](https://infosecwriteups.com/methods-to-bypass-403-401-38df4cec069e?source=rss----7b722bfd1b8d---4)
+- [Disallowed but Discoverable: The Hacker’s robots.txt Playbook](https://infosecwriteups.com/disallowed-but-discoverable-the-hackers-robots-txt-playbook-73dca570f23e?source=rss----7b722bfd1b8d---4)
+- [Building a Virtual Ethical Hacking Home Lab — Part 4: Attack Machine Setup](https://infosecwriteups.com/building-a-virtual-ethical-hacking-home-lab-part-4-attack-machine-setup-74dcc866c6ef?source=rss----7b722bfd1b8d---4)
 - [How I Discovered an Email Change Vulnerability Leading to Pre-Account Takeover | p2](https://medium.com/@dhananjay_00/how-i-discovered-an-email-change-vulnerability-leading-to-pre-account-takeover-p2-7e76e0002eef?source=rss------bug_bounty_writeup-5)
 - [Building a Custom Fraud Prevention System: Defending Against Modern Cyber Threats](https://infosecwriteups.com/building-a-custom-fraud-prevention-system-defending-against-modern-cyber-threats-f1fd71f72125?source=rss----7b722bfd1b8d---4)
 - [Google Dorking: A Must](https://infosecwriteups.com/google-dorking-a-must-96a8aab07e20?source=rss----7b722bfd1b8d---4)
@@ -930,10 +933,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Chemistry HTB Walkthrough](https://infosecwriteups.com/chemistry-htb-walkthrough-197aa233de3e?source=rss----7b722bfd1b8d---4)
 - [How to host your website in darkweb.](https://infosecwriteups.com/how-to-host-your-website-in-darkweb-44d22c873365?source=rss----7b722bfd1b8d---4)
 - [How I Earned $650 Using Just Recon: A Bug Hunter’s Success Story](https://infosecwriteups.com/how-i-earned-650-using-just-recon-a-bug-hunters-success-story-4d78788e46a5?source=rss----7b722bfd1b8d---4)
-- [Why Bug Bounty Is Just for You :&rpar;](https://infosecwriteups.com/why-bug-bounty-is-just-for-you-61541deb62b8?source=rss----7b722bfd1b8d---4)
-- [Cracking the eJPT: My Journey to Becoming a Junior Penetration Tester](https://infosecwriteups.com/cracking-the-ejpt-my-journey-to-becoming-a-junior-penetration-tester-be94c4c7629f?source=rss----7b722bfd1b8d---4)
-- [Lookup THM Walkthrough](https://infosecwriteups.com/lookup-thm-walkthrough-fdced3367aa6?source=rss----7b722bfd1b8d---4)
-- [Disallowed but Discoverable: The Hacker’s robots.txt Playbook](https://myselfakash20.medium.com/disallowed-but-discoverable-the-hackers-robots-txt-playbook-73dca570f23e?source=rss------bug_bounty_writeup-5)
 - [Unveiling a Critical Bug in One of the World’s Largest Banks: My Barclays Story](https://cybersecuritywriteups.com/unveiling-a-critical-bug-in-one-of-the-worlds-largest-banks-my-barclays-story-34a9fb5f5140?source=rss------bug_bounty_writeup-5)
 - [Finding and Exploiting open SMB service [bug bounty write-up].](https://medium.com/@sugamdangal52/finding-and-exploiting-open-smb-service-bug-bounty-write-up-492d72cd2fa3?source=rss------bug_bounty_writeup-5)
 - [My Journey Finding Bugs on NASA](https://cybersecuritywriteups.com/my-journey-finding-bugs-on-nasa-a2296d142b0a?source=rss------bug_bounty_writeup-5)
@@ -943,6 +942,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How i find Open Redirect and RFD on Steam domain](https://medium.com/@Aizen-arrancar/how-i-find-open-redirect-and-rfd-on-steam-domain-7f8b27457e5a?source=rss------bug_bounty_writeup-5)
 - [How Hidden 3xXSS got revealed](https://medium.com/@0xbugatti/how-hidden-3xxss-got-revealed-b42f041d36f6?source=rss------bug_bounty_writeup-5)
 - [The $2,200 ATO Most Bug Hunters Overlooked by Closing Intruder Too Soon](https://mokhansec.medium.com/the-2-200-ato-most-bug-hunters-overlooked-by-closing-intruder-too-soon-505f21d56732?source=rss------bug_bounty_writeup-5)
+- [Bypassing Password Reuse Restriction A Security Flaw.](https://aman0.medium.com/bypassing-password-reuse-restriction-a-security-flaw-1bf2210d9bbd?source=rss------bug_bounty_writeup-5)
 - [How HackerOne Employees Stay Connected and Have Fun](https://www.hackerone.com/culture-and-talent/how-hackerone-employees-stay-connected-and-have-fun)
 - [How REI Strengthens Security with HackerOne’s Global Security Researcher Community](https://www.hackerone.com/customer-story/rei-strengthens-security)
 - [Flexible Data Retrieval at Scale with HAQL](https://www.hackerone.com/engineering/haql)
