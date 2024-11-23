@@ -1,6 +1,9 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Methods to bypass 403 &amp; 401](https://infosecwriteups.com/methods-to-bypass-403-401-38df4cec069e?source=rss----7b722bfd1b8d---4)
+- [Disallowed but Discoverable: The Hacker’s robots.txt Playbook](https://infosecwriteups.com/disallowed-but-discoverable-the-hackers-robots-txt-playbook-73dca570f23e?source=rss----7b722bfd1b8d---4)
+- [Building a Virtual Ethical Hacking Home Lab — Part 4: Attack Machine Setup](https://infosecwriteups.com/building-a-virtual-ethical-hacking-home-lab-part-4-attack-machine-setup-74dcc866c6ef?source=rss----7b722bfd1b8d---4)
 - [How I Discovered an Email Change Vulnerability Leading to Pre-Account Takeover | p2](https://medium.com/@dhananjay_00/how-i-discovered-an-email-change-vulnerability-leading-to-pre-account-takeover-p2-7e76e0002eef?source=rss------bug_bounty_writeup-5)
 - [Building a Custom Fraud Prevention System: Defending Against Modern Cyber Threats](https://infosecwriteups.com/building-a-custom-fraud-prevention-system-defending-against-modern-cyber-threats-f1fd71f72125?source=rss----7b722bfd1b8d---4)
 - [Google Dorking: A Must](https://infosecwriteups.com/google-dorking-a-must-96a8aab07e20?source=rss----7b722bfd1b8d---4)
@@ -9,9 +12,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Chemistry HTB Walkthrough](https://infosecwriteups.com/chemistry-htb-walkthrough-197aa233de3e?source=rss----7b722bfd1b8d---4)
 - [How to host your website in darkweb.](https://infosecwriteups.com/how-to-host-your-website-in-darkweb-44d22c873365?source=rss----7b722bfd1b8d---4)
 - [How I Earned $650 Using Just Recon: A Bug Hunter’s Success Story](https://infosecwriteups.com/how-i-earned-650-using-just-recon-a-bug-hunters-success-story-4d78788e46a5?source=rss----7b722bfd1b8d---4)
-- [Why Bug Bounty Is Just for You :&rpar;](https://infosecwriteups.com/why-bug-bounty-is-just-for-you-61541deb62b8?source=rss----7b722bfd1b8d---4)
-- [Cracking the eJPT: My Journey to Becoming a Junior Penetration Tester](https://infosecwriteups.com/cracking-the-ejpt-my-journey-to-becoming-a-junior-penetration-tester-be94c4c7629f?source=rss----7b722bfd1b8d---4)
-- [Lookup THM Walkthrough](https://infosecwriteups.com/lookup-thm-walkthrough-fdced3367aa6?source=rss----7b722bfd1b8d---4)
 - [Unveiling a Critical Bug in One of the World’s Largest Banks: My Barclays Story](https://cybersecuritywriteups.com/unveiling-a-critical-bug-in-one-of-the-worlds-largest-banks-my-barclays-story-34a9fb5f5140?source=rss------bug_bounty_writeup-5)
 - [Finding and Exploiting open SMB service [bug bounty write-up].](https://medium.com/@sugamdangal52/finding-and-exploiting-open-smb-service-bug-bounty-write-up-492d72cd2fa3?source=rss------bug_bounty_writeup-5)
 - [My Journey Finding Bugs on NASA](https://cybersecuritywriteups.com/my-journey-finding-bugs-on-nasa-a2296d142b0a?source=rss------bug_bounty_writeup-5)
