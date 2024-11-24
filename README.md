@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Week 3: When the Drive to Work Fades](https://mokhansec.medium.com/week-3-when-the-drive-to-work-fades-3e94a89559c0?source=rss------bug_bounty_writeup-5)
 - [Methods to bypass 403 &amp; 401](https://infosecwriteups.com/methods-to-bypass-403-401-38df4cec069e?source=rss----7b722bfd1b8d---4)
 - [Disallowed but Discoverable: The Hacker’s robots.txt Playbook](https://infosecwriteups.com/disallowed-but-discoverable-the-hackers-robots-txt-playbook-73dca570f23e?source=rss----7b722bfd1b8d---4)
 - [Building a Virtual Ethical Hacking Home Lab — Part 4: Attack Machine Setup](https://infosecwriteups.com/building-a-virtual-ethical-hacking-home-lab-part-4-attack-machine-setup-74dcc866c6ef?source=rss----7b722bfd1b8d---4)
@@ -942,7 +943,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How i find Open Redirect and RFD on Steam domain](https://medium.com/@Aizen-arrancar/how-i-find-open-redirect-and-rfd-on-steam-domain-7f8b27457e5a?source=rss------bug_bounty_writeup-5)
 - [How Hidden 3xXSS got revealed](https://medium.com/@0xbugatti/how-hidden-3xxss-got-revealed-b42f041d36f6?source=rss------bug_bounty_writeup-5)
 - [The $2,200 ATO Most Bug Hunters Overlooked by Closing Intruder Too Soon](https://mokhansec.medium.com/the-2-200-ato-most-bug-hunters-overlooked-by-closing-intruder-too-soon-505f21d56732?source=rss------bug_bounty_writeup-5)
-- [Bypassing Password Reuse Restriction A Security Flaw.](https://aman0.medium.com/bypassing-password-reuse-restriction-a-security-flaw-1bf2210d9bbd?source=rss------bug_bounty_writeup-5)
 - [How HackerOne Employees Stay Connected and Have Fun](https://www.hackerone.com/culture-and-talent/how-hackerone-employees-stay-connected-and-have-fun)
 - [How REI Strengthens Security with HackerOne’s Global Security Researcher Community](https://www.hackerone.com/customer-story/rei-strengthens-security)
 - [Flexible Data Retrieval at Scale with HAQL](https://www.hackerone.com/engineering/haql)
