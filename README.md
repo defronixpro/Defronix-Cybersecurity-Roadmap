@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Bug Bounty Tips and Tricks](https://bevijaygupta.medium.com/bug-bounty-tips-and-tricks-7b25317c8e7e?source=rss------bug_bounty_writeup-5)
 - [Privilege Escalation in Collaborative Platforms — BugBounty](https://medium.com/@Zero-Ray/privilege-escalation-in-collaborative-platforms-bugbounty-e1e240384b43?source=rss------bug_bounty_writeup-5)
 - [Everything About Secure Code Reviews: Mastering SAST Techniques for Robust Software](https://infosecwriteups.com/everything-about-secure-code-reviews-mastering-sast-techniques-for-robust-software-d4f811d956a1?source=rss----7b722bfd1b8d---4)
 - [Mastering Web Application Pentesting Part — II](https://infosecwriteups.com/mastering-web-application-pentesting-part-ii-f02898bf48e3?source=rss----7b722bfd1b8d---4)
@@ -942,7 +943,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How I Reported Over 50 security vulnerability in a Single Program with Just the Main App in Scope](https://medium.com/@abdalah336/how-i-reported-over-50-security-vulnerability-in-a-single-program-with-just-the-main-app-in-scope-0045b9d39644?source=rss------bug_bounty_writeup-5)
 - [Honey, did you leave the APIs open again?](https://medium.com/@l_s_/honey-you-left-the-apis-open-again-c382a3a2d917?source=rss------bug_bounty_writeup-5)
 - [How Inadequate Authentication Logic Led to an MFA Bypass and Account Takeover](https://www.hackerone.com/how-inadequate-authentication-logic-led-mfa-bypass-and-account-takeover)
-- [How i find Open Redirect and RFD on Steam domain](https://medium.com/@Aizen-arrancar/how-i-find-open-redirect-and-rfd-on-steam-domain-7f8b27457e5a?source=rss------bug_bounty_writeup-5)
 - [How HackerOne Employees Stay Connected and Have Fun](https://www.hackerone.com/culture-and-talent/how-hackerone-employees-stay-connected-and-have-fun)
 - [How REI Strengthens Security with HackerOne’s Global Security Researcher Community](https://www.hackerone.com/customer-story/rei-strengthens-security)
 - [Flexible Data Retrieval at Scale with HAQL](https://www.hackerone.com/engineering/haql)
