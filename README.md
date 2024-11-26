@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [5 Insights Attendees Gained from the Security@ World Tour](https://www.hackerone.com/security-at/world-tour-insights)
 - [Bug Bounty Tips and Tricks](https://bevijaygupta.medium.com/bug-bounty-tips-and-tricks-7b25317c8e7e?source=rss------bug_bounty_writeup-5)
 - [Privilege Escalation in Collaborative Platforms — BugBounty](https://medium.com/@Zero-Ray/privilege-escalation-in-collaborative-platforms-bugbounty-e1e240384b43?source=rss------bug_bounty_writeup-5)
 - [Everything About Secure Code Reviews: Mastering SAST Techniques for Robust Software](https://infosecwriteups.com/everything-about-secure-code-reviews-mastering-sast-techniques-for-robust-software-d4f811d956a1?source=rss----7b722bfd1b8d---4)
@@ -940,6 +941,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Unveiling a Critical Bug in One of the World’s Largest Banks: My Barclays Story](https://cybersecuritywriteups.com/unveiling-a-critical-bug-in-one-of-the-worlds-largest-banks-my-barclays-story-34a9fb5f5140?source=rss------bug_bounty_writeup-5)
 - [Finding and Exploiting open SMB service [bug bounty write-up].](https://medium.com/@sugamdangal52/finding-and-exploiting-open-smb-service-bug-bounty-write-up-492d72cd2fa3?source=rss------bug_bounty_writeup-5)
 - [My Journey Finding Bugs on NASA](https://cybersecuritywriteups.com/my-journey-finding-bugs-on-nasa-a2296d142b0a?source=rss------bug_bounty_writeup-5)
+- [Breaking Down the OWASP Top 10: Injection](https://www.hackerone.com/community/owasp-top-10-injection)
 - [How I Reported Over 50 security vulnerability in a Single Program with Just the Main App in Scope](https://medium.com/@abdalah336/how-i-reported-over-50-security-vulnerability-in-a-single-program-with-just-the-main-app-in-scope-0045b9d39644?source=rss------bug_bounty_writeup-5)
 - [Honey, did you leave the APIs open again?](https://medium.com/@l_s_/honey-you-left-the-apis-open-again-c382a3a2d917?source=rss------bug_bounty_writeup-5)
 - [How Inadequate Authentication Logic Led to an MFA Bypass and Account Takeover](https://www.hackerone.com/how-inadequate-authentication-logic-led-mfa-bypass-and-account-takeover)
@@ -970,8 +972,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [NIS2: Next Step Forward on EU Security Requirements](https://www.hackerone.com/public-policy/nis2-eu-security-requirements)
 - [A Guide To Subdomain Takeovers 2.0](https://www.hackerone.com/community/guide-subdomain-takeovers)
 - [How to Streamline Your SDLC With Hai](https://www.hackerone.com/ai/streamline-sdlc-with-hai)
-- [How to Accelerate Vulnerability Remediation with Hai](https://www.hackerone.com/ai/accelerate-vulnerability-remediation-with-hai)
-- [Introducing HackerOne Automations](https://www.hackerone.com/vulnerability-management/introducing-hackerone-automations)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
