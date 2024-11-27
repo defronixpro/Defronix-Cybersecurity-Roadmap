@@ -923,6 +923,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
 - [How I abled to get users/admins PII Disclosure](https://medium.com/@a7madhacck/how-i-abled-to-get-users-admins-pii-disclosure-6c02fef82c11?source=rss------bug_bounty_writeup-5)
+- [Why Retail and E-commerce Organizations Trust Security Researchers During the Holiday Shopping Season](https://www.hackerone.com/vulnerability-management/retail-ecommerce-trust-security-researchers)
 - [3 Way vs 4 Way Handshake](https://infosecwriteups.com/3-way-vs-4-way-handshake-65b24ac63ca6?source=rss----7b722bfd1b8d---4)
 - [Why Small Businesses Are Prime Targets for Cyberattacks and How They Can Defend Themselves](https://infosecwriteups.com/why-small-businesses-are-prime-targets-for-cyberattacks-and-how-they-can-defend-themselves-7ae0d3e670d1?source=rss----7b722bfd1b8d---4)
 - [DevSecOps: Beyond Tools Integration](https://infosecwriteups.com/devsecops-beyond-tools-integration-4da9280c652f?source=rss----7b722bfd1b8d---4)
@@ -971,7 +972,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How an IDOR Vulnerability Led to User Profile Modification](https://www.hackerone.com/vulnerability-management/idor-vulnerability-deep-dive)
 - [How To Find Broken Access Control Vulnerabilities in the Wild](https://www.hackerone.com/community/find-broken-access-control-vulnerabilities)
 - [NIS2: Next Step Forward on EU Security Requirements](https://www.hackerone.com/public-policy/nis2-eu-security-requirements)
-- [A Guide To Subdomain Takeovers 2.0](https://www.hackerone.com/community/guide-subdomain-takeovers)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
