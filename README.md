@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [The P2 Bug You Could Miss Without Reading the Documentation](https://mokhansec.medium.com/the-p2-bug-you-could-miss-without-reading-the-documentation-b0eacc3b7587?source=rss------bug_bounty_writeup-5)
 - [Decoding API Vulnerabilities: My Bug Bounty Saga on API Vulnerabilities](https://myselfakash20.medium.com/decoding-api-vulnerabilities-my-bug-bounty-saga-on-api-vulnerabilities-affaf6a7c575?source=rss------bug_bounty_writeup-5)
 - [VOIP Penetration Testing Checklist](https://infosecwriteups.com/voip-penetration-testing-checklist-890bb4e09bac?source=rss----7b722bfd1b8d---4)
 - [5 Insights Attendees Gained from the Security@ World Tour](https://www.hackerone.com/security-at/world-tour-insights)
@@ -943,7 +944,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Finding and Exploiting open SMB service [bug bounty write-up].](https://medium.com/@sugamdangal52/finding-and-exploiting-open-smb-service-bug-bounty-write-up-492d72cd2fa3?source=rss------bug_bounty_writeup-5)
 - [My Journey Finding Bugs on NASA](https://cybersecuritywriteups.com/my-journey-finding-bugs-on-nasa-a2296d142b0a?source=rss------bug_bounty_writeup-5)
 - [Breaking Down the OWASP Top 10: Injection](https://www.hackerone.com/community/owasp-top-10-injection)
-- [How I Reported Over 50 security vulnerability in a Single Program with Just the Main App in Scope](https://medium.com/@abdalah336/how-i-reported-over-50-security-vulnerability-in-a-single-program-with-just-the-main-app-in-scope-0045b9d39644?source=rss------bug_bounty_writeup-5)
 - [How Inadequate Authentication Logic Led to an MFA Bypass and Account Takeover](https://www.hackerone.com/how-inadequate-authentication-logic-led-mfa-bypass-and-account-takeover)
 - [How HackerOne Employees Stay Connected and Have Fun](https://www.hackerone.com/culture-and-talent/how-hackerone-employees-stay-connected-and-have-fun)
 - [How REI Strengthens Security with HackerOne’s Global Security Researcher Community](https://www.hackerone.com/customer-story/rei-strengthens-security)
