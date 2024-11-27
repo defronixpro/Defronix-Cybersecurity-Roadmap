@@ -933,6 +933,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [The Discovery Story: How YouTube’s Logout Parameter Led to a Security Gap](https://infosecwriteups.com/the-discovery-story-how-youtubes-logout-parameter-led-to-a-security-gap-5e144bcdfac8?source=rss----7b722bfd1b8d---4)
 - [Unleashing the Potential of Flipper Zero: A Deep Dive into Cyber Gadgets](https://infosecwriteups.com/unleashing-the-potential-of-flipper-zero-a-deep-dive-into-cyber-gadgets-a672fd1798a4?source=rss----7b722bfd1b8d---4)
 - [The P2 Bug You Could Miss Without Reading the Documentation](https://mokhansec.medium.com/the-p2-bug-you-could-miss-without-reading-the-documentation-b0eacc3b7587?source=rss------bug_bounty_writeup-5)
+- [Network and Information Systems Directive &lpar;NIS2&rpar; Compliance: What You Need to Know](https://www.hackerone.com/penetration-testing/nis2-directive)
 - [5 Insights Attendees Gained from the Security@ World Tour](https://www.hackerone.com/security-at/world-tour-insights)
 - [Bug Bounty Tips and Tricks](https://bevijaygupta.medium.com/bug-bounty-tips-and-tricks-7b25317c8e7e?source=rss------bug_bounty_writeup-5)
 - [Privilege Escalation in Collaborative Platforms — BugBounty](https://medium.com/@Zero-Ray/privilege-escalation-in-collaborative-platforms-bugbounty-e1e240384b43?source=rss------bug_bounty_writeup-5)
@@ -971,7 +972,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How To Find Broken Access Control Vulnerabilities in the Wild](https://www.hackerone.com/community/find-broken-access-control-vulnerabilities)
 - [NIS2: Next Step Forward on EU Security Requirements](https://www.hackerone.com/public-policy/nis2-eu-security-requirements)
 - [A Guide To Subdomain Takeovers 2.0](https://www.hackerone.com/community/guide-subdomain-takeovers)
-- [How to Streamline Your SDLC With Hai](https://www.hackerone.com/ai/streamline-sdlc-with-hai)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
