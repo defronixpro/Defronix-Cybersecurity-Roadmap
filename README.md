@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Email Verification Bypass Vulnerability: A Critical Flaw Exploited](https://medium.com/@muralidharan1530/email-verification-bypass-vulnerability-a-critical-flaw-exploited-1d7a316b2514?source=rss------bug_bounty_writeup-5)
 - [Server-Side Template Injection in an Unknown Language with a Documented Exploit — SSTI…](https://infosecwriteups.com/server-side-template-injection-in-an-unknown-language-with-a-documented-exploit-ssti-de01a069b946?source=rss----7b722bfd1b8d---4)
 - [Working with Shellcode from Malware](https://infosecwriteups.com/working-with-shellcode-from-malware-bb879385cd95?source=rss----7b722bfd1b8d---4)
 - [How Hackers Exploit Ansible for Configuration Attacks](https://infosecwriteups.com/how-hackers-exploit-ansible-for-configuration-attacks-372b5bec2cca?source=rss----7b722bfd1b8d---4)
@@ -944,7 +945,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How I Discovered an Email Change Vulnerability Leading to Pre-Account Takeover | p2](https://medium.com/@dhananjay_00/how-i-discovered-an-email-change-vulnerability-leading-to-pre-account-takeover-p2-7e76e0002eef?source=rss------bug_bounty_writeup-5)
 - [Unveiling a Critical Bug in One of the World’s Largest Banks: My Barclays Story](https://cybersecuritywriteups.com/unveiling-a-critical-bug-in-one-of-the-worlds-largest-banks-my-barclays-story-34a9fb5f5140?source=rss------bug_bounty_writeup-5)
 - [Finding and Exploiting open SMB service [bug bounty write-up].](https://medium.com/@sugamdangal52/finding-and-exploiting-open-smb-service-bug-bounty-write-up-492d72cd2fa3?source=rss------bug_bounty_writeup-5)
-- [My Journey Finding Bugs on NASA](https://cybersecuritywriteups.com/my-journey-finding-bugs-on-nasa-a2296d142b0a?source=rss------bug_bounty_writeup-5)
 - [Breaking Down the OWASP Top 10: Injection](https://www.hackerone.com/community/owasp-top-10-injection)
 - [How Inadequate Authentication Logic Led to an MFA Bypass and Account Takeover](https://www.hackerone.com/how-inadequate-authentication-logic-led-mfa-bypass-and-account-takeover)
 - [How HackerOne Employees Stay Connected and Have Fun](https://www.hackerone.com/culture-and-talent/how-hackerone-employees-stay-connected-and-have-fun)
