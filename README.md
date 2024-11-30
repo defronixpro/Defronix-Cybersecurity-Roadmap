@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Discovery of Xss / Html Injection by analyzing target source code](https://medium.com/@gheeX/discovery-of-xss-html-injection-by-analyzing-target-source-code-0bc7a96c3ca4?source=rss------bug_bounty_writeup-5)
 - [Is Your Personal Data on the Dark Web? Enable This One Google Setting to Find Out!](https://infosecwriteups.com/is-your-personal-data-on-the-dark-web-7df6fe849998?source=rss----7b722bfd1b8d---4)
 - [C2 Hunting: How to Find C2 Servers with Shodan](https://infosecwriteups.com/c2-hunting-how-to-find-c2-servers-with-shodan-c23f48ac39a4?source=rss----7b722bfd1b8d---4)
 - [Protect Your Smart Home from Cyber Attacks: The Shocking Truth About How Your Devices Are…](https://infosecwriteups.com/cybersecurity-in-our-homes-and-how-it-affects-our-smart-devices-e46e00a61d9b?source=rss----7b722bfd1b8d---4)
@@ -943,7 +944,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [My Bug Bounty Hunting Methodology](https://cybersechemmars.medium.com/my-bug-bounty-hunting-methodology-51ac0a891978?source=rss------bug_bounty_writeup-5)
 - [Week 3: When the Drive to Work Fades](https://mokhansec.medium.com/week-3-when-the-drive-to-work-fades-3e94a89559c0?source=rss------bug_bounty_writeup-5)
 - [How I Discovered an Email Change Vulnerability Leading to Pre-Account Takeover | p2](https://medium.com/@dhananjay_00/how-i-discovered-an-email-change-vulnerability-leading-to-pre-account-takeover-p2-7e76e0002eef?source=rss------bug_bounty_writeup-5)
-- [Unveiling a Critical Bug in One of the World’s Largest Banks: My Barclays Story](https://cybersecuritywriteups.com/unveiling-a-critical-bug-in-one-of-the-worlds-largest-banks-my-barclays-story-34a9fb5f5140?source=rss------bug_bounty_writeup-5)
 - [Breaking Down the OWASP Top 10: Injection](https://www.hackerone.com/community/owasp-top-10-injection)
 - [How Inadequate Authentication Logic Led to an MFA Bypass and Account Takeover](https://www.hackerone.com/how-inadequate-authentication-logic-led-mfa-bypass-and-account-takeover)
 - [How HackerOne Employees Stay Connected and Have Fun](https://www.hackerone.com/culture-and-talent/how-hackerone-employees-stay-connected-and-have-fun)
