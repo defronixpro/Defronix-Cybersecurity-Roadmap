@@ -944,7 +944,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Week 3: When the Drive to Work Fades](https://mokhansec.medium.com/week-3-when-the-drive-to-work-fades-3e94a89559c0?source=rss------bug_bounty_writeup-5)
 - [How I Discovered an Email Change Vulnerability Leading to Pre-Account Takeover | p2](https://medium.com/@dhananjay_00/how-i-discovered-an-email-change-vulnerability-leading-to-pre-account-takeover-p2-7e76e0002eef?source=rss------bug_bounty_writeup-5)
 - [Unveiling a Critical Bug in One of the World’s Largest Banks: My Barclays Story](https://cybersecuritywriteups.com/unveiling-a-critical-bug-in-one-of-the-worlds-largest-banks-my-barclays-story-34a9fb5f5140?source=rss------bug_bounty_writeup-5)
-- [Finding and Exploiting open SMB service [bug bounty write-up].](https://medium.com/@sugamdangal52/finding-and-exploiting-open-smb-service-bug-bounty-write-up-492d72cd2fa3?source=rss------bug_bounty_writeup-5)
 - [Breaking Down the OWASP Top 10: Injection](https://www.hackerone.com/community/owasp-top-10-injection)
 - [How Inadequate Authentication Logic Led to an MFA Bypass and Account Takeover](https://www.hackerone.com/how-inadequate-authentication-logic-led-mfa-bypass-and-account-takeover)
 - [How HackerOne Employees Stay Connected and Have Fun](https://www.hackerone.com/culture-and-talent/how-hackerone-employees-stay-connected-and-have-fun)
@@ -972,6 +971,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How an IDOR Vulnerability Led to User Profile Modification](https://www.hackerone.com/vulnerability-management/idor-vulnerability-deep-dive)
 - [How To Find Broken Access Control Vulnerabilities in the Wild](https://www.hackerone.com/community/find-broken-access-control-vulnerabilities)
 - [NIS2: Next Step Forward on EU Security Requirements](https://www.hackerone.com/public-policy/nis2-eu-security-requirements)
+- [A Guide To Subdomain Takeovers 2.0](https://www.hackerone.com/community/guide-subdomain-takeovers)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
