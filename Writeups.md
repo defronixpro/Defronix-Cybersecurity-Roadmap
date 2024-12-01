@@ -1,6 +1,9 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Exploiting Facebook Ads: $2100 Bug Bounty for Role Management DoS](https://infosecwriteups.com/exploiting-facebook-ads-2100-bug-bounty-for-role-management-dos-afe09c1ecbb0?source=rss----7b722bfd1b8d---4)
+- [OSINT Guide for Tracking Malware and Ransomware Activity](https://infosecwriteups.com/osint-guide-for-tracking-malware-and-ransomware-activity-6aaaf5e48408?source=rss----7b722bfd1b8d---4)
+- [THM Sticker Shop Walkthrough](https://infosecwriteups.com/thm-sticker-shop-walkthrough-e763acea26de?source=rss----7b722bfd1b8d---4)
 - [How I Discovered an API Security Issue: My First Bug Bounty Blog](https://hackersatty.medium.com/how-i-discovered-an-api-security-issue-my-first-bug-bounty-blog-7deec48453ff?source=rss------bug_bounty_writeup-5)
 - [Password Reset Link Not Expiring After Email Change: A Critical Vulnerability
  By Muralidharan](https://medium.com/@muralidharan1530/password-reset-link-not-expiring-after-email-change-a-critical-vulnerability-by-muralidharan-370a58a860f8?source=rss------bug_bounty_writeup-5)
@@ -15,9 +18,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Working with Shellcode from Malware](https://infosecwriteups.com/working-with-shellcode-from-malware-bb879385cd95?source=rss----7b722bfd1b8d---4)
 - [How Hackers Exploit Ansible for Configuration Attacks](https://infosecwriteups.com/how-hackers-exploit-ansible-for-configuration-attacks-372b5bec2cca?source=rss----7b722bfd1b8d---4)
 - [Finding more subdomains.&lpar;part 2&rpar;](https://infosecwriteups.com/finding-more-subdomains-part-2-1850ead4dd92?source=rss----7b722bfd1b8d---4)
-- [The Story of Finding CVE-2014–4210 in a Private Program](https://infosecwriteups.com/the-story-of-finding-cve-2014-4210-in-a-private-program-1c2a1fed22fc?source=rss----7b722bfd1b8d---4)
-- [Finding and Mitigating Open Redirect Vulnerability in BBC](https://infosecwriteups.com/the-story-of-finding-and-mitigating-open-redirect-vulnerability-in-bbc-ef849e0439a5?source=rss----7b722bfd1b8d---4)
-- [HOW I HACKED BILLION ANDROID USERS SOCIAL AND 3rd PARTY ACCOUNT | A STORY ABOUT 5000$ BUG |…](https://infosecwriteups.com/how-i-hacked-billion-android-users-social-and-3rd-party-account-a-story-about-5000-bug-54d8b6ce75df?source=rss----7b722bfd1b8d---4)
 - [How I abled to get users/admins PII Disclosure](https://medium.com/@a7madhacck/how-i-abled-to-get-users-admins-pii-disclosure-6c02fef82c11?source=rss------bug_bounty_writeup-5)
 - [Why Retail and E-commerce Organizations Trust Security Researchers During the Holiday Shopping Season](https://www.hackerone.com/vulnerability-management/retail-ecommerce-trust-security-researchers)
 - [The P2 Bug You Could Miss Without Reading the Documentation](https://mokhansec.medium.com/the-p2-bug-you-could-miss-without-reading-the-documentation-b0eacc3b7587?source=rss------bug_bounty_writeup-5)
