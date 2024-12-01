@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Password Reset Link Not Expiring After Email Change: A Critical Vulnerability
+ By Muralidharan](https://medium.com/@muralidharan1530/password-reset-link-not-expiring-after-email-change-a-critical-vulnerability-by-muralidharan-370a58a860f8?source=rss------bug_bounty_writeup-5)
 - [Critical Account Takeover &lpar;MFA + Auth Bypass&rpar; due to Cookie Misconfiguration](https://medium.com/@sharp488/critical-account-takeover-mfa-auth-bypass-due-to-cookie-misconfiguration-3ca7d1672f9d?source=rss------bug_bounty_writeup-5)
 - [Delete Account Functionality Helped Me Earn $250](https://vijetareigns.medium.com/delete-account-functionality-helped-me-earn-250-21baa23c4034?source=rss------bug_bounty_writeup-5)
 - [Discovery of Xss / Html Injection by analyzing target source code](https://medium.com/@gheeX/discovery-of-xss-html-injection-by-analyzing-target-source-code-0bc7a96c3ca4?source=rss------bug_bounty_writeup-5)
@@ -943,7 +945,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [5 Insights Attendees Gained from the Security@ World Tour](https://www.hackerone.com/security-at/world-tour-insights)
 - [Bug Bounty Tips and Tricks](https://bevijaygupta.medium.com/bug-bounty-tips-and-tricks-7b25317c8e7e?source=rss------bug_bounty_writeup-5)
 - [Privilege Escalation in Collaborative Platforms — BugBounty](https://medium.com/@Zero-Ray/privilege-escalation-in-collaborative-platforms-bugbounty-e1e240384b43?source=rss------bug_bounty_writeup-5)
-- [My Bug Bounty Hunting Methodology](https://cybersechemmars.medium.com/my-bug-bounty-hunting-methodology-51ac0a891978?source=rss------bug_bounty_writeup-5)
 - [Breaking Down the OWASP Top 10: Injection](https://www.hackerone.com/community/owasp-top-10-injection)
 - [How Inadequate Authentication Logic Led to an MFA Bypass and Account Takeover](https://www.hackerone.com/how-inadequate-authentication-logic-led-mfa-bypass-and-account-takeover)
 - [How HackerOne Employees Stay Connected and Have Fun](https://www.hackerone.com/culture-and-talent/how-hackerone-employees-stay-connected-and-have-fun)
