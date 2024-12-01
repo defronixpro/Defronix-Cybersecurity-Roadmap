@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Critical Account Takeover &lpar;MFA + Auth Bypass&rpar; due to Cookie Misconfiguration](https://medium.com/@sharp488/critical-account-takeover-mfa-auth-bypass-due-to-cookie-misconfiguration-3ca7d1672f9d?source=rss------bug_bounty_writeup-5)
 - [Delete Account Functionality Helped Me Earn $250](https://vijetareigns.medium.com/delete-account-functionality-helped-me-earn-250-21baa23c4034?source=rss------bug_bounty_writeup-5)
 - [Discovery of Xss / Html Injection by analyzing target source code](https://medium.com/@gheeX/discovery-of-xss-html-injection-by-analyzing-target-source-code-0bc7a96c3ca4?source=rss------bug_bounty_writeup-5)
 - [Is Your Personal Data on the Dark Web? Enable This One Google Setting to Find Out!](https://infosecwriteups.com/is-your-personal-data-on-the-dark-web-7df6fe849998?source=rss----7b722bfd1b8d---4)
@@ -22,7 +23,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Bug Bounty Tips and Tricks](https://bevijaygupta.medium.com/bug-bounty-tips-and-tricks-7b25317c8e7e?source=rss------bug_bounty_writeup-5)
 - [Privilege Escalation in Collaborative Platforms — BugBounty](https://medium.com/@Zero-Ray/privilege-escalation-in-collaborative-platforms-bugbounty-e1e240384b43?source=rss------bug_bounty_writeup-5)
 - [My Bug Bounty Hunting Methodology](https://cybersechemmars.medium.com/my-bug-bounty-hunting-methodology-51ac0a891978?source=rss------bug_bounty_writeup-5)
-- [Week 3: When the Drive to Work Fades](https://mokhansec.medium.com/week-3-when-the-drive-to-work-fades-3e94a89559c0?source=rss------bug_bounty_writeup-5)
 - [Breaking Down the OWASP Top 10: Injection](https://www.hackerone.com/community/owasp-top-10-injection)
 - [How Inadequate Authentication Logic Led to an MFA Bypass and Account Takeover](https://www.hackerone.com/how-inadequate-authentication-logic-led-mfa-bypass-and-account-takeover)
 - [How HackerOne Employees Stay Connected and Have Fun](https://www.hackerone.com/culture-and-talent/how-hackerone-employees-stay-connected-and-have-fun)
