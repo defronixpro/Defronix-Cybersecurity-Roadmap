@@ -1,6 +1,11 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Firmware Penetration Testing Checklist](https://infosecwriteups.com/firmware-penetration-testing-checklist-9d5e70388371?source=rss----7b722bfd1b8d---4)
+- [TryHackme’s Advent of Cyber 2024 — Day 01 Writeup](https://infosecwriteups.com/tryhackmes-advent-of-cyber-2024-day-01-writeup-2c4046d7f1ae?source=rss----7b722bfd1b8d---4)
+- [TryHackMe Advent of Cyber 2024 &lpar;All Tasks Write-up, Updated Daily&rpar;](https://infosecwriteups.com/tryhackme-advent-of-cyber-2024-all-tasks-write-up-updated-daily-0a5d3fb5caa1?source=rss----7b722bfd1b8d---4)
+- [iDRAC to Domain Admin](https://infosecwriteups.com/idrac-to-domain-admin-4acb89391070?source=rss----7b722bfd1b8d---4)
+- [Reimagining cybersecurity for platform developers](https://infosecwriteups.com/reimagining-cybersecurity-for-platform-developers-cbcdebcb0d74?source=rss----7b722bfd1b8d---4)
 - [Week 4: A Drive to Recharge and Reconnect](https://mokhansec.medium.com/week-4-a-drive-to-recharge-and-reconnect-4d0f8b7258d0?source=rss------bug_bounty_writeup-5)
 - [Exploiting Facebook Ads: $2100 Bug Bounty for Role Management DoS](https://infosecwriteups.com/exploiting-facebook-ads-2100-bug-bounty-for-role-management-dos-afe09c1ecbb0?source=rss----7b722bfd1b8d---4)
 - [OSINT Guide for Tracking Malware and Ransomware Activity](https://infosecwriteups.com/osint-guide-for-tracking-malware-and-ransomware-activity-6aaaf5e48408?source=rss----7b722bfd1b8d---4)
@@ -13,12 +18,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Discovery of Xss / Html Injection by analyzing target source code](https://medium.com/@gheeX/discovery-of-xss-html-injection-by-analyzing-target-source-code-0bc7a96c3ca4?source=rss------bug_bounty_writeup-5)
 - [Is Your Personal Data on the Dark Web? Enable This One Google Setting to Find Out!](https://infosecwriteups.com/is-your-personal-data-on-the-dark-web-7df6fe849998?source=rss----7b722bfd1b8d---4)
 - [C2 Hunting: How to Find C2 Servers with Shodan](https://infosecwriteups.com/c2-hunting-how-to-find-c2-servers-with-shodan-c23f48ac39a4?source=rss----7b722bfd1b8d---4)
-- [Protect Your Smart Home from Cyber Attacks: The Shocking Truth About How Your Devices Are…](https://infosecwriteups.com/cybersecurity-in-our-homes-and-how-it-affects-our-smart-devices-e46e00a61d9b?source=rss----7b722bfd1b8d---4)
 - [Email Verification Bypass Vulnerability: A Critical Flaw Exploited](https://medium.com/@muralidharan1530/email-verification-bypass-vulnerability-a-critical-flaw-exploited-1d7a316b2514?source=rss------bug_bounty_writeup-5)
-- [Server-Side Template Injection in an Unknown Language with a Documented Exploit — SSTI…](https://infosecwriteups.com/server-side-template-injection-in-an-unknown-language-with-a-documented-exploit-ssti-de01a069b946?source=rss----7b722bfd1b8d---4)
-- [Working with Shellcode from Malware](https://infosecwriteups.com/working-with-shellcode-from-malware-bb879385cd95?source=rss----7b722bfd1b8d---4)
-- [How Hackers Exploit Ansible for Configuration Attacks](https://infosecwriteups.com/how-hackers-exploit-ansible-for-configuration-attacks-372b5bec2cca?source=rss----7b722bfd1b8d---4)
-- [Finding more subdomains.&lpar;part 2&rpar;](https://infosecwriteups.com/finding-more-subdomains-part-2-1850ead4dd92?source=rss----7b722bfd1b8d---4)
 - [How I abled to get users/admins PII Disclosure](https://medium.com/@a7madhacck/how-i-abled-to-get-users-admins-pii-disclosure-6c02fef82c11?source=rss------bug_bounty_writeup-5)
 - [Why Retail and E-commerce Organizations Trust Security Researchers During the Holiday Shopping Season](https://www.hackerone.com/vulnerability-management/retail-ecommerce-trust-security-researchers)
 - [The P2 Bug You Could Miss Without Reading the Documentation](https://mokhansec.medium.com/the-p2-bug-you-could-miss-without-reading-the-documentation-b0eacc3b7587?source=rss------bug_bounty_writeup-5)
