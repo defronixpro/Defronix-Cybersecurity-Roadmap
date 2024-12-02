@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [All UPI IDs in India have Predictable Patterns that allow the disclosure of mail IDs!](https://infosecwriteups.com/all-upi-ids-in-india-have-predictable-patterns-that-allow-the-disclosure-of-mail-ids-eede37a35758?source=rss------bug_bounty_writeup-5)
 - [Firmware Penetration Testing Checklist](https://infosecwriteups.com/firmware-penetration-testing-checklist-9d5e70388371?source=rss----7b722bfd1b8d---4)
 - [TryHackme’s Advent of Cyber 2024 — Day 01 Writeup](https://infosecwriteups.com/tryhackmes-advent-of-cyber-2024-day-01-writeup-2c4046d7f1ae?source=rss----7b722bfd1b8d---4)
 - [TryHackMe Advent of Cyber 2024 &lpar;All Tasks Write-up, Updated Daily&rpar;](https://infosecwriteups.com/tryhackme-advent-of-cyber-2024-all-tasks-write-up-updated-daily-0a5d3fb5caa1?source=rss----7b722bfd1b8d---4)
@@ -19,7 +20,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Is Your Personal Data on the Dark Web? Enable This One Google Setting to Find Out!](https://infosecwriteups.com/is-your-personal-data-on-the-dark-web-7df6fe849998?source=rss----7b722bfd1b8d---4)
 - [C2 Hunting: How to Find C2 Servers with Shodan](https://infosecwriteups.com/c2-hunting-how-to-find-c2-servers-with-shodan-c23f48ac39a4?source=rss----7b722bfd1b8d---4)
 - [Email Verification Bypass Vulnerability: A Critical Flaw Exploited](https://medium.com/@muralidharan1530/email-verification-bypass-vulnerability-a-critical-flaw-exploited-1d7a316b2514?source=rss------bug_bounty_writeup-5)
-- [How I abled to get users/admins PII Disclosure](https://medium.com/@a7madhacck/how-i-abled-to-get-users-admins-pii-disclosure-6c02fef82c11?source=rss------bug_bounty_writeup-5)
 - [Why Retail and E-commerce Organizations Trust Security Researchers During the Holiday Shopping Season](https://www.hackerone.com/vulnerability-management/retail-ecommerce-trust-security-researchers)
 - [Network and Information Systems Directive &lpar;NIS2&rpar; Compliance: What You Need to Know](https://www.hackerone.com/penetration-testing/nis2-directive)
 - [5 Insights Attendees Gained from the Security@ World Tour](https://www.hackerone.com/security-at/world-tour-insights)
