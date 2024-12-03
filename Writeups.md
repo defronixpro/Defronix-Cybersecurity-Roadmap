@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Bug Bounty Tips Series: 10 Ways To Find HTTP Host Header Injection Vulnerability](https://medium.com/@alishoaib5929/bug-bounty-tips-series-10-ways-to-find-http-host-header-injection-vulnerability-1ad56c9dddd2?source=rss------bug_bounty_writeup-5)
 - [Unpacking an IDOR-Based Exploit in International Shipping &lpar;70 Million+ PII Data Breach&rpar;](https://medium.com/@susapr/unpacking-an-idor-based-exploit-in-international-shipping-70-million-pii-data-breach-8c29cf33347d?source=rss------bug_bounty_writeup-5)
 - [How I got my first Hall of Fame - Bug Bounty](https://medium.com/@pranavrp77/how-i-got-my-first-hall-of-fame-bug-bounty-d296637e37dd?source=rss------bug_bounty_writeup-5)
 - [All UPI IDs in India have Predictable Patterns that allow the disclosure of mail IDs!](https://infosecwriteups.com/all-upi-ids-in-india-have-predictable-patterns-that-allow-the-disclosure-of-mail-ids-eede37a35758?source=rss------bug_bounty_writeup-5)
@@ -18,7 +19,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
  By Muralidharan](https://medium.com/@muralidharan1530/password-reset-link-not-expiring-after-email-change-a-critical-vulnerability-by-muralidharan-370a58a860f8?source=rss------bug_bounty_writeup-5)
 - [Critical Account Takeover &lpar;MFA + Auth Bypass&rpar; due to Cookie Misconfiguration](https://medium.com/@sharp488/critical-account-takeover-mfa-auth-bypass-due-to-cookie-misconfiguration-3ca7d1672f9d?source=rss------bug_bounty_writeup-5)
 - [Delete Account Functionality Helped Me Earn $250](https://vijetareigns.medium.com/delete-account-functionality-helped-me-earn-250-21baa23c4034?source=rss------bug_bounty_writeup-5)
-- [Discovery of Xss / Html Injection by analyzing target source code](https://medium.com/@gheeX/discovery-of-xss-html-injection-by-analyzing-target-source-code-0bc7a96c3ca4?source=rss------bug_bounty_writeup-5)
 - [Is Your Personal Data on the Dark Web? Enable This One Google Setting to Find Out!](https://infosecwriteups.com/is-your-personal-data-on-the-dark-web-7df6fe849998?source=rss----7b722bfd1b8d---4)
 - [C2 Hunting: How to Find C2 Servers with Shodan](https://infosecwriteups.com/c2-hunting-how-to-find-c2-servers-with-shodan-c23f48ac39a4?source=rss----7b722bfd1b8d---4)
 - [Why Retail and E-commerce Organizations Trust Security Researchers During the Holiday Shopping Season](https://www.hackerone.com/vulnerability-management/retail-ecommerce-trust-security-researchers)
