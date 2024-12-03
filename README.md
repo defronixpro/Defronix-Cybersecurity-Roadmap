@@ -922,7 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [Story Of 15 Vulnerabilities in one Buplic BBP !](https://medium.com/@Ahmex000/story-of-15-vulnerabilities-in-one-buplic-bbp-561e68213991?source=rss------bug_bounty_writeup-5)
+- [Story Of 15 Vulnerabilities in one public BBP !](https://medium.com/@Ahmex000/story-of-15-vulnerabilities-in-one-buplic-bbp-561e68213991?source=rss------bug_bounty_writeup-5)
 - [Critical Bug: Deny Sign-In &amp; Steal Sensitive Info on Behalf of Victims](https://infosecwriteups.com/critical-bug-deny-sign-in-steal-sensitive-info-on-behalf-of-victims-cad4ced9227d?source=rss------bug_bounty_writeup-5)
 - [All UPI IDs in India have Predictable Patterns that allow the disclosure of mail IDs](https://infosecwriteups.com/all-upi-ids-in-india-have-predictable-patterns-that-allow-the-disclosure-of-mail-ids-eede37a35758?source=rss----7b722bfd1b8d---4)
 - [How to Threat Model: A Guide to Effectively Mapping your Attack Surface](https://infosecwriteups.com/how-to-threat-model-a-guide-to-effectively-mapping-your-attack-surface-f46db729581a?source=rss----7b722bfd1b8d---4)
