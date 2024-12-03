@@ -1,6 +1,11 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [From Hacktivism to Cyber Warfare: Understanding the Role of Ideology in Cyberattacks](https://infosecwriteups.com/from-hacktivism-to-cyber-warfare-understanding-the-role-of-ideology-in-cyberattacks-aad6c449516d?source=rss----7b722bfd1b8d---4)
+- [Small Bugs, Big Bounties: A Hacker’s Guide to Quick Wins](https://infosecwriteups.com/small-bugs-big-bounties-a-hackers-guide-to-quick-wins-46a75dbc3573?source=rss----7b722bfd1b8d---4)
+- [Common Holiday Phishing Scams To Watch Out for This Season](https://infosecwriteups.com/common-holiday-phishing-scams-to-watch-out-for-this-season-ae0ca4fabc9b?source=rss----7b722bfd1b8d---4)
+- [Understanding of Voltage Fault Injection — Glitching Attack](https://infosecwriteups.com/my-understanding-of-voltage-fault-injection-crowbar-glitching-60a66403a2d8?source=rss----7b722bfd1b8d---4)
+- [You’re Not Paranoid: Your Devices Are Always Listening — and Here’s Why](https://infosecwriteups.com/youre-not-paranoid-your-devices-are-always-listening-and-here-s-why-653917c2e093?source=rss----7b722bfd1b8d---4)
 - [Bug Bounty Tips Series: 10 Ways To Find HTTP Host Header Injection Vulnerability](https://medium.com/@alishoaib5929/bug-bounty-tips-series-10-ways-to-find-http-host-header-injection-vulnerability-1ad56c9dddd2?source=rss------bug_bounty_writeup-5)
 - [Unpacking an IDOR-Based Exploit in International Shipping &lpar;70 Million+ PII Data Breach&rpar;](https://medium.com/@susapr/unpacking-an-idor-based-exploit-in-international-shipping-70-million-pii-data-breach-8c29cf33347d?source=rss------bug_bounty_writeup-5)
 - [How I got my first Hall of Fame - Bug Bounty](https://medium.com/@pranavrp77/how-i-got-my-first-hall-of-fame-bug-bounty-d296637e37dd?source=rss------bug_bounty_writeup-5)
@@ -11,16 +16,11 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [iDRAC to Domain Admin](https://infosecwriteups.com/idrac-to-domain-admin-4acb89391070?source=rss----7b722bfd1b8d---4)
 - [Reimagining cybersecurity for platform developers](https://infosecwriteups.com/reimagining-cybersecurity-for-platform-developers-cbcdebcb0d74?source=rss----7b722bfd1b8d---4)
 - [Week 4: A Drive to Recharge and Reconnect](https://mokhansec.medium.com/week-4-a-drive-to-recharge-and-reconnect-4d0f8b7258d0?source=rss------bug_bounty_writeup-5)
-- [Exploiting Facebook Ads: $2100 Bug Bounty for Role Management DoS](https://infosecwriteups.com/exploiting-facebook-ads-2100-bug-bounty-for-role-management-dos-afe09c1ecbb0?source=rss----7b722bfd1b8d---4)
-- [OSINT Guide for Tracking Malware and Ransomware Activity](https://infosecwriteups.com/osint-guide-for-tracking-malware-and-ransomware-activity-6aaaf5e48408?source=rss----7b722bfd1b8d---4)
-- [THM Sticker Shop Walkthrough](https://infosecwriteups.com/thm-sticker-shop-walkthrough-e763acea26de?source=rss----7b722bfd1b8d---4)
 - [How I Discovered an API Security Issue: My First Bug Bounty Blog](https://hackersatty.medium.com/how-i-discovered-an-api-security-issue-my-first-bug-bounty-blog-7deec48453ff?source=rss------bug_bounty_writeup-5)
 - [Password Reset Link Not Expiring After Email Change: A Critical Vulnerability
  By Muralidharan](https://medium.com/@muralidharan1530/password-reset-link-not-expiring-after-email-change-a-critical-vulnerability-by-muralidharan-370a58a860f8?source=rss------bug_bounty_writeup-5)
 - [Critical Account Takeover &lpar;MFA + Auth Bypass&rpar; due to Cookie Misconfiguration](https://medium.com/@sharp488/critical-account-takeover-mfa-auth-bypass-due-to-cookie-misconfiguration-3ca7d1672f9d?source=rss------bug_bounty_writeup-5)
 - [Delete Account Functionality Helped Me Earn $250](https://vijetareigns.medium.com/delete-account-functionality-helped-me-earn-250-21baa23c4034?source=rss------bug_bounty_writeup-5)
-- [Is Your Personal Data on the Dark Web? Enable This One Google Setting to Find Out!](https://infosecwriteups.com/is-your-personal-data-on-the-dark-web-7df6fe849998?source=rss----7b722bfd1b8d---4)
-- [C2 Hunting: How to Find C2 Servers with Shodan](https://infosecwriteups.com/c2-hunting-how-to-find-c2-servers-with-shodan-c23f48ac39a4?source=rss----7b722bfd1b8d---4)
 - [Why Retail and E-commerce Organizations Trust Security Researchers During the Holiday Shopping Season](https://www.hackerone.com/vulnerability-management/retail-ecommerce-trust-security-researchers)
 - [Network and Information Systems Directive &lpar;NIS2&rpar; Compliance: What You Need to Know](https://www.hackerone.com/penetration-testing/nis2-directive)
 - [5 Insights Attendees Gained from the Security@ World Tour](https://www.hackerone.com/security-at/world-tour-insights)
