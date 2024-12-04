@@ -922,6 +922,10 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Docker/Kubernetes &lpar;K8s&rpar;Penetration Testing Checklist](https://infosecwriteups.com/docker-kubernetes-k8s-penetration-testing-checklist-4d0a13c38495?source=rss----7b722bfd1b8d---4)
+- [TryHackme’s Advent of Cyber 2024 — Day 03 Writeup](https://infosecwriteups.com/tryhackmes-advent-of-cyber-2024-day-03-writeup-c2c72d4f5216?source=rss----7b722bfd1b8d---4)
+- [Tricky &amp; Simple EXIF protection Bypass](https://infosecwriteups.com/tricky-simple-exif-protection-bypass-5d0babd908f3?source=rss----7b722bfd1b8d---4)
+- [Critical Bug: Deny Sign-In &amp; Steal Sensitive Info on Behalf of Victims](https://infosecwriteups.com/critical-bug-deny-sign-in-steal-sensitive-info-on-behalf-of-victims-cad4ced9227d?source=rss----7b722bfd1b8d---4)
 - [Story Of 15 Vulnerabilities in one public BBP !](https://medium.com/@Ahmex000/story-of-15-vulnerabilities-in-one-buplic-bbp-561e68213991?source=rss------bug_bounty_writeup-5)
 - [Critical Bug: Deny Sign-In &amp; Steal Sensitive Info on Behalf of Victims](https://infosecwriteups.com/critical-bug-deny-sign-in-steal-sensitive-info-on-behalf-of-victims-cad4ced9227d?source=rss------bug_bounty_writeup-5)
 - [All UPI IDs in India have Predictable Patterns that allow the disclosure of mail IDs](https://infosecwriteups.com/all-upi-ids-in-india-have-predictable-patterns-that-allow-the-disclosure-of-mail-ids-eede37a35758?source=rss----7b722bfd1b8d---4)
@@ -930,14 +934,10 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [TryHackme’s Advent of Cyber 2024 — Day 02 Writeup](https://infosecwriteups.com/tryhackmes-advent-of-cyber-2024-day-02-writeup-0c599829df0d?source=rss----7b722bfd1b8d---4)
 - [From Hacktivism to Cyber Warfare: Understanding the Role of Ideology in Cyberattacks](https://infosecwriteups.com/from-hacktivism-to-cyber-warfare-understanding-the-role-of-ideology-in-cyberattacks-aad6c449516d?source=rss----7b722bfd1b8d---4)
 - [Small Bugs, Big Bounties: A Hacker’s Guide to Quick Wins](https://infosecwriteups.com/small-bugs-big-bounties-a-hackers-guide-to-quick-wins-46a75dbc3573?source=rss----7b722bfd1b8d---4)
-- [Common Holiday Phishing Scams To Watch Out for This Season](https://infosecwriteups.com/common-holiday-phishing-scams-to-watch-out-for-this-season-ae0ca4fabc9b?source=rss----7b722bfd1b8d---4)
-- [Understanding of Voltage Fault Injection — Glitching Attack](https://infosecwriteups.com/my-understanding-of-voltage-fault-injection-crowbar-glitching-60a66403a2d8?source=rss----7b722bfd1b8d---4)
-- [You’re Not Paranoid: Your Devices Are Always Listening — and Here’s Why](https://infosecwriteups.com/youre-not-paranoid-your-devices-are-always-listening-and-here-s-why-653917c2e093?source=rss----7b722bfd1b8d---4)
 - [Bug Bounty Tips Series: 10 Ways To Find HTTP Host Header Injection Vulnerability](https://medium.com/@alishoaib5929/bug-bounty-tips-series-10-ways-to-find-http-host-header-injection-vulnerability-1ad56c9dddd2?source=rss------bug_bounty_writeup-5)
 - [Unpacking an IDOR-Based Exploit in International Shipping &lpar;70 Million+ PII Data Breach&rpar;](https://medium.com/@susapr/unpacking-an-idor-based-exploit-in-international-shipping-70-million-pii-data-breach-8c29cf33347d?source=rss------bug_bounty_writeup-5)
 - [How I got my first Hall of Fame - Bug Bounty](https://medium.com/@pranavrp77/how-i-got-my-first-hall-of-fame-bug-bounty-d296637e37dd?source=rss------bug_bounty_writeup-5)
 - [All UPI IDs in India have Predictable Patterns that allow the disclosure of mail IDs](https://infosecwriteups.com/all-upi-ids-in-india-have-predictable-patterns-that-allow-the-disclosure-of-mail-ids-eede37a35758?source=rss------bug_bounty_writeup-5)
-- [Firmware Penetration Testing Checklist](https://infosecwriteups.com/firmware-penetration-testing-checklist-9d5e70388371?source=rss----7b722bfd1b8d---4)
 - [Week 4: A Drive to Recharge and Reconnect](https://mokhansec.medium.com/week-4-a-drive-to-recharge-and-reconnect-4d0f8b7258d0?source=rss------bug_bounty_writeup-5)
 - [How I Discovered an API Security Issue: My First Bug Bounty Blog](https://hackersatty.medium.com/how-i-discovered-an-api-security-issue-my-first-bug-bounty-blog-7deec48453ff?source=rss------bug_bounty_writeup-5)
 - [Password Reset Link Not Expiring After Email Change: A Critical Vulnerability
