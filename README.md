@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I Exploited Passkey to Gain Unauthorized Access and TakeOver Invited Accounts](https://medium.com/@mrasg/how-i-exploited-passkey-to-gain-unauthorized-access-and-takeover-invited-accounts-b8b4547ffe70?source=rss------bug_bounty_writeup-5)
 - [Firebase URL Exploitation: Taking Over Android Databases Like a Pro!](https://infosecwriteups.com/firebase-url-exploitation-taking-over-android-databases-like-a-pro-79a00844496d?source=rss----7b722bfd1b8d---4)
 - [TryHackme’s Advent of Cyber 2024 — Day 04 Writeup](https://infosecwriteups.com/tryhackmes-advent-of-cyber-2024-day-04-writeup-c7f62b62b0aa?source=rss----7b722bfd1b8d---4)
 - [How I Broke Into My Dev Friend’s Website in Less Than 24 Hour](https://infosecwriteups.com/how-i-broke-into-my-dev-friends-website-in-less-than-24-hour-6fdb31ad65a1?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Critical Bug: Deny Sign-In &amp; Steal Sensitive Info on Behalf of Victims](https://infosecwriteups.com/critical-bug-deny-sign-in-steal-sensitive-info-on-behalf-of-victims-cad4ced9227d?source=rss----7b722bfd1b8d---4)
 - [Hai’s Latest Evolution: Intelligence, Context, and More Intuitive UX](https://www.hackerone.com/ai/hai-program-insights)
 - [Story Of 15 Vulnerabilities in one public BBP !](https://medium.com/@Ahmex000/story-of-15-vulnerabilities-in-one-buplic-bbp-561e68213991?source=rss------bug_bounty_writeup-5)
-- [Critical Bug: Deny Sign-In &amp; Steal Sensitive Info on Behalf of Victims](https://infosecwriteups.com/critical-bug-deny-sign-in-steal-sensitive-info-on-behalf-of-victims-cad4ced9227d?source=rss------bug_bounty_writeup-5)
 - [All UPI IDs in India have Predictable Patterns that allow the disclosure of mail IDs](https://infosecwriteups.com/all-upi-ids-in-india-have-predictable-patterns-that-allow-the-disclosure-of-mail-ids-eede37a35758?source=rss----7b722bfd1b8d---4)
 - [5 Questions to Assess Your Organization’s Bug Bounty Readiness](https://www.hackerone.com/vulnerability-management/bug-bounty-readiness-questions)
 - [Why Retail and E-commerce Organizations Trust Security Researchers During the Holiday Shopping Season](https://www.hackerone.com/vulnerability-management/retail-ecommerce-trust-security-researchers)
