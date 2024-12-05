@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I Achieved a Full Account Takeover Through Information Disclosure](https://medium.com/@ahmedsamirghallab/how-i-achieved-a-full-account-takeover-through-information-disclosure-16c6f697b76e?source=rss------bug_bounty_writeup-5)
 - [How I Turned a Low-Hanging Fruit Bug Into Mass Unauthorized Deletion of Invited Members](https://medium.com/@ahmedsamirghallab/how-i-turned-a-low-hanging-fruit-bug-into-mass-unauthorized-deletion-of-invited-members-6f195deffe11?source=rss------bug_bounty_writeup-5)
 - [How To Find Sensitive Log Files Easily..](https://medium.com/@josuofficial327/how-to-find-sensitive-log-files-easily-1dd14bb5f221?source=rss------bug_bounty_writeup-5)
 - [Firebase URL Exploitation: Taking Over Android Databases Like a Pro!](https://infosecwriteups.com/firebase-url-exploitation-taking-over-android-databases-like-a-pro-79a00844496d?source=rss------bug_bounty_writeup-5)
@@ -971,7 +972,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [The Recruitment Process: What to Expect When You Apply at HackerOne](https://www.hackerone.com/culture-and-talent/recruitment-process-what-expect-when-you-apply-hackerone)
 - [Pentesting for Internal Networks](https://www.hackerone.com/penetration-testing/internal-network-pentests)
 - [How an IDOR Vulnerability Led to User Profile Modification](https://www.hackerone.com/vulnerability-management/idor-vulnerability-deep-dive)
-- [How To Find Broken Access Control Vulnerabilities in the Wild](https://www.hackerone.com/community/find-broken-access-control-vulnerabilities)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
