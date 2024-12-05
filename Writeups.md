@@ -1,6 +1,9 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How I Turned a Low-Hanging Fruit Bug Into Mass Unauthorized Deletion of Invited Members](https://medium.com/@ahmedsamirghallab/how-i-turned-a-low-hanging-fruit-bug-into-mass-unauthorized-deletion-of-invited-members-6f195deffe11?source=rss------bug_bounty_writeup-5)
+- [How To Find Sensitive Log Files Easily..](https://medium.com/@josuofficial327/how-to-find-sensitive-log-files-easily-1dd14bb5f221?source=rss------bug_bounty_writeup-5)
+- [Firebase URL Exploitation: Taking Over Android Databases Like a Pro!](https://infosecwriteups.com/firebase-url-exploitation-taking-over-android-databases-like-a-pro-79a00844496d?source=rss------bug_bounty_writeup-5)
 - [Docker/Kubernetes &lpar;K8s&rpar;Penetration Testing Checklist](https://infosecwriteups.com/docker-kubernetes-k8s-penetration-testing-checklist-4d0a13c38495?source=rss----7b722bfd1b8d---4)
 - [TryHackme’s Advent of Cyber 2024 — Day 03 Writeup](https://infosecwriteups.com/tryhackmes-advent-of-cyber-2024-day-03-writeup-c2c72d4f5216?source=rss----7b722bfd1b8d---4)
 - [Tricky &amp; Simple EXIF protection Bypass](https://infosecwriteups.com/tricky-simple-exif-protection-bypass-5d0babd908f3?source=rss----7b722bfd1b8d---4)
@@ -19,10 +22,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Unpacking an IDOR-Based Exploit in International Shipping &lpar;70 Million+ PII Data Breach&rpar;](https://medium.com/@susapr/unpacking-an-idor-based-exploit-in-international-shipping-70-million-pii-data-breach-8c29cf33347d?source=rss------bug_bounty_writeup-5)
 - [How I got my first Hall of Fame - Bug Bounty](https://medium.com/@pranavrp77/how-i-got-my-first-hall-of-fame-bug-bounty-d296637e37dd?source=rss------bug_bounty_writeup-5)
 - [All UPI IDs in India have Predictable Patterns that allow the disclosure of mail IDs](https://infosecwriteups.com/all-upi-ids-in-india-have-predictable-patterns-that-allow-the-disclosure-of-mail-ids-eede37a35758?source=rss------bug_bounty_writeup-5)
-- [Week 4: A Drive to Recharge and Reconnect](https://mokhansec.medium.com/week-4-a-drive-to-recharge-and-reconnect-4d0f8b7258d0?source=rss------bug_bounty_writeup-5)
-- [How I Discovered an API Security Issue: My First Bug Bounty Blog](https://hackersatty.medium.com/how-i-discovered-an-api-security-issue-my-first-bug-bounty-blog-7deec48453ff?source=rss------bug_bounty_writeup-5)
-- [Password Reset Link Not Expiring After Email Change: A Critical Vulnerability
- By Muralidharan](https://medium.com/@muralidharan1530/password-reset-link-not-expiring-after-email-change-a-critical-vulnerability-by-muralidharan-370a58a860f8?source=rss------bug_bounty_writeup-5)
 - [Why Retail and E-commerce Organizations Trust Security Researchers During the Holiday Shopping Season](https://www.hackerone.com/vulnerability-management/retail-ecommerce-trust-security-researchers)
 - [Network and Information Systems Directive &lpar;NIS2&rpar; Compliance: What You Need to Know](https://www.hackerone.com/penetration-testing/nis2-directive)
 - [5 Insights Attendees Gained from the Security@ World Tour](https://www.hackerone.com/security-at/world-tour-insights)
