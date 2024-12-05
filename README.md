@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How Note-Taking and Hacktivity Analysis Led to Privilege Escalation](https://medium.com/@ahmedsamirghallab/how-note-taking-and-hacktivity-analysis-led-to-privilege-escalation-627aaf3bbd84?source=rss------bug_bounty_writeup-5)
 - [How I Achieved a Full Account Takeover Through Information Disclosure](https://medium.com/@ahmedsamirghallab/how-i-achieved-a-full-account-takeover-through-information-disclosure-16c6f697b76e?source=rss------bug_bounty_writeup-5)
 - [How I Turned a Low-Hanging Fruit Bug Into Mass Unauthorized Deletion of Invited Members](https://medium.com/@ahmedsamirghallab/how-i-turned-a-low-hanging-fruit-bug-into-mass-unauthorized-deletion-of-invited-members-6f195deffe11?source=rss------bug_bounty_writeup-5)
 - [How To Find Sensitive Log Files Easily..](https://medium.com/@josuofficial327/how-to-find-sensitive-log-files-easily-1dd14bb5f221?source=rss------bug_bounty_writeup-5)
@@ -943,7 +944,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [5 Questions to Assess Your Organization’s Bug Bounty Readiness](https://www.hackerone.com/vulnerability-management/bug-bounty-readiness-questions)
 - [Unpacking an IDOR-Based Exploit in International Shipping &lpar;70 Million+ PII Data Breach&rpar;](https://medium.com/@susapr/unpacking-an-idor-based-exploit-in-international-shipping-70-million-pii-data-breach-8c29cf33347d?source=rss------bug_bounty_writeup-5)
 - [How I got my first Hall of Fame - Bug Bounty](https://medium.com/@pranavrp77/how-i-got-my-first-hall-of-fame-bug-bounty-d296637e37dd?source=rss------bug_bounty_writeup-5)
-- [All UPI IDs in India have Predictable Patterns that allow the disclosure of mail IDs](https://infosecwriteups.com/all-upi-ids-in-india-have-predictable-patterns-that-allow-the-disclosure-of-mail-ids-eede37a35758?source=rss------bug_bounty_writeup-5)
 - [Why Retail and E-commerce Organizations Trust Security Researchers During the Holiday Shopping Season](https://www.hackerone.com/vulnerability-management/retail-ecommerce-trust-security-researchers)
 - [Network and Information Systems Directive &lpar;NIS2&rpar; Compliance: What You Need to Know](https://www.hackerone.com/penetration-testing/nis2-directive)
 - [5 Insights Attendees Gained from the Security@ World Tour](https://www.hackerone.com/security-at/world-tour-insights)
