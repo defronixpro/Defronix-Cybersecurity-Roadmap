@@ -922,6 +922,13 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Firebase URL Exploitation: Taking Over Android Databases Like a Pro!](https://infosecwriteups.com/firebase-url-exploitation-taking-over-android-databases-like-a-pro-79a00844496d?source=rss----7b722bfd1b8d---4)
+- [TryHackme’s Advent of Cyber 2024 — Day 04 Writeup](https://infosecwriteups.com/tryhackmes-advent-of-cyber-2024-day-04-writeup-c7f62b62b0aa?source=rss----7b722bfd1b8d---4)
+- [How I Broke Into My Dev Friend’s Website in Less Than 24 Hour](https://infosecwriteups.com/how-i-broke-into-my-dev-friends-website-in-less-than-24-hour-6fdb31ad65a1?source=rss----7b722bfd1b8d---4)
+- [How I Broke Into My Dev Friend’s Website in Less Than 24 Hour](https://infosecwriteups.com/how-i-broke-into-my-dev-friends-website-in-less-than-24-hour-6fdb31ad65a1?source=rss------bug_bounty_writeup-5)
+- [The ‘I Love You’ That Broke the Internet: A Love Letter Turned Cyber Nightmare](https://infosecwriteups.com/the-i-love-you-that-broke-the-internet-a-love-letter-turned-cyber-nightmare-f843aa7d1994?source=rss----7b722bfd1b8d---4)
+- [The Story of How I Hacked an International University in Indonesia](https://infosecwriteups.com/the-story-of-how-i-hacked-an-international-university-in-indonesia-ec819a8c8fc0?source=rss----7b722bfd1b8d---4)
+- [The Story of How I Hacked an International University in Indonesia](https://infosecwriteups.com/the-story-of-how-i-hacked-an-international-university-in-indonesia-ec819a8c8fc0?source=rss------bug_bounty_writeup-5)
 - [Mass Account Takeover in Stripe’s TaxJar: A One-Click Exploit!](https://medium.com/@mrasg/mass-account-takeover-in-stripes-taxjar-a-one-click-exploit-6fd13bb75f04?source=rss------bug_bounty_writeup-5)
 - [How Note-Taking and Hacktivity Analysis Led to Privilege Escalation](https://medium.com/@mrasg/how-note-taking-and-hacktivity-analysis-led-to-privilege-escalation-627aaf3bbd84?source=rss------bug_bounty_writeup-5)
 - [How I Achieved a Full Account Takeover Through Information Disclosure](https://medium.com/@mrasg/how-i-achieved-a-full-account-takeover-through-information-disclosure-16c6f697b76e?source=rss------bug_bounty_writeup-5)
@@ -936,14 +943,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Story Of 15 Vulnerabilities in one public BBP !](https://medium.com/@Ahmex000/story-of-15-vulnerabilities-in-one-buplic-bbp-561e68213991?source=rss------bug_bounty_writeup-5)
 - [Critical Bug: Deny Sign-In &amp; Steal Sensitive Info on Behalf of Victims](https://infosecwriteups.com/critical-bug-deny-sign-in-steal-sensitive-info-on-behalf-of-victims-cad4ced9227d?source=rss------bug_bounty_writeup-5)
 - [All UPI IDs in India have Predictable Patterns that allow the disclosure of mail IDs](https://infosecwriteups.com/all-upi-ids-in-india-have-predictable-patterns-that-allow-the-disclosure-of-mail-ids-eede37a35758?source=rss----7b722bfd1b8d---4)
-- [How to Threat Model: A Guide to Effectively Mapping your Attack Surface](https://infosecwriteups.com/how-to-threat-model-a-guide-to-effectively-mapping-your-attack-surface-f46db729581a?source=rss----7b722bfd1b8d---4)
-- [Web Cache Poisoning: WWWWWH?](https://infosecwriteups.com/web-cache-poisoning-wwwwwh-ee2b47d6bacc?source=rss----7b722bfd1b8d---4)
-- [TryHackme’s Advent of Cyber 2024 — Day 02 Writeup](https://infosecwriteups.com/tryhackmes-advent-of-cyber-2024-day-02-writeup-0c599829df0d?source=rss----7b722bfd1b8d---4)
-- [From Hacktivism to Cyber Warfare: Understanding the Role of Ideology in Cyberattacks](https://infosecwriteups.com/from-hacktivism-to-cyber-warfare-understanding-the-role-of-ideology-in-cyberattacks-aad6c449516d?source=rss----7b722bfd1b8d---4)
-- [Small Bugs, Big Bounties: A Hacker’s Guide to Quick Wins](https://infosecwriteups.com/small-bugs-big-bounties-a-hackers-guide-to-quick-wins-46a75dbc3573?source=rss----7b722bfd1b8d---4)
-- [Bug Bounty Tips Series: 10 Ways To Find HTTP Host Header Injection Vulnerability](https://medium.com/@alishoaib5929/bug-bounty-tips-series-10-ways-to-find-http-host-header-injection-vulnerability-1ad56c9dddd2?source=rss------bug_bounty_writeup-5)
 - [5 Questions to Assess Your Organization’s Bug Bounty Readiness](https://www.hackerone.com/vulnerability-management/bug-bounty-readiness-questions)
-- [Unpacking an IDOR-Based Exploit in International Shipping &lpar;70 Million+ PII Data Breach&rpar;](https://medium.com/@susapr/unpacking-an-idor-based-exploit-in-international-shipping-70-million-pii-data-breach-8c29cf33347d?source=rss------bug_bounty_writeup-5)
 - [Why Retail and E-commerce Organizations Trust Security Researchers During the Holiday Shopping Season](https://www.hackerone.com/vulnerability-management/retail-ecommerce-trust-security-researchers)
 - [Network and Information Systems Directive &lpar;NIS2&rpar; Compliance: What You Need to Know](https://www.hackerone.com/penetration-testing/nis2-directive)
 - [5 Insights Attendees Gained from the Security@ World Tour](https://www.hackerone.com/security-at/world-tour-insights)
