@@ -929,6 +929,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Advent of Cyber 2024 [ Day 4] Writeup with Answers | TryHackMe Walkthrough](https://infosecwriteups.com/advent-of-cyber-2024-day-4-writeup-with-answers-tryhackme-walkthrough-670865067830?source=rss----7b722bfd1b8d---4)
 - [Advent of Cyber 2024 [ Day 5 ] Writeup with Answers | TryHackMe Walkthrough](https://infosecwriteups.com/advent-of-cyber-2024-day-5-writeup-with-answers-tryhackme-walkthrough-1f0a66987b64?source=rss----7b722bfd1b8d---4)
 - [From File Upload To LFI: A Journey To Exploitation](https://infosecwriteups.com/from-file-upload-to-lfi-a-journey-to-exploitation-02ab5e1a7d0a?source=rss----7b722bfd1b8d---4)
+- [Harnessing the Working Genius for Team Success](https://www.hackerone.com/culture-and-talent/harnessing-working-genius-team-success)
 - [From Frustration to Exploitation: How a Link Shortener Helped Me Bypass WAF](https://imooaaz.medium.com/from-frustration-to-exploitation-how-a-link-shortener-helped-me-bypass-waf-03724dca1592?source=rss------bug_bounty_writeup-5)
 - [How I Exploited Passkey to Gain Unauthorized Access and TakeOver Invited Accounts](https://medium.com/@mrasg/how-i-exploited-passkey-to-gain-unauthorized-access-and-takeover-invited-accounts-b8b4547ffe70?source=rss------bug_bounty_writeup-5)
 - [Firebase URL Exploitation: Taking Over Android Databases Like a Pro!](https://infosecwriteups.com/firebase-url-exploitation-taking-over-android-databases-like-a-pro-79a00844496d?source=rss----7b722bfd1b8d---4)
@@ -971,7 +972,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Measure Your AI Risk Preparedness with This Interactive Self-Assessment Tool](https://www.hackerone.com/ai/ai-security-readiness-quiz)
 - [The Recruitment Process: What to Expect When You Apply at HackerOne](https://www.hackerone.com/culture-and-talent/recruitment-process-what-expect-when-you-apply-hackerone)
 - [Pentesting for Internal Networks](https://www.hackerone.com/penetration-testing/internal-network-pentests)
-- [How an IDOR Vulnerability Led to User Profile Modification](https://www.hackerone.com/vulnerability-management/idor-vulnerability-deep-dive)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
