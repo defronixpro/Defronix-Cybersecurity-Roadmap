@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [“The Hidden GPS Threat: Unstripped Metadata on Redacted.com led 5K Rubel in bounties” ️‍♂️](https://medium.com/@jeetpal2007/the-hidden-gps-threat-unstripped-metadata-on-redacted-com-led-5k-rubel-in-bounties-%EF%B8%8F-%EF%B8%8F-fd044d2031b6?source=rss------bug_bounty_writeup-5)
 - [HOW I FOUND MY FIRST XSS BUG](https://infosecwriteups.com/how-i-found-my-first-xss-bug-553225548d29?source=rss----7b722bfd1b8d---4)
 - [How I Hacked an Admin Panel in Just 2 Minutes](https://infosecwriteups.com/how-i-hacked-an-admin-panel-in-just-2-minutes-19d145820ee7?source=rss----7b722bfd1b8d---4)
 - [Web Shell Upload via Extension Blacklist Bypass — File Upload Vulnerability](https://infosecwriteups.com/web-shell-upload-via-extension-blacklist-bypass-file-upload-vulnerability-f98ee877aff1?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How I Achieved a Full Account Takeover Through Information Disclosure](https://medium.com/@mrasg/how-i-achieved-a-full-account-takeover-through-information-disclosure-16c6f697b76e?source=rss------bug_bounty_writeup-5)
 - [How I Turned a Low-Hanging Fruit Bug Into Mass Unauthorized Deletion of Invited Members](https://medium.com/@mrasg/how-i-turned-a-low-hanging-fruit-bug-into-mass-unauthorized-deletion-of-invited-members-6f195deffe11?source=rss------bug_bounty_writeup-5)
 - [How To Find Sensitive Log Files Easily..](https://medium.com/@josuofficial327/how-to-find-sensitive-log-files-easily-1dd14bb5f221?source=rss------bug_bounty_writeup-5)
-- [Firebase URL Exploitation: Taking Over Android Databases Like a Pro!](https://infosecwriteups.com/firebase-url-exploitation-taking-over-android-databases-like-a-pro-79a00844496d?source=rss------bug_bounty_writeup-5)
 - [Hai’s Latest Evolution: Intelligence, Context, and More Intuitive UX](https://www.hackerone.com/ai/hai-program-insights)
 - [5 Questions to Assess Your Organization’s Bug Bounty Readiness](https://www.hackerone.com/vulnerability-management/bug-bounty-readiness-questions)
 - [Why Retail and E-commerce Organizations Trust Security Researchers During the Holiday Shopping Season](https://www.hackerone.com/vulnerability-management/retail-ecommerce-trust-security-researchers)
