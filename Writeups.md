@@ -1,6 +1,12 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [HOW I FOUND MY FIRST XSS BUG](https://infosecwriteups.com/how-i-found-my-first-xss-bug-553225548d29?source=rss----7b722bfd1b8d---4)
+- [How I Hacked an Admin Panel in Just 2 Minutes](https://infosecwriteups.com/how-i-hacked-an-admin-panel-in-just-2-minutes-19d145820ee7?source=rss----7b722bfd1b8d---4)
+- [Web Shell Upload via Extension Blacklist Bypass — File Upload Vulnerability](https://infosecwriteups.com/web-shell-upload-via-extension-blacklist-bypass-file-upload-vulnerability-f98ee877aff1?source=rss----7b722bfd1b8d---4)
+- [Advent of Cyber 2024 [ Day 4] Writeup with Answers | TryHackMe Walkthrough](https://infosecwriteups.com/advent-of-cyber-2024-day-4-writeup-with-answers-tryhackme-walkthrough-670865067830?source=rss----7b722bfd1b8d---4)
+- [Advent of Cyber 2024 [ Day 5 ] Writeup with Answers | TryHackMe Walkthrough](https://infosecwriteups.com/advent-of-cyber-2024-day-5-writeup-with-answers-tryhackme-walkthrough-1f0a66987b64?source=rss----7b722bfd1b8d---4)
+- [From File Upload To LFI: A Journey To Exploitation](https://infosecwriteups.com/from-file-upload-to-lfi-a-journey-to-exploitation-02ab5e1a7d0a?source=rss----7b722bfd1b8d---4)
 - [From Frustration to Exploitation: How a Link Shortener Helped Me Bypass WAF](https://imooaaz.medium.com/from-frustration-to-exploitation-how-a-link-shortener-helped-me-bypass-waf-03724dca1592?source=rss------bug_bounty_writeup-5)
 - [How I Exploited Passkey to Gain Unauthorized Access and TakeOver Invited Accounts](https://medium.com/@mrasg/how-i-exploited-passkey-to-gain-unauthorized-access-and-takeover-invited-accounts-b8b4547ffe70?source=rss------bug_bounty_writeup-5)
 - [Firebase URL Exploitation: Taking Over Android Databases Like a Pro!](https://infosecwriteups.com/firebase-url-exploitation-taking-over-android-databases-like-a-pro-79a00844496d?source=rss----7b722bfd1b8d---4)
@@ -8,7 +14,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How I Broke Into My Dev Friend’s Website in Less Than 24 Hour](https://infosecwriteups.com/how-i-broke-into-my-dev-friends-website-in-less-than-24-hour-6fdb31ad65a1?source=rss----7b722bfd1b8d---4)
 - [How I Broke Into My Dev Friend’s Website in Less Than 24 Hour](https://infosecwriteups.com/how-i-broke-into-my-dev-friends-website-in-less-than-24-hour-6fdb31ad65a1?source=rss------bug_bounty_writeup-5)
 - [The ‘I Love You’ That Broke the Internet: A Love Letter Turned Cyber Nightmare](https://infosecwriteups.com/the-i-love-you-that-broke-the-internet-a-love-letter-turned-cyber-nightmare-f843aa7d1994?source=rss----7b722bfd1b8d---4)
-- [The Story of How I Hacked an International University in Indonesia](https://infosecwriteups.com/the-story-of-how-i-hacked-an-international-university-in-indonesia-ec819a8c8fc0?source=rss----7b722bfd1b8d---4)
 - [The Story of How I Hacked an International University in Indonesia](https://infosecwriteups.com/the-story-of-how-i-hacked-an-international-university-in-indonesia-ec819a8c8fc0?source=rss------bug_bounty_writeup-5)
 - [Mass Account Takeover in Stripe’s TaxJar: A One-Click Exploit!](https://medium.com/@mrasg/mass-account-takeover-in-stripes-taxjar-a-one-click-exploit-6fd13bb75f04?source=rss------bug_bounty_writeup-5)
 - [How Note-Taking and Hacktivity Analysis Led to Privilege Escalation](https://medium.com/@mrasg/how-note-taking-and-hacktivity-analysis-led-to-privilege-escalation-627aaf3bbd84?source=rss------bug_bounty_writeup-5)
@@ -16,12 +21,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How I Turned a Low-Hanging Fruit Bug Into Mass Unauthorized Deletion of Invited Members](https://medium.com/@mrasg/how-i-turned-a-low-hanging-fruit-bug-into-mass-unauthorized-deletion-of-invited-members-6f195deffe11?source=rss------bug_bounty_writeup-5)
 - [How To Find Sensitive Log Files Easily..](https://medium.com/@josuofficial327/how-to-find-sensitive-log-files-easily-1dd14bb5f221?source=rss------bug_bounty_writeup-5)
 - [Firebase URL Exploitation: Taking Over Android Databases Like a Pro!](https://infosecwriteups.com/firebase-url-exploitation-taking-over-android-databases-like-a-pro-79a00844496d?source=rss------bug_bounty_writeup-5)
-- [Docker/Kubernetes &lpar;K8s&rpar;Penetration Testing Checklist](https://infosecwriteups.com/docker-kubernetes-k8s-penetration-testing-checklist-4d0a13c38495?source=rss----7b722bfd1b8d---4)
-- [TryHackme’s Advent of Cyber 2024 — Day 03 Writeup](https://infosecwriteups.com/tryhackmes-advent-of-cyber-2024-day-03-writeup-c2c72d4f5216?source=rss----7b722bfd1b8d---4)
-- [Tricky &amp; Simple EXIF protection Bypass](https://infosecwriteups.com/tricky-simple-exif-protection-bypass-5d0babd908f3?source=rss----7b722bfd1b8d---4)
-- [Critical Bug: Deny Sign-In &amp; Steal Sensitive Info on Behalf of Victims](https://infosecwriteups.com/critical-bug-deny-sign-in-steal-sensitive-info-on-behalf-of-victims-cad4ced9227d?source=rss----7b722bfd1b8d---4)
 - [Hai’s Latest Evolution: Intelligence, Context, and More Intuitive UX](https://www.hackerone.com/ai/hai-program-insights)
-- [All UPI IDs in India have Predictable Patterns that allow the disclosure of mail IDs](https://infosecwriteups.com/all-upi-ids-in-india-have-predictable-patterns-that-allow-the-disclosure-of-mail-ids-eede37a35758?source=rss----7b722bfd1b8d---4)
 - [5 Questions to Assess Your Organization’s Bug Bounty Readiness](https://www.hackerone.com/vulnerability-management/bug-bounty-readiness-questions)
 - [Why Retail and E-commerce Organizations Trust Security Researchers During the Holiday Shopping Season](https://www.hackerone.com/vulnerability-management/retail-ecommerce-trust-security-researchers)
 - [Network and Information Systems Directive &lpar;NIS2&rpar; Compliance: What You Need to Know](https://www.hackerone.com/penetration-testing/nis2-directive)
