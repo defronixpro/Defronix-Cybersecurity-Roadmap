@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How I Found an ATO Vulnerability in Stripe Program in an Overlooked Corner](https://medium.com/@mrasg/how-i-found-an-ato-vulnerability-in-stripe-program-in-an-overlooked-corner-dce7d2cdaaf9?source=rss------bug_bounty_writeup-5)
 - [“The Hidden GPS Threat: Unstripped Metadata on Redacted.com led 5K Rubel in bounties” ️‍♂️](https://infosecwriteups.com/the-hidden-gps-threat-unstripped-metadata-on-redacted-com-led-5k-rubel-in-bounties-%EF%B8%8F-%EF%B8%8F-fd044d2031b6?source=rss----7b722bfd1b8d---4)
 - [Protect Your System: A Complete Guide to Hash-Based Search on VirusTotal](https://infosecwriteups.com/protect-your-system-a-complete-guide-to-hash-based-search-on-virustotal-e9d54fe65965?source=rss----7b722bfd1b8d---4)
 - [From Newbie to Pro: My Journey to a $3,000 Bug Bounty](https://infosecwriteups.com/from-newbie-to-pro-my-journey-to-a-3-000-bug-bounty-61abe935e3db?source=rss----7b722bfd1b8d---4)
@@ -21,7 +22,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Mass Account Takeover in Stripe’s TaxJar: A One-Click Exploit!](https://medium.com/@mrasg/mass-account-takeover-in-stripes-taxjar-a-one-click-exploit-6fd13bb75f04?source=rss------bug_bounty_writeup-5)
 - [How Note-Taking and Hacktivity Analysis Led to Privilege Escalation](https://medium.com/@mrasg/how-note-taking-and-hacktivity-analysis-led-to-privilege-escalation-627aaf3bbd84?source=rss------bug_bounty_writeup-5)
 - [How I Achieved a Full Account Takeover Through Information Disclosure](https://medium.com/@mrasg/how-i-achieved-a-full-account-takeover-through-information-disclosure-16c6f697b76e?source=rss------bug_bounty_writeup-5)
-- [How I Turned a Low-Hanging Fruit Bug Into Mass Unauthorized Deletion of Invited Members](https://medium.com/@mrasg/how-i-turned-a-low-hanging-fruit-bug-into-mass-unauthorized-deletion-of-invited-members-6f195deffe11?source=rss------bug_bounty_writeup-5)
 - [Hai’s Latest Evolution: Intelligence, Context, and More Intuitive UX](https://www.hackerone.com/ai/hai-program-insights)
 - [5 Questions to Assess Your Organization’s Bug Bounty Readiness](https://www.hackerone.com/vulnerability-management/bug-bounty-readiness-questions)
 - [Why Retail and E-commerce Organizations Trust Security Researchers During the Holiday Shopping Season](https://www.hackerone.com/vulnerability-management/retail-ecommerce-trust-security-researchers)
