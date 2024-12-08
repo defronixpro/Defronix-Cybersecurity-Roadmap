@@ -6,7 +6,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How Black Hat Use Cookies to Steal Your Identity](https://infosecwriteups.com/how-black-hat-use-cookies-to-steal-your-identity-fe7b679dbe15?source=rss----7b722bfd1b8d---4)
 - [Cookie Jar Overflow: A New Threat to HttpOnly Cookies in XSS Vulnerable Applications](https://infosecwriteups.com/cookie-jar-overflow-a-new-threat-to-httponly-cookies-in-xss-vulnerable-applications-9ceac4041082?source=rss----7b722bfd1b8d---4)
 - [WhiteLevel Error Page / Spring Boot Actuators Hunting](https://0xshuvo.medium.com/whitelevel-error-page-spring-boot-actuators-hunting-b0290c4ccdbd?source=rss------bug_bounty_writeup-5)
-- [$400 Bounty in 10 sec](https://systemweakness.com/400-bounty-in-10-sec-14d26c2976ec?source=rss------bug_bounty_writeup-5)
+- [$400 Bounty in 10 sec](https://medium.com/infosecmatrix/400-bounty-in-10-sec-14d26c2976ec?source=rss------bug_bounty_writeup-5)
 - [Critical Authentication Bypass &amp; Account Takeover via Attacker’s MFA Code](https://medium.com/@sharp488/critical-authentication-bypass-account-takeover-via-attackers-mfa-code-fadf36fe6e34?source=rss------bug_bounty_writeup-5)
 - [Misconfigurations That Paid Me Big: How I Exploited Them &lpar;And How You Can Stop Me&rpar;](https://systemweakness.com/misconfigurations-that-paid-me-big-how-i-exploited-them-and-how-you-can-stop-me-788a5375aa3c?source=rss------bug_bounty_writeup-5)
 - [How I Found an ATO Vulnerability in Stripe Program in an Overlooked Corner](https://medium.com/@mrasg/how-i-found-an-ato-vulnerability-in-stripe-program-in-an-overlooked-corner-dce7d2cdaaf9?source=rss------bug_bounty_writeup-5)
