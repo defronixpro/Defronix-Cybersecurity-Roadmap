@@ -923,7 +923,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
 - [$200 Recon Bug Bounty](https://medium.com/infosecmatrix/200-recon-bug-bounty-3538566b94dc?source=rss------bug_bounty_writeup-5)
-- [TryHackme’s Advent of Cyber 2024 — Day 07 Writeup](https://infosecwriteups.com/tryhackmes-advent-of-cyber-2024-day-07-writeup-2761448b0a67?source=rss----7b722bfd1b8d---4)
 - [How Black Hat Use Cookies to Steal Your Identity](https://infosecwriteups.com/how-black-hat-use-cookies-to-steal-your-identity-fe7b679dbe15?source=rss----7b722bfd1b8d---4)
 - [Cookie Jar Overflow: A New Threat to HttpOnly Cookies in XSS Vulnerable Applications](https://infosecwriteups.com/cookie-jar-overflow-a-new-threat-to-httponly-cookies-in-xss-vulnerable-applications-9ceac4041082?source=rss----7b722bfd1b8d---4)
 - [WhiteLevel Error Page / Spring Boot Actuators Hunting](https://0xshuvo.medium.com/whitelevel-error-page-spring-boot-actuators-hunting-b0290c4ccdbd?source=rss------bug_bounty_writeup-5)
@@ -935,11 +934,12 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Protect Your System: A Complete Guide to Hash-Based Search on VirusTotal](https://infosecwriteups.com/protect-your-system-a-complete-guide-to-hash-based-search-on-virustotal-e9d54fe65965?source=rss----7b722bfd1b8d---4)
 - [From Newbie to Pro: My Journey to a $3,000 Bug Bounty](https://infosecwriteups.com/from-newbie-to-pro-my-journey-to-a-3-000-bug-bounty-61abe935e3db?source=rss----7b722bfd1b8d---4)
 - [Advent of Cyber 2024 [ Day 6 ] Writeup with Answers | TryHackMe Walkthrough](https://infosecwriteups.com/advent-of-cyber-2024-day-6-writeup-with-answers-tryhackme-walkthrough-480ba1ea1003?source=rss----7b722bfd1b8d---4)
-- [TryHackme’s Advent of Cyber 2024 — Day 05 Writeup](https://infosecwriteups.com/tryhackmes-advent-of-cyber-2024-day-05-writeup-d2022daaffab?source=rss----7b722bfd1b8d---4)
-- [TryHackme’s Advent of Cyber 2024 — Day 06 Writeup](https://infosecwriteups.com/tryhackmes-advent-of-cyber-2024-day-06-writeup-7d6eabd0f830?source=rss----7b722bfd1b8d---4)
 - [The Dark Web Economy: How Cybercriminals Monetize Stolen Data](https://infosecwriteups.com/the-dark-web-economy-how-cybercriminals-monetize-stolen-data-6c20671af99b?source=rss----7b722bfd1b8d---4)
+- [How to Make a Clickjacking Vulnerability Scanner with Python](https://infosecwriteups.com/how-to-make-a-clickjacking-vulnerability-scanner-with-python-a53f48e70b58?source=rss----7b722bfd1b8d---4)
+- [Malware Analysis : HTB Sherloc OpSalwarKameez24–1: Super-Star](https://infosecwriteups.com/malware-analysis-htb-sherloc-opsalwarkameez24-1-super-star-2f6b1c52e279?source=rss----7b722bfd1b8d---4)
 - [From Low Privileges to Owner Rights: A Wild Journey Through an ATO Vulnerability](https://medium.com/@mrasg/from-low-privileges-to-owner-rights-a-wild-journey-through-an-ato-vulnerability-cb21c468634c?source=rss------bug_bounty_writeup-5)
 - [“The Hidden GPS Threat: Unstripped Metadata on Redacted.com led 5K Rubel in bounties” ️‍♂️](https://infosecwriteups.com/the-hidden-gps-threat-unstripped-metadata-on-redacted-com-led-5k-rubel-in-bounties-%EF%B8%8F-%EF%B8%8F-fd044d2031b6?source=rss------bug_bounty_writeup-5)
+- [HOW I FOUND MY FIRST XSS BUG](https://infosecwriteups.com/how-i-found-my-first-xss-bug-553225548d29?source=rss----7b722bfd1b8d---4)
 - [Harnessing the Working Genius for Team Success](https://www.hackerone.com/culture-and-talent/harnessing-working-genius-team-success)
 - [From Frustration to Exploitation: How a Link Shortener Helped Me Bypass WAF](https://imooaaz.medium.com/from-frustration-to-exploitation-how-a-link-shortener-helped-me-bypass-waf-03724dca1592?source=rss------bug_bounty_writeup-5)
 - [How I Exploited Passkey to Gain Unauthorized Access and TakeOver Invited Accounts](https://medium.com/@mrasg/how-i-exploited-passkey-to-gain-unauthorized-access-and-takeover-invited-accounts-b8b4547ffe70?source=rss------bug_bounty_writeup-5)
