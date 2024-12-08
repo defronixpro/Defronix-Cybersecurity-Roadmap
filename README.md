@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [WhiteLevel Error Page / Spring Boot Actuators Hunting](https://0xshuvo.medium.com/whitelevel-error-page-spring-boot-actuators-hunting-b0290c4ccdbd?source=rss------bug_bounty_writeup-5)
 - [$400 Bounty in 10 sec](https://systemweakness.com/400-bounty-in-10-sec-14d26c2976ec?source=rss------bug_bounty_writeup-5)
 - [Critical Authentication Bypass &amp; Account Takeover via Attacker’s MFA Code](https://medium.com/@sharp488/critical-authentication-bypass-account-takeover-via-attackers-mfa-code-fadf36fe6e34?source=rss------bug_bounty_writeup-5)
 - [Misconfigurations That Paid Me Big: How I Exploited Them &lpar;And How You Can Stop Me&rpar;](https://systemweakness.com/misconfigurations-that-paid-me-big-how-i-exploited-them-and-how-you-can-stop-me-788a5375aa3c?source=rss------bug_bounty_writeup-5)
@@ -942,7 +943,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [From Frustration to Exploitation: How a Link Shortener Helped Me Bypass WAF](https://imooaaz.medium.com/from-frustration-to-exploitation-how-a-link-shortener-helped-me-bypass-waf-03724dca1592?source=rss------bug_bounty_writeup-5)
 - [How I Exploited Passkey to Gain Unauthorized Access and TakeOver Invited Accounts](https://medium.com/@mrasg/how-i-exploited-passkey-to-gain-unauthorized-access-and-takeover-invited-accounts-b8b4547ffe70?source=rss------bug_bounty_writeup-5)
 - [How I Broke Into My Dev Friend’s Website in Less Than 24 Hour](https://infosecwriteups.com/how-i-broke-into-my-dev-friends-website-in-less-than-24-hour-6fdb31ad65a1?source=rss------bug_bounty_writeup-5)
-- [The Story of How I Hacked an International University in Indonesia](https://infosecwriteups.com/the-story-of-how-i-hacked-an-international-university-in-indonesia-ec819a8c8fc0?source=rss------bug_bounty_writeup-5)
 - [Hai’s Latest Evolution: Intelligence, Context, and More Intuitive UX](https://www.hackerone.com/ai/hai-program-insights)
 - [5 Questions to Assess Your Organization’s Bug Bounty Readiness](https://www.hackerone.com/vulnerability-management/bug-bounty-readiness-questions)
 - [Why Retail and E-commerce Organizations Trust Security Researchers During the Holiday Shopping Season](https://www.hackerone.com/vulnerability-management/retail-ecommerce-trust-security-researchers)
