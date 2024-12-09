@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Exposed Prometheus Server Endpoint](https://osintteam.blog/exposed-prometheus-server-endpoint-cfb8e82e441b?source=rss------bug_bounty_writeup-5)
 - [How I Earned $$$ | Open Redirection](https://medium.com/@A0X-Y0S3TRX/how-i-earned-open-redirection-c26e191dbff2?source=rss------bug_bounty_writeup-5)
 - [How I Exploited Amazon Cognito Misconfigurations to Access Confidential S3 Data](https://awstip.com/how-i-exploited-amazon-cognito-misconfigurations-to-access-confidential-s3-data-badb62cabfab?source=rss------bug_bounty_writeup-5)
 - [NASA P3 Google Dorking](https://cybersecuritywriteups.com/nasa-p3-google-dorking-6779970b6f03?source=rss------bug_bounty_writeup-5)
@@ -940,7 +941,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How to Make a Clickjacking Vulnerability Scanner with Python](https://infosecwriteups.com/how-to-make-a-clickjacking-vulnerability-scanner-with-python-a53f48e70b58?source=rss----7b722bfd1b8d---4)
 - [Malware Analysis : HTB Sherloc OpSalwarKameez24–1: Super-Star](https://infosecwriteups.com/malware-analysis-htb-sherloc-opsalwarkameez24-1-super-star-2f6b1c52e279?source=rss----7b722bfd1b8d---4)
 - [From Low Privileges to Owner Rights: A Wild Journey Through an ATO Vulnerability](https://medium.com/@mrasg/from-low-privileges-to-owner-rights-a-wild-journey-through-an-ato-vulnerability-cb21c468634c?source=rss------bug_bounty_writeup-5)
-- [“The Hidden GPS Threat: Unstripped Metadata on Redacted.com led 5K Rubel in bounties” ️‍♂️](https://infosecwriteups.com/the-hidden-gps-threat-unstripped-metadata-on-redacted-com-led-5k-rubel-in-bounties-%EF%B8%8F-%EF%B8%8F-fd044d2031b6?source=rss------bug_bounty_writeup-5)
 - [HOW I FOUND MY FIRST XSS BUG](https://infosecwriteups.com/how-i-found-my-first-xss-bug-553225548d29?source=rss----7b722bfd1b8d---4)
 - [Harnessing the Working Genius for Team Success](https://www.hackerone.com/culture-and-talent/harnessing-working-genius-team-success)
 - [Hai’s Latest Evolution: Intelligence, Context, and More Intuitive UX](https://www.hackerone.com/ai/hai-program-insights)
