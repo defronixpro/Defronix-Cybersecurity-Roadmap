@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [NASA P3 Google Dorking](https://cybersecuritywriteups.com/nasa-p3-google-dorking-6779970b6f03?source=rss------bug_bounty_writeup-5)
 - [$200 Recon Bug Bounty](https://medium.com/infosecmatrix/200-recon-bug-bounty-3538566b94dc?source=rss------bug_bounty_writeup-5)
 - [How Black Hat Use Cookies to Steal Your Identity](https://infosecwriteups.com/how-black-hat-use-cookies-to-steal-your-identity-fe7b679dbe15?source=rss----7b722bfd1b8d---4)
 - [Cookie Jar Overflow: A New Threat to HttpOnly Cookies in XSS Vulnerable Applications](https://infosecwriteups.com/cookie-jar-overflow-a-new-threat-to-httponly-cookies-in-xss-vulnerable-applications-9ceac4041082?source=rss----7b722bfd1b8d---4)
@@ -21,7 +22,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Harnessing the Working Genius for Team Success](https://www.hackerone.com/culture-and-talent/harnessing-working-genius-team-success)
 - [From Frustration to Exploitation: How a Link Shortener Helped Me Bypass WAF](https://imooaaz.medium.com/from-frustration-to-exploitation-how-a-link-shortener-helped-me-bypass-waf-03724dca1592?source=rss------bug_bounty_writeup-5)
 - [How I Exploited Passkey to Gain Unauthorized Access and TakeOver Invited Accounts](https://medium.com/@mrasg/how-i-exploited-passkey-to-gain-unauthorized-access-and-takeover-invited-accounts-b8b4547ffe70?source=rss------bug_bounty_writeup-5)
-- [How I Broke Into My Dev Friend’s Website in Less Than 24 Hour](https://infosecwriteups.com/how-i-broke-into-my-dev-friends-website-in-less-than-24-hour-6fdb31ad65a1?source=rss------bug_bounty_writeup-5)
 - [Hai’s Latest Evolution: Intelligence, Context, and More Intuitive UX](https://www.hackerone.com/ai/hai-program-insights)
 - [5 Questions to Assess Your Organization’s Bug Bounty Readiness](https://www.hackerone.com/vulnerability-management/bug-bounty-readiness-questions)
 - [Why Retail and E-commerce Organizations Trust Security Researchers During the Holiday Shopping Season](https://www.hackerone.com/vulnerability-management/retail-ecommerce-trust-security-researchers)
