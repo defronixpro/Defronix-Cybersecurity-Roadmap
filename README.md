@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Email and home address disclosure using unauthenticated API endpoint worth $500](https://vijetareigns.medium.com/email-and-home-address-disclosure-using-unauthenticated-api-endpoint-worth-500-4a497ff0678c?source=rss------bug_bounty_writeup-5)
 - [Exposed Prometheus Server Endpoint](https://osintteam.blog/exposed-prometheus-server-endpoint-cfb8e82e441b?source=rss------bug_bounty_writeup-5)
 - [How I Earned $$$ | Open Redirection](https://medium.com/@A0X-Y0S3TRX/how-i-earned-open-redirection-c26e191dbff2?source=rss------bug_bounty_writeup-5)
 - [How I Exploited Amazon Cognito Misconfigurations to Access Confidential S3 Data](https://awstip.com/how-i-exploited-amazon-cognito-misconfigurations-to-access-confidential-s3-data-badb62cabfab?source=rss------bug_bounty_writeup-5)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [TryHackme’s Advent of Cyber 2024 — Day 05 Writeup](https://infosecwriteups.com/tryhackmes-advent-of-cyber-2024-day-05-writeup-d2022daaffab?source=rss----7b722bfd1b8d---4)
 - [TryHackme’s Advent of Cyber 2024 — Day 06 Writeup](https://infosecwriteups.com/tryhackmes-advent-of-cyber-2024-day-06-writeup-7d6eabd0f830?source=rss----7b722bfd1b8d---4)
 - [The Dark Web Economy: How Cybercriminals Monetize Stolen Data](https://infosecwriteups.com/the-dark-web-economy-how-cybercriminals-monetize-stolen-data-6c20671af99b?source=rss----7b722bfd1b8d---4)
-- [From Low Privileges to Owner Rights: A Wild Journey Through an ATO Vulnerability](https://medium.com/@mrasg/from-low-privileges-to-owner-rights-a-wild-journey-through-an-ato-vulnerability-cb21c468634c?source=rss------bug_bounty_writeup-5)
 - [Harnessing the Working Genius for Team Success](https://www.hackerone.com/culture-and-talent/harnessing-working-genius-team-success)
 - [Hai’s Latest Evolution: Intelligence, Context, and More Intuitive UX](https://www.hackerone.com/ai/hai-program-insights)
 - [5 Questions to Assess Your Organization’s Bug Bounty Readiness](https://www.hackerone.com/vulnerability-management/bug-bounty-readiness-questions)
