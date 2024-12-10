@@ -1,7 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
-- [Zoho QEngine: Arbitrary File Read](https://jayateerthag.medium.com/zoho-qengine-arbitrary-file-read-08df3d1e167e?source=rss------bug_bounty_writeup-5)
+- [Zoho QEngine: Arbitrary File Read](https://infosecwriteups.com/zoho-qengine-arbitrary-file-read-08df3d1e167e?source=rss------bug_bounty_writeup-5)
 - [$500 Bypassing Cloudflare WAF to Achieve XSS](https://medium.com/@kumawatabhijeet2002/500-bypassing-cloudflare-waf-to-achieve-xss-f3b9c4acb702?source=rss------bug_bounty_writeup-5)
 - [Email and home address disclosure using unauthenticated API endpoint worth $500](https://vijetareigns.medium.com/email-and-home-address-disclosure-using-unauthenticated-api-endpoint-worth-500-4a497ff0678c?source=rss------bug_bounty_writeup-5)
 - [Exposed Prometheus Server Endpoint](https://osintteam.blog/exposed-prometheus-server-endpoint-cfb8e82e441b?source=rss------bug_bounty_writeup-5)
