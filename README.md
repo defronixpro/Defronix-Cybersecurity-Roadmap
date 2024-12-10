@@ -943,6 +943,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [TryHackme’s Advent of Cyber 2024 — Day 05 Writeup](https://infosecwriteups.com/tryhackmes-advent-of-cyber-2024-day-05-writeup-d2022daaffab?source=rss----7b722bfd1b8d---4)
 - [TryHackme’s Advent of Cyber 2024 — Day 06 Writeup](https://infosecwriteups.com/tryhackmes-advent-of-cyber-2024-day-06-writeup-7d6eabd0f830?source=rss----7b722bfd1b8d---4)
 - [The Dark Web Economy: How Cybercriminals Monetize Stolen Data](https://infosecwriteups.com/the-dark-web-economy-how-cybercriminals-monetize-stolen-data-6c20671af99b?source=rss----7b722bfd1b8d---4)
+- [Hack My Career: Saskia Braucher](https://www.hackerone.com/culture-and-talent/hack-my-career-saskia-braucher)
 - [Harnessing the Working Genius for Team Success](https://www.hackerone.com/culture-and-talent/harnessing-working-genius-team-success)
 - [Hai’s Latest Evolution: Intelligence, Context, and More Intuitive UX](https://www.hackerone.com/ai/hai-program-insights)
 - [5 Questions to Assess Your Organization’s Bug Bounty Readiness](https://www.hackerone.com/vulnerability-management/bug-bounty-readiness-questions)
@@ -971,7 +972,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How To Use HackerOne’s Global Vulnerability Policy Map](https://www.hackerone.com/public-policy/global-vulnerability-policy-map)
 - [European Council Adopts Cyber Resilience Act](https://www.hackerone.com/public-policy/eu-council-cyber-resilience-act)
 - [Measure Your AI Risk Preparedness with This Interactive Self-Assessment Tool](https://www.hackerone.com/ai/ai-security-readiness-quiz)
-- [The Recruitment Process: What to Expect When You Apply at HackerOne](https://www.hackerone.com/culture-and-talent/recruitment-process-what-expect-when-you-apply-hackerone)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
