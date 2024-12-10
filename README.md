@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Zoho QEngine: Arbitrary File Read](https://infosecwriteups.com/zoho-qengine-arbitrary-file-read-08df3d1e167e?source=rss------bug_bounty_writeup-5)
 - [$500 Bypassing Cloudflare WAF to Achieve XSS](https://medium.com/@kumawatabhijeet2002/500-bypassing-cloudflare-waf-to-achieve-xss-f3b9c4acb702?source=rss------bug_bounty_writeup-5)
 - [Email and home address disclosure using unauthenticated API endpoint worth $500](https://vijetareigns.medium.com/email-and-home-address-disclosure-using-unauthenticated-api-endpoint-worth-500-4a497ff0678c?source=rss------bug_bounty_writeup-5)
 - [Exposed Prometheus Server Endpoint](https://osintteam.blog/exposed-prometheus-server-endpoint-cfb8e82e441b?source=rss------bug_bounty_writeup-5)
@@ -934,7 +935,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Cookie Jar Overflow: A New Threat to HttpOnly Cookies in XSS Vulnerable Applications](https://infosecwriteups.com/cookie-jar-overflow-a-new-threat-to-httponly-cookies-in-xss-vulnerable-applications-9ceac4041082?source=rss----7b722bfd1b8d---4)
 - [WhiteLevel Error Page / Spring Boot Actuators Hunting](https://0xshuvo.medium.com/whitelevel-error-page-spring-boot-actuators-hunting-b0290c4ccdbd?source=rss------bug_bounty_writeup-5)
 - [$400 Bounty in 10 sec](https://medium.com/infosecmatrix/400-bounty-in-10-sec-14d26c2976ec?source=rss------bug_bounty_writeup-5)
-- [Critical Authentication Bypass &amp; Account Takeover via Attacker’s MFA Code](https://medium.com/@sharp488/critical-authentication-bypass-account-takeover-via-attackers-mfa-code-fadf36fe6e34?source=rss------bug_bounty_writeup-5)
 - [“The Hidden GPS Threat: Unstripped Metadata on Redacted.com led 5K Rubel in bounties” ️‍♂️](https://infosecwriteups.com/the-hidden-gps-threat-unstripped-metadata-on-redacted-com-led-5k-rubel-in-bounties-%EF%B8%8F-%EF%B8%8F-fd044d2031b6?source=rss----7b722bfd1b8d---4)
 - [Protect Your System: A Complete Guide to Hash-Based Search on VirusTotal](https://infosecwriteups.com/protect-your-system-a-complete-guide-to-hash-based-search-on-virustotal-e9d54fe65965?source=rss----7b722bfd1b8d---4)
 - [From Newbie to Pro: My Journey to a $3,000 Bug Bounty](https://infosecwriteups.com/from-newbie-to-pro-my-journey-to-a-3-000-bug-bounty-61abe935e3db?source=rss----7b722bfd1b8d---4)
