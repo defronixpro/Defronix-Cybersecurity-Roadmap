@@ -922,9 +922,12 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Vulnerability Hunting Journey Cost $$$ : Discovering XSS and Clickjacking on goverment Domains](https://medium.com/@gourisankara357/vulnerability-hunting-journey-cost-discovering-xss-and-clickjacking-on-goverment-domains-faa81fba7a2a?source=rss------bug_bounty_writeup-5)
+- [I Found 7 Log4j &lpar;RCE&rpar; in a Single Program!](https://medium.com/@rootplinix/i-found-7-log4j-rce-in-a-single-program-5afb7d02dd06?source=rss------bug_bounty_writeup-5)
 - [Zoho QEngine: Arbitrary File Read](https://infosecwriteups.com/zoho-qengine-arbitrary-file-read-08df3d1e167e?source=rss------bug_bounty_writeup-5)
 - [$500 Bypassing Cloudflare WAF to Achieve XSS](https://medium.com/@kumawatabhijeet2002/500-bypassing-cloudflare-waf-to-achieve-xss-f3b9c4acb702?source=rss------bug_bounty_writeup-5)
 - [Email and home address disclosure using unauthenticated API endpoint worth $500](https://vijetareigns.medium.com/email-and-home-address-disclosure-using-unauthenticated-api-endpoint-worth-500-4a497ff0678c?source=rss------bug_bounty_writeup-5)
+- [New Guidance for Federal AI Procurement Embraces Red Teaming and Other HackerOne Suggestions](https://www.hackerone.com/public-policy/federal-ai-procurement-guidance)
 - [Exposed Prometheus Server Endpoint](https://osintteam.blog/exposed-prometheus-server-endpoint-cfb8e82e441b?source=rss------bug_bounty_writeup-5)
 - [How I Earned $$$ | Open Redirection](https://medium.com/@A0X-Y0S3TRX/how-i-earned-open-redirection-c26e191dbff2?source=rss------bug_bounty_writeup-5)
 - [How I Exploited Amazon Cognito Misconfigurations to Access Confidential S3 Data](https://awstip.com/how-i-exploited-amazon-cognito-misconfigurations-to-access-confidential-s3-data-badb62cabfab?source=rss------bug_bounty_writeup-5)
@@ -933,8 +936,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [TryHackme’s Advent of Cyber 2024 — Day 07 Writeup](https://infosecwriteups.com/tryhackmes-advent-of-cyber-2024-day-07-writeup-2761448b0a67?source=rss----7b722bfd1b8d---4)
 - [How Black Hat Use Cookies to Steal Your Identity](https://infosecwriteups.com/how-black-hat-use-cookies-to-steal-your-identity-fe7b679dbe15?source=rss----7b722bfd1b8d---4)
 - [Cookie Jar Overflow: A New Threat to HttpOnly Cookies in XSS Vulnerable Applications](https://infosecwriteups.com/cookie-jar-overflow-a-new-threat-to-httponly-cookies-in-xss-vulnerable-applications-9ceac4041082?source=rss----7b722bfd1b8d---4)
-- [WhiteLevel Error Page / Spring Boot Actuators Hunting](https://0xshuvo.medium.com/whitelevel-error-page-spring-boot-actuators-hunting-b0290c4ccdbd?source=rss------bug_bounty_writeup-5)
-- [$400 Bounty in 10 sec](https://medium.com/infosecmatrix/400-bounty-in-10-sec-14d26c2976ec?source=rss------bug_bounty_writeup-5)
 - [“The Hidden GPS Threat: Unstripped Metadata on Redacted.com led 5K Rubel in bounties” ️‍♂️](https://infosecwriteups.com/the-hidden-gps-threat-unstripped-metadata-on-redacted-com-led-5k-rubel-in-bounties-%EF%B8%8F-%EF%B8%8F-fd044d2031b6?source=rss----7b722bfd1b8d---4)
 - [Protect Your System: A Complete Guide to Hash-Based Search on VirusTotal](https://infosecwriteups.com/protect-your-system-a-complete-guide-to-hash-based-search-on-virustotal-e9d54fe65965?source=rss----7b722bfd1b8d---4)
 - [From Newbie to Pro: My Journey to a $3,000 Bug Bounty](https://infosecwriteups.com/from-newbie-to-pro-my-journey-to-a-3-000-bug-bounty-61abe935e3db?source=rss----7b722bfd1b8d---4)
@@ -971,7 +972,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [European Council Adopts Cyber Resilience Act](https://www.hackerone.com/public-policy/eu-council-cyber-resilience-act)
 - [Measure Your AI Risk Preparedness with This Interactive Self-Assessment Tool](https://www.hackerone.com/ai/ai-security-readiness-quiz)
 - [The Recruitment Process: What to Expect When You Apply at HackerOne](https://www.hackerone.com/culture-and-talent/recruitment-process-what-expect-when-you-apply-hackerone)
-- [Pentesting for Internal Networks](https://www.hackerone.com/penetration-testing/internal-network-pentests)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
