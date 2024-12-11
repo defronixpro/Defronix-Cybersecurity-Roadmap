@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I Secured The Indian Army?](https://cybersecuritywriteups.com/how-i-secured-the-indian-army-9a80ba399202?source=rss------bug_bounty_writeup-5)
 - [Exposed Git Directory P1 Bug](https://systemweakness.com/exposed-git-directory-p1-bug-5fd272a62f51?source=rss------bug_bounty_writeup-5)
 - [Introducing the Wells Fargo Public Bug Bounty Program](https://www.hackerone.com/customer-story/wells-fargo-public-bug-bounty)
 - [Six Years of Proactive Defense: Deribit’s Journey with HackerOne](https://www.hackerone.com/customer-story/deribit)
@@ -944,7 +945,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Exposed Prometheus Server Endpoint](https://osintteam.blog/exposed-prometheus-server-endpoint-cfb8e82e441b?source=rss------bug_bounty_writeup-5)
 - [How I Earned $$$ | Open Redirection](https://medium.com/@A0X-Y0S3TRX/how-i-earned-open-redirection-c26e191dbff2?source=rss------bug_bounty_writeup-5)
 - [How I Exploited Amazon Cognito Misconfigurations to Access Confidential S3 Data](https://awstip.com/how-i-exploited-amazon-cognito-misconfigurations-to-access-confidential-s3-data-badb62cabfab?source=rss------bug_bounty_writeup-5)
-- [NASA P3 Google Dorking](https://cybersecuritywriteups.com/nasa-p3-google-dorking-6779970b6f03?source=rss------bug_bounty_writeup-5)
 - [Hack My Career: Saskia Braucher](https://www.hackerone.com/culture-and-talent/hack-my-career-saskia-braucher)
 - [Harnessing the Working Genius for Team Success](https://www.hackerone.com/culture-and-talent/harnessing-working-genius-team-success)
 - [Hai’s Latest Evolution: Intelligence, Context, and More Intuitive UX](https://www.hackerone.com/ai/hai-program-insights)
