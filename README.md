@@ -941,7 +941,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [I Found 7 Log4j &lpar;RCE&rpar; in a Single Program!](https://medium.com/@rootplinix/i-found-7-log4j-rce-in-a-single-program-5afb7d02dd06?source=rss------bug_bounty_writeup-5)
 - [Zoho QEngine: Arbitrary File Read](https://infosecwriteups.com/zoho-qengine-arbitrary-file-read-08df3d1e167e?source=rss------bug_bounty_writeup-5)
 - [$500 Bypassing Cloudflare WAF to Achieve XSS](https://medium.com/@kumawatabhijeet2002/500-bypassing-cloudflare-waf-to-achieve-xss-f3b9c4acb702?source=rss------bug_bounty_writeup-5)
-- [Email and home address disclosure using unauthenticated API endpoint worth $500](https://vijetareigns.medium.com/email-and-home-address-disclosure-using-unauthenticated-api-endpoint-worth-500-4a497ff0678c?source=rss------bug_bounty_writeup-5)
+- [Email and home address disclosure using unauthenticated API endpoint worth $500](https://systemweakness.com/email-and-home-address-disclosure-using-unauthenticated-api-endpoint-worth-500-4a497ff0678c?source=rss------bug_bounty_writeup-5)
 - [New Guidance for Federal AI Procurement Embraces Red Teaming and Other HackerOne Suggestions](https://www.hackerone.com/public-policy/federal-ai-procurement-guidance)
 - [Exposed Prometheus Server Endpoint](https://osintteam.blog/exposed-prometheus-server-endpoint-cfb8e82e441b?source=rss------bug_bounty_writeup-5)
 - [How I Earned $$$ | Open Redirection](https://medium.com/@A0X-Y0S3TRX/how-i-earned-open-redirection-c26e191dbff2?source=rss------bug_bounty_writeup-5)
