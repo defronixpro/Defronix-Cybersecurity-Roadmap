@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I Bypassed Email Confirmation: A Playful Journey into the World of Bug Hunting](https://medium.com/@mrasg/how-i-bypassed-email-confirmation-a-playful-journey-into-the-world-of-bug-hunting-30f72d6c2fb6?source=rss------bug_bounty_writeup-5)
 - [How I Secured The Indian Army?](https://cybersecuritywriteups.com/how-i-secured-the-indian-army-9a80ba399202?source=rss------bug_bounty_writeup-5)
 - [Exposed Git Directory P1 Bug](https://systemweakness.com/exposed-git-directory-p1-bug-5fd272a62f51?source=rss------bug_bounty_writeup-5)
 - [Introducing the Wells Fargo Public Bug Bounty Program](https://www.hackerone.com/customer-story/wells-fargo-public-bug-bounty)
@@ -944,7 +945,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [New Guidance for Federal AI Procurement Embraces Red Teaming and Other HackerOne Suggestions](https://www.hackerone.com/public-policy/federal-ai-procurement-guidance)
 - [Exposed Prometheus Server Endpoint](https://osintteam.blog/exposed-prometheus-server-endpoint-cfb8e82e441b?source=rss------bug_bounty_writeup-5)
 - [How I Earned $$$ | Open Redirection](https://medium.com/@A0X-Y0S3TRX/how-i-earned-open-redirection-c26e191dbff2?source=rss------bug_bounty_writeup-5)
-- [How I Exploited Amazon Cognito Misconfigurations to Access Confidential S3 Data](https://awstip.com/how-i-exploited-amazon-cognito-misconfigurations-to-access-confidential-s3-data-badb62cabfab?source=rss------bug_bounty_writeup-5)
 - [Hack My Career: Saskia Braucher](https://www.hackerone.com/culture-and-talent/hack-my-career-saskia-braucher)
 - [Harnessing the Working Genius for Team Success](https://www.hackerone.com/culture-and-talent/harnessing-working-genius-team-success)
 - [Hai’s Latest Evolution: Intelligence, Context, and More Intuitive UX](https://www.hackerone.com/ai/hai-program-insights)
