@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Bug Bounty Training Program](https://bevijaygupta.medium.com/bug-bounty-training-program-78c927572385?source=rss------bug_bounty_writeup-5)
 - [OAuth Account Hijacking via redirect_uri](https://infosecwriteups.com/oauth-account-hijacking-via-redirect-uri-ae8ca7a66930?source=rss----7b722bfd1b8d---4)
 - [Enhancing Container Security with User Namespaces: A Breakthrough in Isolation](https://infosecwriteups.com/enhancing-container-security-with-user-namespaces-a-breakthrough-in-isolation-1f85751fe2b1?source=rss----7b722bfd1b8d---4)
 - [TryHackme’s Advent of Cyber 2024 — Day 12 Writeup](https://infosecwriteups.com/tryhackmes-advent-of-cyber-2024-day-12-writeup-edb3ed500748?source=rss----7b722bfd1b8d---4)
@@ -943,7 +944,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [TryHackme’s Advent of Cyber 2024 — Day 08 Writeup](https://infosecwriteups.com/tryhackmes-advent-of-cyber-2024-day-08-writeup-630635dbf6a1?source=rss----7b722bfd1b8d---4)
 - [Zoho QEngine: Arbitrary File Read](https://infosecwriteups.com/zoho-qengine-arbitrary-file-read-08df3d1e167e?source=rss----7b722bfd1b8d---4)
 - [Vulnerability Hunting Journey Cost $$$ : Discovering XSS and Clickjacking on goverment Domains](https://medium.com/@gourisankara357/vulnerability-hunting-journey-cost-discovering-xss-and-clickjacking-on-goverment-domains-faa81fba7a2a?source=rss------bug_bounty_writeup-5)
-- [I Found 7 Log4j &lpar;RCE&rpar; in a Single Program!](https://medium.com/@rootplinix/i-found-7-log4j-rce-in-a-single-program-5afb7d02dd06?source=rss------bug_bounty_writeup-5)
 - [New Guidance for Federal AI Procurement Embraces Red Teaming and Other HackerOne Suggestions](https://www.hackerone.com/public-policy/federal-ai-procurement-guidance)
 - [Hack My Career: Saskia Braucher](https://www.hackerone.com/culture-and-talent/hack-my-career-saskia-braucher)
 - [Harnessing the Working Genius for Team Success](https://www.hackerone.com/culture-and-talent/harnessing-working-genius-team-success)
