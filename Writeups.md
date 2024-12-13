@@ -12,6 +12,8 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Hacking Twiggy on Proving Grounds: A Step by Step OSCP Journey](https://infosecwriteups.com/hacking-twiggy-on-proving-grounds-a-step-by-step-oscp-journey-03b91a0e02c1?source=rss----7b722bfd1b8d---4)
 - [TryHackme’s Advent of Cyber 2024 — Day 11 Writeup](https://infosecwriteups.com/tryhackmes-advent-of-cyber-2024-day-11-writeup-6c2d6fa714bc?source=rss----7b722bfd1b8d---4)
 - [Reflected XSS on Gaming Blog Website](https://medium.com/@enigma_/reflected-xss-on-gaming-blog-website-edc448d613a3?source=rss------bug_bounty_writeup-5)
+- [How a Privilege Escalation Led to Unrestricted Admin Account Creation in Shopify](https://www.hackerone.com/vulnerability-management/privilege-escalation-deep-dive)
+- [How Crypto and Blockchain Organizations Manage Complex Attack Surfaces With Competitive Security Testing Programs](https://www.hackerone.com/vulnerability-management/web3-security-testing)
 - [How a Race Condition Became an Account Takeover Vulnerability](https://medium.com/@mrasg/how-a-race-condition-became-an-account-takeover-vulnerability-756f14990f38?source=rss------bug_bounty_writeup-5)
 - [Account Takeover using SSO Logins](https://rikeshbaniya.medium.com/account-takeover-using-sso-logins-fa35f28a358b?source=rss------bug_bounty_writeup-5)
 - [Hack The Box Academy — File Inclusion — Skills Assessment](https://medium.com/@d4nglz17/hack-the-box-academy-file-inclusion-skills-assessment-1ca0283a9a06?source=rss------bug_bounty_writeup-5)
