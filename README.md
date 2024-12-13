@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Reflected XSS on Gaming Blog Website](https://medium.com/@enigma_/reflected-xss-on-gaming-blog-website-edc448d613a3?source=rss------bug_bounty_writeup-5)
 - [How a Race Condition Became an Account Takeover Vulnerability](https://medium.com/@mrasg/how-a-race-condition-became-an-account-takeover-vulnerability-756f14990f38?source=rss------bug_bounty_writeup-5)
 - [Account Takeover using SSO Logins](https://rikeshbaniya.medium.com/account-takeover-using-sso-logins-fa35f28a358b?source=rss------bug_bounty_writeup-5)
 - [Hack The Box Academy — File Inclusion — Skills Assessment](https://medium.com/@d4nglz17/hack-the-box-academy-file-inclusion-skills-assessment-1ca0283a9a06?source=rss------bug_bounty_writeup-5)
@@ -943,7 +944,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Azure PaaS Services with Network Security Perimeter: Enhancing Cloud Security and Efficiency](https://infosecwriteups.com/azure-paas-services-with-network-security-perimeter-enhancing-cloud-security-and-efficiency-13732c2c3a2e?source=rss----7b722bfd1b8d---4)
 - [Vulnerability Hunting Journey Cost $$$ : Discovering XSS and Clickjacking on goverment Domains](https://medium.com/@gourisankara357/vulnerability-hunting-journey-cost-discovering-xss-and-clickjacking-on-goverment-domains-faa81fba7a2a?source=rss------bug_bounty_writeup-5)
 - [I Found 7 Log4j &lpar;RCE&rpar; in a Single Program!](https://medium.com/@rootplinix/i-found-7-log4j-rce-in-a-single-program-5afb7d02dd06?source=rss------bug_bounty_writeup-5)
-- [Zoho QEngine: Arbitrary File Read](https://infosecwriteups.com/zoho-qengine-arbitrary-file-read-08df3d1e167e?source=rss------bug_bounty_writeup-5)
 - [New Guidance for Federal AI Procurement Embraces Red Teaming and Other HackerOne Suggestions](https://www.hackerone.com/public-policy/federal-ai-procurement-guidance)
 - [Hack My Career: Saskia Braucher](https://www.hackerone.com/culture-and-talent/hack-my-career-saskia-braucher)
 - [Harnessing the Working Genius for Team Success](https://www.hackerone.com/culture-and-talent/harnessing-working-genius-team-success)
