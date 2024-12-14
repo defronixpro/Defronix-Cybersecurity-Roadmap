@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How I Discovered a $7,000 Critical Vulnerability: IDOR to BAC to Account Takeover](https://medium.com/@najeebkm010/how-i-discovered-a-7-000-critical-vulnerability-idor-to-bac-to-account-takeover-0c195eae2ed2?source=rss------bug_bounty_writeup-5)
 - [Azure Cloud Configuration Review](https://www.hackerone.com/penetration-testing/azure-cloud-configuration-review)
 - [Bug Bounty Findings: 10 Major Vulnerabilities Exposed in Cloverleaf’s Application — IDOR — Part 2](https://medium.com/@maakthon/bug-bounty-findings-10-major-vulnerabilities-exposed-in-cloverleafs-application-idor-part-2-932746b6b445?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Training Program](https://bevijaygupta.medium.com/bug-bounty-training-program-78c927572385?source=rss------bug_bounty_writeup-5)
@@ -21,7 +22,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Bug Bounty Findings: 10 Major Vulnerabilities Exposed in Cloverleaf’s Application - Open Redirect …](https://medium.com/@maakthon/bug-bounty-findings-10-major-vulnerabilities-exposed-in-cloverleafs-web-application-part-1-95f659ff7d0a?source=rss------bug_bounty_writeup-5)
 - [How I Bypassed Email Confirmation: A Playful Journey into the World of Bug Hunting](https://medium.com/@mrasg/how-i-bypassed-email-confirmation-a-playful-journey-into-the-world-of-bug-hunting-30f72d6c2fb6?source=rss------bug_bounty_writeup-5)
 - [How I Secured The Indian Army?](https://cybersecuritywriteups.com/how-i-secured-the-indian-army-9a80ba399202?source=rss------bug_bounty_writeup-5)
-- [Exposed Git Directory P1 Bug](https://systemweakness.com/exposed-git-directory-p1-bug-5fd272a62f51?source=rss------bug_bounty_writeup-5)
 - [Introducing the Wells Fargo Public Bug Bounty Program](https://www.hackerone.com/customer-story/wells-fargo-public-bug-bounty)
 - [Six Years of Proactive Defense: Deribit’s Journey with HackerOne](https://www.hackerone.com/customer-story/deribit)
 - [TryHackme’s Advent of Cyber 2024 — Day 08 Writeup](https://infosecwriteups.com/tryhackmes-advent-of-cyber-2024-day-08-writeup-630635dbf6a1?source=rss----7b722bfd1b8d---4)
