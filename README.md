@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Azure Cloud Configuration Review](https://www.hackerone.com/penetration-testing/azure-cloud-configuration-review)
 - [Bug Bounty Findings: 10 Major Vulnerabilities Exposed in Cloverleaf’s Application — IDOR — Part 2](https://medium.com/@maakthon/bug-bounty-findings-10-major-vulnerabilities-exposed-in-cloverleafs-application-idor-part-2-932746b6b445?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Training Program](https://bevijaygupta.medium.com/bug-bounty-training-program-78c927572385?source=rss------bug_bounty_writeup-5)
 - [OAuth Account Hijacking via redirect_uri](https://infosecwriteups.com/oauth-account-hijacking-via-redirect-uri-ae8ca7a66930?source=rss----7b722bfd1b8d---4)
@@ -971,7 +972,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Securing Our Elections Through Vulnerability Testing and Disclosure](https://www.hackerone.com/public-policy/securing-elections-through-vulnerability-testing)
 - [Measure, Compare, and Enhance Security Programs with HackerOne Benchmarks](https://www.hackerone.com/vulnerability-management/hackerone-benchmarks)
 - [AWS Security Configuration Review and Best Practices](https://www.hackerone.com/penetration-testing/aws-security-configuration)
-- [OWASP Top 10: The Risk of Cryptographic Failures](https://www.hackerone.com/vulnerability-management/cryptographic-failures)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
