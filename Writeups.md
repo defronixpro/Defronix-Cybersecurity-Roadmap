@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [SQL Injection 2025 ?](https://medium.com/@bugbounty_learners/sql-injection-2025-17a5c0075a9a?source=rss------bug_bounty_writeup-5)
 - [Third Party Services Takeover using Oauth Misconfiguration](https://infosecwriteups.com/third-party-services-takeover-using-oauth-misconfiguration-8888a0c1ad86?source=rss----7b722bfd1b8d---4)
 - [HTB Challenge Write-Up: Gunship](https://infosecwriteups.com/htb-challenge-write-up-gunship-e0f8760b6a58?source=rss----7b722bfd1b8d---4)
 - [Wi-Fi Security Protocols: WEP, WPA, WPA2, and WPA3](https://infosecwriteups.com/wi-fi-security-protocols-wep-wpa-wpa2-and-wpa3-ecc959f34af4?source=rss----7b722bfd1b8d---4)
@@ -23,7 +24,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Account Takeover using SSO Logins](https://rikeshbaniya.medium.com/account-takeover-using-sso-logins-fa35f28a358b?source=rss------bug_bounty_writeup-5)
 - [Hack The Box Academy — File Inclusion — Skills Assessment](https://medium.com/@d4nglz17/hack-the-box-academy-file-inclusion-skills-assessment-1ca0283a9a06?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Findings: 10 Major Vulnerabilities Exposed in Cloverleaf’s Application - Open Redirect …](https://medium.com/@maakthon/bug-bounty-findings-10-major-vulnerabilities-exposed-in-cloverleafs-web-application-part-1-95f659ff7d0a?source=rss------bug_bounty_writeup-5)
-- [How I Bypassed Email Confirmation: A Playful Journey into the World of Bug Hunting](https://medium.com/@mrasg/how-i-bypassed-email-confirmation-a-playful-journey-into-the-world-of-bug-hunting-30f72d6c2fb6?source=rss------bug_bounty_writeup-5)
 - [Introducing the Wells Fargo Public Bug Bounty Program](https://www.hackerone.com/customer-story/wells-fargo-public-bug-bounty)
 - [Six Years of Proactive Defense: Deribit’s Journey with HackerOne](https://www.hackerone.com/customer-story/deribit)
 - [New Guidance for Federal AI Procurement Embraces Red Teaming and Other HackerOne Suggestions](https://www.hackerone.com/public-policy/federal-ai-procurement-guidance)
