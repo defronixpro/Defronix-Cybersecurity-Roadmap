@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How I Broke the Speed Limit: A Bug Bounty Tale of Bypassing Rate Limiting](https://infosecwriteups.com/how-i-broke-the-speed-limit-a-bug-bounty-tale-of-bypassing-rate-limiting-29a1ec4e8681?source=rss------bug_bounty_writeup-5)
 - [How nature holds the key to cybersecurity’s future](https://infosecwriteups.com/how-nature-holds-the-key-to-cybersecuritys-future-b6fff5ad3c36?source=rss----7b722bfd1b8d---4)
 - [200$ DLL Hijacking Attack](https://cybersecuritywriteups.com/200-dll-hijacking-attack-fdb4fd46fea9?source=rss------bug_bounty_writeup-5)
 - [New York Releases AI Cybersecurity Guidance: What You Need to Know](https://www.hackerone.com/public-policy/new-york-ai-cybersecurity-guidance)
@@ -24,7 +25,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How Crypto and Blockchain Organizations Manage Complex Attack Surfaces With Competitive Security Testing Programs](https://www.hackerone.com/vulnerability-management/web3-security-testing)
 - [How a Race Condition Became an Account Takeover Vulnerability](https://medium.com/@mrasg/how-a-race-condition-became-an-account-takeover-vulnerability-756f14990f38?source=rss------bug_bounty_writeup-5)
 - [Account Takeover using SSO Logins](https://rikeshbaniya.medium.com/account-takeover-using-sso-logins-fa35f28a358b?source=rss------bug_bounty_writeup-5)
-- [Hack The Box Academy — File Inclusion — Skills Assessment](https://medium.com/@d4nglz17/hack-the-box-academy-file-inclusion-skills-assessment-1ca0283a9a06?source=rss------bug_bounty_writeup-5)
 - [Introducing the Wells Fargo Public Bug Bounty Program](https://www.hackerone.com/customer-story/wells-fargo-public-bug-bounty)
 - [Six Years of Proactive Defense: Deribit’s Journey with HackerOne](https://www.hackerone.com/customer-story/deribit)
 - [New Guidance for Federal AI Procurement Embraces Red Teaming and Other HackerOne Suggestions](https://www.hackerone.com/public-policy/federal-ai-procurement-guidance)
