@@ -1,7 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
-- [200$ DLL Hijacking Attack](https://medium.com/@abhirupkonwar04/200-dll-hijacking-attack-fdb4fd46fea9?source=rss------bug_bounty_writeup-5)
+- [200$ DLL Hijacking Attack](https://cybersecuritywriteups.com/200-dll-hijacking-attack-fdb4fd46fea9?source=rss------bug_bounty_writeup-5)
 - [New York Releases AI Cybersecurity Guidance: What You Need to Know](https://www.hackerone.com/public-policy/new-york-ai-cybersecurity-guidance)
 - [SQL Injection 2025 ?](https://medium.com/@bugbounty_learners/sql-injection-2025-17a5c0075a9a?source=rss------bug_bounty_writeup-5)
 - [Third Party Services Takeover using Oauth Misconfiguration](https://infosecwriteups.com/third-party-services-takeover-using-oauth-misconfiguration-8888a0c1ad86?source=rss----7b722bfd1b8d---4)
