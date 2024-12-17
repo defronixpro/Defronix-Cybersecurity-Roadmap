@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [200$ DLL Hijacking Attack](https://medium.com/@abhirupkonwar04/200-dll-hijacking-attack-fdb4fd46fea9?source=rss------bug_bounty_writeup-5)
 - [New York Releases AI Cybersecurity Guidance: What You Need to Know](https://www.hackerone.com/public-policy/new-york-ai-cybersecurity-guidance)
 - [SQL Injection 2025 ?](https://medium.com/@bugbounty_learners/sql-injection-2025-17a5c0075a9a?source=rss------bug_bounty_writeup-5)
 - [Third Party Services Takeover using Oauth Misconfiguration](https://infosecwriteups.com/third-party-services-takeover-using-oauth-misconfiguration-8888a0c1ad86?source=rss----7b722bfd1b8d---4)
@@ -24,7 +25,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How a Race Condition Became an Account Takeover Vulnerability](https://medium.com/@mrasg/how-a-race-condition-became-an-account-takeover-vulnerability-756f14990f38?source=rss------bug_bounty_writeup-5)
 - [Account Takeover using SSO Logins](https://rikeshbaniya.medium.com/account-takeover-using-sso-logins-fa35f28a358b?source=rss------bug_bounty_writeup-5)
 - [Hack The Box Academy — File Inclusion — Skills Assessment](https://medium.com/@d4nglz17/hack-the-box-academy-file-inclusion-skills-assessment-1ca0283a9a06?source=rss------bug_bounty_writeup-5)
-- [Bug Bounty Findings: 10 Major Vulnerabilities Exposed in Cloverleaf’s Web Application- Part 1](https://medium.com/@maakthon/bug-bounty-findings-10-major-vulnerabilities-exposed-in-cloverleafs-web-application-part-1-95f659ff7d0a?source=rss------bug_bounty_writeup-5)
 - [Introducing the Wells Fargo Public Bug Bounty Program](https://www.hackerone.com/customer-story/wells-fargo-public-bug-bounty)
 - [Six Years of Proactive Defense: Deribit’s Journey with HackerOne](https://www.hackerone.com/customer-story/deribit)
 - [New Guidance for Federal AI Procurement Embraces Red Teaming and Other HackerOne Suggestions](https://www.hackerone.com/public-policy/federal-ai-procurement-guidance)
