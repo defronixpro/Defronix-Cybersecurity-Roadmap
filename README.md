@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How nature holds the key to cybersecurity’s future](https://infosecwriteups.com/how-nature-holds-the-key-to-cybersecuritys-future-b6fff5ad3c36?source=rss----7b722bfd1b8d---4)
 - [200$ DLL Hijacking Attack](https://cybersecuritywriteups.com/200-dll-hijacking-attack-fdb4fd46fea9?source=rss------bug_bounty_writeup-5)
 - [New York Releases AI Cybersecurity Guidance: What You Need to Know](https://www.hackerone.com/public-policy/new-york-ai-cybersecurity-guidance)
 - [SQL Injection 2025 ?](https://medium.com/@bugbounty_learners/sql-injection-2025-17a5c0075a9a?source=rss------bug_bounty_writeup-5)
@@ -934,7 +935,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [HTB Challenge Write-Up: Spellbound Servants](https://infosecwriteups.com/htb-challenge-write-up-spellbound-servants-27f12d0e3df5?source=rss----7b722bfd1b8d---4)
 - [Understanding IOCTLs for Windows Vulnerability Research &amp; Exploit Development](https://infosecwriteups.com/understanding-ioctls-for-windows-vulnerability-research-exploit-development-c49229b38d8d?source=rss----7b722bfd1b8d---4)
 - [My First Critical Bug: Exposing 3.5 Lakh+ PII! ️](https://infosecwriteups.com/my-first-critical-bug-exposing-3-5-lakh-pii-%EF%B8%8F-fbad616ddbea?source=rss----7b722bfd1b8d---4)
-- [TryHackme’s Advent of Cyber 2024 — Day 14 Writeup](https://infosecwriteups.com/tryhackmes-advent-of-cyber-2024-day-14-writeup-a75997f03a16?source=rss----7b722bfd1b8d---4)
 - [Exploiting .DS_Store](https://medium.com/@jerryhackgather/exploiting-ds-store-a377c19d5b35?source=rss------bug_bounty_writeup-5)
 - [How I Discovered a $7,000 Critical Vulnerability: IDOR to BAC to Account Takeover](https://medium.com/@najeebkm010/how-i-discovered-a-7-000-critical-vulnerability-idor-to-bac-to-account-takeover-0c195eae2ed2?source=rss------bug_bounty_writeup-5)
 - [Azure Cloud Configuration Review](https://www.hackerone.com/penetration-testing/azure-cloud-configuration-review)
