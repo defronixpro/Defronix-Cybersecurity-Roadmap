@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Useful Wordlists for Bug Bounty Hunters](https://medium.com/@iamshafayat/useful-wordlists-for-bug-bounty-hunters-09f9b3cd2344?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Findings: 10 Major Vulnerabilities Exposed in Cloverleaf’s Application - BAC in GraphQL…](https://medium.com/@maakthon/bug-bounty-findings-10-major-vulnerabilities-exposed-in-cloverleafs-application-bac-in-graphql-0ae1ee0eb4d5?source=rss------bug_bounty_writeup-5)
 - [Easiest P1 $$$$$!](https://medium.com/@mrsingh10978/easiest-p1-702990960a50?source=rss------bug_bounty_writeup-5)
 - [Breaking Down the OWASP Top 10: Insecure Design](https://www.hackerone.com/community/owasp-top-10-insecure-design)
@@ -944,7 +945,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Azure Cloud Configuration Review](https://www.hackerone.com/penetration-testing/azure-cloud-configuration-review)
 - [Bug Bounty Findings: 10 Major Vulnerabilities Exposed in Cloverleaf’s Application — IDOR — Part 2](https://medium.com/@maakthon/bug-bounty-findings-10-major-vulnerabilities-exposed-in-cloverleafs-application-idor-part-2-932746b6b445?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Training Program](https://bevijaygupta.medium.com/bug-bounty-training-program-78c927572385?source=rss------bug_bounty_writeup-5)
-- [Reflected XSS on Gaming Blog Website](https://medium.com/@enigma_/reflected-xss-on-gaming-blog-website-edc448d613a3?source=rss------bug_bounty_writeup-5)
 - [How a Privilege Escalation Led to Unrestricted Admin Account Creation in Shopify](https://www.hackerone.com/vulnerability-management/privilege-escalation-deep-dive)
 - [How Crypto and Blockchain Organizations Manage Complex Attack Surfaces With Competitive Security Testing Programs](https://www.hackerone.com/vulnerability-management/web3-security-testing)
 - [Introducing the Wells Fargo Public Bug Bounty Program](https://www.hackerone.com/customer-story/wells-fargo-public-bug-bounty)
