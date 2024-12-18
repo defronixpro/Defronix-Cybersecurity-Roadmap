@@ -922,7 +922,9 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Bug Bounty Findings: 10 Major Vulnerabilities Exposed in Cloverleaf’s Application - BAC in GraphQL…](https://medium.com/@maakthon/bug-bounty-findings-10-major-vulnerabilities-exposed-in-cloverleafs-application-bac-in-graphql-0ae1ee0eb4d5?source=rss------bug_bounty_writeup-5)
 - [Easiest P1 $$$$$!](https://medium.com/@mrsingh10978/easiest-p1-702990960a50?source=rss------bug_bounty_writeup-5)
+- [Breaking Down the OWASP Top 10: Insecure Design](https://www.hackerone.com/community/owasp-top-10-insecure-design)
 - [HTB — Linux Fundamentals:System Information&lpar;Part 1&rpar;](https://infosecwriteups.com/htb-linux-fundamentals-system-information-part-1-0feaee1b1bd3?source=rss----7b722bfd1b8d---4)
 - [PicoCTF 2024 — WebDecode](https://infosecwriteups.com/picoctf-2024-webdecode-3801d825f803?source=rss----7b722bfd1b8d---4)
 - [Advent of Cyber 2024: Day 2 — SOC Analysts Under Pressure](https://infosecwriteups.com/advent-of-cyber-2024-day-2-soc-analysts-under-pressure-0d6e8ea2c09c?source=rss----7b722bfd1b8d---4)
@@ -945,7 +947,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Reflected XSS on Gaming Blog Website](https://medium.com/@enigma_/reflected-xss-on-gaming-blog-website-edc448d613a3?source=rss------bug_bounty_writeup-5)
 - [How a Privilege Escalation Led to Unrestricted Admin Account Creation in Shopify](https://www.hackerone.com/vulnerability-management/privilege-escalation-deep-dive)
 - [How Crypto and Blockchain Organizations Manage Complex Attack Surfaces With Competitive Security Testing Programs](https://www.hackerone.com/vulnerability-management/web3-security-testing)
-- [How a Race Condition Became an Account Takeover Vulnerability](https://medium.com/@mrasg/how-a-race-condition-became-an-account-takeover-vulnerability-756f14990f38?source=rss------bug_bounty_writeup-5)
 - [Introducing the Wells Fargo Public Bug Bounty Program](https://www.hackerone.com/customer-story/wells-fargo-public-bug-bounty)
 - [Six Years of Proactive Defense: Deribit’s Journey with HackerOne](https://www.hackerone.com/customer-story/deribit)
 - [New Guidance for Federal AI Procurement Embraces Red Teaming and Other HackerOne Suggestions](https://www.hackerone.com/public-policy/federal-ai-procurement-guidance)
@@ -971,7 +972,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How a Business Logic Vulnerability Led to Unlimited Discount Redemption](https://www.hackerone.com/vulnerability-management/stripe-business-logic-error-bug)
 - [Who Should Own AI Risk at Your Organization?](https://www.hackerone.com/ai/who-owns-ai-risk)
 - [Securing Our Elections Through Vulnerability Testing and Disclosure](https://www.hackerone.com/public-policy/securing-elections-through-vulnerability-testing)
-- [Measure, Compare, and Enhance Security Programs with HackerOne Benchmarks](https://www.hackerone.com/vulnerability-management/hackerone-benchmarks)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
