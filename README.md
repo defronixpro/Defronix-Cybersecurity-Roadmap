@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Easiest P1 $$$$$!](https://medium.com/@mrsingh10978/easiest-p1-702990960a50?source=rss------bug_bounty_writeup-5)
 - [HTB — Linux Fundamentals:System Information&lpar;Part 1&rpar;](https://infosecwriteups.com/htb-linux-fundamentals-system-information-part-1-0feaee1b1bd3?source=rss----7b722bfd1b8d---4)
 - [PicoCTF 2024 — WebDecode](https://infosecwriteups.com/picoctf-2024-webdecode-3801d825f803?source=rss----7b722bfd1b8d---4)
 - [Advent of Cyber 2024: Day 2 — SOC Analysts Under Pressure](https://infosecwriteups.com/advent-of-cyber-2024-day-2-soc-analysts-under-pressure-0d6e8ea2c09c?source=rss----7b722bfd1b8d---4)
@@ -945,7 +946,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How a Privilege Escalation Led to Unrestricted Admin Account Creation in Shopify](https://www.hackerone.com/vulnerability-management/privilege-escalation-deep-dive)
 - [How Crypto and Blockchain Organizations Manage Complex Attack Surfaces With Competitive Security Testing Programs](https://www.hackerone.com/vulnerability-management/web3-security-testing)
 - [How a Race Condition Became an Account Takeover Vulnerability](https://medium.com/@mrasg/how-a-race-condition-became-an-account-takeover-vulnerability-756f14990f38?source=rss------bug_bounty_writeup-5)
-- [Account Takeover using SSO Logins](https://rikeshbaniya.medium.com/account-takeover-using-sso-logins-fa35f28a358b?source=rss------bug_bounty_writeup-5)
 - [Introducing the Wells Fargo Public Bug Bounty Program](https://www.hackerone.com/customer-story/wells-fargo-public-bug-bounty)
 - [Six Years of Proactive Defense: Deribit’s Journey with HackerOne](https://www.hackerone.com/customer-story/deribit)
 - [New Guidance for Federal AI Procurement Embraces Red Teaming and Other HackerOne Suggestions](https://www.hackerone.com/public-policy/federal-ai-procurement-guidance)
