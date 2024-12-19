@@ -1,7 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
-- [“Do Your Best, and Let Allah Do the Rest” leads me to Privilege Escalation Bug](https://medium.com/@mrasg/do-your-best-and-let-allah-do-the-rest-leads-me-to-privilege-escalation-bug-60a3c028c802?source=rss------bug_bounty_writeup-5)
+- [“Do Your Best, and Let Allah Do the Rest” led me to a Privilege Escalation Bug](https://medium.com/@mrasg/do-your-best-and-let-allah-do-the-rest-leads-me-to-privilege-escalation-bug-60a3c028c802?source=rss------bug_bounty_writeup-5)
 - [LFI: Identify the vulnerable endpoint and exploit that by reading
 the “/etc/passwd” file.](https://medium.com/@aburayhan01734_18069/lfi-identify-the-vulnerable-endpoint-and-exploit-that-by-reading-the-etc-passwd-file-a9d0586f85c9?source=rss------bug_bounty_writeup-5)
 - [How I Found an Authentication Bypass Vulnerability in the Password Change Process](https://medium.com/@ajay.kumar.695632/how-i-found-an-authentication-bypass-vulnerability-in-the-password-change-process-160359fae1bc?source=rss------bug_bounty_writeup-5)
