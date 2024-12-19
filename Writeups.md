@@ -1,7 +1,28 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [LFI: Identify the vulnerable endpoint and exploit that by reading
+the “/etc/passwd” file.](https://medium.com/@aburayhan01734_18069/lfi-identify-the-vulnerable-endpoint-and-exploit-that-by-reading-the-etc-passwd-file-a9d0586f85c9?source=rss------bug_bounty_writeup-5)
+- [How I Found an Authentication Bypass Vulnerability in the Password Change Process](https://medium.com/@ajay.kumar.695632/how-i-found-an-authentication-bypass-vulnerability-in-the-password-change-process-160359fae1bc?source=rss------bug_bounty_writeup-5)
+- [Subdomain Takeover guides, methodology and exploit POCs](https://aditya-narayan.medium.com/subdomain-takeover-guides-methodology-and-exploit-pocs-9f5dd632c175?source=rss------bug_bounty_writeup-5)
+- [HTML Injection to Mass Phishing](https://infosecwriteups.com/html-injection-to-mass-phishing-5701d495cdc2?source=rss------bug_bounty_writeup-5)
+- [No Rate Limit Vulnerability on a US Government Website](https://medium.com/@kumawatabhijeet2002/no-rate-limit-vulnerability-on-a-us-government-website-ae47402b663d?source=rss------bug_bounty_writeup-5)
+- [Useful Wordlists for Bug Bounty Hunters](https://medium.com/@iamshafayat/useful-wordlists-for-bug-bounty-hunters-09f9b3cd2344?source=rss------bug_bounty_writeup-5)
+- [Bug Bounty Findings: 10 Major Vulnerabilities Exposed in Cloverleaf’s Application - BAC in GraphQL…](https://medium.com/@maakthon/bug-bounty-findings-10-major-vulnerabilities-exposed-in-cloverleafs-application-bac-in-graphql-0ae1ee0eb4d5?source=rss------bug_bounty_writeup-5)
+- [Easiest P1 $$$$$!](https://medium.com/@mrsingh10978/easiest-p1-702990960a50?source=rss------bug_bounty_writeup-5)
 - [Breaking Down the OWASP Top 10: Insecure Design](https://www.hackerone.com/community/owasp-top-10-insecure-design)
+- [HTB — Linux Fundamentals:System Information&lpar;Part 1&rpar;](https://infosecwriteups.com/htb-linux-fundamentals-system-information-part-1-0feaee1b1bd3?source=rss----7b722bfd1b8d---4)
+- [PicoCTF 2024 — WebDecode](https://infosecwriteups.com/picoctf-2024-webdecode-3801d825f803?source=rss----7b722bfd1b8d---4)
+- [Advent of Cyber 2024: Day 2 — SOC Analysts Under Pressure](https://infosecwriteups.com/advent-of-cyber-2024-day-2-soc-analysts-under-pressure-0d6e8ea2c09c?source=rss----7b722bfd1b8d---4)
+- [HTB Academy Linux Fundamentals: Working with Files and Directories](https://infosecwriteups.com/htb-academy-linux-fundamentals-working-with-files-and-directories-75175a458349?source=rss----7b722bfd1b8d---4)
+- [HTB Academy Linux Fundamentals: Find Files and Directories](https://infosecwriteups.com/htb-academy-linux-fundamentals-editing-files-3832a9983fab?source=rss----7b722bfd1b8d---4)
+- [Openvpn for Tryhackme or HTB](https://infosecwriteups.com/openvpn-for-tryhackme-or-htb-c12134fa4397?source=rss----7b722bfd1b8d---4)
+- [Automotive Penetration Testing Checklist](https://infosecwriteups.com/automotive-penetration-testing-checklist-8bbe83091c47?source=rss----7b722bfd1b8d---4)
+- [Advent of Cyber 2024 [ Day 14 ] Writeup with Answers | TryHackMe Walkthrough](https://infosecwriteups.com/advent-of-cyber-2024-day-14-writeup-with-answers-tryhackme-walkthrough-47e2efa1bcbb?source=rss----7b722bfd1b8d---4)
+- [Advent of Cyber 2024 [ Day 13 ] Writeup with Answers | TryHackMe Walkthrough](https://infosecwriteups.com/advent-of-cyber-2024-day-13-writeup-with-answers-tryhackme-walkthrough-eb58f4a7e6a2?source=rss----7b722bfd1b8d---4)
+- [Advent of Cyber 2024 [ Day 12 ] Writeup with Answers | TryHackMe Walkthrough](https://infosecwriteups.com/advent-of-cyber-2024-day-12-writeup-with-answers-tryhackme-walkthrough-76f0eb58bdca?source=rss----7b722bfd1b8d---4)
+- [How I Broke the Speed Limit: A Bug Bounty Tale of Bypassing Rate Limiting](https://infosecwriteups.com/how-i-broke-the-speed-limit-a-bug-bounty-tale-of-bypassing-rate-limiting-29a1ec4e8681?source=rss------bug_bounty_writeup-5)
+- [200$ DLL Hijacking Attack](https://cybersecuritywriteups.com/200-dll-hijacking-attack-fdb4fd46fea9?source=rss------bug_bounty_writeup-5)
 - [New York Releases AI Cybersecurity Guidance: What You Need to Know](https://www.hackerone.com/public-policy/new-york-ai-cybersecurity-guidance)
 - [Azure Cloud Configuration Review](https://www.hackerone.com/penetration-testing/azure-cloud-configuration-review)
 - [How a Privilege Escalation Led to Unrestricted Admin Account Creation in Shopify](https://www.hackerone.com/vulnerability-management/privilege-escalation-deep-dive)
