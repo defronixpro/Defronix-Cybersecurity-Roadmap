@@ -1,6 +1,8 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Subdomain Takeover guides, methodology and exploit POCs](https://aditya-narayan.medium.com/subdomain-takeover-guides-methodology-and-exploit-pocs-9f5dd632c175?source=rss------bug_bounty_writeup-5)
+- [HTML Injection to Mass Phishing](https://infosecwriteups.com/html-injection-to-mass-phishing-5701d495cdc2?source=rss------bug_bounty_writeup-5)
 - [No Rate Limit Vulnerability on a US Government Website](https://medium.com/@kumawatabhijeet2002/no-rate-limit-vulnerability-on-a-us-government-website-ae47402b663d?source=rss------bug_bounty_writeup-5)
 - [Useful Wordlists for Bug Bounty Hunters](https://medium.com/@iamshafayat/useful-wordlists-for-bug-bounty-hunters-09f9b3cd2344?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Findings: 10 Major Vulnerabilities Exposed in Cloverleaf’s Application - BAC in GraphQL…](https://medium.com/@maakthon/bug-bounty-findings-10-major-vulnerabilities-exposed-in-cloverleafs-application-bac-in-graphql-0ae1ee0eb4d5?source=rss------bug_bounty_writeup-5)
@@ -21,9 +23,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [New York Releases AI Cybersecurity Guidance: What You Need to Know](https://www.hackerone.com/public-policy/new-york-ai-cybersecurity-guidance)
 - [SQL Injection 2025 ?](https://medium.com/@bugbounty_learners/sql-injection-2025-17a5c0075a9a?source=rss------bug_bounty_writeup-5)
 - [Exploiting .DS_Store](https://medium.com/@jerryhackgather/exploiting-ds-store-a377c19d5b35?source=rss------bug_bounty_writeup-5)
-- [How I Discovered a $7,000 Critical Vulnerability: IDOR to BAC to Account Takeover](https://medium.com/@najeebkm010/how-i-discovered-a-7-000-critical-vulnerability-idor-to-bac-to-account-takeover-0c195eae2ed2?source=rss------bug_bounty_writeup-5)
 - [Azure Cloud Configuration Review](https://www.hackerone.com/penetration-testing/azure-cloud-configuration-review)
-- [Bug Bounty Findings: 10 Major Vulnerabilities Exposed in Cloverleaf’s Application — IDOR — Part 2](https://medium.com/@maakthon/bug-bounty-findings-10-major-vulnerabilities-exposed-in-cloverleafs-application-idor-part-2-932746b6b445?source=rss------bug_bounty_writeup-5)
 - [How a Privilege Escalation Led to Unrestricted Admin Account Creation in Shopify](https://www.hackerone.com/vulnerability-management/privilege-escalation-deep-dive)
 - [How Crypto and Blockchain Organizations Manage Complex Attack Surfaces With Competitive Security Testing Programs](https://www.hackerone.com/vulnerability-management/web3-security-testing)
 - [Introducing the Wells Fargo Public Bug Bounty Program](https://www.hackerone.com/customer-story/wells-fargo-public-bug-bounty)
