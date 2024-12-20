@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Discover All Paths in Next.js Websites](https://rhashibur75.medium.com/discover-all-paths-in-next-js-websites-43e319b24be9?source=rss------bug_bounty_writeup-5)
 - [Simple ATO in private program.](https://medium.com/@oXnoOneXo/simple-ato-in-private-program-890cd1485675?source=rss------bug_bounty_writeup-5)
 - [The Most Easiest OTP Bypass Vulnerability I’ve Found: A Critical Flaw in Session Management](https://medium.com/@ajay.kumar.695632/the-most-easiest-otp-bypass-vulnerability-ive-found-a-critical-flaw-in-session-management-09b1555dbf9e?source=rss------bug_bounty_writeup-5)
 - [Part-2 | Deep Recon Methodology for Bug Bounty Hunters](https://medium.com/@kumawatabhijeet2002/part-2-deep-recon-methodology-for-bug-bounty-hunters-644077ee41d4?source=rss------bug_bounty_writeup-5)
@@ -932,7 +933,6 @@ the “/etc/passwd” file.](https://medium.com/@aburayhan01734_18069/lfi-identi
 - [How I Found an Authentication Bypass Vulnerability in the Password Change Process](https://medium.com/@ajay.kumar.695632/how-i-found-an-authentication-bypass-vulnerability-in-the-password-change-process-160359fae1bc?source=rss------bug_bounty_writeup-5)
 - [Subdomain Takeover guides, methodology and exploit POCs](https://aditya-narayan.medium.com/subdomain-takeover-guides-methodology-and-exploit-pocs-9f5dd632c175?source=rss------bug_bounty_writeup-5)
 - [HTML Injection to Mass Phishing](https://infosecwriteups.com/html-injection-to-mass-phishing-5701d495cdc2?source=rss------bug_bounty_writeup-5)
-- [No Rate Limit Vulnerability on a US Government Website](https://medium.com/@kumawatabhijeet2002/no-rate-limit-vulnerability-on-a-us-government-website-ae47402b663d?source=rss------bug_bounty_writeup-5)
 - [Breaking Down the OWASP Top 10: Insecure Design](https://www.hackerone.com/community/owasp-top-10-insecure-design)
 - [HTB — Linux Fundamentals:System Information&lpar;Part 1&rpar;](https://infosecwriteups.com/htb-linux-fundamentals-system-information-part-1-0feaee1b1bd3?source=rss----7b722bfd1b8d---4)
 - [PicoCTF 2024 — WebDecode](https://infosecwriteups.com/picoctf-2024-webdecode-3801d825f803?source=rss----7b722bfd1b8d---4)
