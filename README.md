@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [CSRF On Delete Profile: High Severity&lpar;7.1&rpar; HackerOne](https://medium.com/@josuofficial327/csrf-on-delete-profile-high-severity-7-1-hackerone-33bdb598ef67?source=rss------bug_bounty_writeup-5)
+- [“Do Your Best, and Let Allah Do the Rest” led me to a Privilege Escalation Bug](https://medium.com/@mrasg/do-your-best-and-let-allah-do-the-rest-leads-me-to-privilege-escalation-bug-60a3c028c802?source=rss------bug_bounty_writeup-5)
 - [LFI: Identify the vulnerable endpoint and exploit that by reading
 the “/etc/passwd” file.](https://medium.com/@aburayhan01734_18069/lfi-identify-the-vulnerable-endpoint-and-exploit-that-by-reading-the-etc-passwd-file-a9d0586f85c9?source=rss------bug_bounty_writeup-5)
 - [How I Found an Authentication Bypass Vulnerability in the Password Change Process](https://medium.com/@ajay.kumar.695632/how-i-found-an-authentication-bypass-vulnerability-in-the-password-change-process-160359fae1bc?source=rss------bug_bounty_writeup-5)
@@ -942,8 +944,6 @@ the “/etc/passwd” file.](https://medium.com/@aburayhan01734_18069/lfi-identi
 - [Advent of Cyber 2024 [ Day 14 ] Writeup with Answers | TryHackMe Walkthrough](https://infosecwriteups.com/advent-of-cyber-2024-day-14-writeup-with-answers-tryhackme-walkthrough-47e2efa1bcbb?source=rss----7b722bfd1b8d---4)
 - [Advent of Cyber 2024 [ Day 13 ] Writeup with Answers | TryHackMe Walkthrough](https://infosecwriteups.com/advent-of-cyber-2024-day-13-writeup-with-answers-tryhackme-walkthrough-eb58f4a7e6a2?source=rss----7b722bfd1b8d---4)
 - [Advent of Cyber 2024 [ Day 12 ] Writeup with Answers | TryHackMe Walkthrough](https://infosecwriteups.com/advent-of-cyber-2024-day-12-writeup-with-answers-tryhackme-walkthrough-76f0eb58bdca?source=rss----7b722bfd1b8d---4)
-- [How I Broke the Speed Limit: A Bug Bounty Tale of Bypassing Rate Limiting](https://infosecwriteups.com/how-i-broke-the-speed-limit-a-bug-bounty-tale-of-bypassing-rate-limiting-29a1ec4e8681?source=rss------bug_bounty_writeup-5)
-- [200$ DLL Hijacking Attack](https://cybersecuritywriteups.com/200-dll-hijacking-attack-fdb4fd46fea9?source=rss------bug_bounty_writeup-5)
 - [New York Releases AI Cybersecurity Guidance: What You Need to Know](https://www.hackerone.com/public-policy/new-york-ai-cybersecurity-guidance)
 - [Azure Cloud Configuration Review](https://www.hackerone.com/penetration-testing/azure-cloud-configuration-review)
 - [How a Privilege Escalation Led to Unrestricted Admin Account Creation in Shopify](https://www.hackerone.com/vulnerability-management/privilege-escalation-deep-dive)
