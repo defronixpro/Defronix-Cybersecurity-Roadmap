@@ -922,6 +922,17 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [The Most Easiest OTP Bypass Vulnerability I’ve Found: A Critical Flaw in Session Management](https://medium.com/@ajay.kumar.695632/the-most-easiest-otp-bypass-vulnerability-ive-found-a-critical-flaw-in-session-management-09b1555dbf9e?source=rss------bug_bounty_writeup-5)
+- [Part-2 | Deep Recon Methodology for Bug Bounty Hunters](https://medium.com/@kumawatabhijeet2002/part-2-deep-recon-methodology-for-bug-bounty-hunters-644077ee41d4?source=rss------bug_bounty_writeup-5)
+- [CSRF On Delete Profile: High Severity&lpar;7.1&rpar; HackerOne](https://medium.com/@josuofficial327/csrf-on-delete-profile-high-severity-7-1-hackerone-33bdb598ef67?source=rss------bug_bounty_writeup-5)
+- [“Do Your Best, and Let Allah Do the Rest” led me to a Privilege Escalation Bug](https://medium.com/@mrasg/do-your-best-and-let-allah-do-the-rest-leads-me-to-privilege-escalation-bug-60a3c028c802?source=rss------bug_bounty_writeup-5)
+- [LFI: Identify the vulnerable endpoint and exploit that by reading
+the “/etc/passwd” file.](https://medium.com/@aburayhan01734_18069/lfi-identify-the-vulnerable-endpoint-and-exploit-that-by-reading-the-etc-passwd-file-a9d0586f85c9?source=rss------bug_bounty_writeup-5)
+- [How I Found an Authentication Bypass Vulnerability in the Password Change Process](https://medium.com/@ajay.kumar.695632/how-i-found-an-authentication-bypass-vulnerability-in-the-password-change-process-160359fae1bc?source=rss------bug_bounty_writeup-5)
+- [Subdomain Takeover guides, methodology and exploit POCs](https://aditya-narayan.medium.com/subdomain-takeover-guides-methodology-and-exploit-pocs-9f5dd632c175?source=rss------bug_bounty_writeup-5)
+- [HTML Injection to Mass Phishing](https://infosecwriteups.com/html-injection-to-mass-phishing-5701d495cdc2?source=rss------bug_bounty_writeup-5)
+- [No Rate Limit Vulnerability on a US Government Website](https://medium.com/@kumawatabhijeet2002/no-rate-limit-vulnerability-on-a-us-government-website-ae47402b663d?source=rss------bug_bounty_writeup-5)
+- [Useful Wordlists for Bug Bounty Hunters](https://medium.com/@iamshafayat/useful-wordlists-for-bug-bounty-hunters-09f9b3cd2344?source=rss------bug_bounty_writeup-5)
 - [Breaking Down the OWASP Top 10: Insecure Design](https://www.hackerone.com/community/owasp-top-10-insecure-design)
 - [HTB — Linux Fundamentals:System Information&lpar;Part 1&rpar;](https://infosecwriteups.com/htb-linux-fundamentals-system-information-part-1-0feaee1b1bd3?source=rss----7b722bfd1b8d---4)
 - [PicoCTF 2024 — WebDecode](https://infosecwriteups.com/picoctf-2024-webdecode-3801d825f803?source=rss----7b722bfd1b8d---4)
@@ -962,16 +973,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How a Business Logic Vulnerability Led to Unlimited Discount Redemption](https://www.hackerone.com/vulnerability-management/stripe-business-logic-error-bug)
 - [Who Should Own AI Risk at Your Organization?](https://www.hackerone.com/ai/who-owns-ai-risk)
 - [Securing Our Elections Through Vulnerability Testing and Disclosure](https://www.hackerone.com/public-policy/securing-elections-through-vulnerability-testing)
-- [Measure, Compare, and Enhance Security Programs with HackerOne Benchmarks](https://www.hackerone.com/vulnerability-management/hackerone-benchmarks)
-- [AWS Security Configuration Review and Best Practices](https://www.hackerone.com/penetration-testing/aws-security-configuration)
-- [OWASP Top 10: The Risk of Cryptographic Failures](https://www.hackerone.com/vulnerability-management/cryptographic-failures)
-- [Vulnerability Deep Dive: Gaining RCE Through ImageMagick With Frans Rosen](https://www.hackerone.com/vulnerability-management/gaining-rce-through-imagemagick)
-- [How To Use HackerOne’s Global Vulnerability Policy Map](https://www.hackerone.com/public-policy/global-vulnerability-policy-map)
-- [European Council Adopts Cyber Resilience Act](https://www.hackerone.com/public-policy/eu-council-cyber-resilience-act)
-- [Measure Your AI Risk Preparedness with This Interactive Self-Assessment Tool](https://www.hackerone.com/ai/ai-security-readiness-quiz)
-- [The Recruitment Process: What to Expect When You Apply at HackerOne](https://www.hackerone.com/culture-and-talent/recruitment-process-what-expect-when-you-apply-hackerone)
-- [Pentesting for Internal Networks](https://www.hackerone.com/penetration-testing/internal-network-pentests)
-- [How an IDOR Vulnerability Led to User Profile Modification](https://www.hackerone.com/vulnerability-management/idor-vulnerability-deep-dive)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
