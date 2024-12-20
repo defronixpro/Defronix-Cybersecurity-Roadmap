@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [The Most Easiest OTP Bypass Vulnerability I’ve Found: A Critical Flaw in Session Management](https://medium.com/@ajay.kumar.695632/the-most-easiest-otp-bypass-vulnerability-ive-found-a-critical-flaw-in-session-management-09b1555dbf9e?source=rss------bug_bounty_writeup-5)
 - [Part-2 | Deep Recon Methodology for Bug Bounty Hunters](https://medium.com/@kumawatabhijeet2002/part-2-deep-recon-methodology-for-bug-bounty-hunters-644077ee41d4?source=rss------bug_bounty_writeup-5)
 - [CSRF On Delete Profile: High Severity&lpar;7.1&rpar; HackerOne](https://medium.com/@josuofficial327/csrf-on-delete-profile-high-severity-7-1-hackerone-33bdb598ef67?source=rss------bug_bounty_writeup-5)
 - [“Do Your Best, and Let Allah Do the Rest” led me to a Privilege Escalation Bug](https://medium.com/@mrasg/do-your-best-and-let-allah-do-the-rest-leads-me-to-privilege-escalation-bug-60a3c028c802?source=rss------bug_bounty_writeup-5)
@@ -932,7 +933,6 @@ the “/etc/passwd” file.](https://medium.com/@aburayhan01734_18069/lfi-identi
 - [HTML Injection to Mass Phishing](https://infosecwriteups.com/html-injection-to-mass-phishing-5701d495cdc2?source=rss------bug_bounty_writeup-5)
 - [No Rate Limit Vulnerability on a US Government Website](https://medium.com/@kumawatabhijeet2002/no-rate-limit-vulnerability-on-a-us-government-website-ae47402b663d?source=rss------bug_bounty_writeup-5)
 - [Useful Wordlists for Bug Bounty Hunters](https://medium.com/@iamshafayat/useful-wordlists-for-bug-bounty-hunters-09f9b3cd2344?source=rss------bug_bounty_writeup-5)
-- [Bug Bounty Findings: 10 Major Vulnerabilities Exposed in Cloverleaf’s Application - BAC in GraphQL…](https://medium.com/@maakthon/bug-bounty-findings-10-major-vulnerabilities-exposed-in-cloverleafs-application-bac-in-graphql-0ae1ee0eb4d5?source=rss------bug_bounty_writeup-5)
 - [Breaking Down the OWASP Top 10: Insecure Design](https://www.hackerone.com/community/owasp-top-10-insecure-design)
 - [HTB — Linux Fundamentals:System Information&lpar;Part 1&rpar;](https://infosecwriteups.com/htb-linux-fundamentals-system-information-part-1-0feaee1b1bd3?source=rss----7b722bfd1b8d---4)
 - [PicoCTF 2024 — WebDecode](https://infosecwriteups.com/picoctf-2024-webdecode-3801d825f803?source=rss----7b722bfd1b8d---4)
