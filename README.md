@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [So, You want a strong bug bounty methodology?](https://medium.com/@shaheen101sec/so-you-want-a-strong-bug-bounty-methodology-57fdef27cad6?source=rss------bug_bounty_writeup-5)
 - [open redirect GET — Based](https://medium.com/@zpx15266/open-redirect-get-based-bc86e62c3af2?source=rss------bug_bounty_writeup-5)
 - [Discover All Paths in Next.js Websites](https://rhashibur75.medium.com/discover-all-paths-in-next-js-websites-43e319b24be9?source=rss------bug_bounty_writeup-5)
 - [Simple ATO in private program.](https://medium.com/@oXnoOneXo/simple-ato-in-private-program-890cd1485675?source=rss------bug_bounty_writeup-5)
@@ -931,8 +932,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [“Do Your Best, and Let Allah Do the Rest” led me to a Privilege Escalation Bug](https://medium.com/@mrasg/do-your-best-and-let-allah-do-the-rest-leads-me-to-privilege-escalation-bug-60a3c028c802?source=rss------bug_bounty_writeup-5)
 - [LFI: Identify the vulnerable endpoint and exploit that by reading
 the “/etc/passwd” file.](https://medium.com/@aburayhan01734_18069/lfi-identify-the-vulnerable-endpoint-and-exploit-that-by-reading-the-etc-passwd-file-a9d0586f85c9?source=rss------bug_bounty_writeup-5)
-- [How I Found an Authentication Bypass Vulnerability in the Password Change Process](https://medium.com/@ajay.kumar.695632/how-i-found-an-authentication-bypass-vulnerability-in-the-password-change-process-160359fae1bc?source=rss------bug_bounty_writeup-5)
-- [Subdomain Takeover guides, methodology and exploit POCs](https://aditya-narayan.medium.com/subdomain-takeover-guides-methodology-and-exploit-pocs-9f5dd632c175?source=rss------bug_bounty_writeup-5)
 - [Breaking Down the OWASP Top 10: Insecure Design](https://www.hackerone.com/community/owasp-top-10-insecure-design)
 - [HTB — Linux Fundamentals:System Information&lpar;Part 1&rpar;](https://infosecwriteups.com/htb-linux-fundamentals-system-information-part-1-0feaee1b1bd3?source=rss----7b722bfd1b8d---4)
 - [PicoCTF 2024 — WebDecode](https://infosecwriteups.com/picoctf-2024-webdecode-3801d825f803?source=rss----7b722bfd1b8d---4)
@@ -973,6 +972,7 @@ the “/etc/passwd” file.](https://medium.com/@aburayhan01734_18069/lfi-identi
 - [How a Business Logic Vulnerability Led to Unlimited Discount Redemption](https://www.hackerone.com/vulnerability-management/stripe-business-logic-error-bug)
 - [Who Should Own AI Risk at Your Organization?](https://www.hackerone.com/ai/who-owns-ai-risk)
 - [Securing Our Elections Through Vulnerability Testing and Disclosure](https://www.hackerone.com/public-policy/securing-elections-through-vulnerability-testing)
+- [Measure, Compare, and Enhance Security Programs with HackerOne Benchmarks](https://www.hackerone.com/vulnerability-management/hackerone-benchmarks)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
