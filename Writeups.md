@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Stop Data Breaches in Their Tracks with LeakRadar.io](https://medium.com/@alexandrevandammepro/stop-data-breaches-in-their-tracks-with-leakradar-io-cc3c4b887c14?source=rss------bug_bounty_writeup-5)
 - [Exploiting Password Reset Link After Email Change](https://medium.com/@0xboody/exploiting-password-reset-link-after-email-change-17fe2babc01e?source=rss------bug_bounty_writeup-5)
 - [Wordlists Every Pentester Must Have !!](https://infosecwriteups.com/wordlists-every-pentester-must-have-7ad4c1e46ce5?source=rss----7b722bfd1b8d---4)
 - [Build Your Own Secure VPN : A Complete Guide to Enhanced Online Privacy](https://infosecwriteups.com/build-your-own-secure-vpn-a-complete-guide-to-enhanced-online-privacy-ab7925b5f873?source=rss----7b722bfd1b8d---4)
@@ -19,7 +20,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Discover All Paths in Next.js Websites](https://rhashibur75.medium.com/discover-all-paths-in-next-js-websites-43e319b24be9?source=rss------bug_bounty_writeup-5)
 - [Simple ATO in private program.](https://medium.com/@oXnoOneXo/simple-ato-in-private-program-890cd1485675?source=rss------bug_bounty_writeup-5)
 - [The Most Easiest OTP Bypass Vulnerability I’ve Found: A Critical Flaw in Session Management](https://medium.com/@ajay.kumar.695632/the-most-easiest-otp-bypass-vulnerability-ive-found-a-critical-flaw-in-session-management-09b1555dbf9e?source=rss------bug_bounty_writeup-5)
-- [Part-2 | Deep Recon Methodology for Bug Bounty Hunters](https://medium.com/@kumawatabhijeet2002/part-2-deep-recon-methodology-for-bug-bounty-hunters-644077ee41d4?source=rss------bug_bounty_writeup-5)
 - [Breaking Down the OWASP Top 10: Insecure Design](https://www.hackerone.com/community/owasp-top-10-insecure-design)
 - [New York Releases AI Cybersecurity Guidance: What You Need to Know](https://www.hackerone.com/public-policy/new-york-ai-cybersecurity-guidance)
 - [Azure Cloud Configuration Review](https://www.hackerone.com/penetration-testing/azure-cloud-configuration-review)
