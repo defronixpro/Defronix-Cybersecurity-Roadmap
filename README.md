@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Day 25 of 30 Day — 30 Vulnerabilities | HTTP Request Smuggling](https://it4chis3c.medium.com/day-25-of-30-day-30-vulnerabilities-http-request-smuggling-7f1791be292f?source=rss------bug_bounty_writeup-5)
 - [How I Found My First Bug Using Shodan](https://medium.com/@bughunt.bochi/how-i-found-my-first-bug-using-shodan-3d8826a7655b?source=rss------bug_bounty_writeup-5)
 - [So, You want a strong bug bounty methodology?](https://medium.com/@shaheen101sec/so-you-want-a-strong-bug-bounty-methodology-57fdef27cad6?source=rss------bug_bounty_writeup-5)
 - [open redirect GET — Based](https://medium.com/@zpx15266/open-redirect-get-based-bc86e62c3af2?source=rss------bug_bounty_writeup-5)
@@ -930,7 +931,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [The Most Easiest OTP Bypass Vulnerability I’ve Found: A Critical Flaw in Session Management](https://medium.com/@ajay.kumar.695632/the-most-easiest-otp-bypass-vulnerability-ive-found-a-critical-flaw-in-session-management-09b1555dbf9e?source=rss------bug_bounty_writeup-5)
 - [Part-2 | Deep Recon Methodology for Bug Bounty Hunters](https://medium.com/@kumawatabhijeet2002/part-2-deep-recon-methodology-for-bug-bounty-hunters-644077ee41d4?source=rss------bug_bounty_writeup-5)
 - [CSRF On Delete Profile: High Severity&lpar;7.1&rpar; HackerOne](https://medium.com/@josuofficial327/csrf-on-delete-profile-high-severity-7-1-hackerone-33bdb598ef67?source=rss------bug_bounty_writeup-5)
-- [“Do Your Best, and Let Allah Do the Rest” led me to a Privilege Escalation Bug](https://medium.com/@mrasg/do-your-best-and-let-allah-do-the-rest-leads-me-to-privilege-escalation-bug-60a3c028c802?source=rss------bug_bounty_writeup-5)
 - [Breaking Down the OWASP Top 10: Insecure Design](https://www.hackerone.com/community/owasp-top-10-insecure-design)
 - [HTB — Linux Fundamentals:System Information&lpar;Part 1&rpar;](https://infosecwriteups.com/htb-linux-fundamentals-system-information-part-1-0feaee1b1bd3?source=rss----7b722bfd1b8d---4)
 - [PicoCTF 2024 — WebDecode](https://infosecwriteups.com/picoctf-2024-webdecode-3801d825f803?source=rss----7b722bfd1b8d---4)
