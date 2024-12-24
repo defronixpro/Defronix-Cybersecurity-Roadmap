@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Bug Bounty Journey — Valid Report Part 2](https://medium.com/@0xF3r4t/bug-bounty-journey-valid-report-part-2-0f3a075e2a65?source=rss------bug_bounty_writeup-5)
 - [Notable Threat Intelligence Reports](https://infosecwriteups.com/notable-threat-intelligence-reports-b263b0973322?source=rss----7b722bfd1b8d---4)
 - [How I Test for Open Redirect](https://osintteam.blog/how-i-test-for-open-redirect-271cd0d0ae55?source=rss------bug_bounty_writeup-5)
 - [Stop Data Breaches in Their Tracks with LeakRadar.io](https://medium.com/@alexandrevandammepro/stop-data-breaches-in-their-tracks-with-leakradar-io-cc3c4b887c14?source=rss------bug_bounty_writeup-5)
@@ -940,7 +941,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [So, You want a strong bug bounty methodology?](https://medium.com/@shaheen101sec/so-you-want-a-strong-bug-bounty-methodology-57fdef27cad6?source=rss------bug_bounty_writeup-5)
 - [open redirect GET — Based](https://medium.com/@zpx15266/open-redirect-get-based-bc86e62c3af2?source=rss------bug_bounty_writeup-5)
 - [Discover All Paths in Next.js Websites](https://rhashibur75.medium.com/discover-all-paths-in-next-js-websites-43e319b24be9?source=rss------bug_bounty_writeup-5)
-- [Simple ATO in private program.](https://medium.com/@oXnoOneXo/simple-ato-in-private-program-890cd1485675?source=rss------bug_bounty_writeup-5)
 - [Breaking Down the OWASP Top 10: Insecure Design](https://www.hackerone.com/community/owasp-top-10-insecure-design)
 - [New York Releases AI Cybersecurity Guidance: What You Need to Know](https://www.hackerone.com/public-policy/new-york-ai-cybersecurity-guidance)
 - [Azure Cloud Configuration Review](https://www.hackerone.com/penetration-testing/azure-cloud-configuration-review)
