@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Notable Threat Intelligence Reports](https://infosecwriteups.com/notable-threat-intelligence-reports-b263b0973322?source=rss----7b722bfd1b8d---4)
 - [How I Test for Open Redirect](https://osintteam.blog/how-i-test-for-open-redirect-271cd0d0ae55?source=rss------bug_bounty_writeup-5)
 - [Stop Data Breaches in Their Tracks with LeakRadar.io](https://medium.com/@alexandrevandammepro/stop-data-breaches-in-their-tracks-with-leakradar-io-cc3c4b887c14?source=rss------bug_bounty_writeup-5)
 - [Exploiting Password Reset Link After Email Change](https://medium.com/@0xboody/exploiting-password-reset-link-after-email-change-17fe2babc01e?source=rss------bug_bounty_writeup-5)
@@ -934,7 +935,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [HTB Academy Linux Fundamentals: User Management](https://infosecwriteups.com/htb-academy-linux-fundamentals-user-management-bad5677ad0d4?source=rss----7b722bfd1b8d---4)
 - [HTB Academy Linux Fundamentals: Service and Process Management](https://infosecwriteups.com/htb-academy-linux-fundamentals-service-and-process-management-1722eaec4120?source=rss----7b722bfd1b8d---4)
 - [HTB Challenge Write-Up: Wild Goose Hunt](https://infosecwriteups.com/htb-challenge-write-up-wild-goose-hunt-a3e3a20e7b21?source=rss----7b722bfd1b8d---4)
-- [Detection Engineering the SOC: Writing a Detection Rule](https://infosecwriteups.com/detection-engineering-the-soc-writing-a-detection-rule-e24f4d7f69e8?source=rss----7b722bfd1b8d---4)
 - [Day 25 of 30 Day — 30 Vulnerabilities | HTTP Request Smuggling](https://it4chis3c.medium.com/day-25-of-30-day-30-vulnerabilities-http-request-smuggling-7f1791be292f?source=rss------bug_bounty_writeup-5)
 - [How I Found My First Bug Using Shodan](https://medium.com/@bughunt.bochi/how-i-found-my-first-bug-using-shodan-3d8826a7655b?source=rss------bug_bounty_writeup-5)
 - [So, You want a strong bug bounty methodology?](https://medium.com/@shaheen101sec/so-you-want-a-strong-bug-bounty-methodology-57fdef27cad6?source=rss------bug_bounty_writeup-5)
