@@ -1,16 +1,6 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
-- [SEED Attack: Subtly Disrupting LLM Reasoning Step by Step](https://infosecwriteups.com/seed-attack-subtly-disrupting-llm-reasoning-step-by-step-4b3a23629d51?source=rss----7b722bfd1b8d---4)
-- [How Quantum Computing Could Endanger Your Cybersecurity Career](https://infosecwriteups.com/how-quantum-computing-could-endanger-your-cybersecurity-career-3ab0984048ae?source=rss----7b722bfd1b8d---4)
-- [Maldev : [Evasion] Shellcode Injection and Fileless Execution](https://infosecwriteups.com/maldev-evasion-shellcode-injection-and-fileless-execution-b7fd5e120d50?source=rss----7b722bfd1b8d---4)
-- [A Strategic Approach to Safeguarding Key Sectors including Financial Markets in the Quantum Era](https://infosecwriteups.com/a-strategic-approach-to-safeguarding-key-sectors-including-financial-markets-in-the-quantum-era-a83b64cd8b50?source=rss----7b722bfd1b8d---4)
-- [Color-Coded Cybersecurity: Roles in the Security Team Landscape](https://infosecwriteups.com/color-coded-cybersecurity-roles-in-the-security-team-landscape-c69d329748d0?source=rss----7b722bfd1b8d---4)
-- [How Data Flows Through the OSI Model](https://infosecwriteups.com/how-data-flows-through-the-osi-model-95b753bb9186?source=rss----7b722bfd1b8d---4)
-- [The Journey of an Email: Understanding SMTP, POP3, and IMAP](https://infosecwriteups.com/the-journey-of-an-email-understanding-smtp-pop3-and-imap-337324b474d2?source=rss----7b722bfd1b8d---4)
-- [How Email Travels from Sender to Recipient: A Journey Across the Internet](https://infosecwriteups.com/how-email-travels-from-sender-to-recipient-a-journey-across-the-internet-26f7f16247c5?source=rss----7b722bfd1b8d---4)
-- [Digital Forensics Basics: Metadata Extraction with pdfinfo and exiftool](https://infosecwriteups.com/digital-forensics-basics-metadata-extraction-with-pdfinfo-and-exiftool-ae812dff2a9c?source=rss----7b722bfd1b8d---4)
-- [From Broken Access Control to First Bounty](https://infosecwriteups.com/from-broken-access-control-to-first-bounty-01712b1dab53?source=rss----7b722bfd1b8d---4)
 - [Business logic: I can order anything from your account without paying for it](https://gr3yg05t.medium.com/business-logic-i-can-order-anything-from-your-account-without-paying-for-it-86ef070e01dd?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Journey — Valid Report Part 3](https://medium.com/@0xF3r4t/bug-bounty-journey-valid-report-part-3-e9837e3da655?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Journey — Valid Report Part 2](https://medium.com/@0xF3r4t/bug-bounty-journey-valid-report-part-2-0f3a075e2a65?source=rss------bug_bounty_writeup-5)
