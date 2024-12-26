@@ -1,7 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
-- [How I found IDOR on Achmea](https://medium.com/@nayeems3c/how-i-found-idor-on-achmea-cf9ce4b7d908?source=rss------bug_bounty_writeup-5)
+- [How I found an IDOR on Achmea](https://medium.com/@nayeems3c/how-i-found-idor-on-achmea-cf9ce4b7d908?source=rss------bug_bounty_writeup-5)
 - [Logic Bug :  Privilege Escalation That Allow Me To Reducing an Owner’s privileges to View Only](https://medium.com/@edahmed008/logic-bug-privilege-escalation-that-allow-me-to-reducing-an-owners-privileges-to-view-only-db18caf9057e?source=rss------bug_bounty_writeup-5)
 - [Easy Bounties: JavaScript &lpar;JS&rpar; File Analysis](https://aditya-narayan.medium.com/easy-bounties-javascript-js-file-analysis-72ba5eb44822?source=rss------bug_bounty_writeup-5)
 - [SOC Analyst Roadmap for 2025: Your Step-by-Step Self-Study Guide](https://infosecwriteups.com/soc-analyst-roadmap-for-2025-your-step-by-step-self-study-guide-f302841f36a0?source=rss----7b722bfd1b8d---4)
