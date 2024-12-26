@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Easy Bounties: JavaScript &lpar;JS&rpar; File Analysis](https://aditya-narayan.medium.com/easy-bounties-javascript-js-file-analysis-72ba5eb44822?source=rss------bug_bounty_writeup-5)
 - [SOC Analyst Roadmap for 2025: Your Step-by-Step Self-Study Guide](https://infosecwriteups.com/soc-analyst-roadmap-for-2025-your-step-by-step-self-study-guide-f302841f36a0?source=rss----7b722bfd1b8d---4)
 - [Using Blockchain to Track Ransomware Threat Actors in 2024 and Beyond](https://infosecwriteups.com/using-blockchain-to-track-ransomware-threat-actors-in-2024-and-beyond-dd900d21bbf7?source=rss----7b722bfd1b8d---4)
 - [Wireshark for Beginners: Essential Techniques for PCAP File Analysis| Part-1](https://infosecwriteups.com/wireshark-for-beginners-essential-techniques-for-pcap-file-analysis-part-1-953784f592f4?source=rss----7b722bfd1b8d---4)
