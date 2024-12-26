@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [XSS Via SVG File Upload](https://abhishekgk.medium.com/xss-via-svg-file-upload-5c30af809107?source=rss------bug_bounty_writeup-5)
 - [How I found an IDOR on Achmea](https://medium.com/@nayeems3c/how-i-found-idor-on-achmea-cf9ce4b7d908?source=rss------bug_bounty_writeup-5)
 - [Logic Bug :  Privilege Escalation That Allow Me To Reducing an Owner’s privileges to View Only](https://medium.com/@edahmed008/logic-bug-privilege-escalation-that-allow-me-to-reducing-an-owners-privileges-to-view-only-db18caf9057e?source=rss------bug_bounty_writeup-5)
 - [Easy Bounties: JavaScript &lpar;JS&rpar; File Analysis](https://aditya-narayan.medium.com/easy-bounties-javascript-js-file-analysis-72ba5eb44822?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How I Test for Open Redirect](https://osintteam.blog/how-i-test-for-open-redirect-271cd0d0ae55?source=rss------bug_bounty_writeup-5)
 - [Stop Data Breaches in Their Tracks with LeakRadar.io](https://medium.com/@alexandrevandammepro/stop-data-breaches-in-their-tracks-with-leakradar-io-cc3c4b887c14?source=rss------bug_bounty_writeup-5)
 - [Exploiting Password Reset Link After Email Change](https://medium.com/@0xboody/exploiting-password-reset-link-after-email-change-17fe2babc01e?source=rss------bug_bounty_writeup-5)
-- [Day 25 of 30 Day — 30 Vulnerabilities | HTTP Request Smuggling](https://it4chis3c.medium.com/day-25-of-30-day-30-vulnerabilities-http-request-smuggling-7f1791be292f?source=rss------bug_bounty_writeup-5)
 - [Breaking Down the OWASP Top 10: Insecure Design](https://www.hackerone.com/community/owasp-top-10-insecure-design)
 - [New York Releases AI Cybersecurity Guidance: What You Need to Know](https://www.hackerone.com/public-policy/new-york-ai-cybersecurity-guidance)
 - [Azure Cloud Configuration Review](https://www.hackerone.com/penetration-testing/azure-cloud-configuration-review)
