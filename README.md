@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Logic Bug :  Privilege Escalation That Allow Me To Reducing an Owner’s privileges to View Only](https://medium.com/@edahmed008/logic-bug-privilege-escalation-that-allow-me-to-reducing-an-owners-privileges-to-view-only-db18caf9057e?source=rss------bug_bounty_writeup-5)
 - [Easy Bounties: JavaScript &lpar;JS&rpar; File Analysis](https://aditya-narayan.medium.com/easy-bounties-javascript-js-file-analysis-72ba5eb44822?source=rss------bug_bounty_writeup-5)
 - [SOC Analyst Roadmap for 2025: Your Step-by-Step Self-Study Guide](https://infosecwriteups.com/soc-analyst-roadmap-for-2025-your-step-by-step-self-study-guide-f302841f36a0?source=rss----7b722bfd1b8d---4)
 - [Using Blockchain to Track Ransomware Threat Actors in 2024 and Beyond](https://infosecwriteups.com/using-blockchain-to-track-ransomware-threat-actors-in-2024-and-beyond-dd900d21bbf7?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Exploiting Password Reset Link After Email Change](https://medium.com/@0xboody/exploiting-password-reset-link-after-email-change-17fe2babc01e?source=rss------bug_bounty_writeup-5)
 - [Day 25 of 30 Day — 30 Vulnerabilities | HTTP Request Smuggling](https://it4chis3c.medium.com/day-25-of-30-day-30-vulnerabilities-http-request-smuggling-7f1791be292f?source=rss------bug_bounty_writeup-5)
 - [How I Found My First Bug Using Shodan](https://medium.com/@bughunt.bochi/how-i-found-my-first-bug-using-shodan-3d8826a7655b?source=rss------bug_bounty_writeup-5)
-- [So, You want a strong bug bounty methodology?](https://medium.com/@shaheen101sec/so-you-want-a-strong-bug-bounty-methodology-57fdef27cad6?source=rss------bug_bounty_writeup-5)
 - [Breaking Down the OWASP Top 10: Insecure Design](https://www.hackerone.com/community/owasp-top-10-insecure-design)
 - [New York Releases AI Cybersecurity Guidance: What You Need to Know](https://www.hackerone.com/public-policy/new-york-ai-cybersecurity-guidance)
 - [Azure Cloud Configuration Review](https://www.hackerone.com/penetration-testing/azure-cloud-configuration-review)
