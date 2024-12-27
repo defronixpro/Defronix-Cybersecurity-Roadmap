@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Is 2025 the Year to Begin Bug Bounty Hunting? Here’s What you need to Know ..](https://medium.com/@techinsights5/is-2025-the-year-to-begin-bug-bounty-hunting-heres-what-you-need-to-know-3e61bcf14a4b?source=rss------bug_bounty_writeup-5)
 - [Most commonly found Vulnerabilities in Web Applications.](https://medium.com/paktolus-engineering/most-commonly-found-vulnerabilities-in-web-applications-01dfb54530e2?source=rss------bug_bounty_writeup-5)
 - [Logic Flaw: Using Invitation Function to Block Other Accounts](https://gr3yg05t.medium.com/logic-flaw-turning-an-invitation-function-into-a-revenue-blocker-b4523dc46dde?source=rss------bug_bounty_writeup-5)
 - [XSS Via SVG File Upload](https://abhishekgk.medium.com/xss-via-svg-file-upload-5c30af809107?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Business logic: I can order anything from your account without paying for it](https://gr3yg05t.medium.com/business-logic-i-can-order-anything-from-your-account-without-paying-for-it-86ef070e01dd?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Journey — Valid Report Part 3](https://medium.com/@0xF3r4t/bug-bounty-journey-valid-report-part-3-e9837e3da655?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Journey — Valid Report Part 2](https://medium.com/@0xF3r4t/bug-bounty-journey-valid-report-part-2-0f3a075e2a65?source=rss------bug_bounty_writeup-5)
-- [How I Test for Open Redirect](https://osintteam.blog/how-i-test-for-open-redirect-271cd0d0ae55?source=rss------bug_bounty_writeup-5)
 - [Breaking Down the OWASP Top 10: Insecure Design](https://www.hackerone.com/community/owasp-top-10-insecure-design)
 - [New York Releases AI Cybersecurity Guidance: What You Need to Know](https://www.hackerone.com/public-policy/new-york-ai-cybersecurity-guidance)
 - [Azure Cloud Configuration Review](https://www.hackerone.com/penetration-testing/azure-cloud-configuration-review)
