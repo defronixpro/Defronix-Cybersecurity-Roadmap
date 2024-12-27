@@ -1,6 +1,8 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [BPP [$750]Arbitrary File Upload Vulnerability To Remote Code Execution &lpar;RCE&rpar; Outside the Platform.](https://aryasec.medium.com/bpp-750-arbitrary-file-upload-vulnerability-to-remote-code-execution-rce-outside-the-platform-9093b51d044d?source=rss------bug_bounty_writeup-5)
+- [Complete Takeover/Hijack the Organizatoin](https://medium.com/@mrro0o0tt/complete-takeover-hijack-the-organizatoin-6858b95a5803?source=rss------bug_bounty_writeup-5)
 - [Must-Have Browser Extensions for Bug Bounty Hunters](https://aiwolfie.medium.com/must-have-browser-extensions-for-bug-bounty-hunters-58edff558912?source=rss------bug_bounty_writeup-5)
 - [Unlock Wi-Fi Pen-Testing](https://infosecwriteups.com/unlock-wi-fi-pen-testing-d72e11a6a0db?source=rss----7b722bfd1b8d---4)
 - [Basic CRUD Operations in MongoDB](https://infosecwriteups.com/basic-crud-operations-in-mongodb-a9c6a4cf08b3?source=rss----7b722bfd1b8d---4)
@@ -19,8 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [SOC Analyst Roadmap for 2025: Your Step-by-Step Self-Study Guide](https://infosecwriteups.com/soc-analyst-roadmap-for-2025-your-step-by-step-self-study-guide-f302841f36a0?source=rss----7b722bfd1b8d---4)
 - [Using Blockchain to Track Ransomware Threat Actors in 2024 and Beyond](https://infosecwriteups.com/using-blockchain-to-track-ransomware-threat-actors-in-2024-and-beyond-dd900d21bbf7?source=rss----7b722bfd1b8d---4)
 - [Wireshark for Beginners: Essential Techniques for PCAP File Analysis| Part-1](https://infosecwriteups.com/wireshark-for-beginners-essential-techniques-for-pcap-file-analysis-part-1-953784f592f4?source=rss----7b722bfd1b8d---4)
-- [Business logic: I can order anything from your account without paying for it](https://gr3yg05t.medium.com/business-logic-i-can-order-anything-from-your-account-without-paying-for-it-86ef070e01dd?source=rss------bug_bounty_writeup-5)
-- [Bug Bounty Journey — Valid Report Part 3](https://medium.com/@0xF3r4t/bug-bounty-journey-valid-report-part-3-e9837e3da655?source=rss------bug_bounty_writeup-5)
 - [Breaking Down the OWASP Top 10: Insecure Design](https://www.hackerone.com/community/owasp-top-10-insecure-design)
 - [New York Releases AI Cybersecurity Guidance: What You Need to Know](https://www.hackerone.com/public-policy/new-york-ai-cybersecurity-guidance)
 - [Azure Cloud Configuration Review](https://www.hackerone.com/penetration-testing/azure-cloud-configuration-review)
