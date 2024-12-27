@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Bug Chain: pre-auth takeover to permanent access.](https://gr3yg05t.medium.com/bug-chain-pre-auth-takeover-to-permanent-access-4d92829ed816?source=rss------bug_bounty_writeup-5)
 - [BPP [$750]Arbitrary File Upload Vulnerability To Remote Code Execution &lpar;RCE&rpar; Outside the Platform.](https://aryasec.medium.com/bpp-750-arbitrary-file-upload-vulnerability-to-remote-code-execution-rce-outside-the-platform-9093b51d044d?source=rss------bug_bounty_writeup-5)
 - [Complete Takeover/Hijack the Organizatoin](https://medium.com/@mrro0o0tt/complete-takeover-hijack-the-organizatoin-6858b95a5803?source=rss------bug_bounty_writeup-5)
 - [Must-Have Browser Extensions for Bug Bounty Hunters](https://aiwolfie.medium.com/must-have-browser-extensions-for-bug-bounty-hunters-58edff558912?source=rss------bug_bounty_writeup-5)
@@ -938,7 +939,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [XSS Via SVG File Upload](https://abhishekgk.medium.com/xss-via-svg-file-upload-5c30af809107?source=rss------bug_bounty_writeup-5)
 - [How I found an IDOR on Achmea](https://medium.com/@nayeems3c/how-i-found-idor-on-achmea-cf9ce4b7d908?source=rss------bug_bounty_writeup-5)
 - [Logic Bug :  Privilege Escalation That Allow Me To Reducing an Owner’s privileges to View Only](https://medium.com/@edahmed008/logic-bug-privilege-escalation-that-allow-me-to-reducing-an-owners-privileges-to-view-only-db18caf9057e?source=rss------bug_bounty_writeup-5)
-- [Easy Bounties: JavaScript &lpar;JS&rpar; File Analysis](https://aditya-narayan.medium.com/easy-bounties-javascript-js-file-analysis-72ba5eb44822?source=rss------bug_bounty_writeup-5)
 - [SOC Analyst Roadmap for 2025: Your Step-by-Step Self-Study Guide](https://infosecwriteups.com/soc-analyst-roadmap-for-2025-your-step-by-step-self-study-guide-f302841f36a0?source=rss----7b722bfd1b8d---4)
 - [Using Blockchain to Track Ransomware Threat Actors in 2024 and Beyond](https://infosecwriteups.com/using-blockchain-to-track-ransomware-threat-actors-in-2024-and-beyond-dd900d21bbf7?source=rss----7b722bfd1b8d---4)
 - [Wireshark for Beginners: Essential Techniques for PCAP File Analysis| Part-1](https://infosecwriteups.com/wireshark-for-beginners-essential-techniques-for-pcap-file-analysis-part-1-953784f592f4?source=rss----7b722bfd1b8d---4)
