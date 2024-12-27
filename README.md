@@ -922,7 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [Logic Flaw: Turning an Invitation Function into a Revenue Blocker](https://gr3yg05t.medium.com/logic-flaw-turning-an-invitation-function-into-a-revenue-blocker-b4523dc46dde?source=rss------bug_bounty_writeup-5)
+- [Most commonly found Vulnerabilities in Web Applications.](https://medium.com/paktolus-engineering/most-commonly-found-vulnerabilities-in-web-applications-01dfb54530e2?source=rss------bug_bounty_writeup-5)
+- [Logic Flaw: Using Invitation Function to Block Other Accounts](https://gr3yg05t.medium.com/logic-flaw-turning-an-invitation-function-into-a-revenue-blocker-b4523dc46dde?source=rss------bug_bounty_writeup-5)
 - [XSS Via SVG File Upload](https://abhishekgk.medium.com/xss-via-svg-file-upload-5c30af809107?source=rss------bug_bounty_writeup-5)
 - [How I found an IDOR on Achmea](https://medium.com/@nayeems3c/how-i-found-idor-on-achmea-cf9ce4b7d908?source=rss------bug_bounty_writeup-5)
 - [Logic Bug :  Privilege Escalation That Allow Me To Reducing an Owner’s privileges to View Only](https://medium.com/@edahmed008/logic-bug-privilege-escalation-that-allow-me-to-reducing-an-owners-privileges-to-view-only-db18caf9057e?source=rss------bug_bounty_writeup-5)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Bug Bounty Journey — Valid Report Part 3](https://medium.com/@0xF3r4t/bug-bounty-journey-valid-report-part-3-e9837e3da655?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Journey — Valid Report Part 2](https://medium.com/@0xF3r4t/bug-bounty-journey-valid-report-part-2-0f3a075e2a65?source=rss------bug_bounty_writeup-5)
 - [How I Test for Open Redirect](https://osintteam.blog/how-i-test-for-open-redirect-271cd0d0ae55?source=rss------bug_bounty_writeup-5)
-- [Stop Data Breaches in Their Tracks with LeakRadar.io](https://medium.com/@alexandrevandammepro/stop-data-breaches-in-their-tracks-with-leakradar-io-cc3c4b887c14?source=rss------bug_bounty_writeup-5)
 - [Breaking Down the OWASP Top 10: Insecure Design](https://www.hackerone.com/community/owasp-top-10-insecure-design)
 - [New York Releases AI Cybersecurity Guidance: What You Need to Know](https://www.hackerone.com/public-policy/new-york-ai-cybersecurity-guidance)
 - [Azure Cloud Configuration Review](https://www.hackerone.com/penetration-testing/azure-cloud-configuration-review)
