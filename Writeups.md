@@ -1,6 +1,16 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [SOC Analyst Roadmap for 2025: Your Step-by-Step Self-Study Guide](https://infosecwriteups.com/soc-analyst-roadmap-for-2025-your-step-by-step-self-study-guide-f302841f36a0?source=rss----7b722bfd1b8d---4)
+- [Using Blockchain to Track Ransomware Threat Actors in 2024 and Beyond](https://infosecwriteups.com/using-blockchain-to-track-ransomware-threat-actors-in-2024-and-beyond-dd900d21bbf7?source=rss----7b722bfd1b8d---4)
+- [Wireshark for Beginners: Essential Techniques for PCAP File Analysis| Part-1](https://infosecwriteups.com/wireshark-for-beginners-essential-techniques-for-pcap-file-analysis-part-1-953784f592f4?source=rss----7b722bfd1b8d---4)
+- [HTB Challenge Write-Up: PumpkinSpice](https://infosecwriteups.com/htb-challenge-write-up-pumpkinspice-bc7a95ab90f9?source=rss----7b722bfd1b8d---4)
+- [SEED Attack: Subtly Disrupting LLM Reasoning Step by Step](https://infosecwriteups.com/seed-attack-subtly-disrupting-llm-reasoning-step-by-step-4b3a23629d51?source=rss----7b722bfd1b8d---4)
+- [How Quantum Computing Could Endanger Your Cybersecurity Career](https://infosecwriteups.com/how-quantum-computing-could-endanger-your-cybersecurity-career-3ab0984048ae?source=rss----7b722bfd1b8d---4)
+- [Maldev : [Evasion] Shellcode Injection and Fileless Execution](https://infosecwriteups.com/maldev-evasion-shellcode-injection-and-fileless-execution-b7fd5e120d50?source=rss----7b722bfd1b8d---4)
+- [A Strategic Approach to Safeguarding Key Sectors including Financial Markets in the Quantum Era](https://infosecwriteups.com/a-strategic-approach-to-safeguarding-key-sectors-including-financial-markets-in-the-quantum-era-a83b64cd8b50?source=rss----7b722bfd1b8d---4)
+- [Color-Coded Cybersecurity: Roles in the Security Team Landscape](https://infosecwriteups.com/color-coded-cybersecurity-roles-in-the-security-team-landscape-c69d329748d0?source=rss----7b722bfd1b8d---4)
+- [How Data Flows Through the OSI Model](https://infosecwriteups.com/how-data-flows-through-the-osi-model-95b753bb9186?source=rss----7b722bfd1b8d---4)
 - [Breaking Down the OWASP Top 10: Insecure Design](https://www.hackerone.com/community/owasp-top-10-insecure-design)
 - [New York Releases AI Cybersecurity Guidance: What You Need to Know](https://www.hackerone.com/public-policy/new-york-ai-cybersecurity-guidance)
 - [Azure Cloud Configuration Review](https://www.hackerone.com/penetration-testing/azure-cloud-configuration-review)
