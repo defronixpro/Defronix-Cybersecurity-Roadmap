@@ -1,6 +1,13 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Unlock Wi-Fi Pen-Testing](https://infosecwriteups.com/unlock-wi-fi-pen-testing-d72e11a6a0db?source=rss----7b722bfd1b8d---4)
+- [Basic CRUD Operations in MongoDB](https://infosecwriteups.com/basic-crud-operations-in-mongodb-a9c6a4cf08b3?source=rss----7b722bfd1b8d---4)
+- [Exploring Sensitive Data in JavaScript Files](https://infosecwriteups.com/exploring-sensitive-data-in-javascript-files-606447e6a5cd?source=rss----7b722bfd1b8d---4)
+- [Working in Cyber Threat Intelligence &lpar;CTI&rpar;](https://infosecwriteups.com/working-in-cyber-threat-intelligence-cti-295f299a2453?source=rss----7b722bfd1b8d---4)
+- [The Hidden Danger Lurking in Your Code: How SQL Injection Can Compromise Your Application and What…](https://infosecwriteups.com/the-hidden-danger-lurking-in-your-code-how-sql-injection-can-compromise-your-application-and-what-b76e2fc57b3d?source=rss----7b722bfd1b8d---4)
+- [How i accidentally found a 1-click account takeover bug](https://infosecwriteups.com/how-i-accidentally-found-a-1-click-account-takeover-bug-dd27a512dd22?source=rss----7b722bfd1b8d---4)
+- [IDOR: Who, What, Where, When, Why, How?](https://infosecwriteups.com/idor-who-what-where-when-why-how-ab08db16078f?source=rss----7b722bfd1b8d---4)
 - [Is 2025 the Year to Begin Bug Bounty Hunting? Here’s What you need to Know ..](https://medium.com/@techinsights5/is-2025-the-year-to-begin-bug-bounty-hunting-heres-what-you-need-to-know-3e61bcf14a4b?source=rss------bug_bounty_writeup-5)
 - [Most commonly found Vulnerabilities in Web Applications.](https://medium.com/paktolus-engineering/most-commonly-found-vulnerabilities-in-web-applications-01dfb54530e2?source=rss------bug_bounty_writeup-5)
 - [Logic Flaw: Using Invitation Function to Block Other Accounts](https://gr3yg05t.medium.com/logic-flaw-turning-an-invitation-function-into-a-revenue-blocker-b4523dc46dde?source=rss------bug_bounty_writeup-5)
@@ -11,13 +18,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [SOC Analyst Roadmap for 2025: Your Step-by-Step Self-Study Guide](https://infosecwriteups.com/soc-analyst-roadmap-for-2025-your-step-by-step-self-study-guide-f302841f36a0?source=rss----7b722bfd1b8d---4)
 - [Using Blockchain to Track Ransomware Threat Actors in 2024 and Beyond](https://infosecwriteups.com/using-blockchain-to-track-ransomware-threat-actors-in-2024-and-beyond-dd900d21bbf7?source=rss----7b722bfd1b8d---4)
 - [Wireshark for Beginners: Essential Techniques for PCAP File Analysis| Part-1](https://infosecwriteups.com/wireshark-for-beginners-essential-techniques-for-pcap-file-analysis-part-1-953784f592f4?source=rss----7b722bfd1b8d---4)
-- [HTB Challenge Write-Up: PumpkinSpice](https://infosecwriteups.com/htb-challenge-write-up-pumpkinspice-bc7a95ab90f9?source=rss----7b722bfd1b8d---4)
-- [SEED Attack: Subtly Disrupting LLM Reasoning Step by Step](https://infosecwriteups.com/seed-attack-subtly-disrupting-llm-reasoning-step-by-step-4b3a23629d51?source=rss----7b722bfd1b8d---4)
-- [How Quantum Computing Could Endanger Your Cybersecurity Career](https://infosecwriteups.com/how-quantum-computing-could-endanger-your-cybersecurity-career-3ab0984048ae?source=rss----7b722bfd1b8d---4)
-- [Maldev : [Evasion] Shellcode Injection and Fileless Execution](https://infosecwriteups.com/maldev-evasion-shellcode-injection-and-fileless-execution-b7fd5e120d50?source=rss----7b722bfd1b8d---4)
-- [A Strategic Approach to Safeguarding Key Sectors including Financial Markets in the Quantum Era](https://infosecwriteups.com/a-strategic-approach-to-safeguarding-key-sectors-including-financial-markets-in-the-quantum-era-a83b64cd8b50?source=rss----7b722bfd1b8d---4)
-- [Color-Coded Cybersecurity: Roles in the Security Team Landscape](https://infosecwriteups.com/color-coded-cybersecurity-roles-in-the-security-team-landscape-c69d329748d0?source=rss----7b722bfd1b8d---4)
-- [How Data Flows Through the OSI Model](https://infosecwriteups.com/how-data-flows-through-the-osi-model-95b753bb9186?source=rss----7b722bfd1b8d---4)
 - [Business logic: I can order anything from your account without paying for it](https://gr3yg05t.medium.com/business-logic-i-can-order-anything-from-your-account-without-paying-for-it-86ef070e01dd?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Journey — Valid Report Part 3](https://medium.com/@0xF3r4t/bug-bounty-journey-valid-report-part-3-e9837e3da655?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Journey — Valid Report Part 2](https://medium.com/@0xF3r4t/bug-bounty-journey-valid-report-part-2-0f3a075e2a65?source=rss------bug_bounty_writeup-5)
