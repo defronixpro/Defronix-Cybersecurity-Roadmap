@@ -1,6 +1,8 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [403/401 Bypass Methods + Bash Automation + Your Support ;&rpar;](https://anontriager.medium.com/403-401-bypass-methods-bash-automation-your-support-5468b93599fd?source=rss------bug_bounty_writeup-5)
+- [The Bug Bounty Reconnaissance Framework &lpar;BBRF&rpar;](https://anontriager.medium.com/the-bug-bounty-reconnaissance-framework-bbrf-9e6d5d814551?source=rss------bug_bounty_writeup-5)
 - [Bug Chain: pre-auth takeover to permanent access.](https://gr3yg05t.medium.com/bug-chain-pre-auth-takeover-to-permanent-access-4d92829ed816?source=rss------bug_bounty_writeup-5)
 - [BPP [$750]Arbitrary File Upload Vulnerability To Remote Code Execution &lpar;RCE&rpar; Outside the Platform.](https://aryasec.medium.com/bpp-750-arbitrary-file-upload-vulnerability-to-remote-code-execution-rce-outside-the-platform-9093b51d044d?source=rss------bug_bounty_writeup-5)
 - [Complete Takeover/Hijack the Organizatoin](https://medium.com/@mrro0o0tt/complete-takeover-hijack-the-organizatoin-6858b95a5803?source=rss------bug_bounty_writeup-5)
@@ -16,8 +18,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Most commonly found Vulnerabilities in Web Applications.](https://medium.com/paktolus-engineering/most-commonly-found-vulnerabilities-in-web-applications-01dfb54530e2?source=rss------bug_bounty_writeup-5)
 - [Logic Flaw: Using Invitation Function to Block Other Accounts](https://gr3yg05t.medium.com/logic-flaw-turning-an-invitation-function-into-a-revenue-blocker-b4523dc46dde?source=rss------bug_bounty_writeup-5)
 - [XSS Via SVG File Upload](https://abhishekgk.medium.com/xss-via-svg-file-upload-5c30af809107?source=rss------bug_bounty_writeup-5)
-- [How I found an IDOR on Achmea](https://medium.com/@nayeems3c/how-i-found-idor-on-achmea-cf9ce4b7d908?source=rss------bug_bounty_writeup-5)
-- [Logic Bug :  Privilege Escalation That Allow Me To Reducing an Owner’s privileges to View Only](https://medium.com/@edahmed008/logic-bug-privilege-escalation-that-allow-me-to-reducing-an-owners-privileges-to-view-only-db18caf9057e?source=rss------bug_bounty_writeup-5)
 - [SOC Analyst Roadmap for 2025: Your Step-by-Step Self-Study Guide](https://infosecwriteups.com/soc-analyst-roadmap-for-2025-your-step-by-step-self-study-guide-f302841f36a0?source=rss----7b722bfd1b8d---4)
 - [Using Blockchain to Track Ransomware Threat Actors in 2024 and Beyond](https://infosecwriteups.com/using-blockchain-to-track-ransomware-threat-actors-in-2024-and-beyond-dd900d21bbf7?source=rss----7b722bfd1b8d---4)
 - [Wireshark for Beginners: Essential Techniques for PCAP File Analysis| Part-1](https://infosecwriteups.com/wireshark-for-beginners-essential-techniques-for-pcap-file-analysis-part-1-953784f592f4?source=rss----7b722bfd1b8d---4)
