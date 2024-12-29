@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [HTML Injection](https://medium.com/@mastergojo122/html-injection-b6f4151c7d6a?source=rss------bug_bounty_writeup-5)
 - [Step-by-Step Bug Bounty Reconnaissance for Beginners](https://systemweakness.com/step-by-step-bug-bounty-reconnaissance-for-beginners-86e49f14c3c2?source=rss------bug_bounty_writeup-5)
 - [Unauthorized Access and Data Leakage Vulnerability in a Crypto Platform](https://medium.com/@bughunt.bochi/unauthorized-access-and-data-leakage-vulnerability-in-a-crypto-platform-ff4dfc8613e1?source=rss------bug_bounty_writeup-5)
 - [Cross-Domain Referrer Leakage &lpar;Bug Bounty&rpar;](https://anontriager.medium.com/cross-domain-referrer-leakage-bug-bounty-5c7fb967883d?source=rss------bug_bounty_writeup-5)
@@ -11,7 +12,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [IDOR Flaw Leads to $1160 Bounty &lpar;1/30 DAYS&rpar;](https://medium.com/@zerodaystories/idor-flaw-leads-to-1160-bounty-1-30-days-406cd288bebb?source=rss------bug_bounty_writeup-5)
 - [403/401 Bypass Methods + Bash Automation + Your Support ;&rpar;](https://anontriager.medium.com/403-401-bypass-methods-bash-automation-your-support-5468b93599fd?source=rss------bug_bounty_writeup-5)
 - [The Bug Bounty Reconnaissance Framework &lpar;BBRF&rpar;](https://anontriager.medium.com/the-bug-bounty-reconnaissance-framework-bbrf-9e6d5d814551?source=rss------bug_bounty_writeup-5)
-- [Bug Chain: pre-auth takeover to permanent access.](https://gr3yg05t.medium.com/bug-chain-pre-auth-takeover-to-permanent-access-4d92829ed816?source=rss------bug_bounty_writeup-5)
 - [Unlock Wi-Fi Pen-Testing](https://infosecwriteups.com/unlock-wi-fi-pen-testing-d72e11a6a0db?source=rss----7b722bfd1b8d---4)
 - [Basic CRUD Operations in MongoDB](https://infosecwriteups.com/basic-crud-operations-in-mongodb-a9c6a4cf08b3?source=rss----7b722bfd1b8d---4)
 - [Exploring Sensitive Data in JavaScript Files](https://infosecwriteups.com/exploring-sensitive-data-in-javascript-files-606447e6a5cd?source=rss----7b722bfd1b8d---4)
