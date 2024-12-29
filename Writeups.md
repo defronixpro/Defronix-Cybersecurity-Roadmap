@@ -1,6 +1,8 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Step-by-Step Bug Bounty Reconnaissance for Beginners](https://systemweakness.com/step-by-step-bug-bounty-reconnaissance-for-beginners-86e49f14c3c2?source=rss------bug_bounty_writeup-5)
+- [Unauthorized Access and Data Leakage Vulnerability in a Crypto Platform](https://medium.com/@bughunt.bochi/unauthorized-access-and-data-leakage-vulnerability-in-a-crypto-platform-ff4dfc8613e1?source=rss------bug_bounty_writeup-5)
 - [Cross-Domain Referrer Leakage &lpar;Bug Bounty&rpar;](https://anontriager.medium.com/cross-domain-referrer-leakage-bug-bounty-5c7fb967883d?source=rss------bug_bounty_writeup-5)
 - [How to find SSRF, Bypass Cloudflare, and extract AWS metadata](https://anontriager.medium.com/how-to-find-ssrf-bypass-cloudflare-and-extract-aws-metadata-46d1ee6d1857?source=rss------bug_bounty_writeup-5)
 - [Uncovering Race Conditions in Endpoint API Key Generation](https://anjarwilujeng.medium.com/uncovering-race-conditions-in-endpoint-api-key-generation-dec3abf31a83?source=rss------bug_bounty_writeup-5)
@@ -10,8 +12,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [403/401 Bypass Methods + Bash Automation + Your Support ;&rpar;](https://anontriager.medium.com/403-401-bypass-methods-bash-automation-your-support-5468b93599fd?source=rss------bug_bounty_writeup-5)
 - [The Bug Bounty Reconnaissance Framework &lpar;BBRF&rpar;](https://anontriager.medium.com/the-bug-bounty-reconnaissance-framework-bbrf-9e6d5d814551?source=rss------bug_bounty_writeup-5)
 - [Bug Chain: pre-auth takeover to permanent access.](https://gr3yg05t.medium.com/bug-chain-pre-auth-takeover-to-permanent-access-4d92829ed816?source=rss------bug_bounty_writeup-5)
-- [BPP [$750]Arbitrary File Upload Vulnerability To Remote Code Execution &lpar;RCE&rpar; Outside the Platform.](https://aryasec.medium.com/bpp-750-arbitrary-file-upload-vulnerability-to-remote-code-execution-rce-outside-the-platform-9093b51d044d?source=rss------bug_bounty_writeup-5)
-- [Complete Takeover/Hijack the Organizatoin](https://medium.com/@mrro0o0tt/complete-takeover-hijack-the-organizatoin-6858b95a5803?source=rss------bug_bounty_writeup-5)
 - [Unlock Wi-Fi Pen-Testing](https://infosecwriteups.com/unlock-wi-fi-pen-testing-d72e11a6a0db?source=rss----7b722bfd1b8d---4)
 - [Basic CRUD Operations in MongoDB](https://infosecwriteups.com/basic-crud-operations-in-mongodb-a9c6a4cf08b3?source=rss----7b722bfd1b8d---4)
 - [Exploring Sensitive Data in JavaScript Files](https://infosecwriteups.com/exploring-sensitive-data-in-javascript-files-606447e6a5cd?source=rss----7b722bfd1b8d---4)
