@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Uncovering Race Conditions in Endpoint API Key Generation](https://anjarwilujeng.medium.com/uncovering-race-conditions-in-endpoint-api-key-generation-dec3abf31a83?source=rss------bug_bounty_writeup-5)
 - [My First year in Bug Bounty ‍](https://infosecwriteups.com/my-first-year-in-bug-bounty-10994de47849?source=rss----7b722bfd1b8d---4)
 - [How I was able to delete MFA of any user without Authentication](https://medium.com/@sharp488/how-i-was-able-to-delete-mfa-of-any-user-without-authentication-814904b506a2?source=rss------bug_bounty_writeup-5)
 - [IDOR Flaw Leads to $1160 Bounty &lpar;1/30 DAYS&rpar;](https://medium.com/@zerodaystories/idor-flaw-leads-to-1160-bounty-1-30-days-406cd288bebb?source=rss------bug_bounty_writeup-5)
@@ -18,7 +19,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How i accidentally found a 1-click account takeover bug](https://infosecwriteups.com/how-i-accidentally-found-a-1-click-account-takeover-bug-dd27a512dd22?source=rss----7b722bfd1b8d---4)
 - [IDOR: Who, What, Where, When, Why, How?](https://infosecwriteups.com/idor-who-what-where-when-why-how-ab08db16078f?source=rss----7b722bfd1b8d---4)
 - [Is 2025 the Year to Begin Bug Bounty Hunting? Here’s What you need to Know ..](https://medium.com/@techinsights5/is-2025-the-year-to-begin-bug-bounty-hunting-heres-what-you-need-to-know-3e61bcf14a4b?source=rss------bug_bounty_writeup-5)
-- [Most commonly found Vulnerabilities in Web Applications.](https://medium.com/paktolus-engineering/most-commonly-found-vulnerabilities-in-web-applications-01dfb54530e2?source=rss------bug_bounty_writeup-5)
 - [SOC Analyst Roadmap for 2025: Your Step-by-Step Self-Study Guide](https://infosecwriteups.com/soc-analyst-roadmap-for-2025-your-step-by-step-self-study-guide-f302841f36a0?source=rss----7b722bfd1b8d---4)
 - [Using Blockchain to Track Ransomware Threat Actors in 2024 and Beyond](https://infosecwriteups.com/using-blockchain-to-track-ransomware-threat-actors-in-2024-and-beyond-dd900d21bbf7?source=rss----7b722bfd1b8d---4)
 - [Breaking Down the OWASP Top 10: Insecure Design](https://www.hackerone.com/community/owasp-top-10-insecure-design)
