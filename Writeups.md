@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [When APIs Can’t Keep Up: How I Exploited Misconfigured Rate Limits to Crash the Party](https://myselfakash20.medium.com/when-apis-cant-keep-up-how-i-exploited-misconfigured-rate-limits-to-crash-the-party-e5be48d4cacd?source=rss------bug_bounty_writeup-5)
 - [How I was able to delete a production backend server in my first finding.](https://gr3yg05t.medium.com/how-i-was-able-to-delete-a-production-backend-server-in-my-first-finding-5dcce8aa093c?source=rss------bug_bounty_writeup-5)
 - [HTML Injection](https://medium.com/@mastergojo122/html-injection-b6f4151c7d6a?source=rss------bug_bounty_writeup-5)
 - [Step-by-Step Bug Bounty Reconnaissance for Beginners](https://systemweakness.com/step-by-step-bug-bounty-reconnaissance-for-beginners-86e49f14c3c2?source=rss------bug_bounty_writeup-5)
@@ -11,7 +12,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [My First year in Bug Bounty ‍](https://infosecwriteups.com/my-first-year-in-bug-bounty-10994de47849?source=rss----7b722bfd1b8d---4)
 - [How I was able to delete MFA of any user without Authentication](https://medium.com/@sharp488/how-i-was-able-to-delete-mfa-of-any-user-without-authentication-814904b506a2?source=rss------bug_bounty_writeup-5)
 - [IDOR Flaw Leads to $1160 Bounty &lpar;1/30 DAYS&rpar;](https://medium.com/@zerodaystories/idor-flaw-leads-to-1160-bounty-1-30-days-406cd288bebb?source=rss------bug_bounty_writeup-5)
-- [403/401 Bypass Methods + Bash Automation + Your Support ;&rpar;](https://anontriager.medium.com/403-401-bypass-methods-bash-automation-your-support-5468b93599fd?source=rss------bug_bounty_writeup-5)
 - [Unlock Wi-Fi Pen-Testing](https://infosecwriteups.com/unlock-wi-fi-pen-testing-d72e11a6a0db?source=rss----7b722bfd1b8d---4)
 - [Basic CRUD Operations in MongoDB](https://infosecwriteups.com/basic-crud-operations-in-mongodb-a9c6a4cf08b3?source=rss----7b722bfd1b8d---4)
 - [Exploring Sensitive Data in JavaScript Files](https://infosecwriteups.com/exploring-sensitive-data-in-javascript-files-606447e6a5cd?source=rss----7b722bfd1b8d---4)
