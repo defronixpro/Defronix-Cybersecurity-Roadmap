@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [OTP Bypass Leads to $2000 &lpar;2/30 DAYS&rpar;](https://medium.com/@zerodaystories/otp-bypass-leads-to-2000-2-30-days-7845b2580e7e?source=rss------bug_bounty_writeup-5)
 - [How I Discovered an 8.2 Severity bug on hackerone for Account Takeover via HTML Injection](https://medium.com/@ravindrajatav0709/how-i-discovered-an-8-2-severity-bug-on-hackerone-for-account-takeover-via-html-injection-3e5b0ec32cc9?source=rss------bug_bounty_writeup-5)
 - [My First Year in Bug Bounty Hunting](https://0xshuvo.medium.com/my-first-year-in-bug-bounty-hunting-2b5c2cb9c205?source=rss------bug_bounty_writeup-5)
 - [How to Find Origin IP of any Website Behind a WAF](https://infosecwriteups.com/how-to-find-origin-ip-of-any-website-behind-a-waf-c85095156ef7?source=rss----7b722bfd1b8d---4)
@@ -932,7 +933,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [HTML Injection](https://medium.com/@mastergojo122/html-injection-b6f4151c7d6a?source=rss------bug_bounty_writeup-5)
 - [Step-by-Step Bug Bounty Reconnaissance for Beginners](https://systemweakness.com/step-by-step-bug-bounty-reconnaissance-for-beginners-86e49f14c3c2?source=rss------bug_bounty_writeup-5)
 - [Unauthorized Access and Data Leakage Vulnerability in a Crypto Platform](https://medium.com/@bughunt.bochi/unauthorized-access-and-data-leakage-vulnerability-in-a-crypto-platform-ff4dfc8613e1?source=rss------bug_bounty_writeup-5)
-- [Cross-Domain Referrer Leakage &lpar;Bug Bounty&rpar;](https://anontriager.medium.com/cross-domain-referrer-leakage-bug-bounty-5c7fb967883d?source=rss------bug_bounty_writeup-5)
 - [My First year in Bug Bounty ‍](https://infosecwriteups.com/my-first-year-in-bug-bounty-10994de47849?source=rss----7b722bfd1b8d---4)
 - [Unlock Wi-Fi Pen-Testing](https://infosecwriteups.com/unlock-wi-fi-pen-testing-d72e11a6a0db?source=rss----7b722bfd1b8d---4)
 - [Basic CRUD Operations in MongoDB](https://infosecwriteups.com/basic-crud-operations-in-mongodb-a9c6a4cf08b3?source=rss----7b722bfd1b8d---4)
