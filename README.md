@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [This is a writeup of how can I get critical $$$$ bounty from PII Disclosure - Broken Access](https://medium.com/@0xNayelx/this-is-a-writeup-of-how-can-i-get-critical-bounty-from-pii-disclosure-broken-access-7a113e5dc50c?source=rss------bug_bounty_writeup-5)
 - [OTP Bypass Leads to $2000 &lpar;2/30 DAYS&rpar;](https://medium.com/@zerodaystories/otp-bypass-leads-to-2000-2-30-days-7845b2580e7e?source=rss------bug_bounty_writeup-5)
 - [How I Discovered an 8.2 Severity bug on hackerone for Account Takeover via HTML Injection](https://medium.com/@ravindrajatav0709/how-i-discovered-an-8-2-severity-bug-on-hackerone-for-account-takeover-via-html-injection-3e5b0ec32cc9?source=rss------bug_bounty_writeup-5)
 - [My First Year in Bug Bounty Hunting](https://0xshuvo.medium.com/my-first-year-in-bug-bounty-hunting-2b5c2cb9c205?source=rss------bug_bounty_writeup-5)
@@ -932,7 +933,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How I was able to delete a production backend server in my first finding.](https://gr3yg05t.medium.com/how-i-was-able-to-delete-a-production-backend-server-in-my-first-finding-5dcce8aa093c?source=rss------bug_bounty_writeup-5)
 - [HTML Injection](https://medium.com/@mastergojo122/html-injection-b6f4151c7d6a?source=rss------bug_bounty_writeup-5)
 - [Step-by-Step Bug Bounty Reconnaissance for Beginners](https://systemweakness.com/step-by-step-bug-bounty-reconnaissance-for-beginners-86e49f14c3c2?source=rss------bug_bounty_writeup-5)
-- [Unauthorized Access and Data Leakage Vulnerability in a Crypto Platform](https://medium.com/@bughunt.bochi/unauthorized-access-and-data-leakage-vulnerability-in-a-crypto-platform-ff4dfc8613e1?source=rss------bug_bounty_writeup-5)
 - [My First year in Bug Bounty ‍](https://infosecwriteups.com/my-first-year-in-bug-bounty-10994de47849?source=rss----7b722bfd1b8d---4)
 - [Unlock Wi-Fi Pen-Testing](https://infosecwriteups.com/unlock-wi-fi-pen-testing-d72e11a6a0db?source=rss----7b722bfd1b8d---4)
 - [Basic CRUD Operations in MongoDB](https://infosecwriteups.com/basic-crud-operations-in-mongodb-a9c6a4cf08b3?source=rss----7b722bfd1b8d---4)
