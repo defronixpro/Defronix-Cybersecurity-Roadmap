@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How to Find Origin IP of any Website Behind a WAF](https://infosecwriteups.com/how-to-find-origin-ip-of-any-website-behind-a-waf-c85095156ef7?source=rss----7b722bfd1b8d---4)
 - [Bypassing Subscription Expiry with Client-Side Time Manipulation](https://medium.com/@elghzaly/bypassing-subscription-expiry-with-client-side-time-manipulation-d048fe0a3b3f?source=rss------bug_bounty_writeup-5)
 - [What Bug Bounty Hunters Don’t Tell You.](https://medium.com/@padhyepushkar/what-bug-bounty-hunters-dont-tell-you-78969ca0916a?source=rss------bug_bounty_writeup-5)
 - [CSRF Enable 2FA allow User Lose Access to Their Account.](https://anjarwilujeng.medium.com/csrf-enable-2fa-allow-user-lose-access-to-their-account-331eaed89d25?source=rss------bug_bounty_writeup-5)
@@ -11,6 +12,15 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Cross-Domain Referrer Leakage &lpar;Bug Bounty&rpar;](https://anontriager.medium.com/cross-domain-referrer-leakage-bug-bounty-5c7fb967883d?source=rss------bug_bounty_writeup-5)
 - [How to find SSRF, Bypass Cloudflare, and extract AWS metadata](https://anontriager.medium.com/how-to-find-ssrf-bypass-cloudflare-and-extract-aws-metadata-46d1ee6d1857?source=rss------bug_bounty_writeup-5)
 - [Uncovering Race Conditions in Endpoint API Key Generation](https://anjarwilujeng.medium.com/uncovering-race-conditions-in-endpoint-api-key-generation-dec3abf31a83?source=rss------bug_bounty_writeup-5)
+- [My First year in Bug Bounty ‍](https://infosecwriteups.com/my-first-year-in-bug-bounty-10994de47849?source=rss----7b722bfd1b8d---4)
+- [Unlock Wi-Fi Pen-Testing](https://infosecwriteups.com/unlock-wi-fi-pen-testing-d72e11a6a0db?source=rss----7b722bfd1b8d---4)
+- [Basic CRUD Operations in MongoDB](https://infosecwriteups.com/basic-crud-operations-in-mongodb-a9c6a4cf08b3?source=rss----7b722bfd1b8d---4)
+- [Exploring Sensitive Data in JavaScript Files](https://infosecwriteups.com/exploring-sensitive-data-in-javascript-files-606447e6a5cd?source=rss----7b722bfd1b8d---4)
+- [Working in Cyber Threat Intelligence &lpar;CTI&rpar;](https://infosecwriteups.com/working-in-cyber-threat-intelligence-cti-295f299a2453?source=rss----7b722bfd1b8d---4)
+- [The Hidden Danger Lurking in Your Code: How SQL Injection Can Compromise Your Application and What…](https://infosecwriteups.com/the-hidden-danger-lurking-in-your-code-how-sql-injection-can-compromise-your-application-and-what-b76e2fc57b3d?source=rss----7b722bfd1b8d---4)
+- [How i accidentally found a 1-click account takeover bug](https://infosecwriteups.com/how-i-accidentally-found-a-1-click-account-takeover-bug-dd27a512dd22?source=rss----7b722bfd1b8d---4)
+- [IDOR: Who, What, Where, When, Why, How?](https://infosecwriteups.com/idor-who-what-where-when-why-how-ab08db16078f?source=rss----7b722bfd1b8d---4)
+- [SOC Analyst Roadmap for 2025: Your Step-by-Step Self-Study Guide](https://infosecwriteups.com/soc-analyst-roadmap-for-2025-your-step-by-step-self-study-guide-f302841f36a0?source=rss----7b722bfd1b8d---4)
 - [Breaking Down the OWASP Top 10: Insecure Design](https://www.hackerone.com/community/owasp-top-10-insecure-design)
 - [New York Releases AI Cybersecurity Guidance: What You Need to Know](https://www.hackerone.com/public-policy/new-york-ai-cybersecurity-guidance)
 - [Azure Cloud Configuration Review](https://www.hackerone.com/penetration-testing/azure-cloud-configuration-review)
