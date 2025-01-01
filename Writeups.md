@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [This Simple GraphQL SSRF Bug Earned Me $3,000 &lpar;3/30 DAYS&rpar;](https://medium.com/@zerodaystories/this-simple-graphql-ssrf-bug-earned-me-3-000-3-30-days-9bd13e2c2f9d?source=rss------bug_bounty_writeup-5)
 - [Understanding DNS for Bug Bounty Hunting](https://medium.com/@mastergojo122/understanding-dns-for-bug-bounty-hunting-428ec422aac6?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Journey in 2024](https://medium.com/@suganthankumaralingam/bug-bounty-journey-in-2024-e4f23874f991?source=rss------bug_bounty_writeup-5)
 - [This is a writeup of how can I get critical $$$$ bounty from PII Disclosure - Broken Access](https://medium.com/@0xNayelx/this-is-a-writeup-of-how-can-i-get-critical-bounty-from-pii-disclosure-broken-access-7a113e5dc50c?source=rss------bug_bounty_writeup-5)
@@ -11,7 +12,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Bypassing Subscription Expiry with Client-Side Time Manipulation](https://medium.com/@elghzaly/bypassing-subscription-expiry-with-client-side-time-manipulation-d048fe0a3b3f?source=rss------bug_bounty_writeup-5)
 - [What Bug Bounty Hunters Don’t Tell You.](https://medium.com/@padhyepushkar/what-bug-bounty-hunters-dont-tell-you-78969ca0916a?source=rss------bug_bounty_writeup-5)
 - [CSRF Enable 2FA allow User Lose Access to Their Account.](https://anjarwilujeng.medium.com/csrf-enable-2fa-allow-user-lose-access-to-their-account-331eaed89d25?source=rss------bug_bounty_writeup-5)
-- [How I was able to delete a production backend server in my first finding.](https://gr3yg05t.medium.com/how-i-was-able-to-delete-a-production-backend-server-in-my-first-finding-5dcce8aa093c?source=rss------bug_bounty_writeup-5)
 - [My First year in Bug Bounty ‍](https://infosecwriteups.com/my-first-year-in-bug-bounty-10994de47849?source=rss----7b722bfd1b8d---4)
 - [Unlock Wi-Fi Pen-Testing](https://infosecwriteups.com/unlock-wi-fi-pen-testing-d72e11a6a0db?source=rss----7b722bfd1b8d---4)
 - [Basic CRUD Operations in MongoDB](https://infosecwriteups.com/basic-crud-operations-in-mongodb-a9c6a4cf08b3?source=rss----7b722bfd1b8d---4)
