@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Zendesk Access Token Disclosed in a JavaScript File Allowing Ticket Access](https://medium.com/@aloneh1/zendesk-access-token-disclosed-in-a-javascript-file-allowing-ticket-access-cfc5ba637dde?source=rss------bug_bounty_writeup-5)
 - [Exploiting SQLi to Query Database Version on MySQL and Microsoft](https://infosecwriteups.com/exploiting-sqli-to-query-database-version-on-mysql-and-microsoft-8d38a3ec42b4?source=rss----7b722bfd1b8d---4)
 - [Sailing the MalSpam Ocean: A Journey Through Threat Hunting and Uncovering Malware Activity](https://infosecwriteups.com/sailing-the-malspam-ocean-a-journey-through-threat-hunting-and-uncovering-malware-activity-a92ae2354454?source=rss----7b722bfd1b8d---4)
 - [OWASP Top 10 2025: What to Expect](https://infosecwriteups.com/owasp-top-10-2025-what-to-expect-22b8ede0c428?source=rss----7b722bfd1b8d---4)
@@ -14,7 +15,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How to Find Origin IP of any Website Behind a WAF](https://infosecwriteups.com/how-to-find-origin-ip-of-any-website-behind-a-waf-c85095156ef7?source=rss----7b722bfd1b8d---4)
 - [Bypassing Subscription Expiry with Client-Side Time Manipulation](https://medium.com/@elghzaly/bypassing-subscription-expiry-with-client-side-time-manipulation-d048fe0a3b3f?source=rss------bug_bounty_writeup-5)
 - [What Bug Bounty Hunters Don’t Tell You.](https://medium.com/@padhyepushkar/what-bug-bounty-hunters-dont-tell-you-78969ca0916a?source=rss------bug_bounty_writeup-5)
-- [CSRF Enable 2FA allow User Lose Access to Their Account.](https://anjarwilujeng.medium.com/csrf-enable-2fa-allow-user-lose-access-to-their-account-331eaed89d25?source=rss------bug_bounty_writeup-5)
 - [My First year in Bug Bounty ‍](https://infosecwriteups.com/my-first-year-in-bug-bounty-10994de47849?source=rss----7b722bfd1b8d---4)
 - [Unlock Wi-Fi Pen-Testing](https://infosecwriteups.com/unlock-wi-fi-pen-testing-d72e11a6a0db?source=rss----7b722bfd1b8d---4)
 - [Basic CRUD Operations in MongoDB](https://infosecwriteups.com/basic-crud-operations-in-mongodb-a9c6a4cf08b3?source=rss----7b722bfd1b8d---4)
