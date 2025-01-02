@@ -1,20 +1,10 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
-- [Finding Hidden API-Keys &amp; How to Use them](https://medium.com/@sumitcfe/finding-hidden-api-keys-how-to-use-them-9c8a187d922b?source=rss------bug_bounty_writeup-5)
-- [Zendesk Access Token Disclosed in a JavaScript File Allowing Ticket Access](https://medium.com/@aloneh1/zendesk-access-token-disclosed-in-a-javascript-file-allowing-ticket-access-cfc5ba637dde?source=rss------bug_bounty_writeup-5)
 - [Exploiting SQLi to Query Database Version on MySQL and Microsoft](https://infosecwriteups.com/exploiting-sqli-to-query-database-version-on-mysql-and-microsoft-8d38a3ec42b4?source=rss----7b722bfd1b8d---4)
 - [Sailing the MalSpam Ocean: A Journey Through Threat Hunting and Uncovering Malware Activity](https://infosecwriteups.com/sailing-the-malspam-ocean-a-journey-through-threat-hunting-and-uncovering-malware-activity-a92ae2354454?source=rss----7b722bfd1b8d---4)
 - [OWASP Top 10 2025: What to Expect](https://infosecwriteups.com/owasp-top-10-2025-what-to-expect-22b8ede0c428?source=rss----7b722bfd1b8d---4)
-- [This Simple GraphQL SSRF Bug Earned  $3,000 &lpar;3/30 DAYS&rpar;](https://medium.com/@zerodaystories/this-simple-graphql-ssrf-bug-earned-me-3-000-3-30-days-9bd13e2c2f9d?source=rss------bug_bounty_writeup-5)
-- [Understanding DNS for Bug Bounty Hunting](https://medium.com/@mastergojo122/understanding-dns-for-bug-bounty-hunting-428ec422aac6?source=rss------bug_bounty_writeup-5)
-- [Bug Bounty Journey in 2024](https://medium.com/@suganthankumaralingam/bug-bounty-journey-in-2024-e4f23874f991?source=rss------bug_bounty_writeup-5)
-- [This is a writeup of how can I get critical $$$$ bounty from PII Disclosure - Broken Access](https://medium.com/@0xNayelx/this-is-a-writeup-of-how-can-i-get-critical-bounty-from-pii-disclosure-broken-access-7a113e5dc50c?source=rss------bug_bounty_writeup-5)
-- [OTP Bypass Leads to $2000 &lpar;2/30 DAYS&rpar;](https://medium.com/@zerodaystories/otp-bypass-leads-to-2000-2-30-days-7845b2580e7e?source=rss------bug_bounty_writeup-5)
-- [How I Discovered an 8.2 Severity bug on hackerone for Account Takeover via HTML Injection](https://medium.com/@ravindrajatav0709/how-i-discovered-an-8-2-severity-bug-on-hackerone-for-account-takeover-via-html-injection-3e5b0ec32cc9?source=rss------bug_bounty_writeup-5)
-- [My First Year in Bug Bounty Hunting](https://0xshuvo.medium.com/my-first-year-in-bug-bounty-hunting-2b5c2cb9c205?source=rss------bug_bounty_writeup-5)
 - [How to Find Origin IP of any Website Behind a WAF](https://infosecwriteups.com/how-to-find-origin-ip-of-any-website-behind-a-waf-c85095156ef7?source=rss----7b722bfd1b8d---4)
-- [Bypassing Subscription Expiry with Client-Side Time Manipulation](https://medium.com/@elghzaly/bypassing-subscription-expiry-with-client-side-time-manipulation-d048fe0a3b3f?source=rss------bug_bounty_writeup-5)
 - [My First year in Bug Bounty ‍](https://infosecwriteups.com/my-first-year-in-bug-bounty-10994de47849?source=rss----7b722bfd1b8d---4)
 - [Unlock Wi-Fi Pen-Testing](https://infosecwriteups.com/unlock-wi-fi-pen-testing-d72e11a6a0db?source=rss----7b722bfd1b8d---4)
 - [Basic CRUD Operations in MongoDB](https://infosecwriteups.com/basic-crud-operations-in-mongodb-a9c6a4cf08b3?source=rss----7b722bfd1b8d---4)
