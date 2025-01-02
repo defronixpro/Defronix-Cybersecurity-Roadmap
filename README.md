@@ -922,6 +922,9 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Exploiting SQLi to Query Database Version on MySQL and Microsoft](https://infosecwriteups.com/exploiting-sqli-to-query-database-version-on-mysql-and-microsoft-8d38a3ec42b4?source=rss----7b722bfd1b8d---4)
+- [Sailing the MalSpam Ocean: A Journey Through Threat Hunting and Uncovering Malware Activity](https://infosecwriteups.com/sailing-the-malspam-ocean-a-journey-through-threat-hunting-and-uncovering-malware-activity-a92ae2354454?source=rss----7b722bfd1b8d---4)
+- [OWASP Top 10 2025: What to Expect](https://infosecwriteups.com/owasp-top-10-2025-what-to-expect-22b8ede0c428?source=rss----7b722bfd1b8d---4)
 - [This Simple GraphQL SSRF Bug Earned  $3,000 &lpar;3/30 DAYS&rpar;](https://medium.com/@zerodaystories/this-simple-graphql-ssrf-bug-earned-me-3-000-3-30-days-9bd13e2c2f9d?source=rss------bug_bounty_writeup-5)
 - [Understanding DNS for Bug Bounty Hunting](https://medium.com/@mastergojo122/understanding-dns-for-bug-bounty-hunting-428ec422aac6?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Journey in 2024](https://medium.com/@suganthankumaralingam/bug-bounty-journey-in-2024-e4f23874f991?source=rss------bug_bounty_writeup-5)
@@ -939,9 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Exploring Sensitive Data in JavaScript Files](https://infosecwriteups.com/exploring-sensitive-data-in-javascript-files-606447e6a5cd?source=rss----7b722bfd1b8d---4)
 - [Working in Cyber Threat Intelligence &lpar;CTI&rpar;](https://infosecwriteups.com/working-in-cyber-threat-intelligence-cti-295f299a2453?source=rss----7b722bfd1b8d---4)
 - [The Hidden Danger Lurking in Your Code: How SQL Injection Can Compromise Your Application and What…](https://infosecwriteups.com/the-hidden-danger-lurking-in-your-code-how-sql-injection-can-compromise-your-application-and-what-b76e2fc57b3d?source=rss----7b722bfd1b8d---4)
-- [How i accidentally found a 1-click account takeover bug](https://infosecwriteups.com/how-i-accidentally-found-a-1-click-account-takeover-bug-dd27a512dd22?source=rss----7b722bfd1b8d---4)
-- [IDOR: Who, What, Where, When, Why, How?](https://infosecwriteups.com/idor-who-what-where-when-why-how-ab08db16078f?source=rss----7b722bfd1b8d---4)
-- [SOC Analyst Roadmap for 2025: Your Step-by-Step Self-Study Guide](https://infosecwriteups.com/soc-analyst-roadmap-for-2025-your-step-by-step-self-study-guide-f302841f36a0?source=rss----7b722bfd1b8d---4)
 - [Breaking Down the OWASP Top 10: Insecure Design](https://www.hackerone.com/community/owasp-top-10-insecure-design)
 - [New York Releases AI Cybersecurity Guidance: What You Need to Know](https://www.hackerone.com/public-policy/new-york-ai-cybersecurity-guidance)
 - [Azure Cloud Configuration Review](https://www.hackerone.com/penetration-testing/azure-cloud-configuration-review)
