@@ -922,7 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [This Simple GraphQL SSRF Bug Earned Me $3,000 &lpar;3/30 DAYS&rpar;](https://medium.com/@zerodaystories/this-simple-graphql-ssrf-bug-earned-me-3-000-3-30-days-9bd13e2c2f9d?source=rss------bug_bounty_writeup-5)
+- [This Simple GraphQL SSRF Bug Earned  $3,000 &lpar;3/30 DAYS&rpar;](https://medium.com/@zerodaystories/this-simple-graphql-ssrf-bug-earned-me-3-000-3-30-days-9bd13e2c2f9d?source=rss------bug_bounty_writeup-5)
 - [Understanding DNS for Bug Bounty Hunting](https://medium.com/@mastergojo122/understanding-dns-for-bug-bounty-hunting-428ec422aac6?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Journey in 2024](https://medium.com/@suganthankumaralingam/bug-bounty-journey-in-2024-e4f23874f991?source=rss------bug_bounty_writeup-5)
 - [This is a writeup of how can I get critical $$$$ bounty from PII Disclosure - Broken Access](https://medium.com/@0xNayelx/this-is-a-writeup-of-how-can-i-get-critical-bounty-from-pii-disclosure-broken-access-7a113e5dc50c?source=rss------bug_bounty_writeup-5)
