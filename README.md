@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [PDF.js Arbitrary JavaScript Code Execution &lpar;CVE-2024-4367&rpar;](https://infosecwriteups.com/pdf-js-arbitrary-javascript-code-execution-cve-2024-4367-be4a64f877df?source=rss----7b722bfd1b8d---4)
+- [PDF.js Arbitrary JavaScript Code Execution &lpar;CVE-2024-4367&rpar;](https://infosecwriteups.com/pdf-js-arbitrary-javascript-code-execution-cve-2024-4367-be4a64f877df?source=rss------bug_bounty_writeup-5)
 - [Introduction to MITRE ATT&amp;CK: A Beginner’s Guide](https://infosecwriteups.com/introduction-to-mitre-att-ck-a-beginners-guide-36a348b4607d?source=rss----7b722bfd1b8d---4)
 - [️‍♂️My Story of Securing NASA](https://infosecwriteups.com/%EF%B8%8F-%EF%B8%8Fmy-story-of-securing-nasa-1ba0891f6b0e?source=rss----7b722bfd1b8d---4)
 - [LinkVortex Writeup — HackThePetty Solution](https://infosecwriteups.com/linkvortex-writeup-hackthepetty-solution-a5a6ea423d5d?source=rss----7b722bfd1b8d---4)
@@ -933,7 +935,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Shellcode Analysis](https://infosecwriteups.com/shellcode-analysis-498b5e9f85ff?source=rss----7b722bfd1b8d---4)
 - [Could You Be the Next Victim? How to Protect Your Google Account Now](https://infosecwriteups.com/could-you-be-the-next-victim-how-to-protect-your-google-account-now-078279be4e2c?source=rss----7b722bfd1b8d---4)
 - [HTB | Sea — CVE-2023–41425](https://infosecwriteups.com/htb-sea-cve-2023-41425-113db350f1a6?source=rss----7b722bfd1b8d---4)
-- [Hack Like a Pro: Mastering Penetration Testing with Virtual vs Physical Lab Setups](https://infosecwriteups.com/hack-like-a-pro-mastering-penetration-testing-with-virtual-vs-physical-lab-setups-aea14636654d?source=rss----7b722bfd1b8d---4)
 - [Finding Hidden API-Keys &amp; How to Use them](https://medium.com/@sumitcfe/finding-hidden-api-keys-how-to-use-them-9c8a187d922b?source=rss------bug_bounty_writeup-5)
 - [Zendesk Access Token Disclosed in a JavaScript File Allowing Ticket Access](https://medium.com/@aloneh1/zendesk-access-token-disclosed-in-a-javascript-file-allowing-ticket-access-cfc5ba637dde?source=rss------bug_bounty_writeup-5)
 - [This Simple GraphQL SSRF Bug Earned  $3,000 &lpar;3/30 DAYS&rpar;](https://medium.com/@zerodaystories/this-simple-graphql-ssrf-bug-earned-me-3-000-3-30-days-9bd13e2c2f9d?source=rss------bug_bounty_writeup-5)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Bug Bounty Journey in 2024](https://medium.com/@suganthankumaralingam/bug-bounty-journey-in-2024-e4f23874f991?source=rss------bug_bounty_writeup-5)
 - [This is a writeup of how can I get critical $$$$ bounty from PII Disclosure - Broken Access](https://medium.com/@0xNayelx/this-is-a-writeup-of-how-can-i-get-critical-bounty-from-pii-disclosure-broken-access-7a113e5dc50c?source=rss------bug_bounty_writeup-5)
 - [OTP Bypass Leads to $2000 &lpar;2/30 DAYS&rpar;](https://medium.com/@zerodaystories/otp-bypass-leads-to-2000-2-30-days-7845b2580e7e?source=rss------bug_bounty_writeup-5)
-- [How I Discovered an 8.2 Severity bug on hackerone for Account Takeover via HTML Injection](https://medium.com/@ravindrajatav0709/how-i-discovered-an-8-2-severity-bug-on-hackerone-for-account-takeover-via-html-injection-3e5b0ec32cc9?source=rss------bug_bounty_writeup-5)
 - [Breaking Down the OWASP Top 10: Insecure Design](https://www.hackerone.com/community/owasp-top-10-insecure-design)
 - [New York Releases AI Cybersecurity Guidance: What You Need to Know](https://www.hackerone.com/public-policy/new-york-ai-cybersecurity-guidance)
 - [Azure Cloud Configuration Review](https://www.hackerone.com/penetration-testing/azure-cloud-configuration-review)
