@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How I Found an Open AWS S3 Bucket and Used It to Take Over a Subdomain](https://medium.com/@bochamekh21/how-i-found-an-open-aws-s3-bucket-and-used-it-to-take-over-a-subdomain-75736e90c945?source=rss------bug_bounty_writeup-5)
 - [Vulnerability Testing Techniques](https://medium.com/@phirojshah20/vulnerability-testing-techniques-b9498fefd4b3?source=rss------bug_bounty_writeup-5)
 - [Python libraries every Hacker should know](https://infosecwriteups.com/python-libraries-every-hacker-should-know-97fb5dae2efd?source=rss----7b722bfd1b8d---4)
 - [Improper Access Control in APIs Earns $3,900 Bounty&lpar;4/30 DAYS&rpar;](https://medium.com/@zerodaystories/improper-access-control-in-apis-earns-3-900-bounty-4-30-days-5a8668695b84?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Could You Be the Next Victim? How to Protect Your Google Account Now](https://infosecwriteups.com/could-you-be-the-next-victim-how-to-protect-your-google-account-now-078279be4e2c?source=rss----7b722bfd1b8d---4)
 - [Finding Hidden API-Keys &amp; How to Use them](https://medium.com/@sumitcfe/finding-hidden-api-keys-how-to-use-them-9c8a187d922b?source=rss------bug_bounty_writeup-5)
 - [Zendesk Access Token Disclosed in a JavaScript File Allowing Ticket Access](https://medium.com/@aloneh1/zendesk-access-token-disclosed-in-a-javascript-file-allowing-ticket-access-cfc5ba637dde?source=rss------bug_bounty_writeup-5)
-- [This Simple GraphQL SSRF Bug Earned  $3,000 &lpar;3/30 DAYS&rpar;](https://medium.com/@zerodaystories/this-simple-graphql-ssrf-bug-earned-me-3-000-3-30-days-9bd13e2c2f9d?source=rss------bug_bounty_writeup-5)
 - [Breaking Down the OWASP Top 10: Insecure Design](https://www.hackerone.com/community/owasp-top-10-insecure-design)
 - [New York Releases AI Cybersecurity Guidance: What You Need to Know](https://www.hackerone.com/public-policy/new-york-ai-cybersecurity-guidance)
 - [Azure Cloud Configuration Review](https://www.hackerone.com/penetration-testing/azure-cloud-configuration-review)
