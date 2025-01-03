@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Python libraries every Hacker should know](https://infosecwriteups.com/python-libraries-every-hacker-should-know-97fb5dae2efd?source=rss----7b722bfd1b8d---4)
 - [Improper Access Control in APIs Earns $3,900 Bounty&lpar;4/30 DAYS&rpar;](https://medium.com/@zerodaystories/improper-access-control-in-apis-earns-3-900-bounty-4-30-days-5a8668695b84?source=rss------bug_bounty_writeup-5)
 - [How to Start Penetration Testing: Tools, Techniques, and Tips.](https://cybersaurabh.medium.com/how-to-start-penetration-testing-tools-techniques-and-tips-bfbf09a0130a?source=rss------bug_bounty_writeup-5)
 - [My First RCE Vulnerability](https://medium.com/@RekoJR/my-first-rce-vulnerability-636cdc9f2dab?source=rss------bug_bounty_writeup-5)
@@ -16,7 +17,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Finding Vulnerable Hosts with LeakIX](https://medium.com/@sumitcfe/finding-vulnerable-hosts-with-leakix-8b0918bd83c6?source=rss------bug_bounty_writeup-5)
 - [Shellcode Analysis](https://infosecwriteups.com/shellcode-analysis-498b5e9f85ff?source=rss----7b722bfd1b8d---4)
 - [Could You Be the Next Victim? How to Protect Your Google Account Now](https://infosecwriteups.com/could-you-be-the-next-victim-how-to-protect-your-google-account-now-078279be4e2c?source=rss----7b722bfd1b8d---4)
-- [HTB | Sea — CVE-2023–41425](https://infosecwriteups.com/htb-sea-cve-2023-41425-113db350f1a6?source=rss----7b722bfd1b8d---4)
 - [Finding Hidden API-Keys &amp; How to Use them](https://medium.com/@sumitcfe/finding-hidden-api-keys-how-to-use-them-9c8a187d922b?source=rss------bug_bounty_writeup-5)
 - [Zendesk Access Token Disclosed in a JavaScript File Allowing Ticket Access](https://medium.com/@aloneh1/zendesk-access-token-disclosed-in-a-javascript-file-allowing-ticket-access-cfc5ba637dde?source=rss------bug_bounty_writeup-5)
 - [This Simple GraphQL SSRF Bug Earned  $3,000 &lpar;3/30 DAYS&rpar;](https://medium.com/@zerodaystories/this-simple-graphql-ssrf-bug-earned-me-3-000-3-30-days-9bd13e2c2f9d?source=rss------bug_bounty_writeup-5)
