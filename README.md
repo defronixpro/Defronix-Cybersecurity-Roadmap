@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Bug Bounty Methodology Version 2025](https://medium.com/@techinsights5/bug-bounty-methodology-version-2025-4cb701838658?source=rss------bug_bounty_writeup-5)
 - [Finding Vulnerable Hosts with LeakIX](https://medium.com/@sumitcfe/finding-vulnerable-hosts-with-leakix-8b0918bd83c6?source=rss------bug_bounty_writeup-5)
 - [Shellcode Analysis](https://infosecwriteups.com/shellcode-analysis-498b5e9f85ff?source=rss----7b722bfd1b8d---4)
 - [Could You Be the Next Victim? How to Protect Your Google Account Now](https://infosecwriteups.com/could-you-be-the-next-victim-how-to-protect-your-google-account-now-078279be4e2c?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [This is a writeup of how can I get critical $$$$ bounty from PII Disclosure - Broken Access](https://medium.com/@0xNayelx/this-is-a-writeup-of-how-can-i-get-critical-bounty-from-pii-disclosure-broken-access-7a113e5dc50c?source=rss------bug_bounty_writeup-5)
 - [OTP Bypass Leads to $2000 &lpar;2/30 DAYS&rpar;](https://medium.com/@zerodaystories/otp-bypass-leads-to-2000-2-30-days-7845b2580e7e?source=rss------bug_bounty_writeup-5)
 - [How I Discovered an 8.2 Severity bug on hackerone for Account Takeover via HTML Injection](https://medium.com/@ravindrajatav0709/how-i-discovered-an-8-2-severity-bug-on-hackerone-for-account-takeover-via-html-injection-3e5b0ec32cc9?source=rss------bug_bounty_writeup-5)
-- [My First Year in Bug Bounty Hunting](https://0xshuvo.medium.com/my-first-year-in-bug-bounty-hunting-2b5c2cb9c205?source=rss------bug_bounty_writeup-5)
 - [Breaking Down the OWASP Top 10: Insecure Design](https://www.hackerone.com/community/owasp-top-10-insecure-design)
 - [New York Releases AI Cybersecurity Guidance: What You Need to Know](https://www.hackerone.com/public-policy/new-york-ai-cybersecurity-guidance)
 - [Azure Cloud Configuration Review](https://www.hackerone.com/penetration-testing/azure-cloud-configuration-review)
