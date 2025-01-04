@@ -1,7 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
-- [How I Found a P1 Vulnerability Using Google Dork](https://h0x1d.medium.com/how-i-found-a-p1-vulnerability-using-google-dork-33ac0250df89?source=rss------bug_bounty_writeup-5)
+- [How I Found P1 Vulnerability Using Google Dork](https://h0x1d.medium.com/how-i-found-a-p1-vulnerability-using-google-dork-33ac0250df89?source=rss------bug_bounty_writeup-5)
 - [How I Discovered an Email Disclosure Vulnerability](https://infosecwriteups.com/how-i-discovered-an-email-disclosure-vulnerability-bf798d3f3228?source=rss------bug_bounty_writeup-5)
 - [Windows Active Directory Hacking Lab Setup — Part 1, Domain Controller](https://infosecwriteups.com/windows-active-directory-hacking-lab-setup-part-1-domain-controller-cdd7f24ad259?source=rss----7b722bfd1b8d---4)
 - [P4 Bugs and POC | Part 1](https://infosecwriteups.com/p4-bugs-and-poc-part-1-0dab3517bbe9?source=rss----7b722bfd1b8d---4)
