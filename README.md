@@ -922,6 +922,11 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Windows Active Directory Hacking Lab Setup — Part 1, Domain Controller](https://infosecwriteups.com/windows-active-directory-hacking-lab-setup-part-1-domain-controller-cdd7f24ad259?source=rss----7b722bfd1b8d---4)
+- [P4 Bugs and POC | Part 1](https://infosecwriteups.com/p4-bugs-and-poc-part-1-0dab3517bbe9?source=rss----7b722bfd1b8d---4)
+- [P4 Bugs and PoC | Part 2](https://infosecwriteups.com/p4-bugs-and-poc-part-2-0842039eddf3?source=rss----7b722bfd1b8d---4)
+- [P4 Bugs and PoC | Part 3](https://infosecwriteups.com/p4-bugs-and-poc-part-3-8ca9776c87bc?source=rss----7b722bfd1b8d---4)
+- [Mastering cURL: A Comprehensive Guide](https://infosecwriteups.com/mastering-curl-a-comprehensive-guide-5ef8f8e176b5?source=rss----7b722bfd1b8d---4)
 - [How I Found an Open AWS S3 Bucket and Used It to Take Over a Subdomain](https://medium.com/@bochamekh21/how-i-found-an-open-aws-s3-bucket-and-used-it-to-take-over-a-subdomain-75736e90c945?source=rss------bug_bounty_writeup-5)
 - [Vulnerability Testing Techniques](https://medium.com/@phirojshah20/vulnerability-testing-techniques-b9498fefd4b3?source=rss------bug_bounty_writeup-5)
 - [Python libraries every Hacker should know](https://infosecwriteups.com/python-libraries-every-hacker-should-know-97fb5dae2efd?source=rss----7b722bfd1b8d---4)
@@ -933,13 +938,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Introduction to MITRE ATT&amp;CK: A Beginner’s Guide](https://infosecwriteups.com/introduction-to-mitre-att-ck-a-beginners-guide-36a348b4607d?source=rss----7b722bfd1b8d---4)
 - [️‍♂️My Story of Securing NASA](https://infosecwriteups.com/%EF%B8%8F-%EF%B8%8Fmy-story-of-securing-nasa-1ba0891f6b0e?source=rss----7b722bfd1b8d---4)
 - [LinkVortex Writeup — HackThePetty Solution](https://infosecwriteups.com/linkvortex-writeup-hackthepetty-solution-a5a6ea423d5d?source=rss----7b722bfd1b8d---4)
-- [Alert HTB Machine Writeup — HackThePetty](https://infosecwriteups.com/alert-htb-machine-writeup-hackthepetty-a2de657d786d?source=rss----7b722bfd1b8d---4)
-- [UnDerPass Writeup— HackThePetti Solution](https://infosecwriteups.com/underpass-writeup-hackthepetti-solution-a08c7ee51c83?source=rss----7b722bfd1b8d---4)
-- [Azure ApplicationSecurity Series — Part8 — Abuse Of Managed Identities -](https://infosecwriteups.com/azure-applicationsecurity-series-part8-abuse-of-managed-identities-e5ef7a76671d?source=rss----7b722bfd1b8d---4)
 - [Bug Bounty Methodology Version 2025](https://medium.com/@techinsights5/bug-bounty-methodology-version-2025-4cb701838658?source=rss------bug_bounty_writeup-5)
 - [Finding Vulnerable Hosts with LeakIX](https://medium.com/@sumitcfe/finding-vulnerable-hosts-with-leakix-8b0918bd83c6?source=rss------bug_bounty_writeup-5)
-- [Shellcode Analysis](https://infosecwriteups.com/shellcode-analysis-498b5e9f85ff?source=rss----7b722bfd1b8d---4)
-- [Could You Be the Next Victim? How to Protect Your Google Account Now](https://infosecwriteups.com/could-you-be-the-next-victim-how-to-protect-your-google-account-now-078279be4e2c?source=rss----7b722bfd1b8d---4)
 - [Finding Hidden API-Keys &amp; How to Use them](https://medium.com/@sumitcfe/finding-hidden-api-keys-how-to-use-them-9c8a187d922b?source=rss------bug_bounty_writeup-5)
 - [Zendesk Access Token Disclosed in a JavaScript File Allowing Ticket Access](https://medium.com/@aloneh1/zendesk-access-token-disclosed-in-a-javascript-file-allowing-ticket-access-cfc5ba637dde?source=rss------bug_bounty_writeup-5)
 - [Breaking Down the OWASP Top 10: Insecure Design](https://www.hackerone.com/community/owasp-top-10-insecure-design)
