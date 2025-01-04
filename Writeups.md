@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How I Discovered an Email Disclosure Vulnerability](https://infosecwriteups.com/how-i-discovered-an-email-disclosure-vulnerability-bf798d3f3228?source=rss------bug_bounty_writeup-5)
 - [Windows Active Directory Hacking Lab Setup — Part 1, Domain Controller](https://infosecwriteups.com/windows-active-directory-hacking-lab-setup-part-1-domain-controller-cdd7f24ad259?source=rss----7b722bfd1b8d---4)
 - [P4 Bugs and POC | Part 1](https://infosecwriteups.com/p4-bugs-and-poc-part-1-0dab3517bbe9?source=rss----7b722bfd1b8d---4)
 - [P4 Bugs and PoC | Part 2](https://infosecwriteups.com/p4-bugs-and-poc-part-2-0842039eddf3?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Bug Bounty Methodology Version 2025](https://medium.com/@techinsights5/bug-bounty-methodology-version-2025-4cb701838658?source=rss------bug_bounty_writeup-5)
 - [Finding Vulnerable Hosts with LeakIX](https://medium.com/@sumitcfe/finding-vulnerable-hosts-with-leakix-8b0918bd83c6?source=rss------bug_bounty_writeup-5)
 - [Finding Hidden API-Keys &amp; How to Use them](https://medium.com/@sumitcfe/finding-hidden-api-keys-how-to-use-them-9c8a187d922b?source=rss------bug_bounty_writeup-5)
-- [Zendesk Access Token Disclosed in a JavaScript File Allowing Ticket Access](https://medium.com/@aloneh1/zendesk-access-token-disclosed-in-a-javascript-file-allowing-ticket-access-cfc5ba637dde?source=rss------bug_bounty_writeup-5)
 - [Breaking Down the OWASP Top 10: Insecure Design](https://www.hackerone.com/community/owasp-top-10-insecure-design)
 - [New York Releases AI Cybersecurity Guidance: What You Need to Know](https://www.hackerone.com/public-policy/new-york-ai-cybersecurity-guidance)
 - [Azure Cloud Configuration Review](https://www.hackerone.com/penetration-testing/azure-cloud-configuration-review)
