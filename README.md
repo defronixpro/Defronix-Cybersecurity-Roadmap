@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I Found a P1 Vulnerability Using Google Dork](https://h0x1d.medium.com/how-i-found-a-p1-vulnerability-using-google-dork-33ac0250df89?source=rss------bug_bounty_writeup-5)
 - [How I Discovered an Email Disclosure Vulnerability](https://infosecwriteups.com/how-i-discovered-an-email-disclosure-vulnerability-bf798d3f3228?source=rss------bug_bounty_writeup-5)
 - [Windows Active Directory Hacking Lab Setup — Part 1, Domain Controller](https://infosecwriteups.com/windows-active-directory-hacking-lab-setup-part-1-domain-controller-cdd7f24ad259?source=rss----7b722bfd1b8d---4)
 - [P4 Bugs and POC | Part 1](https://infosecwriteups.com/p4-bugs-and-poc-part-1-0dab3517bbe9?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [LinkVortex Writeup — HackThePetty Solution](https://infosecwriteups.com/linkvortex-writeup-hackthepetty-solution-a5a6ea423d5d?source=rss----7b722bfd1b8d---4)
 - [Bug Bounty Methodology Version 2025](https://medium.com/@techinsights5/bug-bounty-methodology-version-2025-4cb701838658?source=rss------bug_bounty_writeup-5)
 - [Finding Vulnerable Hosts with LeakIX](https://medium.com/@sumitcfe/finding-vulnerable-hosts-with-leakix-8b0918bd83c6?source=rss------bug_bounty_writeup-5)
-- [Finding Hidden API-Keys &amp; How to Use them](https://medium.com/@sumitcfe/finding-hidden-api-keys-how-to-use-them-9c8a187d922b?source=rss------bug_bounty_writeup-5)
 - [Breaking Down the OWASP Top 10: Insecure Design](https://www.hackerone.com/community/owasp-top-10-insecure-design)
 - [New York Releases AI Cybersecurity Guidance: What You Need to Know](https://www.hackerone.com/public-policy/new-york-ai-cybersecurity-guidance)
 - [Azure Cloud Configuration Review](https://www.hackerone.com/penetration-testing/azure-cloud-configuration-review)
