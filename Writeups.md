@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [जयपुर शहर](https://medium.com/@RD_CHOUDHARY07/%E0%A4%9C%E0%A4%AF%E0%A4%AA%E0%A5%81%E0%A4%B0-%E0%A4%B6%E0%A4%B9%E0%A4%B0-a3f60b945d60?source=rss------bug_bounty_writeup-5)
 - [BugBounty — Mastering the Basics &lpar;along with Resources&rpar;[Part-1]](https://infosecwriteups.com/bugbounty-mastering-the-basics-along-with-resources-part-1-47d30eb3d19a?source=rss----7b722bfd1b8d---4)
 - [Nonyx — Blue Team Labs Online Write-up](https://infosecwriteups.com/nonyx-blue-team-labs-online-write-up-83882df45b05?source=rss----7b722bfd1b8d---4)
 - [How I Discovered an Email Disclosure Vulnerability](https://infosecwriteups.com/how-i-discovered-an-email-disclosure-vulnerability-bf798d3f3228?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How to Start Penetration Testing: Tools, Techniques, and Tips.](https://cybersaurabh.medium.com/how-to-start-penetration-testing-tools-techniques-and-tips-bfbf09a0130a?source=rss------bug_bounty_writeup-5)
 - [My First RCE Vulnerability](https://medium.com/@RekoJR/my-first-rce-vulnerability-636cdc9f2dab?source=rss------bug_bounty_writeup-5)
 - [PDF.js Arbitrary JavaScript Code Execution &lpar;CVE-2024-4367&rpar;](https://infosecwriteups.com/pdf-js-arbitrary-javascript-code-execution-cve-2024-4367-be4a64f877df?source=rss------bug_bounty_writeup-5)
-- [Bug Bounty Methodology Version 2025](https://medium.com/@techinsights5/bug-bounty-methodology-version-2025-4cb701838658?source=rss------bug_bounty_writeup-5)
 - [Breaking Down the OWASP Top 10: Insecure Design](https://www.hackerone.com/community/owasp-top-10-insecure-design)
 - [New York Releases AI Cybersecurity Guidance: What You Need to Know](https://www.hackerone.com/public-policy/new-york-ai-cybersecurity-guidance)
 - [Azure Cloud Configuration Review](https://www.hackerone.com/penetration-testing/azure-cloud-configuration-review)
