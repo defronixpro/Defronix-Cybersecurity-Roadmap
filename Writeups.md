@@ -1,6 +1,16 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Apple’s AI Photo Analysis: A Revolutionary Feature or Privacy Nightmare?](https://infosecwriteups.com/apples-ai-photo-analysis-a-revolutionary-feature-or-privacy-nightmare-21b80465d4dc?source=rss----7b722bfd1b8d---4)
+- [Haunted — Blue Team Labs Online Write-up](https://infosecwriteups.com/haunted-blue-team-labs-online-write-up-00eb3fb9fd77?source=rss----7b722bfd1b8d---4)
+- [How to install and configure IBM Qradar](https://infosecwriteups.com/how-to-install-and-configure-ibm-qradar-a66769a4bc1f?source=rss----7b722bfd1b8d---4)
+- [How to Send Windows Logs to IBM QRadar Using WinCollect](https://infosecwriteups.com/how-to-send-windows-logs-to-ibm-qradar-using-wincollect-20e42ce7e861?source=rss----7b722bfd1b8d---4)
+- [Frontrunning Vulnerability: What It Is, How to Exploit, Prevent, and Mitigate It](https://infosecwriteups.com/frontrunning-vulnerability-what-it-is-how-to-exploit-prevent-and-mitigate-it-19149db077bd?source=rss----7b722bfd1b8d---4)
+- [SOC326 — Impersonating Domain MX Record Change Detected](https://infosecwriteups.com/soc326-impersonating-domain-mx-record-change-detected-bdce590aef48?source=rss----7b722bfd1b8d---4)
+- [Sightless MachineWriteup — HackThePetty](https://infosecwriteups.com/sightless-machinewriteup-hackthepetty-e4fd7b148693?source=rss----7b722bfd1b8d---4)
+- [Part 1: Intro to the SOC Automation Project setup](https://infosecwriteups.com/part-1-intro-to-the-soc-automation-project-setup-ece0a1de93cd?source=rss----7b722bfd1b8d---4)
+- [Part 2: Configuring TheHive and Wazuh, Attack emulations with ART](https://infosecwriteups.com/part-2-configuring-thehive-and-wazuh-e8e74bbafcba?source=rss----7b722bfd1b8d---4)
+- [Final Part: Automation with Shuffle SOAR](https://infosecwriteups.com/final-part-configuring-shuffle-soar-28e3674ede22?source=rss----7b722bfd1b8d---4)
 - [Breaking Down the OWASP Top 10: Insecure Design](https://www.hackerone.com/community/owasp-top-10-insecure-design)
 - [New York Releases AI Cybersecurity Guidance: What You Need to Know](https://www.hackerone.com/public-policy/new-york-ai-cybersecurity-guidance)
 - [Azure Cloud Configuration Review](https://www.hackerone.com/penetration-testing/azure-cloud-configuration-review)
