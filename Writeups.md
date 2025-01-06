@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Apple’s AI Photo Analysis: A Revolutionary Feature or Privacy Nightmare?](https://infosecwriteups.com/apples-ai-photo-analysis-a-revolutionary-feature-or-privacy-nightmare-21b80465d4dc?source=rss----7b722bfd1b8d---4)
 - [How I Was Able to Block Any Username](https://infosecwriteups.com/how-i-was-able-to-block-any-username-5707a1fbd25c?source=rss------bug_bounty_writeup-5)
 - [Haunted — Blue Team Labs Online Write-up](https://infosecwriteups.com/haunted-blue-team-labs-online-write-up-00eb3fb9fd77?source=rss----7b722bfd1b8d---4)
 - [How to install and configure IBM Qradar](https://infosecwriteups.com/how-to-install-and-configure-ibm-qradar-a66769a4bc1f?source=rss----7b722bfd1b8d---4)
@@ -11,7 +12,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Part 1: Intro to the SOC Automation Project setup](https://infosecwriteups.com/part-1-intro-to-the-soc-automation-project-setup-ece0a1de93cd?source=rss----7b722bfd1b8d---4)
 - [Part 2: Configuring TheHive and Wazuh, Attack emulations with ART](https://infosecwriteups.com/part-2-configuring-thehive-and-wazuh-e8e74bbafcba?source=rss----7b722bfd1b8d---4)
 - [Final Part: Automation with Shuffle SOAR](https://infosecwriteups.com/final-part-configuring-shuffle-soar-28e3674ede22?source=rss----7b722bfd1b8d---4)
-- [Facebook Text Injection Vulnerability: A Creative Approach | Bug Bounty](https://infosecwriteups.com/facebook-text-injection-vulnerability-a-creative-approach-bug-bounty-048076ad35ea?source=rss----7b722bfd1b8d---4)
 - [How I Found PII at NASA Using Google Dorking](https://medium.com/@salaheddine_kalada/how-i-found-pii-at-nasa-using-google-dorking-6447a89decc7?source=rss------bug_bounty_writeup-5)
 - [Day 30of 30 Day — 30 Vulnerabilities | Cross-Site Request Forgery &lpar;CSRF&rpar;](https://it4chis3c.medium.com/day-30of-30-day-30-vulnerabilities-cross-site-request-forgery-csrf-49a11b1e1616?source=rss------bug_bounty_writeup-5)
 - [Day 29 of 30 Day — 30 Vulnerabilities | Remote Code Execution &lpar;RCE&rpar;](https://it4chis3c.medium.com/day-29-of-30-day-30-vulnerabilities-remote-code-execution-rce-f5688f4dce30?source=rss------bug_bounty_writeup-5)
