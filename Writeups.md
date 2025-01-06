@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Day 26 of 30 Day — 30 Vulnerabilities | Race Conditions](https://it4chis3c.medium.com/day-26-of-30-day-30-vulnerabilities-race-conditions-32d56d4da56e?source=rss------bug_bounty_writeup-5)
 - [Critical Logic issue Lead To bypass file upload filtering](https://hamzadzworm.medium.com/critical-logic-issue-lead-to-bypass-file-upload-filtering-363ed57f8668?source=rss------bug_bounty_writeup-5)
 - [Discovering SQLi Vulnerabilities Through Deeper Analysis](https://medium.com/@erkankavas/discovering-sqli-vulnerabilities-through-deeper-analysis-4e305dfbc181?source=rss------bug_bounty_writeup-5)
 - [Easy P4: Cloudflare Bypass, Origin IP Found &lpar;Part 1&rpar;](https://sudosuraj.medium.com/easy-p4-cloudflare-bypass-origin-ip-found-part-1-685d27e73dd0?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How I Discovered an Email Disclosure Vulnerability](https://infosecwriteups.com/how-i-discovered-an-email-disclosure-vulnerability-bf798d3f3228?source=rss------bug_bounty_writeup-5)
 - [How I Found an Open AWS S3 Bucket and Used It to Take Over a Subdomain](https://medium.com/@bochamekh21/how-i-found-an-open-aws-s3-bucket-and-used-it-to-take-over-a-subdomain-75736e90c945?source=rss------bug_bounty_writeup-5)
 - [Vulnerability Testing Techniques](https://medium.com/@phirojshah20/vulnerability-testing-techniques-b9498fefd4b3?source=rss------bug_bounty_writeup-5)
-- [Improper Access Control in APIs Earns $3,900 Bounty&lpar;4/30 DAYS&rpar;](https://medium.com/@zerodaystories/improper-access-control-in-apis-earns-3-900-bounty-4-30-days-5a8668695b84?source=rss------bug_bounty_writeup-5)
 - [Breaking Down the OWASP Top 10: Insecure Design](https://www.hackerone.com/community/owasp-top-10-insecure-design)
 - [New York Releases AI Cybersecurity Guidance: What You Need to Know](https://www.hackerone.com/public-policy/new-york-ai-cybersecurity-guidance)
 - [Azure Cloud Configuration Review](https://www.hackerone.com/penetration-testing/azure-cloud-configuration-review)
