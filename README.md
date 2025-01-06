@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Critical Logic issue Lead To bypass file upload filtering](https://hamzadzworm.medium.com/critical-logic-issue-lead-to-bypass-file-upload-filtering-363ed57f8668?source=rss------bug_bounty_writeup-5)
 - [Discovering SQLi Vulnerabilities Through Deeper Analysis](https://medium.com/@erkankavas/discovering-sqli-vulnerabilities-through-deeper-analysis-4e305dfbc181?source=rss------bug_bounty_writeup-5)
 - [Easy P4: Cloudflare Bypass, Origin IP Found &lpar;Part 1&rpar;](https://sudosuraj.medium.com/easy-p4-cloudflare-bypass-origin-ip-found-part-1-685d27e73dd0?source=rss------bug_bounty_writeup-5)
 - [जयपुर शहर](https://medium.com/@RD_CHOUDHARY07/%E0%A4%9C%E0%A4%AF%E0%A4%AA%E0%A5%81%E0%A4%B0-%E0%A4%B6%E0%A4%B9%E0%A4%B0-a3f60b945d60?source=rss------bug_bounty_writeup-5)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How I Found an Open AWS S3 Bucket and Used It to Take Over a Subdomain](https://medium.com/@bochamekh21/how-i-found-an-open-aws-s3-bucket-and-used-it-to-take-over-a-subdomain-75736e90c945?source=rss------bug_bounty_writeup-5)
 - [Vulnerability Testing Techniques](https://medium.com/@phirojshah20/vulnerability-testing-techniques-b9498fefd4b3?source=rss------bug_bounty_writeup-5)
 - [Improper Access Control in APIs Earns $3,900 Bounty&lpar;4/30 DAYS&rpar;](https://medium.com/@zerodaystories/improper-access-control-in-apis-earns-3-900-bounty-4-30-days-5a8668695b84?source=rss------bug_bounty_writeup-5)
-- [How to Start Penetration Testing: Tools, Techniques, and Tips.](https://cybersaurabh.medium.com/how-to-start-penetration-testing-tools-techniques-and-tips-bfbf09a0130a?source=rss------bug_bounty_writeup-5)
 - [Breaking Down the OWASP Top 10: Insecure Design](https://www.hackerone.com/community/owasp-top-10-insecure-design)
 - [New York Releases AI Cybersecurity Guidance: What You Need to Know](https://www.hackerone.com/public-policy/new-york-ai-cybersecurity-guidance)
 - [Azure Cloud Configuration Review](https://www.hackerone.com/penetration-testing/azure-cloud-configuration-review)
