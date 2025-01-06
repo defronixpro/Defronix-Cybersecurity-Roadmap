@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Introduction to My Bug Bounty Hunting Series](https://it4chis3c.medium.com/introduction-to-my-bug-bounty-hunting-series-79a68dcb07a6?source=rss------bug_bounty_writeup-5)
 - [Comprehensive Command and Control Tools for Red Teaming Operations](https://saconychukwu.medium.com/comprehensive-command-and-control-tools-for-red-teaming-operations-23e458d830c0?source=rss------bug_bounty_writeup-5)
 - [Advanced C# Offensive Frameworks for Red Team Operations](https://saconychukwu.medium.com/advanced-c-offensive-frameworks-for-red-team-operations-a001cac7e10f?source=rss------bug_bounty_writeup-5)
 - [Apple’s AI Photo Analysis: A Revolutionary Feature or Privacy Nightmare?](https://infosecwriteups.com/apples-ai-photo-analysis-a-revolutionary-feature-or-privacy-nightmare-21b80465d4dc?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Day 27 of 30 Day — 30 Vulnerabilities | Server-Side Template Injection &lpar;SSTI&rpar;](https://it4chis3c.medium.com/day-27-of-30-day-30-vulnerabilities-server-side-template-injection-ssti-12f933587800?source=rss------bug_bounty_writeup-5)
 - [Day 26 of 30 Day — 30 Vulnerabilities | Race Conditions](https://it4chis3c.medium.com/day-26-of-30-day-30-vulnerabilities-race-conditions-32d56d4da56e?source=rss------bug_bounty_writeup-5)
 - [Critical Logic issue Lead To bypass file upload filtering](https://hamzadzworm.medium.com/critical-logic-issue-lead-to-bypass-file-upload-filtering-363ed57f8668?source=rss------bug_bounty_writeup-5)
-- [Discovering SQLi Vulnerabilities Through Deeper Analysis](https://medium.com/@erkankavas/discovering-sqli-vulnerabilities-through-deeper-analysis-4e305dfbc181?source=rss------bug_bounty_writeup-5)
 - [Breaking Down the OWASP Top 10: Insecure Design](https://www.hackerone.com/community/owasp-top-10-insecure-design)
 - [New York Releases AI Cybersecurity Guidance: What You Need to Know](https://www.hackerone.com/public-policy/new-york-ai-cybersecurity-guidance)
 - [Azure Cloud Configuration Review](https://www.hackerone.com/penetration-testing/azure-cloud-configuration-review)
