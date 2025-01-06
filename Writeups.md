@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Day 0 — 05 : M y Bug Bounty Challenge 0–100k without knowledge in one year!](https://medium.com/@dogxxx10/day-0-05-m-y-bug-bounty-challenge-0-100k-without-knowledge-in-one-year-94f090fdf54a?source=rss------bug_bounty_writeup-5)
 - [How I Found My First Bug](https://medium.com/@dibyaranjanmohanta2806/i-found-my-first-bug-52e20e37b429?source=rss------bug_bounty_writeup-5)
 - [How IBM Helped Me Get Private Invites on Hacker1](https://medium.com/@oxab/how-ibm-helped-me-get-private-invites-on-hacker1-ffbe3c1b26d3?source=rss------bug_bounty_writeup-5)
 - [Introduction to My Bug Bounty Hunting Series](https://it4chis3c.medium.com/introduction-to-my-bug-bounty-hunting-series-79a68dcb07a6?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How I Found PII at NASA Using Google Dorking](https://medium.com/@salaheddine_kalada/how-i-found-pii-at-nasa-using-google-dorking-6447a89decc7?source=rss------bug_bounty_writeup-5)
 - [Day 30of 30 Day — 30 Vulnerabilities | Cross-Site Request Forgery &lpar;CSRF&rpar;](https://it4chis3c.medium.com/day-30of-30-day-30-vulnerabilities-cross-site-request-forgery-csrf-49a11b1e1616?source=rss------bug_bounty_writeup-5)
 - [Day 29 of 30 Day — 30 Vulnerabilities | Remote Code Execution &lpar;RCE&rpar;](https://it4chis3c.medium.com/day-29-of-30-day-30-vulnerabilities-remote-code-execution-rce-f5688f4dce30?source=rss------bug_bounty_writeup-5)
-- [Day 27 of 30 Day — 30 Vulnerabilities | Server-Side Template Injection &lpar;SSTI&rpar;](https://it4chis3c.medium.com/day-27-of-30-day-30-vulnerabilities-server-side-template-injection-ssti-12f933587800?source=rss------bug_bounty_writeup-5)
 - [The OWASP Top 10 for LLMs 2025: How GenAI Risks Are Evolving](https://www.hackerone.com/ai/owasp-top-10-llms-2025)
 - [Breaking Down the OWASP Top 10: Insecure Design](https://www.hackerone.com/community/owasp-top-10-insecure-design)
 - [New York Releases AI Cybersecurity Guidance: What You Need to Know](https://www.hackerone.com/public-policy/new-york-ai-cybersecurity-guidance)
