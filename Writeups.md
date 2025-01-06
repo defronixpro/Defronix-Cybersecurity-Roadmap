@@ -1,6 +1,8 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Comprehensive Command and Control Tools for Red Teaming Operations](https://saconychukwu.medium.com/comprehensive-command-and-control-tools-for-red-teaming-operations-23e458d830c0?source=rss------bug_bounty_writeup-5)
+- [Advanced C# Offensive Frameworks for Red Team Operations](https://saconychukwu.medium.com/advanced-c-offensive-frameworks-for-red-team-operations-a001cac7e10f?source=rss------bug_bounty_writeup-5)
 - [Apple’s AI Photo Analysis: A Revolutionary Feature or Privacy Nightmare?](https://infosecwriteups.com/apples-ai-photo-analysis-a-revolutionary-feature-or-privacy-nightmare-21b80465d4dc?source=rss----7b722bfd1b8d---4)
 - [How I Was Able to Block Any Username](https://infosecwriteups.com/how-i-was-able-to-block-any-username-5707a1fbd25c?source=rss------bug_bounty_writeup-5)
 - [Haunted — Blue Team Labs Online Write-up](https://infosecwriteups.com/haunted-blue-team-labs-online-write-up-00eb3fb9fd77?source=rss----7b722bfd1b8d---4)
@@ -19,8 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Day 26 of 30 Day — 30 Vulnerabilities | Race Conditions](https://it4chis3c.medium.com/day-26-of-30-day-30-vulnerabilities-race-conditions-32d56d4da56e?source=rss------bug_bounty_writeup-5)
 - [Critical Logic issue Lead To bypass file upload filtering](https://hamzadzworm.medium.com/critical-logic-issue-lead-to-bypass-file-upload-filtering-363ed57f8668?source=rss------bug_bounty_writeup-5)
 - [Discovering SQLi Vulnerabilities Through Deeper Analysis](https://medium.com/@erkankavas/discovering-sqli-vulnerabilities-through-deeper-analysis-4e305dfbc181?source=rss------bug_bounty_writeup-5)
-- [Easy P4: Cloudflare Bypass, Origin IP Found &lpar;Part 1&rpar;](https://sudosuraj.medium.com/easy-p4-cloudflare-bypass-origin-ip-found-part-1-685d27e73dd0?source=rss------bug_bounty_writeup-5)
-- [जयपुर शहर](https://medium.com/@RD_CHOUDHARY07/%E0%A4%9C%E0%A4%AF%E0%A4%AA%E0%A5%81%E0%A4%B0-%E0%A4%B6%E0%A4%B9%E0%A4%B0-a3f60b945d60?source=rss------bug_bounty_writeup-5)
 - [Breaking Down the OWASP Top 10: Insecure Design](https://www.hackerone.com/community/owasp-top-10-insecure-design)
 - [New York Releases AI Cybersecurity Guidance: What You Need to Know](https://www.hackerone.com/public-policy/new-york-ai-cybersecurity-guidance)
 - [Azure Cloud Configuration Review](https://www.hackerone.com/penetration-testing/azure-cloud-configuration-review)
