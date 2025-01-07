@@ -922,7 +922,15 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Web Application Penetration Testing Checklist](https://saconychukwu.medium.com/web-application-penetration-testing-checklist-3da7d3be8f1a?source=rss------bug_bounty_writeup-5)
+- [Day 0 — 05 : M y Bug Bounty Challenge 0–100k without knowledge in one year!](https://medium.com/@dogxxx10/day-0-05-m-y-bug-bounty-challenge-0-100k-without-knowledge-in-one-year-94f090fdf54a?source=rss------bug_bounty_writeup-5)
+- [How I Found My First Bug](https://medium.com/@dibyaranjanmohanta2806/i-found-my-first-bug-52e20e37b429?source=rss------bug_bounty_writeup-5)
+- [How IBM Helped Me Get Private Invites on Hacker1](https://medium.com/@oxab/how-ibm-helped-me-get-private-invites-on-hacker1-ffbe3c1b26d3?source=rss------bug_bounty_writeup-5)
+- [Introduction to My Bug Bounty Hunting Series](https://it4chis3c.medium.com/introduction-to-my-bug-bounty-hunting-series-79a68dcb07a6?source=rss------bug_bounty_writeup-5)
+- [Comprehensive Command and Control Tools for Red Teaming Operations](https://saconychukwu.medium.com/comprehensive-command-and-control-tools-for-red-teaming-operations-23e458d830c0?source=rss------bug_bounty_writeup-5)
+- [Advanced C# Offensive Frameworks for Red Team Operations](https://saconychukwu.medium.com/advanced-c-offensive-frameworks-for-red-team-operations-a001cac7e10f?source=rss------bug_bounty_writeup-5)
 - [Apple’s AI Photo Analysis: A Revolutionary Feature or Privacy Nightmare?](https://infosecwriteups.com/apples-ai-photo-analysis-a-revolutionary-feature-or-privacy-nightmare-21b80465d4dc?source=rss----7b722bfd1b8d---4)
+- [How I Was Able to Block Any Username](https://infosecwriteups.com/how-i-was-able-to-block-any-username-5707a1fbd25c?source=rss------bug_bounty_writeup-5)
 - [Haunted — Blue Team Labs Online Write-up](https://infosecwriteups.com/haunted-blue-team-labs-online-write-up-00eb3fb9fd77?source=rss----7b722bfd1b8d---4)
 - [How to install and configure IBM Qradar](https://infosecwriteups.com/how-to-install-and-configure-ibm-qradar-a66769a4bc1f?source=rss----7b722bfd1b8d---4)
 - [How to Send Windows Logs to IBM QRadar Using WinCollect](https://infosecwriteups.com/how-to-send-windows-logs-to-ibm-qradar-using-wincollect-20e42ce7e861?source=rss----7b722bfd1b8d---4)
@@ -932,6 +940,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Part 1: Intro to the SOC Automation Project setup](https://infosecwriteups.com/part-1-intro-to-the-soc-automation-project-setup-ece0a1de93cd?source=rss----7b722bfd1b8d---4)
 - [Part 2: Configuring TheHive and Wazuh, Attack emulations with ART](https://infosecwriteups.com/part-2-configuring-thehive-and-wazuh-e8e74bbafcba?source=rss----7b722bfd1b8d---4)
 - [Final Part: Automation with Shuffle SOAR](https://infosecwriteups.com/final-part-configuring-shuffle-soar-28e3674ede22?source=rss----7b722bfd1b8d---4)
+- [How I Found PII at NASA Using Google Dorking](https://medium.com/@salaheddine_kalada/how-i-found-pii-at-nasa-using-google-dorking-6447a89decc7?source=rss------bug_bounty_writeup-5)
+- [Day 30of 30 Day — 30 Vulnerabilities | Cross-Site Request Forgery &lpar;CSRF&rpar;](https://it4chis3c.medium.com/day-30of-30-day-30-vulnerabilities-cross-site-request-forgery-csrf-49a11b1e1616?source=rss------bug_bounty_writeup-5)
 - [The OWASP Top 10 for LLMs 2025: How GenAI Risks Are Evolving](https://www.hackerone.com/ai/owasp-top-10-llms-2025)
 - [Breaking Down the OWASP Top 10: Insecure Design](https://www.hackerone.com/community/owasp-top-10-insecure-design)
 - [New York Releases AI Cybersecurity Guidance: What You Need to Know](https://www.hackerone.com/public-policy/new-york-ai-cybersecurity-guidance)
@@ -962,16 +972,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How a Cross-Site Scripting Vulnerability Led to Account Takeover](https://www.hackerone.com/vulnerability-management/xss-deep-dive)
 - [How a Business Logic Vulnerability Led to Unlimited Discount Redemption](https://www.hackerone.com/vulnerability-management/stripe-business-logic-error-bug)
 - [Who Should Own AI Risk at Your Organization?](https://www.hackerone.com/ai/who-owns-ai-risk)
-- [Securing Our Elections Through Vulnerability Testing and Disclosure](https://www.hackerone.com/public-policy/securing-elections-through-vulnerability-testing)
-- [Measure, Compare, and Enhance Security Programs with HackerOne Benchmarks](https://www.hackerone.com/vulnerability-management/hackerone-benchmarks)
-- [AWS Security Configuration Review and Best Practices](https://www.hackerone.com/penetration-testing/aws-security-configuration)
-- [OWASP Top 10: The Risk of Cryptographic Failures](https://www.hackerone.com/vulnerability-management/cryptographic-failures)
-- [Vulnerability Deep Dive: Gaining RCE Through ImageMagick With Frans Rosen](https://www.hackerone.com/vulnerability-management/gaining-rce-through-imagemagick)
-- [How To Use HackerOne’s Global Vulnerability Policy Map](https://www.hackerone.com/public-policy/global-vulnerability-policy-map)
-- [European Council Adopts Cyber Resilience Act](https://www.hackerone.com/public-policy/eu-council-cyber-resilience-act)
-- [Measure Your AI Risk Preparedness with This Interactive Self-Assessment Tool](https://www.hackerone.com/ai/ai-security-readiness-quiz)
-- [The Recruitment Process: What to Expect When You Apply at HackerOne](https://www.hackerone.com/culture-and-talent/recruitment-process-what-expect-when-you-apply-hackerone)
-- [Pentesting for Internal Networks](https://www.hackerone.com/penetration-testing/internal-network-pentests)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
