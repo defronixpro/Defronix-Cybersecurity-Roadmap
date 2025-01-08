@@ -1,6 +1,9 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How I FOUND Command Execution on PostgreSQL Database](https://medium.com/@es0557533/how-i-found-command-execution-on-postgresql-database-97beeb05c4d3?source=rss------bug_bounty_writeup-5)
+- [How I Ethically Hacked the Indian Army for the Second Time](https://cybersecuritywriteups.com/how-i-ethically-hacked-the-indian-army-for-the-second-time-edf6ec4495f8?source=rss------bug_bounty_writeup-5)
+- [Leaky Response, Easy Takeover!](https://medium.com/@tanyago/leaky-response-easy-takeover-25367c18f0dc?source=rss------bug_bounty_writeup-5)
 - [Reverse Engineering — Setting up the Lab &lpar; Windows 10 &rpar;](https://infosecwriteups.com/reverse-engineering-setting-up-the-lab-windows-10-18a9ff306e68?source=rss----7b722bfd1b8d---4)
 - [How I Was Able to Block Any Username](https://infosecwriteups.com/how-i-was-able-to-block-any-username-5707a1fbd25c?source=rss----7b722bfd1b8d---4)
 - [What Are Network Ports? Understanding and Managing Ports in Linux](https://infosecwriteups.com/what-are-network-ports-understanding-and-managing-ports-in-linux-1f470cabbae1?source=rss----7b722bfd1b8d---4)
@@ -11,7 +14,14 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [P4 Bugs and POC | Part-8](https://infosecwriteups.com/p4-bugs-and-poc-part-8-2b4ed878c53a?source=rss----7b722bfd1b8d---4)
 - [500$: Open Redirect Vulnerability](https://infosecwriteups.com/500-open-redirect-vulnerability-9cc9fd4d9b7b?source=rss----7b722bfd1b8d---4)
 - [A Step-by-Step Installation Guide for DVWA on Ubuntu server](https://infosecwriteups.com/a-step-by-step-installation-guide-for-dvwa-on-ubuntu-server-ad7bb038a38b?source=rss----7b722bfd1b8d---4)
+- [First bounty — Second Order Stored XSS on club.paris2024.org](https://medium.com/@swaroopvenkat828/first-bounty-second-order-stored-xss-on-club-paris2024-org-9a3ad7fe7c7f?source=rss------bug_bounty_writeup-5)
+- [Day 06: My Bug Bounty Challenge ... 0–100k without knowledge in one year!](https://medium.com/@dogxxx10/day-06-my-bug-bounty-challenge-0-100k-without-knowledge-in-one-year-5ed71536fd89?source=rss------bug_bounty_writeup-5)
 - [ROI Isn’t Cutting It: 6 Questions to Help CISOs Better Quantify Security Investments](https://www.hackerone.com/vulnerability-management/roi-isnt-cutting-it-ciso-questions)
+- [Bug Bounty Hunting Prerequisites](https://it4chis3c.medium.com/bug-bounty-hunting-prerequisites-964560919547?source=rss------bug_bounty_writeup-5)
+- [[Blibli Bug Bounty] RXSS Bypass WAF Cloudflare pada Search URL Parameter di website siplah.blibli.co](https://medium.com/@0xRedFox29/blibli-bug-bounty-rxss-bypass-waf-cloudflare-pada-search-url-parameter-di-website-siplah-blibli-co-db1ccc60eb88?source=rss------bug_bounty_writeup-5)
+- [Web Application Penetration Testing Checklist](https://saconychukwu.medium.com/web-application-penetration-testing-checklist-3da7d3be8f1a?source=rss------bug_bounty_writeup-5)
+- [Day 0 — 05 : M y Bug Bounty Challenge 0–100k without knowledge in one year!](https://medium.com/@dogxxx10/day-0-05-m-y-bug-bounty-challenge-0-100k-without-knowledge-in-one-year-94f090fdf54a?source=rss------bug_bounty_writeup-5)
+- [How I Found My First Bug](https://medium.com/@dibyaranjanmohanta2806/i-found-my-first-bug-52e20e37b429?source=rss------bug_bounty_writeup-5)
 - [The OWASP Top 10 for LLMs 2025: How GenAI Risks Are Evolving](https://www.hackerone.com/ai/owasp-top-10-llms-2025)
 - [Breaking Down the OWASP Top 10: Insecure Design](https://www.hackerone.com/community/owasp-top-10-insecure-design)
 - [New York Releases AI Cybersecurity Guidance: What You Need to Know](https://www.hackerone.com/public-policy/new-york-ai-cybersecurity-guidance)
