@@ -922,7 +922,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [How I FOUND Command Execution on PostgreSQL Database](https://medium.com/@es0557533/how-i-found-command-execution-on-postgresql-database-97beeb05c4d3?source=rss------bug_bounty_writeup-5)
 - [How I Ethically Hacked the Indian Army for the Second Time](https://cybersecuritywriteups.com/how-i-ethically-hacked-the-indian-army-for-the-second-time-edf6ec4495f8?source=rss------bug_bounty_writeup-5)
 - [Leaky Response, Easy Takeover!](https://medium.com/@tanyago/leaky-response-easy-takeover-25367c18f0dc?source=rss------bug_bounty_writeup-5)
 - [Reverse Engineering — Setting up the Lab &lpar; Windows 10 &rpar;](https://infosecwriteups.com/reverse-engineering-setting-up-the-lab-windows-10-18a9ff306e68?source=rss----7b722bfd1b8d---4)
@@ -972,6 +971,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How an Information Disclosure Vulnerability Led to Critical Data Exposure](https://www.hackerone.com/vulnerability-management/information-disclosure-deep-dive)
 - [How a Cross-Site Scripting Vulnerability Led to Account Takeover](https://www.hackerone.com/vulnerability-management/xss-deep-dive)
 - [How a Business Logic Vulnerability Led to Unlimited Discount Redemption](https://www.hackerone.com/vulnerability-management/stripe-business-logic-error-bug)
+- [Who Should Own AI Risk at Your Organization?](https://www.hackerone.com/ai/who-owns-ai-risk)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
