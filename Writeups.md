@@ -13,6 +13,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [A Step-by-Step Installation Guide for DVWA on Ubuntu server](https://infosecwriteups.com/a-step-by-step-installation-guide-for-dvwa-on-ubuntu-server-ad7bb038a38b?source=rss----7b722bfd1b8d---4)
 - [First bounty — Second Order Stored XSS on club.paris2024.org](https://medium.com/@swaroopvenkat828/first-bounty-second-order-stored-xss-on-club-paris2024-org-9a3ad7fe7c7f?source=rss------bug_bounty_writeup-5)
 - [Day 06: My Bug Bounty Challenge ... 0–100k without knowledge in one year!](https://medium.com/@dogxxx10/day-06-my-bug-bounty-challenge-0-100k-without-knowledge-in-one-year-5ed71536fd89?source=rss------bug_bounty_writeup-5)
+- [ROI Isn’t Cutting It: 6 Questions to Help CISOs Better Quantify Security Investments](https://www.hackerone.com/vulnerability-management/roi-isnt-cutting-it-ciso-questions)
 - [Bug Bounty Hunting Prerequisites](https://it4chis3c.medium.com/bug-bounty-hunting-prerequisites-964560919547?source=rss------bug_bounty_writeup-5)
 - [[Blibli Bug Bounty] RXSS Bypass WAF Cloudflare pada Search URL Parameter di website siplah.blibli.co](https://medium.com/@0xRedFox29/blibli-bug-bounty-rxss-bypass-waf-cloudflare-pada-search-url-parameter-di-website-siplah-blibli-co-db1ccc60eb88?source=rss------bug_bounty_writeup-5)
 - [Web Application Penetration Testing Checklist](https://saconychukwu.medium.com/web-application-penetration-testing-checklist-3da7d3be8f1a?source=rss------bug_bounty_writeup-5)
