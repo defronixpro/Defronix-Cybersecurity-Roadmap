@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [First bounty — Second Order Stored XSS on club.paris2024.org](https://medium.com/@swaroopvenkat828/first-bounty-second-order-stored-xss-on-club-paris2024-org-9a3ad7fe7c7f?source=rss------bug_bounty_writeup-5)
 - [Day 06: My Bug Bounty Challenge ... 0–100k without knowledge in one year!](https://medium.com/@dogxxx10/day-06-my-bug-bounty-challenge-0-100k-without-knowledge-in-one-year-5ed71536fd89?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Hunting Prerequisites](https://it4chis3c.medium.com/bug-bounty-hunting-prerequisites-964560919547?source=rss------bug_bounty_writeup-5)
 - [[Blibli Bug Bounty] RXSS Bypass WAF Cloudflare pada Search URL Parameter di website siplah.blibli.co](https://medium.com/@0xRedFox29/blibli-bug-bounty-rxss-bypass-waf-cloudflare-pada-search-url-parameter-di-website-siplah-blibli-co-db1ccc60eb88?source=rss------bug_bounty_writeup-5)
@@ -931,7 +932,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How IBM Helped Me Get Private Invites on Hacker1](https://medium.com/@oxab/how-ibm-helped-me-get-private-invites-on-hacker1-ffbe3c1b26d3?source=rss------bug_bounty_writeup-5)
 - [Introduction to My Bug Bounty Hunting Series](https://it4chis3c.medium.com/introduction-to-my-bug-bounty-hunting-series-79a68dcb07a6?source=rss------bug_bounty_writeup-5)
 - [Comprehensive Command and Control Tools for Red Teaming Operations](https://saconychukwu.medium.com/comprehensive-command-and-control-tools-for-red-teaming-operations-23e458d830c0?source=rss------bug_bounty_writeup-5)
-- [Advanced C# Offensive Frameworks for Red Team Operations](https://saconychukwu.medium.com/advanced-c-offensive-frameworks-for-red-team-operations-a001cac7e10f?source=rss------bug_bounty_writeup-5)
 - [Apple’s AI Photo Analysis: A Revolutionary Feature or Privacy Nightmare?](https://infosecwriteups.com/apples-ai-photo-analysis-a-revolutionary-feature-or-privacy-nightmare-21b80465d4dc?source=rss----7b722bfd1b8d---4)
 - [Haunted — Blue Team Labs Online Write-up](https://infosecwriteups.com/haunted-blue-team-labs-online-write-up-00eb3fb9fd77?source=rss----7b722bfd1b8d---4)
 - [How to install and configure IBM Qradar](https://infosecwriteups.com/how-to-install-and-configure-ibm-qradar-a66769a4bc1f?source=rss----7b722bfd1b8d---4)
