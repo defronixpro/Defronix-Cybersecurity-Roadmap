@@ -1,6 +1,16 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Reverse Engineering — Setting up the Lab &lpar; Windows 10 &rpar;](https://infosecwriteups.com/reverse-engineering-setting-up-the-lab-windows-10-18a9ff306e68?source=rss----7b722bfd1b8d---4)
+- [How I Was Able to Block Any Username](https://infosecwriteups.com/how-i-was-able-to-block-any-username-5707a1fbd25c?source=rss----7b722bfd1b8d---4)
+- [What Are Network Ports? Understanding and Managing Ports in Linux](https://infosecwriteups.com/what-are-network-ports-understanding-and-managing-ports-in-linux-1f470cabbae1?source=rss----7b722bfd1b8d---4)
+- [TypoSquatting in GitHub Actions](https://infosecwriteups.com/typosquatting-in-github-actions-24b40512e5c5?source=rss----7b722bfd1b8d---4)
+- [P4 Bugs and POC | Part 5](https://infosecwriteups.com/p4-bugs-and-poc-part-5-556962ec83f7?source=rss----7b722bfd1b8d---4)
+- [P4 Bug and POC | Part 6](https://infosecwriteups.com/p4-bug-and-poc-part-6-997b524d27a4?source=rss----7b722bfd1b8d---4)
+- [P4 Bugs and POC | Part 7](https://infosecwriteups.com/p4-bugs-and-poc-part-7-a379f057ba96?source=rss----7b722bfd1b8d---4)
+- [P4 Bugs and POC | Part-8](https://infosecwriteups.com/p4-bugs-and-poc-part-8-2b4ed878c53a?source=rss----7b722bfd1b8d---4)
+- [500$: Open Redirect Vulnerability](https://infosecwriteups.com/500-open-redirect-vulnerability-9cc9fd4d9b7b?source=rss----7b722bfd1b8d---4)
+- [A Step-by-Step Installation Guide for DVWA on Ubuntu server](https://infosecwriteups.com/a-step-by-step-installation-guide-for-dvwa-on-ubuntu-server-ad7bb038a38b?source=rss----7b722bfd1b8d---4)
 - [First bounty — Second Order Stored XSS on club.paris2024.org](https://medium.com/@swaroopvenkat828/first-bounty-second-order-stored-xss-on-club-paris2024-org-9a3ad7fe7c7f?source=rss------bug_bounty_writeup-5)
 - [Day 06: My Bug Bounty Challenge ... 0–100k without knowledge in one year!](https://medium.com/@dogxxx10/day-06-my-bug-bounty-challenge-0-100k-without-knowledge-in-one-year-5ed71536fd89?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Hunting Prerequisites](https://it4chis3c.medium.com/bug-bounty-hunting-prerequisites-964560919547?source=rss------bug_bounty_writeup-5)
