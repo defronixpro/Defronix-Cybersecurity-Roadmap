@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Day 07: My Bug Bounty Challenge … 0–100k without knowledge in one year!](https://medium.com/@dogxxx10/day-07-my-bug-bounty-challenge-0-100k-without-knowledge-in-one-year-cc5eff18ae10?source=rss------bug_bounty_writeup-5)
 - [How I Ethically Hacked the Indian Army for the Second Time](https://cybersecuritywriteups.com/how-i-ethically-hacked-the-indian-army-for-the-second-time-edf6ec4495f8?source=rss------bug_bounty_writeup-5)
 - [Leaky Response, Easy Takeover!](https://medium.com/@tanyago/leaky-response-easy-takeover-25367c18f0dc?source=rss------bug_bounty_writeup-5)
 - [Reverse Engineering — Setting up the Lab &lpar; Windows 10 &rpar;](https://infosecwriteups.com/reverse-engineering-setting-up-the-lab-windows-10-18a9ff306e68?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [[Blibli Bug Bounty] RXSS Bypass WAF Cloudflare pada Search URL Parameter di website siplah.blibli.co](https://medium.com/@0xRedFox29/blibli-bug-bounty-rxss-bypass-waf-cloudflare-pada-search-url-parameter-di-website-siplah-blibli-co-db1ccc60eb88?source=rss------bug_bounty_writeup-5)
 - [Web Application Penetration Testing Checklist](https://saconychukwu.medium.com/web-application-penetration-testing-checklist-3da7d3be8f1a?source=rss------bug_bounty_writeup-5)
 - [Day 0 — 05 : M y Bug Bounty Challenge 0–100k without knowledge in one year!](https://medium.com/@dogxxx10/day-0-05-m-y-bug-bounty-challenge-0-100k-without-knowledge-in-one-year-94f090fdf54a?source=rss------bug_bounty_writeup-5)
-- [How I Found My First Bug](https://medium.com/@dibyaranjanmohanta2806/i-found-my-first-bug-52e20e37b429?source=rss------bug_bounty_writeup-5)
 - [The OWASP Top 10 for LLMs 2025: How GenAI Risks Are Evolving](https://www.hackerone.com/ai/owasp-top-10-llms-2025)
 - [Breaking Down the OWASP Top 10: Insecure Design](https://www.hackerone.com/community/owasp-top-10-insecure-design)
 - [New York Releases AI Cybersecurity Guidance: What You Need to Know](https://www.hackerone.com/public-policy/new-york-ai-cybersecurity-guidance)
