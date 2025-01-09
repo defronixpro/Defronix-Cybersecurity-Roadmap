@@ -4,7 +4,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [P4 Bugs and POC | Part-9](https://infosecwriteups.com/p4-bugs-and-poc-part-9-16b5a8ffb52d?source=rss----7b722bfd1b8d---4)
 - [Weird JavaScript files](https://infosecwriteups.com/weird-javascript-files-7e6e7296e914?source=rss----7b722bfd1b8d---4)
 - [Basics of Wireless Networking in Linux](https://infosecwriteups.com/basics-of-wireless-networking-in-linux-37c9e9c811d1?source=rss----7b722bfd1b8d---4)
-- [Is Its Possible to Use Discord as a C2?](https://infosecwriteups.com/using-discord-as-a-c2-cf90b3480689?source=rss----7b722bfd1b8d---4)
+- [Using Discord as a C2](https://infosecwriteups.com/using-discord-as-a-c2-cf90b3480689?source=rss----7b722bfd1b8d---4)
 - [SOC282 — Phishing Alert — Deceptive Mail Detected](https://infosecwriteups.com/soc282-phishing-alert-deceptive-mail-detected-c9018d9d950a?source=rss----7b722bfd1b8d---4)
 - [Layer 2 attacks &amp; Mitigation techniques](https://infosecwriteups.com/layer-2-attacks-mitigation-techniques-5fb83e2f2f29?source=rss----7b722bfd1b8d---4)
 - [Layer 2 attacks &amp; Mitigation techniques &lpar;part 2&rpar;](https://infosecwriteups.com/layer-2-attacks-mitigation-techniques-part-2-d5fbf76fd772?source=rss----7b722bfd1b8d---4)
