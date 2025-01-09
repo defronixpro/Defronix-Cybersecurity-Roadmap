@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Comprehensive Toolkit for Team Communication, Data Exfiltration, Log Aggregation, and Wireless &amp;…](https://saconychukwu.medium.com/comprehensive-toolkit-for-team-communication-data-exfiltration-log-aggregation-and-wireless-52bd46ceb51d?source=rss------bug_bounty_writeup-5)
+- [How I get 7 open redirect and 7 XSS in public program!](https://medium.com/@mohamed.yasser442200/how-i-get-7-open-redirect-and-7-xss-in-public-program-7518a3f26b49?source=rss------bug_bounty_writeup-5)
 - [P4 Bugs and POC | Part-9](https://infosecwriteups.com/p4-bugs-and-poc-part-9-16b5a8ffb52d?source=rss----7b722bfd1b8d---4)
 - [Weird JavaScript files](https://infosecwriteups.com/weird-javascript-files-7e6e7296e914?source=rss----7b722bfd1b8d---4)
 - [Basics of Wireless Networking in Linux](https://infosecwriteups.com/basics-of-wireless-networking-in-linux-37c9e9c811d1?source=rss----7b722bfd1b8d---4)
@@ -932,7 +934,14 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [SOC239 — Remote Code Execution Detected in Splunk Enterprise](https://infosecwriteups.com/soc239-remote-code-execution-detected-in-splunk-enterprise-ab233c32f61d?source=rss----7b722bfd1b8d---4)
 - [“SOC227 — Microsoft SharePoint Server Elevation of Privilege — Possible CVE-2023–29357…](https://infosecwriteups.com/soc227-microsoft-sharepoint-server-elevation-of-privilege-possible-cve-2023-29357-a88e90234376?source=rss----7b722bfd1b8d---4)
 - [SOC235 — Atlassian Confluence Broken Access Control 0-Day CVE-2023-22515](https://infosecwriteups.com/soc235-atlassian-confluence-broken-access-control-0-day-cve-2023-22515-c987e3abe2ee?source=rss----7b722bfd1b8d---4)
+- [Day 07: My Bug Bounty Challenge … 0–100k without knowledge in one year!](https://medium.com/@dogxxx10/day-07-my-bug-bounty-challenge-0-100k-without-knowledge-in-one-year-cc5eff18ae10?source=rss------bug_bounty_writeup-5)
+- [How I Ethically Hacked the Indian Army for the Second Time](https://cybersecuritywriteups.com/how-i-ethically-hacked-the-indian-army-for-the-second-time-edf6ec4495f8?source=rss------bug_bounty_writeup-5)
+- [Leaky Response, Easy Takeover!](https://medium.com/@tanyago/leaky-response-easy-takeover-25367c18f0dc?source=rss------bug_bounty_writeup-5)
+- [First bounty — Second Order Stored XSS on club.paris2024.org](https://medium.com/@swaroopvenkat828/first-bounty-second-order-stored-xss-on-club-paris2024-org-9a3ad7fe7c7f?source=rss------bug_bounty_writeup-5)
+- [Day 06: My Bug Bounty Challenge ... 0–100k without knowledge in one year!](https://medium.com/@dogxxx10/day-06-my-bug-bounty-challenge-0-100k-without-knowledge-in-one-year-5ed71536fd89?source=rss------bug_bounty_writeup-5)
 - [ROI Isn’t Cutting It: 6 Questions to Help CISOs Better Quantify Security Investments](https://www.hackerone.com/vulnerability-management/roi-isnt-cutting-it-ciso-questions)
+- [Bug Bounty Hunting Prerequisites](https://it4chis3c.medium.com/bug-bounty-hunting-prerequisites-964560919547?source=rss------bug_bounty_writeup-5)
+- [[Blibli Bug Bounty] RXSS Bypass WAF Cloudflare pada Search URL Parameter di website siplah.blibli.co](https://medium.com/@0xRedFox29/blibli-bug-bounty-rxss-bypass-waf-cloudflare-pada-search-url-parameter-di-website-siplah-blibli-co-db1ccc60eb88?source=rss------bug_bounty_writeup-5)
 - [The OWASP Top 10 for LLMs 2025: How GenAI Risks Are Evolving](https://www.hackerone.com/ai/owasp-top-10-llms-2025)
 - [Breaking Down the OWASP Top 10: Insecure Design](https://www.hackerone.com/community/owasp-top-10-insecure-design)
 - [New York Releases AI Cybersecurity Guidance: What You Need to Know](https://www.hackerone.com/public-policy/new-york-ai-cybersecurity-guidance)
@@ -963,15 +972,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How a Cross-Site Scripting Vulnerability Led to Account Takeover](https://www.hackerone.com/vulnerability-management/xss-deep-dive)
 - [How a Business Logic Vulnerability Led to Unlimited Discount Redemption](https://www.hackerone.com/vulnerability-management/stripe-business-logic-error-bug)
 - [Who Should Own AI Risk at Your Organization?](https://www.hackerone.com/ai/who-owns-ai-risk)
-- [Securing Our Elections Through Vulnerability Testing and Disclosure](https://www.hackerone.com/public-policy/securing-elections-through-vulnerability-testing)
-- [Measure, Compare, and Enhance Security Programs with HackerOne Benchmarks](https://www.hackerone.com/vulnerability-management/hackerone-benchmarks)
-- [AWS Security Configuration Review and Best Practices](https://www.hackerone.com/penetration-testing/aws-security-configuration)
-- [OWASP Top 10: The Risk of Cryptographic Failures](https://www.hackerone.com/vulnerability-management/cryptographic-failures)
-- [Vulnerability Deep Dive: Gaining RCE Through ImageMagick With Frans Rosen](https://www.hackerone.com/vulnerability-management/gaining-rce-through-imagemagick)
-- [How To Use HackerOne’s Global Vulnerability Policy Map](https://www.hackerone.com/public-policy/global-vulnerability-policy-map)
-- [European Council Adopts Cyber Resilience Act](https://www.hackerone.com/public-policy/eu-council-cyber-resilience-act)
-- [Measure Your AI Risk Preparedness with This Interactive Self-Assessment Tool](https://www.hackerone.com/ai/ai-security-readiness-quiz)
-- [The Recruitment Process: What to Expect When You Apply at HackerOne](https://www.hackerone.com/culture-and-talent/recruitment-process-what-expect-when-you-apply-hackerone)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
