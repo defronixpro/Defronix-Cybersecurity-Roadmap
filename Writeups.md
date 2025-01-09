@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How I get 7 open redirect and 7 XSS in public program!](https://medium.com/@mohamed.yasser442200/how-i-get-7-open-redirect-and-7-xss-in-public-program-7518a3f26b49?source=rss------bug_bounty_writeup-5)
 - [P4 Bugs and POC | Part-9](https://infosecwriteups.com/p4-bugs-and-poc-part-9-16b5a8ffb52d?source=rss----7b722bfd1b8d---4)
 - [Weird JavaScript files](https://infosecwriteups.com/weird-javascript-files-7e6e7296e914?source=rss----7b722bfd1b8d---4)
 - [Basics of Wireless Networking in Linux](https://infosecwriteups.com/basics-of-wireless-networking-in-linux-37c9e9c811d1?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Bug Bounty Hunting Prerequisites](https://it4chis3c.medium.com/bug-bounty-hunting-prerequisites-964560919547?source=rss------bug_bounty_writeup-5)
 - [[Blibli Bug Bounty] RXSS Bypass WAF Cloudflare pada Search URL Parameter di website siplah.blibli.co](https://medium.com/@0xRedFox29/blibli-bug-bounty-rxss-bypass-waf-cloudflare-pada-search-url-parameter-di-website-siplah-blibli-co-db1ccc60eb88?source=rss------bug_bounty_writeup-5)
 - [Web Application Penetration Testing Checklist](https://saconychukwu.medium.com/web-application-penetration-testing-checklist-3da7d3be8f1a?source=rss------bug_bounty_writeup-5)
-- [Day 0 — 05 : M y Bug Bounty Challenge 0–100k without knowledge in one year!](https://medium.com/@dogxxx10/day-0-05-m-y-bug-bounty-challenge-0-100k-without-knowledge-in-one-year-94f090fdf54a?source=rss------bug_bounty_writeup-5)
 - [The OWASP Top 10 for LLMs 2025: How GenAI Risks Are Evolving](https://www.hackerone.com/ai/owasp-top-10-llms-2025)
 - [Breaking Down the OWASP Top 10: Insecure Design](https://www.hackerone.com/community/owasp-top-10-insecure-design)
 - [New York Releases AI Cybersecurity Guidance: What You Need to Know](https://www.hackerone.com/public-policy/new-york-ai-cybersecurity-guidance)
