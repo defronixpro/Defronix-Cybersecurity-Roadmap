@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Hello , Cyber security Researchers!!!](https://medium.com/@itajay22/hello-cyber-security-researchers-356c1e662bbf?source=rss------bug_bounty_writeup-5)
 - [SOC176 — RDP Brute Force Detected](https://infosecwriteups.com/soc176-rdp-brute-force-detected-dde4163e03c2?source=rss----7b722bfd1b8d---4)
 - [How Spanning Tree Protocol &lpar;STP&rpar; Works](https://infosecwriteups.com/how-spanning-tree-protocol-stp-works-bfa348490673?source=rss----7b722bfd1b8d---4)
 - [Introduction to Network File Sharing with NFS and Samba](https://infosecwriteups.com/introduction-to-network-file-sharing-with-nfs-and-samba-62a818a312c6?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Critical [9.8] SQL Injection in a Major Indonesian Web Hosting Platform](https://medium.com/@n45ht/critical-9-8-sql-injection-in-a-major-indonesian-web-hosting-platform-8bda5d2913d3?source=rss------bug_bounty_writeup-5)
 - [Comprehensive Toolkit for Team Communication, Data Exfiltration, Log Aggregation, and Wireless &amp;…](https://saconychukwu.medium.com/comprehensive-toolkit-for-team-communication-data-exfiltration-log-aggregation-and-wireless-52bd46ceb51d?source=rss------bug_bounty_writeup-5)
 - [How I get 7 open redirect and 7 XSS in public program!](https://medium.com/@mohamed.yasser442200/how-i-get-7-open-redirect-and-7-xss-in-public-program-7518a3f26b49?source=rss------bug_bounty_writeup-5)
-- [Day 07: My Bug Bounty Challenge … 0–100k without knowledge in one year!](https://medium.com/@dogxxx10/day-07-my-bug-bounty-challenge-0-100k-without-knowledge-in-one-year-cc5eff18ae10?source=rss------bug_bounty_writeup-5)
 - [ROI Isn’t Cutting It: 6 Questions to Help CISOs Better Quantify Security Investments](https://www.hackerone.com/vulnerability-management/roi-isnt-cutting-it-ciso-questions)
 - [The OWASP Top 10 for LLMs 2025: How GenAI Risks Are Evolving](https://www.hackerone.com/ai/owasp-top-10-llms-2025)
 - [Breaking Down the OWASP Top 10: Insecure Design](https://www.hackerone.com/community/owasp-top-10-insecure-design)
