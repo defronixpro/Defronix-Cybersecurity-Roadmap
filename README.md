@@ -922,6 +922,17 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [SOC176 — RDP Brute Force Detected](https://infosecwriteups.com/soc176-rdp-brute-force-detected-dde4163e03c2?source=rss----7b722bfd1b8d---4)
+- [How Spanning Tree Protocol &lpar;STP&rpar; Works](https://infosecwriteups.com/how-spanning-tree-protocol-stp-works-bfa348490673?source=rss----7b722bfd1b8d---4)
+- [Introduction to Network File Sharing with NFS and Samba](https://infosecwriteups.com/introduction-to-network-file-sharing-with-nfs-and-samba-62a818a312c6?source=rss----7b722bfd1b8d---4)
+- [Unlock the Ultimate Resource Hub for Security Researchers](https://infosecwriteups.com/unlock-the-ultimate-resource-hub-for-security-researchers-9fa52bbff1ff?source=rss----7b722bfd1b8d---4)
+- [Race Condition to Bypass Rate-Limiting: A new technique made by Nillsx](https://infosecwriteups.com/race-condition-to-bypass-rate-limiting-a-new-technique-made-by-nillsx-6a60f41dbae6?source=rss----7b722bfd1b8d---4)
+- [Race Condition to Bypass Rate-Limiting: A new technique made by Nillsx](https://infosecwriteups.com/race-condition-to-bypass-rate-limiting-a-new-technique-made-by-nillsx-6a60f41dbae6?source=rss------bug_bounty_writeup-5)
+- [Hacking CozyHosting on HackTheBox: A Step-By-Step OSCP Journey](https://infosecwriteups.com/hacking-cozyhosting-on-hackthebox-a-step-by-step-oscp-journey-7514ceede24f?source=rss----7b722bfd1b8d---4)
+- [Windows Active Directory Hacking Lab Setup — Part 2, Setting up Users Machines and Groups](https://infosecwriteups.com/windows-active-directory-hacking-lab-setup-part-2-setting-up-users-machines-and-groups-a24fbe2971c7?source=rss----7b722bfd1b8d---4)
+- [My Journey with RTO 2 &lpar; CRTL &rpar;: A Review](https://infosecwriteups.com/my-journey-with-rto-2-crtl-a-review-2f32a463effb?source=rss----7b722bfd1b8d---4)
+- [Windows Active Directory Hacking Lab Part 3 — Joining Machines to the Domain](https://infosecwriteups.com/windows-active-directory-hacking-lab-part-3-joining-machines-to-the-domain-a9f9a40a77d1?source=rss----7b722bfd1b8d---4)
+- [Blind OS Command Injection with Output Redirection](https://infosecwriteups.com/blind-os-command-injection-with-output-redirection-1d08c3793ff1?source=rss----7b722bfd1b8d---4)
 - [A New Bug Hunting Story: Open Redirection Vulnerability](https://medium.com/meetcyber/a-new-bug-hunting-story-open-redirection-vulnerability-33a1b6374f88?source=rss------bug_bounty_writeup-5)
 - [How I got CERT-EU Hall of Fame](https://cybersecuritywriteups.com/how-i-got-cert-eu-hall-of-fame-e65b3e72510b?source=rss------bug_bounty_writeup-5)
 - [PoC — Vulnérabilité Cache Varnish PURGE DDoS by @GupS3C](https://medium.com/@GupS3C/poc-vuln%C3%A9rabilit%C3%A9-cache-varnish-purge-ddos-by-gups3c-9ce181fe7fca?source=rss------bug_bounty_writeup-5)
@@ -930,16 +941,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Critical [9.8] SQL Injection in a Major Indonesian Web Hosting Platform](https://medium.com/@n45ht/critical-9-8-sql-injection-in-a-major-indonesian-web-hosting-platform-8bda5d2913d3?source=rss------bug_bounty_writeup-5)
 - [Comprehensive Toolkit for Team Communication, Data Exfiltration, Log Aggregation, and Wireless &amp;…](https://saconychukwu.medium.com/comprehensive-toolkit-for-team-communication-data-exfiltration-log-aggregation-and-wireless-52bd46ceb51d?source=rss------bug_bounty_writeup-5)
 - [How I get 7 open redirect and 7 XSS in public program!](https://medium.com/@mohamed.yasser442200/how-i-get-7-open-redirect-and-7-xss-in-public-program-7518a3f26b49?source=rss------bug_bounty_writeup-5)
-- [P4 Bugs and POC | Part-9](https://infosecwriteups.com/p4-bugs-and-poc-part-9-16b5a8ffb52d?source=rss----7b722bfd1b8d---4)
-- [Weird JavaScript files](https://infosecwriteups.com/weird-javascript-files-7e6e7296e914?source=rss----7b722bfd1b8d---4)
-- [Basics of Wireless Networking in Linux](https://infosecwriteups.com/basics-of-wireless-networking-in-linux-37c9e9c811d1?source=rss----7b722bfd1b8d---4)
-- [Using Discord as a C2](https://infosecwriteups.com/using-discord-as-a-c2-cf90b3480689?source=rss----7b722bfd1b8d---4)
-- [SOC282 — Phishing Alert — Deceptive Mail Detected](https://infosecwriteups.com/soc282-phishing-alert-deceptive-mail-detected-c9018d9d950a?source=rss----7b722bfd1b8d---4)
-- [Layer 2 attacks &amp; Mitigation techniques](https://infosecwriteups.com/layer-2-attacks-mitigation-techniques-5fb83e2f2f29?source=rss----7b722bfd1b8d---4)
-- [Layer 2 attacks &amp; Mitigation techniques &lpar;part 2&rpar;](https://infosecwriteups.com/layer-2-attacks-mitigation-techniques-part-2-d5fbf76fd772?source=rss----7b722bfd1b8d---4)
-- [SOC239 — Remote Code Execution Detected in Splunk Enterprise](https://infosecwriteups.com/soc239-remote-code-execution-detected-in-splunk-enterprise-ab233c32f61d?source=rss----7b722bfd1b8d---4)
-- [“SOC227 — Microsoft SharePoint Server Elevation of Privilege — Possible CVE-2023–29357…](https://infosecwriteups.com/soc227-microsoft-sharepoint-server-elevation-of-privilege-possible-cve-2023-29357-a88e90234376?source=rss----7b722bfd1b8d---4)
-- [SOC235 — Atlassian Confluence Broken Access Control 0-Day CVE-2023-22515](https://infosecwriteups.com/soc235-atlassian-confluence-broken-access-control-0-day-cve-2023-22515-c987e3abe2ee?source=rss----7b722bfd1b8d---4)
 - [Day 07: My Bug Bounty Challenge … 0–100k without knowledge in one year!](https://medium.com/@dogxxx10/day-07-my-bug-bounty-challenge-0-100k-without-knowledge-in-one-year-cc5eff18ae10?source=rss------bug_bounty_writeup-5)
 - [ROI Isn’t Cutting It: 6 Questions to Help CISOs Better Quantify Security Investments](https://www.hackerone.com/vulnerability-management/roi-isnt-cutting-it-ciso-questions)
 - [The OWASP Top 10 for LLMs 2025: How GenAI Risks Are Evolving](https://www.hackerone.com/ai/owasp-top-10-llms-2025)
@@ -971,7 +972,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How an Information Disclosure Vulnerability Led to Critical Data Exposure](https://www.hackerone.com/vulnerability-management/information-disclosure-deep-dive)
 - [How a Cross-Site Scripting Vulnerability Led to Account Takeover](https://www.hackerone.com/vulnerability-management/xss-deep-dive)
 - [How a Business Logic Vulnerability Led to Unlimited Discount Redemption](https://www.hackerone.com/vulnerability-management/stripe-business-logic-error-bug)
-- [Who Should Own AI Risk at Your Organization?](https://www.hackerone.com/ai/who-owns-ai-risk)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
