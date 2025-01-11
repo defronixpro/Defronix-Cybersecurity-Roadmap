@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Breaking Vercel’s Clone URL with a Simple XSS Exploit](https://medium.com/@n45ht/breaking-vercels-clone-url-with-a-simple-xss-exploit-8f55b21f32eb?source=rss------bug_bounty_writeup-5)
 - [Linux Shells [Cyber Security 101] Learning Path TryHackMe Writeup | Detailed Walkthrough](https://infosecwriteups.com/linux-shells-cyber-security-101-learning-path-tryhackme-writeup-detailed-walkthrough-440e6863fb1a?source=rss----7b722bfd1b8d---4)
 - [Windows PowerShell [Cyber Security 101 ] Learning Path TryHackMe Writeup | Detailed Walkthrough](https://infosecwriteups.com/windows-powershell-cyber-security-101-learning-path-tryhackme-writeup-detailed-walkthrough-958e3f1ec51b?source=rss----7b722bfd1b8d---4)
 - [SQLMap: The Basics [ Cyber Security 101 ] TryHackMe Writeup | Detailed Walkthrough | THM Premium…](https://infosecwriteups.com/sqlmap-the-basics-cyber-security-101-tryhackme-writeup-detailed-walkthrough-thm-premium-9c04f57cc574?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [PoC — Vulnérabilité Cache Varnish PURGE DDoS by @GupS3C](https://medium.com/@GupS3C/poc-vuln%C3%A9rabilit%C3%A9-cache-varnish-purge-ddos-by-gups3c-9ce181fe7fca?source=rss------bug_bounty_writeup-5)
 - [Day 08: My Bug Bounty Challenge … 0–100k without knowledge in one year!](https://medium.com/@dogxxx10/day-08-my-bug-bounty-challenge-0-100k-without-knowledge-in-one-year-70422a5cd7eb?source=rss------bug_bounty_writeup-5)
 - [How I Discovered a Delete CSRF Vulnerability](https://medium.com/@Ursula-/how-i-discovered-a-delete-csrf-vulnerability-a46d4bc2e700?source=rss------bug_bounty_writeup-5)
-- [Critical [9.8] SQL Injection in a Major Indonesian Web Hosting Platform](https://medium.com/@n45ht/critical-9-8-sql-injection-in-a-major-indonesian-web-hosting-platform-8bda5d2913d3?source=rss------bug_bounty_writeup-5)
 - [ROI Isn’t Cutting It: 6 Questions to Help CISOs Better Quantify Security Investments](https://www.hackerone.com/vulnerability-management/roi-isnt-cutting-it-ciso-questions)
 - [The OWASP Top 10 for LLMs 2025: How GenAI Risks Are Evolving](https://www.hackerone.com/ai/owasp-top-10-llms-2025)
 - [Breaking Down the OWASP Top 10: Insecure Design](https://www.hackerone.com/community/owasp-top-10-insecure-design)
