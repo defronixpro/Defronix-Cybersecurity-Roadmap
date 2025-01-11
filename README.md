@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Crack the Code: Your Bug Bounty Hunting Journey Starts Here](https://it4chis3c.medium.com/crack-the-code-your-bug-bounty-hunting-journey-starts-here-e61701f8cb36?source=rss------bug_bounty_writeup-5)
+- [The Subdomain They Forgot — How I Chained Bugs for a $1,000 Bounty](https://myselfakash20.medium.com/the-subdomain-they-forgot-how-i-chained-bugs-for-a-1-000-bounty-094d89758489?source=rss------bug_bounty_writeup-5)
 - [Breaking Vercel’s Clone URL with a Simple XSS Exploit](https://medium.com/@n45ht/breaking-vercels-clone-url-with-a-simple-xss-exploit-8f55b21f32eb?source=rss------bug_bounty_writeup-5)
 - [Linux Shells [Cyber Security 101] Learning Path TryHackMe Writeup | Detailed Walkthrough](https://infosecwriteups.com/linux-shells-cyber-security-101-learning-path-tryhackme-writeup-detailed-walkthrough-440e6863fb1a?source=rss----7b722bfd1b8d---4)
 - [Windows PowerShell [Cyber Security 101 ] Learning Path TryHackMe Writeup | Detailed Walkthrough](https://infosecwriteups.com/windows-powershell-cyber-security-101-learning-path-tryhackme-writeup-detailed-walkthrough-958e3f1ec51b?source=rss----7b722bfd1b8d---4)
@@ -940,8 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [A New Bug Hunting Story: Open Redirection Vulnerability](https://medium.com/meetcyber/a-new-bug-hunting-story-open-redirection-vulnerability-33a1b6374f88?source=rss------bug_bounty_writeup-5)
 - [How I got CERT-EU Hall of Fame](https://cybersecuritywriteups.com/how-i-got-cert-eu-hall-of-fame-e65b3e72510b?source=rss------bug_bounty_writeup-5)
 - [PoC — Vulnérabilité Cache Varnish PURGE DDoS by @GupS3C](https://medium.com/@GupS3C/poc-vuln%C3%A9rabilit%C3%A9-cache-varnish-purge-ddos-by-gups3c-9ce181fe7fca?source=rss------bug_bounty_writeup-5)
-- [Day 08: My Bug Bounty Challenge … 0–100k without knowledge in one year!](https://medium.com/@dogxxx10/day-08-my-bug-bounty-challenge-0-100k-without-knowledge-in-one-year-70422a5cd7eb?source=rss------bug_bounty_writeup-5)
-- [How I Discovered a Delete CSRF Vulnerability](https://medium.com/@Ursula-/how-i-discovered-a-delete-csrf-vulnerability-a46d4bc2e700?source=rss------bug_bounty_writeup-5)
 - [ROI Isn’t Cutting It: 6 Questions to Help CISOs Better Quantify Security Investments](https://www.hackerone.com/vulnerability-management/roi-isnt-cutting-it-ciso-questions)
 - [The OWASP Top 10 for LLMs 2025: How GenAI Risks Are Evolving](https://www.hackerone.com/ai/owasp-top-10-llms-2025)
 - [Breaking Down the OWASP Top 10: Insecure Design](https://www.hackerone.com/community/owasp-top-10-insecure-design)
