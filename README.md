@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Outrunning the Limits: Exploiting a Race Condition in an Organization Invitation feature](https://medium.com/@n0apol0giz3/outrunning-the-limits-exploiting-a-race-condition-in-an-organization-invitation-feature-cf4106263d57?source=rss------bug_bounty_writeup-5)
 - [Day 09: My Bug Bounty Challenge … 0–100k without knowledge in one year!](https://medium.com/@dogxxx10/day-09-my-bug-bounty-challenge-0-100k-without-knowledge-in-one-year-220c7c6bb0cf?source=rss------bug_bounty_writeup-5)
 - [Hello , Cyber security Researchers!!!](https://medium.com/@itajay22/hello-cyber-security-researchers-356c1e662bbf?source=rss------bug_bounty_writeup-5)
 - [SOC176 — RDP Brute Force Detected](https://infosecwriteups.com/soc176-rdp-brute-force-detected-dde4163e03c2?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Day 08: My Bug Bounty Challenge … 0–100k without knowledge in one year!](https://medium.com/@dogxxx10/day-08-my-bug-bounty-challenge-0-100k-without-knowledge-in-one-year-70422a5cd7eb?source=rss------bug_bounty_writeup-5)
 - [How I Discovered a Delete CSRF Vulnerability](https://medium.com/@Ursula-/how-i-discovered-a-delete-csrf-vulnerability-a46d4bc2e700?source=rss------bug_bounty_writeup-5)
 - [Critical [9.8] SQL Injection in a Major Indonesian Web Hosting Platform](https://medium.com/@n45ht/critical-9-8-sql-injection-in-a-major-indonesian-web-hosting-platform-8bda5d2913d3?source=rss------bug_bounty_writeup-5)
-- [Comprehensive Toolkit for Team Communication, Data Exfiltration, Log Aggregation, and Wireless &amp;…](https://saconychukwu.medium.com/comprehensive-toolkit-for-team-communication-data-exfiltration-log-aggregation-and-wireless-52bd46ceb51d?source=rss------bug_bounty_writeup-5)
 - [ROI Isn’t Cutting It: 6 Questions to Help CISOs Better Quantify Security Investments](https://www.hackerone.com/vulnerability-management/roi-isnt-cutting-it-ciso-questions)
 - [The OWASP Top 10 for LLMs 2025: How GenAI Risks Are Evolving](https://www.hackerone.com/ai/owasp-top-10-llms-2025)
 - [Breaking Down the OWASP Top 10: Insecure Design](https://www.hackerone.com/community/owasp-top-10-insecure-design)
