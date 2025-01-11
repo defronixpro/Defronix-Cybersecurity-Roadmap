@@ -922,6 +922,12 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Linux Shells [Cyber Security 101] Learning Path TryHackMe Writeup | Detailed Walkthrough](https://infosecwriteups.com/linux-shells-cyber-security-101-learning-path-tryhackme-writeup-detailed-walkthrough-440e6863fb1a?source=rss----7b722bfd1b8d---4)
+- [Windows PowerShell [Cyber Security 101 ] Learning Path TryHackMe Writeup | Detailed Walkthrough](https://infosecwriteups.com/windows-powershell-cyber-security-101-learning-path-tryhackme-writeup-detailed-walkthrough-958e3f1ec51b?source=rss----7b722bfd1b8d---4)
+- [SQLMap: The Basics [ Cyber Security 101 ] TryHackMe Writeup | Detailed Walkthrough | THM Premium…](https://infosecwriteups.com/sqlmap-the-basics-cyber-security-101-tryhackme-writeup-detailed-walkthrough-thm-premium-9c04f57cc574?source=rss----7b722bfd1b8d---4)
+- [Reversing, Discovering, And Exploiting A TP-Link Router Vulnerability — CVE-2024–54887](https://infosecwriteups.com/reversing-discovering-and-exploiting-a-tp-link-router-vulnerability-cve-2024-54887-341552c4b104?source=rss----7b722bfd1b8d---4)
+- [Revisiting a Simple SQL Injection Methodology](https://infosecwriteups.com/revisiting-a-simple-sql-injection-methodology-ecd42634a21e?source=rss----7b722bfd1b8d---4)
+- [Hacking Cicada on HackTheBox: An OSCP Step-by-Step Journey](https://infosecwriteups.com/hacking-cicada-on-hackthebox-an-oscp-step-by-step-journey-abd7e56ab53e?source=rss----7b722bfd1b8d---4)
 - [Outrunning the Limits: Exploiting a Race Condition in an Organization Invitation feature](https://medium.com/@n0apol0giz3/outrunning-the-limits-exploiting-a-race-condition-in-an-organization-invitation-feature-cf4106263d57?source=rss------bug_bounty_writeup-5)
 - [Day 09: My Bug Bounty Challenge … 0–100k without knowledge in one year!](https://medium.com/@dogxxx10/day-09-my-bug-bounty-challenge-0-100k-without-knowledge-in-one-year-220c7c6bb0cf?source=rss------bug_bounty_writeup-5)
 - [Hello , Cyber security Researchers!!!](https://medium.com/@itajay22/hello-cyber-security-researchers-356c1e662bbf?source=rss------bug_bounty_writeup-5)
@@ -929,13 +935,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How Spanning Tree Protocol &lpar;STP&rpar; Works](https://infosecwriteups.com/how-spanning-tree-protocol-stp-works-bfa348490673?source=rss----7b722bfd1b8d---4)
 - [Introduction to Network File Sharing with NFS and Samba](https://infosecwriteups.com/introduction-to-network-file-sharing-with-nfs-and-samba-62a818a312c6?source=rss----7b722bfd1b8d---4)
 - [Unlock the Ultimate Resource Hub for Security Researchers](https://infosecwriteups.com/unlock-the-ultimate-resource-hub-for-security-researchers-9fa52bbff1ff?source=rss----7b722bfd1b8d---4)
-- [Race Condition to Bypass Rate-Limiting: A new technique made by Nillsx](https://infosecwriteups.com/race-condition-to-bypass-rate-limiting-a-new-technique-made-by-nillsx-6a60f41dbae6?source=rss----7b722bfd1b8d---4)
 - [Race Condition to Bypass Rate-Limiting: A new technique made by Nillsx](https://infosecwriteups.com/race-condition-to-bypass-rate-limiting-a-new-technique-made-by-nillsx-6a60f41dbae6?source=rss------bug_bounty_writeup-5)
-- [Hacking CozyHosting on HackTheBox: A Step-By-Step OSCP Journey](https://infosecwriteups.com/hacking-cozyhosting-on-hackthebox-a-step-by-step-oscp-journey-7514ceede24f?source=rss----7b722bfd1b8d---4)
-- [Windows Active Directory Hacking Lab Setup — Part 2, Setting up Users Machines and Groups](https://infosecwriteups.com/windows-active-directory-hacking-lab-setup-part-2-setting-up-users-machines-and-groups-a24fbe2971c7?source=rss----7b722bfd1b8d---4)
-- [My Journey with RTO 2 &lpar; CRTL &rpar;: A Review](https://infosecwriteups.com/my-journey-with-rto-2-crtl-a-review-2f32a463effb?source=rss----7b722bfd1b8d---4)
-- [Windows Active Directory Hacking Lab Part 3 — Joining Machines to the Domain](https://infosecwriteups.com/windows-active-directory-hacking-lab-part-3-joining-machines-to-the-domain-a9f9a40a77d1?source=rss----7b722bfd1b8d---4)
-- [Blind OS Command Injection with Output Redirection](https://infosecwriteups.com/blind-os-command-injection-with-output-redirection-1d08c3793ff1?source=rss----7b722bfd1b8d---4)
 - [A New Bug Hunting Story: Open Redirection Vulnerability](https://medium.com/meetcyber/a-new-bug-hunting-story-open-redirection-vulnerability-33a1b6374f88?source=rss------bug_bounty_writeup-5)
 - [How I got CERT-EU Hall of Fame](https://cybersecuritywriteups.com/how-i-got-cert-eu-hall-of-fame-e65b3e72510b?source=rss------bug_bounty_writeup-5)
 - [PoC — Vulnérabilité Cache Varnish PURGE DDoS by @GupS3C](https://medium.com/@GupS3C/poc-vuln%C3%A9rabilit%C3%A9-cache-varnish-purge-ddos-by-gups3c-9ce181fe7fca?source=rss------bug_bounty_writeup-5)
