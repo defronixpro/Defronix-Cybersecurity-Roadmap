@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Crack the Code — Part 2](https://it4chis3c.medium.com/crack-the-code-part-2-aeaa5055251e?source=rss------bug_bounty_writeup-5)
 - [Remember, the key is to stay motivated at every step.](https://medium.com/@rhonnysharma783/linkedin-linkedin-com-in-rhonny-99f682300332?source=rss------bug_bounty_writeup-5)
 - [How I got my first bounty of $$$](https://infosecwriteups.com/how-i-got-my-first-bounty-of-e163f970d1e0?source=rss----7b722bfd1b8d---4)
 - [Data Exfiltration in SQL Injection Attacks: A Hidden Cybersecurity Threat](https://infosecwriteups.com/data-exfiltration-in-sql-injection-attacks-a-hidden-cybersecurity-threat-0c3e7c175db0?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Crack the Code: Your Bug Bounty Hunting Journey Starts Here](https://it4chis3c.medium.com/crack-the-code-your-bug-bounty-hunting-journey-starts-here-e61701f8cb36?source=rss------bug_bounty_writeup-5)
 - [Breaking Vercel’s Clone URL with a Simple XSS Exploit](https://medium.com/@n45ht/breaking-vercels-clone-url-with-a-simple-xss-exploit-8f55b21f32eb?source=rss------bug_bounty_writeup-5)
 - [Outrunning the Limits: Exploiting a Race Condition in an Organization Invitation feature](https://medium.com/@n0apol0giz3/outrunning-the-limits-exploiting-a-race-condition-in-an-organization-invitation-feature-cf4106263d57?source=rss------bug_bounty_writeup-5)
-- [Day 09: My Bug Bounty Challenge … 0–100k without knowledge in one year!](https://medium.com/@dogxxx10/day-09-my-bug-bounty-challenge-0-100k-without-knowledge-in-one-year-220c7c6bb0cf?source=rss------bug_bounty_writeup-5)
 - [ROI Isn’t Cutting It: 6 Questions to Help CISOs Better Quantify Security Investments](https://www.hackerone.com/vulnerability-management/roi-isnt-cutting-it-ciso-questions)
 - [The OWASP Top 10 for LLMs 2025: How GenAI Risks Are Evolving](https://www.hackerone.com/ai/owasp-top-10-llms-2025)
 - [Breaking Down the OWASP Top 10: Insecure Design](https://www.hackerone.com/community/owasp-top-10-insecure-design)
