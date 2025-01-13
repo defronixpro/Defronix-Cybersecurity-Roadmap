@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Methodology for Detecting IDOR Vulnerability](https://medium.com/@dogxxx10/methodology-for-detecting-idor-vulnerability-1590b14d45a9?source=rss------bug_bounty_writeup-5)
 - [Building Your Own Bug Bounty Lab: A Hands-On Guide with Metasploit and More](https://infosecwriteups.com/building-your-own-bug-bounty-lab-a-hands-on-guide-with-metasploit-and-more-9595a71fc4c6?source=rss------bug_bounty_writeup-5)
 - [Crack the Code — Part 2](https://it4chis3c.medium.com/crack-the-code-part-2-aeaa5055251e?source=rss------bug_bounty_writeup-5)
 - [Remember, the key is to stay motivated at every step.](https://medium.com/@rhonnysharma783/linkedin-linkedin-com-in-rhonny-99f682300332?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [IDOR &amp; UUIDs to leak PII](https://medium.com/@CANITEY/idor-uuids-to-leak-pii-7675130ab784?source=rss------bug_bounty_writeup-5)
 - [The Ultimate IDOR Testing Checklist](https://medium.com/@muhammetalgan3547/the-ultimate-idor-testing-checklist-ba4a7c094def?source=rss------bug_bounty_writeup-5)
 - [Crack the Code: Your Bug Bounty Hunting Journey Starts Here](https://it4chis3c.medium.com/crack-the-code-your-bug-bounty-hunting-journey-starts-here-e61701f8cb36?source=rss------bug_bounty_writeup-5)
-- [Breaking Vercel’s Clone URL with a Simple XSS Exploit](https://medium.com/@n45ht/breaking-vercels-clone-url-with-a-simple-xss-exploit-8f55b21f32eb?source=rss------bug_bounty_writeup-5)
 - [ROI Isn’t Cutting It: 6 Questions to Help CISOs Better Quantify Security Investments](https://www.hackerone.com/vulnerability-management/roi-isnt-cutting-it-ciso-questions)
 - [The OWASP Top 10 for LLMs 2025: How GenAI Risks Are Evolving](https://www.hackerone.com/ai/owasp-top-10-llms-2025)
 - [Breaking Down the OWASP Top 10: Insecure Design](https://www.hackerone.com/community/owasp-top-10-insecure-design)
