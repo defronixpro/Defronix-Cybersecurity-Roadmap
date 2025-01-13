@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Stored CSRF via Uploaded HTML File in User Account Document Section](https://medium.com/@dee.gholase/stored-csrf-via-uploaded-html-file-in-user-account-document-section-dbe98e9184a3?source=rss------bug_bounty_writeup-5)
 - [The HTTP Headers and Methods: Introduction to HTTP](https://medium.com/@shalomo.social/the-http-headers-and-methods-introduction-to-http-e95f28a4ce54?source=rss------bug_bounty_writeup-5)
 - [How i found Broken Access Control](https://medium.com/@gitlime71/how-i-found-broken-access-control-c3377d3df60e?source=rss------bug_bounty_writeup-5)
 - [IDOR &amp; UUIDs to leak PII](https://medium.com/@CANITEY/idor-uuids-to-leak-pii-7675130ab784?source=rss------bug_bounty_writeup-5)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How Spanning Tree Protocol &lpar;STP&rpar; Works](https://infosecwriteups.com/how-spanning-tree-protocol-stp-works-bfa348490673?source=rss----7b722bfd1b8d---4)
 - [Introduction to Network File Sharing with NFS and Samba](https://infosecwriteups.com/introduction-to-network-file-sharing-with-nfs-and-samba-62a818a312c6?source=rss----7b722bfd1b8d---4)
 - [Unlock the Ultimate Resource Hub for Security Researchers](https://infosecwriteups.com/unlock-the-ultimate-resource-hub-for-security-researchers-9fa52bbff1ff?source=rss----7b722bfd1b8d---4)
-- [Race Condition to Bypass Rate-Limiting: A new technique made by Nillsx](https://infosecwriteups.com/race-condition-to-bypass-rate-limiting-a-new-technique-made-by-nillsx-6a60f41dbae6?source=rss------bug_bounty_writeup-5)
 - [ROI Isn’t Cutting It: 6 Questions to Help CISOs Better Quantify Security Investments](https://www.hackerone.com/vulnerability-management/roi-isnt-cutting-it-ciso-questions)
 - [The OWASP Top 10 for LLMs 2025: How GenAI Risks Are Evolving](https://www.hackerone.com/ai/owasp-top-10-llms-2025)
 - [Breaking Down the OWASP Top 10: Insecure Design](https://www.hackerone.com/community/owasp-top-10-insecure-design)
