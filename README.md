@@ -922,12 +922,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [When I Bypassed Google CAPTCHA: The Epic Exploit of POST-based XSS + CSRF](https://medium.com/@tinopreter/when-i-bypassed-google-captcha-the-epic-exploit-of-post-based-xss-csrf-1fb66f7cf886?source=rss------bug_bounty_writeup-5)
-- [Simple Tips for Bug Bounty Beginners: Finding Open AWS S3 buckets, impact, and causes](https://medium.com/@anishnarayan/simple-tips-for-bug-bounty-beginners-finding-open-aws-s3-buckets-impact-and-causes-52f252bcddfa?source=rss------bug_bounty_writeup-5)
-- [Methodology for Detecting IDOR Vulnerability](https://medium.com/@dogxxx10/methodology-for-detecting-idor-vulnerability-1590b14d45a9?source=rss------bug_bounty_writeup-5)
-- [Building Your Own Bug Bounty Lab: A Hands-On Guide with Metasploit and More](https://infosecwriteups.com/building-your-own-bug-bounty-lab-a-hands-on-guide-with-metasploit-and-more-9595a71fc4c6?source=rss------bug_bounty_writeup-5)
-- [Crack the Code — Part 2](https://it4chis3c.medium.com/crack-the-code-part-2-aeaa5055251e?source=rss------bug_bounty_writeup-5)
-- [Remember, the key is to stay motivated at every step.](https://medium.com/@rhonnysharma783/linkedin-linkedin-com-in-rhonny-99f682300332?source=rss------bug_bounty_writeup-5)
 - [How I got my first bounty of $$$](https://infosecwriteups.com/how-i-got-my-first-bounty-of-e163f970d1e0?source=rss----7b722bfd1b8d---4)
 - [Data Exfiltration in SQL Injection Attacks: A Hidden Cybersecurity Threat](https://infosecwriteups.com/data-exfiltration-in-sql-injection-attacks-a-hidden-cybersecurity-threat-0c3e7c175db0?source=rss----7b722bfd1b8d---4)
 - [Advanced DNS Attacks: Poisoning and Exploitation](https://infosecwriteups.com/advanced-dns-attacks-poisoning-and-exploitation-4c1a53c3a696?source=rss----7b722bfd1b8d---4)
@@ -938,9 +932,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Docker Magic: From First Image to Publishing on Docker Hub!](https://infosecwriteups.com/docker-magic-from-first-image-to-publishing-on-docker-hub-89ba39df08ae?source=rss----7b722bfd1b8d---4)
 - [The Subdomain They Forgot — How I Chained Bugs for a $1,000 Bounty](https://infosecwriteups.com/the-subdomain-they-forgot-how-i-chained-bugs-for-a-1-000-bounty-094d89758489?source=rss----7b722bfd1b8d---4)
 - [Silver Platter TryHackMe Motion Graphics Writeup | Beginner Friendly | Detailed Walkthrough |…](https://infosecwriteups.com/silver-platter-tryhackme-motion-graphics-writeup-beginner-friendly-detailed-walkthrough-3ecd7d7ae5df?source=rss----7b722bfd1b8d---4)
-- [Stored CSRF via Uploaded HTML File in User Account Document Section](https://jxycybersec.medium.com/stored-csrf-via-uploaded-html-file-in-user-account-document-section-dbe98e9184a3?source=rss------bug_bounty_writeup-5)
-- [The HTTP Headers and Methods: Introduction to HTTP](https://medium.com/@shalomo.social/the-http-headers-and-methods-introduction-to-http-e95f28a4ce54?source=rss------bug_bounty_writeup-5)
-- [How i found Broken Access Control](https://medium.com/@gitlime71/how-i-found-broken-access-control-c3377d3df60e?source=rss------bug_bounty_writeup-5)
 - [A Partial Victory for AI Researchers](https://www.hackerone.com/public-policy/dmca-ai-ruling)
 - [ROI Isn’t Cutting It: 6 Questions to Help CISOs Better Quantify Security Investments](https://www.hackerone.com/vulnerability-management/roi-isnt-cutting-it-ciso-questions)
 - [The OWASP Top 10 for LLMs 2025: How GenAI Risks Are Evolving](https://www.hackerone.com/ai/owasp-top-10-llms-2025)
@@ -972,6 +963,15 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How an Information Disclosure Vulnerability Led to Critical Data Exposure](https://www.hackerone.com/vulnerability-management/information-disclosure-deep-dive)
 - [How a Cross-Site Scripting Vulnerability Led to Account Takeover](https://www.hackerone.com/vulnerability-management/xss-deep-dive)
 - [How a Business Logic Vulnerability Led to Unlimited Discount Redemption](https://www.hackerone.com/vulnerability-management/stripe-business-logic-error-bug)
+- [Who Should Own AI Risk at Your Organization?](https://www.hackerone.com/ai/who-owns-ai-risk)
+- [Securing Our Elections Through Vulnerability Testing and Disclosure](https://www.hackerone.com/public-policy/securing-elections-through-vulnerability-testing)
+- [Measure, Compare, and Enhance Security Programs with HackerOne Benchmarks](https://www.hackerone.com/vulnerability-management/hackerone-benchmarks)
+- [AWS Security Configuration Review and Best Practices](https://www.hackerone.com/penetration-testing/aws-security-configuration)
+- [OWASP Top 10: The Risk of Cryptographic Failures](https://www.hackerone.com/vulnerability-management/cryptographic-failures)
+- [Vulnerability Deep Dive: Gaining RCE Through ImageMagick With Frans Rosen](https://www.hackerone.com/vulnerability-management/gaining-rce-through-imagemagick)
+- [How To Use HackerOne’s Global Vulnerability Policy Map](https://www.hackerone.com/public-policy/global-vulnerability-policy-map)
+- [European Council Adopts Cyber Resilience Act](https://www.hackerone.com/public-policy/eu-council-cyber-resilience-act)
+- [Measure Your AI Risk Preparedness with This Interactive Self-Assessment Tool](https://www.hackerone.com/ai/ai-security-readiness-quiz)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
