@@ -20,7 +20,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How i found Broken Access Control](https://medium.com/@gitlime71/how-i-found-broken-access-control-c3377d3df60e?source=rss------bug_bounty_writeup-5)
 - [IDOR &amp; UUIDs to leak PII](https://medium.com/@CANITEY/idor-uuids-to-leak-pii-7675130ab784?source=rss------bug_bounty_writeup-5)
 - [The Ultimate IDOR Testing Checklist](https://medium.com/@muhammetalgan3547/the-ultimate-idor-testing-checklist-ba4a7c094def?source=rss------bug_bounty_writeup-5)
-- [Crack the Code: Your Bug Bounty Hunting Journey Starts Here](https://it4chis3c.medium.com/crack-the-code-your-bug-bounty-hunting-journey-starts-here-e61701f8cb36?source=rss------bug_bounty_writeup-5)
 - [ROI Isn’t Cutting It: 6 Questions to Help CISOs Better Quantify Security Investments](https://www.hackerone.com/vulnerability-management/roi-isnt-cutting-it-ciso-questions)
 - [The OWASP Top 10 for LLMs 2025: How GenAI Risks Are Evolving](https://www.hackerone.com/ai/owasp-top-10-llms-2025)
 - [Breaking Down the OWASP Top 10: Insecure Design](https://www.hackerone.com/community/owasp-top-10-insecure-design)
