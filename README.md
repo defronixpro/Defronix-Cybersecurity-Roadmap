@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [When I Bypassed Google CAPTCHA: The Epic Exploit of POST-based XSS + CSRF](https://medium.com/@tinopreter/when-i-bypassed-google-captcha-the-epic-exploit-of-post-based-xss-csrf-1fb66f7cf886?source=rss------bug_bounty_writeup-5)
 - [Simple Tips for Bug Bounty Beginners: Finding Open AWS S3 buckets, impact, and causes](https://medium.com/@anishnarayan/simple-tips-for-bug-bounty-beginners-finding-open-aws-s3-buckets-impact-and-causes-52f252bcddfa?source=rss------bug_bounty_writeup-5)
 - [Methodology for Detecting IDOR Vulnerability](https://medium.com/@dogxxx10/methodology-for-detecting-idor-vulnerability-1590b14d45a9?source=rss------bug_bounty_writeup-5)
 - [Building Your Own Bug Bounty Lab: A Hands-On Guide with Metasploit and More](https://infosecwriteups.com/building-your-own-bug-bounty-lab-a-hands-on-guide-with-metasploit-and-more-9595a71fc4c6?source=rss------bug_bounty_writeup-5)
@@ -940,7 +941,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Stored CSRF via Uploaded HTML File in User Account Document Section](https://jxycybersec.medium.com/stored-csrf-via-uploaded-html-file-in-user-account-document-section-dbe98e9184a3?source=rss------bug_bounty_writeup-5)
 - [The HTTP Headers and Methods: Introduction to HTTP](https://medium.com/@shalomo.social/the-http-headers-and-methods-introduction-to-http-e95f28a4ce54?source=rss------bug_bounty_writeup-5)
 - [How i found Broken Access Control](https://medium.com/@gitlime71/how-i-found-broken-access-control-c3377d3df60e?source=rss------bug_bounty_writeup-5)
-- [IDOR &amp; UUIDs to leak PII](https://medium.com/@CANITEY/idor-uuids-to-leak-pii-7675130ab784?source=rss------bug_bounty_writeup-5)
 - [ROI Isn’t Cutting It: 6 Questions to Help CISOs Better Quantify Security Investments](https://www.hackerone.com/vulnerability-management/roi-isnt-cutting-it-ciso-questions)
 - [The OWASP Top 10 for LLMs 2025: How GenAI Risks Are Evolving](https://www.hackerone.com/ai/owasp-top-10-llms-2025)
 - [Breaking Down the OWASP Top 10: Insecure Design](https://www.hackerone.com/community/owasp-top-10-insecure-design)
