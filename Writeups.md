@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Bypassing Razer’s WAF for XSS](https://medium.com/@n45ht/bypassing-razers-waf-for-xss-afcaea744ab4?source=rss------bug_bounty_writeup-5)
 - [What You Can Expect: A Personal Introduction and Blog Overview](https://medium.com/@T3chnocr4t/what-you-can-expect-a-personal-introduction-and-blog-overview-3a0a6cc984f6?source=rss------bug_bounty_writeup-5)
 - [The Definitive Guide to GitHub Recon: Lessons from Analyzing 100+ Reports](https://medium.com/@iamakashce19010/the-definitive-guide-to-github-recon-lessons-from-analyzing-100-reports-bd5d4891a815?source=rss------bug_bounty_writeup-5)
 - [When I Bypassed Google CAPTCHA: The Epic Exploit of POST-based XSS + CSRF](https://medium.com/@tinopreter/when-i-bypassed-google-captcha-the-epic-exploit-of-post-based-xss-csrf-1fb66f7cf886?source=rss------bug_bounty_writeup-5)
@@ -19,7 +20,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Docker Magic: From First Image to Publishing on Docker Hub!](https://infosecwriteups.com/docker-magic-from-first-image-to-publishing-on-docker-hub-89ba39df08ae?source=rss----7b722bfd1b8d---4)
 - [The Subdomain They Forgot — How I Chained Bugs for a $1,000 Bounty](https://infosecwriteups.com/the-subdomain-they-forgot-how-i-chained-bugs-for-a-1-000-bounty-094d89758489?source=rss----7b722bfd1b8d---4)
 - [Silver Platter TryHackMe Motion Graphics Writeup | Beginner Friendly | Detailed Walkthrough |…](https://infosecwriteups.com/silver-platter-tryhackme-motion-graphics-writeup-beginner-friendly-detailed-walkthrough-3ecd7d7ae5df?source=rss----7b722bfd1b8d---4)
-- [Stored CSRF via Uploaded HTML File in User Account Document Section](https://jxycybersec.medium.com/stored-csrf-via-uploaded-html-file-in-user-account-document-section-dbe98e9184a3?source=rss------bug_bounty_writeup-5)
 - [A Partial Victory for AI Researchers](https://www.hackerone.com/public-policy/dmca-ai-ruling)
 - [ROI Isn’t Cutting It: 6 Questions to Help CISOs Better Quantify Security Investments](https://www.hackerone.com/vulnerability-management/roi-isnt-cutting-it-ciso-questions)
 - [The OWASP Top 10 for LLMs 2025: How GenAI Risks Are Evolving](https://www.hackerone.com/ai/owasp-top-10-llms-2025)
