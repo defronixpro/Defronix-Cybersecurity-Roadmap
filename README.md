@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How to pass EMAPT exam](https://medium.com/@nomad8061/how-to-pass-emapt-exam-78bed982d061?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Unlocked: Secrets, Strategies, and Mindset Hacks for Success](https://it4chis3c.medium.com/bug-bounty-unlocked-secrets-strategies-and-mindset-hacks-for-success-e5d94a632220?source=rss------bug_bounty_writeup-5)
 - [My first step into Bug Bounty](https://medium.com/@n4itr0_07/my-first-step-into-bug-bounty-718d967e0576?source=rss------bug_bounty_writeup-5)
 - [Kicking Off 2025: Findings on U.S. Department of Energy](https://cybersecuritywriteups.com/kicking-off-2025-findings-on-u-s-department-of-energy-a92149e43102?source=rss------bug_bounty_writeup-5)
@@ -930,7 +931,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [What You Can Expect: A Personal Introduction and Blog Overview](https://medium.com/@T3chnocr4t/what-you-can-expect-a-personal-introduction-and-blog-overview-3a0a6cc984f6?source=rss------bug_bounty_writeup-5)
 - [The Definitive Guide to GitHub Recon: Lessons from Analyzing 100+ Reports](https://medium.com/@iamakashce19010/the-definitive-guide-to-github-recon-lessons-from-analyzing-100-reports-bd5d4891a815?source=rss------bug_bounty_writeup-5)
 - [When I Bypassed Google CAPTCHA: The Epic Exploit of POST-based XSS + CSRF](https://medium.com/@tinopreter/when-i-bypassed-google-captcha-the-epic-exploit-of-post-based-xss-csrf-1fb66f7cf886?source=rss------bug_bounty_writeup-5)
-- [Simple Tips for Bug Bounty Beginners: Finding Open AWS S3 buckets, impact, and causes](https://medium.com/@anishnarayan/simple-tips-for-bug-bounty-beginners-finding-open-aws-s3-buckets-impact-and-causes-52f252bcddfa?source=rss------bug_bounty_writeup-5)
 - [How I got my first bounty of $$$](https://infosecwriteups.com/how-i-got-my-first-bounty-of-e163f970d1e0?source=rss----7b722bfd1b8d---4)
 - [Data Exfiltration in SQL Injection Attacks: A Hidden Cybersecurity Threat](https://infosecwriteups.com/data-exfiltration-in-sql-injection-attacks-a-hidden-cybersecurity-threat-0c3e7c175db0?source=rss----7b722bfd1b8d---4)
 - [Advanced DNS Attacks: Poisoning and Exploitation](https://infosecwriteups.com/advanced-dns-attacks-poisoning-and-exploitation-4c1a53c3a696?source=rss----7b722bfd1b8d---4)
