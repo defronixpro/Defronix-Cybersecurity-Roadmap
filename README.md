@@ -930,7 +930,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Methodology for Detecting IDOR Vulnerability](https://medium.com/@dogxxx10/methodology-for-detecting-idor-vulnerability-1590b14d45a9?source=rss------bug_bounty_writeup-5)
 - [Building Your Own Bug Bounty Lab: A Hands-On Guide with Metasploit and More](https://infosecwriteups.com/building-your-own-bug-bounty-lab-a-hands-on-guide-with-metasploit-and-more-9595a71fc4c6?source=rss------bug_bounty_writeup-5)
 - [Crack the Code — Part 2](https://it4chis3c.medium.com/crack-the-code-part-2-aeaa5055251e?source=rss------bug_bounty_writeup-5)
-- [Remember, the key is to stay motivated at every step.](https://medium.com/@rhonnysharma783/linkedin-linkedin-com-in-rhonny-99f682300332?source=rss------bug_bounty_writeup-5)
 - [How I got my first bounty of $$$](https://infosecwriteups.com/how-i-got-my-first-bounty-of-e163f970d1e0?source=rss----7b722bfd1b8d---4)
 - [Data Exfiltration in SQL Injection Attacks: A Hidden Cybersecurity Threat](https://infosecwriteups.com/data-exfiltration-in-sql-injection-attacks-a-hidden-cybersecurity-threat-0c3e7c175db0?source=rss----7b722bfd1b8d---4)
 - [Advanced DNS Attacks: Poisoning and Exploitation](https://infosecwriteups.com/advanced-dns-attacks-poisoning-and-exploitation-4c1a53c3a696?source=rss----7b722bfd1b8d---4)
@@ -972,6 +971,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How an Information Disclosure Vulnerability Led to Critical Data Exposure](https://www.hackerone.com/vulnerability-management/information-disclosure-deep-dive)
 - [How a Cross-Site Scripting Vulnerability Led to Account Takeover](https://www.hackerone.com/vulnerability-management/xss-deep-dive)
 - [How a Business Logic Vulnerability Led to Unlimited Discount Redemption](https://www.hackerone.com/vulnerability-management/stripe-business-logic-error-bug)
+- [Who Should Own AI Risk at Your Organization?](https://www.hackerone.com/ai/who-owns-ai-risk)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
