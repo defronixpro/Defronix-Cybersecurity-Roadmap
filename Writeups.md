@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [2FA Bypass via Response manipulation](https://medium.com/@0mex/2fa-bypass-via-response-manipulation-c15a0912f83b?source=rss------bug_bounty_writeup-5)
 - [XSS: Bypass CloudFront WAF](https://medium.com/@n45ht/xss-bypass-cloudfront-waf-9d0c8a12dc33?source=rss------bug_bounty_writeup-5)
 - [The rise of scammer bug bounty programs — and the reason I quit bug bounty hunting.](https://medium.com/@brotheralameen/the-rise-of-scammer-bug-bounty-programs-and-the-reason-i-quit-bug-bounty-hunting-4cc661c92e09?source=rss------bug_bounty_writeup-5)
 - [REVEALED: Best Way to Recover Lost or Deleted Data from Smartphones](https://infosecwriteups.com/revealed-best-way-to-recover-lost-or-deleted-data-from-smartphones-531332dece00?source=rss----7b722bfd1b8d---4)
@@ -10,7 +11,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Kicking Off 2025: Findings on U.S. Department of Energy](https://cybersecuritywriteups.com/kicking-off-2025-findings-on-u-s-department-of-energy-a92149e43102?source=rss------bug_bounty_writeup-5)
 - [How to Tackle Vulnerable JavaScript Dependencies: Lessons from the Kerala Government Website](https://medium.com/@ashwin74/how-to-tackle-vulnerable-javascript-dependencies-lessons-from-the-kerala-government-website-220722709ac4?source=rss------bug_bounty_writeup-5)
 - [Bypassing Razer’s WAF for XSS](https://medium.com/@n45ht/bypassing-razers-waf-for-xss-afcaea744ab4?source=rss------bug_bounty_writeup-5)
-- [What You Can Expect: A Personal Introduction and Blog Overview](https://medium.com/@T3chnocr4t/what-you-can-expect-a-personal-introduction-and-blog-overview-3a0a6cc984f6?source=rss------bug_bounty_writeup-5)
 - [How I got my first bounty of $$$](https://infosecwriteups.com/how-i-got-my-first-bounty-of-e163f970d1e0?source=rss----7b722bfd1b8d---4)
 - [Data Exfiltration in SQL Injection Attacks: A Hidden Cybersecurity Threat](https://infosecwriteups.com/data-exfiltration-in-sql-injection-attacks-a-hidden-cybersecurity-threat-0c3e7c175db0?source=rss----7b722bfd1b8d---4)
 - [Advanced DNS Attacks: Poisoning and Exploitation](https://infosecwriteups.com/advanced-dns-attacks-poisoning-and-exploitation-4c1a53c3a696?source=rss----7b722bfd1b8d---4)
