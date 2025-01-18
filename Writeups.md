@@ -1,6 +1,9 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [HTB Challenge Write-Up: Juggling Facts](https://infosecwriteups.com/htb-challenge-write-up-juggling-facts-9349abd89f79?source=rss----7b722bfd1b8d---4)
+- [Critical Blind SQL Injection leads to 
+$4,134 &lpar;7/30 DAYS&rpar;](https://infosecwriteups.com/critical-blind-sql-injection-leads-to-4-134-7-30-days-d8918ff3d2d0?source=rss----7b722bfd1b8d---4)
 - [Silver Platter Tryhackme Walkthrough](https://infosecwriteups.com/silver-platter-tryhackme-walkthrough-9c86017bde05?source=rss----7b722bfd1b8d---4)
 - [How I Hacked Actor Vijay’s Political Party Website — Tamilaga Vettri Kazhagam &lpar;TVK&rpar;](https://infosecwriteups.com/how-i-hacked-actor-vijays-political-party-website-tamilaga-vettri-kazhagam-tvk-340f0b44289e?source=rss----7b722bfd1b8d---4)
 - [Exploration of Tryhackme’s Advent of Cyber 2024 All Days Writeups](https://infosecwriteups.com/exploration-of-tryhackmes-advent-of-cyber-2024-all-days-writeups-15825344ee5d?source=rss----7b722bfd1b8d---4)
@@ -10,12 +13,10 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Whiterose TryHackMe Motion Graphics Writeup | Easy Room | Detailed THM Walkthrough](https://infosecwriteups.com/whiterose-tryhackme-motion-graphics-writeup-easy-room-detailed-thm-walkthrough-972ee9129fe2?source=rss----7b722bfd1b8d---4)
 - [Forensic and Pwn: UofTCTF 2025](https://infosecwriteups.com/forensic-and-pwn-uoftctf-2025-806d8400ee97?source=rss----7b722bfd1b8d---4)
 - [Zero-Click Account Takeover [Critical bug]](https://medium.com/@osamamohamed21212121/zero-click-account-takeover-critical-bug-ab31f27b8674?source=rss------bug_bounty_writeup-5)
-- [CVE-2024-50379: Apache Tomcat Race Condition Vulnerability Leads to Remote Code Execution](https://infosecwriteups.com/cve-2024-50379-apache-tomcat-race-condition-vulnerability-leads-to-remote-code-execution-6b3291780d65?source=rss----7b722bfd1b8d---4)
 - [Bug Bounty | Privilege Escalation From Admin To Owner](https://medium.com/@yog_sahare/bug-bounty-privilege-escalation-from-admin-to-owner-90d86e2395e6?source=rss------bug_bounty_writeup-5)
 - [2FA Bypass via Response manipulation](https://medium.com/@0mex/2fa-bypass-via-response-manipulation-c15a0912f83b?source=rss------bug_bounty_writeup-5)
 - [XSS: Bypass CloudFront WAF](https://medium.com/@n45ht/xss-bypass-cloudfront-waf-9d0c8a12dc33?source=rss------bug_bounty_writeup-5)
 - [The rise of scammer bug bounty programs — and the reason I quit bug bounty hunting.](https://medium.com/@brotheralameen/the-rise-of-scammer-bug-bounty-programs-and-the-reason-i-quit-bug-bounty-hunting-4cc661c92e09?source=rss------bug_bounty_writeup-5)
-- [REVEALED: Best Way to Recover Lost or Deleted Data from Smartphones](https://infosecwriteups.com/revealed-best-way-to-recover-lost-or-deleted-data-from-smartphones-531332dece00?source=rss----7b722bfd1b8d---4)
 - [How to pass EMAPT exam](https://medium.com/@nomad8061/how-to-pass-emapt-exam-78bed982d061?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Unlocked: Secrets, Strategies, and Mindset Hacks for Success](https://it4chis3c.medium.com/bug-bounty-unlocked-secrets-strategies-and-mindset-hacks-for-success-e5d94a632220?source=rss------bug_bounty_writeup-5)
 - [My first step into Bug Bounty](https://medium.com/@n4itr0_07/my-first-step-into-bug-bounty-718d967e0576?source=rss------bug_bounty_writeup-5)
