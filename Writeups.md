@@ -1,6 +1,8 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Building Your Own Bug Bounty Lab: A Hands-On Guide with Metasploit and More](https://infosecwriteups.com/building-your-own-bug-bounty-lab-a-hands-on-guide-with-metasploit-and-more-9595a71fc4c6?source=rss----7b722bfd1b8d---4)
+- [Stored XSS to Admin in Unauthenticated-WordPress](https://infosecwriteups.com/stored-xss-to-admin-in-unauthenticated-wordpress-cb76bae66623?source=rss----7b722bfd1b8d---4)
 - [This is How I Turned an Informative Bug into a Valid $500 Bug](https://infosecwriteups.com/this-is-how-i-turned-an-informative-bug-into-a-valid-500-bug-174ffeb94737?source=rss----7b722bfd1b8d---4)
 - [Whiterose TryHackMe Motion Graphics Writeup | Easy Room | Detailed THM Walkthrough](https://infosecwriteups.com/whiterose-tryhackme-motion-graphics-writeup-easy-room-detailed-thm-walkthrough-972ee9129fe2?source=rss----7b722bfd1b8d---4)
 - [Forensic and Pwn: UofTCTF 2025](https://infosecwriteups.com/forensic-and-pwn-uoftctf-2025-806d8400ee97?source=rss----7b722bfd1b8d---4)
@@ -19,8 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How I got my first bounty of $$$](https://infosecwriteups.com/how-i-got-my-first-bounty-of-e163f970d1e0?source=rss----7b722bfd1b8d---4)
 - [Data Exfiltration in SQL Injection Attacks: A Hidden Cybersecurity Threat](https://infosecwriteups.com/data-exfiltration-in-sql-injection-attacks-a-hidden-cybersecurity-threat-0c3e7c175db0?source=rss----7b722bfd1b8d---4)
 - [Advanced DNS Attacks: Poisoning and Exploitation](https://infosecwriteups.com/advanced-dns-attacks-poisoning-and-exploitation-4c1a53c3a696?source=rss----7b722bfd1b8d---4)
-- [Bypassing Endpoint Detection and Response &lpar;EDR&rpar; Solutions: Practical Evasion Techniques with…](https://infosecwriteups.com/bypassing-endpoint-detection-and-response-edr-solutions-practical-evasion-techniques-with-fc041ad65d0b?source=rss----7b722bfd1b8d---4)
-- [Redefining Cyber Threat Intelligence with AI](https://infosecwriteups.com/redefining-cyber-threat-intelligence-with-ai-68ad2ac8270c?source=rss----7b722bfd1b8d---4)
 - [A Partial Victory for AI Researchers](https://www.hackerone.com/public-policy/dmca-ai-ruling)
 - [ROI Isn’t Cutting It: 6 Questions to Help CISOs Better Quantify Security Investments](https://www.hackerone.com/vulnerability-management/roi-isnt-cutting-it-ciso-questions)
 - [The OWASP Top 10 for LLMs 2025: How GenAI Risks Are Evolving](https://www.hackerone.com/ai/owasp-top-10-llms-2025)
