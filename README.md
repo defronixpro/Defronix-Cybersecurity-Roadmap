@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Bug Bounty | Privilege Escalation From Admin To Owner](https://medium.com/@yog_sahare/bug-bounty-privilege-escalation-from-admin-to-owner-90d86e2395e6?source=rss------bug_bounty_writeup-5)
 - [2FA Bypass via Response manipulation](https://medium.com/@0mex/2fa-bypass-via-response-manipulation-c15a0912f83b?source=rss------bug_bounty_writeup-5)
 - [XSS: Bypass CloudFront WAF](https://medium.com/@n45ht/xss-bypass-cloudfront-waf-9d0c8a12dc33?source=rss------bug_bounty_writeup-5)
 - [The rise of scammer bug bounty programs — and the reason I quit bug bounty hunting.](https://medium.com/@brotheralameen/the-rise-of-scammer-bug-bounty-programs-and-the-reason-i-quit-bug-bounty-hunting-4cc661c92e09?source=rss------bug_bounty_writeup-5)
@@ -931,7 +932,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [My first step into Bug Bounty](https://medium.com/@n4itr0_07/my-first-step-into-bug-bounty-718d967e0576?source=rss------bug_bounty_writeup-5)
 - [Kicking Off 2025: Findings on U.S. Department of Energy](https://cybersecuritywriteups.com/kicking-off-2025-findings-on-u-s-department-of-energy-a92149e43102?source=rss------bug_bounty_writeup-5)
 - [How to Tackle Vulnerable JavaScript Dependencies: Lessons from the Kerala Government Website](https://medium.com/@ashwin74/how-to-tackle-vulnerable-javascript-dependencies-lessons-from-the-kerala-government-website-220722709ac4?source=rss------bug_bounty_writeup-5)
-- [Bypassing Razer’s WAF for XSS](https://medium.com/@n45ht/bypassing-razers-waf-for-xss-afcaea744ab4?source=rss------bug_bounty_writeup-5)
 - [How I got my first bounty of $$$](https://infosecwriteups.com/how-i-got-my-first-bounty-of-e163f970d1e0?source=rss----7b722bfd1b8d---4)
 - [Data Exfiltration in SQL Injection Attacks: A Hidden Cybersecurity Threat](https://infosecwriteups.com/data-exfiltration-in-sql-injection-attacks-a-hidden-cybersecurity-threat-0c3e7c175db0?source=rss----7b722bfd1b8d---4)
 - [Advanced DNS Attacks: Poisoning and Exploitation](https://infosecwriteups.com/advanced-dns-attacks-poisoning-and-exploitation-4c1a53c3a696?source=rss----7b722bfd1b8d---4)
