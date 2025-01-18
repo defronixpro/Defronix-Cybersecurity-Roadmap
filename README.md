@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Re-captcha token generating secret key leaking identified via way back machine](https://medium.com/@swaroopvenkat828/re-captcha-token-generating-secret-key-leaking-identified-via-way-back-machine-8b7fc04e90f8?source=rss------bug_bounty_writeup-5)
 - [HTB Challenge Write-Up: Juggling Facts](https://infosecwriteups.com/htb-challenge-write-up-juggling-facts-9349abd89f79?source=rss----7b722bfd1b8d---4)
 - [Critical Blind SQL Injection leads to 
 $4,134 &lpar;7/30 DAYS&rpar;](https://infosecwriteups.com/critical-blind-sql-injection-leads-to-4-134-7-30-days-d8918ff3d2d0?source=rss----7b722bfd1b8d---4)
@@ -942,7 +943,6 @@ $4,134 &lpar;7/30 DAYS&rpar;](https://infosecwriteups.com/critical-blind-sql-inj
 - [Bug Bounty Unlocked: Secrets, Strategies, and Mindset Hacks for Success](https://it4chis3c.medium.com/bug-bounty-unlocked-secrets-strategies-and-mindset-hacks-for-success-e5d94a632220?source=rss------bug_bounty_writeup-5)
 - [My first step into Bug Bounty](https://medium.com/@n4itr0_07/my-first-step-into-bug-bounty-718d967e0576?source=rss------bug_bounty_writeup-5)
 - [Kicking Off 2025: Findings on U.S. Department of Energy](https://cybersecuritywriteups.com/kicking-off-2025-findings-on-u-s-department-of-energy-a92149e43102?source=rss------bug_bounty_writeup-5)
-- [How to Tackle Vulnerable JavaScript Dependencies: Lessons from the Kerala Government Website](https://medium.com/@ashwin74/how-to-tackle-vulnerable-javascript-dependencies-lessons-from-the-kerala-government-website-220722709ac4?source=rss------bug_bounty_writeup-5)
 - [A Partial Victory for AI Researchers](https://www.hackerone.com/public-policy/dmca-ai-ruling)
 - [ROI Isn’t Cutting It: 6 Questions to Help CISOs Better Quantify Security Investments](https://www.hackerone.com/vulnerability-management/roi-isnt-cutting-it-ciso-questions)
 - [The OWASP Top 10 for LLMs 2025: How GenAI Risks Are Evolving](https://www.hackerone.com/ai/owasp-top-10-llms-2025)
