@@ -1,6 +1,9 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [This is How I Turned an Informative Bug into a Valid $500 Bug](https://infosecwriteups.com/this-is-how-i-turned-an-informative-bug-into-a-valid-500-bug-174ffeb94737?source=rss----7b722bfd1b8d---4)
+- [Whiterose TryHackMe Motion Graphics Writeup | Easy Room | Detailed THM Walkthrough](https://infosecwriteups.com/whiterose-tryhackme-motion-graphics-writeup-easy-room-detailed-thm-walkthrough-972ee9129fe2?source=rss----7b722bfd1b8d---4)
+- [Forensic and Pwn: UofTCTF 2025](https://infosecwriteups.com/forensic-and-pwn-uoftctf-2025-806d8400ee97?source=rss----7b722bfd1b8d---4)
 - [Zero-Click Account Takeover [Critical bug]](https://medium.com/@osamamohamed21212121/zero-click-account-takeover-critical-bug-ab31f27b8674?source=rss------bug_bounty_writeup-5)
 - [CVE-2024-50379: Apache Tomcat Race Condition Vulnerability Leads to Remote Code Execution](https://infosecwriteups.com/cve-2024-50379-apache-tomcat-race-condition-vulnerability-leads-to-remote-code-execution-6b3291780d65?source=rss----7b722bfd1b8d---4)
 - [Bug Bounty | Privilege Escalation From Admin To Owner](https://medium.com/@yog_sahare/bug-bounty-privilege-escalation-from-admin-to-owner-90d86e2395e6?source=rss------bug_bounty_writeup-5)
@@ -18,9 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Advanced DNS Attacks: Poisoning and Exploitation](https://infosecwriteups.com/advanced-dns-attacks-poisoning-and-exploitation-4c1a53c3a696?source=rss----7b722bfd1b8d---4)
 - [Bypassing Endpoint Detection and Response &lpar;EDR&rpar; Solutions: Practical Evasion Techniques with…](https://infosecwriteups.com/bypassing-endpoint-detection-and-response-edr-solutions-practical-evasion-techniques-with-fc041ad65d0b?source=rss----7b722bfd1b8d---4)
 - [Redefining Cyber Threat Intelligence with AI](https://infosecwriteups.com/redefining-cyber-threat-intelligence-with-ai-68ad2ac8270c?source=rss----7b722bfd1b8d---4)
-- [Centralizing User Access Management Using Terraform for SaaS Applications — Part 1](https://infosecwriteups.com/centralizing-user-access-management-using-terraform-for-saas-applications-part-1-8bb7d8dc3faa?source=rss----7b722bfd1b8d---4)
-- [From Zero to Remote Control: A Dual-Language Approach with Python and Go](https://infosecwriteups.com/from-zero-to-remote-control-a-dual-language-approach-with-python-and-go-3174cb0ec4f8?source=rss----7b722bfd1b8d---4)
-- [Docker Magic: From First Image to Publishing on Docker Hub!](https://infosecwriteups.com/docker-magic-from-first-image-to-publishing-on-docker-hub-89ba39df08ae?source=rss----7b722bfd1b8d---4)
 - [A Partial Victory for AI Researchers](https://www.hackerone.com/public-policy/dmca-ai-ruling)
 - [ROI Isn’t Cutting It: 6 Questions to Help CISOs Better Quantify Security Investments](https://www.hackerone.com/vulnerability-management/roi-isnt-cutting-it-ciso-questions)
 - [The OWASP Top 10 for LLMs 2025: How GenAI Risks Are Evolving](https://www.hackerone.com/ai/owasp-top-10-llms-2025)
