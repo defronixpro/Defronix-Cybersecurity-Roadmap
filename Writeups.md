@@ -1,6 +1,11 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How I Discovered a Critical Vulnerability in an Internet Service Provider’s Software](https://infosecwriteups.com/how-i-discovered-a-critical-vulnerability-in-an-internet-service-providers-software-56c6cc00f338?source=rss----7b722bfd1b8d---4)
+- [HackTheBox — Compromised Sherlock Walkthrough](https://infosecwriteups.com/hackthebox-compromised-sherlock-walkthrough-9a2cc29cc0a0?source=rss----7b722bfd1b8d---4)
+- [STATIC VIDEO [STEGANOGRAPHY]](https://infosecwriteups.com/static-video-steganography-12006cc51b31?source=rss----7b722bfd1b8d---4)
+- [THM Lo-Fi walkthrough](https://infosecwriteups.com/thm-lo-fi-walkthrough-1cd311467277?source=rss----7b722bfd1b8d---4)
+- [Lo-Fi {Easy} TryHackMe Motion Graphics Writeup](https://infosecwriteups.com/lo-fi-easy-tryhackme-motion-graphics-writeup-2276d6e62bdd?source=rss----7b722bfd1b8d---4)
 - [Choosing Your First Program in Bug Bounties: A Beginner’s Guide](https://it4chis3c.medium.com/choosing-your-first-program-in-bug-bounties-a-beginners-guide-6b27c58316da?source=rss------bug_bounty_writeup-5)
 - [Finding my First SQL Injection On HackerOne](https://infosecwriteups.com/finding-my-first-sql-injection-on-hackerone-6a031ab5aa1c?source=rss----7b722bfd1b8d---4)
 - [Plan Ristriction Bypass for Slack Integration: 500$ Improper Validation Check Bug](https://infosecwriteups.com/plan-ristriction-bypass-for-slack-integration-500-improper-validation-check-bug-0c1acf6f01d3?source=rss----7b722bfd1b8d---4)
@@ -11,12 +16,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Unlocking the Doors: How I Took Over Accounts with a Single Flaw!](https://medium.com/@omdubey170/unlocking-the-doors-how-i-took-over-accounts-with-a-single-flaw-239900ab5ee9?source=rss------bug_bounty_writeup-5)
 - [Re-captcha token generating secret key leaking identified via way back machine](https://medium.com/@swaroopvenkat828/re-captcha-token-generating-secret-key-leaking-identified-via-way-back-machine-8b7fc04e90f8?source=rss------bug_bounty_writeup-5)
 - [HTB Challenge Write-Up: Juggling Facts](https://infosecwriteups.com/htb-challenge-write-up-juggling-facts-9349abd89f79?source=rss----7b722bfd1b8d---4)
-- [Critical Blind SQL Injection leads to 
-$4,134 &lpar;7/30 DAYS&rpar;](https://infosecwriteups.com/critical-blind-sql-injection-leads-to-4-134-7-30-days-d8918ff3d2d0?source=rss----7b722bfd1b8d---4)
-- [Silver Platter Tryhackme Walkthrough](https://infosecwriteups.com/silver-platter-tryhackme-walkthrough-9c86017bde05?source=rss----7b722bfd1b8d---4)
-- [How I Hacked Actor Vijay’s Political Party Website — Tamilaga Vettri Kazhagam &lpar;TVK&rpar;](https://infosecwriteups.com/how-i-hacked-actor-vijays-political-party-website-tamilaga-vettri-kazhagam-tvk-340f0b44289e?source=rss----7b722bfd1b8d---4)
-- [Exploration of Tryhackme’s Advent of Cyber 2024 All Days Writeups](https://infosecwriteups.com/exploration-of-tryhackmes-advent-of-cyber-2024-all-days-writeups-15825344ee5d?source=rss----7b722bfd1b8d---4)
-- [Building Your Own Bug Bounty Lab: A Hands-On Guide with Metasploit and More](https://infosecwriteups.com/building-your-own-bug-bounty-lab-a-hands-on-guide-with-metasploit-and-more-9595a71fc4c6?source=rss----7b722bfd1b8d---4)
 - [Zero-Click Account Takeover [Critical bug]](https://medium.com/@osamamohamed21212121/zero-click-account-takeover-critical-bug-ab31f27b8674?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty | Privilege Escalation From Admin To Owner](https://medium.com/@yog_sahare/bug-bounty-privilege-escalation-from-admin-to-owner-90d86e2395e6?source=rss------bug_bounty_writeup-5)
 - [2FA Bypass via Response manipulation](https://medium.com/@0mex/2fa-bypass-via-response-manipulation-c15a0912f83b?source=rss------bug_bounty_writeup-5)
