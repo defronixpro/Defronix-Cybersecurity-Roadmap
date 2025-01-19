@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Choosing Your First Program in Bug Bounties: A Beginner’s Guide](https://it4chis3c.medium.com/choosing-your-first-program-in-bug-bounties-a-beginners-guide-6b27c58316da?source=rss------bug_bounty_writeup-5)
 - [Finding my First SQL Injection On HackerOne](https://infosecwriteups.com/finding-my-first-sql-injection-on-hackerone-6a031ab5aa1c?source=rss----7b722bfd1b8d---4)
 - [Plan Ristriction Bypass for Slack Integration: 500$ Improper Validation Check Bug](https://infosecwriteups.com/plan-ristriction-bypass-for-slack-integration-500-improper-validation-check-bug-0c1acf6f01d3?source=rss----7b722bfd1b8d---4)
 - [User Enumeration: From Overlooked to Medium-Impact Bug](https://infosecwriteups.com/user-enumeration-from-overlooked-to-medium-impact-bug-48bbefa2ab3b?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ $4,134 &lpar;7/30 DAYS&rpar;](https://infosecwriteups.com/critical-blind-sql-inj
 - [Bug Bounty | Privilege Escalation From Admin To Owner](https://medium.com/@yog_sahare/bug-bounty-privilege-escalation-from-admin-to-owner-90d86e2395e6?source=rss------bug_bounty_writeup-5)
 - [2FA Bypass via Response manipulation](https://medium.com/@0mex/2fa-bypass-via-response-manipulation-c15a0912f83b?source=rss------bug_bounty_writeup-5)
 - [XSS: Bypass CloudFront WAF](https://medium.com/@n45ht/xss-bypass-cloudfront-waf-9d0c8a12dc33?source=rss------bug_bounty_writeup-5)
-- [The rise of scammer bug bounty programs — and the reason I quit bug bounty hunting.](https://medium.com/@brotheralameen/the-rise-of-scammer-bug-bounty-programs-and-the-reason-i-quit-bug-bounty-hunting-4cc661c92e09?source=rss------bug_bounty_writeup-5)
 - [A Partial Victory for AI Researchers](https://www.hackerone.com/public-policy/dmca-ai-ruling)
 - [ROI Isn’t Cutting It: 6 Questions to Help CISOs Better Quantify Security Investments](https://www.hackerone.com/vulnerability-management/roi-isnt-cutting-it-ciso-questions)
 - [The OWASP Top 10 for LLMs 2025: How GenAI Risks Are Evolving](https://www.hackerone.com/ai/owasp-top-10-llms-2025)
