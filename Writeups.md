@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Exploiting IDOR in a Support Portal Chatbot](https://infosecwriteups.com/exploiting-idor-in-a-support-portal-chatbot-f1d0617bace1?source=rss----7b722bfd1b8d---4)
 - [[RXSS] Login/Registration ref Parameter](https://medium.com/@Kntjrld/rxss-login-registration-ref-parameter-ea5fa7211c68?source=rss------bug_bounty_writeup-5)
 - [Comprehensive Scripts for Red teaming](https://saconychukwu.medium.com/comprehensive-scripts-for-red-teaming-72c3d2980369?source=rss------bug_bounty_writeup-5)
 - [Unlocking the Doors: How I Took Over Accounts with a Single Flaw!](https://medium.com/@omdubey170/unlocking-the-doors-how-i-took-over-accounts-with-a-single-flaw-239900ab5ee9?source=rss------bug_bounty_writeup-5)
@@ -15,7 +16,6 @@ $4,134 &lpar;7/30 DAYS&rpar;](https://infosecwriteups.com/critical-blind-sql-inj
 - [Stored XSS to Admin in Unauthenticated-WordPress](https://infosecwriteups.com/stored-xss-to-admin-in-unauthenticated-wordpress-cb76bae66623?source=rss----7b722bfd1b8d---4)
 - [This is How I Turned an Informative Bug into a Valid $500 Bug](https://infosecwriteups.com/this-is-how-i-turned-an-informative-bug-into-a-valid-500-bug-174ffeb94737?source=rss----7b722bfd1b8d---4)
 - [Whiterose TryHackMe Motion Graphics Writeup | Easy Room | Detailed THM Walkthrough](https://infosecwriteups.com/whiterose-tryhackme-motion-graphics-writeup-easy-room-detailed-thm-walkthrough-972ee9129fe2?source=rss----7b722bfd1b8d---4)
-- [Forensic and Pwn: UofTCTF 2025](https://infosecwriteups.com/forensic-and-pwn-uoftctf-2025-806d8400ee97?source=rss----7b722bfd1b8d---4)
 - [Zero-Click Account Takeover [Critical bug]](https://medium.com/@osamamohamed21212121/zero-click-account-takeover-critical-bug-ab31f27b8674?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty | Privilege Escalation From Admin To Owner](https://medium.com/@yog_sahare/bug-bounty-privilege-escalation-from-admin-to-owner-90d86e2395e6?source=rss------bug_bounty_writeup-5)
 - [2FA Bypass via Response manipulation](https://medium.com/@0mex/2fa-bypass-via-response-manipulation-c15a0912f83b?source=rss------bug_bounty_writeup-5)
