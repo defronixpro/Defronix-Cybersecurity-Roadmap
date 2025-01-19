@@ -926,7 +926,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Plan Ristriction Bypass for Slack Integration: 500$ Improper Validation Check Bug](https://infosecwriteups.com/plan-ristriction-bypass-for-slack-integration-500-improper-validation-check-bug-0c1acf6f01d3?source=rss----7b722bfd1b8d---4)
 - [User Enumeration: From Overlooked to Medium-Impact Bug](https://infosecwriteups.com/user-enumeration-from-overlooked-to-medium-impact-bug-48bbefa2ab3b?source=rss----7b722bfd1b8d---4)
 - [Exploiting IDOR in a Support Portal Chatbot](https://infosecwriteups.com/exploiting-idor-in-a-support-portal-chatbot-f1d0617bace1?source=rss----7b722bfd1b8d---4)
-- [[RXSS] Login/Registration ref Parameter](https://medium.com/@Kntjrld/rxss-login-registration-ref-parameter-ea5fa7211c68?source=rss------bug_bounty_writeup-5)
+- [[RXSS] on Login/Registration ref Parameter](https://medium.com/@Kntjrld/rxss-login-registration-ref-parameter-ea5fa7211c68?source=rss------bug_bounty_writeup-5)
 - [Comprehensive Scripts for Red teaming](https://saconychukwu.medium.com/comprehensive-scripts-for-red-teaming-72c3d2980369?source=rss------bug_bounty_writeup-5)
 - [Unlocking the Doors: How I Took Over Accounts with a Single Flaw!](https://medium.com/@omdubey170/unlocking-the-doors-how-i-took-over-accounts-with-a-single-flaw-239900ab5ee9?source=rss------bug_bounty_writeup-5)
 - [Re-captcha token generating secret key leaking identified via way back machine](https://medium.com/@swaroopvenkat828/re-captcha-token-generating-secret-key-leaking-identified-via-way-back-machine-8b7fc04e90f8?source=rss------bug_bounty_writeup-5)
