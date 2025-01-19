@@ -922,17 +922,17 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [THM light walkthrough](https://infosecwriteups.com/thm-light-walkthrough-f4b62d3ce824?source=rss----7b722bfd1b8d---4)
+- [Spotify’s $60,000+ Security Flaw: Anyone Can Get Student Discounts for Free](https://infosecwriteups.com/spotifys-60-000-security-flaw-anyone-can-get-student-discounts-for-free-53050d6b7e35?source=rss----7b722bfd1b8d---4)
+- [Tryhackme Light CTF Guide](https://infosecwriteups.com/tryhackme-light-ctf-guide-cdfe5e9df002?source=rss----7b722bfd1b8d---4)
+- [How I Utilized AI to Discover an Amazon S3 Bucket Takeover Vulnerability in Red Bull’s Bug Bounty…](https://infosecwriteups.com/how-i-utilized-ai-to-discover-an-amazon-s3-bucket-takeover-vulnerability-in-red-bulls-bug-bounty-503d3c4d995f?source=rss----7b722bfd1b8d---4)
+- [HTB | Office — CVE-2023–23752, Abusing MS-BKRP &amp; GPO](https://infosecwriteups.com/htb-office-cve-2023-23752-abusing-ms-bkrp-gpo-304f05f4fd55?source=rss----7b722bfd1b8d---4)
 - [U.A. High School TryHackMe Walkthrough | Writeup | Beginner Friendly | THM | — SuNnY](https://infosecwriteups.com/u-a-high-school-tryhackme-walkthrough-writeup-beginner-friendly-thm-sunny-802daabf3ac4?source=rss----7b722bfd1b8d---4)
 - [How I Discovered a Critical Vulnerability in an Internet Service Provider’s Software](https://infosecwriteups.com/how-i-discovered-a-critical-vulnerability-in-an-internet-service-providers-software-56c6cc00f338?source=rss----7b722bfd1b8d---4)
 - [HackTheBox — Compromised Sherlock Walkthrough](https://infosecwriteups.com/hackthebox-compromised-sherlock-walkthrough-9a2cc29cc0a0?source=rss----7b722bfd1b8d---4)
 - [STATIC VIDEO [STEGANOGRAPHY]](https://infosecwriteups.com/static-video-steganography-12006cc51b31?source=rss----7b722bfd1b8d---4)
 - [THM Lo-Fi walkthrough](https://infosecwriteups.com/thm-lo-fi-walkthrough-1cd311467277?source=rss----7b722bfd1b8d---4)
-- [Lo-Fi {Easy} TryHackMe Motion Graphics Writeup](https://infosecwriteups.com/lo-fi-easy-tryhackme-motion-graphics-writeup-2276d6e62bdd?source=rss----7b722bfd1b8d---4)
 - [Choosing Your First Program in Bug Bounties: A Beginner’s Guide](https://it4chis3c.medium.com/choosing-your-first-program-in-bug-bounties-a-beginners-guide-6b27c58316da?source=rss------bug_bounty_writeup-5)
-- [Finding my First SQL Injection On HackerOne](https://infosecwriteups.com/finding-my-first-sql-injection-on-hackerone-6a031ab5aa1c?source=rss----7b722bfd1b8d---4)
-- [Plan Ristriction Bypass for Slack Integration: 500$ Improper Validation Check Bug](https://infosecwriteups.com/plan-ristriction-bypass-for-slack-integration-500-improper-validation-check-bug-0c1acf6f01d3?source=rss----7b722bfd1b8d---4)
-- [User Enumeration: From Overlooked to Medium-Impact Bug](https://infosecwriteups.com/user-enumeration-from-overlooked-to-medium-impact-bug-48bbefa2ab3b?source=rss----7b722bfd1b8d---4)
-- [Exploiting IDOR in a Support Portal Chatbot](https://infosecwriteups.com/exploiting-idor-in-a-support-portal-chatbot-f1d0617bace1?source=rss----7b722bfd1b8d---4)
 - [[RXSS] on Login/Registration ref Parameter](https://medium.com/@Kntjrld/rxss-login-registration-ref-parameter-ea5fa7211c68?source=rss------bug_bounty_writeup-5)
 - [Comprehensive Scripts for Red teaming](https://saconychukwu.medium.com/comprehensive-scripts-for-red-teaming-72c3d2980369?source=rss------bug_bounty_writeup-5)
 - [Unlocking the Doors: How I Took Over Accounts with a Single Flaw!](https://medium.com/@omdubey170/unlocking-the-doors-how-i-took-over-accounts-with-a-single-flaw-239900ab5ee9?source=rss------bug_bounty_writeup-5)
