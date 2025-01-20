@@ -1,6 +1,11 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [From Uncovering to Securing: Tackling Three Vulnerabilities in Educational Domain](https://infosecwriteups.com/from-uncovering-to-securing-tackling-three-vulnerabilities-in-educational-domain-31c244c98cdb?source=rss----7b722bfd1b8d---4)
+- [Splunk Series: Installation Guide for Windows and Linux &lpar;Part 1&rpar;](https://infosecwriteups.com/splunk-series-installation-guide-for-windows-and-linux-part-1-97a42f067c73?source=rss----7b722bfd1b8d---4)
+- [Sofia Santos: OSINT Exercise #004](https://infosecwriteups.com/sofia-santos-osint-exercise-004-7b351e7cbf76?source=rss----7b722bfd1b8d---4)
+- [Insecure Randomness on TryHackMe: Practical Guide Using a Windows Machine](https://infosecwriteups.com/insecure-randomness-on-tryhackme-practical-guide-using-a-windows-machine-fa881bd5a940?source=rss----7b722bfd1b8d---4)
+- [How to Turn Bug Bounty Scopes into Goldmines: Recon Techniques That Work](https://medium.com/@HackerNasr/how-to-turn-bug-bounty-scopes-into-goldmines-recon-techniques-that-work-4b6a1bd4979d?source=rss------bug_bounty_writeup-5)
 - [Using Tor Network to Bypass Rate Limits](https://saeed0x1.medium.com/using-tor-network-to-bypass-rate-limits-9fe2b174c316?source=rss------bug_bounty_writeup-5)
 - [Insecure Direct Object Reference &lpar;iDOR&rpar; via Programs HackerOne](https://medium.com/@HackerPlus/insecure-direct-object-reference-idor-via-programs-hackerone-3c8e261b7ca3?source=rss------bug_bounty_writeup-5)
 - [From Low to Whoa: Elevating a P5 SSRF to a P3](https://medium.com/@loayahmed686/from-low-to-whoa-elevating-a-p5-ssrf-to-a-p3-6db1afdbde4c?source=rss------bug_bounty_writeup-5)
@@ -10,16 +15,11 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How I Utilized AI to Discover an Amazon S3 Bucket Takeover Vulnerability in Red Bull’s Bug Bounty…](https://infosecwriteups.com/how-i-utilized-ai-to-discover-an-amazon-s3-bucket-takeover-vulnerability-in-red-bulls-bug-bounty-503d3c4d995f?source=rss----7b722bfd1b8d---4)
 - [HTB | Office — CVE-2023–23752, Abusing MS-BKRP &amp; GPO](https://infosecwriteups.com/htb-office-cve-2023-23752-abusing-ms-bkrp-gpo-304f05f4fd55?source=rss----7b722bfd1b8d---4)
 - [U.A. High School TryHackMe Walkthrough | Writeup | Beginner Friendly | THM | — SuNnY](https://infosecwriteups.com/u-a-high-school-tryhackme-walkthrough-writeup-beginner-friendly-thm-sunny-802daabf3ac4?source=rss----7b722bfd1b8d---4)
-- [How I Discovered a Critical Vulnerability in an Internet Service Provider’s Software](https://infosecwriteups.com/how-i-discovered-a-critical-vulnerability-in-an-internet-service-providers-software-56c6cc00f338?source=rss----7b722bfd1b8d---4)
-- [HackTheBox — Compromised Sherlock Walkthrough](https://infosecwriteups.com/hackthebox-compromised-sherlock-walkthrough-9a2cc29cc0a0?source=rss----7b722bfd1b8d---4)
-- [STATIC VIDEO [STEGANOGRAPHY]](https://infosecwriteups.com/static-video-steganography-12006cc51b31?source=rss----7b722bfd1b8d---4)
-- [THM Lo-Fi walkthrough](https://infosecwriteups.com/thm-lo-fi-walkthrough-1cd311467277?source=rss----7b722bfd1b8d---4)
 - [Choosing Your First Program in Bug Bounties: A Beginner’s Guide](https://it4chis3c.medium.com/choosing-your-first-program-in-bug-bounties-a-beginners-guide-6b27c58316da?source=rss------bug_bounty_writeup-5)
 - [[RXSS] on Login/Registration ref Parameter](https://medium.com/@Kntjrld/rxss-login-registration-ref-parameter-ea5fa7211c68?source=rss------bug_bounty_writeup-5)
 - [Comprehensive Scripts for Red teaming](https://saconychukwu.medium.com/comprehensive-scripts-for-red-teaming-72c3d2980369?source=rss------bug_bounty_writeup-5)
 - [Unlocking the Doors: How I Took Over Accounts with a Single Flaw!](https://medium.com/@omdubey170/unlocking-the-doors-how-i-took-over-accounts-with-a-single-flaw-239900ab5ee9?source=rss------bug_bounty_writeup-5)
 - [Re-captcha token generating secret key leaking identified via way back machine](https://medium.com/@swaroopvenkat828/re-captcha-token-generating-secret-key-leaking-identified-via-way-back-machine-8b7fc04e90f8?source=rss------bug_bounty_writeup-5)
-- [Zero-Click Account Takeover [Critical bug]](https://medium.com/@osamamohamed21212121/zero-click-account-takeover-critical-bug-ab31f27b8674?source=rss------bug_bounty_writeup-5)
 - [A Partial Victory for AI Researchers](https://www.hackerone.com/public-policy/dmca-ai-ruling)
 - [ROI Isn’t Cutting It: 6 Questions to Help CISOs Better Quantify Security Investments](https://www.hackerone.com/vulnerability-management/roi-isnt-cutting-it-ciso-questions)
 - [The OWASP Top 10 for LLMs 2025: How GenAI Risks Are Evolving](https://www.hackerone.com/ai/owasp-top-10-llms-2025)
