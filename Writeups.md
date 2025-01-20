@@ -6,7 +6,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Sofia Santos: OSINT Exercise #004](https://infosecwriteups.com/sofia-santos-osint-exercise-004-7b351e7cbf76?source=rss----7b722bfd1b8d---4)
 - [Insecure Randomness on TryHackMe: Practical Guide Using a Windows Machine](https://infosecwriteups.com/insecure-randomness-on-tryhackme-practical-guide-using-a-windows-machine-fa881bd5a940?source=rss----7b722bfd1b8d---4)
 - [How to Turn Bug Bounty Scopes into Goldmines: Recon Techniques That Work](https://medium.com/@HackerNasr/how-to-turn-bug-bounty-scopes-into-goldmines-recon-techniques-that-work-4b6a1bd4979d?source=rss------bug_bounty_writeup-5)
-- [Using Tor Network to Bypass Rate Limits](https://saeed0x1.medium.com/using-tor-network-to-bypass-rate-limits-9fe2b174c316?source=rss------bug_bounty_writeup-5)
+- [Using Tor Network to Bypass Rate Limits](https://systemweakness.com/using-tor-network-to-bypass-rate-limits-9fe2b174c316?source=rss------bug_bounty_writeup-5)
 - [Insecure Direct Object Reference &lpar;iDOR&rpar; via Programs HackerOne](https://medium.com/@HackerPlus/insecure-direct-object-reference-idor-via-programs-hackerone-3c8e261b7ca3?source=rss------bug_bounty_writeup-5)
 - [From Low to Whoa: Elevating a P5 SSRF to a P3](https://medium.com/@loayahmed686/from-low-to-whoa-elevating-a-p5-ssrf-to-a-p3-6db1afdbde4c?source=rss------bug_bounty_writeup-5)
 - [THM light walkthrough](https://infosecwriteups.com/thm-light-walkthrough-f4b62d3ce824?source=rss----7b722bfd1b8d---4)
