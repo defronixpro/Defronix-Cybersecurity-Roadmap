@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Is Carding Still a Thing in 2025](https://infosecwriteups.com/is-carding-still-a-thing-in-2025-a290312c0761?source=rss----7b722bfd1b8d---4)
 - [From Uncovering to Securing: Tackling Three Vulnerabilities in Educational Domain](https://infosecwriteups.com/from-uncovering-to-securing-tackling-three-vulnerabilities-in-educational-domain-31c244c98cdb?source=rss----7b722bfd1b8d---4)
 - [Splunk Series: Installation Guide for Windows and Linux &lpar;Part 1&rpar;](https://infosecwriteups.com/splunk-series-installation-guide-for-windows-and-linux-part-1-97a42f067c73?source=rss----7b722bfd1b8d---4)
 - [Sofia Santos: OSINT Exercise #004](https://infosecwriteups.com/sofia-santos-osint-exercise-004-7b351e7cbf76?source=rss----7b722bfd1b8d---4)
@@ -935,7 +936,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Tryhackme Light CTF Guide](https://infosecwriteups.com/tryhackme-light-ctf-guide-cdfe5e9df002?source=rss----7b722bfd1b8d---4)
 - [How I Utilized AI to Discover an Amazon S3 Bucket Takeover Vulnerability in Red Bull’s Bug Bounty…](https://infosecwriteups.com/how-i-utilized-ai-to-discover-an-amazon-s3-bucket-takeover-vulnerability-in-red-bulls-bug-bounty-503d3c4d995f?source=rss----7b722bfd1b8d---4)
 - [HTB | Office — CVE-2023–23752, Abusing MS-BKRP &amp; GPO](https://infosecwriteups.com/htb-office-cve-2023-23752-abusing-ms-bkrp-gpo-304f05f4fd55?source=rss----7b722bfd1b8d---4)
-- [U.A. High School TryHackMe Walkthrough | Writeup | Beginner Friendly | THM | — SuNnY](https://infosecwriteups.com/u-a-high-school-tryhackme-walkthrough-writeup-beginner-friendly-thm-sunny-802daabf3ac4?source=rss----7b722bfd1b8d---4)
 - [Choosing Your First Program in Bug Bounties: A Beginner’s Guide](https://it4chis3c.medium.com/choosing-your-first-program-in-bug-bounties-a-beginners-guide-6b27c58316da?source=rss------bug_bounty_writeup-5)
 - [[RXSS] on Login/Registration ref Parameter](https://medium.com/@Kntjrld/rxss-login-registration-ref-parameter-ea5fa7211c68?source=rss------bug_bounty_writeup-5)
 - [Comprehensive Scripts for Red teaming](https://saconychukwu.medium.com/comprehensive-scripts-for-red-teaming-72c3d2980369?source=rss------bug_bounty_writeup-5)
