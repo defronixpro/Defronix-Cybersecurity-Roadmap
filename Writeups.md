@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How I found S3 buckets in Bug bounties](https://infosecwriteups.com/how-i-found-s3-buckets-in-bug-bounties-501faf76c3f9?source=rss----7b722bfd1b8d---4)
 - [Bypass HackerOne 2FA requirement and reporter blacklist](https://infosecwriteups.com/bypass-hackerone-2fa-requirement-and-reporter-blacklist-46d7959f1ee5?source=rss----7b722bfd1b8d---4)
 - [Reverse Engineering Chinese Social Media for Fun &lpar;REDNote App&rpar;](https://infosecwriteups.com/reverse-engineering-chinese-social-media-for-fun-rednote-app-4c9871006c6c?source=rss----7b722bfd1b8d---4)
 - [Is Carding Still a Thing in 2025](https://infosecwriteups.com/is-carding-still-a-thing-in-2025-a290312c0761?source=rss----7b722bfd1b8d---4)
@@ -14,7 +15,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [From Low to Whoa: Elevating a P5 SSRF to a P3](https://medium.com/@loayahmed686/from-low-to-whoa-elevating-a-p5-ssrf-to-a-p3-6db1afdbde4c?source=rss------bug_bounty_writeup-5)
 - [THM light walkthrough](https://infosecwriteups.com/thm-light-walkthrough-f4b62d3ce824?source=rss----7b722bfd1b8d---4)
 - [Spotify’s $60,000+ Security Flaw: Anyone Can Get Student Discounts for Free](https://infosecwriteups.com/spotifys-60-000-security-flaw-anyone-can-get-student-discounts-for-free-53050d6b7e35?source=rss----7b722bfd1b8d---4)
-- [Tryhackme Light CTF Guide](https://infosecwriteups.com/tryhackme-light-ctf-guide-cdfe5e9df002?source=rss----7b722bfd1b8d---4)
 - [Choosing Your First Program in Bug Bounties: A Beginner’s Guide](https://it4chis3c.medium.com/choosing-your-first-program-in-bug-bounties-a-beginners-guide-6b27c58316da?source=rss------bug_bounty_writeup-5)
 - [[RXSS] on Login/Registration ref Parameter](https://medium.com/@Kntjrld/rxss-login-registration-ref-parameter-ea5fa7211c68?source=rss------bug_bounty_writeup-5)
 - [Comprehensive Scripts for Red teaming](https://saconychukwu.medium.com/comprehensive-scripts-for-red-teaming-72c3d2980369?source=rss------bug_bounty_writeup-5)
