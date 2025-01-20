@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Using Tor Network to Bypass Rate Limits](https://saeed0x1.medium.com/using-tor-network-to-bypass-rate-limits-9fe2b174c316?source=rss------bug_bounty_writeup-5)
 - [Insecure Direct Object Reference &lpar;iDOR&rpar; via Programs HackerOne](https://medium.com/@HackerPlus/insecure-direct-object-reference-idor-via-programs-hackerone-3c8e261b7ca3?source=rss------bug_bounty_writeup-5)
 - [From Low to Whoa: Elevating a P5 SSRF to a P3](https://medium.com/@loayahmed686/from-low-to-whoa-elevating-a-p5-ssrf-to-a-p3-6db1afdbde4c?source=rss------bug_bounty_writeup-5)
 - [THM light walkthrough](https://infosecwriteups.com/thm-light-walkthrough-f4b62d3ce824?source=rss----7b722bfd1b8d---4)
@@ -940,7 +941,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Unlocking the Doors: How I Took Over Accounts with a Single Flaw!](https://medium.com/@omdubey170/unlocking-the-doors-how-i-took-over-accounts-with-a-single-flaw-239900ab5ee9?source=rss------bug_bounty_writeup-5)
 - [Re-captcha token generating secret key leaking identified via way back machine](https://medium.com/@swaroopvenkat828/re-captcha-token-generating-secret-key-leaking-identified-via-way-back-machine-8b7fc04e90f8?source=rss------bug_bounty_writeup-5)
 - [Zero-Click Account Takeover [Critical bug]](https://medium.com/@osamamohamed21212121/zero-click-account-takeover-critical-bug-ab31f27b8674?source=rss------bug_bounty_writeup-5)
-- [Bug Bounty | Privilege Escalation From Admin To Owner](https://medium.com/@yog_sahare/bug-bounty-privilege-escalation-from-admin-to-owner-90d86e2395e6?source=rss------bug_bounty_writeup-5)
 - [A Partial Victory for AI Researchers](https://www.hackerone.com/public-policy/dmca-ai-ruling)
 - [ROI Isn’t Cutting It: 6 Questions to Help CISOs Better Quantify Security Investments](https://www.hackerone.com/vulnerability-management/roi-isnt-cutting-it-ciso-questions)
 - [The OWASP Top 10 for LLMs 2025: How GenAI Risks Are Evolving](https://www.hackerone.com/ai/owasp-top-10-llms-2025)
