@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [HOW I Hacked “Welcome to Secure Portal” — IDOR + BAC &lpar;Part — 1&rpar;](https://medium.com/@mrro0o0tt/how-i-hacked-welcome-to-secure-portal-idor-bac-part-1-31946077e249?source=rss------bug_bounty_writeup-5)
 - [Easy P4: Cloudflare Bypass, Origin IP Found &lpar;Part 2&rpar;](https://sudosuraj.medium.com/easy-p4-cloudflare-bypass-origin-ip-found-part-2-5ffc615bff1f?source=rss------bug_bounty_writeup-5)
 - [How I found S3 buckets in Bug bounties](https://infosecwriteups.com/how-i-found-s3-buckets-in-bug-bounties-501faf76c3f9?source=rss----7b722bfd1b8d---4)
 - [Bypass HackerOne 2FA requirement and reporter blacklist](https://infosecwriteups.com/bypass-hackerone-2fa-requirement-and-reporter-blacklist-46d7959f1ee5?source=rss----7b722bfd1b8d---4)
