@@ -922,7 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [Polluting My Way to Victory: How I Found HTTP Parameter Pollution &lpar;HPP&rpar; and Exploited It Like a Pro](https://myselfakash20.medium.com/polluting-my-way-to-victory-how-i-found-http-parameter-pollution-hpp-and-exploited-it-like-a-pro-c4cf39ec90fe?source=rss------bug_bounty_writeup-5)
+- [Polluting My Way to Victory: How I Found HTTP Parameter Pollution &lpar;HPP&rpar; and Exploited It Like a Pro](https://osintteam.blog/polluting-my-way-to-victory-how-i-found-http-parameter-pollution-hpp-and-exploited-it-like-a-pro-c4cf39ec90fe?source=rss------bug_bounty_writeup-5)
 - [Unique ways to Recon for Bug Hunters: Short series [Part 1]](https://osintteam.blog/unique-ways-to-recon-for-bug-hunters-short-series-part-1-7e91f3fcfe25?source=rss------bug_bounty_writeup-5)
 - [Lo-Fi —  TryHackMe CTF Walkthrough For Beginners | By Pranav S V | Jan, 25](https://infosecwriteups.com/lo-fi-tryhackme-ctf-walkthrough-for-beginners-by-pranav-s-v-jan-25-e162757b5e0e?source=rss----7b722bfd1b8d---4)
 - [Hacking EscapeTwo on HackTheBox: A Step-by-Step OSCP Journey](https://infosecwriteups.com/hacking-escapetwo-on-hackthebox-a-step-by-step-oscp-journey-6725de2a8235?source=rss----7b722bfd1b8d---4)
