@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Easy Hacking with Google Dorking — Finding NASA High P2 Vulnerability](https://abhirdd.medium.com/easy-hacking-with-google-dorking-finding-nasa-high-p2-vulnerability-8b9797eac370?source=rss------bug_bounty_writeup-5)
 - [My Bug Bounty Journey: A Middle-Class Kid’s Quest for Free and Beyond](https://medium.com/@vivekps143/my-bug-bounty-journey-a-middle-class-kids-quest-for-free-and-beyond-1cd6b65240d6?source=rss------bug_bounty_writeup-5)
 - [HOW I Hacked “Welcome to Secure Portal” — IDOR + BAC &lpar;Part — 2&rpar;](https://medium.com/@mrro0o0tt/how-i-hacked-welcome-to-secure-portal-idor-bac-part-2-773f89a172fd?source=rss------bug_bounty_writeup-5)
 - [Agent Sudo CTF — TryHackMe Writup](https://infosecwriteups.com/agent-sudo-ctf-tryhackme-writup-081d561408de?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How to Turn Bug Bounty Scopes into Goldmines: Recon Techniques That Work](https://medium.com/@HackerNasr/how-to-turn-bug-bounty-scopes-into-goldmines-recon-techniques-that-work-4b6a1bd4979d?source=rss------bug_bounty_writeup-5)
 - [Using Tor Network to Bypass Rate Limits](https://systemweakness.com/using-tor-network-to-bypass-rate-limits-9fe2b174c316?source=rss------bug_bounty_writeup-5)
 - [Insecure Direct Object Reference &lpar;iDOR&rpar; via Programs HackerOne](https://medium.com/@HackerPlus/insecure-direct-object-reference-idor-via-programs-hackerone-3c8e261b7ca3?source=rss------bug_bounty_writeup-5)
-- [From Low to Whoa: Elevating a P5 SSRF to a P3](https://medium.com/@loayahmed686/from-low-to-whoa-elevating-a-p5-ssrf-to-a-p3-6db1afdbde4c?source=rss------bug_bounty_writeup-5)
 - [Resurrecting Shift-Left With Human-in-the-loop AI](https://www.hackerone.com/vulnerability-management/resurrecting-shift-left-human-in-the-loop-ai)
 - [Introducing Lightspark&#39;s Public Bug Bounty Program](https://www.hackerone.com/customer-stories/lightspark-public-bug-bounty)
 - [A Partial Victory for AI Researchers](https://www.hackerone.com/public-policy/dmca-ai-ruling)
