@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Agent Sudo CTF — TryHackMe Writup](https://infosecwriteups.com/agent-sudo-ctf-tryhackme-writup-081d561408de?source=rss----7b722bfd1b8d---4)
 - [Polluting My Way to Victory: How I Found HTTP Parameter Pollution &lpar;HPP&rpar; and Exploited It Like a Pro](https://osintteam.blog/polluting-my-way-to-victory-how-i-found-http-parameter-pollution-hpp-and-exploited-it-like-a-pro-c4cf39ec90fe?source=rss------bug_bounty_writeup-5)
 - [Unique ways to Recon for Bug Hunters: Short series [Part 1]](https://osintteam.blog/unique-ways-to-recon-for-bug-hunters-short-series-part-1-7e91f3fcfe25?source=rss------bug_bounty_writeup-5)
 - [Lo-Fi —  TryHackMe CTF Walkthrough For Beginners | By Pranav S V | Jan, 25](https://infosecwriteups.com/lo-fi-tryhackme-ctf-walkthrough-for-beginners-by-pranav-s-v-jan-25-e162757b5e0e?source=rss----7b722bfd1b8d---4)
@@ -14,7 +15,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Bypass HackerOne 2FA requirement and reporter blacklist](https://infosecwriteups.com/bypass-hackerone-2fa-requirement-and-reporter-blacklist-46d7959f1ee5?source=rss----7b722bfd1b8d---4)
 - [Reverse Engineering Chinese Social Media for Fun &lpar;REDNote App&rpar;](https://infosecwriteups.com/reverse-engineering-chinese-social-media-for-fun-rednote-app-4c9871006c6c?source=rss----7b722bfd1b8d---4)
 - [Is Carding Still a Thing in 2025](https://infosecwriteups.com/is-carding-still-a-thing-in-2025-a290312c0761?source=rss----7b722bfd1b8d---4)
-- [From Uncovering to Securing: Tackling Three Vulnerabilities in Educational Domain](https://infosecwriteups.com/from-uncovering-to-securing-tackling-three-vulnerabilities-in-educational-domain-31c244c98cdb?source=rss----7b722bfd1b8d---4)
 - [How to Turn Bug Bounty Scopes into Goldmines: Recon Techniques That Work](https://medium.com/@HackerNasr/how-to-turn-bug-bounty-scopes-into-goldmines-recon-techniques-that-work-4b6a1bd4979d?source=rss------bug_bounty_writeup-5)
 - [Using Tor Network to Bypass Rate Limits](https://systemweakness.com/using-tor-network-to-bypass-rate-limits-9fe2b174c316?source=rss------bug_bounty_writeup-5)
 - [Insecure Direct Object Reference &lpar;iDOR&rpar; via Programs HackerOne](https://medium.com/@HackerPlus/insecure-direct-object-reference-idor-via-programs-hackerone-3c8e261b7ca3?source=rss------bug_bounty_writeup-5)
