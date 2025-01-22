@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [HOW I Hacked “Welcome to Secure Portal” — IDOR + BAC &lpar;Part — 2&rpar;](https://medium.com/@mrro0o0tt/how-i-hacked-welcome-to-secure-portal-idor-bac-part-2-773f89a172fd?source=rss------bug_bounty_writeup-5)
 - [Agent Sudo CTF — TryHackMe Writup](https://infosecwriteups.com/agent-sudo-ctf-tryhackme-writup-081d561408de?source=rss----7b722bfd1b8d---4)
 - [Polluting My Way to Victory: How I Found HTTP Parameter Pollution &lpar;HPP&rpar; and Exploited It Like a Pro](https://osintteam.blog/polluting-my-way-to-victory-how-i-found-http-parameter-pollution-hpp-and-exploited-it-like-a-pro-c4cf39ec90fe?source=rss------bug_bounty_writeup-5)
 - [Unique ways to Recon for Bug Hunters: Short series [Part 1]](https://osintteam.blog/unique-ways-to-recon-for-bug-hunters-short-series-part-1-7e91f3fcfe25?source=rss------bug_bounty_writeup-5)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Insecure Direct Object Reference &lpar;iDOR&rpar; via Programs HackerOne](https://medium.com/@HackerPlus/insecure-direct-object-reference-idor-via-programs-hackerone-3c8e261b7ca3?source=rss------bug_bounty_writeup-5)
 - [From Low to Whoa: Elevating a P5 SSRF to a P3](https://medium.com/@loayahmed686/from-low-to-whoa-elevating-a-p5-ssrf-to-a-p3-6db1afdbde4c?source=rss------bug_bounty_writeup-5)
 - [Choosing Your First Program in Bug Bounties: A Beginner’s Guide](https://it4chis3c.medium.com/choosing-your-first-program-in-bug-bounties-a-beginners-guide-6b27c58316da?source=rss------bug_bounty_writeup-5)
-- [[RXSS] on Login/Registration ref Parameter](https://medium.com/@Kntjrld/rxss-login-registration-ref-parameter-ea5fa7211c68?source=rss------bug_bounty_writeup-5)
 - [Resurrecting Shift-Left With Human-in-the-loop AI](https://www.hackerone.com/vulnerability-management/resurrecting-shift-left-human-in-the-loop-ai)
 - [Introducing Lightspark&#39;s Public Bug Bounty Program](https://www.hackerone.com/customer-stories/lightspark-public-bug-bounty)
 - [A Partial Victory for AI Researchers](https://www.hackerone.com/public-policy/dmca-ai-ruling)
