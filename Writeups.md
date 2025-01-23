@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [5 Steps to Crafting a Reverse Shell Plugin in WordPress [OSCP RCE Tactics for Beginners]](https://infosecwriteups.com/5-steps-to-crafting-a-reverse-shell-plugin-in-wordpress-oscp-rce-tactics-for-beginners-07303c4e8821?source=rss----7b722bfd1b8d---4)
 - [Easy $10,000 bounty using Wayback Machine](https://blog.bugbountyhunter.xyz/easy-10-000-bounty-using-wayback-machine-1b08e3b1cafe?source=rss------bug_bounty_writeup-5)
 - [Easy Hacking with Google Dorking — Finding NASA High P2 Vulnerability](https://abhirdd.medium.com/easy-hacking-with-google-dorking-finding-nasa-high-p2-vulnerability-8b9797eac370?source=rss------bug_bounty_writeup-5)
 - [My Bug Bounty Journey: A Middle-Class Kid’s Quest for Free and Beyond](https://medium.com/@vivekps143/my-bug-bounty-journey-a-middle-class-kids-quest-for-free-and-beyond-1cd6b65240d6?source=rss------bug_bounty_writeup-5)
@@ -18,7 +19,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How I found S3 buckets in Bug bounties](https://infosecwriteups.com/how-i-found-s3-buckets-in-bug-bounties-501faf76c3f9?source=rss----7b722bfd1b8d---4)
 - [Bypass HackerOne 2FA requirement and reporter blacklist](https://infosecwriteups.com/bypass-hackerone-2fa-requirement-and-reporter-blacklist-46d7959f1ee5?source=rss----7b722bfd1b8d---4)
 - [Reverse Engineering Chinese Social Media for Fun &lpar;REDNote App&rpar;](https://infosecwriteups.com/reverse-engineering-chinese-social-media-for-fun-rednote-app-4c9871006c6c?source=rss----7b722bfd1b8d---4)
-- [Is Carding Still a Thing in 2025](https://infosecwriteups.com/is-carding-still-a-thing-in-2025-a290312c0761?source=rss----7b722bfd1b8d---4)
 - [How to Turn Bug Bounty Scopes into Goldmines: Recon Techniques That Work](https://medium.com/@HackerNasr/how-to-turn-bug-bounty-scopes-into-goldmines-recon-techniques-that-work-4b6a1bd4979d?source=rss------bug_bounty_writeup-5)
 - [Using Tor Network to Bypass Rate Limits](https://systemweakness.com/using-tor-network-to-bypass-rate-limits-9fe2b174c316?source=rss------bug_bounty_writeup-5)
 - [Resurrecting Shift-Left With Human-in-the-loop AI](https://www.hackerone.com/vulnerability-management/resurrecting-shift-left-human-in-the-loop-ai)
