@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [$600 Vulnerability: My First Bug Hunting Journey](https://asyary.medium.com/600-vulnerability-my-first-bug-hunting-journey-98b961a62f4b?source=rss------bug_bounty_writeup-5)
 - [How a Vulnerability in Cinema Booking Systems Can Block Seats and Impact Revenue](https://medium.com/@anonymousshetty2003/how-a-vulnerability-in-cinema-booking-systems-can-block-seats-and-impact-revenue-c28e93d26616?source=rss------bug_bounty_writeup-5)
 - [How to Fix Blue Screen of Death &lpar;BSoD&rpar; and Recover Lost Data?](https://infosecwriteups.com/how-to-fix-blue-screen-of-death-bsod-and-recover-lost-data-b5d65ace40f8?source=rss----7b722bfd1b8d---4)
 - [A Simple P2 Bug Via Forced Browsing](https://medium.com/@cyberpro151/a-simple-p2-bug-via-forced-browsing-d4926a82891f?source=rss------bug_bounty_writeup-5)
@@ -13,7 +14,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [HOW I Hacked “Welcome to Secure Portal” — IDOR + BAC &lpar;Part — 2&rpar;](https://medium.com/@mrro0o0tt/how-i-hacked-welcome-to-secure-portal-idor-bac-part-2-773f89a172fd?source=rss------bug_bounty_writeup-5)
 - [Agent Sudo CTF — TryHackMe Writup](https://infosecwriteups.com/agent-sudo-ctf-tryhackme-writup-081d561408de?source=rss----7b722bfd1b8d---4)
 - [Polluting My Way to Victory: How I Found HTTP Parameter Pollution &lpar;HPP&rpar; and Exploited It Like a Pro](https://osintteam.blog/polluting-my-way-to-victory-how-i-found-http-parameter-pollution-hpp-and-exploited-it-like-a-pro-c4cf39ec90fe?source=rss------bug_bounty_writeup-5)
-- [Unique ways to Recon for Bug Hunters: Short series [Part 1]](https://osintteam.blog/unique-ways-to-recon-for-bug-hunters-short-series-part-1-7e91f3fcfe25?source=rss------bug_bounty_writeup-5)
 - [Lo-Fi —  TryHackMe CTF Walkthrough For Beginners | By Pranav S V | Jan, 25](https://infosecwriteups.com/lo-fi-tryhackme-ctf-walkthrough-for-beginners-by-pranav-s-v-jan-25-e162757b5e0e?source=rss----7b722bfd1b8d---4)
 - [Hacking EscapeTwo on HackTheBox: A Step-by-Step OSCP Journey](https://infosecwriteups.com/hacking-escapetwo-on-hackthebox-a-step-by-step-oscp-journey-6725de2a8235?source=rss----7b722bfd1b8d---4)
 - [WIFI Hacking , user and password hacking [How hackers get Password of any wifi network]](https://infosecwriteups.com/wifi-hacking-user-and-password-hacking-how-hackers-get-password-of-any-wifi-network-015ae6575bed?source=rss----7b722bfd1b8d---4)
