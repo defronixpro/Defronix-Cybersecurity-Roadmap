@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How to Fix Blue Screen of Death &lpar;BSoD&rpar; and Recover Lost Data?](https://infosecwriteups.com/how-to-fix-blue-screen-of-death-bsod-and-recover-lost-data-b5d65ace40f8?source=rss----7b722bfd1b8d---4)
 - [A Simple P2 Bug Via Forced Browsing](https://medium.com/@cyberpro151/a-simple-p2-bug-via-forced-browsing-d4926a82891f?source=rss------bug_bounty_writeup-5)
 - [Security Risks of Medium Paywall Bypass Methods.](https://pwndecoco.medium.com/security-risks-of-medium-paywall-bypass-methods-28b92f557a3a?source=rss------bug_bounty_writeup-5)
 - [Escalate P3 SSRF TO P1](https://medium.com/@anonanoon9/escalate-p3-ssrf-to-p1-a9ed4eaaefeb?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [HOW I Hacked “Welcome to Secure Portal” — IDOR + BAC &lpar;Part — 1&rpar;](https://medium.com/@mrro0o0tt/how-i-hacked-welcome-to-secure-portal-idor-bac-part-1-31946077e249?source=rss------bug_bounty_writeup-5)
 - [How I found S3 buckets in Bug bounties](https://infosecwriteups.com/how-i-found-s3-buckets-in-bug-bounties-501faf76c3f9?source=rss----7b722bfd1b8d---4)
 - [Bypass HackerOne 2FA requirement and reporter blacklist](https://infosecwriteups.com/bypass-hackerone-2fa-requirement-and-reporter-blacklist-46d7959f1ee5?source=rss----7b722bfd1b8d---4)
-- [Reverse Engineering Chinese Social Media for Fun &lpar;REDNote App&rpar;](https://infosecwriteups.com/reverse-engineering-chinese-social-media-for-fun-rednote-app-4c9871006c6c?source=rss----7b722bfd1b8d---4)
 - [Resurrecting Shift-Left With Human-in-the-loop AI](https://www.hackerone.com/vulnerability-management/resurrecting-shift-left-human-in-the-loop-ai)
 - [Introducing Lightspark&#39;s Public Bug Bounty Program](https://www.hackerone.com/customer-stories/lightspark-public-bug-bounty)
 - [A Partial Victory for AI Researchers](https://www.hackerone.com/public-policy/dmca-ai-ruling)
