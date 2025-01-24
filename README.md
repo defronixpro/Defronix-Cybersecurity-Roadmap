@@ -923,16 +923,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
 - [Hope in the Fight Against Cyber Threats: A New Year’s Message to CISOs](https://www.hackerone.com/ceo/hope-in-fight-against-cyber-threats)
-- [$600 Vulnerability: My First Bug Hunting Journey](https://asyary.medium.com/600-vulnerability-my-first-bug-hunting-journey-98b961a62f4b?source=rss------bug_bounty_writeup-5)
-- [How a Vulnerability in Cinema Booking Systems Can Block Seats and Impact Revenue](https://medium.com/@anonymousshetty2003/how-a-vulnerability-in-cinema-booking-systems-can-block-seats-and-impact-revenue-c28e93d26616?source=rss------bug_bounty_writeup-5)
-- [A Simple P2 Bug Via Forced Browsing](https://medium.com/@cyberpro151/a-simple-p2-bug-via-forced-browsing-d4926a82891f?source=rss------bug_bounty_writeup-5)
-- [Security Risks of Medium Paywall Bypass Methods.](https://pwndecoco.medium.com/security-risks-of-medium-paywall-bypass-methods-28b92f557a3a?source=rss------bug_bounty_writeup-5)
-- [Escalate P3 SSRF TO P1](https://medium.com/@anonanoon9/escalate-p3-ssrf-to-p1-a9ed4eaaefeb?source=rss------bug_bounty_writeup-5)
-- [Easy $10,000 bounty using Wayback Machine](https://blog.bugbountyhunter.xyz/easy-10-000-bounty-using-wayback-machine-1b08e3b1cafe?source=rss------bug_bounty_writeup-5)
-- [Easy Hacking with Google Dorking — Finding NASA High P2 Vulnerability](https://abhirdd.medium.com/easy-hacking-with-google-dorking-finding-nasa-high-p2-vulnerability-8b9797eac370?source=rss------bug_bounty_writeup-5)
-- [My Bug Bounty Journey: A Middle-Class Kid’s Quest for Free and Beyond](https://medium.com/@vivekps143/my-bug-bounty-journey-a-middle-class-kids-quest-for-free-and-beyond-1cd6b65240d6?source=rss------bug_bounty_writeup-5)
-- [HOW I Hacked “Welcome to Secure Portal” — IDOR + BAC &lpar;Part — 2&rpar;](https://medium.com/@mrro0o0tt/how-i-hacked-welcome-to-secure-portal-idor-bac-part-2-773f89a172fd?source=rss------bug_bounty_writeup-5)
-- [Polluting My Way to Victory: How I Found HTTP Parameter Pollution &lpar;HPP&rpar; and Exploited It Like a Pro](https://osintteam.blog/polluting-my-way-to-victory-how-i-found-http-parameter-pollution-hpp-and-exploited-it-like-a-pro-c4cf39ec90fe?source=rss------bug_bounty_writeup-5)
 - [Resurrecting Shift-Left With Human-in-the-loop AI](https://www.hackerone.com/vulnerability-management/resurrecting-shift-left-human-in-the-loop-ai)
 - [Introducing Lightspark&#39;s Public Bug Bounty Program](https://www.hackerone.com/customer-stories/lightspark-public-bug-bounty)
 - [A Partial Victory for AI Researchers](https://www.hackerone.com/public-policy/dmca-ai-ruling)
@@ -972,6 +962,16 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [AWS Security Configuration Review and Best Practices](https://www.hackerone.com/penetration-testing/aws-security-configuration)
 - [OWASP Top 10: The Risk of Cryptographic Failures](https://www.hackerone.com/vulnerability-management/cryptographic-failures)
 - [Vulnerability Deep Dive: Gaining RCE Through ImageMagick With Frans Rosen](https://www.hackerone.com/vulnerability-management/gaining-rce-through-imagemagick)
+- [How To Use HackerOne’s Global Vulnerability Policy Map](https://www.hackerone.com/public-policy/global-vulnerability-policy-map)
+- [European Council Adopts Cyber Resilience Act](https://www.hackerone.com/public-policy/eu-council-cyber-resilience-act)
+- [Measure Your AI Risk Preparedness with This Interactive Self-Assessment Tool](https://www.hackerone.com/ai/ai-security-readiness-quiz)
+- [The Recruitment Process: What to Expect When You Apply at HackerOne](https://www.hackerone.com/culture-and-talent/recruitment-process-what-expect-when-you-apply-hackerone)
+- [Pentesting for Internal Networks](https://www.hackerone.com/penetration-testing/internal-network-pentests)
+- [How an IDOR Vulnerability Led to User Profile Modification](https://www.hackerone.com/vulnerability-management/idor-vulnerability-deep-dive)
+- [How To Find Broken Access Control Vulnerabilities in the Wild](https://www.hackerone.com/community/find-broken-access-control-vulnerabilities)
+- [You&#39;re Doing Pentesting Wrong](https://www.hackerone.com/penetration-testing/youre-doing-pentesting-wrong)
+- [NIS2: Next Step Forward on EU Security Requirements](https://www.hackerone.com/public-policy/nis2-eu-security-requirements)
+- [A Guide To Subdomain Takeovers 2.0](https://www.hackerone.com/community/guide-subdomain-takeovers)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
