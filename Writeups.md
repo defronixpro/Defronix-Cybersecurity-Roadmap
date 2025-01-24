@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [SQL injection in largest Electricity Board of Sri Lanka](https://infosecwriteups.com/sql-injection-in-largest-electricity-board-of-sri-lanka-1a55c12104bd?source=rss----7b722bfd1b8d---4)
 - [Linux Basics for Hackers, Developers, and System Administrators](https://medium.com/@v1xtron/linux-basics-for-hackers-developers-and-system-administrators-419b828f2a98?source=rss------bug_bounty_writeup-5)
 - [How I Found a Stripe Key Disclosure Leading to PII Exposure](https://medium.com/@nihaltikka/how-i-found-a-stripe-key-disclosure-leading-to-pii-exposure-6e57d5fca9d5?source=rss------bug_bounty_writeup-5)
 - [हमारे शरीर में खून 19312 किलोमीटर का सफर करता है !](https://medium.com/@motikala/%E0%A4%B9%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%87-%E0%A4%B6%E0%A4%B0%E0%A5%80%E0%A4%B0-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%96%E0%A5%82%E0%A4%A8-19312-%E0%A4%95%E0%A4%BF%E0%A4%B2%E0%A5%8B%E0%A4%AE%E0%A5%80%E0%A4%9F%E0%A4%B0-%E0%A4%95%E0%A4%BE-%E0%A4%B8%E0%A4%AB%E0%A4%B0-%E0%A4%95%E0%A4%B0%E0%A4%A4%E0%A4%BE-%E0%A4%B9%E0%A5%88-c31e93a13778?source=rss------bug_bounty_writeup-5)
@@ -21,7 +22,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Found HTML Injection in Emails! Earned HOF](https://infosecwriteups.com/found-html-injection-in-emails-earned-hof-24a8a8223f29?source=rss----7b722bfd1b8d---4)
 - [Splunk Series: Forwarding Logs Using Universal Forwarder &lpar;Part 2&rpar;](https://infosecwriteups.com/splunk-series-forwarding-logs-using-universal-forwarder-part-2-3c8b9253a379?source=rss----7b722bfd1b8d---4)
 - [How I found S3 buckets in Bug bounties](https://infosecwriteups.com/how-i-found-s3-buckets-in-bug-bounties-501faf76c3f9?source=rss----7b722bfd1b8d---4)
-- [Bypass HackerOne 2FA requirement and reporter blacklist](https://infosecwriteups.com/bypass-hackerone-2fa-requirement-and-reporter-blacklist-46d7959f1ee5?source=rss----7b722bfd1b8d---4)
 - [Resurrecting Shift-Left With Human-in-the-loop AI](https://www.hackerone.com/vulnerability-management/resurrecting-shift-left-human-in-the-loop-ai)
 - [Introducing Lightspark&#39;s Public Bug Bounty Program](https://www.hackerone.com/customer-stories/lightspark-public-bug-bounty)
 - [A Partial Victory for AI Researchers](https://www.hackerone.com/public-policy/dmca-ai-ruling)
