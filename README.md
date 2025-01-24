@@ -922,9 +922,19 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [हमारे शरीर में खून 19312 किलोमीटर का सफर करता है !](https://medium.com/@motikala/%E0%A4%B9%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%87-%E0%A4%B6%E0%A4%B0%E0%A5%80%E0%A4%B0-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%96%E0%A5%82%E0%A4%A8-19312-%E0%A4%95%E0%A4%BF%E0%A4%B2%E0%A5%8B%E0%A4%AE%E0%A5%80%E0%A4%9F%E0%A4%B0-%E0%A4%95%E0%A4%BE-%E0%A4%B8%E0%A4%AB%E0%A4%B0-%E0%A4%95%E0%A4%B0%E0%A4%A4%E0%A4%BE-%E0%A4%B9%E0%A5%88-c31e93a13778?source=rss------bug_bounty_writeup-5)
 - [Hope in the Fight Against Cyber Threats: A New Year’s Message to CISOs](https://www.hackerone.com/ceo/hope-in-fight-against-cyber-threats)
+- [$600 Vulnerability: My First Bug Hunting Journey](https://asyary.medium.com/600-vulnerability-my-first-bug-hunting-journey-98b961a62f4b?source=rss------bug_bounty_writeup-5)
+- [How a Vulnerability in Cinema Booking Systems Can Block Seats and Impact Revenue](https://medium.com/@anonymousshetty2003/how-a-vulnerability-in-cinema-booking-systems-can-block-seats-and-impact-revenue-c28e93d26616?source=rss------bug_bounty_writeup-5)
 - [How to Fix Blue Screen of Death &lpar;BSoD&rpar; and Recover Lost Data?](https://infosecwriteups.com/how-to-fix-blue-screen-of-death-bsod-and-recover-lost-data-b5d65ace40f8?source=rss----7b722bfd1b8d---4)
+- [A Simple P2 Bug Via Forced Browsing](https://medium.com/@cyberpro151/a-simple-p2-bug-via-forced-browsing-d4926a82891f?source=rss------bug_bounty_writeup-5)
+- [Security Risks of Medium Paywall Bypass Methods.](https://pwndecoco.medium.com/security-risks-of-medium-paywall-bypass-methods-28b92f557a3a?source=rss------bug_bounty_writeup-5)
+- [Escalate P3 SSRF TO P1](https://medium.com/@anonanoon9/escalate-p3-ssrf-to-p1-a9ed4eaaefeb?source=rss------bug_bounty_writeup-5)
 - [5 Steps to Crafting a Reverse Shell Plugin in WordPress [OSCP RCE Tactics for Beginners]](https://infosecwriteups.com/5-steps-to-crafting-a-reverse-shell-plugin-in-wordpress-oscp-rce-tactics-for-beginners-07303c4e8821?source=rss----7b722bfd1b8d---4)
+- [Easy $10,000 bounty using Wayback Machine](https://blog.bugbountyhunter.xyz/easy-10-000-bounty-using-wayback-machine-1b08e3b1cafe?source=rss------bug_bounty_writeup-5)
+- [Easy Hacking with Google Dorking — Finding NASA High P2 Vulnerability](https://abhirdd.medium.com/easy-hacking-with-google-dorking-finding-nasa-high-p2-vulnerability-8b9797eac370?source=rss------bug_bounty_writeup-5)
+- [My Bug Bounty Journey: A Middle-Class Kid’s Quest for Free and Beyond](https://medium.com/@vivekps143/my-bug-bounty-journey-a-middle-class-kids-quest-for-free-and-beyond-1cd6b65240d6?source=rss------bug_bounty_writeup-5)
+- [HOW I Hacked “Welcome to Secure Portal” — IDOR + BAC &lpar;Part — 2&rpar;](https://medium.com/@mrro0o0tt/how-i-hacked-welcome-to-secure-portal-idor-bac-part-2-773f89a172fd?source=rss------bug_bounty_writeup-5)
 - [Agent Sudo CTF — TryHackMe Writup](https://infosecwriteups.com/agent-sudo-ctf-tryhackme-writup-081d561408de?source=rss----7b722bfd1b8d---4)
 - [Lo-Fi —  TryHackMe CTF Walkthrough For Beginners | By Pranav S V | Jan, 25](https://infosecwriteups.com/lo-fi-tryhackme-ctf-walkthrough-for-beginners-by-pranav-s-v-jan-25-e162757b5e0e?source=rss----7b722bfd1b8d---4)
 - [Hacking EscapeTwo on HackTheBox: A Step-by-Step OSCP Journey](https://infosecwriteups.com/hacking-escapetwo-on-hackthebox-a-step-by-step-oscp-journey-6725de2a8235?source=rss----7b722bfd1b8d---4)
@@ -962,16 +972,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [HackerOne’s Fall Day of Service](https://www.hackerone.com/culture-and-talent/hackerones-fall-day-service)
 - [How HackerOne Disproved an MFA Bypass With a Spot Check](https://www.hackerone.com/vulnerability-management/spot-check-mfa-bypass)
 - [Unlocking Engagement with Employee Feedback](https://www.hackerone.com/culture-and-talent/unlocking-engagement-employee-feedback)
-- [How an Improper Access Control Vulnerability Led to Account Theft in One Click](https://www.hackerone.com/vulnerability-management/improper-access-control-deep-dive)
-- [How an Information Disclosure Vulnerability Led to Critical Data Exposure](https://www.hackerone.com/vulnerability-management/information-disclosure-deep-dive)
-- [How a Cross-Site Scripting Vulnerability Led to Account Takeover](https://www.hackerone.com/vulnerability-management/xss-deep-dive)
-- [How a Business Logic Vulnerability Led to Unlimited Discount Redemption](https://www.hackerone.com/vulnerability-management/stripe-business-logic-error-bug)
-- [Who Should Own AI Risk at Your Organization?](https://www.hackerone.com/ai/who-owns-ai-risk)
-- [Securing Our Elections Through Vulnerability Testing and Disclosure](https://www.hackerone.com/public-policy/securing-elections-through-vulnerability-testing)
-- [Measure, Compare, and Enhance Security Programs with HackerOne Benchmarks](https://www.hackerone.com/vulnerability-management/hackerone-benchmarks)
-- [AWS Security Configuration Review and Best Practices](https://www.hackerone.com/penetration-testing/aws-security-configuration)
-- [OWASP Top 10: The Risk of Cryptographic Failures](https://www.hackerone.com/vulnerability-management/cryptographic-failures)
-- [Vulnerability Deep Dive: Gaining RCE Through ImageMagick With Frans Rosen](https://www.hackerone.com/vulnerability-management/gaining-rce-through-imagemagick)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
