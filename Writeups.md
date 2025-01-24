@@ -6,7 +6,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [$600 Vulnerability: My First Bug Hunting Journey](https://asyary.medium.com/600-vulnerability-my-first-bug-hunting-journey-98b961a62f4b?source=rss------bug_bounty_writeup-5)
 - [How a Vulnerability in Cinema Booking Systems Can Block Seats and Impact Revenue](https://medium.com/@anonymousshetty2003/how-a-vulnerability-in-cinema-booking-systems-can-block-seats-and-impact-revenue-c28e93d26616?source=rss------bug_bounty_writeup-5)
 - [How to Fix Blue Screen of Death &lpar;BSoD&rpar; and Recover Lost Data?](https://infosecwriteups.com/how-to-fix-blue-screen-of-death-bsod-and-recover-lost-data-b5d65ace40f8?source=rss----7b722bfd1b8d---4)
-- [A Simple P2 Bug Via Forced Browsing](https://medium.com/@cyberpro151/a-simple-p2-bug-via-forced-browsing-d4926a82891f?source=rss------bug_bounty_writeup-5)
+- [Simple P2 Bug Via Forced Browsing](https://medium.com/@cyberpro151/a-simple-p2-bug-via-forced-browsing-d4926a82891f?source=rss------bug_bounty_writeup-5)
 - [Security Risks of Medium Paywall Bypass Methods.](https://pwndecoco.medium.com/security-risks-of-medium-paywall-bypass-methods-28b92f557a3a?source=rss------bug_bounty_writeup-5)
 - [Escalate P3 SSRF TO P1](https://medium.com/@anonanoon9/escalate-p3-ssrf-to-p1-a9ed4eaaefeb?source=rss------bug_bounty_writeup-5)
 - [5 Steps to Crafting a Reverse Shell Plugin in WordPress [OSCP RCE Tactics for Beginners]](https://infosecwriteups.com/5-steps-to-crafting-a-reverse-shell-plugin-in-wordpress-oscp-rce-tactics-for-beginners-07303c4e8821?source=rss----7b722bfd1b8d---4)
