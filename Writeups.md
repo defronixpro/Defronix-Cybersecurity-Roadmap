@@ -1,6 +1,8 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Splunk series: Rule Development &lpar;Part 3&rpar;](https://infosecwriteups.com/splunk-series-rule-development-part-3-39f275b69a14?source=rss----7b722bfd1b8d---4)
+- [Silent Account Takeover: How an IDOR and Password Reset Poisoning Lead to a 0-Click Account…](https://infosecwriteups.com/silent-account-takeover-how-an-idor-and-password-reset-poisoning-lead-to-a-0-click-account-d4ede4b80d4b?source=rss----7b722bfd1b8d---4)
 - [SQL injection in largest Electricity Board of Sri Lanka](https://infosecwriteups.com/sql-injection-in-largest-electricity-board-of-sri-lanka-1a55c12104bd?source=rss----7b722bfd1b8d---4)
 - [Linux Basics for Hackers, Developers, and System Administrators](https://medium.com/@v1xtron/linux-basics-for-hackers-developers-and-system-administrators-419b828f2a98?source=rss------bug_bounty_writeup-5)
 - [How I Found a Stripe Key Disclosure Leading to PII Exposure](https://medium.com/@nihaltikka/how-i-found-a-stripe-key-disclosure-leading-to-pii-exposure-6e57d5fca9d5?source=rss------bug_bounty_writeup-5)
@@ -20,8 +22,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Hacking EscapeTwo on HackTheBox: A Step-by-Step OSCP Journey](https://infosecwriteups.com/hacking-escapetwo-on-hackthebox-a-step-by-step-oscp-journey-6725de2a8235?source=rss----7b722bfd1b8d---4)
 - [WIFI Hacking , user and password hacking [How hackers get Password of any wifi network]](https://infosecwriteups.com/wifi-hacking-user-and-password-hacking-how-hackers-get-password-of-any-wifi-network-015ae6575bed?source=rss----7b722bfd1b8d---4)
 - [Found HTML Injection in Emails! Earned HOF](https://infosecwriteups.com/found-html-injection-in-emails-earned-hof-24a8a8223f29?source=rss----7b722bfd1b8d---4)
-- [Splunk Series: Forwarding Logs Using Universal Forwarder &lpar;Part 2&rpar;](https://infosecwriteups.com/splunk-series-forwarding-logs-using-universal-forwarder-part-2-3c8b9253a379?source=rss----7b722bfd1b8d---4)
-- [How I found S3 buckets in Bug bounties](https://infosecwriteups.com/how-i-found-s3-buckets-in-bug-bounties-501faf76c3f9?source=rss----7b722bfd1b8d---4)
 - [Resurrecting Shift-Left With Human-in-the-loop AI](https://www.hackerone.com/vulnerability-management/resurrecting-shift-left-human-in-the-loop-ai)
 - [Introducing Lightspark&#39;s Public Bug Bounty Program](https://www.hackerone.com/customer-stories/lightspark-public-bug-bounty)
 - [A Partial Victory for AI Researchers](https://www.hackerone.com/public-policy/dmca-ai-ruling)
