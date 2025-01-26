@@ -922,7 +922,17 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I Turned a Tiny Security Flaw into a $250 Bounty](https://medium.com/@ramshath1999/how-i-turned-a-tiny-security-flaw-into-a-250-bounty-90a0227d6c6f?source=rss------bug_bounty_writeup-5)
+- [Linux Basics for Hackers, Developers, and System Administrators](https://medium.com/@v1xtron/linux-basics-for-hackers-developers-and-system-administrators-419b828f2a98?source=rss------bug_bounty_writeup-5)
+- [How I Found a Stripe Key Disclosure Leading to PII Exposure](https://medium.com/@EL_cazad0r/how-i-found-a-stripe-key-disclosure-leading-to-pii-exposure-6e57d5fca9d5?source=rss------bug_bounty_writeup-5)
+- [हमारे शरीर में खून 19312 किलोमीटर का सफर करता है !](https://medium.com/@motikala/%E0%A4%B9%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%87-%E0%A4%B6%E0%A4%B0%E0%A5%80%E0%A4%B0-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%96%E0%A5%82%E0%A4%A8-19312-%E0%A4%95%E0%A4%BF%E0%A4%B2%E0%A5%8B%E0%A4%AE%E0%A5%80%E0%A4%9F%E0%A4%B0-%E0%A4%95%E0%A4%BE-%E0%A4%B8%E0%A4%AB%E0%A4%B0-%E0%A4%95%E0%A4%B0%E0%A4%A4%E0%A4%BE-%E0%A4%B9%E0%A5%88-c31e93a13778?source=rss------bug_bounty_writeup-5)
 - [Hope in the Fight Against Cyber Threats: A New Year’s Message to CISOs](https://www.hackerone.com/blog/hope-fight-against-cyber-threats-new-years-message-cisos)
+- [$600 Vulnerability: My First Bug Hunting Journey](https://asyary.medium.com/600-vulnerability-my-first-bug-hunting-journey-98b961a62f4b?source=rss------bug_bounty_writeup-5)
+- [How a Vulnerability in Cinema Booking Systems Can Block Seats and Impact Revenue](https://medium.com/@anonymousshetty2003/how-a-vulnerability-in-cinema-booking-systems-can-block-seats-and-impact-revenue-c28e93d26616?source=rss------bug_bounty_writeup-5)
+- [Simple P2 Bug Via Forced Browsing](https://medium.com/@cyberpro151/a-simple-p2-bug-via-forced-browsing-d4926a82891f?source=rss------bug_bounty_writeup-5)
+- [Security Risks of Medium Paywall Bypass Methods.](https://pwndecoco.medium.com/security-risks-of-medium-paywall-bypass-methods-28b92f557a3a?source=rss------bug_bounty_writeup-5)
+- [Escalate P3 SSRF TO P1](https://medium.com/@anonanoon9/escalate-p3-ssrf-to-p1-a9ed4eaaefeb?source=rss------bug_bounty_writeup-5)
+- [Easy $10,000 bounty using Wayback Machine](https://blog.bugbountyhunter.xyz/easy-10-000-bounty-using-wayback-machine-1b08e3b1cafe?source=rss------bug_bounty_writeup-5)
 - [Resurrecting Shift-Left With Human-in-the-loop AI](https://www.hackerone.com/blog/resurrecting-shift-left-human-loop-ai)
 - [Introducing Lightspark&#39;s Public Bug Bounty Program](https://www.hackerone.com/blog/introducing-lightsparks-public-bug-bounty-program)
 - [A Partial Victory for AI Researchers](https://www.hackerone.com/blog/partial-victory-ai-researchers)
@@ -962,16 +972,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [AWS Security Configuration Review and Best Practices](https://www.hackerone.com/blog/aws-security-configuration-review-and-best-practices)
 - [OWASP Top 10: The Risk of Cryptographic Failures](https://www.hackerone.com/blog/owasp-top-10-risk-cryptographic-failures)
 - [Vulnerability Deep Dive: Gaining RCE Through ImageMagick With Frans Rosen](https://www.hackerone.com/blog/vulnerability-deep-dive-gaining-rce-through-imagemagick-frans-rosen)
-- [How To Use HackerOne’s Global Vulnerability Policy Map](https://www.hackerone.com/blog/how-use-hackerones-global-vulnerability-policy-map)
-- [European Council Adopts Cyber Resilience Act](https://www.hackerone.com/blog/european-council-adopts-cyber-resilience-act)
-- [Measure Your AI Risk Preparedness with This Interactive Self-Assessment Tool](https://www.hackerone.com/blog/measure-your-ai-risk-preparedness-interactive-self-assessment-tool)
-- [The Recruitment Process: What to Expect When You Apply at HackerOne](https://www.hackerone.com/blog/recruitment-process-what-expect-when-you-apply-hackerone)
-- [Pentesting for Internal Networks](https://www.hackerone.com/blog/pentesting-internal-networks)
-- [How an IDOR Vulnerability Led to User Profile Modification](https://www.hackerone.com/blog/how-idor-vulnerability-led-user-profile-modification)
-- [How To Find Broken Access Control Vulnerabilities in the Wild](https://www.hackerone.com/blog/how-find-broken-access-control-vulnerabilities-wild)
-- [You&#39;re Doing Pentesting Wrong](https://www.hackerone.com/blog/youre-doing-pentesting-wrong)
-- [NIS2: Next Step Forward on EU Security Requirements](https://www.hackerone.com/blog/nis2-next-step-forward-eu-security-requirements)
-- [A Guide To Subdomain Takeovers 2.0](https://www.hackerone.com/blog/guide-subdomain-takeovers-20)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
