@@ -922,6 +922,10 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [TryHackMe: MBR and GPT Analysis](https://infosecwriteups.com/tryhackme-mbr-and-gpt-analysis-81fa23b2ae72?source=rss----7b722bfd1b8d---4)
+- [POSTMAN: Your All-in-One Toolkit for API Security](https://infosecwriteups.com/postman-your-all-in-one-toolkit-for-api-security-5f7543fe11b1?source=rss----7b722bfd1b8d---4)
+- [Simplifying Linux File Permissions](https://infosecwriteups.com/simplifying-linux-file-permissions-006b03a29afc?source=rss----7b722bfd1b8d---4)
+- [Unlock the Full Potential of the Wayback Machine for Bug Bounty](https://infosecwriteups.com/unlock-the-full-potential-of-the-wayback-machine-for-bug-bounty-8b6f57e2637d?source=rss----7b722bfd1b8d---4)
 - [Beginner’s Guide to Bug Bounty: Easy Tips for Finding Open Redirect Vulnerabilities](https://medium.com/@anishnarayan/beginners-guide-to-bug-bounty-easy-tips-for-finding-open-redirect-vulnerabilities-ffda668e6533?source=rss------bug_bounty_writeup-5)
 - [How I Turned a Tiny Security Flaw into a $250 Bounty](https://medium.com/@ramshath1999/how-i-turned-a-tiny-security-flaw-into-a-250-bounty-90a0227d6c6f?source=rss------bug_bounty_writeup-5)
 - [Splunk series: Rule Development &lpar;Part 3&rpar;](https://infosecwriteups.com/splunk-series-rule-development-part-3-39f275b69a14?source=rss----7b722bfd1b8d---4)
@@ -939,10 +943,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Escalate P3 SSRF TO P1](https://medium.com/@anonanoon9/escalate-p3-ssrf-to-p1-a9ed4eaaefeb?source=rss------bug_bounty_writeup-5)
 - [5 Steps to Crafting a Reverse Shell Plugin in WordPress [OSCP RCE Tactics for Beginners]](https://infosecwriteups.com/5-steps-to-crafting-a-reverse-shell-plugin-in-wordpress-oscp-rce-tactics-for-beginners-07303c4e8821?source=rss----7b722bfd1b8d---4)
 - [Agent Sudo CTF — TryHackMe Writup](https://infosecwriteups.com/agent-sudo-ctf-tryhackme-writup-081d561408de?source=rss----7b722bfd1b8d---4)
-- [Lo-Fi —  TryHackMe CTF Walkthrough For Beginners | By Pranav S V | Jan, 25](https://infosecwriteups.com/lo-fi-tryhackme-ctf-walkthrough-for-beginners-by-pranav-s-v-jan-25-e162757b5e0e?source=rss----7b722bfd1b8d---4)
-- [Hacking EscapeTwo on HackTheBox: A Step-by-Step OSCP Journey](https://infosecwriteups.com/hacking-escapetwo-on-hackthebox-a-step-by-step-oscp-journey-6725de2a8235?source=rss----7b722bfd1b8d---4)
-- [WIFI Hacking , user and password hacking [How hackers get Password of any wifi network]](https://infosecwriteups.com/wifi-hacking-user-and-password-hacking-how-hackers-get-password-of-any-wifi-network-015ae6575bed?source=rss----7b722bfd1b8d---4)
-- [Found HTML Injection in Emails! Earned HOF](https://infosecwriteups.com/found-html-injection-in-emails-earned-hof-24a8a8223f29?source=rss----7b722bfd1b8d---4)
 - [Resurrecting Shift-Left With Human-in-the-loop AI](https://www.hackerone.com/blog/resurrecting-shift-left-human-loop-ai)
 - [Introducing Lightspark&#39;s Public Bug Bounty Program](https://www.hackerone.com/blog/introducing-lightsparks-public-bug-bounty-program)
 - [A Partial Victory for AI Researchers](https://www.hackerone.com/blog/partial-victory-ai-researchers)
