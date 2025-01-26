@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Beginner’s Guide to Bug Bounty: Easy Tips for Finding Open Redirect Vulnerabilities](https://medium.com/@anishnarayan/beginners-guide-to-bug-bounty-easy-tips-for-finding-open-redirect-vulnerabilities-ffda668e6533?source=rss------bug_bounty_writeup-5)
 - [How I Turned a Tiny Security Flaw into a $250 Bounty](https://medium.com/@ramshath1999/how-i-turned-a-tiny-security-flaw-into-a-250-bounty-90a0227d6c6f?source=rss------bug_bounty_writeup-5)
 - [Splunk series: Rule Development &lpar;Part 3&rpar;](https://infosecwriteups.com/splunk-series-rule-development-part-3-39f275b69a14?source=rss----7b722bfd1b8d---4)
 - [Silent Account Takeover: How an IDOR and Password Reset Poisoning Lead to a 0-Click Account…](https://infosecwriteups.com/silent-account-takeover-how-an-idor-and-password-reset-poisoning-lead-to-a-0-click-account-d4ede4b80d4b?source=rss----7b722bfd1b8d---4)
@@ -937,7 +938,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Security Risks of Medium Paywall Bypass Methods.](https://pwndecoco.medium.com/security-risks-of-medium-paywall-bypass-methods-28b92f557a3a?source=rss------bug_bounty_writeup-5)
 - [Escalate P3 SSRF TO P1](https://medium.com/@anonanoon9/escalate-p3-ssrf-to-p1-a9ed4eaaefeb?source=rss------bug_bounty_writeup-5)
 - [5 Steps to Crafting a Reverse Shell Plugin in WordPress [OSCP RCE Tactics for Beginners]](https://infosecwriteups.com/5-steps-to-crafting-a-reverse-shell-plugin-in-wordpress-oscp-rce-tactics-for-beginners-07303c4e8821?source=rss----7b722bfd1b8d---4)
-- [Easy $10,000 bounty using Wayback Machine](https://blog.bugbountyhunter.xyz/easy-10-000-bounty-using-wayback-machine-1b08e3b1cafe?source=rss------bug_bounty_writeup-5)
 - [Agent Sudo CTF — TryHackMe Writup](https://infosecwriteups.com/agent-sudo-ctf-tryhackme-writup-081d561408de?source=rss----7b722bfd1b8d---4)
 - [Lo-Fi —  TryHackMe CTF Walkthrough For Beginners | By Pranav S V | Jan, 25](https://infosecwriteups.com/lo-fi-tryhackme-ctf-walkthrough-for-beginners-by-pranav-s-v-jan-25-e162757b5e0e?source=rss----7b722bfd1b8d---4)
 - [Hacking EscapeTwo on HackTheBox: A Step-by-Step OSCP Journey](https://infosecwriteups.com/hacking-escapetwo-on-hackthebox-a-step-by-step-oscp-journey-6725de2a8235?source=rss----7b722bfd1b8d---4)
