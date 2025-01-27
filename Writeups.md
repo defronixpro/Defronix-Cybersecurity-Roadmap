@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Smol TryHackMe Motion Graphics Writeup || Beginner Friendly Detailed Walkthrough | SuNnY](https://infosecwriteups.com/smol-tryhackme-motion-graphics-writeup-beginner-friendly-detailed-walkthrough-sunny-02dca60ce54f?source=rss----7b722bfd1b8d---4)
 - [How I Found a Critical Bug That Leaked Chennai Residents’ Information](https://infosecwriteups.com/how-i-found-a-critical-bug-that-leaked-chennai-residents-information-5f8dc5685b92?source=rss----7b722bfd1b8d---4)
 - [LazyAdmin — TryHackMe Writeup](https://infosecwriteups.com/lazyadmin-tryhackme-writeup-430d4816bf7f?source=rss----7b722bfd1b8d---4)
 - [Full GitHub Dorking guide: for OSINT and BugBounty &lpar;Reconnaissance&rpar;](https://infosecwriteups.com/full-github-dorking-guide-for-osint-and-bugbounty-reconnaissance-27557fb67ee0?source=rss----7b722bfd1b8d---4)
@@ -11,7 +12,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Windows PrivEsc : Bypassing Windows UAC AND Windows Access Tokens](https://infosecwriteups.com/windows-privesc-bypassing-windows-uac-and-windows-access-tokens-91a155cf636e?source=rss----7b722bfd1b8d---4)
 - [Advanced Research Review 2024](https://infosecwriteups.com/advanced-research-review-2024-a06cfac85142?source=rss----7b722bfd1b8d---4)
 - [TryHackMe: MBR and GPT Analysis](https://infosecwriteups.com/tryhackme-mbr-and-gpt-analysis-81fa23b2ae72?source=rss----7b722bfd1b8d---4)
-- [POSTMAN: Your All-in-One Toolkit for API Security](https://infosecwriteups.com/postman-your-all-in-one-toolkit-for-api-security-5f7543fe11b1?source=rss----7b722bfd1b8d---4)
 - [Beginner’s Guide to Bug Bounty: Easy Tips for Finding Open Redirect Vulnerabilities](https://medium.com/@anishnarayan/beginners-guide-to-bug-bounty-easy-tips-for-finding-open-redirect-vulnerabilities-ffda668e6533?source=rss------bug_bounty_writeup-5)
 - [How I Turned a Tiny Security Flaw into a $250 Bounty](https://medium.com/@ramshath1999/how-i-turned-a-tiny-security-flaw-into-a-250-bounty-90a0227d6c6f?source=rss------bug_bounty_writeup-5)
 - [Linux Basics for Hackers, Developers, and System Administrators](https://medium.com/@v1xtron/linux-basics-for-hackers-developers-and-system-administrators-419b828f2a98?source=rss------bug_bounty_writeup-5)
