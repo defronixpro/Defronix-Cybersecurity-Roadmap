@@ -922,16 +922,16 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Smol TryHackMe Motion Graphics Writeup || Beginner Friendly Detailed Walkthrough | SuNnY](https://infosecwriteups.com/smol-tryhackme-motion-graphics-writeup-beginner-friendly-detailed-walkthrough-sunny-02dca60ce54f?source=rss----7b722bfd1b8d---4)
+- [How I Found a Critical Bug That Leaked Chennai Residents’ Information](https://infosecwriteups.com/how-i-found-a-critical-bug-that-leaked-chennai-residents-information-5f8dc5685b92?source=rss----7b722bfd1b8d---4)
+- [LazyAdmin — TryHackMe Writeup](https://infosecwriteups.com/lazyadmin-tryhackme-writeup-430d4816bf7f?source=rss----7b722bfd1b8d---4)
+- [Full GitHub Dorking guide: for OSINT and BugBounty &lpar;Reconnaissance&rpar;](https://infosecwriteups.com/full-github-dorking-guide-for-osint-and-bugbounty-reconnaissance-27557fb67ee0?source=rss----7b722bfd1b8d---4)
+- [Strutted Walkthrough — HackTheBox](https://infosecwriteups.com/strutted-walkthrough-hackthebox-481d056eb559?source=rss----7b722bfd1b8d---4)
+- [How to Set Up a Vulnerable Windows VM for Creating CTF Machines](https://infosecwriteups.com/how-to-set-up-a-vulnerable-windows-vm-for-creating-ctf-machines-63db77ccbdcf?source=rss----7b722bfd1b8d---4)
 - [THM — Lo-Fi](https://infosecwriteups.com/thm-lo-fi-7034636e6b43?source=rss----7b722bfd1b8d---4)
 - [Windows PrivEsc : Bypassing Windows UAC AND Windows Access Tokens](https://infosecwriteups.com/windows-privesc-bypassing-windows-uac-and-windows-access-tokens-91a155cf636e?source=rss----7b722bfd1b8d---4)
 - [Advanced Research Review 2024](https://infosecwriteups.com/advanced-research-review-2024-a06cfac85142?source=rss----7b722bfd1b8d---4)
 - [TryHackMe: MBR and GPT Analysis](https://infosecwriteups.com/tryhackme-mbr-and-gpt-analysis-81fa23b2ae72?source=rss----7b722bfd1b8d---4)
-- [POSTMAN: Your All-in-One Toolkit for API Security](https://infosecwriteups.com/postman-your-all-in-one-toolkit-for-api-security-5f7543fe11b1?source=rss----7b722bfd1b8d---4)
-- [Simplifying Linux File Permissions](https://infosecwriteups.com/simplifying-linux-file-permissions-006b03a29afc?source=rss----7b722bfd1b8d---4)
-- [Unlock the Full Potential of the Wayback Machine for Bug Bounty](https://infosecwriteups.com/unlock-the-full-potential-of-the-wayback-machine-for-bug-bounty-8b6f57e2637d?source=rss----7b722bfd1b8d---4)
-- [Splunk series: Rule Development &lpar;Part 3&rpar;](https://infosecwriteups.com/splunk-series-rule-development-part-3-39f275b69a14?source=rss----7b722bfd1b8d---4)
-- [Silent Account Takeover: How an IDOR and Password Reset Poisoning Lead to a 0-Click Account…](https://infosecwriteups.com/silent-account-takeover-how-an-idor-and-password-reset-poisoning-lead-to-a-0-click-account-d4ede4b80d4b?source=rss----7b722bfd1b8d---4)
-- [SQL injection in largest Electricity Board of Sri Lanka](https://infosecwriteups.com/sql-injection-in-largest-electricity-board-of-sri-lanka-1a55c12104bd?source=rss----7b722bfd1b8d---4)
 - [Hope in the Fight Against Cyber Threats: A New Year’s Message to CISOs](https://www.hackerone.com/blog/hope-fight-against-cyber-threats-new-years-message-cisos)
 - [Resurrecting Shift-Left With Human-in-the-loop AI](https://www.hackerone.com/blog/resurrecting-shift-left-human-loop-ai)
 - [Introducing Lightspark&#39;s Public Bug Bounty Program](https://www.hackerone.com/blog/introducing-lightsparks-public-bug-bounty-program)
