@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [My Journey to Finding My First XSS Vulnerability](https://medium.com/@shaikrief2/my-journey-to-finding-my-first-xss-vulnerability-a342f685d7dc?source=rss------bug_bounty_writeup-5)
 - [The Role of HTTP Status Codes in Web Communication](https://medium.com/@vrushank2580/the-role-of-http-status-codes-in-web-communication-6ce451c6ada9?source=rss------bug_bounty_writeup-5)
 - [4 Privilege Escalation &amp; IDOR on One Single Feature!](https://medium.com/@mrro0o0tt/4-privilege-escalation-idor-on-one-single-feature-a8d511c5d48f?source=rss------bug_bounty_writeup-5)
 - [Duplicate Accounts Using the Same Email [BUG]: A Business Logic Vulnerability](https://medium.com/@osamamohamed21212121/duplicate-accounts-using-the-same-email-bug-a-business-logic-vulnerability-d1852a589c79?source=rss------bug_bounty_writeup-5)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How I Turned a Tiny Security Flaw into a $250 Bounty](https://medium.com/@ramshath1999/how-i-turned-a-tiny-security-flaw-into-a-250-bounty-90a0227d6c6f?source=rss------bug_bounty_writeup-5)
 - [Linux Basics for Hackers, Developers, and System Administrators](https://medium.com/@v1xtron/linux-basics-for-hackers-developers-and-system-administrators-419b828f2a98?source=rss------bug_bounty_writeup-5)
 - [How I Found a Stripe Key Disclosure Leading to PII Exposure](https://medium.com/@EL_cazad0r/how-i-found-a-stripe-key-disclosure-leading-to-pii-exposure-6e57d5fca9d5?source=rss------bug_bounty_writeup-5)
-- [हमारे शरीर में खून 19312 किलोमीटर का सफर करता है !](https://medium.com/@motikala/%E0%A4%B9%E0%A4%AE%E0%A4%BE%E0%A4%B0%E0%A5%87-%E0%A4%B6%E0%A4%B0%E0%A5%80%E0%A4%B0-%E0%A4%AE%E0%A5%87%E0%A4%82-%E0%A4%96%E0%A5%82%E0%A4%A8-19312-%E0%A4%95%E0%A4%BF%E0%A4%B2%E0%A5%8B%E0%A4%AE%E0%A5%80%E0%A4%9F%E0%A4%B0-%E0%A4%95%E0%A4%BE-%E0%A4%B8%E0%A4%AB%E0%A4%B0-%E0%A4%95%E0%A4%B0%E0%A4%A4%E0%A4%BE-%E0%A4%B9%E0%A5%88-c31e93a13778?source=rss------bug_bounty_writeup-5)
 - [Hope in the Fight Against Cyber Threats: A New Year’s Message to CISOs](https://www.hackerone.com/blog/hope-fight-against-cyber-threats-new-years-message-cisos)
 - [Resurrecting Shift-Left With Human-in-the-loop AI](https://www.hackerone.com/blog/resurrecting-shift-left-human-loop-ai)
 - [Introducing Lightspark&#39;s Public Bug Bounty Program](https://www.hackerone.com/blog/introducing-lightsparks-public-bug-bounty-program)
