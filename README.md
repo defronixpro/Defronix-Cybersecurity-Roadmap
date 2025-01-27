@@ -922,6 +922,16 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Smol TryHackMe Motion Graphics Writeup || Beginner Friendly Detailed Walkthrough | SuNnY](https://infosecwriteups.com/smol-tryhackme-motion-graphics-writeup-beginner-friendly-detailed-walkthrough-sunny-02dca60ce54f?source=rss----7b722bfd1b8d---4)
+- [How I Found a Critical Bug That Leaked Chennai Residents’ Information](https://infosecwriteups.com/how-i-found-a-critical-bug-that-leaked-chennai-residents-information-5f8dc5685b92?source=rss----7b722bfd1b8d---4)
+- [LazyAdmin — TryHackMe Writeup](https://infosecwriteups.com/lazyadmin-tryhackme-writeup-430d4816bf7f?source=rss----7b722bfd1b8d---4)
+- [Full GitHub Dorking guide: for OSINT and BugBounty &lpar;Reconnaissance&rpar;](https://infosecwriteups.com/full-github-dorking-guide-for-osint-and-bugbounty-reconnaissance-27557fb67ee0?source=rss----7b722bfd1b8d---4)
+- [Strutted Walkthrough — HackTheBox](https://infosecwriteups.com/strutted-walkthrough-hackthebox-481d056eb559?source=rss----7b722bfd1b8d---4)
+- [How to Set Up a Vulnerable Windows VM for Creating CTF Machines](https://infosecwriteups.com/how-to-set-up-a-vulnerable-windows-vm-for-creating-ctf-machines-63db77ccbdcf?source=rss----7b722bfd1b8d---4)
+- [THM — Lo-Fi](https://infosecwriteups.com/thm-lo-fi-7034636e6b43?source=rss----7b722bfd1b8d---4)
+- [Windows PrivEsc : Bypassing Windows UAC AND Windows Access Tokens](https://infosecwriteups.com/windows-privesc-bypassing-windows-uac-and-windows-access-tokens-91a155cf636e?source=rss----7b722bfd1b8d---4)
+- [Advanced Research Review 2024](https://infosecwriteups.com/advanced-research-review-2024-a06cfac85142?source=rss----7b722bfd1b8d---4)
+- [TryHackMe: MBR and GPT Analysis](https://infosecwriteups.com/tryhackme-mbr-and-gpt-analysis-81fa23b2ae72?source=rss----7b722bfd1b8d---4)
 - [Hope in the Fight Against Cyber Threats: A New Year’s Message to CISOs](https://www.hackerone.com/blog/hope-fight-against-cyber-threats-new-years-message-cisos)
 - [Resurrecting Shift-Left With Human-in-the-loop AI](https://www.hackerone.com/blog/resurrecting-shift-left-human-loop-ai)
 - [Introducing Lightspark&#39;s Public Bug Bounty Program](https://www.hackerone.com/blog/introducing-lightsparks-public-bug-bounty-program)
@@ -962,16 +972,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [AWS Security Configuration Review and Best Practices](https://www.hackerone.com/blog/aws-security-configuration-review-and-best-practices)
 - [OWASP Top 10: The Risk of Cryptographic Failures](https://www.hackerone.com/blog/owasp-top-10-risk-cryptographic-failures)
 - [Vulnerability Deep Dive: Gaining RCE Through ImageMagick With Frans Rosen](https://www.hackerone.com/blog/vulnerability-deep-dive-gaining-rce-through-imagemagick-frans-rosen)
-- [How To Use HackerOne’s Global Vulnerability Policy Map](https://www.hackerone.com/blog/how-use-hackerones-global-vulnerability-policy-map)
-- [European Council Adopts Cyber Resilience Act](https://www.hackerone.com/blog/european-council-adopts-cyber-resilience-act)
-- [Measure Your AI Risk Preparedness with This Interactive Self-Assessment Tool](https://www.hackerone.com/blog/measure-your-ai-risk-preparedness-interactive-self-assessment-tool)
-- [The Recruitment Process: What to Expect When You Apply at HackerOne](https://www.hackerone.com/blog/recruitment-process-what-expect-when-you-apply-hackerone)
-- [Pentesting for Internal Networks](https://www.hackerone.com/blog/pentesting-internal-networks)
-- [How an IDOR Vulnerability Led to User Profile Modification](https://www.hackerone.com/blog/how-idor-vulnerability-led-user-profile-modification)
-- [How To Find Broken Access Control Vulnerabilities in the Wild](https://www.hackerone.com/blog/how-find-broken-access-control-vulnerabilities-wild)
-- [You&#39;re Doing Pentesting Wrong](https://www.hackerone.com/blog/youre-doing-pentesting-wrong)
-- [NIS2: Next Step Forward on EU Security Requirements](https://www.hackerone.com/blog/nis2-next-step-forward-eu-security-requirements)
-- [A Guide To Subdomain Takeovers 2.0](https://www.hackerone.com/blog/guide-subdomain-takeovers-20)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
