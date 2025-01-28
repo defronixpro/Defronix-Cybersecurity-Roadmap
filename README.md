@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Low Hanging Bug often pays well](https://ehteshamulhaq198.medium.com/low-hanging-bug-often-pays-well-aff67d4b55f1?source=rss------bug_bounty_writeup-5)
+- [XSS and CSRF ki Jodi](https://medium.com/@ajay.kumar.695632/xss-and-csrf-ki-jodi-800c3b940ddb?source=rss------bug_bounty_writeup-5)
 - [How to Exploit Reflected XSS and Bypass Cloudflare Using Waybackurls — A Bug Hunter’s Guide](https://hackersatty.medium.com/how-to-exploit-reflected-xss-and-bypass-cloudflare-using-waybackurls-a-bug-hunters-guide-3aef1ffb80ee?source=rss------bug_bounty_writeup-5)
 - [How I Found a Ticket Booking Bug That Allowed Me to Travel Almost for Free in TNSTC](https://infosecwriteups.com/how-i-found-a-ticket-booking-bug-that-allowed-me-to-travel-almost-for-free-in-tnstc-2c7aa23aebf6?source=rss------bug_bounty_writeup-5)
 - [️‍♂️Ultimate Guide to Finding Bugs in APIs: From Recon to Bounty](https://medium.com/@zoningxtr/ultimate-guide-to-finding-bugs-in-apis-from-recon-to-bounty-f0cc3487780b?source=rss------bug_bounty_writeup-5)
@@ -940,8 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Full GitHub Dorking guide: for OSINT and BugBounty &lpar;Reconnaissance&rpar;](https://infosecwriteups.com/full-github-dorking-guide-for-osint-and-bugbounty-reconnaissance-27557fb67ee0?source=rss----7b722bfd1b8d---4)
 - [Strutted Walkthrough — HackTheBox](https://infosecwriteups.com/strutted-walkthrough-hackthebox-481d056eb559?source=rss----7b722bfd1b8d---4)
 - [How to Set Up a Vulnerable Windows VM for Creating CTF Machines](https://infosecwriteups.com/how-to-set-up-a-vulnerable-windows-vm-for-creating-ctf-machines-63db77ccbdcf?source=rss----7b722bfd1b8d---4)
-- [IDOR Leads to Deletion of Organization Owner](https://medium.com/@saurabhcsec/idor-leads-to-deletion-of-organization-owner-0f0deb6a71aa?source=rss------bug_bounty_writeup-5)
-- [Beginner’s Guide to Bug Bounty: Easy Tips for Finding Open Redirect Vulnerabilities](https://medium.com/@anishnarayan/beginners-guide-to-bug-bounty-easy-tips-for-finding-open-redirect-vulnerabilities-ffda668e6533?source=rss------bug_bounty_writeup-5)
 - [Hope in the Fight Against Cyber Threats: A New Year’s Message to CISOs](https://www.hackerone.com/blog/hope-fight-against-cyber-threats-new-years-message-cisos)
 - [Resurrecting Shift-Left With Human-in-the-loop AI](https://www.hackerone.com/blog/resurrecting-shift-left-human-loop-ai)
 - [Introducing Lightspark&#39;s Public Bug Bounty Program](https://www.hackerone.com/blog/introducing-lightsparks-public-bug-bounty-program)
