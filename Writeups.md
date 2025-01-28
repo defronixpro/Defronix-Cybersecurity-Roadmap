@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [The HackerOne Cake Story](https://www.hackerone.com/blog/hackerone-cake-story)
 - [What Will a New Administration and Congress Mean for Cybersecurity and AI Regulation?](https://www.hackerone.com/blog/cybersecurity-ai-regulation-new-administration)
 - [Don’t know how to find Bounty Earning Assets? Let’s Dive Deep into Recon part 2](https://it4chis3c.medium.com/dont-know-how-to-find-bounty-earning-assets-let-s-dive-deep-into-recon-part-2-7c85fdd5b6b7?source=rss------bug_bounty_writeup-5)
 - [What is a Supply Chain Attack?](https://medium.com/@stish834/what-is-a-supply-chain-attack-84f485e371bf?source=rss------bug_bounty_writeup-5)
@@ -542,8 +543,8 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Crowdsourcing Racial Justice and Equality](https://www.hackerone.com/blog/crowdsourcing-racial-justice-and-equality)
 - [There is no room for racism or inequality here.](https://www.hackerone.com/blog/there-no-room-racism-or-inequality-here)
 - [The Journey in Data: HackerOne Hits 100 Million Dollars in Bounties](https://www.hackerone.com/blog/journey-data-hackerone-hits-100-million-dollars-bounties)
-- [Thanks For Being Part Of The Journey to $100 Million in Bounties!](https://www.hackerone.com/blog/thanks-being-part-journey-100-million-bounties)
 - [$100 Million Paid - One Billion in Sight for Hackers](https://www.hackerone.com/blog/100-million-paid-one-billion-sight-hackers)
+- [Thanks For Being Part Of The Journey to $100 Million in Bounties!](https://www.hackerone.com/blog/thanks-being-part-journey-100-million-bounties)
 - [10 Ways to Hack Your “New Normal” Workweek](https://www.hackerone.com/blog/10-ways-hack-your-new-normal-workweek)
 - [How Federal Agencies Use Vulnerability Disclosure Policies to Level Up Security](https://www.hackerone.com/blog/how-federal-agencies-use-vulnerability-disclosure-policies-level-security)
 - [Security by the People: Announcing HackerOne’s FedRAMP Authorization](https://www.hackerone.com/blog/security-people-announcing-hackerones-fedramp-authorization)
@@ -753,8 +754,8 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Double your signal, double your fun](https://www.hackerone.com/blog/double-your-signal-double-your-fun)
 - [Bug Bounty or Bust! The Art of Triage](https://www.hackerone.com/blog/bug-bounty-or-bust-art-triage)
 - [The 2018 Hacker Report](https://www.hackerone.com/blog/2018-hacker-report)
-- [What percentage of your software vulnerabilities have GDPR implications?](https://www.hackerone.com/blog/what-percentage-your-software-vulnerabilities-have-gdpr-implications)
 - [An Attorney’s View of Vulnerability Disclosure](https://www.hackerone.com/blog/attorneys-view-vulnerability-disclosure)
+- [What percentage of your software vulnerabilities have GDPR implications?](https://www.hackerone.com/blog/what-percentage-your-software-vulnerabilities-have-gdpr-implications)
 - [Hacker Q&amp;A With EdOverflow](https://www.hackerone.com/blog/hacker-qa-edoverflow)
 - [Bringing Private-sector Security into the U.S. Government [Security@ Recaps]](https://www.hackerone.com/blog/bringing-private-sector-security-us-government-security-recaps)
 - [Hacking The Planet - Hack The World 2017 Recap](https://www.hackerone.com/blog/hacking-planet-hack-world-2017-recap)
