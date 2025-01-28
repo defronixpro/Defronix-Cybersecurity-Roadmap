@@ -922,20 +922,10 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [Low Hanging Bug often pays well](https://ehteshamulhaq198.medium.com/low-hanging-bug-often-pays-well-aff67d4b55f1?source=rss------bug_bounty_writeup-5)
-- [XSS and CSRF ki Jodi](https://medium.com/@ajay.kumar.695632/xss-and-csrf-ki-jodi-800c3b940ddb?source=rss------bug_bounty_writeup-5)
-- [How to Exploit Reflected XSS and Bypass Cloudflare Using Waybackurls — A Bug Hunter’s Guide](https://hackersatty.medium.com/how-to-exploit-reflected-xss-and-bypass-cloudflare-using-waybackurls-a-bug-hunters-guide-3aef1ffb80ee?source=rss------bug_bounty_writeup-5)
-- [How I Found a Ticket Booking Bug That Allowed Me to Travel Almost for Free in TNSTC](https://infosecwriteups.com/how-i-found-a-ticket-booking-bug-that-allowed-me-to-travel-almost-for-free-in-tnstc-2c7aa23aebf6?source=rss------bug_bounty_writeup-5)
-- [️‍♂️Ultimate Guide to Finding Bugs in APIs: From Recon to Bounty](https://medium.com/@zoningxtr/ultimate-guide-to-finding-bugs-in-apis-from-recon-to-bounty-f0cc3487780b?source=rss------bug_bounty_writeup-5)
 - [A Deep Dive into Anti-Phishing Detection Targeting Steam Platform Users](https://infosecwriteups.com/a-deep-dive-into-anti-phishing-detection-targeting-steam-platform-users-2a3376c99062?source=rss----7b722bfd1b8d---4)
 - [Attacktive Directory — TryHackMe Writup](https://infosecwriteups.com/attacktive-directory-tryhackme-writup-7cd5fe60933b?source=rss----7b722bfd1b8d---4)
 - [Splunk Series: Creating a Dashboard to Visualize Your Data &lpar;Part 4&rpar;](https://infosecwriteups.com/splunk-series-creating-a-dashboard-to-visualize-your-data-part-4-7f4ba495ef04?source=rss----7b722bfd1b8d---4)
 - [TryHackMe Smol Walkthrough](https://infosecwriteups.com/thm-smol-walkthrough-f8455192f0ba?source=rss----7b722bfd1b8d---4)
-- [My Journey to Finding My First XSS Vulnerability](https://medium.com/@shaikrief2/my-journey-to-finding-my-first-xss-vulnerability-a342f685d7dc?source=rss------bug_bounty_writeup-5)
-- [The Role of HTTP Status Codes in Web Communication](https://medium.com/@vrushank2580/the-role-of-http-status-codes-in-web-communication-6ce451c6ada9?source=rss------bug_bounty_writeup-5)
-- [4 Privilege Escalation &amp; IDOR on One Single Feature!](https://medium.com/@mrro0o0tt/4-privilege-escalation-idor-on-one-single-feature-a8d511c5d48f?source=rss------bug_bounty_writeup-5)
-- [Duplicate Accounts Using the Same Email [BUG]: A Business Logic Vulnerability](https://medium.com/@osamamohamed21212121/duplicate-accounts-using-the-same-email-bug-a-business-logic-vulnerability-d1852a589c79?source=rss------bug_bounty_writeup-5)
-- [how i got $$$$ from old public bug bounty program](https://medium.com/@ibrahimsyamgame/how-i-got-from-old-public-bug-bounty-program-aee4af074bbd?source=rss------bug_bounty_writeup-5)
 - [Smol TryHackMe Motion Graphics Writeup || Beginner Friendly Detailed Walkthrough | SuNnY](https://infosecwriteups.com/smol-tryhackme-motion-graphics-writeup-beginner-friendly-detailed-walkthrough-sunny-02dca60ce54f?source=rss----7b722bfd1b8d---4)
 - [How I Found a Critical Bug That Leaked Chennai Residents’ Information](https://infosecwriteups.com/how-i-found-a-critical-bug-that-leaked-chennai-residents-information-5f8dc5685b92?source=rss----7b722bfd1b8d---4)
 - [LazyAdmin — TryHackMe Writeup](https://infosecwriteups.com/lazyadmin-tryhackme-writeup-430d4816bf7f?source=rss----7b722bfd1b8d---4)
@@ -972,6 +962,16 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [HackerOne’s Fall Day of Service](https://www.hackerone.com/blog/hackerones-fall-day-service)
 - [How HackerOne Disproved an MFA Bypass With a Spot Check](https://www.hackerone.com/blog/how-hackerone-disproved-mfa-bypass-spot-check)
 - [Unlocking Engagement with Employee Feedback](https://www.hackerone.com/blog/unlocking-engagement-employee-feedback)
+- [How an Improper Access Control Vulnerability Led to Account Theft in One Click](https://www.hackerone.com/blog/how-improper-access-control-vulnerability-led-account-theft-one-click)
+- [How an Information Disclosure Vulnerability Led to Critical Data Exposure](https://www.hackerone.com/blog/how-information-disclosure-vulnerability-led-critical-data-exposure)
+- [How a Cross-Site Scripting Vulnerability Led to Account Takeover](https://www.hackerone.com/blog/how-cross-site-scripting-vulnerability-led-account-takeover)
+- [How a Business Logic Vulnerability Led to Unlimited Discount Redemption](https://www.hackerone.com/blog/how-business-logic-vulnerability-led-unlimited-discount-redemption)
+- [Who Should Own AI Risk at Your Organization?](https://www.hackerone.com/blog/who-should-own-ai-risk-your-organization)
+- [Securing Our Elections Through Vulnerability Testing and Disclosure](https://www.hackerone.com/blog/securing-our-elections-through-vulnerability-testing-and-disclosure)
+- [Measure, Compare, and Enhance Security Programs with HackerOne Benchmarks](https://www.hackerone.com/blog/measure-compare-and-enhance-security-programs-hackerone-benchmarks)
+- [AWS Security Configuration Review and Best Practices](https://www.hackerone.com/blog/aws-security-configuration-review-and-best-practices)
+- [OWASP Top 10: The Risk of Cryptographic Failures](https://www.hackerone.com/blog/owasp-top-10-risk-cryptographic-failures)
+- [Vulnerability Deep Dive: Gaining RCE Through ImageMagick With Frans Rosen](https://www.hackerone.com/blog/vulnerability-deep-dive-gaining-rce-through-imagemagick-frans-rosen)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
