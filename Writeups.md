@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [️‍♂️Ultimate Guide to Finding Bugs in APIs: From Recon to Bounty](https://medium.com/@zoningxtr/ultimate-guide-to-finding-bugs-in-apis-from-recon-to-bounty-f0cc3487780b?source=rss------bug_bounty_writeup-5)
 - [A Deep Dive into Anti-Phishing Detection Targeting Steam Platform Users](https://infosecwriteups.com/a-deep-dive-into-anti-phishing-detection-targeting-steam-platform-users-2a3376c99062?source=rss----7b722bfd1b8d---4)
 - [Attacktive Directory — TryHackMe Writup](https://infosecwriteups.com/attacktive-directory-tryhackme-writup-7cd5fe60933b?source=rss----7b722bfd1b8d---4)
 - [Splunk Series: Creating a Dashboard to Visualize Your Data &lpar;Part 4&rpar;](https://infosecwriteups.com/splunk-series-creating-a-dashboard-to-visualize-your-data-part-4-7f4ba495ef04?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Beginner’s Guide to Bug Bounty: Easy Tips for Finding Open Redirect Vulnerabilities](https://medium.com/@anishnarayan/beginners-guide-to-bug-bounty-easy-tips-for-finding-open-redirect-vulnerabilities-ffda668e6533?source=rss------bug_bounty_writeup-5)
 - [How I Turned a Tiny Security Flaw into a $250 Bounty](https://medium.com/@ramshath1999/how-i-turned-a-tiny-security-flaw-into-a-250-bounty-90a0227d6c6f?source=rss------bug_bounty_writeup-5)
 - [Linux Basics for Hackers, Developers, and System Administrators](https://medium.com/@v1xtron/linux-basics-for-hackers-developers-and-system-administrators-419b828f2a98?source=rss------bug_bounty_writeup-5)
-- [How I Found a Stripe Key Disclosure Leading to PII Exposure](https://medium.com/@EL_cazad0r/how-i-found-a-stripe-key-disclosure-leading-to-pii-exposure-6e57d5fca9d5?source=rss------bug_bounty_writeup-5)
 - [Hope in the Fight Against Cyber Threats: A New Year’s Message to CISOs](https://www.hackerone.com/blog/hope-fight-against-cyber-threats-new-years-message-cisos)
 - [Resurrecting Shift-Left With Human-in-the-loop AI](https://www.hackerone.com/blog/resurrecting-shift-left-human-loop-ai)
 - [Introducing Lightspark&#39;s Public Bug Bounty Program](https://www.hackerone.com/blog/introducing-lightsparks-public-bug-bounty-program)
