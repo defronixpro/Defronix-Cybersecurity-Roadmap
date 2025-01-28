@@ -1,6 +1,10 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [A Deep Dive into Anti-Phishing Detection Targeting Steam Platform Users](https://infosecwriteups.com/a-deep-dive-into-anti-phishing-detection-targeting-steam-platform-users-2a3376c99062?source=rss----7b722bfd1b8d---4)
+- [Attacktive Directory — TryHackMe Writup](https://infosecwriteups.com/attacktive-directory-tryhackme-writup-7cd5fe60933b?source=rss----7b722bfd1b8d---4)
+- [Splunk Series: Creating a Dashboard to Visualize Your Data &lpar;Part 4&rpar;](https://infosecwriteups.com/splunk-series-creating-a-dashboard-to-visualize-your-data-part-4-7f4ba495ef04?source=rss----7b722bfd1b8d---4)
+- [TryHackMe Smol Walkthrough](https://infosecwriteups.com/thm-smol-walkthrough-f8455192f0ba?source=rss----7b722bfd1b8d---4)
 - [My Journey to Finding My First XSS Vulnerability](https://medium.com/@shaikrief2/my-journey-to-finding-my-first-xss-vulnerability-a342f685d7dc?source=rss------bug_bounty_writeup-5)
 - [The Role of HTTP Status Codes in Web Communication](https://medium.com/@vrushank2580/the-role-of-http-status-codes-in-web-communication-6ce451c6ada9?source=rss------bug_bounty_writeup-5)
 - [4 Privilege Escalation &amp; IDOR on One Single Feature!](https://medium.com/@mrro0o0tt/4-privilege-escalation-idor-on-one-single-feature-a8d511c5d48f?source=rss------bug_bounty_writeup-5)
@@ -13,10 +17,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Strutted Walkthrough — HackTheBox](https://infosecwriteups.com/strutted-walkthrough-hackthebox-481d056eb559?source=rss----7b722bfd1b8d---4)
 - [How to Set Up a Vulnerable Windows VM for Creating CTF Machines](https://infosecwriteups.com/how-to-set-up-a-vulnerable-windows-vm-for-creating-ctf-machines-63db77ccbdcf?source=rss----7b722bfd1b8d---4)
 - [IDOR Leads to Deletion of Organization Owner](https://medium.com/@saurabhcsec/idor-leads-to-deletion-of-organization-owner-0f0deb6a71aa?source=rss------bug_bounty_writeup-5)
-- [THM — Lo-Fi](https://infosecwriteups.com/thm-lo-fi-7034636e6b43?source=rss----7b722bfd1b8d---4)
-- [Windows PrivEsc : Bypassing Windows UAC AND Windows Access Tokens](https://infosecwriteups.com/windows-privesc-bypassing-windows-uac-and-windows-access-tokens-91a155cf636e?source=rss----7b722bfd1b8d---4)
-- [Advanced Research Review 2024](https://infosecwriteups.com/advanced-research-review-2024-a06cfac85142?source=rss----7b722bfd1b8d---4)
-- [TryHackMe: MBR and GPT Analysis](https://infosecwriteups.com/tryhackme-mbr-and-gpt-analysis-81fa23b2ae72?source=rss----7b722bfd1b8d---4)
 - [Beginner’s Guide to Bug Bounty: Easy Tips for Finding Open Redirect Vulnerabilities](https://medium.com/@anishnarayan/beginners-guide-to-bug-bounty-easy-tips-for-finding-open-redirect-vulnerabilities-ffda668e6533?source=rss------bug_bounty_writeup-5)
 - [How I Turned a Tiny Security Flaw into a $250 Bounty](https://medium.com/@ramshath1999/how-i-turned-a-tiny-security-flaw-into-a-250-bounty-90a0227d6c6f?source=rss------bug_bounty_writeup-5)
 - [Linux Basics for Hackers, Developers, and System Administrators](https://medium.com/@v1xtron/linux-basics-for-hackers-developers-and-system-administrators-419b828f2a98?source=rss------bug_bounty_writeup-5)
