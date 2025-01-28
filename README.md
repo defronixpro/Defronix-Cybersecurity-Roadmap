@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Don’t know how to find Bounty Earning Assets? Let’s Dive Deep into Recon part 2](https://it4chis3c.medium.com/dont-know-how-to-find-bounty-earning-assets-let-s-dive-deep-into-recon-part-2-7c85fdd5b6b7?source=rss------bug_bounty_writeup-5)
 - [What is a Supply Chain Attack?](https://medium.com/@stish834/what-is-a-supply-chain-attack-84f485e371bf?source=rss------bug_bounty_writeup-5)
 - [How I Earned $200 Using GitHub Dorking: A Manual and Automated Guide to Finding Sensitive…](https://myselfakash20.medium.com/how-i-earned-200-using-github-dorking-a-manual-and-automated-guide-to-finding-sensitive-ebbbfcad7296?source=rss------bug_bounty_writeup-5)
 - [Low Hanging Bug often pays well](https://ehteshamulhaq198.medium.com/low-hanging-bug-often-pays-well-aff67d4b55f1?source=rss------bug_bounty_writeup-5)
@@ -936,7 +937,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [My Journey to Finding My First XSS Vulnerability](https://medium.com/@shaikrief2/my-journey-to-finding-my-first-xss-vulnerability-a342f685d7dc?source=rss------bug_bounty_writeup-5)
 - [How HackerOne Reinvented Security for Developers](https://www.hackerone.com/blog/how-hackerone-reinvented-security-developers)
 - [The Role of HTTP Status Codes in Web Communication](https://medium.com/@vrushank2580/the-role-of-http-status-codes-in-web-communication-6ce451c6ada9?source=rss------bug_bounty_writeup-5)
-- [4 Privilege Escalation &amp; IDOR on One Single Feature!](https://medium.com/@mrro0o0tt/4-privilege-escalation-idor-on-one-single-feature-a8d511c5d48f?source=rss------bug_bounty_writeup-5)
 - [Smol TryHackMe Motion Graphics Writeup || Beginner Friendly Detailed Walkthrough | SuNnY](https://infosecwriteups.com/smol-tryhackme-motion-graphics-writeup-beginner-friendly-detailed-walkthrough-sunny-02dca60ce54f?source=rss----7b722bfd1b8d---4)
 - [How I Found a Critical Bug That Leaked Chennai Residents’ Information](https://infosecwriteups.com/how-i-found-a-critical-bug-that-leaked-chennai-residents-information-5f8dc5685b92?source=rss----7b722bfd1b8d---4)
 - [LazyAdmin — TryHackMe Writeup](https://infosecwriteups.com/lazyadmin-tryhackme-writeup-430d4816bf7f?source=rss----7b722bfd1b8d---4)
