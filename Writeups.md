@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Easiest $225 Ever: A Simple SQL Injection Win!](https://medium.com/@whoadnan01/easiest-225-ever-a-simple-sql-injection-win-f40c0a6b8e45?source=rss------bug_bounty_writeup-5)
 - [Sensitive Data Exposure with URLScan.io: A Bug Hunter’s Guide](https://aimasterprompt.medium.com/sensitive-data-exposure-with-urlscan-io-a-bug-hunters-guide-7c3541a67c82?source=rss------bug_bounty_writeup-5)
 - [5 Things You Should Understand Before Jumping into Bug Bounty](https://infosecwriteups.com/5-things-you-should-understand-before-jumping-into-bug-bounty-813cd960c6bc?source=rss----7b722bfd1b8d---4)
 - [Exploiting XSS To Steal Cookies](https://infosecwriteups.com/exploiting-xss-to-steal-cookies-f0aebdcd815b?source=rss----7b722bfd1b8d---4)
@@ -15,7 +16,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [XSS and CSRF ki Jodi](https://medium.com/@ajay.kumar.695632/xss-and-csrf-ki-jodi-800c3b940ddb?source=rss------bug_bounty_writeup-5)
 - [How to Exploit Reflected XSS and Bypass Cloudflare Using Waybackurls — A Bug Hunter’s Guide](https://hackersatty.medium.com/how-to-exploit-reflected-xss-and-bypass-cloudflare-using-waybackurls-a-bug-hunters-guide-3aef1ffb80ee?source=rss------bug_bounty_writeup-5)
 - [How I Found a Ticket Booking Bug That Allowed Me to Travel Almost for Free in TNSTC](https://infosecwriteups.com/how-i-found-a-ticket-booking-bug-that-allowed-me-to-travel-almost-for-free-in-tnstc-2c7aa23aebf6?source=rss------bug_bounty_writeup-5)
-- [️‍♂️Ultimate Guide to Finding Bugs in APIs: From Recon to Bounty](https://medium.com/@zoningxtr/ultimate-guide-to-finding-bugs-in-apis-from-recon-to-bounty-f0cc3487780b?source=rss------bug_bounty_writeup-5)
 - [A Deep Dive into Anti-Phishing Detection Targeting Steam Platform Users](https://infosecwriteups.com/a-deep-dive-into-anti-phishing-detection-targeting-steam-platform-users-2a3376c99062?source=rss----7b722bfd1b8d---4)
 - [Attacktive Directory — TryHackMe Writup](https://infosecwriteups.com/attacktive-directory-tryhackme-writup-7cd5fe60933b?source=rss----7b722bfd1b8d---4)
 - [Splunk Series: Creating a Dashboard to Visualize Your Data &lpar;Part 4&rpar;](https://infosecwriteups.com/splunk-series-creating-a-dashboard-to-visualize-your-data-part-4-7f4ba495ef04?source=rss----7b722bfd1b8d---4)
