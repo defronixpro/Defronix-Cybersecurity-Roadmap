@@ -922,6 +922,9 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [5 Things You Should Understand Before Jumping into Bug Bounty](https://infosecwriteups.com/5-things-you-should-understand-before-jumping-into-bug-bounty-813cd960c6bc?source=rss----7b722bfd1b8d---4)
+- [Exploiting XSS To Steal Cookies](https://infosecwriteups.com/exploiting-xss-to-steal-cookies-f0aebdcd815b?source=rss----7b722bfd1b8d---4)
+- [How I Found a Ticket Booking Bug That Allowed Me to Travel Almost for Free in TNSTC](https://infosecwriteups.com/how-i-found-a-ticket-booking-bug-that-allowed-me-to-travel-almost-for-free-in-tnstc-2c7aa23aebf6?source=rss----7b722bfd1b8d---4)
 - [A Security Gap &lpar;PII&rpar; in a Bus Company](https://medium.com/meetcyber/a-security-gap-pii-in-a-bus-company-ecfe972875ff?source=rss------bug_bounty_writeup-5)
 - [The HackerOne Cake Story](https://www.hackerone.com/blog/hackerone-cake-story)
 - [What Will a New Administration and Congress Mean for Cybersecurity and AI Regulation?](https://www.hackerone.com/blog/cybersecurity-ai-regulation-new-administration)
@@ -942,9 +945,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Smol TryHackMe Motion Graphics Writeup || Beginner Friendly Detailed Walkthrough | SuNnY](https://infosecwriteups.com/smol-tryhackme-motion-graphics-writeup-beginner-friendly-detailed-walkthrough-sunny-02dca60ce54f?source=rss----7b722bfd1b8d---4)
 - [How I Found a Critical Bug That Leaked Chennai Residents’ Information](https://infosecwriteups.com/how-i-found-a-critical-bug-that-leaked-chennai-residents-information-5f8dc5685b92?source=rss----7b722bfd1b8d---4)
 - [LazyAdmin — TryHackMe Writeup](https://infosecwriteups.com/lazyadmin-tryhackme-writeup-430d4816bf7f?source=rss----7b722bfd1b8d---4)
-- [Full GitHub Dorking guide: for OSINT and BugBounty &lpar;Reconnaissance&rpar;](https://infosecwriteups.com/full-github-dorking-guide-for-osint-and-bugbounty-reconnaissance-27557fb67ee0?source=rss----7b722bfd1b8d---4)
-- [Strutted Walkthrough — HackTheBox](https://infosecwriteups.com/strutted-walkthrough-hackthebox-481d056eb559?source=rss----7b722bfd1b8d---4)
-- [How to Set Up a Vulnerable Windows VM for Creating CTF Machines](https://infosecwriteups.com/how-to-set-up-a-vulnerable-windows-vm-for-creating-ctf-machines-63db77ccbdcf?source=rss----7b722bfd1b8d---4)
 - [Hope in the Fight Against Cyber Threats: A New Year’s Message to CISOs](https://www.hackerone.com/blog/hope-fight-against-cyber-threats-new-years-message-cisos)
 - [Resurrecting Shift-Left With Human-in-the-loop AI](https://www.hackerone.com/blog/resurrecting-shift-left-human-loop-ai)
 - [Introducing Lightspark&#39;s Public Bug Bounty Program](https://www.hackerone.com/blog/introducing-lightsparks-public-bug-bounty-program)
