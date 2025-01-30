@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Cutting Off Skynet: Running Local LLMs With Ollama](https://infosecwriteups.com/cutting-off-skynet-running-local-llms-with-ollama-8753e4d1426b?source=rss----7b722bfd1b8d---4)
 - [Easiest $225 Ever: A Simple SQL Injection Win!](https://medium.com/@whoadnan01/easiest-225-ever-a-simple-sql-injection-win-f40c0a6b8e45?source=rss------bug_bounty_writeup-5)
 - [Sensitive Data Exposure with URLScan.io: A Bug Hunter’s Guide](https://aimasterprompt.medium.com/sensitive-data-exposure-with-urlscan-io-a-bug-hunters-guide-7c3541a67c82?source=rss------bug_bounty_writeup-5)
 - [5 Things You Should Understand Before Jumping into Bug Bounty](https://infosecwriteups.com/5-things-you-should-understand-before-jumping-into-bug-bounty-813cd960c6bc?source=rss----7b722bfd1b8d---4)
@@ -23,7 +24,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How HackerOne Reinvented Security for Developers](https://www.hackerone.com/blog/how-hackerone-reinvented-security-developers)
 - [Smol TryHackMe Motion Graphics Writeup || Beginner Friendly Detailed Walkthrough | SuNnY](https://infosecwriteups.com/smol-tryhackme-motion-graphics-writeup-beginner-friendly-detailed-walkthrough-sunny-02dca60ce54f?source=rss----7b722bfd1b8d---4)
 - [How I Found a Critical Bug That Leaked Chennai Residents’ Information](https://infosecwriteups.com/how-i-found-a-critical-bug-that-leaked-chennai-residents-information-5f8dc5685b92?source=rss----7b722bfd1b8d---4)
-- [LazyAdmin — TryHackMe Writeup](https://infosecwriteups.com/lazyadmin-tryhackme-writeup-430d4816bf7f?source=rss----7b722bfd1b8d---4)
 - [Hope in the Fight Against Cyber Threats: A New Year’s Message to CISOs](https://www.hackerone.com/blog/hope-fight-against-cyber-threats-new-years-message-cisos)
 - [Resurrecting Shift-Left With Human-in-the-loop AI](https://www.hackerone.com/blog/resurrecting-shift-left-human-loop-ai)
 - [Introducing Lightspark&#39;s Public Bug Bounty Program](https://www.hackerone.com/blog/introducing-lightsparks-public-bug-bounty-program)
