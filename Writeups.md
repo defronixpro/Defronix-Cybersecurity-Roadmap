@@ -13,7 +13,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [What Will a New Administration and Congress Mean for Cybersecurity and AI Regulation?](https://www.hackerone.com/blog/cybersecurity-ai-regulation-new-administration)
 - [Don’t know how to find Bounty Earning Assets? Let’s Dive Deep into Recon part 2](https://it4chis3c.medium.com/dont-know-how-to-find-bounty-earning-assets-let-s-dive-deep-into-recon-part-2-7c85fdd5b6b7?source=rss------bug_bounty_writeup-5)
 - [What is a Supply Chain Attack?](https://medium.com/@stish834/what-is-a-supply-chain-attack-84f485e371bf?source=rss------bug_bounty_writeup-5)
-- [How I Earned $200 Using GitHub Dorking: A Manual and Automated Guide to Finding Sensitive…](https://myselfakash20.medium.com/how-i-earned-200-using-github-dorking-a-manual-and-automated-guide-to-finding-sensitive-ebbbfcad7296?source=rss------bug_bounty_writeup-5)
+- [How I Earned $200 Using GitHub Dorking: A Manual and Automated Guide to Finding Sensitive…](https://infosecwriteups.com/how-i-earned-200-using-github-dorking-a-manual-and-automated-guide-to-finding-sensitive-ebbbfcad7296?source=rss------bug_bounty_writeup-5)
 - [Low Hanging Bug often pays well](https://ehteshamulhaq198.medium.com/low-hanging-bug-often-pays-well-aff67d4b55f1?source=rss------bug_bounty_writeup-5)
 - [XSS and CSRF ki Jodi](https://medium.com/@ajay.kumar.695632/xss-and-csrf-ki-jodi-800c3b940ddb?source=rss------bug_bounty_writeup-5)
 - [How to Exploit Reflected XSS and Bypass Cloudflare Using Waybackurls — A Bug Hunter’s Guide](https://hackersatty.medium.com/how-to-exploit-reflected-xss-and-bypass-cloudflare-using-waybackurls-a-bug-hunters-guide-3aef1ffb80ee?source=rss------bug_bounty_writeup-5)
