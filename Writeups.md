@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [SaaS platform for Subdomain Enumeration Tool for Bug Hunters and Pentesters](https://aimasterprompt.medium.com/saas-platform-for-subdomain-enumeration-tool-for-bug-hunters-and-pentesters-cf20d4b8ff18?source=rss------bug_bounty_writeup-5)
 - [Dorks For Sensitive Information Disclosure](https://medium.com/@devanshpatel930/dorks-for-sensitive-information-disclosure-31fb90ad6f21?source=rss------bug_bounty_writeup-5)
 - [When I Bypassed Google CAPTCHA: The Epic Exploit of POST-based XSS + CSRF](https://infosecwriteups.com/when-i-bypassed-google-captcha-the-epic-exploit-of-post-based-xss-csrf-1fb66f7cf886?source=rss----7b722bfd1b8d---4)
 - [Admin Panel Exploit Leaks 1 Million User Records on Logitech](https://osintteam.blog/admin-panel-exploit-leaks-1-million-user-records-on-logitech-3c0b20189d30?source=rss------bug_bounty_writeup-5)
@@ -21,7 +22,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [What Will a New Administration and Congress Mean for Cybersecurity and AI Regulation?](https://www.hackerone.com/blog/cybersecurity-ai-regulation-new-administration)
 - [Don’t know how to find Bounty Earning Assets? Let’s Dive Deep into Recon part 2](https://it4chis3c.medium.com/dont-know-how-to-find-bounty-earning-assets-let-s-dive-deep-into-recon-part-2-7c85fdd5b6b7?source=rss------bug_bounty_writeup-5)
 - [What is a Supply Chain Attack?](https://medium.com/@stish834/what-is-a-supply-chain-attack-84f485e371bf?source=rss------bug_bounty_writeup-5)
-- [How I Earned $200 Using GitHub Dorking: A Manual and Automated Guide to Finding Sensitive…](https://infosecwriteups.com/how-i-earned-200-using-github-dorking-a-manual-and-automated-guide-to-finding-sensitive-ebbbfcad7296?source=rss------bug_bounty_writeup-5)
 - [A Deep Dive into Anti-Phishing Detection Targeting Steam Platform Users](https://infosecwriteups.com/a-deep-dive-into-anti-phishing-detection-targeting-steam-platform-users-2a3376c99062?source=rss----7b722bfd1b8d---4)
 - [How HackerOne Reinvented Security for Developers](https://www.hackerone.com/blog/how-hackerone-reinvented-security-developers)
 - [Hope in the Fight Against Cyber Threats: A New Year’s Message to CISOs](https://www.hackerone.com/blog/hope-fight-against-cyber-threats-new-years-message-cisos)
