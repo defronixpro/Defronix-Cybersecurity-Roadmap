@@ -3,7 +3,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 <!-- WRITEUPS:START -->
 - [Dorks For Sensitive Information Disclosure](https://medium.com/@devanshpatel930/dorks-for-sensitive-information-disclosure-31fb90ad6f21?source=rss------bug_bounty_writeup-5)
 - [When I Bypassed Google CAPTCHA: The Epic Exploit of POST-based XSS + CSRF](https://infosecwriteups.com/when-i-bypassed-google-captcha-the-epic-exploit-of-post-based-xss-csrf-1fb66f7cf886?source=rss----7b722bfd1b8d---4)
-- [Admin Panel Exploit Leaks 1 Million User Records on Logitech](https://medium.com/@zerodaystories/admin-panel-exploit-leaks-1-million-user-records-on-logitech-3c0b20189d30?source=rss------bug_bounty_writeup-5)
+- [Admin Panel Exploit Leaks 1 Million User Records on Logitech](https://osintteam.blog/admin-panel-exploit-leaks-1-million-user-records-on-logitech-3c0b20189d30?source=rss------bug_bounty_writeup-5)
 - [My Bug Bounty Journey: A Middle-Class Kid’s Quest for Free and Beyond](https://infosecwriteups.com/my-bug-bounty-journey-a-middle-class-kids-quest-for-free-and-beyond-1cd6b65240d6?source=rss----7b722bfd1b8d---4)
 - [Step-by-Step Complete Beginners guide of Wi-Fi Hacking](https://infosecwriteups.com/wi-fi-hacking-4d9aa3ded7fd?source=rss----7b722bfd1b8d---4)
 - [How I Earned $200 Using GitHub Dorking: A Manual and Automated Guide to Finding Sensitive…](https://infosecwriteups.com/how-i-earned-200-using-github-dorking-a-manual-and-automated-guide-to-finding-sensitive-ebbbfcad7296?source=rss----7b722bfd1b8d---4)
