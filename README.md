@@ -922,6 +922,10 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Admin Panel Exploit Leaks 1 Million User Records on Logitech](https://medium.com/@zerodaystories/admin-panel-exploit-leaks-1-million-user-records-on-logitech-3c0b20189d30?source=rss------bug_bounty_writeup-5)
+- [My Bug Bounty Journey: A Middle-Class Kid’s Quest for Free and Beyond](https://infosecwriteups.com/my-bug-bounty-journey-a-middle-class-kids-quest-for-free-and-beyond-1cd6b65240d6?source=rss----7b722bfd1b8d---4)
+- [Step-by-Step Complete Beginners guide of Wi-Fi Hacking](https://infosecwriteups.com/wi-fi-hacking-4d9aa3ded7fd?source=rss----7b722bfd1b8d---4)
+- [How I Earned $200 Using GitHub Dorking: A Manual and Automated Guide to Finding Sensitive…](https://infosecwriteups.com/how-i-earned-200-using-github-dorking-a-manual-and-automated-guide-to-finding-sensitive-ebbbfcad7296?source=rss----7b722bfd1b8d---4)
 - [Bug Hunting Recon: Finding acquisitions of target](https://medium.com/@ethicalhackerhuzaifa/bug-hunting-recon-finding-acquisitions-of-target-de4ec6a252a9?source=rss------bug_bounty_writeup-5)
 - [How iPhone Data Can Be Securely Erased?](https://infosecwriteups.com/how-iphone-data-can-be-securely-erased-7b044dbf7919?source=rss----7b722bfd1b8d---4)
 - [Most Overlooked &amp; Easiest P4 Vulnerability](https://progprnv.medium.com/most-overlooked-easiest-p4-vulnerability-d3a89cb10497?source=rss------bug_bounty_writeup-5)
@@ -938,13 +942,9 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [What is a Supply Chain Attack?](https://medium.com/@stish834/what-is-a-supply-chain-attack-84f485e371bf?source=rss------bug_bounty_writeup-5)
 - [How I Earned $200 Using GitHub Dorking: A Manual and Automated Guide to Finding Sensitive…](https://infosecwriteups.com/how-i-earned-200-using-github-dorking-a-manual-and-automated-guide-to-finding-sensitive-ebbbfcad7296?source=rss------bug_bounty_writeup-5)
 - [Low Hanging Bug often pays well](https://ehteshamulhaq198.medium.com/low-hanging-bug-often-pays-well-aff67d4b55f1?source=rss------bug_bounty_writeup-5)
-- [XSS and CSRF ki Jodi](https://medium.com/@ajay.kumar.695632/xss-and-csrf-ki-jodi-800c3b940ddb?source=rss------bug_bounty_writeup-5)
 - [A Deep Dive into Anti-Phishing Detection Targeting Steam Platform Users](https://infosecwriteups.com/a-deep-dive-into-anti-phishing-detection-targeting-steam-platform-users-2a3376c99062?source=rss----7b722bfd1b8d---4)
 - [Attacktive Directory — TryHackMe Writup](https://infosecwriteups.com/attacktive-directory-tryhackme-writup-7cd5fe60933b?source=rss----7b722bfd1b8d---4)
-- [Splunk Series: Creating a Dashboard to Visualize Your Data &lpar;Part 4&rpar;](https://infosecwriteups.com/splunk-series-creating-a-dashboard-to-visualize-your-data-part-4-7f4ba495ef04?source=rss----7b722bfd1b8d---4)
-- [TryHackMe Smol Walkthrough](https://infosecwriteups.com/thm-smol-walkthrough-f8455192f0ba?source=rss----7b722bfd1b8d---4)
 - [How HackerOne Reinvented Security for Developers](https://www.hackerone.com/blog/how-hackerone-reinvented-security-developers)
-- [Smol TryHackMe Motion Graphics Writeup || Beginner Friendly Detailed Walkthrough | SuNnY](https://infosecwriteups.com/smol-tryhackme-motion-graphics-writeup-beginner-friendly-detailed-walkthrough-sunny-02dca60ce54f?source=rss----7b722bfd1b8d---4)
 - [Hope in the Fight Against Cyber Threats: A New Year’s Message to CISOs](https://www.hackerone.com/blog/hope-fight-against-cyber-threats-new-years-message-cisos)
 - [Resurrecting Shift-Left With Human-in-the-loop AI](https://www.hackerone.com/blog/resurrecting-shift-left-human-loop-ai)
 - [Introducing Lightspark&#39;s Public Bug Bounty Program](https://www.hackerone.com/blog/introducing-lightsparks-public-bug-bounty-program)
