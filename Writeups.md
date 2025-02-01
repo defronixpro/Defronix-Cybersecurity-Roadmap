@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How I Earned a $500 Bounty by Exploiting a Hidden Vulnerability &lpar;Without Even Trying&rpar;](https://medium.com/@thedevtaskofficial/how-i-earned-a-500-bounty-by-exploiting-a-hidden-vulnerability-without-even-trying-d22229d4d8bd?source=rss------bug_bounty_writeup-5)
 - [Most Overlooked &amp; Easiest Vulnerability - Part 2](https://progprnv.medium.com/most-overlooked-easiest-vulnerability-ever-existed-550f1e2dc912?source=rss------bug_bounty_writeup-5)
 - [Title:The Silent Takeover: How a Tiny Oversight Led to a Major Security Risk](https://medium.com/@thedevtaskofficial/title-the-silent-takeover-how-a-tiny-oversight-led-to-a-major-security-risk-1d051030d6e8?source=rss------bug_bounty_writeup-5)
 - [SaaS platform for Subdomain Enumeration Tool for Bug Hunters and Pentesters](https://aimasterprompt.medium.com/saas-platform-for-subdomain-enumeration-tool-for-bug-hunters-and-pentesters-cf20d4b8ff18?source=rss------bug_bounty_writeup-5)
@@ -19,7 +20,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [5 Things You Should Understand Before Jumping into Bug Bounty](https://infosecwriteups.com/5-things-you-should-understand-before-jumping-into-bug-bounty-813cd960c6bc?source=rss----7b722bfd1b8d---4)
 - [Exploiting XSS To Steal Cookies](https://infosecwriteups.com/exploiting-xss-to-steal-cookies-f0aebdcd815b?source=rss----7b722bfd1b8d---4)
 - [How I Found a Ticket Booking Bug That Allowed Me to Travel Almost for Free in TNSTC](https://infosecwriteups.com/how-i-found-a-ticket-booking-bug-that-allowed-me-to-travel-almost-for-free-in-tnstc-2c7aa23aebf6?source=rss----7b722bfd1b8d---4)
-- [A Security Gap &lpar;PII&rpar; in a Bus Company](https://medium.com/meetcyber/a-security-gap-pii-in-a-bus-company-ecfe972875ff?source=rss------bug_bounty_writeup-5)
 - [The HackerOne Cake Story](https://www.hackerone.com/blog/hackerone-cake-story)
 - [What Will a New Administration and Congress Mean for Cybersecurity and AI Regulation?](https://www.hackerone.com/blog/cybersecurity-ai-regulation-new-administration)
 - [A Deep Dive into Anti-Phishing Detection Targeting Steam Platform Users](https://infosecwriteups.com/a-deep-dive-into-anti-phishing-detection-targeting-steam-platform-users-2a3376c99062?source=rss----7b722bfd1b8d---4)
