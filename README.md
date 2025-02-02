@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Top 10 Bug Bounty Platforms to Earn Money Online](https://hackreveals.medium.com/top-10-bug-bounty-platforms-to-earn-money-online-fbea54cf7cbb?source=rss------bug_bounty_writeup-5)
 - [Easy P3 Bug | LDAP Null Bind leads to extract sensitive credentials](https://medium.com/meetcyber/easy-p3-bug-ldap-null-bind-leads-to-extract-sensitive-credentials-0d06b8d58d99?source=rss------bug_bounty_writeup-5)
 - [Most Overlooked &amp; Easiest Vulnerability - Part 2](https://progprnv.medium.com/most-overlooked-easiest-vulnerability-ever-existed-550f1e2dc912?source=rss------bug_bounty_writeup-5)
 - [CAMPAIGN TAKEOVER - the UNKNOWN BUG](https://medium.com/@thedevtaskofficial/title-the-silent-takeover-how-a-tiny-oversight-led-to-a-major-security-risk-1d051030d6e8?source=rss------bug_bounty_writeup-5)
@@ -937,7 +938,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Most Overlooked &amp; Easiest P4 Vulnerability](https://progprnv.medium.com/most-overlooked-easiest-p4-vulnerability-d3a89cb10497?source=rss------bug_bounty_writeup-5)
 - [Cutting Off Skynet: Running Local LLMs With Ollama](https://infosecwriteups.com/cutting-off-skynet-running-local-llms-with-ollama-8753e4d1426b?source=rss----7b722bfd1b8d---4)
 - [Easiest $225 Ever: A Simple SQL Injection Win!](https://medium.com/@whoadnan01/easiest-225-ever-a-simple-sql-injection-win-f40c0a6b8e45?source=rss------bug_bounty_writeup-5)
-- [Sensitive Data Exposure with URLScan.io: A Bug Hunter’s Guide](https://aimasterprompt.medium.com/sensitive-data-exposure-with-urlscan-io-a-bug-hunters-guide-7c3541a67c82?source=rss------bug_bounty_writeup-5)
 - [5 Things You Should Understand Before Jumping into Bug Bounty](https://infosecwriteups.com/5-things-you-should-understand-before-jumping-into-bug-bounty-813cd960c6bc?source=rss----7b722bfd1b8d---4)
 - [Exploiting XSS To Steal Cookies](https://infosecwriteups.com/exploiting-xss-to-steal-cookies-f0aebdcd815b?source=rss----7b722bfd1b8d---4)
 - [How I Found a Ticket Booking Bug That Allowed Me to Travel Almost for Free in TNSTC](https://infosecwriteups.com/how-i-found-a-ticket-booking-bug-that-allowed-me-to-travel-almost-for-free-in-tnstc-2c7aa23aebf6?source=rss----7b722bfd1b8d---4)
