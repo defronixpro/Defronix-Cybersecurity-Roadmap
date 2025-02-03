@@ -936,6 +936,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Top 10 Bug Bounty Platforms to Earn Money Online](https://hackreveals.medium.com/top-10-bug-bounty-platforms-to-earn-money-online-fbea54cf7cbb?source=rss------bug_bounty_writeup-5)
 - [Easy P3 Bug | LDAP Null Bind leads to extract sensitive credentials](https://medium.com/meetcyber/easy-p3-bug-ldap-null-bind-leads-to-extract-sensitive-credentials-0d06b8d58d99?source=rss------bug_bounty_writeup-5)
 - [Most Overlooked &amp; Easiest Vulnerability - Part 2](https://progprnv.medium.com/most-overlooked-easiest-vulnerability-ever-existed-550f1e2dc912?source=rss------bug_bounty_writeup-5)
+- [DORA Compliance Is Here: What Financial Entities Should Know](https://www.hackerone.com/blog/dora-compliance-here-what-financial-entities-should-know)
 - [CAMPAIGN TAKEOVER - the UNKNOWN BUG](https://medium.com/@thedevtaskofficial/title-the-silent-takeover-how-a-tiny-oversight-led-to-a-major-security-risk-1d051030d6e8?source=rss------bug_bounty_writeup-5)
 - [SaaS platform for Subdomain Enumeration Tool for Bug Hunters and Pentesters](https://aimasterprompt.medium.com/saas-platform-for-subdomain-enumeration-tool-for-bug-hunters-and-pentesters-cf20d4b8ff18?source=rss------bug_bounty_writeup-5)
 - [Dorks For Sensitive Information Disclosure](https://medium.com/@devanshpatel930/dorks-for-sensitive-information-disclosure-31fb90ad6f21?source=rss------bug_bounty_writeup-5)
@@ -971,7 +972,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How HackerOne Employees Stay Connected and Have Fun](https://www.hackerone.com/blog/how-hackerone-employees-stay-connected-and-have-fun)
 - [How REI Strengthens Security with HackerOne’s Global Security Researcher Community](https://www.hackerone.com/blog/how-rei-strengthens-security-hackerones-global-security-researcher-community)
 - [Flexible Data Retrieval at Scale with HAQL](https://www.hackerone.com/blog/flexible-data-retrieval-scale-haql)
-- [AI in SecOps: How AI is Impacting Red and Blue Team Operations](https://www.hackerone.com/blog/ai-secops-how-ai-impacting-red-and-blue-team-operations)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
