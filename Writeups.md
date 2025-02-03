@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Vulnerabilities: A Comprehensive Exploration of Client-Side and Server-Side Risks](https://medium.com/@shalomo.social/vulnerabilities-a-comprehensive-exploration-of-client-side-and-server-side-risks-c2f060434ebc?source=rss------bug_bounty_writeup-5)
 - [SQL Injection Tactics: Achieving Code Execution for your OSCP Skillset](https://infosecwriteups.com/sql-injection-tactics-achieving-code-execution-for-your-oscp-skillset-ef3d7667c1b0?source=rss----7b722bfd1b8d---4)
 - [How I Earned $200 Using GitHub Dorking P=2:Advanced GitHub Dorking: More Secrets, More Automation…](https://infosecwriteups.com/advanced-github-dorking-more-secrets-more-automation-more-bounties-f39dd553b1c2?source=rss----7b722bfd1b8d---4)
 - [“Digital Safety”](https://infosecwriteups.com/digital-safety-6799c96dcc18?source=rss----7b722bfd1b8d---4)
@@ -19,7 +20,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How I Earned $200 Using GitHub Dorking: A Manual and Automated Guide to Finding Sensitive…](https://infosecwriteups.com/how-i-earned-200-using-github-dorking-a-manual-and-automated-guide-to-finding-sensitive-ebbbfcad7296?source=rss----7b722bfd1b8d---4)
 - [Bug Hunting Recon: Finding acquisitions of target](https://medium.com/@ethicalhackerhuzaifa/bug-hunting-recon-finding-acquisitions-of-target-de4ec6a252a9?source=rss------bug_bounty_writeup-5)
 - [How iPhone Data Can Be Securely Erased?](https://infosecwriteups.com/how-iphone-data-can-be-securely-erased-7b044dbf7919?source=rss----7b722bfd1b8d---4)
-- [Most Overlooked &amp; Easiest P4 Vulnerability](https://progprnv.medium.com/most-overlooked-easiest-p4-vulnerability-d3a89cb10497?source=rss------bug_bounty_writeup-5)
 - [Cutting Off Skynet: Running Local LLMs With Ollama](https://infosecwriteups.com/cutting-off-skynet-running-local-llms-with-ollama-8753e4d1426b?source=rss----7b722bfd1b8d---4)
 - [The HackerOne Cake Story](https://www.hackerone.com/blog/hackerone-cake-story)
 - [What Will a New Administration and Congress Mean for Cybersecurity and AI Regulation?](https://www.hackerone.com/blog/cybersecurity-ai-regulation-new-administration)
