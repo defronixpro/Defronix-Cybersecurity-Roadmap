@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How Bad Regex Can Earn You a Bounty for an Open Redirect Filter Bypass Bug](https://medium.com/@halfcircassian/how-bad-regex-can-earn-you-a-bounty-for-an-open-redirect-filter-bypass-bug-6845a2b83f7c?source=rss------bug_bounty_writeup-5)
 - [HTB POV: Formal Writeup](https://infosecwriteups.com/htb-pov-formal-writeup-f2a5978f3af1?source=rss----7b722bfd1b8d---4)
 - [TNSTC&lpar;Tamil Nadu State Transport Corporation&rpar; data breach — an interesting bug that allowed me to…](https://infosecwriteups.com/tnstc-tamil-nadu-state-transport-corporation-data-breach-an-interesting-bug-that-allowed-me-to-83008c4f51c1?source=rss----7b722bfd1b8d---4)
 - [Windows PrivEsc : Bypassing Windows UAC AND Windows Access Tokens](https://infosecwriteups.com/windows-privesc-bypassing-windows-uac-and-windows-access-tokens-341b824381ce?source=rss----7b722bfd1b8d---4)
@@ -21,7 +22,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Dorks For Sensitive Information Disclosure](https://medium.com/@devanshpatel930/dorks-for-sensitive-information-disclosure-31fb90ad6f21?source=rss------bug_bounty_writeup-5)
 - [When I Bypassed Google CAPTCHA: The Epic Exploit of POST-based XSS + CSRF](https://infosecwriteups.com/when-i-bypassed-google-captcha-the-epic-exploit-of-post-based-xss-csrf-1fb66f7cf886?source=rss----7b722bfd1b8d---4)
 - [Admin Panel Exploit Leaks 1 Million User Records on Logitech](https://osintteam.blog/admin-panel-exploit-leaks-1-million-user-records-on-logitech-3c0b20189d30?source=rss------bug_bounty_writeup-5)
-- [Bug Hunting Recon: Finding acquisitions of target](https://medium.com/@ethicalhackerhuzaifa/bug-hunting-recon-finding-acquisitions-of-target-de4ec6a252a9?source=rss------bug_bounty_writeup-5)
 - [The HackerOne Cake Story](https://www.hackerone.com/blog/hackerone-cake-story)
 - [What Will a New Administration and Congress Mean for Cybersecurity and AI Regulation?](https://www.hackerone.com/blog/cybersecurity-ai-regulation-new-administration)
 - [How HackerOne Reinvented Security for Developers](https://www.hackerone.com/blog/how-hackerone-reinvented-security-developers)
