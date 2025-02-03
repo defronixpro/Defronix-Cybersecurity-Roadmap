@@ -922,6 +922,11 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [HTB POV: Formal Writeup](https://infosecwriteups.com/htb-pov-formal-writeup-f2a5978f3af1?source=rss----7b722bfd1b8d---4)
+- [TNSTC&lpar;Tamil Nadu State Transport Corporation&rpar; data breach — an interesting bug that allowed me to…](https://infosecwriteups.com/tnstc-tamil-nadu-state-transport-corporation-data-breach-an-interesting-bug-that-allowed-me-to-83008c4f51c1?source=rss----7b722bfd1b8d---4)
+- [Windows PrivEsc : Bypassing Windows UAC AND Windows Access Tokens](https://infosecwriteups.com/windows-privesc-bypassing-windows-uac-and-windows-access-tokens-341b824381ce?source=rss----7b722bfd1b8d---4)
+- [How to Supercharge Ethical Hacking with DeepSeek: A Step-by-Step Guide for Cybersecurity Pros](https://infosecwriteups.com/how-to-supercharge-ethical-hacking-with-deepseek-a-step-by-step-guide-for-cybersecurity-pros-28752c1ef0a9?source=rss----7b722bfd1b8d---4)
+- [The Sticker Shop TryHackMe Writeup](https://infosecwriteups.com/the-sticker-shop-tryhackme-writeup-fd43104a17a2?source=rss----7b722bfd1b8d---4)
 - [Vulnerabilities: A Comprehensive Exploration of Client-Side and Server-Side Risks](https://medium.com/@shalomo.social/vulnerabilities-a-comprehensive-exploration-of-client-side-and-server-side-risks-c2f060434ebc?source=rss------bug_bounty_writeup-5)
 - [SQL Injection Tactics: Achieving Code Execution for your OSCP Skillset](https://infosecwriteups.com/sql-injection-tactics-achieving-code-execution-for-your-oscp-skillset-ef3d7667c1b0?source=rss----7b722bfd1b8d---4)
 - [How I Earned $200 Using GitHub Dorking P=2:Advanced GitHub Dorking: More Secrets, More Automation…](https://infosecwriteups.com/advanced-github-dorking-more-secrets-more-automation-more-bounties-f39dd553b1c2?source=rss----7b722bfd1b8d---4)
@@ -936,12 +941,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Dorks For Sensitive Information Disclosure](https://medium.com/@devanshpatel930/dorks-for-sensitive-information-disclosure-31fb90ad6f21?source=rss------bug_bounty_writeup-5)
 - [When I Bypassed Google CAPTCHA: The Epic Exploit of POST-based XSS + CSRF](https://infosecwriteups.com/when-i-bypassed-google-captcha-the-epic-exploit-of-post-based-xss-csrf-1fb66f7cf886?source=rss----7b722bfd1b8d---4)
 - [Admin Panel Exploit Leaks 1 Million User Records on Logitech](https://osintteam.blog/admin-panel-exploit-leaks-1-million-user-records-on-logitech-3c0b20189d30?source=rss------bug_bounty_writeup-5)
-- [My Bug Bounty Journey: A Middle-Class Kid’s Quest for Free and Beyond](https://infosecwriteups.com/my-bug-bounty-journey-a-middle-class-kids-quest-for-free-and-beyond-1cd6b65240d6?source=rss----7b722bfd1b8d---4)
-- [Step-by-Step Complete Beginners guide of Wi-Fi Hacking](https://infosecwriteups.com/wi-fi-hacking-4d9aa3ded7fd?source=rss----7b722bfd1b8d---4)
-- [How I Earned $200 Using GitHub Dorking: A Manual and Automated Guide to Finding Sensitive…](https://infosecwriteups.com/how-i-earned-200-using-github-dorking-a-manual-and-automated-guide-to-finding-sensitive-ebbbfcad7296?source=rss----7b722bfd1b8d---4)
 - [Bug Hunting Recon: Finding acquisitions of target](https://medium.com/@ethicalhackerhuzaifa/bug-hunting-recon-finding-acquisitions-of-target-de4ec6a252a9?source=rss------bug_bounty_writeup-5)
-- [How iPhone Data Can Be Securely Erased?](https://infosecwriteups.com/how-iphone-data-can-be-securely-erased-7b044dbf7919?source=rss----7b722bfd1b8d---4)
-- [Cutting Off Skynet: Running Local LLMs With Ollama](https://infosecwriteups.com/cutting-off-skynet-running-local-llms-with-ollama-8753e4d1426b?source=rss----7b722bfd1b8d---4)
 - [The HackerOne Cake Story](https://www.hackerone.com/blog/hackerone-cake-story)
 - [What Will a New Administration and Congress Mean for Cybersecurity and AI Regulation?](https://www.hackerone.com/blog/cybersecurity-ai-regulation-new-administration)
 - [How HackerOne Reinvented Security for Developers](https://www.hackerone.com/blog/how-hackerone-reinvented-security-developers)
