@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Exploring a New SQLi Vulnerability: A Ghauri Experience](https://medium.com/meetcyber/exploring-a-new-sqli-vulnerability-a-ghauri-experience-541c588dc00d?source=rss------bug_bounty_writeup-5)
 - [The Silent Breach: A Story of Leaked Token and PII](https://medium.com/@bughunt.bochi/the-silent-breach-a-story-of-leaked-token-and-pii-4576658030e3?source=rss------bug_bounty_writeup-5)
 - [Advanced SQL Injection Techniques for Ethical Hackers and BB Hunters — By nav1n](https://infosecwriteups.com/advanced-sql-injection-techniques-for-ethical-hackers-and-bb-hunters-by-nav1n-65459f25e8d4?source=rss----7b722bfd1b8d---4)
 - [Google did an Oopsie: a simple IDOR worth $3,133.7](https://infosecwriteups.com/google-did-an-oopsie-a-simple-idor-worth-3-133-7-2abefaef954d?source=rss----7b722bfd1b8d---4)
@@ -21,7 +22,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [DORA Compliance Is Here: What Financial Entities Should Know](https://www.hackerone.com/blog/dora-compliance-here-what-financial-entities-should-know)
 - [CAMPAIGN TAKEOVER - the UNKNOWN BUG](https://medium.com/@thedevtaskofficial/title-the-silent-takeover-how-a-tiny-oversight-led-to-a-major-security-risk-1d051030d6e8?source=rss------bug_bounty_writeup-5)
 - [SaaS platform for Subdomain Enumeration Tool for Bug Hunters and Pentesters](https://aimasterprompt.medium.com/saas-platform-for-subdomain-enumeration-tool-for-bug-hunters-and-pentesters-cf20d4b8ff18?source=rss------bug_bounty_writeup-5)
-- [Dorks For Sensitive Information Disclosure](https://medium.com/@devanshpatel930/dorks-for-sensitive-information-disclosure-31fb90ad6f21?source=rss------bug_bounty_writeup-5)
 - [The HackerOne Cake Story](https://www.hackerone.com/blog/hackerone-cake-story)
 - [What Will a New Administration and Congress Mean for Cybersecurity and AI Regulation?](https://www.hackerone.com/blog/cybersecurity-ai-regulation-new-administration)
 - [How HackerOne Reinvented Security for Developers](https://www.hackerone.com/blog/how-hackerone-reinvented-security-developers)
