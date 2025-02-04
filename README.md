@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Live Love WAF — Skirt the firewalls or die trying](https://medium.com/@l_s_/live-love-waf-skirt-the-firewalls-or-die-trying-4120facb41c8?source=rss------bug_bounty_writeup-5)
 - [Exploring a New SQLi Vulnerability: A Ghauri Experience](https://medium.com/meetcyber/exploring-a-new-sqli-vulnerability-a-ghauri-experience-541c588dc00d?source=rss------bug_bounty_writeup-5)
 - [The Silent Breach: A Story of Leaked Token and PII](https://medium.com/@bughunt.bochi/the-silent-breach-a-story-of-leaked-token-and-pii-4576658030e3?source=rss------bug_bounty_writeup-5)
 - [Advanced SQL Injection Techniques for Ethical Hackers and BB Hunters — By nav1n](https://infosecwriteups.com/advanced-sql-injection-techniques-for-ethical-hackers-and-bb-hunters-by-nav1n-65459f25e8d4?source=rss----7b722bfd1b8d---4)
@@ -942,7 +943,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Most Overlooked &amp; Easiest Vulnerability - Part 2](https://progprnv.medium.com/most-overlooked-easiest-vulnerability-ever-existed-550f1e2dc912?source=rss------bug_bounty_writeup-5)
 - [DORA Compliance Is Here: What Financial Entities Should Know](https://www.hackerone.com/blog/dora-compliance-here-what-financial-entities-should-know)
 - [CAMPAIGN TAKEOVER - the UNKNOWN BUG](https://medium.com/@thedevtaskofficial/title-the-silent-takeover-how-a-tiny-oversight-led-to-a-major-security-risk-1d051030d6e8?source=rss------bug_bounty_writeup-5)
-- [SaaS platform for Subdomain Enumeration Tool for Bug Hunters and Pentesters](https://aimasterprompt.medium.com/saas-platform-for-subdomain-enumeration-tool-for-bug-hunters-and-pentesters-cf20d4b8ff18?source=rss------bug_bounty_writeup-5)
 - [The HackerOne Cake Story](https://www.hackerone.com/blog/hackerone-cake-story)
 - [What Will a New Administration and Congress Mean for Cybersecurity and AI Regulation?](https://www.hackerone.com/blog/cybersecurity-ai-regulation-new-administration)
 - [How HackerOne Reinvented Security for Developers](https://www.hackerone.com/blog/how-hackerone-reinvented-security-developers)
