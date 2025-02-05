@@ -939,7 +939,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [TryHackMe — LookingGlass CTF Writeup](https://infosecwriteups.com/tryhackme-lookingglass-ctf-writeup-ef372775a638?source=rss----7b722bfd1b8d---4)
 - [Google: HTML Injection Bug](https://infosecwriteups.com/google-html-injection-bug-14a50e12bb96?source=rss----7b722bfd1b8d---4)
 - [How Loose Regex Can Earn You a Bounty for an Open Redirect Filter Bypass Bug](https://medium.com/@halfcircassian/how-bad-regex-can-earn-you-a-bounty-for-an-open-redirect-filter-bypass-bug-6845a2b83f7c?source=rss------bug_bounty_writeup-5)
-- [Welcome, Hackbots: How AI Is Shaping the Future of Vulnerability Discovery](https://www.hackerone.com/blog/welcome-hackbots-how-ai-shaping-future-vulnerability-discovery)
 - [Vulnerabilities: A Comprehensive Exploration of Client-Side and Server-Side Risks](https://medium.com/@shalomo.social/vulnerabilities-a-comprehensive-exploration-of-client-side-and-server-side-risks-c2f060434ebc?source=rss------bug_bounty_writeup-5)
 - [XSS on GeeksforGeeks](https://cybersecuritywriteups.com/xss-on-geeksforgeeks-2eafcbbf90b0?source=rss------bug_bounty_writeup-5)
 - [Top 10 Bug Bounty Platforms to Earn Money Online](https://hackreveals.medium.com/top-10-bug-bounty-platforms-to-earn-money-online-fbea54cf7cbb?source=rss------bug_bounty_writeup-5)
@@ -972,6 +971,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How Inadequate Authentication Logic Led to an MFA Bypass and Account Takeover](https://www.hackerone.com/blog/how-inadequate-authentication-logic-led-mfa-bypass-and-account-takeover)
 - [How HackerOne Employees Stay Connected and Have Fun](https://www.hackerone.com/blog/how-hackerone-employees-stay-connected-and-have-fun)
 - [How REI Strengthens Security with HackerOne’s Global Security Researcher Community](https://www.hackerone.com/blog/how-rei-strengthens-security-hackerones-global-security-researcher-community)
+- [Flexible Data Retrieval at Scale with HAQL](https://www.hackerone.com/blog/flexible-data-retrieval-scale-haql)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
