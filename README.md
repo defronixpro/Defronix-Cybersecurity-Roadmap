@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Windows XP is Hackable or Nah? Let’s Test That!](https://infosecwriteups.com/windows-xp-is-hackable-or-nah-lets-test-that-6201f943c2af?source=rss----7b722bfd1b8d---4)
 - [Paginator v2- NullCon CTF 2025](https://infosecwriteups.com/paginator-v2-nullcon-ctf-2025-7bc5f8f445b4?source=rss----7b722bfd1b8d---4)
 - [XSS — Bypassing WAF with Hex Overflow](https://infosecwriteups.com/xss-bypassing-waf-with-hex-overflow-bafbf8bc43b0?source=rss----7b722bfd1b8d---4)
 - [How I Made Top EDR Tools Look Like Clueless Babysitters &lpar;Using Just Notepad &amp; Pure Chaos&rpar;](https://infosecwriteups.com/how-i-made-top-edr-tools-look-like-clueless-babysitters-using-just-notepad-pure-chaos-f852463f5149?source=rss----7b722bfd1b8d---4)
@@ -935,7 +936,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Google did an Oopsie: a simple IDOR worth $3,133.7](https://infosecwriteups.com/google-did-an-oopsie-a-simple-idor-worth-3-133-7-2abefaef954d?source=rss----7b722bfd1b8d---4)
 - [TryHackMe — LookingGlass CTF Writeup](https://infosecwriteups.com/tryhackme-lookingglass-ctf-writeup-ef372775a638?source=rss----7b722bfd1b8d---4)
 - [Google: HTML Injection Bug](https://infosecwriteups.com/google-html-injection-bug-14a50e12bb96?source=rss----7b722bfd1b8d---4)
-- [TryHackMe Smol Writeup](https://infosecwriteups.com/tryhackme-smol-writeup-c43db13dee00?source=rss----7b722bfd1b8d---4)
 - [How Loose Regex Can Earn You a Bounty for an Open Redirect Filter Bypass Bug](https://medium.com/@halfcircassian/how-bad-regex-can-earn-you-a-bounty-for-an-open-redirect-filter-bypass-bug-6845a2b83f7c?source=rss------bug_bounty_writeup-5)
 - [Vulnerabilities: A Comprehensive Exploration of Client-Side and Server-Side Risks](https://medium.com/@shalomo.social/vulnerabilities-a-comprehensive-exploration-of-client-side-and-server-side-risks-c2f060434ebc?source=rss------bug_bounty_writeup-5)
 - [XSS on GeeksforGeeks](https://cybersecuritywriteups.com/xss-on-geeksforgeeks-2eafcbbf90b0?source=rss------bug_bounty_writeup-5)
