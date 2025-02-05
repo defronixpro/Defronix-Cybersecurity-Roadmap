@@ -922,7 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [Accidental Information Disclosure!](https://medium.com/@dopednaveen/accidental-information-disclosure-477198f071eb?source=rss------bug_bounty_writeup-5)
+- [Accidental Information Disclosure!](https://medium.com/@naveen_sparks/accidental-information-disclosure-477198f071eb?source=rss------bug_bounty_writeup-5)
 - [Mobile Application PenTest &lpar;Bypass The Main Restricted Activity&rpar;](https://medium.com/@adhaamsayed3/mobile-application-pentest-bypass-the-main-restricted-activity-b9d4420b7ff9?source=rss------bug_bounty_writeup-5)
 - [Windows XP is Hackable or Nah? Let’s Test That!](https://infosecwriteups.com/windows-xp-is-hackable-or-nah-lets-test-that-6201f943c2af?source=rss----7b722bfd1b8d---4)
 - [Paginator v2- NullCon CTF 2025](https://infosecwriteups.com/paginator-v2-nullcon-ctf-2025-7bc5f8f445b4?source=rss----7b722bfd1b8d---4)
