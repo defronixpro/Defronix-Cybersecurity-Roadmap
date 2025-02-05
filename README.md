@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Accidental Information Disclosure!](https://medium.com/@dopednaveen/accidental-information-disclosure-477198f071eb?source=rss------bug_bounty_writeup-5)
 - [Mobile Application PenTest &lpar;Bypass The Main Restricted Activity&rpar;](https://medium.com/@adhaamsayed3/mobile-application-pentest-bypass-the-main-restricted-activity-b9d4420b7ff9?source=rss------bug_bounty_writeup-5)
 - [Windows XP is Hackable or Nah? Let’s Test That!](https://infosecwriteups.com/windows-xp-is-hackable-or-nah-lets-test-that-6201f943c2af?source=rss----7b722bfd1b8d---4)
 - [Paginator v2- NullCon CTF 2025](https://infosecwriteups.com/paginator-v2-nullcon-ctf-2025-7bc5f8f445b4?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Vulnerabilities: A Comprehensive Exploration of Client-Side and Server-Side Risks](https://medium.com/@shalomo.social/vulnerabilities-a-comprehensive-exploration-of-client-side-and-server-side-risks-c2f060434ebc?source=rss------bug_bounty_writeup-5)
 - [XSS on GeeksforGeeks](https://cybersecuritywriteups.com/xss-on-geeksforgeeks-2eafcbbf90b0?source=rss------bug_bounty_writeup-5)
 - [Top 10 Bug Bounty Platforms to Earn Money Online](https://hackreveals.medium.com/top-10-bug-bounty-platforms-to-earn-money-online-fbea54cf7cbb?source=rss------bug_bounty_writeup-5)
-- [Easy P3 Bug | LDAP Null Bind leads to extract sensitive credentials](https://medium.com/meetcyber/easy-p3-bug-ldap-null-bind-leads-to-extract-sensitive-credentials-0d06b8d58d99?source=rss------bug_bounty_writeup-5)
 - [DORA Compliance Is Here: What Financial Entities Should Know](https://www.hackerone.com/blog/dora-compliance-here-what-financial-entities-should-know)
 - [The HackerOne Cake Story](https://www.hackerone.com/blog/hackerone-cake-story)
 - [What Will a New Administration and Congress Mean for Cybersecurity and AI Regulation?](https://www.hackerone.com/blog/cybersecurity-ai-regulation-new-administration)
