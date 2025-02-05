@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Critical Session Management Vulnerability Leading to Account Hijacking](https://medium.com/@ahmadzuriqi4/critical-session-management-vulnerability-leading-to-account-hijacking-ec71e966265a?source=rss------bug_bounty_writeup-5)
 - [Live Love WAF — Skirt the firewalls or die trying](https://medium.com/@l_s_/live-love-waf-skirt-the-firewalls-or-die-trying-4120facb41c8?source=rss------bug_bounty_writeup-5)
 - [Exploring a New SQLi Vulnerability: A Ghauri Experience](https://medium.com/meetcyber/exploring-a-new-sqli-vulnerability-a-ghauri-experience-541c588dc00d?source=rss------bug_bounty_writeup-5)
 - [The Silent Breach: A Story of Leaked Token and PII](https://medium.com/@bughunt.bochi/the-silent-breach-a-story-of-leaked-token-and-pii-4576658030e3?source=rss------bug_bounty_writeup-5)
@@ -21,7 +22,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Easy P3 Bug | LDAP Null Bind leads to extract sensitive credentials](https://medium.com/meetcyber/easy-p3-bug-ldap-null-bind-leads-to-extract-sensitive-credentials-0d06b8d58d99?source=rss------bug_bounty_writeup-5)
 - [Most Overlooked &amp; Easiest Vulnerability - Part 2](https://progprnv.medium.com/most-overlooked-easiest-vulnerability-ever-existed-550f1e2dc912?source=rss------bug_bounty_writeup-5)
 - [DORA Compliance Is Here: What Financial Entities Should Know](https://www.hackerone.com/blog/dora-compliance-here-what-financial-entities-should-know)
-- [CAMPAIGN TAKEOVER - the UNKNOWN BUG](https://medium.com/@thedevtaskofficial/title-the-silent-takeover-how-a-tiny-oversight-led-to-a-major-security-risk-1d051030d6e8?source=rss------bug_bounty_writeup-5)
 - [The HackerOne Cake Story](https://www.hackerone.com/blog/hackerone-cake-story)
 - [What Will a New Administration and Congress Mean for Cybersecurity and AI Regulation?](https://www.hackerone.com/blog/cybersecurity-ai-regulation-new-administration)
 - [How HackerOne Reinvented Security for Developers](https://www.hackerone.com/blog/how-hackerone-reinvented-security-developers)
