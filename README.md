@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [TikTok Bug Bounty — $250](https://medium.com/@bhussain894/tiktok-bug-bounty-250-82293995c9e4?source=rss------bug_bounty_writeup-5)
 - [$200 Easy Bounty: Improper Rate Limiting Exploit](https://systemweakness.com/200-easy-bounty-improper-rate-limiting-exploit-8822aa2dbe97?source=rss------bug_bounty_writeup-5)
 - [Accidental Information Disclosure!](https://medium.com/@naveen_sparks/accidental-information-disclosure-477198f071eb?source=rss------bug_bounty_writeup-5)
 - [Mobile Application PenTest &lpar;Bypass The Main Restricted Activity&rpar;](https://medium.com/@adhaamsayed3/mobile-application-pentest-bypass-the-main-restricted-activity-b9d4420b7ff9?source=rss------bug_bounty_writeup-5)
@@ -942,7 +943,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How Loose Regex Can Earn You a Bounty for an Open Redirect Filter Bypass Bug](https://medium.com/@halfcircassian/how-bad-regex-can-earn-you-a-bounty-for-an-open-redirect-filter-bypass-bug-6845a2b83f7c?source=rss------bug_bounty_writeup-5)
 - [Welcome, Hackbots: How AI Is Shaping the Future of Vulnerability Discovery](https://www.hackerone.com/blog/welcome-hackbots-how-ai-shaping-future-vulnerability-discovery)
 - [Vulnerabilities: A Comprehensive Exploration of Client-Side and Server-Side Risks](https://medium.com/@shalomo.social/vulnerabilities-a-comprehensive-exploration-of-client-side-and-server-side-risks-c2f060434ebc?source=rss------bug_bounty_writeup-5)
-- [XSS on GeeksforGeeks](https://cybersecuritywriteups.com/xss-on-geeksforgeeks-2eafcbbf90b0?source=rss------bug_bounty_writeup-5)
 - [DORA Compliance Is Here: What Financial Entities Should Know](https://www.hackerone.com/blog/dora-compliance-here-what-financial-entities-should-know)
 - [The HackerOne Cake Story](https://www.hackerone.com/blog/hackerone-cake-story)
 - [What Will a New Administration and Congress Mean for Cybersecurity and AI Regulation?](https://www.hackerone.com/blog/cybersecurity-ai-regulation-new-administration)
