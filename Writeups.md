@@ -1,6 +1,11 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How to Secure Your Spring Boot Application](https://infosecwriteups.com/how-to-secure-your-spring-boot-application-73bca2206113?source=rss----7b722bfd1b8d---4)
+- [Hack The Box — UnderPass Walkthrough](https://infosecwriteups.com/hack-the-box-underpass-walkthrough-2d4f493b7db0?source=rss----7b722bfd1b8d---4)
+- [TryHackMe — Intro to Docker: Writeup/Walkthrough](https://infosecwriteups.com/tryhackme-intro-to-docker-writeup-walkthrough-d8702f84f1c4?source=rss----7b722bfd1b8d---4)
+- [Moniker Link &lpar;CVE-2024–21413&rpar; | TryHackMe Walkthrough by Mark de Moras](https://infosecwriteups.com/moniker-link-cve-2024-21413-tryhackme-walkthrough-by-mark-de-moras-88dd08399f34?source=rss----7b722bfd1b8d---4)
+- [Easy Way to Find Exposed Sensitive API Keys in JS Files](https://infosecwriteups.com/easy-way-to-find-exposed-sensitive-api-keys-in-js-files-d9f9fccb18bb?source=rss----7b722bfd1b8d---4)
 - [Advanced Techniques for Identifying Leaked API Keys in JS Files](https://systemweakness.com/advanced-techniques-for-identifying-leaked-api-keys-in-js-files-bb67845e5c0e?source=rss------bug_bounty_writeup-5)
 - [TikTok Bug Bounty — $250](https://medium.com/@bhussain894/tiktok-bug-bounty-250-82293995c9e4?source=rss------bug_bounty_writeup-5)
 - [$200 Easy Bounty: Improper Rate Limiting Exploit](https://systemweakness.com/200-easy-bounty-improper-rate-limiting-exploit-8822aa2dbe97?source=rss------bug_bounty_writeup-5)
@@ -11,15 +16,10 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [XSS — Bypassing WAF with Hex Overflow](https://infosecwriteups.com/xss-bypassing-waf-with-hex-overflow-bafbf8bc43b0?source=rss----7b722bfd1b8d---4)
 - [How I Made Top EDR Tools Look Like Clueless Babysitters &lpar;Using Just Notepad &amp; Pure Chaos&rpar;](https://infosecwriteups.com/how-i-made-top-edr-tools-look-like-clueless-babysitters-using-just-notepad-pure-chaos-f852463f5149?source=rss----7b722bfd1b8d---4)
 - [PII Exposure: The Data Heist You Never Knew Was Possible!](https://infosecwriteups.com/pii-exposure-the-data-heist-you-never-knew-was-possible-5577b84a1074?source=rss----7b722bfd1b8d---4)
-- [Brute Forcing Financial Apps With HackerOne](https://infosecwriteups.com/brute-forcing-financial-apps-with-hackerone-86e22add374e?source=rss----7b722bfd1b8d---4)
 - [Critical Session Management Vulnerability Leading to Account Hijacking](https://medium.com/@ahmadzuriqi4/critical-session-management-vulnerability-leading-to-account-hijacking-ec71e966265a?source=rss------bug_bounty_writeup-5)
 - [Live Love WAF — Skirt the firewalls or die trying](https://medium.com/@l_s_/live-love-waf-skirt-the-firewalls-or-die-trying-4120facb41c8?source=rss------bug_bounty_writeup-5)
 - [Exploring a New SQLi Vulnerability: A Ghauri Experience](https://medium.com/meetcyber/exploring-a-new-sqli-vulnerability-a-ghauri-experience-541c588dc00d?source=rss------bug_bounty_writeup-5)
 - [The Silent Breach: A Story of Leaked Token and PII](https://medium.com/@bughunt.bochi/the-silent-breach-a-story-of-leaked-token-and-pii-4576658030e3?source=rss------bug_bounty_writeup-5)
-- [Advanced SQL Injection Techniques for Ethical Hackers and BB Hunters — By nav1n](https://infosecwriteups.com/advanced-sql-injection-techniques-for-ethical-hackers-and-bb-hunters-by-nav1n-65459f25e8d4?source=rss----7b722bfd1b8d---4)
-- [Google did an Oopsie: a simple IDOR worth $3,133.7](https://infosecwriteups.com/google-did-an-oopsie-a-simple-idor-worth-3-133-7-2abefaef954d?source=rss----7b722bfd1b8d---4)
-- [TryHackMe — LookingGlass CTF Writeup](https://infosecwriteups.com/tryhackme-lookingglass-ctf-writeup-ef372775a638?source=rss----7b722bfd1b8d---4)
-- [Google: HTML Injection Bug](https://infosecwriteups.com/google-html-injection-bug-14a50e12bb96?source=rss----7b722bfd1b8d---4)
 - [How Loose Regex Can Earn You a Bounty for an Open Redirect Filter Bypass Bug](https://medium.com/@halfcircassian/how-bad-regex-can-earn-you-a-bounty-for-an-open-redirect-filter-bypass-bug-6845a2b83f7c?source=rss------bug_bounty_writeup-5)
 - [Welcome, Hackbots: How AI Is Shaping the Future of Vulnerability Discovery](https://www.hackerone.com/blog/welcome-hackbots-how-ai-shaping-future-vulnerability-discovery)
 - [DORA Compliance Is Here: What Financial Entities Should Know](https://www.hackerone.com/blog/dora-compliance-here-what-financial-entities-should-know)
