@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Advanced Techniques for Identifying Leaked API Keys in JS Files](https://systemweakness.com/advanced-techniques-for-identifying-leaked-api-keys-in-js-files-bb67845e5c0e?source=rss------bug_bounty_writeup-5)
 - [TikTok Bug Bounty — $250](https://medium.com/@bhussain894/tiktok-bug-bounty-250-82293995c9e4?source=rss------bug_bounty_writeup-5)
 - [$200 Easy Bounty: Improper Rate Limiting Exploit](https://systemweakness.com/200-easy-bounty-improper-rate-limiting-exploit-8822aa2dbe97?source=rss------bug_bounty_writeup-5)
 - [Accidental Information Disclosure!](https://medium.com/@naveen_sparks/accidental-information-disclosure-477198f071eb?source=rss------bug_bounty_writeup-5)
@@ -21,7 +22,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Google: HTML Injection Bug](https://infosecwriteups.com/google-html-injection-bug-14a50e12bb96?source=rss----7b722bfd1b8d---4)
 - [How Loose Regex Can Earn You a Bounty for an Open Redirect Filter Bypass Bug](https://medium.com/@halfcircassian/how-bad-regex-can-earn-you-a-bounty-for-an-open-redirect-filter-bypass-bug-6845a2b83f7c?source=rss------bug_bounty_writeup-5)
 - [Welcome, Hackbots: How AI Is Shaping the Future of Vulnerability Discovery](https://www.hackerone.com/blog/welcome-hackbots-how-ai-shaping-future-vulnerability-discovery)
-- [Vulnerabilities: A Comprehensive Exploration of Client-Side and Server-Side Risks](https://medium.com/@shalomo.social/vulnerabilities-a-comprehensive-exploration-of-client-side-and-server-side-risks-c2f060434ebc?source=rss------bug_bounty_writeup-5)
 - [DORA Compliance Is Here: What Financial Entities Should Know](https://www.hackerone.com/blog/dora-compliance-here-what-financial-entities-should-know)
 - [The HackerOne Cake Story](https://www.hackerone.com/blog/hackerone-cake-story)
 - [What Will a New Administration and Congress Mean for Cybersecurity and AI Regulation?](https://www.hackerone.com/blog/cybersecurity-ai-regulation-new-administration)
