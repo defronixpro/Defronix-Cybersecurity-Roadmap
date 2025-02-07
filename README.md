@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How do I perform a Synology RAID 5 data recovery?](https://infosecwriteups.com/how-do-i-perform-a-synology-raid-5-data-recovery-6d024f152bb7?source=rss----7b722bfd1b8d---4)
 - [How to Secure Your Spring Boot Application](https://infosecwriteups.com/how-to-secure-your-spring-boot-application-73bca2206113?source=rss----7b722bfd1b8d---4)
 - [Hack The Box — UnderPass Walkthrough](https://infosecwriteups.com/hack-the-box-underpass-walkthrough-2d4f493b7db0?source=rss----7b722bfd1b8d---4)
 - [TryHackMe — Intro to Docker: Writeup/Walkthrough](https://infosecwriteups.com/tryhackme-intro-to-docker-writeup-walkthrough-d8702f84f1c4?source=rss----7b722bfd1b8d---4)
@@ -936,7 +937,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Paginator v2- NullCon CTF 2025](https://infosecwriteups.com/paginator-v2-nullcon-ctf-2025-7bc5f8f445b4?source=rss----7b722bfd1b8d---4)
 - [XSS — Bypassing WAF with Hex Overflow](https://infosecwriteups.com/xss-bypassing-waf-with-hex-overflow-bafbf8bc43b0?source=rss----7b722bfd1b8d---4)
 - [How I Made Top EDR Tools Look Like Clueless Babysitters &lpar;Using Just Notepad &amp; Pure Chaos&rpar;](https://infosecwriteups.com/how-i-made-top-edr-tools-look-like-clueless-babysitters-using-just-notepad-pure-chaos-f852463f5149?source=rss----7b722bfd1b8d---4)
-- [PII Exposure: The Data Heist You Never Knew Was Possible!](https://infosecwriteups.com/pii-exposure-the-data-heist-you-never-knew-was-possible-5577b84a1074?source=rss----7b722bfd1b8d---4)
 - [Critical Session Management Vulnerability Leading to Account Hijacking](https://medium.com/@ahmadzuriqi4/critical-session-management-vulnerability-leading-to-account-hijacking-ec71e966265a?source=rss------bug_bounty_writeup-5)
 - [Live Love WAF — Skirt the firewalls or die trying](https://medium.com/@l_s_/live-love-waf-skirt-the-firewalls-or-die-trying-4120facb41c8?source=rss------bug_bounty_writeup-5)
 - [Exploring a New SQLi Vulnerability: A Ghauri Experience](https://medium.com/meetcyber/exploring-a-new-sqli-vulnerability-a-ghauri-experience-541c588dc00d?source=rss------bug_bounty_writeup-5)
