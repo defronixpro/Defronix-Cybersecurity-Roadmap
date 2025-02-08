@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Just  a Writeup about 2FA Bypass at a Private Program :&rpar;](https://v0ltex.medium.com/just-a-writeup-about-2fa-bypass-at-a-private-program-509238a0a3a1?source=rss------bug_bounty_writeup-5)
 - [My First Finding In Hackerone](https://islammeshriff.medium.com/my-first-finding-in-hackerone-7521597ca04d?source=rss------bug_bounty_writeup-5)
 - [Account Verification OTP Bypass in Microsoft Security Response Centre](https://medium.com/@official.armanreza/account-verification-otp-bypass-in-microsoft-security-response-centre-21855731a6f5?source=rss------bug_bounty_writeup-5)
 - [Account Takeover via Email Change: Exploiting Weak Verification to Access Support Accounts](https://medium.com/@umd04843/account-takeover-via-email-change-exploiting-weak-verification-to-access-support-accounts-a3bb8d59e753?source=rss------bug_bounty_writeup-5)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [TikTok Bug Bounty — $250](https://medium.com/@bhussain894/tiktok-bug-bounty-250-82293995c9e4?source=rss------bug_bounty_writeup-5)
 - [$200 Easy Bounty: Improper Rate Limiting Exploit](https://systemweakness.com/200-easy-bounty-improper-rate-limiting-exploit-8822aa2dbe97?source=rss------bug_bounty_writeup-5)
 - [Accidental Information Disclosure!](https://medium.com/@naveen_sparks/accidental-information-disclosure-477198f071eb?source=rss------bug_bounty_writeup-5)
-- [Mobile Application PenTest &lpar;Bypass The Main Restricted Activity&rpar;](https://medium.com/@adhaamsayed3/mobile-application-pentest-bypass-the-main-restricted-activity-b9d4420b7ff9?source=rss------bug_bounty_writeup-5)
 - [Welcome, Hackbots: How AI Is Shaping the Future of Vulnerability Discovery](https://www.hackerone.com/blog/welcome-hackbots-how-ai-shaping-future-vulnerability-discovery)
 - [DORA Compliance Is Here: What Financial Entities Should Know](https://www.hackerone.com/blog/dora-compliance-here-what-financial-entities-should-know)
 - [The HackerOne Cake Story](https://www.hackerone.com/blog/hackerone-cake-story)
