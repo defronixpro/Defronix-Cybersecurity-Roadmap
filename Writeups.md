@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Selecting A Program for Bug Bounty on HackerOne](https://vijetareigns.medium.com/selecting-a-program-for-bug-bounty-on-hackerone-e51ce8a83b2a?source=rss------bug_bounty_writeup-5)
 - [User Interface Says No, Backend Says Yes — Story of Bypassing Email Verification](https://som3a.medium.com/user-interface-says-no-backend-says-yes-story-of-bypassing-email-verification-b469f20a141f?source=rss------bug_bounty_writeup-5)
 - [How do I perform a Synology RAID 5 data recovery?](https://infosecwriteups.com/how-do-i-perform-a-synology-raid-5-data-recovery-6d024f152bb7?source=rss----7b722bfd1b8d---4)
 - [How to Secure Your Spring Boot Application](https://infosecwriteups.com/how-to-secure-your-spring-boot-application-73bca2206113?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Critical Session Management Vulnerability Leading to Account Hijacking](https://medium.com/@ahmadzuriqi4/critical-session-management-vulnerability-leading-to-account-hijacking-ec71e966265a?source=rss------bug_bounty_writeup-5)
 - [Live Love WAF — Skirt the firewalls or die trying](https://medium.com/@l_s_/live-love-waf-skirt-the-firewalls-or-die-trying-4120facb41c8?source=rss------bug_bounty_writeup-5)
 - [Exploring a New SQLi Vulnerability: A Ghauri Experience](https://medium.com/meetcyber/exploring-a-new-sqli-vulnerability-a-ghauri-experience-541c588dc00d?source=rss------bug_bounty_writeup-5)
-- [The Silent Breach: A Story of Leaked Token and PII](https://medium.com/@bughunt.bochi/the-silent-breach-a-story-of-leaked-token-and-pii-4576658030e3?source=rss------bug_bounty_writeup-5)
 - [Welcome, Hackbots: How AI Is Shaping the Future of Vulnerability Discovery](https://www.hackerone.com/blog/welcome-hackbots-how-ai-shaping-future-vulnerability-discovery)
 - [DORA Compliance Is Here: What Financial Entities Should Know](https://www.hackerone.com/blog/dora-compliance-here-what-financial-entities-should-know)
 - [The HackerOne Cake Story](https://www.hackerone.com/blog/hackerone-cake-story)
