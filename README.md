@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Account Takeover via Email Change: Exploiting Weak Verification to Access Support Accounts](https://medium.com/@umd04843/account-takeover-via-email-change-exploiting-weak-verification-to-access-support-accounts-a3bb8d59e753?source=rss------bug_bounty_writeup-5)
 - [Deepseek AI in Chat: Unveils the Risks of Prompt Injection to Account takeover:&rpar;](https://infosecwriteups.com/deepseek-ai-in-chat-unveils-the-risks-of-prompt-injection-to-account-takeover-4c1927a38788?source=rss----7b722bfd1b8d---4)
 - [Understanding the Internet’s Core Protocols - TCP/IP](https://infosecwriteups.com/understanding-the-internets-core-protocols-1e2a63b31774?source=rss----7b722bfd1b8d---4)
 - [Java Script file analysis to find bugs](https://infosecwriteups.com/java-script-file-analysis-to-find-bugs-1fb865fee83e?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Mobile Application PenTest &lpar;Bypass The Main Restricted Activity&rpar;](https://medium.com/@adhaamsayed3/mobile-application-pentest-bypass-the-main-restricted-activity-b9d4420b7ff9?source=rss------bug_bounty_writeup-5)
 - [Critical Session Management Vulnerability Leading to Account Hijacking](https://medium.com/@ahmadzuriqi4/critical-session-management-vulnerability-leading-to-account-hijacking-ec71e966265a?source=rss------bug_bounty_writeup-5)
 - [Live Love WAF — Skirt the firewalls or die trying](https://medium.com/@l_s_/live-love-waf-skirt-the-firewalls-or-die-trying-4120facb41c8?source=rss------bug_bounty_writeup-5)
-- [Exploring a New SQLi Vulnerability: A Ghauri Experience](https://medium.com/meetcyber/exploring-a-new-sqli-vulnerability-a-ghauri-experience-541c588dc00d?source=rss------bug_bounty_writeup-5)
 - [Welcome, Hackbots: How AI Is Shaping the Future of Vulnerability Discovery](https://www.hackerone.com/blog/welcome-hackbots-how-ai-shaping-future-vulnerability-discovery)
 - [DORA Compliance Is Here: What Financial Entities Should Know](https://www.hackerone.com/blog/dora-compliance-here-what-financial-entities-should-know)
 - [The HackerOne Cake Story](https://www.hackerone.com/blog/hackerone-cake-story)
