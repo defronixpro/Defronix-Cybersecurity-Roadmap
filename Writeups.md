@@ -10,7 +10,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How I Chained 3 Vulnerabilities to Achieve Account Takeover &lpar;ATO&rpar;](https://medium.com/@hhack4737/how-i-chained-3-vulnerabilities-to-achieve-account-takeover-ato-5238b8acc1ae?source=rss------bug_bounty_writeup-5)
 - [Automated Bug Hunting With Semgrep: Your Secret Weapon for Catching Sneaky Bugs!](https://systemweakness.com/automated-bug-hunting-with-semgrep-your-secret-weapon-for-catching-sneaky-bugs-91439484acf4?source=rss------bug_bounty_writeup-5)
 - [How I Found Reflected XSS Vulnerability on Australian Government. [CVE-2022–35653]](https://systemweakness.com/how-i-found-reflected-xss-vulnerability-on-australian-government-cve-2022-35653-ead0e56db243?source=rss------bug_bounty_writeup-5)
-- [BUG BOUNTY Roadmap](https://medium.com/@codingbolt.in/bug-bounty-roadamp-4acc1220e123?source=rss------bug_bounty_writeup-5)
+- [BUG BOUNTY in 2025](https://medium.com/@codingbolt.in/bug-bounty-roadamp-4acc1220e123?source=rss------bug_bounty_writeup-5)
 - [CTFLearn-Don’t Bump Your Head&lpar;er&rpar; Walkthrough](https://infosecwriteups.com/ctflearn-dont-bump-your-head-er-walkthrough-bad20c66b96c?source=rss----7b722bfd1b8d---4)
 - [Smag Grotto TryHackMe Writeup](https://infosecwriteups.com/smag-grotto-tryhackme-writeup-1018f5ad17df?source=rss----7b722bfd1b8d---4)
 - [How I got Bounty and Hall of Fame for finding easy bugs](https://infosecwriteups.com/how-i-got-bounty-and-hall-of-fame-for-finding-easy-bugs-1a72aefe6c3a?source=rss----7b722bfd1b8d---4)
