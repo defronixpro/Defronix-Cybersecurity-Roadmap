@@ -1,7 +1,10 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [CTFLearn-Don’t Bump Your Head&lpar;er&rpar; Walkthrough](https://infosecwriteups.com/ctflearn-dont-bump-your-head-er-walkthrough-bad20c66b96c?source=rss----7b722bfd1b8d---4)
+- [Smag Grotto TryHackMe Writeup](https://infosecwriteups.com/smag-grotto-tryhackme-writeup-1018f5ad17df?source=rss----7b722bfd1b8d---4)
 - [How I got Bounty and Hall of Fame for finding easy bugs](https://infosecwriteups.com/how-i-got-bounty-and-hall-of-fame-for-finding-easy-bugs-1a72aefe6c3a?source=rss----7b722bfd1b8d---4)
+- [How I got Bounty and Hall of Fame for finding easy bugs](https://infosecwriteups.com/how-i-got-bounty-and-hall-of-fame-for-finding-easy-bugs-1a72aefe6c3a?source=rss------bug_bounty_writeup-5)
 - [Easy Peasy RXSS](https://infosecwriteups.com/easy-peasy-rxss-2f4bb1ec1d38?source=rss----7b722bfd1b8d---4)
 - [Advanced SQL Injection Techniques to Data Exfiltration, OoB, Leveraging JSON etc.](https://infosecwriteups.com/advanced-sql-injection-techniques-to-data-exfiltration-oob-leveraging-json-etc-00666c62c92b?source=rss----7b722bfd1b8d---4)
 - [Fixing stdlib 1.18.2 Vulnerabilities in Docker Images: A PostgreSQL Implementation Guide](https://infosecwriteups.com/fixing-stdlib-1-18-2-vulnerabilities-in-docker-images-a-postgresql-implementation-guide-358183e0dd76?source=rss----7b722bfd1b8d---4)
@@ -9,8 +12,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [WhatsApp Local Data and its Folders…](https://infosecwriteups.com/whatsapp-local-data-and-its-folders-56edae90ebb1?source=rss----7b722bfd1b8d---4)
 - [How to find bugs in the Microsoft IIS page.](https://infosecwriteups.com/how-to-find-bugs-in-the-microsoft-iis-page-120c2050b66f?source=rss----7b722bfd1b8d---4)
 - [The Unexpected $500 Reward: How I Found an Surprise XSS](https://infosecwriteups.com/from-boredom-to-bounty-the-story-of-a-surprise-xss-get-reward-500-e32dfb879bfd?source=rss----7b722bfd1b8d---4)
-- [AI Jailbreaks via Obfuscation: How They Work](https://infosecwriteups.com/ai-jailbreaks-via-obfuscation-how-they-work-4af9102ba099?source=rss----7b722bfd1b8d---4)
-- [.DS_Store File: A Gift for Researchers and a Headache for Website Owners](https://infosecwriteups.com/ds-store-file-a-gift-for-researchers-and-a-headache-for-website-owners-219724b99043?source=rss----7b722bfd1b8d---4)
 - [Just  a Writeup about 2FA Bypass at a Private Program :&rpar;](https://v0ltex.medium.com/just-a-writeup-about-2fa-bypass-at-a-private-program-509238a0a3a1?source=rss------bug_bounty_writeup-5)
 - [My First Finding In Hackerone](https://islammeshriff.medium.com/my-first-finding-in-hackerone-7521597ca04d?source=rss------bug_bounty_writeup-5)
 - [Account Verification OTP Bypass in Microsoft Security Response Centre](https://medium.com/@official.armanreza/account-verification-otp-bypass-in-microsoft-security-response-centre-21855731a6f5?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Advanced Techniques for Identifying Leaked API Keys in JS Files](https://systemweakness.com/advanced-techniques-for-identifying-leaked-api-keys-in-js-files-bb67845e5c0e?source=rss------bug_bounty_writeup-5)
 - [TikTok Bug Bounty — $250](https://medium.com/@bhussain894/tiktok-bug-bounty-250-82293995c9e4?source=rss------bug_bounty_writeup-5)
 - [$200 Easy Bounty: Improper Rate Limiting Exploit](https://systemweakness.com/200-easy-bounty-improper-rate-limiting-exploit-8822aa2dbe97?source=rss------bug_bounty_writeup-5)
-- [Accidental Information Disclosure!](https://medium.com/@naveen_sparks/accidental-information-disclosure-477198f071eb?source=rss------bug_bounty_writeup-5)
 - [Welcome, Hackbots: How AI Is Shaping the Future of Vulnerability Discovery](https://www.hackerone.com/blog/welcome-hackbots-how-ai-shaping-future-vulnerability-discovery)
 - [DORA Compliance Is Here: What Financial Entities Should Know](https://www.hackerone.com/blog/dora-compliance-here-what-financial-entities-should-know)
 - [The HackerOne Cake Story](https://www.hackerone.com/blog/hackerone-cake-story)
