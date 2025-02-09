@@ -1,16 +1,6 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
-- [The Worlds Longest and Strongest WiFi Passwords](https://infosecwriteups.com/the-worlds-longest-and-strongest-wifi-passwords-3d59292a9661?source=rss----7b722bfd1b8d---4)
-- [Lo-Fi &lpar;Easy&rpar; TryHackMe Writeup](https://infosecwriteups.com/lo-fi-easy-tryhackme-writeup-a46b4e303bfc?source=rss----7b722bfd1b8d---4)
-- [How I Stopped a Data Breach In 2 Minutes: A Lesson on Insecure Direct Object…](https://infosecwriteups.com/how-i-stopped-a-data-breach-in-2-minutes-a-lesson-on-insecure-direct-object-1b4d08443ab7?source=rss----7b722bfd1b8d---4)
-- [THE ROLE OF AI TOOL IN CYBER SECURITY](https://infosecwriteups.com/the-role-of-ai-tool-in-cyber-security-f13dbb787418?source=rss----7b722bfd1b8d---4)
-- [CTFLearn-Don’t Bump Your Head&lpar;er&rpar; Walkthrough](https://infosecwriteups.com/ctflearn-dont-bump-your-head-er-walkthrough-bad20c66b96c?source=rss----7b722bfd1b8d---4)
-- [Smag Grotto TryHackMe Writeup](https://infosecwriteups.com/smag-grotto-tryhackme-writeup-1018f5ad17df?source=rss----7b722bfd1b8d---4)
-- [How I got Bounty and Hall of Fame for finding easy bugs](https://infosecwriteups.com/how-i-got-bounty-and-hall-of-fame-for-finding-easy-bugs-1a72aefe6c3a?source=rss----7b722bfd1b8d---4)
-- [Easy Peasy RXSS](https://infosecwriteups.com/easy-peasy-rxss-2f4bb1ec1d38?source=rss----7b722bfd1b8d---4)
-- [Advanced SQL Injection Techniques to Data Exfiltration, OoB, Leveraging JSON etc.](https://infosecwriteups.com/advanced-sql-injection-techniques-to-data-exfiltration-oob-leveraging-json-etc-00666c62c92b?source=rss----7b722bfd1b8d---4)
-- [Fixing stdlib 1.18.2 Vulnerabilities in Docker Images: A PostgreSQL Implementation Guide](https://infosecwriteups.com/fixing-stdlib-1-18-2-vulnerabilities-in-docker-images-a-postgresql-implementation-guide-358183e0dd76?source=rss----7b722bfd1b8d---4)
 - [Welcome, Hackbots: How AI Is Shaping the Future of Vulnerability Discovery](https://www.hackerone.com/blog/welcome-hackbots-how-ai-shaping-future-vulnerability-discovery)
 - [DORA Compliance Is Here: What Financial Entities Should Know](https://www.hackerone.com/blog/dora-compliance-here-what-financial-entities-should-know)
 - [The HackerOne Cake Story](https://www.hackerone.com/blog/hackerone-cake-story)
