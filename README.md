@@ -922,6 +922,10 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How to find bugs in the Microsoft IIS page.](https://infosecwriteups.com/how-to-find-bugs-in-the-microsoft-iis-page-120c2050b66f?source=rss----7b722bfd1b8d---4)
+- [The Unexpected $500 Reward: How I Found an Surprise XSS](https://infosecwriteups.com/from-boredom-to-bounty-the-story-of-a-surprise-xss-get-reward-500-e32dfb879bfd?source=rss----7b722bfd1b8d---4)
+- [AI Jailbreaks via Obfuscation: How They Work](https://infosecwriteups.com/ai-jailbreaks-via-obfuscation-how-they-work-4af9102ba099?source=rss----7b722bfd1b8d---4)
+- [.DS_Store File: A Gift for Researchers and a Headache for Website Owners](https://infosecwriteups.com/ds-store-file-a-gift-for-researchers-and-a-headache-for-website-owners-219724b99043?source=rss----7b722bfd1b8d---4)
 - [Just  a Writeup about 2FA Bypass at a Private Program :&rpar;](https://v0ltex.medium.com/just-a-writeup-about-2fa-bypass-at-a-private-program-509238a0a3a1?source=rss------bug_bounty_writeup-5)
 - [My First Finding In Hackerone](https://islammeshriff.medium.com/my-first-finding-in-hackerone-7521597ca04d?source=rss------bug_bounty_writeup-5)
 - [Account Verification OTP Bypass in Microsoft Security Response Centre](https://medium.com/@official.armanreza/account-verification-otp-bypass-in-microsoft-security-response-centre-21855731a6f5?source=rss------bug_bounty_writeup-5)
@@ -932,10 +936,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Find First Bug for Beginner Bounty Hunters](https://infosecwriteups.com/find-first-bug-for-beginner-bounty-hunters-533f2da9dab1?source=rss----7b722bfd1b8d---4)
 - [Bypassing Whatsapp Two Step Verification!](https://infosecwriteups.com/bypassing-whatsapp-two-step-verification-1d7df1248712?source=rss----7b722bfd1b8d---4)
 - [Shellshock — A deep dive into CVE-2014–6271](https://infosecwriteups.com/shellshock-a-deep-dive-into-cve-2014-6271-3eb5b33e5de6?source=rss----7b722bfd1b8d---4)
-- [Stealing Accesses tokens from Cloud Functions in GCP](https://infosecwriteups.com/stealing-accesses-tokens-from-cloud-functions-in-gcp-e2593dd4a4bf?source=rss----7b722bfd1b8d---4)
-- [Behind the Message: Two Critical XSS Vulnerabilities in Zoho’s Web Applications](https://infosecwriteups.com/behind-the-message-two-critical-xss-vulnerabilities-in-zohos-web-applications-86aa42887129?source=rss----7b722bfd1b8d---4)
-- [Splunk Series: Masking Sensitive Data &lpar;Part 5&rpar;](https://infosecwriteups.com/splunk-series-masking-sensitive-data-part-5-d3240dd110c9?source=rss----7b722bfd1b8d---4)
-- [Best Browser Extensions for Bug Hunting and Cybersecurity](https://infosecwriteups.com/best-browser-extensions-for-bug-hunting-and-cybersecurity-77faf6bd8188?source=rss----7b722bfd1b8d---4)
 - [Selecting A Program for Bug Bounty on HackerOne](https://vijetareigns.medium.com/selecting-a-program-for-bug-bounty-on-hackerone-e51ce8a83b2a?source=rss------bug_bounty_writeup-5)
 - [User Interface Says No, Backend Says Yes — Story of Bypassing Email Verification](https://som3a.medium.com/user-interface-says-no-backend-says-yes-story-of-bypassing-email-verification-b469f20a141f?source=rss------bug_bounty_writeup-5)
 - [Advanced Techniques for Identifying Leaked API Keys in JS Files](https://systemweakness.com/advanced-techniques-for-identifying-leaked-api-keys-in-js-files-bb67845e5c0e?source=rss------bug_bounty_writeup-5)
