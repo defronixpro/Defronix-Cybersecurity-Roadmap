@@ -1,7 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
-- [So, I was casually hunting for bugs on this random subdomain of my target—just a normal page, no…](https://medium.com/@ajax12395/so-i-was-casually-hunting-for-bugs-on-this-random-subdomain-of-my-target-just-a-normal-page-no-43a9154a25a3?source=rss------bug_bounty_writeup-5)
+- [Information Disclosure via Debug Mode](https://medium.com/@ajax12395/so-i-was-casually-hunting-for-bugs-on-this-random-subdomain-of-my-target-just-a-normal-page-no-43a9154a25a3?source=rss------bug_bounty_writeup-5)
 - [The Worlds Longest and Strongest WiFi Passwords](https://infosecwriteups.com/the-worlds-longest-and-strongest-wifi-passwords-3d59292a9661?source=rss----7b722bfd1b8d---4)
 - [Lo-Fi &lpar;Easy&rpar; TryHackMe Writeup](https://infosecwriteups.com/lo-fi-easy-tryhackme-writeup-a46b4e303bfc?source=rss----7b722bfd1b8d---4)
 - [How I Stopped a Data Breach In 2 Minutes: A Lesson on Insecure Direct Object…](https://infosecwriteups.com/how-i-stopped-a-data-breach-in-2-minutes-a-lesson-on-insecure-direct-object-1b4d08443ab7?source=rss----7b722bfd1b8d---4)
