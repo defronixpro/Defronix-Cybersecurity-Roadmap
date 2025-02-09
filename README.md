@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I Chained 3 Vulnerabilities to Achieve Account Takeover &lpar;ATO&rpar;](https://medium.com/@hhack4737/how-i-chained-3-vulnerabilities-to-achieve-account-takeover-ato-5238b8acc1ae?source=rss------bug_bounty_writeup-5)
 - [Automated Bug Hunting With Semgrep: Your Secret Weapon for Catching Sneaky Bugs!](https://systemweakness.com/automated-bug-hunting-with-semgrep-your-secret-weapon-for-catching-sneaky-bugs-91439484acf4?source=rss------bug_bounty_writeup-5)
 - [How I Found Reflected XSS Vulnerability on Australian Government. [CVE-2022–35653]](https://systemweakness.com/how-i-found-reflected-xss-vulnerability-on-australian-government-cve-2022-35653-ead0e56db243?source=rss------bug_bounty_writeup-5)
 - [BUG BOUNTY Roadmap](https://medium.com/@codingbolt.in/bug-bounty-roadamp-4acc1220e123?source=rss------bug_bounty_writeup-5)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Account Verification OTP Bypass in Microsoft Security Response Centre](https://medium.com/@official.armanreza/account-verification-otp-bypass-in-microsoft-security-response-centre-21855731a6f5?source=rss------bug_bounty_writeup-5)
 - [Account Takeover via Email Change: Exploiting Weak Verification to Access Support Accounts](https://medium.com/@umd04843/account-takeover-via-email-change-exploiting-weak-verification-to-access-support-accounts-a3bb8d59e753?source=rss------bug_bounty_writeup-5)
 - [Selecting A Program for Bug Bounty on HackerOne](https://infosecwriteups.com/selecting-a-program-for-bug-bounty-on-hackerone-e51ce8a83b2a?source=rss------bug_bounty_writeup-5)
-- [User Interface Says No, Backend Says Yes — Story of Bypassing Email Verification](https://som3a.medium.com/user-interface-says-no-backend-says-yes-story-of-bypassing-email-verification-b469f20a141f?source=rss------bug_bounty_writeup-5)
 - [Welcome, Hackbots: How AI Is Shaping the Future of Vulnerability Discovery](https://www.hackerone.com/blog/welcome-hackbots-how-ai-shaping-future-vulnerability-discovery)
 - [DORA Compliance Is Here: What Financial Entities Should Know](https://www.hackerone.com/blog/dora-compliance-here-what-financial-entities-should-know)
 - [The HackerOne Cake Story](https://www.hackerone.com/blog/hackerone-cake-story)
