@@ -16,7 +16,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [My First Finding In Hackerone](https://islammeshriff.medium.com/my-first-finding-in-hackerone-7521597ca04d?source=rss------bug_bounty_writeup-5)
 - [Account Verification OTP Bypass in Microsoft Security Response Centre](https://medium.com/@official.armanreza/account-verification-otp-bypass-in-microsoft-security-response-centre-21855731a6f5?source=rss------bug_bounty_writeup-5)
 - [Account Takeover via Email Change: Exploiting Weak Verification to Access Support Accounts](https://medium.com/@umd04843/account-takeover-via-email-change-exploiting-weak-verification-to-access-support-accounts-a3bb8d59e753?source=rss------bug_bounty_writeup-5)
-- [Selecting A Program for Bug Bounty on HackerOne](https://vijetareigns.medium.com/selecting-a-program-for-bug-bounty-on-hackerone-e51ce8a83b2a?source=rss------bug_bounty_writeup-5)
+- [Selecting A Program for Bug Bounty on HackerOne](https://infosecwriteups.com/selecting-a-program-for-bug-bounty-on-hackerone-e51ce8a83b2a?source=rss------bug_bounty_writeup-5)
 - [User Interface Says No, Backend Says Yes — Story of Bypassing Email Verification](https://som3a.medium.com/user-interface-says-no-backend-says-yes-story-of-bypassing-email-verification-b469f20a141f?source=rss------bug_bounty_writeup-5)
 - [Advanced Techniques for Identifying Leaked API Keys in JS Files](https://systemweakness.com/advanced-techniques-for-identifying-leaked-api-keys-in-js-files-bb67845e5c0e?source=rss------bug_bounty_writeup-5)
 - [TikTok Bug Bounty — $250](https://medium.com/@bhussain894/tiktok-bug-bounty-250-82293995c9e4?source=rss------bug_bounty_writeup-5)
