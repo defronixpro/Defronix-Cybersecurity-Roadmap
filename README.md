@@ -926,7 +926,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Lo-Fi &lpar;Easy&rpar; TryHackMe Writeup](https://infosecwriteups.com/lo-fi-easy-tryhackme-writeup-a46b4e303bfc?source=rss----7b722bfd1b8d---4)
 - [How I Stopped a Data Breach In 2 Minutes: A Lesson on Insecure Direct Object…](https://infosecwriteups.com/how-i-stopped-a-data-breach-in-2-minutes-a-lesson-on-insecure-direct-object-1b4d08443ab7?source=rss----7b722bfd1b8d---4)
 - [THE ROLE OF AI TOOL IN CYBER SECURITY](https://infosecwriteups.com/the-role-of-ai-tool-in-cyber-security-f13dbb787418?source=rss----7b722bfd1b8d---4)
-- [Privacy Disclosure on m.facebook.com after add photo to the post](https://medium.com/@mohamedajimi59/title-privacy-disclosure-on-m-facebook-com-after-add-photo-to-the-post-e7e07e2083e5?source=rss------bug_bounty_writeup-5)
+- [Privacy Disclosure on m.facebook.com after add photo to the post](https://infosecwriteups.com/title-privacy-disclosure-on-m-facebook-com-after-add-photo-to-the-post-e7e07e2083e5?source=rss------bug_bounty_writeup-5)
 - [How I Chained 3 Vulnerabilities to Achieve Account Takeover &lpar;ATO&rpar;](https://medium.com/@hhack4737/how-i-chained-3-vulnerabilities-to-achieve-account-takeover-ato-5238b8acc1ae?source=rss------bug_bounty_writeup-5)
 - [Automated Bug Hunting With Semgrep: Your Secret Weapon for Catching Sneaky Bugs!](https://systemweakness.com/automated-bug-hunting-with-semgrep-your-secret-weapon-for-catching-sneaky-bugs-91439484acf4?source=rss------bug_bounty_writeup-5)
 - [How I Found Reflected XSS Vulnerability on Australian Government. [CVE-2022–35653]](https://systemweakness.com/how-i-found-reflected-xss-vulnerability-on-australian-government-cve-2022-35653-ead0e56db243?source=rss------bug_bounty_writeup-5)
