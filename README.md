@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [HTML Injection in Email Invitations: A Security Flaw Exploited](https://medium.com/@muralidharan1530/html-injection-in-email-invitations-a-security-flaw-exploited-39394f6ac266?source=rss------bug_bounty_writeup-5)
 - [The Art of Recon: Hunting Bugs Before They Hide &lpar;Part One&rpar;](https://zeusvuln.medium.com/the-art-of-recon-hunting-bugs-before-they-hide-part-one-1df269ab1d68?source=rss------bug_bounty_writeup-5)
 - [Information Disclosure via Debug Mode](https://medium.com/@ajax12395/so-i-was-casually-hunting-for-bugs-on-this-random-subdomain-of-my-target-just-a-normal-page-no-43a9154a25a3?source=rss------bug_bounty_writeup-5)
 - [The Worlds Longest and Strongest WiFi Passwords](https://infosecwriteups.com/the-worlds-longest-and-strongest-wifi-passwords-3d59292a9661?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Advanced SQL Injection Techniques to Data Exfiltration, OoB, Leveraging JSON etc.](https://infosecwriteups.com/advanced-sql-injection-techniques-to-data-exfiltration-oob-leveraging-json-etc-00666c62c92b?source=rss----7b722bfd1b8d---4)
 - [Fixing stdlib 1.18.2 Vulnerabilities in Docker Images: A PostgreSQL Implementation Guide](https://infosecwriteups.com/fixing-stdlib-1-18-2-vulnerabilities-in-docker-images-a-postgresql-implementation-guide-358183e0dd76?source=rss----7b722bfd1b8d---4)
 - [Just  a Writeup about 2FA Bypass at a Private Program :&rpar;](https://v0ltex.medium.com/just-a-writeup-about-2fa-bypass-at-a-private-program-509238a0a3a1?source=rss------bug_bounty_writeup-5)
-- [My First Finding In Hackerone](https://islammeshriff.medium.com/my-first-finding-in-hackerone-7521597ca04d?source=rss------bug_bounty_writeup-5)
 - [Welcome, Hackbots: How AI Is Shaping the Future of Vulnerability Discovery](https://www.hackerone.com/blog/welcome-hackbots-how-ai-shaping-future-vulnerability-discovery)
 - [DORA Compliance Is Here: What Financial Entities Should Know](https://www.hackerone.com/blog/dora-compliance-here-what-financial-entities-should-know)
 - [The HackerOne Cake Story](https://www.hackerone.com/blog/hackerone-cake-story)
