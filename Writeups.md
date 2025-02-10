@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Jira Misconfiguration Leading to Unauthorized Access](https://metanetwebhostingsecurity.medium.com/jira-misconfiguration-leading-to-unauthorized-access-69d32ab5a5c7?source=rss------bug_bounty_writeup-5)
 - [My First Year in Bug Bounty: from 0$ to 10k$ Lessons, Successes, and Encouragement for Beginners](https://medium.com/@hhack4737/my-first-year-in-bug-bounty-from-0-to-10k-lessons-successes-and-encouragement-for-beginners-932bb8884a87?source=rss------bug_bounty_writeup-5)
 - [Finding more subdomains Part 3](https://infosecwriteups.com/finding-more-subdomains-part-3-dee1c581c49b?source=rss----7b722bfd1b8d---4)
 - [My First Paid Bug Bounty: A $250 Reward For Session Management Vulnerability](https://medium.com/@sauravkrish59/my-first-paid-bug-bounty-a-250-reward-for-session-management-vulnerability-22cb5163e05f?source=rss------bug_bounty_writeup-5)
@@ -18,7 +19,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How I Chained 3 Vulnerabilities to Achieve Account Takeover &lpar;ATO&rpar;](https://medium.com/@hhack4737/how-i-chained-3-vulnerabilities-to-achieve-account-takeover-ato-5238b8acc1ae?source=rss------bug_bounty_writeup-5)
 - [Automated Bug Hunting With Semgrep: Your Secret Weapon for Catching Sneaky Bugs!](https://systemweakness.com/automated-bug-hunting-with-semgrep-your-secret-weapon-for-catching-sneaky-bugs-91439484acf4?source=rss------bug_bounty_writeup-5)
 - [How I Found Reflected XSS Vulnerability on Australian Government. [CVE-2022–35653]](https://systemweakness.com/how-i-found-reflected-xss-vulnerability-on-australian-government-cve-2022-35653-ead0e56db243?source=rss------bug_bounty_writeup-5)
-- [BUG BOUNTY in 2025](https://medium.com/@codingbolt.in/bug-bounty-roadamp-4acc1220e123?source=rss------bug_bounty_writeup-5)
 - [CTFLearn-Don’t Bump Your Head&lpar;er&rpar; Walkthrough](https://infosecwriteups.com/ctflearn-dont-bump-your-head-er-walkthrough-bad20c66b96c?source=rss----7b722bfd1b8d---4)
 - [Smag Grotto TryHackMe Writeup](https://infosecwriteups.com/smag-grotto-tryhackme-writeup-1018f5ad17df?source=rss----7b722bfd1b8d---4)
 - [Welcome, Hackbots: How AI Is Shaping the Future of Vulnerability Discovery](https://www.hackerone.com/blog/welcome-hackbots-how-ai-shaping-future-vulnerability-discovery)
