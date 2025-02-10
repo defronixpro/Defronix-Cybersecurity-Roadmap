@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Bug Bounty Target Selection: How Hackers Find the Most Profitable &amp; Juicy Bugs Before Anyone Else!](https://myselfakash20.medium.com/bug-bounty-target-selection-how-hackers-find-the-most-profitable-juicy-bugs-before-anyone-else-061510e83698?source=rss------bug_bounty_writeup-5)
 - [Jira Misconfiguration Leading to Unauthorized Access](https://metanetwebhostingsecurity.medium.com/jira-misconfiguration-leading-to-unauthorized-access-69d32ab5a5c7?source=rss------bug_bounty_writeup-5)
 - [My First Year in Bug Bounty: from 0$ to 10k$ Lessons, Successes, and Encouragement for Beginners](https://medium.com/@hhack4737/my-first-year-in-bug-bounty-from-0-to-10k-lessons-successes-and-encouragement-for-beginners-932bb8884a87?source=rss------bug_bounty_writeup-5)
 - [Finding more subdomains Part 3](https://infosecwriteups.com/finding-more-subdomains-part-3-dee1c581c49b?source=rss----7b722bfd1b8d---4)
@@ -17,7 +18,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [THE ROLE OF AI TOOL IN CYBER SECURITY](https://infosecwriteups.com/the-role-of-ai-tool-in-cyber-security-f13dbb787418?source=rss----7b722bfd1b8d---4)
 - [Privacy Disclosure on m.facebook.com after add photo to the post](https://infosecwriteups.com/title-privacy-disclosure-on-m-facebook-com-after-add-photo-to-the-post-e7e07e2083e5?source=rss------bug_bounty_writeup-5)
 - [How I Chained 3 Vulnerabilities to Achieve Account Takeover &lpar;ATO&rpar;](https://medium.com/@hhack4737/how-i-chained-3-vulnerabilities-to-achieve-account-takeover-ato-5238b8acc1ae?source=rss------bug_bounty_writeup-5)
-- [Automated Bug Hunting With Semgrep: Your Secret Weapon for Catching Sneaky Bugs!](https://systemweakness.com/automated-bug-hunting-with-semgrep-your-secret-weapon-for-catching-sneaky-bugs-91439484acf4?source=rss------bug_bounty_writeup-5)
 - [CTFLearn-Don’t Bump Your Head&lpar;er&rpar; Walkthrough](https://infosecwriteups.com/ctflearn-dont-bump-your-head-er-walkthrough-bad20c66b96c?source=rss----7b722bfd1b8d---4)
 - [Smag Grotto TryHackMe Writeup](https://infosecwriteups.com/smag-grotto-tryhackme-writeup-1018f5ad17df?source=rss----7b722bfd1b8d---4)
 - [Gain Actionable, Data-backed Insights with HackerOne Recommendations](https://www.hackerone.com/blog/gain-actionable-data-backed-insights-hackerone-recommendations)
