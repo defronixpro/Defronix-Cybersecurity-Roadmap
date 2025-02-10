@@ -922,6 +922,10 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [IDOR Unlocked: Accessing Unauthorized Data with a Simple Tweak!](https://medium.com/@b4logi.hackbat/idor-unlocked-accessing-unauthorized-data-with-a-simple-tweak-47749e341d4b?source=rss------bug_bounty_writeup-5)
+- [XML-RPC Vulnerability: Easy Exploit, Easy Bounty!](https://keroayman77.medium.com/xml-rpc-vulnerability-easy-exploit-easy-bounty-8019a35c700b?source=rss------bug_bounty_writeup-5)
+- [Exposed API Keys &amp; Config Files in js file! || Bug Bounty](https://keroayman77.medium.com/exposed-api-keys-config-files-in-js-file-bug-bounty-790b02a015ff?source=rss------bug_bounty_writeup-5)
+- [Bug Bounty Target Selection: How Hackers Find the Most Profitable &amp; Juicy Bugs Before Anyone Else!](https://myselfakash20.medium.com/bug-bounty-target-selection-how-hackers-find-the-most-profitable-juicy-bugs-before-anyone-else-061510e83698?source=rss------bug_bounty_writeup-5)
 - [Jira Misconfiguration Leading to Unauthorized Access](https://metanetwebhostingsecurity.medium.com/jira-misconfiguration-leading-to-unauthorized-access-69d32ab5a5c7?source=rss------bug_bounty_writeup-5)
 - [My First Year in Bug Bounty: from 0$ to 10k$ Lessons, Successes, and Encouragement for Beginners](https://medium.com/@hhack4737/my-first-year-in-bug-bounty-from-0-to-10k-lessons-successes-and-encouragement-for-beginners-932bb8884a87?source=rss------bug_bounty_writeup-5)
 - [Finding more subdomains Part 3](https://infosecwriteups.com/finding-more-subdomains-part-3-dee1c581c49b?source=rss----7b722bfd1b8d---4)
@@ -931,14 +935,10 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [[IDOR ] enable “Allow Facebook stories shared from Instagram to tag my page “ as non admin](https://infosecwriteups.com/idor-enable-allow-facebook-stories-shared-from-instagram-to-tag-my-page-as-non-admin-c5bdf597684a?source=rss----7b722bfd1b8d---4)
 - [HTML Injection in Email Invitations: A Security Flaw Exploited](https://medium.com/@muralidharan1530/html-injection-in-email-invitations-a-security-flaw-exploited-39394f6ac266?source=rss------bug_bounty_writeup-5)
 - [The Art of Recon: Hunting Bugs Before They Hide &lpar;Part One&rpar;](https://zeusvuln.medium.com/the-art-of-recon-hunting-bugs-before-they-hide-part-one-1df269ab1d68?source=rss------bug_bounty_writeup-5)
-- [Information Disclosure via Debug Mode](https://medium.com/@ajax12395/so-i-was-casually-hunting-for-bugs-on-this-random-subdomain-of-my-target-just-a-normal-page-no-43a9154a25a3?source=rss------bug_bounty_writeup-5)
 - [The Worlds Longest and Strongest WiFi Passwords](https://infosecwriteups.com/the-worlds-longest-and-strongest-wifi-passwords-3d59292a9661?source=rss----7b722bfd1b8d---4)
 - [Lo-Fi &lpar;Easy&rpar; TryHackMe Writeup](https://infosecwriteups.com/lo-fi-easy-tryhackme-writeup-a46b4e303bfc?source=rss----7b722bfd1b8d---4)
 - [How I Stopped a Data Breach In 2 Minutes: A Lesson on Insecure Direct Object…](https://infosecwriteups.com/how-i-stopped-a-data-breach-in-2-minutes-a-lesson-on-insecure-direct-object-1b4d08443ab7?source=rss----7b722bfd1b8d---4)
 - [THE ROLE OF AI TOOL IN CYBER SECURITY](https://infosecwriteups.com/the-role-of-ai-tool-in-cyber-security-f13dbb787418?source=rss----7b722bfd1b8d---4)
-- [Privacy Disclosure on m.facebook.com after add photo to the post](https://infosecwriteups.com/title-privacy-disclosure-on-m-facebook-com-after-add-photo-to-the-post-e7e07e2083e5?source=rss------bug_bounty_writeup-5)
-- [How I Chained 3 Vulnerabilities to Achieve Account Takeover &lpar;ATO&rpar;](https://medium.com/@hhack4737/how-i-chained-3-vulnerabilities-to-achieve-account-takeover-ato-5238b8acc1ae?source=rss------bug_bounty_writeup-5)
-- [Automated Bug Hunting With Semgrep: Your Secret Weapon for Catching Sneaky Bugs!](https://systemweakness.com/automated-bug-hunting-with-semgrep-your-secret-weapon-for-catching-sneaky-bugs-91439484acf4?source=rss------bug_bounty_writeup-5)
 - [CTFLearn-Don’t Bump Your Head&lpar;er&rpar; Walkthrough](https://infosecwriteups.com/ctflearn-dont-bump-your-head-er-walkthrough-bad20c66b96c?source=rss----7b722bfd1b8d---4)
 - [Smag Grotto TryHackMe Writeup](https://infosecwriteups.com/smag-grotto-tryhackme-writeup-1018f5ad17df?source=rss----7b722bfd1b8d---4)
 - [Gain Actionable, Data-backed Insights with HackerOne Recommendations](https://www.hackerone.com/blog/gain-actionable-data-backed-insights-hackerone-recommendations)
