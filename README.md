@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [The Hidden Business Logic Error That Exists On Most E-Commerce Web Application](https://medium.com/@makarov_bm/the-hidden-business-logic-error-that-exists-on-most-e-commerce-web-application-7b9be9113073?source=rss------bug_bounty_writeup-5)
 - [Understanding and Exploiting an Open Redirect Vulnerability in NVIDIA](https://medium.com/@g0kb0ru/understanding-and-exploiting-an-open-redirect-vulnerability-in-nvidia-3b1b429cb3c5?source=rss------bug_bounty_writeup-5)
 - [IDOR Unlocked: Accessing Unauthorized Data with a Simple Tweak!](https://medium.com/@b4logi.hackbat/idor-unlocked-accessing-unauthorized-data-with-a-simple-tweak-47749e341d4b?source=rss------bug_bounty_writeup-5)
 - [XML-RPC Vulnerability: Easy Exploit, Easy Bounty!](https://keroayman77.medium.com/xml-rpc-vulnerability-easy-exploit-easy-bounty-8019a35c700b?source=rss------bug_bounty_writeup-5)
@@ -934,7 +935,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Creating Your Own PowerShell Reverse Shell](https://infosecwriteups.com/creating-your-own-powershell-reverse-shell-36efea937964?source=rss----7b722bfd1b8d---4)
 - [Privacy Disclosure on m.facebook.com after add photo to the post](https://infosecwriteups.com/title-privacy-disclosure-on-m-facebook-com-after-add-photo-to-the-post-e7e07e2083e5?source=rss----7b722bfd1b8d---4)
 - [[IDOR ] enable “Allow Facebook stories shared from Instagram to tag my page “ as non admin](https://infosecwriteups.com/idor-enable-allow-facebook-stories-shared-from-instagram-to-tag-my-page-as-non-admin-c5bdf597684a?source=rss----7b722bfd1b8d---4)
-- [HTML Injection in Email Invitations: A Security Flaw Exploited](https://medium.com/@muralidharan1530/html-injection-in-email-invitations-a-security-flaw-exploited-39394f6ac266?source=rss------bug_bounty_writeup-5)
 - [The Worlds Longest and Strongest WiFi Passwords](https://infosecwriteups.com/the-worlds-longest-and-strongest-wifi-passwords-3d59292a9661?source=rss----7b722bfd1b8d---4)
 - [Lo-Fi &lpar;Easy&rpar; TryHackMe Writeup](https://infosecwriteups.com/lo-fi-easy-tryhackme-writeup-a46b4e303bfc?source=rss----7b722bfd1b8d---4)
 - [How I Stopped a Data Breach In 2 Minutes: A Lesson on Insecure Direct Object…](https://infosecwriteups.com/how-i-stopped-a-data-breach-in-2-minutes-a-lesson-on-insecure-direct-object-1b4d08443ab7?source=rss----7b722bfd1b8d---4)
