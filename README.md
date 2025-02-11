@@ -922,6 +922,9 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Mastering Nmap: The Full Toolkit](https://infosecwriteups.com/mastering-nmap-the-full-toolkit-8231c918e144?source=rss----7b722bfd1b8d---4)
+- [SOC335 — CVE-2024-49138 Exploitation Detected](https://infosecwriteups.com/soc335-cve-2024-49138-exploitation-detected-d039190f202a?source=rss----7b722bfd1b8d---4)
+- [CSRF in Instagram](https://infosecwriteups.com/csrf-in-instagram-461cbba286a?source=rss----7b722bfd1b8d---4)
 - [The Hidden Business Logic Error That Exists On Most E-Commerce Web Application](https://medium.com/@makarov_bm/the-hidden-business-logic-error-that-exists-on-most-e-commerce-web-application-7b9be9113073?source=rss------bug_bounty_writeup-5)
 - [Understanding and Exploiting an Open Redirect Vulnerability in NVIDIA](https://medium.com/@g0kb0ru/understanding-and-exploiting-an-open-redirect-vulnerability-in-nvidia-3b1b429cb3c5?source=rss------bug_bounty_writeup-5)
 - [IDOR Unlocked: Accessing Unauthorized Data with a Simple Tweak!](https://medium.com/@b4logi.hackbat/idor-unlocked-accessing-unauthorized-data-with-a-simple-tweak-47749e341d4b?source=rss------bug_bounty_writeup-5)
@@ -938,9 +941,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [The Worlds Longest and Strongest WiFi Passwords](https://infosecwriteups.com/the-worlds-longest-and-strongest-wifi-passwords-3d59292a9661?source=rss----7b722bfd1b8d---4)
 - [Lo-Fi &lpar;Easy&rpar; TryHackMe Writeup](https://infosecwriteups.com/lo-fi-easy-tryhackme-writeup-a46b4e303bfc?source=rss----7b722bfd1b8d---4)
 - [How I Stopped a Data Breach In 2 Minutes: A Lesson on Insecure Direct Object…](https://infosecwriteups.com/how-i-stopped-a-data-breach-in-2-minutes-a-lesson-on-insecure-direct-object-1b4d08443ab7?source=rss----7b722bfd1b8d---4)
-- [THE ROLE OF AI TOOL IN CYBER SECURITY](https://infosecwriteups.com/the-role-of-ai-tool-in-cyber-security-f13dbb787418?source=rss----7b722bfd1b8d---4)
-- [CTFLearn-Don’t Bump Your Head&lpar;er&rpar; Walkthrough](https://infosecwriteups.com/ctflearn-dont-bump-your-head-er-walkthrough-bad20c66b96c?source=rss----7b722bfd1b8d---4)
-- [Smag Grotto TryHackMe Writeup](https://infosecwriteups.com/smag-grotto-tryhackme-writeup-1018f5ad17df?source=rss----7b722bfd1b8d---4)
 - [Gain Actionable, Data-backed Insights with HackerOne Recommendations](https://www.hackerone.com/blog/gain-actionable-data-backed-insights-hackerone-recommendations)
 - [Welcome, Hackbots: How AI Is Shaping the Future of Vulnerability Discovery](https://www.hackerone.com/blog/welcome-hackbots-how-ai-shaping-future-vulnerability-discovery)
 - [DORA Compliance Is Here: What Financial Entities Should Know](https://www.hackerone.com/blog/dora-compliance-here-what-financial-entities-should-know)
