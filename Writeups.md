@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [From Brute-Force to Bounty: My $200 and Double XSS Win on Acronis](https://muzamilsheikh.medium.com/from-brute-force-to-bounty-my-200-and-double-xss-win-on-acronis-4fc7c7ccff39?source=rss------bug_bounty_writeup-5)
 - [How I gained access to Tamil Nadu’s Property Approval Portal Dashboard just with a simple…](https://hiddendom.medium.com/how-i-gained-access-to-tamil-nadus-property-approval-portal-dashboard-just-with-a-simple-f0b463cc0635?source=rss------bug_bounty_writeup-5)
 - [Selecting A Program for Bug Bounty on HackerOne](https://infosecwriteups.com/selecting-a-program-for-bug-bounty-on-hackerone-e51ce8a83b2a?source=rss----7b722bfd1b8d---4)
 - [Mastering Amass: The Ultimate Recon Toolkit](https://infosecwriteups.com/mastering-amass-the-ultimate-recon-toolkit-d66a56627849?source=rss----7b722bfd1b8d---4)
@@ -19,7 +20,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Exposed API Keys &amp; Config Files in js file! || Bug Bounty](https://keroayman77.medium.com/exposed-api-keys-config-files-in-js-file-bug-bounty-790b02a015ff?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Target Selection: How Hackers Find the Most Profitable &amp; Juicy Bugs Before Anyone Else!](https://infosecwriteups.com/bug-bounty-target-selection-how-hackers-find-the-most-profitable-juicy-bugs-before-anyone-else-061510e83698?source=rss------bug_bounty_writeup-5)
 - [Jira Misconfiguration Leading to Unauthorized Access](https://metanetwebhostingsecurity.medium.com/jira-misconfiguration-leading-to-unauthorized-access-69d32ab5a5c7?source=rss------bug_bounty_writeup-5)
-- [My First Year in Bug Bounty: from 0$ to 10k$ Lessons, Successes, and Encouragement for Beginners](https://medium.com/@hhack4737/my-first-year-in-bug-bounty-from-0-to-10k-lessons-successes-and-encouragement-for-beginners-932bb8884a87?source=rss------bug_bounty_writeup-5)
 - [Gain Actionable, Data-backed Insights with HackerOne Recommendations](https://www.hackerone.com/blog/gain-actionable-data-backed-insights-hackerone-recommendations)
 - [Welcome, Hackbots: How AI Is Shaping the Future of Vulnerability Discovery](https://www.hackerone.com/blog/welcome-hackbots-how-ai-shaping-future-vulnerability-discovery)
 - [DORA Compliance Is Here: What Financial Entities Should Know](https://www.hackerone.com/blog/dora-compliance-here-what-financial-entities-should-know)
