@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Account Takeover via Lack of Email Verification Vulnerability](https://medium.com/@tinu7494/account-takeover-via-lack-of-email-verification-vulnerability-39d10a283718?source=rss------bug_bounty_writeup-5)
 - [How I found 3 CSRFs on a Public Program](https://medium.com/@shellreaper/how-i-found-3-csrfs-on-a-public-program-e9b9ff52c1a0?source=rss------bug_bounty_writeup-5)
 - [Women@ Kicks Off the Year with a Vision Board Event](https://www.hackerone.com/blog/women-kicks-year-vision-board-event)
 - [From Brute-Force to Bounty: My $200 and Double XSS Win on Acronis](https://muzamilsheikh.medium.com/from-brute-force-to-bounty-my-200-and-double-xss-win-on-acronis-4fc7c7ccff39?source=rss------bug_bounty_writeup-5)
