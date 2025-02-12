@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Bug Bounty in 2025: Part 1 — Mastering Regex for Security](https://medium.com/@halfcircassian/bug-bounty-in-2025-part-1-mastering-regex-for-security-3d58bcf51102?source=rss------bug_bounty_writeup-5)
 - [How I Discovered a WordPress Vulnerability: Exposed Usernames &amp; XML-RPC Exploitation](https://medium.com/@iamshafayat/how-i-discovered-a-wordpress-vulnerability-exposed-usernames-xml-rpc-exploitation-b35b0ec63a54?source=rss------bug_bounty_writeup-5)
 - [Restarting My Bug Bounty Journey: Why I Quit and What’s Next](https://infosecwriteups.com/restarting-my-bug-bounty-journey-why-i-quit-and-whats-next-16b0ae1a027b?source=rss----7b722bfd1b8d---4)
 - [Free VPS for ethical hacking and bug bounty hunting.](https://infosecwriteups.com/free-vps-for-ethical-hacking-and-bug-bounty-hunting-d9098c2fbe2a?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How to Uncover Hidden Attack Surfaces? Recon part 6](https://infosecwriteups.com/how-to-uncover-hidden-attack-surfaces-recon-part-6-61e43976ed22?source=rss----7b722bfd1b8d---4)
 - [The Hidden Business Logic Error That Exists On Most E-Commerce Web Application](https://medium.com/@makarov_bm/the-hidden-business-logic-error-that-exists-on-most-e-commerce-web-application-7b9be9113073?source=rss------bug_bounty_writeup-5)
 - [Understanding and Exploiting an Open Redirect Vulnerability in NVIDIA](https://medium.com/@g0kb0ru/understanding-and-exploiting-an-open-redirect-vulnerability-in-nvidia-3b1b429cb3c5?source=rss------bug_bounty_writeup-5)
-- [IDOR Unlocked: Accessing Unauthorized Data with a Simple Tweak!](https://medium.com/@b4logi.hackbat/idor-unlocked-accessing-unauthorized-data-with-a-simple-tweak-47749e341d4b?source=rss------bug_bounty_writeup-5)
 - [Gain Actionable, Data-backed Insights with HackerOne Recommendations](https://www.hackerone.com/blog/gain-actionable-data-backed-insights-hackerone-recommendations)
 - [Welcome, Hackbots: How AI Is Shaping the Future of Vulnerability Discovery](https://www.hackerone.com/blog/welcome-hackbots-how-ai-shaping-future-vulnerability-discovery)
 - [DORA Compliance Is Here: What Financial Entities Should Know](https://www.hackerone.com/blog/dora-compliance-here-what-financial-entities-should-know)
