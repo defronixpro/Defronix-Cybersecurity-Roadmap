@@ -922,6 +922,11 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Restarting My Bug Bounty Journey: Why I Quit and What’s Next](https://infosecwriteups.com/restarting-my-bug-bounty-journey-why-i-quit-and-whats-next-16b0ae1a027b?source=rss----7b722bfd1b8d---4)
+- [Free VPS for ethical hacking and bug bounty hunting.](https://infosecwriteups.com/free-vps-for-ethical-hacking-and-bug-bounty-hunting-d9098c2fbe2a?source=rss----7b722bfd1b8d---4)
+- [I Pasted a Link, Inspected the HTML, and Facebook Gave Me $1000](https://infosecwriteups.com/i-pasted-a-link-inspected-the-html-and-facebook-gave-me-1000-9ed4a91e24d1?source=rss----7b722bfd1b8d---4)
+- [I Pasted a Link, Inspected the HTML, and Facebook Gave Me $1000](https://infosecwriteups.com/i-pasted-a-link-inspected-the-html-and-facebook-gave-me-1000-9ed4a91e24d1?source=rss------bug_bounty_writeup-5)
+- [VulnLab Baby](https://infosecwriteups.com/vulnlab-baby-b890987a9b7c?source=rss----7b722bfd1b8d---4)
 - [Account Takeover via Lack of Email Verification Vulnerability](https://medium.com/@whitehat29/account-takeover-via-lack-of-email-verification-vulnerability-9b9be0751d8b?source=rss------bug_bounty_writeup-5)
 - [How I found 3 CSRFs on a Public Program](https://medium.com/@shellreaper/how-i-found-3-csrfs-on-a-public-program-e9b9ff52c1a0?source=rss------bug_bounty_writeup-5)
 - [Women@ Kicks Off the Year with a Vision Board Event](https://www.hackerone.com/blog/women-kicks-year-vision-board-event)
@@ -933,15 +938,10 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Stored XSS into Onclick Event: Bypassing Angle Brackets, Double Quotes, and Escaped Characters —…](https://infosecwriteups.com/stored-xss-into-onclick-event-bypassing-angle-brackets-double-quotes-and-escaped-characters-ee347b9e19d9?source=rss----7b722bfd1b8d---4)
 - [Creating a Code Obfuscation Program For C](https://infosecwriteups.com/creating-a-code-obfuscation-program-for-c-d10d604178d4?source=rss----7b722bfd1b8d---4)
 - [How to Uncover Hidden Attack Surfaces? Recon part 6](https://infosecwriteups.com/how-to-uncover-hidden-attack-surfaces-recon-part-6-61e43976ed22?source=rss----7b722bfd1b8d---4)
-- [Bug Bounty Target Selection: How Hackers Find the Most Profitable &amp; Juicy Bugs Before Anyone Else!](https://infosecwriteups.com/bug-bounty-target-selection-how-hackers-find-the-most-profitable-juicy-bugs-before-anyone-else-061510e83698?source=rss----7b722bfd1b8d---4)
-- [Mastering Nmap: The Full Toolkit](https://infosecwriteups.com/mastering-nmap-the-full-toolkit-8231c918e144?source=rss----7b722bfd1b8d---4)
-- [SOC335 — CVE-2024-49138 Exploitation Detected](https://infosecwriteups.com/soc335-cve-2024-49138-exploitation-detected-d039190f202a?source=rss----7b722bfd1b8d---4)
-- [CSRF in Instagram](https://infosecwriteups.com/csrf-in-instagram-461cbba286a?source=rss----7b722bfd1b8d---4)
 - [The Hidden Business Logic Error That Exists On Most E-Commerce Web Application](https://medium.com/@makarov_bm/the-hidden-business-logic-error-that-exists-on-most-e-commerce-web-application-7b9be9113073?source=rss------bug_bounty_writeup-5)
 - [Understanding and Exploiting an Open Redirect Vulnerability in NVIDIA](https://medium.com/@g0kb0ru/understanding-and-exploiting-an-open-redirect-vulnerability-in-nvidia-3b1b429cb3c5?source=rss------bug_bounty_writeup-5)
 - [IDOR Unlocked: Accessing Unauthorized Data with a Simple Tweak!](https://medium.com/@b4logi.hackbat/idor-unlocked-accessing-unauthorized-data-with-a-simple-tweak-47749e341d4b?source=rss------bug_bounty_writeup-5)
 - [XML-RPC Vulnerability: Easy Exploit, Easy Bounty!](https://keroayman77.medium.com/xml-rpc-vulnerability-easy-exploit-easy-bounty-8019a35c700b?source=rss------bug_bounty_writeup-5)
-- [Exposed API Keys &amp; Config Files in js file! || Bug Bounty](https://keroayman77.medium.com/exposed-api-keys-config-files-in-js-file-bug-bounty-790b02a015ff?source=rss------bug_bounty_writeup-5)
 - [Gain Actionable, Data-backed Insights with HackerOne Recommendations](https://www.hackerone.com/blog/gain-actionable-data-backed-insights-hackerone-recommendations)
 - [Welcome, Hackbots: How AI Is Shaping the Future of Vulnerability Discovery](https://www.hackerone.com/blog/welcome-hackbots-how-ai-shaping-future-vulnerability-discovery)
 - [DORA Compliance Is Here: What Financial Entities Should Know](https://www.hackerone.com/blog/dora-compliance-here-what-financial-entities-should-know)
