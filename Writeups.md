@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Bug Bounty in 2025: Part 2 — Intro to Open Redirect Vulnerability with a Conceptual Lab](https://medium.com/@halfcircassian/bug-bounty-in-2025-part-2-intro-to-open-redirect-vulnerability-with-a-conceptual-lab-c0db11537778?source=rss------bug_bounty_writeup-5)
 - [Understanding Windows Registries: A Deep Dive](https://infosecwriteups.com/understanding-windows-registries-a-deep-dive-b90b71df7607?source=rss----7b722bfd1b8d---4)
 - [How does an extension help me find a PII data bug?](https://infosecwriteups.com/how-does-an-extension-help-me-find-a-pii-data-bug-a95d83043f9a?source=rss----7b722bfd1b8d---4)
 - [How to Automate Hunting for Open Redirect](https://infosecwriteups.com/how-to-automate-hunting-for-open-redirect-46537cd67b35?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [From Brute-Force to Bounty: My $200 and Double XSS Win on Acronis](https://muzamilsheikh.medium.com/from-brute-force-to-bounty-my-200-and-double-xss-win-on-acronis-4fc7c7ccff39?source=rss------bug_bounty_writeup-5)
 - [How I gained access to Tamil Nadu’s Property Approval Portal Dashboard just with a simple…](https://hiddendom.medium.com/how-i-gained-access-to-tamil-nadus-property-approval-portal-dashboard-just-with-a-simple-f0b463cc0635?source=rss------bug_bounty_writeup-5)
 - [The Hidden Business Logic Error That Exists On Most E-Commerce Web Application](https://medium.com/@makarov_bm/the-hidden-business-logic-error-that-exists-on-most-e-commerce-web-application-7b9be9113073?source=rss------bug_bounty_writeup-5)
-- [Understanding and Exploiting an Open Redirect Vulnerability in NVIDIA](https://medium.com/@g0kb0ru/understanding-and-exploiting-an-open-redirect-vulnerability-in-nvidia-3b1b429cb3c5?source=rss------bug_bounty_writeup-5)
 - [Gain Actionable, Data-backed Insights with HackerOne Recommendations](https://www.hackerone.com/blog/gain-actionable-data-backed-insights-hackerone-recommendations)
 - [Welcome, Hackbots: How AI Is Shaping the Future of Vulnerability Discovery](https://www.hackerone.com/blog/welcome-hackbots-how-ai-shaping-future-vulnerability-discovery)
 - [DORA Compliance Is Here: What Financial Entities Should Know](https://www.hackerone.com/blog/dora-compliance-here-what-financial-entities-should-know)
