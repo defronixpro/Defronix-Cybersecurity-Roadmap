@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [5 Easy Methods to Erase Temporary Files on Windows 11](https://infosecwriteups.com/5-easy-methods-to-erase-temporary-files-on-windows-11-ad8e349380be?source=rss----7b722bfd1b8d---4)
+- [How I got a Stored XSS by searching through JS files.](https://medium.com/@oXnoOneXo/how-i-got-a-stored-xss-by-searching-through-js-files-fdfe2490668b?source=rss------bug_bounty_writeup-5)
 - [Day 9: CRLF to Account Takeover &lpar;Chaining Bugs&rpar;](https://medium.com/@danielbelay/day-9-crlf-to-account-takeover-chaining-bugs-8e621c9be109?source=rss------bug_bounty_writeup-5)
 - [The Sticker Shop-THM-Walkthrough-By-Reju-Kole](https://infosecwriteups.com/the-sticker-shop-thm-walkthrough-by-reju-kole-35acaa1a0953?source=rss----7b722bfd1b8d---4)
 - [Tusk Infostealer Lab — CyberDefenders](https://infosecwriteups.com/tusk-infostealer-lab-cyberdefenders-341f12fd2180?source=rss----7b722bfd1b8d---4)
@@ -935,12 +937,10 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [VulnHub: Hacking Shenron 2 Write-up](https://infosecwriteups.com/vulnhub-hacking-shenron-2-write-up-f1f0c6de3eda?source=rss----7b722bfd1b8d---4)
 - [Ace Your CompTIA CySA+ &lpar;CS0–003&rpar;: A Comprehensive Exam Review](https://infosecwriteups.com/ace-your-comptia-cysa-cs0-003-a-comprehensive-exam-review-ce125dc39dd5?source=rss----7b722bfd1b8d---4)
 - [SOC336 — Windows OLE Zero-Click RCE Exploitation Detected &lpar;CVE-2025–21298&rpar;](https://infosecwriteups.com/soc336-windows-ole-zero-click-rce-exploitation-detected-cve-2025-21298-1ea72fde32f2?source=rss----7b722bfd1b8d---4)
-- [Broken Brute-Force Protection: How to Bypass Rate Limiting in a Single Request  —  Authentication…](https://infosecwriteups.com/broken-brute-force-protection-how-to-bypass-rate-limiting-in-a-single-request-authentication-a4a761fc0b5a?source=rss----7b722bfd1b8d---4)
 - [Bug Bounty in 2025: Part 1 — Mastering Regex for Security](https://medium.com/@halfcircassian/bug-bounty-in-2025-part-1-mastering-regex-for-security-3d58bcf51102?source=rss------bug_bounty_writeup-5)
 - [How I Discovered a WordPress Vulnerability: Exposed Usernames &amp; XML-RPC Exploitation](https://medium.com/@iamshafayat/how-i-discovered-a-wordpress-vulnerability-exposed-usernames-xml-rpc-exploitation-b35b0ec63a54?source=rss------bug_bounty_writeup-5)
 - [I Pasted a Link, Inspected the HTML, and Facebook Gave Me $1000](https://infosecwriteups.com/i-pasted-a-link-inspected-the-html-and-facebook-gave-me-1000-9ed4a91e24d1?source=rss------bug_bounty_writeup-5)
 - [Account Takeover via Lack of Email Verification Vulnerability](https://medium.com/@whitehat29/account-takeover-via-lack-of-email-verification-vulnerability-9b9be0751d8b?source=rss------bug_bounty_writeup-5)
-- [How I found 3 CSRFs on a Public Program](https://medium.com/@shellreaper/how-i-found-3-csrfs-on-a-public-program-e9b9ff52c1a0?source=rss------bug_bounty_writeup-5)
 - [Women@ Kicks Off the Year with a Vision Board Event](https://www.hackerone.com/blog/women-kicks-year-vision-board-event)
 - [Gain Actionable, Data-backed Insights with HackerOne Recommendations](https://www.hackerone.com/blog/gain-actionable-data-backed-insights-hackerone-recommendations)
 - [Welcome, Hackbots: How AI Is Shaping the Future of Vulnerability Discovery](https://www.hackerone.com/blog/welcome-hackbots-how-ai-shaping-future-vulnerability-discovery)
