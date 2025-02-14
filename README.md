@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Day 9: CRLF to Account Takeover &lpar;Chaining Bugs&rpar;](https://medium.com/@danielbelay/day-9-crlf-to-account-takeover-chaining-bugs-8e621c9be109?source=rss------bug_bounty_writeup-5)
 - [The Sticker Shop-THM-Walkthrough-By-Reju-Kole](https://infosecwriteups.com/the-sticker-shop-thm-walkthrough-by-reju-kole-35acaa1a0953?source=rss----7b722bfd1b8d---4)
 - [Tusk Infostealer Lab — CyberDefenders](https://infosecwriteups.com/tusk-infostealer-lab-cyberdefenders-341f12fd2180?source=rss----7b722bfd1b8d---4)
 - [How I can trigger Remote Code Execution Via Cron Job](https://r0b0ts.medium.com/how-i-can-trigger-remote-code-execution-via-cron-job-b7d9d7dc9372?source=rss------bug_bounty_writeup-5)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Account Takeover via Lack of Email Verification Vulnerability](https://medium.com/@whitehat29/account-takeover-via-lack-of-email-verification-vulnerability-9b9be0751d8b?source=rss------bug_bounty_writeup-5)
 - [How I found 3 CSRFs on a Public Program](https://medium.com/@shellreaper/how-i-found-3-csrfs-on-a-public-program-e9b9ff52c1a0?source=rss------bug_bounty_writeup-5)
 - [Women@ Kicks Off the Year with a Vision Board Event](https://www.hackerone.com/blog/women-kicks-year-vision-board-event)
-- [From Brute-Force to Bounty: My $200 and Double XSS Win on Acronis](https://muzamilsheikh.medium.com/from-brute-force-to-bounty-my-200-and-double-xss-win-on-acronis-4fc7c7ccff39?source=rss------bug_bounty_writeup-5)
 - [Gain Actionable, Data-backed Insights with HackerOne Recommendations](https://www.hackerone.com/blog/gain-actionable-data-backed-insights-hackerone-recommendations)
 - [Welcome, Hackbots: How AI Is Shaping the Future of Vulnerability Discovery](https://www.hackerone.com/blog/welcome-hackbots-how-ai-shaping-future-vulnerability-discovery)
 - [DORA Compliance Is Here: What Financial Entities Should Know](https://www.hackerone.com/blog/dora-compliance-here-what-financial-entities-should-know)
