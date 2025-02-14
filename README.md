@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I can trigger Remote Code Execution Via Cron Job](https://r0b0ts.medium.com/how-i-can-trigger-remote-code-execution-via-cron-job-b7d9d7dc9372?source=rss------bug_bounty_writeup-5)
 - [Locked Features, Unlocked Access: Breaking Restrictions with Response Manipulation](https://medium.com/@0x5atab/locked-features-unlocked-access-breaking-restrictions-with-response-manipulation-c7546a39c4c7?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty in 2025: Part 2 — Intro to Open Redirect Vulnerability with a Conceptual Lab](https://medium.com/@halfcircassian/bug-bounty-in-2025-part-2-intro-to-open-redirect-vulnerability-with-a-conceptual-lab-c0db11537778?source=rss------bug_bounty_writeup-5)
 - [Understanding Windows Registries: A Deep Dive](https://infosecwriteups.com/understanding-windows-registries-a-deep-dive-b90b71df7607?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How I found 3 CSRFs on a Public Program](https://medium.com/@shellreaper/how-i-found-3-csrfs-on-a-public-program-e9b9ff52c1a0?source=rss------bug_bounty_writeup-5)
 - [Women@ Kicks Off the Year with a Vision Board Event](https://www.hackerone.com/blog/women-kicks-year-vision-board-event)
 - [From Brute-Force to Bounty: My $200 and Double XSS Win on Acronis](https://muzamilsheikh.medium.com/from-brute-force-to-bounty-my-200-and-double-xss-win-on-acronis-4fc7c7ccff39?source=rss------bug_bounty_writeup-5)
-- [How I gained access to Tamil Nadu’s Property Approval Portal Dashboard just with a simple…](https://hiddendom.medium.com/how-i-gained-access-to-tamil-nadus-property-approval-portal-dashboard-just-with-a-simple-f0b463cc0635?source=rss------bug_bounty_writeup-5)
 - [Gain Actionable, Data-backed Insights with HackerOne Recommendations](https://www.hackerone.com/blog/gain-actionable-data-backed-insights-hackerone-recommendations)
 - [Welcome, Hackbots: How AI Is Shaping the Future of Vulnerability Discovery](https://www.hackerone.com/blog/welcome-hackbots-how-ai-shaping-future-vulnerability-discovery)
 - [DORA Compliance Is Here: What Financial Entities Should Know](https://www.hackerone.com/blog/dora-compliance-here-what-financial-entities-should-know)
