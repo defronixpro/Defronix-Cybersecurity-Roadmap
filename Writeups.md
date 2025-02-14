@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [5 Easy Methods to Erase Temporary Files on Windows 11](https://infosecwriteups.com/5-easy-methods-to-erase-temporary-files-on-windows-11-ad8e349380be?source=rss----7b722bfd1b8d---4)
 - [How I got a Stored XSS by searching through JS files.](https://medium.com/@oXnoOneXo/how-i-got-a-stored-xss-by-searching-through-js-files-fdfe2490668b?source=rss------bug_bounty_writeup-5)
 - [Day 9: CRLF to Account Takeover &lpar;Chaining Bugs&rpar;](https://medium.com/@danielbelay/day-9-crlf-to-account-takeover-chaining-bugs-8e621c9be109?source=rss------bug_bounty_writeup-5)
 - [The Sticker Shop-THM-Walkthrough-By-Reju-Kole](https://infosecwriteups.com/the-sticker-shop-thm-walkthrough-by-reju-kole-35acaa1a0953?source=rss----7b722bfd1b8d---4)
@@ -15,7 +16,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [VulnHub: Hacking Shenron 2 Write-up](https://infosecwriteups.com/vulnhub-hacking-shenron-2-write-up-f1f0c6de3eda?source=rss----7b722bfd1b8d---4)
 - [Ace Your CompTIA CySA+ &lpar;CS0–003&rpar;: A Comprehensive Exam Review](https://infosecwriteups.com/ace-your-comptia-cysa-cs0-003-a-comprehensive-exam-review-ce125dc39dd5?source=rss----7b722bfd1b8d---4)
 - [SOC336 — Windows OLE Zero-Click RCE Exploitation Detected &lpar;CVE-2025–21298&rpar;](https://infosecwriteups.com/soc336-windows-ole-zero-click-rce-exploitation-detected-cve-2025-21298-1ea72fde32f2?source=rss----7b722bfd1b8d---4)
-- [Broken Brute-Force Protection: How to Bypass Rate Limiting in a Single Request  —  Authentication…](https://infosecwriteups.com/broken-brute-force-protection-how-to-bypass-rate-limiting-in-a-single-request-authentication-a4a761fc0b5a?source=rss----7b722bfd1b8d---4)
 - [Bug Bounty in 2025: Part 1 — Mastering Regex for Security](https://medium.com/@halfcircassian/bug-bounty-in-2025-part-1-mastering-regex-for-security-3d58bcf51102?source=rss------bug_bounty_writeup-5)
 - [How I Discovered a WordPress Vulnerability: Exposed Usernames &amp; XML-RPC Exploitation](https://medium.com/@iamshafayat/how-i-discovered-a-wordpress-vulnerability-exposed-usernames-xml-rpc-exploitation-b35b0ec63a54?source=rss------bug_bounty_writeup-5)
 - [I Pasted a Link, Inspected the HTML, and Facebook Gave Me $1000](https://infosecwriteups.com/i-pasted-a-link-inspected-the-html-and-facebook-gave-me-1000-9ed4a91e24d1?source=rss------bug_bounty_writeup-5)
