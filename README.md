@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Breaking Through the Firewall: How I Bypassed a WAF and Found a Critical Bug with $1700](https://myselfakash20.medium.com/breaking-through-the-firewall-how-i-bypassed-a-waf-and-found-a-critical-bug-with-1700-0680e28c8785?source=rss------bug_bounty_writeup-5)
 - [5 Easy Methods to Erase Temporary Files on Windows 11](https://infosecwriteups.com/5-easy-methods-to-erase-temporary-files-on-windows-11-ad8e349380be?source=rss----7b722bfd1b8d---4)
 - [How I got a Stored XSS by searching through JS files.](https://medium.com/@oXnoOneXo/how-i-got-a-stored-xss-by-searching-through-js-files-fdfe2490668b?source=rss------bug_bounty_writeup-5)
 - [Day 9: CRLF to Account Takeover &lpar;Chaining Bugs&rpar;](https://medium.com/@danielbelay/day-9-crlf-to-account-takeover-chaining-bugs-8e621c9be109?source=rss------bug_bounty_writeup-5)
@@ -971,7 +972,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [5 Insights Attendees Gained from the Security@ World Tour](https://www.hackerone.com/blog/5-insights-attendees-gained-security-world-tour)
 - [Breaking Down the OWASP Top 10: Injection](https://www.hackerone.com/blog/breaking-down-owasp-top-10-injection)
 - [How Inadequate Authentication Logic Led to an MFA Bypass and Account Takeover](https://www.hackerone.com/blog/how-inadequate-authentication-logic-led-mfa-bypass-and-account-takeover)
-- [How HackerOne Employees Stay Connected and Have Fun](https://www.hackerone.com/blog/how-hackerone-employees-stay-connected-and-have-fun)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
