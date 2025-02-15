@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How to Easily Find Exposed Credentials in Bug Hunting](https://osintteam.blog/how-to-easily-find-exposed-credentials-in-bug-hunting-bb70ac603bae?source=rss------bug_bounty_writeup-5)
 - [Breaking Through the Firewall: How I Bypassed a WAF and Found a Critical Bug with $1700](https://infosecwriteups.com/breaking-through-the-firewall-how-i-bypassed-a-waf-and-found-a-critical-bug-with-1700-0680e28c8785?source=rss------bug_bounty_writeup-5)
 - [5 Easy Methods to Erase Temporary Files on Windows 11](https://infosecwriteups.com/5-easy-methods-to-erase-temporary-files-on-windows-11-ad8e349380be?source=rss----7b722bfd1b8d---4)
 - [How I got a Stored XSS by searching through JS files.](https://medium.com/@oXnoOneXo/how-i-got-a-stored-xss-by-searching-through-js-files-fdfe2490668b?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Bug Bounty in 2025: Part 1 — Mastering Regex for Security](https://medium.com/@halfcircassian/bug-bounty-in-2025-part-1-mastering-regex-for-security-3d58bcf51102?source=rss------bug_bounty_writeup-5)
 - [How I Discovered a WordPress Vulnerability: Exposed Usernames &amp; XML-RPC Exploitation](https://medium.com/@iamshafayat/how-i-discovered-a-wordpress-vulnerability-exposed-usernames-xml-rpc-exploitation-b35b0ec63a54?source=rss------bug_bounty_writeup-5)
 - [I Pasted a Link, Inspected the HTML, and Facebook Gave Me $1000](https://infosecwriteups.com/i-pasted-a-link-inspected-the-html-and-facebook-gave-me-1000-9ed4a91e24d1?source=rss------bug_bounty_writeup-5)
-- [Account Takeover via Lack of Email Verification Vulnerability](https://medium.com/@whitehat29/account-takeover-via-lack-of-email-verification-vulnerability-9b9be0751d8b?source=rss------bug_bounty_writeup-5)
 - [Women@ Kicks Off the Year with a Vision Board Event](https://www.hackerone.com/blog/women-kicks-year-vision-board-event)
 - [Gain Actionable, Data-backed Insights with HackerOne Recommendations](https://www.hackerone.com/blog/gain-actionable-data-backed-insights-hackerone-recommendations)
 - [Welcome, Hackbots: How AI Is Shaping the Future of Vulnerability Discovery](https://www.hackerone.com/blog/welcome-hackbots-how-ai-shaping-future-vulnerability-discovery)
