@@ -1,6 +1,11 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Wireshark Packet Capture on iOS: Using rvictl](https://infosecwriteups.com/wireshark-packet-capture-on-ios-using-rvictl-2ac93c31c6fd?source=rss----7b722bfd1b8d---4)
+- [Breaking Through the Firewall: How I Bypassed a WAF and Found a Critical Bug with $1700](https://infosecwriteups.com/breaking-through-the-firewall-how-i-bypassed-a-waf-and-found-a-critical-bug-with-1700-0680e28c8785?source=rss----7b722bfd1b8d---4)
+- [Confidential Message Exchange Between Services](https://infosecwriteups.com/confidential-message-exchange-between-services-dc1a9403ca60?source=rss----7b722bfd1b8d---4)
+- [$1,700 IDOR: Unauthorized Modification of Web Hosting Configuration](https://infosecwriteups.com/1-700-idor-unauthorized-modification-of-web-hosting-configuration-d6febc6c6a41?source=rss----7b722bfd1b8d---4)
+- [Social Engineering: The Art of Psychological Exploitation &lpar;Part-1&rpar;](https://infosecwriteups.com/social-engineering-the-art-of-psychological-exploitation-part-1-a343290abb03?source=rss----7b722bfd1b8d---4)
 - [Cap-HTB-Walkthrough-By-Reju-Kole](https://infosecwriteups.com/cap-htb-walkthrough-by-reju-kole-213efe7b6655?source=rss----7b722bfd1b8d---4)
 - [Exposed Admin Panel, $8000 Bounty — The Power of Shodan Recon!”](https://medium.com/@rahulgairola/exposed-admin-panel-8000-bounty-the-power-of-shodan-recon-3408ce97531c?source=rss------bug_bounty_writeup-5)
 - [Content Provider Exploitation: From Simple Misconfiguration to Application Lockdown](https://medium.com/@muhammedgalal66/content-provider-exploitation-from-simple-misconfiguration-to-application-lockdown-fd09520e9d3a?source=rss------bug_bounty_writeup-5)
@@ -16,11 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Locked Features, Unlocked Access: Breaking Restrictions with Response Manipulation](https://medium.com/@0x5atab/locked-features-unlocked-access-breaking-restrictions-with-response-manipulation-c7546a39c4c7?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty in 2025: Part 2 — Intro to Open Redirect Vulnerability with a Conceptual Lab](https://medium.com/@halfcircassian/bug-bounty-in-2025-part-2-intro-to-open-redirect-vulnerability-with-a-conceptual-lab-c0db11537778?source=rss------bug_bounty_writeup-5)
 - [Understanding Windows Registries: A Deep Dive](https://infosecwriteups.com/understanding-windows-registries-a-deep-dive-b90b71df7607?source=rss----7b722bfd1b8d---4)
-- [How does an extension help me find a PII data bug?](https://infosecwriteups.com/how-does-an-extension-help-me-find-a-pii-data-bug-a95d83043f9a?source=rss----7b722bfd1b8d---4)
-- [How to Automate Hunting for Open Redirect](https://infosecwriteups.com/how-to-automate-hunting-for-open-redirect-46537cd67b35?source=rss----7b722bfd1b8d---4)
-- [Certificate Authority &lpar;CA&rpar; configuration](https://infosecwriteups.com/certificate-authority-ca-configuration-618e923a12a0?source=rss----7b722bfd1b8d---4)
-- [VulnHub: Hacking Shenron 2 Write-up](https://infosecwriteups.com/vulnhub-hacking-shenron-2-write-up-f1f0c6de3eda?source=rss----7b722bfd1b8d---4)
-- [Ace Your CompTIA CySA+ &lpar;CS0–003&rpar;: A Comprehensive Exam Review](https://infosecwriteups.com/ace-your-comptia-cysa-cs0-003-a-comprehensive-exam-review-ce125dc39dd5?source=rss----7b722bfd1b8d---4)
 - [Women@ Kicks Off the Year with a Vision Board Event](https://www.hackerone.com/blog/women-kicks-year-vision-board-event)
 - [Gain Actionable, Data-backed Insights with HackerOne Recommendations](https://www.hackerone.com/blog/gain-actionable-data-backed-insights-hackerone-recommendations)
 - [Welcome, Hackbots: How AI Is Shaping the Future of Vulnerability Discovery](https://www.hackerone.com/blog/welcome-hackbots-how-ai-shaping-future-vulnerability-discovery)
