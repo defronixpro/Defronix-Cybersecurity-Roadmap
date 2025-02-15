@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Advanced XSS Filter Bypass Methods Using Payload Splitting](https://medium.com/@shadyfarouk1986/advanced-xss-filter-bypass-methods-using-payload-splitting-c8e32497461a?source=rss------bug_bounty_writeup-5)
 - [From Cookie to P1: Exploiting a Simple Flaw for Maximum Impact](https://infosecwriteups.com/from-cookie-to-p1-exploiting-a-simple-flaw-for-maximum-impact-a05ef35c3e8c?source=rss------bug_bounty_writeup-5)
 - [Wireshark Packet Capture on iOS: Using rvictl](https://infosecwriteups.com/wireshark-packet-capture-on-ios-using-rvictl-2ac93c31c6fd?source=rss----7b722bfd1b8d---4)
 - [Breaking Through the Firewall: How I Bypassed a WAF and Found a Critical Bug with $1700](https://infosecwriteups.com/breaking-through-the-firewall-how-i-bypassed-a-waf-and-found-a-critical-bug-with-1700-0680e28c8785?source=rss----7b722bfd1b8d---4)
@@ -19,7 +20,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Day 9: CRLF to Account Takeover &lpar;Chaining Bugs&rpar;](https://medium.com/@danielbelay/day-9-crlf-to-account-takeover-chaining-bugs-8e621c9be109?source=rss------bug_bounty_writeup-5)
 - [The Sticker Shop-THM-Walkthrough-By-Reju-Kole](https://infosecwriteups.com/the-sticker-shop-thm-walkthrough-by-reju-kole-35acaa1a0953?source=rss----7b722bfd1b8d---4)
 - [Tusk Infostealer Lab — CyberDefenders](https://infosecwriteups.com/tusk-infostealer-lab-cyberdefenders-341f12fd2180?source=rss----7b722bfd1b8d---4)
-- [How I can trigger Remote Code Execution Via Cron Job](https://r0b0ts.medium.com/how-i-can-trigger-remote-code-execution-via-cron-job-b7d9d7dc9372?source=rss------bug_bounty_writeup-5)
 - [Understanding Windows Registries: A Deep Dive](https://infosecwriteups.com/understanding-windows-registries-a-deep-dive-b90b71df7607?source=rss----7b722bfd1b8d---4)
 - [Women@ Kicks Off the Year with a Vision Board Event](https://www.hackerone.com/blog/women-kicks-year-vision-board-event)
 - [Gain Actionable, Data-backed Insights with HackerOne Recommendations](https://www.hackerone.com/blog/gain-actionable-data-backed-insights-hackerone-recommendations)
