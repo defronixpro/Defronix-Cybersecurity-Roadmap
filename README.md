@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Content Provider Exploitation: From Simple Misconfiguration to Application Lockdown](https://medium.com/@muhammedgalal66/content-provider-exploitation-from-simple-misconfiguration-to-application-lockdown-fd09520e9d3a?source=rss------bug_bounty_writeup-5)
 - [Rate Limits Bypassed — Business Logic Flaw](https://medium.com/@muhammad_saud/rate-limits-bypassed-business-logic-flaw-948a11dce0e4?source=rss------bug_bounty_writeup-5)
 - [How to Easily Find Exposed Credentials in Bug Hunting](https://osintteam.blog/how-to-easily-find-exposed-credentials-in-bug-hunting-bb70ac603bae?source=rss------bug_bounty_writeup-5)
 - [Breaking Through the Firewall: How I Bypassed a WAF and Found a Critical Bug with $1700](https://infosecwriteups.com/breaking-through-the-firewall-how-i-bypassed-a-waf-and-found-a-critical-bug-with-1700-0680e28c8785?source=rss------bug_bounty_writeup-5)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Ace Your CompTIA CySA+ &lpar;CS0–003&rpar;: A Comprehensive Exam Review](https://infosecwriteups.com/ace-your-comptia-cysa-cs0-003-a-comprehensive-exam-review-ce125dc39dd5?source=rss----7b722bfd1b8d---4)
 - [SOC336 — Windows OLE Zero-Click RCE Exploitation Detected &lpar;CVE-2025–21298&rpar;](https://infosecwriteups.com/soc336-windows-ole-zero-click-rce-exploitation-detected-cve-2025-21298-1ea72fde32f2?source=rss----7b722bfd1b8d---4)
 - [Bug Bounty in 2025: Part 1 — Mastering Regex for Security](https://medium.com/@halfcircassian/bug-bounty-in-2025-part-1-mastering-regex-for-security-3d58bcf51102?source=rss------bug_bounty_writeup-5)
-- [How I Discovered a WordPress Vulnerability: Exposed Usernames &amp; XML-RPC Exploitation](https://medium.com/@iamshafayat/how-i-discovered-a-wordpress-vulnerability-exposed-usernames-xml-rpc-exploitation-b35b0ec63a54?source=rss------bug_bounty_writeup-5)
 - [Women@ Kicks Off the Year with a Vision Board Event](https://www.hackerone.com/blog/women-kicks-year-vision-board-event)
 - [Gain Actionable, Data-backed Insights with HackerOne Recommendations](https://www.hackerone.com/blog/gain-actionable-data-backed-insights-hackerone-recommendations)
 - [Welcome, Hackbots: How AI Is Shaping the Future of Vulnerability Discovery](https://www.hackerone.com/blog/welcome-hackbots-how-ai-shaping-future-vulnerability-discovery)
