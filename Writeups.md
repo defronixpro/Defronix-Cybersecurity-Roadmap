@@ -6,7 +6,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Confidential Message Exchange Between Services](https://infosecwriteups.com/confidential-message-exchange-between-services-dc1a9403ca60?source=rss----7b722bfd1b8d---4)
 - [$1,700 IDOR: Unauthorized Modification of Web Hosting Configuration](https://infosecwriteups.com/1-700-idor-unauthorized-modification-of-web-hosting-configuration-d6febc6c6a41?source=rss----7b722bfd1b8d---4)
 - [Social Engineering: The Art of Psychological Exploitation &lpar;Part-1&rpar;](https://infosecwriteups.com/social-engineering-the-art-of-psychological-exploitation-part-1-a343290abb03?source=rss----7b722bfd1b8d---4)
-- [Cache Control: An Easy P4 Vulnerability](https://medium.com/@jeetpal2007/cache-control-an-easy-p4-vulnerability-746138597d10?source=rss------bug_bounty_writeup-5)
+- [Cache Control: An Easy P4 Vulnerability](https://infosecwriteups.com/cache-control-an-easy-p4-vulnerability-746138597d10?source=rss------bug_bounty_writeup-5)
 - [Cap-HTB-Walkthrough-By-Reju-Kole](https://infosecwriteups.com/cap-htb-walkthrough-by-reju-kole-213efe7b6655?source=rss----7b722bfd1b8d---4)
 - [Exposed Admin Panel, $8000 Bounty — The Power of Shodan Recon!”](https://medium.com/@rahulgairola/exposed-admin-panel-8000-bounty-the-power-of-shodan-recon-3408ce97531c?source=rss------bug_bounty_writeup-5)
 - [Content Provider Exploitation: From Simple Misconfiguration to Application Lockdown](https://medium.com/@muhammedgalal66/content-provider-exploitation-from-simple-misconfiguration-to-application-lockdown-fd09520e9d3a?source=rss------bug_bounty_writeup-5)
