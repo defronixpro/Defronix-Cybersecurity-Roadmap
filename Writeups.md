@@ -1,7 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
-- [AD Connector Dashboard Takeover](https://0xshuvo.medium.com/ad-connector-dashboard-takeover-a5e3dd6d28ce?source=rss------bug_bounty_writeup-5)
+- [$$$$ AD Connector Dashboard Takeover](https://0xshuvo.medium.com/ad-connector-dashboard-takeover-a5e3dd6d28ce?source=rss------bug_bounty_writeup-5)
 - [My First Bug: How I Was Able to Bypass the WAF and Uncover a Reflected XSS](https://infosecwriteups.com/my-first-bug-how-i-was-able-to-bypass-the-waf-and-uncover-a-reflected-xss-e0534b6f05e4?source=rss----7b722bfd1b8d---4)
 - [HackTheBox Writeup — PC](https://infosecwriteups.com/hackthebox-writeup-pc-1c0178023411?source=rss----7b722bfd1b8d---4)
 - [Cicada Walkthrough — HackTheBox](https://infosecwriteups.com/cicada-walkthrough-hackthebox-a78ff36f869d?source=rss----7b722bfd1b8d---4)
