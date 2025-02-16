@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [CORS vs Access-Control-Allow-Origin](https://medium.com/@shadyfarouk1986/cors-vs-access-control-allow-origin-af5cecc3f4c7?source=rss------bug_bounty_writeup-5)
 - [IDOR Nightmare: Indian Post Office Portal Exposed Thousands of KYC Records with Article ID with…](https://systemweakness.com/idor-nightmare-indian-post-office-portal-exposed-thousands-of-kyc-records-with-article-id-with-735cc35a3984?source=rss------bug_bounty_writeup-5)
 - [Hunting Active Hackerone &amp; BugCrowd Domains Priv Methodology 2025](https://medium.com/@0x1mohammed/mass-hunting-active-hackerone-bugcrowd-domains-priv-methodology-2025-98fda70c2534?source=rss------bug_bounty_writeup-5)
 - [Comparing Burp Suite Pro and OWASP ZAP: Which One is Right for You?](https://medium.com/@shadyfarouk1986/comparing-burp-suite-pro-and-owasp-zap-which-one-is-right-for-you-56629b2dac6d?source=rss------bug_bounty_writeup-5)
@@ -937,7 +938,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Exposed Admin Panel, $8000 Bounty — The Power of Shodan Recon!”](https://medium.com/@rahulgairola/exposed-admin-panel-8000-bounty-the-power-of-shodan-recon-3408ce97531c?source=rss------bug_bounty_writeup-5)
 - [Content Provider Exploitation: From Simple Misconfiguration to Application Lockdown](https://medium.com/@muhammedgalal66/content-provider-exploitation-from-simple-misconfiguration-to-application-lockdown-fd09520e9d3a?source=rss------bug_bounty_writeup-5)
 - [Rate Limits Bypassed — Business Logic Flaw](https://medium.com/@muhammad_saud/rate-limits-bypassed-business-logic-flaw-948a11dce0e4?source=rss------bug_bounty_writeup-5)
-- [How to Easily Find Exposed Credentials in Bug Hunting](https://osintteam.blog/how-to-easily-find-exposed-credentials-in-bug-hunting-bb70ac603bae?source=rss------bug_bounty_writeup-5)
 - [5 Easy Methods to Erase Temporary Files on Windows 11](https://infosecwriteups.com/5-easy-methods-to-erase-temporary-files-on-windows-11-ad8e349380be?source=rss----7b722bfd1b8d---4)
 - [The Sticker Shop-THM-Walkthrough-By-Reju-Kole](https://infosecwriteups.com/the-sticker-shop-thm-walkthrough-by-reju-kole-35acaa1a0953?source=rss----7b722bfd1b8d---4)
 - [Tusk Infostealer Lab — CyberDefenders](https://infosecwriteups.com/tusk-infostealer-lab-cyberdefenders-341f12fd2180?source=rss----7b722bfd1b8d---4)
