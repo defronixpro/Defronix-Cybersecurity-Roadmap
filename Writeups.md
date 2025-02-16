@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [IDOR Nightmare: Indian Post Office Portal Exposed Thousands of KYC Records with Article ID with…](https://hiddendom.medium.com/idor-nightmare-indian-post-office-portal-exposed-thousands-of-kyc-records-with-article-id-with-735cc35a3984?source=rss------bug_bounty_writeup-5)
 - [Hunting Active Hackerone &amp; BugCrowd Domains Priv Methodology 2025](https://medium.com/@0x1mohammed/mass-hunting-active-hackerone-bugcrowd-domains-priv-methodology-2025-98fda70c2534?source=rss------bug_bounty_writeup-5)
 - [Comparing Burp Suite Pro and OWASP ZAP: Which One is Right for You?](https://medium.com/@shadyfarouk1986/comparing-burp-suite-pro-and-owasp-zap-which-one-is-right-for-you-56629b2dac6d?source=rss------bug_bounty_writeup-5)
 - [Advanced XSS Filter Bypass Methods Using Payload Splitting](https://medium.com/@shadyfarouk1986/advanced-xss-filter-bypass-methods-using-payload-splitting-c8e32497461a?source=rss------bug_bounty_writeup-5)
@@ -16,7 +17,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Content Provider Exploitation: From Simple Misconfiguration to Application Lockdown](https://medium.com/@muhammedgalal66/content-provider-exploitation-from-simple-misconfiguration-to-application-lockdown-fd09520e9d3a?source=rss------bug_bounty_writeup-5)
 - [Rate Limits Bypassed — Business Logic Flaw](https://medium.com/@muhammad_saud/rate-limits-bypassed-business-logic-flaw-948a11dce0e4?source=rss------bug_bounty_writeup-5)
 - [How to Easily Find Exposed Credentials in Bug Hunting](https://osintteam.blog/how-to-easily-find-exposed-credentials-in-bug-hunting-bb70ac603bae?source=rss------bug_bounty_writeup-5)
-- [Breaking Through the Firewall: How I Bypassed a WAF and Found a Critical Bug with $1700](https://infosecwriteups.com/breaking-through-the-firewall-how-i-bypassed-a-waf-and-found-a-critical-bug-with-1700-0680e28c8785?source=rss------bug_bounty_writeup-5)
 - [5 Easy Methods to Erase Temporary Files on Windows 11](https://infosecwriteups.com/5-easy-methods-to-erase-temporary-files-on-windows-11-ad8e349380be?source=rss----7b722bfd1b8d---4)
 - [The Sticker Shop-THM-Walkthrough-By-Reju-Kole](https://infosecwriteups.com/the-sticker-shop-thm-walkthrough-by-reju-kole-35acaa1a0953?source=rss----7b722bfd1b8d---4)
 - [Tusk Infostealer Lab — CyberDefenders](https://infosecwriteups.com/tusk-infostealer-lab-cyberdefenders-341f12fd2180?source=rss----7b722bfd1b8d---4)
