@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [$$$$ AD Connector Dashboard Takeover](https://0xshuvo.medium.com/ad-connector-dashboard-takeover-a5e3dd6d28ce?source=rss------bug_bounty_writeup-5)
 - [My First Bug: How I Was Able to Bypass the WAF and Uncover a Reflected XSS](https://infosecwriteups.com/my-first-bug-how-i-was-able-to-bypass-the-waf-and-uncover-a-reflected-xss-e0534b6f05e4?source=rss----7b722bfd1b8d---4)
 - [HackTheBox Writeup — PC](https://infosecwriteups.com/hackthebox-writeup-pc-1c0178023411?source=rss----7b722bfd1b8d---4)
 - [Cicada Walkthrough — HackTheBox](https://infosecwriteups.com/cicada-walkthrough-hackthebox-a78ff36f869d?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Social Engineering: The Art of Psychological Exploitation &lpar;Part-1&rpar;](https://infosecwriteups.com/social-engineering-the-art-of-psychological-exploitation-part-1-a343290abb03?source=rss----7b722bfd1b8d---4)
 - [Cache Control: An Easy P4 Vulnerability](https://infosecwriteups.com/cache-control-an-easy-p4-vulnerability-746138597d10?source=rss------bug_bounty_writeup-5)
 - [Cap-HTB-Walkthrough-By-Reju-Kole](https://infosecwriteups.com/cap-htb-walkthrough-by-reju-kole-213efe7b6655?source=rss----7b722bfd1b8d---4)
-- [Exposed Admin Panel, $8000 Bounty — The Power of Shodan Recon!”](https://medium.com/@rahulgairola/exposed-admin-panel-8000-bounty-the-power-of-shodan-recon-3408ce97531c?source=rss------bug_bounty_writeup-5)
 - [Women@ Kicks Off the Year with a Vision Board Event](https://www.hackerone.com/blog/women-kicks-year-vision-board-event)
 - [Gain Actionable, Data-backed Insights with HackerOne Recommendations](https://www.hackerone.com/blog/gain-actionable-data-backed-insights-hackerone-recommendations)
 - [Welcome, Hackbots: How AI Is Shaping the Future of Vulnerability Discovery](https://www.hackerone.com/blog/welcome-hackbots-how-ai-shaping-future-vulnerability-discovery)
