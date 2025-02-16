@@ -922,6 +922,10 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [My First Bug: How I Was Able to Bypass the WAF and Uncover a Reflected XSS](https://infosecwriteups.com/my-first-bug-how-i-was-able-to-bypass-the-waf-and-uncover-a-reflected-xss-e0534b6f05e4?source=rss----7b722bfd1b8d---4)
+- [HackTheBox Writeup — PC](https://infosecwriteups.com/hackthebox-writeup-pc-1c0178023411?source=rss----7b722bfd1b8d---4)
+- [Cicada Walkthrough — HackTheBox](https://infosecwriteups.com/cicada-walkthrough-hackthebox-a78ff36f869d?source=rss----7b722bfd1b8d---4)
+- [Cache Control: An Easy P4 Vulnerability](https://infosecwriteups.com/cache-control-an-easy-p4-vulnerability-746138597d10?source=rss----7b722bfd1b8d---4)
 - [How I Got into Google’s Hall of Fame Using GitHub Recon](https://medium.com/@anonymousshetty2003/how-i-got-into-googles-hall-of-fame-using-github-recon-383cb88d056e?source=rss------bug_bounty_writeup-5)
 - [Business Logic Vulnerabilities](https://medium.com/@0x1di0t/business-logic-vulnerabilities-843ea2a316f2?source=rss------bug_bounty_writeup-5)
 - [CORS vs Access-Control-Allow-Origin](https://medium.com/@shadyfarouk1986/cors-vs-access-control-allow-origin-af5cecc3f4c7?source=rss------bug_bounty_writeup-5)
@@ -938,10 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Cache Control: An Easy P4 Vulnerability](https://infosecwriteups.com/cache-control-an-easy-p4-vulnerability-746138597d10?source=rss------bug_bounty_writeup-5)
 - [Cap-HTB-Walkthrough-By-Reju-Kole](https://infosecwriteups.com/cap-htb-walkthrough-by-reju-kole-213efe7b6655?source=rss----7b722bfd1b8d---4)
 - [Exposed Admin Panel, $8000 Bounty — The Power of Shodan Recon!”](https://medium.com/@rahulgairola/exposed-admin-panel-8000-bounty-the-power-of-shodan-recon-3408ce97531c?source=rss------bug_bounty_writeup-5)
-- [5 Easy Methods to Erase Temporary Files on Windows 11](https://infosecwriteups.com/5-easy-methods-to-erase-temporary-files-on-windows-11-ad8e349380be?source=rss----7b722bfd1b8d---4)
-- [The Sticker Shop-THM-Walkthrough-By-Reju-Kole](https://infosecwriteups.com/the-sticker-shop-thm-walkthrough-by-reju-kole-35acaa1a0953?source=rss----7b722bfd1b8d---4)
-- [Tusk Infostealer Lab — CyberDefenders](https://infosecwriteups.com/tusk-infostealer-lab-cyberdefenders-341f12fd2180?source=rss----7b722bfd1b8d---4)
-- [Understanding Windows Registries: A Deep Dive](https://infosecwriteups.com/understanding-windows-registries-a-deep-dive-b90b71df7607?source=rss----7b722bfd1b8d---4)
 - [Women@ Kicks Off the Year with a Vision Board Event](https://www.hackerone.com/blog/women-kicks-year-vision-board-event)
 - [Gain Actionable, Data-backed Insights with HackerOne Recommendations](https://www.hackerone.com/blog/gain-actionable-data-backed-insights-hackerone-recommendations)
 - [Welcome, Hackbots: How AI Is Shaping the Future of Vulnerability Discovery](https://www.hackerone.com/blog/welcome-hackbots-how-ai-shaping-future-vulnerability-discovery)
