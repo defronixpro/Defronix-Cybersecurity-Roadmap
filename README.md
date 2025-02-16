@@ -922,7 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [IDOR Nightmare: Indian Post Office Portal Exposed Thousands of KYC Records with Article ID with…](https://hiddendom.medium.com/idor-nightmare-indian-post-office-portal-exposed-thousands-of-kyc-records-with-article-id-with-735cc35a3984?source=rss------bug_bounty_writeup-5)
+- [IDOR Nightmare: Indian Post Office Portal Exposed Thousands of KYC Records with Article ID with…](https://systemweakness.com/idor-nightmare-indian-post-office-portal-exposed-thousands-of-kyc-records-with-article-id-with-735cc35a3984?source=rss------bug_bounty_writeup-5)
 - [Hunting Active Hackerone &amp; BugCrowd Domains Priv Methodology 2025](https://medium.com/@0x1mohammed/mass-hunting-active-hackerone-bugcrowd-domains-priv-methodology-2025-98fda70c2534?source=rss------bug_bounty_writeup-5)
 - [Comparing Burp Suite Pro and OWASP ZAP: Which One is Right for You?](https://medium.com/@shadyfarouk1986/comparing-burp-suite-pro-and-owasp-zap-which-one-is-right-for-you-56629b2dac6d?source=rss------bug_bounty_writeup-5)
 - [Advanced XSS Filter Bypass Methods Using Payload Splitting](https://medium.com/@shadyfarouk1986/advanced-xss-filter-bypass-methods-using-payload-splitting-c8e32497461a?source=rss------bug_bounty_writeup-5)
