@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [I Pasted a Simple HTML Code on BookMyShow… and Got ₹1000 for It!](https://infosecwriteups.com/i-pasted-a-simple-html-code-on-bookmyshow-and-got-1000-for-it-26313f0e2115?source=rss------bug_bounty_writeup-5)
 - [From Curiosity to $10,000: How I Found a Critical Account Takeover Bug](https://medium.com/@rahulgairola/from-curiosity-to-10-000-how-i-found-a-critical-account-takeover-bug-ca6dd169c36b?source=rss------bug_bounty_writeup-5)
 - [eWPT&lpar;v2&rpar; Review Without Course](https://infosecwriteups.com/ewpt-v2-review-without-course-be5416fe7384?source=rss----7b722bfd1b8d---4)
 - [Cicada-HTB-Walkthrough-By-Reju-Kole](https://infosecwriteups.com/cicada-htb-walkthrough-by-reju-kole-8a056b906b97?source=rss----7b722bfd1b8d---4)
@@ -19,7 +20,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [$$$$ AD Connector Dashboard Takeover](https://0xshuvo.medium.com/ad-connector-dashboard-takeover-a5e3dd6d28ce?source=rss------bug_bounty_writeup-5)
 - [How I Got into Google’s Hall of Fame Using GitHub Recon](https://medium.com/@anonymousshetty2003/how-i-got-into-googles-hall-of-fame-using-github-recon-383cb88d056e?source=rss------bug_bounty_writeup-5)
 - [Business Logic Vulnerabilities](https://medium.com/@0x1di0t/business-logic-vulnerabilities-843ea2a316f2?source=rss------bug_bounty_writeup-5)
-- [CORS vs Access-Control-Allow-Origin](https://medium.com/@shadyfarouk1986/cors-vs-access-control-allow-origin-af5cecc3f4c7?source=rss------bug_bounty_writeup-5)
 - [Women@ Kicks Off the Year with a Vision Board Event](https://www.hackerone.com/blog/women-kicks-year-vision-board-event)
 - [Gain Actionable, Data-backed Insights with HackerOne Recommendations](https://www.hackerone.com/blog/gain-actionable-data-backed-insights-hackerone-recommendations)
 - [Welcome, Hackbots: How AI Is Shaping the Future of Vulnerability Discovery](https://www.hackerone.com/blog/welcome-hackbots-how-ai-shaping-future-vulnerability-discovery)
