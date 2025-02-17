@@ -1,6 +1,10 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Finding more subdomains using security trails api key](https://infosecwriteups.com/finding-more-subdomains-using-security-trails-api-key-0abdadd60574?source=rss----7b722bfd1b8d---4)
+- [URL Discovery: Hunt Where Others Aren’t Hunting | Recon Part 8](https://infosecwriteups.com/url-discovery-hunt-where-others-arent-hunting-recon-part-8-e0368b9aaf81?source=rss----7b722bfd1b8d---4)
+- [Metasploit Encoders and UPX Packer VS AntiMalware](https://infosecwriteups.com/metasploit-encoders-and-upx-packer-vs-antimalware-bee51b9fd1c2?source=rss----7b722bfd1b8d---4)
+- [How I Found My First Bug $$$](https://infosecwriteups.com/how-i-found-my-first-bug-c976920cbbe3?source=rss----7b722bfd1b8d---4)
 - [Here’s How I Found a Leaked Database Through Google Dorking](https://infosecwriteups.com/heres-how-i-found-a-leaked-database-through-google-dorking-6402ffecbacc?source=rss----7b722bfd1b8d---4)
 - [SSRF Advanced Methodology✨](https://infosecwriteups.com/ssrf-advanced-methodology-ecbe289886ef?source=rss----7b722bfd1b8d---4)
 - [AWS S3 Enumeration Basics](https://infosecwriteups.com/aws-s3-enumeration-basics-58b05d5f169b?source=rss----7b722bfd1b8d---4)
@@ -12,15 +16,11 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [$$$$ AD Connector Dashboard Takeover](https://0xshuvo.medium.com/ad-connector-dashboard-takeover-a5e3dd6d28ce?source=rss------bug_bounty_writeup-5)
 - [My First Bug: How I Was Able to Bypass the WAF and Uncover a Reflected XSS](https://infosecwriteups.com/my-first-bug-how-i-was-able-to-bypass-the-waf-and-uncover-a-reflected-xss-e0534b6f05e4?source=rss----7b722bfd1b8d---4)
 - [HackTheBox Writeup — PC](https://infosecwriteups.com/hackthebox-writeup-pc-1c0178023411?source=rss----7b722bfd1b8d---4)
-- [Cicada Walkthrough — HackTheBox](https://infosecwriteups.com/cicada-walkthrough-hackthebox-a78ff36f869d?source=rss----7b722bfd1b8d---4)
-- [Cache Control: An Easy P4 Vulnerability](https://infosecwriteups.com/cache-control-an-easy-p4-vulnerability-746138597d10?source=rss----7b722bfd1b8d---4)
 - [How I Got into Google’s Hall of Fame Using GitHub Recon](https://medium.com/@anonymousshetty2003/how-i-got-into-googles-hall-of-fame-using-github-recon-383cb88d056e?source=rss------bug_bounty_writeup-5)
 - [Business Logic Vulnerabilities](https://medium.com/@0x1di0t/business-logic-vulnerabilities-843ea2a316f2?source=rss------bug_bounty_writeup-5)
 - [CORS vs Access-Control-Allow-Origin](https://medium.com/@shadyfarouk1986/cors-vs-access-control-allow-origin-af5cecc3f4c7?source=rss------bug_bounty_writeup-5)
 - [IDOR Nightmare: Indian Post Office Portal Exposed Thousands of KYC Records with Article ID with…](https://systemweakness.com/idor-nightmare-indian-post-office-portal-exposed-thousands-of-kyc-records-with-article-id-with-735cc35a3984?source=rss------bug_bounty_writeup-5)
 - [Hunting Active Hackerone &amp; BugCrowd Domains Priv Methodology 2025](https://medium.com/@0x1mohammed/mass-hunting-active-hackerone-bugcrowd-domains-priv-methodology-2025-98fda70c2534?source=rss------bug_bounty_writeup-5)
-- [Wireshark Packet Capture on iOS: Using rvictl](https://infosecwriteups.com/wireshark-packet-capture-on-ios-using-rvictl-2ac93c31c6fd?source=rss----7b722bfd1b8d---4)
-- [Breaking Through the Firewall: How I Bypassed a WAF and Found a Critical Bug with $1700](https://infosecwriteups.com/breaking-through-the-firewall-how-i-bypassed-a-waf-and-found-a-critical-bug-with-1700-0680e28c8785?source=rss----7b722bfd1b8d---4)
 - [Women@ Kicks Off the Year with a Vision Board Event](https://www.hackerone.com/blog/women-kicks-year-vision-board-event)
 - [Gain Actionable, Data-backed Insights with HackerOne Recommendations](https://www.hackerone.com/blog/gain-actionable-data-backed-insights-hackerone-recommendations)
 - [Welcome, Hackbots: How AI Is Shaping the Future of Vulnerability Discovery](https://www.hackerone.com/blog/welcome-hackbots-how-ai-shaping-future-vulnerability-discovery)
