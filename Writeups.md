@@ -1,6 +1,9 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [eWPT&lpar;v2&rpar; Review Without Course](https://infosecwriteups.com/ewpt-v2-review-without-course-be5416fe7384?source=rss----7b722bfd1b8d---4)
+- [Cicada-HTB-Walkthrough-By-Reju-Kole](https://infosecwriteups.com/cicada-htb-walkthrough-by-reju-kole-8a056b906b97?source=rss----7b722bfd1b8d---4)
+- [From Cookie to P1: Exploiting a Simple Flaw for Maximum Impact](https://infosecwriteups.com/from-cookie-to-p1-exploiting-a-simple-flaw-for-maximum-impact-a05ef35c3e8c?source=rss----7b722bfd1b8d---4)
 - [Finding more subdomains using security trails api key](https://infosecwriteups.com/finding-more-subdomains-using-security-trails-api-key-0abdadd60574?source=rss----7b722bfd1b8d---4)
 - [URL Discovery: Hunt Where Others Aren’t Hunting | Recon Part 8](https://infosecwriteups.com/url-discovery-hunt-where-others-arent-hunting-recon-part-8-e0368b9aaf81?source=rss----7b722bfd1b8d---4)
 - [Metasploit Encoders and UPX Packer VS AntiMalware](https://infosecwriteups.com/metasploit-encoders-and-upx-packer-vs-antimalware-bee51b9fd1c2?source=rss----7b722bfd1b8d---4)
@@ -8,14 +11,11 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Here’s How I Found a Leaked Database Through Google Dorking](https://infosecwriteups.com/heres-how-i-found-a-leaked-database-through-google-dorking-6402ffecbacc?source=rss----7b722bfd1b8d---4)
 - [SSRF Advanced Methodology✨](https://infosecwriteups.com/ssrf-advanced-methodology-ecbe289886ef?source=rss----7b722bfd1b8d---4)
 - [AWS S3 Enumeration Basics](https://infosecwriteups.com/aws-s3-enumeration-basics-58b05d5f169b?source=rss----7b722bfd1b8d---4)
-- [Bug Hunting Automation](https://infosecwriteups.com/bug-hunting-automation-f91ce2ce70bc?source=rss----7b722bfd1b8d---4)
 - [Web Vulnerabilities 101: Understanding and Exploiting XSS](https://medium.com/@shadyfarouk1986/web-vulnerabilities-101-understanding-and-exploiting-xss-8026617bf396?source=rss------bug_bounty_writeup-5)
 - [Symfonos2 Security Challenge](https://medium.com/@Y_Waheed/symfonos2-security-challenge-3d6a2a514f37?source=rss------bug_bounty_writeup-5)
 - [# Exposure of Internal PHP Source Code Leading to Credential &amp; Sensitive Data Leakage](https://medium.com/@bevennyamande/exposure-of-internal-php-source-code-leading-to-credential-sensitive-data-leakage-209383740e1e?source=rss------bug_bounty_writeup-5)
 - [How to Write the Perfect Bug Bounty Report &lpar;With Examples!&rpar;](https://medium.com/@krishna9823420058/how-to-write-the-perfect-bug-bounty-report-with-examples-5d95b95559ea?source=rss------bug_bounty_writeup-5)
 - [$$$$ AD Connector Dashboard Takeover](https://0xshuvo.medium.com/ad-connector-dashboard-takeover-a5e3dd6d28ce?source=rss------bug_bounty_writeup-5)
-- [My First Bug: How I Was Able to Bypass the WAF and Uncover a Reflected XSS](https://infosecwriteups.com/my-first-bug-how-i-was-able-to-bypass-the-waf-and-uncover-a-reflected-xss-e0534b6f05e4?source=rss----7b722bfd1b8d---4)
-- [HackTheBox Writeup — PC](https://infosecwriteups.com/hackthebox-writeup-pc-1c0178023411?source=rss----7b722bfd1b8d---4)
 - [How I Got into Google’s Hall of Fame Using GitHub Recon](https://medium.com/@anonymousshetty2003/how-i-got-into-googles-hall-of-fame-using-github-recon-383cb88d056e?source=rss------bug_bounty_writeup-5)
 - [Business Logic Vulnerabilities](https://medium.com/@0x1di0t/business-logic-vulnerabilities-843ea2a316f2?source=rss------bug_bounty_writeup-5)
 - [CORS vs Access-Control-Allow-Origin](https://medium.com/@shadyfarouk1986/cors-vs-access-control-allow-origin-af5cecc3f4c7?source=rss------bug_bounty_writeup-5)
