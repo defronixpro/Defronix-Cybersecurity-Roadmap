@@ -922,6 +922,11 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Here’s How I Found a Leaked Database Through Google Dorking](https://infosecwriteups.com/heres-how-i-found-a-leaked-database-through-google-dorking-6402ffecbacc?source=rss----7b722bfd1b8d---4)
+- [SSRF Advanced Methodology✨](https://infosecwriteups.com/ssrf-advanced-methodology-ecbe289886ef?source=rss----7b722bfd1b8d---4)
+- [AWS S3 Enumeration Basics](https://infosecwriteups.com/aws-s3-enumeration-basics-58b05d5f169b?source=rss----7b722bfd1b8d---4)
+- [Bug Hunting Automation](https://infosecwriteups.com/bug-hunting-automation-f91ce2ce70bc?source=rss----7b722bfd1b8d---4)
+- [Web Vulnerabilities 101: Understanding and Exploiting XSS](https://medium.com/@shadyfarouk1986/web-vulnerabilities-101-understanding-and-exploiting-xss-8026617bf396?source=rss------bug_bounty_writeup-5)
 - [Symfonos2 Security Challenge](https://medium.com/@Y_Waheed/symfonos2-security-challenge-3d6a2a514f37?source=rss------bug_bounty_writeup-5)
 - [# Exposure of Internal PHP Source Code Leading to Credential &amp; Sensitive Data Leakage](https://medium.com/@bevennyamande/exposure-of-internal-php-source-code-leading-to-credential-sensitive-data-leakage-209383740e1e?source=rss------bug_bounty_writeup-5)
 - [How to Write the Perfect Bug Bounty Report &lpar;With Examples!&rpar;](https://medium.com/@krishna9823420058/how-to-write-the-perfect-bug-bounty-report-with-examples-5d95b95559ea?source=rss------bug_bounty_writeup-5)
@@ -935,13 +940,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [CORS vs Access-Control-Allow-Origin](https://medium.com/@shadyfarouk1986/cors-vs-access-control-allow-origin-af5cecc3f4c7?source=rss------bug_bounty_writeup-5)
 - [IDOR Nightmare: Indian Post Office Portal Exposed Thousands of KYC Records with Article ID with…](https://systemweakness.com/idor-nightmare-indian-post-office-portal-exposed-thousands-of-kyc-records-with-article-id-with-735cc35a3984?source=rss------bug_bounty_writeup-5)
 - [Hunting Active Hackerone &amp; BugCrowd Domains Priv Methodology 2025](https://medium.com/@0x1mohammed/mass-hunting-active-hackerone-bugcrowd-domains-priv-methodology-2025-98fda70c2534?source=rss------bug_bounty_writeup-5)
-- [Comparing Burp Suite Pro and OWASP ZAP: Which One is Right for You?](https://medium.com/@shadyfarouk1986/comparing-burp-suite-pro-and-owasp-zap-which-one-is-right-for-you-56629b2dac6d?source=rss------bug_bounty_writeup-5)
 - [Wireshark Packet Capture on iOS: Using rvictl](https://infosecwriteups.com/wireshark-packet-capture-on-ios-using-rvictl-2ac93c31c6fd?source=rss----7b722bfd1b8d---4)
 - [Breaking Through the Firewall: How I Bypassed a WAF and Found a Critical Bug with $1700](https://infosecwriteups.com/breaking-through-the-firewall-how-i-bypassed-a-waf-and-found-a-critical-bug-with-1700-0680e28c8785?source=rss----7b722bfd1b8d---4)
-- [Confidential Message Exchange Between Services](https://infosecwriteups.com/confidential-message-exchange-between-services-dc1a9403ca60?source=rss----7b722bfd1b8d---4)
-- [$1,700 IDOR: Unauthorized Modification of Web Hosting Configuration](https://infosecwriteups.com/1-700-idor-unauthorized-modification-of-web-hosting-configuration-d6febc6c6a41?source=rss----7b722bfd1b8d---4)
-- [Social Engineering: The Art of Psychological Exploitation &lpar;Part-1&rpar;](https://infosecwriteups.com/social-engineering-the-art-of-psychological-exploitation-part-1-a343290abb03?source=rss----7b722bfd1b8d---4)
-- [Cap-HTB-Walkthrough-By-Reju-Kole](https://infosecwriteups.com/cap-htb-walkthrough-by-reju-kole-213efe7b6655?source=rss----7b722bfd1b8d---4)
 - [Women@ Kicks Off the Year with a Vision Board Event](https://www.hackerone.com/blog/women-kicks-year-vision-board-event)
 - [Gain Actionable, Data-backed Insights with HackerOne Recommendations](https://www.hackerone.com/blog/gain-actionable-data-backed-insights-hackerone-recommendations)
 - [Welcome, Hackbots: How AI Is Shaping the Future of Vulnerability Discovery](https://www.hackerone.com/blog/welcome-hackbots-how-ai-shaping-future-vulnerability-discovery)
