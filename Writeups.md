@@ -11,6 +11,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Why You Need a Digital Garden &lpar;How to Start Guide&rpar;](https://infosecwriteups.com/why-you-need-a-digital-garden-how-to-start-guide-a1f30f818c75?source=rss----7b722bfd1b8d---4)
 - [No email verification leads to an Oauth account takeover.](https://infosecwriteups.com/no-email-verification-leads-to-an-oauth-account-takeover-02eb30496939?source=rss----7b722bfd1b8d---4)
 - [I Pasted a Simple HTML Code on BookMyShow… and Got ₹1000 for It!](https://infosecwriteups.com/i-pasted-a-simple-html-code-on-bookmyshow-and-got-1000-for-it-26313f0e2115?source=rss------bug_bounty_writeup-5)
+- [Bug Bounty | HTML Injection in Email Invitations](https://medium.com/@yog_sahare/bug-bounty-html-injection-in-email-invitations-d2062d8337ef?source=rss------bug_bounty_writeup-5)
 - [From Curiosity to $10,000: How I Found a Critical Account Takeover Bug](https://medium.com/@rahulgairola/from-curiosity-to-10-000-how-i-found-a-critical-account-takeover-bug-ca6dd169c36b?source=rss------bug_bounty_writeup-5)
 - [eWPT&lpar;v2&rpar; Review Without Course](https://infosecwriteups.com/ewpt-v2-review-without-course-be5416fe7384?source=rss----7b722bfd1b8d---4)
 - [Cicada-HTB-Walkthrough-By-Reju-Kole](https://infosecwriteups.com/cicada-htb-walkthrough-by-reju-kole-8a056b906b97?source=rss----7b722bfd1b8d---4)
