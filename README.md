@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [CORS + XSS : Chaining Vulnerabilities for Critical Data Extraction](https://medium.com/@blify/cors-xss-chaining-vulnerabilities-for-critical-data-extraction-aed9d8fbd814?source=rss------bug_bounty_writeup-5)
 - [VulnLab Trusted | Maverick Got Your Trusted Baby](https://infosecwriteups.com/vulnlab-trusted-maverick-got-your-trusted-baby-71420c15273e?source=rss----7b722bfd1b8d---4)
 - [I Pasted a Simple HTML Code on BookMyShow… and Got ₹1000 for It!](https://infosecwriteups.com/i-pasted-a-simple-html-code-on-bookmyshow-and-got-1000-for-it-26313f0e2115?source=rss----7b722bfd1b8d---4)
 - [HTMLI to ATO leads to $$$ bounty](https://infosecwriteups.com/htmli-to-ato-leads-to-bounty-9725cb23a67c?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [# Exposure of Internal PHP Source Code Leading to Credential &amp; Sensitive Data Leakage](https://medium.com/@bevennyamande/exposure-of-internal-php-source-code-leading-to-credential-sensitive-data-leakage-209383740e1e?source=rss------bug_bounty_writeup-5)
 - [How to Write the Perfect Bug Bounty Report &lpar;With Examples!&rpar;](https://medium.com/@krishna9823420058/how-to-write-the-perfect-bug-bounty-report-with-examples-5d95b95559ea?source=rss------bug_bounty_writeup-5)
 - [$$$$ AD Connector Dashboard Takeover](https://0xshuvo.medium.com/ad-connector-dashboard-takeover-a5e3dd6d28ce?source=rss------bug_bounty_writeup-5)
-- [How I Got into Google’s Hall of Fame Using GitHub Recon](https://medium.com/@anonymousshetty2003/how-i-got-into-googles-hall-of-fame-using-github-recon-383cb88d056e?source=rss------bug_bounty_writeup-5)
 - [Women@ Kicks Off the Year with a Vision Board Event](https://www.hackerone.com/blog/women-kicks-year-vision-board-event)
 - [Gain Actionable, Data-backed Insights with HackerOne Recommendations](https://www.hackerone.com/blog/gain-actionable-data-backed-insights-hackerone-recommendations)
 - [Welcome, Hackbots: How AI Is Shaping the Future of Vulnerability Discovery](https://www.hackerone.com/blog/welcome-hackbots-how-ai-shaping-future-vulnerability-discovery)
