@@ -942,6 +942,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [# Exposure of Internal PHP Source Code Leading to Credential &amp; Sensitive Data Leakage](https://medium.com/@bevennyamande/exposure-of-internal-php-source-code-leading-to-credential-sensitive-data-leakage-209383740e1e?source=rss------bug_bounty_writeup-5)
 - [How to Write the Perfect Bug Bounty Report &lpar;With Examples!&rpar;](https://medium.com/@krishna9823420058/how-to-write-the-perfect-bug-bounty-report-with-examples-5d95b95559ea?source=rss------bug_bounty_writeup-5)
 - [$$$$ AD Connector Dashboard Takeover](https://0xshuvo.medium.com/ad-connector-dashboard-takeover-a5e3dd6d28ce?source=rss------bug_bounty_writeup-5)
+- [A New Approach to Proving Cybersecurity Value &lpar;That Isn’t ROI&rpar;](https://www.hackerone.com/blog/new-approach-proving-cybersecurity-value)
+- [Celebrating 10 Years of Partnership: Snap and HackerOne Reach $1M in Bounties](https://www.hackerone.com/blog/hackerone-and-snap-celebrating-10-years)
 - [Women@ Kicks Off the Year with a Vision Board Event](https://www.hackerone.com/blog/women-kicks-year-vision-board-event)
 - [Gain Actionable, Data-backed Insights with HackerOne Recommendations](https://www.hackerone.com/blog/gain-actionable-data-backed-insights-hackerone-recommendations)
 - [Welcome, Hackbots: How AI Is Shaping the Future of Vulnerability Discovery](https://www.hackerone.com/blog/welcome-hackbots-how-ai-shaping-future-vulnerability-discovery)
@@ -970,8 +972,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Why Retail and E-commerce Organizations Trust Security Researchers During the Holiday Shopping Season](https://www.hackerone.com/blog/why-retail-and-e-commerce-organizations-trust-security-researchers-during-holiday-shopping)
 - [Network and Information Systems Directive &lpar;NIS2&rpar; Compliance: What You Need to Know](https://www.hackerone.com/blog/network-and-information-systems-directive-nis2-compliance-what-you-need-know)
 - [5 Insights Attendees Gained from the Security@ World Tour](https://www.hackerone.com/blog/5-insights-attendees-gained-security-world-tour)
-- [Breaking Down the OWASP Top 10: Injection](https://www.hackerone.com/blog/breaking-down-owasp-top-10-injection)
-- [How Inadequate Authentication Logic Led to an MFA Bypass and Account Takeover](https://www.hackerone.com/blog/how-inadequate-authentication-logic-led-mfa-bypass-and-account-takeover)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
