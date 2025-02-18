@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [5 Solid bug bounty niches you can consider, ranked by opportunity and difficulty:](https://medium.com/@benardmulwa508/5-solid-bug-bounty-niches-you-can-consider-ranked-by-opportunity-and-difficulty-495b0b5ae66c?source=rss------bug_bounty_writeup-5)
 - [CORS + XSS : Chaining Vulnerabilities for Critical Data Extraction](https://medium.com/@blify/cors-xss-chaining-vulnerabilities-for-critical-data-extraction-aed9d8fbd814?source=rss------bug_bounty_writeup-5)
 - [VulnLab Trusted | Maverick Got Your Trusted Baby](https://infosecwriteups.com/vulnlab-trusted-maverick-got-your-trusted-baby-71420c15273e?source=rss----7b722bfd1b8d---4)
 - [I Pasted a Simple HTML Code on BookMyShow… and Got ₹1000 for It!](https://infosecwriteups.com/i-pasted-a-simple-html-code-on-bookmyshow-and-got-1000-for-it-26313f0e2115?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Symfonos2 Security Challenge](https://medium.com/@Y_Waheed/symfonos2-security-challenge-3d6a2a514f37?source=rss------bug_bounty_writeup-5)
 - [# Exposure of Internal PHP Source Code Leading to Credential &amp; Sensitive Data Leakage](https://medium.com/@bevennyamande/exposure-of-internal-php-source-code-leading-to-credential-sensitive-data-leakage-209383740e1e?source=rss------bug_bounty_writeup-5)
 - [How to Write the Perfect Bug Bounty Report &lpar;With Examples!&rpar;](https://medium.com/@krishna9823420058/how-to-write-the-perfect-bug-bounty-report-with-examples-5d95b95559ea?source=rss------bug_bounty_writeup-5)
-- [$$$$ AD Connector Dashboard Takeover](https://0xshuvo.medium.com/ad-connector-dashboard-takeover-a5e3dd6d28ce?source=rss------bug_bounty_writeup-5)
 - [A New Approach to Proving Cybersecurity Value &lpar;That Isn’t ROI&rpar;](https://www.hackerone.com/blog/new-approach-proving-cybersecurity-value)
 - [Celebrating 10 Years of Partnership: Snap and HackerOne Reach $1M in Bounties](https://www.hackerone.com/blog/hackerone-and-snap-celebrating-10-years)
 - [Women@ Kicks Off the Year with a Vision Board Event](https://www.hackerone.com/blog/women-kicks-year-vision-board-event)
