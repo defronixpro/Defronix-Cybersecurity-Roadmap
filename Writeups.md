@@ -1,6 +1,8 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Why You Need a Digital Garden &lpar;How to Start Guide&rpar;](https://infosecwriteups.com/why-you-need-a-digital-garden-how-to-start-guide-a1f30f818c75?source=rss----7b722bfd1b8d---4)
+- [No email verification leads to an Oauth account takeover.](https://infosecwriteups.com/no-email-verification-leads-to-an-oauth-account-takeover-02eb30496939?source=rss----7b722bfd1b8d---4)
 - [I Pasted a Simple HTML Code on BookMyShow… and Got ₹1000 for It!](https://infosecwriteups.com/i-pasted-a-simple-html-code-on-bookmyshow-and-got-1000-for-it-26313f0e2115?source=rss------bug_bounty_writeup-5)
 - [From Curiosity to $10,000: How I Found a Critical Account Takeover Bug](https://medium.com/@rahulgairola/from-curiosity-to-10-000-how-i-found-a-critical-account-takeover-bug-ca6dd169c36b?source=rss------bug_bounty_writeup-5)
 - [eWPT&lpar;v2&rpar; Review Without Course](https://infosecwriteups.com/ewpt-v2-review-without-course-be5416fe7384?source=rss----7b722bfd1b8d---4)
@@ -11,8 +13,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Metasploit Encoders and UPX Packer VS AntiMalware](https://infosecwriteups.com/metasploit-encoders-and-upx-packer-vs-antimalware-bee51b9fd1c2?source=rss----7b722bfd1b8d---4)
 - [How I Found My First Bug $$$](https://infosecwriteups.com/how-i-found-my-first-bug-c976920cbbe3?source=rss----7b722bfd1b8d---4)
 - [Here’s How I Found a Leaked Database Through Google Dorking](https://infosecwriteups.com/heres-how-i-found-a-leaked-database-through-google-dorking-6402ffecbacc?source=rss----7b722bfd1b8d---4)
-- [SSRF Advanced Methodology✨](https://infosecwriteups.com/ssrf-advanced-methodology-ecbe289886ef?source=rss----7b722bfd1b8d---4)
-- [AWS S3 Enumeration Basics](https://infosecwriteups.com/aws-s3-enumeration-basics-58b05d5f169b?source=rss----7b722bfd1b8d---4)
 - [Web Vulnerabilities 101: Understanding and Exploiting XSS](https://medium.com/@shadyfarouk1986/web-vulnerabilities-101-understanding-and-exploiting-xss-8026617bf396?source=rss------bug_bounty_writeup-5)
 - [Symfonos2 Security Challenge](https://medium.com/@Y_Waheed/symfonos2-security-challenge-3d6a2a514f37?source=rss------bug_bounty_writeup-5)
 - [# Exposure of Internal PHP Source Code Leading to Credential &amp; Sensitive Data Leakage](https://medium.com/@bevennyamande/exposure-of-internal-php-source-code-leading-to-credential-sensitive-data-leakage-209383740e1e?source=rss------bug_bounty_writeup-5)
