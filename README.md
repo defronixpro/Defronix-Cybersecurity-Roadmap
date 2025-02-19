@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Bug Bounty Methodology: Exploiting Dev &amp; Staging Environments for Maximum Bounty](https://medium.com/@zerodaystories/bug-bounty-methodology-exploiting-dev-staging-environments-for-maximum-bounty-414419faf744?source=rss------bug_bounty_writeup-5)
 - [How I found SQL injection vulnerability on the government organization website!](https://hiddendom.medium.com/how-i-found-sql-injection-vulnerability-on-the-government-organization-website-01533dba5158?source=rss------bug_bounty_writeup-5)
 - [Critical Security Vulnerability: Unauthenticated Access to /shipments/deleted Endpoint Leads to…](https://hackersatty.medium.com/critical-security-vulnerability-unauthenticated-access-to-shipments-deleted-endpoint-leads-to-7edb5d9b7f76?source=rss------bug_bounty_writeup-5)
 - [File Upload Restrictions Bypass in S3 Bucket](https://saeed0x1.medium.com/file-upload-restrictions-bypass-in-s3-bucket-87c2717664a3?source=rss------bug_bounty_writeup-5)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [VulnLab Trusted | Maverick Got Your Trusted Baby](https://infosecwriteups.com/vulnlab-trusted-maverick-got-your-trusted-baby-71420c15273e?source=rss----7b722bfd1b8d---4)
 - [I Pasted a Simple HTML Code on BookMyShow… and Got ₹1000 for It!](https://infosecwriteups.com/i-pasted-a-simple-html-code-on-bookmyshow-and-got-1000-for-it-26313f0e2115?source=rss----7b722bfd1b8d---4)
 - [How I Bypassed BookMyShow’s OTP Limit with Just a Space &amp; Got ₹1000 for It!](https://infosecwriteups.com/how-i-bypassed-bookmyshows-otp-limit-with-just-a-space-got-1000-for-it-70eab29fb6aa?source=rss------bug_bounty_writeup-5)
-- [I Pasted a Simple HTML Code on BookMyShow… and Got ₹1000 for It!](https://infosecwriteups.com/i-pasted-a-simple-html-code-on-bookmyshow-and-got-1000-for-it-26313f0e2115?source=rss------bug_bounty_writeup-5)
 - [A New Approach to Proving Cybersecurity Value &lpar;That Isn’t ROI&rpar;](https://www.hackerone.com/blog/new-approach-proving-cybersecurity-value)
 - [Celebrating 10 Years of Partnership: Snap and HackerOne Reach $1M in Bounties](https://www.hackerone.com/blog/hackerone-and-snap-celebrating-10-years)
 - [Women@ Kicks Off the Year with a Vision Board Event](https://www.hackerone.com/blog/women-kicks-year-vision-board-event)
