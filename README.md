@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [File Upload Restrictions Bypass in S3 Bucket](https://saeed0x1.medium.com/file-upload-restrictions-bypass-in-s3-bucket-87c2717664a3?source=rss------bug_bounty_writeup-5)
 - [Identify the AWS Account ID from a Public S3 Bucket](https://infosecwriteups.com/identify-the-aws-account-id-from-a-public-s3-bucket-68e07f5ba44f?source=rss----7b722bfd1b8d---4)
 - [OTP Login Rate Limit Bypass — The Easiest Bug for Beginners to Discover](https://infosecwriteups.com/otp-login-rate-limit-bypass-the-easiest-bug-for-beginners-to-discover-74cbf2432b72?source=rss----7b722bfd1b8d---4)
 - [How I Earned a Hall of Fame Spot at UNESCO by Bypassing 403 Forbidden](https://infosecwriteups.com/how-i-earned-a-hall-of-fame-spot-at-unesco-by-bypassing-403-forbidden-fdb2185383f7?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [I Pasted a Simple HTML Code on BookMyShow… and Got ₹1000 for It!](https://infosecwriteups.com/i-pasted-a-simple-html-code-on-bookmyshow-and-got-1000-for-it-26313f0e2115?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty | HTML Injection in Email Invitations](https://medium.com/@yog_sahare/bug-bounty-html-injection-in-email-invitations-d2062d8337ef?source=rss------bug_bounty_writeup-5)
 - [From Curiosity to $10,000: How I Found a Critical Account Takeover Bug](https://medium.com/@rahulgairola/from-curiosity-to-10-000-how-i-found-a-critical-account-takeover-bug-ca6dd169c36b?source=rss------bug_bounty_writeup-5)
-- [Web Vulnerabilities 101: Understanding and Exploiting XSS](https://medium.com/@shadyfarouk1986/web-vulnerabilities-101-understanding-and-exploiting-xss-8026617bf396?source=rss------bug_bounty_writeup-5)
 - [A New Approach to Proving Cybersecurity Value &lpar;That Isn’t ROI&rpar;](https://www.hackerone.com/blog/new-approach-proving-cybersecurity-value)
 - [Celebrating 10 Years of Partnership: Snap and HackerOne Reach $1M in Bounties](https://www.hackerone.com/blog/hackerone-and-snap-celebrating-10-years)
 - [Women@ Kicks Off the Year with a Vision Board Event](https://www.hackerone.com/blog/women-kicks-year-vision-board-event)
