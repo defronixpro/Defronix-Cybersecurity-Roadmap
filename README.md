@@ -922,7 +922,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [EASY P3 “Broken Access Control”](https://medium.com/@a0xtrojan/easy-p3-broken-access-control-a178dcda8c58?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Methodology: Exploiting Dev &amp; Staging Environments for Maximum Bounty](https://medium.com/@zerodaystories/bug-bounty-methodology-exploiting-dev-staging-environments-for-maximum-bounty-414419faf744?source=rss------bug_bounty_writeup-5)
 - [How I found SQL injection vulnerability on the government organization website!](https://hiddendom.medium.com/how-i-found-sql-injection-vulnerability-on-the-government-organization-website-01533dba5158?source=rss------bug_bounty_writeup-5)
 - [Critical Security Vulnerability: Unauthenticated Access to /shipments/deleted Endpoint Leads to…](https://hackersatty.medium.com/critical-security-vulnerability-unauthenticated-access-to-shipments-deleted-endpoint-leads-to-7edb5d9b7f76?source=rss------bug_bounty_writeup-5)
@@ -972,6 +971,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Why Retail and E-commerce Organizations Trust Security Researchers During the Holiday Shopping Season](https://www.hackerone.com/blog/why-retail-and-e-commerce-organizations-trust-security-researchers-during-holiday-shopping)
 - [Network and Information Systems Directive &lpar;NIS2&rpar; Compliance: What You Need to Know](https://www.hackerone.com/blog/network-and-information-systems-directive-nis2-compliance-what-you-need-know)
 - [5 Insights Attendees Gained from the Security@ World Tour](https://www.hackerone.com/blog/5-insights-attendees-gained-security-world-tour)
+- [Breaking Down the OWASP Top 10: Injection](https://www.hackerone.com/blog/breaking-down-owasp-top-10-injection)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
