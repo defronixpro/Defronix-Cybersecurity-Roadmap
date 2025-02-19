@@ -1,6 +1,8 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Identify the AWS Account ID from a Public S3 Bucket](https://infosecwriteups.com/identify-the-aws-account-id-from-a-public-s3-bucket-68e07f5ba44f?source=rss----7b722bfd1b8d---4)
+- [OTP Login Rate Limit Bypass — The Easiest Bug for Beginners to Discover](https://infosecwriteups.com/otp-login-rate-limit-bypass-the-easiest-bug-for-beginners-to-discover-74cbf2432b72?source=rss----7b722bfd1b8d---4)
 - [How I Earned a Hall of Fame Spot at UNESCO by Bypassing 403 Forbidden](https://infosecwriteups.com/how-i-earned-a-hall-of-fame-spot-at-unesco-by-bypassing-403-forbidden-fdb2185383f7?source=rss----7b722bfd1b8d---4)
 - [How I Earned a Hall of Fame Spot at UNESCO by Bypassing 403 Forbidden](https://infosecwriteups.com/how-i-earned-a-hall-of-fame-spot-at-unesco-by-bypassing-403-forbidden-fdb2185383f7?source=rss------bug_bounty_writeup-5)
 - [Unverified Email Change Flaw on Apps.Target.com: A Sneaky Account Takeover Trick](https://infosecwriteups.com/unverified-email-change-flaw-on-apps-target-com-a-sneaky-account-takeover-trick-2d3402223f4f?source=rss----7b722bfd1b8d---4)
@@ -14,8 +16,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [CORS + XSS : Chaining Vulnerabilities for Critical Data Extraction](https://medium.com/@blify/cors-xss-chaining-vulnerabilities-for-critical-data-extraction-aed9d8fbd814?source=rss------bug_bounty_writeup-5)
 - [VulnLab Trusted | Maverick Got Your Trusted Baby](https://infosecwriteups.com/vulnlab-trusted-maverick-got-your-trusted-baby-71420c15273e?source=rss----7b722bfd1b8d---4)
 - [I Pasted a Simple HTML Code on BookMyShow… and Got ₹1000 for It!](https://infosecwriteups.com/i-pasted-a-simple-html-code-on-bookmyshow-and-got-1000-for-it-26313f0e2115?source=rss----7b722bfd1b8d---4)
-- [HTMLI to ATO leads to $$$ bounty](https://infosecwriteups.com/htmli-to-ato-leads-to-bounty-9725cb23a67c?source=rss----7b722bfd1b8d---4)
-- [Simulating Phishing Attacks with Gophish: A Comprehensive Guide](https://infosecwriteups.com/simulating-phishing-attacks-with-gophish-a-comprehensive-guide-3f4b709f76b6?source=rss----7b722bfd1b8d---4)
 - [How I Bypassed BookMyShow’s OTP Limit with Just a Space &amp; Got ₹1000 for It!](https://infosecwriteups.com/how-i-bypassed-bookmyshows-otp-limit-with-just-a-space-got-1000-for-it-70eab29fb6aa?source=rss------bug_bounty_writeup-5)
 - [I Pasted a Simple HTML Code on BookMyShow… and Got ₹1000 for It!](https://infosecwriteups.com/i-pasted-a-simple-html-code-on-bookmyshow-and-got-1000-for-it-26313f0e2115?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty | HTML Injection in Email Invitations](https://medium.com/@yog_sahare/bug-bounty-html-injection-in-email-invitations-d2062d8337ef?source=rss------bug_bounty_writeup-5)
