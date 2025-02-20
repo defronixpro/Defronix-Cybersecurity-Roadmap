@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [$1000 Bug Bounty Guide: Uncovering Hidden Vulnerabilities Through JavaScript Analysis](https://hackersatty.medium.com/1000-bug-bounty-guide-uncovering-hidden-vulnerabilities-through-javascript-analysis-c3f1a698b91b?source=rss------bug_bounty_writeup-5)
 - [Mastering Multiple Datasources in Spring Boot: The Ultimate Guide](https://infosecwriteups.com/mastering-multiple-datasources-in-spring-boot-the-ultimate-guide-5450dad143d1?source=rss----7b722bfd1b8d---4)
 - [Windows Internals — Alternate Data Streams](https://infosecwriteups.com/windows-internals-alternate-data-streams-ead750942196?source=rss----7b722bfd1b8d---4)
 - [Enhance your Incident Investigation and Response capabilities with Palo Alto Cortex XDR](https://infosecwriteups.com/enhance-your-incident-investigation-and-response-capabilities-with-palo-alto-cortex-xdr-4a2136df6672?source=rss----7b722bfd1b8d---4)
@@ -19,7 +20,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How I Earned a Hall of Fame Spot at UNESCO by Bypassing 403 Forbidden](https://infosecwriteups.com/how-i-earned-a-hall-of-fame-spot-at-unesco-by-bypassing-403-forbidden-fdb2185383f7?source=rss------bug_bounty_writeup-5)
 - [The Quickest Way To Learn XSS In 2025!](https://medium.com/@bombhajohn/how-i-learned-xss-e593a9b956e3?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty in 2025: Part 3 — Investigating 4 Open Redirect Reports at HackerOne, So You Don’t Have…](https://medium.com/@halfcircassian/bug-bounty-in-2025-part-3-investigating-4-open-redirect-reports-at-hackerone-so-you-dont-have-499948a0e6b1?source=rss------bug_bounty_writeup-5)
-- [5 Solid bug bounty niches you can consider, ranked by opportunity and difficulty:](https://medium.com/@benardmulwa508/5-solid-bug-bounty-niches-you-can-consider-ranked-by-opportunity-and-difficulty-495b0b5ae66c?source=rss------bug_bounty_writeup-5)
 - [A New Approach to Proving Cybersecurity Value &lpar;That Isn’t ROI&rpar;](https://www.hackerone.com/blog/new-approach-proving-cybersecurity-value)
 - [Celebrating 10 Years of Partnership: Snap and HackerOne Reach $1M in Bounties](https://www.hackerone.com/blog/hackerone-and-snap-celebrating-10-years)
 - [Women@ Kicks Off the Year with a Vision Board Event](https://www.hackerone.com/blog/women-kicks-year-vision-board-event)
