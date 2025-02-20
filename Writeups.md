@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [EASY P3 “Broken Access Control”](https://medium.com/@a0xtrojan/easy-p3-broken-access-control-7c28702cb1ee?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Methodology: Exploiting Dev &amp; Staging Environments for Maximum Bounty](https://medium.com/@zerodaystories/bug-bounty-methodology-exploiting-dev-staging-environments-for-maximum-bounty-414419faf744?source=rss------bug_bounty_writeup-5)
 - [How I found SQL injection vulnerability on the government organization website!](https://hiddendom.medium.com/how-i-found-sql-injection-vulnerability-on-the-government-organization-website-01533dba5158?source=rss------bug_bounty_writeup-5)
 - [Critical Security Vulnerability: Unauthenticated Access to /shipments/deleted Endpoint Leads to…](https://hackersatty.medium.com/critical-security-vulnerability-unauthenticated-access-to-shipments-deleted-endpoint-leads-to-7edb5d9b7f76?source=rss------bug_bounty_writeup-5)
@@ -17,7 +18,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [The Quickest Way To Learn XSS In 2025!](https://medium.com/@bombhajohn/how-i-learned-xss-e593a9b956e3?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty in 2025: Part 3 — Investigating 4 Open Redirect Reports at HackerOne, So You Don’t Have…](https://medium.com/@halfcircassian/bug-bounty-in-2025-part-3-investigating-4-open-redirect-reports-at-hackerone-so-you-dont-have-499948a0e6b1?source=rss------bug_bounty_writeup-5)
 - [5 Solid bug bounty niches you can consider, ranked by opportunity and difficulty:](https://medium.com/@benardmulwa508/5-solid-bug-bounty-niches-you-can-consider-ranked-by-opportunity-and-difficulty-495b0b5ae66c?source=rss------bug_bounty_writeup-5)
-- [CORS + XSS : Chaining Vulnerabilities for Critical Data Extraction](https://medium.com/@blify/cors-xss-chaining-vulnerabilities-for-critical-data-extraction-aed9d8fbd814?source=rss------bug_bounty_writeup-5)
 - [VulnLab Trusted | Maverick Got Your Trusted Baby](https://infosecwriteups.com/vulnlab-trusted-maverick-got-your-trusted-baby-71420c15273e?source=rss----7b722bfd1b8d---4)
 - [I Pasted a Simple HTML Code on BookMyShow… and Got ₹1000 for It!](https://infosecwriteups.com/i-pasted-a-simple-html-code-on-bookmyshow-and-got-1000-for-it-26313f0e2115?source=rss----7b722bfd1b8d---4)
 - [A New Approach to Proving Cybersecurity Value &lpar;That Isn’t ROI&rpar;](https://www.hackerone.com/blog/new-approach-proving-cybersecurity-value)
