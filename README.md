@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I Found 5 Reflected XSS in a Public Program](https://medium.com/@mahmodziad40/how-i-found-5-reflected-xss-in-a-public-program-44b168ae6526?source=rss------bug_bounty_writeup-5)
+- [API Loophole: How I Bypassed CAPTCHA to Create Unlimited Accounts](https://medium.com/@rahulgairola/api-loophole-how-i-bypassed-captcha-to-create-unlimited-accounts-0d21de1f96e2?source=rss------bug_bounty_writeup-5)
 - [Easiest Vulnerability $200 You can test it under 2 minutes](https://progprnv.medium.com/easiest-vulnerability-200-you-can-test-it-under-2-minutes-2f45b4a0c785?source=rss------bug_bounty_writeup-5)
 - [My First Bug Discovery in Facebook Bug Bounty 2025](https://medium.com/@bayusetb/my-first-bug-discovery-in-facebook-bug-bounty-2025-728b14eaf6cc?source=rss------bug_bounty_writeup-5)
 - [Mastering Multi-Cloud Security: Strategies to Overcome Challenges &amp; Maximize Protection](https://infosecwriteups.com/mastering-multi-cloud-security-strategies-to-overcome-challenges-maximize-protection-1ea7b5b82736?source=rss----7b722bfd1b8d---4)
@@ -939,8 +941,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How easy is it to earn from bug bounties? The truth behind ethical hacking rewards](https://infosecwriteups.com/how-easy-is-it-to-earn-from-bug-bounties-the-truth-behind-ethical-hacking-rewards-1a88e1f58444?source=rss----7b722bfd1b8d---4)
 - [EASY P3 “Broken Access Control”](https://medium.com/@a0xtrojan/easy-p3-broken-access-control-7c28702cb1ee?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Methodology: Exploiting Dev &amp; Staging Environments for Maximum Bounty](https://medium.com/@zerodaystories/bug-bounty-methodology-exploiting-dev-staging-environments-for-maximum-bounty-414419faf744?source=rss------bug_bounty_writeup-5)
-- [How I found SQL injection vulnerability on the government organization website!](https://hiddendom.medium.com/how-i-found-sql-injection-vulnerability-on-the-government-organization-website-01533dba5158?source=rss------bug_bounty_writeup-5)
-- [Critical Security Vulnerability: Unauthenticated Access to /shipments/deleted Endpoint Leads to…](https://hackersatty.medium.com/critical-security-vulnerability-unauthenticated-access-to-shipments-deleted-endpoint-leads-to-7edb5d9b7f76?source=rss------bug_bounty_writeup-5)
 - [A New Approach to Proving Cybersecurity Value &lpar;That Isn’t ROI&rpar;](https://www.hackerone.com/blog/new-approach-proving-cybersecurity-value)
 - [Celebrating 10 Years of Partnership: Snap and HackerOne Reach $1M in Bounties](https://www.hackerone.com/blog/hackerone-and-snap-celebrating-10-years)
 - [Women@ Kicks Off the Year with a Vision Board Event](https://www.hackerone.com/blog/women-kicks-year-vision-board-event)
