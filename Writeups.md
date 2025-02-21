@@ -1,6 +1,9 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Mastering Multi-Cloud Security: Strategies to Overcome Challenges &amp; Maximize Protection](https://infosecwriteups.com/mastering-multi-cloud-security-strategies-to-overcome-challenges-maximize-protection-1ea7b5b82736?source=rss----7b722bfd1b8d---4)
+- [Setting up Malware Analysis Lab — Part 1](https://infosecwriteups.com/setting-up-malware-analysis-lab-part-1-61ec4fb9c7f0?source=rss----7b722bfd1b8d---4)
+- [$200 Easy Bounty: Improper Rate Limiting Exploit](https://infosecwriteups.com/200-easy-bounty-improper-rate-limiting-exploit-8822aa2dbe97?source=rss----7b722bfd1b8d---4)
 - [Escape | VulnLab — Ever Heard of Windows Kiosk Mode? No? Well, It’s Time to Learn!](https://infosecwriteups.com/escape-vulnlab-ever-heard-of-windows-kiosk-mode-no-well-its-time-to-learn-37c4d90fcacd?source=rss----7b722bfd1b8d---4)
 - [₹1,000 in 10 mins: BookMyShow’s Open redirect bug!](https://infosecwriteups.com/1-000-in-10-mins-bookmyshows-open-redirect-bug-914f47590ecf?source=rss----7b722bfd1b8d---4)
 - [Open redirect in logout](https://medium.com/@muhmoud.barket/open-redirect-in-logout-53656dbb922c?source=rss------bug_bounty_writeup-5)
@@ -11,9 +14,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Enhance your Incident Investigation and Response capabilities with Palo Alto Cortex XDR](https://infosecwriteups.com/enhance-your-incident-investigation-and-response-capabilities-with-palo-alto-cortex-xdr-4a2136df6672?source=rss----7b722bfd1b8d---4)
 - [Active Directory Exploit Basics: SMBClient](https://infosecwriteups.com/active-directory-exploit-basics-smbclient-1bf41665e53d?source=rss----7b722bfd1b8d---4)
 - [How easy is it to earn from bug bounties? The truth behind ethical hacking rewards](https://infosecwriteups.com/how-easy-is-it-to-earn-from-bug-bounties-the-truth-behind-ethical-hacking-rewards-1a88e1f58444?source=rss----7b722bfd1b8d---4)
-- [How i got a fileupload vulnerability so easily](https://infosecwriteups.com/how-i-got-a-fileupload-vulnerability-so-easily-a659421a0523?source=rss----7b722bfd1b8d---4)
-- [API Endpoints Discovery using Kiterunner](https://infosecwriteups.com/api-endpoints-discovery-using-kiterunner-ded82e092543?source=rss----7b722bfd1b8d---4)
-- [LFI Advanced Methodology by Abhijeet](https://infosecwriteups.com/lfi-advanced-methodology-by-abhijeet-6663bede44c6?source=rss----7b722bfd1b8d---4)
 - [EASY P3 “Broken Access Control”](https://medium.com/@a0xtrojan/easy-p3-broken-access-control-7c28702cb1ee?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Methodology: Exploiting Dev &amp; Staging Environments for Maximum Bounty](https://medium.com/@zerodaystories/bug-bounty-methodology-exploiting-dev-staging-environments-for-maximum-bounty-414419faf744?source=rss------bug_bounty_writeup-5)
 - [How I found SQL injection vulnerability on the government organization website!](https://hiddendom.medium.com/how-i-found-sql-injection-vulnerability-on-the-government-organization-website-01533dba5158?source=rss------bug_bounty_writeup-5)
