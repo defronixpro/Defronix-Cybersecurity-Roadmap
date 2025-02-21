@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [My First Bug Discovery in Facebook Bug Bounty 2025](https://medium.com/@bayusetb/my-first-bug-discovery-in-facebook-bug-bounty-2025-728b14eaf6cc?source=rss------bug_bounty_writeup-5)
 - [Mastering Multi-Cloud Security: Strategies to Overcome Challenges &amp; Maximize Protection](https://infosecwriteups.com/mastering-multi-cloud-security-strategies-to-overcome-challenges-maximize-protection-1ea7b5b82736?source=rss----7b722bfd1b8d---4)
 - [Setting up Malware Analysis Lab — Part 1](https://infosecwriteups.com/setting-up-malware-analysis-lab-part-1-61ec4fb9c7f0?source=rss----7b722bfd1b8d---4)
 - [$200 Easy Bounty: Improper Rate Limiting Exploit](https://infosecwriteups.com/200-easy-bounty-improper-rate-limiting-exploit-8822aa2dbe97?source=rss----7b722bfd1b8d---4)
@@ -19,7 +20,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How I found SQL injection vulnerability on the government organization website!](https://hiddendom.medium.com/how-i-found-sql-injection-vulnerability-on-the-government-organization-website-01533dba5158?source=rss------bug_bounty_writeup-5)
 - [Critical Security Vulnerability: Unauthenticated Access to /shipments/deleted Endpoint Leads to…](https://hackersatty.medium.com/critical-security-vulnerability-unauthenticated-access-to-shipments-deleted-endpoint-leads-to-7edb5d9b7f76?source=rss------bug_bounty_writeup-5)
 - [File Upload Restrictions Bypass in S3 Bucket](https://saeed0x1.medium.com/file-upload-restrictions-bypass-in-s3-bucket-87c2717664a3?source=rss------bug_bounty_writeup-5)
-- [How I Earned a Hall of Fame Spot at UNESCO by Bypassing 403 Forbidden](https://infosecwriteups.com/how-i-earned-a-hall-of-fame-spot-at-unesco-by-bypassing-403-forbidden-fdb2185383f7?source=rss------bug_bounty_writeup-5)
 - [A New Approach to Proving Cybersecurity Value &lpar;That Isn’t ROI&rpar;](https://www.hackerone.com/blog/new-approach-proving-cybersecurity-value)
 - [Celebrating 10 Years of Partnership: Snap and HackerOne Reach $1M in Bounties](https://www.hackerone.com/blog/hackerone-and-snap-celebrating-10-years)
 - [Women@ Kicks Off the Year with a Vision Board Event](https://www.hackerone.com/blog/women-kicks-year-vision-board-event)
