@@ -11,7 +11,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [$200 Easy Bounty: Improper Rate Limiting Exploit](https://infosecwriteups.com/200-easy-bounty-improper-rate-limiting-exploit-8822aa2dbe97?source=rss----7b722bfd1b8d---4)
 - [Escape | VulnLab — Ever Heard of Windows Kiosk Mode? No? Well, It’s Time to Learn!](https://infosecwriteups.com/escape-vulnlab-ever-heard-of-windows-kiosk-mode-no-well-its-time-to-learn-37c4d90fcacd?source=rss----7b722bfd1b8d---4)
 - [₹1,000 in 10 mins: BookMyShow’s Open redirect bug!](https://infosecwriteups.com/1-000-in-10-mins-bookmyshows-open-redirect-bug-914f47590ecf?source=rss----7b722bfd1b8d---4)
-- [Open redirect in logout](https://medium.com/@muhmoud.barket/open-redirect-in-logout-53656dbb922c?source=rss------bug_bounty_writeup-5)
+- [Open redirect in logout](https://medium.com/@brbr0s/open-redirect-in-logout-53656dbb922c?source=rss------bug_bounty_writeup-5)
 - [UUID Injection: 0-Click Superadmin ATO](https://medium.com/@RekoJR/uuid-injection-0-click-superadmin-ato-3dc46a19c9ad?source=rss------bug_bounty_writeup-5)
 - [$1000 Bug Bounty Guide: Uncovering Hidden Vulnerabilities Through JavaScript Analysis](https://hackersatty.medium.com/1000-bug-bounty-guide-uncovering-hidden-vulnerabilities-through-javascript-analysis-c3f1a698b91b?source=rss------bug_bounty_writeup-5)
 - [Mastering Multiple Datasources in Spring Boot: The Ultimate Guide](https://infosecwriteups.com/mastering-multiple-datasources-in-spring-boot-the-ultimate-guide-5450dad143d1?source=rss----7b722bfd1b8d---4)
