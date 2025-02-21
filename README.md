@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Escape | VulnLab — Ever Heard of Windows Kiosk Mode? No? Well, It’s Time to Learn!](https://infosecwriteups.com/escape-vulnlab-ever-heard-of-windows-kiosk-mode-no-well-its-time-to-learn-37c4d90fcacd?source=rss----7b722bfd1b8d---4)
+- [₹1,000 in 10 mins: BookMyShow’s Open redirect bug!](https://infosecwriteups.com/1-000-in-10-mins-bookmyshows-open-redirect-bug-914f47590ecf?source=rss----7b722bfd1b8d---4)
 - [Open redirect in logout](https://medium.com/@muhmoud.barket/open-redirect-in-logout-53656dbb922c?source=rss------bug_bounty_writeup-5)
 - [UUID Injection: 0-Click Superadmin ATO](https://medium.com/@RekoJR/uuid-injection-0-click-superadmin-ato-3dc46a19c9ad?source=rss------bug_bounty_writeup-5)
 - [$1000 Bug Bounty Guide: Uncovering Hidden Vulnerabilities Through JavaScript Analysis](https://hackersatty.medium.com/1000-bug-bounty-guide-uncovering-hidden-vulnerabilities-through-javascript-analysis-c3f1a698b91b?source=rss------bug_bounty_writeup-5)
@@ -938,8 +940,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How I found SQL injection vulnerability on the government organization website!](https://hiddendom.medium.com/how-i-found-sql-injection-vulnerability-on-the-government-organization-website-01533dba5158?source=rss------bug_bounty_writeup-5)
 - [Critical Security Vulnerability: Unauthenticated Access to /shipments/deleted Endpoint Leads to…](https://hackersatty.medium.com/critical-security-vulnerability-unauthenticated-access-to-shipments-deleted-endpoint-leads-to-7edb5d9b7f76?source=rss------bug_bounty_writeup-5)
 - [File Upload Restrictions Bypass in S3 Bucket](https://saeed0x1.medium.com/file-upload-restrictions-bypass-in-s3-bucket-87c2717664a3?source=rss------bug_bounty_writeup-5)
-- [Identify the AWS Account ID from a Public S3 Bucket](https://infosecwriteups.com/identify-the-aws-account-id-from-a-public-s3-bucket-68e07f5ba44f?source=rss----7b722bfd1b8d---4)
-- [OTP Login Rate Limit Bypass — The Easiest Bug for Beginners to Discover](https://infosecwriteups.com/otp-login-rate-limit-bypass-the-easiest-bug-for-beginners-to-discover-74cbf2432b72?source=rss----7b722bfd1b8d---4)
 - [How I Earned a Hall of Fame Spot at UNESCO by Bypassing 403 Forbidden](https://infosecwriteups.com/how-i-earned-a-hall-of-fame-spot-at-unesco-by-bypassing-403-forbidden-fdb2185383f7?source=rss------bug_bounty_writeup-5)
 - [A New Approach to Proving Cybersecurity Value &lpar;That Isn’t ROI&rpar;](https://www.hackerone.com/blog/new-approach-proving-cybersecurity-value)
 - [Celebrating 10 Years of Partnership: Snap and HackerOne Reach $1M in Bounties](https://www.hackerone.com/blog/hackerone-and-snap-celebrating-10-years)
