@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Installing and Using Nuclei for Automated Security Scanning](https://abhayal.medium.com/installing-and-using-nuclei-for-automated-security-scanning-1b4f53de3ae5?source=rss------bug_bounty_writeup-5)
 - [How I Found 5 Reflected XSS in a Public Program](https://medium.com/@mahmodziad40/how-i-found-5-reflected-xss-in-a-public-program-44b168ae6526?source=rss------bug_bounty_writeup-5)
 - [API Loophole: How I Bypassed CAPTCHA to Create Unlimited Accounts](https://medium.com/@rahulgairola/api-loophole-how-i-bypassed-captcha-to-create-unlimited-accounts-0d21de1f96e2?source=rss------bug_bounty_writeup-5)
 - [Easiest Vulnerability $200 You can test it under 2 minutes](https://progprnv.medium.com/easiest-vulnerability-200-you-can-test-it-under-2-minutes-2f45b4a0c785?source=rss------bug_bounty_writeup-5)
@@ -19,7 +20,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Active Directory Exploit Basics: SMBClient](https://infosecwriteups.com/active-directory-exploit-basics-smbclient-1bf41665e53d?source=rss----7b722bfd1b8d---4)
 - [How easy is it to earn from bug bounties? The truth behind ethical hacking rewards](https://infosecwriteups.com/how-easy-is-it-to-earn-from-bug-bounties-the-truth-behind-ethical-hacking-rewards-1a88e1f58444?source=rss----7b722bfd1b8d---4)
 - [EASY P3 “Broken Access Control”](https://medium.com/@a0xtrojan/easy-p3-broken-access-control-7c28702cb1ee?source=rss------bug_bounty_writeup-5)
-- [Bug Bounty Methodology: Exploiting Dev &amp; Staging Environments for Maximum Bounty](https://medium.com/@zerodaystories/bug-bounty-methodology-exploiting-dev-staging-environments-for-maximum-bounty-414419faf744?source=rss------bug_bounty_writeup-5)
 - [A New Approach to Proving Cybersecurity Value &lpar;That Isn’t ROI&rpar;](https://www.hackerone.com/blog/new-approach-proving-cybersecurity-value)
 - [Celebrating 10 Years of Partnership: Snap and HackerOne Reach $1M in Bounties](https://www.hackerone.com/blog/hackerone-and-snap-celebrating-10-years)
 - [Women@ Kicks Off the Year with a Vision Board Event](https://www.hackerone.com/blog/women-kicks-year-vision-board-event)
