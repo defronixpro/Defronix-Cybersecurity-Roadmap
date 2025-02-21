@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Easiest Vulnerability $200 You can test it under 2 minutes](https://progprnv.medium.com/easiest-vulnerability-200-you-can-test-it-under-2-minutes-2f45b4a0c785?source=rss------bug_bounty_writeup-5)
 - [My First Bug Discovery in Facebook Bug Bounty 2025](https://medium.com/@bayusetb/my-first-bug-discovery-in-facebook-bug-bounty-2025-728b14eaf6cc?source=rss------bug_bounty_writeup-5)
 - [Mastering Multi-Cloud Security: Strategies to Overcome Challenges &amp; Maximize Protection](https://infosecwriteups.com/mastering-multi-cloud-security-strategies-to-overcome-challenges-maximize-protection-1ea7b5b82736?source=rss----7b722bfd1b8d---4)
 - [Setting up Malware Analysis Lab — Part 1](https://infosecwriteups.com/setting-up-malware-analysis-lab-part-1-61ec4fb9c7f0?source=rss----7b722bfd1b8d---4)
@@ -940,7 +941,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Bug Bounty Methodology: Exploiting Dev &amp; Staging Environments for Maximum Bounty](https://medium.com/@zerodaystories/bug-bounty-methodology-exploiting-dev-staging-environments-for-maximum-bounty-414419faf744?source=rss------bug_bounty_writeup-5)
 - [How I found SQL injection vulnerability on the government organization website!](https://hiddendom.medium.com/how-i-found-sql-injection-vulnerability-on-the-government-organization-website-01533dba5158?source=rss------bug_bounty_writeup-5)
 - [Critical Security Vulnerability: Unauthenticated Access to /shipments/deleted Endpoint Leads to…](https://hackersatty.medium.com/critical-security-vulnerability-unauthenticated-access-to-shipments-deleted-endpoint-leads-to-7edb5d9b7f76?source=rss------bug_bounty_writeup-5)
-- [File Upload Restrictions Bypass in S3 Bucket](https://saeed0x1.medium.com/file-upload-restrictions-bypass-in-s3-bucket-87c2717664a3?source=rss------bug_bounty_writeup-5)
 - [A New Approach to Proving Cybersecurity Value &lpar;That Isn’t ROI&rpar;](https://www.hackerone.com/blog/new-approach-proving-cybersecurity-value)
 - [Celebrating 10 Years of Partnership: Snap and HackerOne Reach $1M in Bounties](https://www.hackerone.com/blog/hackerone-and-snap-celebrating-10-years)
 - [Women@ Kicks Off the Year with a Vision Board Event](https://www.hackerone.com/blog/women-kicks-year-vision-board-event)
