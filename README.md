@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Bug Bounty Restart- Phase 1: Preparation &amp; Mindset](https://infosecwriteups.com/bug-bounty-restart-phase-1-preparation-mindset-57ca877a9278?source=rss------bug_bounty_writeup-5)
 - [Breaking Boundaries: My Journey from limited Stored XSS to Open Redirect &amp; a Sneaky CSRF Referrer…](https://medium.com/@0xNayelx/breaking-boundaries-my-journey-from-limited-stored-xss-to-open-redirect-a-sneaky-csrf-referrer-6dc939cf7aed?source=rss------bug_bounty_writeup-5)
 - [My Approach to Bypassing Strong WAF in XSS](https://medium.com/@randixploit.shtml/my-approach-to-bypassing-strong-waf-in-xss-0c2e0864043b?source=rss------bug_bounty_writeup-5)
 - [What’s the Secret? Unpacking Command-Line Argument Manipulation](https://infosecwriteups.com/whats-the-secret-unpacking-command-line-argument-manipulation-fd215510191a?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Easiest Vulnerability $200 You can test it under 2 minutes](https://progprnv.medium.com/easiest-vulnerability-200-you-can-test-it-under-2-minutes-2f45b4a0c785?source=rss------bug_bounty_writeup-5)
 - [My First Bug Discovery in Facebook Bug Bounty 2025](https://medium.com/@bayusetb/my-first-bug-discovery-in-facebook-bug-bounty-2025-728b14eaf6cc?source=rss------bug_bounty_writeup-5)
 - [Open redirect in logout](https://medium.com/@brbr0s/open-redirect-in-logout-53656dbb922c?source=rss------bug_bounty_writeup-5)
-- [UUID Injection: 0-Click Superadmin ATO](https://medium.com/@RekoJR/uuid-injection-0-click-superadmin-ato-3dc46a19c9ad?source=rss------bug_bounty_writeup-5)
 - [A New Approach to Proving Cybersecurity Value &lpar;That Isn’t ROI&rpar;](https://www.hackerone.com/blog/new-approach-proving-cybersecurity-value)
 - [Celebrating 10 Years of Partnership: Snap and HackerOne Reach $1M in Bounties](https://www.hackerone.com/blog/hackerone-and-snap-celebrating-10-years)
 - [Women@ Kicks Off the Year with a Vision Board Event](https://www.hackerone.com/blog/women-kicks-year-vision-board-event)
