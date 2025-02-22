@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [My Approach to Bypassing Strong WAF in XSS](https://medium.com/@randixploit.shtml/my-approach-to-bypassing-strong-waf-in-xss-0c2e0864043b?source=rss------bug_bounty_writeup-5)
 - [What’s the Secret? Unpacking Command-Line Argument Manipulation](https://infosecwriteups.com/whats-the-secret-unpacking-command-line-argument-manipulation-fd215510191a?source=rss----7b722bfd1b8d---4)
 - [Why Knowing How to Query is an Essential Cybersecurity Skill](https://infosecwriteups.com/why-knowing-how-to-query-is-an-essential-cybersecurity-skill-ce22f86226eb?source=rss----7b722bfd1b8d---4)
 - [“Decentralized AI: How Federated Learning is changing the security game”](https://infosecwriteups.com/decentralized-ai-how-federated-learning-is-changing-the-security-game-1fa46915fc92?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Open redirect in logout](https://medium.com/@brbr0s/open-redirect-in-logout-53656dbb922c?source=rss------bug_bounty_writeup-5)
 - [UUID Injection: 0-Click Superadmin ATO](https://medium.com/@RekoJR/uuid-injection-0-click-superadmin-ato-3dc46a19c9ad?source=rss------bug_bounty_writeup-5)
 - [$1000 Bug Bounty Guide: Uncovering Hidden Vulnerabilities Through JavaScript Analysis](https://hackersatty.medium.com/1000-bug-bounty-guide-uncovering-hidden-vulnerabilities-through-javascript-analysis-c3f1a698b91b?source=rss------bug_bounty_writeup-5)
-- [EASY P3 “Broken Access Control”](https://medium.com/@a0xtrojan/easy-p3-broken-access-control-7c28702cb1ee?source=rss------bug_bounty_writeup-5)
 - [A New Approach to Proving Cybersecurity Value &lpar;That Isn’t ROI&rpar;](https://www.hackerone.com/blog/new-approach-proving-cybersecurity-value)
 - [Celebrating 10 Years of Partnership: Snap and HackerOne Reach $1M in Bounties](https://www.hackerone.com/blog/hackerone-and-snap-celebrating-10-years)
 - [Women@ Kicks Off the Year with a Vision Board Event](https://www.hackerone.com/blog/women-kicks-year-vision-board-event)
