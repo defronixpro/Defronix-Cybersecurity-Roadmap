@@ -1,6 +1,10 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [$100 worth Open Redirect Automation](https://infosecwriteups.com/100-worth-open-redirect-automation-3e2f9e36bade?source=rss----7b722bfd1b8d---4)
+- [HackTheBox Bizness Writeup](https://infosecwriteups.com/hackthebox-bizness-writeup-68713a41f98b?source=rss----7b722bfd1b8d---4)
+- [THM — Lookup](https://infosecwriteups.com/thm-lookup-bd657afc2cbd?source=rss----7b722bfd1b8d---4)
+- [Turning XSS into Account Takeover &lpar;ATO&rpar;: How to Level Up Your Exploit $$$](https://infosecwriteups.com/turning-xss-into-account-takeover-ato-how-to-level-up-your-exploit-16126c271476?source=rss----7b722bfd1b8d---4)
 - [Installing and Using Nuclei for Automated Security Scanning](https://abhayal.medium.com/installing-and-using-nuclei-for-automated-security-scanning-1b4f53de3ae5?source=rss------bug_bounty_writeup-5)
 - [How I Found 5 Reflected XSS in a Public Program](https://medium.com/@mahmodziad40/how-i-found-5-reflected-xss-in-a-public-program-44b168ae6526?source=rss------bug_bounty_writeup-5)
 - [API Loophole: How I Bypassed CAPTCHA to Create Unlimited Accounts](https://medium.com/@rahulgairola/api-loophole-how-i-bypassed-captcha-to-create-unlimited-accounts-0d21de1f96e2?source=rss------bug_bounty_writeup-5)
@@ -15,10 +19,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [UUID Injection: 0-Click Superadmin ATO](https://medium.com/@RekoJR/uuid-injection-0-click-superadmin-ato-3dc46a19c9ad?source=rss------bug_bounty_writeup-5)
 - [$1000 Bug Bounty Guide: Uncovering Hidden Vulnerabilities Through JavaScript Analysis](https://hackersatty.medium.com/1000-bug-bounty-guide-uncovering-hidden-vulnerabilities-through-javascript-analysis-c3f1a698b91b?source=rss------bug_bounty_writeup-5)
 - [Mastering Multiple Datasources in Spring Boot: The Ultimate Guide](https://infosecwriteups.com/mastering-multiple-datasources-in-spring-boot-the-ultimate-guide-5450dad143d1?source=rss----7b722bfd1b8d---4)
-- [Windows Internals — Alternate Data Streams](https://infosecwriteups.com/windows-internals-alternate-data-streams-ead750942196?source=rss----7b722bfd1b8d---4)
-- [Enhance your Incident Investigation and Response capabilities with Palo Alto Cortex XDR](https://infosecwriteups.com/enhance-your-incident-investigation-and-response-capabilities-with-palo-alto-cortex-xdr-4a2136df6672?source=rss----7b722bfd1b8d---4)
-- [Active Directory Exploit Basics: SMBClient](https://infosecwriteups.com/active-directory-exploit-basics-smbclient-1bf41665e53d?source=rss----7b722bfd1b8d---4)
-- [How easy is it to earn from bug bounties? The truth behind ethical hacking rewards](https://infosecwriteups.com/how-easy-is-it-to-earn-from-bug-bounties-the-truth-behind-ethical-hacking-rewards-1a88e1f58444?source=rss----7b722bfd1b8d---4)
 - [EASY P3 “Broken Access Control”](https://medium.com/@a0xtrojan/easy-p3-broken-access-control-7c28702cb1ee?source=rss------bug_bounty_writeup-5)
 - [A New Approach to Proving Cybersecurity Value &lpar;That Isn’t ROI&rpar;](https://www.hackerone.com/blog/new-approach-proving-cybersecurity-value)
 - [Celebrating 10 Years of Partnership: Snap and HackerOne Reach $1M in Bounties](https://www.hackerone.com/blog/hackerone-and-snap-celebrating-10-years)
