@@ -922,6 +922,11 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Try Fuzzing Backup Files During Manual Pentesting](https://medium.com/@randixploit.shtml/try-fuzzing-backup-files-during-manual-pentesting-d81dce7c223b?source=rss------bug_bounty_writeup-5)
+- [Admin Account Takeover in Moodle!](https://medium.com/@Nightbloodz/admin-account-takeover-in-moodle-093708a0f749?source=rss------bug_bounty_writeup-5)
+- [Part 2: $1000 Bug Bounty Guide — Advanced JavaScript Analysis for Hidden Vulnerabilities](https://hackersatty.medium.com/part-2-1000-bug-bounty-guide-advanced-javascript-analysis-for-hidden-vulnerabilities-5a47645b575f?source=rss------bug_bounty_writeup-5)
+- [Profile Avatar Unlock vulnerability](https://medium.com/@ajay.kumar.695632/profile-avatar-unlock-vulnerability-c3f53fe278cd?source=rss------bug_bounty_writeup-5)
+- [Uncovering Hidden Treasures: Mastering Wayback URLs for Bug Bounty Hunting](https://abhayal.medium.com/uncovering-hidden-treasures-mastering-wayback-urls-for-bug-bounty-hunting-8571357b7649?source=rss------bug_bounty_writeup-5)
 - [Beyond the Hype: What Quantum Cryptography REALLY Is &lpar;and Isn’t&rpar;](https://infosecwriteups.com/beyond-the-hype-what-quantum-cryptography-really-is-and-isnt-6aed4e7f0ebb?source=rss----7b722bfd1b8d---4)
 - [Testing ports for a reverse shell](https://infosecwriteups.com/testing-ports-for-a-reverse-shell-bc0d27cd00fe?source=rss----7b722bfd1b8d---4)
 - [90% Hunters V/S 10% Hunters](https://infosecwriteups.com/90-hunters-v-s-10-hunters-fa9089523181?source=rss----7b722bfd1b8d---4)
@@ -930,8 +935,13 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Information Disclosure Hunting: Tool Tips &amp; Commands](https://infosecwriteups.com/information-disclosure-hunting-tool-tips-commands-48003154e8bb?source=rss----7b722bfd1b8d---4)
 - [$50–$200 Low Hanging Bugs/Fruit Automation | Bug Automation Part 1](https://infosecwriteups.com/50-200-low-hanging-bugs-fruit-automation-bug-automation-part-1-e9711cf7e042?source=rss----7b722bfd1b8d---4)
 - [Hands-on Introduction to Microsoft KQL](https://infosecwriteups.com/hands-on-introduction-to-microsoft-kql-5584606e1c70?source=rss----7b722bfd1b8d---4)
+- [Resource consumption Vulnerability](https://medium.com/@VulnRAM/resource-consumption-vulnerability-542d0b38152e?source=rss------bug_bounty_writeup-5)
+- [Bug Bounty Restart- Phase 1: Preparation &amp; Mindset](https://infosecwriteups.com/bug-bounty-restart-phase-1-preparation-mindset-57ca877a9278?source=rss------bug_bounty_writeup-5)
+- [Breaking Boundaries: My Journey from limited Stored XSS to Open Redirect &amp; a Sneaky CSRF Referrer…](https://medium.com/@0xNayelx/breaking-boundaries-my-journey-from-limited-stored-xss-to-open-redirect-a-sneaky-csrf-referrer-6dc939cf7aed?source=rss------bug_bounty_writeup-5)
+- [My Approach to Bypassing Strong WAF in XSS](https://medium.com/@randixploit.shtml/my-approach-to-bypassing-strong-waf-in-xss-0c2e0864043b?source=rss------bug_bounty_writeup-5)
 - [What’s the Secret? Unpacking Command-Line Argument Manipulation](https://infosecwriteups.com/whats-the-secret-unpacking-command-line-argument-manipulation-fd215510191a?source=rss----7b722bfd1b8d---4)
 - [Why Knowing How to Query is an Essential Cybersecurity Skill](https://infosecwriteups.com/why-knowing-how-to-query-is-an-essential-cybersecurity-skill-ce22f86226eb?source=rss----7b722bfd1b8d---4)
+- [How I Found a Confidential Business Agreement on Wayback Machine](https://aiwolfie.medium.com/how-i-found-a-confidential-business-agreement-on-wayback-machine-efd1f0abf4cf?source=rss------bug_bounty_writeup-5)
 - [A New Approach to Proving Cybersecurity Value &lpar;That Isn’t ROI&rpar;](https://www.hackerone.com/blog/new-approach-proving-cybersecurity-value)
 - [Celebrating 10 Years of Partnership: Snap and HackerOne Reach $1M in Bounties](https://www.hackerone.com/blog/hackerone-and-snap-celebrating-10-years)
 - [Women@ Kicks Off the Year with a Vision Board Event](https://www.hackerone.com/blog/women-kicks-year-vision-board-event)
@@ -962,16 +972,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Why Retail and E-commerce Organizations Trust Security Researchers During the Holiday Shopping Season](https://www.hackerone.com/blog/why-retail-and-e-commerce-organizations-trust-security-researchers-during-holiday-shopping)
 - [Network and Information Systems Directive &lpar;NIS2&rpar; Compliance: What You Need to Know](https://www.hackerone.com/blog/network-and-information-systems-directive-nis2-compliance-what-you-need-know)
 - [5 Insights Attendees Gained from the Security@ World Tour](https://www.hackerone.com/blog/5-insights-attendees-gained-security-world-tour)
-- [Breaking Down the OWASP Top 10: Injection](https://www.hackerone.com/blog/breaking-down-owasp-top-10-injection)
-- [How Inadequate Authentication Logic Led to an MFA Bypass and Account Takeover](https://www.hackerone.com/blog/how-inadequate-authentication-logic-led-mfa-bypass-and-account-takeover)
-- [How HackerOne Employees Stay Connected and Have Fun](https://www.hackerone.com/blog/how-hackerone-employees-stay-connected-and-have-fun)
-- [How REI Strengthens Security with HackerOne’s Global Security Researcher Community](https://www.hackerone.com/blog/how-rei-strengthens-security-hackerones-global-security-researcher-community)
-- [Flexible Data Retrieval at Scale with HAQL](https://www.hackerone.com/blog/flexible-data-retrieval-scale-haql)
-- [AI in SecOps: How AI is Impacting Red and Blue Team Operations](https://www.hackerone.com/blog/ai-secops-how-ai-impacting-red-and-blue-team-operations)
-- [HackerOne’s Fall Day of Service](https://www.hackerone.com/blog/hackerones-fall-day-service)
-- [How HackerOne Disproved an MFA Bypass With a Spot Check](https://www.hackerone.com/blog/how-hackerone-disproved-mfa-bypass-spot-check)
-- [Unlocking Engagement with Employee Feedback](https://www.hackerone.com/blog/unlocking-engagement-employee-feedback)
-- [How an Improper Access Control Vulnerability Led to Account Theft in One Click](https://www.hackerone.com/blog/how-improper-access-control-vulnerability-led-account-theft-one-click)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
