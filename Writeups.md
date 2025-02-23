@@ -1,6 +1,8 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [$50–$200 Low Hanging Bugs/Fruit Automation | Bug Automation Part 1](https://infosecwriteups.com/50-200-low-hanging-bugs-fruit-automation-bug-automation-part-1-e9711cf7e042?source=rss----7b722bfd1b8d---4)
+- [Hands-on Introduction to Microsoft KQL](https://infosecwriteups.com/hands-on-introduction-to-microsoft-kql-5584606e1c70?source=rss----7b722bfd1b8d---4)
 - [Resource consumption Vulnerability](https://medium.com/@VulnRAM/resource-consumption-vulnerability-542d0b38152e?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Restart- Phase 1: Preparation &amp; Mindset](https://infosecwriteups.com/bug-bounty-restart-phase-1-preparation-mindset-57ca877a9278?source=rss------bug_bounty_writeup-5)
 - [Breaking Boundaries: My Journey from limited Stored XSS to Open Redirect &amp; a Sneaky CSRF Referrer…](https://medium.com/@0xNayelx/breaking-boundaries-my-journey-from-limited-stored-xss-to-open-redirect-a-sneaky-csrf-referrer-6dc939cf7aed?source=rss------bug_bounty_writeup-5)
@@ -13,8 +15,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How I found my first mistake Or why you shouldn’t overlook the obvious.](https://infosecwriteups.com/how-i-found-my-first-mistake-or-why-you-shouldnt-overlook-the-obvious-1f1d443afa6b?source=rss----7b722bfd1b8d---4)
 - [I Have Reviewed Thousands of Cybersecurity Profiles ..](https://infosecwriteups.com/i-have-reviewed-thousands-of-cybersecurity-profiles-6d1040d6cff5?source=rss----7b722bfd1b8d---4)
 - [SOP Bypass using rel=”noreferrer”](https://infosecwriteups.com/sop-bypass-using-rel-noreferrer-20ee273bc848?source=rss----7b722bfd1b8d---4)
-- [Finding the origin IP address](https://infosecwriteups.com/finding-the-origin-ip-address-1e9cd5073e8c?source=rss----7b722bfd1b8d---4)
-- [How to Exploit a Hidden GraphQL Endpoint by Changing POST to GET Request  —  GraphQL API Labs](https://infosecwriteups.com/how-to-exploit-a-hidden-graphql-endpoint-by-changing-post-to-get-request-graphql-api-labs-c7675e5f8049?source=rss----7b722bfd1b8d---4)
 - [How I Found a Confidential Business Agreement on Wayback Machine](https://aiwolfie.medium.com/how-i-found-a-confidential-business-agreement-on-wayback-machine-efd1f0abf4cf?source=rss------bug_bounty_writeup-5)
 - [Installing and Using Nuclei for Automated Security Scanning](https://abhayal.medium.com/installing-and-using-nuclei-for-automated-security-scanning-1b4f53de3ae5?source=rss------bug_bounty_writeup-5)
 - [How I Found 5 Reflected XSS in a Public Program](https://medium.com/@mahmodziad40/how-i-found-5-reflected-xss-in-a-public-program-44b168ae6526?source=rss------bug_bounty_writeup-5)
