@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Profile Avatar Unlock vulnerability](https://medium.com/@ajay.kumar.695632/profile-avatar-unlock-vulnerability-c3f53fe278cd?source=rss------bug_bounty_writeup-5)
 - [Uncovering Hidden Treasures: Mastering Wayback URLs for Bug Bounty Hunting](https://abhayal.medium.com/uncovering-hidden-treasures-mastering-wayback-urls-for-bug-bounty-hunting-8571357b7649?source=rss------bug_bounty_writeup-5)
 - [Beyond the Hype: What Quantum Cryptography REALLY Is &lpar;and Isn’t&rpar;](https://infosecwriteups.com/beyond-the-hype-what-quantum-cryptography-really-is-and-isnt-6aed4e7f0ebb?source=rss----7b722bfd1b8d---4)
 - [Testing ports for a reverse shell](https://infosecwriteups.com/testing-ports-for-a-reverse-shell-bc0d27cd00fe?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Installing and Using Nuclei for Automated Security Scanning](https://abhayal.medium.com/installing-and-using-nuclei-for-automated-security-scanning-1b4f53de3ae5?source=rss------bug_bounty_writeup-5)
 - [How I Found 5 Reflected XSS in a Public Program](https://medium.com/@mahmodziad40/how-i-found-5-reflected-xss-in-a-public-program-44b168ae6526?source=rss------bug_bounty_writeup-5)
 - [API Loophole: How I Bypassed CAPTCHA to Create Unlimited Accounts](https://medium.com/@rahulgairola/api-loophole-how-i-bypassed-captcha-to-create-unlimited-accounts-0d21de1f96e2?source=rss------bug_bounty_writeup-5)
-- [Easiest Vulnerability $200 You can test it under 2 minutes](https://progprnv.medium.com/easiest-vulnerability-200-you-can-test-it-under-2-minutes-2f45b4a0c785?source=rss------bug_bounty_writeup-5)
 - [A New Approach to Proving Cybersecurity Value &lpar;That Isn’t ROI&rpar;](https://www.hackerone.com/blog/new-approach-proving-cybersecurity-value)
 - [Celebrating 10 Years of Partnership: Snap and HackerOne Reach $1M in Bounties](https://www.hackerone.com/blog/hackerone-and-snap-celebrating-10-years)
 - [Women@ Kicks Off the Year with a Vision Board Event](https://www.hackerone.com/blog/women-kicks-year-vision-board-event)
