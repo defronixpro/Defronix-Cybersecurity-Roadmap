@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Admin Account Takeover in Moodle!](https://medium.com/@Nightbloodz/admin-account-takeover-in-moodle-093708a0f749?source=rss------bug_bounty_writeup-5)
 - [Part 2: $1000 Bug Bounty Guide — Advanced JavaScript Analysis for Hidden Vulnerabilities](https://hackersatty.medium.com/part-2-1000-bug-bounty-guide-advanced-javascript-analysis-for-hidden-vulnerabilities-5a47645b575f?source=rss------bug_bounty_writeup-5)
 - [Profile Avatar Unlock vulnerability](https://medium.com/@ajay.kumar.695632/profile-avatar-unlock-vulnerability-c3f53fe278cd?source=rss------bug_bounty_writeup-5)
 - [Uncovering Hidden Treasures: Mastering Wayback URLs for Bug Bounty Hunting](https://abhayal.medium.com/uncovering-hidden-treasures-mastering-wayback-urls-for-bug-bounty-hunting-8571357b7649?source=rss------bug_bounty_writeup-5)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Why Knowing How to Query is an Essential Cybersecurity Skill](https://infosecwriteups.com/why-knowing-how-to-query-is-an-essential-cybersecurity-skill-ce22f86226eb?source=rss----7b722bfd1b8d---4)
 - [How I Found a Confidential Business Agreement on Wayback Machine](https://aiwolfie.medium.com/how-i-found-a-confidential-business-agreement-on-wayback-machine-efd1f0abf4cf?source=rss------bug_bounty_writeup-5)
 - [Installing and Using Nuclei for Automated Security Scanning](https://abhayal.medium.com/installing-and-using-nuclei-for-automated-security-scanning-1b4f53de3ae5?source=rss------bug_bounty_writeup-5)
-- [How I Found 5 Reflected XSS in a Public Program](https://medium.com/@mahmodziad40/how-i-found-5-reflected-xss-in-a-public-program-44b168ae6526?source=rss------bug_bounty_writeup-5)
 - [A New Approach to Proving Cybersecurity Value &lpar;That Isn’t ROI&rpar;](https://www.hackerone.com/blog/new-approach-proving-cybersecurity-value)
 - [Celebrating 10 Years of Partnership: Snap and HackerOne Reach $1M in Bounties](https://www.hackerone.com/blog/hackerone-and-snap-celebrating-10-years)
 - [Women@ Kicks Off the Year with a Vision Board Event](https://www.hackerone.com/blog/women-kicks-year-vision-board-event)
