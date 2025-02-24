@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [“ P4 Bugs Unlocked: The Low-Severity Goldmine Every Hacker Should Hunt &lpar;Examples + Tips&rpar;”](https://cybersecuritywriteups.com/p4-bugs-unlocked-the-low-severity-goldmine-every-hacker-should-hunt-examples-tips-532e97c79310?source=rss------bug_bounty_writeup-5)
 - [Interesting Case of CSRF](https://one33se7en.medium.com/interesting-case-of-csrf-in-redacted-981dc2ba5f10?source=rss------bug_bounty_writeup-5)
 - [Invitation Hijacking via Self-Signup in [Redacted] Enterprise](https://one33se7en.medium.com/invitation-hijacking-via-self-signup-in-redacted-enterprise-ab0f885a6cdd?source=rss------bug_bounty_writeup-5)
 - [Subscription? No Thanks! We Hack Our Way In!](https://medium.com/@ajay.kumar.695632/subscription-no-thanks-we-hack-our-way-in-42f884f56db2?source=rss------bug_bounty_writeup-5)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Uncovering Hidden Treasures: Mastering Wayback URLs for Bug Bounty Hunting](https://abhayal.medium.com/uncovering-hidden-treasures-mastering-wayback-urls-for-bug-bounty-hunting-8571357b7649?source=rss------bug_bounty_writeup-5)
 - [Beyond the Hype: What Quantum Cryptography REALLY Is &lpar;and Isn’t&rpar;](https://infosecwriteups.com/beyond-the-hype-what-quantum-cryptography-really-is-and-isnt-6aed4e7f0ebb?source=rss----7b722bfd1b8d---4)
 - [Testing ports for a reverse shell](https://infosecwriteups.com/testing-ports-for-a-reverse-shell-bc0d27cd00fe?source=rss----7b722bfd1b8d---4)
-- [Resource consumption Vulnerability](https://medium.com/@VulnRAM/resource-consumption-vulnerability-542d0b38152e?source=rss------bug_bounty_writeup-5)
 - [A New Approach to Proving Cybersecurity Value &lpar;That Isn’t ROI&rpar;](https://www.hackerone.com/blog/new-approach-proving-cybersecurity-value)
 - [Celebrating 10 Years of Partnership: Snap and HackerOne Reach $1M in Bounties](https://www.hackerone.com/blog/hackerone-and-snap-celebrating-10-years)
 - [Women@ Kicks Off the Year with a Vision Board Event](https://www.hackerone.com/blog/women-kicks-year-vision-board-event)
