@@ -1,7 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
-- [Try Fuzzing Backup Files During Manual Pentesting](https://medium.com/@randixploit.shtml/try-fuzzing-backup-files-during-manual-pentesting-d81dce7c223b?source=rss------bug_bounty_writeup-5)
+- [Fuzzing Backup File Path to Get Sensitive Data Exposure](https://medium.com/@randixploit.shtml/try-fuzzing-backup-files-during-manual-pentesting-d81dce7c223b?source=rss------bug_bounty_writeup-5)
 - [Admin Account Takeover in Moodle!](https://medium.com/@Nightbloodz/admin-account-takeover-in-moodle-093708a0f749?source=rss------bug_bounty_writeup-5)
 - [Part 2: $1000 Bug Bounty Guide — Advanced JavaScript Analysis for Hidden Vulnerabilities](https://hackersatty.medium.com/part-2-1000-bug-bounty-guide-advanced-javascript-analysis-for-hidden-vulnerabilities-5a47645b575f?source=rss------bug_bounty_writeup-5)
 - [Profile Avatar Unlock vulnerability](https://medium.com/@ajay.kumar.695632/profile-avatar-unlock-vulnerability-c3f53fe278cd?source=rss------bug_bounty_writeup-5)
