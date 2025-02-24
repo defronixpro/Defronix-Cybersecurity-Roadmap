@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Cross-Site Request Forgery + Low Hanging Fruit sum up to $$$$](https://ehteshamulhaq198.medium.com/cross-site-request-forgery-low-hanging-fruit-sum-up-to-79725cefbe44?source=rss------bug_bounty_writeup-5)
 - [Uncovering Hidden Cloudflare Pages and Workers](https://infosecwriteups.com/uncovering-hidden-cloudflare-pages-and-workers-af602df05f1a?source=rss----7b722bfd1b8d---4)
 - [How I Hacked India’s Most Popular Matrimony Website and Earned a ₹10,000 Amazon Gift Card](https://infosecwriteups.com/how-i-hacked-indias-most-popular-matrimony-website-and-earned-a-10-000-amazon-gift-card-4dad7b6eff5d?source=rss----7b722bfd1b8d---4)
 - [$100-$5000 worth File Upload Vulnerability | Advanced Techniques](https://infosecwriteups.com/100-5000-worth-file-upload-vulnerability-advanced-techniques-7c598837607f?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Bug Bounty Restart- Phase 1: Preparation &amp; Mindset](https://infosecwriteups.com/bug-bounty-restart-phase-1-preparation-mindset-57ca877a9278?source=rss------bug_bounty_writeup-5)
 - [Breaking Boundaries: My Journey from limited Stored XSS to Open Redirect &amp; a Sneaky CSRF Referrer…](https://medium.com/@0xNayelx/breaking-boundaries-my-journey-from-limited-stored-xss-to-open-redirect-a-sneaky-csrf-referrer-6dc939cf7aed?source=rss------bug_bounty_writeup-5)
 - [My Approach to Bypassing Strong WAF in XSS](https://medium.com/@randixploit.shtml/my-approach-to-bypassing-strong-waf-in-xss-0c2e0864043b?source=rss------bug_bounty_writeup-5)
-- [How I Found a Confidential Business Agreement on Wayback Machine](https://aiwolfie.medium.com/how-i-found-a-confidential-business-agreement-on-wayback-machine-efd1f0abf4cf?source=rss------bug_bounty_writeup-5)
 - [A New Approach to Proving Cybersecurity Value &lpar;That Isn’t ROI&rpar;](https://www.hackerone.com/blog/new-approach-proving-cybersecurity-value)
 - [Celebrating 10 Years of Partnership: Snap and HackerOne Reach $1M in Bounties](https://www.hackerone.com/blog/hackerone-and-snap-celebrating-10-years)
 - [Women@ Kicks Off the Year with a Vision Board Event](https://www.hackerone.com/blog/women-kicks-year-vision-board-event)
