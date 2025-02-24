@@ -1,7 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
-- [Interesting Case of CSRF in [Redacted]](https://one33se7en.medium.com/interesting-case-of-csrf-in-redacted-981dc2ba5f10?source=rss------bug_bounty_writeup-5)
+- [Interesting Case of CSRF](https://one33se7en.medium.com/interesting-case-of-csrf-in-redacted-981dc2ba5f10?source=rss------bug_bounty_writeup-5)
 - [Invitation Hijacking via Self-Signup in [Redacted] Enterprise](https://one33se7en.medium.com/invitation-hijacking-via-self-signup-in-redacted-enterprise-ab0f885a6cdd?source=rss------bug_bounty_writeup-5)
 - [Subscription? No Thanks! We Hack Our Way In!](https://medium.com/@ajay.kumar.695632/subscription-no-thanks-we-hack-our-way-in-42f884f56db2?source=rss------bug_bounty_writeup-5)
 - [Cross-Site Request Forgery + Low Hanging Fruit sum up to $$$$](https://ehteshamulhaq198.medium.com/cross-site-request-forgery-low-hanging-fruit-sum-up-to-79725cefbe44?source=rss------bug_bounty_writeup-5)
