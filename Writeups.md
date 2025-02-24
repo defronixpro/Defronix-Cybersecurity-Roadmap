@@ -1,6 +1,12 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Uncovering Hidden Cloudflare Pages and Workers](https://infosecwriteups.com/uncovering-hidden-cloudflare-pages-and-workers-af602df05f1a?source=rss----7b722bfd1b8d---4)
+- [How I Hacked India’s Most Popular Matrimony Website and Earned a ₹10,000 Amazon Gift Card](https://infosecwriteups.com/how-i-hacked-indias-most-popular-matrimony-website-and-earned-a-10-000-amazon-gift-card-4dad7b6eff5d?source=rss----7b722bfd1b8d---4)
+- [$100-$5000 worth File Upload Vulnerability | Advanced Techniques](https://infosecwriteups.com/100-5000-worth-file-upload-vulnerability-advanced-techniques-7c598837607f?source=rss----7b722bfd1b8d---4)
+- [Baby2 VulnLab | GPO Misconfiguration](https://infosecwriteups.com/baby2-vulnlab-gpo-misconfiguration-a1b14d6a3929?source=rss----7b722bfd1b8d---4)
+- [$1000-$10k worth Leaks via Github Secret Dorks](https://infosecwriteups.com/1000-10k-worth-leaks-via-github-secret-dorks-6e13a2b7617a?source=rss----7b722bfd1b8d---4)
+- [$100-$200 worth 403 Bypass Techniques](https://infosecwriteups.com/100-200-worth-403-bypass-techniques-e4c22064091a?source=rss----7b722bfd1b8d---4)
 - [Free VPS for penetration testing and bounty and part 3](https://infosecwriteups.com/free-vps-for-penetration-testing-and-bounty-and-part-3-3c5b2f4642cc?source=rss----7b722bfd1b8d---4)
 - [Advent of Cyber 2023 : [Day 1 Walkthrough]](https://infosecwriteups.com/advent-of-cyber-2023-day-1-walkthrough-ddba21b0e063?source=rss----7b722bfd1b8d---4)
 - [Fuzzing Backup File Path to Get Sensitive Data Exposure](https://medium.com/@randixploit.shtml/try-fuzzing-backup-files-during-manual-pentesting-d81dce7c223b?source=rss------bug_bounty_writeup-5)
@@ -10,12 +16,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Uncovering Hidden Treasures: Mastering Wayback URLs for Bug Bounty Hunting](https://abhayal.medium.com/uncovering-hidden-treasures-mastering-wayback-urls-for-bug-bounty-hunting-8571357b7649?source=rss------bug_bounty_writeup-5)
 - [Beyond the Hype: What Quantum Cryptography REALLY Is &lpar;and Isn’t&rpar;](https://infosecwriteups.com/beyond-the-hype-what-quantum-cryptography-really-is-and-isnt-6aed4e7f0ebb?source=rss----7b722bfd1b8d---4)
 - [Testing ports for a reverse shell](https://infosecwriteups.com/testing-ports-for-a-reverse-shell-bc0d27cd00fe?source=rss----7b722bfd1b8d---4)
-- [90% Hunters V/S 10% Hunters](https://infosecwriteups.com/90-hunters-v-s-10-hunters-fa9089523181?source=rss----7b722bfd1b8d---4)
-- [The Ultimate Guide to Mastering Microservices with Spring Boot](https://infosecwriteups.com/the-ultimate-guide-to-mastering-microservices-with-spring-boot-fb6856656b4b?source=rss----7b722bfd1b8d---4)
-- [Bug Bounty Restart- Phase 1: Preparation &amp; Mindset](https://infosecwriteups.com/bug-bounty-restart-phase-1-preparation-mindset-57ca877a9278?source=rss----7b722bfd1b8d---4)
-- [Information Disclosure Hunting: Tool Tips &amp; Commands](https://infosecwriteups.com/information-disclosure-hunting-tool-tips-commands-48003154e8bb?source=rss----7b722bfd1b8d---4)
-- [$50–$200 Low Hanging Bugs/Fruit Automation | Bug Automation Part 1](https://infosecwriteups.com/50-200-low-hanging-bugs-fruit-automation-bug-automation-part-1-e9711cf7e042?source=rss----7b722bfd1b8d---4)
-- [Hands-on Introduction to Microsoft KQL](https://infosecwriteups.com/hands-on-introduction-to-microsoft-kql-5584606e1c70?source=rss----7b722bfd1b8d---4)
 - [Resource consumption Vulnerability](https://medium.com/@VulnRAM/resource-consumption-vulnerability-542d0b38152e?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Restart- Phase 1: Preparation &amp; Mindset](https://infosecwriteups.com/bug-bounty-restart-phase-1-preparation-mindset-57ca877a9278?source=rss------bug_bounty_writeup-5)
 - [Breaking Boundaries: My Journey from limited Stored XSS to Open Redirect &amp; a Sneaky CSRF Referrer…](https://medium.com/@0xNayelx/breaking-boundaries-my-journey-from-limited-stored-xss-to-open-redirect-a-sneaky-csrf-referrer-6dc939cf7aed?source=rss------bug_bounty_writeup-5)
