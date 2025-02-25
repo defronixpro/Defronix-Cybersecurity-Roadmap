@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Autorize &amp; IDOR: How a Simple Token Swap Exposed Sensitive Data](https://hackersatty.medium.com/autorize-idor-how-a-simple-token-swap-exposed-sensitive-data-f64ee3ceada6?source=rss------bug_bounty_writeup-5)
 - [The $12,000 2FA Bypass — So Simple, Yet So Critical!](https://medium.com/@rahulgairola/the-12-000-2fa-bypass-so-simple-yet-so-critical-e3f7d7e5751c?source=rss------bug_bounty_writeup-5)
 - [Think Outside The Box Again, With IDOR !](https://n0x1.medium.com/think-outside-the-box-again-with-idor-94b010f958ea?source=rss------bug_bounty_writeup-5)
 - [How I Discovered a Facebook Privacy Loophole and Earned $1000](https://infosecwriteups.com/how-i-discovered-a-facebook-privacy-loophole-and-earned-1000-44318d196bfc?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Invitation Hijacking via Self-Signup in [Redacted] Enterprise](https://one33se7en.medium.com/invitation-hijacking-via-self-signup-in-redacted-enterprise-ab0f885a6cdd?source=rss------bug_bounty_writeup-5)
 - [Subscription? No Thanks! We Hack Our Way In!](https://medium.com/@ajay.kumar.695632/subscription-no-thanks-we-hack-our-way-in-42f884f56db2?source=rss------bug_bounty_writeup-5)
 - [Cross-Site Request Forgery + Low Hanging Fruit sum up to $$$$](https://ehteshamulhaq198.medium.com/cross-site-request-forgery-low-hanging-fruit-sum-up-to-79725cefbe44?source=rss------bug_bounty_writeup-5)
-- [Fuzzing Backup File Path to Get Sensitive Data Exposure](https://medium.com/@randixploit.shtml/try-fuzzing-backup-files-during-manual-pentesting-d81dce7c223b?source=rss------bug_bounty_writeup-5)
 - [A New Approach to Proving Cybersecurity Value &lpar;That Isn’t ROI&rpar;](https://www.hackerone.com/blog/new-approach-proving-cybersecurity-value)
 - [Celebrating 10 Years of Partnership: Snap and HackerOne Reach $1M in Bounties](https://www.hackerone.com/blog/hackerone-and-snap-celebrating-10-years)
 - [Women@ Kicks Off the Year with a Vision Board Event](https://www.hackerone.com/blog/women-kicks-year-vision-board-event)
