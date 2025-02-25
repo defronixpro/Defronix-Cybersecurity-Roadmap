@@ -1,6 +1,9 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Mastering Subdomain Enumeration](https://infosecwriteups.com/mastering-subdomain-enumeration-05fa958567cd?source=rss----7b722bfd1b8d---4)
+- [$100-$5000 worth LFI Vulnerability | Advanced Tips and Tricks](https://infosecwriteups.com/100-5000-worth-lfi-vulnerability-advanced-tips-and-tricks-f68fb48324a6?source=rss----7b722bfd1b8d---4)
+- [Bypassing IP-Based OTP rate limits: A Bug bounty hunter’s guide](https://infosecwriteups.com/bypassing-ip-based-otp-rate-limits-a-bug-bounty-hunters-guide-16ce8a1f2c71?source=rss----7b722bfd1b8d---4)
 - [A simple tool for GitHub Dorking that will be helpful in your bug bounty journey.](https://infosecwriteups.com/a-simple-tool-for-github-dorking-that-will-be-helpful-in-your-bug-bounty-journey-d1720c15fc6d?source=rss----7b722bfd1b8d---4)
 - [NoSQL Injection Vulnerability](https://infosecwriteups.com/nosql-injection-vulnerability-ead8ccd60666?source=rss----7b722bfd1b8d---4)
 - [Building Ethical hacking lab on cloud to become a hacker | Part 1](https://infosecwriteups.com/building-ethical-hacking-lab-on-cloud-to-become-a-hacker-part-1-d410aede27fa?source=rss----7b722bfd1b8d---4)
@@ -15,9 +18,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Cross-Site Request Forgery + Low Hanging Fruit sum up to $$$$](https://ehteshamulhaq198.medium.com/cross-site-request-forgery-low-hanging-fruit-sum-up-to-79725cefbe44?source=rss------bug_bounty_writeup-5)
 - [Uncovering Hidden Cloudflare Pages and Workers](https://infosecwriteups.com/uncovering-hidden-cloudflare-pages-and-workers-af602df05f1a?source=rss----7b722bfd1b8d---4)
 - [How I Hacked India’s Most Popular Matrimony Website and Earned a ₹10,000 Amazon Gift Card](https://infosecwriteups.com/how-i-hacked-indias-most-popular-matrimony-website-and-earned-a-10-000-amazon-gift-card-4dad7b6eff5d?source=rss----7b722bfd1b8d---4)
-- [$100-$5000 worth File Upload Vulnerability | Advanced Techniques](https://infosecwriteups.com/100-5000-worth-file-upload-vulnerability-advanced-techniques-7c598837607f?source=rss----7b722bfd1b8d---4)
-- [Baby2 VulnLab | GPO Misconfiguration](https://infosecwriteups.com/baby2-vulnlab-gpo-misconfiguration-a1b14d6a3929?source=rss----7b722bfd1b8d---4)
-- [$1000-$10k worth Leaks via Github Secret Dorks](https://infosecwriteups.com/1000-10k-worth-leaks-via-github-secret-dorks-6e13a2b7617a?source=rss----7b722bfd1b8d---4)
 - [Fuzzing Backup File Path to Get Sensitive Data Exposure](https://medium.com/@randixploit.shtml/try-fuzzing-backup-files-during-manual-pentesting-d81dce7c223b?source=rss------bug_bounty_writeup-5)
 - [Admin Account Takeover in Moodle!](https://medium.com/@Nightbloodz/admin-account-takeover-in-moodle-093708a0f749?source=rss------bug_bounty_writeup-5)
 - [Part 2: $1000 Bug Bounty Guide — Advanced JavaScript Analysis for Hidden Vulnerabilities](https://hackersatty.medium.com/part-2-1000-bug-bounty-guide-advanced-javascript-analysis-for-hidden-vulnerabilities-5a47645b575f?source=rss------bug_bounty_writeup-5)
