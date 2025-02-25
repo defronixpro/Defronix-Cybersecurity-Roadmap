@@ -1,6 +1,8 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How I Discovered a Facebook Privacy Loophole and Earned $1000](https://infosecwriteups.com/how-i-discovered-a-facebook-privacy-loophole-and-earned-1000-44318d196bfc?source=rss----7b722bfd1b8d---4)
+- [OSCP Tactics: How to Create a Malicious Word Macro for Remote Code Execution](https://infosecwriteups.com/oscp-tactics-how-to-create-a-malicious-word-macro-for-remote-code-execution-276ee7c638a5?source=rss----7b722bfd1b8d---4)
 - [Mastering Subdomain Enumeration](https://infosecwriteups.com/mastering-subdomain-enumeration-05fa958567cd?source=rss----7b722bfd1b8d---4)
 - [$100-$5000 worth LFI Vulnerability | Advanced Tips and Tricks](https://infosecwriteups.com/100-5000-worth-lfi-vulnerability-advanced-tips-and-tricks-f68fb48324a6?source=rss----7b722bfd1b8d---4)
 - [Bypassing IP-Based OTP rate limits: A Bug bounty hunter’s guide](https://infosecwriteups.com/bypassing-ip-based-otp-rate-limits-a-bug-bounty-hunters-guide-16ce8a1f2c71?source=rss----7b722bfd1b8d---4)
@@ -16,8 +18,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Invitation Hijacking via Self-Signup in [Redacted] Enterprise](https://one33se7en.medium.com/invitation-hijacking-via-self-signup-in-redacted-enterprise-ab0f885a6cdd?source=rss------bug_bounty_writeup-5)
 - [Subscription? No Thanks! We Hack Our Way In!](https://medium.com/@ajay.kumar.695632/subscription-no-thanks-we-hack-our-way-in-42f884f56db2?source=rss------bug_bounty_writeup-5)
 - [Cross-Site Request Forgery + Low Hanging Fruit sum up to $$$$](https://ehteshamulhaq198.medium.com/cross-site-request-forgery-low-hanging-fruit-sum-up-to-79725cefbe44?source=rss------bug_bounty_writeup-5)
-- [Uncovering Hidden Cloudflare Pages and Workers](https://infosecwriteups.com/uncovering-hidden-cloudflare-pages-and-workers-af602df05f1a?source=rss----7b722bfd1b8d---4)
-- [How I Hacked India’s Most Popular Matrimony Website and Earned a ₹10,000 Amazon Gift Card](https://infosecwriteups.com/how-i-hacked-indias-most-popular-matrimony-website-and-earned-a-10-000-amazon-gift-card-4dad7b6eff5d?source=rss----7b722bfd1b8d---4)
 - [Fuzzing Backup File Path to Get Sensitive Data Exposure](https://medium.com/@randixploit.shtml/try-fuzzing-backup-files-during-manual-pentesting-d81dce7c223b?source=rss------bug_bounty_writeup-5)
 - [Admin Account Takeover in Moodle!](https://medium.com/@Nightbloodz/admin-account-takeover-in-moodle-093708a0f749?source=rss------bug_bounty_writeup-5)
 - [Part 2: $1000 Bug Bounty Guide — Advanced JavaScript Analysis for Hidden Vulnerabilities](https://hackersatty.medium.com/part-2-1000-bug-bounty-guide-advanced-javascript-analysis-for-hidden-vulnerabilities-5a47645b575f?source=rss------bug_bounty_writeup-5)
