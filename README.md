@@ -922,11 +922,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [The Hidden Goldmine for Bug Hunters: DocumentCloud.org ️‍♂️](https://0xshuvo.medium.com/the-hidden-goldmine-for-bug-hunters-documentcloud-org-%EF%B8%8F-%EF%B8%8F-4146b5c1919f?source=rss------bug_bounty_writeup-5)
-- [How I Exploited a Hidden Race Condition to Bypass Licensing and Claim All Subdomains on the target](https://0onoproblem.medium.com/how-i-exploited-a-hidden-race-condition-to-bypass-licensing-and-claim-all-subdomains-on-the-target-64944b148f49?source=rss------bug_bounty_writeup-5)
-- [Autorize &amp; IDOR: How a Simple Token Swap Exposed Sensitive Data](https://hackersatty.medium.com/autorize-idor-how-a-simple-token-swap-exposed-sensitive-data-f64ee3ceada6?source=rss------bug_bounty_writeup-5)
-- [The $12,000 2FA Bypass — So Simple, Yet So Critical!](https://medium.com/@rahulgairola/the-12-000-2fa-bypass-so-simple-yet-so-critical-e3f7d7e5751c?source=rss------bug_bounty_writeup-5)
-- [Think Outside The Box Again, With IDOR !](https://n0x1.medium.com/think-outside-the-box-again-with-idor-94b010f958ea?source=rss------bug_bounty_writeup-5)
 - [How I Discovered a Facebook Privacy Loophole and Earned $1000](https://infosecwriteups.com/how-i-discovered-a-facebook-privacy-loophole-and-earned-1000-44318d196bfc?source=rss----7b722bfd1b8d---4)
 - [OSCP Tactics: How to Create a Malicious Word Macro for Remote Code Execution](https://infosecwriteups.com/oscp-tactics-how-to-create-a-malicious-word-macro-for-remote-code-execution-276ee7c638a5?source=rss----7b722bfd1b8d---4)
 - [Mastering Subdomain Enumeration](https://infosecwriteups.com/mastering-subdomain-enumeration-05fa958567cd?source=rss----7b722bfd1b8d---4)
@@ -937,11 +932,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Building Ethical hacking lab on cloud to become a hacker | Part 1](https://infosecwriteups.com/building-ethical-hacking-lab-on-cloud-to-become-a-hacker-part-1-d410aede27fa?source=rss----7b722bfd1b8d---4)
 - [Setting up Malware Analysis Lab — Part 2](https://infosecwriteups.com/setting-up-malware-analysis-lab-part-2-c005654973e1?source=rss----7b722bfd1b8d---4)
 - [Windows Management for Penetration Testing Professionals️](https://infosecwriteups.com/windows-management-for-penetration-testing-professionals-%EF%B8%8F-161522bea950?source=rss----7b722bfd1b8d---4)
-- [How I Found My First High-Severity Bug and Got Rewarded with 3 Trays of Red Bull!](https://medium.com/@iski/how-i-found-my-first-high-severity-bug-and-got-rewarded-with-3-trays-of-red-bull-29ec0ca6a2e4?source=rss------bug_bounty_writeup-5)
-- [“ From Zero to $500+: How LFIs Can Line Your Pockets &lpar;Real-World Examples Inside!&rpar;”](https://osintteam.blog/from-zero-to-500-how-lfis-can-line-your-pockets-real-world-examples-inside-356d55cf46e3?source=rss------bug_bounty_writeup-5)
-- [“ P4 Bugs Unlocked: The Low-Severity Goldmine Every Hacker Should Hunt &lpar;Examples + Tips&rpar;”](https://cybersecuritywriteups.com/p4-bugs-unlocked-the-low-severity-goldmine-every-hacker-should-hunt-examples-tips-532e97c79310?source=rss------bug_bounty_writeup-5)
-- [Interesting Case of CSRF](https://one33se7en.medium.com/interesting-case-of-csrf-in-redacted-981dc2ba5f10?source=rss------bug_bounty_writeup-5)
-- [Invitation Hijacking via Self-Signup in [Redacted] Enterprise](https://one33se7en.medium.com/invitation-hijacking-via-self-signup-in-redacted-enterprise-ab0f885a6cdd?source=rss------bug_bounty_writeup-5)
 - [A New Approach to Proving Cybersecurity Value &lpar;That Isn’t ROI&rpar;](https://www.hackerone.com/blog/new-approach-proving-cybersecurity-value)
 - [Celebrating 10 Years of Partnership: Snap and HackerOne Reach $1M in Bounties](https://www.hackerone.com/blog/hackerone-and-snap-celebrating-10-years)
 - [Women@ Kicks Off the Year with a Vision Board Event](https://www.hackerone.com/blog/women-kicks-year-vision-board-event)
@@ -972,6 +962,16 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Why Retail and E-commerce Organizations Trust Security Researchers During the Holiday Shopping Season](https://www.hackerone.com/blog/why-retail-and-e-commerce-organizations-trust-security-researchers-during-holiday-shopping)
 - [Network and Information Systems Directive &lpar;NIS2&rpar; Compliance: What You Need to Know](https://www.hackerone.com/blog/network-and-information-systems-directive-nis2-compliance-what-you-need-know)
 - [5 Insights Attendees Gained from the Security@ World Tour](https://www.hackerone.com/blog/5-insights-attendees-gained-security-world-tour)
+- [Breaking Down the OWASP Top 10: Injection](https://www.hackerone.com/blog/breaking-down-owasp-top-10-injection)
+- [How Inadequate Authentication Logic Led to an MFA Bypass and Account Takeover](https://www.hackerone.com/blog/how-inadequate-authentication-logic-led-mfa-bypass-and-account-takeover)
+- [How HackerOne Employees Stay Connected and Have Fun](https://www.hackerone.com/blog/how-hackerone-employees-stay-connected-and-have-fun)
+- [How REI Strengthens Security with HackerOne’s Global Security Researcher Community](https://www.hackerone.com/blog/how-rei-strengthens-security-hackerones-global-security-researcher-community)
+- [Flexible Data Retrieval at Scale with HAQL](https://www.hackerone.com/blog/flexible-data-retrieval-scale-haql)
+- [AI in SecOps: How AI is Impacting Red and Blue Team Operations](https://www.hackerone.com/blog/ai-secops-how-ai-impacting-red-and-blue-team-operations)
+- [HackerOne’s Fall Day of Service](https://www.hackerone.com/blog/hackerones-fall-day-service)
+- [How HackerOne Disproved an MFA Bypass With a Spot Check](https://www.hackerone.com/blog/how-hackerone-disproved-mfa-bypass-spot-check)
+- [Unlocking Engagement with Employee Feedback](https://www.hackerone.com/blog/unlocking-engagement-employee-feedback)
+- [How an Improper Access Control Vulnerability Led to Account Theft in One Click](https://www.hackerone.com/blog/how-improper-access-control-vulnerability-led-account-theft-one-click)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
