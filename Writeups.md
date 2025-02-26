@@ -1,6 +1,13 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [HTB: Cyber Apocalypse 2024 — Rocket Blaster XXX](https://infosecwriteups.com/htb-cyber-apocalypse-2024-rocket-blaster-xxx-b4611ea09e56?source=rss----7b722bfd1b8d---4)
+- [Manual obfuscation in PowerShell](https://infosecwriteups.com/manual-obfuscation-in-powershell-2778a3b3fb6f?source=rss----7b722bfd1b8d---4)
+- [$100-$20k worth Account Takeover Vulnerability | Hidden Practical Steps](https://infosecwriteups.com/100-20k-worth-account-takeover-vulnerability-hidden-practical-steps-fd5dd1c8a491?source=rss----7b722bfd1b8d---4)
+- [Breach — VulnLab | Malicious File Upload to SMB, Kerberoasting, Silver Ticket, and AV Shenanigans](https://infosecwriteups.com/breach-vulnlab-malicious-file-upload-to-smb-kerberoasting-silver-ticket-and-av-shenanigans-dbaf0cb2a72e?source=rss----7b722bfd1b8d---4)
+- [PostgreSQL Penetration Testing: A Comprehensive Guide](https://infosecwriteups.com/postgresql-penetration-testing-a-comprehensive-guide-33d21c4dceba?source=rss----7b722bfd1b8d---4)
+- [Python Powered XSS Payload Server](https://infosecwriteups.com/python-powered-xss-payload-server-d9224e32c85a?source=rss----7b722bfd1b8d---4)
+- [How This $999 XSS Bug Bounty Was Found in Just 17 Minutes](https://infosecwriteups.com/how-this-999-xss-bug-bounty-was-found-in-just-17-minutes-71677d61c2c6?source=rss----7b722bfd1b8d---4)
 - [The Hidden Goldmine for Bug Hunters: DocumentCloud.org ️‍♂️](https://0xshuvo.medium.com/the-hidden-goldmine-for-bug-hunters-documentcloud-org-%EF%B8%8F-%EF%B8%8F-4146b5c1919f?source=rss------bug_bounty_writeup-5)
 - [How I Exploited a Hidden Race Condition to Bypass Licensing and Claim All Subdomains on the target](https://0onoproblem.medium.com/how-i-exploited-a-hidden-race-condition-to-bypass-licensing-and-claim-all-subdomains-on-the-target-64944b148f49?source=rss------bug_bounty_writeup-5)
 - [Autorize &amp; IDOR: How a Simple Token Swap Exposed Sensitive Data](https://hackersatty.medium.com/autorize-idor-how-a-simple-token-swap-exposed-sensitive-data-f64ee3ceada6?source=rss------bug_bounty_writeup-5)
@@ -9,13 +16,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How I Discovered a Facebook Privacy Loophole and Earned $1000](https://infosecwriteups.com/how-i-discovered-a-facebook-privacy-loophole-and-earned-1000-44318d196bfc?source=rss----7b722bfd1b8d---4)
 - [OSCP Tactics: How to Create a Malicious Word Macro for Remote Code Execution](https://infosecwriteups.com/oscp-tactics-how-to-create-a-malicious-word-macro-for-remote-code-execution-276ee7c638a5?source=rss----7b722bfd1b8d---4)
 - [Mastering Subdomain Enumeration](https://infosecwriteups.com/mastering-subdomain-enumeration-05fa958567cd?source=rss----7b722bfd1b8d---4)
-- [$100-$5000 worth LFI Vulnerability | Advanced Tips and Tricks](https://infosecwriteups.com/100-5000-worth-lfi-vulnerability-advanced-tips-and-tricks-f68fb48324a6?source=rss----7b722bfd1b8d---4)
-- [Bypassing IP-Based OTP rate limits: A Bug bounty hunter’s guide](https://infosecwriteups.com/bypassing-ip-based-otp-rate-limits-a-bug-bounty-hunters-guide-16ce8a1f2c71?source=rss----7b722bfd1b8d---4)
-- [A simple tool for GitHub Dorking that will be helpful in your bug bounty journey.](https://infosecwriteups.com/a-simple-tool-for-github-dorking-that-will-be-helpful-in-your-bug-bounty-journey-d1720c15fc6d?source=rss----7b722bfd1b8d---4)
-- [NoSQL Injection Vulnerability](https://infosecwriteups.com/nosql-injection-vulnerability-ead8ccd60666?source=rss----7b722bfd1b8d---4)
-- [Building Ethical hacking lab on cloud to become a hacker | Part 1](https://infosecwriteups.com/building-ethical-hacking-lab-on-cloud-to-become-a-hacker-part-1-d410aede27fa?source=rss----7b722bfd1b8d---4)
-- [Setting up Malware Analysis Lab — Part 2](https://infosecwriteups.com/setting-up-malware-analysis-lab-part-2-c005654973e1?source=rss----7b722bfd1b8d---4)
-- [Windows Management for Penetration Testing Professionals️](https://infosecwriteups.com/windows-management-for-penetration-testing-professionals-%EF%B8%8F-161522bea950?source=rss----7b722bfd1b8d---4)
 - [How I Found My First High-Severity Bug and Got Rewarded with 3 Trays of Red Bull!](https://medium.com/@iski/how-i-found-my-first-high-severity-bug-and-got-rewarded-with-3-trays-of-red-bull-29ec0ca6a2e4?source=rss------bug_bounty_writeup-5)
 - [“ From Zero to $500+: How LFIs Can Line Your Pockets &lpar;Real-World Examples Inside!&rpar;”](https://osintteam.blog/from-zero-to-500-how-lfis-can-line-your-pockets-real-world-examples-inside-356d55cf46e3?source=rss------bug_bounty_writeup-5)
 - [“ P4 Bugs Unlocked: The Low-Severity Goldmine Every Hacker Should Hunt &lpar;Examples + Tips&rpar;”](https://cybersecuritywriteups.com/p4-bugs-unlocked-the-low-severity-goldmine-every-hacker-should-hunt-examples-tips-532e97c79310?source=rss------bug_bounty_writeup-5)
