@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [When a Tiny Sensitive Leak Gave Me a Big $$$ Surprise‍️](https://medium.com/@iski/when-a-tiny-sensitive-leak-gave-me-a-big-surprise-%EF%B8%8F-a5feb54d8d82?source=rss------bug_bounty_writeup-5)
 - [S3 Bucket Recon: Finding Exposed AWS Buckets Like a Pro!](https://infosecwriteups.com/s3-bucket-recon-finding-exposed-aws-buckets-like-a-pro-106be5ab9e1d?source=rss----7b722bfd1b8d---4)
 - [Maximize Your Bug Bounty Earnings: Automate Endpoint Discovery &amp; Find High-Impact Vulnerabilities](https://hackersatty.medium.com/maximize-your-bug-bounty-earnings-automate-endpoint-discovery-find-high-impact-vulnerabilities-c9a530445e97?source=rss------bug_bounty_writeup-5)
 - [HTB: Cyber Apocalypse 2024 — Rocket Blaster XXX](https://infosecwriteups.com/htb-cyber-apocalypse-2024-rocket-blaster-xxx-b4611ea09e56?source=rss----7b722bfd1b8d---4)
@@ -942,7 +943,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How I Found My First High-Severity Bug and Got Rewarded with 3 Trays of Red Bull!](https://medium.com/@iski/how-i-found-my-first-high-severity-bug-and-got-rewarded-with-3-trays-of-red-bull-29ec0ca6a2e4?source=rss------bug_bounty_writeup-5)
 - [“ From Zero to $500+: How LFIs Can Line Your Pockets &lpar;Real-World Examples Inside!&rpar;”](https://osintteam.blog/from-zero-to-500-how-lfis-can-line-your-pockets-real-world-examples-inside-356d55cf46e3?source=rss------bug_bounty_writeup-5)
 - [“ P4 Bugs Unlocked: The Low-Severity Goldmine Every Hacker Should Hunt &lpar;Examples + Tips&rpar;”](https://cybersecuritywriteups.com/p4-bugs-unlocked-the-low-severity-goldmine-every-hacker-should-hunt-examples-tips-532e97c79310?source=rss------bug_bounty_writeup-5)
-- [Interesting Case of CSRF](https://one33se7en.medium.com/interesting-case-of-csrf-in-redacted-981dc2ba5f10?source=rss------bug_bounty_writeup-5)
 - [A New Approach to Proving Cybersecurity Value &lpar;That Isn’t ROI&rpar;](https://www.hackerone.com/blog/new-approach-proving-cybersecurity-value)
 - [Celebrating 10 Years of Partnership: Snap and HackerOne Reach $1M in Bounties](https://www.hackerone.com/blog/hackerone-and-snap-celebrating-10-years)
 - [Women@ Kicks Off the Year with a Vision Board Event](https://www.hackerone.com/blog/women-kicks-year-vision-board-event)
