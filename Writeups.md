@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [S3 Bucket Recon: Finding Exposed AWS Buckets Like a Pro!](https://infosecwriteups.com/s3-bucket-recon-finding-exposed-aws-buckets-like-a-pro-106be5ab9e1d?source=rss----7b722bfd1b8d---4)
 - [Maximize Your Bug Bounty Earnings: Automate Endpoint Discovery &amp; Find High-Impact Vulnerabilities](https://hackersatty.medium.com/maximize-your-bug-bounty-earnings-automate-endpoint-discovery-find-high-impact-vulnerabilities-c9a530445e97?source=rss------bug_bounty_writeup-5)
 - [HTB: Cyber Apocalypse 2024 — Rocket Blaster XXX](https://infosecwriteups.com/htb-cyber-apocalypse-2024-rocket-blaster-xxx-b4611ea09e56?source=rss----7b722bfd1b8d---4)
 - [Manual obfuscation in PowerShell](https://infosecwriteups.com/manual-obfuscation-in-powershell-2778a3b3fb6f?source=rss----7b722bfd1b8d---4)
@@ -16,7 +17,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Think Outside The Box Again, With IDOR !](https://n0x1.medium.com/think-outside-the-box-again-with-idor-94b010f958ea?source=rss------bug_bounty_writeup-5)
 - [How I Discovered a Facebook Privacy Loophole and Earned $1000](https://infosecwriteups.com/how-i-discovered-a-facebook-privacy-loophole-and-earned-1000-44318d196bfc?source=rss----7b722bfd1b8d---4)
 - [OSCP Tactics: How to Create a Malicious Word Macro for Remote Code Execution](https://infosecwriteups.com/oscp-tactics-how-to-create-a-malicious-word-macro-for-remote-code-execution-276ee7c638a5?source=rss----7b722bfd1b8d---4)
-- [Mastering Subdomain Enumeration](https://infosecwriteups.com/mastering-subdomain-enumeration-05fa958567cd?source=rss----7b722bfd1b8d---4)
 - [How I Found My First High-Severity Bug and Got Rewarded with 3 Trays of Red Bull!](https://medium.com/@iski/how-i-found-my-first-high-severity-bug-and-got-rewarded-with-3-trays-of-red-bull-29ec0ca6a2e4?source=rss------bug_bounty_writeup-5)
 - [“ From Zero to $500+: How LFIs Can Line Your Pockets &lpar;Real-World Examples Inside!&rpar;”](https://osintteam.blog/from-zero-to-500-how-lfis-can-line-your-pockets-real-world-examples-inside-356d55cf46e3?source=rss------bug_bounty_writeup-5)
 - [“ P4 Bugs Unlocked: The Low-Severity Goldmine Every Hacker Should Hunt &lpar;Examples + Tips&rpar;”](https://cybersecuritywriteups.com/p4-bugs-unlocked-the-low-severity-goldmine-every-hacker-should-hunt-examples-tips-532e97c79310?source=rss------bug_bounty_writeup-5)
