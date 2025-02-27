@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [JavaScript Enumeration for Bug Bounties: Expose Hidden Endpoints &amp; Secrets Like a Pro!](https://myselfakash20.medium.com/javascript-enumeration-for-bug-bounties-expose-hidden-endpoints-secrets-like-a-pro-418c2aec318f?source=rss------bug_bounty_writeup-5)
 - [Information Disclosure — The Hidden Risk in Public Reports!](https://medium.com/@momenrezkk90/information-disclosure-the-hidden-risk-in-public-reports-fd4ca13fd658?source=rss------bug_bounty_writeup-5)
 - [Bypassing Email Checks to Access Private Support Chats](https://medium.com/@rahulgairola/bypassing-email-checks-to-access-private-support-chats-c2895b1c9ef2?source=rss------bug_bounty_writeup-5)
 - [The Only Guide You Need to Find XSS Like a Pro](https://sudosuraj.medium.com/the-only-guide-you-need-to-find-xss-like-a-pro-c337588f9da3?source=rss------bug_bounty_writeup-5)
@@ -942,7 +943,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [The Cost Savings of Fixing Security Flaws in Development](https://www.hackerone.com/blog/cost-savings-fixing-security-flaws)
 - [How I Exploited a Hidden Race Condition to Bypass Licensing and Claim All Subdomains on the target](https://0onoproblem.medium.com/how-i-exploited-a-hidden-race-condition-to-bypass-licensing-and-claim-all-subdomains-on-the-target-64944b148f49?source=rss------bug_bounty_writeup-5)
 - [Autorize &amp; IDOR: How a Simple Token Swap Exposed Sensitive Data](https://hackersatty.medium.com/autorize-idor-how-a-simple-token-swap-exposed-sensitive-data-f64ee3ceada6?source=rss------bug_bounty_writeup-5)
-- [The $12,000 2FA Bypass — So Simple, Yet So Critical!](https://medium.com/@rahulgairola/the-12-000-2fa-bypass-so-simple-yet-so-critical-e3f7d7e5751c?source=rss------bug_bounty_writeup-5)
 - [A New Approach to Proving Cybersecurity Value &lpar;That Isn’t ROI&rpar;](https://www.hackerone.com/blog/new-approach-proving-cybersecurity-value)
 - [Celebrating 10 Years of Partnership: Snap and HackerOne Reach $1M in Bounties](https://www.hackerone.com/blog/hackerone-and-snap-celebrating-10-years)
 - [Women@ Kicks Off the Year with a Vision Board Event](https://www.hackerone.com/blog/women-kicks-year-vision-board-event)
