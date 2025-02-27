@@ -922,8 +922,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [The Only Guide You Need to Find XSS Like a Pro](https://sudosuraj.medium.com/the-only-guide-you-need-to-find-xss-like-a-pro-c337588f9da3?source=rss------bug_bounty_writeup-5)
-- [Bug Bounty Methodology &lpar;Part 1: Basic&rpar;](https://hackersatty.medium.com/bug-bounty-methodology-part-1-basic-ee4f3f7a4f81?source=rss------bug_bounty_writeup-5)
 - [Text Manipulation Tools for Linux and Windows](https://infosecwriteups.com/text-manipulation-tools-for-blue-team-7cef34c1e02a?source=rss----7b722bfd1b8d---4)
 - [JUST CRASHED SYSTEM USING IMAGE AND GOT BOUNTY $ 500](https://infosecwriteups.com/just-crashed-system-using-image-and-got-bounty-500-eb30dc4b85a5?source=rss----7b722bfd1b8d---4)
 - [How do you install and run LLMs such as deepseek-r1 locally?](https://infosecwriteups.com/how-do-you-install-and-run-llms-such-as-deepseek-r1-locally-2fde58d1e4bf?source=rss----7b722bfd1b8d---4)
@@ -934,15 +932,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [$500-$20k worth GraphQL Vulnerabilities | Advanced Tips &amp; Tricks](https://infosecwriteups.com/500-20k-worth-graphql-vulnerabilities-advanced-tips-tricks-74e8f4679b91?source=rss----7b722bfd1b8d---4)
 - [CVE-2025–1094: PostgreSQL Injection Vulnerability Exploit](https://infosecwriteups.com/cve-2025-1094-postgresql-sql-injection-vulnerability-exploit-2acf37ae399a?source=rss----7b722bfd1b8d---4)
 - [Finding an easy bug in the profile picture field.](https://infosecwriteups.com/finding-an-easy-bug-in-the-profile-picture-field-122a7aca2b42?source=rss----7b722bfd1b8d---4)
-- [When a Tiny Sensitive Leak Gave Me a Big $$$ Surprise‍️](https://medium.com/@iski/when-a-tiny-sensitive-leak-gave-me-a-big-surprise-%EF%B8%8F-a5feb54d8d82?source=rss------bug_bounty_writeup-5)
-- [Maximize Your Bug Bounty Earnings: Automate Endpoint Discovery &amp; Find High-Impact Vulnerabilities](https://hackersatty.medium.com/maximize-your-bug-bounty-earnings-automate-endpoint-discovery-find-high-impact-vulnerabilities-c9a530445e97?source=rss------bug_bounty_writeup-5)
-- [The Hidden Goldmine for Bug Hunters: DocumentCloud.org ️‍♂️](https://0xshuvo.medium.com/the-hidden-goldmine-for-bug-hunters-documentcloud-org-%EF%B8%8F-%EF%B8%8F-4146b5c1919f?source=rss------bug_bounty_writeup-5)
 - [The Cost Savings of Fixing Security Flaws in Development](https://www.hackerone.com/blog/cost-savings-fixing-security-flaws)
-- [How I Exploited a Hidden Race Condition to Bypass Licensing and Claim All Subdomains on the target](https://0onoproblem.medium.com/how-i-exploited-a-hidden-race-condition-to-bypass-licensing-and-claim-all-subdomains-on-the-target-64944b148f49?source=rss------bug_bounty_writeup-5)
-- [Autorize &amp; IDOR: How a Simple Token Swap Exposed Sensitive Data](https://hackersatty.medium.com/autorize-idor-how-a-simple-token-swap-exposed-sensitive-data-f64ee3ceada6?source=rss------bug_bounty_writeup-5)
-- [The $12,000 2FA Bypass — So Simple, Yet So Critical!](https://medium.com/@rahulgairola/the-12-000-2fa-bypass-so-simple-yet-so-critical-e3f7d7e5751c?source=rss------bug_bounty_writeup-5)
-- [Think Outside The Box Again, With IDOR !](https://n0x1.medium.com/think-outside-the-box-again-with-idor-94b010f958ea?source=rss------bug_bounty_writeup-5)
-- [How I Found My First High-Severity Bug and Got Rewarded with 3 Trays of Red Bull!](https://medium.com/@iski/how-i-found-my-first-high-severity-bug-and-got-rewarded-with-3-trays-of-red-bull-29ec0ca6a2e4?source=rss------bug_bounty_writeup-5)
 - [A New Approach to Proving Cybersecurity Value &lpar;That Isn’t ROI&rpar;](https://www.hackerone.com/blog/new-approach-proving-cybersecurity-value)
 - [Celebrating 10 Years of Partnership: Snap and HackerOne Reach $1M in Bounties](https://www.hackerone.com/blog/hackerone-and-snap-celebrating-10-years)
 - [Women@ Kicks Off the Year with a Vision Board Event](https://www.hackerone.com/blog/women-kicks-year-vision-board-event)
@@ -972,6 +962,16 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [5 Questions to Assess Your Organization’s Bug Bounty Readiness](https://www.hackerone.com/blog/5-questions-assess-your-organizations-bug-bounty-readiness)
 - [Why Retail and E-commerce Organizations Trust Security Researchers During the Holiday Shopping Season](https://www.hackerone.com/blog/why-retail-and-e-commerce-organizations-trust-security-researchers-during-holiday-shopping)
 - [Network and Information Systems Directive &lpar;NIS2&rpar; Compliance: What You Need to Know](https://www.hackerone.com/blog/network-and-information-systems-directive-nis2-compliance-what-you-need-know)
+- [5 Insights Attendees Gained from the Security@ World Tour](https://www.hackerone.com/blog/5-insights-attendees-gained-security-world-tour)
+- [Breaking Down the OWASP Top 10: Injection](https://www.hackerone.com/blog/breaking-down-owasp-top-10-injection)
+- [How Inadequate Authentication Logic Led to an MFA Bypass and Account Takeover](https://www.hackerone.com/blog/how-inadequate-authentication-logic-led-mfa-bypass-and-account-takeover)
+- [How HackerOne Employees Stay Connected and Have Fun](https://www.hackerone.com/blog/how-hackerone-employees-stay-connected-and-have-fun)
+- [How REI Strengthens Security with HackerOne’s Global Security Researcher Community](https://www.hackerone.com/blog/how-rei-strengthens-security-hackerones-global-security-researcher-community)
+- [Flexible Data Retrieval at Scale with HAQL](https://www.hackerone.com/blog/flexible-data-retrieval-scale-haql)
+- [AI in SecOps: How AI is Impacting Red and Blue Team Operations](https://www.hackerone.com/blog/ai-secops-how-ai-impacting-red-and-blue-team-operations)
+- [HackerOne’s Fall Day of Service](https://www.hackerone.com/blog/hackerones-fall-day-service)
+- [How HackerOne Disproved an MFA Bypass With a Spot Check](https://www.hackerone.com/blog/how-hackerone-disproved-mfa-bypass-spot-check)
+- [Unlocking Engagement with Employee Feedback](https://www.hackerone.com/blog/unlocking-engagement-employee-feedback)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
