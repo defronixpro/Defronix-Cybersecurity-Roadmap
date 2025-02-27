@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Bug Bounty Methodology &lpar;Part 1: Basic&rpar;](https://hackersatty.medium.com/bug-bounty-methodology-part-1-basic-ee4f3f7a4f81?source=rss------bug_bounty_writeup-5)
 - [Text Manipulation Tools for Linux and Windows](https://infosecwriteups.com/text-manipulation-tools-for-blue-team-7cef34c1e02a?source=rss----7b722bfd1b8d---4)
 - [JUST CRASHED SYSTEM USING IMAGE AND GOT BOUNTY $ 500](https://infosecwriteups.com/just-crashed-system-using-image-and-got-bounty-500-eb30dc4b85a5?source=rss----7b722bfd1b8d---4)
 - [How do you install and run LLMs such as deepseek-r1 locally?](https://infosecwriteups.com/how-do-you-install-and-run-llms-such-as-deepseek-r1-locally-2fde58d1e4bf?source=rss----7b722bfd1b8d---4)
@@ -21,7 +22,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Think Outside The Box Again, With IDOR !](https://n0x1.medium.com/think-outside-the-box-again-with-idor-94b010f958ea?source=rss------bug_bounty_writeup-5)
 - [How I Found My First High-Severity Bug and Got Rewarded with 3 Trays of Red Bull!](https://medium.com/@iski/how-i-found-my-first-high-severity-bug-and-got-rewarded-with-3-trays-of-red-bull-29ec0ca6a2e4?source=rss------bug_bounty_writeup-5)
 - [“ From Zero to $500+: How LFIs Can Line Your Pockets &lpar;Real-World Examples Inside!&rpar;”](https://osintteam.blog/from-zero-to-500-how-lfis-can-line-your-pockets-real-world-examples-inside-356d55cf46e3?source=rss------bug_bounty_writeup-5)
-- [“ P4 Bugs Unlocked: The Low-Severity Goldmine Every Hacker Should Hunt &lpar;Examples + Tips&rpar;”](https://cybersecuritywriteups.com/p4-bugs-unlocked-the-low-severity-goldmine-every-hacker-should-hunt-examples-tips-532e97c79310?source=rss------bug_bounty_writeup-5)
 - [A New Approach to Proving Cybersecurity Value &lpar;That Isn’t ROI&rpar;](https://www.hackerone.com/blog/new-approach-proving-cybersecurity-value)
 - [Celebrating 10 Years of Partnership: Snap and HackerOne Reach $1M in Bounties](https://www.hackerone.com/blog/hackerone-and-snap-celebrating-10-years)
 - [Women@ Kicks Off the Year with a Vision Board Event](https://www.hackerone.com/blog/women-kicks-year-vision-board-event)
