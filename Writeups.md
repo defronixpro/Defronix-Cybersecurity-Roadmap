@@ -1,6 +1,13 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Easiest way to Find RCE &lpar;Package Dependency&rpar;](https://infosecwriteups.com/easiest-way-to-find-rce-package-dependency-d32efc70f2bf?source=rss----7b722bfd1b8d---4)
+- [Risen Ransomware — Letsdefend Challange](https://infosecwriteups.com/risen-ransomware-letsdefend-challange-d3428de3f039?source=rss----7b722bfd1b8d---4)
+- [Cracking Linux Password Hashes](https://infosecwriteups.com/cracking-linux-password-hashes-12dfb9e1dc2f?source=rss----7b722bfd1b8d---4)
+- [CSRF in 2025: “Solved” But Still Bypassable](https://infosecwriteups.com/csrf-in-2025-solved-but-still-bypassable-942ca382ab77?source=rss----7b722bfd1b8d---4)
+- [Finding an api key in a .js file in the comments](https://infosecwriteups.com/finding-an-api-key-in-a-js-file-in-the-comments-67b30af1d451?source=rss----7b722bfd1b8d---4)
+- [Find related files to your bug bounty target](https://infosecwriteups.com/find-related-files-to-your-bug-bounty-target-4752d769eecc?source=rss----7b722bfd1b8d---4)
+- [Contagious Interview Campaign — A Phishing Methodology](https://infosecwriteups.com/contagious-interview-campaign-a-phishing-methodology-b8c708000c8a?source=rss----7b722bfd1b8d---4)
 - [How I Found an IDOR Vulnerability and Accessed 100000+ User Details and got $$$ Bounty](https://harshbardhanx.medium.com/how-i-found-an-idor-vulnerability-and-accessed-100000-user-details-and-got-bounty-3f2faf8642cf?source=rss------bug_bounty_writeup-5)
 - [JavaScript Enumeration for Bug Bounties: Expose Hidden Endpoints &amp; Secrets Like a Pro!](https://myselfakash20.medium.com/javascript-enumeration-for-bug-bounties-expose-hidden-endpoints-secrets-like-a-pro-418c2aec318f?source=rss------bug_bounty_writeup-5)
 - [Information Disclosure — The Hidden Risk in Public Reports!](https://medium.com/@momenrezkk90/information-disclosure-the-hidden-risk-in-public-reports-fd4ca13fd658?source=rss------bug_bounty_writeup-5)
@@ -10,13 +17,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Text Manipulation Tools for Linux and Windows](https://infosecwriteups.com/text-manipulation-tools-for-blue-team-7cef34c1e02a?source=rss----7b722bfd1b8d---4)
 - [JUST CRASHED SYSTEM USING IMAGE AND GOT BOUNTY $ 500](https://infosecwriteups.com/just-crashed-system-using-image-and-got-bounty-500-eb30dc4b85a5?source=rss----7b722bfd1b8d---4)
 - [How do you install and run LLMs such as deepseek-r1 locally?](https://infosecwriteups.com/how-do-you-install-and-run-llms-such-as-deepseek-r1-locally-2fde58d1e4bf?source=rss----7b722bfd1b8d---4)
-- [HTB: Cyber Apocalypse 2024 — Pet Companion](https://infosecwriteups.com/htb-cyber-apocalypse-2024-pet-companion-b9c289efc448?source=rss----7b722bfd1b8d---4)
-- [Spring Boot Is Moving Away from @Autowired – Here’s What You Should Do Instead!](https://infosecwriteups.com/spring-boot-is-moving-away-from-autowired-heres-what-you-should-do-instead-890cd16ca3dd?source=rss----7b722bfd1b8d---4)
-- [Bypassing AWS S3 Bucket Restrictions: Security Testing Techniques](https://infosecwriteups.com/bypassing-aws-s3-bucket-restrictions-security-testing-techniques-63fe75aa9ff8?source=rss----7b722bfd1b8d---4)
-- [$100-$20k worth Stored XSS Vulnerability | Hidden Methods](https://infosecwriteups.com/100-20k-worth-stored-xss-vulnerability-hidden-methods-e56fe57437c4?source=rss----7b722bfd1b8d---4)
-- [$500-$20k worth GraphQL Vulnerabilities | Advanced Tips &amp; Tricks](https://infosecwriteups.com/500-20k-worth-graphql-vulnerabilities-advanced-tips-tricks-74e8f4679b91?source=rss----7b722bfd1b8d---4)
-- [CVE-2025–1094: PostgreSQL Injection Vulnerability Exploit](https://infosecwriteups.com/cve-2025-1094-postgresql-sql-injection-vulnerability-exploit-2acf37ae399a?source=rss----7b722bfd1b8d---4)
-- [Finding an easy bug in the profile picture field.](https://infosecwriteups.com/finding-an-easy-bug-in-the-profile-picture-field-122a7aca2b42?source=rss----7b722bfd1b8d---4)
 - [When a Tiny Sensitive Leak Gave Me a Big $$$ Surprise‍️](https://medium.com/@iski/when-a-tiny-sensitive-leak-gave-me-a-big-surprise-%EF%B8%8F-a5feb54d8d82?source=rss------bug_bounty_writeup-5)
 - [Maximize Your Bug Bounty Earnings: Automate Endpoint Discovery &amp; Find High-Impact Vulnerabilities](https://hackersatty.medium.com/maximize-your-bug-bounty-earnings-automate-endpoint-discovery-find-high-impact-vulnerabilities-c9a530445e97?source=rss------bug_bounty_writeup-5)
 - [The Hidden Goldmine for Bug Hunters: DocumentCloud.org ️‍♂️](https://0xshuvo.medium.com/the-hidden-goldmine-for-bug-hunters-documentcloud-org-%EF%B8%8F-%EF%B8%8F-4146b5c1919f?source=rss------bug_bounty_writeup-5)
