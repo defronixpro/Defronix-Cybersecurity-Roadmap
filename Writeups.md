@@ -1,12 +1,6 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
-- [When ‘Disabled’ Isn’t Really Disabled! — Exploiting a Weird Logic Flaw to Destroy an Organization](https://som3a.medium.com/when-disabled-isn-t-really-disabled-exploiting-a-weird-logic-flaw-to-destroy-an-organization-17ad3d9542d0?source=rss------bug_bounty_writeup-5)
-- [How a Single Vulnerability Exposed Millions!](https://medium.com/@devdharan24/how-a-single-vulnerability-exposed-millions-49fdc95f4f35?source=rss------bug_bounty_writeup-5)
-- [How I Bypassed OTP Verification with Response Manipulation](https://medium.com/@pentestersuresh01/how-i-bypassed-otp-verification-with-response-manipulation-98be8d594a3f?source=rss------bug_bounty_writeup-5)
-- [easy business logic bug allowed me to install paid applications for my organization for free](https://medium.com/@youssefmohamedelgohre1/easy-business-logic-bug-allowed-me-to-install-paid-applications-for-my-organization-for-free-c992c9959910?source=rss------bug_bounty_writeup-5)
-- [Advanced Dorking Methodology for Finding Vulnerabilities &lpar;Part 1&rpar;](https://hackersatty.medium.com/advanced-dorking-methodology-for-finding-vulnerabilities-part-1-e3564e314819?source=rss------bug_bounty_writeup-5)
-- [How I Discovered a P2 Level Sensitive Data Exposure Bug in a Web3 Platform](https://cybersecuritywriteups.com/how-i-discovered-a-p2-level-sensitive-data-exposure-bug-in-a-web3-platform-4562fcbe655e?source=rss------bug_bounty_writeup-5)
 - [Easiest way to Find RCE &lpar;Package Dependency&rpar;](https://infosecwriteups.com/easiest-way-to-find-rce-package-dependency-d32efc70f2bf?source=rss----7b722bfd1b8d---4)
 - [Risen Ransomware — Letsdefend Challange](https://infosecwriteups.com/risen-ransomware-letsdefend-challange-d3428de3f039?source=rss----7b722bfd1b8d---4)
 - [Cracking Linux Password Hashes](https://infosecwriteups.com/cracking-linux-password-hashes-12dfb9e1dc2f?source=rss----7b722bfd1b8d---4)
@@ -14,10 +8,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Finding an api key in a .js file in the comments](https://infosecwriteups.com/finding-an-api-key-in-a-js-file-in-the-comments-67b30af1d451?source=rss----7b722bfd1b8d---4)
 - [Find related files to your bug bounty target](https://infosecwriteups.com/find-related-files-to-your-bug-bounty-target-4752d769eecc?source=rss----7b722bfd1b8d---4)
 - [Contagious Interview Campaign — A Phishing Methodology](https://infosecwriteups.com/contagious-interview-campaign-a-phishing-methodology-b8c708000c8a?source=rss----7b722bfd1b8d---4)
-- [How I Found an IDOR Vulnerability and Accessed 100000+ User Details and got $$$ Bounty](https://harshbardhanx.medium.com/how-i-found-an-idor-vulnerability-and-accessed-100000-user-details-and-got-bounty-3f2faf8642cf?source=rss------bug_bounty_writeup-5)
-- [JavaScript Enumeration for Bug Bounties: Expose Hidden Endpoints &amp; Secrets Like a Pro!](https://myselfakash20.medium.com/javascript-enumeration-for-bug-bounties-expose-hidden-endpoints-secrets-like-a-pro-418c2aec318f?source=rss------bug_bounty_writeup-5)
-- [Information Disclosure — The Hidden Risk in Public Reports!](https://medium.com/@momenrezkk90/information-disclosure-the-hidden-risk-in-public-reports-fd4ca13fd658?source=rss------bug_bounty_writeup-5)
-- [Bypassing Email Checks to Access Private Support Chats](https://medium.com/@rahulgairola/bypassing-email-checks-to-access-private-support-chats-c2895b1c9ef2?source=rss------bug_bounty_writeup-5)
 - [Text Manipulation Tools for Linux and Windows](https://infosecwriteups.com/text-manipulation-tools-for-blue-team-7cef34c1e02a?source=rss----7b722bfd1b8d---4)
 - [JUST CRASHED SYSTEM USING IMAGE AND GOT BOUNTY $ 500](https://infosecwriteups.com/just-crashed-system-using-image-and-got-bounty-500-eb30dc4b85a5?source=rss----7b722bfd1b8d---4)
 - [How do you install and run LLMs such as deepseek-r1 locally?](https://infosecwriteups.com/how-do-you-install-and-run-llms-such-as-deepseek-r1-locally-2fde58d1e4bf?source=rss----7b722bfd1b8d---4)
