@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How a Single Vulnerability Exposed Millions!](https://medium.com/@devdharan24/how-a-single-vulnerability-exposed-millions-49fdc95f4f35?source=rss------bug_bounty_writeup-5)
 - [How I Bypassed OTP Verification with Response Manipulation](https://medium.com/@pentestersuresh01/how-i-bypassed-otp-verification-with-response-manipulation-98be8d594a3f?source=rss------bug_bounty_writeup-5)
 - [easy business logic bug allowed me to install paid applications for my organization for free](https://medium.com/@youssefmohamedelgohre1/easy-business-logic-bug-allowed-me-to-install-paid-applications-for-my-organization-for-free-c992c9959910?source=rss------bug_bounty_writeup-5)
 - [Advanced Dorking Methodology for Finding Vulnerabilities &lpar;Part 1&rpar;](https://hackersatty.medium.com/advanced-dorking-methodology-for-finding-vulnerabilities-part-1-e3564e314819?source=rss------bug_bounty_writeup-5)
@@ -17,7 +18,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Information Disclosure — The Hidden Risk in Public Reports!](https://medium.com/@momenrezkk90/information-disclosure-the-hidden-risk-in-public-reports-fd4ca13fd658?source=rss------bug_bounty_writeup-5)
 - [Bypassing Email Checks to Access Private Support Chats](https://medium.com/@rahulgairola/bypassing-email-checks-to-access-private-support-chats-c2895b1c9ef2?source=rss------bug_bounty_writeup-5)
 - [The Only Guide You Need to Find XSS Like a Pro](https://sudosuraj.medium.com/the-only-guide-you-need-to-find-xss-like-a-pro-c337588f9da3?source=rss------bug_bounty_writeup-5)
-- [Bug Bounty Methodology &lpar;Part 1: Basic&rpar;](https://hackersatty.medium.com/bug-bounty-methodology-part-1-basic-ee4f3f7a4f81?source=rss------bug_bounty_writeup-5)
 - [Text Manipulation Tools for Linux and Windows](https://infosecwriteups.com/text-manipulation-tools-for-blue-team-7cef34c1e02a?source=rss----7b722bfd1b8d---4)
 - [JUST CRASHED SYSTEM USING IMAGE AND GOT BOUNTY $ 500](https://infosecwriteups.com/just-crashed-system-using-image-and-got-bounty-500-eb30dc4b85a5?source=rss----7b722bfd1b8d---4)
 - [How do you install and run LLMs such as deepseek-r1 locally?](https://infosecwriteups.com/how-do-you-install-and-run-llms-such-as-deepseek-r1-locally-2fde58d1e4bf?source=rss----7b722bfd1b8d---4)
