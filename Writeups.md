@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Finding a Publicly Accessible Asset Leak: How I Reported a Critical Vulnerability ##NASA](https://medium.com/@ashokpandiya71/finding-a-publicly-accessible-asset-leak-how-i-reported-a-critical-vulnerability-nasa-9fd626df59f5?source=rss------bug_bounty_writeup-5)
 - [How I Exploited an OTP Vulnerability &amp; Reported It! $$$](https://medium.com/@Bug_Slay3r/how-i-exploited-an-otp-vulnerability-reported-it-660da35d997a?source=rss------bug_bounty_writeup-5)
 - [Blind SQL Injection in Oracle Database: Exfiltrating Data with Burp Collaborator  —  SQL Injection…](https://infosecwriteups.com/blind-sql-injection-in-oracle-database-exfiltrating-data-with-burp-collaborator-sql-injection-2b8062b04d51?source=rss------bug_bounty_writeup-5)
 - [Exploiting an Exposed .git: Gaining Access to Source Code and Database](https://ilhamm0a.medium.com/exploiting-an-exposed-git-gaining-access-to-source-code-and-database-6cb7a5df6b4c?source=rss------bug_bounty_writeup-5)
@@ -17,7 +18,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Finding an api key in a .js file in the comments](https://infosecwriteups.com/finding-an-api-key-in-a-js-file-in-the-comments-67b30af1d451?source=rss----7b722bfd1b8d---4)
 - [Find related files to your bug bounty target](https://infosecwriteups.com/find-related-files-to-your-bug-bounty-target-4752d769eecc?source=rss----7b722bfd1b8d---4)
 - [Contagious Interview Campaign — A Phishing Methodology](https://infosecwriteups.com/contagious-interview-campaign-a-phishing-methodology-b8c708000c8a?source=rss----7b722bfd1b8d---4)
-- [How I Found an IDOR Vulnerability and Accessed 100000+ User Details and got $$$ Bounty](https://harshbardhanx.medium.com/how-i-found-an-idor-vulnerability-and-accessed-100000-user-details-and-got-bounty-3f2faf8642cf?source=rss------bug_bounty_writeup-5)
 - [Text Manipulation Tools for Linux and Windows](https://infosecwriteups.com/text-manipulation-tools-for-blue-team-7cef34c1e02a?source=rss----7b722bfd1b8d---4)
 - [JUST CRASHED SYSTEM USING IMAGE AND GOT BOUNTY $ 500](https://infosecwriteups.com/just-crashed-system-using-image-and-got-bounty-500-eb30dc4b85a5?source=rss----7b722bfd1b8d---4)
 - [How do you install and run LLMs such as deepseek-r1 locally?](https://infosecwriteups.com/how-do-you-install-and-run-llms-such-as-deepseek-r1-locally-2fde58d1e4bf?source=rss----7b722bfd1b8d---4)
