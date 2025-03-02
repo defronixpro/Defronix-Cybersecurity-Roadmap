@@ -16,7 +16,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Find related files to your bug bounty target](https://infosecwriteups.com/find-related-files-to-your-bug-bounty-target-4752d769eecc?source=rss----7b722bfd1b8d---4)
 - [Contagious Interview Campaign — A Phishing Methodology](https://infosecwriteups.com/contagious-interview-campaign-a-phishing-methodology-b8c708000c8a?source=rss----7b722bfd1b8d---4)
 - [How I Found an IDOR Vulnerability and Accessed 100000+ User Details and got $$$ Bounty](https://harshbardhanx.medium.com/how-i-found-an-idor-vulnerability-and-accessed-100000-user-details-and-got-bounty-3f2faf8642cf?source=rss------bug_bounty_writeup-5)
-- [JavaScript Enumeration for Bug Bounties: Expose Hidden Endpoints &amp; Secrets Like a Pro!](https://myselfakash20.medium.com/javascript-enumeration-for-bug-bounties-expose-hidden-endpoints-secrets-like-a-pro-418c2aec318f?source=rss------bug_bounty_writeup-5)
+- [JavaScript Enumeration for Bug Bounties: Expose Hidden Endpoints &amp; Secrets Like a Pro!](https://infosecwriteups.com/javascript-enumeration-for-bug-bounties-expose-hidden-endpoints-secrets-like-a-pro-418c2aec318f?source=rss------bug_bounty_writeup-5)
 - [Information Disclosure — The Hidden Risk in Public Reports!](https://medium.com/@momenrezkk90/information-disclosure-the-hidden-risk-in-public-reports-fd4ca13fd658?source=rss------bug_bounty_writeup-5)
 - [Text Manipulation Tools for Linux and Windows](https://infosecwriteups.com/text-manipulation-tools-for-blue-team-7cef34c1e02a?source=rss----7b722bfd1b8d---4)
 - [JUST CRASHED SYSTEM USING IMAGE AND GOT BOUNTY $ 500](https://infosecwriteups.com/just-crashed-system-using-image-and-got-bounty-500-eb30dc4b85a5?source=rss----7b722bfd1b8d---4)
