@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Exploiting an Exposed .git: Gaining Access to Source Code and Database](https://medium.com/@ilhamm.0a/exploiting-an-exposed-git-gaining-access-to-source-code-and-database-6cb7a5df6b4c?source=rss------bug_bounty_writeup-5)
 - [When ‘Disabled’ Isn’t Really Disabled! — Exploiting a Weird Logic Flaw to Destroy an Organization](https://som3a.medium.com/when-disabled-isn-t-really-disabled-exploiting-a-weird-logic-flaw-to-destroy-an-organization-17ad3d9542d0?source=rss------bug_bounty_writeup-5)
 - [How a Single Vulnerability Exposed Millions!](https://medium.com/@devdharan24/how-a-single-vulnerability-exposed-millions-49fdc95f4f35?source=rss------bug_bounty_writeup-5)
 - [How I Bypassed OTP Verification with Response Manipulation](https://medium.com/@pentestersuresh01/how-i-bypassed-otp-verification-with-response-manipulation-98be8d594a3f?source=rss------bug_bounty_writeup-5)
@@ -938,7 +939,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How I Found an IDOR Vulnerability and Accessed 100000+ User Details and got $$$ Bounty](https://harshbardhanx.medium.com/how-i-found-an-idor-vulnerability-and-accessed-100000-user-details-and-got-bounty-3f2faf8642cf?source=rss------bug_bounty_writeup-5)
 - [JavaScript Enumeration for Bug Bounties: Expose Hidden Endpoints &amp; Secrets Like a Pro!](https://myselfakash20.medium.com/javascript-enumeration-for-bug-bounties-expose-hidden-endpoints-secrets-like-a-pro-418c2aec318f?source=rss------bug_bounty_writeup-5)
 - [Information Disclosure — The Hidden Risk in Public Reports!](https://medium.com/@momenrezkk90/information-disclosure-the-hidden-risk-in-public-reports-fd4ca13fd658?source=rss------bug_bounty_writeup-5)
-- [Bypassing Email Checks to Access Private Support Chats](https://medium.com/@rahulgairola/bypassing-email-checks-to-access-private-support-chats-c2895b1c9ef2?source=rss------bug_bounty_writeup-5)
 - [Text Manipulation Tools for Linux and Windows](https://infosecwriteups.com/text-manipulation-tools-for-blue-team-7cef34c1e02a?source=rss----7b722bfd1b8d---4)
 - [JUST CRASHED SYSTEM USING IMAGE AND GOT BOUNTY $ 500](https://infosecwriteups.com/just-crashed-system-using-image-and-got-bounty-500-eb30dc4b85a5?source=rss----7b722bfd1b8d---4)
 - [How do you install and run LLMs such as deepseek-r1 locally?](https://infosecwriteups.com/how-do-you-install-and-run-llms-such-as-deepseek-r1-locally-2fde58d1e4bf?source=rss----7b722bfd1b8d---4)
