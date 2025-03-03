@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Bug Bounty Hunting with Censys: Finding an Unsecured Elasticsearch Instance and Reporting It](https://medium.com/@hacker_might/bug-bounty-hunting-with-censys-finding-an-unsecured-elasticsearch-instance-and-reporting-it-13a619cc0b4e?source=rss------bug_bounty_writeup-5)
 - [How I Uncovered an Email Leak That Could Have Cost Millions](https://krishna-cyber.medium.com/how-i-uncovered-an-email-leak-that-could-have-cost-millions-66500548d0b6?source=rss------bug_bounty_writeup-5)
 - [IDOR Allows Attackers to Delete Any User’s Identity Documents | IDOR | $$$$](https://medium.com/@Bug_Slay3r/idor-allows-attackers-to-delete-any-users-identity-documents-idor-18f0cc901d16?source=rss------bug_bounty_writeup-5)
 - [Advanced Open Redirection Techniques and Exploitation Using Burp Suite Dynamic Analysis](https://medium.com/@shadyfarouk1986/advanced-open-redirection-techniques-and-exploitation-using-burp-suite-dynamic-analysis-6d6f5bc23f66?source=rss------bug_bounty_writeup-5)
@@ -933,7 +934,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Exploiting an Exposed .git: Gaining Access to Source Code and Database](https://ilhamm0a.medium.com/exploiting-an-exposed-git-gaining-access-to-source-code-and-database-6cb7a5df6b4c?source=rss------bug_bounty_writeup-5)
 - [When ‘Disabled’ Isn’t Really Disabled! — Exploiting a Weird Logic Flaw to Destroy an Organization](https://som3a.medium.com/when-disabled-isn-t-really-disabled-exploiting-a-weird-logic-flaw-to-destroy-an-organization-17ad3d9542d0?source=rss------bug_bounty_writeup-5)
 - [How a Single Vulnerability Exposed Millions!](https://medium.com/@devdharan24/how-a-single-vulnerability-exposed-millions-49fdc95f4f35?source=rss------bug_bounty_writeup-5)
-- [How I Bypassed OTP Verification with Response Manipulation](https://medium.com/@pentestersuresh01/how-i-bypassed-otp-verification-with-response-manipulation-98be8d594a3f?source=rss------bug_bounty_writeup-5)
 - [Easiest way to Find RCE &lpar;Package Dependency&rpar;](https://infosecwriteups.com/easiest-way-to-find-rce-package-dependency-d32efc70f2bf?source=rss----7b722bfd1b8d---4)
 - [Risen Ransomware — Letsdefend Challange](https://infosecwriteups.com/risen-ransomware-letsdefend-challange-d3428de3f039?source=rss----7b722bfd1b8d---4)
 - [Cracking Linux Password Hashes](https://infosecwriteups.com/cracking-linux-password-hashes-12dfb9e1dc2f?source=rss----7b722bfd1b8d---4)
