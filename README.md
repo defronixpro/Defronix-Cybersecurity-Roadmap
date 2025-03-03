@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Advanced Open Redirection Techniques and Exploitation Using Burp Suite Dynamic Analysis](https://medium.com/@shadyfarouk1986/advanced-open-redirection-techniques-and-exploitation-using-burp-suite-dynamic-analysis-6d6f5bc23f66?source=rss------bug_bounty_writeup-5)
 - [LetsDefend — PCAP Analysis — Challenge — [Write-Up]](https://infosecwriteups.com/letsdefend-pcap-analysis-challenge-write-up-e958916c201b?source=rss----7b722bfd1b8d---4)
 - [$1000–$25k worth API Bug Attack &amp; Chaining Strategies](https://infosecwriteups.com/1000-25k-worth-api-bug-attack-chaining-strategies-ded4121b5791?source=rss----7b722bfd1b8d---4)
 - [Finding a Publicly Accessible Asset Leak: How I Reported a Critical Vulnerability ##NASA](https://medium.com/@ashokpandiya71/finding-a-publicly-accessible-asset-leak-how-i-reported-a-critical-vulnerability-nasa-9fd626df59f5?source=rss------bug_bounty_writeup-5)
@@ -933,7 +934,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How I Bypassed OTP Verification with Response Manipulation](https://medium.com/@pentestersuresh01/how-i-bypassed-otp-verification-with-response-manipulation-98be8d594a3f?source=rss------bug_bounty_writeup-5)
 - [easy business logic bug allowed me to install paid applications for my organization for free](https://medium.com/@youssefmohamedelgohre1/easy-business-logic-bug-allowed-me-to-install-paid-applications-for-my-organization-for-free-c992c9959910?source=rss------bug_bounty_writeup-5)
 - [Advanced Dorking Methodology for Finding Vulnerabilities &lpar;Part 1&rpar;](https://hackersatty.medium.com/advanced-dorking-methodology-for-finding-vulnerabilities-part-1-e3564e314819?source=rss------bug_bounty_writeup-5)
-- [How I Discovered a P2 Level Sensitive Data Exposure Bug in a Web3 Platform](https://cybersecuritywriteups.com/how-i-discovered-a-p2-level-sensitive-data-exposure-bug-in-a-web3-platform-4562fcbe655e?source=rss------bug_bounty_writeup-5)
 - [Easiest way to Find RCE &lpar;Package Dependency&rpar;](https://infosecwriteups.com/easiest-way-to-find-rce-package-dependency-d32efc70f2bf?source=rss----7b722bfd1b8d---4)
 - [Risen Ransomware — Letsdefend Challange](https://infosecwriteups.com/risen-ransomware-letsdefend-challange-d3428de3f039?source=rss----7b722bfd1b8d---4)
 - [Cracking Linux Password Hashes](https://infosecwriteups.com/cracking-linux-password-hashes-12dfb9e1dc2f?source=rss----7b722bfd1b8d---4)
