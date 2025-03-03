@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [LetsDefend — PCAP Analysis — Challenge — [Write-Up]](https://infosecwriteups.com/letsdefend-pcap-analysis-challenge-write-up-e958916c201b?source=rss----7b722bfd1b8d---4)
+- [$1000–$25k worth API Bug Attack &amp; Chaining Strategies](https://infosecwriteups.com/1000-25k-worth-api-bug-attack-chaining-strategies-ded4121b5791?source=rss----7b722bfd1b8d---4)
 - [Finding a Publicly Accessible Asset Leak: How I Reported a Critical Vulnerability ##NASA](https://medium.com/@ashokpandiya71/finding-a-publicly-accessible-asset-leak-how-i-reported-a-critical-vulnerability-nasa-9fd626df59f5?source=rss------bug_bounty_writeup-5)
 - [How I Exploited an OTP Vulnerability &amp; Reported It! $$$](https://medium.com/@Bug_Slay3r/how-i-exploited-an-otp-vulnerability-reported-it-660da35d997a?source=rss------bug_bounty_writeup-5)
 - [Blind SQL Injection in Oracle Database: Exfiltrating Data with Burp Collaborator  —  SQL Injection…](https://infosecwriteups.com/blind-sql-injection-in-oracle-database-exfiltrating-data-with-burp-collaborator-sql-injection-2b8062b04d51?source=rss------bug_bounty_writeup-5)
@@ -940,8 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Find related files to your bug bounty target](https://infosecwriteups.com/find-related-files-to-your-bug-bounty-target-4752d769eecc?source=rss----7b722bfd1b8d---4)
 - [Contagious Interview Campaign — A Phishing Methodology](https://infosecwriteups.com/contagious-interview-campaign-a-phishing-methodology-b8c708000c8a?source=rss----7b722bfd1b8d---4)
 - [Text Manipulation Tools for Linux and Windows](https://infosecwriteups.com/text-manipulation-tools-for-blue-team-7cef34c1e02a?source=rss----7b722bfd1b8d---4)
-- [JUST CRASHED SYSTEM USING IMAGE AND GOT BOUNTY $ 500](https://infosecwriteups.com/just-crashed-system-using-image-and-got-bounty-500-eb30dc4b85a5?source=rss----7b722bfd1b8d---4)
-- [How do you install and run LLMs such as deepseek-r1 locally?](https://infosecwriteups.com/how-do-you-install-and-run-llms-such-as-deepseek-r1-locally-2fde58d1e4bf?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
