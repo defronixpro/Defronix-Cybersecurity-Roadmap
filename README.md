@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Advanced Dorking Methodology for Finding Vulnerabilities &lpar;Part 2&rpar;](https://hackersatty.medium.com/advanced-dorking-methodology-for-finding-vulnerabilities-part-2-47a251b245c1?source=rss------bug_bounty_writeup-5)
 - [HackTheBox | Titanic Writeup](https://infosecwriteups.com/hackthebox-titanic-writeup-5f549dd90f38?source=rss----7b722bfd1b8d---4)
 - [Blind SQL Injection in Oracle Database: Exfiltrating Data with Burp Collaborator  —  SQL Injection…](https://infosecwriteups.com/blind-sql-injection-in-oracle-database-exfiltrating-data-with-burp-collaborator-sql-injection-2b8062b04d51?source=rss----7b722bfd1b8d---4)
 - [Bug Bounty Hunting: Web Vulnerability &lpar;Cross-Site Request Forgery&rpar;](https://infosecwriteups.com/bug-bounty-hunting-web-vulnerability-cross-site-request-forgery-54aefdf60bf8?source=rss----7b722bfd1b8d---4)
@@ -931,7 +932,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Exploit SSRF with Gopher for GCP Initial Access](https://infosecwriteups.com/exploit-ssrf-with-gopher-for-gcp-initial-access-4aa939f31db7?source=rss----7b722bfd1b8d---4)
 - [️‍♂️ When Google Became My Personal Vulnerability Scanner and helped me to find Exposed…](https://hiddendom.medium.com/%EF%B8%8F-%EF%B8%8F-when-google-became-my-personal-vulnerability-scanner-and-helped-me-to-find-exposed-d1d28d24d2ac?source=rss------bug_bounty_writeup-5)
 - [Discovering 3 in a Row: BAC Read-only Vulnerabilities Total $4,182](https://medium.com/@robert0/discovering-3-in-a-row-bac-read-only-vulnerabilities-total-4-182-59c93b753eb8?source=rss------bug_bounty_writeup-5)
-- [Bug Bounty Hunting with Censys: Finding an Unsecured Elasticsearch Instance and Reporting It](https://medium.com/@hacker_might/bug-bounty-hunting-with-censys-finding-an-unsecured-elasticsearch-instance-and-reporting-it-13a619cc0b4e?source=rss------bug_bounty_writeup-5)
+- [Bug Bounty Hunting with Censys: Finding an Unsecured Elasticsearch Instance and Reporting It](https://osintteam.blog/bug-bounty-hunting-with-censys-finding-an-unsecured-elasticsearch-instance-and-reporting-it-13a619cc0b4e?source=rss------bug_bounty_writeup-5)
 - [How I Uncovered an Email Leak That Could Have Cost Millions](https://krishna-cyber.medium.com/how-i-uncovered-an-email-leak-that-could-have-cost-millions-66500548d0b6?source=rss------bug_bounty_writeup-5)
 - [IDOR Allows Attackers to Delete Any User’s Identity Documents | IDOR | $$$$](https://medium.com/@Bug_Slay3r/idor-allows-attackers-to-delete-any-users-identity-documents-idor-18f0cc901d16?source=rss------bug_bounty_writeup-5)
 - [Advanced Open Redirection Techniques and Exploitation Using Burp Suite Dynamic Analysis](https://medium.com/@shadyfarouk1986/advanced-open-redirection-techniques-and-exploitation-using-burp-suite-dynamic-analysis-6d6f5bc23f66?source=rss------bug_bounty_writeup-5)
@@ -940,7 +941,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Finding a Publicly Accessible Asset Leak: How I Reported a Critical Vulnerability ##NASA](https://medium.com/@ashokpandiya71/finding-a-publicly-accessible-asset-leak-how-i-reported-a-critical-vulnerability-nasa-9fd626df59f5?source=rss------bug_bounty_writeup-5)
 - [How I Exploited an OTP Vulnerability &amp; Reported It! $$$](https://medium.com/@Bug_Slay3r/how-i-exploited-an-otp-vulnerability-reported-it-660da35d997a?source=rss------bug_bounty_writeup-5)
 - [Blind SQL Injection in Oracle Database: Exfiltrating Data with Burp Collaborator  —  SQL Injection…](https://infosecwriteups.com/blind-sql-injection-in-oracle-database-exfiltrating-data-with-burp-collaborator-sql-injection-2b8062b04d51?source=rss------bug_bounty_writeup-5)
-- [Exploiting an Exposed .git: Gaining Access to Source Code and Database](https://ilhamm0a.medium.com/exploiting-an-exposed-git-gaining-access-to-source-code-and-database-6cb7a5df6b4c?source=rss------bug_bounty_writeup-5)
 - [Easiest way to Find RCE &lpar;Package Dependency&rpar;](https://infosecwriteups.com/easiest-way-to-find-rce-package-dependency-d32efc70f2bf?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
