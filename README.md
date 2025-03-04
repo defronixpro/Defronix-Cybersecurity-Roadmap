@@ -922,6 +922,12 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [HackTheBox | Titanic Writeup](https://infosecwriteups.com/hackthebox-titanic-writeup-5f549dd90f38?source=rss----7b722bfd1b8d---4)
+- [Blind SQL Injection in Oracle Database: Exfiltrating Data with Burp Collaborator  —  SQL Injection…](https://infosecwriteups.com/blind-sql-injection-in-oracle-database-exfiltrating-data-with-burp-collaborator-sql-injection-2b8062b04d51?source=rss----7b722bfd1b8d---4)
+- [Bug Bounty Hunting: Web Vulnerability &lpar;Cross-Site Request Forgery&rpar;](https://infosecwriteups.com/bug-bounty-hunting-web-vulnerability-cross-site-request-forgery-54aefdf60bf8?source=rss----7b722bfd1b8d---4)
+- [Using LSB To Hide Data In My Socks](https://infosecwriteups.com/using-lsb-to-hide-data-in-my-socks-7aac1e467c45?source=rss----7b722bfd1b8d---4)
+- [1000$ IDOR vulnerability on Krisp | Hackerone](https://infosecwriteups.com/1000-idor-vulnerability-on-krisp-hackerone-04fa343a9a65?source=rss----7b722bfd1b8d---4)
+- [Cicada VulnLab | Kerberos Relay &amp; ESC8: Painfully Yours](https://infosecwriteups.com/cicada-vulnlab-kerberos-relay-esc8-painfully-yours-992582ec00cf?source=rss----7b722bfd1b8d---4)
 - [Exploit SSRF with Gopher for GCP Initial Access](https://infosecwriteups.com/exploit-ssrf-with-gopher-for-gcp-initial-access-4aa939f31db7?source=rss----7b722bfd1b8d---4)
 - [️‍♂️ When Google Became My Personal Vulnerability Scanner and helped me to find Exposed…](https://hiddendom.medium.com/%EF%B8%8F-%EF%B8%8F-when-google-became-my-personal-vulnerability-scanner-and-helped-me-to-find-exposed-d1d28d24d2ac?source=rss------bug_bounty_writeup-5)
 - [Discovering 3 in a Row: BAC Read-only Vulnerabilities Total $4,182](https://medium.com/@robert0/discovering-3-in-a-row-bac-read-only-vulnerabilities-total-4-182-59c93b753eb8?source=rss------bug_bounty_writeup-5)
@@ -936,12 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Blind SQL Injection in Oracle Database: Exfiltrating Data with Burp Collaborator  —  SQL Injection…](https://infosecwriteups.com/blind-sql-injection-in-oracle-database-exfiltrating-data-with-burp-collaborator-sql-injection-2b8062b04d51?source=rss------bug_bounty_writeup-5)
 - [Exploiting an Exposed .git: Gaining Access to Source Code and Database](https://ilhamm0a.medium.com/exploiting-an-exposed-git-gaining-access-to-source-code-and-database-6cb7a5df6b4c?source=rss------bug_bounty_writeup-5)
 - [Easiest way to Find RCE &lpar;Package Dependency&rpar;](https://infosecwriteups.com/easiest-way-to-find-rce-package-dependency-d32efc70f2bf?source=rss----7b722bfd1b8d---4)
-- [Risen Ransomware — Letsdefend Challange](https://infosecwriteups.com/risen-ransomware-letsdefend-challange-d3428de3f039?source=rss----7b722bfd1b8d---4)
-- [Cracking Linux Password Hashes](https://infosecwriteups.com/cracking-linux-password-hashes-12dfb9e1dc2f?source=rss----7b722bfd1b8d---4)
-- [CSRF in 2025: “Solved” But Still Bypassable](https://infosecwriteups.com/csrf-in-2025-solved-but-still-bypassable-942ca382ab77?source=rss----7b722bfd1b8d---4)
-- [Finding an api key in a .js file in the comments](https://infosecwriteups.com/finding-an-api-key-in-a-js-file-in-the-comments-67b30af1d451?source=rss----7b722bfd1b8d---4)
-- [Find related files to your bug bounty target](https://infosecwriteups.com/find-related-files-to-your-bug-bounty-target-4752d769eecc?source=rss----7b722bfd1b8d---4)
-- [Contagious Interview Campaign — A Phishing Methodology](https://infosecwriteups.com/contagious-interview-campaign-a-phishing-methodology-b8c708000c8a?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
