@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Streamline Reconnaissance with NetSanitizer: A URL Deduplication Powerhouse for Bug Bounty Hunters](https://medium.com/@iamsecure1920/streamline-reconnaissance-with-netsanitizer-a-url-deduplication-powerhouse-for-bug-bounty-hunters-a2832821b03c?source=rss------bug_bounty_writeup-5)
 - [How to Find Your First Easy Bug as a Bug Bounty Hunter &lpar;Step-by-Step Guide&rpar;](https://abhinav-porwal.medium.com/how-to-find-your-first-easy-bug-as-a-bug-bounty-hunter-step-by-step-guide-151f3150ba4e?source=rss------bug_bounty_writeup-5)
 - [HTB Pro Lab: Zephyr — A Legit Investment or a Waste of Money ?](https://infosecwriteups.com/htb-pro-lab-zephyr-a-legit-investment-or-a-waste-of-money-53073bfea971?source=rss----7b722bfd1b8d---4)
 - [Snyk Fetch the Flag 2025 Write-Up: VulnScanner](https://infosecwriteups.com/snyk-fetch-the-flag-2025-write-up-vulnscanner-5b85f99a1bbc?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [IDOR Allows Attackers to Delete Any User’s Identity Documents | IDOR | $$$$](https://medium.com/@Bug_Slay3r/idor-allows-attackers-to-delete-any-users-identity-documents-idor-18f0cc901d16?source=rss------bug_bounty_writeup-5)
 - [Advanced Open Redirection Techniques and Exploitation Using Burp Suite Dynamic Analysis](https://medium.com/@shadyfarouk1986/advanced-open-redirection-techniques-and-exploitation-using-burp-suite-dynamic-analysis-6d6f5bc23f66?source=rss------bug_bounty_writeup-5)
 - [Finding a Publicly Accessible Asset Leak: How I Reported a Critical Vulnerability ##NASA](https://medium.com/@ashokpandiya71/finding-a-publicly-accessible-asset-leak-how-i-reported-a-critical-vulnerability-nasa-9fd626df59f5?source=rss------bug_bounty_writeup-5)
-- [How I Exploited an OTP Vulnerability &amp; Reported It! $$$](https://medium.com/@Bug_Slay3r/how-i-exploited-an-otp-vulnerability-reported-it-660da35d997a?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
