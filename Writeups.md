@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Advanced Dorking Methodology for Finding Vulnerabilities &lpar;Part 2&rpar;](https://hackersatty.medium.com/advanced-dorking-methodology-for-finding-vulnerabilities-part-2-47a251b245c1?source=rss------bug_bounty_writeup-5)
 - [HackTheBox | Titanic Writeup](https://infosecwriteups.com/hackthebox-titanic-writeup-5f549dd90f38?source=rss----7b722bfd1b8d---4)
 - [Blind SQL Injection in Oracle Database: Exfiltrating Data with Burp Collaborator  —  SQL Injection…](https://infosecwriteups.com/blind-sql-injection-in-oracle-database-exfiltrating-data-with-burp-collaborator-sql-injection-2b8062b04d51?source=rss----7b722bfd1b8d---4)
 - [Bug Bounty Hunting: Web Vulnerability &lpar;Cross-Site Request Forgery&rpar;](https://infosecwriteups.com/bug-bounty-hunting-web-vulnerability-cross-site-request-forgery-54aefdf60bf8?source=rss----7b722bfd1b8d---4)
@@ -19,7 +20,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Finding a Publicly Accessible Asset Leak: How I Reported a Critical Vulnerability ##NASA](https://medium.com/@ashokpandiya71/finding-a-publicly-accessible-asset-leak-how-i-reported-a-critical-vulnerability-nasa-9fd626df59f5?source=rss------bug_bounty_writeup-5)
 - [How I Exploited an OTP Vulnerability &amp; Reported It! $$$](https://medium.com/@Bug_Slay3r/how-i-exploited-an-otp-vulnerability-reported-it-660da35d997a?source=rss------bug_bounty_writeup-5)
 - [Blind SQL Injection in Oracle Database: Exfiltrating Data with Burp Collaborator  —  SQL Injection…](https://infosecwriteups.com/blind-sql-injection-in-oracle-database-exfiltrating-data-with-burp-collaborator-sql-injection-2b8062b04d51?source=rss------bug_bounty_writeup-5)
-- [Exploiting an Exposed .git: Gaining Access to Source Code and Database](https://ilhamm0a.medium.com/exploiting-an-exposed-git-gaining-access-to-source-code-and-database-6cb7a5df6b4c?source=rss------bug_bounty_writeup-5)
 - [Easiest way to Find RCE &lpar;Package Dependency&rpar;](https://infosecwriteups.com/easiest-way-to-find-rce-package-dependency-d32efc70f2bf?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
