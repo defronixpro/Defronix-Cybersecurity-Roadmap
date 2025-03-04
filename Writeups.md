@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [HTB Pro Lab: Zephyr — A Legit Investment or a Waste of Money ?](https://infosecwriteups.com/htb-pro-lab-zephyr-a-legit-investment-or-a-waste-of-money-53073bfea971?source=rss----7b722bfd1b8d---4)
 - [Snyk Fetch the Flag 2025 Write-Up: VulnScanner](https://infosecwriteups.com/snyk-fetch-the-flag-2025-write-up-vulnscanner-5b85f99a1bbc?source=rss----7b722bfd1b8d---4)
 - [Visualizing XSS With Unusual Payloads](https://infosecwriteups.com/visualizing-xss-with-unusual-payloads-09e19a5f33c3?source=rss----7b722bfd1b8d---4)
 - [⭐SOC334 — Apache Tomcat RCE Exploitation Detected &lpar;CVE-2024–50379&rpar;](https://infosecwriteups.com/soc334-apache-tomcat-rce-exploitation-detected-cve-2024-50379-191d60b1fe5c?source=rss----7b722bfd1b8d---4)
@@ -11,7 +12,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Blind SQL Injection in Oracle Database: Exfiltrating Data with Burp Collaborator  —  SQL Injection…](https://infosecwriteups.com/blind-sql-injection-in-oracle-database-exfiltrating-data-with-burp-collaborator-sql-injection-2b8062b04d51?source=rss----7b722bfd1b8d---4)
 - [Bug Bounty Hunting: Web Vulnerability &lpar;Cross-Site Request Forgery&rpar;](https://infosecwriteups.com/bug-bounty-hunting-web-vulnerability-cross-site-request-forgery-54aefdf60bf8?source=rss----7b722bfd1b8d---4)
 - [Using LSB To Hide Data In My Socks](https://infosecwriteups.com/using-lsb-to-hide-data-in-my-socks-7aac1e467c45?source=rss----7b722bfd1b8d---4)
-- [1000$ IDOR vulnerability on Krisp | Hackerone](https://infosecwriteups.com/1000-idor-vulnerability-on-krisp-hackerone-04fa343a9a65?source=rss----7b722bfd1b8d---4)
 - [️‍♂️ When Google Became My Personal Vulnerability Scanner and helped me to find Exposed…](https://hiddendom.medium.com/%EF%B8%8F-%EF%B8%8F-when-google-became-my-personal-vulnerability-scanner-and-helped-me-to-find-exposed-d1d28d24d2ac?source=rss------bug_bounty_writeup-5)
 - [Discovering 3 in a Row: BAC Read-only Vulnerabilities Total $4,182](https://medium.com/@robert0/discovering-3-in-a-row-bac-read-only-vulnerabilities-total-4-182-59c93b753eb8?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Hunting with Censys: Finding an Unsecured Elasticsearch Instance and Reporting It](https://osintteam.blog/bug-bounty-hunting-with-censys-finding-an-unsecured-elasticsearch-instance-and-reporting-it-13a619cc0b4e?source=rss------bug_bounty_writeup-5)
