@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [The Art of Recon: Hunting Bugs Before They Hide — Part Three &lpar;From Recon to Reward&rpar;](https://zeusvuln.medium.com/the-art-of-recon-hunting-bugs-before-they-hide-part-three-from-recon-to-reward-c9eea7cf5b10?source=rss------bug_bounty_writeup-5)
 - [From Zero to Hero: Your Step-by-Step Guide to Bagging Your First Bug Bounty &lpar;With Real-World…](https://krishna-cyber.medium.com/from-zero-to-hero-your-step-by-step-guide-to-bagging-your-first-bug-bounty-with-real-world-0e2f63ac0030?source=rss------bug_bounty_writeup-5)
 - [Streamline Reconnaissance with NetSanitizer: A URL Deduplication Powerhouse for Bug Bounty Hunters](https://medium.com/@iamsecure1920/streamline-reconnaissance-with-netsanitizer-a-url-deduplication-powerhouse-for-bug-bounty-hunters-a2832821b03c?source=rss------bug_bounty_writeup-5)
 - [How to Find Your First Easy Bug as a Bug Bounty Hunter &lpar;Step-by-Step Guide&rpar;](https://abhinav-porwal.medium.com/how-to-find-your-first-easy-bug-as-a-bug-bounty-hunter-step-by-step-guide-151f3150ba4e?source=rss------bug_bounty_writeup-5)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Bug Bounty Hunting with Censys: Finding an Unsecured Elasticsearch Instance and Reporting It](https://osintteam.blog/bug-bounty-hunting-with-censys-finding-an-unsecured-elasticsearch-instance-and-reporting-it-13a619cc0b4e?source=rss------bug_bounty_writeup-5)
 - [How I Uncovered an Email Leak That Could Have Cost Millions](https://krishna-cyber.medium.com/how-i-uncovered-an-email-leak-that-could-have-cost-millions-66500548d0b6?source=rss------bug_bounty_writeup-5)
 - [IDOR Allows Attackers to Delete Any User’s Identity Documents | IDOR | $$$$](https://medium.com/@Bug_Slay3r/idor-allows-attackers-to-delete-any-users-identity-documents-idor-18f0cc901d16?source=rss------bug_bounty_writeup-5)
-- [Advanced Open Redirection Techniques and Exploitation Using Burp Suite Dynamic Analysis](https://medium.com/@shadyfarouk1986/advanced-open-redirection-techniques-and-exploitation-using-burp-suite-dynamic-analysis-6d6f5bc23f66?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
