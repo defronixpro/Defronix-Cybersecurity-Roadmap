@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Cracking the Shield: Advanced WAF Bypass Techniques That Still Work in 2025](https://myselfakash20.medium.com/cracking-the-shield-advanced-waf-bypass-techniques-that-still-work-in-2025-814cee616ccf?source=rss------bug_bounty_writeup-5)
 - [Bypass WAF Cloudflare RXSS | Hackerone](https://infosecwriteups.com/bypass-waf-cloudflare-rxss-hackerone-c12c57809ad6?source=rss----7b722bfd1b8d---4)
 - [Finding jwt tokens that lead to PII data leakage.](https://infosecwriteups.com/finding-jwt-tokens-that-lead-to-pii-data-leakage-b047d45d97bf?source=rss----7b722bfd1b8d---4)
 - [Penetration testing a Kubernetes environment](https://infosecwriteups.com/penetration-testing-a-kubernetes-environment-72719f9e1010?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Discovering 3 in a Row: BAC Read-only Vulnerabilities Total $4,182](https://medium.com/@robert0/discovering-3-in-a-row-bac-read-only-vulnerabilities-total-4-182-59c93b753eb8?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Hunting with Censys: Finding an Unsecured Elasticsearch Instance and Reporting It](https://osintteam.blog/bug-bounty-hunting-with-censys-finding-an-unsecured-elasticsearch-instance-and-reporting-it-13a619cc0b4e?source=rss------bug_bounty_writeup-5)
 - [How I Uncovered an Email Leak That Could Have Cost Millions](https://krishna-cyber.medium.com/how-i-uncovered-an-email-leak-that-could-have-cost-millions-66500548d0b6?source=rss------bug_bounty_writeup-5)
-- [IDOR Allows Attackers to Delete Any User’s Identity Documents | IDOR | $$$$](https://medium.com/@Bug_Slay3r/idor-allows-attackers-to-delete-any-users-identity-documents-idor-18f0cc901d16?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
