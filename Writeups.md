@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [BreachSeek - Multi-Agent Automated Penetration Tester](https://gaya3-r.medium.com/breachseek-multi-agent-automated-penetration-tester-b5fd61dab0a4?source=rss------bug_bounty_writeup-5)
 - [6 Best AI Website Builders of 2025 — Which One is Right for You?](https://infosecwriteups.com/best-ai-website-builders-2025-cd8fb61a6e45?source=rss----7b722bfd1b8d---4)
 - [Cracking the Code: Unveiling the Hidden Dangers of Account Takeover](https://osintteam.blog/cracking-the-code-unveiling-the-hidden-dangers-of-account-takeover-487fb5407c2c?source=rss------bug_bounty_writeup-5)
 - [Critical IDOR Vulnerability in Order Tracking System Exposes Customer Data](https://jxycybersec.medium.com/critical-idor-vulnerability-in-order-tracking-system-exposes-customer-data-a9dbae34d329?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How to Find Your First Easy Bug as a Bug Bounty Hunter &lpar;Step-by-Step Guide&rpar;](https://abhinav-porwal.medium.com/how-to-find-your-first-easy-bug-as-a-bug-bounty-hunter-step-by-step-guide-151f3150ba4e?source=rss------bug_bounty_writeup-5)
 - [HTB Pro Lab: Zephyr — A Legit Investment or a Waste of Money ?](https://infosecwriteups.com/htb-pro-lab-zephyr-a-legit-investment-or-a-waste-of-money-53073bfea971?source=rss----7b722bfd1b8d---4)
 - [Advanced Dorking Methodology for Finding Vulnerabilities &lpar;Part 2&rpar;](https://hackersatty.medium.com/advanced-dorking-methodology-for-finding-vulnerabilities-part-2-47a251b245c1?source=rss------bug_bounty_writeup-5)
-- [️‍♂️ When Google Became My Personal Vulnerability Scanner and helped me to find Exposed…](https://systemweakness.com/%EF%B8%8F-%EF%B8%8F-when-google-became-my-personal-vulnerability-scanner-and-helped-me-to-find-exposed-d1d28d24d2ac?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
