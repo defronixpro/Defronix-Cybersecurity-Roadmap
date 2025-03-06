@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [8 Best AI Headshot Generators of 2025 — Tested &amp; Reviewed &lpar;With Samples!&rpar;](https://infosecwriteups.com/best-ai-headshot-generators-2025-a2480d72dc6d?source=rss----7b722bfd1b8d---4)
+- [How I Earned $4,000+ in My First Six Months of Bug Bounty Hunting](https://medium.com/@nchaitreddyutilities/how-i-earned-4-000-in-my-first-six-months-of-bug-bounty-hunting-e969144a368a?source=rss------bug_bounty_writeup-5)
 - [Sendai Vulnlab| ESC4 &amp; ReadGMSAPassword for AD Domination](https://infosecwriteups.com/sendai-vulnlab-esc4-readgmsapassword-for-ad-domination-8b2638bf8268?source=rss----7b722bfd1b8d---4)
 - [$50-$100 worth Sensitive Leaks via Google Dorks | Part 2](https://infosecwriteups.com/50-100-worth-sensitive-leaks-via-google-dorks-part-2-868f4b1e7919?source=rss----7b722bfd1b8d---4)
 - [Use this unique way to find broken link hijacking bugs.](https://infosecwriteups.com/use-this-unique-way-to-find-broken-link-hijacking-bugs-3081878839d4?source=rss----7b722bfd1b8d---4)
@@ -937,11 +939,9 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Cracking the Shield: Advanced WAF Bypass Techniques That Still Work in 2025](https://myselfakash20.medium.com/cracking-the-shield-advanced-waf-bypass-techniques-that-still-work-in-2025-814cee616ccf?source=rss------bug_bounty_writeup-5)
 - [Bypass WAF Cloudflare RXSS | Hackerone](https://infosecwriteups.com/bypass-waf-cloudflare-rxss-hackerone-c12c57809ad6?source=rss----7b722bfd1b8d---4)
 - [Finding jwt tokens that lead to PII data leakage.](https://infosecwriteups.com/finding-jwt-tokens-that-lead-to-pii-data-leakage-b047d45d97bf?source=rss----7b722bfd1b8d---4)
-- [Penetration testing a Kubernetes environment](https://infosecwriteups.com/penetration-testing-a-kubernetes-environment-72719f9e1010?source=rss----7b722bfd1b8d---4)
 - [The Art of Recon: Hunting Bugs Before They Hide — Part Three &lpar;From Recon to Reward&rpar;](https://zeusvuln.medium.com/the-art-of-recon-hunting-bugs-before-they-hide-part-three-from-recon-to-reward-c9eea7cf5b10?source=rss------bug_bounty_writeup-5)
 - [From Zero to Hero: Your Step-by-Step Guide to Bagging Your First Bug Bounty &lpar;With Real-World…](https://krishna-cyber.medium.com/from-zero-to-hero-your-step-by-step-guide-to-bagging-your-first-bug-bounty-with-real-world-0e2f63ac0030?source=rss------bug_bounty_writeup-5)
 - [Streamline Reconnaissance with NetSanitizer: A URL Deduplication Powerhouse for Bug Bounty Hunters](https://medium.com/@iamsecure1920/streamline-reconnaissance-with-netsanitizer-a-url-deduplication-powerhouse-for-bug-bounty-hunters-a2832821b03c?source=rss------bug_bounty_writeup-5)
-- [How to Find Your First Easy Bug as a Bug Bounty Hunter &lpar;Step-by-Step Guide&rpar;](https://abhinav-porwal.medium.com/how-to-find-your-first-easy-bug-as-a-bug-bounty-hunter-step-by-step-guide-151f3150ba4e?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
