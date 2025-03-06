@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How I Ethically Hacked a Government Portal: SQL Injection in a Gov. Portal](https://myselfakash20.medium.com/how-i-ethically-hacked-a-government-portal-sql-injection-in-a-gov-portal-9682869e5999?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty: How a Race Condition Led to Application-Level DoS](https://medium.com/@Bug_Slay3r/bug-bounty-how-a-race-condition-led-to-application-level-dos-76458ae57e9d?source=rss------bug_bounty_writeup-5)
 - [Invite Me Once, I Own Your Account!” &lpar;HINDI + ENGLISH&rpar;](https://medium.com/@ajay.kumar.695632/invite-me-once-i-own-your-account-hindi-english-b27cb72fe64a?source=rss------bug_bounty_writeup-5)
 - [Never Underestimate Any Error. This is why I Got Appreciation Letter from Drexel University CISO](https://hiddendom.medium.com/never-underestimate-any-error-this-is-why-i-got-appreciation-letter-from-drexel-university-ciso-ba37a6bad077?source=rss------bug_bounty_writeup-5)
@@ -18,7 +19,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Cracking the Code: Unveiling the Hidden Dangers of Account Takeover](https://osintteam.blog/cracking-the-code-unveiling-the-hidden-dangers-of-account-takeover-487fb5407c2c?source=rss------bug_bounty_writeup-5)
 - [Critical IDOR Vulnerability in Order Tracking System Exposes Customer Data](https://jxycybersec.medium.com/critical-idor-vulnerability-in-order-tracking-system-exposes-customer-data-a9dbae34d329?source=rss------bug_bounty_writeup-5)
 - [The Curious Case of an Insecure Password Reset Flaw](https://sapienshack.medium.com/the-curious-case-of-an-insecure-password-reset-flaw-135000e4a462?source=rss------bug_bounty_writeup-5)
-- [Cracking the Shield: Advanced WAF Bypass Techniques That Still Work in 2025](https://myselfakash20.medium.com/cracking-the-shield-advanced-waf-bypass-techniques-that-still-work-in-2025-814cee616ccf?source=rss------bug_bounty_writeup-5)
 - [Bypass WAF Cloudflare RXSS | Hackerone](https://infosecwriteups.com/bypass-waf-cloudflare-rxss-hackerone-c12c57809ad6?source=rss----7b722bfd1b8d---4)
 - [Finding jwt tokens that lead to PII data leakage.](https://infosecwriteups.com/finding-jwt-tokens-that-lead-to-pii-data-leakage-b047d45d97bf?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
