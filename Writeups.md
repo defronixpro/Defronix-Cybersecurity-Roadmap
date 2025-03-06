@@ -1,6 +1,10 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Use this unique way to find broken link hijacking bugs.](https://infosecwriteups.com/use-this-unique-way-to-find-broken-link-hijacking-bugs-3081878839d4?source=rss----7b722bfd1b8d---4)
+- [SOC329 — CUPS RCE Detection via IPP Injection &lpar;CVE-2024–47177&rpar;](https://infosecwriteups.com/soc329-cups-rce-detection-via-ipp-injection-cve-2024-47177-6022c49181f3?source=rss----7b722bfd1b8d---4)
+- [Open Redirect To XSS | Hackerone](https://infosecwriteups.com/open-redirect-to-xss-hackerone-413ced1d4e1e?source=rss----7b722bfd1b8d---4)
+- [Finding the origin IP part 2](https://infosecwriteups.com/finding-the-origin-ip-part-2-c96d7488c40e?source=rss----7b722bfd1b8d---4)
 - [My First Bug Bounty Win: How I Found and Reported a Security Vulnerability](https://heinhtetagg.medium.com/my-first-bug-bounty-win-how-i-found-and-reported-a-security-vulnerability-c41fdfd717c2?source=rss------bug_bounty_writeup-5)
 - [BreachSeek - Multi-Agent Automated Penetration Tester](https://gaya3-r.medium.com/breachseek-multi-agent-automated-penetration-tester-b5fd61dab0a4?source=rss------bug_bounty_writeup-5)
 - [6 Best AI Website Builders of 2025 — Which One is Right for You?](https://infosecwriteups.com/best-ai-website-builders-2025-cd8fb61a6e45?source=rss----7b722bfd1b8d---4)
@@ -13,14 +17,10 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Penetration testing a Kubernetes environment](https://infosecwriteups.com/penetration-testing-a-kubernetes-environment-72719f9e1010?source=rss----7b722bfd1b8d---4)
 - [SURIKATA: Stopping Insider Threats Before They Strike](https://infosecwriteups.com/surikata-stopping-insider-threats-before-they-strike-17c2174cafe7?source=rss----7b722bfd1b8d---4)
 - [Able to create an account without a phone number. &lpar;unique bug&rpar;](https://infosecwriteups.com/able-to-create-an-account-without-a-phone-number-unique-bug-1fe2d14b9d54?source=rss----7b722bfd1b8d---4)
-- [SSRF steals EC2 tokens](https://infosecwriteups.com/ssrf-steals-ec2-tokens-d6f46835286e?source=rss----7b722bfd1b8d---4)
-- [Find new apex domains that are related to your bug bounty target.](https://infosecwriteups.com/find-new-apex-domains-that-are-related-to-your-bug-bounty-target-a05fdcbf5875?source=rss----7b722bfd1b8d---4)
-- [A Logical Bug That Slipped Through](https://infosecwriteups.com/a-logical-bug-that-slipped-through-792b90850e72?source=rss----7b722bfd1b8d---4)
 - [The Art of Recon: Hunting Bugs Before They Hide — Part Three &lpar;From Recon to Reward&rpar;](https://zeusvuln.medium.com/the-art-of-recon-hunting-bugs-before-they-hide-part-three-from-recon-to-reward-c9eea7cf5b10?source=rss------bug_bounty_writeup-5)
 - [From Zero to Hero: Your Step-by-Step Guide to Bagging Your First Bug Bounty &lpar;With Real-World…](https://krishna-cyber.medium.com/from-zero-to-hero-your-step-by-step-guide-to-bagging-your-first-bug-bounty-with-real-world-0e2f63ac0030?source=rss------bug_bounty_writeup-5)
 - [Streamline Reconnaissance with NetSanitizer: A URL Deduplication Powerhouse for Bug Bounty Hunters](https://medium.com/@iamsecure1920/streamline-reconnaissance-with-netsanitizer-a-url-deduplication-powerhouse-for-bug-bounty-hunters-a2832821b03c?source=rss------bug_bounty_writeup-5)
 - [How to Find Your First Easy Bug as a Bug Bounty Hunter &lpar;Step-by-Step Guide&rpar;](https://abhinav-porwal.medium.com/how-to-find-your-first-easy-bug-as-a-bug-bounty-hunter-step-by-step-guide-151f3150ba4e?source=rss------bug_bounty_writeup-5)
-- [HTB Pro Lab: Zephyr — A Legit Investment or a Waste of Money ?](https://infosecwriteups.com/htb-pro-lab-zephyr-a-legit-investment-or-a-waste-of-money-53073bfea971?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
