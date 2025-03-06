@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [My First Bug Bounty Win: How I Found and Reported a Security Vulnerability](https://heinhtetagg.medium.com/my-first-bug-bounty-win-how-i-found-and-reported-a-security-vulnerability-c41fdfd717c2?source=rss------bug_bounty_writeup-5)
 - [BreachSeek - Multi-Agent Automated Penetration Tester](https://gaya3-r.medium.com/breachseek-multi-agent-automated-penetration-tester-b5fd61dab0a4?source=rss------bug_bounty_writeup-5)
 - [6 Best AI Website Builders of 2025 — Which One is Right for You?](https://infosecwriteups.com/best-ai-website-builders-2025-cd8fb61a6e45?source=rss----7b722bfd1b8d---4)
 - [Cracking the Code: Unveiling the Hidden Dangers of Account Takeover](https://osintteam.blog/cracking-the-code-unveiling-the-hidden-dangers-of-account-takeover-487fb5407c2c?source=rss------bug_bounty_writeup-5)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Streamline Reconnaissance with NetSanitizer: A URL Deduplication Powerhouse for Bug Bounty Hunters](https://medium.com/@iamsecure1920/streamline-reconnaissance-with-netsanitizer-a-url-deduplication-powerhouse-for-bug-bounty-hunters-a2832821b03c?source=rss------bug_bounty_writeup-5)
 - [How to Find Your First Easy Bug as a Bug Bounty Hunter &lpar;Step-by-Step Guide&rpar;](https://abhinav-porwal.medium.com/how-to-find-your-first-easy-bug-as-a-bug-bounty-hunter-step-by-step-guide-151f3150ba4e?source=rss------bug_bounty_writeup-5)
 - [HTB Pro Lab: Zephyr — A Legit Investment or a Waste of Money ?](https://infosecwriteups.com/htb-pro-lab-zephyr-a-legit-investment-or-a-waste-of-money-53073bfea971?source=rss----7b722bfd1b8d---4)
-- [Advanced Dorking Methodology for Finding Vulnerabilities &lpar;Part 2&rpar;](https://hackersatty.medium.com/advanced-dorking-methodology-for-finding-vulnerabilities-part-2-47a251b245c1?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
