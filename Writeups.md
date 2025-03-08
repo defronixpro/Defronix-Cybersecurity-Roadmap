@@ -1,6 +1,9 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How I Ethically Hacked a Government Portal: SQL Injection in a Gov. Portal](https://infosecwriteups.com/how-i-ethically-hacked-a-government-portal-sql-injection-in-a-gov-portal-9682869e5999?source=rss----7b722bfd1b8d---4)
+- [Stored xss using PDF  a bug?](https://infosecwriteups.com/stored-xss-using-pdf-a-bug-0690125015bb?source=rss----7b722bfd1b8d---4)
+- [Escape Function to perform Remote Code Execution in PHP compiler](https://infosecwriteups.com/escape-function-to-perform-remote-code-execution-in-php-compiler-709fd484b84f?source=rss----7b722bfd1b8d---4)
 - [⭐ SOC321 — Windows Defender Evasion Attempt](https://infosecwriteups.com/soc321-windows-defender-evasion-attempt-585b7f316f8a?source=rss----7b722bfd1b8d---4)
 - [Find apex domains that are related to your bug bounty target &lpar;part 2&rpar;](https://infosecwriteups.com/find-apex-domains-that-are-related-to-your-bug-bounty-target-part-2-e60644fd3cf8?source=rss----7b722bfd1b8d---4)
 - [Local SSL Certificate for Your Homelab: CasaOS, Cloudflare, and Nginx Proxy Manager](https://infosecwriteups.com/local-ssl-certificate-for-your-homelab-4c42a6db0e80?source=rss----7b722bfd1b8d---4)
@@ -16,9 +19,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Sendai Vulnlab| ESC4 &amp; ReadGMSAPassword for AD Domination](https://infosecwriteups.com/sendai-vulnlab-esc4-readgmsapassword-for-ad-domination-8b2638bf8268?source=rss----7b722bfd1b8d---4)
 - [$50-$100 worth Sensitive Leaks via Google Dorks | Part 2](https://infosecwriteups.com/50-100-worth-sensitive-leaks-via-google-dorks-part-2-868f4b1e7919?source=rss----7b722bfd1b8d---4)
 - [Use this unique way to find broken link hijacking bugs.](https://infosecwriteups.com/use-this-unique-way-to-find-broken-link-hijacking-bugs-3081878839d4?source=rss----7b722bfd1b8d---4)
-- [SOC329 — CUPS RCE Detection via IPP Injection &lpar;CVE-2024–47177&rpar;](https://infosecwriteups.com/soc329-cups-rce-detection-via-ipp-injection-cve-2024-47177-6022c49181f3?source=rss----7b722bfd1b8d---4)
-- [Open Redirect To XSS | Hackerone](https://infosecwriteups.com/open-redirect-to-xss-hackerone-413ced1d4e1e?source=rss----7b722bfd1b8d---4)
-- [Finding the origin IP part 2](https://infosecwriteups.com/finding-the-origin-ip-part-2-c96d7488c40e?source=rss----7b722bfd1b8d---4)
 - [My First Bug Bounty Win: How I Found and Reported a Security Vulnerability](https://heinhtetagg.medium.com/my-first-bug-bounty-win-how-i-found-and-reported-a-security-vulnerability-c41fdfd717c2?source=rss------bug_bounty_writeup-5)
 - [BreachSeek - Multi-Agent Automated Penetration Tester](https://gaya3-r.medium.com/breachseek-multi-agent-automated-penetration-tester-b5fd61dab0a4?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
