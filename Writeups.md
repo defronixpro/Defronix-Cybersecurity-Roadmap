@@ -1,6 +1,9 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [LostFuzzer: Passive URL Fuzzing &amp; Nuclei DAST for Bug Hunters](https://infosecwriteups.com/lostfuzzer-passive-url-fuzzing-nuclei-dast-for-bug-hunters-a33501b9563b?source=rss----7b722bfd1b8d---4)
+- [OTP Bypass Bug in Public Bug Bounty Program](https://infosecwriteups.com/otp-bypass-bug-in-public-bug-bounty-program-5554eafc18ab?source=rss----7b722bfd1b8d---4)
+- [The Ultimate Guide to VulnHub Machines for Beginners: Master Network &amp; Web Pentesting](https://infosecwriteups.com/the-ultimate-guide-to-vulnhub-machines-for-beginners-master-network-web-pentesting-8476a79315ae?source=rss----7b722bfd1b8d---4)
 - [How I Ethically Hacked a Government Portal: SQL Injection in a Gov. Portal](https://infosecwriteups.com/how-i-ethically-hacked-a-government-portal-sql-injection-in-a-gov-portal-9682869e5999?source=rss----7b722bfd1b8d---4)
 - [Stored xss using PDF  a bug?](https://infosecwriteups.com/stored-xss-using-pdf-a-bug-0690125015bb?source=rss----7b722bfd1b8d---4)
 - [Escape Function to perform Remote Code Execution in PHP compiler](https://infosecwriteups.com/escape-function-to-perform-remote-code-execution-in-php-compiler-709fd484b84f?source=rss----7b722bfd1b8d---4)
@@ -16,9 +19,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Never Underestimate Any Error. This is why I Got Appreciation Letter from Drexel University CISO](https://systemweakness.com/never-underestimate-any-error-this-is-why-i-got-appreciation-letter-from-drexel-university-ciso-ba37a6bad077?source=rss------bug_bounty_writeup-5)
 - [8 Best AI Headshot Generators of 2025 — Tested &amp; Reviewed &lpar;With Samples!&rpar;](https://infosecwriteups.com/best-ai-headshot-generators-2025-a2480d72dc6d?source=rss----7b722bfd1b8d---4)
 - [How I Earned $4,000+ in My First Six Months of Bug Bounty Hunting](https://medium.com/@nchaitreddyutilities/how-i-earned-4-000-in-my-first-six-months-of-bug-bounty-hunting-e969144a368a?source=rss------bug_bounty_writeup-5)
-- [Sendai Vulnlab| ESC4 &amp; ReadGMSAPassword for AD Domination](https://infosecwriteups.com/sendai-vulnlab-esc4-readgmsapassword-for-ad-domination-8b2638bf8268?source=rss----7b722bfd1b8d---4)
-- [$50-$100 worth Sensitive Leaks via Google Dorks | Part 2](https://infosecwriteups.com/50-100-worth-sensitive-leaks-via-google-dorks-part-2-868f4b1e7919?source=rss----7b722bfd1b8d---4)
-- [Use this unique way to find broken link hijacking bugs.](https://infosecwriteups.com/use-this-unique-way-to-find-broken-link-hijacking-bugs-3081878839d4?source=rss----7b722bfd1b8d---4)
 - [My First Bug Bounty Win: How I Found and Reported a Security Vulnerability](https://heinhtetagg.medium.com/my-first-bug-bounty-win-how-i-found-and-reported-a-security-vulnerability-c41fdfd717c2?source=rss------bug_bounty_writeup-5)
 - [BreachSeek - Multi-Agent Automated Penetration Tester](https://gaya3-r.medium.com/breachseek-multi-agent-automated-penetration-tester-b5fd61dab0a4?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
