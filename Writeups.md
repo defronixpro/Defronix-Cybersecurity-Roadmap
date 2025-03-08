@@ -1,6 +1,9 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [⭐ SOC321 — Windows Defender Evasion Attempt](https://infosecwriteups.com/soc321-windows-defender-evasion-attempt-585b7f316f8a?source=rss----7b722bfd1b8d---4)
+- [Find apex domains that are related to your bug bounty target &lpar;part 2&rpar;](https://infosecwriteups.com/find-apex-domains-that-are-related-to-your-bug-bounty-target-part-2-e60644fd3cf8?source=rss----7b722bfd1b8d---4)
+- [Local SSL Certificate for Your Homelab: CasaOS, Cloudflare, and Nginx Proxy Manager](https://infosecwriteups.com/local-ssl-certificate-for-your-homelab-4c42a6db0e80?source=rss----7b722bfd1b8d---4)
 - [CORS Misconfiguration vs. CSRF: Battle of the Web Villains!](https://medium.com/@shadyfarouk1986/cors-misconfiguration-vs-csrf-battle-of-the-web-villains-6743cb0ed08b?source=rss------bug_bounty_writeup-5)
 - [Why Custom Linux &amp; Python Tools in Bug Bounty Beat Traditional Tools!](https://medium.com/@shadyfarouk1986/why-custom-linux-python-tools-in-bug-bounty-beat-traditional-tools-db2092a8cf9c?source=rss------bug_bounty_writeup-5)
 - [ZeroClick Account Takeover : A Four-Bug Chain Exploit](https://medium.com/@Cr40/zeroclick-account-takeover-a-four-bug-chain-exploit-115ce0f6fc23?source=rss------bug_bounty_writeup-5)
@@ -18,9 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Finding the origin IP part 2](https://infosecwriteups.com/finding-the-origin-ip-part-2-c96d7488c40e?source=rss----7b722bfd1b8d---4)
 - [My First Bug Bounty Win: How I Found and Reported a Security Vulnerability](https://heinhtetagg.medium.com/my-first-bug-bounty-win-how-i-found-and-reported-a-security-vulnerability-c41fdfd717c2?source=rss------bug_bounty_writeup-5)
 - [BreachSeek - Multi-Agent Automated Penetration Tester](https://gaya3-r.medium.com/breachseek-multi-agent-automated-penetration-tester-b5fd61dab0a4?source=rss------bug_bounty_writeup-5)
-- [6 Best AI Website Builders of 2025 — Which One is Right for You?](https://infosecwriteups.com/best-ai-website-builders-2025-cd8fb61a6e45?source=rss----7b722bfd1b8d---4)
-- [Bypass WAF Cloudflare RXSS | Hackerone](https://infosecwriteups.com/bypass-waf-cloudflare-rxss-hackerone-c12c57809ad6?source=rss----7b722bfd1b8d---4)
-- [Finding jwt tokens that lead to PII data leakage.](https://infosecwriteups.com/finding-jwt-tokens-that-lead-to-pii-data-leakage-b047d45d97bf?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
