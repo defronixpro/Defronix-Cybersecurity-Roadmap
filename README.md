@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [CORS Misconfiguration vs. CSRF: Battle of the Web Villains!](https://medium.com/@shadyfarouk1986/cors-misconfiguration-vs-csrf-battle-of-the-web-villains-6743cb0ed08b?source=rss------bug_bounty_writeup-5)
+- [Why Custom Linux &amp; Python Tools in Bug Bounty Beat Traditional Tools!](https://medium.com/@shadyfarouk1986/why-custom-linux-python-tools-in-bug-bounty-beat-traditional-tools-db2092a8cf9c?source=rss------bug_bounty_writeup-5)
 - [ZeroClick Account Takeover : A Four-Bug Chain Exploit](https://medium.com/@Cr40/zeroclick-account-takeover-a-four-bug-chain-exploit-115ce0f6fc23?source=rss------bug_bounty_writeup-5)
 - [The Art of SSTI: From Detection to Domination](https://zeusvuln.medium.com/the-art-of-ssti-from-detection-to-domination-f5fdd2411439?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty: How a Race Condition Led to Application-Level DoS](https://medium.com/@Bug_Slay3r/bug-bounty-how-a-race-condition-led-to-application-level-dos-76458ae57e9d?source=rss------bug_bounty_writeup-5)
@@ -938,8 +940,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [My First Bug Bounty Win: How I Found and Reported a Security Vulnerability](https://heinhtetagg.medium.com/my-first-bug-bounty-win-how-i-found-and-reported-a-security-vulnerability-c41fdfd717c2?source=rss------bug_bounty_writeup-5)
 - [BreachSeek - Multi-Agent Automated Penetration Tester](https://gaya3-r.medium.com/breachseek-multi-agent-automated-penetration-tester-b5fd61dab0a4?source=rss------bug_bounty_writeup-5)
 - [6 Best AI Website Builders of 2025 — Which One is Right for You?](https://infosecwriteups.com/best-ai-website-builders-2025-cd8fb61a6e45?source=rss----7b722bfd1b8d---4)
-- [Cracking the Code: Unveiling the Hidden Dangers of Account Takeover](https://osintteam.blog/cracking-the-code-unveiling-the-hidden-dangers-of-account-takeover-487fb5407c2c?source=rss------bug_bounty_writeup-5)
-- [Critical IDOR Vulnerability in Order Tracking System Exposes Customer Data](https://jxycybersec.medium.com/critical-idor-vulnerability-in-order-tracking-system-exposes-customer-data-a9dbae34d329?source=rss------bug_bounty_writeup-5)
 - [Bypass WAF Cloudflare RXSS | Hackerone](https://infosecwriteups.com/bypass-waf-cloudflare-rxss-hackerone-c12c57809ad6?source=rss----7b722bfd1b8d---4)
 - [Finding jwt tokens that lead to PII data leakage.](https://infosecwriteups.com/finding-jwt-tokens-that-lead-to-pii-data-leakage-b047d45d97bf?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
