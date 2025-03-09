@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [crAPI Challenges Comprehensive Solution](https://medium.com/@youssefawad1357/crapi-challenges-comprehensive-solution-bceeb3f570a9?source=rss------bug_bounty_writeup-5)
 - [“Blind CSS Exfiltration: The Bug Bounty Tactic That Earns Hackers $10k+ &lpar;Here’s How&rpar;”](https://osintteam.blog/blind-css-exfiltration-the-bug-bounty-tactic-that-earns-hackers-10k-heres-how-fdb12a82826f?source=rss------bug_bounty_writeup-5)
 - [The Hidden Danger: Sensitive Information Leakage via Log Files!](https://cybersecuritywriteups.com/the-hidden-danger-sensitive-information-leakage-via-log-files-6244175b26be?source=rss------bug_bounty_writeup-5)
 - [How I Found Clickjacking in a Public Program](https://medium.com/@slash0x01/how-i-found-clickjacking-in-a-public-program-9581aa6bab1f?source=rss------bug_bounty_writeup-5)
@@ -940,7 +941,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [The Art of SSTI: From Detection to Domination](https://zeusvuln.medium.com/the-art-of-ssti-from-detection-to-domination-f5fdd2411439?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty: How a Race Condition Led to Application-Level DoS](https://medium.com/@Bug_Slay3r/bug-bounty-how-a-race-condition-led-to-application-level-dos-76458ae57e9d?source=rss------bug_bounty_writeup-5)
 - [Invite Me Once, I Own Your Account!” &lpar;HINDI + ENGLISH&rpar;](https://medium.com/@ajay.kumar.695632/invite-me-once-i-own-your-account-hindi-english-b27cb72fe64a?source=rss------bug_bounty_writeup-5)
-- [Never Underestimate Any Error. This is why I Got Appreciation Letter from Drexel University CISO](https://systemweakness.com/never-underestimate-any-error-this-is-why-i-got-appreciation-letter-from-drexel-university-ciso-ba37a6bad077?source=rss------bug_bounty_writeup-5)
 - [8 Best AI Headshot Generators of 2025 — Tested &amp; Reviewed &lpar;With Samples!&rpar;](https://infosecwriteups.com/best-ai-headshot-generators-2025-a2480d72dc6d?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
