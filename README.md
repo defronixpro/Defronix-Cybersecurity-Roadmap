@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [“Oops, I Can See Everything!”: A Funny Tale of Broken Access Control](https://medium.com/@bevennyamande/oops-i-can-see-everything-a-funny-tale-of-broken-access-control-9089586d5a86?source=rss------bug_bounty_writeup-5)
 - [Broken Authentication : Bypass OTP with JSON Manipulation](https://ilhamm0a.medium.com/broken-authentication-bypass-otp-with-json-manipulation-6454b45ac624?source=rss------bug_bounty_writeup-5)
 - [From Partial IDOR to GPS Tracking — API Flaw Explained](https://infosecwriteups.com/from-partial-idor-to-gps-tracking-api-flaw-explained-5eebab2af32a?source=rss----7b722bfd1b8d---4)
 - [From Foothold to Takeover: Mastering Pivoting Moves](https://infosecwriteups.com/from-foothold-to-takeover-mastering-pivoting-moves-d57310a86d37?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Why Custom Linux &amp; Python Tools in Bug Bounty Beat Traditional Tools!](https://medium.com/@shadyfarouk1986/why-custom-linux-python-tools-in-bug-bounty-beat-traditional-tools-db2092a8cf9c?source=rss------bug_bounty_writeup-5)
 - [ZeroClick Account Takeover : A Four-Bug Chain Exploit](https://medium.com/@Cr40/zeroclick-account-takeover-a-four-bug-chain-exploit-115ce0f6fc23?source=rss------bug_bounty_writeup-5)
 - [The Art of SSTI: From Detection to Domination](https://zeusvuln.medium.com/the-art-of-ssti-from-detection-to-domination-f5fdd2411439?source=rss------bug_bounty_writeup-5)
-- [Bug Bounty: How a Race Condition Led to Application-Level DoS](https://medium.com/@Bug_Slay3r/bug-bounty-how-a-race-condition-led-to-application-level-dos-76458ae57e9d?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
