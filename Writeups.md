@@ -1,6 +1,10 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [From Foothold to Takeover: Mastering Pivoting Moves](https://infosecwriteups.com/from-foothold-to-takeover-mastering-pivoting-moves-d57310a86d37?source=rss----7b722bfd1b8d---4)
+- [Connecting Burp Suite to an Android Emulator](https://infosecwriteups.com/connecting-burp-suite-to-an-android-emulator-d5100a675b81?source=rss----7b722bfd1b8d---4)
+- [Chemistry Walkthrough — HackTheBox](https://infosecwriteups.com/chemistry-walkthrough-hackthebox-36ef34fe0462?source=rss----7b722bfd1b8d---4)
+- [Find Exposed Buckets and files, etc., with this resource.](https://infosecwriteups.com/find-exposed-buckets-and-files-etc-with-this-resource-115f8865015b?source=rss----7b722bfd1b8d---4)
 - [crAPI Challenges Comprehensive Solution](https://medium.com/@youssefawad1357/crapi-challenges-comprehensive-solution-bceeb3f570a9?source=rss------bug_bounty_writeup-5)
 - [“Blind CSS Exfiltration: The Bug Bounty Tactic That Earns Hackers $10k+ &lpar;Here’s How&rpar;”](https://osintteam.blog/blind-css-exfiltration-the-bug-bounty-tactic-that-earns-hackers-10k-heres-how-fdb12a82826f?source=rss------bug_bounty_writeup-5)
 - [The Hidden Danger: Sensitive Information Leakage via Log Files!](https://cybersecuritywriteups.com/the-hidden-danger-sensitive-information-leakage-via-log-files-6244175b26be?source=rss------bug_bounty_writeup-5)
@@ -11,16 +15,12 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How I Ethically Hacked a Government Portal: SQL Injection in a Gov. Portal](https://infosecwriteups.com/how-i-ethically-hacked-a-government-portal-sql-injection-in-a-gov-portal-9682869e5999?source=rss----7b722bfd1b8d---4)
 - [Stored xss using PDF  a bug?](https://infosecwriteups.com/stored-xss-using-pdf-a-bug-0690125015bb?source=rss----7b722bfd1b8d---4)
 - [Escape Function to perform Remote Code Execution in PHP compiler](https://infosecwriteups.com/escape-function-to-perform-remote-code-execution-in-php-compiler-709fd484b84f?source=rss----7b722bfd1b8d---4)
-- [⭐ SOC321 — Windows Defender Evasion Attempt](https://infosecwriteups.com/soc321-windows-defender-evasion-attempt-585b7f316f8a?source=rss----7b722bfd1b8d---4)
-- [Find apex domains that are related to your bug bounty target &lpar;part 2&rpar;](https://infosecwriteups.com/find-apex-domains-that-are-related-to-your-bug-bounty-target-part-2-e60644fd3cf8?source=rss----7b722bfd1b8d---4)
-- [Local SSL Certificate for Your Homelab: CasaOS, Cloudflare, and Nginx Proxy Manager](https://infosecwriteups.com/local-ssl-certificate-for-your-homelab-4c42a6db0e80?source=rss----7b722bfd1b8d---4)
 - [CORS Misconfiguration vs. CSRF: Battle of the Web Villains!](https://medium.com/@shadyfarouk1986/cors-misconfiguration-vs-csrf-battle-of-the-web-villains-6743cb0ed08b?source=rss------bug_bounty_writeup-5)
 - [Why Custom Linux &amp; Python Tools in Bug Bounty Beat Traditional Tools!](https://medium.com/@shadyfarouk1986/why-custom-linux-python-tools-in-bug-bounty-beat-traditional-tools-db2092a8cf9c?source=rss------bug_bounty_writeup-5)
 - [ZeroClick Account Takeover : A Four-Bug Chain Exploit](https://medium.com/@Cr40/zeroclick-account-takeover-a-four-bug-chain-exploit-115ce0f6fc23?source=rss------bug_bounty_writeup-5)
 - [The Art of SSTI: From Detection to Domination](https://zeusvuln.medium.com/the-art-of-ssti-from-detection-to-domination-f5fdd2411439?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty: How a Race Condition Led to Application-Level DoS](https://medium.com/@Bug_Slay3r/bug-bounty-how-a-race-condition-led-to-application-level-dos-76458ae57e9d?source=rss------bug_bounty_writeup-5)
 - [Invite Me Once, I Own Your Account!” &lpar;HINDI + ENGLISH&rpar;](https://medium.com/@ajay.kumar.695632/invite-me-once-i-own-your-account-hindi-english-b27cb72fe64a?source=rss------bug_bounty_writeup-5)
-- [8 Best AI Headshot Generators of 2025 — Tested &amp; Reviewed &lpar;With Samples!&rpar;](https://infosecwriteups.com/best-ai-headshot-generators-2025-a2480d72dc6d?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
