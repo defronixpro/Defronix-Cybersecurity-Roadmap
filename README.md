@@ -922,6 +922,10 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I Hacked a Fake DMart Website and Took It Down!](https://infosecwriteups.com/how-i-hacked-a-fake-dmart-website-and-took-it-down-9c00dcdd8bc7?source=rss----7b722bfd1b8d---4)
+- [Extracting Forensic Evidence from Smartwatch Data: A CID Hackathon Experience](https://infosecwriteups.com/extracting-forensic-evidence-from-smartwatch-data-a-cid-hackathon-experience-8a45b6ef7d5b?source=rss----7b722bfd1b8d---4)
+- [Large Ransomware Models: Hijacking LRMs With Chain-of-Thought Reasoning](https://infosecwriteups.com/large-ransomware-models-hijacking-lrms-with-chain-of-thought-reasoning-3848ac69a83c?source=rss----7b722bfd1b8d---4)
+- [Creating A PowerShell Reverse Shell Using WebSockets](https://infosecwriteups.com/creating-a-powershell-reverse-shell-using-websockets-fe12f9a9d868?source=rss----7b722bfd1b8d---4)
 - [How to find hidden parameters in your bug bounty target](https://infosecwriteups.com/how-to-find-hidden-parameters-in-your-bug-bounty-target-35427ac49b91?source=rss----7b722bfd1b8d---4)
 - [JavaScript Enumeration for Bug Bounties: Expose Hidden Endpoints &amp; Secrets Like a Pro!](https://infosecwriteups.com/javascript-enumeration-for-bug-bounties-expose-hidden-endpoints-secrets-like-a-pro-418c2aec318f?source=rss----7b722bfd1b8d---4)
 - [Social Engineering: The Art of Psychological Exploitation &lpar;Part-2&rpar;](https://infosecwriteups.com/social-engineering-the-art-of-psychological-exploitation-part-2-79532c069747?source=rss----7b722bfd1b8d---4)
@@ -930,10 +934,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [“Oops, I Can See Everything!”: A Funny Tale of Broken Access Control](https://medium.com/@bevennyamande/oops-i-can-see-everything-a-funny-tale-of-broken-access-control-9089586d5a86?source=rss------bug_bounty_writeup-5)
 - [Broken Authentication : Bypass OTP with JSON Manipulation](https://ilhamm0a.medium.com/broken-authentication-bypass-otp-with-json-manipulation-6454b45ac624?source=rss------bug_bounty_writeup-5)
 - [From Partial IDOR to GPS Tracking — API Flaw Explained](https://infosecwriteups.com/from-partial-idor-to-gps-tracking-api-flaw-explained-5eebab2af32a?source=rss----7b722bfd1b8d---4)
-- [From Foothold to Takeover: Mastering Pivoting Moves](https://infosecwriteups.com/from-foothold-to-takeover-mastering-pivoting-moves-d57310a86d37?source=rss----7b722bfd1b8d---4)
-- [Connecting Burp Suite to an Android Emulator](https://infosecwriteups.com/connecting-burp-suite-to-an-android-emulator-d5100a675b81?source=rss----7b722bfd1b8d---4)
-- [Chemistry Walkthrough — HackTheBox](https://infosecwriteups.com/chemistry-walkthrough-hackthebox-36ef34fe0462?source=rss----7b722bfd1b8d---4)
-- [Find Exposed Buckets and files, etc., with this resource.](https://infosecwriteups.com/find-exposed-buckets-and-files-etc-with-this-resource-115f8865015b?source=rss----7b722bfd1b8d---4)
 - [crAPI Challenges Comprehensive Solution](https://medium.com/@youssefawad1357/crapi-challenges-comprehensive-solution-bceeb3f570a9?source=rss------bug_bounty_writeup-5)
 - [“Blind CSS Exfiltration: The Bug Bounty Tactic That Earns Hackers $10k+ &lpar;Here’s How&rpar;”](https://osintteam.blog/blind-css-exfiltration-the-bug-bounty-tactic-that-earns-hackers-10k-heres-how-fdb12a82826f?source=rss------bug_bounty_writeup-5)
 - [The Hidden Danger: Sensitive Information Leakage via Log Files!](https://cybersecuritywriteups.com/the-hidden-danger-sensitive-information-leakage-via-log-files-6244175b26be?source=rss------bug_bounty_writeup-5)
