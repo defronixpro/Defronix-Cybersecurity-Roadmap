@@ -1,6 +1,9 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Social Engineering: The Art of Psychological Exploitation &lpar;Part-2&rpar;](https://infosecwriteups.com/social-engineering-the-art-of-psychological-exploitation-part-2-79532c069747?source=rss----7b722bfd1b8d---4)
+- [Exploiting Android Zygote Injection &lpar;CVE-2024–31317&rpar;](https://infosecwriteups.com/exploiting-android-zygote-injection-cve-2024-31317-d83f69265088?source=rss----7b722bfd1b8d---4)
+- [Digital Signature Using SHA-256 with RSA Encryption.](https://infosecwriteups.com/digital-signature-using-sha-256-with-rsa-encryption-0cfd9cbea043?source=rss----7b722bfd1b8d---4)
 - [“Oops, I Can See Everything!”: A Funny Tale of Broken Access Control](https://medium.com/@bevennyamande/oops-i-can-see-everything-a-funny-tale-of-broken-access-control-9089586d5a86?source=rss------bug_bounty_writeup-5)
 - [Broken Authentication : Bypass OTP with JSON Manipulation](https://ilhamm0a.medium.com/broken-authentication-bypass-otp-with-json-manipulation-6454b45ac624?source=rss------bug_bounty_writeup-5)
 - [From Partial IDOR to GPS Tracking — API Flaw Explained](https://infosecwriteups.com/from-partial-idor-to-gps-tracking-api-flaw-explained-5eebab2af32a?source=rss----7b722bfd1b8d---4)
@@ -14,9 +17,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How I Found Clickjacking in a Public Program](https://medium.com/@slash0x01/how-i-found-clickjacking-in-a-public-program-9581aa6bab1f?source=rss------bug_bounty_writeup-5)
 - [LostFuzzer: Passive URL Fuzzing &amp; Nuclei DAST for Bug Hunters](https://infosecwriteups.com/lostfuzzer-passive-url-fuzzing-nuclei-dast-for-bug-hunters-a33501b9563b?source=rss----7b722bfd1b8d---4)
 - [OTP Bypass Bug in Public Bug Bounty Program](https://infosecwriteups.com/otp-bypass-bug-in-public-bug-bounty-program-5554eafc18ab?source=rss----7b722bfd1b8d---4)
-- [The Ultimate Guide to VulnHub Machines for Beginners: Master Network &amp; Web Pentesting](https://infosecwriteups.com/the-ultimate-guide-to-vulnhub-machines-for-beginners-master-network-web-pentesting-8476a79315ae?source=rss----7b722bfd1b8d---4)
-- [How I Ethically Hacked a Government Portal: SQL Injection in a Gov. Portal](https://infosecwriteups.com/how-i-ethically-hacked-a-government-portal-sql-injection-in-a-gov-portal-9682869e5999?source=rss----7b722bfd1b8d---4)
-- [Stored xss using PDF  a bug?](https://infosecwriteups.com/stored-xss-using-pdf-a-bug-0690125015bb?source=rss----7b722bfd1b8d---4)
 - [CORS Misconfiguration vs. CSRF: Battle of the Web Villains!](https://medium.com/@shadyfarouk1986/cors-misconfiguration-vs-csrf-battle-of-the-web-villains-6743cb0ed08b?source=rss------bug_bounty_writeup-5)
 - [Why Custom Linux &amp; Python Tools in Bug Bounty Beat Traditional Tools!](https://medium.com/@shadyfarouk1986/why-custom-linux-python-tools-in-bug-bounty-beat-traditional-tools-db2092a8cf9c?source=rss------bug_bounty_writeup-5)
 - [ZeroClick Account Takeover : A Four-Bug Chain Exploit](https://medium.com/@Cr40/zeroclick-account-takeover-a-four-bug-chain-exploit-115ce0f6fc23?source=rss------bug_bounty_writeup-5)
