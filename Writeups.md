@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How to Become a Bug Bounty Hunter in 2025](https://medium.com/@ebinkantony/how-to-become-a-bug-bounty-hunter-in-2025-e7a528b5cc16?source=rss------bug_bounty_writeup-5)
 - [How I Hacked a Fake DMart Website and Took It Down!](https://infosecwriteups.com/how-i-hacked-a-fake-dmart-website-and-took-it-down-9c00dcdd8bc7?source=rss----7b722bfd1b8d---4)
 - [Extracting Forensic Evidence from Smartwatch Data: A CID Hackathon Experience](https://infosecwriteups.com/extracting-forensic-evidence-from-smartwatch-data-a-cid-hackathon-experience-8a45b6ef7d5b?source=rss----7b722bfd1b8d---4)
 - [Large Ransomware Models: Hijacking LRMs With Chain-of-Thought Reasoning](https://infosecwriteups.com/large-ransomware-models-hijacking-lrms-with-chain-of-thought-reasoning-3848ac69a83c?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [CORS Misconfiguration vs. CSRF: Battle of the Web Villains!](https://medium.com/@shadyfarouk1986/cors-misconfiguration-vs-csrf-battle-of-the-web-villains-6743cb0ed08b?source=rss------bug_bounty_writeup-5)
 - [Why Custom Linux &amp; Python Tools in Bug Bounty Beat Traditional Tools!](https://medium.com/@shadyfarouk1986/why-custom-linux-python-tools-in-bug-bounty-beat-traditional-tools-db2092a8cf9c?source=rss------bug_bounty_writeup-5)
 - [ZeroClick Account Takeover : A Four-Bug Chain Exploit](https://medium.com/@Cr40/zeroclick-account-takeover-a-four-bug-chain-exploit-115ce0f6fc23?source=rss------bug_bounty_writeup-5)
-- [The Art of SSTI: From Detection to Domination](https://zeusvuln.medium.com/the-art-of-ssti-from-detection-to-domination-f5fdd2411439?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
