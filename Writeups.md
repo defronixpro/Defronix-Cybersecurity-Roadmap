@@ -1,7 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
-- [How I uncover an IDOR led to access Private CV access](https://medium.com/@jeetpal2007/how-i-uncover-an-idor-led-to-access-private-cv-access-3ff5be987896?source=rss------bug_bounty_writeup-5)
+- [How I uncover an IDOR led to access Private CV](https://infosecwriteups.com/how-i-uncover-an-idor-led-to-access-private-cv-access-3ff5be987896?source=rss------bug_bounty_writeup-5)
 - [Disclosure of Secrets – A $1000 Bug Bounty Win](https://medium.com/@salaheddine_kalada/exploiting-misconfigured-azure-application-insights-a-1000-bug-bounty-win-cf16f6ad2ff0?source=rss------bug_bounty_writeup-5)
 - [How to Become a Bug Bounty Hunter in 2025](https://medium.com/@ebinkantony/how-to-become-a-bug-bounty-hunter-in-2025-e7a528b5cc16?source=rss------bug_bounty_writeup-5)
 - [How I Hacked a Fake DMart Website and Took It Down!](https://infosecwriteups.com/how-i-hacked-a-fake-dmart-website-and-took-it-down-9c00dcdd8bc7?source=rss----7b722bfd1b8d---4)
