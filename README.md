@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I uncover an IDOR led to access Private CV access](https://medium.com/@jeetpal2007/how-i-uncover-an-idor-led-to-access-private-cv-access-3ff5be987896?source=rss------bug_bounty_writeup-5)
 - [Disclosure of Secrets – A $1000 Bug Bounty Win](https://medium.com/@salaheddine_kalada/exploiting-misconfigured-azure-application-insights-a-1000-bug-bounty-win-cf16f6ad2ff0?source=rss------bug_bounty_writeup-5)
 - [How to Become a Bug Bounty Hunter in 2025](https://medium.com/@ebinkantony/how-to-become-a-bug-bounty-hunter-in-2025-e7a528b5cc16?source=rss------bug_bounty_writeup-5)
 - [How I Hacked a Fake DMart Website and Took It Down!](https://infosecwriteups.com/how-i-hacked-a-fake-dmart-website-and-took-it-down-9c00dcdd8bc7?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [The Hidden Danger: Sensitive Information Leakage via Log Files!](https://cybersecuritywriteups.com/the-hidden-danger-sensitive-information-leakage-via-log-files-6244175b26be?source=rss------bug_bounty_writeup-5)
 - [How I Found Clickjacking in a Public Program](https://medium.com/@slash0x01/how-i-found-clickjacking-in-a-public-program-9581aa6bab1f?source=rss------bug_bounty_writeup-5)
 - [CORS Misconfiguration vs. CSRF: Battle of the Web Villains!](https://medium.com/@shadyfarouk1986/cors-misconfiguration-vs-csrf-battle-of-the-web-villains-6743cb0ed08b?source=rss------bug_bounty_writeup-5)
-- [Why Custom Linux &amp; Python Tools in Bug Bounty Beat Traditional Tools!](https://medium.com/@shadyfarouk1986/why-custom-linux-python-tools-in-bug-bounty-beat-traditional-tools-db2092a8cf9c?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
