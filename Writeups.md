@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How Interesting 2FA Bypass Through Browser Feature Lead Me To Critical Vulnerability.](https://medium.com/@dishantsingh989/how-interesting-2fa-bypass-through-browser-feature-lead-me-to-critical-vulnerability-18f9c72a8f8d?source=rss------bug_bounty_writeup-5)
 - [Recon Done, Now What? A Beginner’s Guide to Finding Bugs After Recon!](https://systemweakness.com/recon-done-now-what-a-beginners-guide-to-finding-bugs-after-recon-e13177674833?source=rss------bug_bounty_writeup-5)
 - [Billing  TryHackMe Writeup](https://infosecwriteups.com/billing-tryhackme-writeup-aa32f343b0f1?source=rss----7b722bfd1b8d---4)
 - [How I uncover an IDOR led to access Private CV](https://infosecwriteups.com/how-i-uncover-an-idor-led-to-access-private-cv-access-3ff5be987896?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How to find hidden parameters in your bug bounty target](https://infosecwriteups.com/how-to-find-hidden-parameters-in-your-bug-bounty-target-35427ac49b91?source=rss----7b722bfd1b8d---4)
 - [JavaScript Enumeration for Bug Bounties: Expose Hidden Endpoints &amp; Secrets Like a Pro!](https://infosecwriteups.com/javascript-enumeration-for-bug-bounties-expose-hidden-endpoints-secrets-like-a-pro-418c2aec318f?source=rss----7b722bfd1b8d---4)
 - [Social Engineering: The Art of Psychological Exploitation &lpar;Part-2&rpar;](https://infosecwriteups.com/social-engineering-the-art-of-psychological-exploitation-part-2-79532c069747?source=rss----7b722bfd1b8d---4)
-- [“Oops, I Can See Everything!”: A Funny Tale of Broken Access Control](https://medium.com/@bevennyamande/oops-i-can-see-everything-a-funny-tale-of-broken-access-control-9089586d5a86?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
