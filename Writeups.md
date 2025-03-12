@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Mastering 403 Bypass: Unlock Hidden Bounties Like a Pro!](https://osintteam.blog/mastering-403-bypass-unlock-hidden-bounties-like-a-pro-bc8ee954c209?source=rss------bug_bounty_writeup-5)
 - [How Interesting 2FA Bypass Through Browser Feature Lead Me To Critical Vulnerability.](https://medium.com/@dishantsingh989/how-interesting-2fa-bypass-through-browser-feature-lead-me-to-critical-vulnerability-18f9c72a8f8d?source=rss------bug_bounty_writeup-5)
 - [Recon Done, Now What? A Beginner’s Guide to Finding Bugs After Recon!](https://systemweakness.com/recon-done-now-what-a-beginners-guide-to-finding-bugs-after-recon-e13177674833?source=rss------bug_bounty_writeup-5)
 - [Billing  TryHackMe Writeup](https://infosecwriteups.com/billing-tryhackme-writeup-aa32f343b0f1?source=rss----7b722bfd1b8d---4)
@@ -13,7 +14,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [One Token, Two Apps: The OAuth Flaw That Can Compromise Your Accounts — A Silent Security Disaster](https://medium.com/@rahulgairola/one-token-two-apps-the-oauth-flaw-that-can-compromise-your-accounts-a-silent-security-disaster-31cff04dcceb?source=rss------bug_bounty_writeup-5)
 - [How I uncover an IDOR led to access Private CV](https://infosecwriteups.com/how-i-uncover-an-idor-led-to-access-private-cv-access-3ff5be987896?source=rss------bug_bounty_writeup-5)
 - [Disclosure of Secrets – A $1000 Bug Bounty Win](https://medium.com/@salaheddine_kalada/exploiting-misconfigured-azure-application-insights-a-1000-bug-bounty-win-cf16f6ad2ff0?source=rss------bug_bounty_writeup-5)
-- [How to Become a Bug Bounty Hunter in 2025](https://medium.com/@ebinkantony/how-to-become-a-bug-bounty-hunter-in-2025-e7a528b5cc16?source=rss------bug_bounty_writeup-5)
 - [How I Hacked a Fake DMart Website and Took It Down!](https://infosecwriteups.com/how-i-hacked-a-fake-dmart-website-and-took-it-down-9c00dcdd8bc7?source=rss----7b722bfd1b8d---4)
 - [Extracting Forensic Evidence from Smartwatch Data: A CID Hackathon Experience](https://infosecwriteups.com/extracting-forensic-evidence-from-smartwatch-data-a-cid-hackathon-experience-8a45b6ef7d5b?source=rss----7b722bfd1b8d---4)
 - [Large Ransomware Models: Hijacking LRMs With Chain-of-Thought Reasoning](https://infosecwriteups.com/large-ransomware-models-hijacking-lrms-with-chain-of-thought-reasoning-3848ac69a83c?source=rss----7b722bfd1b8d---4)
