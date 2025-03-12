@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Cómo conseguí mi primera vulnerabilidad válida para Adobe](https://medium.com/@juanfelipeoz.rar/c%C3%B3mo-consegu%C3%AD-mi-primera-vulnerabilidad-v%C3%A1lida-para-adobe-2d6617ec51e5?source=rss------bug_bounty_writeup-5)
 - [This python script saved my recon time](https://medium.com/@canonminibeast/this-python-script-saved-my-recon-time-b780ade10b97?source=rss------bug_bounty_writeup-5)
 - [This python script saved my recon time](https://medium.com/@canonminibeast/this-python-script-saved-my-recon-time-66d6206628a0?source=rss------bug_bounty_writeup-5)
 - [One Token, Two Apps: The OAuth Flaw That Can Compromise Your Accounts — A Silent Security Disaster](https://medium.com/@rahulgairola/one-token-two-apps-the-oauth-flaw-that-can-compromise-your-accounts-a-silent-security-disaster-31cff04dcceb?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Broken Authentication : Bypass OTP with JSON Manipulation](https://ilhamm0a.medium.com/broken-authentication-bypass-otp-with-json-manipulation-6454b45ac624?source=rss------bug_bounty_writeup-5)
 - [From Partial IDOR to GPS Tracking — API Flaw Explained](https://infosecwriteups.com/from-partial-idor-to-gps-tracking-api-flaw-explained-5eebab2af32a?source=rss----7b722bfd1b8d---4)
 - [crAPI Challenges Comprehensive Solution](https://medium.com/@youssefawad1357/crapi-challenges-comprehensive-solution-bceeb3f570a9?source=rss------bug_bounty_writeup-5)
-- [“Blind CSS Exfiltration: The Bug Bounty Tactic That Earns Hackers $10k+ &lpar;Here’s How&rpar;”](https://osintteam.blog/blind-css-exfiltration-the-bug-bounty-tactic-that-earns-hackers-10k-heres-how-fdb12a82826f?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
