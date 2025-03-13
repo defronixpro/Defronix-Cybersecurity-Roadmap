@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Easy $150: Misconfigured SSO Led to Account Takeover](https://cybersecuritywriteups.com/easy-150-misconfigured-sso-led-to-account-takeover-4e2b83b72395?source=rss------bug_bounty_writeup-5)
 - [THM — Anonforce](https://infosecwriteups.com/thm-anonforce-874016c34a0f?source=rss----7b722bfd1b8d---4)
 - [Escalate and Defend: Linux Kernel Exploit Walkthrough](https://infosecwriteups.com/escalate-and-defend-linux-kernel-exploit-walkthrough-eed9cf0c50ba?source=rss----7b722bfd1b8d---4)
 - [IDOR — TryHackMe Walkthrough](https://infosecwriteups.com/idor-tryhackme-walkthrough-0a38ddc37694?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Billing  TryHackMe Writeup](https://infosecwriteups.com/billing-tryhackme-writeup-aa32f343b0f1?source=rss----7b722bfd1b8d---4)
 - [How I uncover an IDOR led to access Private CV](https://infosecwriteups.com/how-i-uncover-an-idor-led-to-access-private-cv-access-3ff5be987896?source=rss----7b722bfd1b8d---4)
 - [Redelegate — VulnLab | ForceChangePassword, GenericAll, and Constrained Delegation](https://infosecwriteups.com/redelegate-vulnlab-forcechangepassword-genericall-and-constrained-delegation-aa48b6d89931?source=rss----7b722bfd1b8d---4)
-- [Turn website feedback into instant, actionable tickets.](https://medium.com/@readybready4/turn-website-feedback-into-instant-actionable-tickets-40ef4bc14be6?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
