@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How ? My Knowledge about Server- &lpar;Nginx&rpar; Got Me into WHO’s Hall of Fame: Host Header Injection…](https://osintteam.blog/how-my-knowledge-about-server-nginx-got-me-into-whos-hall-of-fame-host-header-injection-a73552c68c59?source=rss------bug_bounty_writeup-5)
 - [Get your First bounty as a newbie](https://medium.com/@saiganesh18062003/get-your-first-bounty-as-a-newbie-fcba6a92e998?source=rss------bug_bounty_writeup-5)
 - [Easy $150: Misconfigured SSO Led to Account Takeover](https://cybersecuritywriteups.com/easy-150-misconfigured-sso-led-to-account-takeover-4e2b83b72395?source=rss------bug_bounty_writeup-5)
 - [THM — Anonforce](https://infosecwriteups.com/thm-anonforce-874016c34a0f?source=rss----7b722bfd1b8d---4)
