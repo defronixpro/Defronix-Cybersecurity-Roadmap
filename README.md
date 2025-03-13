@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I found my 2nd SQL injection vulnerability on the Indian Government website!](https://hiddendom.medium.com/how-i-found-my-2nd-sql-injection-vulnerability-on-the-indian-government-website-e617e682e953?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty](https://medium.com/@hihiprocybertech/bug-bounty-0e661e725299?source=rss------bug_bounty_writeup-5)
 - [Unauthenticated API Leaks Private Property Data](https://medium.com/@banertheinrich/unauthenticated-api-leaks-private-property-data-f125e8fe0c4d?source=rss------bug_bounty_writeup-5)
 - [Multiple Account Creation with Same Email](https://medium.com/@A0X-Y0S3TRX/multiple-account-creation-with-same-email-81acb37aca96?source=rss------bug_bounty_writeup-5)
@@ -934,7 +935,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Turn website feedback into instant, actionable tickets.](https://medium.com/@readybready4/turn-website-feedback-into-instant-actionable-tickets-40ef4bc14be6?source=rss------bug_bounty_writeup-5)
 - [Cómo conseguí mi primera vulnerabilidad válida para Adobe](https://medium.com/@juanfelipeoz.rar/c%C3%B3mo-consegu%C3%AD-mi-primera-vulnerabilidad-v%C3%A1lida-para-adobe-2d6617ec51e5?source=rss------bug_bounty_writeup-5)
 - [This python script saved my recon time](https://medium.com/@canonminibeast/this-python-script-saved-my-recon-time-b780ade10b97?source=rss------bug_bounty_writeup-5)
-- [This python script saved my recon time](https://medium.com/@canonminibeast/this-python-script-saved-my-recon-time-66d6206628a0?source=rss------bug_bounty_writeup-5)
 - [How I Hacked a Fake DMart Website and Took It Down!](https://infosecwriteups.com/how-i-hacked-a-fake-dmart-website-and-took-it-down-9c00dcdd8bc7?source=rss----7b722bfd1b8d---4)
 - [Extracting Forensic Evidence from Smartwatch Data: A CID Hackathon Experience](https://infosecwriteups.com/extracting-forensic-evidence-from-smartwatch-data-a-cid-hackathon-experience-8a45b6ef7d5b?source=rss----7b722bfd1b8d---4)
 - [Large Ransomware Models: Hijacking LRMs With Chain-of-Thought Reasoning](https://infosecwriteups.com/large-ransomware-models-hijacking-lrms-with-chain-of-thought-reasoning-3848ac69a83c?source=rss----7b722bfd1b8d---4)
