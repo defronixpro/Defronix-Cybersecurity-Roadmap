@@ -17,7 +17,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Unauthenticated API Leaks Private Property Data](https://medium.com/@banertheinrich/unauthenticated-api-leaks-private-property-data-f125e8fe0c4d?source=rss------bug_bounty_writeup-5)
 - [Multiple Account Creation with Same Email](https://medium.com/@A0X-Y0S3TRX/multiple-account-creation-with-same-email-81acb37aca96?source=rss------bug_bounty_writeup-5)
 - [Mastering 403 Bypass: Unlock Hidden Bounties Like a Pro!](https://osintteam.blog/mastering-403-bypass-unlock-hidden-bounties-like-a-pro-bc8ee954c209?source=rss------bug_bounty_writeup-5)
-- [How Interesting 2FA Bypass Through Browser Feature Lead Me To Critical Vulnerability.](https://medium.com/@dishantsingh989/how-interesting-2fa-bypass-through-browser-feature-lead-me-to-critical-vulnerability-18f9c72a8f8d?source=rss------bug_bounty_writeup-5)
 - [Billing  TryHackMe Writeup](https://infosecwriteups.com/billing-tryhackme-writeup-aa32f343b0f1?source=rss----7b722bfd1b8d---4)
 - [How I uncover an IDOR led to access Private CV](https://infosecwriteups.com/how-i-uncover-an-idor-led-to-access-private-cv-access-3ff5be987896?source=rss----7b722bfd1b8d---4)
 - [Redelegate — VulnLab | ForceChangePassword, GenericAll, and Constrained Delegation](https://infosecwriteups.com/redelegate-vulnlab-forcechangepassword-genericall-and-constrained-delegation-aa48b6d89931?source=rss----7b722bfd1b8d---4)
