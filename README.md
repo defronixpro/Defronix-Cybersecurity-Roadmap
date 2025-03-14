@@ -922,6 +922,10 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [GraphQL Vulnerabilities: A Complete Guide to Security Testing and Advanced Exploitation Techniques](https://infosecwriteups.com/graphql-vulnerabilities-a-complete-guide-to-security-testing-and-advanced-exploitation-techniques-5eb94af945c0?source=rss----7b722bfd1b8d---4)
+- [Flipper Zero Episode 1: What It Is, What You Can Do, and How to Set It Up ?](https://infosecwriteups.com/flipper-zero-episode-1-what-it-is-what-you-can-do-and-how-to-set-it-up-bb372e603baa?source=rss----7b722bfd1b8d---4)
+- [The art of hunting logical bugs: Exploiting business logic in modern apps](https://infosecwriteups.com/the-art-of-hunting-logical-bugs-exploiting-business-logic-in-modern-apps-a374c3650b90?source=rss----7b722bfd1b8d---4)
+- [JWT Security in 2025: Are We Finally Free from Leaks?](https://infosecwriteups.com/jwt-security-in-2025-are-we-finally-free-from-leaks-3552fce24690?source=rss----7b722bfd1b8d---4)
 - [How I Found Sensitive Information using Github Dorks in Bug Bounties — Part 2](https://mukibas37.medium.com/find-bugs-using-github-dorking-part-2-2f80c1023592?source=rss------bug_bounty_writeup-5)
 - [How ? My Knowledge about Server- &lpar;Nginx&rpar; Got Me into WHO’s Hall of Fame: Host Header Injection…](https://osintteam.blog/how-my-knowledge-about-server-nginx-got-me-into-whos-hall-of-fame-host-header-injection-a73552c68c59?source=rss------bug_bounty_writeup-5)
 - [Get your First bounty as a newbie](https://medium.com/@saiganesh18062003/get-your-first-bounty-as-a-newbie-fcba6a92e998?source=rss------bug_bounty_writeup-5)
@@ -933,15 +937,11 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Creating a CTF Machine with Docker and Docker Compose: A Step-by-Step Guide](https://infosecwriteups.com/creating-a-ctf-machine-with-docker-and-docker-compose-a-step-by-step-guide-b5143576ae28?source=rss----7b722bfd1b8d---4)
 - [Hacking Swagger UI - 101](https://infosecwriteups.com/hacking-swagger-ui-101-ccbce66ba028?source=rss----7b722bfd1b8d---4)
 - [Hacking Swagger UI - 101](https://infosecwriteups.com/hacking-swagger-ui-101-ccbce66ba028?source=rss------bug_bounty_writeup-5)
-- [How I Earned $500 for Getting Trapped in a Private Facebook Event](https://infosecwriteups.com/how-i-earned-500-for-getting-trapped-in-a-private-facebook-event-d4b7f3fdaacd?source=rss----7b722bfd1b8d---4)
 - [How I Bypassed Email Uniqueness: Exploiting Weak Access Control in a Bug Bounty Program](https://saconychukwu.medium.com/how-i-bypassed-email-uniqueness-exploiting-weak-access-control-in-a-bug-bounty-program-28177f3c0b29?source=rss------bug_bounty_writeup-5)
 - [How I found my 2nd SQL injection vulnerability on the Indian Government website!](https://hiddendom.medium.com/how-i-found-my-2nd-sql-injection-vulnerability-on-the-indian-government-website-e617e682e953?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty](https://medium.com/@hihiprocybertech/bug-bounty-0e661e725299?source=rss------bug_bounty_writeup-5)
 - [Unauthenticated API Leaks Private Property Data](https://medium.com/@banertheinrich/unauthenticated-api-leaks-private-property-data-f125e8fe0c4d?source=rss------bug_bounty_writeup-5)
 - [Multiple Account Creation with Same Email](https://medium.com/@A0X-Y0S3TRX/multiple-account-creation-with-same-email-81acb37aca96?source=rss------bug_bounty_writeup-5)
-- [Billing  TryHackMe Writeup](https://infosecwriteups.com/billing-tryhackme-writeup-aa32f343b0f1?source=rss----7b722bfd1b8d---4)
-- [How I uncover an IDOR led to access Private CV](https://infosecwriteups.com/how-i-uncover-an-idor-led-to-access-private-cv-access-3ff5be987896?source=rss----7b722bfd1b8d---4)
-- [Redelegate — VulnLab | ForceChangePassword, GenericAll, and Constrained Delegation](https://infosecwriteups.com/redelegate-vulnlab-forcechangepassword-genericall-and-constrained-delegation-aa48b6d89931?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
