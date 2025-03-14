@@ -922,16 +922,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [GraphQL Vulnerabilities: A Complete Guide to Security Testing and Advanced Exploitation Techniques](https://infosecwriteups.com/graphql-vulnerabilities-a-complete-guide-to-security-testing-and-advanced-exploitation-techniques-5eb94af945c0?source=rss----7b722bfd1b8d---4)
-- [Flipper Zero Episode 1: What It Is, What You Can Do, and How to Set It Up ?](https://infosecwriteups.com/flipper-zero-episode-1-what-it-is-what-you-can-do-and-how-to-set-it-up-bb372e603baa?source=rss----7b722bfd1b8d---4)
-- [The art of hunting logical bugs: Exploiting business logic in modern apps](https://infosecwriteups.com/the-art-of-hunting-logical-bugs-exploiting-business-logic-in-modern-apps-a374c3650b90?source=rss----7b722bfd1b8d---4)
-- [JWT Security in 2025: Are We Finally Free from Leaks?](https://infosecwriteups.com/jwt-security-in-2025-are-we-finally-free-from-leaks-3552fce24690?source=rss----7b722bfd1b8d---4)
-- [THM — Anonforce](https://infosecwriteups.com/thm-anonforce-874016c34a0f?source=rss----7b722bfd1b8d---4)
-- [Escalate and Defend: Linux Kernel Exploit Walkthrough](https://infosecwriteups.com/escalate-and-defend-linux-kernel-exploit-walkthrough-eed9cf0c50ba?source=rss----7b722bfd1b8d---4)
-- [IDOR — TryHackMe Walkthrough](https://infosecwriteups.com/idor-tryhackme-walkthrough-0a38ddc37694?source=rss----7b722bfd1b8d---4)
-- [Ultimate List of Free Resources for Bug Bounty Hunters](https://infosecwriteups.com/ultimate-list-of-free-resources-for-bug-bounty-hunters-bfba8deb5a36?source=rss----7b722bfd1b8d---4)
-- [Creating a CTF Machine with Docker and Docker Compose: A Step-by-Step Guide](https://infosecwriteups.com/creating-a-ctf-machine-with-docker-and-docker-compose-a-step-by-step-guide-b5143576ae28?source=rss----7b722bfd1b8d---4)
-- [Hacking Swagger UI - 101](https://infosecwriteups.com/hacking-swagger-ui-101-ccbce66ba028?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
