@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [The Art of SQL Injection : A Comprehensive Guide](https://zeusvuln.medium.com/the-art-of-sql-injection-a-comprehensive-guide-d394e8affb6d?source=rss------bug_bounty_writeup-5)
 - [How I Found an IDOR Vulnerability – A Responsible Disclosure Story](https://medium.com/@vickyrohith70/how-i-found-an-idor-vulnerability-a-responsible-disclosure-story-def2885bbe0c?source=rss------bug_bounty_writeup-5)
 - [GraphQL Vulnerabilities: A Complete Guide to Security Testing and Advanced Exploitation Techniques](https://infosecwriteups.com/graphql-vulnerabilities-a-complete-guide-to-security-testing-and-advanced-exploitation-techniques-5eb94af945c0?source=rss----7b722bfd1b8d---4)
 - [Flipper Zero Episode 1: What It Is, What You Can Do, and How to Set It Up ?](https://infosecwriteups.com/flipper-zero-episode-1-what-it-is-what-you-can-do-and-how-to-set-it-up-bb372e603baa?source=rss----7b722bfd1b8d---4)
@@ -940,7 +941,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Hacking Swagger UI - 101](https://infosecwriteups.com/hacking-swagger-ui-101-ccbce66ba028?source=rss------bug_bounty_writeup-5)
 - [How I Bypassed Email Uniqueness: Exploiting Weak Access Control in a Bug Bounty Program](https://saconychukwu.medium.com/how-i-bypassed-email-uniqueness-exploiting-weak-access-control-in-a-bug-bounty-program-28177f3c0b29?source=rss------bug_bounty_writeup-5)
 - [How I found my 2nd SQL injection vulnerability on the Indian Government website!](https://hiddendom.medium.com/how-i-found-my-2nd-sql-injection-vulnerability-on-the-indian-government-website-e617e682e953?source=rss------bug_bounty_writeup-5)
-- [Bug Bounty](https://medium.com/@hihiprocybertech/bug-bounty-0e661e725299?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
