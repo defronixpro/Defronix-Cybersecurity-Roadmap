@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Flipper Zero Episode 1: What It Is, What You Can Do, and How to Set It Up ?](https://infosecwriteups.com/flipper-zero-episode-1-what-it-is-what-you-can-do-and-how-to-set-it-up-bb372e603baa?source=rss----7b722bfd1b8d---4)
 - [The art of hunting logical bugs: Exploiting business logic in modern apps](https://infosecwriteups.com/the-art-of-hunting-logical-bugs-exploiting-business-logic-in-modern-apps-a374c3650b90?source=rss----7b722bfd1b8d---4)
 - [JWT Security in 2025: Are We Finally Free from Leaks?](https://infosecwriteups.com/jwt-security-in-2025-are-we-finally-free-from-leaks-3552fce24690?source=rss----7b722bfd1b8d---4)
 - [How I Found Sensitive Information using Github Dorks in Bug Bounties — Part 2](https://mukibas37.medium.com/find-bugs-using-github-dorking-part-2-2f80c1023592?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Bug Bounty](https://medium.com/@hihiprocybertech/bug-bounty-0e661e725299?source=rss------bug_bounty_writeup-5)
 - [Unauthenticated API Leaks Private Property Data](https://medium.com/@banertheinrich/unauthenticated-api-leaks-private-property-data-f125e8fe0c4d?source=rss------bug_bounty_writeup-5)
 - [Multiple Account Creation with Same Email](https://medium.com/@A0X-Y0S3TRX/multiple-account-creation-with-same-email-81acb37aca96?source=rss------bug_bounty_writeup-5)
-- [Billing  TryHackMe Writeup](https://infosecwriteups.com/billing-tryhackme-writeup-aa32f343b0f1?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
