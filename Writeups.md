@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Bug Bounty Hunting for Absolute Beginners](https://medium.com/@hackerfromhills/bug-bounty-hunting-for-absolute-beginners-f4ec4a127705?source=rss------bug_bounty_writeup-5)
 - [How to choose the Correct Severity or CVSS Score for a Bug: A Practical Guide](https://infosecwriteups.com/how-to-choose-the-correct-severity-or-cvss-score-for-a-bug-a-practical-guide-7a83be0096f3?source=rss----7b722bfd1b8d---4)
 - [Network Intrusion Analysis at Scale](https://infosecwriteups.com/network-intrusion-analysis-at-scale-733169fc29ff?source=rss----7b722bfd1b8d---4)
 - [A Website that will be helpful in your Bug bounty and OSINT journey](https://infosecwriteups.com/a-website-that-will-be-helpful-in-your-bug-bounty-and-osint-journey-2c3368346924?source=rss----7b722bfd1b8d---4)
@@ -19,7 +20,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How ? My Knowledge about Server- &lpar;Nginx&rpar; Got Me into WHO’s Hall of Fame: Host Header Injection…](https://osintteam.blog/how-my-knowledge-about-server-nginx-got-me-into-whos-hall-of-fame-host-header-injection-a73552c68c59?source=rss------bug_bounty_writeup-5)
 - [Get your First bounty as a newbie](https://medium.com/@saiganesh18062003/get-your-first-bounty-as-a-newbie-fcba6a92e998?source=rss------bug_bounty_writeup-5)
 - [Easy $150: Misconfigured SSO Led to Account Takeover](https://cybersecuritywriteups.com/easy-150-misconfigured-sso-led-to-account-takeover-4e2b83b72395?source=rss------bug_bounty_writeup-5)
-- [Hacking Swagger UI - 101](https://infosecwriteups.com/hacking-swagger-ui-101-ccbce66ba028?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
