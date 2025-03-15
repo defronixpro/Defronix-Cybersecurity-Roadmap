@@ -922,6 +922,12 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How to choose the Correct Severity or CVSS Score for a Bug: A Practical Guide](https://infosecwriteups.com/how-to-choose-the-correct-severity-or-cvss-score-for-a-bug-a-practical-guide-7a83be0096f3?source=rss----7b722bfd1b8d---4)
+- [Network Intrusion Analysis at Scale](https://infosecwriteups.com/network-intrusion-analysis-at-scale-733169fc29ff?source=rss----7b722bfd1b8d---4)
+- [A Website that will be helpful in your Bug bounty and OSINT journey](https://infosecwriteups.com/a-website-that-will-be-helpful-in-your-bug-bounty-and-osint-journey-2c3368346924?source=rss----7b722bfd1b8d---4)
+- [Ubuntu Server 22.04 LTS Installation — Step by Step Guide](https://infosecwriteups.com/ubuntu-server-22-04-lts-installation-step-by-step-guide-2e57df92095c?source=rss----7b722bfd1b8d---4)
+- [EXIF Geolocation Data: The Overlooked Risk in Uploaded Images](https://infosecwriteups.com/exif-geolocation-data-the-overlooked-risk-in-uploaded-images-4e9af1858772?source=rss----7b722bfd1b8d---4)
+- [Powerful Linux Tricks That Will Change Your Life](https://infosecwriteups.com/powerful-linux-tricks-that-will-change-your-life-bb515d560bcf?source=rss----7b722bfd1b8d---4)
 - [This nuclei template made me to find more bugs](https://medium.com/@canonminibeast/this-nuclei-template-made-me-to-find-more-bugs-20de8365be3d?source=rss------bug_bounty_writeup-5)
 - [This nuclei template made me to find more bugs](https://medium.com/@canonminibeast/this-nuclei-template-made-me-to-find-more-bugs-caa8c7d6931e?source=rss------bug_bounty_writeup-5)
 - [The Art of SQL Injection : A Comprehensive Guide](https://zeusvuln.medium.com/the-art-of-sql-injection-a-comprehensive-guide-d394e8affb6d?source=rss------bug_bounty_writeup-5)
@@ -934,12 +940,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How ? My Knowledge about Server- &lpar;Nginx&rpar; Got Me into WHO’s Hall of Fame: Host Header Injection…](https://osintteam.blog/how-my-knowledge-about-server-nginx-got-me-into-whos-hall-of-fame-host-header-injection-a73552c68c59?source=rss------bug_bounty_writeup-5)
 - [Get your First bounty as a newbie](https://medium.com/@saiganesh18062003/get-your-first-bounty-as-a-newbie-fcba6a92e998?source=rss------bug_bounty_writeup-5)
 - [Easy $150: Misconfigured SSO Led to Account Takeover](https://cybersecuritywriteups.com/easy-150-misconfigured-sso-led-to-account-takeover-4e2b83b72395?source=rss------bug_bounty_writeup-5)
-- [THM — Anonforce](https://infosecwriteups.com/thm-anonforce-874016c34a0f?source=rss----7b722bfd1b8d---4)
-- [Escalate and Defend: Linux Kernel Exploit Walkthrough](https://infosecwriteups.com/escalate-and-defend-linux-kernel-exploit-walkthrough-eed9cf0c50ba?source=rss----7b722bfd1b8d---4)
-- [IDOR — TryHackMe Walkthrough](https://infosecwriteups.com/idor-tryhackme-walkthrough-0a38ddc37694?source=rss----7b722bfd1b8d---4)
-- [Ultimate List of Free Resources for Bug Bounty Hunters](https://infosecwriteups.com/ultimate-list-of-free-resources-for-bug-bounty-hunters-bfba8deb5a36?source=rss----7b722bfd1b8d---4)
-- [Creating a CTF Machine with Docker and Docker Compose: A Step-by-Step Guide](https://infosecwriteups.com/creating-a-ctf-machine-with-docker-and-docker-compose-a-step-by-step-guide-b5143576ae28?source=rss----7b722bfd1b8d---4)
-- [Hacking Swagger UI - 101](https://infosecwriteups.com/hacking-swagger-ui-101-ccbce66ba028?source=rss----7b722bfd1b8d---4)
 - [Hacking Swagger UI - 101](https://infosecwriteups.com/hacking-swagger-ui-101-ccbce66ba028?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
