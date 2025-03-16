@@ -6,7 +6,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [SOC338 — Lumma Stealer — DLL Side-Loading via Click Fix Phishing](https://infosecwriteups.com/soc338-lumma-stealer-dll-side-loading-via-click-fix-phishing-8d56a20f4acc?source=rss----7b722bfd1b8d---4)
 - [CVE-2025–24813: Apache Tomcat Path Equivalence Vulnerability $$$$ BOUNTY](https://infosecwriteups.com/cve-2025-24813-apache-tomcat-path-equivalence-vulnerability-bounty-961350b31e16?source=rss----7b722bfd1b8d---4)
 - [What After choosing a target ? Recon Methodology— Bug Bounty Restart Phase 3](https://infosecwriteups.com/what-after-choosing-a-target-recon-methodology-bug-bounty-restart-phase-3-8d83afee5116?source=rss----7b722bfd1b8d---4)
-- [How I Hacked an E-Commerce Website &amp; Found XSS](https://aiwolfie.medium.com/how-i-hacked-an-e-commerce-website-found-xss-75db71424d4a?source=rss------bug_bounty_writeup-5)
+- [How I Hacked an E-Commerce Website &amp; Found XSS](https://publication.osintambition.org/how-i-hacked-an-e-commerce-website-found-xss-75db71424d4a?source=rss------bug_bounty_writeup-5)
 - [How I Bypassed Verification &amp; One Pro Tip for Bug Hunters](https://medium.com/@mahdisalhi0500/how-i-bypassed-verification-one-pro-tip-for-bug-hunters-28dc82578614?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Hunting for Absolute Beginners](https://medium.com/@hackerfromhills/bug-bounty-hunting-for-absolute-beginners-f4ec4a127705?source=rss------bug_bounty_writeup-5)
 - [How to choose the Correct Severity or CVSS Score for a Bug: A Practical Guide](https://infosecwriteups.com/how-to-choose-the-correct-severity-or-cvss-score-for-a-bug-a-practical-guide-7a83be0096f3?source=rss----7b722bfd1b8d---4)
