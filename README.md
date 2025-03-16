@@ -922,6 +922,10 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [A website that will be helpful in your bug bounty journey.](https://infosecwriteups.com/a-website-that-will-be-helpful-in-your-bug-bounty-journey-de4f0f1721a8?source=rss----7b722bfd1b8d---4)
+- [SOC338 — Lumma Stealer — DLL Side-Loading via Click Fix Phishing](https://infosecwriteups.com/soc338-lumma-stealer-dll-side-loading-via-click-fix-phishing-8d56a20f4acc?source=rss----7b722bfd1b8d---4)
+- [CVE-2025–24813: Apache Tomcat Path Equivalence Vulnerability $$$$ BOUNTY](https://infosecwriteups.com/cve-2025-24813-apache-tomcat-path-equivalence-vulnerability-bounty-961350b31e16?source=rss----7b722bfd1b8d---4)
+- [What After choosing a target ? Recon Methodology— Bug Bounty Restart Phase 3](https://infosecwriteups.com/what-after-choosing-a-target-recon-methodology-bug-bounty-restart-phase-3-8d83afee5116?source=rss----7b722bfd1b8d---4)
 - [How I Hacked an E-Commerce Website &amp; Found XSS](https://aiwolfie.medium.com/how-i-hacked-an-e-commerce-website-found-xss-75db71424d4a?source=rss------bug_bounty_writeup-5)
 - [How I Bypassed Verification &amp; One Pro Tip for Bug Hunters](https://medium.com/@mahdisalhi0500/how-i-bypassed-verification-one-pro-tip-for-bug-hunters-28dc82578614?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Hunting for Absolute Beginners](https://medium.com/@hackerfromhills/bug-bounty-hunting-for-absolute-beginners-f4ec4a127705?source=rss------bug_bounty_writeup-5)
@@ -935,10 +939,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [This nuclei template made me to find more bugs](https://medium.com/@canonminibeast/this-nuclei-template-made-me-to-find-more-bugs-caa8c7d6931e?source=rss------bug_bounty_writeup-5)
 - [The Art of SQL Injection : A Comprehensive Guide](https://zeusvuln.medium.com/the-art-of-sql-injection-a-comprehensive-guide-d394e8affb6d?source=rss------bug_bounty_writeup-5)
 - [How I Found an IDOR Vulnerability – A Responsible Disclosure Story](https://medium.com/@vickyrohith70/how-i-found-an-idor-vulnerability-a-responsible-disclosure-story-def2885bbe0c?source=rss------bug_bounty_writeup-5)
-- [GraphQL Vulnerabilities: A Complete Guide to Security Testing and Advanced Exploitation Techniques](https://infosecwriteups.com/graphql-vulnerabilities-a-complete-guide-to-security-testing-and-advanced-exploitation-techniques-5eb94af945c0?source=rss----7b722bfd1b8d---4)
-- [Flipper Zero Episode 1: What It Is, What You Can Do, and How to Set It Up ?](https://infosecwriteups.com/flipper-zero-episode-1-what-it-is-what-you-can-do-and-how-to-set-it-up-bb372e603baa?source=rss----7b722bfd1b8d---4)
-- [The art of hunting logical bugs: Exploiting business logic in modern apps](https://infosecwriteups.com/the-art-of-hunting-logical-bugs-exploiting-business-logic-in-modern-apps-a374c3650b90?source=rss----7b722bfd1b8d---4)
-- [JWT Security in 2025: Are We Finally Free from Leaks?](https://infosecwriteups.com/jwt-security-in-2025-are-we-finally-free-from-leaks-3552fce24690?source=rss----7b722bfd1b8d---4)
 - [How I Found Sensitive Information using Github Dorks in Bug Bounties — Part 2](https://mukibas37.medium.com/find-bugs-using-github-dorking-part-2-2f80c1023592?source=rss------bug_bounty_writeup-5)
 - [How ? My Knowledge about Server- &lpar;Nginx&rpar; Got Me into WHO’s Hall of Fame: Host Header Injection…](https://osintteam.blog/how-my-knowledge-about-server-nginx-got-me-into-whos-hall-of-fame-host-header-injection-a73552c68c59?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
