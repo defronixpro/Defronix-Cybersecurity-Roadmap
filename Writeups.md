@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Gas Level Vulnerability: Floating pragma version](https://medium.com/@jeetpal2007/gas-level-vulnerability-floating-pragma-version-10a7741ab096?source=rss------bug_bounty_writeup-5)
 - [A website that will be helpful in your bug bounty journey.](https://infosecwriteups.com/a-website-that-will-be-helpful-in-your-bug-bounty-journey-de4f0f1721a8?source=rss----7b722bfd1b8d---4)
 - [SOC338 — Lumma Stealer — DLL Side-Loading via Click Fix Phishing](https://infosecwriteups.com/soc338-lumma-stealer-dll-side-loading-via-click-fix-phishing-8d56a20f4acc?source=rss----7b722bfd1b8d---4)
 - [CVE-2025–24813: Apache Tomcat Path Equivalence Vulnerability $$$$ BOUNTY](https://infosecwriteups.com/cve-2025-24813-apache-tomcat-path-equivalence-vulnerability-bounty-961350b31e16?source=rss----7b722bfd1b8d---4)
@@ -19,7 +20,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [The Art of SQL Injection : A Comprehensive Guide](https://zeusvuln.medium.com/the-art-of-sql-injection-a-comprehensive-guide-d394e8affb6d?source=rss------bug_bounty_writeup-5)
 - [How I Found an IDOR Vulnerability – A Responsible Disclosure Story](https://medium.com/@vickyrohith70/how-i-found-an-idor-vulnerability-a-responsible-disclosure-story-def2885bbe0c?source=rss------bug_bounty_writeup-5)
 - [How I Found Sensitive Information using Github Dorks in Bug Bounties — Part 2](https://mukibas37.medium.com/find-bugs-using-github-dorking-part-2-2f80c1023592?source=rss------bug_bounty_writeup-5)
-- [How ? My Knowledge about Server- &lpar;Nginx&rpar; Got Me into WHO’s Hall of Fame: Host Header Injection…](https://osintteam.blog/how-my-knowledge-about-server-nginx-got-me-into-whos-hall-of-fame-host-header-injection-a73552c68c59?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
