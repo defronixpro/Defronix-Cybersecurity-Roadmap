@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Best Bug Bounty Tools for Hackers in 2025: Why Digi Astra is the Ultimate Choice](https://medium.com/@modernshubhamgupta/best-bug-bounty-tools-for-hackers-in-2025-why-digi-astra-is-the-ultimate-choice-fd414bc41fa9?source=rss------bug_bounty_writeup-5)
 - [How to Start a Cybersecurity Career with No Degree &lpar;And No BS&rpar;](https://infosecwriteups.com/how-to-start-a-cybersecurity-career-with-no-degree-and-no-bs-cf154b1775f3?source=rss----7b722bfd1b8d---4)
 - [How I Hacked NASA And Received an Appreciation Letter](https://infosecwriteups.com/how-i-hacked-nasa-and-received-an-appreciation-letter-2d4a78a4a1f6?source=rss----7b722bfd1b8d---4)
 - [Model Context Protocol &lpar;MCP&rpar; vs Security](https://infosecwriteups.com/model-context-protocol-mcp-vs-security-07b2a84b6b8c?source=rss----7b722bfd1b8d---4)
@@ -19,7 +20,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [This nuclei template made me to find more bugs](https://medium.com/@canonminibeast/this-nuclei-template-made-me-to-find-more-bugs-caa8c7d6931e?source=rss------bug_bounty_writeup-5)
 - [The Art of SQL Injection : A Comprehensive Guide](https://zeusvuln.medium.com/the-art-of-sql-injection-a-comprehensive-guide-d394e8affb6d?source=rss------bug_bounty_writeup-5)
 - [How I Found an IDOR Vulnerability – A Responsible Disclosure Story](https://medium.com/@vickyrohith70/how-i-found-an-idor-vulnerability-a-responsible-disclosure-story-def2885bbe0c?source=rss------bug_bounty_writeup-5)
-- [How I Found Sensitive Information using Github Dorks in Bug Bounties — Part 2](https://mukibas37.medium.com/find-bugs-using-github-dorking-part-2-2f80c1023592?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
