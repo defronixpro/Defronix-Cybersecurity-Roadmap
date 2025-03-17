@@ -1,6 +1,12 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How I Found an Open Redirect Vulnerability Easily &lpar;Worth $500!&rpar;](https://infosecwriteups.com/how-i-found-an-open-redirect-vulnerability-easily-worth-500-274999bb6527?source=rss----7b722bfd1b8d---4)
+- [Subdomain Found! Now What? Next Steps for Bug Hunters](https://infosecwriteups.com/subdomain-found-now-what-next-steps-for-bug-hunters-df8fd79c73b7?source=rss----7b722bfd1b8d---4)
+- [Decrypting Zoom Team Chat: Forensic Analysis of Encrypted Chat Databases](https://infosecwriteups.com/decrypting-zoom-team-chat-forensic-analysis-of-encrypted-chat-databases-394d5c471e60?source=rss----7b722bfd1b8d---4)
+- [Mastering iOS Pentesting with otool](https://infosecwriteups.com/mastering-ios-pentesting-with-otool-0803bd65c7ed?source=rss----7b722bfd1b8d---4)
+- [How to Execute the Bybit $1.5B ETH Heist — An Attack Path for Offensive Security Operations in AWS](https://infosecwriteups.com/how-to-execute-the-bybit-1-5b-eth-heist-an-attack-path-for-offensive-security-operations-in-aws-4ab3e3906441?source=rss----7b722bfd1b8d---4)
+- [Sunset:1 Walkthrough](https://infosecwriteups.com/sunset-1-walkthrough-d124d06fcc93?source=rss----7b722bfd1b8d---4)
 - [Gas Level Vulnerability: Floating pragma version](https://medium.com/@jeetpal2007/gas-level-vulnerability-floating-pragma-version-10a7741ab096?source=rss------bug_bounty_writeup-5)
 - [A website that will be helpful in your bug bounty journey.](https://infosecwriteups.com/a-website-that-will-be-helpful-in-your-bug-bounty-journey-de4f0f1721a8?source=rss----7b722bfd1b8d---4)
 - [SOC338 — Lumma Stealer — DLL Side-Loading via Click Fix Phishing](https://infosecwriteups.com/soc338-lumma-stealer-dll-side-loading-via-click-fix-phishing-8d56a20f4acc?source=rss----7b722bfd1b8d---4)
@@ -9,12 +15,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How I Hacked an E-Commerce Website &amp; Found XSS](https://publication.osintambition.org/how-i-hacked-an-e-commerce-website-found-xss-75db71424d4a?source=rss------bug_bounty_writeup-5)
 - [How I Bypassed Verification &amp; One Pro Tip for Bug Hunters](https://medium.com/@mahdisalhi0500/how-i-bypassed-verification-one-pro-tip-for-bug-hunters-28dc82578614?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Hunting for Absolute Beginners](https://medium.com/@hackerfromhills/bug-bounty-hunting-for-absolute-beginners-f4ec4a127705?source=rss------bug_bounty_writeup-5)
-- [How to choose the Correct Severity or CVSS Score for a Bug: A Practical Guide](https://infosecwriteups.com/how-to-choose-the-correct-severity-or-cvss-score-for-a-bug-a-practical-guide-7a83be0096f3?source=rss----7b722bfd1b8d---4)
-- [Network Intrusion Analysis at Scale](https://infosecwriteups.com/network-intrusion-analysis-at-scale-733169fc29ff?source=rss----7b722bfd1b8d---4)
-- [A Website that will be helpful in your Bug bounty and OSINT journey](https://infosecwriteups.com/a-website-that-will-be-helpful-in-your-bug-bounty-and-osint-journey-2c3368346924?source=rss----7b722bfd1b8d---4)
-- [Ubuntu Server 22.04 LTS Installation — Step by Step Guide](https://infosecwriteups.com/ubuntu-server-22-04-lts-installation-step-by-step-guide-2e57df92095c?source=rss----7b722bfd1b8d---4)
-- [EXIF Geolocation Data: The Overlooked Risk in Uploaded Images](https://infosecwriteups.com/exif-geolocation-data-the-overlooked-risk-in-uploaded-images-4e9af1858772?source=rss----7b722bfd1b8d---4)
-- [Powerful Linux Tricks That Will Change Your Life](https://infosecwriteups.com/powerful-linux-tricks-that-will-change-your-life-bb515d560bcf?source=rss----7b722bfd1b8d---4)
 - [This nuclei template made me to find more bugs](https://medium.com/@canonminibeast/this-nuclei-template-made-me-to-find-more-bugs-20de8365be3d?source=rss------bug_bounty_writeup-5)
 - [This nuclei template made me to find more bugs](https://medium.com/@canonminibeast/this-nuclei-template-made-me-to-find-more-bugs-caa8c7d6931e?source=rss------bug_bounty_writeup-5)
 - [The Art of SQL Injection : A Comprehensive Guide](https://zeusvuln.medium.com/the-art-of-sql-injection-a-comprehensive-guide-d394e8affb6d?source=rss------bug_bounty_writeup-5)
