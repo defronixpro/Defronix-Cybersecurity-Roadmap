@@ -1,6 +1,11 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [CSRF to XSS: Chaining Vulnerabilities for Critical Bug Bounties](https://krishna-cyber.medium.com/csrf-to-xss-chaining-vulnerabilities-for-critical-bug-bounties-804bced55bb3?source=rss------bug_bounty_writeup-5)
+- [How to Make Your First $100,000 in Bug Bounty](https://medium.com/@hackerfromhills/how-to-make-your-first-100-000-in-bug-bounty-51e10cda8f11?source=rss------bug_bounty_writeup-5)
+- [Skills Assessment for Hacking Wordpress: Hackthebox CBBH Course](https://medium.com/@stepan.parant/skills-assessment-for-hacking-wordpress-hackthebox-cbbh-course-d368e36d90e2?source=rss------bug_bounty_writeup-5)
+- [The Ultimate Guide to CDX API for Bug Bounty Recon](https://myselfakash20.medium.com/the-ultimate-guide-to-cdx-api-for-bug-bounty-recon-e98c36d033ed?source=rss------bug_bounty_writeup-5)
+- [Modern XSS Challenges: Beyond the Basics](https://infosecwriteups.com/modern-xss-challenges-beyond-the-basics-90bd9d931e30?source=rss------bug_bounty_writeup-5)
 - [THM — Billing](https://infosecwriteups.com/thm-billing-70be3fe3d151?source=rss----7b722bfd1b8d---4)
 - [How To Discover Hidden Endpoints️‍♂️](https://infosecwriteups.com/how-to-discover-hidden-endpoints-%EF%B8%8F-%EF%B8%8F-cc4c82c8a886?source=rss----7b722bfd1b8d---4)
 - [CRLF Injection: Guide to Finding &amp; Exploiting Vulnerabilities](https://infosecwriteups.com/crlf-injection-guide-to-finding-exploiting-vulnerabilities-ec2d55805cc4?source=rss----7b722bfd1b8d---4)
@@ -11,6 +16,11 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Tuesday Morning Threat Report: March 18, 2025](https://infosecwriteups.com/tuesday-morning-threat-report-march-18-2025-ef4e2cc6dfed?source=rss----7b722bfd1b8d---4)
 - [Building A Pattern-based XSS Recon Tool](https://infosecwriteups.com/building-a-basic-xss-reconnaissance-tool-0ff6042074d7?source=rss----7b722bfd1b8d---4)
 - [What Really Happens on the Dark Web?](https://infosecwriteups.com/what-really-happens-on-the-dark-web-f700e7680461?source=rss----7b722bfd1b8d---4)
+- [Critical IDOR: Unrestricted Access to All Company Published Files](https://medium.com/@0xAhM3D/critical-idor-unrestricted-access-to-all-company-published-files-c8db77070e87?source=rss------bug_bounty_writeup-5)
+- [Best Bug Bounty Tools for Hackers in 2025: Why Digi Astra is the Ultimate Choice](https://medium.com/@modernshubhamgupta/best-bug-bounty-tools-for-hackers-in-2025-why-digi-astra-is-the-ultimate-choice-fd414bc41fa9?source=rss------bug_bounty_writeup-5)
+- [Gas Level Vulnerability: Floating pragma version](https://medium.com/@jeetpal2007/gas-level-vulnerability-floating-pragma-version-10a7741ab096?source=rss------bug_bounty_writeup-5)
+- [How I Hacked an E-Commerce Website &amp; Found XSS](https://publication.osintambition.org/how-i-hacked-an-e-commerce-website-found-xss-75db71424d4a?source=rss------bug_bounty_writeup-5)
+- [How I Bypassed Verification &amp; One Pro Tip for Bug Hunters](https://medium.com/@mahdisalhi0500/how-i-bypassed-verification-one-pro-tip-for-bug-hunters-28dc82578614?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
