@@ -922,16 +922,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [THM — Billing](https://infosecwriteups.com/thm-billing-70be3fe3d151?source=rss----7b722bfd1b8d---4)
-- [How To Discover Hidden Endpoints️‍♂️](https://infosecwriteups.com/how-to-discover-hidden-endpoints-%EF%B8%8F-%EF%B8%8F-cc4c82c8a886?source=rss----7b722bfd1b8d---4)
-- [CRLF Injection: Guide to Finding &amp; Exploiting Vulnerabilities](https://infosecwriteups.com/crlf-injection-guide-to-finding-exploiting-vulnerabilities-ec2d55805cc4?source=rss----7b722bfd1b8d---4)
-- [Overwork, Burnout and the Toll on Mental Health in Cybersecurity](https://infosecwriteups.com/overwork-burnout-and-the-toll-on-mental-health-in-cybersecurity-e68a8877211f?source=rss----7b722bfd1b8d---4)
-- [TryHackMe Ignite Room Walkthrough: Exploiting Fuel CMS 1.4.1 RCE](https://infosecwriteups.com/tryhackme-ignite-room-walkthrough-exploiting-fuel-cms-1-4-1-rce-8ae1e8659c64?source=rss----7b722bfd1b8d---4)
-- [Think You Can Hack a Kubernetes Cluster? Here’s What to Look For.](https://infosecwriteups.com/think-you-can-hack-a-kubernetes-cluster-heres-what-to-look-for-f644c43b280d?source=rss----7b722bfd1b8d---4)
-- [API Security 101: Securing GraphQL and REST Endpoints Like a Pro](https://infosecwriteups.com/api-security-101-securing-graphql-and-rest-endpoints-like-a-pro-1f819bfe15f9?source=rss----7b722bfd1b8d---4)
-- [Tuesday Morning Threat Report: March 18, 2025](https://infosecwriteups.com/tuesday-morning-threat-report-march-18-2025-ef4e2cc6dfed?source=rss----7b722bfd1b8d---4)
-- [Building A Pattern-based XSS Recon Tool](https://infosecwriteups.com/building-a-basic-xss-reconnaissance-tool-0ff6042074d7?source=rss----7b722bfd1b8d---4)
-- [What Really Happens on the Dark Web?](https://infosecwriteups.com/what-really-happens-on-the-dark-web-f700e7680461?source=rss----7b722bfd1b8d---4)
 - [Critical IDOR: Unrestricted Access to All Company Published Files](https://medium.com/@0xAhM3D/critical-idor-unrestricted-access-to-all-company-published-files-c8db77070e87?source=rss------bug_bounty_writeup-5)
 - [Best Bug Bounty Tools for Hackers in 2025: Why Digi Astra is the Ultimate Choice](https://medium.com/@modernshubhamgupta/best-bug-bounty-tools-for-hackers-in-2025-why-digi-astra-is-the-ultimate-choice-fd414bc41fa9?source=rss------bug_bounty_writeup-5)
 - [Gas Level Vulnerability: Floating pragma version](https://medium.com/@jeetpal2007/gas-level-vulnerability-floating-pragma-version-10a7741ab096?source=rss------bug_bounty_writeup-5)
