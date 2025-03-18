@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [CSRF to XSS: Chaining Vulnerabilities for Critical Bug Bounties](https://krishna-cyber.medium.com/csrf-to-xss-chaining-vulnerabilities-for-critical-bug-bounties-804bced55bb3?source=rss------bug_bounty_writeup-5)
 - [How to Make Your First $100,000 in Bug Bounty](https://medium.com/@hackerfromhills/how-to-make-your-first-100-000-in-bug-bounty-51e10cda8f11?source=rss------bug_bounty_writeup-5)
 - [Skills Assessment for Hacking Wordpress: Hackthebox CBBH Course](https://medium.com/@stepan.parant/skills-assessment-for-hacking-wordpress-hackthebox-cbbh-course-d368e36d90e2?source=rss------bug_bounty_writeup-5)
 - [The Ultimate Guide to CDX API for Bug Bounty Recon](https://myselfakash20.medium.com/the-ultimate-guide-to-cdx-api-for-bug-bounty-recon-e98c36d033ed?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Gas Level Vulnerability: Floating pragma version](https://medium.com/@jeetpal2007/gas-level-vulnerability-floating-pragma-version-10a7741ab096?source=rss------bug_bounty_writeup-5)
 - [How I Hacked an E-Commerce Website &amp; Found XSS](https://publication.osintambition.org/how-i-hacked-an-e-commerce-website-found-xss-75db71424d4a?source=rss------bug_bounty_writeup-5)
 - [How I Bypassed Verification &amp; One Pro Tip for Bug Hunters](https://medium.com/@mahdisalhi0500/how-i-bypassed-verification-one-pro-tip-for-bug-hunters-28dc82578614?source=rss------bug_bounty_writeup-5)
-- [Bug Bounty Hunting for Absolute Beginners](https://medium.com/@hackerfromhills/bug-bounty-hunting-for-absolute-beginners-f4ec4a127705?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
