@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Users Without Roles/Member Roles Can Create Private Repositories And Secret Teams In Github…](https://infosecwriteups.com/users-without-roles-member-roles-can-create-private-repositories-and-secret-teams-in-github-8fec746ac684?source=rss------bug_bounty_writeup-5)
 - [From SSRF to $$$: How I Hacked Autodesk’s Rendering Service and Earned a Bug Bounty](https://cybersecuritywriteups.com/from-ssrf-to-how-i-hacked-autodesks-rendering-service-and-earned-a-bug-bounty-da444900f7d9?source=rss------bug_bounty_writeup-5)
 - [CSRF to XSS: Chaining Vulnerabilities for Critical Bug Bounties](https://krishna-cyber.medium.com/csrf-to-xss-chaining-vulnerabilities-for-critical-bug-bounties-804bced55bb3?source=rss------bug_bounty_writeup-5)
 - [How to Make Your First $100,000 in Bug Bounty](https://medium.com/@hackerfromhills/how-to-make-your-first-100-000-in-bug-bounty-51e10cda8f11?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Critical IDOR: Unrestricted Access to All Company Published Files](https://medium.com/@0xAhM3D/critical-idor-unrestricted-access-to-all-company-published-files-c8db77070e87?source=rss------bug_bounty_writeup-5)
 - [Best Bug Bounty Tools for Hackers in 2025: Why Digi Astra is the Ultimate Choice](https://medium.com/@modernshubhamgupta/best-bug-bounty-tools-for-hackers-in-2025-why-digi-astra-is-the-ultimate-choice-fd414bc41fa9?source=rss------bug_bounty_writeup-5)
 - [Gas Level Vulnerability: Floating pragma version](https://medium.com/@jeetpal2007/gas-level-vulnerability-floating-pragma-version-10a7741ab096?source=rss------bug_bounty_writeup-5)
-- [How I Hacked an E-Commerce Website &amp; Found XSS](https://publication.osintambition.org/how-i-hacked-an-e-commerce-website-found-xss-75db71424d4a?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
