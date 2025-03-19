@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [“Secret Keys to Cash: Finding Hidden Flaws for Bug Bounties”](https://medium.com/@dimpchubb/secret-keys-to-cash-finding-hidden-flaws-for-bug-bounties-c67ee06dd3eb?source=rss------bug_bounty_writeup-5)
 - [Installing and Configuring ELK Stack — Part 1](https://infosecwriteups.com/installing-and-configuring-elk-stack-ce29818ddfb4?source=rss----7b722bfd1b8d---4)
 - [Flipper Zero Series Extra: Exploring Momentum Firmware](https://infosecwriteups.com/flipper-zero-series-extra-exploring-momentum-firmware-04fa174d5c68?source=rss----7b722bfd1b8d---4)
 - [Exploiting Log4Shell — How Log4J Applications Were Hacked](https://infosecwriteups.com/exploiting-log4shell-how-log4j-applications-were-hacked-906fe13aeded?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How To Discover Hidden Endpoints️‍♂️](https://infosecwriteups.com/how-to-discover-hidden-endpoints-%EF%B8%8F-%EF%B8%8F-cc4c82c8a886?source=rss----7b722bfd1b8d---4)
 - [Critical IDOR: Unrestricted Access to All Company Published Files](https://medium.com/@0xAhM3D/critical-idor-unrestricted-access-to-all-company-published-files-c8db77070e87?source=rss------bug_bounty_writeup-5)
 - [Best Bug Bounty Tools for Hackers in 2025: Why Digi Astra is the Ultimate Choice](https://medium.com/@modernshubhamgupta/best-bug-bounty-tools-for-hackers-in-2025-why-digi-astra-is-the-ultimate-choice-fd414bc41fa9?source=rss------bug_bounty_writeup-5)
-- [Gas Level Vulnerability: Floating pragma version](https://medium.com/@jeetpal2007/gas-level-vulnerability-floating-pragma-version-10a7741ab096?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
