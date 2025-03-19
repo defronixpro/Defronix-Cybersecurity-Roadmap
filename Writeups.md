@@ -1,6 +1,12 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Installing and Configuring ELK Stack — Part 1](https://infosecwriteups.com/installing-and-configuring-elk-stack-ce29818ddfb4?source=rss----7b722bfd1b8d---4)
+- [Flipper Zero Series Extra: Exploring Momentum Firmware](https://infosecwriteups.com/flipper-zero-series-extra-exploring-momentum-firmware-04fa174d5c68?source=rss----7b722bfd1b8d---4)
+- [Exploiting Log4Shell: How Log4J Applications Were Hacked](https://infosecwriteups.com/exploiting-log4shell-how-log4j-applications-were-hacked-906fe13aeded?source=rss----7b722bfd1b8d---4)
+- [CVE-2025–21333 Windows heap-based buffer overflow analysis](https://infosecwriteups.com/cve-2025-21333-windows-heap-based-buffer-overflow-analysis-d1b597ae4bae?source=rss----7b722bfd1b8d---4)
+- [How I Wasted 537$ on the SANS Paller Scholarship without even being considered as a valid…](https://infosecwriteups.com/how-i-wasted-537-on-the-sans-paller-scholarship-without-even-being-considered-as-a-valid-6b5d4a9ef552?source=rss----7b722bfd1b8d---4)
+- [A great tool that will be helpful in your bug bounty&amp;pentesting journey.](https://infosecwriteups.com/a-great-tool-that-will-be-helpful-in-your-bug-bounty-pentesting-journey-8ce118f4ea00?source=rss----7b722bfd1b8d---4)
 - [Modern XSS Challenges: Beyond the Basics](https://infosecwriteups.com/modern-xss-challenges-beyond-the-basics-90bd9d931e30?source=rss----7b722bfd1b8d---4)
 - [The OWASP Top 10: A Hacker’s Hit List &lpar;And How to Defend Against It&rpar;](https://infosecwriteups.com/the-owasp-top-10-a-hackers-hit-list-and-how-to-defend-against-it-d116242eb050?source=rss----7b722bfd1b8d---4)
 - [Users Without Roles/Member Roles Can Create Private Repositories And Secret Teams In Github…](https://rhidayah.medium.com/users-without-roles-member-roles-can-create-private-repositories-and-secret-teams-in-github-8fec746ac684?source=rss------bug_bounty_writeup-5)
@@ -12,12 +18,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Modern XSS Challenges: Beyond the Basics](https://infosecwriteups.com/modern-xss-challenges-beyond-the-basics-90bd9d931e30?source=rss------bug_bounty_writeup-5)
 - [THM — Billing](https://infosecwriteups.com/thm-billing-70be3fe3d151?source=rss----7b722bfd1b8d---4)
 - [How To Discover Hidden Endpoints️‍♂️](https://infosecwriteups.com/how-to-discover-hidden-endpoints-%EF%B8%8F-%EF%B8%8F-cc4c82c8a886?source=rss----7b722bfd1b8d---4)
-- [CRLF Injection: Guide to Finding &amp; Exploiting Vulnerabilities](https://infosecwriteups.com/crlf-injection-guide-to-finding-exploiting-vulnerabilities-ec2d55805cc4?source=rss----7b722bfd1b8d---4)
-- [Overwork, Burnout and the Toll on Mental Health in Cybersecurity](https://infosecwriteups.com/overwork-burnout-and-the-toll-on-mental-health-in-cybersecurity-e68a8877211f?source=rss----7b722bfd1b8d---4)
-- [TryHackMe Ignite Room Walkthrough: Exploiting Fuel CMS 1.4.1 RCE](https://infosecwriteups.com/tryhackme-ignite-room-walkthrough-exploiting-fuel-cms-1-4-1-rce-8ae1e8659c64?source=rss----7b722bfd1b8d---4)
-- [Think You Can Hack a Kubernetes Cluster? Here’s What to Look For.](https://infosecwriteups.com/think-you-can-hack-a-kubernetes-cluster-heres-what-to-look-for-f644c43b280d?source=rss----7b722bfd1b8d---4)
-- [API Security 101: Securing GraphQL and REST Endpoints Like a Pro](https://infosecwriteups.com/api-security-101-securing-graphql-and-rest-endpoints-like-a-pro-1f819bfe15f9?source=rss----7b722bfd1b8d---4)
-- [Tuesday Morning Threat Report: March 18, 2025](https://infosecwriteups.com/tuesday-morning-threat-report-march-18-2025-ef4e2cc6dfed?source=rss----7b722bfd1b8d---4)
 - [Critical IDOR: Unrestricted Access to All Company Published Files](https://medium.com/@0xAhM3D/critical-idor-unrestricted-access-to-all-company-published-files-c8db77070e87?source=rss------bug_bounty_writeup-5)
 - [Best Bug Bounty Tools for Hackers in 2025: Why Digi Astra is the Ultimate Choice](https://medium.com/@modernshubhamgupta/best-bug-bounty-tools-for-hackers-in-2025-why-digi-astra-is-the-ultimate-choice-fd414bc41fa9?source=rss------bug_bounty_writeup-5)
 - [Gas Level Vulnerability: Floating pragma version](https://medium.com/@jeetpal2007/gas-level-vulnerability-floating-pragma-version-10a7741ab096?source=rss------bug_bounty_writeup-5)
