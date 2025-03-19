@@ -1,6 +1,8 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Modern XSS Challenges: Beyond the Basics](https://infosecwriteups.com/modern-xss-challenges-beyond-the-basics-90bd9d931e30?source=rss----7b722bfd1b8d---4)
+- [The OWASP Top 10: A Hacker’s Hit List &lpar;And How to Defend Against It&rpar;](https://infosecwriteups.com/the-owasp-top-10-a-hackers-hit-list-and-how-to-defend-against-it-d116242eb050?source=rss----7b722bfd1b8d---4)
 - [Users Without Roles/Member Roles Can Create Private Repositories And Secret Teams In Github…](https://rhidayah.medium.com/users-without-roles-member-roles-can-create-private-repositories-and-secret-teams-in-github-8fec746ac684?source=rss------bug_bounty_writeup-5)
 - [From SSRF to $$$: How I Hacked Autodesk’s Rendering Service and Earned a Bug Bounty](https://cybersecuritywriteups.com/from-ssrf-to-how-i-hacked-autodesks-rendering-service-and-earned-a-bug-bounty-da444900f7d9?source=rss------bug_bounty_writeup-5)
 - [CSRF to XSS: Chaining Vulnerabilities for Critical Bug Bounties](https://krishna-cyber.medium.com/csrf-to-xss-chaining-vulnerabilities-for-critical-bug-bounties-804bced55bb3?source=rss------bug_bounty_writeup-5)
@@ -16,8 +18,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Think You Can Hack a Kubernetes Cluster? Here’s What to Look For.](https://infosecwriteups.com/think-you-can-hack-a-kubernetes-cluster-heres-what-to-look-for-f644c43b280d?source=rss----7b722bfd1b8d---4)
 - [API Security 101: Securing GraphQL and REST Endpoints Like a Pro](https://infosecwriteups.com/api-security-101-securing-graphql-and-rest-endpoints-like-a-pro-1f819bfe15f9?source=rss----7b722bfd1b8d---4)
 - [Tuesday Morning Threat Report: March 18, 2025](https://infosecwriteups.com/tuesday-morning-threat-report-march-18-2025-ef4e2cc6dfed?source=rss----7b722bfd1b8d---4)
-- [Building A Pattern-based XSS Recon Tool](https://infosecwriteups.com/building-a-basic-xss-reconnaissance-tool-0ff6042074d7?source=rss----7b722bfd1b8d---4)
-- [What Really Happens on the Dark Web?](https://infosecwriteups.com/what-really-happens-on-the-dark-web-f700e7680461?source=rss----7b722bfd1b8d---4)
 - [Critical IDOR: Unrestricted Access to All Company Published Files](https://medium.com/@0xAhM3D/critical-idor-unrestricted-access-to-all-company-published-files-c8db77070e87?source=rss------bug_bounty_writeup-5)
 - [Best Bug Bounty Tools for Hackers in 2025: Why Digi Astra is the Ultimate Choice](https://medium.com/@modernshubhamgupta/best-bug-bounty-tools-for-hackers-in-2025-why-digi-astra-is-the-ultimate-choice-fd414bc41fa9?source=rss------bug_bounty_writeup-5)
 - [Gas Level Vulnerability: Floating pragma version](https://medium.com/@jeetpal2007/gas-level-vulnerability-floating-pragma-version-10a7741ab096?source=rss------bug_bounty_writeup-5)
