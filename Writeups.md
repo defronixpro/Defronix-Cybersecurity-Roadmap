@@ -3,7 +3,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 <!-- WRITEUPS:START -->
 - [Installing and Configuring ELK Stack — Part 1](https://infosecwriteups.com/installing-and-configuring-elk-stack-ce29818ddfb4?source=rss----7b722bfd1b8d---4)
 - [Flipper Zero Series Extra: Exploring Momentum Firmware](https://infosecwriteups.com/flipper-zero-series-extra-exploring-momentum-firmware-04fa174d5c68?source=rss----7b722bfd1b8d---4)
-- [Exploiting Log4Shell: How Log4J Applications Were Hacked](https://infosecwriteups.com/exploiting-log4shell-how-log4j-applications-were-hacked-906fe13aeded?source=rss----7b722bfd1b8d---4)
+- [Exploiting Log4Shell — How Log4J Applications Were Hacked](https://infosecwriteups.com/exploiting-log4shell-how-log4j-applications-were-hacked-906fe13aeded?source=rss----7b722bfd1b8d---4)
 - [CVE-2025–21333 Windows heap-based buffer overflow analysis](https://infosecwriteups.com/cve-2025-21333-windows-heap-based-buffer-overflow-analysis-d1b597ae4bae?source=rss----7b722bfd1b8d---4)
 - [How I Wasted 537$ on the SANS Paller Scholarship without even being considered as a valid…](https://infosecwriteups.com/how-i-wasted-537-on-the-sans-paller-scholarship-without-even-being-considered-as-a-valid-6b5d4a9ef552?source=rss----7b722bfd1b8d---4)
 - [A great tool that will be helpful in your bug bounty&amp;pentesting journey.](https://infosecwriteups.com/a-great-tool-that-will-be-helpful-in-your-bug-bounty-pentesting-journey-8ce118f4ea00?source=rss----7b722bfd1b8d---4)
