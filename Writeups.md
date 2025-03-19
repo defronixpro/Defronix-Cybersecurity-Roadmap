@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [$12,900 in Bounties in My First Month of Bug Hunting with Ax Framework](https://medium.com/@EthicalOffsec/12-900-in-bounties-in-my-first-month-of-bug-hunting-with-ax-framework-6d530d25c1c2?source=rss------bug_bounty_writeup-5)
 - [Automating Subdomain Takeover Discovery with Shell Scripting](https://icecream23.medium.com/automating-subdomain-takeover-discovery-with-shell-scripting-e9016ee77ddd?source=rss------bug_bounty_writeup-5)
 - [How I Got Access to Berkeley University’s One Of Server Using the Legendary ‘admin: admin’ Creds!](https://hiddendom.medium.com/how-i-got-access-to-berkeley-universitys-one-of-server-using-the-legendary-admin-admin-creds-64394e6b3152?source=rss------bug_bounty_writeup-5)
 - [“Secret Keys to Cash: Finding Hidden Flaws for Bug Bounties”](https://medium.com/@dimpchubb/secret-keys-to-cash-finding-hidden-flaws-for-bug-bounties-c67ee06dd3eb?source=rss------bug_bounty_writeup-5)
@@ -18,7 +19,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How to Make Your First $100,000 in Bug Bounty](https://medium.com/@hackerfromhills/how-to-make-your-first-100-000-in-bug-bounty-51e10cda8f11?source=rss------bug_bounty_writeup-5)
 - [Skills Assessment for Hacking Wordpress: Hackthebox CBBH Course](https://medium.com/@stepan.parant/skills-assessment-for-hacking-wordpress-hackthebox-cbbh-course-d368e36d90e2?source=rss------bug_bounty_writeup-5)
 - [The Ultimate Guide to CDX API for Bug Bounty Recon](https://myselfakash20.medium.com/the-ultimate-guide-to-cdx-api-for-bug-bounty-recon-e98c36d033ed?source=rss------bug_bounty_writeup-5)
-- [Modern XSS Challenges: Beyond the Basics](https://infosecwriteups.com/modern-xss-challenges-beyond-the-basics-90bd9d931e30?source=rss------bug_bounty_writeup-5)
 - [THM — Billing](https://infosecwriteups.com/thm-billing-70be3fe3d151?source=rss----7b722bfd1b8d---4)
 - [How To Discover Hidden Endpoints️‍♂️](https://infosecwriteups.com/how-to-discover-hidden-endpoints-%EF%B8%8F-%EF%B8%8F-cc4c82c8a886?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
