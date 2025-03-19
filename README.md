@@ -922,6 +922,9 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Automating Subdomain Takeover Discovery with Shell Scripting](https://icecream23.medium.com/automating-subdomain-takeover-discovery-with-shell-scripting-e9016ee77ddd?source=rss------bug_bounty_writeup-5)
+- [How I Got Access to Berkeley University’s One Of Server Using the Legendary ‘admin: admin’ Creds!](https://hiddendom.medium.com/how-i-got-access-to-berkeley-universitys-one-of-server-using-the-legendary-admin-admin-creds-64394e6b3152?source=rss------bug_bounty_writeup-5)
+- [“Secret Keys to Cash: Finding Hidden Flaws for Bug Bounties”](https://medium.com/@dimpchubb/secret-keys-to-cash-finding-hidden-flaws-for-bug-bounties-c67ee06dd3eb?source=rss------bug_bounty_writeup-5)
 - [Installing and Configuring ELK Stack — Part 1](https://infosecwriteups.com/installing-and-configuring-elk-stack-ce29818ddfb4?source=rss----7b722bfd1b8d---4)
 - [Flipper Zero Series Extra: Exploring Momentum Firmware](https://infosecwriteups.com/flipper-zero-series-extra-exploring-momentum-firmware-04fa174d5c68?source=rss----7b722bfd1b8d---4)
 - [Exploiting Log4Shell — How Log4J Applications Were Hacked](https://infosecwriteups.com/exploiting-log4shell-how-log4j-applications-were-hacked-906fe13aeded?source=rss----7b722bfd1b8d---4)
@@ -930,6 +933,13 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [A great tool that will be helpful in your bug bounty&amp;pentesting journey.](https://infosecwriteups.com/a-great-tool-that-will-be-helpful-in-your-bug-bounty-pentesting-journey-8ce118f4ea00?source=rss----7b722bfd1b8d---4)
 - [Modern XSS Challenges: Beyond the Basics](https://infosecwriteups.com/modern-xss-challenges-beyond-the-basics-90bd9d931e30?source=rss----7b722bfd1b8d---4)
 - [The OWASP Top 10: A Hacker’s Hit List &lpar;And How to Defend Against It&rpar;](https://infosecwriteups.com/the-owasp-top-10-a-hackers-hit-list-and-how-to-defend-against-it-d116242eb050?source=rss----7b722bfd1b8d---4)
+- [Users Without Roles/Member Roles Can Create Private Repositories And Secret Teams In Github…](https://infosecwriteups.com/users-without-roles-member-roles-can-create-private-repositories-and-secret-teams-in-github-8fec746ac684?source=rss------bug_bounty_writeup-5)
+- [From SSRF to $$$: How I Hacked Autodesk’s Rendering Service and Earned a Bug Bounty](https://cybersecuritywriteups.com/from-ssrf-to-how-i-hacked-autodesks-rendering-service-and-earned-a-bug-bounty-da444900f7d9?source=rss------bug_bounty_writeup-5)
+- [CSRF to XSS: Chaining Vulnerabilities for Critical Bug Bounties](https://krishna-cyber.medium.com/csrf-to-xss-chaining-vulnerabilities-for-critical-bug-bounties-804bced55bb3?source=rss------bug_bounty_writeup-5)
+- [How to Make Your First $100,000 in Bug Bounty](https://medium.com/@hackerfromhills/how-to-make-your-first-100-000-in-bug-bounty-51e10cda8f11?source=rss------bug_bounty_writeup-5)
+- [Skills Assessment for Hacking Wordpress: Hackthebox CBBH Course](https://medium.com/@stepan.parant/skills-assessment-for-hacking-wordpress-hackthebox-cbbh-course-d368e36d90e2?source=rss------bug_bounty_writeup-5)
+- [The Ultimate Guide to CDX API for Bug Bounty Recon](https://myselfakash20.medium.com/the-ultimate-guide-to-cdx-api-for-bug-bounty-recon-e98c36d033ed?source=rss------bug_bounty_writeup-5)
+- [Modern XSS Challenges: Beyond the Basics](https://infosecwriteups.com/modern-xss-challenges-beyond-the-basics-90bd9d931e30?source=rss------bug_bounty_writeup-5)
 - [THM — Billing](https://infosecwriteups.com/thm-billing-70be3fe3d151?source=rss----7b722bfd1b8d---4)
 - [How To Discover Hidden Endpoints️‍♂️](https://infosecwriteups.com/how-to-discover-hidden-endpoints-%EF%B8%8F-%EF%B8%8F-cc4c82c8a886?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
