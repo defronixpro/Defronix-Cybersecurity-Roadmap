@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Essential Browser Extensions for Every Bug Bounty Hunter](https://ehteshamulhaq198.medium.com/essential-browser-extensions-for-every-bug-bounty-hunter-393a98d7768e?source=rss------bug_bounty_writeup-5)
 - [♂️ “From Zero to Hero: How 2FA Bypass Turned Me Into a Bug Bounty Legend”](https://osintteam.blog/%EF%B8%8F-from-zero-to-hero-how-2fa-bypass-turned-me-into-a-bug-bounty-legend-8eb0b815aaf9?source=rss------bug_bounty_writeup-5)
 - [$12,900 in Bounties in My First Month of Bug Hunting with Ax Framework](https://medium.com/@EthicalOffsec/12-900-in-bounties-in-my-first-month-of-bug-hunting-with-ax-framework-6d530d25c1c2?source=rss------bug_bounty_writeup-5)
 - [Automating Subdomain Takeover Discovery with Shell Scripting](https://icecream23.medium.com/automating-subdomain-takeover-discovery-with-shell-scripting-e9016ee77ddd?source=rss------bug_bounty_writeup-5)
@@ -18,7 +19,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [From SSRF to $$$: How I Hacked Autodesk’s Rendering Service and Earned a Bug Bounty](https://cybersecuritywriteups.com/from-ssrf-to-how-i-hacked-autodesks-rendering-service-and-earned-a-bug-bounty-da444900f7d9?source=rss------bug_bounty_writeup-5)
 - [CSRF to XSS: Chaining Vulnerabilities for Critical Bug Bounties](https://krishna-cyber.medium.com/csrf-to-xss-chaining-vulnerabilities-for-critical-bug-bounties-804bced55bb3?source=rss------bug_bounty_writeup-5)
 - [How to Make Your First $100,000 in Bug Bounty](https://medium.com/@hackerfromhills/how-to-make-your-first-100-000-in-bug-bounty-51e10cda8f11?source=rss------bug_bounty_writeup-5)
-- [Skills Assessment for Hacking Wordpress: Hackthebox CBBH Course](https://medium.com/@stepan.parant/skills-assessment-for-hacking-wordpress-hackthebox-cbbh-course-d368e36d90e2?source=rss------bug_bounty_writeup-5)
 - [THM — Billing](https://infosecwriteups.com/thm-billing-70be3fe3d151?source=rss----7b722bfd1b8d---4)
 - [How To Discover Hidden Endpoints️‍♂️](https://infosecwriteups.com/how-to-discover-hidden-endpoints-%EF%B8%8F-%EF%B8%8F-cc4c82c8a886?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
