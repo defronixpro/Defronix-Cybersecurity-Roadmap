@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I Took Admin Account via JWT Bypass](https://medium.com/@shyam.sam0704/how-i-took-admin-account-via-jwt-bypass-5eb96430c2ad?source=rss------bug_bounty_writeup-5)
 - [HTTP Request Smuggling: Advanced Security Testing Guide and Exploitation Techniques](https://infosecwriteups.com/http-request-smuggling-advanced-security-testing-guide-and-exploitation-techniques-1d4dac9a826a?source=rss----7b722bfd1b8d---4)
 - [Cybersecurity Predictions for 2025: Navigating a Shifting Digital Landscape](https://infosecwriteups.com/cybersecurity-predictions-for-2025-navigating-a-shifting-digital-landscape-81037200c091?source=rss----7b722bfd1b8d---4)
 - [Users Without Roles/Member Roles Can Create Private Repositories And Secret Teams In Github…](https://infosecwriteups.com/users-without-roles-member-roles-can-create-private-repositories-and-secret-teams-in-github-8fec746ac684?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [“Secret Keys to Cash: Finding Hidden Flaws for Bug Bounties”](https://medium.com/@dimpchubb/secret-keys-to-cash-finding-hidden-flaws-for-bug-bounties-c67ee06dd3eb?source=rss------bug_bounty_writeup-5)
 - [Installing and Configuring ELK Stack — Part 1](https://infosecwriteups.com/installing-and-configuring-elk-stack-ce29818ddfb4?source=rss----7b722bfd1b8d---4)
 - [Flipper Zero Series Extra: Exploring Momentum Firmware](https://infosecwriteups.com/flipper-zero-series-extra-exploring-momentum-firmware-04fa174d5c68?source=rss----7b722bfd1b8d---4)
-- [Users Without Roles/Member Roles Can Create Private Repositories And Secret Teams In Github…](https://infosecwriteups.com/users-without-roles-member-roles-can-create-private-repositories-and-secret-teams-in-github-8fec746ac684?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
