@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Mastering Recon in Bug Bounty: Advanced Techniques for 2025](https://medium.com/@hackerfromhills/mastering-recon-in-bug-bounty-advanced-techniques-for-2025-1c8b5f3c43b9?source=rss------bug_bounty_writeup-5)
 - [How I Took Admin Account via JWT Bypass](https://medium.com/@shyam.sam0704/how-i-took-admin-account-via-jwt-bypass-5eb96430c2ad?source=rss------bug_bounty_writeup-5)
 - [HTTP Request Smuggling: Advanced Security Testing Guide and Exploitation Techniques](https://infosecwriteups.com/http-request-smuggling-advanced-security-testing-guide-and-exploitation-techniques-1d4dac9a826a?source=rss----7b722bfd1b8d---4)
 - [Cybersecurity Predictions for 2025: Navigating a Shifting Digital Landscape](https://infosecwriteups.com/cybersecurity-predictions-for-2025-navigating-a-shifting-digital-landscape-81037200c091?source=rss----7b722bfd1b8d---4)
@@ -18,7 +19,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [$12,900 in Bounties in My First Month of Bug Hunting with Ax Framework](https://medium.com/@EthicalOffsec/12-900-in-bounties-in-my-first-month-of-bug-hunting-with-ax-framework-6d530d25c1c2?source=rss------bug_bounty_writeup-5)
 - [Automating Subdomain Takeover Discovery with Shell Scripting](https://icecream23.medium.com/automating-subdomain-takeover-discovery-with-shell-scripting-e9016ee77ddd?source=rss------bug_bounty_writeup-5)
 - [How I Got Access to Berkeley University’s One Of Server Using the Legendary ‘admin: admin’ Creds!](https://hiddendom.medium.com/how-i-got-access-to-berkeley-universitys-one-of-server-using-the-legendary-admin-admin-creds-64394e6b3152?source=rss------bug_bounty_writeup-5)
-- [“Secret Keys to Cash: Finding Hidden Flaws for Bug Bounties”](https://medium.com/@dimpchubb/secret-keys-to-cash-finding-hidden-flaws-for-bug-bounties-c67ee06dd3eb?source=rss------bug_bounty_writeup-5)
 - [Installing and Configuring ELK Stack — Part 1](https://infosecwriteups.com/installing-and-configuring-elk-stack-ce29818ddfb4?source=rss----7b722bfd1b8d---4)
 - [Flipper Zero Series Extra: Exploring Momentum Firmware](https://infosecwriteups.com/flipper-zero-series-extra-exploring-momentum-firmware-04fa174d5c68?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
