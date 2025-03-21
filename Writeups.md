@@ -1,16 +1,6 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
-- [Understanding the Psychology of Bug Bounty Triage Teams — Why Some Bugs Get Marked as Duplicates…](https://infosecwriteups.com/understanding-the-psychology-of-bug-bounty-triage-teams-why-some-bugs-get-marked-as-duplicates-cab9195c6f58?source=rss----7b722bfd1b8d---4)
-- [Phase I — Implement free Microsoft IAM Services for Cloud-only Identities](https://infosecwriteups.com/phase-i-implement-free-microsoft-iam-services-for-cloud-only-identities-e25706ada193?source=rss----7b722bfd1b8d---4)
-- [Vanilla PowerShell Reverse Shell Using ICMP](https://infosecwriteups.com/vanilla-powershell-reverse-shell-using-icmp-42b0d5697d9b?source=rss----7b722bfd1b8d---4)
-- [Get $5000: GitHub Dorks &amp; Leaks](https://infosecwriteups.com/get-5000-github-dorks-leaks-b26728099d38?source=rss----7b722bfd1b8d---4)
-- [How to Route Traffic from WSL to Burp Suite on Windows: A Step-by-Step Guide](https://infosecwriteups.com/how-to-route-traffic-from-wsl-to-burp-suite-on-windows-a-step-by-step-guide-38d58f65b21a?source=rss----7b722bfd1b8d---4)
-- [What Are Black-Box LLMs, and Why Are They a Growing Concern in API-Based AI Models?](https://infosecwriteups.com/what-are-black-box-llms-and-why-are-they-a-growing-concern-in-api-based-ai-models-a95a48b67896?source=rss----7b722bfd1b8d---4)
-- [The Hidden Risk in AI-Generated Code: A Silent Backdoor](https://infosecwriteups.com/the-hidden-risk-in-ai-generated-code-a-silent-backdoor-7dc3c1279cb6?source=rss----7b722bfd1b8d---4)
-- [$50K Bounty Just for GitHub Access Token exposure](https://infosecwriteups.com/50k-bounty-just-for-github-access-token-exposure-d92dcc34eb4d?source=rss----7b722bfd1b8d---4)
-- [$200+ Bug Bounty Payouts: Exploiting Content Providers with SQL Injection](https://infosecwriteups.com/200-bug-bounty-payouts-exploiting-content-providers-with-sql-injection-abd287179b61?source=rss----7b722bfd1b8d---4)
-- [Adversarial AI Digest — 20 March, 2025](https://infosecwriteups.com/adversarial-ai-digest-20-march-2025-2e3cde5c34bb?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
