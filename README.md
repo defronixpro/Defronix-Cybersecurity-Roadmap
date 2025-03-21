@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [The rate limiting request /api/auth/_log is not used causing all APIs to crash.](https://medium.com/@VulnRAM/the-rate-limiting-request-api-auth-log-is-not-used-causing-all-apis-to-crash-87dc89c4f178?source=rss------bug_bounty_writeup-5)
+- [5 Game-Changing Websites Every Bug Hunter Must Know! ️‍♂️](https://medium.com/@vipulsonule71/5-most-useful-websites-for-bug-hunters-to-know-7094055e1e4b?source=rss------bug_bounty_writeup-5)
 - [Understanding the Psychology of Bug Bounty Triage Teams — Why Some Bugs Get Marked as Duplicates…](https://infosecwriteups.com/understanding-the-psychology-of-bug-bounty-triage-teams-why-some-bugs-get-marked-as-duplicates-cab9195c6f58?source=rss----7b722bfd1b8d---4)
 - [Phase I — Implement free Microsoft IAM Services for Cloud-only Identities](https://infosecwriteups.com/phase-i-implement-free-microsoft-iam-services-for-cloud-only-identities-e25706ada193?source=rss----7b722bfd1b8d---4)
 - [Vanilla PowerShell Reverse Shell Using ICMP](https://infosecwriteups.com/vanilla-powershell-reverse-shell-using-icmp-42b0d5697d9b?source=rss----7b722bfd1b8d---4)
@@ -932,6 +934,14 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [$50K Bounty Just for GitHub Access Token exposure](https://infosecwriteups.com/50k-bounty-just-for-github-access-token-exposure-d92dcc34eb4d?source=rss----7b722bfd1b8d---4)
 - [$200+ Bug Bounty Payouts: Exploiting Content Providers with SQL Injection](https://infosecwriteups.com/200-bug-bounty-payouts-exploiting-content-providers-with-sql-injection-abd287179b61?source=rss----7b722bfd1b8d---4)
 - [Adversarial AI Digest — 20 March, 2025](https://infosecwriteups.com/adversarial-ai-digest-20-march-2025-2e3cde5c34bb?source=rss----7b722bfd1b8d---4)
+- [Mastering Recon in Bug Bounty: Advanced Techniques for 2025](https://medium.com/@hackerfromhills/mastering-recon-in-bug-bounty-advanced-techniques-for-2025-1c8b5f3c43b9?source=rss------bug_bounty_writeup-5)
+- [How I Took Admin Account via JWT Bypass](https://medium.com/@shyam.sam0704/how-i-took-admin-account-via-jwt-bypass-5eb96430c2ad?source=rss------bug_bounty_writeup-5)
+- [How I Made $1,000,000 in Bug Bounties — Finding a Simple $500,000+ Vulnerability with Just a…](https://theindiannetwork.medium.com/how-i-made-1-000-000-in-bug-bounties-finding-a-simple-500-000-vulnerability-with-just-a-d5e224041c6e?source=rss------bug_bounty_writeup-5)
+- [From Zero to Hero: Hunting High-Paying Open Redirect Bugs in Web Apps](https://infosecwriteups.com/from-zero-to-hero-hunting-high-paying-open-redirect-bugs-in-web-apps-fdb80286236e?source=rss------bug_bounty_writeup-5)
+- [Mobile Number Verification Bypass CWE-840 Business Logic Error](https://medium.com/@VulnRAM/mobile-number-verification-bypass-cwe-840-business-logic-error-1cd80b0bced5?source=rss------bug_bounty_writeup-5)
+- [Essential Browser Extensions for Every Bug Bounty Hunter](https://ehteshamulhaq198.medium.com/essential-browser-extensions-for-every-bug-bounty-hunter-393a98d7768e?source=rss------bug_bounty_writeup-5)
+- [♂️ “From Zero to Hero: How 2FA Bypass Turned Me Into a Bug Bounty Legend”](https://osintteam.blog/%EF%B8%8F-from-zero-to-hero-how-2fa-bypass-turned-me-into-a-bug-bounty-legend-8eb0b815aaf9?source=rss------bug_bounty_writeup-5)
+- [$12,900 in Bounties in My First Month of Bug Hunting with Ax Framework](https://medium.com/@EthicalOffsec/12-900-in-bounties-in-my-first-month-of-bug-hunting-with-ax-framework-6d530d25c1c2?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
