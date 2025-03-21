@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [5 Most Useful Websites for Bug Hunters to Know](https://medium.com/@vipulsonule71/5-most-useful-websites-for-bug-hunters-to-know-7094055e1e4b?source=rss------bug_bounty_writeup-5)
 - [Understanding the Psychology of Bug Bounty Triage Teams — Why Some Bugs Get Marked as Duplicates…](https://infosecwriteups.com/understanding-the-psychology-of-bug-bounty-triage-teams-why-some-bugs-get-marked-as-duplicates-cab9195c6f58?source=rss----7b722bfd1b8d---4)
 - [Phase I — Implement free Microsoft IAM Services for Cloud-only Identities](https://infosecwriteups.com/phase-i-implement-free-microsoft-iam-services-for-cloud-only-identities-e25706ada193?source=rss----7b722bfd1b8d---4)
 - [Vanilla PowerShell Reverse Shell Using ICMP](https://infosecwriteups.com/vanilla-powershell-reverse-shell-using-icmp-42b0d5697d9b?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [♂️ “From Zero to Hero: How 2FA Bypass Turned Me Into a Bug Bounty Legend”](https://osintteam.blog/%EF%B8%8F-from-zero-to-hero-how-2fa-bypass-turned-me-into-a-bug-bounty-legend-8eb0b815aaf9?source=rss------bug_bounty_writeup-5)
 - [$12,900 in Bounties in My First Month of Bug Hunting with Ax Framework](https://medium.com/@EthicalOffsec/12-900-in-bounties-in-my-first-month-of-bug-hunting-with-ax-framework-6d530d25c1c2?source=rss------bug_bounty_writeup-5)
 - [Automating Subdomain Takeover Discovery with Shell Scripting](https://icecream23.medium.com/automating-subdomain-takeover-discovery-with-shell-scripting-e9016ee77ddd?source=rss------bug_bounty_writeup-5)
-- [How I Got Access to Berkeley University’s One Of Server Using the Legendary ‘admin: admin’ Creds!](https://hiddendom.medium.com/how-i-got-access-to-berkeley-universitys-one-of-server-using-the-legendary-admin-admin-creds-64394e6b3152?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
