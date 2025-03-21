@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Understanding the Psychology of Bug Bounty Triage Teams — Why Some Bugs Get Marked as Duplicates…](https://infosecwriteups.com/understanding-the-psychology-of-bug-bounty-triage-teams-why-some-bugs-get-marked-as-duplicates-cab9195c6f58?source=rss----7b722bfd1b8d---4)
 - [Phase I — Implement free Microsoft IAM Services for Cloud-only Identities](https://infosecwriteups.com/phase-i-implement-free-microsoft-iam-services-for-cloud-only-identities-e25706ada193?source=rss----7b722bfd1b8d---4)
 - [Vanilla PowerShell Reverse Shell Using ICMP](https://infosecwriteups.com/vanilla-powershell-reverse-shell-using-icmp-42b0d5697d9b?source=rss----7b722bfd1b8d---4)
 - [Get $5000: GitHub Dorks &amp; Leaks](https://infosecwriteups.com/get-5000-github-dorks-leaks-b26728099d38?source=rss----7b722bfd1b8d---4)
@@ -10,7 +11,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [$50K Bounty Just for GitHub Access Token exposure](https://infosecwriteups.com/50k-bounty-just-for-github-access-token-exposure-d92dcc34eb4d?source=rss----7b722bfd1b8d---4)
 - [$200+ Bug Bounty Payouts: Exploiting Content Providers with SQL Injection](https://infosecwriteups.com/200-bug-bounty-payouts-exploiting-content-providers-with-sql-injection-abd287179b61?source=rss----7b722bfd1b8d---4)
 - [Adversarial AI Digest — 20 March, 2025](https://infosecwriteups.com/adversarial-ai-digest-20-march-2025-2e3cde5c34bb?source=rss----7b722bfd1b8d---4)
-- [Setting Up Fleet Server and Elastic Agent — Part 2](https://infosecwriteups.com/setting-up-fleet-server-and-elastic-agent-part-2-670cc512237f?source=rss----7b722bfd1b8d---4)
 - [Mastering Recon in Bug Bounty: Advanced Techniques for 2025](https://medium.com/@hackerfromhills/mastering-recon-in-bug-bounty-advanced-techniques-for-2025-1c8b5f3c43b9?source=rss------bug_bounty_writeup-5)
 - [How I Took Admin Account via JWT Bypass](https://medium.com/@shyam.sam0704/how-i-took-admin-account-via-jwt-bypass-5eb96430c2ad?source=rss------bug_bounty_writeup-5)
 - [How I Made $1,000,000 in Bug Bounties — Finding a Simple $500,000+ Vulnerability with Just a…](https://theindiannetwork.medium.com/how-i-made-1-000-000-in-bug-bounties-finding-a-simple-500-000-vulnerability-with-just-a-d5e224041c6e?source=rss------bug_bounty_writeup-5)
