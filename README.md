@@ -922,6 +922,12 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [I Stalked a Scammer on the Dark Web Here’s What I Learned About OSINT](https://infosecwriteups.com/i-stalked-a-scammer-on-the-dark-web-heres-what-i-learned-about-osint-18675de8ce82?source=rss----7b722bfd1b8d---4)
+- [Finding new apex domains in a unique way.](https://infosecwriteups.com/finding-new-apex-domains-in-a-unique-way-87404d8dfa1d?source=rss----7b722bfd1b8d---4)
+- [Advanced Bug Bounty: API Key and Token Leaks — Tools, Techniques, and Exploitation](https://infosecwriteups.com/advanced-bug-bounty-api-key-and-token-leaks-tools-techniques-and-exploitation-7d3fcb3b5fb7?source=rss----7b722bfd1b8d---4)
+- [The Art of Wi-Fi Hacking &amp; Protection with Aircrack-ng](https://infosecwriteups.com/the-art-of-wi-fi-hacking-protection-with-aircrack-ng-71828972cd6e?source=rss----7b722bfd1b8d---4)
+- [How to Get Root Privilege after getting foothold [ EJPT Notes]](https://infosecwriteups.com/how-to-get-root-privilege-after-getting-foothold-ejpt-notes-ce526a535ca3?source=rss----7b722bfd1b8d---4)
+- [Microsoft 365 Copilot For Work: Image Data Exfiltration From SharePoint](https://infosecwriteups.com/microsoft-365-copilot-for-work-image-data-exfiltration-from-sharepoint-644bc818a5db?source=rss----7b722bfd1b8d---4)
 - [How I Bypassed 403 Forbidden &amp; Accessed Restricted Pages — Real-World Exploit!](https://theindiannetwork.medium.com/how-i-bypassed-403-forbidden-accessed-restricted-pages-real-world-exploit-e19ccb18bbbb?source=rss------bug_bounty_writeup-5)
 - [Information Disclosure — Exposed Order Details via Shipping Status API](https://medium.com/@mIna_x1/information-disclosure-exposed-order-details-via-shipping-status-api-7fd177364d12?source=rss------bug_bounty_writeup-5)
 - [The rate limiting request /api/auth/_log is not used causing all APIs to crash.](https://medium.com/@VulnRAM/the-rate-limiting-request-api-auth-log-is-not-used-causing-all-apis-to-crash-87dc89c4f178?source=rss------bug_bounty_writeup-5)
@@ -930,12 +936,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Phase I — Implement free Microsoft IAM Services for Cloud-only Identities](https://infosecwriteups.com/phase-i-implement-free-microsoft-iam-services-for-cloud-only-identities-e25706ada193?source=rss----7b722bfd1b8d---4)
 - [Vanilla PowerShell Reverse Shell Using ICMP](https://infosecwriteups.com/vanilla-powershell-reverse-shell-using-icmp-42b0d5697d9b?source=rss----7b722bfd1b8d---4)
 - [Get $5000: GitHub Dorks &amp; Leaks](https://infosecwriteups.com/get-5000-github-dorks-leaks-b26728099d38?source=rss----7b722bfd1b8d---4)
-- [How to Route Traffic from WSL to Burp Suite on Windows: A Step-by-Step Guide](https://infosecwriteups.com/how-to-route-traffic-from-wsl-to-burp-suite-on-windows-a-step-by-step-guide-38d58f65b21a?source=rss----7b722bfd1b8d---4)
-- [What Are Black-Box LLMs, and Why Are They a Growing Concern in API-Based AI Models?](https://infosecwriteups.com/what-are-black-box-llms-and-why-are-they-a-growing-concern-in-api-based-ai-models-a95a48b67896?source=rss----7b722bfd1b8d---4)
-- [The Hidden Risk in AI-Generated Code: A Silent Backdoor](https://infosecwriteups.com/the-hidden-risk-in-ai-generated-code-a-silent-backdoor-7dc3c1279cb6?source=rss----7b722bfd1b8d---4)
-- [$50K Bounty Just for GitHub Access Token exposure](https://infosecwriteups.com/50k-bounty-just-for-github-access-token-exposure-d92dcc34eb4d?source=rss----7b722bfd1b8d---4)
-- [$200+ Bug Bounty Payouts: Exploiting Content Providers with SQL Injection](https://infosecwriteups.com/200-bug-bounty-payouts-exploiting-content-providers-with-sql-injection-abd287179b61?source=rss----7b722bfd1b8d---4)
-- [Adversarial AI Digest — 20 March, 2025](https://infosecwriteups.com/adversarial-ai-digest-20-march-2025-2e3cde5c34bb?source=rss----7b722bfd1b8d---4)
 - [Mastering Recon in Bug Bounty: Advanced Techniques for 2025](https://medium.com/@hackerfromhills/mastering-recon-in-bug-bounty-advanced-techniques-for-2025-1c8b5f3c43b9?source=rss------bug_bounty_writeup-5)
 - [How I Took Admin Account via JWT Bypass](https://medium.com/@shyam.sam0704/how-i-took-admin-account-via-jwt-bypass-5eb96430c2ad?source=rss------bug_bounty_writeup-5)
 - [How I Made $1,000,000 in Bug Bounties — Finding a Simple $500,000+ Vulnerability with Just a…](https://theindiannetwork.medium.com/how-i-made-1-000-000-in-bug-bounties-finding-a-simple-500-000-vulnerability-with-just-a-d5e224041c6e?source=rss------bug_bounty_writeup-5)
