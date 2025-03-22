@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [RCE through Zip Unarchiving](https://cristivlad.medium.com/rce-through-zip-unarchiving-9d9d11e91449?source=rss------bug_bounty_writeup-5)
 - [I Stalked a Scammer on the Dark Web Here’s What I Learned About OSINT](https://infosecwriteups.com/i-stalked-a-scammer-on-the-dark-web-heres-what-i-learned-about-osint-18675de8ce82?source=rss----7b722bfd1b8d---4)
 - [Finding new apex domains in a unique way.](https://infosecwriteups.com/finding-new-apex-domains-in-a-unique-way-87404d8dfa1d?source=rss----7b722bfd1b8d---4)
 - [Advanced Bug Bounty: API Key and Token Leaks — Tools, Techniques, and Exploitation](https://infosecwriteups.com/advanced-bug-bounty-api-key-and-token-leaks-tools-techniques-and-exploitation-7d3fcb3b5fb7?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How I Made $1,000,000 in Bug Bounties — Finding a Simple $500,000+ Vulnerability with Just a…](https://theindiannetwork.medium.com/how-i-made-1-000-000-in-bug-bounties-finding-a-simple-500-000-vulnerability-with-just-a-d5e224041c6e?source=rss------bug_bounty_writeup-5)
 - [From Zero to Hero: Hunting High-Paying Open Redirect Bugs in Web Apps](https://infosecwriteups.com/from-zero-to-hero-hunting-high-paying-open-redirect-bugs-in-web-apps-fdb80286236e?source=rss------bug_bounty_writeup-5)
 - [Mobile Number Verification Bypass CWE-840 Business Logic Error](https://medium.com/@VulnRAM/mobile-number-verification-bypass-cwe-840-business-logic-error-1cd80b0bced5?source=rss------bug_bounty_writeup-5)
-- [Essential Browser Extensions for Every Bug Bounty Hunter](https://ehteshamulhaq198.medium.com/essential-browser-extensions-for-every-bug-bounty-hunter-393a98d7768e?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
