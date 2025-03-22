@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How I Bypassed 403 Forbidden &amp; Accessed Restricted Pages — Real-World Exploit!](https://theindiannetwork.medium.com/how-i-bypassed-403-forbidden-accessed-restricted-pages-real-world-exploit-e19ccb18bbbb?source=rss------bug_bounty_writeup-5)
 - [Information Disclosure — Exposed Order Details via Shipping Status API](https://medium.com/@mIna_x1/information-disclosure-exposed-order-details-via-shipping-status-api-7fd177364d12?source=rss------bug_bounty_writeup-5)
 - [The rate limiting request /api/auth/_log is not used causing all APIs to crash.](https://medium.com/@VulnRAM/the-rate-limiting-request-api-auth-log-is-not-used-causing-all-apis-to-crash-87dc89c4f178?source=rss------bug_bounty_writeup-5)
 - [5 Game-Changing Websites Every Bug Hunter Must Know! ️‍♂️](https://medium.com/@vipulsonule71/5-most-useful-websites-for-bug-hunters-to-know-7094055e1e4b?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [From Zero to Hero: Hunting High-Paying Open Redirect Bugs in Web Apps](https://infosecwriteups.com/from-zero-to-hero-hunting-high-paying-open-redirect-bugs-in-web-apps-fdb80286236e?source=rss------bug_bounty_writeup-5)
 - [Mobile Number Verification Bypass CWE-840 Business Logic Error](https://medium.com/@VulnRAM/mobile-number-verification-bypass-cwe-840-business-logic-error-1cd80b0bced5?source=rss------bug_bounty_writeup-5)
 - [Essential Browser Extensions for Every Bug Bounty Hunter](https://ehteshamulhaq198.medium.com/essential-browser-extensions-for-every-bug-bounty-hunter-393a98d7768e?source=rss------bug_bounty_writeup-5)
-- [♂️ “From Zero to Hero: How 2FA Bypass Turned Me Into a Bug Bounty Legend”](https://osintteam.blog/%EF%B8%8F-from-zero-to-hero-how-2fa-bypass-turned-me-into-a-bug-bounty-legend-8eb0b815aaf9?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
