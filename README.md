@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [I Found a Zero-Day Exploit &amp; Got Paid $3000 — Full Real-World Breakdown!](https://theindiannetwork.medium.com/i-found-a-zero-day-exploit-got-paid-3000-full-real-world-breakdown-42cb6d307699?source=rss------bug_bounty_writeup-5)
 - [Working with Linux Open Files️](https://infosecwriteups.com/working-with-linux-open-files-%EF%B8%8F-e94e37cda058?source=rss----7b722bfd1b8d---4)
 - [Cryptojacking: When Hackers Hijack Your Cloud to Mine Money‍☠️](https://infosecwriteups.com/cryptojacking-when-hackers-hijack-your-cloud-to-mine-money-%EF%B8%8F-fd0f316154cb?source=rss----7b722bfd1b8d---4)
 - [LFI Advanced Methodology by Abhijeet](https://infosecwriteups.com/lfi-advanced-methodology-by-abhijeet-9993b827db53?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Mastering Recon in Bug Bounty: Advanced Techniques for 2025](https://medium.com/@hackerfromhills/mastering-recon-in-bug-bounty-advanced-techniques-for-2025-1c8b5f3c43b9?source=rss------bug_bounty_writeup-5)
 - [How I Took Admin Account via JWT Bypass](https://medium.com/@shyam.sam0704/how-i-took-admin-account-via-jwt-bypass-5eb96430c2ad?source=rss------bug_bounty_writeup-5)
 - [How I Made $1,000,000 in Bug Bounties — Finding a Simple $500,000+ Vulnerability with Just a…](https://theindiannetwork.medium.com/how-i-made-1-000-000-in-bug-bounties-finding-a-simple-500-000-vulnerability-with-just-a-d5e224041c6e?source=rss------bug_bounty_writeup-5)
-- [From Zero to Hero: Hunting High-Paying Open Redirect Bugs in Web Apps](https://infosecwriteups.com/from-zero-to-hero-hunting-high-paying-open-redirect-bugs-in-web-apps-fdb80286236e?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
