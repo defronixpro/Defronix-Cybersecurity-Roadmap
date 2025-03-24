@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Account Takeover](https://medium.com/@nmmerr5/account-takeover-2ed38308fc48?source=rss------bug_bounty_writeup-5)
 - [The Ultimate Guide to Price Manipulation Vulnerabilities: Techniques, Case Studies &amp; Advanced…](https://infosecwriteups.com/the-ultimate-guide-to-price-manipulation-vulnerabilities-techniques-case-studies-advanced-0e1a24c5ee3d?source=rss----7b722bfd1b8d---4)
 - [SSRF Advanced Methodology✨](https://infosecwriteups.com/ssrf-advanced-methodology-9583fdf2ae3c?source=rss----7b722bfd1b8d---4)
 - [The Dark Side of Invite Links: A Race Condition Exploit Story &lpar;English-Hindi&rpar;](https://medium.com/@ajay.kumar.695632/the-dark-side-of-invite-links-a-race-condition-exploit-story-english-hindi-257d5bd8e9c5?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [HackTheBox — Origins Sherlock Walkthrough](https://infosecwriteups.com/hackthebox-origins-sherlock-walkthrough-a1338472ed02?source=rss----7b722bfd1b8d---4)
 - [Unauthorized Access to “About” Feature via Parameter Manipulation](https://mmnahian.medium.com/unauthorized-access-to-about-feature-via-parameter-manipulation-b85b08796b87?source=rss------bug_bounty_writeup-5)
 - [RCE through Zip Unarchiving](https://cristivlad.medium.com/rce-through-zip-unarchiving-9d9d11e91449?source=rss------bug_bounty_writeup-5)
-- [How I Bypassed 403 Forbidden &amp; Accessed Restricted Pages — Real-World Exploit!](https://theindiannetwork.medium.com/how-i-bypassed-403-forbidden-accessed-restricted-pages-real-world-exploit-e19ccb18bbbb?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
