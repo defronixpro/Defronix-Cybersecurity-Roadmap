@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [The Dark Side of Invite Links: A Race Condition Exploit Story &lpar;English-Hindi&rpar;](https://medium.com/@ajay.kumar.695632/the-dark-side-of-invite-links-a-race-condition-exploit-story-english-hindi-257d5bd8e9c5?source=rss------bug_bounty_writeup-5)
 - [How to Find SQL Injection and Get Bounty of $100, $200, $500](https://infosecwriteups.com/how-to-find-sql-injection-and-get-bounty-of-100-200-500-f758778bbfff?source=rss----7b722bfd1b8d---4)
 - [SQL Injection Exploitation Made Easy: A Practical Guide to SQLMAP](https://infosecwriteups.com/sql-injection-exploitation-made-easy-a-practical-guide-to-sqlmap-055b39a68a94?source=rss----7b722bfd1b8d---4)
 - [Symbolic Links in Linux](https://infosecwriteups.com/symbolic-links-in-linux-eff07abd1632?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [RCE through Zip Unarchiving](https://cristivlad.medium.com/rce-through-zip-unarchiving-9d9d11e91449?source=rss------bug_bounty_writeup-5)
 - [I Stalked a Scammer on the Dark Web Here’s What I Learned About OSINT](https://infosecwriteups.com/i-stalked-a-scammer-on-the-dark-web-heres-what-i-learned-about-osint-18675de8ce82?source=rss----7b722bfd1b8d---4)
 - [How I Bypassed 403 Forbidden &amp; Accessed Restricted Pages — Real-World Exploit!](https://theindiannetwork.medium.com/how-i-bypassed-403-forbidden-accessed-restricted-pages-real-world-exploit-e19ccb18bbbb?source=rss------bug_bounty_writeup-5)
-- [Information Disclosure — Exposed Order Details via Shipping Status API](https://medium.com/@mIna_x1/information-disclosure-exposed-order-details-via-shipping-status-api-7fd177364d12?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
