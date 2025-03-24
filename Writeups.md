@@ -1,6 +1,10 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How to Find SQL Injection and Get Bounty of $100, $200, $500](https://infosecwriteups.com/how-to-find-sql-injection-and-get-bounty-of-100-200-500-f758778bbfff?source=rss----7b722bfd1b8d---4)
+- [SQL-Injection-Exploitation-Made-Easy-A-Practical-Guide-to-SQLMAP](https://infosecwriteups.com/sql-injection-exploitation-made-easy-a-practical-guide-to-sqlmap-055b39a68a94?source=rss----7b722bfd1b8d---4)
+- [Symbolic Links in Linux](https://infosecwriteups.com/symbolic-links-in-linux-eff07abd1632?source=rss----7b722bfd1b8d---4)
+- [Account Take-over Via Password Reset Poisoning](https://medium.com/@umd04843/account-take-over-via-password-reset-poisoning-e2a8a2f8a642?source=rss------bug_bounty_writeup-5)
 - [Internet Archive: Wayback Hunting for Bug Bounty Hunters](https://osintteam.blog/internet-archive-wayback-hunting-for-bug-bounty-hunters-36b112011a7c?source=rss------bug_bounty_writeup-5)
 - [How I Accidentally Bypassed a Paywall and Got User Data for Free](https://northstar1.medium.com/how-i-accidentally-bypassed-a-paywall-and-got-user-data-for-free-de73f98a51da?source=rss------bug_bounty_writeup-5)
 - [Day 28: Account Takeover via Registration Flaw](https://medium.com/@danielbelay/day-28-account-takeover-via-registration-flaw-0c921aa0f1aa?source=rss------bug_bounty_writeup-5)
@@ -15,12 +19,8 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Unauthorized Access to “About” Feature via Parameter Manipulation](https://mmnahian.medium.com/unauthorized-access-to-about-feature-via-parameter-manipulation-b85b08796b87?source=rss------bug_bounty_writeup-5)
 - [RCE through Zip Unarchiving](https://cristivlad.medium.com/rce-through-zip-unarchiving-9d9d11e91449?source=rss------bug_bounty_writeup-5)
 - [I Stalked a Scammer on the Dark Web Here’s What I Learned About OSINT](https://infosecwriteups.com/i-stalked-a-scammer-on-the-dark-web-heres-what-i-learned-about-osint-18675de8ce82?source=rss----7b722bfd1b8d---4)
-- [Finding new apex domains in a unique way.](https://infosecwriteups.com/finding-new-apex-domains-in-a-unique-way-87404d8dfa1d?source=rss----7b722bfd1b8d---4)
-- [Advanced Bug Bounty: API Key and Token Leaks — Tools, Techniques, and Exploitation](https://infosecwriteups.com/advanced-bug-bounty-api-key-and-token-leaks-tools-techniques-and-exploitation-7d3fcb3b5fb7?source=rss----7b722bfd1b8d---4)
-- [The Art of Wi-Fi Hacking &amp; Protection with Aircrack-ng](https://infosecwriteups.com/the-art-of-wi-fi-hacking-protection-with-aircrack-ng-71828972cd6e?source=rss----7b722bfd1b8d---4)
 - [How I Bypassed 403 Forbidden &amp; Accessed Restricted Pages — Real-World Exploit!](https://theindiannetwork.medium.com/how-i-bypassed-403-forbidden-accessed-restricted-pages-real-world-exploit-e19ccb18bbbb?source=rss------bug_bounty_writeup-5)
 - [Information Disclosure — Exposed Order Details via Shipping Status API](https://medium.com/@mIna_x1/information-disclosure-exposed-order-details-via-shipping-status-api-7fd177364d12?source=rss------bug_bounty_writeup-5)
-- [The rate limiting request /api/auth/_log is not used causing all APIs to crash.](https://medium.com/@VulnRAM/the-rate-limiting-request-api-auth-log-is-not-used-causing-all-apis-to-crash-87dc89c4f178?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
