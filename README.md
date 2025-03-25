@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Unveiled the Threat Actors](https://infosecwriteups.com/unveiled-the-threat-actors-eb18e3221251?source=rss----7b722bfd1b8d---4)
+- [Why Your ‘Unhackable’ Linux System is Still Vulnerable &lpar;And How to Fix It in 20 Minutes&rpar;](https://infosecwriteups.com/why-your-unhackable-linux-system-is-still-vulnerable-and-how-to-fix-it-in-20-minutes-1a3ffe2959f3?source=rss----7b722bfd1b8d---4)
 - [Account Takeover](https://medium.com/@nmmerr5/account-takeover-2ed38308fc48?source=rss------bug_bounty_writeup-5)
 - [The Ultimate Guide to Price Manipulation Vulnerabilities: Techniques, Case Studies &amp; Advanced…](https://infosecwriteups.com/the-ultimate-guide-to-price-manipulation-vulnerabilities-techniques-case-studies-advanced-0e1a24c5ee3d?source=rss----7b722bfd1b8d---4)
 - [SSRF Advanced Methodology✨](https://infosecwriteups.com/ssrf-advanced-methodology-9583fdf2ae3c?source=rss----7b722bfd1b8d---4)
@@ -938,8 +940,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Working with Linux Open Files️](https://infosecwriteups.com/working-with-linux-open-files-%EF%B8%8F-e94e37cda058?source=rss----7b722bfd1b8d---4)
 - [Cryptojacking: When Hackers Hijack Your Cloud to Mine Money‍☠️](https://infosecwriteups.com/cryptojacking-when-hackers-hijack-your-cloud-to-mine-money-%EF%B8%8F-fd0f316154cb?source=rss----7b722bfd1b8d---4)
 - [LFI Advanced Methodology by Abhijeet](https://infosecwriteups.com/lfi-advanced-methodology-by-abhijeet-9993b827db53?source=rss----7b722bfd1b8d---4)
-- [CVE-2025–21293 Alert: Active Directory Privilege Escalation Exploit Goes Public](https://infosecwriteups.com/cve-2025-21293-alert-poc-exploit-released-for-critical-active-directory-privilege-escalation-f2aea5e7f8ff?source=rss----7b722bfd1b8d---4)
-- [HackTheBox — Origins Sherlock Walkthrough](https://infosecwriteups.com/hackthebox-origins-sherlock-walkthrough-a1338472ed02?source=rss----7b722bfd1b8d---4)
 - [Unauthorized Access to “About” Feature via Parameter Manipulation](https://mmnahian.medium.com/unauthorized-access-to-about-feature-via-parameter-manipulation-b85b08796b87?source=rss------bug_bounty_writeup-5)
 - [RCE through Zip Unarchiving](https://cristivlad.medium.com/rce-through-zip-unarchiving-9d9d11e91449?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
