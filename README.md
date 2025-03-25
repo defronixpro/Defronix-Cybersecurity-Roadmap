@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [One-Click Account Hijacking on TikTok](https://infosecwriteups.com/one-click-account-hijacking-on-tiktok-b0d211288abe?source=rss----7b722bfd1b8d---4)
 - [Introduction to Bug Bounty Programs: How to Legally Get Paid for Hacking &lpar;Yes, Really!&rpar;](https://medium.com/@theautobot/introduction-to-bug-bounty-programs-how-to-legally-get-paid-for-hacking-yes-really-bfbfd84b2933?source=rss------bug_bounty_writeup-5)
 - [I Reviewed 50 API Vulnerabilities — They All Shared This One Flaw](https://infosecwriteups.com/i-reviewed-50-api-vulnerabilities-they-all-shared-this-one-flaw-65cc80f44b57?source=rss----7b722bfd1b8d---4)
 - [Quantum Computing’s Dark Side: What Every Cybersecurity Pro Must Know Before It’s Too Late!](https://infosecwriteups.com/quantum-computings-dark-side-what-every-cybersecurity-pro-must-know-before-it-s-too-late-4a5cba23c9b6?source=rss----7b722bfd1b8d---4)
@@ -934,7 +935,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [SSRF Advanced Methodology✨](https://infosecwriteups.com/ssrf-advanced-methodology-9583fdf2ae3c?source=rss----7b722bfd1b8d---4)
 - [The Dark Side of Invite Links: A Race Condition Exploit Story &lpar;English-Hindi&rpar;](https://medium.com/@ajay.kumar.695632/the-dark-side-of-invite-links-a-race-condition-exploit-story-english-hindi-257d5bd8e9c5?source=rss------bug_bounty_writeup-5)
 - [How to Find SQL Injection and Get Bounty of $100, $200, $500](https://infosecwriteups.com/how-to-find-sql-injection-and-get-bounty-of-100-200-500-f758778bbfff?source=rss----7b722bfd1b8d---4)
-- [SQL Injection Exploitation Made Easy: A Practical Guide to SQLMAP](https://infosecwriteups.com/sql-injection-exploitation-made-easy-a-practical-guide-to-sqlmap-055b39a68a94?source=rss----7b722bfd1b8d---4)
 - [Account Take-over Via Password Reset Poisoning](https://medium.com/@umd04843/account-take-over-via-password-reset-poisoning-e2a8a2f8a642?source=rss------bug_bounty_writeup-5)
 - [Internet Archive: Wayback Hunting for Bug Bounty Hunters](https://osintteam.blog/internet-archive-wayback-hunting-for-bug-bounty-hunters-36b112011a7c?source=rss------bug_bounty_writeup-5)
 - [How I Accidentally Bypassed a Paywall and Got User Data for Free](https://northstar1.medium.com/how-i-accidentally-bypassed-a-paywall-and-got-user-data-for-free-de73f98a51da?source=rss------bug_bounty_writeup-5)
