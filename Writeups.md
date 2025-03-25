@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Introduction to Bug Bounty Programs: How to Legally Get Paid for Hacking &lpar;Yes, Really!&rpar;](https://medium.com/@theautobot/introduction-to-bug-bounty-programs-how-to-legally-get-paid-for-hacking-yes-really-bfbfd84b2933?source=rss------bug_bounty_writeup-5)
 - [I Reviewed 50 API Vulnerabilities — They All Shared This One Flaw](https://infosecwriteups.com/i-reviewed-50-api-vulnerabilities-they-all-shared-this-one-flaw-65cc80f44b57?source=rss----7b722bfd1b8d---4)
 - [Quantum Computing’s Dark Side: What Every Cybersecurity Pro Must Know Before It’s Too Late!](https://infosecwriteups.com/quantum-computings-dark-side-what-every-cybersecurity-pro-must-know-before-it-s-too-late-4a5cba23c9b6?source=rss----7b722bfd1b8d---4)
 - [TCS HackQuest Season 9](https://infosecwriteups.com/tcs-hackquest-season-9-53ccf2017575?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Broken Access Control leads to Addition of Malicious Files / Inclusion of Sensitive Files.](https://medium.com/@saurabhcsec/broken-access-control-leads-to-addition-of-malicious-files-inclusion-of-sensitive-files-4d0b424e1515?source=rss------bug_bounty_writeup-5)
 - [I Found a Zero-Day Exploit &amp; Got Paid $3000 — Full Real-World Breakdown!](https://theindiannetwork.medium.com/i-found-a-zero-day-exploit-got-paid-3000-full-real-world-breakdown-42cb6d307699?source=rss------bug_bounty_writeup-5)
 - [Unauthorized Access to “About” Feature via Parameter Manipulation](https://mmnahian.medium.com/unauthorized-access-to-about-feature-via-parameter-manipulation-b85b08796b87?source=rss------bug_bounty_writeup-5)
-- [RCE through Zip Unarchiving](https://cristivlad.medium.com/rce-through-zip-unarchiving-9d9d11e91449?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
