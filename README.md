@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Intercept VulnLab| RBCD &amp; Another word For ESC7](https://infosecwriteups.com/intercept-vulnlab-rbcd-another-word-for-esc7-4fbd254b6006?source=rss----7b722bfd1b8d---4)
+- [Cloud Jacking: How Simple Mistakes Are Spilling Your Data Across the Internet](https://infosecwriteups.com/cloud-jacking-how-simple-mistakes-are-spilling-your-data-across-the-internet-7ecb33ffdc0a?source=rss----7b722bfd1b8d---4)
 - [From Blind XSS to Full Server Takeover](https://medium.com/@0xnuy/from-blind-xss-to-full-server-takeover-0f63ead701ab?source=rss------bug_bounty_writeup-5)
 - [One-Click Account Hijacking on TikTok](https://infosecwriteups.com/one-click-account-hijacking-on-tiktok-b0d211288abe?source=rss----7b722bfd1b8d---4)
 - [Introduction to Bug Bounty Programs: How to Legally Get Paid for Hacking &lpar;Yes, Really!&rpar;](https://medium.com/@theautobot/introduction-to-bug-bounty-programs-how-to-legally-get-paid-for-hacking-yes-really-bfbfd84b2933?source=rss------bug_bounty_writeup-5)
@@ -933,9 +935,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Why Your ‘Unhackable’ Linux System is Still Vulnerable &lpar;And How to Fix It in 20 Minutes&rpar;](https://infosecwriteups.com/why-your-unhackable-linux-system-is-still-vulnerable-and-how-to-fix-it-in-20-minutes-1a3ffe2959f3?source=rss----7b722bfd1b8d---4)
 - [Account Takeover](https://medium.com/@nmmerr5/account-takeover-2ed38308fc48?source=rss------bug_bounty_writeup-5)
 - [The Ultimate Guide to Price Manipulation Vulnerabilities: Techniques, Case Studies &amp; Advanced…](https://infosecwriteups.com/the-ultimate-guide-to-price-manipulation-vulnerabilities-techniques-case-studies-advanced-0e1a24c5ee3d?source=rss----7b722bfd1b8d---4)
-- [SSRF Advanced Methodology✨](https://infosecwriteups.com/ssrf-advanced-methodology-9583fdf2ae3c?source=rss----7b722bfd1b8d---4)
 - [The Dark Side of Invite Links: A Race Condition Exploit Story &lpar;English-Hindi&rpar;](https://medium.com/@ajay.kumar.695632/the-dark-side-of-invite-links-a-race-condition-exploit-story-english-hindi-257d5bd8e9c5?source=rss------bug_bounty_writeup-5)
-- [How to Find SQL Injection and Get Bounty of $100, $200, $500](https://infosecwriteups.com/how-to-find-sql-injection-and-get-bounty-of-100-200-500-f758778bbfff?source=rss----7b722bfd1b8d---4)
 - [Account Take-over Via Password Reset Poisoning](https://medium.com/@umd04843/account-take-over-via-password-reset-poisoning-e2a8a2f8a642?source=rss------bug_bounty_writeup-5)
 - [Internet Archive: Wayback Hunting for Bug Bounty Hunters](https://osintteam.blog/internet-archive-wayback-hunting-for-bug-bounty-hunters-36b112011a7c?source=rss------bug_bounty_writeup-5)
 - [How I Accidentally Bypassed a Paywall and Got User Data for Free](https://northstar1.medium.com/how-i-accidentally-bypassed-a-paywall-and-got-user-data-for-free-de73f98a51da?source=rss------bug_bounty_writeup-5)
