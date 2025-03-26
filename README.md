@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How Hackers Abuse XML-RPC to Launch Bruteforce and DDoS Attacks](https://infosecwriteups.com/how-hackers-abuse-xml-rpc-to-launch-bruteforce-and-ddos-attacks-40be5b310960?source=rss----7b722bfd1b8d---4)
 - [Intercept VulnLab| RBCD &amp; Another word For ESC7](https://infosecwriteups.com/intercept-vulnlab-rbcd-another-word-for-esc7-4fbd254b6006?source=rss----7b722bfd1b8d---4)
 - [Cloud Jacking: How Simple Mistakes Are Spilling Your Data Across the Internet](https://infosecwriteups.com/cloud-jacking-how-simple-mistakes-are-spilling-your-data-across-the-internet-7ecb33ffdc0a?source=rss----7b722bfd1b8d---4)
 - [From Blind XSS to Full Server Takeover](https://medium.com/@0xnuy/from-blind-xss-to-full-server-takeover-0f63ead701ab?source=rss------bug_bounty_writeup-5)
@@ -934,7 +935,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Unveiled the Threat Actors](https://infosecwriteups.com/unveiled-the-threat-actors-eb18e3221251?source=rss----7b722bfd1b8d---4)
 - [Why Your ‘Unhackable’ Linux System is Still Vulnerable &lpar;And How to Fix It in 20 Minutes&rpar;](https://infosecwriteups.com/why-your-unhackable-linux-system-is-still-vulnerable-and-how-to-fix-it-in-20-minutes-1a3ffe2959f3?source=rss----7b722bfd1b8d---4)
 - [Account Takeover](https://medium.com/@nmmerr5/account-takeover-2ed38308fc48?source=rss------bug_bounty_writeup-5)
-- [The Ultimate Guide to Price Manipulation Vulnerabilities: Techniques, Case Studies &amp; Advanced…](https://infosecwriteups.com/the-ultimate-guide-to-price-manipulation-vulnerabilities-techniques-case-studies-advanced-0e1a24c5ee3d?source=rss----7b722bfd1b8d---4)
 - [The Dark Side of Invite Links: A Race Condition Exploit Story &lpar;English-Hindi&rpar;](https://medium.com/@ajay.kumar.695632/the-dark-side-of-invite-links-a-race-condition-exploit-story-english-hindi-257d5bd8e9c5?source=rss------bug_bounty_writeup-5)
 - [Account Take-over Via Password Reset Poisoning](https://medium.com/@umd04843/account-take-over-via-password-reset-poisoning-e2a8a2f8a642?source=rss------bug_bounty_writeup-5)
 - [Internet Archive: Wayback Hunting for Bug Bounty Hunters](https://osintteam.blog/internet-archive-wayback-hunting-for-bug-bounty-hunters-36b112011a7c?source=rss------bug_bounty_writeup-5)
