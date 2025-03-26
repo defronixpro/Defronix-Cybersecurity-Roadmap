@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [From Blind XSS to Full Server Takeover](https://medium.com/@0xnuy/from-blind-xss-to-full-server-takeover-0f63ead701ab?source=rss------bug_bounty_writeup-5)
 - [One-Click Account Hijacking on TikTok](https://infosecwriteups.com/one-click-account-hijacking-on-tiktok-b0d211288abe?source=rss----7b722bfd1b8d---4)
 - [Introduction to Bug Bounty Programs: How to Legally Get Paid for Hacking &lpar;Yes, Really!&rpar;](https://medium.com/@theautobot/introduction-to-bug-bounty-programs-how-to-legally-get-paid-for-hacking-yes-really-bfbfd84b2933?source=rss------bug_bounty_writeup-5)
 - [I Reviewed 50 API Vulnerabilities — They All Shared This One Flaw](https://infosecwriteups.com/i-reviewed-50-api-vulnerabilities-they-all-shared-this-one-flaw-65cc80f44b57?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Day 28: Account Takeover via Registration Flaw](https://medium.com/@danielbelay/day-28-account-takeover-via-registration-flaw-0c921aa0f1aa?source=rss------bug_bounty_writeup-5)
 - [Broken Access Control leads to Addition of Malicious Files / Inclusion of Sensitive Files.](https://medium.com/@saurabhcsec/broken-access-control-leads-to-addition-of-malicious-files-inclusion-of-sensitive-files-4d0b424e1515?source=rss------bug_bounty_writeup-5)
 - [I Found a Zero-Day Exploit &amp; Got Paid $3000 — Full Real-World Breakdown!](https://theindiannetwork.medium.com/i-found-a-zero-day-exploit-got-paid-3000-full-real-world-breakdown-42cb6d307699?source=rss------bug_bounty_writeup-5)
-- [Unauthorized Access to “About” Feature via Parameter Manipulation](https://mmnahian.medium.com/unauthorized-access-to-about-feature-via-parameter-manipulation-b85b08796b87?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
