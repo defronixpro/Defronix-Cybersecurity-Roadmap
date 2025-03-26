@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Rate Limit Bypass in Password Reset Functionality](https://medium.com/@FuzzyyDuck/rate-limit-bypass-in-password-reset-functionality-bf4b997c9bae?source=rss------bug_bounty_writeup-5)
 - [Bypassing  file upload filter using .htaccess file&lpar;CTF&rpar;](https://infosecwriteups.com/bypassing-file-upload-filter-using-htaccess-file-ctf-ca06d7e9ebd7?source=rss----7b722bfd1b8d---4)
 - [Pentesting for Biotech: Simulating a Cyberattack on Your Genomic Data](https://infosecwriteups.com/pentesting-for-biotech-simulating-a-cyberattack-on-your-genomic-data-e056c170d055?source=rss----7b722bfd1b8d---4)
 - [Next.js CVE-2025–29927: Tryhackme Writeup](https://infosecwriteups.com/next-js-cve-2025-29927-tryhackme-writeup-68d5cc6859a3?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How I Accidentally Bypassed a Paywall and Got User Data for Free](https://northstar1.medium.com/how-i-accidentally-bypassed-a-paywall-and-got-user-data-for-free-de73f98a51da?source=rss------bug_bounty_writeup-5)
 - [Day 28: Account Takeover via Registration Flaw](https://medium.com/@danielbelay/day-28-account-takeover-via-registration-flaw-0c921aa0f1aa?source=rss------bug_bounty_writeup-5)
 - [Broken Access Control leads to Addition of Malicious Files / Inclusion of Sensitive Files.](https://medium.com/@saurabhcsec/broken-access-control-leads-to-addition-of-malicious-files-inclusion-of-sensitive-files-4d0b424e1515?source=rss------bug_bounty_writeup-5)
-- [I Found a Zero-Day Exploit &amp; Got Paid $3000 — Full Real-World Breakdown!](https://theindiannetwork.medium.com/i-found-a-zero-day-exploit-got-paid-3000-full-real-world-breakdown-42cb6d307699?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
