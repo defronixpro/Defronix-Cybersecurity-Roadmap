@@ -1,6 +1,8 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Bypassing  file upload filter using .htaccess file&lpar;CTF&rpar;](https://infosecwriteups.com/bypassing-file-upload-filter-using-htaccess-file-ctf-ca06d7e9ebd7?source=rss----7b722bfd1b8d---4)
+- [Pentesting for Biotech: Simulating a Cyberattack on Your Genomic Data](https://infosecwriteups.com/pentesting-for-biotech-simulating-a-cyberattack-on-your-genomic-data-e056c170d055?source=rss----7b722bfd1b8d---4)
 - [Next.js CVE-2025–29927: Tryhackme Writeup](https://infosecwriteups.com/next-js-cve-2025-29927-tryhackme-writeup-68d5cc6859a3?source=rss----7b722bfd1b8d---4)
 - [How Hackers Abuse XML-RPC to Launch Bruteforce and DDoS Attacks](https://infosecwriteups.com/how-hackers-abuse-xml-rpc-to-launch-bruteforce-and-ddos-attacks-40be5b310960?source=rss----7b722bfd1b8d---4)
 - [Intercept VulnLab| RBCD &amp; Another word For ESC7](https://infosecwriteups.com/intercept-vulnlab-rbcd-another-word-for-esc7-4fbd254b6006?source=rss----7b722bfd1b8d---4)
@@ -11,8 +13,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [I Reviewed 50 API Vulnerabilities — They All Shared This One Flaw](https://infosecwriteups.com/i-reviewed-50-api-vulnerabilities-they-all-shared-this-one-flaw-65cc80f44b57?source=rss----7b722bfd1b8d---4)
 - [Quantum Computing’s Dark Side: What Every Cybersecurity Pro Must Know Before It’s Too Late!](https://infosecwriteups.com/quantum-computings-dark-side-what-every-cybersecurity-pro-must-know-before-it-s-too-late-4a5cba23c9b6?source=rss----7b722bfd1b8d---4)
 - [TCS HackQuest Season 9](https://infosecwriteups.com/tcs-hackquest-season-9-53ccf2017575?source=rss----7b722bfd1b8d---4)
-- [New to Proxmox? Here’s Why Most Users Are Just Turning Off Secure Boot](https://infosecwriteups.com/new-to-proxmox-heres-why-most-users-are-just-turning-off-secure-boot-6763c28b004a?source=rss----7b722bfd1b8d---4)
-- [Unveiled the Threat Actors](https://infosecwriteups.com/unveiled-the-threat-actors-eb18e3221251?source=rss----7b722bfd1b8d---4)
 - [Account Takeover](https://medium.com/@nmmerr5/account-takeover-2ed38308fc48?source=rss------bug_bounty_writeup-5)
 - [The Dark Side of Invite Links: A Race Condition Exploit Story &lpar;English-Hindi&rpar;](https://medium.com/@ajay.kumar.695632/the-dark-side-of-invite-links-a-race-condition-exploit-story-english-hindi-257d5bd8e9c5?source=rss------bug_bounty_writeup-5)
 - [Account Take-over Via Password Reset Poisoning](https://medium.com/@umd04843/account-take-over-via-password-reset-poisoning-e2a8a2f8a642?source=rss------bug_bounty_writeup-5)
