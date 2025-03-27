@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I Found a CSRF Vulnerability in Profile Picture Deletion](https://medium.com/@EL_cazad0r/how-i-found-a-csrf-vulnerability-in-profile-picture-deletion-b95bf8e6d579?source=rss------bug_bounty_writeup-5)
+- [PortSwigger Lab: Information disclosure in error messages](https://infosecwriteups.com/portswigger-lab-information-disclosure-in-error-messages-12b63dc64e07?source=rss----7b722bfd1b8d---4)
 - [Stealing Money at the Speed of Light: Exploiting Race Conditions for Financial Fraud in…](https://infosecwriteups.com/stealing-money-at-the-speed-of-light-exploiting-race-conditions-for-financial-fraud-in-a14c2086f5c0?source=rss----7b722bfd1b8d---4)
 - [JWT &lpar;JSON Web Token&rpar; Security Risks: Common Vulnerabilities and Exploits Every Bug Hunter Should…](https://infosecwriteups.com/jwt-json-web-token-security-risks-common-vulnerabilities-and-exploits-every-bug-hunter-should-d3fa4182a329?source=rss----7b722bfd1b8d---4)
 - [VoIP — Letsdefend Challange](https://infosecwriteups.com/voip-letsdefend-challange-236e1f903322?source=rss----7b722bfd1b8d---4)
@@ -934,14 +936,12 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Rate Limit Bypass in Password Reset Functionality](https://medium.com/@FuzzyyDuck/rate-limit-bypass-in-password-reset-functionality-bf4b997c9bae?source=rss------bug_bounty_writeup-5)
 - [Bypassing  file upload filter using .htaccess file&lpar;CTF&rpar;](https://infosecwriteups.com/bypassing-file-upload-filter-using-htaccess-file-ctf-ca06d7e9ebd7?source=rss----7b722bfd1b8d---4)
 - [Pentesting for Biotech: Simulating a Cyberattack on Your Genomic Data](https://infosecwriteups.com/pentesting-for-biotech-simulating-a-cyberattack-on-your-genomic-data-e056c170d055?source=rss----7b722bfd1b8d---4)
-- [Next.js CVE-2025–29927: Tryhackme Writeup](https://infosecwriteups.com/next-js-cve-2025-29927-tryhackme-writeup-68d5cc6859a3?source=rss----7b722bfd1b8d---4)
 - [From Blind XSS to Full Server Takeover](https://medium.com/@0xnuy/from-blind-xss-to-full-server-takeover-0f63ead701ab?source=rss------bug_bounty_writeup-5)
 - [Introduction to Bug Bounty Programs: How to Legally Get Paid for Hacking &lpar;Yes, Really!&rpar;](https://medium.com/@theautobot/introduction-to-bug-bounty-programs-how-to-legally-get-paid-for-hacking-yes-really-bfbfd84b2933?source=rss------bug_bounty_writeup-5)
 - [Account Takeover](https://medium.com/@nmmerr5/account-takeover-2ed38308fc48?source=rss------bug_bounty_writeup-5)
 - [The Dark Side of Invite Links: A Race Condition Exploit Story &lpar;English-Hindi&rpar;](https://medium.com/@ajay.kumar.695632/the-dark-side-of-invite-links-a-race-condition-exploit-story-english-hindi-257d5bd8e9c5?source=rss------bug_bounty_writeup-5)
 - [Account Take-over Via Password Reset Poisoning](https://medium.com/@umd04843/account-take-over-via-password-reset-poisoning-e2a8a2f8a642?source=rss------bug_bounty_writeup-5)
 - [Internet Archive: Wayback Hunting for Bug Bounty Hunters](https://osintteam.blog/internet-archive-wayback-hunting-for-bug-bounty-hunters-36b112011a7c?source=rss------bug_bounty_writeup-5)
-- [How I Accidentally Bypassed a Paywall and Got User Data for Free](https://northstar1.medium.com/how-i-accidentally-bypassed-a-paywall-and-got-user-data-for-free-de73f98a51da?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
