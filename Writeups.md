@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How I Found a CSRF Vulnerability in Profile Picture Deletion](https://medium.com/@EL_cazad0r/how-i-found-a-csrf-vulnerability-in-profile-picture-deletion-b95bf8e6d579?source=rss------bug_bounty_writeup-5)
 - [PortSwigger Lab: Information disclosure in error messages](https://infosecwriteups.com/portswigger-lab-information-disclosure-in-error-messages-12b63dc64e07?source=rss----7b722bfd1b8d---4)
 - [Stealing Money at the Speed of Light: Exploiting Race Conditions for Financial Fraud in…](https://infosecwriteups.com/stealing-money-at-the-speed-of-light-exploiting-race-conditions-for-financial-fraud-in-a14c2086f5c0?source=rss----7b722bfd1b8d---4)
 - [JWT &lpar;JSON Web Token&rpar; Security Risks: Common Vulnerabilities and Exploits Every Bug Hunter Should…](https://infosecwriteups.com/jwt-json-web-token-security-risks-common-vulnerabilities-and-exploits-every-bug-hunter-should-d3fa4182a329?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [The Dark Side of Invite Links: A Race Condition Exploit Story &lpar;English-Hindi&rpar;](https://medium.com/@ajay.kumar.695632/the-dark-side-of-invite-links-a-race-condition-exploit-story-english-hindi-257d5bd8e9c5?source=rss------bug_bounty_writeup-5)
 - [Account Take-over Via Password Reset Poisoning](https://medium.com/@umd04843/account-take-over-via-password-reset-poisoning-e2a8a2f8a642?source=rss------bug_bounty_writeup-5)
 - [Internet Archive: Wayback Hunting for Bug Bounty Hunters](https://osintteam.blog/internet-archive-wayback-hunting-for-bug-bounty-hunters-36b112011a7c?source=rss------bug_bounty_writeup-5)
-- [How I Accidentally Bypassed a Paywall and Got User Data for Free](https://northstar1.medium.com/how-i-accidentally-bypassed-a-paywall-and-got-user-data-for-free-de73f98a51da?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
