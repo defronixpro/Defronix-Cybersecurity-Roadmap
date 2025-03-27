@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [PortSwigger Lab: Information disclosure in error messages](https://infosecwriteups.com/portswigger-lab-information-disclosure-in-error-messages-12b63dc64e07?source=rss----7b722bfd1b8d---4)
 - [Stealing Money at the Speed of Light: Exploiting Race Conditions for Financial Fraud in…](https://infosecwriteups.com/stealing-money-at-the-speed-of-light-exploiting-race-conditions-for-financial-fraud-in-a14c2086f5c0?source=rss----7b722bfd1b8d---4)
 - [JWT &lpar;JSON Web Token&rpar; Security Risks: Common Vulnerabilities and Exploits Every Bug Hunter Should…](https://infosecwriteups.com/jwt-json-web-token-security-risks-common-vulnerabilities-and-exploits-every-bug-hunter-should-d3fa4182a329?source=rss----7b722bfd1b8d---4)
 - [VoIP — Letsdefend Challange](https://infosecwriteups.com/voip-letsdefend-challange-236e1f903322?source=rss----7b722bfd1b8d---4)
@@ -13,7 +14,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Rate Limit Bypass in Password Reset Functionality](https://medium.com/@FuzzyyDuck/rate-limit-bypass-in-password-reset-functionality-bf4b997c9bae?source=rss------bug_bounty_writeup-5)
 - [Bypassing  file upload filter using .htaccess file&lpar;CTF&rpar;](https://infosecwriteups.com/bypassing-file-upload-filter-using-htaccess-file-ctf-ca06d7e9ebd7?source=rss----7b722bfd1b8d---4)
 - [Pentesting for Biotech: Simulating a Cyberattack on Your Genomic Data](https://infosecwriteups.com/pentesting-for-biotech-simulating-a-cyberattack-on-your-genomic-data-e056c170d055?source=rss----7b722bfd1b8d---4)
-- [Next.js CVE-2025–29927: Tryhackme Writeup](https://infosecwriteups.com/next-js-cve-2025-29927-tryhackme-writeup-68d5cc6859a3?source=rss----7b722bfd1b8d---4)
 - [From Blind XSS to Full Server Takeover](https://medium.com/@0xnuy/from-blind-xss-to-full-server-takeover-0f63ead701ab?source=rss------bug_bounty_writeup-5)
 - [Introduction to Bug Bounty Programs: How to Legally Get Paid for Hacking &lpar;Yes, Really!&rpar;](https://medium.com/@theautobot/introduction-to-bug-bounty-programs-how-to-legally-get-paid-for-hacking-yes-really-bfbfd84b2933?source=rss------bug_bounty_writeup-5)
 - [Account Takeover](https://medium.com/@nmmerr5/account-takeover-2ed38308fc48?source=rss------bug_bounty_writeup-5)
