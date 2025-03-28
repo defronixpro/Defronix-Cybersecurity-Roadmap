@@ -1,6 +1,8 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [The Ultimate SSRF Testing Guide: Unleash the Hidden Web Secrets &lpar;2025&rpar;](https://theindiannetwork.medium.com/the-ultimate-ssrf-testing-guide-unleash-the-hidden-web-secrets-2025-8c151068cedf?source=rss------bug_bounty_writeup-5)
+- [How A Null Character Was Used to Bypass Payments](https://medium.com/@diogo.gouveia2/how-a-null-character-was-used-to-bypass-payments-7b417932dede?source=rss------bug_bounty_writeup-5)
 - [Account Takeover via Leaked Email Verification Token](https://medium.com/@kalvik/account-takeover-via-leaked-email-verification-token-2612fef3e2d4?source=rss------bug_bounty_writeup-5)
 - [No Risk? Think Again — The DoS Twist That Led to $$$](https://medium.com/@0xNayelx/no-risk-think-again-the-dos-twist-that-led-to-0152d6cc1327?source=rss------bug_bounty_writeup-5)
 - [The Ultimate XSS Scanner &amp; Parameter Analysis Tool for Bug Hunters](https://medium.com/cyberscribers-exploring-cybersecurity/the-ultimate-xss-scanner-parameter-analysis-tool-for-bug-hunters-3c37111ac267?source=rss------bug_bounty_writeup-5)
@@ -19,8 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Bypassing  file upload filter using .htaccess file&lpar;CTF&rpar;](https://infosecwriteups.com/bypassing-file-upload-filter-using-htaccess-file-ctf-ca06d7e9ebd7?source=rss----7b722bfd1b8d---4)
 - [Pentesting for Biotech: Simulating a Cyberattack on Your Genomic Data](https://infosecwriteups.com/pentesting-for-biotech-simulating-a-cyberattack-on-your-genomic-data-e056c170d055?source=rss----7b722bfd1b8d---4)
 - [From Blind XSS to Full Server Takeover](https://medium.com/@0xnuy/from-blind-xss-to-full-server-takeover-0f63ead701ab?source=rss------bug_bounty_writeup-5)
-- [Introduction to Bug Bounty Programs: How to Legally Get Paid for Hacking &lpar;Yes, Really!&rpar;](https://medium.com/@theautobot/introduction-to-bug-bounty-programs-how-to-legally-get-paid-for-hacking-yes-really-bfbfd84b2933?source=rss------bug_bounty_writeup-5)
-- [Account Takeover](https://medium.com/@nmmerr5/account-takeover-2ed38308fc48?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
