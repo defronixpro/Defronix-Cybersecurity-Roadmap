@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [I Found HTTP Request Smuggling &amp; Got a Huge Bug Bounty! &lpar;Full Exploit Guide&rpar;](https://theindiannetwork.medium.com/i-found-http-request-smuggling-got-a-huge-bug-bounty-full-exploit-guide-1ac855ee1695?source=rss------bug_bounty_writeup-5)
 - [The Ultimate SSRF Testing Guide: Unleash the Hidden Web Secrets &lpar;2025&rpar;](https://theindiannetwork.medium.com/the-ultimate-ssrf-testing-guide-unleash-the-hidden-web-secrets-2025-8c151068cedf?source=rss------bug_bounty_writeup-5)
 - [How A Null Character Was Used to Bypass Payments](https://medium.com/@diogo.gouveia2/how-a-null-character-was-used-to-bypass-payments-7b417932dede?source=rss------bug_bounty_writeup-5)
 - [Account Takeover via Leaked Email Verification Token](https://medium.com/@kalvik/account-takeover-via-leaked-email-verification-token-2612fef3e2d4?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Rate Limit Bypass in Password Reset Functionality](https://medium.com/@FuzzyyDuck/rate-limit-bypass-in-password-reset-functionality-bf4b997c9bae?source=rss------bug_bounty_writeup-5)
 - [Bypassing  file upload filter using .htaccess file&lpar;CTF&rpar;](https://infosecwriteups.com/bypassing-file-upload-filter-using-htaccess-file-ctf-ca06d7e9ebd7?source=rss----7b722bfd1b8d---4)
 - [Pentesting for Biotech: Simulating a Cyberattack on Your Genomic Data](https://infosecwriteups.com/pentesting-for-biotech-simulating-a-cyberattack-on-your-genomic-data-e056c170d055?source=rss----7b722bfd1b8d---4)
-- [From Blind XSS to Full Server Takeover](https://medium.com/@0xnuy/from-blind-xss-to-full-server-takeover-0f63ead701ab?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
