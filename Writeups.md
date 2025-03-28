@@ -7,7 +7,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [PortSwigger Lab: Information disclosure on debug page](https://infosecwriteups.com/portswigger-lab-information-disclosure-on-debug-page-283feb79c5f5?source=rss----7b722bfd1b8d---4)
 - [I Found HTTP Request Smuggling &amp; Got a Huge Bug Bounty! &lpar;Full Exploit Guide&rpar;](https://theindiannetwork.medium.com/i-found-http-request-smuggling-got-a-huge-bug-bounty-full-exploit-guide-1ac855ee1695?source=rss------bug_bounty_writeup-5)
 - [The Ultimate SSRF Testing Guide: Unleash the Hidden Web Secrets &lpar;2025&rpar;](https://theindiannetwork.medium.com/the-ultimate-ssrf-testing-guide-unleash-the-hidden-web-secrets-2025-8c151068cedf?source=rss------bug_bounty_writeup-5)
-- [How A Null Character Was Used to Bypass Payments](https://medium.com/@diogo.gouveia2/how-a-null-character-was-used-to-bypass-payments-7b417932dede?source=rss------bug_bounty_writeup-5)
+- [How A Null Character Was Used to Bypass Payments](https://systemweakness.com/how-a-null-character-was-used-to-bypass-payments-7b417932dede?source=rss------bug_bounty_writeup-5)
 - [Account Takeover via Leaked Email Verification Token](https://medium.com/@kalvik/account-takeover-via-leaked-email-verification-token-2612fef3e2d4?source=rss------bug_bounty_writeup-5)
 - [No Risk? Think Again — The DoS Twist That Led to $$$](https://medium.com/@0xNayelx/no-risk-think-again-the-dos-twist-that-led-to-0152d6cc1327?source=rss------bug_bounty_writeup-5)
 - [The Ultimate XSS Scanner &amp; Parameter Analysis Tool for Bug Hunters](https://infosecwriteups.com/the-ultimate-xss-scanner-parameter-analysis-tool-for-bug-hunters-3c37111ac267?source=rss------bug_bounty_writeup-5)
