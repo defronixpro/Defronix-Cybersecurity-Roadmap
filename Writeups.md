@@ -1,6 +1,8 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [I Found Cache Poisoning &amp; Earned $500 in Just a Few Minutes!](https://theindiannetwork.medium.com/i-found-cache-poisoning-earned-500-in-just-a-few-minutes-78337a437d55?source=rss------bug_bounty_writeup-5)
+- [I Found Host Header Injection &amp; Got a Quick $1,000 Bounty! &lpar;Full Guide&rpar;](https://theindiannetwork.medium.com/i-found-host-header-injection-got-a-quick-1-000-bounty-full-guide-0573ea19ab19?source=rss------bug_bounty_writeup-5)
 - [Why You Need Your Own Recon Strategy in Bug Bounty &lpar;And Why Copy-Pasting Won’t Make You Rich &rpar;](https://myselfakash20.medium.com/why-you-need-your-own-recon-strategy-in-bug-bounty-and-why-copy-pasting-wont-make-you-rich-faccc53b3d87?source=rss------bug_bounty_writeup-5)
 - [Silent Python Path Hijacking](https://infosecwriteups.com/silent-python-path-hijacking-c4452e6502ae?source=rss----7b722bfd1b8d---4)
 - [3 Google Dorks Every Hacker Must Know !!](https://infosecwriteups.com/3-google-dorks-every-hacker-must-know-e45e4014a168?source=rss----7b722bfd1b8d---4)
@@ -19,8 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [VoIP — Letsdefend Challange](https://infosecwriteups.com/voip-letsdefend-challange-236e1f903322?source=rss----7b722bfd1b8d---4)
 - [Cloudflare Tunnel for Secure HTTP Routing](https://infosecwriteups.com/cloudflare-tunnel-for-secure-http-routing-649a962e3d1c?source=rss----7b722bfd1b8d---4)
 - [Advanced Thick Client Penetration Testing: Techniques, Methodologies, and Execution &lpar;Part 2&rpar;…](https://infosecwriteups.com/advanced-thick-client-penetration-testing-techniques-methodologies-and-execution-part-2-db5738997535?source=rss----7b722bfd1b8d---4)
-- [web cache deception on vdp program](https://medium.com/@Dorking1/web-cache-deception-on-private-program-eab62d869866?source=rss------bug_bounty_writeup-5)
-- [How I Found My First P1 in a Bug Bounty Program](https://cyxbugs.medium.com/how-i-found-my-first-p1-in-a-bug-bounty-program-a82e6c8cea46?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
