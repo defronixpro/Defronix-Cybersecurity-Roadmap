@@ -1,10 +1,6 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
-- [Silent Python Path Hijacking](https://infosecwriteups.com/silent-python-path-hijacking-c4452e6502ae?source=rss----7b722bfd1b8d---4)
-- [3 Google Dorks Every Hacker Must Know !!](https://infosecwriteups.com/3-google-dorks-every-hacker-must-know-e45e4014a168?source=rss----7b722bfd1b8d---4)
-- [SOC337 — Lazarus Phishing Campaign Detected &lpar;APT38&rpar;](https://infosecwriteups.com/soc337-lazarus-phishing-campaign-detected-apt38-e699b7b31175?source=rss----7b722bfd1b8d---4)
-- [PortSwigger Lab: Information disclosure on debug page](https://infosecwriteups.com/portswigger-lab-information-disclosure-on-debug-page-283feb79c5f5?source=rss----7b722bfd1b8d---4)
 - [I Found HTTP Request Smuggling &amp; Got a Huge Bug Bounty! &lpar;Full Exploit Guide&rpar;](https://theindiannetwork.medium.com/i-found-http-request-smuggling-got-a-huge-bug-bounty-full-exploit-guide-1ac855ee1695?source=rss------bug_bounty_writeup-5)
 - [The Ultimate SSRF Testing Guide: Unleash the Hidden Web Secrets &lpar;2025&rpar;](https://theindiannetwork.medium.com/the-ultimate-ssrf-testing-guide-unleash-the-hidden-web-secrets-2025-8c151068cedf?source=rss------bug_bounty_writeup-5)
 - [How A Null Character Was Used to Bypass Payments](https://systemweakness.com/how-a-null-character-was-used-to-bypass-payments-7b417932dede?source=rss------bug_bounty_writeup-5)
@@ -12,12 +8,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [No Risk? Think Again — The DoS Twist That Led to $$$](https://medium.com/@0xNayelx/no-risk-think-again-the-dos-twist-that-led-to-0152d6cc1327?source=rss------bug_bounty_writeup-5)
 - [The Ultimate XSS Scanner &amp; Parameter Analysis Tool for Bug Hunters](https://infosecwriteups.com/the-ultimate-xss-scanner-parameter-analysis-tool-for-bug-hunters-3c37111ac267?source=rss------bug_bounty_writeup-5)
 - [How I Found a CSRF Vulnerability in Profile Picture Deletion](https://medium.com/@EL_cazad0r/how-i-found-a-csrf-vulnerability-in-profile-picture-deletion-b95bf8e6d579?source=rss------bug_bounty_writeup-5)
-- [PortSwigger Lab: Information disclosure in error messages](https://infosecwriteups.com/portswigger-lab-information-disclosure-in-error-messages-12b63dc64e07?source=rss----7b722bfd1b8d---4)
-- [Stealing Money at the Speed of Light: Exploiting Race Conditions for Financial Fraud in…](https://infosecwriteups.com/stealing-money-at-the-speed-of-light-exploiting-race-conditions-for-financial-fraud-in-a14c2086f5c0?source=rss----7b722bfd1b8d---4)
-- [JWT &lpar;JSON Web Token&rpar; Security Risks: Common Vulnerabilities and Exploits Every Bug Hunter Should…](https://infosecwriteups.com/jwt-json-web-token-security-risks-common-vulnerabilities-and-exploits-every-bug-hunter-should-d3fa4182a329?source=rss----7b722bfd1b8d---4)
-- [VoIP — Letsdefend Challange](https://infosecwriteups.com/voip-letsdefend-challange-236e1f903322?source=rss----7b722bfd1b8d---4)
-- [Cloudflare Tunnel for Secure HTTP Routing](https://infosecwriteups.com/cloudflare-tunnel-for-secure-http-routing-649a962e3d1c?source=rss----7b722bfd1b8d---4)
-- [Advanced Thick Client Penetration Testing: Techniques, Methodologies, and Execution &lpar;Part 2&rpar;…](https://infosecwriteups.com/advanced-thick-client-penetration-testing-techniques-methodologies-and-execution-part-2-db5738997535?source=rss----7b722bfd1b8d---4)
 - [web cache deception on vdp program](https://medium.com/@Dorking1/web-cache-deception-on-private-program-eab62d869866?source=rss------bug_bounty_writeup-5)
 - [How I Found My First P1 in a Bug Bounty Program](https://cyxbugs.medium.com/how-i-found-my-first-p1-in-a-bug-bounty-program-a82e6c8cea46?source=rss------bug_bounty_writeup-5)
 - [Rate Limit Bypass in Password Reset Functionality](https://medium.com/@FuzzyyDuck/rate-limit-bypass-in-password-reset-functionality-bf4b997c9bae?source=rss------bug_bounty_writeup-5)
