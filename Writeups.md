@@ -1,6 +1,11 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Earn $1000: Account Takeover by This Methodology](https://infosecwriteups.com/earn-1000-account-takeover-by-this-methodology-cc1cbf6d9eae?source=rss----7b722bfd1b8d---4)
+- [This Tool Helped me to find ORIGIN IP&lpar;Automated way&rpar;](https://infosecwriteups.com/this-tool-helped-me-to-find-origin-ip-automated-way-9a95632d65fe?source=rss----7b722bfd1b8d---4)
+- [This nuclei template made me to find more bugs](https://infosecwriteups.com/this-nuclei-template-made-me-to-find-more-bugs-20de8365be3d?source=rss----7b722bfd1b8d---4)
+- [Unmasking the Hackers: A Complete Guide to Threat Actors](https://infosecwriteups.com/unmasking-the-hackers-a-complete-guide-to-threat-actors-24fc8fdee0c4?source=rss----7b722bfd1b8d---4)
+- [The Stack In Operating System](https://infosecwriteups.com/the-stack-in-operating-system-841fbcbbedee?source=rss----7b722bfd1b8d---4)
 - [“No Good Deed Goes Unnoticed? Not in Cybersecurity.” : An unlucky hacker’s Story](https://medium.com/@nijina7/no-good-deed-goes-unnoticed-not-in-cybersecurity-an-unlucky-hackers-story-3ebbb74e5b9e?source=rss------bug_bounty_writeup-5)
 - [I Found Cache Poisoning &amp; Earned $500 in Just a Few Minutes!](https://theindiannetwork.medium.com/i-found-cache-poisoning-earned-500-in-just-a-few-minutes-78337a437d55?source=rss------bug_bounty_writeup-5)
 - [I Found Host Header Injection &amp; Got a Quick $1,000 Bounty! &lpar;Full Guide&rpar;](https://theindiannetwork.medium.com/i-found-host-header-injection-got-a-quick-1-000-bounty-full-guide-0573ea19ab19?source=rss------bug_bounty_writeup-5)
@@ -16,11 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [No Risk? Think Again — The DoS Twist That Led to $$$](https://medium.com/@0xNayelx/no-risk-think-again-the-dos-twist-that-led-to-0152d6cc1327?source=rss------bug_bounty_writeup-5)
 - [The Ultimate XSS Scanner &amp; Parameter Analysis Tool for Bug Hunters](https://infosecwriteups.com/the-ultimate-xss-scanner-parameter-analysis-tool-for-bug-hunters-3c37111ac267?source=rss------bug_bounty_writeup-5)
 - [PortSwigger Lab: Information disclosure in error messages](https://infosecwriteups.com/portswigger-lab-information-disclosure-in-error-messages-12b63dc64e07?source=rss----7b722bfd1b8d---4)
-- [Stealing Money at the Speed of Light: Exploiting Race Conditions for Financial Fraud in…](https://infosecwriteups.com/stealing-money-at-the-speed-of-light-exploiting-race-conditions-for-financial-fraud-in-a14c2086f5c0?source=rss----7b722bfd1b8d---4)
-- [JWT &lpar;JSON Web Token&rpar; Security Risks: Common Vulnerabilities and Exploits Every Bug Hunter Should…](https://infosecwriteups.com/jwt-json-web-token-security-risks-common-vulnerabilities-and-exploits-every-bug-hunter-should-d3fa4182a329?source=rss----7b722bfd1b8d---4)
-- [VoIP — Letsdefend Challange](https://infosecwriteups.com/voip-letsdefend-challange-236e1f903322?source=rss----7b722bfd1b8d---4)
-- [Cloudflare Tunnel for Secure HTTP Routing](https://infosecwriteups.com/cloudflare-tunnel-for-secure-http-routing-649a962e3d1c?source=rss----7b722bfd1b8d---4)
-- [Advanced Thick Client Penetration Testing: Techniques, Methodologies, and Execution &lpar;Part 2&rpar;…](https://infosecwriteups.com/advanced-thick-client-penetration-testing-techniques-methodologies-and-execution-part-2-db5738997535?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
