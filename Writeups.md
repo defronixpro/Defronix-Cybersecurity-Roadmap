@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How I Uncovered Sensitive Data in a Public Config File and Injected Fake Logs](https://medium.com/@iamshafayat/how-i-uncovered-sensitive-data-in-a-public-config-file-and-injected-fake-logs-46496eb18f50?source=rss------bug_bounty_writeup-5)
 - [Privilege Escalation via Registration Feature Writeup](https://medium.com/@malvinval/privilege-escalation-via-registration-feature-writeup-3f02c66b2391?source=rss------bug_bounty_writeup-5)
 - [Unauthorized Therapist Association Vulnerability](https://medium.com/@EL_cazad0r/unauthorized-therapist-association-vulnerability-bd2979914af1?source=rss------bug_bounty_writeup-5)
 - [How I Found My First High-Severity Bug and Got Rewarded with 3 Trays of Red Bull!](https://infosecwriteups.com/how-i-found-my-first-high-severity-bug-and-got-rewarded-with-3-trays-of-red-bull-29ec0ca6a2e4?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [I Found HTTP Request Smuggling &amp; Got a Huge Bug Bounty! &lpar;Full Exploit Guide&rpar;](https://theindiannetwork.medium.com/i-found-http-request-smuggling-got-a-huge-bug-bounty-full-exploit-guide-1ac855ee1695?source=rss------bug_bounty_writeup-5)
 - [The Ultimate SSRF Testing Guide: Unleash the Hidden Web Secrets &lpar;2025&rpar;](https://theindiannetwork.medium.com/the-ultimate-ssrf-testing-guide-unleash-the-hidden-web-secrets-2025-8c151068cedf?source=rss------bug_bounty_writeup-5)
 - [How A Null Character Was Used to Bypass Payments](https://systemweakness.com/how-a-null-character-was-used-to-bypass-payments-7b417932dede?source=rss------bug_bounty_writeup-5)
-- [Account Takeover via Leaked Email Verification Token](https://medium.com/@kalvik/account-takeover-via-leaked-email-verification-token-2612fef3e2d4?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
