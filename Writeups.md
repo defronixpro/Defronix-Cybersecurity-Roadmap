@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Unauthorized Therapist Association Vulnerability](https://medium.com/@EL_cazad0r/unauthorized-therapist-association-vulnerability-bd2979914af1?source=rss------bug_bounty_writeup-5)
 - [How I Found My First High-Severity Bug and Got Rewarded with 3 Trays of Red Bull!](https://infosecwriteups.com/how-i-found-my-first-high-severity-bug-and-got-rewarded-with-3-trays-of-red-bull-29ec0ca6a2e4?source=rss----7b722bfd1b8d---4)
 - [Your Internet Service Provider is Watching — Here’s How to Disappear](https://infosecwriteups.com/your-internet-service-provider-is-watching-heres-how-to-disappear-910fd507d938?source=rss----7b722bfd1b8d---4)
 - [HTB: Cyber Apocalypse 2025 — Quack Quack](https://infosecwriteups.com/htb-cyber-apocalypse-2025-quack-quack-1775cefc26ae?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How A Null Character Was Used to Bypass Payments](https://systemweakness.com/how-a-null-character-was-used-to-bypass-payments-7b417932dede?source=rss------bug_bounty_writeup-5)
 - [Account Takeover via Leaked Email Verification Token](https://medium.com/@kalvik/account-takeover-via-leaked-email-verification-token-2612fef3e2d4?source=rss------bug_bounty_writeup-5)
 - [No Risk? Think Again — The DoS Twist That Led to $$$](https://medium.com/@0xNayelx/no-risk-think-again-the-dos-twist-that-led-to-0152d6cc1327?source=rss------bug_bounty_writeup-5)
-- [The Ultimate XSS Scanner &amp; Parameter Analysis Tool for Bug Hunters](https://infosecwriteups.com/the-ultimate-xss-scanner-parameter-analysis-tool-for-bug-hunters-3c37111ac267?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
