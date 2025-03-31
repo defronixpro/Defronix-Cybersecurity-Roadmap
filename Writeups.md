@@ -1,7 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
-- [My First Bug Bounty Success: Earning $500 by Uncovering a DoS Vulnerability](https://medium.com/@deed71515/my-first-bug-bounty-success-earning-500-by-uncovering-a-dos-vulnerability-f0456eb72576?source=rss------bug_bounty_writeup-5)
+- [My First Bug Bounty Success: Earning $500 by Uncovering a DoS Vulnerability](https://medium.com/@entit_y/my-first-bug-bounty-success-earning-500-by-uncovering-a-dos-vulnerability-f0456eb72576?source=rss------bug_bounty_writeup-5)
 - [DorkMine — Unleash the Power of Google Dorking Like Never Before!](https://gktomic.medium.com/dorkmine-unleash-the-power-of-google-dorking-like-never-before-0eca2f05e111?source=rss------bug_bounty_writeup-5)
 - [Never Underestimate Any API Key Leak. This is why I Got a Hall of Fame from “Your Dost”](https://hiddendom.medium.com/never-underestimate-any-api-key-leak-this-is-why-i-got-a-hall-of-fame-from-your-dost-25ef5a32dc7e?source=rss------bug_bounty_writeup-5)
 - [SOC Automation Day 2](https://infosecwriteups.com/soc-automation-day-2-293fe9814f04?source=rss----7b722bfd1b8d---4)
