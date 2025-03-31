@@ -1,6 +1,11 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Bug Bounty Hunter’s Nightmare: The Dark Secrets No One Talks About! ⚠️](https://theindiannetwork.medium.com/bug-bounty-hunters-nightmare-the-dark-secrets-no-one-talks-about-%EF%B8%8F-f20971abcbee?source=rss------bug_bounty_writeup-5)
+- [I Bypassed Admin Panel &amp; Stole Data in Minutes! Easility Worth $7500 &lpar;Real-World Exploit&rpar;](https://theindiannetwork.medium.com/i-bypassed-admin-panel-stole-data-in-minutes-easility-worth-7500-real-world-exploit-da9b23fcdb4a?source=rss------bug_bounty_writeup-5)
+- [How I Uncovered Sensitive Data in a Public Config File and Injected Fake Logs](https://medium.com/@iamshafayat/how-i-uncovered-sensitive-data-in-a-public-config-file-and-injected-fake-logs-46496eb18f50?source=rss------bug_bounty_writeup-5)
+- [Privilege Escalation via Registration Feature Writeup](https://medium.com/@malvinval/privilege-escalation-via-registration-feature-writeup-3f02c66b2391?source=rss------bug_bounty_writeup-5)
+- [Unauthorized Therapist Association Vulnerability](https://medium.com/@EL_cazad0r/unauthorized-therapist-association-vulnerability-bd2979914af1?source=rss------bug_bounty_writeup-5)
 - [How I Found My First High-Severity Bug and Got Rewarded with 3 Trays of Red Bull!](https://infosecwriteups.com/how-i-found-my-first-high-severity-bug-and-got-rewarded-with-3-trays-of-red-bull-29ec0ca6a2e4?source=rss----7b722bfd1b8d---4)
 - [Your Internet Service Provider is Watching — Here’s How to Disappear](https://infosecwriteups.com/your-internet-service-provider-is-watching-heres-how-to-disappear-910fd507d938?source=rss----7b722bfd1b8d---4)
 - [HTB: Cyber Apocalypse 2025 — Quack Quack](https://infosecwriteups.com/htb-cyber-apocalypse-2025-quack-quack-1775cefc26ae?source=rss----7b722bfd1b8d---4)
@@ -11,6 +16,11 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Is Bug Bounty Easy?](https://infosecwriteups.com/is-bug-bounty-easy-f1ae04ceb8e6?source=rss----7b722bfd1b8d---4)
 - [How I Tricked A Hacker’s AI Into Arresting Itself](https://infosecwriteups.com/how-i-tricked-a-hackers-ai-into-arresting-itself-de5380455740?source=rss----7b722bfd1b8d---4)
 - [Earn $1000: Account Takeover by This Methodology](https://infosecwriteups.com/earn-1000-account-takeover-by-this-methodology-cc1cbf6d9eae?source=rss----7b722bfd1b8d---4)
+- [“No Good Deed Goes Unnoticed? Not in Cybersecurity.” : An unlucky hacker’s Story](https://medium.com/@nijina7/no-good-deed-goes-unnoticed-not-in-cybersecurity-an-unlucky-hackers-story-3ebbb74e5b9e?source=rss------bug_bounty_writeup-5)
+- [I Found Cache Poisoning &amp; Earned $500 in Just a Few Minutes!](https://theindiannetwork.medium.com/i-found-cache-poisoning-earned-500-in-just-a-few-minutes-78337a437d55?source=rss------bug_bounty_writeup-5)
+- [I Found Host Header Injection &amp; Got a Quick $1,000 Bounty! &lpar;Full Guide&rpar;](https://theindiannetwork.medium.com/i-found-host-header-injection-got-a-quick-1-000-bounty-full-guide-0573ea19ab19?source=rss------bug_bounty_writeup-5)
+- [Why You Need Your Own Recon Strategy in Bug Bounty &lpar;And Why Copy-Pasting Won’t Make You Rich &rpar;](https://infosecwriteups.com/why-you-need-your-own-recon-strategy-in-bug-bounty-and-why-copy-pasting-wont-make-you-rich-faccc53b3d87?source=rss------bug_bounty_writeup-5)
+- [I Found HTTP Request Smuggling &amp; Got a Huge Bug Bounty! &lpar;Full Exploit Guide&rpar;](https://theindiannetwork.medium.com/i-found-http-request-smuggling-got-a-huge-bug-bounty-full-exploit-guide-1ac855ee1695?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
