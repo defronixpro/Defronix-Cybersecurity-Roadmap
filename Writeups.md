@@ -1,6 +1,16 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [SOC Automation Day 2](https://infosecwriteups.com/soc-automation-day-2-293fe9814f04?source=rss----7b722bfd1b8d---4)
+- [PicoCTF 2025 Walkthrough](https://infosecwriteups.com/picoctf-2025-walkthrough-24b753e81721?source=rss----7b722bfd1b8d---4)
+- [How I Found a Payment Tampering Bug and Almost Paid Zero Dollars!](https://infosecwriteups.com/how-i-found-a-payment-tampering-bug-and-almost-paid-zero-dollars-0933297f77f0?source=rss----7b722bfd1b8d---4)
+- [Why You Need Your Own Recon Strategy in Bug Bounty &lpar;And Why Copy-Pasting Won’t Make You Rich &rpar;](https://infosecwriteups.com/why-you-need-your-own-recon-strategy-in-bug-bounty-and-why-copy-pasting-wont-make-you-rich-faccc53b3d87?source=rss----7b722bfd1b8d---4)
+- [How I Made $2000 from an Easy Bug](https://infosecwriteups.com/how-i-made-2000-from-an-easy-bug-a05f48e6c7c2?source=rss----7b722bfd1b8d---4)
+- [How Recon → SQLi Made €€€€ Bounty](https://infosecwriteups.com/how-recon-sqli-made-bounty-425fc0fa2e92?source=rss----7b722bfd1b8d---4)
+- [When Life Throws Errors, I Throw Commands: My Command Injection Bug](https://infosecwriteups.com/when-life-throws-errors-i-throw-commands-my-command-injection-bug-18969d979da4?source=rss----7b722bfd1b8d---4)
+- [When Life Gave Me a 500 Error, I Found AWS Keys Instead! $$RF](https://infosecwriteups.com/when-life-gave-me-a-500-error-i-found-aws-keys-instead-rf-b416f8ca68f8?source=rss----7b722bfd1b8d---4)
+- [How I Found Sensitive Information using Github Dorks in Bug Bounties — Part 2](https://infosecwriteups.com/find-bugs-using-github-dorking-part-2-2f80c1023592?source=rss----7b722bfd1b8d---4)
+- [CompTIA Security+ Review and Tips](https://infosecwriteups.com/comptia-security-review-and-tips-4b5b354bb12e?source=rss----7b722bfd1b8d---4)
 - [Bug Bounty Hunter’s Nightmare: The Dark Secrets No One Talks About! ⚠️](https://theindiannetwork.medium.com/bug-bounty-hunters-nightmare-the-dark-secrets-no-one-talks-about-%EF%B8%8F-f20971abcbee?source=rss------bug_bounty_writeup-5)
 - [I Bypassed Admin Panel &amp; Stole Data in Minutes! Easility Worth $7500 &lpar;Real-World Exploit&rpar;](https://theindiannetwork.medium.com/i-bypassed-admin-panel-stole-data-in-minutes-easility-worth-7500-real-world-exploit-da9b23fcdb4a?source=rss------bug_bounty_writeup-5)
 - [How I Uncovered Sensitive Data in a Public Config File and Injected Fake Logs](https://medium.com/@iamshafayat/how-i-uncovered-sensitive-data-in-a-public-config-file-and-injected-fake-logs-46496eb18f50?source=rss------bug_bounty_writeup-5)
