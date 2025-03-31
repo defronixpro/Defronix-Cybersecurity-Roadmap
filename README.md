@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Never Underestimate Any API Key Leak. This is why I Got a Hall of Fame from “Your Dost”](https://hiddendom.medium.com/never-underestimate-any-api-key-leak-this-is-why-i-got-a-hall-of-fame-from-your-dost-25ef5a32dc7e?source=rss------bug_bounty_writeup-5)
 - [SOC Automation Day 2](https://infosecwriteups.com/soc-automation-day-2-293fe9814f04?source=rss----7b722bfd1b8d---4)
 - [PicoCTF 2025 Walkthrough](https://infosecwriteups.com/picoctf-2025-walkthrough-24b753e81721?source=rss----7b722bfd1b8d---4)
 - [How I Found a Payment Tampering Bug and Almost Paid Zero Dollars!](https://infosecwriteups.com/how-i-found-a-payment-tampering-bug-and-almost-paid-zero-dollars-0933297f77f0?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [I Found Cache Poisoning &amp; Earned $500 in Just a Few Minutes!](https://theindiannetwork.medium.com/i-found-cache-poisoning-earned-500-in-just-a-few-minutes-78337a437d55?source=rss------bug_bounty_writeup-5)
 - [I Found Host Header Injection &amp; Got a Quick $1,000 Bounty! &lpar;Full Guide&rpar;](https://theindiannetwork.medium.com/i-found-host-header-injection-got-a-quick-1-000-bounty-full-guide-0573ea19ab19?source=rss------bug_bounty_writeup-5)
 - [Why You Need Your Own Recon Strategy in Bug Bounty &lpar;And Why Copy-Pasting Won’t Make You Rich &rpar;](https://infosecwriteups.com/why-you-need-your-own-recon-strategy-in-bug-bounty-and-why-copy-pasting-wont-make-you-rich-faccc53b3d87?source=rss------bug_bounty_writeup-5)
-- [I Found HTTP Request Smuggling &amp; Got a Huge Bug Bounty! &lpar;Full Exploit Guide&rpar;](https://theindiannetwork.medium.com/i-found-http-request-smuggling-got-a-huge-bug-bounty-full-exploit-guide-1ac855ee1695?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
