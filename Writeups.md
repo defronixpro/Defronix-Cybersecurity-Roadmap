@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Never leave any API endpoint request unchecked during login or sign-up!](https://hiddendom.medium.com/never-leave-any-api-endpoint-request-unchecked-during-login-or-sign-up-2df8230de2ca?source=rss------bug_bounty_writeup-5)
 - [AUTOMATED SCRIPT FOR FINDING XSS](https://infosecwriteups.com/automated-script-for-finding-xss-fa3b06168f66?source=rss----7b722bfd1b8d---4)
 - [How to Plan a CTI Project: Key Documentation You Need](https://infosecwriteups.com/how-to-plan-a-cti-project-key-documentation-you-need-459b594e6839?source=rss----7b722bfd1b8d---4)
 - [2FA Bypass Using a Simple trick](https://medium.com/@FuzzyyDuck/2fa-bypass-by-response-manipulation-f599c2e3341f?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [I Bypassed Admin Panel &amp; Stole Data in Minutes! Easility Worth $7500 &lpar;Real-World Exploit&rpar;](https://theindiannetwork.medium.com/i-bypassed-admin-panel-stole-data-in-minutes-easility-worth-7500-real-world-exploit-da9b23fcdb4a?source=rss------bug_bounty_writeup-5)
 - [How I Uncovered Sensitive Data in a Public Config File and Injected Fake Logs](https://medium.com/@iamshafayat/how-i-uncovered-sensitive-data-in-a-public-config-file-and-injected-fake-logs-46496eb18f50?source=rss------bug_bounty_writeup-5)
 - [Privilege Escalation via Registration Feature Writeup](https://medium.com/@malvinval/privilege-escalation-via-registration-feature-writeup-3f02c66b2391?source=rss------bug_bounty_writeup-5)
-- [Unauthorized Therapist Association Vulnerability](https://medium.com/@EL_cazad0r/unauthorized-therapist-association-vulnerability-bd2979914af1?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
