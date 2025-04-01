@@ -924,7 +924,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 <!-- WRITEUPS:START -->
 - [AUTOMATED SCRIPT FOR FINDING XSS](https://infosecwriteups.com/automated-script-for-finding-xss-fa3b06168f66?source=rss----7b722bfd1b8d---4)
 - [How to Plan a CTI Project: Key Documentation You Need](https://infosecwriteups.com/how-to-plan-a-cti-project-key-documentation-you-need-459b594e6839?source=rss----7b722bfd1b8d---4)
-- [2FA Bypass By Response Manipulation](https://medium.com/@FuzzyyDuck/2fa-bypass-by-response-manipulation-f599c2e3341f?source=rss------bug_bounty_writeup-5)
+- [2FA Bypass Using a Simple trick](https://medium.com/@FuzzyyDuck/2fa-bypass-by-response-manipulation-f599c2e3341f?source=rss------bug_bounty_writeup-5)
 - [Vanilla PowerShell Reverse Shell Using SMTP](https://infosecwriteups.com/vanilla-powershell-reverse-shell-using-smtp-2beb75fa3df8?source=rss----7b722bfd1b8d---4)
 - [“Must-Know SPL Queries for Rapid Incident Response in Splunk”](https://infosecwriteups.com/must-know-spl-queries-for-rapid-incident-response-in-splunk-f134090fb00b?source=rss----7b722bfd1b8d---4)
 - [How I Accidentally Became the Sherlock Holmes of RCE! and made $$$](https://infosecwriteups.com/how-i-accidentally-became-the-sherlock-holmes-of-rce-and-made-b8857eefeecb?source=rss----7b722bfd1b8d---4)
