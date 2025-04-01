@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [2FA Bypass By Response Manipulation](https://medium.com/@FuzzyyDuck/2fa-bypass-by-response-manipulation-f599c2e3341f?source=rss------bug_bounty_writeup-5)
 - [Vanilla PowerShell Reverse Shell Using SMTP](https://infosecwriteups.com/vanilla-powershell-reverse-shell-using-smtp-2beb75fa3df8?source=rss----7b722bfd1b8d---4)
 - [“Must-Know SPL Queries for Rapid Incident Response in Splunk”](https://infosecwriteups.com/must-know-spl-queries-for-rapid-incident-response-in-splunk-f134090fb00b?source=rss----7b722bfd1b8d---4)
 - [How I Accidentally Became the Sherlock Holmes of RCE! and made $$$](https://infosecwriteups.com/how-i-accidentally-became-the-sherlock-holmes-of-rce-and-made-b8857eefeecb?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How I Uncovered Sensitive Data in a Public Config File and Injected Fake Logs](https://medium.com/@iamshafayat/how-i-uncovered-sensitive-data-in-a-public-config-file-and-injected-fake-logs-46496eb18f50?source=rss------bug_bounty_writeup-5)
 - [Privilege Escalation via Registration Feature Writeup](https://medium.com/@malvinval/privilege-escalation-via-registration-feature-writeup-3f02c66b2391?source=rss------bug_bounty_writeup-5)
 - [Unauthorized Therapist Association Vulnerability](https://medium.com/@EL_cazad0r/unauthorized-therapist-association-vulnerability-bd2979914af1?source=rss------bug_bounty_writeup-5)
-- [“No Good Deed Goes Unnoticed? Not in Cybersecurity.” : An unlucky hacker’s Story](https://medium.com/@nijina7/no-good-deed-goes-unnoticed-not-in-cybersecurity-an-unlucky-hackers-story-3ebbb74e5b9e?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
