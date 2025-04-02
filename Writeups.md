@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [“Hacking the Hackers!” — Saving HackerOne from Data Breach](https://medium.com/@avinash_/hacking-the-hackers-saving-hackerone-from-data-breach-fac81fbd7477?source=rss------bug_bounty_writeup-5)
 - [Zero to Pro The Ultimate Guide to CDX API for Your Bug Bounty Recon Journey: Let’s talk about the…](https://myselfakash20.medium.com/zero-to-pro-the-ultimate-guide-to-cdx-api-for-your-bug-bounty-recon-journey-lets-talk-about-the-353946e67872?source=rss------bug_bounty_writeup-5)
 - [How This Simple Account Takeover Gave Me 800 EUR](https://medium.com/@dineshnarasimhan27/how-this-simple-account-takeover-gave-me-800-eur-7d88a2d13a56?source=rss------bug_bounty_writeup-5)
 - [You Say Premium Features? Well, Not Anymore](https://medium.com/@ahmed_salem/you-say-premium-features-well-not-anymore-e15d5afc14c9?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [PicoCTF 2025 Walkthrough](https://infosecwriteups.com/picoctf-2025-walkthrough-24b753e81721?source=rss----7b722bfd1b8d---4)
 - [How I Found a Payment Tampering Bug and Almost Paid Zero Dollars!](https://infosecwriteups.com/how-i-found-a-payment-tampering-bug-and-almost-paid-zero-dollars-0933297f77f0?source=rss----7b722bfd1b8d---4)
 - [Why You Need Your Own Recon Strategy in Bug Bounty &lpar;And Why Copy-Pasting Won’t Make You Rich &rpar;](https://infosecwriteups.com/why-you-need-your-own-recon-strategy-in-bug-bounty-and-why-copy-pasting-wont-make-you-rich-faccc53b3d87?source=rss----7b722bfd1b8d---4)
-- [Bug Bounty Hunter’s Nightmare: The Dark Secrets No One Talks About! ⚠️](https://theindiannetwork.medium.com/bug-bounty-hunters-nightmare-the-dark-secrets-no-one-talks-about-%EF%B8%8F-f20971abcbee?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
