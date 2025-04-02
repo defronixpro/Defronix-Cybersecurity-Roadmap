@@ -1,6 +1,16 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [AUTOMATED SCRIPT FOR FINDING XSS](https://infosecwriteups.com/automated-script-for-finding-xss-fa3b06168f66?source=rss----7b722bfd1b8d---4)
+- [How to Plan a CTI Project: Key Documentation You Need](https://infosecwriteups.com/how-to-plan-a-cti-project-key-documentation-you-need-459b594e6839?source=rss----7b722bfd1b8d---4)
+- [Vanilla PowerShell Reverse Shell Using SMTP](https://infosecwriteups.com/vanilla-powershell-reverse-shell-using-smtp-2beb75fa3df8?source=rss----7b722bfd1b8d---4)
+- [“Must-Know SPL Queries for Rapid Incident Response in Splunk”](https://infosecwriteups.com/must-know-spl-queries-for-rapid-incident-response-in-splunk-f134090fb00b?source=rss----7b722bfd1b8d---4)
+- [How I Accidentally Became the Sherlock Holmes of RCE! and made $$$](https://infosecwriteups.com/how-i-accidentally-became-the-sherlock-holmes-of-rce-and-made-b8857eefeecb?source=rss----7b722bfd1b8d---4)
+- [This python script saved my recon time](https://infosecwriteups.com/this-python-script-saved-my-recon-time-b780ade10b97?source=rss----7b722bfd1b8d---4)
+- [SOC Automation Day 2](https://infosecwriteups.com/soc-automation-day-2-293fe9814f04?source=rss----7b722bfd1b8d---4)
+- [PicoCTF 2025 Walkthrough](https://infosecwriteups.com/picoctf-2025-walkthrough-24b753e81721?source=rss----7b722bfd1b8d---4)
+- [How I Found a Payment Tampering Bug and Almost Paid Zero Dollars!](https://infosecwriteups.com/how-i-found-a-payment-tampering-bug-and-almost-paid-zero-dollars-0933297f77f0?source=rss----7b722bfd1b8d---4)
+- [Why You Need Your Own Recon Strategy in Bug Bounty &lpar;And Why Copy-Pasting Won’t Make You Rich &rpar;](https://infosecwriteups.com/why-you-need-your-own-recon-strategy-in-bug-bounty-and-why-copy-pasting-wont-make-you-rich-faccc53b3d87?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
