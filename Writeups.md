@@ -1,10 +1,10 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How i do recon](https://osintteam.blog/how-i-do-recon-d24bea0ff421?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Tips: Mastering XML-RPC Exploits Like a Pro](https://frostyxsec.medium.com/bug-bounty-hunters-mastering-xml-rpc-exploits-like-a-pro-8c9fa4c003cc?source=rss------bug_bounty_writeup-5)
 - [Unlocking My First Bug Bounty: The Power of XSS Exploits Revealed!](https://medium.com/@rajeevmaurya82/unlocking-my-first-bug-bounty-the-power-of-xss-exploits-revealed-cbaa0ce98cc3?source=rss------bug_bounty_writeup-5)
 - [How I Bypassed an API Security Check](https://medium.com/@iamshafayat/how-i-bypassed-an-api-security-check-db99fbd8551d?source=rss------bug_bounty_writeup-5)
-- [Zero to Pro The Ultimate Guide to CDX API for Your Bug Bounty Recon Journey: Let’s talk about the…](https://myselfakash20.medium.com/zero-to-pro-the-ultimate-guide-to-cdx-api-for-your-bug-bounty-recon-journey-lets-talk-about-the-353946e67872?source=rss------bug_bounty_writeup-5)
 - [How This Simple Account Takeover Gave Me 800 EUR](https://medium.com/@dineshnarasimhan27/how-this-simple-account-takeover-gave-me-800-eur-7d88a2d13a56?source=rss------bug_bounty_writeup-5)
 - [You Say Premium Features? Well, Not Anymore](https://medium.com/@ahmed_salem/you-say-premium-features-well-not-anymore-e15d5afc14c9?source=rss------bug_bounty_writeup-5)
 - [Never leave any API endpoint request unchecked during login or sign-up!](https://systemweakness.com/never-leave-any-api-endpoint-request-unchecked-during-login-or-sign-up-2df8230de2ca?source=rss------bug_bounty_writeup-5)
