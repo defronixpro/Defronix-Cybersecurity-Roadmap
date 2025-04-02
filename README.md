@@ -922,7 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [You Say Premium Features? Well, Not Anymore](https://medium.com/@ahmedsalem674597/you-say-premium-features-well-not-anymore-e15d5afc14c9?source=rss------bug_bounty_writeup-5)
+- [You Say Premium Features? Well, Not Anymore](https://medium.com/@ahmed_salem/you-say-premium-features-well-not-anymore-e15d5afc14c9?source=rss------bug_bounty_writeup-5)
 - [Never leave any API endpoint request unchecked during login or sign-up!](https://systemweakness.com/never-leave-any-api-endpoint-request-unchecked-during-login-or-sign-up-2df8230de2ca?source=rss------bug_bounty_writeup-5)
 - [AUTOMATED SCRIPT FOR FINDING XSS](https://infosecwriteups.com/automated-script-for-finding-xss-fa3b06168f66?source=rss----7b722bfd1b8d---4)
 - [How to Plan a CTI Project: Key Documentation You Need](https://infosecwriteups.com/how-to-plan-a-cti-project-key-documentation-you-need-459b594e6839?source=rss----7b722bfd1b8d---4)
