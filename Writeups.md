@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Overprivileged API and Remote Code Execution &lpar;RCE&rpar;](https://medium.com/@rkvb/overprivileged-api-and-remote-code-execution-rce-0fa5e52b022d?source=rss------bug_bounty_writeup-5)
 - [“Hacking the Hackers!” — Saving the HackerOne from Data Breach](https://medium.com/@avinash_/hacking-the-hackers-saving-the-hackerone-from-data-breach-75e313fa4898?source=rss------bug_bounty_writeup-5)
 - [Building a Virtual Ethical Hacking Home Lab — Part 5: Conducting Reconnaissance](https://infosecwriteups.com/building-a-virtual-ethical-hacking-home-lab-part-5-conducting-reconnaissance-05c3a13af64c?source=rss----7b722bfd1b8d---4)
 - [Jack of All Trades: Securi-Tay 2020 — Write-Up](https://infosecwriteups.com/jack-of-all-trades-securi-tay-2020-write-up-77342bddf6cc?source=rss----7b722bfd1b8d---4)
@@ -19,7 +20,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Never leave any API endpoint request unchecked during login or sign-up!](https://systemweakness.com/never-leave-any-api-endpoint-request-unchecked-during-login-or-sign-up-2df8230de2ca?source=rss------bug_bounty_writeup-5)
 - [AUTOMATED SCRIPT FOR FINDING XSS](https://infosecwriteups.com/automated-script-for-finding-xss-fa3b06168f66?source=rss----7b722bfd1b8d---4)
 - [How to Plan a CTI Project: Key Documentation You Need](https://infosecwriteups.com/how-to-plan-a-cti-project-key-documentation-you-need-459b594e6839?source=rss----7b722bfd1b8d---4)
-- [2FA Bypass Using a Simple trick](https://medium.com/@FuzzyyDuck/2fa-bypass-by-response-manipulation-f599c2e3341f?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
