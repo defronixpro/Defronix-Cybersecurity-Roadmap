@@ -1,6 +1,9 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Bug Bounty Tips: Mastering XML-RPC Exploits Like a Pro](https://frostyxsec.medium.com/bug-bounty-hunters-mastering-xml-rpc-exploits-like-a-pro-8c9fa4c003cc?source=rss------bug_bounty_writeup-5)
+- [Unlocking My First Bug Bounty: The Power of XSS Exploits Revealed!](https://medium.com/@rajeevmaurya82/unlocking-my-first-bug-bounty-the-power-of-xss-exploits-revealed-cbaa0ce98cc3?source=rss------bug_bounty_writeup-5)
+- [How I Bypassed an API Security Check](https://medium.com/@iamshafayat/how-i-bypassed-an-api-security-check-db99fbd8551d?source=rss------bug_bounty_writeup-5)
 - [Zero to Pro The Ultimate Guide to CDX API for Your Bug Bounty Recon Journey: Let’s talk about the…](https://myselfakash20.medium.com/zero-to-pro-the-ultimate-guide-to-cdx-api-for-your-bug-bounty-recon-journey-lets-talk-about-the-353946e67872?source=rss------bug_bounty_writeup-5)
 - [How This Simple Account Takeover Gave Me 800 EUR](https://medium.com/@dineshnarasimhan27/how-this-simple-account-takeover-gave-me-800-eur-7d88a2d13a56?source=rss------bug_bounty_writeup-5)
 - [You Say Premium Features? Well, Not Anymore](https://medium.com/@ahmed_salem/you-say-premium-features-well-not-anymore-e15d5afc14c9?source=rss------bug_bounty_writeup-5)
@@ -13,9 +16,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How I Accidentally Became the Sherlock Holmes of RCE! and made $$$](https://infosecwriteups.com/how-i-accidentally-became-the-sherlock-holmes-of-rce-and-made-b8857eefeecb?source=rss----7b722bfd1b8d---4)
 - [This python script saved my recon time](https://infosecwriteups.com/this-python-script-saved-my-recon-time-b780ade10b97?source=rss----7b722bfd1b8d---4)
 - [Best Tools for Bug Bounty Hunters: A Professional Guide](https://theindiannetwork.medium.com/best-tools-for-bug-bounty-hunters-a-professional-guide-b939335f4b9d?source=rss------bug_bounty_writeup-5)
-- [My First Bug Bounty Success: Earning $500 by Uncovering a DoS Vulnerability](https://medium.com/@entit_y/my-first-bug-bounty-success-earning-500-by-uncovering-a-dos-vulnerability-f0456eb72576?source=rss------bug_bounty_writeup-5)
-- [DorkMine — Unleash the Power of Google Dorking Like Never Before!](https://gktomic.medium.com/dorkmine-unleash-the-power-of-google-dorking-like-never-before-0eca2f05e111?source=rss------bug_bounty_writeup-5)
-- [Never Underestimate Any API Key Leak. This is why I Got a Hall of Fame from “Your Dost”](https://hiddendom.medium.com/never-underestimate-any-api-key-leak-this-is-why-i-got-a-hall-of-fame-from-your-dost-25ef5a32dc7e?source=rss------bug_bounty_writeup-5)
 - [SOC Automation Day 2](https://infosecwriteups.com/soc-automation-day-2-293fe9814f04?source=rss----7b722bfd1b8d---4)
 - [PicoCTF 2025 Walkthrough](https://infosecwriteups.com/picoctf-2025-walkthrough-24b753e81721?source=rss----7b722bfd1b8d---4)
 - [How I Found a Payment Tampering Bug and Almost Paid Zero Dollars!](https://infosecwriteups.com/how-i-found-a-payment-tampering-bug-and-almost-paid-zero-dollars-0933297f77f0?source=rss----7b722bfd1b8d---4)
