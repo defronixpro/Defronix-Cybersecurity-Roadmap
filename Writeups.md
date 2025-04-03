@@ -1,6 +1,8 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Hacking Workspace for Fun &amp; Profit: Part I](https://0xh7ml.medium.com/hacking-workspace-for-fun-profit-part-i-cd28467ea5c6?source=rss------bug_bounty_writeup-5)
+- [Don’t Miss Any Authentication Layer: Bypassing Password Verification for Unauthorized Account…](https://hackersatty.medium.com/dont-miss-any-authentication-layer-bypassing-password-verification-for-unauthorized-account-46113106828b?source=rss------bug_bounty_writeup-5)
 - [How I Found a CSRF Vulnerability Leading to Account Takeover &lpar;$2,000 Bounty&rpar;](https://medium.com/@nareshkandula54/how-i-found-a-csrf-vulnerability-leading-to-account-takeover-2-000-bounty-3dc408f2f134?source=rss------bug_bounty_writeup-5)
 - [Overprivileged API and Remote Code Execution &lpar;RCE&rpar;](https://medium.com/@rkvb/overprivileged-api-and-remote-code-execution-rce-0fa5e52b022d?source=rss------bug_bounty_writeup-5)
 - [“Hacking the Hackers!” — Saving the HackerOne from Data Breach](https://medium.com/@avinash_/hacking-the-hackers-saving-the-hackerone-from-data-breach-75e313fa4898?source=rss------bug_bounty_writeup-5)
@@ -16,8 +18,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Bug Bounty Tips: Mastering XML-RPC Exploits Like a Pro](https://frostyxsec.medium.com/bug-bounty-hunters-mastering-xml-rpc-exploits-like-a-pro-8c9fa4c003cc?source=rss------bug_bounty_writeup-5)
 - [Unlocking My First Bug Bounty: The Power of XSS Exploits Revealed!](https://medium.com/@rajeevmaurya82/unlocking-my-first-bug-bounty-the-power-of-xss-exploits-revealed-cbaa0ce98cc3?source=rss------bug_bounty_writeup-5)
 - [How I Bypassed an API Security Check](https://medium.com/@iamshafayat/how-i-bypassed-an-api-security-check-db99fbd8551d?source=rss------bug_bounty_writeup-5)
-- [How This Simple Account Takeover Gave Me 800 EUR](https://medium.com/@dineshnarasimhan27/how-this-simple-account-takeover-gave-me-800-eur-7d88a2d13a56?source=rss------bug_bounty_writeup-5)
-- [You Say Premium Features? Well, Not Anymore](https://medium.com/@ahmed_salem/you-say-premium-features-well-not-anymore-e15d5afc14c9?source=rss------bug_bounty_writeup-5)
 - [AUTOMATED SCRIPT FOR FINDING XSS](https://infosecwriteups.com/automated-script-for-finding-xss-fa3b06168f66?source=rss----7b722bfd1b8d---4)
 - [How to Plan a CTI Project: Key Documentation You Need](https://infosecwriteups.com/how-to-plan-a-cti-project-key-documentation-you-need-459b594e6839?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
