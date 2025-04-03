@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [From “Not Reproducible” to Recognition: Reflected XSS on NASA](https://medium.com/@dikstha1409/from-not-reproducible-to-recognition-reflected-xss-on-nasa-1bc008d1d459?source=rss------bug_bounty_writeup-5)
+- [Failed XSS? CRLF to the Rescue](https://anontuttuvenus.medium.com/failed-xss-crlf-to-the-rescue-5febfc03b809?source=rss------bug_bounty_writeup-5)
 - [From Bug Report to HOF: My first valid bug triage from NASA VDP](https://medium.com/@nani.yashwanth12/from-bug-report-to-hof-my-first-valid-bug-triage-from-nasa-vdp-36a8a1c65072?source=rss------bug_bounty_writeup-5)
 - [Hacking Workspace for Fun &amp; Profit: Part I](https://0xh7ml.medium.com/hacking-workspace-for-fun-profit-part-i-cd28467ea5c6?source=rss------bug_bounty_writeup-5)
 - [Don’t Miss Any Authentication Layer: Bypassing Password Verification for Unauthorized Account…](https://hackersatty.medium.com/dont-miss-any-authentication-layer-bypassing-password-verification-for-unauthorized-account-46113106828b?source=rss------bug_bounty_writeup-5)
@@ -938,8 +940,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [PATH HIJACKING TECHNIQUE THAT HELPS IN PRIVILEGE ESCALATION](https://infosecwriteups.com/path-hijacking-technique-that-helps-in-privilege-escalation-b2e12207ea7a?source=rss----7b722bfd1b8d---4)
 - [How i do recon](https://osintteam.blog/how-i-do-recon-d24bea0ff421?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Tips: Mastering XML-RPC Exploits Like a Pro](https://frostyxsec.medium.com/bug-bounty-hunters-mastering-xml-rpc-exploits-like-a-pro-8c9fa4c003cc?source=rss------bug_bounty_writeup-5)
-- [Unlocking My First Bug Bounty: The Power of XSS Exploits Revealed!](https://medium.com/@rajeevmaurya82/unlocking-my-first-bug-bounty-the-power-of-xss-exploits-revealed-cbaa0ce98cc3?source=rss------bug_bounty_writeup-5)
-- [How I Bypassed an API Security Check](https://medium.com/@iamshafayat/how-i-bypassed-an-api-security-check-db99fbd8551d?source=rss------bug_bounty_writeup-5)
 - [AUTOMATED SCRIPT FOR FINDING XSS](https://infosecwriteups.com/automated-script-for-finding-xss-fa3b06168f66?source=rss----7b722bfd1b8d---4)
 - [How to Plan a CTI Project: Key Documentation You Need](https://infosecwriteups.com/how-to-plan-a-cti-project-key-documentation-you-need-459b594e6839?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
