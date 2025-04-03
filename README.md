@@ -922,15 +922,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [Developers Mistake Leads to Bountiesss$$$…](https://infosecwriteups.com/developers-mistake-leads-to-bountiesss-088cf2c2ce51?source=rss------bug_bounty_writeup-5)
-- [From “Not Reproducible” to Recognition: Reflected XSS on NASA](https://medium.com/@dikstha1409/from-not-reproducible-to-recognition-reflected-xss-on-nasa-1bc008d1d459?source=rss------bug_bounty_writeup-5)
-- [Failed XSS? CRLF to the Rescue](https://anontuttuvenus.medium.com/failed-xss-crlf-to-the-rescue-5febfc03b809?source=rss------bug_bounty_writeup-5)
-- [From Bug Report to HOF: My first valid bug triage from NASA VDP](https://medium.com/@nani.yashwanth12/from-bug-report-to-hof-my-first-valid-bug-triage-from-nasa-vdp-36a8a1c65072?source=rss------bug_bounty_writeup-5)
-- [Hacking Workspace for Fun &amp; Profit: Part I](https://0xh7ml.medium.com/hacking-workspace-for-fun-profit-part-i-cd28467ea5c6?source=rss------bug_bounty_writeup-5)
-- [Don’t Miss Any Authentication Layer: Bypassing Password Verification for Unauthorized Account…](https://hackersatty.medium.com/dont-miss-any-authentication-layer-bypassing-password-verification-for-unauthorized-account-46113106828b?source=rss------bug_bounty_writeup-5)
-- [How I Found a CSRF Vulnerability Leading to Account Takeover &lpar;$2,000 Bounty&rpar;](https://medium.com/@nareshkandula54/how-i-found-a-csrf-vulnerability-leading-to-account-takeover-2-000-bounty-3dc408f2f134?source=rss------bug_bounty_writeup-5)
-- [Overprivileged API and Remote Code Execution &lpar;RCE&rpar;](https://medium.com/@rkvb/overprivileged-api-and-remote-code-execution-rce-0fa5e52b022d?source=rss------bug_bounty_writeup-5)
-- [“Hacking the Hackers!” — Saving the HackerOne from Data Breach](https://medium.com/@avinash_/hacking-the-hackers-saving-the-hackerone-from-data-breach-75e313fa4898?source=rss------bug_bounty_writeup-5)
 - [Building a Virtual Ethical Hacking Home Lab — Part 5: Conducting Reconnaissance](https://infosecwriteups.com/building-a-virtual-ethical-hacking-home-lab-part-5-conducting-reconnaissance-05c3a13af64c?source=rss----7b722bfd1b8d---4)
 - [Jack of All Trades: Securi-Tay 2020 — Write-Up](https://infosecwriteups.com/jack-of-all-trades-securi-tay-2020-write-up-77342bddf6cc?source=rss----7b722bfd1b8d---4)
 - [Step-by-Step Guide to Set Up Shuffle SOAR](https://infosecwriteups.com/step-by-step-guide-to-set-up-shuffle-soar-721b39d1e6f5?source=rss----7b722bfd1b8d---4)
@@ -939,7 +930,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Bypassing License Validation in a Desktop Application — A Deep Dive into a Real-World Exploit](https://infosecwriteups.com/bypassing-license-validation-in-a-desktop-application-a-deep-dive-into-a-real-world-exploit-b536711d4b1a?source=rss----7b722bfd1b8d---4)
 - [From Obsolete to Innovative: How LTFS Turned LTO Tape into a Thrilling Storage Adventure](https://infosecwriteups.com/from-obsolete-to-innovative-how-ltfs-turned-lto-tape-into-a-thrilling-storage-adventure-ee0fdb468cec?source=rss----7b722bfd1b8d---4)
 - [PATH HIJACKING TECHNIQUE THAT HELPS IN PRIVILEGE ESCALATION](https://infosecwriteups.com/path-hijacking-technique-that-helps-in-privilege-escalation-b2e12207ea7a?source=rss----7b722bfd1b8d---4)
-- [How i do recon](https://osintteam.blog/how-i-do-recon-d24bea0ff421?source=rss------bug_bounty_writeup-5)
 - [AUTOMATED SCRIPT FOR FINDING XSS](https://infosecwriteups.com/automated-script-for-finding-xss-fa3b06168f66?source=rss----7b722bfd1b8d---4)
 - [How to Plan a CTI Project: Key Documentation You Need](https://infosecwriteups.com/how-to-plan-a-cti-project-key-documentation-you-need-459b594e6839?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
