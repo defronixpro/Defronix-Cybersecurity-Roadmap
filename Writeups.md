@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Developers Mistake Leads to Bountiesss$$$…](https://infosecwriteups.com/developers-mistake-leads-to-bountiesss-088cf2c2ce51?source=rss------bug_bounty_writeup-5)
 - [From “Not Reproducible” to Recognition: Reflected XSS on NASA](https://medium.com/@dikstha1409/from-not-reproducible-to-recognition-reflected-xss-on-nasa-1bc008d1d459?source=rss------bug_bounty_writeup-5)
 - [Failed XSS? CRLF to the Rescue](https://anontuttuvenus.medium.com/failed-xss-crlf-to-the-rescue-5febfc03b809?source=rss------bug_bounty_writeup-5)
 - [From Bug Report to HOF: My first valid bug triage from NASA VDP](https://medium.com/@nani.yashwanth12/from-bug-report-to-hof-my-first-valid-bug-triage-from-nasa-vdp-36a8a1c65072?source=rss------bug_bounty_writeup-5)
@@ -18,7 +19,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [From Obsolete to Innovative: How LTFS Turned LTO Tape into a Thrilling Storage Adventure](https://infosecwriteups.com/from-obsolete-to-innovative-how-ltfs-turned-lto-tape-into-a-thrilling-storage-adventure-ee0fdb468cec?source=rss----7b722bfd1b8d---4)
 - [PATH HIJACKING TECHNIQUE THAT HELPS IN PRIVILEGE ESCALATION](https://infosecwriteups.com/path-hijacking-technique-that-helps-in-privilege-escalation-b2e12207ea7a?source=rss----7b722bfd1b8d---4)
 - [How i do recon](https://osintteam.blog/how-i-do-recon-d24bea0ff421?source=rss------bug_bounty_writeup-5)
-- [Bug Bounty Tips: Mastering XML-RPC Exploits Like a Pro](https://frostyxsec.medium.com/bug-bounty-hunters-mastering-xml-rpc-exploits-like-a-pro-8c9fa4c003cc?source=rss------bug_bounty_writeup-5)
 - [AUTOMATED SCRIPT FOR FINDING XSS](https://infosecwriteups.com/automated-script-for-finding-xss-fa3b06168f66?source=rss----7b722bfd1b8d---4)
 - [How to Plan a CTI Project: Key Documentation You Need](https://infosecwriteups.com/how-to-plan-a-cti-project-key-documentation-you-need-459b594e6839?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
