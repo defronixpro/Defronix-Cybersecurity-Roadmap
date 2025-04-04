@@ -1,7 +1,6 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
-- [$150 IDOR️‍♂️ — How I Added My Own Dishes to a Restaurant Menu](https://medium.com/@yahiasherif/150-idor-%EF%B8%8F-%EF%B8%8F-how-i-added-my-own-dishes-to-a-restaurant-menu-a0b4a78c1d8a?source=rss------bug_bounty_writeup-5)
 - [Automation vs. Manual Hacking: Which One Wins in Bug Bounty?](https://infosecwriteups.com/automation-vs-manual-hacking-which-one-wins-in-bug-bounty-1b7826452c69?source=rss----7b722bfd1b8d---4)
 - [How I Tricked a Server &lpar;with AI&rpar; Into Leaking Its Secrets](https://infosecwriteups.com/how-i-tricked-a-server-with-ai-into-leaking-its-secrets-bb18be82b81d?source=rss----7b722bfd1b8d---4)
 - [Intercepting MacOS XPC](https://infosecwriteups.com/intercepting-macos-xpc-e11103dacafd?source=rss----7b722bfd1b8d---4)
