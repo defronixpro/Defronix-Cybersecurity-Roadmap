@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Open Bug Bounty — Your XSS Gym](https://osintteam.blog/open-bug-bounty-your-xss-gym-75fed886d2c0?source=rss------bug_bounty_writeup-5)
 - [Automation vs. Manual Hacking: Which One Wins in Bug Bounty?](https://infosecwriteups.com/automation-vs-manual-hacking-which-one-wins-in-bug-bounty-1b7826452c69?source=rss----7b722bfd1b8d---4)
 - [How I Tricked a Server &lpar;with AI&rpar; Into Leaking Its Secrets](https://infosecwriteups.com/how-i-tricked-a-server-with-ai-into-leaking-its-secrets-bb18be82b81d?source=rss----7b722bfd1b8d---4)
 - [Intercepting MacOS XPC](https://infosecwriteups.com/intercepting-macos-xpc-e11103dacafd?source=rss----7b722bfd1b8d---4)
@@ -19,7 +20,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Don’t Miss Any Authentication Layer: Bypassing Password Verification for Unauthorized Account…](https://hackersatty.medium.com/dont-miss-any-authentication-layer-bypassing-password-verification-for-unauthorized-account-46113106828b?source=rss------bug_bounty_writeup-5)
 - [How I Found a CSRF Vulnerability Leading to Account Takeover &lpar;$2,000 Bounty&rpar;](https://medium.com/@nareshkandula54/how-i-found-a-csrf-vulnerability-leading-to-account-takeover-2-000-bounty-3dc408f2f134?source=rss------bug_bounty_writeup-5)
 - [Overprivileged API and Remote Code Execution &lpar;RCE&rpar;](https://medium.com/@rkvb/overprivileged-api-and-remote-code-execution-rce-0fa5e52b022d?source=rss------bug_bounty_writeup-5)
-- [“Hacking the Hackers!” — Saving the HackerOne from Data Breach](https://medium.com/@avinash_/hacking-the-hackers-saving-the-hackerone-from-data-breach-75e313fa4898?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
