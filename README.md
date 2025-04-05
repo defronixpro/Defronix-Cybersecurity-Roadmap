@@ -922,16 +922,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [Automation vs. Manual Hacking: Which One Wins in Bug Bounty?](https://infosecwriteups.com/automation-vs-manual-hacking-which-one-wins-in-bug-bounty-1b7826452c69?source=rss----7b722bfd1b8d---4)
-- [How I Tricked a Server &lpar;with AI&rpar; Into Leaking Its Secrets](https://infosecwriteups.com/how-i-tricked-a-server-with-ai-into-leaking-its-secrets-bb18be82b81d?source=rss----7b722bfd1b8d---4)
-- [Intercepting MacOS XPC](https://infosecwriteups.com/intercepting-macos-xpc-e11103dacafd?source=rss----7b722bfd1b8d---4)
-- [Developers Mistake Leads to Bountiesss$$$…](https://infosecwriteups.com/developers-mistake-leads-to-bountiesss-088cf2c2ce51?source=rss----7b722bfd1b8d---4)
-- [How I Turned a 403 Forbidden Into a Goldmine](https://infosecwriteups.com/how-i-turned-a-403-forbidden-into-a-goldmine-738cdf1407aa?source=rss----7b722bfd1b8d---4)
-- [PortSwigger Lab: Authentication bypass via information disclosure](https://infosecwriteups.com/portswigger-lab-authentication-bypass-via-information-disclosure-07cf62617c0a?source=rss----7b722bfd1b8d---4)
-- [Advanced File Upload Techniques Worth $1000-$5000](https://infosecwriteups.com/advanced-file-upload-techniques-worth-1000-5000-66ad72a124bb?source=rss----7b722bfd1b8d---4)
-- [How To Bypass Windows UAC With UACMe](https://infosecwriteups.com/pentesting-tools-bypassing-windows-uac-with-uacme-198fb9b76b55?source=rss----7b722bfd1b8d---4)
-- [PortSwigger Lab: Source code disclosure via backup files](https://infosecwriteups.com/portswigger-lab-source-code-disclosure-via-backup-files-e2bf5949483a?source=rss----7b722bfd1b8d---4)
-- [Easy $300: Template Injection](https://infosecwriteups.com/easy-300-template-injection-2ea1fc32cf07?source=rss----7b722bfd1b8d---4)
 - [Developers Mistake Leads to Bountiesss$$$…](https://infosecwriteups.com/developers-mistake-leads-to-bountiesss-088cf2c2ce51?source=rss------bug_bounty_writeup-5)
 - [From “Not Reproducible” to Recognition: Reflected XSS on NASA](https://medium.com/@dikstha1409/from-not-reproducible-to-recognition-reflected-xss-on-nasa-1bc008d1d459?source=rss------bug_bounty_writeup-5)
 - [Failed XSS? CRLF to the Rescue](https://anontuttuvenus.medium.com/failed-xss-crlf-to-the-rescue-5febfc03b809?source=rss------bug_bounty_writeup-5)
