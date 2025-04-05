@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [CORS Misconfiguration: Bug Bounty Tips to Find and Exploit These Vulnerabilities](https://frostyxsec.medium.com/cors-misconfiguration-bug-bounty-tips-to-find-and-exploit-these-vulnerabilities-4856d0a954af?source=rss------bug_bounty_writeup-5)
 - [Exploiting Windows ADS To Hide Payloads/Backdoors](https://infosecwriteups.com/using-windows-ads-to-hide-payloads-backdoors-3c4519ffb4b5?source=rss----7b722bfd1b8d---4)
 - [️ SSRF to RCE: How I Turned a Small Bug Into a Big Paycheck](https://infosecwriteups.com/%EF%B8%8F-ssrf-to-rce-how-i-turned-a-small-bug-into-a-big-paycheck-574b6b889d2a?source=rss----7b722bfd1b8d---4)
 - [Data Classification in Cybersecurity](https://infosecwriteups.com/data-classification-in-cybersecurity-32f2c358c8fe?source=rss----7b722bfd1b8d---4)
@@ -19,7 +20,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Hacking Workspace for Fun &amp; Profit: Part I](https://0xh7ml.medium.com/hacking-workspace-for-fun-profit-part-i-cd28467ea5c6?source=rss------bug_bounty_writeup-5)
 - [Don’t Miss Any Authentication Layer: Bypassing Password Verification for Unauthorized Account…](https://hackersatty.medium.com/dont-miss-any-authentication-layer-bypassing-password-verification-for-unauthorized-account-46113106828b?source=rss------bug_bounty_writeup-5)
 - [How I Found a CSRF Vulnerability Leading to Account Takeover &lpar;$2,000 Bounty&rpar;](https://medium.com/@nareshkandula54/how-i-found-a-csrf-vulnerability-leading-to-account-takeover-2-000-bounty-3dc408f2f134?source=rss------bug_bounty_writeup-5)
-- [Overprivileged API and Remote Code Execution &lpar;RCE&rpar;](https://medium.com/@rkvb/overprivileged-api-and-remote-code-execution-rce-0fa5e52b022d?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
