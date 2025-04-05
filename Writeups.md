@@ -14,6 +14,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How I Learned CSS as a Backend Engineer](https://infosecwriteups.com/how-i-learned-css-as-a-backend-engineer-694375c50cd0?source=rss----7b722bfd1b8d---4)
 - [CVE-2024–21412&lpar;CVSS 8.1&rpar; Alert: Hackers Bypass &lpar;Exploit&rpar;Windows SmartScreen!](https://infosecwriteups.com/cve-2024-21412-cvss-8-1-alert-hackers-bypass-exploit-windows-smartscreen-371f1adf112f?source=rss----7b722bfd1b8d---4)
 - [Open Bug Bounty — Your XSS Gym](https://osintteam.blog/open-bug-bounty-your-xss-gym-75fed886d2c0?source=rss------bug_bounty_writeup-5)
+- [$150 IDOR️‍♂️ — How I Added My Own Dishes to a Restaurant Menu](https://medium.com/@yahiasherif/150-idor-%EF%B8%8F-%EF%B8%8F-how-i-added-my-own-dishes-to-a-restaurant-menu-a0b4a78c1d8a?source=rss------bug_bounty_writeup-5)
 - [Developers Mistake Leads to Bountiesss$$$…](https://infosecwriteups.com/developers-mistake-leads-to-bountiesss-088cf2c2ce51?source=rss------bug_bounty_writeup-5)
 - [From “Not Reproducible” to Recognition: Reflected XSS on NASA](https://medium.com/@dikstha1409/from-not-reproducible-to-recognition-reflected-xss-on-nasa-1bc008d1d459?source=rss------bug_bounty_writeup-5)
 - [Failed XSS? CRLF to the Rescue](https://anontuttuvenus.medium.com/failed-xss-crlf-to-the-rescue-5febfc03b809?source=rss------bug_bounty_writeup-5)
