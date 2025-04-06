@@ -922,6 +922,9 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Offensive Development Practitioner Course Preview](https://infosecwriteups.com/offensive-development-practitioner-course-preview-2890ecea8bc8?source=rss----7b722bfd1b8d---4)
+- [Browser Security: How to Surf the Web Without Drowning in Ads &lpar;or Malware&rpar;](https://infosecwriteups.com/browser-security-how-to-surf-the-web-without-drowning-in-ads-or-malware-4b7b0cfe5490?source=rss----7b722bfd1b8d---4)
+- [$25,000 Bounty just for sensitive information disclosure](https://infosecwriteups.com/25-000-bounty-just-for-sensitive-information-disclosure-c4f6c5a81795?source=rss----7b722bfd1b8d---4)
 - [$150 IDOR️‍♂️ — How I Added My Own Dishes to a Restaurant Menu](https://medium.com/@yahiasherif/150-idor-%EF%B8%8F-%EF%B8%8F-how-i-added-my-own-dishes-to-a-restaurant-menu-399dce077878?source=rss------bug_bounty_writeup-5)
 - [How I Bypassed Xiaomi’s Rate Limit with Just a Few Extra Slashes ///](https://infosecxsalman.medium.com/how-i-bypassed-xiaomis-rate-limit-with-just-a-few-extra-slashes-425b00ded794?source=rss------bug_bounty_writeup-5)
 - [CORS Misconfiguration: Bug Bounty Tips to Find and Exploit These Vulnerabilities](https://frostyxsec.medium.com/cors-misconfiguration-bug-bounty-tips-to-find-and-exploit-these-vulnerabilities-4856d0a954af?source=rss------bug_bounty_writeup-5)
@@ -932,9 +935,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Creating Rules and Alerts in the ELK — Part 4.1](https://infosecwriteups.com/creating-rules-and-alerts-in-the-elk-part-4-1-9374d43f082d?source=rss----7b722bfd1b8d---4)
 - [How to Hackers hack CCTV](https://infosecwriteups.com/how-to-hackers-hack-cctv-a55b03a4ddf8?source=rss----7b722bfd1b8d---4)
 - [Privilege Escalation using SUDO || Exploit SUDO Misconfiguration](https://infosecwriteups.com/privilege-escalation-using-sudo-exploit-sudo-misconfiguration-f647313c2d72?source=rss----7b722bfd1b8d---4)
-- [My Time-Tested, Production-Ready Node.js Setup That Serves 6 Billion Requests Daily](https://infosecwriteups.com/my-time-tested-production-ready-node-js-setup-that-serves-6-billion-requests-daily-d9c0981144a3?source=rss----7b722bfd1b8d---4)
-- [How I Learned CSS as a Backend Engineer](https://infosecwriteups.com/how-i-learned-css-as-a-backend-engineer-694375c50cd0?source=rss----7b722bfd1b8d---4)
-- [CVE-2024–21412&lpar;CVSS 8.1&rpar; Alert: Hackers Bypass &lpar;Exploit&rpar;Windows SmartScreen!](https://infosecwriteups.com/cve-2024-21412-cvss-8-1-alert-hackers-bypass-exploit-windows-smartscreen-371f1adf112f?source=rss----7b722bfd1b8d---4)
 - [Open Bug Bounty — Your XSS Gym](https://osintteam.blog/open-bug-bounty-your-xss-gym-75fed886d2c0?source=rss------bug_bounty_writeup-5)
 - [Developers Mistake Leads to Bountiesss$$$…](https://infosecwriteups.com/developers-mistake-leads-to-bountiesss-088cf2c2ce51?source=rss------bug_bounty_writeup-5)
 - [From “Not Reproducible” to Recognition: Reflected XSS on NASA](https://medium.com/@dikstha1409/from-not-reproducible-to-recognition-reflected-xss-on-nasa-1bc008d1d459?source=rss------bug_bounty_writeup-5)
