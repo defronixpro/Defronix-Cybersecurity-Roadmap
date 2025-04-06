@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How I Found a $$$ Account Takeover Bug &lpar;And What You Can Learn From It&rpar;](https://medium.com/@nightdare666/how-i-found-a-account-takeover-bug-and-what-you-can-learn-from-it-af0d697f913d?source=rss------bug_bounty_writeup-5)
 - [Offensive Development Practitioner Course Preview](https://infosecwriteups.com/offensive-development-practitioner-course-preview-2890ecea8bc8?source=rss----7b722bfd1b8d---4)
 - [Browser Security: How to Surf the Web Without Drowning in Ads &lpar;or Malware&rpar;](https://infosecwriteups.com/browser-security-how-to-surf-the-web-without-drowning-in-ads-or-malware-4b7b0cfe5490?source=rss----7b722bfd1b8d---4)
 - [$25,000 Bounty just for sensitive information disclosure](https://infosecwriteups.com/25-000-bounty-just-for-sensitive-information-disclosure-c4f6c5a81795?source=rss----7b722bfd1b8d---4)
@@ -19,7 +20,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [From “Not Reproducible” to Recognition: Reflected XSS on NASA](https://medium.com/@dikstha1409/from-not-reproducible-to-recognition-reflected-xss-on-nasa-1bc008d1d459?source=rss------bug_bounty_writeup-5)
 - [Failed XSS? CRLF to the Rescue](https://anontuttuvenus.medium.com/failed-xss-crlf-to-the-rescue-5febfc03b809?source=rss------bug_bounty_writeup-5)
 - [From Bug Report to HOF: My first valid bug triage from NASA VDP](https://medium.com/@nani.yashwanth12/from-bug-report-to-hof-my-first-valid-bug-triage-from-nasa-vdp-36a8a1c65072?source=rss------bug_bounty_writeup-5)
-- [Hacking Workspace for Fun &amp; Profit: Part I](https://0xh7ml.medium.com/hacking-workspace-for-fun-profit-part-i-cd28467ea5c6?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
