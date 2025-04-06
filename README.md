@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [“One Click, No Consent” — How I Unsubscribed Any User from [target.com] Without Logging In](https://cybersecuritywriteups.com/one-click-no-consent-how-i-unsubscribed-any-user-from-target-com-without-logging-in-ef4897f73158?source=rss------bug_bounty_writeup-5)
 - [How Hackers Exploit CVE-2025–29927 in Next.js Like a Pro](https://infosecwriteups.com/how-hackers-exploit-cve-2025-29927-in-next-js-like-a-pro-9997f48ed7ce?source=rss----7b722bfd1b8d---4)
 - [Found a Valid Bug in Microsoft… Got No Bounty, No Hall of Fame Microsoft: That’s Cute.
 ---](https://medium.com/@gourisankara357/found-a-valid-bug-in-microsoft-got-no-bounty-no-hall-of-fame-microsoft-thats-cute-7e14aeceabb3?source=rss------bug_bounty_writeup-5)
@@ -940,7 +941,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How to Hackers hack CCTV](https://infosecwriteups.com/how-to-hackers-hack-cctv-a55b03a4ddf8?source=rss----7b722bfd1b8d---4)
 - [Open Bug Bounty — Your XSS Gym](https://osintteam.blog/open-bug-bounty-your-xss-gym-75fed886d2c0?source=rss------bug_bounty_writeup-5)
 - [Developers Mistake Leads to Bountiesss$$$…](https://infosecwriteups.com/developers-mistake-leads-to-bountiesss-088cf2c2ce51?source=rss------bug_bounty_writeup-5)
-- [From “Not Reproducible” to Recognition: Reflected XSS on NASA](https://medium.com/@dikstha1409/from-not-reproducible-to-recognition-reflected-xss-on-nasa-1bc008d1d459?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
