@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How Hackers Exploit CVE-2025–29927 in Next.js Like a Pro](https://infosecwriteups.com/how-hackers-exploit-cve-2025-29927-in-next-js-like-a-pro-9997f48ed7ce?source=rss----7b722bfd1b8d---4)
 - [Found a Valid Bug in Microsoft… Got No Bounty, No Hall of Fame Microsoft: That’s Cute.
 ---](https://medium.com/@gourisankara357/found-a-valid-bug-in-microsoft-got-no-bounty-no-hall-of-fame-microsoft-thats-cute-7e14aeceabb3?source=rss------bug_bounty_writeup-5)
 - [Bountymine: The Cleanest Cybersecurity Guide that You Shouldn’t Miss](https://medium.com/developersglobal/bountymine-the-cleanest-cybersecurity-guide-that-you-shouldnt-miss-6f18a36451da?source=rss------bug_bounty_writeup-5)
@@ -930,7 +931,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Browser Security: How to Surf the Web Without Drowning in Ads &lpar;or Malware&rpar;](https://infosecwriteups.com/browser-security-how-to-surf-the-web-without-drowning-in-ads-or-malware-4b7b0cfe5490?source=rss----7b722bfd1b8d---4)
 - [$25,000 Bounty just for sensitive information disclosure](https://infosecwriteups.com/25-000-bounty-just-for-sensitive-information-disclosure-c4f6c5a81795?source=rss----7b722bfd1b8d---4)
 - [$150 IDOR️‍♂️ — How I Added My Own Dishes to a Restaurant Menu](https://medium.com/@yahiasherif/150-idor-%EF%B8%8F-%EF%B8%8F-how-i-added-my-own-dishes-to-a-restaurant-menu-399dce077878?source=rss------bug_bounty_writeup-5)
-- [How I Bypassed Xiaomi’s Rate Limit with Just a Few Extra Slashes ///](https://infosecxsalman.medium.com/how-i-bypassed-xiaomis-rate-limit-with-just-a-few-extra-slashes-425b00ded794?source=rss------bug_bounty_writeup-5)
 - [CORS Misconfiguration: Bug Bounty Tips to Find and Exploit These Vulnerabilities](https://frostyxsec.medium.com/cors-misconfiguration-bug-bounty-tips-to-find-and-exploit-these-vulnerabilities-4856d0a954af?source=rss------bug_bounty_writeup-5)
 - [Exploiting Windows ADS To Hide Payloads/Backdoors](https://infosecwriteups.com/using-windows-ads-to-hide-payloads-backdoors-3c4519ffb4b5?source=rss----7b722bfd1b8d---4)
 - [️ SSRF to RCE: How I Turned a Small Bug Into a Big Paycheck](https://infosecwriteups.com/%EF%B8%8F-ssrf-to-rce-how-i-turned-a-small-bug-into-a-big-paycheck-574b6b889d2a?source=rss----7b722bfd1b8d---4)
@@ -938,7 +938,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Creativity Over Commands: Why Hacking is 80% Mindset, 20% Tools](https://infosecwriteups.com/creativity-over-commands-why-hacking-is-80-mindset-20-tools-517c9ed75046?source=rss----7b722bfd1b8d---4)
 - [Creating Rules and Alerts in the ELK — Part 4.1](https://infosecwriteups.com/creating-rules-and-alerts-in-the-elk-part-4-1-9374d43f082d?source=rss----7b722bfd1b8d---4)
 - [How to Hackers hack CCTV](https://infosecwriteups.com/how-to-hackers-hack-cctv-a55b03a4ddf8?source=rss----7b722bfd1b8d---4)
-- [Privilege Escalation using SUDO || Exploit SUDO Misconfiguration](https://infosecwriteups.com/privilege-escalation-using-sudo-exploit-sudo-misconfiguration-f647313c2d72?source=rss----7b722bfd1b8d---4)
 - [Open Bug Bounty — Your XSS Gym](https://osintteam.blog/open-bug-bounty-your-xss-gym-75fed886d2c0?source=rss------bug_bounty_writeup-5)
 - [Developers Mistake Leads to Bountiesss$$$…](https://infosecwriteups.com/developers-mistake-leads-to-bountiesss-088cf2c2ce51?source=rss------bug_bounty_writeup-5)
 - [From “Not Reproducible” to Recognition: Reflected XSS on NASA](https://medium.com/@dikstha1409/from-not-reproducible-to-recognition-reflected-xss-on-nasa-1bc008d1d459?source=rss------bug_bounty_writeup-5)
