@@ -2,12 +2,22 @@
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
 - [“One Click, No Consent” — How I Unsubscribed Any User from [target.com] Without Logging In](https://cybersecuritywriteups.com/one-click-no-consent-how-i-unsubscribed-any-user-from-target-com-without-logging-in-ef4897f73158?source=rss------bug_bounty_writeup-5)
+- [How Hackers Exploit CVE-2025–29927 in Next.js Like a Pro](https://infosecwriteups.com/how-hackers-exploit-cve-2025-29927-in-next-js-like-a-pro-9997f48ed7ce?source=rss----7b722bfd1b8d---4)
 - [Found a Valid Bug in Microsoft… Got No Bounty, No Hall of Fame Microsoft: That’s Cute.
 ---](https://medium.com/@gourisankara357/found-a-valid-bug-in-microsoft-got-no-bounty-no-hall-of-fame-microsoft-thats-cute-7e14aeceabb3?source=rss------bug_bounty_writeup-5)
 - [Bountymine: The Cleanest Cybersecurity Guide that You Shouldn’t Miss](https://medium.com/developersglobal/bountymine-the-cleanest-cybersecurity-guide-that-you-shouldnt-miss-6f18a36451da?source=rss------bug_bounty_writeup-5)
 - [How I Found a $$$ Account Takeover Bug &lpar;And What You Can Learn From It&rpar;](https://medium.com/@nightdare666/how-i-found-a-account-takeover-bug-and-what-you-can-learn-from-it-af0d697f913d?source=rss------bug_bounty_writeup-5)
+- [Offensive Development Practitioner Course Preview](https://infosecwriteups.com/offensive-development-practitioner-course-preview-2890ecea8bc8?source=rss----7b722bfd1b8d---4)
+- [Browser Security: How to Surf the Web Without Drowning in Ads &lpar;or Malware&rpar;](https://infosecwriteups.com/browser-security-how-to-surf-the-web-without-drowning-in-ads-or-malware-4b7b0cfe5490?source=rss----7b722bfd1b8d---4)
+- [$25,000 Bounty just for sensitive information disclosure](https://infosecwriteups.com/25-000-bounty-just-for-sensitive-information-disclosure-c4f6c5a81795?source=rss----7b722bfd1b8d---4)
 - [$150 IDOR️‍♂️ — How I Added My Own Dishes to a Restaurant Menu](https://medium.com/@yahiasherif/150-idor-%EF%B8%8F-%EF%B8%8F-how-i-added-my-own-dishes-to-a-restaurant-menu-399dce077878?source=rss------bug_bounty_writeup-5)
 - [CORS Misconfiguration: Bug Bounty Tips to Find and Exploit These Vulnerabilities](https://frostyxsec.medium.com/cors-misconfiguration-bug-bounty-tips-to-find-and-exploit-these-vulnerabilities-4856d0a954af?source=rss------bug_bounty_writeup-5)
+- [Exploiting Windows ADS To Hide Payloads/Backdoors](https://infosecwriteups.com/using-windows-ads-to-hide-payloads-backdoors-3c4519ffb4b5?source=rss----7b722bfd1b8d---4)
+- [️ SSRF to RCE: How I Turned a Small Bug Into a Big Paycheck](https://infosecwriteups.com/%EF%B8%8F-ssrf-to-rce-how-i-turned-a-small-bug-into-a-big-paycheck-574b6b889d2a?source=rss----7b722bfd1b8d---4)
+- [Data Classification in Cybersecurity](https://infosecwriteups.com/data-classification-in-cybersecurity-32f2c358c8fe?source=rss----7b722bfd1b8d---4)
+- [Creativity Over Commands: Why Hacking is 80% Mindset, 20% Tools](https://infosecwriteups.com/creativity-over-commands-why-hacking-is-80-mindset-20-tools-517c9ed75046?source=rss----7b722bfd1b8d---4)
+- [Creating Rules and Alerts in the ELK — Part 4.1](https://infosecwriteups.com/creating-rules-and-alerts-in-the-elk-part-4-1-9374d43f082d?source=rss----7b722bfd1b8d---4)
+- [How to Hackers hack CCTV](https://infosecwriteups.com/how-to-hackers-hack-cctv-a55b03a4ddf8?source=rss----7b722bfd1b8d---4)
 - [Open Bug Bounty — Your XSS Gym](https://osintteam.blog/open-bug-bounty-your-xss-gym-75fed886d2c0?source=rss------bug_bounty_writeup-5)
 - [Developers Mistake Leads to Bountiesss$$$…](https://infosecwriteups.com/developers-mistake-leads-to-bountiesss-088cf2c2ce51?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
