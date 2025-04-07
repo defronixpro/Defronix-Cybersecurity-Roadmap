@@ -17,6 +17,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Browser Security: How to Surf the Web Without Drowning in Ads &lpar;or Malware&rpar;](https://infosecwriteups.com/browser-security-how-to-surf-the-web-without-drowning-in-ads-or-malware-4b7b0cfe5490?source=rss----7b722bfd1b8d---4)
 - [$25,000 Bounty just for sensitive information disclosure](https://infosecwriteups.com/25-000-bounty-just-for-sensitive-information-disclosure-c4f6c5a81795?source=rss----7b722bfd1b8d---4)
 - [$150 IDOR️‍♂️ — How I Added My Own Dishes to a Restaurant Menu](https://medium.com/@yahiasherif/150-idor-%EF%B8%8F-%EF%B8%8F-how-i-added-my-own-dishes-to-a-restaurant-menu-399dce077878?source=rss------bug_bounty_writeup-5)
+- [How I Bypassed Xiaomi’s Rate Limit with Just a Few Extra Slashes ///](https://infosecxsalman.medium.com/how-i-bypassed-xiaomis-rate-limit-with-just-a-few-extra-slashes-425b00ded794?source=rss------bug_bounty_writeup-5)
 - [CORS Misconfiguration: Bug Bounty Tips to Find and Exploit These Vulnerabilities](https://frostyxsec.medium.com/cors-misconfiguration-bug-bounty-tips-to-find-and-exploit-these-vulnerabilities-4856d0a954af?source=rss------bug_bounty_writeup-5)
 - [Exploiting Windows ADS To Hide Payloads/Backdoors](https://infosecwriteups.com/using-windows-ads-to-hide-payloads-backdoors-3c4519ffb4b5?source=rss----7b722bfd1b8d---4)
 - [Open Bug Bounty — Your XSS Gym](https://osintteam.blog/open-bug-bounty-your-xss-gym-75fed886d2c0?source=rss------bug_bounty_writeup-5)
