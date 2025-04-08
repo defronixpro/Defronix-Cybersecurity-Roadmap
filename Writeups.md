@@ -1,6 +1,17 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How I Found Session Not Invalidated After Account Deletion](https://medium.com/@nightdare666/how-i-found-session-not-invalidated-after-account-deletion-3fb154fb5172?source=rss------bug_bounty_writeup-5)
+- [Unlimited Emails: A Bug That Let Me Spam Anyone =&gt;$250](https://ehteshamulhaq198.medium.com/unlimited-emails-a-bug-that-let-me-spam-anyone-250-e0d1b14ae810?source=rss------bug_bounty_writeup-5)
+- [“One Click, No Consent” — How I Unsubscribed Any User from [target.com] Without Logging In](https://cybersecuritywriteups.com/one-click-no-consent-how-i-unsubscribed-any-user-from-target-com-without-logging-in-ef4897f73158?source=rss------bug_bounty_writeup-5)
+- [Found a Valid Bug in Microsoft… Got No Bounty, No Hall of Fame Microsoft: That’s Cute.
+---](https://medium.com/@gourisankara357/found-a-valid-bug-in-microsoft-got-no-bounty-no-hall-of-fame-microsoft-thats-cute-7e14aeceabb3?source=rss------bug_bounty_writeup-5)
+- [Bountymine: The Cleanest Cybersecurity Guide that You Shouldn’t Miss](https://medium.com/developersglobal/bountymine-the-cleanest-cybersecurity-guide-that-you-shouldnt-miss-6f18a36451da?source=rss------bug_bounty_writeup-5)
+- [How I Found a $$$ Account Takeover Bug &lpar;And What You Can Learn From It&rpar;](https://medium.com/@nightdare666/how-i-found-a-account-takeover-bug-and-what-you-can-learn-from-it-af0d697f913d?source=rss------bug_bounty_writeup-5)
+- [$150 IDOR️‍♂️ — How I Added My Own Dishes to a Restaurant Menu](https://medium.com/@yahiasherif/150-idor-%EF%B8%8F-%EF%B8%8F-how-i-added-my-own-dishes-to-a-restaurant-menu-399dce077878?source=rss------bug_bounty_writeup-5)
+- [How I Bypassed Xiaomi’s Rate Limit with Just a Few Extra Slashes ///](https://infosecxsalman.medium.com/how-i-bypassed-xiaomis-rate-limit-with-just-a-few-extra-slashes-425b00ded794?source=rss------bug_bounty_writeup-5)
+- [CORS Misconfiguration: Bug Bounty Tips to Find and Exploit These Vulnerabilities](https://frostyxsec.medium.com/cors-misconfiguration-bug-bounty-tips-to-find-and-exploit-these-vulnerabilities-4856d0a954af?source=rss------bug_bounty_writeup-5)
+- [Open Bug Bounty — Your XSS Gym](https://osintteam.blog/open-bug-bounty-your-xss-gym-75fed886d2c0?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
