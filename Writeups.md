@@ -1,6 +1,8 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Controlling XSS Using A Secure WebSocket CLI](https://infosecwriteups.com/controlling-xss-using-a-secure-websocket-cli-3c26898fd412?source=rss----7b722bfd1b8d---4)
+- [AWS Cloud Ransomware: Anatomy of a Digital Hostage Crisis](https://infosecwriteups.com/aws-cloud-ransomware-anatomy-of-a-digital-hostage-crisis-4805ded3ff81?source=rss----7b722bfd1b8d---4)
 - [How I Found Session Not Invalidated After Account Deletion](https://medium.com/@nightdare666/how-i-found-session-not-invalidated-after-account-deletion-3fb154fb5172?source=rss------bug_bounty_writeup-5)
 - [Test Cases for LLM-Powered Multi-Agent Systems](https://infosecwriteups.com/test-cases-for-llm-powered-multi-agent-systems-4e56dde57c06?source=rss----7b722bfd1b8d---4)
 - [How AI Helped Me Turn a Sneaky SQL Param into a Full-Blown RFI Madness](https://infosecwriteups.com/how-ai-helped-me-turn-a-sneaky-sql-param-into-a-full-blown-rfi-madness-31837311f6bd?source=rss----7b722bfd1b8d---4)
@@ -16,11 +18,9 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How I Found a $$$ Account Takeover Bug &lpar;And What You Can Learn From It&rpar;](https://medium.com/@nightdare666/how-i-found-a-account-takeover-bug-and-what-you-can-learn-from-it-af0d697f913d?source=rss------bug_bounty_writeup-5)
 - [Offensive Development Practitioner Course Preview](https://infosecwriteups.com/offensive-development-practitioner-course-preview-2890ecea8bc8?source=rss----7b722bfd1b8d---4)
 - [Browser Security: How to Surf the Web Without Drowning in Ads &lpar;or Malware&rpar;](https://infosecwriteups.com/browser-security-how-to-surf-the-web-without-drowning-in-ads-or-malware-4b7b0cfe5490?source=rss----7b722bfd1b8d---4)
-- [$25,000 Bounty just for sensitive information disclosure](https://infosecwriteups.com/25-000-bounty-just-for-sensitive-information-disclosure-c4f6c5a81795?source=rss----7b722bfd1b8d---4)
 - [$150 IDOR️‍♂️ — How I Added My Own Dishes to a Restaurant Menu](https://medium.com/@yahiasherif/150-idor-%EF%B8%8F-%EF%B8%8F-how-i-added-my-own-dishes-to-a-restaurant-menu-399dce077878?source=rss------bug_bounty_writeup-5)
 - [How I Bypassed Xiaomi’s Rate Limit with Just a Few Extra Slashes ///](https://infosecxsalman.medium.com/how-i-bypassed-xiaomis-rate-limit-with-just-a-few-extra-slashes-425b00ded794?source=rss------bug_bounty_writeup-5)
 - [CORS Misconfiguration: Bug Bounty Tips to Find and Exploit These Vulnerabilities](https://frostyxsec.medium.com/cors-misconfiguration-bug-bounty-tips-to-find-and-exploit-these-vulnerabilities-4856d0a954af?source=rss------bug_bounty_writeup-5)
-- [Exploiting Windows ADS To Hide Payloads/Backdoors](https://infosecwriteups.com/using-windows-ads-to-hide-payloads-backdoors-3c4519ffb4b5?source=rss----7b722bfd1b8d---4)
 - [Open Bug Bounty — Your XSS Gym](https://osintteam.blog/open-bug-bounty-your-xss-gym-75fed886d2c0?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
