@@ -923,7 +923,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
 - [Controlling XSS Using A Secure WebSocket CLI](https://infosecwriteups.com/controlling-xss-using-a-secure-websocket-cli-3c26898fd412?source=rss----7b722bfd1b8d---4)
-- [AWS Cloud Ransomware: Anatomy of a Digital Hostage Crisis](https://infosecwriteups.com/aws-cloud-ransomware-anatomy-of-a-digital-hostage-crisis-4805ded3ff81?source=rss----7b722bfd1b8d---4)
+- [☠️ Ransomware on AWS: Break It Down. Detect It Fast.](https://infosecwriteups.com/aws-cloud-ransomware-anatomy-of-a-digital-hostage-crisis-4805ded3ff81?source=rss----7b722bfd1b8d---4)
 - [How I Found Session Not Invalidated After Account Deletion](https://medium.com/@nightdare666/how-i-found-session-not-invalidated-after-account-deletion-3fb154fb5172?source=rss------bug_bounty_writeup-5)
 - [Test Cases for LLM-Powered Multi-Agent Systems](https://infosecwriteups.com/test-cases-for-llm-powered-multi-agent-systems-4e56dde57c06?source=rss----7b722bfd1b8d---4)
 - [How AI Helped Me Turn a Sneaky SQL Param into a Full-Blown RFI Madness](https://infosecwriteups.com/how-ai-helped-me-turn-a-sneaky-sql-param-into-a-full-blown-rfi-madness-31837311f6bd?source=rss----7b722bfd1b8d---4)
