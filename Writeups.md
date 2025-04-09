@@ -1,10 +1,20 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [The Hidden Dangers of IoT Devices &lpar;And How to Fix Them&rpar;](https://infosecwriteups.com/the-hidden-dangers-of-iot-devices-and-how-to-fix-them-92dcb79c0050?source=rss----7b722bfd1b8d---4)
+- [Pentathon 2025 Web Challenge — Unblocker](https://infosecwriteups.com/pentathon-2025-web-challenge-unblocker-0223aad05deb?source=rss----7b722bfd1b8d---4)
+- [From Recon to RCE: How AI and a cup of Boost Helped Me Turn SQLi into a Command Injection Jackpot…](https://infosecwriteups.com/from-recon-to-rce-how-ai-and-a-cup-of-boost-helped-me-turn-sqli-into-a-command-injection-jackpot-1f62dc829956?source=rss----7b722bfd1b8d---4)
+- [AI vs. Hackers: Can AI Help in Bug Bounty or Is It Just a Hype?](https://infosecwriteups.com/ai-vs-hackers-can-ai-help-in-bug-bounty-or-is-it-just-a-hype-04ce56b454d6?source=rss----7b722bfd1b8d---4)
+- [How to Explain Cybersecurity to Your Technophobe Aunt &lpar;Without Eye-Rolling&rpar;](https://infosecwriteups.com/how-to-explain-cybersecurity-to-your-technophobe-aunt-without-eye-rolling-38f4e70c6bb7?source=rss----7b722bfd1b8d---4)
+- [IDOR Exposed: How a Simple ID Can Leak Millions of Records](https://infosecwriteups.com/idor-exposed-how-a-simple-id-can-leak-millions-of-records-890d9f200d0a?source=rss----7b722bfd1b8d---4)
+- [This is how i use browser to fetch JS endpoints for good paying bugs](https://infosecwriteups.com/this-is-how-i-use-browser-to-fetch-js-endpoints-for-good-paying-bugs-6bd91563f7bf?source=rss----7b722bfd1b8d---4)
 - [This is how i use browser to fetch JS endpoints for good paying bugs](https://infosecwriteups.com/this-is-how-i-use-browser-to-fetch-js-endpoints-for-good-paying-bugs-6bd91563f7bf?source=rss------bug_bounty_writeup-5)
 - [Account Manipulation Lead to Anonymous Account existence](https://medium.com/@ziademad1923/account-manipulation-lead-to-anonymous-account-existence-211c1ff390a6?source=rss------bug_bounty_writeup-5)
 - [This is how i use browser to fetch JS endpoints for good paying bugs](https://osintteam.blog/this-is-how-i-use-browser-to-fetch-js-endpoints-for-good-paying-bugs-3ca824e20aa5?source=rss------bug_bounty_writeup-5)
+- [Controlling XSS Using A Secure WebSocket CLI](https://infosecwriteups.com/controlling-xss-using-a-secure-websocket-cli-3c26898fd412?source=rss----7b722bfd1b8d---4)
+- [☠️ Ransomware on AWS: Break It Down. Detect It Fast.](https://infosecwriteups.com/aws-cloud-ransomware-anatomy-of-a-digital-hostage-crisis-4805ded3ff81?source=rss----7b722bfd1b8d---4)
 - [How I Found Session Not Invalidated After Account Deletion](https://medium.com/@nightdare666/how-i-found-session-not-invalidated-after-account-deletion-3fb154fb5172?source=rss------bug_bounty_writeup-5)
+- [Test Cases for LLM-Powered Multi-Agent Systems](https://infosecwriteups.com/test-cases-for-llm-powered-multi-agent-systems-4e56dde57c06?source=rss----7b722bfd1b8d---4)
 - [Unlimited Emails: A Bug That Let Me Spam Anyone =&gt;$250](https://ehteshamulhaq198.medium.com/unlimited-emails-a-bug-that-let-me-spam-anyone-250-e0d1b14ae810?source=rss------bug_bounty_writeup-5)
 - [“One Click, No Consent” — How I Unsubscribed Any User from [target.com] Without Logging In](https://cybersecuritywriteups.com/one-click-no-consent-how-i-unsubscribed-any-user-from-target-com-without-logging-in-ef4897f73158?source=rss------bug_bounty_writeup-5)
 - [Found a Valid Bug in Microsoft… Got No Bounty, No Hall of Fame Microsoft: That’s Cute.
