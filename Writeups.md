@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [I Bypassed 2FA Using an Old Secret Key — Here’s How I Earned $500](https://medium.com/@whitehat29/i-bypassed-2fa-using-an-old-secret-key-heres-how-i-earned-500-cd92c9158f1a?source=rss------bug_bounty_writeup-5)
 - [The Hidden Dangers of IoT Devices &lpar;And How to Fix Them&rpar;](https://infosecwriteups.com/the-hidden-dangers-of-iot-devices-and-how-to-fix-them-92dcb79c0050?source=rss----7b722bfd1b8d---4)
 - [Pentathon 2025 Web Challenge — Unblocker](https://infosecwriteups.com/pentathon-2025-web-challenge-unblocker-0223aad05deb?source=rss----7b722bfd1b8d---4)
 - [From Recon to RCE: How AI and a cup of Boost Helped Me Turn SQLi into a Command Injection Jackpot…](https://infosecwriteups.com/from-recon-to-rce-how-ai-and-a-cup-of-boost-helped-me-turn-sqli-into-a-command-injection-jackpot-1f62dc829956?source=rss----7b722bfd1b8d---4)
@@ -21,7 +22,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 ---](https://medium.com/@gourisankara357/found-a-valid-bug-in-microsoft-got-no-bounty-no-hall-of-fame-microsoft-thats-cute-7e14aeceabb3?source=rss------bug_bounty_writeup-5)
 - [Bountymine: The Cleanest Cybersecurity Guide that You Shouldn’t Miss](https://medium.com/developersglobal/bountymine-the-cleanest-cybersecurity-guide-that-you-shouldnt-miss-6f18a36451da?source=rss------bug_bounty_writeup-5)
 - [How I Found a $$$ Account Takeover Bug &lpar;And What You Can Learn From It&rpar;](https://medium.com/@nightdare666/how-i-found-a-account-takeover-bug-and-what-you-can-learn-from-it-af0d697f913d?source=rss------bug_bounty_writeup-5)
-- [$150 IDOR️‍♂️ — How I Added My Own Dishes to a Restaurant Menu](https://medium.com/@yahiasherif/150-idor-%EF%B8%8F-%EF%B8%8F-how-i-added-my-own-dishes-to-a-restaurant-menu-399dce077878?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
