@@ -922,6 +922,11 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [AI vs. Hackers: Can AI Help in Bug Bounty or Is It Just a Hype?](https://infosecwriteups.com/ai-vs-hackers-can-ai-help-in-bug-bounty-or-is-it-just-a-hype-04ce56b454d6?source=rss----7b722bfd1b8d---4)
+- [How to Explain Cybersecurity to Your Technophobe Aunt &lpar;Without Eye-Rolling&rpar;](https://infosecwriteups.com/how-to-explain-cybersecurity-to-your-technophobe-aunt-without-eye-rolling-38f4e70c6bb7?source=rss----7b722bfd1b8d---4)
+- [IDOR Exposed: How a Simple ID Can Leak Millions of Records](https://infosecwriteups.com/idor-exposed-how-a-simple-id-can-leak-millions-of-records-890d9f200d0a?source=rss----7b722bfd1b8d---4)
+- [This is how i use browser to fetch JS endpoints for good paying bugs](https://infosecwriteups.com/this-is-how-i-use-browser-to-fetch-js-endpoints-for-good-paying-bugs-6bd91563f7bf?source=rss----7b722bfd1b8d---4)
+- [This is how i use browser to fetch JS endpoints for good paying bugs](https://infosecwriteups.com/this-is-how-i-use-browser-to-fetch-js-endpoints-for-good-paying-bugs-6bd91563f7bf?source=rss------bug_bounty_writeup-5)
 - [Account Manipulation Lead to Anonymous Account existence](https://medium.com/@ziademad1923/account-manipulation-lead-to-anonymous-account-existence-211c1ff390a6?source=rss------bug_bounty_writeup-5)
 - [This is how i use browser to fetch JS endpoints for good paying bugs](https://osintteam.blog/this-is-how-i-use-browser-to-fetch-js-endpoints-for-good-paying-bugs-3ca824e20aa5?source=rss------bug_bounty_writeup-5)
 - [Controlling XSS Using A Secure WebSocket CLI](https://infosecwriteups.com/controlling-xss-using-a-secure-websocket-cli-3c26898fd412?source=rss----7b722bfd1b8d---4)
@@ -931,18 +936,13 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How AI Helped Me Turn a Sneaky SQL Param into a Full-Blown RFI Madness](https://infosecwriteups.com/how-ai-helped-me-turn-a-sneaky-sql-param-into-a-full-blown-rfi-madness-31837311f6bd?source=rss----7b722bfd1b8d---4)
 - [Hackers’ Hidden Playground: Exploiting Underrated Web Vulnerabilities Like a Pro](https://infosecwriteups.com/hackers-hidden-playground-exploiting-underrated-web-vulnerabilities-like-a-pro-e62ce0887ee7?source=rss----7b722bfd1b8d---4)
 - [Can AI Hack Websites? Testing the Limits of ChatGPT and Cybersecurity](https://infosecwriteups.com/can-ai-hack-websites-testing-the-limits-of-chatgpt-and-cybersecurity-4e2bc9635bea?source=rss----7b722bfd1b8d---4)
-- [Remix and React Router Vulnerability CVE-2025–31137 -$$$$ BOUNTY](https://infosecwriteups.com/remix-and-react-router-vulnerability-cve-2025-31137-bounty-c0c716f44888?source=rss----7b722bfd1b8d---4)
 - [Unlimited Emails: A Bug That Let Me Spam Anyone =&gt;$250](https://ehteshamulhaq198.medium.com/unlimited-emails-a-bug-that-let-me-spam-anyone-250-e0d1b14ae810?source=rss------bug_bounty_writeup-5)
 - [“One Click, No Consent” — How I Unsubscribed Any User from [target.com] Without Logging In](https://cybersecuritywriteups.com/one-click-no-consent-how-i-unsubscribed-any-user-from-target-com-without-logging-in-ef4897f73158?source=rss------bug_bounty_writeup-5)
-- [How Hackers Exploit CVE-2025–29927 in Next.js Like a Pro](https://infosecwriteups.com/how-hackers-exploit-cve-2025-29927-in-next-js-like-a-pro-9997f48ed7ce?source=rss----7b722bfd1b8d---4)
 - [Found a Valid Bug in Microsoft… Got No Bounty, No Hall of Fame Microsoft: That’s Cute.
 ---](https://medium.com/@gourisankara357/found-a-valid-bug-in-microsoft-got-no-bounty-no-hall-of-fame-microsoft-thats-cute-7e14aeceabb3?source=rss------bug_bounty_writeup-5)
 - [Bountymine: The Cleanest Cybersecurity Guide that You Shouldn’t Miss](https://medium.com/developersglobal/bountymine-the-cleanest-cybersecurity-guide-that-you-shouldnt-miss-6f18a36451da?source=rss------bug_bounty_writeup-5)
 - [How I Found a $$$ Account Takeover Bug &lpar;And What You Can Learn From It&rpar;](https://medium.com/@nightdare666/how-i-found-a-account-takeover-bug-and-what-you-can-learn-from-it-af0d697f913d?source=rss------bug_bounty_writeup-5)
-- [Offensive Development Practitioner Course Preview](https://infosecwriteups.com/offensive-development-practitioner-course-preview-2890ecea8bc8?source=rss----7b722bfd1b8d---4)
-- [Browser Security: How to Surf the Web Without Drowning in Ads &lpar;or Malware&rpar;](https://infosecwriteups.com/browser-security-how-to-surf-the-web-without-drowning-in-ads-or-malware-4b7b0cfe5490?source=rss----7b722bfd1b8d---4)
 - [$150 IDOR️‍♂️ — How I Added My Own Dishes to a Restaurant Menu](https://medium.com/@yahiasherif/150-idor-%EF%B8%8F-%EF%B8%8F-how-i-added-my-own-dishes-to-a-restaurant-menu-399dce077878?source=rss------bug_bounty_writeup-5)
-- [How I Bypassed Xiaomi’s Rate Limit with Just a Few Extra Slashes ///](https://infosecxsalman.medium.com/how-i-bypassed-xiaomis-rate-limit-with-just-a-few-extra-slashes-425b00ded794?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
