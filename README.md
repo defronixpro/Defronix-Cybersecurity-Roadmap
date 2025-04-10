@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Bypassing an Akamai WAF to Achieve Self-XSS via CSRF Chain](https://kariiem.medium.com/bypassing-an-akamai-waf-to-achieve-self-xss-via-csrf-chain-0fd28fcb9250?source=rss------bug_bounty_writeup-5)
 - [How I Found a WordPress Database Setup via Shodan &lpar;HackerOne&rpar;](https://enterlectury.medium.com/how-i-found-a-wordpress-database-setup-via-shodan-hackerone-a5de583e2fb4?source=rss------bug_bounty_writeup-5)
 - [The $1,000,000 Bug: How I Spent 3 Months on a Single Target and Found the Most Critical Chain of My…](https://theindiannetwork.medium.com/the-1-000-000-bug-how-i-spent-3-months-on-a-single-target-and-found-the-most-critical-chain-of-my-5827cd7dc866?source=rss------bug_bounty_writeup-5)
 - [Stored HTML Injection — Email Invite Manipulation](https://ehteshamulhaq198.medium.com/stored-html-injection-email-invite-manipulation-63022e21d5db?source=rss------bug_bounty_writeup-5)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How I Found Session Not Invalidated After Account Deletion](https://medium.com/@nightdare666/how-i-found-session-not-invalidated-after-account-deletion-3fb154fb5172?source=rss------bug_bounty_writeup-5)
 - [Test Cases for LLM-Powered Multi-Agent Systems](https://infosecwriteups.com/test-cases-for-llm-powered-multi-agent-systems-4e56dde57c06?source=rss----7b722bfd1b8d---4)
 - [Unlimited Emails: A Bug That Let Me Spam Anyone =&gt;$250](https://ehteshamulhaq198.medium.com/unlimited-emails-a-bug-that-let-me-spam-anyone-250-e0d1b14ae810?source=rss------bug_bounty_writeup-5)
-- [“One Click, No Consent” — How I Unsubscribed Any User from [target.com] Without Logging In](https://cybersecuritywriteups.com/one-click-no-consent-how-i-unsubscribed-any-user-from-target-com-without-logging-in-ef4897f73158?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
