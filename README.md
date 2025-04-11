@@ -922,6 +922,16 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I Pick a Good Bug Bounty Program and Earn $$$](https://medium.com/@YourFinalSin/how-i-pick-a-good-bug-bounty-program-and-earn-dc7610bff549?source=rss------bug_bounty_writeup-5)
+- [How I Found a Reflected XSS Bug in 45 Minutes Using ChatGPT — and Earned $800](https://theindiannetwork.medium.com/how-i-found-a-reflected-xss-bug-in-45-minutes-using-chatgpt-and-earned-800-bc700c4baea8?source=rss------bug_bounty_writeup-5)
+- [How I Earned $1,000 by Exploiting a Hidden Subdomain and Chaining a CORS Misconfiguration with IDOR](https://theindiannetwork.medium.com/how-i-earned-1-000-by-exploiting-a-hidden-subdomain-and-chaining-a-cors-misconfiguration-with-idor-1dc83adf927c?source=rss------bug_bounty_writeup-5)
+- [OTP BYPASS METHODOLOGIES](https://infosecwriteups.com/otp-bypass-methodologies-3ed951d1eb12?source=rss------bug_bounty_writeup-5)
+- [Turning 403 into 200: Bypassing Filters with Base64 to Trigger XSS](https://medium.com/@EL_cazad0r/turning-403-into-200-bypassing-filters-with-base64-to-trigger-xss-adbf5f817d85?source=rss------bug_bounty_writeup-5)
+- [Bypassing an Akamai WAF to Achieve Self-XSS via CSRF Chain](https://kariiem.medium.com/bypassing-an-akamai-waf-to-achieve-self-xss-via-csrf-chain-0fd28fcb9250?source=rss------bug_bounty_writeup-5)
+- [How I Found a WordPress Database Setup via Shodan &lpar;HackerOne&rpar;](https://enterlectury.medium.com/how-i-found-a-wordpress-database-setup-via-shodan-hackerone-a5de583e2fb4?source=rss------bug_bounty_writeup-5)
+- [The $1,000,000 Bug: How I Spent 3 Months on a Single Target and Found the Most Critical Chain of My…](https://theindiannetwork.medium.com/the-1-000-000-bug-how-i-spent-3-months-on-a-single-target-and-found-the-most-critical-chain-of-my-5827cd7dc866?source=rss------bug_bounty_writeup-5)
+- [Stored HTML Injection — Email Invite Manipulation](https://ehteshamulhaq198.medium.com/stored-html-injection-email-invite-manipulation-63022e21d5db?source=rss------bug_bounty_writeup-5)
+- [I Bypassed 2FA Using an Old Secret Key — Here’s How I Earned $500](https://medium.com/@whitehat29/i-bypassed-2fa-using-an-old-secret-key-heres-how-i-earned-500-cd92c9158f1a?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
