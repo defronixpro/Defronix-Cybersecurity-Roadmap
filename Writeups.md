@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How I Pick a Good Bug Bounty Program and Earn $$$](https://medium.com/@YourFinalSin/how-i-pick-a-good-bug-bounty-program-and-earn-dc7610bff549?source=rss------bug_bounty_writeup-5)
 - [How I Found a Reflected XSS Bug in 45 Minutes Using ChatGPT — and Earned $800](https://theindiannetwork.medium.com/how-i-found-a-reflected-xss-bug-in-45-minutes-using-chatgpt-and-earned-800-bc700c4baea8?source=rss------bug_bounty_writeup-5)
 - [How I Earned $1,000 by Exploiting a Hidden Subdomain and Chaining a CORS Misconfiguration with IDOR](https://theindiannetwork.medium.com/how-i-earned-1-000-by-exploiting-a-hidden-subdomain-and-chaining-a-cors-misconfiguration-with-idor-1dc83adf927c?source=rss------bug_bounty_writeup-5)
 - [OTP BYPASS METHODOLOGIES](https://infosecwriteups.com/otp-bypass-methodologies-3ed951d1eb12?source=rss------bug_bounty_writeup-5)
@@ -17,7 +18,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How to Explain Cybersecurity to Your Technophobe Aunt &lpar;Without Eye-Rolling&rpar;](https://infosecwriteups.com/how-to-explain-cybersecurity-to-your-technophobe-aunt-without-eye-rolling-38f4e70c6bb7?source=rss----7b722bfd1b8d---4)
 - [IDOR Exposed: How a Simple ID Can Leak Millions of Records](https://infosecwriteups.com/idor-exposed-how-a-simple-id-can-leak-millions-of-records-890d9f200d0a?source=rss----7b722bfd1b8d---4)
 - [This is how i use browser to fetch JS endpoints for good paying bugs](https://infosecwriteups.com/this-is-how-i-use-browser-to-fetch-js-endpoints-for-good-paying-bugs-6bd91563f7bf?source=rss----7b722bfd1b8d---4)
-- [This is how i use browser to fetch JS endpoints for good paying bugs](https://infosecwriteups.com/this-is-how-i-use-browser-to-fetch-js-endpoints-for-good-paying-bugs-6bd91563f7bf?source=rss------bug_bounty_writeup-5)
 - [Controlling XSS Using A Secure WebSocket CLI](https://infosecwriteups.com/controlling-xss-using-a-secure-websocket-cli-3c26898fd412?source=rss----7b722bfd1b8d---4)
 - [☠️ Ransomware on AWS: Break It Down. Detect It Fast.](https://infosecwriteups.com/aws-cloud-ransomware-anatomy-of-a-digital-hostage-crisis-4805ded3ff81?source=rss----7b722bfd1b8d---4)
 - [Test Cases for LLM-Powered Multi-Agent Systems](https://infosecwriteups.com/test-cases-for-llm-powered-multi-agent-systems-4e56dde57c06?source=rss----7b722bfd1b8d---4)
