@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Found 3 IDOR Vulnerabilities in the Same Target!](https://medium.com/@mahmoudelsadey56/found-3-idor-vulnerabilities-in-the-same-target-bc79c1c33376?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Recon Starter Pack: Tools, Coffee, Existential Crisis](https://infosecwriteups.com/bug-bounty-recon-starter-pack-tools-coffee-existential-crisis-8ca172820ede?source=rss----7b722bfd1b8d---4)
 - [Flipper Zero Episode 2: What is RFID and How Does It Work?](https://infosecwriteups.com/flipper-zero-episode-2-what-is-rfid-and-how-does-it-work-1561709cc1a5?source=rss----7b722bfd1b8d---4)
 - [Bluetooth Low Energy Stack And Terminologies](https://infosecwriteups.com/bluetooth-low-energy-stack-and-terminologies-31e4e080cd2a?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Bypassing an Akamai WAF to Achieve Self-XSS via CSRF Chain](https://kariiem.medium.com/bypassing-an-akamai-waf-to-achieve-self-xss-via-csrf-chain-0fd28fcb9250?source=rss------bug_bounty_writeup-5)
 - [How I Found a WordPress Database Setup via Shodan &lpar;HackerOne&rpar;](https://enterlectury.medium.com/how-i-found-a-wordpress-database-setup-via-shodan-hackerone-a5de583e2fb4?source=rss------bug_bounty_writeup-5)
 - [The $1,000,000 Bug: How I Spent 3 Months on a Single Target and Found the Most Critical Chain of My…](https://theindiannetwork.medium.com/the-1-000-000-bug-how-i-spent-3-months-on-a-single-target-and-found-the-most-critical-chain-of-my-5827cd7dc866?source=rss------bug_bounty_writeup-5)
-- [Stored HTML Injection — Email Invite Manipulation](https://ehteshamulhaq198.medium.com/stored-html-injection-email-invite-manipulation-63022e21d5db?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
