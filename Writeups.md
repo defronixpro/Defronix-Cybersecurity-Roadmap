@@ -1,16 +1,6 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
-- [I Made $5,382 in 30 Days Hunting Bugs](https://infosecwriteups.com/i-made-5-382-in-30-days-hunting-bugs-ba770a5d895a?source=rss----7b722bfd1b8d---4)
-- [$500-$10k worth Path Traversal | Advanced Methodology](https://infosecwriteups.com/500-10k-worth-path-traversal-advanced-methodology-dd80c18c5539?source=rss----7b722bfd1b8d---4)
-- [The $1,000 Bug: How I Discovered a Critical Security Flaw &lpar;Step-by-Step Guide&rpar;](https://infosecwriteups.com/the-1-000-bug-how-i-discovered-a-critical-security-flaw-step-by-step-guide-89808934e622?source=rss----7b722bfd1b8d---4)
-- [Passing OffSec’s OSWA: A Review and Prep Tips](https://infosecwriteups.com/passing-offsecs-oswa-a-review-and-prep-tips-33a48d768ebb?source=rss----7b722bfd1b8d---4)
-- [How to Securely Wipe Your Old Devices Before Selling: A Story About Ghosts in the Machine](https://infosecwriteups.com/how-to-securely-wipe-your-old-devices-before-selling-a-story-about-ghosts-in-the-machine-b8f539404d66?source=rss----7b722bfd1b8d---4)
-- [$100-$1000 Worth Subdomain Takeover | Easy Bounty Methodology](https://infosecwriteups.com/100-1000-worth-subdomain-takeover-easy-bounty-methodology-6daf9beacb31?source=rss----7b722bfd1b8d---4)
-- [SOC Automation Part 3: How to Configure Wazuh and TheHive for Windows Alerts](https://infosecwriteups.com/soc-automation-part-3-how-to-configure-wazuh-and-thehive-for-windows-alerts-c683f54d3c3a?source=rss----7b722bfd1b8d---4)
-- [Creating Rules and Alerts in the ELK — Part 4.2](https://infosecwriteups.com/creating-rules-and-alerts-in-the-elk-part-4-2-050ee06bc468?source=rss----7b722bfd1b8d---4)
-- [From Broken Code to SQL Showdown: How I Found Critical Blind Injection](https://infosecwriteups.com/from-broken-code-to-sql-showdown-how-i-found-critical-blind-injection-9ae06e5e7010?source=rss----7b722bfd1b8d---4)
-- [️ Pixel Poisoning: Hacking Generative AI](https://infosecwriteups.com/%EF%B8%8F-pixel-poisoning-hacking-generative-ai-11f86cb73a30?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
