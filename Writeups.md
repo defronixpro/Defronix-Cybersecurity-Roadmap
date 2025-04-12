@@ -1,6 +1,10 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Bug Bounty Recon Starter Pack: Tools, Coffee, Existential Crisis](https://infosecwriteups.com/bug-bounty-recon-starter-pack-tools-coffee-existential-crisis-8ca172820ede?source=rss----7b722bfd1b8d---4)
+- [Flipper Zero Episode 2: What is RFID and How Does It Work?](https://infosecwriteups.com/flipper-zero-episode-2-what-is-rfid-and-how-does-it-work-1561709cc1a5?source=rss----7b722bfd1b8d---4)
+- [Bluetooth Low Energy Stack And Terminologies](https://infosecwriteups.com/bluetooth-low-energy-stack-and-terminologies-31e4e080cd2a?source=rss----7b722bfd1b8d---4)
+- [5 Web Vulnerabilities That Paid Me the Most &lpar;And How to Find Them!&rpar;](https://infosecwriteups.com/5-web-vulnerabilities-that-paid-me-the-most-and-how-to-find-them-42f3f922740d?source=rss----7b722bfd1b8d---4)
 - [OTP BYPASS METHODOLOGIES](https://infosecwriteups.com/otp-bypass-methodologies-3ed951d1eb12?source=rss----7b722bfd1b8d---4)
 - [Malware Persistence: How Hackers Stay Alive on Your System &lpar;And How to Stop Them&rpar;](https://infosecwriteups.com/malware-persistence-how-hackers-stay-alive-on-your-system-and-how-to-stop-them-31d684569868?source=rss----7b722bfd1b8d---4)
 - [How I Got Access to Other Person’s Chat History and Chat Environment!](https://hiddendom.medium.com/how-i-got-access-to-other-persons-chat-history-and-chat-environment-f333cc29f3df?source=rss------bug_bounty_writeup-5)
@@ -8,10 +12,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [$500-$10k worth Path Traversal | Advanced Methodology](https://infosecwriteups.com/500-10k-worth-path-traversal-advanced-methodology-dd80c18c5539?source=rss----7b722bfd1b8d---4)
 - [The $1,000 Bug: How I Discovered a Critical Security Flaw &lpar;Step-by-Step Guide&rpar;](https://infosecwriteups.com/the-1-000-bug-how-i-discovered-a-critical-security-flaw-step-by-step-guide-89808934e622?source=rss----7b722bfd1b8d---4)
 - [Passing OffSec’s OSWA: A Review and Prep Tips](https://infosecwriteups.com/passing-offsecs-oswa-a-review-and-prep-tips-33a48d768ebb?source=rss----7b722bfd1b8d---4)
-- [How to Securely Wipe Your Old Devices Before Selling: A Story About Ghosts in the Machine](https://infosecwriteups.com/how-to-securely-wipe-your-old-devices-before-selling-a-story-about-ghosts-in-the-machine-b8f539404d66?source=rss----7b722bfd1b8d---4)
-- [$100-$1000 Worth Subdomain Takeover | Easy Bounty Methodology](https://infosecwriteups.com/100-1000-worth-subdomain-takeover-easy-bounty-methodology-6daf9beacb31?source=rss----7b722bfd1b8d---4)
-- [SOC Automation Part 3: How to Configure Wazuh and TheHive for Windows Alerts](https://infosecwriteups.com/soc-automation-part-3-how-to-configure-wazuh-and-thehive-for-windows-alerts-c683f54d3c3a?source=rss----7b722bfd1b8d---4)
-- [Creating Rules and Alerts in the ELK — Part 4.2](https://infosecwriteups.com/creating-rules-and-alerts-in-the-elk-part-4-2-050ee06bc468?source=rss----7b722bfd1b8d---4)
 - [How I Pick a Good Bug Bounty Program and Earn $$$](https://medium.com/@YourFinalSin/how-i-pick-a-good-bug-bounty-program-and-earn-dc7610bff549?source=rss------bug_bounty_writeup-5)
 - [How I Found a Reflected XSS Bug in 45 Minutes Using ChatGPT — and Earned $800](https://theindiannetwork.medium.com/how-i-found-a-reflected-xss-bug-in-45-minutes-using-chatgpt-and-earned-800-bc700c4baea8?source=rss------bug_bounty_writeup-5)
 - [How I Earned $1,000 by Exploiting a Hidden Subdomain and Chaining a CORS Misconfiguration with IDOR](https://theindiannetwork.medium.com/how-i-earned-1-000-by-exploiting-a-hidden-subdomain-and-chaining-a-cors-misconfiguration-with-idor-1dc83adf927c?source=rss------bug_bounty_writeup-5)
