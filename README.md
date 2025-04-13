@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Bypass Rate Limit on Reset Password Feature Using X-Forwarded-For Header](https://ilhamm0a.medium.com/bypass-rate-limit-on-reset-password-feature-using-x-forwarded-for-header-ff01e0c010f3?source=rss------bug_bounty_writeup-5)
+- [Spynote, BadBazaar &amp; Moonshine: The Malware Mafia That’s Eyeing Your Phone](https://medium.com/@thecyberghost/spynote-badbazaar-moonshine-the-malware-mafia-thats-eyeing-your-phone-6b98eafb1af7?source=rss------bug_bounty_writeup-5)
 - [Stored XSS — Escalated from High to Critical](https://medium.com/@YourFinalSin/stored-xss-escalated-from-high-to-critical-079b5ab44444?source=rss------bug_bounty_writeup-5)
 - [Found 3 IDOR Vulnerabilities in the Same Target!](https://medium.com/@mahmoudelsadey56/found-3-idor-vulnerabilities-in-the-same-target-bc79c1c33376?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Recon Starter Pack: Tools, Coffee, Existential Crisis](https://infosecwriteups.com/bug-bounty-recon-starter-pack-tools-coffee-existential-crisis-8ca172820ede?source=rss----7b722bfd1b8d---4)
@@ -940,8 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How I Earned $1,000 by Exploiting a Hidden Subdomain and Chaining a CORS Misconfiguration with IDOR](https://theindiannetwork.medium.com/how-i-earned-1-000-by-exploiting-a-hidden-subdomain-and-chaining-a-cors-misconfiguration-with-idor-1dc83adf927c?source=rss------bug_bounty_writeup-5)
 - [OTP BYPASS METHODOLOGIES](https://infosecwriteups.com/otp-bypass-methodologies-3ed951d1eb12?source=rss------bug_bounty_writeup-5)
 - [Turning 403 into 200: Bypassing Filters with Base64 to Trigger XSS](https://medium.com/@EL_cazad0r/turning-403-into-200-bypassing-filters-with-base64-to-trigger-xss-adbf5f817d85?source=rss------bug_bounty_writeup-5)
-- [Bypassing an Akamai WAF to Achieve Self-XSS via CSRF Chain](https://kariiem.medium.com/bypassing-an-akamai-waf-to-achieve-self-xss-via-csrf-chain-0fd28fcb9250?source=rss------bug_bounty_writeup-5)
-- [How I Found a WordPress Database Setup via Shodan &lpar;HackerOne&rpar;](https://enterlectury.medium.com/how-i-found-a-wordpress-database-setup-via-shodan-hackerone-a5de583e2fb4?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
