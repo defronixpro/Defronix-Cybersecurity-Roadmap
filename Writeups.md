@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [The Hidden XSS: A Bug Hidden in the Mist](https://infosecwriteups.com/the-hidden-xss-a-bug-hidden-in-the-mist-907d6cc55322?source=rss----7b722bfd1b8d---4)
 - [One Random Recon, One Real Bounty: The Paytm Story](https://infosecwriteups.com/ghost-paytm-xss-bounty-4f5efe6a643b?source=rss----7b722bfd1b8d---4)
 - [How Burp Suite AI Makes Vulnerability Testing Easy and Fast](https://infosecwriteups.com/how-burp-suite-ai-makes-vulnerability-testing-easy-and-fast-03b6ca0ca6e5?source=rss----7b722bfd1b8d---4)
 - [How I Found a Bug in a Government Website &lpar;And Got Recognized for It&rpar; ️&rpar;](https://infosecwriteups.com/how-i-found-a-bug-in-a-government-website-and-got-recognized-for-it-%EF%B8%8F-2f057a99f458?source=rss----7b722bfd1b8d---4)
@@ -10,7 +11,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [HTB: Business CTF 2024 — Tangled Heist](https://infosecwriteups.com/htb-business-ctf-2024-tangled-heist-281eb0934d2d?source=rss----7b722bfd1b8d---4)
 - [How My Name Crashed a Welcome Party: SSI to RCE Surprise! with $$$$](https://infosecwriteups.com/how-my-name-crashed-a-welcome-party-ssi-to-rce-surprise-with-f9b8a05ad138?source=rss----7b722bfd1b8d---4)
 - [Exposed and Ignored: How a JavaScript API Key Gave Me Full Cloud Access ☁️](https://infosecwriteups.com/exposed-and-ignored-how-a-javascript-api-key-gave-me-full-cloud-access-%EF%B8%8F-e00a7301ffb6?source=rss----7b722bfd1b8d---4)
-- [Learn to Navigate the Linux Terminal with Confidence Using Built-in Tools and Practical Tips](https://infosecwriteups.com/learn-to-navigate-the-linux-terminal-with-confidence-using-built-in-tools-and-practical-tips-bb2ae7ac5ee5?source=rss----7b722bfd1b8d---4)
 - [Bypass no rate limit &amp; get Application-Level DDoS Vulnerability](https://frostyxsec.medium.com/bypass-no-rate-limit-get-application-level-ddos-vulnerability-bb4bae99f3a4?source=rss------bug_bounty_writeup-5)
 - [Bypass Rate Limit on Reset Password Feature Using X-Forwarded-For Header](https://ilhamm0a.medium.com/bypass-rate-limit-on-reset-password-feature-using-x-forwarded-for-header-ff01e0c010f3?source=rss------bug_bounty_writeup-5)
 - [Spynote, BadBazaar &amp; Moonshine: The Malware Mafia That’s Eyeing Your Phone](https://medium.com/@thecyberghost/spynote-badbazaar-moonshine-the-malware-mafia-thats-eyeing-your-phone-6b98eafb1af7?source=rss------bug_bounty_writeup-5)
