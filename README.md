@@ -922,6 +922,16 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [The Hidden XSS: A Bug Hidden in the Mist](https://infosecwriteups.com/the-hidden-xss-a-bug-hidden-in-the-mist-907d6cc55322?source=rss----7b722bfd1b8d---4)
+- [One Random Recon, One Real Bounty: The Paytm Story](https://infosecwriteups.com/ghost-paytm-xss-bounty-4f5efe6a643b?source=rss----7b722bfd1b8d---4)
+- [How Burp Suite AI Makes Vulnerability Testing Easy and Fast](https://infosecwriteups.com/how-burp-suite-ai-makes-vulnerability-testing-easy-and-fast-03b6ca0ca6e5?source=rss----7b722bfd1b8d---4)
+- [How I Found a Bug in a Government Website &lpar;And Got Recognized for It&rpar; ️&rpar;](https://infosecwriteups.com/how-i-found-a-bug-in-a-government-website-and-got-recognized-for-it-%EF%B8%8F-2f057a99f458?source=rss----7b722bfd1b8d---4)
+- [Mastering C2 Redirectors: A Red &amp; Blue Teamer’s Guide](https://infosecwriteups.com/mastering-c2-redirectors-a-red-blue-teamers-guide-3e1c6d34ecc8?source=rss----7b722bfd1b8d---4)
+- [A Hacker’s Instinct: The Power You Unlock When You Stop Looking and Start Seeing](https://infosecwriteups.com/a-hackers-instinct-the-power-you-unlock-when-you-stop-looking-and-start-seeing-2715865e13f7?source=rss----7b722bfd1b8d---4)
+- [Hacking Lakera Gandalf: A Level-wise Walkthrough of AI Prompt Injection](https://infosecwriteups.com/hacking-lakera-gandalf-a-level-wise-walkthrough-of-ai-prompt-injection-c082b61f2f34?source=rss----7b722bfd1b8d---4)
+- [HTB: Business CTF 2024 — Tangled Heist](https://infosecwriteups.com/htb-business-ctf-2024-tangled-heist-281eb0934d2d?source=rss----7b722bfd1b8d---4)
+- [How My Name Crashed a Welcome Party: SSI to RCE Surprise! with $$$$](https://infosecwriteups.com/how-my-name-crashed-a-welcome-party-ssi-to-rce-surprise-with-f9b8a05ad138?source=rss----7b722bfd1b8d---4)
+- [Exposed and Ignored: How a JavaScript API Key Gave Me Full Cloud Access ☁️](https://infosecwriteups.com/exposed-and-ignored-how-a-javascript-api-key-gave-me-full-cloud-access-%EF%B8%8F-e00a7301ffb6?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
