@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Stored XSS — Escalated from High to Critical](https://medium.com/@YourFinalSin/stored-xss-escalated-from-high-to-critical-079b5ab44444?source=rss------bug_bounty_writeup-5)
 - [Found 3 IDOR Vulnerabilities in the Same Target!](https://medium.com/@mahmoudelsadey56/found-3-idor-vulnerabilities-in-the-same-target-bc79c1c33376?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Recon Starter Pack: Tools, Coffee, Existential Crisis](https://infosecwriteups.com/bug-bounty-recon-starter-pack-tools-coffee-existential-crisis-8ca172820ede?source=rss----7b722bfd1b8d---4)
 - [Flipper Zero Episode 2: What is RFID and How Does It Work?](https://infosecwriteups.com/flipper-zero-episode-2-what-is-rfid-and-how-does-it-work-1561709cc1a5?source=rss----7b722bfd1b8d---4)
@@ -929,7 +930,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [5 Web Vulnerabilities That Paid Me the Most &lpar;And How to Find Them!&rpar;](https://infosecwriteups.com/5-web-vulnerabilities-that-paid-me-the-most-and-how-to-find-them-42f3f922740d?source=rss----7b722bfd1b8d---4)
 - [OTP BYPASS METHODOLOGIES](https://infosecwriteups.com/otp-bypass-methodologies-3ed951d1eb12?source=rss----7b722bfd1b8d---4)
 - [Malware Persistence: How Hackers Stay Alive on Your System &lpar;And How to Stop Them&rpar;](https://infosecwriteups.com/malware-persistence-how-hackers-stay-alive-on-your-system-and-how-to-stop-them-31d684569868?source=rss----7b722bfd1b8d---4)
-- [How I Got Access to Other Person’s Chat History and Chat Environment!](https://hiddendom.medium.com/how-i-got-access-to-other-persons-chat-history-and-chat-environment-f333cc29f3df?source=rss------bug_bounty_writeup-5)
+- [How I Got Access to Other Person’s Chat History and Chat Environment!](https://osintteam.blog/how-i-got-access-to-other-persons-chat-history-and-chat-environment-f333cc29f3df?source=rss------bug_bounty_writeup-5)
 - [I Made $5,382 in 30 Days Hunting Bugs](https://infosecwriteups.com/i-made-5-382-in-30-days-hunting-bugs-ba770a5d895a?source=rss----7b722bfd1b8d---4)
 - [$500-$10k worth Path Traversal | Advanced Methodology](https://infosecwriteups.com/500-10k-worth-path-traversal-advanced-methodology-dd80c18c5539?source=rss----7b722bfd1b8d---4)
 - [The $1,000 Bug: How I Discovered a Critical Security Flaw &lpar;Step-by-Step Guide&rpar;](https://infosecwriteups.com/the-1-000-bug-how-i-discovered-a-critical-security-flaw-step-by-step-guide-89808934e622?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Turning 403 into 200: Bypassing Filters with Base64 to Trigger XSS](https://medium.com/@EL_cazad0r/turning-403-into-200-bypassing-filters-with-base64-to-trigger-xss-adbf5f817d85?source=rss------bug_bounty_writeup-5)
 - [Bypassing an Akamai WAF to Achieve Self-XSS via CSRF Chain](https://kariiem.medium.com/bypassing-an-akamai-waf-to-achieve-self-xss-via-csrf-chain-0fd28fcb9250?source=rss------bug_bounty_writeup-5)
 - [How I Found a WordPress Database Setup via Shodan &lpar;HackerOne&rpar;](https://enterlectury.medium.com/how-i-found-a-wordpress-database-setup-via-shodan-hackerone-a5de583e2fb4?source=rss------bug_bounty_writeup-5)
-- [The $1,000,000 Bug: How I Spent 3 Months on a Single Target and Found the Most Critical Chain of My…](https://theindiannetwork.medium.com/the-1-000-000-bug-how-i-spent-3-months-on-a-single-target-and-found-the-most-critical-chain-of-my-5827cd7dc866?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
