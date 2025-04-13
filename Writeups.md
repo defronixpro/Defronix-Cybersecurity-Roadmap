@@ -8,7 +8,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [5 Web Vulnerabilities That Paid Me the Most &lpar;And How to Find Them!&rpar;](https://infosecwriteups.com/5-web-vulnerabilities-that-paid-me-the-most-and-how-to-find-them-42f3f922740d?source=rss----7b722bfd1b8d---4)
 - [OTP BYPASS METHODOLOGIES](https://infosecwriteups.com/otp-bypass-methodologies-3ed951d1eb12?source=rss----7b722bfd1b8d---4)
 - [Malware Persistence: How Hackers Stay Alive on Your System &lpar;And How to Stop Them&rpar;](https://infosecwriteups.com/malware-persistence-how-hackers-stay-alive-on-your-system-and-how-to-stop-them-31d684569868?source=rss----7b722bfd1b8d---4)
-- [How I Got Access to Other Person’s Chat History and Chat Environment!](https://hiddendom.medium.com/how-i-got-access-to-other-persons-chat-history-and-chat-environment-f333cc29f3df?source=rss------bug_bounty_writeup-5)
+- [How I Got Access to Other Person’s Chat History and Chat Environment!](https://osintteam.blog/how-i-got-access-to-other-persons-chat-history-and-chat-environment-f333cc29f3df?source=rss------bug_bounty_writeup-5)
 - [I Made $5,382 in 30 Days Hunting Bugs](https://infosecwriteups.com/i-made-5-382-in-30-days-hunting-bugs-ba770a5d895a?source=rss----7b722bfd1b8d---4)
 - [$500-$10k worth Path Traversal | Advanced Methodology](https://infosecwriteups.com/500-10k-worth-path-traversal-advanced-methodology-dd80c18c5539?source=rss----7b722bfd1b8d---4)
 - [The $1,000 Bug: How I Discovered a Critical Security Flaw &lpar;Step-by-Step Guide&rpar;](https://infosecwriteups.com/the-1-000-bug-how-i-discovered-a-critical-security-flaw-step-by-step-guide-89808934e622?source=rss----7b722bfd1b8d---4)
