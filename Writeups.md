@@ -1,6 +1,9 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [️‍♂️ Bug Bounty Secrets They Don’t Tell You: Tricks From 100+ Reported Bugs](https://infosecwriteups.com/%EF%B8%8F-%EF%B8%8F-bug-bounty-secrets-they-dont-tell-you-tricks-from-100-reported-bugs-603e4a6bb84f?source=rss----7b722bfd1b8d---4)
+- [Title: My Love Life Failed, But Host Header Injection Didn&#39;t: How AI Helped Me Pwn Server…](https://infosecwriteups.com/title-my-love-life-failed-but-host-header-injection-didnt-how-ai-helped-me-pwn-server-bc504e3daf0d?source=rss----7b722bfd1b8d---4)
+- [Bypass no rate limit &amp; get Application-Level DDoS Vulnerability](https://frostyxsec.medium.com/bypass-no-rate-limit-get-application-level-ddos-vulnerability-bb4bae99f3a4?source=rss------bug_bounty_writeup-5)
 - [Bypass Rate Limit on Reset Password Feature Using X-Forwarded-For Header](https://ilhamm0a.medium.com/bypass-rate-limit-on-reset-password-feature-using-x-forwarded-for-header-ff01e0c010f3?source=rss------bug_bounty_writeup-5)
 - [Spynote, BadBazaar &amp; Moonshine: The Malware Mafia That’s Eyeing Your Phone](https://medium.com/@thecyberghost/spynote-badbazaar-moonshine-the-malware-mafia-thats-eyeing-your-phone-6b98eafb1af7?source=rss------bug_bounty_writeup-5)
 - [Stored XSS — Escalated from High to Critical](https://medium.com/@YourFinalSin/stored-xss-escalated-from-high-to-critical-079b5ab44444?source=rss------bug_bounty_writeup-5)
@@ -14,13 +17,10 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How I Got Access to Other Person’s Chat History and Chat Environment!](https://osintteam.blog/how-i-got-access-to-other-persons-chat-history-and-chat-environment-f333cc29f3df?source=rss------bug_bounty_writeup-5)
 - [I Made $5,382 in 30 Days Hunting Bugs](https://infosecwriteups.com/i-made-5-382-in-30-days-hunting-bugs-ba770a5d895a?source=rss----7b722bfd1b8d---4)
 - [$500-$10k worth Path Traversal | Advanced Methodology](https://infosecwriteups.com/500-10k-worth-path-traversal-advanced-methodology-dd80c18c5539?source=rss----7b722bfd1b8d---4)
-- [The $1,000 Bug: How I Discovered a Critical Security Flaw &lpar;Step-by-Step Guide&rpar;](https://infosecwriteups.com/the-1-000-bug-how-i-discovered-a-critical-security-flaw-step-by-step-guide-89808934e622?source=rss----7b722bfd1b8d---4)
-- [Passing OffSec’s OSWA: A Review and Prep Tips](https://infosecwriteups.com/passing-offsecs-oswa-a-review-and-prep-tips-33a48d768ebb?source=rss----7b722bfd1b8d---4)
 - [How I Pick a Good Bug Bounty Program and Earn $$$](https://medium.com/@YourFinalSin/how-i-pick-a-good-bug-bounty-program-and-earn-dc7610bff549?source=rss------bug_bounty_writeup-5)
 - [How I Found a Reflected XSS Bug in 45 Minutes Using ChatGPT — and Earned $800](https://theindiannetwork.medium.com/how-i-found-a-reflected-xss-bug-in-45-minutes-using-chatgpt-and-earned-800-bc700c4baea8?source=rss------bug_bounty_writeup-5)
 - [How I Earned $1,000 by Exploiting a Hidden Subdomain and Chaining a CORS Misconfiguration with IDOR](https://theindiannetwork.medium.com/how-i-earned-1-000-by-exploiting-a-hidden-subdomain-and-chaining-a-cors-misconfiguration-with-idor-1dc83adf927c?source=rss------bug_bounty_writeup-5)
 - [OTP BYPASS METHODOLOGIES](https://infosecwriteups.com/otp-bypass-methodologies-3ed951d1eb12?source=rss------bug_bounty_writeup-5)
-- [Turning 403 into 200: Bypassing Filters with Base64 to Trigger XSS](https://medium.com/@EL_cazad0r/turning-403-into-200-bypassing-filters-with-base64-to-trigger-xss-adbf5f817d85?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
