@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Google Gemini iOS Vulnerability: Public Link Sharing Silently Leaks Entire Conversations](https://medium.com/@warisjeet31/google-gemini-ios-vulnerability-public-link-sharing-silently-leaks-entire-conversations-e1f80cbea25c?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty | Istifadəçi hesablarının oğurlanmasına səbəb ola biləcək bir boşluq tapdım &lpar;Account…](https://zeynalxan.medium.com/bug-bounty-istifad%C9%99%C3%A7i-hesablar%C4%B1n%C4%B1n-o%C4%9Furlanmas%C4%B1na-s%C9%99b%C9%99b-ola-bil%C9%99c%C9%99k-bir-bo%C5%9Fluq-tapd%C4%B1m-account-2693a2aa2520?source=rss------bug_bounty_writeup-5)
 - [Exposed Session Tokens via Misconfigured Endpoint](https://ehteshamulhaq198.medium.com/exposed-session-tokens-via-misconfigured-endpoint-c6676b79476e?source=rss------bug_bounty_writeup-5)
 - [How to Spot a Phishing Email in 5 Seconds &lpar;Real Examples&rpar;](https://infosecwriteups.com/how-to-spot-a-phishing-email-in-5-seconds-real-examples-71c3257a6eb6?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Spynote, BadBazaar &amp; Moonshine: The Malware Mafia That’s Eyeing Your Phone](https://medium.com/@thecyberghost/spynote-badbazaar-moonshine-the-malware-mafia-thats-eyeing-your-phone-6b98eafb1af7?source=rss------bug_bounty_writeup-5)
 - [Stored XSS — Escalated from High to Critical](https://medium.com/@YourFinalSin/stored-xss-escalated-from-high-to-critical-079b5ab44444?source=rss------bug_bounty_writeup-5)
 - [Found 3 IDOR Vulnerabilities in the Same Target!](https://medium.com/@mahmoudelsadey56/found-3-idor-vulnerabilities-in-the-same-target-bc79c1c33376?source=rss------bug_bounty_writeup-5)
-- [How I Got Access to Other Person’s Chat History and Chat Environment!](https://osintteam.blog/how-i-got-access-to-other-persons-chat-history-and-chat-environment-f333cc29f3df?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
