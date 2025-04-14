@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Exposed Session Tokens via Misconfigured Endpoint](https://ehteshamulhaq198.medium.com/exposed-session-tokens-via-misconfigured-endpoint-c6676b79476e?source=rss------bug_bounty_writeup-5)
 - [How to Spot a Phishing Email in 5 Seconds &lpar;Real Examples&rpar;](https://infosecwriteups.com/how-to-spot-a-phishing-email-in-5-seconds-real-examples-71c3257a6eb6?source=rss----7b722bfd1b8d---4)
 - [$10,000 worth GitHub Access Tokens | Secret Search Operators](https://infosecwriteups.com/10-000-worth-github-access-tokens-secret-search-operators-c67b09062a38?source=rss----7b722bfd1b8d---4)
 - [MisCloud — HackTheBox Sherlock Writeup](https://infosecwriteups.com/miscloud-hackthebox-sherlock-writeup-bea5403dbcc2?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Found 3 IDOR Vulnerabilities in the Same Target!](https://medium.com/@mahmoudelsadey56/found-3-idor-vulnerabilities-in-the-same-target-bc79c1c33376?source=rss------bug_bounty_writeup-5)
 - [How I Got Access to Other Person’s Chat History and Chat Environment!](https://osintteam.blog/how-i-got-access-to-other-persons-chat-history-and-chat-environment-f333cc29f3df?source=rss------bug_bounty_writeup-5)
 - [How I Pick a Good Bug Bounty Program and Earn $$$](https://medium.com/@YourFinalSin/how-i-pick-a-good-bug-bounty-program-and-earn-dc7610bff549?source=rss------bug_bounty_writeup-5)
-- [How I Found a Reflected XSS Bug in 45 Minutes Using ChatGPT — and Earned $800](https://theindiannetwork.medium.com/how-i-found-a-reflected-xss-bug-in-45-minutes-using-chatgpt-and-earned-800-bc700c4baea8?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
