@@ -922,18 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [How to Spot a Phishing Email in 5 Seconds &lpar;Real Examples&rpar;](https://infosecwriteups.com/how-to-spot-a-phishing-email-in-5-seconds-real-examples-71c3257a6eb6?source=rss----7b722bfd1b8d---4)
-- [$10,000 worth GitHub Access Tokens | Secret Search Operators](https://infosecwriteups.com/10-000-worth-github-access-tokens-secret-search-operators-c67b09062a38?source=rss----7b722bfd1b8d---4)
-- [MisCloud — HackTheBox Sherlock Writeup](https://infosecwriteups.com/miscloud-hackthebox-sherlock-writeup-bea5403dbcc2?source=rss----7b722bfd1b8d---4)
-- [A Complete Guide to Securing Secrets in AWS Lambda](https://infosecwriteups.com/a-complete-guide-to-securing-secrets-in-aws-lambda-35304a133592?source=rss----7b722bfd1b8d---4)
-- [Fast Flux: The DNS Botnet Technique Alarming National Security Agencies](https://infosecwriteups.com/fast-flux-the-dns-botnet-technique-alarming-national-security-agencies-2a93f35f7b48?source=rss----7b722bfd1b8d---4)
-- [Think You’re Safe? Here’s How Hackers Actually Break Into Your Accounts in 2025](https://infosecwriteups.com/think-youre-safe-here-s-how-hackers-actually-break-into-your-accounts-in-2025-1495403abb8d?source=rss----7b722bfd1b8d---4)
 - [From Admin to Ghost: Post-Removal Access Control Bypass in Team Management Functionality](https://medium.com/@nhlimon37/from-admin-to-ghost-post-removal-access-control-bypass-in-team-management-functionality-155e3d7faf0d?source=rss------bug_bounty_writeup-5)
 - [From “Buck Bounty?” to My First Real Bug Bounty](https://medium.com/@bgsswqyh/from-buck-bounty-to-my-first-real-bug-bounty-7490f1907541?source=rss------bug_bounty_writeup-5)
-- [The Hidden XSS: A Bug Hidden in the Mist](https://infosecwriteups.com/the-hidden-xss-a-bug-hidden-in-the-mist-907d6cc55322?source=rss----7b722bfd1b8d---4)
-- [One Random Recon, One Real Bounty: The Paytm Story](https://infosecwriteups.com/ghost-paytm-xss-bounty-4f5efe6a643b?source=rss----7b722bfd1b8d---4)
-- [How Burp Suite AI Makes Vulnerability Testing Easy and Fast](https://infosecwriteups.com/how-burp-suite-ai-makes-vulnerability-testing-easy-and-fast-03b6ca0ca6e5?source=rss----7b722bfd1b8d---4)
-- [How I Found a Bug in a Government Website &lpar;And Got Recognized for It&rpar; ️&rpar;](https://infosecwriteups.com/how-i-found-a-bug-in-a-government-website-and-got-recognized-for-it-%EF%B8%8F-2f057a99f458?source=rss----7b722bfd1b8d---4)
 - [Bypass rate limit &amp; get Application-Level DDoS Vulnerability](https://frostyxsec.medium.com/bypass-no-rate-limit-get-application-level-ddos-vulnerability-bb4bae99f3a4?source=rss------bug_bounty_writeup-5)
 - [Bypass Rate Limit on Reset Password Feature Using X-Forwarded-For Header](https://ilhamm0a.medium.com/bypass-rate-limit-on-reset-password-feature-using-x-forwarded-for-header-ff01e0c010f3?source=rss------bug_bounty_writeup-5)
 - [Spynote, BadBazaar &amp; Moonshine: The Malware Mafia That’s Eyeing Your Phone](https://medium.com/@thecyberghost/spynote-badbazaar-moonshine-the-malware-mafia-thats-eyeing-your-phone-6b98eafb1af7?source=rss------bug_bounty_writeup-5)
