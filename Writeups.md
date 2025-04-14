@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [From “Buck Bounty?” to My First Real Bug Bounty](https://medium.com/@bgsswqyh/from-buck-bounty-to-my-first-real-bug-bounty-7490f1907541?source=rss------bug_bounty_writeup-5)
 - [The Hidden XSS: A Bug Hidden in the Mist](https://infosecwriteups.com/the-hidden-xss-a-bug-hidden-in-the-mist-907d6cc55322?source=rss----7b722bfd1b8d---4)
 - [One Random Recon, One Real Bounty: The Paytm Story](https://infosecwriteups.com/ghost-paytm-xss-bounty-4f5efe6a643b?source=rss----7b722bfd1b8d---4)
 - [How Burp Suite AI Makes Vulnerability Testing Easy and Fast](https://infosecwriteups.com/how-burp-suite-ai-makes-vulnerability-testing-easy-and-fast-03b6ca0ca6e5?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How I Pick a Good Bug Bounty Program and Earn $$$](https://medium.com/@YourFinalSin/how-i-pick-a-good-bug-bounty-program-and-earn-dc7610bff549?source=rss------bug_bounty_writeup-5)
 - [How I Found a Reflected XSS Bug in 45 Minutes Using ChatGPT — and Earned $800](https://theindiannetwork.medium.com/how-i-found-a-reflected-xss-bug-in-45-minutes-using-chatgpt-and-earned-800-bc700c4baea8?source=rss------bug_bounty_writeup-5)
 - [How I Earned $1,000 by Exploiting a Hidden Subdomain and Chaining a CORS Misconfiguration with IDOR](https://theindiannetwork.medium.com/how-i-earned-1-000-by-exploiting-a-hidden-subdomain-and-chaining-a-cors-misconfiguration-with-idor-1dc83adf927c?source=rss------bug_bounty_writeup-5)
-- [OTP BYPASS METHODOLOGIES](https://infosecwriteups.com/otp-bypass-methodologies-3ed951d1eb12?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
