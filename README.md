@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [“How to Find Hidden API Endpoints and Secrets in JavaScript Files for Bug Bounties &amp; Web App…](https://hackersatty.medium.com/how-to-find-hidden-api-endpoints-and-secrets-in-javascript-files-for-bug-bounties-web-app-f4ea92d16954?source=rss------bug_bounty_writeup-5)
 - [Bypass File Attachment Restrictions in Google Groups via Email Posting | Bug Bounty](https://infosecwriteups.com/bypass-file-attachment-restrictions-in-google-groups-via-email-posting-bug-bounty-5d96fe39e46d?source=rss----7b722bfd1b8d---4)
 - [1-CLick OAuth Token Hijacking via Google Apps Script – A Design Flaw Ignored? | Bug Bounty](https://infosecwriteups.com/1-click-oauth-token-hijacking-via-google-apps-script-a-design-flaw-ignored-bug-bounty-02c6997254ff?source=rss----7b722bfd1b8d---4)
 - [Linux for Penetration Testing: Setting Up Parrot OS](https://infosecwriteups.com/linux-for-penetration-testing-setting-up-parrot-os-072c77d2057f?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [From Admin to Ghost: Post-Removal Access Control Bypass in Team Management Functionality](https://medium.com/@nhlimon37/from-admin-to-ghost-post-removal-access-control-bypass-in-team-management-functionality-155e3d7faf0d?source=rss------bug_bounty_writeup-5)
 - [From “Buck Bounty?” to My First Real Bug Bounty](https://medium.com/@bgsswqyh/from-buck-bounty-to-my-first-real-bug-bounty-7490f1907541?source=rss------bug_bounty_writeup-5)
 - [Bypass rate limit &amp; get Application-Level DDoS Vulnerability](https://frostyxsec.medium.com/bypass-no-rate-limit-get-application-level-ddos-vulnerability-bb4bae99f3a4?source=rss------bug_bounty_writeup-5)
-- [Bypass Rate Limit on Reset Password Feature Using X-Forwarded-For Header](https://ilhamm0a.medium.com/bypass-rate-limit-on-reset-password-feature-using-x-forwarded-for-header-ff01e0c010f3?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
