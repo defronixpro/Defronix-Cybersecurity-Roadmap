@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [BugBounty Directory](https://medium.com/@abhishekY495/bugbounty-directory-35609687204c?source=rss------bug_bounty_writeup-5)
 - [OWASP Top 10 for LLMs in 2025: Security Test Cases You Must Know](https://infosecwriteups.com/owasp-top-10-for-llms-in-2025-security-test-cases-you-must-know-ef2cb6d1bbda?source=rss----7b722bfd1b8d---4)
 - [Click, Recon, Jackpot! ️‍♂️ How a Subdomain Led Me to an S3 Treasure Trove](https://infosecwriteups.com/click-recon-jackpot-%EF%B8%8F-%EF%B8%8F-how-a-subdomain-led-me-to-an-s3-treasure-trove-2f65c3a80010?source=rss----7b722bfd1b8d---4)
 - [⚡️Oops, They Logged It!  Turning LFI into Remote Shell Like a Pro ⚔️](https://infosecwriteups.com/%EF%B8%8Foops-they-logged-it-turning-lfi-into-remote-shell-like-a-pro-%EF%B8%8F-272e81c5315f?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [From “Buck Bounty?” to My First Real Bug Bounty](https://medium.com/@bgsswqyh/from-buck-bounty-to-my-first-real-bug-bounty-7490f1907541?source=rss------bug_bounty_writeup-5)
 - [Bypass rate limit &amp; get Application-Level DDoS Vulnerability](https://frostyxsec.medium.com/bypass-no-rate-limit-get-application-level-ddos-vulnerability-bb4bae99f3a4?source=rss------bug_bounty_writeup-5)
 - [Bypass Rate Limit on Reset Password Feature Using X-Forwarded-For Header](https://ilhamm0a.medium.com/bypass-rate-limit-on-reset-password-feature-using-x-forwarded-for-header-ff01e0c010f3?source=rss------bug_bounty_writeup-5)
-- [Spynote, BadBazaar &amp; Moonshine: The Malware Mafia That’s Eyeing Your Phone](https://medium.com/@thecyberghost/spynote-badbazaar-moonshine-the-malware-mafia-thats-eyeing-your-phone-6b98eafb1af7?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
