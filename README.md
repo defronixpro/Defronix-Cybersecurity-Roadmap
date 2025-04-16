@@ -940,8 +940,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [BugBounty Directory](https://medium.com/@abhishekY495/bugbounty-directory-35609687204c?source=rss------bug_bounty_writeup-5)
 - [Outsmarting the Crowd: 7 Unconventional Strategies to Dominate Bug Bounty Programs](https://cybersecuritywriteups.com/outsmarting-the-crowd-7-unconventional-strategies-to-dominate-bug-bounty-programs-e5432e5fddd2?source=rss------bug_bounty_writeup-5)
 - [Account Takeover Based on Deep Understanding of the Target](https://medium.com/@Maverick0o0/account-takeover-based-on-deep-understanding-of-the-target-9c02b8af88fa?source=rss------bug_bounty_writeup-5)
-- [Google Gemini iOS Vulnerability: Public Link Sharing Silently Leaks Entire Conversations](https://medium.com/@warisjeet31/google-gemini-ios-vulnerability-public-link-sharing-silently-leaks-entire-conversations-e1f80cbea25c?source=rss------bug_bounty_writeup-5)
-- [Bug Bounty | Istifadəçi hesablarının oğurlanmasına səbəb ola biləcək bir boşluq tapdım &lpar;Account…](https://zeynalxan.medium.com/bug-bounty-istifad%C9%99%C3%A7i-hesablar%C4%B1n%C4%B1n-o%C4%9Furlanmas%C4%B1na-s%C9%99b%C9%99b-ola-bil%C9%99c%C9%99k-bir-bo%C5%9Fluq-tapd%C4%B1m-account-2693a2aa2520?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
