@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [The Hidden Threat in Your XML: Understanding XXE Attacks](https://medium.com/@es0557533/the-hidden-threat-in-your-xml-understanding-xxe-attacks-0d7f91bb5749?source=rss------bug_bounty_writeup-5)
 - [My First High-Impact Bug: Unauthenticated Unsubscribe via Token Manipulation &lpar;IDOR + PII…](https://medium.com/@sauravkrish59/my-first-high-impact-bug-unauthenticated-unsubscribe-via-token-manipulation-idor-pii-872d1004a9bc?source=rss------bug_bounty_writeup-5)
 - [Bypassing SSL Pinning on Android using Objection and Frida — For Rooted &amp; Non-Rooted Devices](https://elcazad0r.medium.com/bypassing-ssl-pinning-on-android-using-objection-and-frida-for-rooted-non-rooted-devices-c509c9e9fd59?source=rss------bug_bounty_writeup-5)
 - [From ‘Error 404’ to ‘Cha-Ching! BugBounty](https://medium.com/@xlr44444/from-error-404-to-cha-ching-bugbounty-18d3b839019b?source=rss------bug_bounty_writeup-5)
@@ -18,7 +19,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Linux for Penetration Testing: Setting Up Parrot OS](https://infosecwriteups.com/linux-for-penetration-testing-setting-up-parrot-os-072c77d2057f?source=rss----7b722bfd1b8d---4)
 - [BugBounty Directory](https://medium.com/@abhishekY495/bugbounty-directory-35609687204c?source=rss------bug_bounty_writeup-5)
 - [Outsmarting the Crowd: 7 Unconventional Strategies to Dominate Bug Bounty Programs](https://cybersecuritywriteups.com/outsmarting-the-crowd-7-unconventional-strategies-to-dominate-bug-bounty-programs-e5432e5fddd2?source=rss------bug_bounty_writeup-5)
-- [Account Takeover Based on Deep Understanding of the Target](https://medium.com/@Maverick0o0/account-takeover-based-on-deep-understanding-of-the-target-9c02b8af88fa?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
