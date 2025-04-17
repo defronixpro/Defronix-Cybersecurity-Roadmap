@@ -1,16 +1,6 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
-- [️ Mr. Robot CTF Walkthrough | TryHackMe](https://infosecwriteups.com/%EF%B8%8F-mr-robot-ctf-walkthrough-tryhackme-89c4cee96829?source=rss----7b722bfd1b8d---4)
-- [How I hacked into Delhi University Admin Dashboard : A case study .](https://infosecwriteups.com/how-i-hacked-into-delhi-university-admin-dashboard-a-case-study-ed18fce4f71a?source=rss----7b722bfd1b8d---4)
-- [IPCE + PESTLE Analysis: Intelligence Preparation of the Cyber Environment](https://infosecwriteups.com/ipce-pestle-analysis-intelligence-preparation-of-the-cyber-environment-f1a145ea2e31?source=rss----7b722bfd1b8d---4)
-- [How I Exploited Rate Limiting to Access Admin Features &lpar;Real Case Study&rpar;](https://infosecwriteups.com/how-i-exploited-rate-limiting-to-access-admin-features-real-case-study-fe25cb965a0a?source=rss----7b722bfd1b8d---4)
-- [Best Cybersecurity Certifications for Beginners and Experts in 2025](https://infosecwriteups.com/best-cybersecurity-certifications-for-beginners-and-experts-in-2025-a52155dfa770?source=rss----7b722bfd1b8d---4)
-- [“Sysmon Unleashed: Tracking and Tackling Malicious Activity on Windows”](https://infosecwriteups.com/sysmon-unleashed-tracking-and-tackling-malicious-activity-on-windows-85fe5da4da01?source=rss----7b722bfd1b8d---4)
-- [Bypass File Attachment Restrictions in Google Groups via Email Posting | Bug Bounty](https://infosecwriteups.com/bypass-file-attachment-restrictions-in-google-groups-via-email-posting-bug-bounty-5d96fe39e46d?source=rss----7b722bfd1b8d---4)
-- [1-CLick OAuth Token Hijacking via Google Apps Script – A Design Flaw Ignored? | Bug Bounty](https://infosecwriteups.com/1-click-oauth-token-hijacking-via-google-apps-script-a-design-flaw-ignored-bug-bounty-02c6997254ff?source=rss----7b722bfd1b8d---4)
-- [Linux for Penetration Testing: Setting Up Parrot OS](https://infosecwriteups.com/linux-for-penetration-testing-setting-up-parrot-os-072c77d2057f?source=rss----7b722bfd1b8d---4)
-- [OWASP Top 10 for LLMs in 2025: Security Test Cases You Must Know](https://infosecwriteups.com/owasp-top-10-for-llms-in-2025-security-test-cases-you-must-know-ef2cb6d1bbda?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
