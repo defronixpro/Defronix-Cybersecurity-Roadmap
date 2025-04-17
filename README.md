@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I got a Zero-Click Account Takeover Bounty — Using Nothing But Logic](https://itsahmedatef.medium.com/how-i-got-a-zero-click-account-takeover-bounty-using-nothing-but-logic-11a3ae151376?source=rss------bug_bounty_writeup-5)
 - [Metasploit Basics For PenTester &amp; Bug Bounty Hunters ⚡](https://medium.com/@0b1d1/metasploit-basics-for-pentester-bug-bounty-hunters-72facfc9cdd1?source=rss------bug_bounty_writeup-5)
 - [️‍♂️ “I Didn’t Plan to Find a P1… But My Script Had Other Plans ”](https://infosecwriteups.com/%EF%B8%8F-%EF%B8%8F-i-didnt-plan-to-find-a-p1-but-my-script-had-other-plans-77691a46985b?source=rss----7b722bfd1b8d---4)
 - [‍☠️The Ultimate Subdomain Enumeration Guide: Tools, Tricks, and Hidden Secrets](https://infosecwriteups.com/%EF%B8%8Fthe-ultimate-subdomain-enumeration-guide-tools-tricks-and-hidden-secrets-bbae13df9a83?source=rss----7b722bfd1b8d---4)
@@ -938,7 +939,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [️ Mr. Robot CTF Walkthrough | TryHackMe](https://infosecwriteups.com/%EF%B8%8F-mr-robot-ctf-walkthrough-tryhackme-89c4cee96829?source=rss----7b722bfd1b8d---4)
 - [How I hacked into Delhi University Admin Dashboard : A case study .](https://infosecwriteups.com/how-i-hacked-into-delhi-university-admin-dashboard-a-case-study-ed18fce4f71a?source=rss----7b722bfd1b8d---4)
 - [How Telegram’s Bot API Enables Real-Time 2FA Theft and Account Takeover](https://medium.com/@princep49036142/how-telegrams-bot-api-enables-real-time-2fa-theft-and-account-takeover-fa438ce9a9e0?source=rss------bug_bounty_writeup-5)
-- [“How to Find Hidden API Endpoints and Secrets in JavaScript Files for Bug Bounties &amp; Web App…](https://hackersatty.medium.com/how-to-find-hidden-api-endpoints-and-secrets-in-javascript-files-for-bug-bounties-web-app-f4ea92d16954?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
