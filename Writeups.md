@@ -1,6 +1,10 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Recon Search Assistant](https://medium.com/@bobby.S/recon-search-assistant-d8506fdc8484?source=rss------bug_bounty_writeup-5)
+- [WAF Bypass Masterclass: Using SQLMap with Proxychains and Tamper Scripts Against Cloudflare &amp;…](https://infosecwriteups.com/waf-bypass-masterclass-using-sqlmap-with-proxychains-and-tamper-scripts-against-cloudflare-9d46b36bae94?source=rss----7b722bfd1b8d---4)
+- [Burp Suite Beyond Basics: Hidden Features That Save Time and Find More Bugs](https://infosecwriteups.com/burp-suite-beyond-basics-hidden-features-that-save-time-and-find-more-bugs-19f15bb3bcc3?source=rss----7b722bfd1b8d---4)
+- [Your NTLM Hashes at Risk: Inside CVE‑2025‑24054](https://infosecwriteups.com/your-ntlm-hashes-at-risk-inside-cve-2025-24054-171d8600f5dc?source=rss----7b722bfd1b8d---4)
 - [TryHackMe: Pickle Rick Walkthrough](https://infosecwriteups.com/tryhackme-pickle-rick-walkthrough-3f4d57872ce8?source=rss----7b722bfd1b8d---4)
 - [Obfuscation Isn’t a Fix, And It Cost Them $2,500 — A Real-World Case Study](https://infosecwriteups.com/obfuscation-isnt-a-fix-and-it-cost-them-2-500-a-real-world-case-study-5a2fd65c6b4f?source=rss----7b722bfd1b8d---4)
 - [ResolverRAT: A Sophisticated Threat Targeting Healthcare and Pharma](https://infosecwriteups.com/resolverrat-a-sophisticated-threat-targeting-healthcare-and-pharma-78d761a8bacf?source=rss----7b722bfd1b8d---4)
@@ -11,13 +15,9 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Metasploit Basics For PenTester &amp; Bug Bounty Hunters ⚡](https://medium.com/@0b1d1/metasploit-basics-for-pentester-bug-bounty-hunters-72facfc9cdd1?source=rss------bug_bounty_writeup-5)
 - [️‍♂️ “I Didn’t Plan to Find a P1… But My Script Had Other Plans ”](https://infosecwriteups.com/%EF%B8%8F-%EF%B8%8F-i-didnt-plan-to-find-a-p1-but-my-script-had-other-plans-77691a46985b?source=rss----7b722bfd1b8d---4)
 - [‍☠️The Ultimate Subdomain Enumeration Guide: Tools, Tricks, and Hidden Secrets](https://infosecwriteups.com/%EF%B8%8Fthe-ultimate-subdomain-enumeration-guide-tools-tricks-and-hidden-secrets-bbae13df9a83?source=rss----7b722bfd1b8d---4)
-- [Top 20 Linux Commands Every Pentester Should Know](https://infosecwriteups.com/top-20-linux-commands-every-pentester-should-know-e384f037ad8c?source=rss----7b722bfd1b8d---4)
-- [Secret tricks to get hidden information in Bug Bounty](https://infosecwriteups.com/secret-tricks-to-get-hidden-information-in-bug-bounty-107f3e055c4d?source=rss----7b722bfd1b8d---4)
-- [Hacking and Securing Docker Containers: A Deep Dive into Common Vulnerabilities and Test Cases](https://infosecwriteups.com/hacking-and-securing-docker-containers-a-deep-dive-into-common-vulnerabilities-and-test-cases-e40f2eee58f2?source=rss----7b722bfd1b8d---4)
 - [The Hidden Threat in Your XML: Understanding XXE Attacks](https://medium.com/@es0557533/the-hidden-threat-in-your-xml-understanding-xxe-attacks-0d7f91bb5749?source=rss------bug_bounty_writeup-5)
 - [My First High-Impact Bug: Unauthenticated Unsubscribe via Token Manipulation &lpar;IDOR + PII…](https://medium.com/@sauravkrish59/my-first-high-impact-bug-unauthenticated-unsubscribe-via-token-manipulation-idor-pii-872d1004a9bc?source=rss------bug_bounty_writeup-5)
 - [Bypassing SSL Pinning on Android using Objection and Frida — For Rooted &amp; Non-Rooted Devices](https://elcazad0r.medium.com/bypassing-ssl-pinning-on-android-using-objection-and-frida-for-rooted-non-rooted-devices-c509c9e9fd59?source=rss------bug_bounty_writeup-5)
-- [From ‘Error 404’ to ‘Cha-Ching! BugBounty](https://medium.com/@xlr44444/from-error-404-to-cha-ching-bugbounty-18d3b839019b?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
