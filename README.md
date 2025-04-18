@@ -922,16 +922,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [️‍♂️ “I Didn’t Plan to Find a P1… But My Script Had Other Plans ”](https://infosecwriteups.com/%EF%B8%8F-%EF%B8%8F-i-didnt-plan-to-find-a-p1-but-my-script-had-other-plans-77691a46985b?source=rss----7b722bfd1b8d---4)
-- [‍☠️The Ultimate Subdomain Enumeration Guide: Tools, Tricks, and Hidden Secrets](https://infosecwriteups.com/%EF%B8%8Fthe-ultimate-subdomain-enumeration-guide-tools-tricks-and-hidden-secrets-bbae13df9a83?source=rss----7b722bfd1b8d---4)
-- [Top 20 Linux Commands Every Pentester Should Know](https://infosecwriteups.com/top-20-linux-commands-every-pentester-should-know-e384f037ad8c?source=rss----7b722bfd1b8d---4)
-- [Secret tricks to get hidden information in Bug Bounty](https://infosecwriteups.com/secret-tricks-to-get-hidden-information-in-bug-bounty-107f3e055c4d?source=rss----7b722bfd1b8d---4)
-- [Hacking and Securing Docker Containers: A Deep Dive into Common Vulnerabilities and Test Cases](https://infosecwriteups.com/hacking-and-securing-docker-containers-a-deep-dive-into-common-vulnerabilities-and-test-cases-e40f2eee58f2?source=rss----7b722bfd1b8d---4)
-- [Why The End of MITRE’s CVE Isn’t A Big Deal](https://infosecwriteups.com/why-the-end-of-mitres-cve-isn-t-a-big-deal-ad25c8bd2ab3?source=rss----7b722bfd1b8d---4)
-- [Hacking Linux with Zombie Processes](https://infosecwriteups.com/hacking-linux-with-zombie-processes-93676012ac3f?source=rss----7b722bfd1b8d---4)
-- [️ Blind XSS Attack in Production: My Favorite Exploit with a Delayed Surprise](https://infosecwriteups.com/%EF%B8%8F-blind-xss-attack-in-production-my-favorite-exploit-with-a-delayed-surprise-3f7f13427ee4?source=rss----7b722bfd1b8d---4)
-- [️ Mr. Robot CTF Walkthrough | TryHackMe](https://infosecwriteups.com/%EF%B8%8F-mr-robot-ctf-walkthrough-tryhackme-89c4cee96829?source=rss----7b722bfd1b8d---4)
-- [How I hacked into Delhi University Admin Dashboard : A case study .](https://infosecwriteups.com/how-i-hacked-into-delhi-university-admin-dashboard-a-case-study-ed18fce4f71a?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
