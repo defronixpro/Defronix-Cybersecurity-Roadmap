@@ -4,7 +4,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Click Jacking Impact Privilage Escalation](https://firdausmuhammadismail.medium.com/click-jacking-impact-privilage-escalation-585918563f52?source=rss------bug_bounty_writeup-5)
 - [Hours of Recon, One Vulnerable Parameter, and Boom — SQL Injection Found.](https://hiddendom.medium.com/hours-of-recon-one-vulnerable-parameter-and-boom-sql-injection-found-e7f2bb74d423?source=rss------bug_bounty_writeup-5)
 - [Recon Search Assistant](https://medium.com/@bobby.S/recon-search-assistant-d8506fdc8484?source=rss------bug_bounty_writeup-5)
-- [WAF Bypass Masterclass: Using SQLMap with Proxychains and Tamper Scripts Against Cloudflare &amp;…](https://infosecwriteups.com/waf-bypass-masterclass-using-sqlmap-with-proxychains-and-tamper-scripts-against-cloudflare-9d46b36bae94?source=rss----7b722bfd1b8d---4)
+- [The Ultimate Guide to WAF Bypass Using SQLMap, Proxychains &amp; Tamper Scripts](https://infosecwriteups.com/waf-bypass-masterclass-using-sqlmap-with-proxychains-and-tamper-scripts-against-cloudflare-9d46b36bae94?source=rss----7b722bfd1b8d---4)
 - [Burp Suite Beyond Basics: Hidden Features That Save Time and Find More Bugs](https://infosecwriteups.com/burp-suite-beyond-basics-hidden-features-that-save-time-and-find-more-bugs-19f15bb3bcc3?source=rss----7b722bfd1b8d---4)
 - [Your NTLM Hashes at Risk: Inside CVE‑2025‑24054](https://infosecwriteups.com/your-ntlm-hashes-at-risk-inside-cve-2025-24054-171d8600f5dc?source=rss----7b722bfd1b8d---4)
 - [TryHackMe: Pickle Rick Walkthrough](https://infosecwriteups.com/tryhackme-pickle-rick-walkthrough-3f4d57872ce8?source=rss----7b722bfd1b8d---4)
