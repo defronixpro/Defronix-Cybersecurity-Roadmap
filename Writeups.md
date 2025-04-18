@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How I Earned $300 from a Single Rate Limiting Vulnerability — Twice!](https://medium.com/@whitehat29/how-i-earned-300-from-a-single-rate-limiting-vulnerability-twice-224b4be29fd0?source=rss------bug_bounty_writeup-5)
 - [How I got a Zero-Click Account Takeover Bounty — Using Nothing But Logic](https://itsahmedatef.medium.com/how-i-got-a-zero-click-account-takeover-bounty-using-nothing-but-logic-11a3ae151376?source=rss------bug_bounty_writeup-5)
 - [Metasploit Basics For PenTester &amp; Bug Bounty Hunters ⚡](https://medium.com/@0b1d1/metasploit-basics-for-pentester-bug-bounty-hunters-72facfc9cdd1?source=rss------bug_bounty_writeup-5)
 - [️‍♂️ “I Didn’t Plan to Find a P1… But My Script Had Other Plans ”](https://infosecwriteups.com/%EF%B8%8F-%EF%B8%8F-i-didnt-plan-to-find-a-p1-but-my-script-had-other-plans-77691a46985b?source=rss----7b722bfd1b8d---4)
@@ -17,7 +18,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [From ‘Error 404’ to ‘Cha-Ching! BugBounty](https://medium.com/@xlr44444/from-error-404-to-cha-ching-bugbounty-18d3b839019b?source=rss------bug_bounty_writeup-5)
 - [️ Mr. Robot CTF Walkthrough | TryHackMe](https://infosecwriteups.com/%EF%B8%8F-mr-robot-ctf-walkthrough-tryhackme-89c4cee96829?source=rss----7b722bfd1b8d---4)
 - [How I hacked into Delhi University Admin Dashboard : A case study .](https://infosecwriteups.com/how-i-hacked-into-delhi-university-admin-dashboard-a-case-study-ed18fce4f71a?source=rss----7b722bfd1b8d---4)
-- [How Telegram’s Bot API Enables Real-Time 2FA Theft and Account Takeover](https://medium.com/@princep49036142/how-telegrams-bot-api-enables-real-time-2fa-theft-and-account-takeover-fa438ce9a9e0?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
