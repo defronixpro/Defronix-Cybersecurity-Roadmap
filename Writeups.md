@@ -1,6 +1,11 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [TryHackMe: Pickle Rick Walkthrough](https://infosecwriteups.com/tryhackme-pickle-rick-walkthrough-3f4d57872ce8?source=rss----7b722bfd1b8d---4)
+- [Obfuscation Isn’t a Fix, And It Cost Them $2,500 — A Real-World Case Study](https://infosecwriteups.com/obfuscation-isnt-a-fix-and-it-cost-them-2-500-a-real-world-case-study-5a2fd65c6b4f?source=rss----7b722bfd1b8d---4)
+- [ResolverRAT: A Sophisticated Threat Targeting Healthcare and Pharma](https://infosecwriteups.com/resolverrat-a-sophisticated-threat-targeting-healthcare-and-pharma-78d761a8bacf?source=rss----7b722bfd1b8d---4)
+- [CVSS 10.0 Critical Vulnerability in Erlang/OTP’s SSH: Unauthenticated Remote Code Execution Risk](https://infosecwriteups.com/cvss-10-0-critical-vulnerability-in-erlang-otps-ssh-unauthenticated-remote-code-execution-risk-1321fa3e570d?source=rss----7b722bfd1b8d---4)
+- [Automating GraphQL Bug Bounty Hunting with GrapeQL](https://infosecwriteups.com/automating-graphql-bug-bounty-hunting-with-grapeql-e1e874f11c7c?source=rss----7b722bfd1b8d---4)
 - [How I Earned $300 from a Single Rate Limiting Vulnerability — Twice!](https://medium.com/@whitehat29/how-i-earned-300-from-a-single-rate-limiting-vulnerability-twice-224b4be29fd0?source=rss------bug_bounty_writeup-5)
 - [How I got a Zero-Click Account Takeover Bounty — Using Nothing But Logic](https://itsahmedatef.medium.com/how-i-got-a-zero-click-account-takeover-bounty-using-nothing-but-logic-11a3ae151376?source=rss------bug_bounty_writeup-5)
 - [Metasploit Basics For PenTester &amp; Bug Bounty Hunters ⚡](https://medium.com/@0b1d1/metasploit-basics-for-pentester-bug-bounty-hunters-72facfc9cdd1?source=rss------bug_bounty_writeup-5)
@@ -9,15 +14,10 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Top 20 Linux Commands Every Pentester Should Know](https://infosecwriteups.com/top-20-linux-commands-every-pentester-should-know-e384f037ad8c?source=rss----7b722bfd1b8d---4)
 - [Secret tricks to get hidden information in Bug Bounty](https://infosecwriteups.com/secret-tricks-to-get-hidden-information-in-bug-bounty-107f3e055c4d?source=rss----7b722bfd1b8d---4)
 - [Hacking and Securing Docker Containers: A Deep Dive into Common Vulnerabilities and Test Cases](https://infosecwriteups.com/hacking-and-securing-docker-containers-a-deep-dive-into-common-vulnerabilities-and-test-cases-e40f2eee58f2?source=rss----7b722bfd1b8d---4)
-- [Why The End of MITRE’s CVE Isn’t A Big Deal](https://infosecwriteups.com/why-the-end-of-mitres-cve-isn-t-a-big-deal-ad25c8bd2ab3?source=rss----7b722bfd1b8d---4)
-- [Hacking Linux with Zombie Processes](https://infosecwriteups.com/hacking-linux-with-zombie-processes-93676012ac3f?source=rss----7b722bfd1b8d---4)
-- [️ Blind XSS Attack in Production: My Favorite Exploit with a Delayed Surprise](https://infosecwriteups.com/%EF%B8%8F-blind-xss-attack-in-production-my-favorite-exploit-with-a-delayed-surprise-3f7f13427ee4?source=rss----7b722bfd1b8d---4)
 - [The Hidden Threat in Your XML: Understanding XXE Attacks](https://medium.com/@es0557533/the-hidden-threat-in-your-xml-understanding-xxe-attacks-0d7f91bb5749?source=rss------bug_bounty_writeup-5)
 - [My First High-Impact Bug: Unauthenticated Unsubscribe via Token Manipulation &lpar;IDOR + PII…](https://medium.com/@sauravkrish59/my-first-high-impact-bug-unauthenticated-unsubscribe-via-token-manipulation-idor-pii-872d1004a9bc?source=rss------bug_bounty_writeup-5)
 - [Bypassing SSL Pinning on Android using Objection and Frida — For Rooted &amp; Non-Rooted Devices](https://elcazad0r.medium.com/bypassing-ssl-pinning-on-android-using-objection-and-frida-for-rooted-non-rooted-devices-c509c9e9fd59?source=rss------bug_bounty_writeup-5)
 - [From ‘Error 404’ to ‘Cha-Ching! BugBounty](https://medium.com/@xlr44444/from-error-404-to-cha-ching-bugbounty-18d3b839019b?source=rss------bug_bounty_writeup-5)
-- [️ Mr. Robot CTF Walkthrough | TryHackMe](https://infosecwriteups.com/%EF%B8%8F-mr-robot-ctf-walkthrough-tryhackme-89c4cee96829?source=rss----7b722bfd1b8d---4)
-- [How I hacked into Delhi University Admin Dashboard : A case study .](https://infosecwriteups.com/how-i-hacked-into-delhi-university-admin-dashboard-a-case-study-ed18fce4f71a?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
