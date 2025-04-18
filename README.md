@@ -922,9 +922,10 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [⚠️ CVE-2025-24054: Actively Exploited Vulnerability Stealing NTLM Credentials – What You Need to…](https://chintalatarakaram.medium.com/%EF%B8%8F-cve-2025-24054-actively-exploited-vulnerability-stealing-ntlm-credentials-what-you-need-to-631ac46f45e3?source=rss------bug_bounty_writeup-5)
 - [Secret to find bugs in five minutes. Juicy reality.](https://medium.com/@riazrabia/secret-to-find-bugs-in-five-minutes-juicy-reality-c7ed63cf26a8?source=rss------bug_bounty_writeup-5)
 - [Click Jacking Impact Privilage Escalation](https://firdausmuhammadismail.medium.com/click-jacking-impact-privilage-escalation-585918563f52?source=rss------bug_bounty_writeup-5)
-- [Hours of Recon, One Vulnerable Parameter, and Boom — SQL Injection Found.](https://hiddendom.medium.com/hours-of-recon-one-vulnerable-parameter-and-boom-sql-injection-found-e7f2bb74d423?source=rss------bug_bounty_writeup-5)
+- [Hours of Recon, One Vulnerable Parameter, and Boom — SQL Injection Found.](https://osintteam.blog/hours-of-recon-one-vulnerable-parameter-and-boom-sql-injection-found-e7f2bb74d423?source=rss------bug_bounty_writeup-5)
 - [Recon Search Assistant](https://medium.com/@bobby.S/recon-search-assistant-d8506fdc8484?source=rss------bug_bounty_writeup-5)
 - [The Ultimate Guide to WAF Bypass Using SQLMap, Proxychains &amp; Tamper Scripts](https://infosecwriteups.com/waf-bypass-masterclass-using-sqlmap-with-proxychains-and-tamper-scripts-against-cloudflare-9d46b36bae94?source=rss----7b722bfd1b8d---4)
 - [Burp Suite Beyond Basics: Hidden Features That Save Time and Find More Bugs](https://infosecwriteups.com/burp-suite-beyond-basics-hidden-features-that-save-time-and-find-more-bugs-19f15bb3bcc3?source=rss----7b722bfd1b8d---4)
