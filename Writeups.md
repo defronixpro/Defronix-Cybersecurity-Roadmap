@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Click Jacking Impact Privilage Escalation](https://firdausmuhammadismail.medium.com/click-jacking-impact-privilage-escalation-585918563f52?source=rss------bug_bounty_writeup-5)
 - [Hours of Recon, One Vulnerable Parameter, and Boom — SQL Injection Found.](https://hiddendom.medium.com/hours-of-recon-one-vulnerable-parameter-and-boom-sql-injection-found-e7f2bb74d423?source=rss------bug_bounty_writeup-5)
 - [Recon Search Assistant](https://medium.com/@bobby.S/recon-search-assistant-d8506fdc8484?source=rss------bug_bounty_writeup-5)
 - [WAF Bypass Masterclass: Using SQLMap with Proxychains and Tamper Scripts Against Cloudflare &amp;…](https://infosecwriteups.com/waf-bypass-masterclass-using-sqlmap-with-proxychains-and-tamper-scripts-against-cloudflare-9d46b36bae94?source=rss----7b722bfd1b8d---4)
@@ -17,7 +18,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [️‍♂️ “I Didn’t Plan to Find a P1… But My Script Had Other Plans ”](https://infosecwriteups.com/%EF%B8%8F-%EF%B8%8F-i-didnt-plan-to-find-a-p1-but-my-script-had-other-plans-77691a46985b?source=rss----7b722bfd1b8d---4)
 - [‍☠️The Ultimate Subdomain Enumeration Guide: Tools, Tricks, and Hidden Secrets](https://infosecwriteups.com/%EF%B8%8Fthe-ultimate-subdomain-enumeration-guide-tools-tricks-and-hidden-secrets-bbae13df9a83?source=rss----7b722bfd1b8d---4)
 - [The Hidden Threat in Your XML: Understanding XXE Attacks](https://medium.com/@es0557533/the-hidden-threat-in-your-xml-understanding-xxe-attacks-0d7f91bb5749?source=rss------bug_bounty_writeup-5)
-- [My First High-Impact Bug: Unauthenticated Unsubscribe via Token Manipulation &lpar;IDOR + PII…](https://medium.com/@sauravkrish59/my-first-high-impact-bug-unauthenticated-unsubscribe-via-token-manipulation-idor-pii-872d1004a9bc?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
