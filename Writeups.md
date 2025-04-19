@@ -1,16 +1,6 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
-- [The Ultimate Guide to WAF Bypass Using SQLMap, Proxychains &amp; Tamper Scripts](https://infosecwriteups.com/waf-bypass-masterclass-using-sqlmap-with-proxychains-and-tamper-scripts-against-cloudflare-9d46b36bae94?source=rss----7b722bfd1b8d---4)
-- [Burp Suite Beyond Basics: Hidden Features That Save Time and Find More Bugs](https://infosecwriteups.com/burp-suite-beyond-basics-hidden-features-that-save-time-and-find-more-bugs-19f15bb3bcc3?source=rss----7b722bfd1b8d---4)
-- [Your NTLM Hashes at Risk: Inside CVE‑2025‑24054](https://infosecwriteups.com/your-ntlm-hashes-at-risk-inside-cve-2025-24054-171d8600f5dc?source=rss----7b722bfd1b8d---4)
-- [TryHackMe: Pickle Rick Walkthrough](https://infosecwriteups.com/tryhackme-pickle-rick-walkthrough-3f4d57872ce8?source=rss----7b722bfd1b8d---4)
-- [Obfuscation Isn’t a Fix, And It Cost Them $2,500 — A Real-World Case Study](https://infosecwriteups.com/obfuscation-isnt-a-fix-and-it-cost-them-2-500-a-real-world-case-study-5a2fd65c6b4f?source=rss----7b722bfd1b8d---4)
-- [ResolverRAT: A Sophisticated Threat Targeting Healthcare and Pharma](https://infosecwriteups.com/resolverrat-a-sophisticated-threat-targeting-healthcare-and-pharma-78d761a8bacf?source=rss----7b722bfd1b8d---4)
-- [CVSS 10.0 Critical Vulnerability in Erlang/OTP’s SSH: Unauthenticated Remote Code Execution Risk](https://infosecwriteups.com/cvss-10-0-critical-vulnerability-in-erlang-otps-ssh-unauthenticated-remote-code-execution-risk-1321fa3e570d?source=rss----7b722bfd1b8d---4)
-- [Automating GraphQL Bug Bounty Hunting with GrapeQL](https://infosecwriteups.com/automating-graphql-bug-bounty-hunting-with-grapeql-e1e874f11c7c?source=rss----7b722bfd1b8d---4)
-- [️‍♂️ “I Didn’t Plan to Find a P1… But My Script Had Other Plans ”](https://infosecwriteups.com/%EF%B8%8F-%EF%B8%8F-i-didnt-plan-to-find-a-p1-but-my-script-had-other-plans-77691a46985b?source=rss----7b722bfd1b8d---4)
-- [‍☠️The Ultimate Subdomain Enumeration Guide: Tools, Tricks, and Hidden Secrets](https://infosecwriteups.com/%EF%B8%8Fthe-ultimate-subdomain-enumeration-guide-tools-tricks-and-hidden-secrets-bbae13df9a83?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
