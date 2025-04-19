@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Auth Bypass to Admin via Response Manipulation]](https://medium.com/@arrasgotcha/auth-bypass-to-admin-via-response-manipulation-3c2df2e2c8ef?source=rss------bug_bounty_writeup-5)
 - [How I Registered the Same Username Twice — No Tools Needed](https://strangerwhite.medium.com/how-i-registered-the-same-username-twice-no-tools-needed-284f3b46d82a?source=rss------bug_bounty_writeup-5)
 - [Business Logic Flaw worth $1250](https://infosecwriteups.com/business-logic-flaw-worth-1250-35efcd1b9af9?source=rss------bug_bounty_writeup-5)
 - [⚠️ CVE-2025-24054: Actively Exploited Vulnerability Stealing NTLM Credentials – What You Need to…](https://chintalatarakaram.medium.com/%EF%B8%8F-cve-2025-24054-actively-exploited-vulnerability-stealing-ntlm-credentials-what-you-need-to-631ac46f45e3?source=rss------bug_bounty_writeup-5)
@@ -18,7 +19,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Automating GraphQL Bug Bounty Hunting with GrapeQL](https://infosecwriteups.com/automating-graphql-bug-bounty-hunting-with-grapeql-e1e874f11c7c?source=rss----7b722bfd1b8d---4)
 - [How I Earned $300 from a Single Rate Limiting Vulnerability — Twice!](https://cybersecuritywriteups.com/how-i-earned-300-from-a-single-rate-limiting-vulnerability-twice-224b4be29fd0?source=rss------bug_bounty_writeup-5)
 - [How I got a Zero-Click Account Takeover Bounty — Using Nothing But Logic](https://itsahmedatef.medium.com/how-i-got-a-zero-click-account-takeover-bounty-using-nothing-but-logic-11a3ae151376?source=rss------bug_bounty_writeup-5)
-- [Metasploit Basics For PenTester &amp; Bug Bounty Hunters ⚡](https://medium.com/@0b1d1/metasploit-basics-for-pentester-bug-bounty-hunters-72facfc9cdd1?source=rss------bug_bounty_writeup-5)
 - [️‍♂️ “I Didn’t Plan to Find a P1… But My Script Had Other Plans ”](https://infosecwriteups.com/%EF%B8%8F-%EF%B8%8F-i-didnt-plan-to-find-a-p1-but-my-script-had-other-plans-77691a46985b?source=rss----7b722bfd1b8d---4)
 - [‍☠️The Ultimate Subdomain Enumeration Guide: Tools, Tricks, and Hidden Secrets](https://infosecwriteups.com/%EF%B8%8Fthe-ultimate-subdomain-enumeration-guide-tools-tricks-and-hidden-secrets-bbae13df9a83?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
