@@ -1,6 +1,11 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Time-Based Blind SQL Injection: “Hack the Clock”](https://infosecwriteups.com/time-based-blind-sql-injection-hack-the-clock-ae15b0aad295?source=rss----7b722bfd1b8d---4)
+- [️ TryHackMe: Agent T Walkthrough](https://infosecwriteups.com/%EF%B8%8F-tryhackme-agent-t-walkthrough-9bc4f01991a3?source=rss----7b722bfd1b8d---4)
+- [Wazuh Installation &amp; Configuration: A Step-by-Step Tutorial](https://infosecwriteups.com/wazuh-installation-configuration-a-step-by-step-tutorial-aa3c5cc74243?source=rss----7b722bfd1b8d---4)
+- [CORSplay of the Century: How I Hijacked APIs with One Misconfigured Header](https://infosecwriteups.com/corsplay-of-the-century-how-i-hijacked-apis-with-one-misconfigured-header-4b8dacb87485?source=rss----7b722bfd1b8d---4)
+- [From CSS to AWS: How a Stylesheet Reference Leaked Cloud Secrets ☁️](https://infosecwriteups.com/from-css-to-aws-how-a-stylesheet-reference-leaked-cloud-secrets-%EF%B8%8F-c55e5048777e?source=rss----7b722bfd1b8d---4)
 - [Bypassing Like a Pro: How I Fooled the WAF and Made It Pay](https://infosecwriteups.com/bypassing-like-a-pro-how-i-fooled-the-waf-and-made-it-pay-e433193e1d9d?source=rss----7b722bfd1b8d---4)
 - [All about Multi-factor Authentication](https://hassanjawaid.medium.com/all-about-multi-factor-authentication-a131d6c20bf5?source=rss------bug_bounty_writeup-5)
 - [Auth Bypass to Admin via Response Manipulation]](https://medium.com/@arrasgotcha/auth-bypass-to-admin-via-response-manipulation-3c2df2e2c8ef?source=rss------bug_bounty_writeup-5)
@@ -15,12 +20,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Burp Suite Beyond Basics: Hidden Features That Save Time and Find More Bugs](https://infosecwriteups.com/burp-suite-beyond-basics-hidden-features-that-save-time-and-find-more-bugs-19f15bb3bcc3?source=rss----7b722bfd1b8d---4)
 - [Your NTLM Hashes at Risk: Inside CVE‑2025‑24054](https://infosecwriteups.com/your-ntlm-hashes-at-risk-inside-cve-2025-24054-171d8600f5dc?source=rss----7b722bfd1b8d---4)
 - [TryHackMe: Pickle Rick Walkthrough](https://infosecwriteups.com/tryhackme-pickle-rick-walkthrough-3f4d57872ce8?source=rss----7b722bfd1b8d---4)
-- [Obfuscation Isn’t a Fix, And It Cost Them $2,500 — A Real-World Case Study](https://infosecwriteups.com/obfuscation-isnt-a-fix-and-it-cost-them-2-500-a-real-world-case-study-5a2fd65c6b4f?source=rss----7b722bfd1b8d---4)
-- [ResolverRAT: A Sophisticated Threat Targeting Healthcare and Pharma](https://infosecwriteups.com/resolverrat-a-sophisticated-threat-targeting-healthcare-and-pharma-78d761a8bacf?source=rss----7b722bfd1b8d---4)
-- [CVSS 10.0 Critical Vulnerability in Erlang/OTP’s SSH: Unauthenticated Remote Code Execution Risk](https://infosecwriteups.com/cvss-10-0-critical-vulnerability-in-erlang-otps-ssh-unauthenticated-remote-code-execution-risk-1321fa3e570d?source=rss----7b722bfd1b8d---4)
-- [Automating GraphQL Bug Bounty Hunting with GrapeQL](https://infosecwriteups.com/automating-graphql-bug-bounty-hunting-with-grapeql-e1e874f11c7c?source=rss----7b722bfd1b8d---4)
 - [How I Earned $300 from a Single Rate Limiting Vulnerability — Twice!](https://cybersecuritywriteups.com/how-i-earned-300-from-a-single-rate-limiting-vulnerability-twice-224b4be29fd0?source=rss------bug_bounty_writeup-5)
-- [️‍♂️ “I Didn’t Plan to Find a P1… But My Script Had Other Plans ”](https://infosecwriteups.com/%EF%B8%8F-%EF%B8%8F-i-didnt-plan-to-find-a-p1-but-my-script-had-other-plans-77691a46985b?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
