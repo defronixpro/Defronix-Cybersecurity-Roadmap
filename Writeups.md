@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Email Verification Bypass via Sign in with Google](https://xsametyigit.medium.com/email-verification-bypass-via-sign-in-with-google-a273827c4968?source=rss------bug_bounty_writeup-5)
 - [Chaining Bugs Like a Hacker: IDOR to Account Takeover in 10 Minutes](https://infosecwriteups.com/chaining-bugs-like-a-hacker-idor-to-account-takeover-in-10-minutes-db0cba198007?source=rss----7b722bfd1b8d---4)
 - [THM — Napping](https://infosecwriteups.com/thm-napping-c707974cb4c8?source=rss----7b722bfd1b8d---4)
 - [Business Logic Flaw worth $1250](https://infosecwriteups.com/business-logic-flaw-worth-1250-35efcd1b9af9?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [⚠️ CVE-2025-24054: Actively Exploited Vulnerability Stealing NTLM Credentials – What You Need to…](https://chintalatarakaram.medium.com/%EF%B8%8F-cve-2025-24054-actively-exploited-vulnerability-stealing-ntlm-credentials-what-you-need-to-631ac46f45e3?source=rss------bug_bounty_writeup-5)
 - [Secret to find bugs in five minutes. Juicy reality.](https://medium.com/@riazrabia/secret-to-find-bugs-in-five-minutes-juicy-reality-c7ed63cf26a8?source=rss------bug_bounty_writeup-5)
 - [Click Jacking Impact Privilage Escalation](https://firdausmuhammadismail.medium.com/click-jacking-impact-privilage-escalation-585918563f52?source=rss------bug_bounty_writeup-5)
-- [Hours of Recon, One Vulnerable Parameter, and Boom — SQL Injection Found.](https://osintteam.blog/hours-of-recon-one-vulnerable-parameter-and-boom-sql-injection-found-e7f2bb74d423?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
