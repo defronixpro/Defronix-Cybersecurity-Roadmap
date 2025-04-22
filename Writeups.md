@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Breaking the Extra Layer: Real-World 2FA Bypass Techniques](https://fuzzyyduck.medium.com/breaking-the-extra-layer-real-world-2fa-bypass-techniques-f41b0995063e?source=rss------bug_bounty_writeup-5)
 - [​​$1,200 Bounty — IDOR via Phantom API and Parameter Manipulation​](https://medium.com/@cadeeper/1-200-bounty-idor-via-phantom-api-and-parameter-manipulation-1f9a9d84f467?source=rss------bug_bounty_writeup-5)
 - [️ Free TryHackMe Jr Penetration Tester Roadmap with Resources and Labs](https://infosecwriteups.com/%EF%B8%8F-free-tryhackme-jr-penetration-tester-roadmap-with-resources-and-labs-ce8e1849ec11?source=rss----7b722bfd1b8d---4)
 - [5 Tools I Wish I Knew When I Started Hacking](https://infosecwriteups.com/5-tools-i-wish-i-knew-when-i-started-hacking-adb4dfed5295?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Auth Bypass to Admin via Response Manipulation]](https://medium.com/@arrasgotcha/auth-bypass-to-admin-via-response-manipulation-3c2df2e2c8ef?source=rss------bug_bounty_writeup-5)
 - [How I Registered the Same Username Twice — No Tools Needed](https://strangerwhite.medium.com/how-i-registered-the-same-username-twice-no-tools-needed-284f3b46d82a?source=rss------bug_bounty_writeup-5)
 - [Business Logic Flaw worth $1250](https://infosecwriteups.com/business-logic-flaw-worth-1250-35efcd1b9af9?source=rss------bug_bounty_writeup-5)
-- [⚠️ CVE-2025-24054: Actively Exploited Vulnerability Stealing NTLM Credentials – What You Need to…](https://chintalatarakaram.medium.com/%EF%B8%8F-cve-2025-24054-actively-exploited-vulnerability-stealing-ntlm-credentials-what-you-need-to-631ac46f45e3?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
