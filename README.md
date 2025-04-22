@@ -922,16 +922,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [️ Free TryHackMe Jr Penetration Tester Roadmap with Resources and Labs](https://infosecwriteups.com/%EF%B8%8F-free-tryhackme-jr-penetration-tester-roadmap-with-resources-and-labs-ce8e1849ec11?source=rss----7b722bfd1b8d---4)
-- [5 Tools I Wish I Knew When I Started Hacking](https://infosecwriteups.com/5-tools-i-wish-i-knew-when-i-started-hacking-adb4dfed5295?source=rss----7b722bfd1b8d---4)
-- [Black Basta Leak Analysis](https://infosecwriteups.com/black-basta-leak-analysis-add723b179a5?source=rss----7b722bfd1b8d---4)
-- [I Clicked a Random Button in Google Slides — Then Google Paid Me $2,240](https://infosecwriteups.com/i-clicked-a-random-button-in-google-slides-then-google-paid-me-2-240-22e1c0ca0535?source=rss----7b722bfd1b8d---4)
-- [Lab: Exploiting an API endpoint using documentation](https://infosecwriteups.com/lab-exploiting-an-api-endpoint-using-documentation-0a74ce7b7118?source=rss----7b722bfd1b8d---4)
-- [HTTP Parameter Pollution: The Dirty Little Secret That Gave Me Full Backend Access ️](https://infosecwriteups.com/http-parameter-pollution-the-dirty-little-secret-that-gave-me-full-backend-access-%EF%B8%8F-f7777c569648?source=rss----7b722bfd1b8d---4)
-- [Chaining Bugs Like a Hacker: IDOR to Account Takeover in 10 Minutes](https://infosecwriteups.com/chaining-bugs-like-a-hacker-idor-to-account-takeover-in-10-minutes-db0cba198007?source=rss----7b722bfd1b8d---4)
-- [THM — Napping](https://infosecwriteups.com/thm-napping-c707974cb4c8?source=rss----7b722bfd1b8d---4)
-- [Business Logic Flaw worth $1250](https://infosecwriteups.com/business-logic-flaw-worth-1250-35efcd1b9af9?source=rss----7b722bfd1b8d---4)
-- [Mastering Clean Code in Node.js with Hexagonal Architecture &lpar;Ports &amp; Adapters&rpar;](https://infosecwriteups.com/mastering-clean-code-in-node-js-with-hexagonal-architecture-ports-adapters-e3a343a8c649?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
