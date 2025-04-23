@@ -1,6 +1,8 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Triag Team sometimes unfair](https://medium.com/@youssefmohamed_84205/triag-team-sometimes-unfair-ebfc44179a44?source=rss------bug_bounty_writeup-5)
+- [CSRF Vulnerability in EchoStar Company](https://medium.com/@youssefmohamed_84205/csrf-vulnerability-in-echostar-company-ffecbc6edc24?source=rss------bug_bounty_writeup-5)
 - [Unauthorized Users Could Disclose Information and Execute GraphQL Operations After Permission…](https://medium.com/@blackarazi/unauthorized-users-could-disclose-information-and-execute-graphql-operations-after-permission-961094edf7c8?source=rss------bug_bounty_writeup-5)
 - [Exposing SMTP Misconfigurations: STARTTLS and Self-Signed Certs](https://mrdineshpathro.medium.com/exposing-smtp-misconfigurations-starttls-and-self-signed-certs-01e5ff9a3367?source=rss------bug_bounty_writeup-5)
 - [I Lost $3,750 in 30 Seconds — The ATO Bug 99% of Hackers Miss &lpar;Here’s How to Avoid It&rpar;](https://infosecwriteups.com/i-lost-3-750-in-30-seconds-the-ato-bug-99-of-hackers-miss-heres-how-to-avoid-it-4bcb7aeaa13b?source=rss----7b722bfd1b8d---4)
@@ -19,8 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Email Verification Bypass via Sign in with Google](https://xsametyigit.medium.com/email-verification-bypass-via-sign-in-with-google-a273827c4968?source=rss------bug_bounty_writeup-5)
 - [Winning Swags and Hall of Fame for Finding bugs.](https://infosecwriteups.com/winning-swags-and-hall-of-fame-for-finding-bugs-7402555fefe3?source=rss------bug_bounty_writeup-5)
 - [How I Hijacked OAuth Tokens Through a Parallel Auth Flow Race Condition — $8500 P1 Bug Bounty](https://infosecwriteups.com/how-i-hijacked-oauth-tokens-through-a-parallel-auth-flow-race-condition-8500-p1-bug-bounty-7af1cccc4d4c?source=rss------bug_bounty_writeup-5)
-- [All about Multi-factor Authentication](https://hassanjawaid.medium.com/all-about-multi-factor-authentication-a131d6c20bf5?source=rss------bug_bounty_writeup-5)
-- [Auth Bypass to Admin via Response Manipulation]](https://medium.com/@arrasgotcha/auth-bypass-to-admin-via-response-manipulation-3c2df2e2c8ef?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
