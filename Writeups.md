@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Exposing SMTP Misconfigurations: STARTTLS and Self-Signed Certs](https://mrdineshpathro.medium.com/exposing-smtp-misconfigurations-starttls-and-self-signed-certs-01e5ff9a3367?source=rss------bug_bounty_writeup-5)
 - [I Lost $3,750 in 30 Seconds — The ATO Bug 99% of Hackers Miss &lpar;Here’s How to Avoid It&rpar;](https://infosecwriteups.com/i-lost-3-750-in-30-seconds-the-ato-bug-99-of-hackers-miss-heres-how-to-avoid-it-4bcb7aeaa13b?source=rss----7b722bfd1b8d---4)
 - [SOC L1 Alert Reporting : Step-by-Step Walkthrough | Tryhackme](https://infosecwriteups.com/soc-l1-alert-reporting-step-by-step-walkthrough-tryhackme-6463e1f72c06?source=rss----7b722bfd1b8d---4)
 - [404 to 0wnage: How a Broken Link Led Me to Admin Panel Access](https://infosecwriteups.com/404-to-0wnage-how-a-broken-link-led-me-to-admin-panel-access-2b58e1fffaa3?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How I Hijacked OAuth Tokens Through a Parallel Auth Flow Race Condition — $8500 P1 Bug Bounty](https://infosecwriteups.com/how-i-hijacked-oauth-tokens-through-a-parallel-auth-flow-race-condition-8500-p1-bug-bounty-7af1cccc4d4c?source=rss------bug_bounty_writeup-5)
 - [All about Multi-factor Authentication](https://hassanjawaid.medium.com/all-about-multi-factor-authentication-a131d6c20bf5?source=rss------bug_bounty_writeup-5)
 - [Auth Bypass to Admin via Response Manipulation]](https://medium.com/@arrasgotcha/auth-bypass-to-admin-via-response-manipulation-3c2df2e2c8ef?source=rss------bug_bounty_writeup-5)
-- [How I Registered the Same Username Twice — No Tools Needed](https://strangerwhite.medium.com/how-i-registered-the-same-username-twice-no-tools-needed-284f3b46d82a?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
