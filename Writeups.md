@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How I Reported My First Vulnerability](https://medium.com/@0x004sec/how-i-reported-my-first-vulnerability-b4504ed77ec5?source=rss------bug_bounty_writeup-5)
 - [Beyond the Schema: Understanding and Mitigating GraphQL Security Risks](https://medium.com/@21bec131/beyond-the-schema-understanding-and-mitigating-graphql-security-risks-48f5264ed050?source=rss------bug_bounty_writeup-5)
 - [Exposing Remote Code Execution: A Security Analyst’s Guide to RCE Discovery](https://medium.com/@21bec131/exposing-remote-code-execution-a-security-analysts-guide-to-rce-discovery-cf1efc128a40?source=rss------bug_bounty_writeup-5)
 - [I Used AI to Write a Payload… And It Worked &lpar;Sort of&rpar;](https://infosecwriteups.com/i-used-ai-to-write-a-payload-and-it-worked-sort-of-55b6860d8be9?source=rss----7b722bfd1b8d---4)
@@ -19,7 +20,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [When Words Turn Weapon: Exploiting AI Through Prompt Injection](https://medium.com/@21bec131/when-words-turn-weapon-exploiting-ai-through-prompt-injection-072ef98390f5?source=rss------bug_bounty_writeup-5)
 - [From Theory to Practice: Real-World HTTP Request Smuggling Attack Scenarios](https://medium.com/@21bec131/from-theory-to-practice-real-world-http-request-smuggling-attack-scenarios-823bdf5f928d?source=rss------bug_bounty_writeup-5)
 - [Exposing SMTP Misconfigurations: STARTTLS and Self-Signed Certs](https://mrdineshpathro.medium.com/exposing-smtp-misconfigurations-starttls-and-self-signed-certs-01e5ff9a3367?source=rss------bug_bounty_writeup-5)
-- [Why You’re Not Finding Bugs Yet — And How I’m Fixing It](https://medium.com/@k4r7h1kn/why-youre-not-finding-bugs-yet-and-how-i-m-fixing-it-072a84e4fcf4?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
