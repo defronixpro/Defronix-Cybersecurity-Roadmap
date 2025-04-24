@@ -922,6 +922,9 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I Reported My First Vulnerability](https://medium.com/@0x004sec/how-i-reported-my-first-vulnerability-b4504ed77ec5?source=rss------bug_bounty_writeup-5)
+- [Beyond the Schema: Understanding and Mitigating GraphQL Security Risks](https://medium.com/@21bec131/beyond-the-schema-understanding-and-mitigating-graphql-security-risks-48f5264ed050?source=rss------bug_bounty_writeup-5)
+- [Exposing Remote Code Execution: A Security Analyst’s Guide to RCE Discovery](https://medium.com/@21bec131/exposing-remote-code-execution-a-security-analysts-guide-to-rce-discovery-cf1efc128a40?source=rss------bug_bounty_writeup-5)
 - [I Used AI to Write a Payload… And It Worked &lpar;Sort of&rpar;](https://infosecwriteups.com/i-used-ai-to-write-a-payload-and-it-worked-sort-of-55b6860d8be9?source=rss----7b722bfd1b8d---4)
 - [Amul India Data Leak: How India’s Dairy Leader Left User Data Vulnerable](https://infosecwriteups.com/amul-india-data-leak-how-indias-dairy-leader-left-user-data-vulnerable-fe69fc1aba1a?source=rss----7b722bfd1b8d---4)
 - [How I discovered a hidden user thanks to server responses ?](https://infosecwriteups.com/how-i-discovered-a-hidden-user-thanks-to-server-responses-b65e198f4e73?source=rss----7b722bfd1b8d---4)
@@ -935,13 +938,9 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Triag Team sometimes unfair](https://medium.com/@youssefmohamed_84205/triag-team-sometimes-unfair-ebfc44179a44?source=rss------bug_bounty_writeup-5)
 - [CSRF Vulnerability in EchoStar Company](https://medium.com/@youssefmohamed_84205/csrf-vulnerability-in-echostar-company-ffecbc6edc24?source=rss------bug_bounty_writeup-5)
 - [Unauthorized Users Could Disclose Information and Execute GraphQL Operations After Permission…](https://medium.com/@blackarazi/unauthorized-users-could-disclose-information-and-execute-graphql-operations-after-permission-961094edf7c8?source=rss------bug_bounty_writeup-5)
+- [When Words Turn Weapon: Exploiting AI Through Prompt Injection](https://medium.com/@21bec131/when-words-turn-weapon-exploiting-ai-through-prompt-injection-072ef98390f5?source=rss------bug_bounty_writeup-5)
+- [From Theory to Practice: Real-World HTTP Request Smuggling Attack Scenarios](https://medium.com/@21bec131/from-theory-to-practice-real-world-http-request-smuggling-attack-scenarios-823bdf5f928d?source=rss------bug_bounty_writeup-5)
 - [Exposing SMTP Misconfigurations: STARTTLS and Self-Signed Certs](https://mrdineshpathro.medium.com/exposing-smtp-misconfigurations-starttls-and-self-signed-certs-01e5ff9a3367?source=rss------bug_bounty_writeup-5)
-- [Why You’re Not Finding Bugs Yet — And How I’m Fixing It](https://medium.com/@k4r7h1kn/why-youre-not-finding-bugs-yet-and-how-i-m-fixing-it-072a84e4fcf4?source=rss------bug_bounty_writeup-5)
-- [​​$1,200 Bounty — IDOR via Phantom API and Parameter Manipulation​](https://medium.com/@cadeeper/1-200-bounty-idor-via-phantom-api-and-parameter-manipulation-1f9a9d84f467?source=rss------bug_bounty_writeup-5)
-- [Tricking system to delete any user account: from informative to 4000$ HIGH Bounty](https://entropydrifter.medium.com/tricking-system-to-delete-any-user-account-from-informative-to-4000-high-bounty-245944d4eaa9?source=rss------bug_bounty_writeup-5)
-- [Email Verification Bypass via Sign in with Google](https://xsametyigit.medium.com/email-verification-bypass-via-sign-in-with-google-a273827c4968?source=rss------bug_bounty_writeup-5)
-- [Winning Swags and Hall of Fame for Finding bugs.](https://infosecwriteups.com/winning-swags-and-hall-of-fame-for-finding-bugs-7402555fefe3?source=rss------bug_bounty_writeup-5)
-- [How I Hijacked OAuth Tokens Through a Parallel Auth Flow Race Condition — $8500 P1 Bug Bounty](https://infosecwriteups.com/how-i-hijacked-oauth-tokens-through-a-parallel-auth-flow-race-condition-8500-p1-bug-bounty-7af1cccc4d4c?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
