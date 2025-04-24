@@ -1,6 +1,8 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [I Used AI to Write a Payload… And It Worked &lpar;Sort of&rpar;](https://infosecwriteups.com/i-used-ai-to-write-a-payload-and-it-worked-sort-of-55b6860d8be9?source=rss----7b722bfd1b8d---4)
+- [Amul India Data Leak: How India’s Dairy Leader Left User Data Vulnerable](https://infosecwriteups.com/amul-india-data-leak-how-indias-dairy-leader-left-user-data-vulnerable-fe69fc1aba1a?source=rss----7b722bfd1b8d---4)
 - [How I discovered a hidden user thanks to server responses ?](https://infosecwriteups.com/how-i-discovered-a-hidden-user-thanks-to-server-responses-b65e198f4e73?source=rss----7b722bfd1b8d---4)
 - [PNPT Exam Review — 2025](https://infosecwriteups.com/pnpt-exam-review-2025-d1e0d5aded02?source=rss----7b722bfd1b8d---4)
 - [How to Build a Threat Detection Pipeline from Scratch &lpar;Like a Cyber Ninja!&rpar;](https://infosecwriteups.com/how-to-build-a-threat-detection-pipeline-from-scratch-like-a-cyber-ninja-25abc2e5a541?source=rss----7b722bfd1b8d---4)
@@ -9,8 +11,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How to Create a Botnet Using One Tool: A Proof of Concept for Educational Purposes Aspiring…](https://infosecwriteups.com/how-to-create-a-botnet-using-one-tool-a-proof-of-concept-for-educational-purposes-aspiring-d5e7f3d6e10f?source=rss----7b722bfd1b8d---4)
 - [Burp, Bounce, and Break: How Web Cache Poisoning Let Me Control the App](https://infosecwriteups.com/burp-bounce-and-break-how-web-cache-poisoning-let-me-control-the-app-be173528ff8a?source=rss----7b722bfd1b8d---4)
 - [OWASP Juice Shop | Part 2 — Bully Chatbot](https://infosecwriteups.com/owasp-juice-shop-part-2-bully-chatbot-2f5a853901ed?source=rss----7b722bfd1b8d---4)
-- [OWASP Juice Shop | Part 1 — ScoreBoard Solution — StrawHat Hackers](https://infosecwriteups.com/owasp-juice-shop-part-1-scoreboard-solution-strawhat-hackers-834b29bb5973?source=rss----7b722bfd1b8d---4)
-- [How to Set Up a Honeypot for Your Apache2 Server](https://infosecwriteups.com/how-to-set-up-a-honeypot-for-your-apache2-server-1ddcdaa8b7e1?source=rss----7b722bfd1b8d---4)
 - [Triag Team sometimes unfair](https://medium.com/@youssefmohamed_84205/triag-team-sometimes-unfair-ebfc44179a44?source=rss------bug_bounty_writeup-5)
 - [CSRF Vulnerability in EchoStar Company](https://medium.com/@youssefmohamed_84205/csrf-vulnerability-in-echostar-company-ffecbc6edc24?source=rss------bug_bounty_writeup-5)
 - [Unauthorized Users Could Disclose Information and Execute GraphQL Operations After Permission…](https://medium.com/@blackarazi/unauthorized-users-could-disclose-information-and-execute-graphql-operations-after-permission-961094edf7c8?source=rss------bug_bounty_writeup-5)
