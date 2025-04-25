@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I Found phpinfo Exposure In telkomsigma.co.id](https://firdausmuhammadismail.medium.com/how-i-found-phpinfo-in-telkomsigma-co-id-49c89a1b0404?source=rss------bug_bounty_writeup-5)
 - [Inject, Exploit, Repeat: Real-World Adventures in XSS](https://medium.com/@es0557533/inject-exploit-repeat-real-world-adventures-in-xss-a8fd8f7066c8?source=rss------bug_bounty_writeup-5)
 - [How I Reported My First Vulnerability](https://medium.com/@0x004sec/how-i-reported-my-first-vulnerability-b4504ed77ec5?source=rss------bug_bounty_writeup-5)
 - [Beyond the Schema: Understanding and Mitigating GraphQL Security Risks](https://medium.com/@21bec131/beyond-the-schema-understanding-and-mitigating-graphql-security-risks-48f5264ed050?source=rss------bug_bounty_writeup-5)
@@ -940,7 +941,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [CSRF Vulnerability in EchoStar Company](https://medium.com/@youssefmohamed_84205/csrf-vulnerability-in-echostar-company-ffecbc6edc24?source=rss------bug_bounty_writeup-5)
 - [Unauthorized Users Could Disclose Information and Execute GraphQL Operations After Permission…](https://medium.com/@blackarazi/unauthorized-users-could-disclose-information-and-execute-graphql-operations-after-permission-961094edf7c8?source=rss------bug_bounty_writeup-5)
 - [When Words Turn Weapon: Exploiting AI Through Prompt Injection](https://medium.com/@21bec131/when-words-turn-weapon-exploiting-ai-through-prompt-injection-072ef98390f5?source=rss------bug_bounty_writeup-5)
-- [From Theory to Practice: Real-World HTTP Request Smuggling Attack Scenarios](https://medium.com/@21bec131/from-theory-to-practice-real-world-http-request-smuggling-attack-scenarios-823bdf5f928d?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
