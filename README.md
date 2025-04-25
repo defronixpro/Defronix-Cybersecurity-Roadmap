@@ -922,16 +922,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [Administrator | HackTheBox](https://infosecwriteups.com/administrator-hackthebox-e09d08844677?source=rss----7b722bfd1b8d---4)
-- [The Fastest Way to Learn Web Hacking in 2025 &lpar;With Free Resources&rpar;](https://infosecwriteups.com/the-fastest-way-to-learn-web-hacking-in-2025-with-free-resources-88c8e74a3889?source=rss----7b722bfd1b8d---4)
-- [Hidden Tricks to Spot Phishing Emails Before They Trick You!](https://infosecwriteups.com/hidden-tricks-to-spot-phishing-emails-before-they-trick-you-c02810b6b820?source=rss----7b722bfd1b8d---4)
-- [Hostile Host Headers: How I Hijacked the App with One Sneaky Header](https://infosecwriteups.com/hostile-host-headers-how-i-hijacked-the-app-with-one-sneaky-header-42c7dd82d2bc?source=rss----7b722bfd1b8d---4)
-- [Unrestricted Access to All User Information | REST API Oversharing](https://infosecwriteups.com/unrestricted-access-to-all-user-information-rest-api-oversharing-e4a9a7e5bade?source=rss----7b722bfd1b8d---4)
-- [GitLab CI for Python Developers: A Complete Guide](https://infosecwriteups.com/gitlab-ci-for-python-developers-a-complete-guide-83794cb911d4?source=rss----7b722bfd1b8d---4)
-- [I Used AI to Write a Payload… And It Worked &lpar;Sort of&rpar;](https://infosecwriteups.com/i-used-ai-to-write-a-payload-and-it-worked-sort-of-55b6860d8be9?source=rss----7b722bfd1b8d---4)
-- [Amul India Data Leak: How India’s Dairy Leader Left User Data Vulnerable](https://infosecwriteups.com/amul-india-data-leak-how-indias-dairy-leader-left-user-data-vulnerable-fe69fc1aba1a?source=rss----7b722bfd1b8d---4)
-- [How I discovered a hidden user thanks to server responses ?](https://infosecwriteups.com/how-i-discovered-a-hidden-user-thanks-to-server-responses-b65e198f4e73?source=rss----7b722bfd1b8d---4)
-- [PNPT Exam Review — 2025](https://infosecwriteups.com/pnpt-exam-review-2025-d1e0d5aded02?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
