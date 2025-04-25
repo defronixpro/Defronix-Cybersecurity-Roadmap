@@ -1,6 +1,12 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [The Fastest Way to Learn Web Hacking in 2025 &lpar;With Free Resources&rpar;](https://infosecwriteups.com/the-fastest-way-to-learn-web-hacking-in-2025-with-free-resources-88c8e74a3889?source=rss----7b722bfd1b8d---4)
+- [Hidden Tricks to Spot Phishing Emails Before They Trick You!](https://infosecwriteups.com/hidden-tricks-to-spot-phishing-emails-before-they-trick-you-c02810b6b820?source=rss----7b722bfd1b8d---4)
+- [Most Pro Hacker Adviced Beginners To Start with on VDP Program I Taked This Advice and After Three…](https://medium.com/@youssefmohamed_84205/most-pro-hacker-adviced-beginners-to-start-with-on-vdp-program-i-taked-this-advice-and-after-three-bbc216680b6f?source=rss------bug_bounty_writeup-5)
+- [Hostile Host Headers: How I Hijacked the App with One Sneaky Header](https://infosecwriteups.com/hostile-host-headers-how-i-hijacked-the-app-with-one-sneaky-header-42c7dd82d2bc?source=rss----7b722bfd1b8d---4)
+- [Unrestricted Access to All User Information | REST API Oversharing](https://infosecwriteups.com/unrestricted-access-to-all-user-information-rest-api-oversharing-e4a9a7e5bade?source=rss----7b722bfd1b8d---4)
+- [GitLab CI for Python Developers: A Complete Guide](https://infosecwriteups.com/gitlab-ci-for-python-developers-a-complete-guide-83794cb911d4?source=rss----7b722bfd1b8d---4)
 - [How I Found phpinfo Exposure In telkomsigma.co.id](https://firdausmuhammadismail.medium.com/how-i-found-phpinfo-in-telkomsigma-co-id-49c89a1b0404?source=rss------bug_bounty_writeup-5)
 - [Inject, Exploit, Repeat: Real-World Adventures in XSS](https://medium.com/@es0557533/inject-exploit-repeat-real-world-adventures-in-xss-a8fd8f7066c8?source=rss------bug_bounty_writeup-5)
 - [How I Reported My First Vulnerability](https://medium.com/@0x004sec/how-i-reported-my-first-vulnerability-b4504ed77ec5?source=rss------bug_bounty_writeup-5)
@@ -11,15 +17,9 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How I discovered a hidden user thanks to server responses ?](https://infosecwriteups.com/how-i-discovered-a-hidden-user-thanks-to-server-responses-b65e198f4e73?source=rss----7b722bfd1b8d---4)
 - [PNPT Exam Review — 2025](https://infosecwriteups.com/pnpt-exam-review-2025-d1e0d5aded02?source=rss----7b722bfd1b8d---4)
 - [How to Build a Threat Detection Pipeline from Scratch &lpar;Like a Cyber Ninja!&rpar;](https://infosecwriteups.com/how-to-build-a-threat-detection-pipeline-from-scratch-like-a-cyber-ninja-25abc2e5a541?source=rss----7b722bfd1b8d---4)
-- [Nothing changed… except for one detail. And that was enough to hack](https://infosecwriteups.com/nothing-changed-except-for-one-detail-and-that-was-enough-to-hack-791f0f8bc8cb?source=rss----7b722bfd1b8d---4)
-- [Email Verification Bypass during Account Creation | Insecure Design](https://infosecwriteups.com/email-verification-bypass-during-account-creation-insecure-design-09122979577f?source=rss----7b722bfd1b8d---4)
-- [How to Create a Botnet Using One Tool: A Proof of Concept for Educational Purposes Aspiring…](https://infosecwriteups.com/how-to-create-a-botnet-using-one-tool-a-proof-of-concept-for-educational-purposes-aspiring-d5e7f3d6e10f?source=rss----7b722bfd1b8d---4)
-- [Burp, Bounce, and Break: How Web Cache Poisoning Let Me Control the App](https://infosecwriteups.com/burp-bounce-and-break-how-web-cache-poisoning-let-me-control-the-app-be173528ff8a?source=rss----7b722bfd1b8d---4)
-- [OWASP Juice Shop | Part 2 — Bully Chatbot](https://infosecwriteups.com/owasp-juice-shop-part-2-bully-chatbot-2f5a853901ed?source=rss----7b722bfd1b8d---4)
 - [Triag Team sometimes unfair](https://medium.com/@youssefmohamed_84205/triag-team-sometimes-unfair-ebfc44179a44?source=rss------bug_bounty_writeup-5)
 - [CSRF Vulnerability in EchoStar Company](https://medium.com/@youssefmohamed_84205/csrf-vulnerability-in-echostar-company-ffecbc6edc24?source=rss------bug_bounty_writeup-5)
 - [Unauthorized Users Could Disclose Information and Execute GraphQL Operations After Permission…](https://medium.com/@blackarazi/unauthorized-users-could-disclose-information-and-execute-graphql-operations-after-permission-961094edf7c8?source=rss------bug_bounty_writeup-5)
-- [When Words Turn Weapon: Exploiting AI Through Prompt Injection](https://medium.com/@21bec131/when-words-turn-weapon-exploiting-ai-through-prompt-injection-072ef98390f5?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
