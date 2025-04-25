@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Administrator | HackTheBox](https://infosecwriteups.com/administrator-hackthebox-e09d08844677?source=rss----7b722bfd1b8d---4)
 - [The Fastest Way to Learn Web Hacking in 2025 &lpar;With Free Resources&rpar;](https://infosecwriteups.com/the-fastest-way-to-learn-web-hacking-in-2025-with-free-resources-88c8e74a3889?source=rss----7b722bfd1b8d---4)
 - [Hidden Tricks to Spot Phishing Emails Before They Trick You!](https://infosecwriteups.com/hidden-tricks-to-spot-phishing-emails-before-they-trick-you-c02810b6b820?source=rss----7b722bfd1b8d---4)
 - [Most Pro Hacker Adviced Beginners To Start with on VDP Program I Taked This Advice and After Three…](https://medium.com/@youssefmohamed_84205/most-pro-hacker-adviced-beginners-to-start-with-on-vdp-program-i-taked-this-advice-and-after-three-bbc216680b6f?source=rss------bug_bounty_writeup-5)
@@ -937,7 +938,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Amul India Data Leak: How India’s Dairy Leader Left User Data Vulnerable](https://infosecwriteups.com/amul-india-data-leak-how-indias-dairy-leader-left-user-data-vulnerable-fe69fc1aba1a?source=rss----7b722bfd1b8d---4)
 - [How I discovered a hidden user thanks to server responses ?](https://infosecwriteups.com/how-i-discovered-a-hidden-user-thanks-to-server-responses-b65e198f4e73?source=rss----7b722bfd1b8d---4)
 - [PNPT Exam Review — 2025](https://infosecwriteups.com/pnpt-exam-review-2025-d1e0d5aded02?source=rss----7b722bfd1b8d---4)
-- [How to Build a Threat Detection Pipeline from Scratch &lpar;Like a Cyber Ninja!&rpar;](https://infosecwriteups.com/how-to-build-a-threat-detection-pipeline-from-scratch-like-a-cyber-ninja-25abc2e5a541?source=rss----7b722bfd1b8d---4)
 - [Triag Team sometimes unfair](https://medium.com/@youssefmohamed_84205/triag-team-sometimes-unfair-ebfc44179a44?source=rss------bug_bounty_writeup-5)
 - [CSRF Vulnerability in EchoStar Company](https://medium.com/@youssefmohamed_84205/csrf-vulnerability-in-echostar-company-ffecbc6edc24?source=rss------bug_bounty_writeup-5)
 - [Unauthorized Users Could Disclose Information and Execute GraphQL Operations After Permission…](https://medium.com/@blackarazi/unauthorized-users-could-disclose-information-and-execute-graphql-operations-after-permission-961094edf7c8?source=rss------bug_bounty_writeup-5)
