@@ -6,7 +6,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Administrator | HackTheBox](https://infosecwriteups.com/administrator-hackthebox-e09d08844677?source=rss----7b722bfd1b8d---4)
 - [The Fastest Way to Learn Web Hacking in 2025 &lpar;With Free Resources&rpar;](https://infosecwriteups.com/the-fastest-way-to-learn-web-hacking-in-2025-with-free-resources-88c8e74a3889?source=rss----7b722bfd1b8d---4)
 - [Hidden Tricks to Spot Phishing Emails Before They Trick You!](https://infosecwriteups.com/hidden-tricks-to-spot-phishing-emails-before-they-trick-you-c02810b6b820?source=rss----7b722bfd1b8d---4)
-- [Most Pro Hacker Adviced Beginners To Start with on VDP Program I Taked This Advice and After Three…](https://medium.com/@youssefmohamed_84205/most-pro-hacker-adviced-beginners-to-start-with-on-vdp-program-i-taked-this-advice-and-after-three-bbc216680b6f?source=rss------bug_bounty_writeup-5)
+- [How To Get Your First Bug from bug hunting Platforms](https://medium.com/@youssefmohamed_84205/most-pro-hacker-adviced-beginners-to-start-with-on-vdp-program-i-taked-this-advice-and-after-three-bbc216680b6f?source=rss------bug_bounty_writeup-5)
 - [Hostile Host Headers: How I Hijacked the App with One Sneaky Header](https://infosecwriteups.com/hostile-host-headers-how-i-hijacked-the-app-with-one-sneaky-header-42c7dd82d2bc?source=rss----7b722bfd1b8d---4)
 - [Unrestricted Access to All User Information | REST API Oversharing](https://infosecwriteups.com/unrestricted-access-to-all-user-information-rest-api-oversharing-e4a9a7e5bade?source=rss----7b722bfd1b8d---4)
 - [GitLab CI for Python Developers: A Complete Guide](https://infosecwriteups.com/gitlab-ci-for-python-developers-a-complete-guide-83794cb911d4?source=rss----7b722bfd1b8d---4)
