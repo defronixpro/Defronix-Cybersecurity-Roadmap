@@ -1,6 +1,10 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [⏱️ There were no visible errors, no hints… only the server’s hesitation told me the truth.](https://infosecwriteups.com/%EF%B8%8F-there-were-no-visible-errors-no-hints-only-the-servers-hesitation-told-me-the-truth-7b4987f10444?source=rss----7b722bfd1b8d---4)
+- [Path Traversal Attack: How I Accessed Admin Secrets](https://infosecwriteups.com/path-traversal-attack-how-i-accessed-admin-secrets-fa5de1865031?source=rss----7b722bfd1b8d---4)
+- [PII Disclosure | CSRF | Open Redirect | CORS Misconfiguration](https://infosecwriteups.com/chaining-csrf-and-an-open-redirect-leads-to-sensitive-information-disclosure-5915b24bc53b?source=rss----7b722bfd1b8d---4)
+- [Secret Sauce in Robots.txt  — How I Found Hidden Admin Panels and Debug URLs](https://infosecwriteups.com/secret-sauce-in-robots-txt-how-i-found-hidden-admin-panels-and-debug-urls-b7e8a11ea36f?source=rss----7b722bfd1b8d---4)
 - [Top 5 Open Source Tools to Scan Your Code for Vulnerabilities](https://infosecwriteups.com/top-5-open-source-tools-to-scan-your-code-for-vulnerabilities-81ce197167e5?source=rss----7b722bfd1b8d---4)
 - [Google Cloud Shell for Bug Hunters](https://medium.com/meetcyber/google-cloud-shell-for-bug-hunters-6afb0f01c29a?source=rss------bug_bounty_writeup-5)
 - [Mastering HTTPS Traffic Interception in Flutter Using Burp Suite](https://hatemmohamedabdallah.medium.com/mastering-https-traffic-interception-in-flutter-using-burp-suite-13c02b968bf4?source=rss------bug_bounty_writeup-5)
@@ -10,15 +14,11 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How To Get Your First Bug from bug hunting Platforms](https://medium.com/@youssefmohamed_84205/most-pro-hacker-adviced-beginners-to-start-with-on-vdp-program-i-taked-this-advice-and-after-three-bbc216680b6f?source=rss------bug_bounty_writeup-5)
 - [Hostile Host Headers: How I Hijacked the App with One Sneaky Header](https://infosecwriteups.com/hostile-host-headers-how-i-hijacked-the-app-with-one-sneaky-header-42c7dd82d2bc?source=rss----7b722bfd1b8d---4)
 - [Unrestricted Access to All User Information | REST API Oversharing](https://infosecwriteups.com/unrestricted-access-to-all-user-information-rest-api-oversharing-e4a9a7e5bade?source=rss----7b722bfd1b8d---4)
-- [GitLab CI for Python Developers: A Complete Guide](https://infosecwriteups.com/gitlab-ci-for-python-developers-a-complete-guide-83794cb911d4?source=rss----7b722bfd1b8d---4)
 - [How I Found phpinfo Exposure In telkomsigma.co.id](https://firdausmuhammadismail.medium.com/how-i-found-phpinfo-in-telkomsigma-co-id-49c89a1b0404?source=rss------bug_bounty_writeup-5)
 - [Inject, Exploit, Repeat: Real-World Adventures in XSS](https://medium.com/@es0557533/inject-exploit-repeat-real-world-adventures-in-xss-a8fd8f7066c8?source=rss------bug_bounty_writeup-5)
 - [How I Reported My First Vulnerability](https://medium.com/@0x004sec/how-i-reported-my-first-vulnerability-b4504ed77ec5?source=rss------bug_bounty_writeup-5)
 - [Beyond the Schema: Understanding and Mitigating GraphQL Security Risks](https://medium.com/@21bec131/beyond-the-schema-understanding-and-mitigating-graphql-security-risks-48f5264ed050?source=rss------bug_bounty_writeup-5)
 - [Exposing Remote Code Execution: A Security Analyst’s Guide to RCE Discovery](https://medium.com/@21bec131/exposing-remote-code-execution-a-security-analysts-guide-to-rce-discovery-cf1efc128a40?source=rss------bug_bounty_writeup-5)
-- [I Used AI to Write a Payload… And It Worked &lpar;Sort of&rpar;](https://infosecwriteups.com/i-used-ai-to-write-a-payload-and-it-worked-sort-of-55b6860d8be9?source=rss----7b722bfd1b8d---4)
-- [Amul India Data Leak: How India’s Dairy Leader Left User Data Vulnerable](https://infosecwriteups.com/amul-india-data-leak-how-indias-dairy-leader-left-user-data-vulnerable-fe69fc1aba1a?source=rss----7b722bfd1b8d---4)
-- [How I discovered a hidden user thanks to server responses ?](https://infosecwriteups.com/how-i-discovered-a-hidden-user-thanks-to-server-responses-b65e198f4e73?source=rss----7b722bfd1b8d---4)
 - [Triag Team sometimes unfair](https://medium.com/@youssefmohamed_84205/triag-team-sometimes-unfair-ebfc44179a44?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
