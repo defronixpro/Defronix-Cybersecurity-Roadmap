@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Breaking File Upload Security: Finding Hidden XSS](https://medium.com/@es0557533/breaking-file-upload-security-finding-hidden-xss-cfc6e38bcee3?source=rss------bug_bounty_writeup-5)
 - [Misconfiguration on MinIO S3 Bucket &lpar;Similar to AWS S3 Misconfig&rpar;](https://frostyxsec.medium.com/misconfiguration-on-minio-s3-bucket-similar-to-aws-s3-misconfig-a6754d29d011?source=rss------bug_bounty_writeup-5)
 - [⏱️ There were no visible errors, no hints… only the server’s hesitation told me the truth.](https://infosecwriteups.com/%EF%B8%8F-there-were-no-visible-errors-no-hints-only-the-servers-hesitation-told-me-the-truth-7b4987f10444?source=rss----7b722bfd1b8d---4)
 - [Path Traversal Attack: How I Accessed Admin Secrets](https://infosecwriteups.com/path-traversal-attack-how-i-accessed-admin-secrets-fa5de1865031?source=rss----7b722bfd1b8d---4)
@@ -940,7 +941,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Inject, Exploit, Repeat: Real-World Adventures in XSS](https://medium.com/@es0557533/inject-exploit-repeat-real-world-adventures-in-xss-a8fd8f7066c8?source=rss------bug_bounty_writeup-5)
 - [How I Reported My First Vulnerability](https://medium.com/@0x004sec/how-i-reported-my-first-vulnerability-b4504ed77ec5?source=rss------bug_bounty_writeup-5)
 - [Beyond the Schema: Understanding and Mitigating GraphQL Security Risks](https://medium.com/@21bec131/beyond-the-schema-understanding-and-mitigating-graphql-security-risks-48f5264ed050?source=rss------bug_bounty_writeup-5)
-- [Exposing Remote Code Execution: A Security Analyst’s Guide to RCE Discovery](https://medium.com/@21bec131/exposing-remote-code-execution-a-security-analysts-guide-to-rce-discovery-cf1efc128a40?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
