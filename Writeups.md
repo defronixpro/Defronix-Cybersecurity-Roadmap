@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Misconfiguration on MinIO S3 Bucket &lpar;Similar to AWS S3 Misconfig&rpar;](https://frostyxsec.medium.com/misconfiguration-on-minio-s3-bucket-similar-to-aws-s3-misconfig-a6754d29d011?source=rss------bug_bounty_writeup-5)
 - [⏱️ There were no visible errors, no hints… only the server’s hesitation told me the truth.](https://infosecwriteups.com/%EF%B8%8F-there-were-no-visible-errors-no-hints-only-the-servers-hesitation-told-me-the-truth-7b4987f10444?source=rss----7b722bfd1b8d---4)
 - [Path Traversal Attack: How I Accessed Admin Secrets](https://infosecwriteups.com/path-traversal-attack-how-i-accessed-admin-secrets-fa5de1865031?source=rss----7b722bfd1b8d---4)
 - [PII Disclosure | CSRF | Open Redirect | CORS Misconfiguration](https://infosecwriteups.com/chaining-csrf-and-an-open-redirect-leads-to-sensitive-information-disclosure-5915b24bc53b?source=rss----7b722bfd1b8d---4)
@@ -19,7 +20,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How I Reported My First Vulnerability](https://medium.com/@0x004sec/how-i-reported-my-first-vulnerability-b4504ed77ec5?source=rss------bug_bounty_writeup-5)
 - [Beyond the Schema: Understanding and Mitigating GraphQL Security Risks](https://medium.com/@21bec131/beyond-the-schema-understanding-and-mitigating-graphql-security-risks-48f5264ed050?source=rss------bug_bounty_writeup-5)
 - [Exposing Remote Code Execution: A Security Analyst’s Guide to RCE Discovery](https://medium.com/@21bec131/exposing-remote-code-execution-a-security-analysts-guide-to-rce-discovery-cf1efc128a40?source=rss------bug_bounty_writeup-5)
-- [Triag Team sometimes unfair](https://medium.com/@youssefmohamed_84205/triag-team-sometimes-unfair-ebfc44179a44?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
