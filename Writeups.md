@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Top 5 Open Source Tools to Scan Your Code for Vulnerabilities](https://infosecwriteups.com/top-5-open-source-tools-to-scan-your-code-for-vulnerabilities-81ce197167e5?source=rss----7b722bfd1b8d---4)
 - [Google Cloud Shell for Bug Hunters](https://medium.com/meetcyber/google-cloud-shell-for-bug-hunters-6afb0f01c29a?source=rss------bug_bounty_writeup-5)
 - [Mastering HTTPS Traffic Interception in Flutter Using Burp Suite](https://hatemmohamedabdallah.medium.com/mastering-https-traffic-interception-in-flutter-using-burp-suite-13c02b968bf4?source=rss------bug_bounty_writeup-5)
 - [Administrator | HackTheBox](https://infosecwriteups.com/administrator-hackthebox-e09d08844677?source=rss----7b722bfd1b8d---4)
@@ -18,7 +19,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [I Used AI to Write a Payload… And It Worked &lpar;Sort of&rpar;](https://infosecwriteups.com/i-used-ai-to-write-a-payload-and-it-worked-sort-of-55b6860d8be9?source=rss----7b722bfd1b8d---4)
 - [Amul India Data Leak: How India’s Dairy Leader Left User Data Vulnerable](https://infosecwriteups.com/amul-india-data-leak-how-indias-dairy-leader-left-user-data-vulnerable-fe69fc1aba1a?source=rss----7b722bfd1b8d---4)
 - [How I discovered a hidden user thanks to server responses ?](https://infosecwriteups.com/how-i-discovered-a-hidden-user-thanks-to-server-responses-b65e198f4e73?source=rss----7b722bfd1b8d---4)
-- [PNPT Exam Review — 2025](https://infosecwriteups.com/pnpt-exam-review-2025-d1e0d5aded02?source=rss----7b722bfd1b8d---4)
 - [Triag Team sometimes unfair](https://medium.com/@youssefmohamed_84205/triag-team-sometimes-unfair-ebfc44179a44?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
