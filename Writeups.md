@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Manual Testing for Privilege Escalation and Broken Access Control My &lpar;Methodology&rpar;](https://medium.com/@kroush333/manual-testing-for-privilege-escalation-and-broken-access-control-my-methodology-a3b9f41b82a2?source=rss------bug_bounty_writeup-5)
 - [a simple watch tower &lpar;:](https://medium.com/@cryptoboot123/a-simple-watch-tower-19467f0bee49?source=rss------bug_bounty_writeup-5)
 - [Exposing Firebase Misconfiguration](https://medium.com/@0xera51/exposing-firebase-misconfiguration-99795ba8139b?source=rss------bug_bounty_writeup-5)
 - [Attacking Web Applications with FFuF](https://medium.com/@yashpawar1199/attacking-web-applications-with-ffuf-63673231452e?source=rss------bug_bounty_writeup-5)
@@ -13,7 +14,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [PII Disclosure | CSRF | Open Redirect | CORS Misconfiguration](https://infosecwriteups.com/chaining-csrf-and-an-open-redirect-leads-to-sensitive-information-disclosure-5915b24bc53b?source=rss----7b722bfd1b8d---4)
 - [Secret Sauce in Robots.txt  — How I Found Hidden Admin Panels and Debug URLs](https://infosecwriteups.com/secret-sauce-in-robots-txt-how-i-found-hidden-admin-panels-and-debug-urls-b7e8a11ea36f?source=rss----7b722bfd1b8d---4)
 - [Top 5 Open Source Tools to Scan Your Code for Vulnerabilities](https://infosecwriteups.com/top-5-open-source-tools-to-scan-your-code-for-vulnerabilities-81ce197167e5?source=rss----7b722bfd1b8d---4)
-- [Mastering HTTPS Traffic Interception in Flutter Using Burp Suite](https://www.cylent.net/mastering-https-traffic-interception-in-flutter-using-burp-suite-13c02b968bf4?source=rss------bug_bounty_writeup-5)
 - [The Fastest Way to Learn Web Hacking in 2025 &lpar;With Free Resources&rpar;](https://infosecwriteups.com/the-fastest-way-to-learn-web-hacking-in-2025-with-free-resources-88c8e74a3889?source=rss----7b722bfd1b8d---4)
 - [Hidden Tricks to Spot Phishing Emails Before They Trick You!](https://infosecwriteups.com/hidden-tricks-to-spot-phishing-emails-before-they-trick-you-c02810b6b820?source=rss----7b722bfd1b8d---4)
 - [Hostile Host Headers: How I Hijacked the App with One Sneaky Header](https://infosecwriteups.com/hostile-host-headers-how-i-hijacked-the-app-with-one-sneaky-header-42c7dd82d2bc?source=rss----7b722bfd1b8d---4)
