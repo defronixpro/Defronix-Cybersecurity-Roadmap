@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [$600 Bounty received but in Parallel Universe](https://medium.com/developersglobal/600-bounty-received-but-in-parallel-universe-a5466300446d?source=rss------bug_bounty_writeup-5)
+- [“Account Takeovers Made Easy: Critical JWT Exposure via Archived URLs”](https://medium.com/@choudharinayan05/account-takeovers-made-easy-critical-jwt-exposure-via-archived-urls-1b7380c62943?source=rss------bug_bounty_writeup-5)
 - [How I Found a Critical Security Flaw and Earned a Reward on a VDP](https://medium.com/@luxangelo/how-i-found-a-critical-security-flaw-and-earned-a-reward-on-a-vdp-019ebec71a74?source=rss------bug_bounty_writeup-5)
 - [Breaking File Upload Security: Finding Hidden XSS](https://medium.com/@es0557533/breaking-file-upload-security-finding-hidden-xss-cfc6e38bcee3?source=rss------bug_bounty_writeup-5)
 - [Misconfiguration on MinIO S3 Bucket &lpar;Similar to AWS S3 Misconfig&rpar;](https://frostyxsec.medium.com/misconfiguration-on-minio-s3-bucket-similar-to-aws-s3-misconfig-a6754d29d011?source=rss------bug_bounty_writeup-5)
@@ -940,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [GitLab CI for Python Developers: A Complete Guide](https://infosecwriteups.com/gitlab-ci-for-python-developers-a-complete-guide-83794cb911d4?source=rss----7b722bfd1b8d---4)
 - [How I Found phpinfo Exposure In telkomsigma.co.id](https://firdausmuhammadismail.medium.com/how-i-found-phpinfo-in-telkomsigma-co-id-49c89a1b0404?source=rss------bug_bounty_writeup-5)
 - [Inject, Exploit, Repeat: Real-World Adventures in XSS](https://medium.com/@es0557533/inject-exploit-repeat-real-world-adventures-in-xss-a8fd8f7066c8?source=rss------bug_bounty_writeup-5)
-- [How I Reported My First Vulnerability](https://medium.com/@0x004sec/how-i-reported-my-first-vulnerability-b4504ed77ec5?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
