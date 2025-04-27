@@ -922,7 +922,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [$600 Bounty received but in Parallel Universe](https://medium.com/developersglobal/600-bounty-received-but-in-parallel-universe-a5466300446d?source=rss------bug_bounty_writeup-5)
 - [“Account Takeovers Made Easy: Critical JWT Exposure via Archived URLs”](https://medium.com/@choudharinayan05/account-takeovers-made-easy-critical-jwt-exposure-via-archived-urls-1b7380c62943?source=rss------bug_bounty_writeup-5)
 - [How I Found a Critical Security Flaw and Earned a Reward on a VDP](https://medium.com/@luxangelo/how-i-found-a-critical-security-flaw-and-earned-a-reward-on-a-vdp-019ebec71a74?source=rss------bug_bounty_writeup-5)
 - [Breaking File Upload Security: Finding Hidden XSS](https://medium.com/@es0557533/breaking-file-upload-security-finding-hidden-xss-cfc6e38bcee3?source=rss------bug_bounty_writeup-5)
@@ -932,7 +931,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [PII Disclosure | CSRF | Open Redirect | CORS Misconfiguration](https://infosecwriteups.com/chaining-csrf-and-an-open-redirect-leads-to-sensitive-information-disclosure-5915b24bc53b?source=rss----7b722bfd1b8d---4)
 - [Secret Sauce in Robots.txt  — How I Found Hidden Admin Panels and Debug URLs](https://infosecwriteups.com/secret-sauce-in-robots-txt-how-i-found-hidden-admin-panels-and-debug-urls-b7e8a11ea36f?source=rss----7b722bfd1b8d---4)
 - [Top 5 Open Source Tools to Scan Your Code for Vulnerabilities](https://infosecwriteups.com/top-5-open-source-tools-to-scan-your-code-for-vulnerabilities-81ce197167e5?source=rss----7b722bfd1b8d---4)
-- [Google Cloud Shell for Bug Hunters](https://medium.com/meetcyber/google-cloud-shell-for-bug-hunters-6afb0f01c29a?source=rss------bug_bounty_writeup-5)
 - [Mastering HTTPS Traffic Interception in Flutter Using Burp Suite](https://hatemmohamedabdallah.medium.com/mastering-https-traffic-interception-in-flutter-using-burp-suite-13c02b968bf4?source=rss------bug_bounty_writeup-5)
 - [The Fastest Way to Learn Web Hacking in 2025 &lpar;With Free Resources&rpar;](https://infosecwriteups.com/the-fastest-way-to-learn-web-hacking-in-2025-with-free-resources-88c8e74a3889?source=rss----7b722bfd1b8d---4)
 - [Hidden Tricks to Spot Phishing Emails Before They Trick You!](https://infosecwriteups.com/hidden-tricks-to-spot-phishing-emails-before-they-trick-you-c02810b6b820?source=rss----7b722bfd1b8d---4)
