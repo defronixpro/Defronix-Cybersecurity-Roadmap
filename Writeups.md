@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [“Account Takeovers Made Easy: Critical JWT Exposure via Archived URLs”](https://medium.com/@choudharinayan05/account-takeovers-made-easy-critical-jwt-exposure-via-archived-urls-1b7380c62943?source=rss------bug_bounty_writeup-5)
 - [How I Found a Critical Security Flaw and Earned a Reward on a VDP](https://medium.com/@luxangelo/how-i-found-a-critical-security-flaw-and-earned-a-reward-on-a-vdp-019ebec71a74?source=rss------bug_bounty_writeup-5)
 - [Breaking File Upload Security: Finding Hidden XSS](https://medium.com/@es0557533/breaking-file-upload-security-finding-hidden-xss-cfc6e38bcee3?source=rss------bug_bounty_writeup-5)
 - [Misconfiguration on MinIO S3 Bucket &lpar;Similar to AWS S3 Misconfig&rpar;](https://frostyxsec.medium.com/misconfiguration-on-minio-s3-bucket-similar-to-aws-s3-misconfig-a6754d29d011?source=rss------bug_bounty_writeup-5)
