@@ -1,6 +1,8 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [The $2500 bug: Remote Code Execution via Supply Chain Attack](https://nvk0x.medium.com/the-2500-bug-remote-code-execution-via-supply-chain-attack-3beb07ac1a4c?source=rss------bug_bounty_writeup-5)
+- [Simple Tips for Bug Bounty Beginners: Content Spoofing via HTML Injection](https://medium.com/@anishnarayan/simple-tips-for-bug-bounty-beginners-content-spoofing-via-html-injection-a0ae7c39a89a?source=rss------bug_bounty_writeup-5)
 - [How I Found a Broken Access Control That Exposed Interview Answers?](https://osintteam.blog/how-i-found-a-broken-access-control-vulnerability-that-exposed-interview-answers-e353128f6883?source=rss------bug_bounty_writeup-5)
 - [☁️How to Setup a Custom Subdomain on xss.ht — A Complete Hacker&#39;s Guide](https://infosecwriteups.com/%EF%B8%8Fhow-to-setup-a-custom-subdomain-on-xss-ht-a-complete-hackers-guide-a0018704c391?source=rss----7b722bfd1b8d---4)
 - [SEH Exploitation Overflow — Vulnserver GMON](https://infosecwriteups.com/seh-exploitation-overflow-vulnserver-gmon-c7768cb3bc7f?source=rss----7b722bfd1b8d---4)
@@ -18,8 +20,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Attacking Web Applications with FFuF](https://medium.com/@yashpawar1199/attacking-web-applications-with-ffuf-63673231452e?source=rss------bug_bounty_writeup-5)
 - [“Account Takeovers Made Easy: Critical JWT Exposure via Archived URLs”](https://medium.com/@choudharinayan05/account-takeovers-made-easy-critical-jwt-exposure-via-archived-urls-1b7380c62943?source=rss------bug_bounty_writeup-5)
 - [How I Found a Critical Security Flaw and Earned a Reward on a VDP](https://medium.com/@luxangelo/how-i-found-a-critical-security-flaw-and-earned-a-reward-on-a-vdp-019ebec71a74?source=rss------bug_bounty_writeup-5)
-- [Breaking File Upload Security: Finding Hidden XSS](https://medium.com/@es0557533/breaking-file-upload-security-finding-hidden-xss-cfc6e38bcee3?source=rss------bug_bounty_writeup-5)
-- [Misconfiguration on MinIO S3 Bucket &lpar;Similar to AWS S3 Misconfig&rpar;](https://frostyxsec.medium.com/misconfiguration-on-minio-s3-bucket-similar-to-aws-s3-misconfig-a6754d29d011?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
