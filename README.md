@@ -939,6 +939,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [a simple watch tower &lpar;:](https://medium.com/@cryptoboot123/a-simple-watch-tower-19467f0bee49?source=rss------bug_bounty_writeup-5)
 - [Exposing Firebase Misconfiguration](https://medium.com/@0xera51/exposing-firebase-misconfiguration-99795ba8139b?source=rss------bug_bounty_writeup-5)
 - [Attacking Web Applications with FFuF](https://medium.com/@yashpawar1199/attacking-web-applications-with-ffuf-63673231452e?source=rss------bug_bounty_writeup-5)
+- [$600 Bug Bounty received but in Parallel Universe](https://medium.com/developersglobal/600-bounty-received-but-in-parallel-universe-a5466300446d?source=rss------bug_bounty_writeup-5)
 - [“Account Takeovers Made Easy: Critical JWT Exposure via Archived URLs”](https://medium.com/@choudharinayan05/account-takeovers-made-easy-critical-jwt-exposure-via-archived-urls-1b7380c62943?source=rss------bug_bounty_writeup-5)
 - [How I Found a Critical Security Flaw and Earned a Reward on a VDP](https://medium.com/@luxangelo/how-i-found-a-critical-security-flaw-and-earned-a-reward-on-a-vdp-019ebec71a74?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
