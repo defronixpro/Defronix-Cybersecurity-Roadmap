@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How I Found a Broken Access Control That Exposed Interview Answers?](https://medium.com/@srishavinkumar/how-i-found-a-broken-access-control-vulnerability-that-exposed-interview-answers-e353128f6883?source=rss------bug_bounty_writeup-5)
 - [☁️How to Setup a Custom Subdomain on xss.ht — A Complete Hacker&#39;s Guide](https://infosecwriteups.com/%EF%B8%8Fhow-to-setup-a-custom-subdomain-on-xss-ht-a-complete-hackers-guide-a0018704c391?source=rss----7b722bfd1b8d---4)
 - [SEH Exploitation Overflow — Vulnserver GMON](https://infosecwriteups.com/seh-exploitation-overflow-vulnserver-gmon-c7768cb3bc7f?source=rss----7b722bfd1b8d---4)
 - [How to Install a Honeypot to Catch Hackers](https://infosecwriteups.com/how-to-install-a-honeypot-to-catch-hackers-b62739ca2f94?source=rss----7b722bfd1b8d---4)
