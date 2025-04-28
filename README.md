@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I Found a Broken Access Control That Exposed Interview Answers?](https://osintteam.blog/how-i-found-a-broken-access-control-vulnerability-that-exposed-interview-answers-e353128f6883?source=rss------bug_bounty_writeup-5)
 - [☁️How to Setup a Custom Subdomain on xss.ht — A Complete Hacker&#39;s Guide](https://infosecwriteups.com/%EF%B8%8Fhow-to-setup-a-custom-subdomain-on-xss-ht-a-complete-hackers-guide-a0018704c391?source=rss----7b722bfd1b8d---4)
 - [SEH Exploitation Overflow — Vulnserver GMON](https://infosecwriteups.com/seh-exploitation-overflow-vulnserver-gmon-c7768cb3bc7f?source=rss----7b722bfd1b8d---4)
 - [How to Install a Honeypot to Catch Hackers](https://infosecwriteups.com/how-to-install-a-honeypot-to-catch-hackers-b62739ca2f94?source=rss----7b722bfd1b8d---4)
