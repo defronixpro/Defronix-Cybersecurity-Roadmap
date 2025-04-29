@@ -922,9 +922,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [Unlock Bounties by Simply Reading: A Smart Way to Earn](https://infosecwriteups.com/unlock-bounties-by-simply-reading-a-smart-way-to-earn-63a1cb410450?source=rss------bug_bounty_writeup-5)
-- [From Logs to ATO | How I Hacked IBM](https://cylent.net/from-logs-to-ato-how-i-hacked-ibm-52552d95dacf?source=rss------bug_bounty_writeup-5)
-- [Exploiting SQLi for Total Clients Control in Enterprise Application](https://medium.com/@es0557533/exploiting-sqli-for-total-clients-control-in-enterprise-application-e940acf34aa6?source=rss------bug_bounty_writeup-5)
 - [Cloudflare Tunnel Misconfigurations: A Silent Threat in DevOps Pipelines](https://infosecwriteups.com/cloudflare-tunnel-misconfigurations-a-silent-threat-in-devops-pipelines-c1842ca56fdd?source=rss----7b722bfd1b8d---4)
 - [How i Access The Deleted Files of Someone in Google Drive | Bug Bounty](https://infosecwriteups.com/how-i-access-the-deleted-files-of-someone-in-google-drive-bug-bounty-eac134df1de4?source=rss----7b722bfd1b8d---4)
 - [Automating Information Gathering for Ethical Hackers — AutoRecon Tutorial](https://infosecwriteups.com/automating-information-gathering-for-ethical-hackers-autorecon-tutorial-cd0448dad93f?source=rss----7b722bfd1b8d---4)
@@ -935,13 +932,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [WooCommerce Users Beware: Fake Patch Phishing Campaign Unleashes Site Backdoors](https://infosecwriteups.com/woocommerce-users-beware-fake-patch-phishing-campaign-unleashes-site-backdoors-d77ccb847d8b?source=rss----7b722bfd1b8d---4)
 - [JWT, Meet Me Outside: How I Decoded, Re-Signed, and Owned the App](https://infosecwriteups.com/jwt-meet-me-outside-how-i-decoded-re-signed-and-owned-the-app-95791eabcf5d?source=rss----7b722bfd1b8d---4)
 - [Hackers Exploit Craft CMS Flaws: A Deep Dive into CVE-2025–32432](https://infosecwriteups.com/hackers-exploit-craft-cms-flaws-a-deep-dive-into-cve-2025-32432-edfab5a4819b?source=rss----7b722bfd1b8d---4)
-- [How can i find a Jenkins dashboard and ended up with Reverse Shell on shodan](https://medium.com/@fakechan443/how-can-i-find-a-jenkins-dashboard-and-ended-up-with-reverse-shell-with-shodan-31fcfb8db8b4?source=rss------bug_bounty_writeup-5)
-- [Password Recovery? More Like Account Delivery Host Header Injection Madness](https://medium.com/@loayahmed686/password-recovery-more-like-account-delivery-host-header-injection-madness-b0d0eb3a3b6d?source=rss------bug_bounty_writeup-5)
-- [WolfVision Cynap Smart Presentation Device Vulnerability Discovered: Anonymous Access Risk at…](https://medium.com/@hacker_might/wolfvision-cynap-smart-presentation-device-vulnerability-discovered-anonymous-access-risk-at-4a5ed41a9f06?source=rss------bug_bounty_writeup-5)
-- [How Breaches Start: Breaking Down 5 Real Vulnerabilities ️‍♂️](https://ismailtasdelen.medium.com/how-breaches-start-breaking-down-5-real-vulnerabilities-%EF%B8%8F-%EF%B8%8F-8b1a032b0335?source=rss------bug_bounty_writeup-5)
-- [Google Cloud Account Takeover via URL Parsing Confusion](https://weirdmachine.medium.com/google-cloud-account-takeover-via-url-parsing-confusion-c5e47389b7c7?source=rss------bug_bounty_writeup-5)
-- [The $2500 bug: Remote Code Execution via Supply Chain Attack](https://nvk0x.medium.com/the-2500-bug-remote-code-execution-via-supply-chain-attack-3beb07ac1a4c?source=rss------bug_bounty_writeup-5)
-- [Simple Tips for Bug Bounty Beginners: Content Spoofing via HTML Injection](https://medium.com/@anishnarayan/simple-tips-for-bug-bounty-beginners-content-spoofing-via-html-injection-a0ae7c39a89a?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
