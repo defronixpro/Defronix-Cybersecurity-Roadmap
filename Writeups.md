@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How can i find a Jenkins dashboard and ended up with Reverse Shell with shodan](https://medium.com/@fakechan443/how-can-i-find-a-jenkins-dashboard-and-ended-up-with-reverse-shell-with-shodan-31fcfb8db8b4?source=rss------bug_bounty_writeup-5)
 - [Password Recovery? More Like Account Delivery Host Header Injection Madness](https://medium.com/@loayahmed686/password-recovery-more-like-account-delivery-host-header-injection-madness-b0d0eb3a3b6d?source=rss------bug_bounty_writeup-5)
 - [WolfVision Cynap Smart Presentation Device Vulnerability Discovered: Anonymous Access Risk at…](https://medium.com/@hacker_might/wolfvision-cynap-smart-presentation-device-vulnerability-discovered-anonymous-access-risk-at-4a5ed41a9f06?source=rss------bug_bounty_writeup-5)
 - [How Breaches Start: Breaking Down 5 Real Vulnerabilities ️‍♂️](https://ismailtasdelen.medium.com/how-breaches-start-breaking-down-5-real-vulnerabilities-%EF%B8%8F-%EF%B8%8F-8b1a032b0335?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Manual Testing for Privilege Escalation and Broken Access Control My &lpar;Methodology&rpar;](https://medium.com/@kroush333/manual-testing-for-privilege-escalation-and-broken-access-control-my-methodology-a3b9f41b82a2?source=rss------bug_bounty_writeup-5)
 - [a simple watch tower &lpar;:](https://medium.com/@cryptoboot123/a-simple-watch-tower-19467f0bee49?source=rss------bug_bounty_writeup-5)
 - [Exposing Firebase Misconfiguration](https://medium.com/@0xera51/exposing-firebase-misconfiguration-99795ba8139b?source=rss------bug_bounty_writeup-5)
-- [Attacking Web Applications with FFuF](https://medium.com/@yashpawar1199/attacking-web-applications-with-ffuf-63673231452e?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
