@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Exploiting SQLi for Total Clients Control in Enterprise Application](https://medium.com/@es0557533/exploiting-sqli-for-total-clients-control-in-enterprise-application-e940acf34aa6?source=rss------bug_bounty_writeup-5)
 - [Cloudflare Tunnel Misconfigurations: A Silent Threat in DevOps Pipelines](https://infosecwriteups.com/cloudflare-tunnel-misconfigurations-a-silent-threat-in-devops-pipelines-c1842ca56fdd?source=rss----7b722bfd1b8d---4)
 - [How i Access The Deleted Files of Someone in Google Drive | Bug Bounty](https://infosecwriteups.com/how-i-access-the-deleted-files-of-someone-in-google-drive-bug-bounty-eac134df1de4?source=rss----7b722bfd1b8d---4)
 - [Automating Information Gathering for Ethical Hackers — AutoRecon Tutorial](https://infosecwriteups.com/automating-information-gathering-for-ethical-hackers-autorecon-tutorial-cd0448dad93f?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Simple Tips for Bug Bounty Beginners: Content Spoofing via HTML Injection](https://medium.com/@anishnarayan/simple-tips-for-bug-bounty-beginners-content-spoofing-via-html-injection-a0ae7c39a89a?source=rss------bug_bounty_writeup-5)
 - [How I Found a Broken Access Control That Exposed Interview Answers?](https://osintteam.blog/how-i-found-a-broken-access-control-vulnerability-that-exposed-interview-answers-e353128f6883?source=rss------bug_bounty_writeup-5)
 - [Manual Testing for Privilege Escalation and Broken Access Control My &lpar;Methodology&rpar;](https://medium.com/@kroush333/manual-testing-for-privilege-escalation-and-broken-access-control-my-methodology-a3b9f41b82a2?source=rss------bug_bounty_writeup-5)
-- [a simple watch tower &lpar;:](https://medium.com/@cryptoboot123/a-simple-watch-tower-19467f0bee49?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
