@@ -1,7 +1,11 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Meta Bug Bounty: Improper Data Deletion On Meta AI](https://allawe.medium.com/meta-bug-bounty-improper-data-deletion-on-meta-ai-29113382bcc8?source=rss------bug_bounty_writeup-5)
+- [Bypassing Email-Based 2FA via Client-Side Response Tampering: An Informative Case Study](https://z00x.medium.com/bypassing-email-based-2fa-via-client-side-response-tampering-an-informative-case-study-ef4c58b9c97f?source=rss------bug_bounty_writeup-5)
+- [Caught an IDOR Vulnerability on a Private Program — Earned a Bounty](https://cybersecuritywriteups.com/caught-an-idor-vulnerability-on-a-private-program-earned-a-bounty-a99d3ac6602b?source=rss------bug_bounty_writeup-5)
 - [How I Found Bugs on Adobe](https://infosecwriteups.com/how-i-found-bugs-on-adobe-16cedb79e830?source=rss----7b722bfd1b8d---4)
+- [How I Found Bugs on Adobe](https://infosecwriteups.com/how-i-found-bugs-on-adobe-16cedb79e830?source=rss------bug_bounty_writeup-5)
 - [From SQL Injection to Weak Passwords : A Deep Dive into a Tamil Nadu Government Security Flaw](https://infosecwriteups.com/from-sql-injection-to-weak-passwords-a-deep-dive-into-a-tamil-nadu-government-security-flaw-1b648d62d457?source=rss----7b722bfd1b8d---4)
 - [Top 10 Cybersecurity Blog Posts That Made April 2025 a Breakthrough Month for OpenExploit](https://infosecwriteups.com/top-10-cybersecurity-blog-posts-that-made-april-2025-a-breakthrough-month-for-openexploit-fd21830fdd93?source=rss----7b722bfd1b8d---4)
 - [Unlock Bounties by Simply Reading: A Smart Way to Earn](https://infosecwriteups.com/unlock-bounties-by-simply-reading-a-smart-way-to-earn-63a1cb410450?source=rss----7b722bfd1b8d---4)
@@ -11,6 +15,12 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [$500 Bug Bounty:Open Redirection via OAuth on Shopify](https://infosecwriteups.com/500-bug-bounty-open-redirection-via-oauth-on-shopify-4159387482f9?source=rss----7b722bfd1b8d---4)
 - [What Recruiters Look for in a Cybersecurity Resume in 2025](https://infosecwriteups.com/what-recruiters-look-for-in-a-cybersecurity-resume-in-2025-dcc81fa3154e?source=rss----7b722bfd1b8d---4)
 - [CISA Sounds the Alarm: Broadcom and Commvault Flaws Under Active Exploitation! ️](https://infosecwriteups.com/cisa-sounds-the-alarm-broadcom-and-commvault-flaws-under-active-exploitation-%EF%B8%8F-67a3c5f7f3dd?source=rss----7b722bfd1b8d---4)
+- [One OTP to Rule Them All: How I Replayed a Single Response and Logged in Forever on target.com](https://medium.com/@choudharinayan05/one-otp-to-rule-them-all-how-i-replayed-a-single-response-and-logged-in-forever-on-target-com-f58e58261607?source=rss------bug_bounty_writeup-5)
+- [Unlock Bounties by Simply Reading: A Smart Way to Earn](https://infosecwriteups.com/unlock-bounties-by-simply-reading-a-smart-way-to-earn-63a1cb410450?source=rss------bug_bounty_writeup-5)
+- [From Logs to ATO | How I Hacked IBM](https://cylent.net/from-logs-to-ato-how-i-hacked-ibm-52552d95dacf?source=rss------bug_bounty_writeup-5)
+- [Exploiting SQLi for Total Clients Control in Enterprise Application](https://medium.com/@es0557533/exploiting-sqli-for-total-clients-control-in-enterprise-application-e940acf34aa6?source=rss------bug_bounty_writeup-5)
+- [How can i find a Jenkins dashboard and ended up with Reverse Shell on shodan](https://medium.com/@fakechan443/how-can-i-find-a-jenkins-dashboard-and-ended-up-with-reverse-shell-with-shodan-31fcfb8db8b4?source=rss------bug_bounty_writeup-5)
+- [Password Recovery? More Like Account Delivery Host Header Injection Madness](https://medium.com/@loayahmed686/password-recovery-more-like-account-delivery-host-header-injection-madness-b0d0eb3a3b6d?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
