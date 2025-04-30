@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [One OTP to Rule Them All: How I Replayed a Single Response and Logged in Forever on target.com](https://medium.com/@choudharinayan05/one-otp-to-rule-them-all-how-i-replayed-a-single-response-and-logged-in-forever-on-target-com-f58e58261607?source=rss------bug_bounty_writeup-5)
 - [Unlock Bounties by Simply Reading: A Smart Way to Earn](https://infosecwriteups.com/unlock-bounties-by-simply-reading-a-smart-way-to-earn-63a1cb410450?source=rss------bug_bounty_writeup-5)
 - [From Logs to ATO | How I Hacked IBM](https://cylent.net/from-logs-to-ato-how-i-hacked-ibm-52552d95dacf?source=rss------bug_bounty_writeup-5)
 - [Exploiting SQLi for Total Clients Control in Enterprise Application](https://medium.com/@es0557533/exploiting-sqli-for-total-clients-control-in-enterprise-application-e940acf34aa6?source=rss------bug_bounty_writeup-5)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How Breaches Start: Breaking Down 5 Real Vulnerabilities ️‍♂️](https://ismailtasdelen.medium.com/how-breaches-start-breaking-down-5-real-vulnerabilities-%EF%B8%8F-%EF%B8%8F-8b1a032b0335?source=rss------bug_bounty_writeup-5)
 - [Google Cloud Account Takeover via URL Parsing Confusion](https://weirdmachine.medium.com/google-cloud-account-takeover-via-url-parsing-confusion-c5e47389b7c7?source=rss------bug_bounty_writeup-5)
 - [The $2500 bug: Remote Code Execution via Supply Chain Attack](https://nvk0x.medium.com/the-2500-bug-remote-code-execution-via-supply-chain-attack-3beb07ac1a4c?source=rss------bug_bounty_writeup-5)
-- [Simple Tips for Bug Bounty Beginners: Content Spoofing via HTML Injection](https://medium.com/@anishnarayan/simple-tips-for-bug-bounty-beginners-content-spoofing-via-html-injection-a0ae7c39a89a?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
