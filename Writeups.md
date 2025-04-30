@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Caught an IDOR Vulnerability on a Private Program — Earned a Bounty](https://cybersecuritywriteups.com/caught-an-idor-vulnerability-on-a-private-program-earned-a-bounty-a99d3ac6602b?source=rss------bug_bounty_writeup-5)
 - [How I Found Bugs on Adobe](https://infosecwriteups.com/how-i-found-bugs-on-adobe-16cedb79e830?source=rss----7b722bfd1b8d---4)
 - [How I Found Bugs on Adobe](https://infosecwriteups.com/how-i-found-bugs-on-adobe-16cedb79e830?source=rss------bug_bounty_writeup-5)
 - [From SQL Injection to Weak Passwords : A Deep Dive into a Tamil Nadu Government Security Flaw](https://infosecwriteups.com/from-sql-injection-to-weak-passwords-a-deep-dive-into-a-tamil-nadu-government-security-flaw-1b648d62d457?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Password Recovery? More Like Account Delivery Host Header Injection Madness](https://medium.com/@loayahmed686/password-recovery-more-like-account-delivery-host-header-injection-madness-b0d0eb3a3b6d?source=rss------bug_bounty_writeup-5)
 - [WolfVision Cynap Smart Presentation Device Vulnerability Discovered: Anonymous Access Risk at…](https://medium.com/@hacker_might/wolfvision-cynap-smart-presentation-device-vulnerability-discovered-anonymous-access-risk-at-4a5ed41a9f06?source=rss------bug_bounty_writeup-5)
 - [How Breaches Start: Breaking Down 5 Real Vulnerabilities ️‍♂️](https://ismailtasdelen.medium.com/how-breaches-start-breaking-down-5-real-vulnerabilities-%EF%B8%8F-%EF%B8%8F-8b1a032b0335?source=rss------bug_bounty_writeup-5)
-- [Google Cloud Account Takeover via URL Parsing Confusion](https://weirdmachine.medium.com/google-cloud-account-takeover-via-url-parsing-confusion-c5e47389b7c7?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
