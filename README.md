@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Meta Bug Bounty: Improper Data Deletion On Meta AI](https://allawe.medium.com/meta-bug-bounty-improper-data-deletion-on-meta-ai-29113382bcc8?source=rss------bug_bounty_writeup-5)
+- [Bypassing Email-Based 2FA via Client-Side Response Tampering: An Informative Case Study](https://z00x.medium.com/bypassing-email-based-2fa-via-client-side-response-tampering-an-informative-case-study-ef4c58b9c97f?source=rss------bug_bounty_writeup-5)
 - [Caught an IDOR Vulnerability on a Private Program — Earned a Bounty](https://cybersecuritywriteups.com/caught-an-idor-vulnerability-on-a-private-program-earned-a-bounty-a99d3ac6602b?source=rss------bug_bounty_writeup-5)
 - [How I Found Bugs on Adobe](https://infosecwriteups.com/how-i-found-bugs-on-adobe-16cedb79e830?source=rss----7b722bfd1b8d---4)
 - [How I Found Bugs on Adobe](https://infosecwriteups.com/how-i-found-bugs-on-adobe-16cedb79e830?source=rss------bug_bounty_writeup-5)
@@ -940,8 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Exploiting SQLi for Total Clients Control in Enterprise Application](https://medium.com/@es0557533/exploiting-sqli-for-total-clients-control-in-enterprise-application-e940acf34aa6?source=rss------bug_bounty_writeup-5)
 - [How can i find a Jenkins dashboard and ended up with Reverse Shell on shodan](https://medium.com/@fakechan443/how-can-i-find-a-jenkins-dashboard-and-ended-up-with-reverse-shell-with-shodan-31fcfb8db8b4?source=rss------bug_bounty_writeup-5)
 - [Password Recovery? More Like Account Delivery Host Header Injection Madness](https://medium.com/@loayahmed686/password-recovery-more-like-account-delivery-host-header-injection-madness-b0d0eb3a3b6d?source=rss------bug_bounty_writeup-5)
-- [WolfVision Cynap Smart Presentation Device Vulnerability Discovered: Anonymous Access Risk at…](https://medium.com/@hacker_might/wolfvision-cynap-smart-presentation-device-vulnerability-discovered-anonymous-access-risk-at-4a5ed41a9f06?source=rss------bug_bounty_writeup-5)
-- [How Breaches Start: Breaking Down 5 Real Vulnerabilities ️‍♂️](https://ismailtasdelen.medium.com/how-breaches-start-breaking-down-5-real-vulnerabilities-%EF%B8%8F-%EF%B8%8F-8b1a032b0335?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
