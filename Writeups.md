@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Shodan: The Search Engine That Exposes Hidden Cameras, Open Doors, and Everything Left Unsecured on…](https://hiddendom.medium.com/shodan-the-search-engine-that-exposes-hidden-cameras-open-doors-and-everything-left-unsecured-on-b76dcc3041ac?source=rss------bug_bounty_writeup-5)
 - [From JS File to Jackpot: How I Found API Keys and Secrets Hidden in Production Code](https://infosecwriteups.com/from-js-file-to-jackpot-how-i-found-api-keys-and-secrets-hidden-in-production-code-87af8750b751?source=rss----7b722bfd1b8d---4)
 - [Bypassing OTP: Unlocking Vulnerabilities &amp; Securing Your App](https://infosecwriteups.com/bypassing-otp-unlocking-vulnerabilities-securing-your-app-a5eac4727515?source=rss----7b722bfd1b8d---4)
 - [9 Security Threats in Generative AI Agents](https://infosecwriteups.com/9-security-threats-in-generative-ai-agents-8485aed6efe7?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Caught an IDOR Vulnerability on a Private Program — Earned a Bounty](https://cybersecuritywriteups.com/caught-an-idor-vulnerability-on-a-private-program-earned-a-bounty-a99d3ac6602b?source=rss------bug_bounty_writeup-5)
 - [How I Found Bugs on Adobe](https://infosecwriteups.com/how-i-found-bugs-on-adobe-16cedb79e830?source=rss------bug_bounty_writeup-5)
 - [One OTP to Rule Them All: How I Replayed a Single Response and Logged in Forever on target.com](https://medium.com/@choudharinayan05/one-otp-to-rule-them-all-how-i-replayed-a-single-response-and-logged-in-forever-on-target-com-f58e58261607?source=rss------bug_bounty_writeup-5)
-- [Unlock Bounties by Simply Reading: A Smart Way to Earn](https://infosecwriteups.com/unlock-bounties-by-simply-reading-a-smart-way-to-earn-63a1cb410450?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
