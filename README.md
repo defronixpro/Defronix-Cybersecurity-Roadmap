@@ -922,7 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [Shodan: The Search Engine That Exposes Hidden Cameras, Open Doors, and Everything Left Unsecured on…](https://hiddendom.medium.com/shodan-the-search-engine-that-exposes-hidden-cameras-open-doors-and-everything-left-unsecured-on-b76dcc3041ac?source=rss------bug_bounty_writeup-5)
+- [Shodan: The Search Engine That Exposes Hidden Cameras, Open Doors, and Everything Left Unsecured on…](https://osintteam.blog/shodan-the-search-engine-that-exposes-hidden-cameras-open-doors-and-everything-left-unsecured-on-b76dcc3041ac?source=rss------bug_bounty_writeup-5)
 - [From JS File to Jackpot: How I Found API Keys and Secrets Hidden in Production Code](https://infosecwriteups.com/from-js-file-to-jackpot-how-i-found-api-keys-and-secrets-hidden-in-production-code-87af8750b751?source=rss----7b722bfd1b8d---4)
 - [Bypassing OTP: Unlocking Vulnerabilities &amp; Securing Your App](https://infosecwriteups.com/bypassing-otp-unlocking-vulnerabilities-securing-your-app-a5eac4727515?source=rss----7b722bfd1b8d---4)
 - [9 Security Threats in Generative AI Agents](https://infosecwriteups.com/9-security-threats-in-generative-ai-agents-8485aed6efe7?source=rss----7b722bfd1b8d---4)
