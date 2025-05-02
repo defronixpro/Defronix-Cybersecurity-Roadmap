@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Breaking OTPs in the Real World: How Design Flaws Led to Full Account Takeover](https://medium.com/@Arioex/breaking-otps-in-the-real-world-how-design-flaws-led-to-full-account-takeover-46a09f95eaba?source=rss------bug_bounty_writeup-5)
 - [Hunting Access Control Bugs: How I Found a Critical IDOR &amp; Privilege Escalation in a Fort Knox-Like…](https://medium.com/@mrro0o0tt/hunting-access-control-bugs-how-i-found-a-critical-idor-privilege-escalation-in-a-fort-knox-like-a4aeb46d8714?source=rss------bug_bounty_writeup-5)
 - [Mastering Git Remote Repositories, Push, Pull, Clone, and Merge Conflicts: The Complete Beginner’s…](https://infosecwriteups.com/mastering-git-remote-repositories-push-pull-clone-and-merge-conflicts-the-complete-beginners-cb8d5ca07ef9?source=rss----7b722bfd1b8d---4)
 - [Let’s Encrypt: Why You should &lpar;and Shouldn’t&rpar; use free SSL certificates](https://infosecwriteups.com/lets-encrypt-why-you-should-and-shouldn-t-use-free-ssl-certificates-711b3365127f?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How I Simply Bypassed a 400 Bad Request and Escalated My Access from Member to Owner](https://abumaryamrahmat.medium.com/%D8%A8%D8%B3%D9%85-%D8%A7%D9%84%D9%84%D9%87-%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86-%D8%A7%D9%84%D8%B1%D8%AD%D9%8A%D9%85-7e837698fe4b?source=rss------bug_bounty_writeup-5)
 - [Meta Bug Bounty: Improper Data Deletion On Meta AI](https://allawe.medium.com/meta-bug-bounty-improper-data-deletion-on-meta-ai-29113382bcc8?source=rss------bug_bounty_writeup-5)
 - [Bypassing Email-Based 2FA via Client-Side Response Tampering: An Informative Case Study](https://z00x.medium.com/bypassing-email-based-2fa-via-client-side-response-tampering-an-informative-case-study-ef4c58b9c97f?source=rss------bug_bounty_writeup-5)
-- [Caught an IDOR Vulnerability on a Private Program — Earned a Bounty](https://cybersecuritywriteups.com/caught-an-idor-vulnerability-on-a-private-program-earned-a-bounty-a99d3ac6602b?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
