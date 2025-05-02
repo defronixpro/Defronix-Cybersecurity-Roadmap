@@ -922,6 +922,9 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Limits of Malware Detection](https://infosecwriteups.com/the-truth-security-tools-dont-tell-you-f1ed8aa4800c?source=rss----7b722bfd1b8d---4)
+- [Prompt Injection in ChatGPT and LLMs: What Developers Must Know](https://infosecwriteups.com/prompt-injection-in-chatgpt-and-llms-what-developers-must-know-a92f9df34569?source=rss----7b722bfd1b8d---4)
+- [Google Cloud Account Takeover via URL Parsing Confusion](https://infosecwriteups.com/google-cloud-account-takeover-via-url-parsing-confusion-c5e47389b7c7?source=rss----7b722bfd1b8d---4)
 - [Missed Horizontal Privilege Escalation in a Bug Bounty Program!](https://spider7.medium.com/missed-horizontal-privilege-escalation-in-a-bug-bounty-program-d7134b2ffa01?source=rss------bug_bounty_writeup-5)
 - [Shodan: The Search Engine That Exposes Hidden Cameras, Open Doors, and Everything Left Unsecured on…](https://osintteam.blog/shodan-the-search-engine-that-exposes-hidden-cameras-open-doors-and-everything-left-unsecured-on-b76dcc3041ac?source=rss------bug_bounty_writeup-5)
 - [From JS File to Jackpot: How I Found API Keys and Secrets Hidden in Production Code](https://infosecwriteups.com/from-js-file-to-jackpot-how-i-found-api-keys-and-secrets-hidden-in-production-code-87af8750b751?source=rss----7b722bfd1b8d---4)
@@ -931,9 +934,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Exposing Money Mule Networks on Telegram](https://infosecwriteups.com/exposing-money-mule-networks-on-telegram-381a687e0128?source=rss----7b722bfd1b8d---4)
 - [$500 Bounty: Hijacking HackerOne via window.opener](https://infosecwriteups.com/500-bounty-hijacking-hackerone-via-window-opener-e16700108e12?source=rss----7b722bfd1b8d---4)
 - [How I bypassed an IP block… without changing my IP?](https://infosecwriteups.com/how-i-bypassed-an-ip-block-without-changing-my-ip-e8082a43957b?source=rss----7b722bfd1b8d---4)
-- [Natas2 — Wargames solutions writeup](https://infosecwriteups.com/natas2-wargames-solutions-writeup-2b2946358259?source=rss----7b722bfd1b8d---4)
-- [Natas1 — Wargames solutions writeup](https://infosecwriteups.com/natas1-wargames-solutions-writeup-1fa5a8c2464a?source=rss----7b722bfd1b8d---4)
-- [Natas0 — Wargames solution writeup](https://infosecwriteups.com/natas0-wargames-solution-writeup-98a7385828c4?source=rss----7b722bfd1b8d---4)
 - [Techniques Implemented last month as a Bug Hunter](https://cybersecuritywriteups.com/techniques-implemented-last-month-as-a-bug-hunter-f0e6af9cb12e?source=rss------bug_bounty_writeup-5)
 - [SSRF PAYLOADS [ HARVEST CRITICAL FILES AND CREDENTIAL](https://medium.com/@rr-1k/ssrf-payloads-harvest-critical-files-and-credential-261e5b2beda4?source=rss------bug_bounty_writeup-5)
 - [Hacking Workspace for Fun &amp; Profit: Part II](https://0xh7ml.medium.com/hacking-workspace-for-fun-profit-part-ii-de9cd3cc9755?source=rss------bug_bounty_writeup-5)
