@@ -1,16 +1,6 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
-- [Crack Windows Password [Ethical Hacking Article]](https://infosecwriteups.com/crack-windows-password-ethical-hacking-article-cb3f0593fe58?source=rss----7b722bfd1b8d---4)
-- [The Secrets Behind Subdomain Takeovers Nobody Shares](https://infosecwriteups.com/the-secrets-behind-subdomain-takeovers-nobody-shares-ba6b5d7bf258?source=rss----7b722bfd1b8d---4)
-- [$1000+ Passive Recon Strategy You’re Not Using &lpar;Yet&rpar;](https://infosecwriteups.com/1000-passive-recon-strategy-youre-not-using-yet-164f5b1e6231?source=rss----7b722bfd1b8d---4)
-- [The Ultimate Guide to a Successful Career in Cybersecurity](https://infosecwriteups.com/the-ultimate-guide-to-a-successful-career-in-cybersecurity-ff2887d9c552?source=rss----7b722bfd1b8d---4)
-- [API Hacking on Mercedes-Benz](https://infosecwriteups.com/mercedes-benz-hacking-f36605954d5f?source=rss----7b722bfd1b8d---4)
-- [Helicopter Administrators — 247CTF solution writeup](https://infosecwriteups.com/helicopter-administrators-247ctf-solution-writeup-bc2f359b0525?source=rss----7b722bfd1b8d---4)
-- [$300 Bounty: SSRF to Cloud Metadata](https://infosecwriteups.com/300-bounty-ssrf-to-cloud-metadata-4c6a7dda9818?source=rss----7b722bfd1b8d---4)
-- [Burnout in Infosec? My Reset Routine That Brought Me Back](https://infosecwriteups.com/burnout-in-infosec-my-reset-routine-that-brought-me-back-01476de3fa59?source=rss----7b722bfd1b8d---4)
-- [Limits of Malware Detection](https://infosecwriteups.com/the-truth-security-tools-dont-tell-you-f1ed8aa4800c?source=rss----7b722bfd1b8d---4)
-- [Prompt Injection in ChatGPT and LLMs: What Developers Must Know](https://infosecwriteups.com/prompt-injection-in-chatgpt-and-llms-what-developers-must-know-a92f9df34569?source=rss----7b722bfd1b8d---4)
 - [Missed Horizontal Privilege Escalation in a Bug Bounty Program!](https://spider7.medium.com/missed-horizontal-privilege-escalation-in-a-bug-bounty-program-d7134b2ffa01?source=rss------bug_bounty_writeup-5)
 - [Shodan: The Search Engine That Exposes Hidden Cameras, Open Doors, and Everything Left Unsecured on…](https://osintteam.blog/shodan-the-search-engine-that-exposes-hidden-cameras-open-doors-and-everything-left-unsecured-on-b76dcc3041ac?source=rss------bug_bounty_writeup-5)
 - [Techniques Implemented last month as a Bug Hunter](https://cybersecuritywriteups.com/techniques-implemented-last-month-as-a-bug-hunter-f0e6af9cb12e?source=rss------bug_bounty_writeup-5)
