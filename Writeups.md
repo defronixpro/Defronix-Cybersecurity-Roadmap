@@ -12,7 +12,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [The Ultimate Guide to a Successful Career in Cybersecurity](https://infosecwriteups.com/the-ultimate-guide-to-a-successful-career-in-cybersecurity-ff2887d9c552?source=rss----7b722bfd1b8d---4)
 - [API Hacking on Mercedes-Benz](https://infosecwriteups.com/mercedes-benz-hacking-f36605954d5f?source=rss----7b722bfd1b8d---4)
 - [Helicopter Administrators — 247CTF solution writeup](https://infosecwriteups.com/helicopter-administrators-247ctf-solution-writeup-bc2f359b0525?source=rss----7b722bfd1b8d---4)
-- [Missed Horizontal Privilege Escalation in a Bug Bounty Program!](https://spider7.medium.com/missed-horizontal-privilege-escalation-in-a-bug-bounty-program-d7134b2ffa01?source=rss------bug_bounty_writeup-5)
+- [Missed Horizontal Privilege Escalation in a Bug Bounty Program!](https://zetzer.medium.com/missed-horizontal-privilege-escalation-in-a-bug-bounty-program-d7134b2ffa01?source=rss------bug_bounty_writeup-5)
 - [Shodan: The Search Engine That Exposes Hidden Cameras, Open Doors, and Everything Left Unsecured on…](https://osintteam.blog/shodan-the-search-engine-that-exposes-hidden-cameras-open-doors-and-everything-left-unsecured-on-b76dcc3041ac?source=rss------bug_bounty_writeup-5)
 - [Techniques Implemented last month as a Bug Hunter](https://cybersecuritywriteups.com/techniques-implemented-last-month-as-a-bug-hunter-f0e6af9cb12e?source=rss------bug_bounty_writeup-5)
 - [SSRF PAYLOADS [ HARVEST CRITICAL FILES AND CREDENTIAL](https://medium.com/@rr-1k/ssrf-payloads-harvest-critical-files-and-credential-261e5b2beda4?source=rss------bug_bounty_writeup-5)
