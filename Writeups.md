@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How I Found Internal Dashboards Using Google Dorks + OSINT](https://infosecwriteups.com/how-i-found-internal-dashboards-using-google-dorks-osint-5f2c9515fcd6?source=rss----7b722bfd1b8d---4)
 - [Information Disclosure Vulnerability Writeup HackerOne](https://medium.com/meetcyber/information-disclosure-vulnerability-writeup-hackerone-be7fbe7e7893?source=rss------bug_bounty_writeup-5)
 - [Beyond the Click: Writing Introductions That Keep Readers Glued to the Page](https://infosecwriteups.com/beyond-the-click-writing-introductions-that-keep-readers-glued-to-the-page-3b9f202d9e22?source=rss----7b722bfd1b8d---4)
 - [AI-Powered Mystery Box Scams](https://infosecwriteups.com/ai-powered-mystery-box-scams-02e931065a19?source=rss----7b722bfd1b8d---4)
@@ -11,7 +12,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Exploiting File Inclusion: From Dot-Dot-Slash to RCE using PHP Sessions, Log Poisoning, and…](https://infosecwriteups.com/exploiting-file-inclusion-from-dot-dot-slash-to-rce-using-php-sessions-log-poisoning-and-4db1bdf8ad77?source=rss----7b722bfd1b8d---4)
 - [IDOR Attacks Made Simple: How Hackers Access Unauthorized Data](https://infosecwriteups.com/idor-attacks-made-simple-how-hackers-access-unauthorized-data-ca1158d18190?source=rss----7b722bfd1b8d---4)
 - [9 Sources of Security &amp; Privacy Threats in LLM Agents](https://infosecwriteups.com/9-core-threats-facing-llm-agents-f6fbd66fad54?source=rss----7b722bfd1b8d---4)
-- [Why You Can’t Stop Online Scams &lpar;Fast Flux Secrets Revealed&rpar;](https://infosecwriteups.com/why-you-cant-stop-online-scams-fast-flux-secrets-revealed-e09f3d02fee3?source=rss----7b722bfd1b8d---4)
 - [Exploiting Race Condition to apply discount coupon multiple times](https://medium.com/@arunodayvmtiwari1102/exploiting-race-condition-to-apply-discount-coupon-multiple-times-8c8368be44d2?source=rss------bug_bounty_writeup-5)
 - [Breaking OTPs in the Real World: How Design Flaws Led to Full Account Takeover](https://medium.com/@Arioex/breaking-otps-in-the-real-world-how-design-flaws-led-to-full-account-takeover-46a09f95eaba?source=rss------bug_bounty_writeup-5)
 - [Hunting Access Control Bugs: How I Found a Critical IDOR &amp; Privilege Escalation in a Fort Knox-Like…](https://medium.com/@mrro0o0tt/hunting-access-control-bugs-how-i-found-a-critical-idor-privilege-escalation-in-a-fort-knox-like-a4aeb46d8714?source=rss------bug_bounty_writeup-5)
