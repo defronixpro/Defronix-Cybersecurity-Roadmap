@@ -922,9 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [Bypassing 2FA in a Public Bug Bounty Program: A $6000 Journey](https://mokhansec.medium.com/bypassing-2fa-in-a-public-bug-bounty-program-a-6000-journey-bae8a5418461?source=rss------bug_bounty_writeup-5)
+- [How To Set Up Your Ultimate OOB Bug-Hunting Server](https://infosecwriteups.com/how-to-set-up-your-ultimate-bug-hunting-server-38b3428a0446?source=rss----7b722bfd1b8d---4)
 - [How I Found Internal Dashboards Using Google Dorks + OSINT](https://infosecwriteups.com/how-i-found-internal-dashboards-using-google-dorks-osint-5f2c9515fcd6?source=rss----7b722bfd1b8d---4)
-- [Information Disclosure Vulnerability Writeup HackerOne](https://medium.com/meetcyber/information-disclosure-vulnerability-writeup-hackerone-be7fbe7e7893?source=rss------bug_bounty_writeup-5)
 - [Beyond the Click: Writing Introductions That Keep Readers Glued to the Page](https://infosecwriteups.com/beyond-the-click-writing-introductions-that-keep-readers-glued-to-the-page-3b9f202d9e22?source=rss----7b722bfd1b8d---4)
 - [AI-Powered Mystery Box Scams](https://infosecwriteups.com/ai-powered-mystery-box-scams-02e931065a19?source=rss----7b722bfd1b8d---4)
 - [Broken Package or Update Issues? Here’s How I Fixed My Kali Linux](https://infosecwriteups.com/broken-package-or-update-issues-heres-how-i-fixed-my-kali-linux-948bfa455300?source=rss----7b722bfd1b8d---4)
@@ -933,15 +932,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [DORA Has Entered the Chat: EU’s New Cyber Rulebook Reshaping Financial Security](https://infosecwriteups.com/dora-has-entered-the-chat-eus-new-cyber-rulebook-reshaping-financial-security-e2ce7dd95c5d?source=rss----7b722bfd1b8d---4)
 - [Exploiting File Inclusion: From Dot-Dot-Slash to RCE using PHP Sessions, Log Poisoning, and…](https://infosecwriteups.com/exploiting-file-inclusion-from-dot-dot-slash-to-rce-using-php-sessions-log-poisoning-and-4db1bdf8ad77?source=rss----7b722bfd1b8d---4)
 - [IDOR Attacks Made Simple: How Hackers Access Unauthorized Data](https://infosecwriteups.com/idor-attacks-made-simple-how-hackers-access-unauthorized-data-ca1158d18190?source=rss----7b722bfd1b8d---4)
-- [9 Sources of Security &amp; Privacy Threats in LLM Agents](https://infosecwriteups.com/9-core-threats-facing-llm-agents-f6fbd66fad54?source=rss----7b722bfd1b8d---4)
-- [Exploiting Race Condition to apply discount coupon multiple times](https://medium.com/@arunodayvmtiwari1102/exploiting-race-condition-to-apply-discount-coupon-multiple-times-8c8368be44d2?source=rss------bug_bounty_writeup-5)
-- [Breaking OTPs in the Real World: How Design Flaws Led to Full Account Takeover](https://medium.com/@Arioex/breaking-otps-in-the-real-world-how-design-flaws-led-to-full-account-takeover-46a09f95eaba?source=rss------bug_bounty_writeup-5)
-- [Hunting Access Control Bugs: How I Found a Critical IDOR &amp; Privilege Escalation in a Fort Knox-Like…](https://medium.com/@mrro0o0tt/hunting-access-control-bugs-how-i-found-a-critical-idor-privilege-escalation-in-a-fort-knox-like-a4aeb46d8714?source=rss------bug_bounty_writeup-5)
-- [Missed Horizontal Privilege Escalation in a Bug Bounty Program!](https://zetzer.medium.com/missed-horizontal-privilege-escalation-in-a-bug-bounty-program-d7134b2ffa01?source=rss------bug_bounty_writeup-5)
-- [Shodan: The Search Engine That Exposes Hidden Cameras, Open Doors, and Everything Left Unsecured on…](https://osintteam.blog/shodan-the-search-engine-that-exposes-hidden-cameras-open-doors-and-everything-left-unsecured-on-b76dcc3041ac?source=rss------bug_bounty_writeup-5)
-- [Techniques Implemented last month as a Bug Hunter](https://cybersecuritywriteups.com/techniques-implemented-last-month-as-a-bug-hunter-f0e6af9cb12e?source=rss------bug_bounty_writeup-5)
-- [SSRF PAYLOADS [ HARVEST CRITICAL FILES AND CREDENTIAL](https://medium.com/@rr-1k/ssrf-payloads-harvest-critical-files-and-credential-261e5b2beda4?source=rss------bug_bounty_writeup-5)
-- [Hacking Workspace for Fun &amp; Profit: Part II](https://0xh7ml.medium.com/hacking-workspace-for-fun-profit-part-ii-de9cd3cc9755?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
