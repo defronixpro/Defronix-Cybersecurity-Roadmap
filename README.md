@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Bypassing 2FA in a Public Bug Bounty Program: A $6000 Journey](https://mokhansec.medium.com/bypassing-2fa-in-a-public-bug-bounty-program-a-6000-journey-bae8a5418461?source=rss------bug_bounty_writeup-5)
 - [How I Found Internal Dashboards Using Google Dorks + OSINT](https://infosecwriteups.com/how-i-found-internal-dashboards-using-google-dorks-osint-5f2c9515fcd6?source=rss----7b722bfd1b8d---4)
 - [Information Disclosure Vulnerability Writeup HackerOne](https://medium.com/meetcyber/information-disclosure-vulnerability-writeup-hackerone-be7fbe7e7893?source=rss------bug_bounty_writeup-5)
 - [Beyond the Click: Writing Introductions That Keep Readers Glued to the Page](https://infosecwriteups.com/beyond-the-click-writing-introductions-that-keep-readers-glued-to-the-page-3b9f202d9e22?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Techniques Implemented last month as a Bug Hunter](https://cybersecuritywriteups.com/techniques-implemented-last-month-as-a-bug-hunter-f0e6af9cb12e?source=rss------bug_bounty_writeup-5)
 - [SSRF PAYLOADS [ HARVEST CRITICAL FILES AND CREDENTIAL](https://medium.com/@rr-1k/ssrf-payloads-harvest-critical-files-and-credential-261e5b2beda4?source=rss------bug_bounty_writeup-5)
 - [Hacking Workspace for Fun &amp; Profit: Part II](https://0xh7ml.medium.com/hacking-workspace-for-fun-profit-part-ii-de9cd3cc9755?source=rss------bug_bounty_writeup-5)
-- [How I Simply Bypassed a 400 Bad Request and Escalated My Access from Member to Owner](https://abumaryamrahmat.medium.com/%D8%A8%D8%B3%D9%85-%D8%A7%D9%84%D9%84%D9%87-%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86-%D8%A7%D9%84%D8%B1%D8%AD%D9%8A%D9%85-7e837698fe4b?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
