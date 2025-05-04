@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [SQLi in .gov.in Exposed Millions of Aadhaar, Bank Data and Personal Data](https://medium.com/@pkhuyar/sqli-in-gov-in-exposed-millions-of-aadhaar-bank-data-and-personal-data-0bde62a649aa?source=rss------bug_bounty_writeup-5)
 - [The Ultimate Guide to Email Input Field Vulnerability Testing](https://infosecwriteups.com/the-ultimate-guide-to-email-input-field-vulnerability-testing-18f96fc42251?source=rss----7b722bfd1b8d---4)
 - [$800 Bounty: Account Takeover in Shopify](https://infosecwriteups.com/800-bounty-account-takeover-in-shopify-f4394ee37975?source=rss----7b722bfd1b8d---4)
 - [“Low on Space in Kali Linux? Here’s How I Fixed It and Freed Up GBs”](https://infosecwriteups.com/low-on-space-in-kali-linux-heres-how-i-fixed-it-and-freed-up-gbs-3f240eae09db?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Shodan: The Search Engine That Exposes Hidden Cameras, Open Doors, and Everything Left Unsecured on…](https://osintteam.blog/shodan-the-search-engine-that-exposes-hidden-cameras-open-doors-and-everything-left-unsecured-on-b76dcc3041ac?source=rss------bug_bounty_writeup-5)
 - [Techniques Implemented last month as a Bug Hunter](https://cybersecuritywriteups.com/techniques-implemented-last-month-as-a-bug-hunter-f0e6af9cb12e?source=rss------bug_bounty_writeup-5)
 - [SSRF PAYLOADS [ HARVEST CRITICAL FILES AND CREDENTIAL](https://medium.com/@rr-1k/ssrf-payloads-harvest-critical-files-and-credential-261e5b2beda4?source=rss------bug_bounty_writeup-5)
-- [Hacking Workspace for Fun &amp; Profit: Part II](https://0xh7ml.medium.com/hacking-workspace-for-fun-profit-part-ii-de9cd3cc9755?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
