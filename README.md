@@ -923,16 +923,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
 - [I found Open Redirect on US Government website](https://medium.com/@0xpedrop/i-found-open-redirect-on-us-government-website-60a2d1d1e049?source=rss------bug_bounty_writeup-5)
-- [Clickjacked to the Core: Turning UI into a Trapdoor](https://infosecwriteups.com/clickjacked-to-the-core-turning-ui-into-a-trapdoor-a196dde6997b?source=rss----7b722bfd1b8d---4)
-- [Bypassing Regex Validations to Achieve RCE: A Wild Bug Story](https://infosecwriteups.com/bypassing-regex-validations-to-achieve-rce-a-wild-bug-story-4c523f69b9f8?source=rss----7b722bfd1b8d---4)
-- [$750 Bounty: Sensitive Data Exposure](https://infosecwriteups.com/750-bounty-sensitive-data-exposure-c944e626c733?source=rss----7b722bfd1b8d---4)
-- [I Slashed My Spring Boot Startup Time to 1.8](https://infosecwriteups.com/i-slashed-my-spring-boot-startup-time-to-1-8-79de5bf0aa18?source=rss----7b722bfd1b8d---4)
-- [Stored XSS Led to OAuth App Credential Theft and Info Disclosure](https://infosecwriteups.com/stored-xss-led-to-oauth-app-credential-theft-and-info-disclosure-85545fca3948?source=rss----7b722bfd1b8d---4)
-- [Bug Hunting for Real: Tools, Tactics, and Truths No One Talks About](https://infosecwriteups.com/bug-hunting-for-real-tools-tactics-and-truths-no-one-talks-about-661f6786d5b3?source=rss----7b722bfd1b8d---4)
-- [Equifax Breach: How a $700M Mistake Happened](https://infosecwriteups.com/equifax-breach-how-a-700m-mistake-happened-3fd54858a650?source=rss----7b722bfd1b8d---4)
-- [Secure your Python applications: Best practices for developers](https://infosecwriteups.com/secure-your-python-applications-best-practices-for-developers-8ab8b8bc8bba?source=rss----7b722bfd1b8d---4)
-- [DevSecOps Phase 3: Build Stage — CI/CD Security Gate with SAST + SCA](https://infosecwriteups.com/devsecops-phase-3-build-stage-ci-cd-security-gate-with-sast-sca-a61d988d32d7?source=rss----7b722bfd1b8d---4)
-- [Modest Payouts, Major Payoff: 4 IDORs That Netted $12K](https://infosecwriteups.com/modest-payouts-major-payoff-4-idors-that-netted-12k-64f4ab6754c0?source=rss----7b722bfd1b8d---4)
 - [Easy Framework based Bugs Series is soon…](https://medium.com/@nyany032/easy-framework-based-bugs-series-is-soon-fb8f29e21be0?source=rss------bug_bounty_writeup-5)
 - [Best Bug Bounty Programs to Kickstart Your Bug Bounty Journey](https://ismailtasdelen.medium.com/best-bug-bounty-programs-to-kickstart-your-bug-bounty-journey-4673d1192389?source=rss------bug_bounty_writeup-5)
 - [SQLi in .gov.in Exposed Millions of Aadhaar, Bank Data and Personal Data](https://medium.com/@pkhuyar/sqli-in-gov-in-exposed-millions-of-aadhaar-bank-data-and-personal-data-0bde62a649aa?source=rss------bug_bounty_writeup-5)
