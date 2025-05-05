@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [I found Open Redirect on US Government website](https://medium.com/@0xpedrop/i-found-open-redirect-on-us-government-website-60a2d1d1e049?source=rss------bug_bounty_writeup-5)
 - [Clickjacked to the Core: Turning UI into a Trapdoor](https://infosecwriteups.com/clickjacked-to-the-core-turning-ui-into-a-trapdoor-a196dde6997b?source=rss----7b722bfd1b8d---4)
 - [Bypassing Regex Validations to Achieve RCE: A Wild Bug Story](https://infosecwriteups.com/bypassing-regex-validations-to-achieve-rce-a-wild-bug-story-4c523f69b9f8?source=rss----7b722bfd1b8d---4)
 - [$750 Bounty: Sensitive Data Exposure](https://infosecwriteups.com/750-bounty-sensitive-data-exposure-c944e626c733?source=rss----7b722bfd1b8d---4)
@@ -19,7 +20,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Exploiting Race Condition to apply discount coupon multiple times](https://medium.com/@arunodayvmtiwari1102/exploiting-race-condition-to-apply-discount-coupon-multiple-times-8c8368be44d2?source=rss------bug_bounty_writeup-5)
 - [Breaking OTPs in the Real World: How Design Flaws Led to Full Account Takeover](https://medium.com/@Arioex/breaking-otps-in-the-real-world-how-design-flaws-led-to-full-account-takeover-46a09f95eaba?source=rss------bug_bounty_writeup-5)
 - [Hunting Access Control Bugs: How I Found a Critical IDOR &amp; Privilege Escalation in a Fort Knox-Like…](https://medium.com/@mrro0o0tt/hunting-access-control-bugs-how-i-found-a-critical-idor-privilege-escalation-in-a-fort-knox-like-a4aeb46d8714?source=rss------bug_bounty_writeup-5)
-- [Missed Horizontal Privilege Escalation in a Bug Bounty Program!](https://zetzer.medium.com/missed-horizontal-privilege-escalation-in-a-bug-bounty-program-d7134b2ffa01?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
