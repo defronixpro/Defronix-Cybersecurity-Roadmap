@@ -1,7 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
-- [Introduction about me](https://medium.com/@nyany032/introduction-about-me-5431bc883bae?source=rss------bug_bounty_writeup-5)
+- [Easy Framework based Bugs Series is soon…](https://medium.com/@nyany032/easy-framework-based-bugs-series-is-soon-fb8f29e21be0?source=rss------bug_bounty_writeup-5)
 - [Best Bug Bounty Programs to Kickstart Your Bug Bounty Journey](https://ismailtasdelen.medium.com/best-bug-bounty-programs-to-kickstart-your-bug-bounty-journey-4673d1192389?source=rss------bug_bounty_writeup-5)
 - [SQLi in .gov.in Exposed Millions of Aadhaar, Bank Data and Personal Data](https://medium.com/@pkhuyar/sqli-in-gov-in-exposed-millions-of-aadhaar-bank-data-and-personal-data-0bde62a649aa?source=rss------bug_bounty_writeup-5)
 - [The Ultimate Guide to Email Input Field Vulnerability Testing](https://infosecwriteups.com/the-ultimate-guide-to-email-input-field-vulnerability-testing-18f96fc42251?source=rss----7b722bfd1b8d---4)
@@ -20,7 +20,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Breaking OTPs in the Real World: How Design Flaws Led to Full Account Takeover](https://medium.com/@Arioex/breaking-otps-in-the-real-world-how-design-flaws-led-to-full-account-takeover-46a09f95eaba?source=rss------bug_bounty_writeup-5)
 - [Hunting Access Control Bugs: How I Found a Critical IDOR &amp; Privilege Escalation in a Fort Knox-Like…](https://medium.com/@mrro0o0tt/hunting-access-control-bugs-how-i-found-a-critical-idor-privilege-escalation-in-a-fort-knox-like-a4aeb46d8714?source=rss------bug_bounty_writeup-5)
 - [Missed Horizontal Privilege Escalation in a Bug Bounty Program!](https://zetzer.medium.com/missed-horizontal-privilege-escalation-in-a-bug-bounty-program-d7134b2ffa01?source=rss------bug_bounty_writeup-5)
-- [Shodan: The Search Engine That Exposes Hidden Cameras, Open Doors, and Everything Left Unsecured on…](https://osintteam.blog/shodan-the-search-engine-that-exposes-hidden-cameras-open-doors-and-everything-left-unsecured-on-b76dcc3041ac?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
