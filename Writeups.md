@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [HACK-ERA CTF — Intra University Round Walkthrough…](https://infosecwriteups.com/hack-era-ctf-intra-university-round-walkthrough-8d5ca27c1573?source=rss----7b722bfd1b8d---4)
 - [2025 Mobile App Pentesting Guide: Tools, Techniques &amp; Real-World Examples](https://infosecwriteups.com/2025-mobile-app-pentesting-guide-tools-techniques-real-world-examples-0465bd33e1db?source=rss----7b722bfd1b8d---4)
 - [Beyond Alert Boxes: Exploiting DOM XSS for Full Account Takeover](https://infosecwriteups.com/beyond-alert-boxes-exploiting-dom-xss-for-full-account-takeover-094e1507d206?source=rss----7b722bfd1b8d---4)
 - [Manipulating Responses: A Deep Dive into Exploitation =&gt; $650](https://infosecwriteups.com/manipulating-responses-a-deep-dive-into-exploitation-650-bf5933efe202?source=rss----7b722bfd1b8d---4)
@@ -10,7 +11,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Threat Profiling 101: How to Create a Threat Profile](https://infosecwriteups.com/threat-profiling-101-how-to-create-a-threat-profile-4f37f9c4a943?source=rss----7b722bfd1b8d---4)
 - [How Hackers Exploit CORS Misconfigurations](https://infosecwriteups.com/how-hackers-exploit-cors-misconfigurations-35a6c5d7e0c8?source=rss----7b722bfd1b8d---4)
 - [The Ultimate Guide to Cyber Threat Actors: Exploring Hackers, Hacktivists, and Their Tactics](https://infosecwriteups.com/the-ultimate-guide-to-cyber-threat-actors-exploring-hackers-hacktivists-and-their-tactics-c660cefc90b6?source=rss----7b722bfd1b8d---4)
-- [$1000 Bounty: Account Takeover via Host Header Injection in Password Reset Flow](https://infosecwriteups.com/1000-bounty-account-takeover-via-host-header-injection-in-password-reset-flow-dc0cdb2d972b?source=rss----7b722bfd1b8d---4)
 - [The Ultimate Guide to API Security Testing — Cheat sheet 2025 Edition](https://t4144t.medium.com/the-ultimate-guide-to-api-security-testing-cheat-sheet-2025-edition-b64fd3d158dd?source=rss------bug_bounty_writeup-5)
 - [I found Open Redirect on US Government website](https://medium.com/@0xpedrop/i-found-open-redirect-on-us-government-website-60a2d1d1e049?source=rss------bug_bounty_writeup-5)
 - [Easy Framework based Bugs Series is soon…](https://medium.com/@nyany032/easy-framework-based-bugs-series-is-soon-fb8f29e21be0?source=rss------bug_bounty_writeup-5)
