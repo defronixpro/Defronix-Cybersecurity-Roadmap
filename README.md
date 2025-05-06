@@ -922,6 +922,14 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [The Ultimate Guide to API Security Testing — Cheat sheet 2025 — Part2](https://t4144t.medium.com/the-ultimate-guide-to-api-security-testing-cheat-sheet-2025-part2-a7d8a69710ff?source=rss------bug_bounty_writeup-5)
+- [️ How I Earned $150 by Exploiting an XML-RPC SSRF in a WordPress Site](https://medium.com/@sauravkrish59/%EF%B8%8F-how-i-earned-150-by-exploiting-an-xml-rpc-ssrf-in-a-wordpress-site-51037eb58252?source=rss------bug_bounty_writeup-5)
+- [IDOR Allows Unauthorized Access to Other Users’ Personal Data](https://brbr0s.medium.com/idor-allows-unauthorized-access-to-other-users-personal-data-8f73486cbab0?source=rss------bug_bounty_writeup-5)
+- [H@cking Hospital For Mass PII Leak](https://medium.com/meetcyber/h-cking-hospital-for-mass-pii-leak-85c3d89db434?source=rss------bug_bounty_writeup-5)
+- [I Found Bugs in 50+ Paid Bug Bounty Programs](https://medium.com/@mehrabopi33500/i-found-bugs-in-50-paid-bug-bounty-programs-5fcf88dbc761?source=rss------bug_bounty_writeup-5)
+- [Accidental Hacker: How I Found a Critical Data Leak Bug with Just a Few Clicks](https://zetzer.medium.com/accidental-hacker-how-i-found-a-critical-data-leak-bug-with-just-a-few-clicks-3cabd1f97aee?source=rss------bug_bounty_writeup-5)
+- [Email Enumeration melalui Endpoint POST /api/passwordReset/?h=](https://medium.com/@FufuFaf1/email-enumeration-melalui-endpoint-post-api-passwordreset-h-80c4aa7d0159?source=rss------bug_bounty_writeup-5)
+- [I Found a Massive Cross-Tenant Access Control Bug by Testing Multiple Roles — Here’s What I Learned!](https://medium.com/@mrro0o0tt/i-found-a-massive-cross-tenant-access-control-bug-by-testing-multiple-roles-heres-what-i-learned-ed9c7b7f8b92?source=rss------bug_bounty_writeup-5)
 - [HACK-ERA CTF — Intra University Round Walkthrough…](https://infosecwriteups.com/hack-era-ctf-intra-university-round-walkthrough-8d5ca27c1573?source=rss----7b722bfd1b8d---4)
 - [2025 Mobile App Pentesting Guide: Tools, Techniques &amp; Real-World Examples](https://infosecwriteups.com/2025-mobile-app-pentesting-guide-tools-techniques-real-world-examples-0465bd33e1db?source=rss----7b722bfd1b8d---4)
 - [Beyond Alert Boxes: Exploiting DOM XSS for Full Account Takeover](https://infosecwriteups.com/beyond-alert-boxes-exploiting-dom-xss-for-full-account-takeover-094e1507d206?source=rss----7b722bfd1b8d---4)
@@ -932,6 +940,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Threat Profiling 101: How to Create a Threat Profile](https://infosecwriteups.com/threat-profiling-101-how-to-create-a-threat-profile-4f37f9c4a943?source=rss----7b722bfd1b8d---4)
 - [How Hackers Exploit CORS Misconfigurations](https://infosecwriteups.com/how-hackers-exploit-cors-misconfigurations-35a6c5d7e0c8?source=rss----7b722bfd1b8d---4)
 - [The Ultimate Guide to Cyber Threat Actors: Exploring Hackers, Hacktivists, and Their Tactics](https://infosecwriteups.com/the-ultimate-guide-to-cyber-threat-actors-exploring-hackers-hacktivists-and-their-tactics-c660cefc90b6?source=rss----7b722bfd1b8d---4)
+- [The Ultimate Guide to API Security Testing — Cheat sheet 2025 Edition](https://t4144t.medium.com/the-ultimate-guide-to-api-security-testing-cheat-sheet-2025-edition-b64fd3d158dd?source=rss------bug_bounty_writeup-5)
+- [I found Open Redirect on US Government website](https://medium.com/@0xpedrop/i-found-open-redirect-on-us-government-website-60a2d1d1e049?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
