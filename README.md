@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [The Ultimate Guide to API Security Testing — Cheat sheet 2025 Edition](https://t4144t.medium.com/the-ultimate-guide-to-api-security-testing-cheat-sheet-2025-edition-b64fd3d158dd?source=rss------bug_bounty_writeup-5)
 - [I found Open Redirect on US Government website](https://medium.com/@0xpedrop/i-found-open-redirect-on-us-government-website-60a2d1d1e049?source=rss------bug_bounty_writeup-5)
 - [Clickjacked to the Core: Turning UI into a Trapdoor](https://infosecwriteups.com/clickjacked-to-the-core-turning-ui-into-a-trapdoor-a196dde6997b?source=rss----7b722bfd1b8d---4)
 - [Bypassing Regex Validations to Achieve RCE: A Wild Bug Story](https://infosecwriteups.com/bypassing-regex-validations-to-achieve-rce-a-wild-bug-story-4c523f69b9f8?source=rss----7b722bfd1b8d---4)
@@ -940,7 +941,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Information Disclosure Vulnerability Writeup HackerOne](https://medium.com/legionhunters/information-disclosure-vulnerability-writeup-hackerone-be7fbe7e7893?source=rss------bug_bounty_writeup-5)
 - [Exploiting Race Condition to apply discount coupon multiple times](https://medium.com/@arunodayvmtiwari1102/exploiting-race-condition-to-apply-discount-coupon-multiple-times-8c8368be44d2?source=rss------bug_bounty_writeup-5)
 - [Breaking OTPs in the Real World: How Design Flaws Led to Full Account Takeover](https://medium.com/@Arioex/breaking-otps-in-the-real-world-how-design-flaws-led-to-full-account-takeover-46a09f95eaba?source=rss------bug_bounty_writeup-5)
-- [Hunting Access Control Bugs: How I Found a Critical IDOR &amp; Privilege Escalation in a Fort Knox-Like…](https://medium.com/@mrro0o0tt/hunting-access-control-bugs-how-i-found-a-critical-idor-privilege-escalation-in-a-fort-knox-like-a4aeb46d8714?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
