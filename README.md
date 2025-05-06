@@ -922,7 +922,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [I Found a Massive Cross-Tenant Access Control Bug by Testing Multiple Roles — Here’s What I Learned!](https://medium.com/@mrro0o0tt/i-found-a-massive-cross-tenant-access-control-bug-by-testing-multiple-roles-heres-what-i-learned-ed9c7b7f8b92?source=rss------bug_bounty_writeup-5)
 - [HACK-ERA CTF — Intra University Round Walkthrough…](https://infosecwriteups.com/hack-era-ctf-intra-university-round-walkthrough-8d5ca27c1573?source=rss----7b722bfd1b8d---4)
 - [2025 Mobile App Pentesting Guide: Tools, Techniques &amp; Real-World Examples](https://infosecwriteups.com/2025-mobile-app-pentesting-guide-tools-techniques-real-world-examples-0465bd33e1db?source=rss----7b722bfd1b8d---4)
 - [Beyond Alert Boxes: Exploiting DOM XSS for Full Account Takeover](https://infosecwriteups.com/beyond-alert-boxes-exploiting-dom-xss-for-full-account-takeover-094e1507d206?source=rss----7b722bfd1b8d---4)
@@ -933,14 +932,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Threat Profiling 101: How to Create a Threat Profile](https://infosecwriteups.com/threat-profiling-101-how-to-create-a-threat-profile-4f37f9c4a943?source=rss----7b722bfd1b8d---4)
 - [How Hackers Exploit CORS Misconfigurations](https://infosecwriteups.com/how-hackers-exploit-cors-misconfigurations-35a6c5d7e0c8?source=rss----7b722bfd1b8d---4)
 - [The Ultimate Guide to Cyber Threat Actors: Exploring Hackers, Hacktivists, and Their Tactics](https://infosecwriteups.com/the-ultimate-guide-to-cyber-threat-actors-exploring-hackers-hacktivists-and-their-tactics-c660cefc90b6?source=rss----7b722bfd1b8d---4)
-- [The Ultimate Guide to API Security Testing — Cheat sheet 2025 Edition](https://t4144t.medium.com/the-ultimate-guide-to-api-security-testing-cheat-sheet-2025-edition-b64fd3d158dd?source=rss------bug_bounty_writeup-5)
-- [I found Open Redirect on US Government website](https://medium.com/@0xpedrop/i-found-open-redirect-on-us-government-website-60a2d1d1e049?source=rss------bug_bounty_writeup-5)
-- [Easy Framework based Bugs Series is soon…](https://medium.com/@nyany032/easy-framework-based-bugs-series-is-soon-fb8f29e21be0?source=rss------bug_bounty_writeup-5)
-- [Best Bug Bounty Programs to Kickstart Your Bug Bounty Journey](https://ismailtasdelen.medium.com/best-bug-bounty-programs-to-kickstart-your-bug-bounty-journey-4673d1192389?source=rss------bug_bounty_writeup-5)
-- [SQLi in .gov.in Exposed Millions of Aadhaar, Bank Data and Personal Data](https://medium.com/@pkhuyar/sqli-in-gov-in-exposed-millions-of-aadhaar-bank-data-and-personal-data-0bde62a649aa?source=rss------bug_bounty_writeup-5)
-- [Bypassing 2FA in a Public Bug Bounty Program: A $6000 Journey](https://mokhansec.medium.com/bypassing-2fa-in-a-public-bug-bounty-program-a-6000-journey-bae8a5418461?source=rss------bug_bounty_writeup-5)
-- [Information Disclosure Vulnerability Writeup HackerOne](https://medium.com/legionhunters/information-disclosure-vulnerability-writeup-hackerone-be7fbe7e7893?source=rss------bug_bounty_writeup-5)
-- [Exploiting Race Condition to apply discount coupon multiple times](https://medium.com/@arunodayvmtiwari1102/exploiting-race-condition-to-apply-discount-coupon-multiple-times-8c8368be44d2?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
