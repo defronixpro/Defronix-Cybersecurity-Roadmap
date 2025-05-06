@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [️ How I Earned $150 by Exploiting an XML-RPC SSRF in a WordPress Site](https://medium.com/@sauravkrish59/%EF%B8%8F-how-i-earned-150-by-exploiting-an-xml-rpc-ssrf-in-a-wordpress-site-51037eb58252?source=rss------bug_bounty_writeup-5)
 - [IDOR Allows Unauthorized Access to Other Users’ Personal Data](https://brbr0s.medium.com/idor-allows-unauthorized-access-to-other-users-personal-data-8f73486cbab0?source=rss------bug_bounty_writeup-5)
 - [H@cking Hospital For Mass PII Leak](https://medium.com/meetcyber/h-cking-hospital-for-mass-pii-leak-85c3d89db434?source=rss------bug_bounty_writeup-5)
 - [I Found Bugs in 50+ Paid Bug Bounty Programs](https://medium.com/@mehrabopi33500/i-found-bugs-in-50-paid-bug-bounty-programs-5fcf88dbc761?source=rss------bug_bounty_writeup-5)
