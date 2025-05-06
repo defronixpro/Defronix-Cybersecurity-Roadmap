@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [H@cking Hospital For Mass PII Leak](https://medium.com/meetcyber/h-cking-hospital-for-mass-pii-leak-85c3d89db434?source=rss------bug_bounty_writeup-5)
 - [I Found Bugs in 50+ Paid Bug Bounty Programs](https://medium.com/@mehrabopi33500/i-found-bugs-in-50-paid-bug-bounty-programs-5fcf88dbc761?source=rss------bug_bounty_writeup-5)
 - [Accidental Hacker: How I Found a Critical Data Leak Bug with Just a Few Clicks](https://zetzer.medium.com/accidental-hacker-how-i-found-a-critical-data-leak-bug-with-just-a-few-clicks-3cabd1f97aee?source=rss------bug_bounty_writeup-5)
 - [Email Enumeration melalui Endpoint POST /api/passwordReset/?h=](https://medium.com/@FufuFaf1/email-enumeration-melalui-endpoint-post-api-passwordreset-h-80c4aa7d0159?source=rss------bug_bounty_writeup-5)
@@ -19,7 +20,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [I found Open Redirect on US Government website](https://medium.com/@0xpedrop/i-found-open-redirect-on-us-government-website-60a2d1d1e049?source=rss------bug_bounty_writeup-5)
 - [Easy Framework based Bugs Series is soon…](https://medium.com/@nyany032/easy-framework-based-bugs-series-is-soon-fb8f29e21be0?source=rss------bug_bounty_writeup-5)
 - [Best Bug Bounty Programs to Kickstart Your Bug Bounty Journey](https://ismailtasdelen.medium.com/best-bug-bounty-programs-to-kickstart-your-bug-bounty-journey-4673d1192389?source=rss------bug_bounty_writeup-5)
-- [SQLi in .gov.in Exposed Millions of Aadhaar, Bank Data and Personal Data](https://medium.com/@pkhuyar/sqli-in-gov-in-exposed-millions-of-aadhaar-bank-data-and-personal-data-0bde62a649aa?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
