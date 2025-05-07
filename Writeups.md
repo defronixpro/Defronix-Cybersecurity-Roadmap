@@ -1,15 +1,6 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
-- [Is Your App Protected? The Branch API Vulnerability You Need to Know About](https://infosecwriteups.com/is-your-app-protected-the-branch-api-vulnerability-you-need-to-know-about-d5eecee12c91?source=rss----7b722bfd1b8d---4)
-- [A Must-Have Tool for Bug Hunters: Find Open Redirect Vulnerabilities on Linux](https://infosecwriteups.com/a-must-have-tool-for-bug-hunters-find-open-redirect-vulnerabilities-on-linux-21ad0c7d148e?source=rss----7b722bfd1b8d---4)
-- [Exploiting a Referer Header for Open Redirect](https://infosecwriteups.com/exploiting-a-referer-header-for-open-redirect-ee2baa4a45b5?source=rss----7b722bfd1b8d---4)
-- [2FA Bypass: A Case of Insecure Implementation](https://infosecwriteups.com/2fa-bypass-a-case-of-insecure-implementation-8b9e44f3d68c?source=rss----7b722bfd1b8d---4)
-- [Stored HTML Injection — Email Invite Manipulation](https://infosecwriteups.com/stored-html-injection-email-invite-manipulation-63022e21d5db?source=rss----7b722bfd1b8d---4)
-- [DOM-inated! How a Tiny JS Sink Turned Into Critical XSS](https://infosecwriteups.com/dom-inated-how-a-tiny-js-sink-turned-into-critical-xss-a9a1dbe97df2?source=rss----7b722bfd1b8d---4)
-- [Query Confusion: How HTTP Parameter Pollution Made the App Spill Secrets](https://infosecwriteups.com/query-confusion-how-http-parameter-pollution-made-the-app-spill-secrets-55b09a1bc98b?source=rss----7b722bfd1b8d---4)
-- [Securing Apache2 + PHP: Practical guide for safer web hosting](https://infosecwriteups.com/securing-apache2-php-practical-guide-for-safer-web-hosting-3c967800c582?source=rss----7b722bfd1b8d---4)
-- [$2,900 Bounty: Public S3 Bucket Exposure in Shopify](https://infosecwriteups.com/2-900-bounty-public-s3-bucket-exposure-in-shopify-05b14bbf6dad?source=rss----7b722bfd1b8d---4)
 - [CTF with CSRF involving referrer header](https://medium.com/@arunodayvmtiwari1102/ctf-with-csrf-involving-referrer-header-186041e6b6b5?source=rss------bug_bounty_writeup-5)
 - [The Ultimate Guide to API Security Testing — Cheat sheet 2025 — Part2](https://t4144t.medium.com/the-ultimate-guide-to-api-security-testing-cheat-sheet-2025-part2-a7d8a69710ff?source=rss------bug_bounty_writeup-5)
 - [️ How I Earned $150 by Exploiting an XML-RPC SSRF in a WordPress Site](https://medium.com/@sauravkrish59/%EF%B8%8F-how-i-earned-150-by-exploiting-an-xml-rpc-ssrf-in-a-wordpress-site-51037eb58252?source=rss------bug_bounty_writeup-5)
@@ -19,7 +10,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Accidental Hacker: How I Found a Critical Data Leak Bug with Just a Few Clicks](https://zetzer.medium.com/accidental-hacker-how-i-found-a-critical-data-leak-bug-with-just-a-few-clicks-3cabd1f97aee?source=rss------bug_bounty_writeup-5)
 - [Email Enumeration melalui Endpoint POST /api/passwordReset/?h=](https://medium.com/@FufuFaf1/email-enumeration-melalui-endpoint-post-api-passwordreset-h-80c4aa7d0159?source=rss------bug_bounty_writeup-5)
 - [I Found a Massive Cross-Tenant Access Control Bug by Testing Multiple Roles — Here’s What I Learned!](https://medium.com/@mrro0o0tt/i-found-a-massive-cross-tenant-access-control-bug-by-testing-multiple-roles-heres-what-i-learned-ed9c7b7f8b92?source=rss------bug_bounty_writeup-5)
-- [HACK-ERA CTF — Intra University Round Walkthrough…](https://infosecwriteups.com/hack-era-ctf-intra-university-round-walkthrough-8d5ca27c1573?source=rss----7b722bfd1b8d---4)
 - [The Ultimate Guide to API Security Testing — Cheat sheet 2025 Edition](https://t4144t.medium.com/the-ultimate-guide-to-api-security-testing-cheat-sheet-2025-edition-b64fd3d158dd?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
