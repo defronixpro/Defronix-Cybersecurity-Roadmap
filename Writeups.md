@@ -1,7 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
-- [How a JavaScript File Led Me to an Open Redirect Vulnerability](https://medium.com/@iamshafayat/how-a-javascript-file-led-me-to-an-open-redirect-vulnerability-eefce51303b2?source=rss------bug_bounty_writeup-5)
+- [How a JavaScript File Led Me to an Open Redirect Vulnerability](https://systemweakness.com/how-a-javascript-file-led-me-to-an-open-redirect-vulnerability-eefce51303b2?source=rss------bug_bounty_writeup-5)
 - [“ Mastering Bug Bounty Recon: Tools &amp; Techniques to Uncover Vulnerabilities ”](https://medium.com/@devillegiondevils/mastering-bug-bounty-recon-tools-techniques-to-uncover-vulnerabilities-6db1bbfef248?source=rss------bug_bounty_writeup-5)
 - [How to setup a Monthly Free VPS for Bug Hunting](https://infosecwriteups.com/how-to-setup-a-monthly-free-vps-for-bug-hunting-d41d0fa3ed6c?source=rss----7b722bfd1b8d---4)
 - [Revisiting the Past, Hacking the Future](https://infosecwriteups.com/invalid-bug-c3cae222858c?source=rss----7b722bfd1b8d---4)
