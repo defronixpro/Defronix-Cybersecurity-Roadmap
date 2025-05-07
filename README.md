@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [From Cross-Subdomain Cookie Reuse to Becoming Super Admin: An Exploit Chain Walkthrough](https://medium.com/@cyberpro151/from-cross-subdomain-cookie-reuse-to-becoming-super-admin-an-exploit-chain-walkthrough-32527caa2a11?source=rss------bug_bounty_writeup-5)
 - [How a JavaScript File Led Me to an Open Redirect Vulnerability](https://systemweakness.com/how-a-javascript-file-led-me-to-an-open-redirect-vulnerability-eefce51303b2?source=rss------bug_bounty_writeup-5)
 - [“ Mastering Bug Bounty Recon: Tools &amp; Techniques to Uncover Vulnerabilities ”](https://medium.com/@devillegiondevils/mastering-bug-bounty-recon-tools-techniques-to-uncover-vulnerabilities-6db1bbfef248?source=rss------bug_bounty_writeup-5)
 - [How to setup a Monthly Free VPS for Bug Hunting](https://infosecwriteups.com/how-to-setup-a-monthly-free-vps-for-bug-hunting-d41d0fa3ed6c?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [H@cking Hospital For Mass PII Leak](https://medium.com/meetcyber/h-cking-hospital-for-mass-pii-leak-85c3d89db434?source=rss------bug_bounty_writeup-5)
 - [I Found Bugs in 50+ Paid Bug Bounty Programs](https://medium.com/@mehrabopi33500/i-found-bugs-in-50-paid-bug-bounty-programs-5fcf88dbc761?source=rss------bug_bounty_writeup-5)
 - [Accidental Hacker: How I Found a Critical Data Leak Bug with Just a Few Clicks](https://zetzer.medium.com/accidental-hacker-how-i-found-a-critical-data-leak-bug-with-just-a-few-clicks-3cabd1f97aee?source=rss------bug_bounty_writeup-5)
-- [Email Enumeration melalui Endpoint POST /api/passwordReset/?h=](https://medium.com/@FufuFaf1/email-enumeration-melalui-endpoint-post-api-passwordreset-h-80c4aa7d0159?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
