@@ -941,7 +941,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [IDOR Allows Unauthorized Access to Other Users’ Personal Data](https://brbr0s.medium.com/idor-allows-unauthorized-access-to-other-users-personal-data-8f73486cbab0?source=rss------bug_bounty_writeup-5)
 - [H@cking Hospital For Mass PII Leak](https://medium.com/meetcyber/h-cking-hospital-for-mass-pii-leak-85c3d89db434?source=rss------bug_bounty_writeup-5)
 - [I Found Bugs in 50+ Paid Bug Bounty Programs](https://medium.com/@mehrabopi33500/i-found-bugs-in-50-paid-bug-bounty-programs-5fcf88dbc761?source=rss------bug_bounty_writeup-5)
-- [Accidental Hacker: How I Found a Critical Data Leak Bug with Just a Few Clicks](https://zetzer.medium.com/accidental-hacker-how-i-found-a-critical-data-leak-bug-with-just-a-few-clicks-3cabd1f97aee?source=rss------bug_bounty_writeup-5)
+- [Accidental Hacker: How I Found a Critical Data Leak Bug with Just a Few Clicks](https://zetanine.medium.com/accidental-hacker-how-i-found-a-critical-data-leak-bug-with-just-a-few-clicks-3cabd1f97aee?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
