@@ -922,6 +922,16 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Bug Hunting in JS Files: Tricks, Tools, and Real-World POCs](https://infosecwriteups.com/bug-hunting-in-js-files-tricks-tools-and-real-world-pocs-70406e3eb72e?source=rss----7b722bfd1b8d---4)
+- [Building a Secure Home Network in 2025: Practical Tips](https://infosecwriteups.com/building-a-secure-home-network-in-2025-practical-tips-d359f4f41867?source=rss----7b722bfd1b8d---4)
+- [A Guide to SQL Injection Attacks: Hackers Don’t Want You to Know This!](https://infosecwriteups.com/a-guide-to-sql-injection-attacks-hackers-dont-want-you-to-know-this-a9837f711f6b?source=rss----7b722bfd1b8d---4)
+- [Privilege Escalation with Docker Container](https://infosecwriteups.com/privilege-escalation-using-docker-container-e9110713936b?source=rss----7b722bfd1b8d---4)
+- [Tool Review — TraceWeb.io Extension](https://infosecwriteups.com/tool-review-traceweb-io-extension-5fdf79396e21?source=rss----7b722bfd1b8d---4)
+- [$100 Bounty: How a Spoofed Email Could Change Any Username on HackerOne](https://infosecwriteups.com/100-bounty-how-a-spoofed-email-could-change-any-username-on-hackerone-8efd98ab44f5?source=rss----7b722bfd1b8d---4)
+- [️‍♂️ Unlisted but Not Unseen: How I Found the Admin Panel in a JavaScript Comment](https://infosecwriteups.com/%EF%B8%8F-%EF%B8%8F-unlisted-but-not-unseen-how-i-found-the-admin-panel-in-a-javascript-comment-f34af758b4c8?source=rss----7b722bfd1b8d---4)
+- [Mastering Linux Part 3: A Beginner’s Guide to APT and YUM Package Management](https://infosecwriteups.com/mastering-linux-part-3-a-beginners-guide-to-apt-and-yum-package-management-d37742d4f822?source=rss----7b722bfd1b8d---4)
+- [How to setup a Monthly Free VPS for Bug Hunting](https://infosecwriteups.com/how-to-setup-a-monthly-free-vps-for-bug-hunting-d41d0fa3ed6c?source=rss----7b722bfd1b8d---4)
+- [Revisiting the Past, Hacking the Future](https://infosecwriteups.com/invalid-bug-c3cae222858c?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
