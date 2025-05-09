@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [HTTP REQUEST SMUGGLING TO BYPASS FRONT-END SCURITY CONTROL IN TE.CL TO ACCESS ADMIN PANEL](https://medium.com/@arunodayvmtiwari1102/http-request-smuggling-to-bypass-front-end-scurity-control-in-te-cl-to-access-admin-panel-bfd7bc1b2c72?source=rss------bug_bounty_writeup-5)
+- [HTTP REQUEST SMUGGLING](https://medium.com/@arunodayvmtiwari1102/http-request-smuggling-a1be1c2cf302?source=rss------bug_bounty_writeup-5)
 - [⚔️ How I Hijacked Password Reset Links with One Sneaky Header Injection](https://root-geek.medium.com/%EF%B8%8F-how-i-hijacked-password-reset-links-with-one-sneaky-header-injection-47a0db51bfd9?source=rss------bug_bounty_writeup-5)
 - [Tackling Conditional Blind SQLi Like a Pro: OSWE Prep Powered by Burp Suite](https://infosecwriteups.com/tackling-conditional-blind-sqli-like-a-pro-oswe-prep-powered-by-burp-suite-9764ba210b40?source=rss----7b722bfd1b8d---4)
 - [Mastering Rate Limit Bypass Techniques](https://infosecwriteups.com/mastering-rate-limit-bypass-techniques-fff9499b0f42?source=rss----7b722bfd1b8d---4)
@@ -940,8 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [CTF with CSRF involving referrer header](https://medium.com/@arunodayvmtiwari1102/ctf-with-csrf-involving-referrer-header-186041e6b6b5?source=rss------bug_bounty_writeup-5)
 - [The Ultimate Guide to API Security Testing — Cheat sheet 2025 — Part2](https://t4144t.medium.com/the-ultimate-guide-to-api-security-testing-cheat-sheet-2025-part2-a7d8a69710ff?source=rss------bug_bounty_writeup-5)
 - [️ How I Earned $150 by Exploiting an XML-RPC SSRF in a WordPress Site](https://medium.com/@sauravkrish59/%EF%B8%8F-how-i-earned-150-by-exploiting-an-xml-rpc-ssrf-in-a-wordpress-site-51037eb58252?source=rss------bug_bounty_writeup-5)
-- [IDOR Allows Unauthorized Access to Other Users’ Personal Data](https://brbr0s.medium.com/idor-allows-unauthorized-access-to-other-users-personal-data-8f73486cbab0?source=rss------bug_bounty_writeup-5)
-- [H@cking Hospital For Mass PII Leak](https://medium.com/meetcyber/h-cking-hospital-for-mass-pii-leak-85c3d89db434?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
