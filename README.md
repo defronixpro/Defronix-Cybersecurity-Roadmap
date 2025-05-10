@@ -922,16 +922,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [Tackling Conditional Blind SQLi Like a Pro: OSWE Prep Powered by Burp Suite](https://infosecwriteups.com/tackling-conditional-blind-sqli-like-a-pro-oswe-prep-powered-by-burp-suite-9764ba210b40?source=rss----7b722bfd1b8d---4)
-- [Mastering Rate Limit Bypass Techniques](https://infosecwriteups.com/mastering-rate-limit-bypass-techniques-fff9499b0f42?source=rss----7b722bfd1b8d---4)
-- [UUIDs: A False Sense Of Security](https://infosecwriteups.com/uuids-a-false-sense-of-security-10467497daae?source=rss----7b722bfd1b8d---4)
-- [$50,000 Bounty: GitHub Access Token](https://infosecwriteups.com/50-000-bounty-github-access-token-c29cb6f00182?source=rss----7b722bfd1b8d---4)
-- [️Recon Automation Like a Pro: My 5-Stage System to Catch More Bugs](https://infosecwriteups.com/%EF%B8%8Frecon-automation-like-a-pro-my-5-stage-system-to-catch-more-bugs-4fff7b7c4726?source=rss----7b722bfd1b8d---4)
-- [Top 10 Ways Hackers Exploit Web Applications &lpar;and How to Prevent Them&rpar;](https://infosecwriteups.com/top-10-ways-hackers-exploit-web-applications-and-how-to-prevent-them-6dfd05630e2c?source=rss----7b722bfd1b8d---4)
-- [Open Redirect Vulnerability: What It Is and Why It Matters](https://infosecwriteups.com/open-redirect-vulnerability-what-it-is-and-why-it-matters-b600117c61a7?source=rss----7b722bfd1b8d---4)
-- [Wazuh: The Free SIEM That Fights Like a Paid One](https://infosecwriteups.com/wazuh-the-free-siem-that-fights-like-a-paid-one-9554ed1272da?source=rss----7b722bfd1b8d---4)
-- [Unlimited Emails: A Bug That Let Me Spam Anyone =&gt;$250](https://infosecwriteups.com/unlimited-emails-a-bug-that-let-me-spam-anyone-250-e0d1b14ae810?source=rss----7b722bfd1b8d---4)
-- [Bypassing Email Verification](https://infosecwriteups.com/bypassing-email-verification-299d94230724?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
