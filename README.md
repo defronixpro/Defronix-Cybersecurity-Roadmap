@@ -922,6 +922,16 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [HTTP REQUEST SMUGGLING TO BYPASS FRONT-END SCURITY CONTROL IN TE.CL TO ACCESS ADMIN PANEL](https://medium.com/@arunodayvmtiwari1102/http-request-smuggling-to-bypass-front-end-scurity-control-in-te-cl-to-access-admin-panel-bfd7bc1b2c72?source=rss------bug_bounty_writeup-5)
+- [HTTP REQUEST SMUGGLING](https://medium.com/@arunodayvmtiwari1102/http-request-smuggling-a1be1c2cf302?source=rss------bug_bounty_writeup-5)
+- [⚔️ How I Hijacked Password Reset Links with One Sneaky Header Injection](https://root-geek.medium.com/%EF%B8%8F-how-i-hijacked-password-reset-links-with-one-sneaky-header-injection-47a0db51bfd9?source=rss------bug_bounty_writeup-5)
+- [The Story Behind 4 Vulnerabilities in a Single Target](https://medium.com/@mahmoudelsadey56/the-story-behind-4-vulnerabilities-in-a-single-target-11f89224d585?source=rss------bug_bounty_writeup-5)
+- [From Cross-Subdomain Cookie Reuse to Becoming Super Admin: An Exploit Chain Walkthrough](https://medium.com/@cyberpro151/from-cross-subdomain-cookie-reuse-to-becoming-super-admin-an-exploit-chain-walkthrough-32527caa2a11?source=rss------bug_bounty_writeup-5)
+- [How a JavaScript File Led Me to an Open Redirect Vulnerability](https://systemweakness.com/how-a-javascript-file-led-me-to-an-open-redirect-vulnerability-eefce51303b2?source=rss------bug_bounty_writeup-5)
+- [“ Mastering Bug Bounty Recon: Tools &amp; Techniques to Uncover Vulnerabilities ”](https://medium.com/@devillegiondevils/mastering-bug-bounty-recon-tools-techniques-to-uncover-vulnerabilities-6db1bbfef248?source=rss------bug_bounty_writeup-5)
+- [CTF with CSRF involving referrer header](https://medium.com/@arunodayvmtiwari1102/ctf-with-csrf-involving-referrer-header-186041e6b6b5?source=rss------bug_bounty_writeup-5)
+- [The Ultimate Guide to API Security Testing — Cheat sheet 2025 — Part2](https://t4144t.medium.com/the-ultimate-guide-to-api-security-testing-cheat-sheet-2025-part2-a7d8a69710ff?source=rss------bug_bounty_writeup-5)
+- [️ How I Earned $150 by Exploiting an XML-RPC SSRF in a WordPress Site](https://medium.com/@sauravkrish59/%EF%B8%8F-how-i-earned-150-by-exploiting-an-xml-rpc-ssrf-in-a-wordpress-site-51037eb58252?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
