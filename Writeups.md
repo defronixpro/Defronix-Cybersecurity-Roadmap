@@ -1,6 +1,8 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [DCSync Attacks: Abusing Replication Rights for Stealthy Domain Dominance](https://infosecwriteups.com/dcsync-attacks-abusing-replication-rights-for-stealthy-domain-dominance-944df906eb9e?source=rss----7b722bfd1b8d---4)
+- [7 Recon Tricks Made Me Earn $$$ Bounty](https://infosecwriteups.com/7-recon-tricks-made-me-earn-bounty-dc46b32724a6?source=rss----7b722bfd1b8d---4)
 - [$16,000 Bounty: Stored XSS in GitLab](https://infosecwriteups.com/16-000-bounty-stored-xss-in-gitlab-a0f57e5c4245?source=rss----7b722bfd1b8d---4)
 - [CSP? More Like Can’t Stop Payloads  — Bypassing CSP to XSS Like a Pro](https://infosecwriteups.com/csp-more-like-cant-stop-payloads-bypassing-csp-to-xss-like-a-pro-90d27c2c3a40?source=rss----7b722bfd1b8d---4)
 - [How I Found Multiple Critical Vulnerabilities in File Upload Functionality](https://medium.com/@pentestersuresh01/how-i-found-multiple-critical-vulnerabilities-in-file-upload-functionality-d868db55b55a?source=rss------bug_bounty_writeup-5)
@@ -14,8 +16,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [$50,000 Bounty: GitHub Access Token](https://infosecwriteups.com/50-000-bounty-github-access-token-c29cb6f00182?source=rss----7b722bfd1b8d---4)
 - [️Recon Automation Like a Pro: My 5-Stage System to Catch More Bugs](https://infosecwriteups.com/%EF%B8%8Frecon-automation-like-a-pro-my-5-stage-system-to-catch-more-bugs-4fff7b7c4726?source=rss----7b722bfd1b8d---4)
 - [Top 10 Ways Hackers Exploit Web Applications &lpar;and How to Prevent Them&rpar;](https://infosecwriteups.com/top-10-ways-hackers-exploit-web-applications-and-how-to-prevent-them-6dfd05630e2c?source=rss----7b722bfd1b8d---4)
-- [Open Redirect Vulnerability: What It Is and Why It Matters](https://infosecwriteups.com/open-redirect-vulnerability-what-it-is-and-why-it-matters-b600117c61a7?source=rss----7b722bfd1b8d---4)
-- [Wazuh: The Free SIEM That Fights Like a Paid One](https://infosecwriteups.com/wazuh-the-free-siem-that-fights-like-a-paid-one-9554ed1272da?source=rss----7b722bfd1b8d---4)
 - [The Story Behind 4 Vulnerabilities in a Single Target](https://medium.com/@mahmoudelsadey56/the-story-behind-4-vulnerabilities-in-a-single-target-11f89224d585?source=rss------bug_bounty_writeup-5)
 - [From Cross-Subdomain Cookie Reuse to Becoming Super Admin: An Exploit Chain Walkthrough](https://medium.com/@cyberpro151/from-cross-subdomain-cookie-reuse-to-becoming-super-admin-an-exploit-chain-walkthrough-32527caa2a11?source=rss------bug_bounty_writeup-5)
 - [How a JavaScript File Led Me to an Open Redirect Vulnerability](https://systemweakness.com/how-a-javascript-file-led-me-to-an-open-redirect-vulnerability-eefce51303b2?source=rss------bug_bounty_writeup-5)
