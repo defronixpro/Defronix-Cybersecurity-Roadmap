@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [The “Unlimited Leave” Hack I Found at My College — And Why I Didn’t Use It](https://medium.com/@swarnimbandekar/vtop-idor-d73d42d206bc?source=rss------bug_bounty_writeup-5)
 - [Bypass Fitur Ganti Email via Request API Langsung](https://medium.com/@FufuFaf1/bypass-fitur-ganti-email-via-request-api-langsung-fac831a8dc31?source=rss------bug_bounty_writeup-5)
 - [️ A Simple Header, A New Experience — My Clickjacking Discovery.](https://medium.com/@gnaitikg/%EF%B8%8F-a-simple-header-a-new-experience-my-clickjacking-discovery-46b5910eb1da?source=rss------bug_bounty_writeup-5)
 - [DCSync Attacks: Abusing Replication Rights for Stealthy Domain Dominance](https://infosecwriteups.com/dcsync-attacks-abusing-replication-rights-for-stealthy-domain-dominance-944df906eb9e?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Top 10 Ways Hackers Exploit Web Applications &lpar;and How to Prevent Them&rpar;](https://infosecwriteups.com/top-10-ways-hackers-exploit-web-applications-and-how-to-prevent-them-6dfd05630e2c?source=rss----7b722bfd1b8d---4)
 - [The Story Behind 4 Vulnerabilities in a Single Target](https://medium.com/@mahmoudelsadey56/the-story-behind-4-vulnerabilities-in-a-single-target-11f89224d585?source=rss------bug_bounty_writeup-5)
 - [From Cross-Subdomain Cookie Reuse to Becoming Super Admin: An Exploit Chain Walkthrough](https://medium.com/@cyberpro151/from-cross-subdomain-cookie-reuse-to-becoming-super-admin-an-exploit-chain-walkthrough-32527caa2a11?source=rss------bug_bounty_writeup-5)
-- [How a JavaScript File Led Me to an Open Redirect Vulnerability](https://systemweakness.com/how-a-javascript-file-led-me-to-an-open-redirect-vulnerability-eefce51303b2?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
