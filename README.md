@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I Find Open Redirect Bugs Using Waybackurls, Gau &amp; GF Tool](https://ch4ndan.medium.com/how-i-find-open-redirect-bugs-using-waybackurls-gau-gf-tool-64ac3dcb9aa0?source=rss------bug_bounty_writeup-5)
 - [Compress-a-thon — CSP Bypass via Redirection — Pentathon 2025](https://infosecwriteups.com/compress-a-thon-web-exploitation-pentathon-2025-fea9adf9fa6b?source=rss----7b722bfd1b8d---4)
 - [SSRF via PDF Generator? Yes, and It Led to EC2 Metadata Access](https://infosecwriteups.com/ssrf-via-pdf-generator-yes-and-it-led-to-ec2-metadata-access-39b8e5b41840?source=rss----7b722bfd1b8d---4)
 - [Shadow Credentials in Active Directory: When the Exploit Doesn’t Work — Until It Does](https://infosecwriteups.com/shadow-credentials-in-active-directory-when-the-exploit-doesnt-work-until-it-does-c0efaa5f01ac?source=rss----7b722bfd1b8d---4)
@@ -932,6 +933,15 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [$10,000 Bounty: HackerOne Report Comments Leak via “Export as .zip”](https://infosecwriteups.com/10-000-bounty-hackerone-report-comments-leak-via-export-as-zip-a4aed8bd7409?source=rss----7b722bfd1b8d---4)
 - [Understanding Stealer Logs and Their Role in Security Testing: A Focus on Asset Discovery- Part 2](https://infosecwriteups.com/understanding-stealer-logs-and-its-role-in-security-testing-a-focus-on-asset-discovery-part-2-8d9b64057102?source=rss----7b722bfd1b8d---4)
 - [Understanding Stealer Logs and Their Role in Security Testing — Part 1](https://infosecwriteups.com/understanding-log-stealer-and-its-role-in-security-testing-part-1-5f2223b47847?source=rss----7b722bfd1b8d---4)
+- [The “Unlimited Leave” Hack I Found at My College — And Why I Didn’t Use It](https://medium.com/@swarnimbandekar/vtop-idor-d73d42d206bc?source=rss------bug_bounty_writeup-5)
+- [Bypass Fitur Ganti Email via Request API Langsung](https://medium.com/@FufuFaf1/bypass-fitur-ganti-email-via-request-api-langsung-fac831a8dc31?source=rss------bug_bounty_writeup-5)
+- [️ A Simple Header, A New Experience — My Clickjacking Discovery.](https://medium.com/@gnaitikg/%EF%B8%8F-a-simple-header-a-new-experience-my-clickjacking-discovery-46b5910eb1da?source=rss------bug_bounty_writeup-5)
+- [How I Found Multiple Critical Vulnerabilities in File Upload Functionality](https://medium.com/@pentestersuresh01/how-i-found-multiple-critical-vulnerabilities-in-file-upload-functionality-d868db55b55a?source=rss------bug_bounty_writeup-5)
+- [Dorking Receh, Ketemu NIK &amp; NPWP di Domain Pemerintah](https://medium.com/@FufuFaf1/dorking-receh-ketemu-nik-npwp-di-domain-pemerintah-30e89912d3be?source=rss------bug_bounty_writeup-5)
+- [HTTP REQUEST SMUGGLING TO BYPASS FRONT-END SCURITY CONTROL IN TE.CL TO ACCESS ADMIN PANEL](https://medium.com/@arunodayvmtiwari1102/http-request-smuggling-to-bypass-front-end-scurity-control-in-te-cl-to-access-admin-panel-bfd7bc1b2c72?source=rss------bug_bounty_writeup-5)
+- [HTTP REQUEST SMUGGLING](https://medium.com/@arunodayvmtiwari1102/http-request-smuggling-a1be1c2cf302?source=rss------bug_bounty_writeup-5)
+- [⚔️ How I Hijacked Password Reset Links with One Sneaky Header Injection](https://root-geek.medium.com/%EF%B8%8F-how-i-hijacked-password-reset-links-with-one-sneaky-header-injection-47a0db51bfd9?source=rss------bug_bounty_writeup-5)
+- [The Story Behind 4 Vulnerabilities in a Single Target](https://medium.com/@mahmoudelsadey56/the-story-behind-4-vulnerabilities-in-a-single-target-11f89224d585?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
