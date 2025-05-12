@@ -1,7 +1,6 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
-- [OSINT Writeups — MIST Cyber Drill 2025](https://gr3yg05t.medium.com/osint-writeups-mist-cyber-drill-2025-2d1e398a4672?source=rss------bug_bounty_writeup-5)
 - [bWAPP HTML Injection CheatSheet — &lpar;WebApp Pentesting 1&rpar;](https://serkanbenol.medium.com/bwapp-html-injection-cheatsheet-webapp-pentesting-1-f6ae6719617a?source=rss------bug_bounty_writeup-5)
 - [The Ultimate IDOR Bug Bounty Methodology — Learn &amp; Hunt Like a Pro &lpar;2025 Guide&rpar;](https://hackersatty.medium.com/the-ultimate-idor-bug-bounty-methodology-learn-hunt-like-a-pro-2025-guide-fd79e50fd7fe?source=rss------bug_bounty_writeup-5)
 - [[Bug Bounty] How I Leaked Admin Metadata From a Low-Privileged Account — A Deep Dive into…](https://hackersatty.medium.com/bug-bounty-how-i-leaked-admin-metadata-from-a-low-privileged-account-a-deep-dive-into-23e0d699d792?source=rss------bug_bounty_writeup-5)
@@ -21,6 +20,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [️ A Simple Header, A New Experience — My Clickjacking Discovery.](https://medium.com/@gnaitikg/%EF%B8%8F-a-simple-header-a-new-experience-my-clickjacking-discovery-46b5910eb1da?source=rss------bug_bounty_writeup-5)
 - [How I Found Multiple Critical Vulnerabilities in File Upload Functionality](https://medium.com/@pentestersuresh01/how-i-found-multiple-critical-vulnerabilities-in-file-upload-functionality-d868db55b55a?source=rss------bug_bounty_writeup-5)
 - [Dorking Receh, Ketemu NIK &amp; NPWP di Domain Pemerintah](https://medium.com/@FufuFaf1/dorking-receh-ketemu-nik-npwp-di-domain-pemerintah-30e89912d3be?source=rss------bug_bounty_writeup-5)
+- [HTTP REQUEST SMUGGLING TO BYPASS FRONT-END SCURITY CONTROL IN TE.CL TO ACCESS ADMIN PANEL](https://medium.com/@arunodayvmtiwari1102/http-request-smuggling-to-bypass-front-end-scurity-control-in-te-cl-to-access-admin-panel-bfd7bc1b2c72?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
