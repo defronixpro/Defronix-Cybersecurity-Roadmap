@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [[Bug Bounty] How I Leaked Admin Metadata From a Low-Privileged Account — A Deep Dive into…](https://hackersatty.medium.com/bug-bounty-how-i-leaked-admin-metadata-from-a-low-privileged-account-a-deep-dive-into-23e0d699d792?source=rss------bug_bounty_writeup-5)
 - [Master CRLF Injection: The Underrated Bug with Dangerous Potential](https://infosecwriteups.com/master-crlf-injection-the-underrated-bug-with-dangerous-potential-33bb0d62e031?source=rss----7b722bfd1b8d---4)
 - [How I Find Open Redirect Bugs Using Waybackurls, Gau &amp; GF Tool](https://ch4ndan.medium.com/how-i-find-open-redirect-bugs-using-waybackurls-gau-gf-tool-64ac3dcb9aa0?source=rss------bug_bounty_writeup-5)
 - [CSP Bypass via Redirection —Compress-a-thon — Pentathon 2025](https://infosecwriteups.com/compress-a-thon-web-exploitation-pentathon-2025-fea9adf9fa6b?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [HTTP REQUEST SMUGGLING TO BYPASS FRONT-END SCURITY CONTROL IN TE.CL TO ACCESS ADMIN PANEL](https://medium.com/@arunodayvmtiwari1102/http-request-smuggling-to-bypass-front-end-scurity-control-in-te-cl-to-access-admin-panel-bfd7bc1b2c72?source=rss------bug_bounty_writeup-5)
 - [HTTP REQUEST SMUGGLING](https://medium.com/@arunodayvmtiwari1102/http-request-smuggling-a1be1c2cf302?source=rss------bug_bounty_writeup-5)
 - [⚔️ How I Hijacked Password Reset Links with One Sneaky Header Injection](https://root-geek.medium.com/%EF%B8%8F-how-i-hijacked-password-reset-links-with-one-sneaky-header-injection-47a0db51bfd9?source=rss------bug_bounty_writeup-5)
-- [The Story Behind 4 Vulnerabilities in a Single Target](https://medium.com/@mahmoudelsadey56/the-story-behind-4-vulnerabilities-in-a-single-target-11f89224d585?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
