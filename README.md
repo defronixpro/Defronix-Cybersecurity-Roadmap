@@ -924,7 +924,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 <!-- WRITEUPS:START -->
 - [Master CRLF Injection: The Underrated Bug with Dangerous Potential](https://infosecwriteups.com/master-crlf-injection-the-underrated-bug-with-dangerous-potential-33bb0d62e031?source=rss----7b722bfd1b8d---4)
 - [How I Find Open Redirect Bugs Using Waybackurls, Gau &amp; GF Tool](https://ch4ndan.medium.com/how-i-find-open-redirect-bugs-using-waybackurls-gau-gf-tool-64ac3dcb9aa0?source=rss------bug_bounty_writeup-5)
-- [Compress-a-thon — CSP Bypass via Redirection — Pentathon 2025](https://infosecwriteups.com/compress-a-thon-web-exploitation-pentathon-2025-fea9adf9fa6b?source=rss----7b722bfd1b8d---4)
+- [CSP Bypass via Redirection —Compress-a-thon — Pentathon 2025](https://infosecwriteups.com/compress-a-thon-web-exploitation-pentathon-2025-fea9adf9fa6b?source=rss----7b722bfd1b8d---4)
 - [SSRF via PDF Generator? Yes, and It Led to EC2 Metadata Access](https://infosecwriteups.com/ssrf-via-pdf-generator-yes-and-it-led-to-ec2-metadata-access-39b8e5b41840?source=rss----7b722bfd1b8d---4)
 - [Shadow Credentials in Active Directory: When the Exploit Doesn’t Work — Until It Does](https://infosecwriteups.com/shadow-credentials-in-active-directory-when-the-exploit-doesnt-work-until-it-does-c0efaa5f01ac?source=rss----7b722bfd1b8d---4)
 - [The Hidden Language: Exploiting GraphQL for Unauthorized Data Dump](https://infosecwriteups.com/the-hidden-language-exploiting-graphql-for-unauthorized-data-dump-8be49f30a005?source=rss----7b722bfd1b8d---4)
