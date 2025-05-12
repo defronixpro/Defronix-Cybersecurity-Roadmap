@@ -922,6 +922,16 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Compress-a-thon — CSP Bypass via Redirection — Pentathon 2025](https://infosecwriteups.com/compress-a-thon-web-exploitation-pentathon-2025-fea9adf9fa6b?source=rss----7b722bfd1b8d---4)
+- [SSRF via PDF Generator? Yes, and It Led to EC2 Metadata Access](https://infosecwriteups.com/ssrf-via-pdf-generator-yes-and-it-led-to-ec2-metadata-access-39b8e5b41840?source=rss----7b722bfd1b8d---4)
+- [Shadow Credentials in Active Directory: When the Exploit Doesn’t Work — Until It Does](https://infosecwriteups.com/shadow-credentials-in-active-directory-when-the-exploit-doesnt-work-until-it-does-c0efaa5f01ac?source=rss----7b722bfd1b8d---4)
+- [The Hidden Language: Exploiting GraphQL for Unauthorized Data Dump](https://infosecwriteups.com/the-hidden-language-exploiting-graphql-for-unauthorized-data-dump-8be49f30a005?source=rss----7b722bfd1b8d---4)
+- [Bug Hunting in JS Files: Tricks, Tools, and Real-World POCs](https://infosecwriteups.com/bug-hunting-in-js-files-tricks-tools-and-real-world-pocs-b4d43dd41d8e?source=rss----7b722bfd1b8d---4)
+- [Bug Bounty Race: Exploiting Race Conditions for Infinite Discounts](https://infosecwriteups.com/bug-bounty-race-exploiting-race-conditions-for-infinite-discounts-a2cb2f233804?source=rss----7b722bfd1b8d---4)
+- [Top 5 Easiest Bugs for Beginners in Bug Bounty](https://infosecwriteups.com/top-5-easiest-bugs-for-beginners-in-bug-bounty-45dd81c49e03?source=rss----7b722bfd1b8d---4)
+- [$10,000 Bounty: HackerOne Report Comments Leak via “Export as .zip”](https://infosecwriteups.com/10-000-bounty-hackerone-report-comments-leak-via-export-as-zip-a4aed8bd7409?source=rss----7b722bfd1b8d---4)
+- [Understanding Stealer Logs and Their Role in Security Testing: A Focus on Asset Discovery- Part 2](https://infosecwriteups.com/understanding-stealer-logs-and-its-role-in-security-testing-a-focus-on-asset-discovery-part-2-8d9b64057102?source=rss----7b722bfd1b8d---4)
+- [Understanding Stealer Logs and Their Role in Security Testing — Part 1](https://infosecwriteups.com/understanding-log-stealer-and-its-role-in-security-testing-part-1-5f2223b47847?source=rss----7b722bfd1b8d---4)
 - [The “Unlimited Leave” Hack I Found at My College — And Why I Didn’t Use It](https://medium.com/@swarnimbandekar/vtop-idor-d73d42d206bc?source=rss------bug_bounty_writeup-5)
 - [Bypass Fitur Ganti Email via Request API Langsung](https://medium.com/@FufuFaf1/bypass-fitur-ganti-email-via-request-api-langsung-fac831a8dc31?source=rss------bug_bounty_writeup-5)
 - [️ A Simple Header, A New Experience — My Clickjacking Discovery.](https://medium.com/@gnaitikg/%EF%B8%8F-a-simple-header-a-new-experience-my-clickjacking-discovery-46b5910eb1da?source=rss------bug_bounty_writeup-5)
