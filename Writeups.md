@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How I Bypassed Permissions in a Telehealth Platform](https://medium.com/@mrro0o0tt/how-i-bypassed-permissions-in-a-telehealth-platform-f05b249b127c?source=rss------bug_bounty_writeup-5)
 - [$256 Bounty : XSS via Web Cache Poisoning in Discourse](https://infosecwriteups.com/256-bounty-xss-via-web-cache-poisoning-in-discourse-594d5961555e?source=rss----7b722bfd1b8d---4)
 - [The $1,000 Recon Trick: One Command That Changed My Hunting Game](https://infosecwriteups.com/the-1-000-recon-trick-one-command-that-changed-my-hunting-game-58527a7f6d7c?source=rss----7b722bfd1b8d---4)
 - [The Human Firewall: Why Your Employees Are Both Your Greatest Vulnerability and Asset](https://infosecwriteups.com/the-human-firewall-why-your-employees-are-both-your-greatest-vulnerability-and-asset-76a93b879bae?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Bypass Fitur Ganti Email via Request API Langsung](https://medium.com/@FufuFaf1/bypass-fitur-ganti-email-via-request-api-langsung-fac831a8dc31?source=rss------bug_bounty_writeup-5)
 - [️ A Simple Header, A New Experience — My Clickjacking Discovery.](https://medium.com/@gnaitikg/%EF%B8%8F-a-simple-header-a-new-experience-my-clickjacking-discovery-46b5910eb1da?source=rss------bug_bounty_writeup-5)
 - [How I Found Multiple Critical Vulnerabilities in File Upload Functionality](https://medium.com/@pentestersuresh01/how-i-found-multiple-critical-vulnerabilities-in-file-upload-functionality-d868db55b55a?source=rss------bug_bounty_writeup-5)
-- [Dorking Receh, Ketemu NIK &amp; NPWP di Domain Pemerintah](https://medium.com/@FufuFaf1/dorking-receh-ketemu-nik-npwp-di-domain-pemerintah-30e89912d3be?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
