@@ -922,9 +922,19 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [JWT Exploitation: How I Forged Tokens and Took Over Accounts](https://infosecwriteups.com/jwt-exploitation-how-i-forged-tokens-and-took-over-accounts-2e7ab1cf4df8?source=rss----7b722bfd1b8d---4)
+- [Top 8 Best Vulnerability Scanning Tools &lpar;2025 Guide&rpar;](https://infosecwriteups.com/top-8-best-vulnerability-scanning-tools-2025-guide-df3d4484c238?source=rss----7b722bfd1b8d---4)
+- [HTB Zephyr Lab Explained: Real-World Red Team Operator Strategies for OSEP](https://infosecwriteups.com/htb-zephyr-lab-explained-real-world-red-team-operator-strategies-for-osep-22e250df83a2?source=rss----7b722bfd1b8d---4)
+- [File Integrity Monitoring with Wazuh](https://infosecwriteups.com/file-integrity-monitoring-with-wazuh-aaffba77748d?source=rss----7b722bfd1b8d---4)
+- [How I Found a Way to Prolong Password Reset Code Expiry](https://infosecwriteups.com/how-i-found-a-way-to-prolong-password-reset-code-expiry-6214391023de?source=rss----7b722bfd1b8d---4)
+- [How I Deleted Any User’s Account— No Interaction Needed](https://infosecwriteups.com/how-i-deleted-any-users-account-no-interaction-needed-faae0442ff4f?source=rss----7b722bfd1b8d---4)
+- [My First Year in Bug Bounty $$$](https://infosecwriteups.com/my-first-year-in-bug-bounty-9c87e0b68ac4?source=rss----7b722bfd1b8d---4)
 - [My First Year in Bug Bounty $$$](https://infosecwriteups.com/my-first-year-in-bug-bounty-9c87e0b68ac4?source=rss------bug_bounty_writeup-5)
+- [Forget Me Not: How Broken Logout Functionality Let Me Ride Sessions Forever](https://infosecwriteups.com/forget-me-not-how-broken-logout-functionality-let-me-ride-sessions-forever-3435e6d98845?source=rss----7b722bfd1b8d---4)
+- [I Broke Authentication — Without Exploiting Anything](https://infosecwriteups.com/i-broke-authentication-without-exploiting-anything-9b1d7905b70f?source=rss----7b722bfd1b8d---4)
 - [Privilege Escalation via Invitation &amp; Bypassed 2FA](https://medium.com/@edahmed008/privilege-escalation-via-invitation-bypassed-2fa-98219664764f?source=rss------bug_bounty_writeup-5)
 - [How I Bypassed Permissions in a Telehealth Platform](https://medium.com/@mrro0o0tt/how-i-bypassed-permissions-in-a-telehealth-platform-f05b249b127c?source=rss------bug_bounty_writeup-5)
+- [$256 Bounty : XSS via Web Cache Poisoning in Discourse](https://infosecwriteups.com/256-bounty-xss-via-web-cache-poisoning-in-discourse-594d5961555e?source=rss----7b722bfd1b8d---4)
 - [Inside the Shadows: Why HTTP Smuggling Still Breaks the Web](https://medium.com/@es0557533/inside-the-shadows-why-http-smuggling-still-breaks-the-web-c81c69577fdd?source=rss------bug_bounty_writeup-5)
 - [bWAPP HTML Injection CheatSheet — &lpar;WebApp Pentesting 1&rpar;](https://serkanbenol.medium.com/bwapp-html-injection-cheatsheet-webapp-pentesting-1-f6ae6719617a?source=rss------bug_bounty_writeup-5)
 - [The Ultimate IDOR Bug Bounty Methodology — Learn &amp; Hunt Like a Pro &lpar;2025 Guide&rpar;](https://hackersatty.medium.com/the-ultimate-idor-bug-bounty-methodology-learn-hunt-like-a-pro-2025-guide-fd79e50fd7fe?source=rss------bug_bounty_writeup-5)
