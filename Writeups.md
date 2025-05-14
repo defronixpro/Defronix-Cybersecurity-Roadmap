@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Bug Bounty Tips: From Zero to First Payout](https://medium.com/@appsecwarrior/bug-bounty-tips-from-zero-to-first-payout-6bd8c9df0c48?source=rss------bug_bounty_writeup-5)
 - [JWT Exploitation: How I Forged Tokens and Took Over Accounts](https://infosecwriteups.com/jwt-exploitation-how-i-forged-tokens-and-took-over-accounts-2e7ab1cf4df8?source=rss----7b722bfd1b8d---4)
 - [Top 8 Best Vulnerability Scanning Tools &lpar;2025 Guide&rpar;](https://infosecwriteups.com/top-8-best-vulnerability-scanning-tools-2025-guide-df3d4484c238?source=rss----7b722bfd1b8d---4)
 - [HTB Zephyr Lab Explained: Real-World Red Team Operator Strategies for OSEP](https://infosecwriteups.com/htb-zephyr-lab-explained-real-world-red-team-operator-strategies-for-osep-22e250df83a2?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [[Bug Bounty] How I Leaked Admin Metadata From a Low-Privileged Account — A Deep Dive into…](https://hackersatty.medium.com/bug-bounty-how-i-leaked-admin-metadata-from-a-low-privileged-account-a-deep-dive-into-23e0d699d792?source=rss------bug_bounty_writeup-5)
 - [How I Find Open Redirect Bugs Using Waybackurls, Gau &amp; GF Tool](https://ch4ndan.medium.com/how-i-find-open-redirect-bugs-using-waybackurls-gau-gf-tool-64ac3dcb9aa0?source=rss------bug_bounty_writeup-5)
 - [The “Unlimited Leave” Hack I Found at My College — And Why I Didn’t Use It](https://medium.com/@swarnimbandekar/vtop-idor-d73d42d206bc?source=rss------bug_bounty_writeup-5)
-- [Bypass Fitur Ganti Email via Request API Langsung](https://medium.com/@FufuFaf1/bypass-fitur-ganti-email-via-request-api-langsung-fac831a8dc31?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
