@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [403 Bypass Techniques for Bug Bounty](https://medium.com/@silverxcyber/403-bypass-techniques-for-bug-bounty-dcd449733bec?source=rss------bug_bounty_writeup-5)
 - [Bypassing OTP Verification via Response Manipulation: A Silent Threat](https://frostyxsec.medium.com/bypassing-otp-verification-via-response-manipulation-a-silent-threat-006dc2b6fa13?source=rss------bug_bounty_writeup-5)
 - [Blog Title: Not Your File: How Misconfigured MIME Types Let Me Upload Evil Scripts](https://infosecwriteups.com/blog-title-not-your-file-how-misconfigured-mime-types-let-me-upload-evil-scripts-889efb18a7ce?source=rss----7b722bfd1b8d---4)
 - [☕Best Tool for Analyzing Java Files &lpar;90% of Hackers Don’t Know This&rpar;](https://infosecwriteups.com/best-tool-for-analyzing-java-files-90-of-hackers-dont-know-this-07a57d1477f9?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [bWAPP HTML Injection CheatSheet — &lpar;WebApp Pentesting 1&rpar;](https://serkanbenol.medium.com/bwapp-html-injection-cheatsheet-webapp-pentesting-1-f6ae6719617a?source=rss------bug_bounty_writeup-5)
 - [The Ultimate IDOR Bug Bounty Methodology — Learn &amp; Hunt Like a Pro &lpar;2025 Guide&rpar;](https://hackersatty.medium.com/the-ultimate-idor-bug-bounty-methodology-learn-hunt-like-a-pro-2025-guide-fd79e50fd7fe?source=rss------bug_bounty_writeup-5)
 - [[Bug Bounty] How I Leaked Admin Metadata From a Low-Privileged Account — A Deep Dive into…](https://hackersatty.medium.com/bug-bounty-how-i-leaked-admin-metadata-from-a-low-privileged-account-a-deep-dive-into-23e0d699d792?source=rss------bug_bounty_writeup-5)
-- [How I Find Open Redirect Bugs Using Waybackurls, Gau &amp; GF Tool](https://ch4ndan.medium.com/how-i-find-open-redirect-bugs-using-waybackurls-gau-gf-tool-64ac3dcb9aa0?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
