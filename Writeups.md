@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Bypassing OTP Verification via Response Manipulation: A Silent Threat](https://frostyxsec.medium.com/bypassing-otp-verification-via-response-manipulation-a-silent-threat-006dc2b6fa13?source=rss------bug_bounty_writeup-5)
 - [Blog Title: Not Your File: How Misconfigured MIME Types Let Me Upload Evil Scripts](https://infosecwriteups.com/blog-title-not-your-file-how-misconfigured-mime-types-let-me-upload-evil-scripts-889efb18a7ce?source=rss----7b722bfd1b8d---4)
 - [☕Best Tool for Analyzing Java Files &lpar;90% of Hackers Don’t Know This&rpar;](https://infosecwriteups.com/best-tool-for-analyzing-java-files-90-of-hackers-dont-know-this-07a57d1477f9?source=rss----7b722bfd1b8d---4)
 - [Application Security Checklist: From Idea to Production](https://infosecwriteups.com/application-security-checklist-from-idea-to-production-99ea68021184?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [The Ultimate IDOR Bug Bounty Methodology — Learn &amp; Hunt Like a Pro &lpar;2025 Guide&rpar;](https://hackersatty.medium.com/the-ultimate-idor-bug-bounty-methodology-learn-hunt-like-a-pro-2025-guide-fd79e50fd7fe?source=rss------bug_bounty_writeup-5)
 - [[Bug Bounty] How I Leaked Admin Metadata From a Low-Privileged Account — A Deep Dive into…](https://hackersatty.medium.com/bug-bounty-how-i-leaked-admin-metadata-from-a-low-privileged-account-a-deep-dive-into-23e0d699d792?source=rss------bug_bounty_writeup-5)
 - [How I Find Open Redirect Bugs Using Waybackurls, Gau &amp; GF Tool](https://ch4ndan.medium.com/how-i-find-open-redirect-bugs-using-waybackurls-gau-gf-tool-64ac3dcb9aa0?source=rss------bug_bounty_writeup-5)
-- [The “Unlimited Leave” Hack I Found at My College — And Why I Didn’t Use It](https://medium.com/@swarnimbandekar/vtop-idor-d73d42d206bc?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
