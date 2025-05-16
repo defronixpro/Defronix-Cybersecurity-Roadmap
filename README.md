@@ -922,6 +922,16 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Part-2️‍♂️Bug Bounty Secrets They Don’t Tell You: Tricks From 100+ Reported Bugs](https://infosecwriteups.com/part-2-%EF%B8%8F-%EF%B8%8Fbug-bounty-secrets-they-dont-tell-you-tricks-from-100-reported-bugs-46429520beb3?source=rss----7b722bfd1b8d---4)
+- [$500 Bounty: Race Condition in Hacker101 CTF Group Join](https://infosecwriteups.com/500-bounty-race-condition-in-hacker101-ctf-group-join-d7e84651bc5f?source=rss----7b722bfd1b8d---4)
+- [Secret to find bugs in five minutes. Juicy reality.](https://infosecwriteups.com/secret-to-find-bugs-in-five-minutes-juicy-reality-c7ed63cf26a8?source=rss----7b722bfd1b8d---4)
+- [Securing MCP Servers: Key Lessons from a Vulnerable Project](https://infosecwriteups.com/securing-mcp-servers-key-lessons-from-a-vulnerable-project-ebeced640352?source=rss----7b722bfd1b8d---4)
+- [Microsoft Goes Passwordless: What You Need to Know](https://infosecwriteups.com/microsoft-goes-passwordless-what-you-need-to-know-cea8b1e8e68f?source=rss----7b722bfd1b8d---4)
+- [NoSQL Injection Detection — A hands-on Exploitation Walkthrough](https://infosecwriteups.com/nosql-injection-detection-a-hands-on-exploitation-walkthrough-03aaa19dab70?source=rss----7b722bfd1b8d---4)
+- [How hackers chat securely on the darkweb](https://infosecwriteups.com/how-hackers-chat-securely-on-the-darkweb-f9701340e400?source=rss----7b722bfd1b8d---4)
+- [How a Simple Logic Flaw Led to a $3,250 Bounty](https://infosecwriteups.com/how-a-simple-logic-flaw-led-to-a-3-250-bounty-476d747bf57a?source=rss----7b722bfd1b8d---4)
+- [From 0 to $$$: Finding Rate Limit Bypasses Like a Pro](https://infosecwriteups.com/from-0-to-finding-rate-limit-bypasses-like-a-pro-6baf92b6acad?source=rss----7b722bfd1b8d---4)
+- [Top Tools That Helped Me Earn $500 in 30 Days](https://infosecwriteups.com/top-tools-that-helped-me-earn-500-in-30-days-00123f09cd7a?source=rss----7b722bfd1b8d---4)
 - [403 Bypass Techniques for Bug Bounty](https://medium.com/@silverxcyber/403-bypass-techniques-for-bug-bounty-dcd449733bec?source=rss------bug_bounty_writeup-5)
 - [Bypassing OTP Verification via Response Manipulation: A Silent Threat](https://frostyxsec.medium.com/bypassing-otp-verification-via-response-manipulation-a-silent-threat-006dc2b6fa13?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Tips: From Zero to First Payout](https://medium.com/@appsecwarrior/bug-bounty-tips-from-zero-to-first-payout-6bd8c9df0c48?source=rss------bug_bounty_writeup-5)
