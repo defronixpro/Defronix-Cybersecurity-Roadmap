@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Race Condition Seru: Ngebobol Limit Cuma Modal Request Paralel](https://medium.com/@FufuFaf1/race-condition-seru-ngebobol-limit-cuma-modal-request-paralel-44f1da33e4fb?source=rss------bug_bounty_writeup-5)
 - [Part-2️‍♂️Bug Bounty Secrets They Don’t Tell You: Tricks From 100+ Reported Bugs](https://infosecwriteups.com/part-2-%EF%B8%8F-%EF%B8%8Fbug-bounty-secrets-they-dont-tell-you-tricks-from-100-reported-bugs-46429520beb3?source=rss----7b722bfd1b8d---4)
 - [$500 Bounty: Race Condition in Hacker101 CTF Group Join](https://infosecwriteups.com/500-bounty-race-condition-in-hacker101-ctf-group-join-d7e84651bc5f?source=rss----7b722bfd1b8d---4)
 - [Secret to find bugs in five minutes. Juicy reality.](https://infosecwriteups.com/secret-to-find-bugs-in-five-minutes-juicy-reality-c7ed63cf26a8?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Inside the Shadows: Why HTTP Smuggling Still Breaks the Web](https://medium.com/@es0557533/inside-the-shadows-why-http-smuggling-still-breaks-the-web-c81c69577fdd?source=rss------bug_bounty_writeup-5)
 - [bWAPP HTML Injection CheatSheet — &lpar;WebApp Pentesting 1&rpar;](https://serkanbenol.medium.com/bwapp-html-injection-cheatsheet-webapp-pentesting-1-f6ae6719617a?source=rss------bug_bounty_writeup-5)
 - [The Ultimate IDOR Bug Bounty Methodology — Learn &amp; Hunt Like a Pro &lpar;2025 Guide&rpar;](https://hackersatty.medium.com/the-ultimate-idor-bug-bounty-methodology-learn-hunt-like-a-pro-2025-guide-fd79e50fd7fe?source=rss------bug_bounty_writeup-5)
-- [[Bug Bounty] How I Leaked Admin Metadata From a Low-Privileged Account — A Deep Dive into…](https://hackersatty.medium.com/bug-bounty-how-i-leaked-admin-metadata-from-a-low-privileged-account-a-deep-dive-into-23e0d699d792?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
