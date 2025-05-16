@@ -1,6 +1,16 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Blog Title: Not Your File: How Misconfigured MIME Types Let Me Upload Evil Scripts](https://infosecwriteups.com/blog-title-not-your-file-how-misconfigured-mime-types-let-me-upload-evil-scripts-889efb18a7ce?source=rss----7b722bfd1b8d---4)
+- [☕Best Tool for Analyzing Java Files &lpar;90% of Hackers Don’t Know This&rpar;](https://infosecwriteups.com/best-tool-for-analyzing-java-files-90-of-hackers-dont-know-this-07a57d1477f9?source=rss----7b722bfd1b8d---4)
+- [Application Security Checklist: From Idea to Production](https://infosecwriteups.com/application-security-checklist-from-idea-to-production-99ea68021184?source=rss----7b722bfd1b8d---4)
+- [How to Pitch at RSA Innovation Sandbox, Black Hat Startup Spotlight, and GISEC Cyberstars](https://infosecwriteups.com/how-to-pitch-at-rsa-innovation-sandbox-black-hat-startup-spotlight-and-gisec-cyberstars-f7d0a03ade91?source=rss----7b722bfd1b8d---4)
+- [The Art Of Brute-Forcing With Hydra](https://infosecwriteups.com/the-art-of-brute-forcing-with-hydra-52d53b3a1cec?source=rss----7b722bfd1b8d---4)
+- [Expose &amp; Explore: Discover misconfigured service protocols and ports using Linux](https://infosecwriteups.com/expose-explore-discover-misconfigured-service-protocols-and-ports-using-linux-72394ee09023?source=rss----7b722bfd1b8d---4)
+- [is Tor hiding u 100%?](https://infosecwriteups.com/is-tor-hiding-u-100-5ba594b49c55?source=rss----7b722bfd1b8d---4)
+- [The Role of Exotic Top-Level Domains &lpar;.st,](https://infosecwriteups.com/the-role-of-exotic-top-level-domains-st-856c5cc6ec4b?source=rss----7b722bfd1b8d---4)
+- [Hacking With No Tools: How to Break Web Apps Using Just Your Browser ️‍♂️](https://infosecwriteups.com/hacking-with-no-tools-how-to-break-web-apps-using-just-your-browser-%EF%B8%8F-%EF%B8%8F-255861d3f623?source=rss----7b722bfd1b8d---4)
+- [Breaking In Through the Backdoor: Password Reset Gone Wrong](https://infosecwriteups.com/breaking-in-through-the-backdoor-password-reset-gone-wrong-6e5243c16a19?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
