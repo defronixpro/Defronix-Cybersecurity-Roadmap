@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [My First Bug Bounty: How I Earned $1,000](https://medium.com/@kailasv678/my-first-bug-bounty-how-i-earned-1-000-4ae2bf36039d?source=rss------bug_bounty_writeup-5)
 - [How a Simple Host Header Injection Took Down the Forgot Password Page](https://root-geek.medium.com/how-a-simple-host-header-injection-took-down-the-forgot-password-page-c4f7dd434532?source=rss------bug_bounty_writeup-5)
 - [How I Prevented Millions of Dollars in LinkedIn Premium Losses: A Critical Voucher Exploit…](https://medium.com/@vdete/how-i-prevented-millions-of-dollars-in-linkedin-premium-losses-a-critical-voucher-exploit-4898e5033c31?source=rss------bug_bounty_writeup-5)
 - [Open Redirect via Base64-Encoded state Parameter in OAuth Flow &lpar;returnTo field&rpar;](https://medium.com/@husseinelturkey/open-redirect-via-base64-encoded-state-parameter-in-oauth-flow-returnto-field-42a0319ef296?source=rss------bug_bounty_writeup-5)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Bypassing OTP Verification via Response Manipulation: A Silent Threat](https://frostyxsec.medium.com/bypassing-otp-verification-via-response-manipulation-a-silent-threat-006dc2b6fa13?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Tips: From Zero to First Payout](https://medium.com/@appsecwarrior/bug-bounty-tips-from-zero-to-first-payout-6bd8c9df0c48?source=rss------bug_bounty_writeup-5)
 - [My First Year in Bug Bounty $$$](https://infosecwriteups.com/my-first-year-in-bug-bounty-9c87e0b68ac4?source=rss------bug_bounty_writeup-5)
-- [Privilege Escalation via Invitation &amp; Bypassed 2FA](https://medium.com/@edahmed008/privilege-escalation-via-invitation-bypassed-2fa-98219664764f?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
