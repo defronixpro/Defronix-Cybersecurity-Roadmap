@@ -1,6 +1,8 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Instagram API Documentation: Key Concepts Explained for Developers](https://infosecwriteups.com/instagram-api-documentation-key-concepts-explained-for-developers-4c2646525e9c?source=rss----7b722bfd1b8d---4)
+- [Get Geocoding API Key: Step-by-Step Guide for Developers](https://infosecwriteups.com/get-geocoding-api-key-step-by-step-guide-for-developers-eb7f766cf9c1?source=rss----7b722bfd1b8d---4)
 - [My First Bug Bounty: How I Earned $1,000](https://medium.com/@kailasv678/my-first-bug-bounty-how-i-earned-1-000-4ae2bf36039d?source=rss------bug_bounty_writeup-5)
 - [How a Simple Host Header Injection Took Down the Forgot Password Page](https://root-geek.medium.com/how-a-simple-host-header-injection-took-down-the-forgot-password-page-c4f7dd434532?source=rss------bug_bounty_writeup-5)
 - [How I Prevented Millions of Dollars in LinkedIn Premium Losses: A Critical Voucher Exploit…](https://medium.com/@vdete/how-i-prevented-millions-of-dollars-in-linkedin-premium-losses-a-critical-voucher-exploit-4898e5033c31?source=rss------bug_bounty_writeup-5)
@@ -15,8 +17,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [NoSQL Injection Detection — A hands-on Exploitation Walkthrough](https://infosecwriteups.com/nosql-injection-detection-a-hands-on-exploitation-walkthrough-03aaa19dab70?source=rss----7b722bfd1b8d---4)
 - [How hackers chat securely on the darkweb](https://infosecwriteups.com/how-hackers-chat-securely-on-the-darkweb-f9701340e400?source=rss----7b722bfd1b8d---4)
 - [How a Simple Logic Flaw Led to a $3,250 Bounty](https://infosecwriteups.com/how-a-simple-logic-flaw-led-to-a-3-250-bounty-476d747bf57a?source=rss----7b722bfd1b8d---4)
-- [From 0 to $$$: Finding Rate Limit Bypasses Like a Pro](https://infosecwriteups.com/from-0-to-finding-rate-limit-bypasses-like-a-pro-6baf92b6acad?source=rss----7b722bfd1b8d---4)
-- [Top Tools That Helped Me Earn $500 in 30 Days](https://infosecwriteups.com/top-tools-that-helped-me-earn-500-in-30-days-00123f09cd7a?source=rss----7b722bfd1b8d---4)
 - [403 Bypass Techniques for Bug Bounty](https://medium.com/@silverxcyber/403-bypass-techniques-for-bug-bounty-dcd449733bec?source=rss------bug_bounty_writeup-5)
 - [Bypassing OTP Verification via Response Manipulation: A Silent Threat](https://frostyxsec.medium.com/bypassing-otp-verification-via-response-manipulation-a-silent-threat-006dc2b6fa13?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Tips: From Zero to First Payout](https://medium.com/@appsecwarrior/bug-bounty-tips-from-zero-to-first-payout-6bd8c9df0c48?source=rss------bug_bounty_writeup-5)
