@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How a Simple Host Header Injection Took Down the Forgot Password Page](https://root-geek.medium.com/how-a-simple-host-header-injection-took-down-the-forgot-password-page-c4f7dd434532?source=rss------bug_bounty_writeup-5)
 - [How I Prevented Millions of Dollars in LinkedIn Premium Losses: A Critical Voucher Exploit…](https://medium.com/@vdete/how-i-prevented-millions-of-dollars-in-linkedin-premium-losses-a-critical-voucher-exploit-4898e5033c31?source=rss------bug_bounty_writeup-5)
 - [Open Redirect via Base64-Encoded state Parameter in OAuth Flow &lpar;returnTo field&rpar;](https://medium.com/@husseinelturkey/open-redirect-via-base64-encoded-state-parameter-in-oauth-flow-returnto-field-42a0319ef296?source=rss------bug_bounty_writeup-5)
 - [How I almost made $1000 from XSS bypass attribute](https://medium.com/@0xRedFox29/how-i-almost-made-1000-from-xss-bypass-attribute-77d68f0bc33c?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Bug Bounty Tips: From Zero to First Payout](https://medium.com/@appsecwarrior/bug-bounty-tips-from-zero-to-first-payout-6bd8c9df0c48?source=rss------bug_bounty_writeup-5)
 - [My First Year in Bug Bounty $$$](https://infosecwriteups.com/my-first-year-in-bug-bounty-9c87e0b68ac4?source=rss------bug_bounty_writeup-5)
 - [Privilege Escalation via Invitation &amp; Bypassed 2FA](https://medium.com/@edahmed008/privilege-escalation-via-invitation-bypassed-2fa-98219664764f?source=rss------bug_bounty_writeup-5)
-- [How I Bypassed Permissions in a Telehealth Platform](https://medium.com/@mrro0o0tt/how-i-bypassed-permissions-in-a-telehealth-platform-f05b249b127c?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
