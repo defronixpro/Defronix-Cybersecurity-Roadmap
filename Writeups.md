@@ -1,6 +1,9 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [I Built a Tool to Hack AI Models — Here’s What It Uncovered](https://infosecwriteups.com/i-built-a-tool-to-hack-ai-models-heres-what-it-uncovered-eb58b67d8f97?source=rss----7b722bfd1b8d---4)
+- [Caching Trouble: The Public Cache That Leaked Private User Data](https://infosecwriteups.com/caching-trouble-the-public-cache-that-leaked-private-user-data-0d410af5cb4c?source=rss----7b722bfd1b8d---4)
+- [$500 Bounty: A Referer Leak in Brave’s Private Tor Window](https://infosecwriteups.com/500-bounty-a-referer-leak-in-braves-private-tor-window-ee0c846203b5?source=rss----7b722bfd1b8d---4)
 - [Instagram API Documentation: Key Concepts Explained for Developers](https://infosecwriteups.com/instagram-api-documentation-key-concepts-explained-for-developers-4c2646525e9c?source=rss----7b722bfd1b8d---4)
 - [Get Geocoding API Key: Step-by-Step Guide for Developers](https://infosecwriteups.com/get-geocoding-api-key-step-by-step-guide-for-developers-eb7f766cf9c1?source=rss----7b722bfd1b8d---4)
 - [My First Bug Bounty: How I Earned $1,000](https://medium.com/@kailasv678/my-first-bug-bounty-how-i-earned-1-000-4ae2bf36039d?source=rss------bug_bounty_writeup-5)
@@ -14,9 +17,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Secret to find bugs in five minutes. Juicy reality.](https://infosecwriteups.com/secret-to-find-bugs-in-five-minutes-juicy-reality-c7ed63cf26a8?source=rss----7b722bfd1b8d---4)
 - [Securing MCP Servers: Key Lessons from a Vulnerable Project](https://infosecwriteups.com/securing-mcp-servers-key-lessons-from-a-vulnerable-project-ebeced640352?source=rss----7b722bfd1b8d---4)
 - [Microsoft Goes Passwordless: What You Need to Know](https://infosecwriteups.com/microsoft-goes-passwordless-what-you-need-to-know-cea8b1e8e68f?source=rss----7b722bfd1b8d---4)
-- [NoSQL Injection Detection — A hands-on Exploitation Walkthrough](https://infosecwriteups.com/nosql-injection-detection-a-hands-on-exploitation-walkthrough-03aaa19dab70?source=rss----7b722bfd1b8d---4)
-- [How hackers chat securely on the darkweb](https://infosecwriteups.com/how-hackers-chat-securely-on-the-darkweb-f9701340e400?source=rss----7b722bfd1b8d---4)
-- [How a Simple Logic Flaw Led to a $3,250 Bounty](https://infosecwriteups.com/how-a-simple-logic-flaw-led-to-a-3-250-bounty-476d747bf57a?source=rss----7b722bfd1b8d---4)
 - [403 Bypass Techniques for Bug Bounty](https://medium.com/@silverxcyber/403-bypass-techniques-for-bug-bounty-dcd449733bec?source=rss------bug_bounty_writeup-5)
 - [Bypassing OTP Verification via Response Manipulation: A Silent Threat](https://frostyxsec.medium.com/bypassing-otp-verification-via-response-manipulation-a-silent-threat-006dc2b6fa13?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Tips: From Zero to First Payout](https://medium.com/@appsecwarrior/bug-bounty-tips-from-zero-to-first-payout-6bd8c9df0c48?source=rss------bug_bounty_writeup-5)
