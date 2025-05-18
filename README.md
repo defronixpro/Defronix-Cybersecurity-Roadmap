@@ -930,7 +930,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Here’s everything you need to know about ARP Poisoning.](https://infosecwriteups.com/heres-everything-you-need-to-know-about-arp-poisoning-6de42b4b65a2?source=rss----7b722bfd1b8d---4)
 - [$750 Bounty: for HTTP Request Smuggling on Data.gov](https://infosecwriteups.com/750-bounty-for-http-request-smuggling-on-data-gov-36b9186d9b98?source=rss----7b722bfd1b8d---4)
 - [The Most Dangerous Bug I’ve Ever Found &lpar;And No One Was Looking&rpar;](https://infosecwriteups.com/the-most-dangerous-bug-ive-ever-found-and-no-one-was-looking-2e96e5079a01?source=rss----7b722bfd1b8d---4)
-- [How I Logged in as Another User via Broken OAuth Identity Binding](https://jxycybersec.medium.com/how-i-logged-in-as-another-user-via-broken-oauth-identity-binding-9a5265d84046?source=rss------bug_bounty_writeup-5)
+- [How I Logged in as Another User via Broken OAuth Identity Binding](https://systemweakness.com/how-i-logged-in-as-another-user-via-broken-oauth-identity-binding-9a5265d84046?source=rss------bug_bounty_writeup-5)
 - [Sharpening Command Injections to get Full RCE](https://infosecwriteups.com/sharpening-command-injections-to-get-full-rce-e4cf257d2c66?source=rss----7b722bfd1b8d---4)
 - [Token of Misfortune: How a Refresh Token Leak Let Me Regenerate Unlimited Sessions](https://infosecwriteups.com/token-of-misfortune-how-a-refresh-token-leak-let-me-regenerate-unlimited-sessions-bb6693751c85?source=rss----7b722bfd1b8d---4)
 - [VAPT vs Bug Bounty: A Deep Dive for Cybersecurity Professionals and Enthusiasts](https://medium.com/@kshahabaj528/vapt-vs-bug-bounty-a-deep-dive-for-cybersecurity-professionals-and-enthusiasts-7f5ddf1d349c?source=rss------bug_bounty_writeup-5)
