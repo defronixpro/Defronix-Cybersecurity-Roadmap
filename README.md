@@ -922,9 +922,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [I Found more then 10+ bug in single program: A Warning to Fellow Bug Hunters](https://medium.com/@ravindrajatav0709/i-found-more-then-10-bug-in-single-program-a-warning-to-fellow-bug-hunters-7bc95b8ea860?source=rss------bug_bounty_writeup-5)
-- [️‍♂️Recon For New Bug bounty Hunters — Short Story](https://medium.com/@sudarshan.defcon/%EF%B8%8F-%EF%B8%8Frecon-for-new-bug-bounty-hunters-short-story-4f862a333e6d?source=rss------bug_bounty_writeup-5)
-- [Same Username, Different Letters? Account Creation with Lookalike Usernames](https://strangerwhite.medium.com/same-username-different-letters-account-creation-with-lookalike-usernames-e370b2a7d5e3?source=rss------bug_bounty_writeup-5)
 - [IPinfo Free Geolocation API: Tools, Setup &amp; Use Cases](https://infosecwriteups.com/ipinfo-free-geolocation-api-tools-setup-use-cases-f066e321448a?source=rss----7b722bfd1b8d---4)
 - [$10,500 Bounty: A Grammarly Account Takeover Vector](https://infosecwriteups.com/10-500-bounty-a-grammarly-account-takeover-vector-974ef90fb00a?source=rss----7b722bfd1b8d---4)
 - [How I Gained Root Access on a Vulnerable Web Server: From Reconnaissance to Privilege Escalation](https://infosecwriteups.com/how-i-gained-root-access-on-a-vulnerable-web-server-from-reconnaissance-to-privilege-escalation-852b18984a08?source=rss----7b722bfd1b8d---4)
@@ -935,13 +932,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [I Built a Tool to Hack AI Models — Here’s What It Uncovered](https://infosecwriteups.com/i-built-a-tool-to-hack-ai-models-heres-what-it-uncovered-eb58b67d8f97?source=rss----7b722bfd1b8d---4)
 - [Caching Trouble: The Public Cache That Leaked Private User Data](https://infosecwriteups.com/caching-trouble-the-public-cache-that-leaked-private-user-data-0d410af5cb4c?source=rss----7b722bfd1b8d---4)
 - [$500 Bounty: A Referer Leak in Brave’s Private Tor Window](https://infosecwriteups.com/500-bounty-a-referer-leak-in-braves-private-tor-window-ee0c846203b5?source=rss----7b722bfd1b8d---4)
-- [My First Bug Bounty: How I Earned $1,000](https://medium.com/@kailasv678/my-first-bug-bounty-how-i-earned-1-000-4ae2bf36039d?source=rss------bug_bounty_writeup-5)
-- [How a Simple Host Header Injection Took Down the Forgot Password Page](https://root-geek.medium.com/how-a-simple-host-header-injection-took-down-the-forgot-password-page-c4f7dd434532?source=rss------bug_bounty_writeup-5)
-- [How I Prevented Millions of Dollars in LinkedIn Premium Losses: A Critical Voucher Exploit…](https://medium.com/@vdete/how-i-prevented-millions-of-dollars-in-linkedin-premium-losses-a-critical-voucher-exploit-4898e5033c31?source=rss------bug_bounty_writeup-5)
-- [Open Redirect via Base64-Encoded state Parameter in OAuth Flow &lpar;returnTo field&rpar;](https://medium.com/@husseinelturkey/open-redirect-via-base64-encoded-state-parameter-in-oauth-flow-returnto-field-42a0319ef296?source=rss------bug_bounty_writeup-5)
-- [How I almost made $1000 from XSS bypass attribute](https://medium.com/@0xRedFox29/how-i-almost-made-1000-from-xss-bypass-attribute-77d68f0bc33c?source=rss------bug_bounty_writeup-5)
-- [Race Condition Seru: Ngebobol Limit Cuma Modal Request Paralel](https://medium.com/@FufuFaf1/race-condition-seru-ngebobol-limit-cuma-modal-request-paralel-44f1da33e4fb?source=rss------bug_bounty_writeup-5)
-- [403 Bypass Techniques for Bug Bounty](https://medium.com/@silverxcyber/403-bypass-techniques-for-bug-bounty-dcd449733bec?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
