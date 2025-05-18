@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [VAPT vs Bug Bounty: A Deep Dive for Cybersecurity Professionals and Enthusiasts](https://medium.com/@kshahabaj528/vapt-vs-bug-bounty-a-deep-dive-for-cybersecurity-professionals-and-enthusiasts-7f5ddf1d349c?source=rss------bug_bounty_writeup-5)
 - [I Found more then 10+ bug in single program: A Warning to Fellow Bug Hunters](https://medium.com/@ravindrajatav0709/i-found-more-then-10-bug-in-single-program-a-warning-to-fellow-bug-hunters-7bc95b8ea860?source=rss------bug_bounty_writeup-5)
 - [️‍♂️Recon For New Bug bounty Hunters — Short Story](https://medium.com/@sudarshan.defcon/%EF%B8%8F-%EF%B8%8Frecon-for-new-bug-bounty-hunters-short-story-4f862a333e6d?source=rss------bug_bounty_writeup-5)
 - [Same Username, Different Letters? Account Creation with Lookalike Usernames](https://strangerwhite.medium.com/same-username-different-letters-account-creation-with-lookalike-usernames-e370b2a7d5e3?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Open Redirect via Base64-Encoded state Parameter in OAuth Flow &lpar;returnTo field&rpar;](https://medium.com/@husseinelturkey/open-redirect-via-base64-encoded-state-parameter-in-oauth-flow-returnto-field-42a0319ef296?source=rss------bug_bounty_writeup-5)
 - [How I almost made $1000 from XSS bypass attribute](https://medium.com/@0xRedFox29/how-i-almost-made-1000-from-xss-bypass-attribute-77d68f0bc33c?source=rss------bug_bounty_writeup-5)
 - [Race Condition Seru: Ngebobol Limit Cuma Modal Request Paralel](https://medium.com/@FufuFaf1/race-condition-seru-ngebobol-limit-cuma-modal-request-paralel-44f1da33e4fb?source=rss------bug_bounty_writeup-5)
-- [403 Bypass Techniques for Bug Bounty](https://medium.com/@silverxcyber/403-bypass-techniques-for-bug-bounty-dcd449733bec?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
