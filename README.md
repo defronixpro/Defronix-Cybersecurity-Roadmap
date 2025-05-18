@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Same Username, Different Letters? Account Creation with Lookalike Usernames](https://strangerwhite.medium.com/same-username-different-letters-account-creation-with-lookalike-usernames-e370b2a7d5e3?source=rss------bug_bounty_writeup-5)
 - [IPinfo Free Geolocation API: Tools, Setup &amp; Use Cases](https://infosecwriteups.com/ipinfo-free-geolocation-api-tools-setup-use-cases-f066e321448a?source=rss----7b722bfd1b8d---4)
 - [$10,500 Bounty: A Grammarly Account Takeover Vector](https://infosecwriteups.com/10-500-bounty-a-grammarly-account-takeover-vector-974ef90fb00a?source=rss----7b722bfd1b8d---4)
 - [How I Gained Root Access on a Vulnerable Web Server: From Reconnaissance to Privilege Escalation](https://infosecwriteups.com/how-i-gained-root-access-on-a-vulnerable-web-server-from-reconnaissance-to-privilege-escalation-852b18984a08?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [403 Bypass Techniques for Bug Bounty](https://medium.com/@silverxcyber/403-bypass-techniques-for-bug-bounty-dcd449733bec?source=rss------bug_bounty_writeup-5)
 - [Bypassing OTP Verification via Response Manipulation: A Silent Threat](https://frostyxsec.medium.com/bypassing-otp-verification-via-response-manipulation-a-silent-threat-006dc2b6fa13?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Tips: From Zero to First Payout](https://medium.com/@appsecwarrior/bug-bounty-tips-from-zero-to-first-payout-6bd8c9df0c48?source=rss------bug_bounty_writeup-5)
-- [My First Year in Bug Bounty $$$](https://infosecwriteups.com/my-first-year-in-bug-bounty-9c87e0b68ac4?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
