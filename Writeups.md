@@ -1,6 +1,8 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [️ Public Document, But Not Meant for You: Info Leak at blm.gov](https://medium.com/@FufuFaf1/%EF%B8%8F-public-document-but-not-meant-for-you-info-leak-at-blm-gov-2a482417be3c?source=rss------bug_bounty_writeup-5)
+- [Basic Authentication Bypassed via Simple Misconfiguration](https://m7moudx22.medium.com/basic-authentication-bypassed-via-simple-misconfiguration-6a19002aef4f?source=rss------bug_bounty_writeup-5)
 - [Bypassing Login via NoSQL Operator Injection: A MongoDB Authentication Hack](https://infosecwriteups.com/bypassing-login-via-nosql-operator-injection-a-mongodb-authentication-hack-b895211f60e0?source=rss----7b722bfd1b8d---4)
 - [Lab: Exploiting a mass assignment vulnerability](https://infosecwriteups.com/lab-exploiting-a-mass-assignment-vulnerability-c7c68b9f7f1b?source=rss----7b722bfd1b8d---4)
 - [Build Your Own AI SOC — Part 6 Daily AI-Powered Threat Briefings With n8n + GPT](https://infosecwriteups.com/build-your-own-ai-soc-part-6-daily-ai-powered-threat-briefings-with-n8n-gpt-17bd8d5b9b11?source=rss----7b722bfd1b8d---4)
@@ -9,8 +11,16 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Here’s everything you need to know about ARP Poisoning.](https://infosecwriteups.com/heres-everything-you-need-to-know-about-arp-poisoning-6de42b4b65a2?source=rss----7b722bfd1b8d---4)
 - [$750 Bounty: for HTTP Request Smuggling on Data.gov](https://infosecwriteups.com/750-bounty-for-http-request-smuggling-on-data-gov-36b9186d9b98?source=rss----7b722bfd1b8d---4)
 - [The Most Dangerous Bug I’ve Ever Found &lpar;And No One Was Looking&rpar;](https://infosecwriteups.com/the-most-dangerous-bug-ive-ever-found-and-no-one-was-looking-2e96e5079a01?source=rss----7b722bfd1b8d---4)
+- [How I Logged in as Another User via Broken OAuth Identity Binding](https://systemweakness.com/how-i-logged-in-as-another-user-via-broken-oauth-identity-binding-9a5265d84046?source=rss------bug_bounty_writeup-5)
 - [Sharpening Command Injections to get Full RCE](https://infosecwriteups.com/sharpening-command-injections-to-get-full-rce-e4cf257d2c66?source=rss----7b722bfd1b8d---4)
 - [Token of Misfortune: How a Refresh Token Leak Let Me Regenerate Unlimited Sessions](https://infosecwriteups.com/token-of-misfortune-how-a-refresh-token-leak-let-me-regenerate-unlimited-sessions-bb6693751c85?source=rss----7b722bfd1b8d---4)
+- [VAPT vs Bug Bounty: A Deep Dive for Cybersecurity Professionals and Enthusiasts](https://medium.com/@kshahabaj528/vapt-vs-bug-bounty-a-deep-dive-for-cybersecurity-professionals-and-enthusiasts-7f5ddf1d349c?source=rss------bug_bounty_writeup-5)
+- [I Found more then 10+ bug in single program: A Warning to Fellow Bug Hunters](https://medium.com/@ravindrajatav0709/i-found-more-then-10-bug-in-single-program-a-warning-to-fellow-bug-hunters-7bc95b8ea860?source=rss------bug_bounty_writeup-5)
+- [️‍♂️Recon For New Bug bounty Hunters — Short Story](https://medium.com/@sudarshan.defcon/%EF%B8%8F-%EF%B8%8Frecon-for-new-bug-bounty-hunters-short-story-4f862a333e6d?source=rss------bug_bounty_writeup-5)
+- [Same Username, Different Letters? Account Creation with Lookalike Usernames](https://strangerwhite.medium.com/same-username-different-letters-account-creation-with-lookalike-usernames-e370b2a7d5e3?source=rss------bug_bounty_writeup-5)
+- [My First Bug Bounty: How I Earned $1,000](https://medium.com/@kailasv678/my-first-bug-bounty-how-i-earned-1-000-4ae2bf36039d?source=rss------bug_bounty_writeup-5)
+- [How a Simple Host Header Injection Took Down the Forgot Password Page](https://root-geek.medium.com/how-a-simple-host-header-injection-took-down-the-forgot-password-page-c4f7dd434532?source=rss------bug_bounty_writeup-5)
+- [How I Prevented Millions of Dollars in LinkedIn Premium Losses: A Critical Voucher Exploit…](https://medium.com/@vdete/how-i-prevented-millions-of-dollars-in-linkedin-premium-losses-a-critical-voucher-exploit-4898e5033c31?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
