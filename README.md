@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [HTML Injection Unleashed: Cracking the Door Open to Full Account Compromise](https://medium.com/@Hamzawy-1/html-injection-unleashed-cracking-the-door-open-to-full-account-compromise-564b785cea9a?source=rss------bug_bounty_writeup-5)
 - [$4,500 Bounty: SQL Injection in WordPress Plugin Leads to PII Exposure at Grab](https://infosecwriteups.com/4-500-bounty-sql-injection-in-wordpress-plugin-leads-to-pii-exposure-at-grab-7c26aa7beff6?source=rss----7b722bfd1b8d---4)
 - [I Broke Rate Limits and Accessed 1000+ User Records — Responsibly](https://infosecwriteups.com/i-broke-rate-limits-and-accessed-1000-user-records-responsibly-8c45f20729ba?source=rss----7b722bfd1b8d---4)
 - [Write Cybersecurity Blog Titles That Get Clicks](https://infosecwriteups.com/write-cybersecurity-blog-titles-that-get-clicks-e51405fc885e?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Same Username, Different Letters? Account Creation with Lookalike Usernames](https://strangerwhite.medium.com/same-username-different-letters-account-creation-with-lookalike-usernames-e370b2a7d5e3?source=rss------bug_bounty_writeup-5)
 - [My First Bug Bounty: How I Earned $1,000](https://medium.com/@kailasv678/my-first-bug-bounty-how-i-earned-1-000-4ae2bf36039d?source=rss------bug_bounty_writeup-5)
 - [How a Simple Host Header Injection Took Down the Forgot Password Page](https://root-geek.medium.com/how-a-simple-host-header-injection-took-down-the-forgot-password-page-c4f7dd434532?source=rss------bug_bounty_writeup-5)
-- [How I Prevented Millions of Dollars in LinkedIn Premium Losses: A Critical Voucher Exploit…](https://medium.com/@vdete/how-i-prevented-millions-of-dollars-in-linkedin-premium-losses-a-critical-voucher-exploit-4898e5033c31?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
