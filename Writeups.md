@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Basic Authentication Bypassed via Simple Misconfiguration](https://m7moudx22.medium.com/basic-authentication-bypassed-via-simple-misconfiguration-6a19002aef4f?source=rss------bug_bounty_writeup-5)
 - [Bypassing Login via NoSQL Operator Injection: A MongoDB Authentication Hack](https://infosecwriteups.com/bypassing-login-via-nosql-operator-injection-a-mongodb-authentication-hack-b895211f60e0?source=rss----7b722bfd1b8d---4)
 - [Lab: Exploiting a mass assignment vulnerability](https://infosecwriteups.com/lab-exploiting-a-mass-assignment-vulnerability-c7c68b9f7f1b?source=rss----7b722bfd1b8d---4)
 - [Build Your Own AI SOC — Part 6 Daily AI-Powered Threat Briefings With n8n + GPT](https://infosecwriteups.com/build-your-own-ai-soc-part-6-daily-ai-powered-threat-briefings-with-n8n-gpt-17bd8d5b9b11?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How a Simple Host Header Injection Took Down the Forgot Password Page](https://root-geek.medium.com/how-a-simple-host-header-injection-took-down-the-forgot-password-page-c4f7dd434532?source=rss------bug_bounty_writeup-5)
 - [How I Prevented Millions of Dollars in LinkedIn Premium Losses: A Critical Voucher Exploit…](https://medium.com/@vdete/how-i-prevented-millions-of-dollars-in-linkedin-premium-losses-a-critical-voucher-exploit-4898e5033c31?source=rss------bug_bounty_writeup-5)
 - [Open Redirect via Base64-Encoded state Parameter in OAuth Flow &lpar;returnTo field&rpar;](https://medium.com/@husseinelturkey/open-redirect-via-base64-encoded-state-parameter-in-oauth-flow-returnto-field-42a0319ef296?source=rss------bug_bounty_writeup-5)
-- [How I almost made $1000 from XSS bypass attribute](https://medium.com/@0xRedFox29/how-i-almost-made-1000-from-xss-bypass-attribute-77d68f0bc33c?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
