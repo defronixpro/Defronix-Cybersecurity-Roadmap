@@ -923,8 +923,18 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
 - [HTML Injection Unleashed: Cracking the Door Open to Full Account Compromise](https://medium.com/@Hamzawy-1/html-injection-unleashed-cracking-the-door-open-to-full-account-compromise-564b785cea9a?source=rss------bug_bounty_writeup-5)
+- [$4,500 Bounty: SQL Injection in WordPress Plugin Leads to PII Exposure at Grab](https://infosecwriteups.com/4-500-bounty-sql-injection-in-wordpress-plugin-leads-to-pii-exposure-at-grab-7c26aa7beff6?source=rss----7b722bfd1b8d---4)
+- [I Broke Rate Limits and Accessed 1000+ User Records — Responsibly](https://infosecwriteups.com/i-broke-rate-limits-and-accessed-1000-user-records-responsibly-8c45f20729ba?source=rss----7b722bfd1b8d---4)
+- [Write Cybersecurity Blog Titles That Get Clicks](https://infosecwriteups.com/write-cybersecurity-blog-titles-that-get-clicks-e51405fc885e?source=rss----7b722bfd1b8d---4)
+- [Millions of Records Exposed via SQL Injection in a Tamil Nadu Government Portal](https://infosecwriteups.com/millions-of-records-exposed-via-sql-injection-in-a-tamil-nadu-government-portal-0981d3827ed2?source=rss----7b722bfd1b8d---4)
+- [Crypto Failures | TryHackMe Medium](https://infosecwriteups.com/crypto-failures-tryhackme-medium-d60d55b849d6?source=rss----7b722bfd1b8d---4)
+- [$20,000 Bounty: How a Leaked Session Cookie Led to Account Takeover on HackerOne](https://infosecwriteups.com/20-000-bounty-how-a-leaked-session-cookie-led-to-account-takeover-on-hackerone-4a805cb892f9?source=rss----7b722bfd1b8d---4)
+- [Strengthening Web service security with Apache2: Best practices for 2025](https://infosecwriteups.com/strengthening-web-service-security-with-apache2-best-practices-for-2025-32cb57eb7fd2?source=rss----7b722bfd1b8d---4)
 - [️ Public Document, But Not Meant for You: Info Leak at blm.gov](https://medium.com/@FufuFaf1/%EF%B8%8F-public-document-but-not-meant-for-you-info-leak-at-blm-gov-2a482417be3c?source=rss------bug_bounty_writeup-5)
 - [Basic Authentication Bypassed via Simple Misconfiguration](https://m7moudx22.medium.com/basic-authentication-bypassed-via-simple-misconfiguration-6a19002aef4f?source=rss------bug_bounty_writeup-5)
+- [Bypassing Login via NoSQL Operator Injection: A MongoDB Authentication Hack](https://infosecwriteups.com/bypassing-login-via-nosql-operator-injection-a-mongodb-authentication-hack-b895211f60e0?source=rss----7b722bfd1b8d---4)
+- [Lab: Exploiting a mass assignment vulnerability](https://infosecwriteups.com/lab-exploiting-a-mass-assignment-vulnerability-c7c68b9f7f1b?source=rss----7b722bfd1b8d---4)
+- [Build Your Own AI SOC — Part 6 Daily AI-Powered Threat Briefings With n8n + GPT](https://infosecwriteups.com/build-your-own-ai-soc-part-6-daily-ai-powered-threat-briefings-with-n8n-gpt-17bd8d5b9b11?source=rss----7b722bfd1b8d---4)
 - [How I Logged in as Another User via Broken OAuth Identity Binding](https://systemweakness.com/how-i-logged-in-as-another-user-via-broken-oauth-identity-binding-9a5265d84046?source=rss------bug_bounty_writeup-5)
 - [VAPT vs Bug Bounty: A Deep Dive for Cybersecurity Professionals and Enthusiasts](https://medium.com/@kshahabaj528/vapt-vs-bug-bounty-a-deep-dive-for-cybersecurity-professionals-and-enthusiasts-7f5ddf1d349c?source=rss------bug_bounty_writeup-5)
 - [I Found more then 10+ bug in single program: A Warning to Fellow Bug Hunters](https://medium.com/@ravindrajatav0709/i-found-more-then-10-bug-in-single-program-a-warning-to-fellow-bug-hunters-7bc95b8ea860?source=rss------bug_bounty_writeup-5)
