@@ -922,6 +922,9 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Find Subdomains Like a Pro!](https://infosecwriteups.com/find-subdomains-like-a-pro-df2c169ce153?source=rss----7b722bfd1b8d---4)
+- [“Before injection, understanding” — What every hacker needs to master before exploiting a NoSQL…](https://infosecwriteups.com/before-injection-understanding-what-every-hacker-needs-to-master-before-exploiting-a-nosql-1c16d31cc24f?source=rss----7b722bfd1b8d---4)
+- [Another security patch. Another missed opportunity.](https://infosecwriteups.com/another-security-patch-another-missed-opportunity-ba381a4e434c?source=rss----7b722bfd1b8d---4)
 - [100 Followers Special: How I Hacked Netflix? | Bug Bounty Tour #2 &lpar;Reupload&rpar;](https://medium.com/meetcyber/100-followers-special-how-i-hacked-netflix-bug-bounty-tour-2-reupload-caa59cf41af1?source=rss------bug_bounty_writeup-5)
 - [How I Found Two Overlooked Vulnerabilities That Could Lead to Account Takeover](https://medium.com/@ahmedashrafshora/how-i-found-two-overlooked-vulnerabilities-that-could-lead-to-account-takeover-d84f6cf8c169?source=rss------bug_bounty_writeup-5)
 - [Rate limit + Improper Deletion Orphaned data vulnerability  gave me $$](https://medium.com/@test123cybertest/rate-limit-improper-deletion-orphaned-data-vulnerability-gave-me-91c0e3fc2b90?source=rss------bug_bounty_writeup-5)
@@ -935,9 +938,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Strengthening Web service security with Apache2: Best practices for 2025](https://infosecwriteups.com/strengthening-web-service-security-with-apache2-best-practices-for-2025-32cb57eb7fd2?source=rss----7b722bfd1b8d---4)
 - [️ Public Document, But Not Meant for You: Info Leak at blm.gov](https://medium.com/@FufuFaf1/%EF%B8%8F-public-document-but-not-meant-for-you-info-leak-at-blm-gov-2a482417be3c?source=rss------bug_bounty_writeup-5)
 - [Basic Authentication Bypassed via Simple Misconfiguration](https://m7moudx22.medium.com/basic-authentication-bypassed-via-simple-misconfiguration-6a19002aef4f?source=rss------bug_bounty_writeup-5)
-- [Bypassing Login via NoSQL Operator Injection: A MongoDB Authentication Hack](https://infosecwriteups.com/bypassing-login-via-nosql-operator-injection-a-mongodb-authentication-hack-b895211f60e0?source=rss----7b722bfd1b8d---4)
-- [Lab: Exploiting a mass assignment vulnerability](https://infosecwriteups.com/lab-exploiting-a-mass-assignment-vulnerability-c7c68b9f7f1b?source=rss----7b722bfd1b8d---4)
-- [Build Your Own AI SOC — Part 6 Daily AI-Powered Threat Briefings With n8n + GPT](https://infosecwriteups.com/build-your-own-ai-soc-part-6-daily-ai-powered-threat-briefings-with-n8n-gpt-17bd8d5b9b11?source=rss----7b722bfd1b8d---4)
 - [How I Logged in as Another User via Broken OAuth Identity Binding](https://systemweakness.com/how-i-logged-in-as-another-user-via-broken-oauth-identity-binding-9a5265d84046?source=rss------bug_bounty_writeup-5)
 - [VAPT vs Bug Bounty: A Deep Dive for Cybersecurity Professionals and Enthusiasts](https://medium.com/@kshahabaj528/vapt-vs-bug-bounty-a-deep-dive-for-cybersecurity-professionals-and-enthusiasts-7f5ddf1d349c?source=rss------bug_bounty_writeup-5)
 - [I Found more then 10+ bug in single program: A Warning to Fellow Bug Hunters](https://medium.com/@ravindrajatav0709/i-found-more-then-10-bug-in-single-program-a-warning-to-fellow-bug-hunters-7bc95b8ea860?source=rss------bug_bounty_writeup-5)
