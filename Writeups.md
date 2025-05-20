@@ -1,6 +1,8 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [From Rate Limiting to Account Takeover: The Bug That Escalated Quickly](https://medium.com/@sirimanju41/from-rate-limiting-to-account-takeover-the-bug-that-escalated-quickly-87f14bdd6f63?source=rss------bug_bounty_writeup-5)
+- [0-Click Account Takeover Earned Me €900 Bounty](https://medium.com/@sahaj.gautam14/0-click-account-takeover-earned-me-900-bounty-f5b3b6dbb606?source=rss------bug_bounty_writeup-5)
 - [Rabbit Store | TryHackMe Medium](https://infosecwriteups.com/rabbit-store-tryhackme-medium-f9f5069fbb50?source=rss----7b722bfd1b8d---4)
 - [Mastering SQL Injection Recon: Step-by-Step Guide for Bug Bounty Hunters](https://infosecwriteups.com/mastering-sql-injection-recon-step-by-step-guide-for-bug-bounty-hunters-9f493fb058dd?source=rss----7b722bfd1b8d---4)
 - [Build Your Own AI SOC — Part 7 Build a Security Knowledge Assistant With RAG + GPT](https://infosecwriteups.com/build-your-own-ai-soc-part-7-build-a-security-knowledge-assistant-with-rag-gpt-833f5e8eadaf?source=rss----7b722bfd1b8d---4)
@@ -11,6 +13,14 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Part 2 — Electron-Based App Security Testing Fundamentals — Installing and Detecting…](https://infosecwriteups.com/electron-based-app-security-testing-fundamentals-part-2-installing-and-detecting-electron-based-021dc5c451ce?source=rss----7b722bfd1b8d---4)
 - [Part 1 — Electron-Based App Security Testing Fundamentals — Introduction to Electron Framework](https://infosecwriteups.com/electron-based-app-security-testing-fundamentals-part-1-introduction-to-electron-framework-c17510e27dfb?source=rss----7b722bfd1b8d---4)
 - [How I Discovered an Open Redirect](https://infosecwriteups.com/how-i-discovered-an-open-redirect-3b01879b6ebc?source=rss----7b722bfd1b8d---4)
+- [Hacking Oauth:A bug bounty hunter guide](https://infosecwriteups.com/hacking-oauth-a-bug-bounty-hunter-guide-31a7b1a0cf88?source=rss------bug_bounty_writeup-5)
+- [How I Hacked Netflix? 100 Followers Special | Bug Bounty Tour #2 &lpar;Reupload&rpar;](https://medium.com/meetcyber/100-followers-special-how-i-hacked-netflix-bug-bounty-tour-2-reupload-caa59cf41af1?source=rss------bug_bounty_writeup-5)
+- [How I Found Two Overlooked Vulnerabilities That Could Lead to Account Takeover](https://medium.com/@ahmedashrafshora/how-i-found-two-overlooked-vulnerabilities-that-could-lead-to-account-takeover-d84f6cf8c169?source=rss------bug_bounty_writeup-5)
+- [Rate limit + Improper Deletion Orphaned data vulnerability  gave me $$](https://medium.com/@test123cybertest/rate-limit-improper-deletion-orphaned-data-vulnerability-gave-me-91c0e3fc2b90?source=rss------bug_bounty_writeup-5)
+- [HTML Injection Unleashed: Cracking the Door Open to Full Account Compromise](https://medium.com/@Hamzawy-1/html-injection-unleashed-cracking-the-door-open-to-full-account-compromise-564b785cea9a?source=rss------bug_bounty_writeup-5)
+- [️ Public Document, But Not Meant for You: Info Leak at blm.gov](https://medium.com/@FufuFaf1/%EF%B8%8F-public-document-but-not-meant-for-you-info-leak-at-blm-gov-2a482417be3c?source=rss------bug_bounty_writeup-5)
+- [Basic Authentication Bypassed via Simple Misconfiguration](https://m7moudx22.medium.com/basic-authentication-bypassed-via-simple-misconfiguration-6a19002aef4f?source=rss------bug_bounty_writeup-5)
+- [How I Logged in as Another User via Broken OAuth Identity Binding](https://systemweakness.com/how-i-logged-in-as-another-user-via-broken-oauth-identity-binding-9a5265d84046?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
