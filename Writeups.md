@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Hacking Oauth:A bug bounty hunter guide](https://infosecwriteups.com/hacking-oauth-a-bug-bounty-hunter-guide-31a7b1a0cf88?source=rss------bug_bounty_writeup-5)
 - [Find Subdomains Like a Pro!](https://infosecwriteups.com/find-subdomains-like-a-pro-df2c169ce153?source=rss----7b722bfd1b8d---4)
 - [“Before injection, understanding” — What every hacker needs to master before exploiting a NoSQL…](https://infosecwriteups.com/before-injection-understanding-what-every-hacker-needs-to-master-before-exploiting-a-nosql-1c16d31cc24f?source=rss----7b722bfd1b8d---4)
 - [Another security patch. Another missed opportunity.](https://infosecwriteups.com/another-security-patch-another-missed-opportunity-ba381a4e434c?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How I Logged in as Another User via Broken OAuth Identity Binding](https://systemweakness.com/how-i-logged-in-as-another-user-via-broken-oauth-identity-binding-9a5265d84046?source=rss------bug_bounty_writeup-5)
 - [VAPT vs Bug Bounty: A Deep Dive for Cybersecurity Professionals and Enthusiasts](https://medium.com/@kshahabaj528/vapt-vs-bug-bounty-a-deep-dive-for-cybersecurity-professionals-and-enthusiasts-7f5ddf1d349c?source=rss------bug_bounty_writeup-5)
 - [I Found more then 10+ bug in single program: A Warning to Fellow Bug Hunters](https://medium.com/@ravindrajatav0709/i-found-more-then-10-bug-in-single-program-a-warning-to-fellow-bug-hunters-7bc95b8ea860?source=rss------bug_bounty_writeup-5)
-- [️‍♂️Recon For New Bug bounty Hunters — Short Story](https://medium.com/@sudarshan.defcon/%EF%B8%8F-%EF%B8%8Frecon-for-new-bug-bounty-hunters-short-story-4f862a333e6d?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
