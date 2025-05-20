@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How i hijacked an account without knowing the password and earned $2500 from redirect parameter](https://medium.com/@0xRedFox29/how-i-hijacked-an-account-without-knowing-the-password-and-earned-2500-from-redirect-parameter-7a46ffcff879?source=rss------bug_bounty_writeup-5)
 - [From Rate Limiting to Account Takeover: The Bug That Escalated Quickly](https://medium.com/@sirimanju41/from-rate-limiting-to-account-takeover-the-bug-that-escalated-quickly-87f14bdd6f63?source=rss------bug_bounty_writeup-5)
 - [0-Click Account Takeover Earned Me €900 Bounty](https://medium.com/@sahaj.gautam14/0-click-account-takeover-earned-me-900-bounty-f5b3b6dbb606?source=rss------bug_bounty_writeup-5)
 - [Rabbit Store | TryHackMe Medium](https://infosecwriteups.com/rabbit-store-tryhackme-medium-f9f5069fbb50?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [HTML Injection Unleashed: Cracking the Door Open to Full Account Compromise](https://medium.com/@Hamzawy-1/html-injection-unleashed-cracking-the-door-open-to-full-account-compromise-564b785cea9a?source=rss------bug_bounty_writeup-5)
 - [️ Public Document, But Not Meant for You: Info Leak at blm.gov](https://medium.com/@FufuFaf1/%EF%B8%8F-public-document-but-not-meant-for-you-info-leak-at-blm-gov-2a482417be3c?source=rss------bug_bounty_writeup-5)
 - [Basic Authentication Bypassed via Simple Misconfiguration](https://m7moudx22.medium.com/basic-authentication-bypassed-via-simple-misconfiguration-6a19002aef4f?source=rss------bug_bounty_writeup-5)
-- [How I Logged in as Another User via Broken OAuth Identity Binding](https://systemweakness.com/how-i-logged-in-as-another-user-via-broken-oauth-identity-binding-9a5265d84046?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
