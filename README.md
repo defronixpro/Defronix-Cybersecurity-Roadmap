@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Hunting for Web Cache Deception Vulnerabilities with a Custom Bash Script](https://medium.com/@m4r5h4ll2969/hunting-for-web-cache-deception-vulnerabilities-with-a-custom-bash-script-a52d2f8fd722?source=rss------bug_bounty_writeup-5)
 - [They Missed This One Tiny Parameter — I Made $500 Instantly](https://infosecwriteups.com/they-missed-this-one-tiny-parameter-i-made-500-instantly-f2f7d1c1c1d9?source=rss----7b722bfd1b8d---4)
 - [Online Oversharing: Risks &amp; Ethics You Need to Know](https://infosecwriteups.com/online-oversharing-risks-ethics-you-need-to-know-415b392f8f0b?source=rss----7b722bfd1b8d---4)
 - [AirTag Stalking: How Apple’s Tracker Became a Tool for Creeps](https://infosecwriteups.com/airtag-stalking-how-apples-tracker-became-a-tool-for-creeps-a6b48a5b8d81?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How I Found Two Overlooked Vulnerabilities That Could Lead to Account Takeover](https://medium.com/@ahmedashrafshora/how-i-found-two-overlooked-vulnerabilities-that-could-lead-to-account-takeover-d84f6cf8c169?source=rss------bug_bounty_writeup-5)
 - [Rate limit + Improper Deletion Orphaned data vulnerability  gave me $$](https://medium.com/@test123cybertest/rate-limit-improper-deletion-orphaned-data-vulnerability-gave-me-91c0e3fc2b90?source=rss------bug_bounty_writeup-5)
 - [HTML Injection Unleashed: Cracking the Door Open to Full Account Compromise](https://medium.com/@Hamzawy-1/html-injection-unleashed-cracking-the-door-open-to-full-account-compromise-564b785cea9a?source=rss------bug_bounty_writeup-5)
-- [️ Public Document, But Not Meant for You: Info Leak at blm.gov](https://medium.com/@FufuFaf1/%EF%B8%8F-public-document-but-not-meant-for-you-info-leak-at-blm-gov-2a482417be3c?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
