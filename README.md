@@ -922,7 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [Hunting for Web Cache Deception Vulnerabilities with a Custom Bash Script](https://medium.com/@m4r5h4ll2969/hunting-for-web-cache-deception-vulnerabilities-with-a-custom-bash-script-a52d2f8fd722?source=rss------bug_bounty_writeup-5)
+- [Hunting for Web Cache Deception Vulnerabilities with a Custom Bash Script](https://medium.com/@cyberjson/hunting-for-web-cache-deception-vulnerabilities-with-a-custom-bash-script-a52d2f8fd722?source=rss------bug_bounty_writeup-5)
 - [They Missed This One Tiny Parameter — I Made $500 Instantly](https://infosecwriteups.com/they-missed-this-one-tiny-parameter-i-made-500-instantly-f2f7d1c1c1d9?source=rss----7b722bfd1b8d---4)
 - [Online Oversharing: Risks &amp; Ethics You Need to Know](https://infosecwriteups.com/online-oversharing-risks-ethics-you-need-to-know-415b392f8f0b?source=rss----7b722bfd1b8d---4)
 - [AirTag Stalking: How Apple’s Tracker Became a Tool for Creeps](https://infosecwriteups.com/airtag-stalking-how-apples-tracker-became-a-tool-for-creeps-a6b48a5b8d81?source=rss----7b722bfd1b8d---4)
