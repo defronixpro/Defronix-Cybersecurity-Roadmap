@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [“I logged into a random account… and ended up accessing the entire database!”. [SQL injection]](https://medium.com/@ImAltyb26/i-logged-into-a-random-account-and-ended-up-accessing-the-entire-database-sql-injection-5fce034ea456?source=rss------bug_bounty_writeup-5)
 - [How i can bypassing strong WAF in XSS with simple payload](https://medium.com/@0xRedFox29/how-i-can-bypassing-strong-waf-in-xss-with-simple-payload-7ef5d22ca626?source=rss------bug_bounty_writeup-5)
 - [Reflected Chaos: How One XSS Vector Spawned Three CVEs](https://medium.com/@bonghaxor_34691/reflected-chaos-how-one-xss-vector-spawned-three-cves-f20e2df3275f?source=rss------bug_bounty_writeup-5)
 - [Hunting for Web Cache Deception Vulnerabilities with a Custom Bash Script](https://medium.com/@cyberjson/hunting-for-web-cache-deception-vulnerabilities-with-a-custom-bash-script-a52d2f8fd722?source=rss------bug_bounty_writeup-5)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [0-Click Account Takeover Earned Me €900 Bounty](https://medium.com/@sahaj.gautam14/0-click-account-takeover-earned-me-900-bounty-f5b3b6dbb606?source=rss------bug_bounty_writeup-5)
 - [Hacking Oauth:A bug bounty hunter guide](https://infosecwriteups.com/hacking-oauth-a-bug-bounty-hunter-guide-31a7b1a0cf88?source=rss------bug_bounty_writeup-5)
 - [How I Hacked Netflix? 100 Followers Special | Bug Bounty Tour #2 &lpar;Reupload&rpar;](https://medium.com/meetcyber/100-followers-special-how-i-hacked-netflix-bug-bounty-tour-2-reupload-caa59cf41af1?source=rss------bug_bounty_writeup-5)
-- [How I Found Two Overlooked Vulnerabilities That Could Lead to Account Takeover](https://medium.com/@ahmedashrafshora/how-i-found-two-overlooked-vulnerabilities-that-could-lead-to-account-takeover-d84f6cf8c169?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
