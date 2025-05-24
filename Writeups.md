@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Escalating impact: Full Account Takeover via Stored XSS](https://rajukani100.medium.com/escalating-impact-full-account-takeover-via-stored-xss-24e5aee209f6?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty in 2025: Hunting Business Logic Flaws the Right Way](https://medium.com/@kailasv678/bug-bounty-in-2025-hunting-business-logic-flaws-the-right-way-614aba550f7b?source=rss------bug_bounty_writeup-5)
 - [️ The Ultimate Bug Bounty Checklist for Beginners](https://medium.com/@hackerfromhills/%EF%B8%8F-the-ultimate-bug-bounty-checklist-for-beginners-3fafc9ea5fc5?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty VS Pentester](https://medium.com/@nishanthannisha008/bug-bounty-vs-pentester-4e471e126319?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [“How a Company Got Hacked Without a Single Line of Code”](https://infosecwriteups.com/how-a-company-got-hacked-without-a-single-line-of-code-254066397f69?source=rss----7b722bfd1b8d---4)
 - [Cloudflare Bug Bounty: First Old Password Does Not Expire After Password Change](https://medium.com/@iambuvanesh/cloudflare-bug-bounty-first-old-password-does-not-expire-after-password-change-b767a050d231?source=rss------bug_bounty_writeup-5)
 - [How i hijacked an account without knowing the password and earned $2500 from redirect parameter](https://medium.com/@0xRedFox29/how-i-hijacked-an-account-without-knowing-the-password-and-earned-2500-from-redirect-parameter-7a46ffcff879?source=rss------bug_bounty_writeup-5)
-- [From Rate Limiting to Account Takeover: The Bug That Escalated Quickly](https://medium.com/@sirimanju41/from-rate-limiting-to-account-takeover-the-bug-that-escalated-quickly-87f14bdd6f63?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
