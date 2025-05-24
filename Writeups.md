@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [From Click to Critical: How I Found PII Without Even Trying — $1,100 Bounty, My First Bounty on…](https://dukrov.medium.com/from-click-to-critical-how-i-found-pii-without-even-trying-1-100-bounty-my-first-bounty-on-651902f7238c?source=rss------bug_bounty_writeup-5)
 - [How Hard-Coded Credentials in a Publicly Accessible Config File Led to a $350 HackerOne Payout](https://medium.com/@sami7haque/how-hard-coded-credentials-in-a-publicly-accessible-config-file-led-to-a-350-hackerone-payout-c825274cd332?source=rss------bug_bounty_writeup-5)
 - [How a Simple URL Exposed Thousands of Users](https://cybersecuritywriteups.com/how-a-simple-url-exposed-thousands-of-users-d048cfa20aed?source=rss------bug_bounty_writeup-5)
 - [How I Found My First SQLi Vulnerability &lpar;€3500 Bounty&rpar;](https://dewcode.medium.com/how-i-found-my-first-sqli-vulnerability-3500-bounty-7c441007bcf9?source=rss------bug_bounty_writeup-5)
@@ -10,7 +11,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Bug Bounty VS Pentester](https://medium.com/@nishanthannisha008/bug-bounty-vs-pentester-4e471e126319?source=rss------bug_bounty_writeup-5)
 - [“I logged into a random account… and ended up accessing the entire database!”. [SQL injection]](https://medium.com/@ImAltyb26/i-logged-into-a-random-account-and-ended-up-accessing-the-entire-database-sql-injection-5fce034ea456?source=rss------bug_bounty_writeup-5)
 - [How i can bypassing strong WAF in XSS with simple payload](https://medium.com/@0xRedFox29/how-i-can-bypassing-strong-waf-in-xss-with-simple-payload-7ef5d22ca626?source=rss------bug_bounty_writeup-5)
-- [Reflected Chaos: How One XSS Vector Spawned Three CVEs](https://medium.com/@bonghaxor_34691/reflected-chaos-how-one-xss-vector-spawned-three-cves-f20e2df3275f?source=rss------bug_bounty_writeup-5)
 - [They Missed This One Tiny Parameter — I Made $500 Instantly](https://infosecwriteups.com/they-missed-this-one-tiny-parameter-i-made-500-instantly-f2f7d1c1c1d9?source=rss----7b722bfd1b8d---4)
 - [Online Oversharing: Risks &amp; Ethics You Need to Know](https://infosecwriteups.com/online-oversharing-risks-ethics-you-need-to-know-415b392f8f0b?source=rss----7b722bfd1b8d---4)
 - [AirTag Stalking: How Apple’s Tracker Became a Tool for Creeps](https://infosecwriteups.com/airtag-stalking-how-apples-tracker-became-a-tool-for-creeps-a6b48a5b8d81?source=rss----7b722bfd1b8d---4)
