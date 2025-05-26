@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [OTP bypassed by using luck infused logical thinking bug report](https://medium.com/@bmkmuthu003/otp-bypassed-by-using-luck-infused-logical-thinking-bug-report-fd836120d028?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Practical Lab: Finding and Exploiting an Unused API Endpoint](https://osintteam.blog/bug-bounty-practical-lab-finding-and-exploiting-an-unused-api-endpoint-68da63caf005?source=rss------bug_bounty_writeup-5)
 - [The Phantom Redirect: How I Fooled a Web Server for $100](https://medium.com/@bmkmuthu003/the-phantom-redirect-how-i-fooled-a-web-server-for-100-b13e177f02f2?source=rss------bug_bounty_writeup-5)
 - [pentest notes](https://medium.com/@ashutoshmunde6/pentest-notes-691292d1adb5?source=rss------bug_bounty_writeup-5)
@@ -10,7 +11,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How I Found My First SQLi Vulnerability &lpar;€3500 Bounty&rpar;](https://dewcode.medium.com/how-i-found-my-first-sqli-vulnerability-3500-bounty-7c441007bcf9?source=rss------bug_bounty_writeup-5)
 - [Escalating impact: Full Account Takeover via Stored XSS](https://rajukani100.medium.com/escalating-impact-full-account-takeover-via-stored-xss-24e5aee209f6?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty in 2025: Hunting Business Logic Flaws the Right Way](https://medium.com/@kailasv678/bug-bounty-in-2025-hunting-business-logic-flaws-the-right-way-614aba550f7b?source=rss------bug_bounty_writeup-5)
-- [️ The Ultimate Bug Bounty Checklist for Beginners](https://medium.com/@hackerfromhills/%EF%B8%8F-the-ultimate-bug-bounty-checklist-for-beginners-3fafc9ea5fc5?source=rss------bug_bounty_writeup-5)
 - [They Missed This One Tiny Parameter — I Made $500 Instantly](https://infosecwriteups.com/they-missed-this-one-tiny-parameter-i-made-500-instantly-f2f7d1c1c1d9?source=rss----7b722bfd1b8d---4)
 - [Online Oversharing: Risks &amp; Ethics You Need to Know](https://infosecwriteups.com/online-oversharing-risks-ethics-you-need-to-know-415b392f8f0b?source=rss----7b722bfd1b8d---4)
 - [AirTag Stalking: How Apple’s Tracker Became a Tool for Creeps](https://infosecwriteups.com/airtag-stalking-how-apples-tracker-became-a-tool-for-creeps-a6b48a5b8d81?source=rss----7b722bfd1b8d---4)
