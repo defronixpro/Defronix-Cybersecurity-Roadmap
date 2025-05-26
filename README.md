@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Leaking NetNTLM Hashes via SSRF Using UNC Paths &lpar;Windows&rpar;](https://medium.com/@shubhamsonani/leaking-netntlm-hashes-via-ssrf-using-unc-paths-windows-9c37e17b5041?source=rss------bug_bounty_writeup-5)
 - [Exploiting Server-Side Parameter Pollution in Query Strings — An API Hacking Tale](https://infosecwriteups.com/exploiting-server-side-parameter-pollution-in-query-strings-an-api-hacking-tale-db68094f971f?source=rss------bug_bounty_writeup-5)
 - [From Zero to $1000/Month | Bug Bounty Automation Blueprint](https://infosecwriteups.com/from-zero-to-1000-month-bug-bounty-automation-blueprint-c408bce3e943?source=rss----7b722bfd1b8d---4)
 - [️My Top 7 Mistakes as a New Bug Hunter &lpar;And How to Avoid Them&rpar;](https://infosecwriteups.com/%EF%B8%8Fmy-top-7-mistakes-as-a-new-bug-hunter-and-how-to-avoid-them-e5c31292980b?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How Hard-Coded Credentials in a Publicly Accessible Config File Led to a $350 HackerOne Payout](https://medium.com/@sami7haque/how-hard-coded-credentials-in-a-publicly-accessible-config-file-led-to-a-350-hackerone-payout-c825274cd332?source=rss------bug_bounty_writeup-5)
 - [How a Simple URL Exposed Thousands of Users](https://cybersecuritywriteups.com/how-a-simple-url-exposed-thousands-of-users-d048cfa20aed?source=rss------bug_bounty_writeup-5)
 - [How I Found My First SQLi Vulnerability &lpar;€3500 Bounty&rpar;](https://dewcode.medium.com/how-i-found-my-first-sqli-vulnerability-3500-bounty-7c441007bcf9?source=rss------bug_bounty_writeup-5)
-- [Escalating impact: Full Account Takeover via Stored XSS](https://rajukani100.medium.com/escalating-impact-full-account-takeover-via-stored-xss-24e5aee209f6?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
