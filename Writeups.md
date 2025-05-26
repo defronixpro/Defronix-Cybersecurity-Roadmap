@@ -1,6 +1,10 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [What is Cross-Site Scripting &lpar;XSS&rpar;? Completely explained with types.](https://infosecwriteups.com/cross-site-what-is-cross-site-scripting-xss-completely-explained-with-types-c934d6ef4087?source=rss----7b722bfd1b8d---4)
+- [Exploiting Unsanitized URL Handling &amp; SQL Injection via Deep Links in iOS App: Write-up of Flipcoin](https://infosecwriteups.com/exploiting-unsanitized-url-handling-sql-injection-via-deep-links-in-ios-app-write-up-of-flipcoin-066899b09fc2?source=rss----7b722bfd1b8d---4)
+- [Bypassing iOS App Jailbreak Detection by Patching the Binary with Ghidra: Write-up of No-Escape Lab](https://infosecwriteups.com/bypassing-ios-jailbreak-detection-by-patching-the-binary-with-ghidra-write-up-of-no-escape-lab-02b417b3a235?source=rss----7b722bfd1b8d---4)
+- [The Misconfigured Magnet: How Public Buckets Exposed Millions of User Files](https://infosecwriteups.com/the-misconfigured-magnet-how-public-buckets-exposed-millions-of-user-files-62d3ca759aa0?source=rss----7b722bfd1b8d---4)
 - [OTP bypassed by using luck infused logical thinking bug report](https://medium.com/@bmkmuthu003/otp-bypassed-by-using-luck-infused-logical-thinking-bug-report-fd836120d028?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Practical Lab: Finding and Exploiting an Unused API Endpoint](https://osintteam.blog/bug-bounty-practical-lab-finding-and-exploiting-an-unused-api-endpoint-68da63caf005?source=rss------bug_bounty_writeup-5)
 - [The Phantom Redirect: How I Fooled a Web Server for $100](https://medium.com/@bmkmuthu003/the-phantom-redirect-how-i-fooled-a-web-server-for-100-b13e177f02f2?source=rss------bug_bounty_writeup-5)
@@ -17,10 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [From Recon to Root: A MongoDB NoSQL Injection Bug Bounty Journey](https://infosecwriteups.com/from-recon-to-root-a-mongodb-nosql-injection-bug-bounty-journey-18e9cb309cac?source=rss----7b722bfd1b8d---4)
 - [CHATGPT: A Potential Phishing Vector via HTML Injection](https://infosecwriteups.com/chatgpt-a-potential-phishing-vector-via-html-injection-bf703c79590a?source=rss----7b722bfd1b8d---4)
 - [$2,500 Bounty: DOM-Based XSS via postMessage on Upserve’s Login Page](https://infosecwriteups.com/2-500-bounty-dom-based-xss-via-postmessage-on-upserves-login-page-dc899778ed31?source=rss----7b722bfd1b8d---4)
-- [404 to Root: How a Forgotten Subdomain Led to Server Takeover ‍☠️](https://infosecwriteups.com/404-to-root-how-a-forgotten-subdomain-led-to-server-takeover-%EF%B8%8F-d60e65fdbc18?source=rss----7b722bfd1b8d---4)
-- [⚔️ The Brutal Truth About Bug Bounty That Nobody Tells Beginners](https://infosecwriteups.com/%EF%B8%8F-the-brutal-truth-about-bug-bounty-that-nobody-tells-beginners-10e419514165?source=rss----7b722bfd1b8d---4)
-- [Hacking Oauth:A bug bounty hunter guide](https://infosecwriteups.com/hacking-oauth-a-bug-bounty-hunter-guide-31a7b1a0cf88?source=rss----7b722bfd1b8d---4)
-- [“How a Company Got Hacked Without a Single Line of Code”](https://infosecwriteups.com/how-a-company-got-hacked-without-a-single-line-of-code-254066397f69?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
