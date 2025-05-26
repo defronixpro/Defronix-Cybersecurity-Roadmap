@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Exploiting Server-Side Parameter Pollution in Query Strings — An API Hacking Tale](https://infosecwriteups.com/exploiting-server-side-parameter-pollution-in-query-strings-an-api-hacking-tale-db68094f971f?source=rss------bug_bounty_writeup-5)
 - [From Zero to $1000/Month | Bug Bounty Automation Blueprint](https://infosecwriteups.com/from-zero-to-1000-month-bug-bounty-automation-blueprint-c408bce3e943?source=rss----7b722bfd1b8d---4)
 - [️My Top 7 Mistakes as a New Bug Hunter &lpar;And How to Avoid Them&rpar;](https://infosecwriteups.com/%EF%B8%8Fmy-top-7-mistakes-as-a-new-bug-hunter-and-how-to-avoid-them-e5c31292980b?source=rss----7b722bfd1b8d---4)
 - [Found a Race Condition That Led to Privilege =&gt;$750](https://infosecwriteups.com/found-a-race-condition-that-led-to-privilege-750-4ba1a3983b17?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How a Simple URL Exposed Thousands of Users](https://cybersecuritywriteups.com/how-a-simple-url-exposed-thousands-of-users-d048cfa20aed?source=rss------bug_bounty_writeup-5)
 - [How I Found My First SQLi Vulnerability &lpar;€3500 Bounty&rpar;](https://dewcode.medium.com/how-i-found-my-first-sqli-vulnerability-3500-bounty-7c441007bcf9?source=rss------bug_bounty_writeup-5)
 - [Escalating impact: Full Account Takeover via Stored XSS](https://rajukani100.medium.com/escalating-impact-full-account-takeover-via-stored-xss-24e5aee209f6?source=rss------bug_bounty_writeup-5)
-- [Bug Bounty in 2025: Hunting Business Logic Flaws the Right Way](https://medium.com/@kailasv678/bug-bounty-in-2025-hunting-business-logic-flaws-the-right-way-614aba550f7b?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
