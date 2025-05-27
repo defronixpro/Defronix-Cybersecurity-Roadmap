@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [️‍♂️ Bug Bounty Recon Methodology for example.com – A Beginner-Friendly Guide](https://medium.com/@asifebrahim580/%EF%B8%8F-%EF%B8%8F-bug-bounty-recon-methodology-for-example-com-a-beginner-friendly-guide-a46a916ea1f3?source=rss------bug_bounty_writeup-5)
 - [Logged Out But Still In: How I Exploited a JWT Flaw to Bypass Authentication](https://medium.com/@kailasv678/logged-out-but-still-in-how-i-exploited-a-jwt-flaw-to-bypass-authentication-5e062396923f?source=rss------bug_bounty_writeup-5)
 - [Hijacking the Supply Chain: How I Claimed Tendermint’s Official S3 Bucket](https://osintteam.blog/hijacking-the-supply-chain-how-i-claimed-tendermints-official-s3-bucket-4894187f0414?source=rss------bug_bounty_writeup-5)
 - [Explain SQL Injection Types and Sub-type](https://medium.com/@ImAltyb26/explain-sql-injection-types-and-sub-type-0a6197e2c27e?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Bug Bounty Practical Lab: Finding and Exploiting an Unused API Endpoint](https://osintteam.blog/bug-bounty-practical-lab-finding-and-exploiting-an-unused-api-endpoint-68da63caf005?source=rss------bug_bounty_writeup-5)
 - [The Phantom Redirect: How I Fooled a Web Server for $100](https://medium.com/@bmkmuthu003/the-phantom-redirect-how-i-fooled-a-web-server-for-100-b13e177f02f2?source=rss------bug_bounty_writeup-5)
 - [pentest notes](https://medium.com/@ashutoshmunde6/pentest-notes-691292d1adb5?source=rss------bug_bounty_writeup-5)
-- [From Click to Critical: How I Found PII Without Even Trying — $1,100 Bounty, My First Bounty on…](https://dukrov.medium.com/from-click-to-critical-how-i-found-pii-without-even-trying-1-100-bounty-my-first-bounty-on-651902f7238c?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
