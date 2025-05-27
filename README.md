@@ -922,12 +922,22 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [The Ultimate Roadmap to Becoming a Bug Bounty Hunter](https://infosecwriteups.com/the-ultimate-roadmap-to-becoming-a-bug-bounty-hunter-7d4e0cedf5fd?source=rss----7b722bfd1b8d---4)
+- [Step by Step Complete Beginners guide of iOS penetration testing](https://infosecwriteups.com/step-by-step-complete-beginners-guide-of-ios-penetration-testing-17092c0e0dc7?source=rss----7b722bfd1b8d---4)
+- [Hacking NASA : The Journey to My First Hall of Fame](https://infosecwriteups.com/hacking-nasa-the-journey-to-my-first-hall-of-fame-3d6a978b3d17?source=rss----7b722bfd1b8d---4)
+- [MITM HTTPS Payload with Python](https://infosecwriteups.com/mitm-https-payload-with-python-499ebf8e933f?source=rss----7b722bfd1b8d---4)
+- [From CSP to OMG: How a Tiny Misconfigured Header Let Me Run JS Anywhere](https://infosecwriteups.com/from-csp-to-omg-how-a-tiny-misconfigured-header-let-me-run-js-anywhere-054e30090230?source=rss----7b722bfd1b8d---4)
+- [I Gave Myself 60 Minutes to Find a Bug — This Is What Happened](https://infosecwriteups.com/i-gave-myself-60-minutes-to-find-a-bug-this-is-what-happened-e5fa76563a33?source=rss----7b722bfd1b8d---4)
+- [How to Build a Secure Password Manager in Python](https://infosecwriteups.com/how-to-build-a-secure-password-manager-in-python-fbc9b3fbc335?source=rss----7b722bfd1b8d---4)
 - [️‍♂️ Bug Bounty Recon Methodology for example.com – A Beginner-Friendly Guide](https://medium.com/@asifebrahim580/%EF%B8%8F-%EF%B8%8F-bug-bounty-recon-methodology-for-example-com-a-beginner-friendly-guide-a46a916ea1f3?source=rss------bug_bounty_writeup-5)
 - [Logged Out But Still In: How I Exploited a JWT Flaw to Bypass Authentication](https://medium.com/@kailasv678/logged-out-but-still-in-how-i-exploited-a-jwt-flaw-to-bypass-authentication-5e062396923f?source=rss------bug_bounty_writeup-5)
 - [Hijacking the Supply Chain: How I Claimed Tendermint’s Official S3 Bucket](https://osintteam.blog/hijacking-the-supply-chain-how-i-claimed-tendermints-official-s3-bucket-4894187f0414?source=rss------bug_bounty_writeup-5)
 - [Explain SQL Injection Types and Sub-type](https://medium.com/@ImAltyb26/explain-sql-injection-types-and-sub-type-0a6197e2c27e?source=rss------bug_bounty_writeup-5)
 - [Leaking NetNTLM Hashes via SSRF Using UNC Paths &lpar;Windows&rpar;](https://medium.com/@shubhamsonani/leaking-netntlm-hashes-via-ssrf-using-unc-paths-windows-9c37e17b5041?source=rss------bug_bounty_writeup-5)
 - [Exploiting Server-Side Parameter Pollution in Query Strings — An API Hacking Tale](https://infosecwriteups.com/exploiting-server-side-parameter-pollution-in-query-strings-an-api-hacking-tale-db68094f971f?source=rss------bug_bounty_writeup-5)
+- [From Zero to $1000/Month | Bug Bounty Automation Blueprint](https://infosecwriteups.com/from-zero-to-1000-month-bug-bounty-automation-blueprint-c408bce3e943?source=rss----7b722bfd1b8d---4)
+- [️My Top 7 Mistakes as a New Bug Hunter &lpar;And How to Avoid Them&rpar;](https://infosecwriteups.com/%EF%B8%8Fmy-top-7-mistakes-as-a-new-bug-hunter-and-how-to-avoid-them-e5c31292980b?source=rss----7b722bfd1b8d---4)
+- [Found a Race Condition That Led to Privilege =&gt;$750](https://infosecwriteups.com/found-a-race-condition-that-led-to-privilege-750-4ba1a3983b17?source=rss----7b722bfd1b8d---4)
 - [OTP bypassed by using luck infused logical thinking bug report](https://medium.com/@bmkmuthu003/otp-bypassed-by-using-luck-infused-logical-thinking-bug-report-fd836120d028?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Practical Lab: Finding and Exploiting an Unused API Endpoint](https://osintteam.blog/bug-bounty-practical-lab-finding-and-exploiting-an-unused-api-endpoint-68da63caf005?source=rss------bug_bounty_writeup-5)
 - [The Phantom Redirect: How I Fooled a Web Server for $100](https://medium.com/@bmkmuthu003/the-phantom-redirect-how-i-fooled-a-web-server-for-100-b13e177f02f2?source=rss------bug_bounty_writeup-5)
