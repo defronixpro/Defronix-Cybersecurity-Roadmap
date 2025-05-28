@@ -1,6 +1,8 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [HackingHub Lab: Scam Artists — API Hacking &amp; Reverse Proxy Basics.NahamSec](https://medium.com/@ethicalrohit/hackinghub-lab-scam-artists-api-hacking-reverse-proxy-basics-nahamsec-b9b6ffd9cf90?source=rss------bug_bounty_writeup-5)
+- [OneSpan Race Condition — Duplicate Group Names? Ez Game](https://medium.com/@FufuFaf1/onespan-race-condition-duplicate-group-names-ez-game-e6bfd734850b?source=rss------bug_bounty_writeup-5)
 - [$500 Bounty: Shopify Referrer Leak: Hijacking Storefront Access with a Single Token](https://infosecwriteups.com/500-bounty-shopify-referrer-leak-hijacking-storefront-access-with-a-single-token-4edc0de09cff?source=rss----7b722bfd1b8d---4)
 - [Extracting saved passwords in Chrome using python](https://infosecwriteups.com/extracting-saved-passwords-in-chrome-using-python-554c789ab00d?source=rss----7b722bfd1b8d---4)
 - [Profiler: Your Digital Detective Platform](https://infosecwriteups.com/profiler-your-digital-detective-platform-70c7383fab50?source=rss----7b722bfd1b8d---4)
@@ -10,7 +12,15 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Day 5: DOM XSS in jQuery anchor href attribute sink using location.search](https://infosecwriteups.com/day-5-dom-xss-in-jquery-anchor-href-attribute-sink-using-location-search-afc598397e24?source=rss----7b722bfd1b8d---4)
 - [Exploiting Web Cache Poisoning with X-Host Header Using Param Miner](https://infosecwriteups.com/exploiting-web-cache-poisoning-with-x-host-header-using-param-miner-f1b7b06bf5b8?source=rss----7b722bfd1b8d---4)
 - [Header Injection to Hero: How I Hijacked Emails and Made the Server Sing](https://infosecwriteups.com/header-injection-to-hero-how-i-hijacked-emails-and-made-the-server-sing-7b8817e3736c?source=rss----7b722bfd1b8d---4)
+- [Ciphered Chaos: Bit-Flipping in the Wild](https://batee5a.medium.com/ciphered-chaos-bit-flipping-in-the-wild-345cda16c19e?source=rss------bug_bounty_writeup-5)
+- [How I Earned $$$ in a CORS Exploit Misconfigured](https://medium.com/@iambuvanesh/how-i-earned-in-a-cors-exploit-misconfigured-1ff736e75314?source=rss------bug_bounty_writeup-5)
 - [Beyond best practices: Using OWASP ASVS to bake security into your delivery pipeline for 2025](https://infosecwriteups.com/beyond-best-practices-using-owasp-asvs-to-bake-security-into-your-delivery-pipeline-for-2025-36ff24c06960?source=rss----7b722bfd1b8d---4)
+- [I Hacked Indian Government Websites and became Admin Ethically.](https://infosecwriteups.com/i-hacked-indian-government-websites-and-became-admin-ethically-af6f68c06de3?source=rss------bug_bounty_writeup-5)
+- [️‍♂️ Bug Bounty Recon Methodology for example.com – A Beginner-Friendly Guide](https://medium.com/@asifebrahim580/%EF%B8%8F-%EF%B8%8F-bug-bounty-recon-methodology-for-example-com-a-beginner-friendly-guide-a46a916ea1f3?source=rss------bug_bounty_writeup-5)
+- [Logged Out But Still In: How I Exploited a JWT Flaw to Bypass Authentication](https://medium.com/@kailasv678/logged-out-but-still-in-how-i-exploited-a-jwt-flaw-to-bypass-authentication-5e062396923f?source=rss------bug_bounty_writeup-5)
+- [Hijacking the Supply Chain: How I Claimed Tendermint’s Official S3 Bucket](https://osintteam.blog/hijacking-the-supply-chain-how-i-claimed-tendermints-official-s3-bucket-4894187f0414?source=rss------bug_bounty_writeup-5)
+- [Explain SQL Injection Types and Sub-type](https://medium.com/@ImAltyb26/explain-sql-injection-types-and-sub-type-0a6197e2c27e?source=rss------bug_bounty_writeup-5)
+- [Leaking NetNTLM Hashes via SSRF Using UNC Paths &lpar;Windows&rpar;](https://medium.com/@shubhamsonani/leaking-netntlm-hashes-via-ssrf-using-unc-paths-windows-9c37e17b5041?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
