@@ -922,16 +922,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [$500 Bounty: Shopify Referrer Leak: Hijacking Storefront Access with a Single Token](https://infosecwriteups.com/500-bounty-shopify-referrer-leak-hijacking-storefront-access-with-a-single-token-4edc0de09cff?source=rss----7b722bfd1b8d---4)
-- [Extracting saved passwords in Chrome using python](https://infosecwriteups.com/extracting-saved-passwords-in-chrome-using-python-554c789ab00d?source=rss----7b722bfd1b8d---4)
-- [Profiler: Your Digital Detective Platform](https://infosecwriteups.com/profiler-your-digital-detective-platform-70c7383fab50?source=rss----7b722bfd1b8d---4)
-- [Hacking Insights: Gaining Access to University of Hyderabad Ganglia Dashboard](https://infosecwriteups.com/hacking-insights-gaining-access-to-university-of-hyderabad-ganglia-dashboard-bdc15f3a82fe?source=rss----7b722bfd1b8d---4)
-- [Part 3: How to Become a Pentester in 2025: Programming &amp; Scripting Foundations for pentester](https://infosecwriteups.com/part-3-how-to-become-a-pentester-in-2025-programming-scripting-foundations-for-pentester-c57334e7a8fe?source=rss----7b722bfd1b8d---4)
-- [$750 Bounty: for HTTP Reset Password Link in Mattermost](https://infosecwriteups.com/750-bounty-for-http-reset-password-link-in-mattermost-3cc3acdb0f85?source=rss----7b722bfd1b8d---4)
-- [Day 5: DOM XSS in jQuery anchor href attribute sink using location.search](https://infosecwriteups.com/day-5-dom-xss-in-jquery-anchor-href-attribute-sink-using-location-search-afc598397e24?source=rss----7b722bfd1b8d---4)
-- [Exploiting Web Cache Poisoning with X-Host Header Using Param Miner](https://infosecwriteups.com/exploiting-web-cache-poisoning-with-x-host-header-using-param-miner-f1b7b06bf5b8?source=rss----7b722bfd1b8d---4)
-- [Header Injection to Hero: How I Hijacked Emails and Made the Server Sing](https://infosecwriteups.com/header-injection-to-hero-how-i-hijacked-emails-and-made-the-server-sing-7b8817e3736c?source=rss----7b722bfd1b8d---4)
-- [Beyond best practices: Using OWASP ASVS to bake security into your delivery pipeline for 2025](https://infosecwriteups.com/beyond-best-practices-using-owasp-asvs-to-bake-security-into-your-delivery-pipeline-for-2025-36ff24c06960?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
