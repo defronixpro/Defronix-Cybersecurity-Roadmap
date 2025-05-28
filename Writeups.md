@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [OneSpan Race Condition — Duplicate Group Names? Ez Game](https://medium.com/@FufuFaf1/onespan-race-condition-duplicate-group-names-ez-game-e6bfd734850b?source=rss------bug_bounty_writeup-5)
 - [$500 Bounty: Shopify Referrer Leak: Hijacking Storefront Access with a Single Token](https://infosecwriteups.com/500-bounty-shopify-referrer-leak-hijacking-storefront-access-with-a-single-token-4edc0de09cff?source=rss----7b722bfd1b8d---4)
 - [Extracting saved passwords in Chrome using python](https://infosecwriteups.com/extracting-saved-passwords-in-chrome-using-python-554c789ab00d?source=rss----7b722bfd1b8d---4)
 - [Profiler: Your Digital Detective Platform](https://infosecwriteups.com/profiler-your-digital-detective-platform-70c7383fab50?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Explain SQL Injection Types and Sub-type](https://medium.com/@ImAltyb26/explain-sql-injection-types-and-sub-type-0a6197e2c27e?source=rss------bug_bounty_writeup-5)
 - [Leaking NetNTLM Hashes via SSRF Using UNC Paths &lpar;Windows&rpar;](https://medium.com/@shubhamsonani/leaking-netntlm-hashes-via-ssrf-using-unc-paths-windows-9c37e17b5041?source=rss------bug_bounty_writeup-5)
 - [Exploiting Server-Side Parameter Pollution in Query Strings — An API Hacking Tale](https://infosecwriteups.com/exploiting-server-side-parameter-pollution-in-query-strings-an-api-hacking-tale-db68094f971f?source=rss------bug_bounty_writeup-5)
-- [OTP bypassed by using luck infused logical thinking bug report](https://medium.com/@bmkmuthu003/otp-bypassed-by-using-luck-infused-logical-thinking-bug-report-fd836120d028?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
