@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [GitHub Recon: The Underrated Technique to Discover High-Impact Leaks in Bug Bounty](https://infosecwriteups.com/github-recon-the-underrated-technique-to-discover-high-impact-leaks-in-bug-bounty-c4069894389a?source=rss----7b722bfd1b8d---4)
 - [Unauthenticated Remote Code Execution in vBulletin 6.0.1 via replaceAdTemplate Method](https://infosecwriteups.com/unauthenticated-remote-code-execution-in-vbulletin-6-0-1-via-replaceadtemplate-method-a221f46b9415?source=rss------bug_bounty_writeup-5)
 - [How my first bug got accepted in VDP program after two rejections](https://medium.com/@meowsint/how-my-first-bug-got-accepted-in-vdp-program-after-two-rejections-ce3890af6793?source=rss------bug_bounty_writeup-5)
 - [Public Code, Private Keys: How I Was Rewarded $$$ for Uncovering PII Leaks &lpar;Part I&rpar;](https://0xh7ml.medium.com/public-code-private-keys-how-i-was-rewarded-for-uncovering-pii-leaks-part-i-344b237d237a?source=rss------bug_bounty_writeup-5)
@@ -934,7 +935,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [ChatGPT Jailbreaking: A Sneaky Loophole That Exposes Ethical Gaps](https://infosecwriteups.com/chatgpt-jailbreaking-a-sneaky-loophole-that-exposes-ethical-gaps-1f3dcf015bf6?source=rss----7b722bfd1b8d---4)
 - [Broken Access Control: The Quiet Killer in Web Applications](https://infosecwriteups.com/broken-access-control-the-quiet-killer-in-web-applications-79cb85f72cd8?source=rss----7b722bfd1b8d---4)
 - [Walkthrough — Assessment Methodologies: Enumeration CTF 1](https://infosecwriteups.com/walkthrough-assessment-methodologies-enumeration-ctf-1-90df505c3db5?source=rss----7b722bfd1b8d---4)
-- [Walkthrough — Host &amp; Network Penetration Testing: System-Host Based Attacks CTF 1](https://infosecwriteups.com/host-network-penetration-testing-system-host-based-attacks-ctf-1-8a0accdf9964?source=rss----7b722bfd1b8d---4)
 - [HackingHub Lab: Scam Artists — API Hacking &amp; Reverse Proxy Basics.NahamSec](https://medium.com/@ethicalrohit/hackinghub-lab-scam-artists-api-hacking-reverse-proxy-basics-nahamsec-b9b6ffd9cf90?source=rss------bug_bounty_writeup-5)
 - [OneSpan Race Condition — Duplicate Group Names? Ez Game](https://medium.com/@FufuFaf1/onespan-race-condition-duplicate-group-names-ez-game-e6bfd734850b?source=rss------bug_bounty_writeup-5)
 - [Ciphered Chaos: Bit-Flipping in the Wild](https://batee5a.medium.com/ciphered-chaos-bit-flipping-in-the-wild-345cda16c19e?source=rss------bug_bounty_writeup-5)
