@@ -922,6 +922,9 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Unauthenticated Remote Code Execution in vBulletin 6.0.1 via replaceAdTemplate Method](https://infosecwriteups.com/unauthenticated-remote-code-execution-in-vbulletin-6-0-1-via-replaceadtemplate-method-a221f46b9415?source=rss------bug_bounty_writeup-5)
+- [How my first bug got accepted in VDP program after two rejections](https://medium.com/@meowsint/how-my-first-bug-got-accepted-in-vdp-program-after-two-rejections-ce3890af6793?source=rss------bug_bounty_writeup-5)
+- [Public Code, Private Keys: How I Was Rewarded $$$ for Uncovering PII Leaks &lpar;Part I&rpar;](https://0xh7ml.medium.com/public-code-private-keys-how-i-was-rewarded-for-uncovering-pii-leaks-part-i-344b237d237a?source=rss------bug_bounty_writeup-5)
 - [Uncovering Amazon S3 Bucket Vulnerabilities: A Comprehensive Guide for Ethical Hackers](https://infosecwriteups.com/uncovering-amazon-s3-bucket-vulnerabilities-a-comprehensive-guide-for-ethical-hackers-0fc903ac21d0?source=rss----7b722bfd1b8d---4)
 - [Logic Flaw: Deleting HackerOne Team Reports Without Access Rights](https://infosecwriteups.com/logic-flaw-deleting-hackerone-team-reports-without-access-rights-1c4755a23af8?source=rss----7b722bfd1b8d---4)
 - [AI-Powered SQLMap: Smarter SQL Injection Testing Guide](https://infosecwriteups.com/ai-powered-sqlmap-smarter-sql-injection-testing-guide-5c5f59b99b4e?source=rss----7b722bfd1b8d---4)
@@ -939,9 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [I Hacked Indian Government Websites and became Admin Ethically.](https://infosecwriteups.com/i-hacked-indian-government-websites-and-became-admin-ethically-af6f68c06de3?source=rss------bug_bounty_writeup-5)
 - [️‍♂️ Bug Bounty Recon Methodology for example.com – A Beginner-Friendly Guide](https://medium.com/@asifebrahim580/%EF%B8%8F-%EF%B8%8F-bug-bounty-recon-methodology-for-example-com-a-beginner-friendly-guide-a46a916ea1f3?source=rss------bug_bounty_writeup-5)
 - [Logged Out But Still In: How I Exploited a JWT Flaw to Bypass Authentication](https://medium.com/@kailasv678/logged-out-but-still-in-how-i-exploited-a-jwt-flaw-to-bypass-authentication-5e062396923f?source=rss------bug_bounty_writeup-5)
-- [Hijacking the Supply Chain: How I Claimed Tendermint’s Official S3 Bucket](https://osintteam.blog/hijacking-the-supply-chain-how-i-claimed-tendermints-official-s3-bucket-4894187f0414?source=rss------bug_bounty_writeup-5)
-- [Explain SQL Injection Types and Sub-type](https://medium.com/@ImAltyb26/explain-sql-injection-types-and-sub-type-0a6197e2c27e?source=rss------bug_bounty_writeup-5)
-- [Leaking NetNTLM Hashes via SSRF Using UNC Paths &lpar;Windows&rpar;](https://medium.com/@shubhamsonani/leaking-netntlm-hashes-via-ssrf-using-unc-paths-windows-9c37e17b5041?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
