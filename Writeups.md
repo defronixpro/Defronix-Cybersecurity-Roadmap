@@ -1,6 +1,16 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How I Made My First €4,000 From Two Simple Race Conditions](https://medium.com/@FufuFaf1/how-i-made-my-first-4-000-from-two-simple-race-conditions-270033021482?source=rss------bug_bounty_writeup-5)
+- [How a Simple Trick Helped Me Earn $30k+ from Multiple Bug Bounties](https://medium.com/@cadeeper/how-a-simple-trick-helped-me-earn-30k-from-multiple-bug-bounties-211b75a998d9?source=rss------bug_bounty_writeup-5)
+- [XSS &amp; HTML: Hiding Malice with charCodeAt&lpar;&rpar;](https://raflisetyawan.medium.com/deface-xss-913702f0e47b?source=rss------bug_bounty_writeup-5)
+- [Unauthenticated Remote Code Execution in vBulletin 6.0.1 via replaceAdTemplate Method](https://infosecwriteups.com/unauthenticated-remote-code-execution-in-vbulletin-6-0-1-via-replaceadtemplate-method-a221f46b9415?source=rss------bug_bounty_writeup-5)
+- [How my first bug got accepted in VDP program after two rejections](https://medium.com/@meowsint/how-my-first-bug-got-accepted-in-vdp-program-after-two-rejections-ce3890af6793?source=rss------bug_bounty_writeup-5)
+- [Public Code, Private Keys: How I Was Rewarded $$$ for Uncovering PII Leaks &lpar;Part I&rpar;](https://0xh7ml.medium.com/public-code-private-keys-how-i-was-rewarded-for-uncovering-pii-leaks-part-i-344b237d237a?source=rss------bug_bounty_writeup-5)
+- [HackingHub Lab: Scam Artists — API Hacking &amp; Reverse Proxy Basics.NahamSec](https://medium.com/@ethicalrohit/hackinghub-lab-scam-artists-api-hacking-reverse-proxy-basics-nahamsec-b9b6ffd9cf90?source=rss------bug_bounty_writeup-5)
+- [OneSpan Race Condition — Duplicate Group Names? Ez Game](https://medium.com/@FufuFaf1/onespan-race-condition-duplicate-group-names-ez-game-e6bfd734850b?source=rss------bug_bounty_writeup-5)
+- [Ciphered Chaos: Bit-Flipping in the Wild](https://batee5a.medium.com/ciphered-chaos-bit-flipping-in-the-wild-345cda16c19e?source=rss------bug_bounty_writeup-5)
+- [How I Earned $$$ in a CORS Exploit Misconfigured](https://medium.com/@iambuvanesh/how-i-earned-in-a-cors-exploit-misconfigured-1ff736e75314?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
