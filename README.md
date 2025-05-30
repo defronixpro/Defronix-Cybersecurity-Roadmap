@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I Took Over Any User Account with One Parameter Change](https://medium.com/@bmkmuthu003/how-i-took-over-any-user-account-with-one-parameter-change-09692dcc20f1?source=rss------bug_bounty_writeup-5)
 - [IDOR for Coins: How I Paid Less and Got More on Reddit’s PayPal Checkout](https://infosecwriteups.com/idor-for-coins-how-i-paid-less-and-got-more-on-reddits-paypal-checkout-aa40c51f11d3?source=rss----7b722bfd1b8d---4)
 - [Cracking JWTs: A Bug Bounty Hunting Guide — Part 2](https://infosecwriteups.com/cracking-jwts-a-bug-bounty-hunting-guide-part-2-7bd111ddadd8?source=rss----7b722bfd1b8d---4)
 - [Hunted a Private Program for 5 Days — 0 Bugs, 3 Lessons](https://infosecwriteups.com/hunted-a-private-program-for-5-days-0-bugs-3-lessons-b371a1a69d55?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [HackingHub Lab: Scam Artists — API Hacking &amp; Reverse Proxy Basics.NahamSec](https://medium.com/@ethicalrohit/hackinghub-lab-scam-artists-api-hacking-reverse-proxy-basics-nahamsec-b9b6ffd9cf90?source=rss------bug_bounty_writeup-5)
 - [OneSpan Race Condition — Duplicate Group Names? Ez Game](https://medium.com/@FufuFaf1/onespan-race-condition-duplicate-group-names-ez-game-e6bfd734850b?source=rss------bug_bounty_writeup-5)
 - [Ciphered Chaos: Bit-Flipping in the Wild](https://batee5a.medium.com/ciphered-chaos-bit-flipping-in-the-wild-345cda16c19e?source=rss------bug_bounty_writeup-5)
-- [How I Earned $$$ in a CORS Exploit Misconfigured](https://medium.com/@iambuvanesh/how-i-earned-in-a-cors-exploit-misconfigured-1ff736e75314?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
