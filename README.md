@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I Made My First €4,000 From Two Simple Race Conditions](https://medium.com/@FufuFaf1/how-i-made-my-first-4-000-from-two-simple-race-conditions-270033021482?source=rss------bug_bounty_writeup-5)
 - [How a Simple Trick Helped Me Earn $30k+ from Multiple Bug Bounties](https://medium.com/@cadeeper/how-a-simple-trick-helped-me-earn-30k-from-multiple-bug-bounties-211b75a998d9?source=rss------bug_bounty_writeup-5)
 - [XSS &amp; HTML: Hiding Malice with charCodeAt&lpar;&rpar;](https://raflisetyawan.medium.com/deface-xss-913702f0e47b?source=rss------bug_bounty_writeup-5)
 - [GitHub Recon: The Underrated Technique to Discover High-Impact Leaks in Bug Bounty](https://infosecwriteups.com/github-recon-the-underrated-technique-to-discover-high-impact-leaks-in-bug-bounty-c4069894389a?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [OneSpan Race Condition — Duplicate Group Names? Ez Game](https://medium.com/@FufuFaf1/onespan-race-condition-duplicate-group-names-ez-game-e6bfd734850b?source=rss------bug_bounty_writeup-5)
 - [Ciphered Chaos: Bit-Flipping in the Wild](https://batee5a.medium.com/ciphered-chaos-bit-flipping-in-the-wild-345cda16c19e?source=rss------bug_bounty_writeup-5)
 - [How I Earned $$$ in a CORS Exploit Misconfigured](https://medium.com/@iambuvanesh/how-i-earned-in-a-cors-exploit-misconfigured-1ff736e75314?source=rss------bug_bounty_writeup-5)
-- [I Hacked Indian Government Websites and became Admin Ethically.](https://infosecwriteups.com/i-hacked-indian-government-websites-and-became-admin-ethically-af6f68c06de3?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
