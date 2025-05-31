@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Business Logic Flaw in a Rating System and Earned €150](https://medium.com/meetcyber/business-logic-flaw-in-a-rating-system-and-earned-150-a992ceb571a1?source=rss------bug_bounty_writeup-5)
 - [From PNG to Shell: The Chatbot That Helped Me Hack Itself](https://medium.com/@bmkmuthu003/from-png-to-shell-the-chatbot-that-helped-me-hack-itself-d1459e67b332?source=rss------bug_bounty_writeup-5)
 - [How I Took Over Any User Account with One Parameter Change](https://medium.com/@bmkmuthu003/how-i-took-over-any-user-account-with-one-parameter-change-09692dcc20f1?source=rss------bug_bounty_writeup-5)
 - [IDOR for Coins: How I Paid Less and Got More on Reddit’s PayPal Checkout](https://infosecwriteups.com/idor-for-coins-how-i-paid-less-and-got-more-on-reddits-paypal-checkout-aa40c51f11d3?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How my first bug got accepted in VDP program after two rejections](https://medium.com/@meowsint/how-my-first-bug-got-accepted-in-vdp-program-after-two-rejections-ce3890af6793?source=rss------bug_bounty_writeup-5)
 - [Public Code, Private Keys: How I Was Rewarded $$$ for Uncovering PII Leaks &lpar;Part I&rpar;](https://0xh7ml.medium.com/public-code-private-keys-how-i-was-rewarded-for-uncovering-pii-leaks-part-i-344b237d237a?source=rss------bug_bounty_writeup-5)
 - [HackingHub Lab: Scam Artists — API Hacking &amp; Reverse Proxy Basics.NahamSec](https://medium.com/@ethicalrohit/hackinghub-lab-scam-artists-api-hacking-reverse-proxy-basics-nahamsec-b9b6ffd9cf90?source=rss------bug_bounty_writeup-5)
-- [OneSpan Race Condition — Duplicate Group Names? Ez Game](https://medium.com/@FufuFaf1/onespan-race-condition-duplicate-group-names-ez-game-e6bfd734850b?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
