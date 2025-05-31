@@ -1,6 +1,8 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Days of Recon, One Nuclei Template - Open Redirection Found on NASA.](https://osintteam.blog/days-of-recon-one-nuclei-template-open-redirection-found-on-nasa-f44ae3bef0e2?source=rss------bug_bounty_writeup-5)
+- [SQL Injection Tutorial: Exploiting an E-commerce Login Page](https://anmolvishwakarma7466.medium.com/sql-injection-tutorial-exploiting-an-e-commerce-login-page-fe3053af7234?source=rss------bug_bounty_writeup-5)
 - [Facebook App Secret Exposed in GlassWire Binary](https://infosecwriteups.com/facebook-app-secret-exposed-in-glasswire-binary-e8a4e99afb27?source=rss----7b722bfd1b8d---4)
 - [My Journey to NASA’s Hall of Fame](https://infosecwriteups.com/my-journey-to-nasas-hall-of-fame-6e680736f557?source=rss----7b722bfd1b8d---4)
 - [TryHackMe — Ninja Skills writeup :](https://infosecwriteups.com/tryhackme-ninja-skills-writeup-9c6aa090e9f6?source=rss----7b722bfd1b8d---4)
@@ -11,6 +13,14 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [From Removed Admin to Full Takeover](https://infosecwriteups.com/from-removed-admin-to-full-takeover-9ce131dd3716?source=rss----7b722bfd1b8d---4)
 - [Hidden Tokens, Open Wallets: How I Found Payment API Keys in Production JavaScript](https://infosecwriteups.com/hidden-tokens-open-wallets-how-i-found-payment-api-keys-in-production-javascript-7810b3113e04?source=rss----7b722bfd1b8d---4)
 - [Security Logs Made Simple: The Foundation of Cybersecurity Monitoring](https://infosecwriteups.com/security-logs-made-simple-the-foundation-of-cybersecurity-monitoring-39ce3cbfa07b?source=rss----7b722bfd1b8d---4)
+- [CAPTCHA Cracked: How I Bypassed Rate Limiting Using a Simple Race Condition](https://medium.com/@anonymousshetty2003/captcha-cracked-how-i-bypassed-rate-limiting-using-a-simple-race-condition-d8b88a2a8c7b?source=rss------bug_bounty_writeup-5)
+- [How I could delete Every User from a Website Using a Simple Broken Access Control Vulnerability…](https://medium.com/@anonymousshetty2003/how-i-could-delete-every-user-from-a-website-using-a-simple-broken-access-control-vulnerability-c1509ef9d3df?source=rss------bug_bounty_writeup-5)
+- [Command Injection via PHP File Upload in an College Recruitment Registration Portal](https://medium.com/@anonymousshetty2003/command-injection-via-php-file-upload-in-an-college-recruitment-registration-portal-034e56e89006?source=rss------bug_bounty_writeup-5)
+- [Business Logic Flaw in a Rating System and Earned €150](https://medium.com/meetcyber/business-logic-flaw-in-a-rating-system-and-earned-150-a992ceb571a1?source=rss------bug_bounty_writeup-5)
+- [From PNG to Shell: The Chatbot That Helped Me Hack Itself](https://medium.com/@bmkmuthu003/from-png-to-shell-the-chatbot-that-helped-me-hack-itself-d1459e67b332?source=rss------bug_bounty_writeup-5)
+- [How I Took Over Any User Account with One Parameter Change](https://medium.com/@bmkmuthu003/how-i-took-over-any-user-account-with-one-parameter-change-09692dcc20f1?source=rss------bug_bounty_writeup-5)
+- [How I Made My First €4,000 From Two Simple Race Conditions](https://medium.com/@FufuFaf1/how-i-made-my-first-4-000-from-two-simple-race-conditions-270033021482?source=rss------bug_bounty_writeup-5)
+- [How a Simple Trick Helped Me Earn $30k+ from Multiple Bug Bounties](https://medium.com/@cadeeper/how-a-simple-trick-helped-me-earn-30k-from-multiple-bug-bounties-211b75a998d9?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
