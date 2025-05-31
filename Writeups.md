@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [SQL Injection Tutorial: Exploiting an E-commerce Login Page](https://anmolvishwakarma7466.medium.com/sql-injection-tutorial-exploiting-an-e-commerce-login-page-fe3053af7234?source=rss------bug_bounty_writeup-5)
 - [Facebook App Secret Exposed in GlassWire Binary](https://infosecwriteups.com/facebook-app-secret-exposed-in-glasswire-binary-e8a4e99afb27?source=rss----7b722bfd1b8d---4)
 - [My Journey to NASA’s Hall of Fame](https://infosecwriteups.com/my-journey-to-nasas-hall-of-fame-6e680736f557?source=rss----7b722bfd1b8d---4)
 - [TryHackMe — Ninja Skills writeup :](https://infosecwriteups.com/tryhackme-ninja-skills-writeup-9c6aa090e9f6?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How I Made My First €4,000 From Two Simple Race Conditions](https://medium.com/@FufuFaf1/how-i-made-my-first-4-000-from-two-simple-race-conditions-270033021482?source=rss------bug_bounty_writeup-5)
 - [How a Simple Trick Helped Me Earn $30k+ from Multiple Bug Bounties](https://medium.com/@cadeeper/how-a-simple-trick-helped-me-earn-30k-from-multiple-bug-bounties-211b75a998d9?source=rss------bug_bounty_writeup-5)
 - [XSS &amp; HTML: Hiding Malice with charCodeAt&lpar;&rpar;](https://raflisetyawan.medium.com/deface-xss-913702f0e47b?source=rss------bug_bounty_writeup-5)
-- [Unauthenticated Remote Code Execution in vBulletin 6.0.1 via replaceAdTemplate Method](https://infosecwriteups.com/unauthenticated-remote-code-execution-in-vbulletin-6-0-1-via-replaceadtemplate-method-a221f46b9415?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
