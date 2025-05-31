@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [CAPTCHA Cracked: How I Bypassed Rate Limiting Using a Simple Race Condition](https://medium.com/@anonymousshetty2003/captcha-cracked-how-i-bypassed-rate-limiting-using-a-simple-race-condition-d8b88a2a8c7b?source=rss------bug_bounty_writeup-5)
 - [How I could delete Every User from a Website Using a Simple Broken Access Control Vulnerability…](https://medium.com/@anonymousshetty2003/how-i-could-delete-every-user-from-a-website-using-a-simple-broken-access-control-vulnerability-c1509ef9d3df?source=rss------bug_bounty_writeup-5)
 - [Command Injection via PHP File Upload in an College Recruitment Registration Portal](https://medium.com/@anonymousshetty2003/command-injection-via-php-file-upload-in-an-college-recruitment-registration-portal-034e56e89006?source=rss------bug_bounty_writeup-5)
 - [Business Logic Flaw in a Rating System and Earned €150](https://medium.com/meetcyber/business-logic-flaw-in-a-rating-system-and-earned-150-a992ceb571a1?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How a Simple Trick Helped Me Earn $30k+ from Multiple Bug Bounties](https://medium.com/@cadeeper/how-a-simple-trick-helped-me-earn-30k-from-multiple-bug-bounties-211b75a998d9?source=rss------bug_bounty_writeup-5)
 - [XSS &amp; HTML: Hiding Malice with charCodeAt&lpar;&rpar;](https://raflisetyawan.medium.com/deface-xss-913702f0e47b?source=rss------bug_bounty_writeup-5)
 - [Unauthenticated Remote Code Execution in vBulletin 6.0.1 via replaceAdTemplate Method](https://infosecwriteups.com/unauthenticated-remote-code-execution-in-vbulletin-6-0-1-via-replaceadtemplate-method-a221f46b9415?source=rss------bug_bounty_writeup-5)
-- [How my first bug got accepted in VDP program after two rejections](https://medium.com/@meowsint/how-my-first-bug-got-accepted-in-vdp-program-after-two-rejections-ce3890af6793?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
