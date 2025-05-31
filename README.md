@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Days of Recon, One Nuclei Template - Open Redirection Found on NASA.](https://osintteam.blog/days-of-recon-one-nuclei-template-open-redirection-found-on-nasa-f44ae3bef0e2?source=rss------bug_bounty_writeup-5)
 - [SQL Injection Tutorial: Exploiting an E-commerce Login Page](https://anmolvishwakarma7466.medium.com/sql-injection-tutorial-exploiting-an-e-commerce-login-page-fe3053af7234?source=rss------bug_bounty_writeup-5)
 - [Facebook App Secret Exposed in GlassWire Binary](https://infosecwriteups.com/facebook-app-secret-exposed-in-glasswire-binary-e8a4e99afb27?source=rss----7b722bfd1b8d---4)
 - [My Journey to NASA’s Hall of Fame](https://infosecwriteups.com/my-journey-to-nasas-hall-of-fame-6e680736f557?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How I Took Over Any User Account with One Parameter Change](https://medium.com/@bmkmuthu003/how-i-took-over-any-user-account-with-one-parameter-change-09692dcc20f1?source=rss------bug_bounty_writeup-5)
 - [How I Made My First €4,000 From Two Simple Race Conditions](https://medium.com/@FufuFaf1/how-i-made-my-first-4-000-from-two-simple-race-conditions-270033021482?source=rss------bug_bounty_writeup-5)
 - [How a Simple Trick Helped Me Earn $30k+ from Multiple Bug Bounties](https://medium.com/@cadeeper/how-a-simple-trick-helped-me-earn-30k-from-multiple-bug-bounties-211b75a998d9?source=rss------bug_bounty_writeup-5)
-- [XSS &amp; HTML: Hiding Malice with charCodeAt&lpar;&rpar;](https://raflisetyawan.medium.com/deface-xss-913702f0e47b?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
