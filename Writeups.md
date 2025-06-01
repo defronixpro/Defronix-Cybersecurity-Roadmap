@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Unauthorized Access to Source Document Images in ERP System](https://medium.com/@hossam13/unauthorized-access-to-source-document-images-in-erp-system-0838d399d14c?source=rss------bug_bounty_writeup-5)
 - [Bypassing Cloudflare WAF to Trigger Reflected XSS on a Major Health Information Platform](https://medium.com/@appsec.techie/bypassing-cloudflare-waf-to-trigger-reflected-xss-on-a-major-health-information-platform-bc71cf9cd1be?source=rss------bug_bounty_writeup-5)
 - [Securing 10th Place in APISEC|CON CTF 2025: My Journey Through 17 API Security Challenges](https://pandyamayurrr.medium.com/securing-10th-place-in-apisec-con-ctf-2025-my-journey-through-17-api-security-challenges-2d6b41a2afd3?source=rss------bug_bounty_writeup-5)
 - [Bypass of Date and Value Restrictions in Expense Submission](https://medium.com/@hossam13/bypass-of-date-and-value-restrictions-in-expense-submission-f0cc6a5cb45a?source=rss------bug_bounty_writeup-5)
@@ -16,7 +17,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [The Best Bug Bounty Tools in 2025 &lpar;With Pro Tips to Use Them Effectively&rpar;](https://medium.com/@kailasv678/the-best-bug-bounty-tools-in-2025-with-pro-tips-to-use-them-effectively-e525878969e1?source=rss------bug_bounty_writeup-5)
 - [How I have found my first valid bug that got paid.](https://imran404.medium.com/how-i-have-found-my-first-valid-bug-that-got-paid-7c0f8d40d568?source=rss------bug_bounty_writeup-5)
 - [Days of Recon, One Nuclei Template - Open Redirection Found on NASA.](https://osintteam.blog/days-of-recon-one-nuclei-template-open-redirection-found-on-nasa-f44ae3bef0e2?source=rss------bug_bounty_writeup-5)
-- [SQL Injection Tutorial: Exploiting an E-commerce Login Page](https://anmolvishwakarma7466.medium.com/sql-injection-tutorial-exploiting-an-e-commerce-login-page-fe3053af7234?source=rss------bug_bounty_writeup-5)
 - [Facebook App Secret Exposed in GlassWire Binary](https://infosecwriteups.com/facebook-app-secret-exposed-in-glasswire-binary-e8a4e99afb27?source=rss----7b722bfd1b8d---4)
 - [My Journey to NASA’s Hall of Fame](https://infosecwriteups.com/my-journey-to-nasas-hall-of-fame-6e680736f557?source=rss----7b722bfd1b8d---4)
 - [TryHackMe — Ninja Skills writeup :](https://infosecwriteups.com/tryhackme-ninja-skills-writeup-9c6aa090e9f6?source=rss----7b722bfd1b8d---4)
