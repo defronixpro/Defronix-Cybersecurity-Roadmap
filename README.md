@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Utilizing LOAD_FILE&lpar;&rpar; in SQL Injection](https://raflisetyawan.medium.com/utilizing-load-file-in-sql-injection-66c3e2a2a82a?source=rss------bug_bounty_writeup-5)
 - [When an Internal IP Slipped — and I Slid Right Into RCE](https://medium.com/@bmkmuthu003/when-an-internal-ip-slipped-and-i-slid-right-into-rce-afc93515bf76?source=rss------bug_bounty_writeup-5)
 - [How a Shared Host Search Template Led to Widespread Reflected XSS Vulnerabilities](https://medium.com/@mhmodgm54/how-a-shared-host-search-template-led-to-widespread-reflected-xss-vulnerabilities-d2e098e89c8d?source=rss------bug_bounty_writeup-5)
 - [The Best Bug Bounty Tools in 2025 &lpar;With Pro Tips to Use Them Effectively&rpar;](https://medium.com/@kailasv678/the-best-bug-bounty-tools-in-2025-with-pro-tips-to-use-them-effectively-e525878969e1?source=rss------bug_bounty_writeup-5)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [CAPTCHA Cracked: How I Bypassed Rate Limiting Using a Simple Race Condition](https://medium.com/@anonymousshetty2003/captcha-cracked-how-i-bypassed-rate-limiting-using-a-simple-race-condition-d8b88a2a8c7b?source=rss------bug_bounty_writeup-5)
 - [How I could delete Every User from a Website Using a Simple Broken Access Control Vulnerability…](https://medium.com/@anonymousshetty2003/how-i-could-delete-every-user-from-a-website-using-a-simple-broken-access-control-vulnerability-c1509ef9d3df?source=rss------bug_bounty_writeup-5)
 - [Command Injection via PHP File Upload in an College Recruitment Registration Portal](https://medium.com/@anonymousshetty2003/command-injection-via-php-file-upload-in-an-college-recruitment-registration-portal-034e56e89006?source=rss------bug_bounty_writeup-5)
-- [Business Logic Flaw in a Rating System and Earned €150](https://medium.com/meetcyber/business-logic-flaw-in-a-rating-system-and-earned-150-a992ceb571a1?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
