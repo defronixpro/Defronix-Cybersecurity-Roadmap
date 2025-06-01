@@ -1,6 +1,12 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [A User to Admin: How I Went From Nobody to Owning the Admin Panel](https://infosecwriteups.com/a-user-to-admin-how-i-went-from-nobody-to-owning-the-admin-panel-7dcc22344720?source=rss----7b722bfd1b8d---4)
+- [DevSecOps Phase 4B: Manual Penetration Testing](https://infosecwriteups.com/devsecops-phase-4b-manual-penetration-testing-9c9e0493531d?source=rss----7b722bfd1b8d---4)
+- [Google Dorking: A Hacker’s Best Friend](https://infosecwriteups.com/google-dorking-a-hackers-best-friend-716dfb3e9739?source=rss----7b722bfd1b8d---4)
+- [The Hidden Admin Backdoor in Reddit Ads](https://infosecwriteups.com/the-hidden-admin-backdoor-in-reddit-ads-32eeb8e1e216?source=rss----7b722bfd1b8d---4)
+- [Bypassing Regex Validations to Achieve RCE: A Wild Bug Story](https://infosecwriteups.com/bypassing-regex-validations-to-achieve-rce-a-wild-bug-story-6476faccbc23?source=rss----7b722bfd1b8d---4)
+- [The Year We Lost Control: How the AI Race Could End Humanity — or Save It](https://infosecwriteups.com/the-year-we-lost-control-how-the-ai-race-could-end-humanity-or-save-it-3e00544e663c?source=rss----7b722bfd1b8d---4)
 - [Utilizing LOAD_FILE&lpar;&rpar; in SQL Injection](https://raflisetyawan.medium.com/utilizing-load-file-in-sql-injection-66c3e2a2a82a?source=rss------bug_bounty_writeup-5)
 - [When an Internal IP Slipped — and I Slid Right Into RCE](https://medium.com/@bmkmuthu003/when-an-internal-ip-slipped-and-i-slid-right-into-rce-afc93515bf76?source=rss------bug_bounty_writeup-5)
 - [How a Shared Host Search Template Led to Widespread Reflected XSS Vulnerabilities](https://medium.com/@mhmodgm54/how-a-shared-host-search-template-led-to-widespread-reflected-xss-vulnerabilities-d2e098e89c8d?source=rss------bug_bounty_writeup-5)
@@ -8,6 +14,10 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How I have found my first valid bug that got paid.](https://imran404.medium.com/how-i-have-found-my-first-valid-bug-that-got-paid-7c0f8d40d568?source=rss------bug_bounty_writeup-5)
 - [Days of Recon, One Nuclei Template - Open Redirection Found on NASA.](https://osintteam.blog/days-of-recon-one-nuclei-template-open-redirection-found-on-nasa-f44ae3bef0e2?source=rss------bug_bounty_writeup-5)
 - [SQL Injection Tutorial: Exploiting an E-commerce Login Page](https://anmolvishwakarma7466.medium.com/sql-injection-tutorial-exploiting-an-e-commerce-login-page-fe3053af7234?source=rss------bug_bounty_writeup-5)
+- [Facebook App Secret Exposed in GlassWire Binary](https://infosecwriteups.com/facebook-app-secret-exposed-in-glasswire-binary-e8a4e99afb27?source=rss----7b722bfd1b8d---4)
+- [My Journey to NASA’s Hall of Fame](https://infosecwriteups.com/my-journey-to-nasas-hall-of-fame-6e680736f557?source=rss----7b722bfd1b8d---4)
+- [TryHackMe — Ninja Skills writeup :](https://infosecwriteups.com/tryhackme-ninja-skills-writeup-9c6aa090e9f6?source=rss----7b722bfd1b8d---4)
+- [The Cybersecurity Job Landscape Is About to Be Transformed. Are You Ready?](https://infosecwriteups.com/the-cybersecurity-job-landscape-is-about-to-be-transformed-are-you-ready-242cb6871d5d?source=rss----7b722bfd1b8d---4)
 - [CAPTCHA Cracked: How I Bypassed Rate Limiting Using a Simple Race Condition](https://medium.com/@anonymousshetty2003/captcha-cracked-how-i-bypassed-rate-limiting-using-a-simple-race-condition-d8b88a2a8c7b?source=rss------bug_bounty_writeup-5)
 - [How I could delete Every User from a Website Using a Simple Broken Access Control Vulnerability…](https://medium.com/@anonymousshetty2003/how-i-could-delete-every-user-from-a-website-using-a-simple-broken-access-control-vulnerability-c1509ef9d3df?source=rss------bug_bounty_writeup-5)
 - [Command Injection via PHP File Upload in an College Recruitment Registration Portal](https://medium.com/@anonymousshetty2003/command-injection-via-php-file-upload-in-an-college-recruitment-registration-portal-034e56e89006?source=rss------bug_bounty_writeup-5)
