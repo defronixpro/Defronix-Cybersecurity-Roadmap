@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How a Shared Host Search Template Led to Widespread Reflected XSS Vulnerabilities](https://medium.com/@mhmodgm54/how-a-shared-host-search-template-led-to-widespread-reflected-xss-vulnerabilities-d2e098e89c8d?source=rss------bug_bounty_writeup-5)
 - [The Best Bug Bounty Tools in 2025 &lpar;With Pro Tips to Use Them Effectively&rpar;](https://medium.com/@kailasv678/the-best-bug-bounty-tools-in-2025-with-pro-tips-to-use-them-effectively-e525878969e1?source=rss------bug_bounty_writeup-5)
 - [How I have found my first valid bug that got paid.](https://imran404.medium.com/how-i-have-found-my-first-valid-bug-that-got-paid-7c0f8d40d568?source=rss------bug_bounty_writeup-5)
 - [Days of Recon, One Nuclei Template - Open Redirection Found on NASA.](https://osintteam.blog/days-of-recon-one-nuclei-template-open-redirection-found-on-nasa-f44ae3bef0e2?source=rss------bug_bounty_writeup-5)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Command Injection via PHP File Upload in an College Recruitment Registration Portal](https://medium.com/@anonymousshetty2003/command-injection-via-php-file-upload-in-an-college-recruitment-registration-portal-034e56e89006?source=rss------bug_bounty_writeup-5)
 - [Business Logic Flaw in a Rating System and Earned €150](https://medium.com/meetcyber/business-logic-flaw-in-a-rating-system-and-earned-150-a992ceb571a1?source=rss------bug_bounty_writeup-5)
 - [From PNG to Shell: The Chatbot That Helped Me Hack Itself](https://medium.com/@bmkmuthu003/from-png-to-shell-the-chatbot-that-helped-me-hack-itself-d1459e67b332?source=rss------bug_bounty_writeup-5)
-- [How I Took Over Any User Account with One Parameter Change](https://medium.com/@bmkmuthu003/how-i-took-over-any-user-account-with-one-parameter-change-09692dcc20f1?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
