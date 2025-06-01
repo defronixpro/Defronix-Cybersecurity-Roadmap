@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How to find Jupyter Notebook RCE manually?](https://medium.com/@josekuttykunnelthazhebinu/how-to-find-jupyter-notebook-rce-manually-4fb337998dc1?source=rss------bug_bounty_writeup-5)
 - [A CSRF Story I Encountered on My Bug Bounty Journey](https://enes478.medium.com/a-csrf-story-i-encountered-on-my-bug-bounty-journey-6a037b4025ee?source=rss------bug_bounty_writeup-5)
 - [Unauthorized Access to Source Document Images in ERP System](https://medium.com/@hossam13/unauthorized-access-to-source-document-images-in-erp-system-0838d399d14c?source=rss------bug_bounty_writeup-5)
 - [Bypassing Cloudflare WAF to Trigger Reflected XSS on a Major Health Information Platform](https://medium.com/@appsec.techie/bypassing-cloudflare-waf-to-trigger-reflected-xss-on-a-major-health-information-platform-bc71cf9cd1be?source=rss------bug_bounty_writeup-5)
@@ -937,7 +938,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [When an Internal IP Slipped — and I Slid Right Into RCE](https://medium.com/@bmkmuthu003/when-an-internal-ip-slipped-and-i-slid-right-into-rce-afc93515bf76?source=rss------bug_bounty_writeup-5)
 - [How a Shared Host Search Template Led to Widespread Reflected XSS Vulnerabilities](https://medium.com/@mhmodgm54/how-a-shared-host-search-template-led-to-widespread-reflected-xss-vulnerabilities-d2e098e89c8d?source=rss------bug_bounty_writeup-5)
 - [The Best Bug Bounty Tools in 2025 &lpar;With Pro Tips to Use Them Effectively&rpar;](https://medium.com/@kailasv678/the-best-bug-bounty-tools-in-2025-with-pro-tips-to-use-them-effectively-e525878969e1?source=rss------bug_bounty_writeup-5)
-- [How I have found my first valid bug that got paid.](https://imran404.medium.com/how-i-have-found-my-first-valid-bug-that-got-paid-7c0f8d40d568?source=rss------bug_bounty_writeup-5)
 - [Facebook App Secret Exposed in GlassWire Binary](https://infosecwriteups.com/facebook-app-secret-exposed-in-glasswire-binary-e8a4e99afb27?source=rss----7b722bfd1b8d---4)
 - [My Journey to NASA’s Hall of Fame](https://infosecwriteups.com/my-journey-to-nasas-hall-of-fame-6e680736f557?source=rss----7b722bfd1b8d---4)
 - [TryHackMe — Ninja Skills writeup :](https://infosecwriteups.com/tryhackme-ninja-skills-writeup-9c6aa090e9f6?source=rss----7b722bfd1b8d---4)
