@@ -1,6 +1,8 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Bypassing Cloudflare WAF to Trigger Reflected XSS on a Major Health Information Platform](https://medium.com/@appsec.techie/bypassing-cloudflare-waf-to-trigger-reflected-xss-on-a-major-health-information-platform-bc71cf9cd1be?source=rss------bug_bounty_writeup-5)
+- [Securing 10th Place in APISEC|CON CTF 2025: My Journey Through 17 API Security Challenges](https://pandyamayurrr.medium.com/securing-10th-place-in-apisec-con-ctf-2025-my-journey-through-17-api-security-challenges-2d6b41a2afd3?source=rss------bug_bounty_writeup-5)
 - [Bypass of Date and Value Restrictions in Expense Submission](https://medium.com/@hossam13/bypass-of-date-and-value-restrictions-in-expense-submission-f0cc6a5cb45a?source=rss------bug_bounty_writeup-5)
 - [A User to Admin: How I Went From Nobody to Owning the Admin Panel](https://infosecwriteups.com/a-user-to-admin-how-i-went-from-nobody-to-owning-the-admin-panel-7dcc22344720?source=rss----7b722bfd1b8d---4)
 - [DevSecOps Phase 4B: Manual Penetration Testing](https://infosecwriteups.com/devsecops-phase-4b-manual-penetration-testing-9c9e0493531d?source=rss----7b722bfd1b8d---4)
@@ -19,8 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [My Journey to NASA’s Hall of Fame](https://infosecwriteups.com/my-journey-to-nasas-hall-of-fame-6e680736f557?source=rss----7b722bfd1b8d---4)
 - [TryHackMe — Ninja Skills writeup :](https://infosecwriteups.com/tryhackme-ninja-skills-writeup-9c6aa090e9f6?source=rss----7b722bfd1b8d---4)
 - [The Cybersecurity Job Landscape Is About to Be Transformed. Are You Ready?](https://infosecwriteups.com/the-cybersecurity-job-landscape-is-about-to-be-transformed-are-you-ready-242cb6871d5d?source=rss----7b722bfd1b8d---4)
-- [CAPTCHA Cracked: How I Bypassed Rate Limiting Using a Simple Race Condition](https://medium.com/@anonymousshetty2003/captcha-cracked-how-i-bypassed-rate-limiting-using-a-simple-race-condition-d8b88a2a8c7b?source=rss------bug_bounty_writeup-5)
-- [How I could delete Every User from a Website Using a Simple Broken Access Control Vulnerability…](https://medium.com/@anonymousshetty2003/how-i-could-delete-every-user-from-a-website-using-a-simple-broken-access-control-vulnerability-c1509ef9d3df?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
