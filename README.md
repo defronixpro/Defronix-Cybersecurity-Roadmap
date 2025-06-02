@@ -922,22 +922,12 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [How I Brute-Forced My Way Through a Broken Login Gate](https://medium.com/@bmkmuthu003/how-i-brute-forced-my-way-through-a-broken-login-gate-4250b22153f9?source=rss------bug_bounty_writeup-5)
-- [How to find Jupyter Notebook RCE manually?](https://medium.com/@josekuttykunnelthazhebinu/how-to-find-jupyter-notebook-rce-manually-4fb337998dc1?source=rss------bug_bounty_writeup-5)
-- [A CSRF Story I Encountered on My Bug Bounty Journey](https://enes478.medium.com/a-csrf-story-i-encountered-on-my-bug-bounty-journey-6a037b4025ee?source=rss------bug_bounty_writeup-5)
-- [Unauthorized Access to Source Document Images in ERP System](https://medium.com/@hossam13/unauthorized-access-to-source-document-images-in-erp-system-0838d399d14c?source=rss------bug_bounty_writeup-5)
-- [Bypassing Cloudflare WAF to Trigger Reflected XSS on a Major Health Information Platform](https://medium.com/@appsec.techie/bypassing-cloudflare-waf-to-trigger-reflected-xss-on-a-major-health-information-platform-bc71cf9cd1be?source=rss------bug_bounty_writeup-5)
-- [Securing 10th Place in APISEC|CON CTF 2025: My Journey Through 17 API Security Challenges](https://pandyamayurrr.medium.com/securing-10th-place-in-apisec-con-ctf-2025-my-journey-through-17-api-security-challenges-2d6b41a2afd3?source=rss------bug_bounty_writeup-5)
-- [Bypass of Date and Value Restrictions in Expense Submission](https://medium.com/@hossam13/bypass-of-date-and-value-restrictions-in-expense-submission-f0cc6a5cb45a?source=rss------bug_bounty_writeup-5)
 - [A User to Admin: How I Went From Nobody to Owning the Admin Panel](https://infosecwriteups.com/a-user-to-admin-how-i-went-from-nobody-to-owning-the-admin-panel-7dcc22344720?source=rss----7b722bfd1b8d---4)
 - [DevSecOps Phase 4B: Manual Penetration Testing](https://infosecwriteups.com/devsecops-phase-4b-manual-penetration-testing-9c9e0493531d?source=rss----7b722bfd1b8d---4)
 - [Google Dorking: A Hacker’s Best Friend](https://infosecwriteups.com/google-dorking-a-hackers-best-friend-716dfb3e9739?source=rss----7b722bfd1b8d---4)
 - [The Hidden Admin Backdoor in Reddit Ads](https://infosecwriteups.com/the-hidden-admin-backdoor-in-reddit-ads-32eeb8e1e216?source=rss----7b722bfd1b8d---4)
 - [Bypassing Regex Validations to Achieve RCE: A Wild Bug Story](https://infosecwriteups.com/bypassing-regex-validations-to-achieve-rce-a-wild-bug-story-6476faccbc23?source=rss----7b722bfd1b8d---4)
 - [The Year We Lost Control: How the AI Race Could End Humanity — or Save It](https://infosecwriteups.com/the-year-we-lost-control-how-the-ai-race-could-end-humanity-or-save-it-3e00544e663c?source=rss----7b722bfd1b8d---4)
-- [Utilizing LOAD_FILE&lpar;&rpar; in SQL Injection](https://raflisetyawan.medium.com/utilizing-load-file-in-sql-injection-66c3e2a2a82a?source=rss------bug_bounty_writeup-5)
-- [When an Internal IP Slipped — and I Slid Right Into RCE](https://medium.com/@bmkmuthu003/when-an-internal-ip-slipped-and-i-slid-right-into-rce-afc93515bf76?source=rss------bug_bounty_writeup-5)
-- [How a Shared Host Search Template Led to Widespread Reflected XSS Vulnerabilities](https://medium.com/@mhmodgm54/how-a-shared-host-search-template-led-to-widespread-reflected-xss-vulnerabilities-d2e098e89c8d?source=rss------bug_bounty_writeup-5)
 - [Facebook App Secret Exposed in GlassWire Binary](https://infosecwriteups.com/facebook-app-secret-exposed-in-glasswire-binary-e8a4e99afb27?source=rss----7b722bfd1b8d---4)
 - [My Journey to NASA’s Hall of Fame](https://infosecwriteups.com/my-journey-to-nasas-hall-of-fame-6e680736f557?source=rss----7b722bfd1b8d---4)
 - [TryHackMe — Ninja Skills writeup :](https://infosecwriteups.com/tryhackme-ninja-skills-writeup-9c6aa090e9f6?source=rss----7b722bfd1b8d---4)
