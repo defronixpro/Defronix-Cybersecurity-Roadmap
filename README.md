@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [I  Found an XSS in a Chatbot &amp; Got Paid $250 — Here’s How](https://medium.com/@cybertechajju/i-found-an-xss-in-a-chatbot-got-paid-250-heres-how-d9dd8f500111?source=rss------bug_bounty_writeup-5)
 - [How to Start Bug Bounty with Zero Knowledge](https://infosecwriteups.com/how-to-start-bug-bounty-with-zero-knowledge-bfa8c98d897e?source=rss----7b722bfd1b8d---4)
 - [OSWE Web Hacking Tips &lpar;IPPSEC&rpar;: My Study Journey #1](https://infosecwriteups.com/oswe-web-hacking-tips-ippsec-my-study-journey-1-4455f8bc7428?source=rss----7b722bfd1b8d---4)
 - [Learning YARA: A Beginner SOC Analyst’s Notes](https://infosecwriteups.com/learning-yara-a-beginner-soc-analysts-notes-e0de4b3e2cd1?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Bypassing Cloudflare WAF to Trigger Reflected XSS on a Major Health Information Platform](https://medium.com/@appsec.techie/bypassing-cloudflare-waf-to-trigger-reflected-xss-on-a-major-health-information-platform-bc71cf9cd1be?source=rss------bug_bounty_writeup-5)
 - [Securing 10th Place in APISEC|CON CTF 2025: My Journey Through 17 API Security Challenges](https://pandyamayurrr.medium.com/securing-10th-place-in-apisec-con-ctf-2025-my-journey-through-17-api-security-challenges-2d6b41a2afd3?source=rss------bug_bounty_writeup-5)
 - [Bypass of Date and Value Restrictions in Expense Submission](https://medium.com/@hossam13/bypass-of-date-and-value-restrictions-in-expense-submission-f0cc6a5cb45a?source=rss------bug_bounty_writeup-5)
-- [Utilizing LOAD_FILE&lpar;&rpar; in SQL Injection](https://raflisetyawan.medium.com/utilizing-load-file-in-sql-injection-66c3e2a2a82a?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
