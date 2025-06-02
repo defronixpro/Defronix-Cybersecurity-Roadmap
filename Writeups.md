@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [I  Found an XSS in a Chatbot &amp; Got Paid $250 — Here’s How](https://medium.com/@cybertechajju/i-found-an-xss-in-a-chatbot-got-paid-250-heres-how-d9dd8f500111?source=rss------bug_bounty_writeup-5)
 - [How to Start Bug Bounty with Zero Knowledge](https://infosecwriteups.com/how-to-start-bug-bounty-with-zero-knowledge-bfa8c98d897e?source=rss----7b722bfd1b8d---4)
 - [OSWE Web Hacking Tips &lpar;IPPSEC&rpar;: My Study Journey #1](https://infosecwriteups.com/oswe-web-hacking-tips-ippsec-my-study-journey-1-4455f8bc7428?source=rss----7b722bfd1b8d---4)
 - [Learning YARA: A Beginner SOC Analyst’s Notes](https://infosecwriteups.com/learning-yara-a-beginner-soc-analysts-notes-e0de4b3e2cd1?source=rss----7b722bfd1b8d---4)
@@ -11,6 +12,15 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Bug Bounty from Scratch | Everything You Need to Know About Bug Bounty](https://infosecwriteups.com/bug-bounty-from-scratch-everything-you-need-to-know-about-bug-bounty-a2ece2070c4b?source=rss----7b722bfd1b8d---4)
 - [My First P1](https://infosecwriteups.com/my-first-p1-ae9d09c02927?source=rss----7b722bfd1b8d---4)
 - [Wazuh: The Free and Open Source SIEM/XDR Platform](https://infosecwriteups.com/wazuh-the-free-and-open-source-siem-xdr-platform-416f157f1c62?source=rss----7b722bfd1b8d---4)
+- [Easiest Bug: Improper Token invalidation.](https://infosecwriteups.com/easiest-bug-improper-token-invalidation-378e1bc60d94?source=rss------bug_bounty_writeup-5)
+- [DOM XSS via postMessage: JavaScript Injection Inside Iframes](https://osintteam.blog/dom-xss-via-postmessage-javascript-injection-inside-iframes-8a5f6912fba4?source=rss------bug_bounty_writeup-5)
+- [How I Brute-Forced My Way Through a Broken Login Gate](https://medium.com/@bmkmuthu003/how-i-brute-forced-my-way-through-a-broken-login-gate-4250b22153f9?source=rss------bug_bounty_writeup-5)
+- [How to find Jupyter Notebook RCE manually?](https://medium.com/@josekuttykunnelthazhebinu/how-to-find-jupyter-notebook-rce-manually-4fb337998dc1?source=rss------bug_bounty_writeup-5)
+- [A CSRF Story I Encountered on My Bug Bounty Journey](https://enes478.medium.com/a-csrf-story-i-encountered-on-my-bug-bounty-journey-6a037b4025ee?source=rss------bug_bounty_writeup-5)
+- [Unauthorized Access to Source Document Images in ERP System](https://medium.com/@hossam13/unauthorized-access-to-source-document-images-in-erp-system-0838d399d14c?source=rss------bug_bounty_writeup-5)
+- [Bypassing Cloudflare WAF to Trigger Reflected XSS on a Major Health Information Platform](https://medium.com/@appsec.techie/bypassing-cloudflare-waf-to-trigger-reflected-xss-on-a-major-health-information-platform-bc71cf9cd1be?source=rss------bug_bounty_writeup-5)
+- [Securing 10th Place in APISEC|CON CTF 2025: My Journey Through 17 API Security Challenges](https://pandyamayurrr.medium.com/securing-10th-place-in-apisec-con-ctf-2025-my-journey-through-17-api-security-challenges-2d6b41a2afd3?source=rss------bug_bounty_writeup-5)
+- [Bypass of Date and Value Restrictions in Expense Submission](https://medium.com/@hossam13/bypass-of-date-and-value-restrictions-in-expense-submission-f0cc6a5cb45a?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
