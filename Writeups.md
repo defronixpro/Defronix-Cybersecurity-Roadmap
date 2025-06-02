@@ -1,6 +1,16 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How to Start Bug Bounty with Zero Knowledge](https://infosecwriteups.com/how-to-start-bug-bounty-with-zero-knowledge-bfa8c98d897e?source=rss----7b722bfd1b8d---4)
+- [OSWE Web Hacking Tips &lpar;IPPSEC&rpar;: My Study Journey #1](https://infosecwriteups.com/oswe-web-hacking-tips-ippsec-my-study-journey-1-4455f8bc7428?source=rss----7b722bfd1b8d---4)
+- [Learning YARA: A Beginner SOC Analyst’s Notes](https://infosecwriteups.com/learning-yara-a-beginner-soc-analysts-notes-e0de4b3e2cd1?source=rss----7b722bfd1b8d---4)
+- [Tilde Games: Exploiting 8.3 Shortnames on IIS Servers](https://infosecwriteups.com/tilde-games-exploiting-8-3-shortnames-on-iis-servers-6f232071e01f?source=rss----7b722bfd1b8d---4)
+- [$540 Bounty: How a Misconfigured Warning Endpoint in Apache Airflow Exposed DAG Secrets](https://infosecwriteups.com/540-bounty-how-a-misconfigured-warning-endpoint-in-apache-airflow-exposed-dag-secrets-ceafdad57673?source=rss----7b722bfd1b8d---4)
+- [From Forgot Password to Forgot Validation: A Broken Flow That Let Me Take Over Accounts](https://infosecwriteups.com/from-forgot-password-to-forgot-validation-a-broken-flow-that-let-me-take-over-accounts-04fb7c5b7ecc?source=rss----7b722bfd1b8d---4)
+- [From alert&lpar;1&rpar; to Real-world Impact: Hunting XSS Where Others Don’t Look](https://infosecwriteups.com/from-alert-1-to-real-world-impact-hunting-xss-where-others-dont-look-27f70dbe9778?source=rss----7b722bfd1b8d---4)
+- [Bug Bounty from Scratch | Everything You Need to Know About Bug Bounty](https://infosecwriteups.com/bug-bounty-from-scratch-everything-you-need-to-know-about-bug-bounty-a2ece2070c4b?source=rss----7b722bfd1b8d---4)
+- [My First P1](https://infosecwriteups.com/my-first-p1-ae9d09c02927?source=rss----7b722bfd1b8d---4)
+- [Wazuh: The Free and Open Source SIEM/XDR Platform](https://infosecwriteups.com/wazuh-the-free-and-open-source-siem-xdr-platform-416f157f1c62?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
