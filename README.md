@@ -922,6 +922,16 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [404 to $4,000: Exposed .git, .env, and Hidden Dev Files via Predictable Paths”](https://infosecwriteups.com/404-to-4-000-exposed-git-env-and-hidden-dev-files-via-predictable-paths-f5723b3ad3f8?source=rss----7b722bfd1b8d---4)
+- [How One Path Traversal in Grafana Unleashed XSS, Open Redirect and SSRF &lpar;CVE-2025–4123&rpar;](https://infosecwriteups.com/how-one-path-traversal-in-grafana-unleashed-xss-open-redirect-and-ssrf-cve-2025-4123-b35245dccaab?source=rss----7b722bfd1b8d---4)
+- [2. Setting Up the Ultimate Hacker’s Lab &lpar;Free Tools Only&rpar;](https://infosecwriteups.com/2-setting-up-the-ultimate-hackers-lab-free-tools-only-35b6d7f7f6bc?source=rss----7b722bfd1b8d---4)
+- [19 Billion Stolen Passwords?! Here’s Why You Should Care — And How to Beat the Hackers](https://infosecwriteups.com/19-billion-stolen-passwords-heres-why-you-should-care-and-how-to-beat-the-hackers-d3bff46be82f?source=rss----7b722bfd1b8d---4)
+- [Cracking JWTs: A Bug Bounty Hunting Guide [Part 3]](https://infosecwriteups.com/cracking-jwts-a-bug-bounty-hunting-guide-part-3-4cee87018c39?source=rss----7b722bfd1b8d---4)
+- [Webhook Vulnerabilities: Hidden Vulnerabilities in Automation Pipelines](https://infosecwriteups.com/webhook-vulnerabilities-hidden-vulnerabilities-in-automation-pipelines-724d09ec6130?source=rss----7b722bfd1b8d---4)
+- [The Invisible Bottleneck: How IT Hierarchies Impact Growth](https://infosecwriteups.com/the-invisible-bottleneck-how-it-hierarchies-impact-growth-2e23b65c3874?source=rss----7b722bfd1b8d---4)
+- [CSRF: How I gained unauthorized access to Cart](https://infosecwriteups.com/csrf-how-i-gained-unauthorized-access-to-cart-45e671a180f9?source=rss----7b722bfd1b8d---4)
+- [{CyberDefenders Write-up}OskiCategory: Threat Intel](https://infosecwriteups.com/cyberdefenders-write-up-oskicategory-threat-intel-f45d1d7a674c?source=rss----7b722bfd1b8d---4)
+- [Exploiting the Gaps in Password Reset Verification](https://infosecwriteups.com/exploiting-the-gaps-in-password-reset-verification-9bb86ec95d29?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
