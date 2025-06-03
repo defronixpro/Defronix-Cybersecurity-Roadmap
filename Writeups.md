@@ -1,6 +1,9 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Bug Bounty Google Dorks 2025](https://medium.com/@logicTech/bug-bounty-google-dorks-2025-1b9a9ba00dd6?source=rss------bug_bounty_writeup-5)
+- [SSRF: When Your Server Becomes a Nosy Hacker — Part 1](https://hettt.medium.com/ssrf-when-your-server-becomes-a-nosy-hacker-part-1-f808b9513652?source=rss------bug_bounty_writeup-5)
+- [IDOR in Disguise: How a Phone Number Leaked PAN Details Instantly!!](https://medium.com/@amanba13.ab/idor-in-disguise-how-a-phone-number-leaked-pan-details-instantly-3c61113e04e7?source=rss------bug_bounty_writeup-5)
 - [404 to $4,000: Exposed .git, .env, and Hidden Dev Files via Predictable Paths”](https://infosecwriteups.com/404-to-4-000-exposed-git-env-and-hidden-dev-files-via-predictable-paths-f5723b3ad3f8?source=rss----7b722bfd1b8d---4)
 - [How One Path Traversal in Grafana Unleashed XSS, Open Redirect and SSRF &lpar;CVE-2025–4123&rpar;](https://infosecwriteups.com/how-one-path-traversal-in-grafana-unleashed-xss-open-redirect-and-ssrf-cve-2025-4123-b35245dccaab?source=rss----7b722bfd1b8d---4)
 - [2. Setting Up the Ultimate Hacker’s Lab &lpar;Free Tools Only&rpar;](https://infosecwriteups.com/2-setting-up-the-ultimate-hackers-lab-free-tools-only-35b6d7f7f6bc?source=rss----7b722bfd1b8d---4)
@@ -11,6 +14,14 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [CSRF: How I gained unauthorized access to Cart](https://infosecwriteups.com/csrf-how-i-gained-unauthorized-access-to-cart-45e671a180f9?source=rss----7b722bfd1b8d---4)
 - [{CyberDefenders Write-up}OskiCategory: Threat Intel](https://infosecwriteups.com/cyberdefenders-write-up-oskicategory-threat-intel-f45d1d7a674c?source=rss----7b722bfd1b8d---4)
 - [Exploiting the Gaps in Password Reset Verification](https://infosecwriteups.com/exploiting-the-gaps-in-password-reset-verification-9bb86ec95d29?source=rss----7b722bfd1b8d---4)
+- [The Glitch  in the System: Unmasking the Dark Side of Bug Bounties
+We’ve all seen those…](https://medium.com/@padhyepushkar/the-glitch-in-the-system-unmasking-the-dark-side-of-bug-bounties-weve-all-seen-those-6e878e2da70d?source=rss------bug_bounty_writeup-5)
+- [“From Doubt to Discovery: Reporting a CSRF Bug to NASA ”](https://medium.com/@virendraleelawat/from-doubt-to-discovery-reporting-a-csrf-bug-to-nasa-62f95ecbfb81?source=rss------bug_bounty_writeup-5)
+- [CSRF: How I gained unauthorized access to Cart](https://infosecwriteups.com/csrf-how-i-gained-unauthorized-access-to-cart-45e671a180f9?source=rss------bug_bounty_writeup-5)
+- [I  Found an XSS in a Chatbot &amp; Got Paid $250 — Here’s How](https://medium.com/@cybertechajju/i-found-an-xss-in-a-chatbot-got-paid-250-heres-how-d9dd8f500111?source=rss------bug_bounty_writeup-5)
+- [Easiest Bug: Improper Token invalidation.](https://infosecwriteups.com/easiest-bug-improper-token-invalidation-378e1bc60d94?source=rss------bug_bounty_writeup-5)
+- [DOM XSS via postMessage: JavaScript Injection Inside Iframes](https://osintteam.blog/dom-xss-via-postmessage-javascript-injection-inside-iframes-8a5f6912fba4?source=rss------bug_bounty_writeup-5)
+- [How I Brute-Forced My Way Through a Broken Login Gate](https://medium.com/@bmkmuthu003/how-i-brute-forced-my-way-through-a-broken-login-gate-4250b22153f9?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
