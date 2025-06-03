@@ -922,10 +922,12 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [The Glitch  in the System: Unmasking the Dark Side of Bug Bounties
+We’ve all seen those…](https://medium.com/@padhyepushkar/the-glitch-in-the-system-unmasking-the-dark-side-of-bug-bounties-weve-all-seen-those-6e878e2da70d?source=rss------bug_bounty_writeup-5)
 - [“From Doubt to Discovery: Reporting a CSRF Bug to NASA ”](https://medium.com/@virendraleelawat/from-doubt-to-discovery-reporting-a-csrf-bug-to-nasa-62f95ecbfb81?source=rss------bug_bounty_writeup-5)
 - [CSRF: How I gained unauthorized access to Cart](https://infosecwriteups.com/csrf-how-i-gained-unauthorized-access-to-cart-45e671a180f9?source=rss------bug_bounty_writeup-5)
 - [I  Found an XSS in a Chatbot &amp; Got Paid $250 — Here’s How](https://medium.com/@cybertechajju/i-found-an-xss-in-a-chatbot-got-paid-250-heres-how-d9dd8f500111?source=rss------bug_bounty_writeup-5)
-- [How to Start Bug Bounty with Zero Knowledge](https://infosecwriteups.com/how-to-start-bug-bounty-with-zero-knowledge-bfa8c98d897e?source=rss----7b722bfd1b8d---4)
+- [1. How to Start Bug Bounty with Zero Knowledge](https://infosecwriteups.com/how-to-start-bug-bounty-with-zero-knowledge-bfa8c98d897e?source=rss----7b722bfd1b8d---4)
 - [OSWE Web Hacking Tips &lpar;IPPSEC&rpar;: My Study Journey #1](https://infosecwriteups.com/oswe-web-hacking-tips-ippsec-my-study-journey-1-4455f8bc7428?source=rss----7b722bfd1b8d---4)
 - [Learning YARA: A Beginner SOC Analyst’s Notes](https://infosecwriteups.com/learning-yara-a-beginner-soc-analysts-notes-e0de4b3e2cd1?source=rss----7b722bfd1b8d---4)
 - [Tilde Games: Exploiting 8.3 Shortnames on IIS Servers](https://infosecwriteups.com/tilde-games-exploiting-8-3-shortnames-on-iis-servers-6f232071e01f?source=rss----7b722bfd1b8d---4)
@@ -941,7 +943,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How to find Jupyter Notebook RCE manually?](https://medium.com/@josekuttykunnelthazhebinu/how-to-find-jupyter-notebook-rce-manually-4fb337998dc1?source=rss------bug_bounty_writeup-5)
 - [A CSRF Story I Encountered on My Bug Bounty Journey](https://enes478.medium.com/a-csrf-story-i-encountered-on-my-bug-bounty-journey-6a037b4025ee?source=rss------bug_bounty_writeup-5)
 - [Unauthorized Access to Source Document Images in ERP System](https://medium.com/@hossam13/unauthorized-access-to-source-document-images-in-erp-system-0838d399d14c?source=rss------bug_bounty_writeup-5)
-- [Bypassing Cloudflare WAF to Trigger Reflected XSS on a Major Health Information Platform](https://medium.com/@appsec.techie/bypassing-cloudflare-waf-to-trigger-reflected-xss-on-a-major-health-information-platform-bc71cf9cd1be?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
