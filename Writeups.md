@@ -3,16 +3,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 <!-- WRITEUPS:START -->
 - [SSRF: When Your Server Becomes a Nosy Hacker — Part 1](https://hettt.medium.com/ssrf-when-your-server-becomes-a-nosy-hacker-part-1-f808b9513652?source=rss------bug_bounty_writeup-5)
 - [IDOR in Disguise: How a Phone Number Leaked PAN Details Instantly!!](https://medium.com/@amanba13.ab/idor-in-disguise-how-a-phone-number-leaked-pan-details-instantly-3c61113e04e7?source=rss------bug_bounty_writeup-5)
-- [404 to $4,000: Exposed .git, .env, and Hidden Dev Files via Predictable Paths”](https://infosecwriteups.com/404-to-4-000-exposed-git-env-and-hidden-dev-files-via-predictable-paths-f5723b3ad3f8?source=rss----7b722bfd1b8d---4)
-- [How One Path Traversal in Grafana Unleashed XSS, Open Redirect and SSRF &lpar;CVE-2025–4123&rpar;](https://infosecwriteups.com/how-one-path-traversal-in-grafana-unleashed-xss-open-redirect-and-ssrf-cve-2025-4123-b35245dccaab?source=rss----7b722bfd1b8d---4)
-- [2. Setting Up the Ultimate Hacker’s Lab &lpar;Free Tools Only&rpar;](https://infosecwriteups.com/2-setting-up-the-ultimate-hackers-lab-free-tools-only-35b6d7f7f6bc?source=rss----7b722bfd1b8d---4)
-- [19 Billion Stolen Passwords?! Here’s Why You Should Care — And How to Beat the Hackers](https://infosecwriteups.com/19-billion-stolen-passwords-heres-why-you-should-care-and-how-to-beat-the-hackers-d3bff46be82f?source=rss----7b722bfd1b8d---4)
-- [Cracking JWTs: A Bug Bounty Hunting Guide [Part 3]](https://infosecwriteups.com/cracking-jwts-a-bug-bounty-hunting-guide-part-3-4cee87018c39?source=rss----7b722bfd1b8d---4)
-- [Webhook Vulnerabilities: Hidden Vulnerabilities in Automation Pipelines](https://infosecwriteups.com/webhook-vulnerabilities-hidden-vulnerabilities-in-automation-pipelines-724d09ec6130?source=rss----7b722bfd1b8d---4)
-- [The Invisible Bottleneck: How IT Hierarchies Impact Growth](https://infosecwriteups.com/the-invisible-bottleneck-how-it-hierarchies-impact-growth-2e23b65c3874?source=rss----7b722bfd1b8d---4)
-- [CSRF: How I gained unauthorized access to Cart](https://infosecwriteups.com/csrf-how-i-gained-unauthorized-access-to-cart-45e671a180f9?source=rss----7b722bfd1b8d---4)
-- [{CyberDefenders Write-up}OskiCategory: Threat Intel](https://infosecwriteups.com/cyberdefenders-write-up-oskicategory-threat-intel-f45d1d7a674c?source=rss----7b722bfd1b8d---4)
-- [Exploiting the Gaps in Password Reset Verification](https://infosecwriteups.com/exploiting-the-gaps-in-password-reset-verification-9bb86ec95d29?source=rss----7b722bfd1b8d---4)
 - [The Glitch  in the System: Unmasking the Dark Side of Bug Bounties
 We’ve all seen those…](https://medium.com/@padhyepushkar/the-glitch-in-the-system-unmasking-the-dark-side-of-bug-bounties-weve-all-seen-those-6e878e2da70d?source=rss------bug_bounty_writeup-5)
 - [“From Doubt to Discovery: Reporting a CSRF Bug to NASA ”](https://medium.com/@virendraleelawat/from-doubt-to-discovery-reporting-a-csrf-bug-to-nasa-62f95ecbfb81?source=rss------bug_bounty_writeup-5)
