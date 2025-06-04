@@ -922,7 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [DOM XSS Exploit: Using postMessage and JSON.parse in iframe Attacks](https://bashoverflow.medium.com/dom-xss-exploit-using-postmessage-and-json-parse-in-iframe-attacks-fc312eaa48c2?source=rss------bug_bounty_writeup-5)
+- [DOM XSS Exploit: Using postMessage and JSON.parse in iframe Attacks](https://infosecwriteups.com/dom-xss-exploit-using-postmessage-and-json-parse-in-iframe-attacks-fc312eaa48c2?source=rss------bug_bounty_writeup-5)
 - [SC-200 - MS Security Operations Analyst illustrative notes](https://infosecwriteups.com/sc-200-ms-security-operations-analyst-illustrative-notes-4473d5750e99?source=rss----7b722bfd1b8d---4)
 - [Purple Teaming: When Hackers and Defenders Join Forces](https://infosecwriteups.com/purple-teaming-when-hackers-and-defenders-join-forces-fee825f60de6?source=rss----7b722bfd1b8d---4)
 - [IDOR allows unauthorized payment hijacking](https://infosecwriteups.com/idor-allows-unauthorized-payment-hijacking-3abf642c0cca?source=rss----7b722bfd1b8d---4)
