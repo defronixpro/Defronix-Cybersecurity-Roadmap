@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Again I Found more than 10+ : Target Info, Vulnerability Description, Steps to Reproduce &amp; POC.](https://medium.com/@ravindrajatav0709/again-i-found-more-than-10-target-info-vulnerability-description-steps-to-reproduce-poc-0ee92851b4e7?source=rss------bug_bounty_writeup-5)
 - [5 Minutes, 3 Sites, 1 WordPress Vulnerability: My Bug Bounty Win](https://markazgasimov.medium.com/5-minutes-3-sites-1-wordpress-vulnerability-my-bug-bounty-win-9d4d90042833?source=rss------bug_bounty_writeup-5)
 - [Your 30-Day Bug Bounty Kickstart for 2025 &lpar;Using Only Free Tools&rpar;](https://medium.com/@vivekps143/your-30-day-bug-bounty-kickstart-for-2025-using-only-free-tools-5a323ff82bbc?source=rss------bug_bounty_writeup-5)
 - [How I made 600$ in 60 secs ?](https://medium.com/@arjanchaudharyy/how-i-made-600-in-60-secs-f2b085731b59?source=rss------bug_bounty_writeup-5)
@@ -21,7 +22,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 We’ve all seen those…](https://medium.com/@padhyepushkar/the-glitch-in-the-system-unmasking-the-dark-side-of-bug-bounties-weve-all-seen-those-6e878e2da70d?source=rss------bug_bounty_writeup-5)
 - [“From Doubt to Discovery: Reporting a CSRF Bug to NASA ”](https://medium.com/@virendraleelawat/from-doubt-to-discovery-reporting-a-csrf-bug-to-nasa-62f95ecbfb81?source=rss------bug_bounty_writeup-5)
 - [CSRF: How I gained unauthorized access to Cart](https://infosecwriteups.com/csrf-how-i-gained-unauthorized-access-to-cart-45e671a180f9?source=rss------bug_bounty_writeup-5)
-- [I  Found an XSS in a Chatbot &amp; Got Paid $250 — Here’s How](https://medium.com/@cybertechajju/i-found-an-xss-in-a-chatbot-got-paid-250-heres-how-d9dd8f500111?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
