@@ -922,6 +922,16 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [{CyberDefenders Write-up} Yellow RAT](https://infosecwriteups.com/cyberdefenders-write-up-yellow-rat-8f727fde2e47?source=rss----7b722bfd1b8d---4)
+- [How Hackers Help NASA Stay Secure: Inside the NASA VDP](https://infosecwriteups.com/how-hackers-help-nasa-stay-secure-inside-the-nasa-vdp-07ec255c46f3?source=rss----7b722bfd1b8d---4)
+- [☠️ CORS of Destruction: How Misconfigured Origins Let Me Read Everything](https://infosecwriteups.com/%EF%B8%8F-cors-of-destruction-how-misconfigured-origins-let-me-read-everything-15a49261a32a?source=rss----7b722bfd1b8d---4)
+- [OSCP Fail? Use TJ Null List &amp; HTB Labs to Pass Your Retake](https://infosecwriteups.com/oscp-fail-use-tj-null-list-htb-labs-to-pass-your-retake-ff08164ea23b?source=rss----7b722bfd1b8d---4)
+- [Cracking JWTs: A Bug Bounty Hunting Guide [Part 4]](https://infosecwriteups.com/cracking-jwts-a-bug-bounty-hunting-guide-part-4-ad98636c5238?source=rss----7b722bfd1b8d---4)
+- [Cookie Attributes — More Than Just Name &amp; Value](https://infosecwriteups.com/cookie-attributes-more-than-just-name-value-a95591be6fba?source=rss----7b722bfd1b8d---4)
+- [Atomic Red Team Setup on Windows for ATT&amp;CK-Based Adversary Simulation](https://infosecwriteups.com/atomic-red-team-setup-on-windows-for-att-ck-based-adversary-simulation-ef37e1b0acec?source=rss----7b722bfd1b8d---4)
+- [Shodan Dorks to Find PII Data &amp; Leaks](https://infosecwriteups.com/shodan-dorks-to-find-pii-data-leaks-50ab8b101f61?source=rss----7b722bfd1b8d---4)
+- [DOM XSS Exploit: Using postMessage and JSON.parse in iframe Attacks](https://infosecwriteups.com/dom-xss-exploit-using-postmessage-and-json-parse-in-iframe-attacks-fc312eaa48c2?source=rss----7b722bfd1b8d---4)
+- [Bypassing HackerOne Report Ban Using API Key](https://infosecwriteups.com/bypassing-hackerone-report-ban-using-api-key-061711e873c6?source=rss----7b722bfd1b8d---4)
 - [Global CMS Chaos: How I Scored a $15,000 Bounty Across Two Programs](https://stevenfloresca.medium.com/global-cms-chaos-how-i-scored-a-15-000-bounty-across-two-programs-b535d1f0b888?source=rss------bug_bounty_writeup-5)
 - [DOM XSS Exploit: Using postMessage and JSON.parse in iframe Attacks](https://infosecwriteups.com/dom-xss-exploit-using-postmessage-and-json-parse-in-iframe-attacks-fc312eaa48c2?source=rss------bug_bounty_writeup-5)
 - [Again I Found more than 10+ : Target Info, Vulnerability Description, Steps to Reproduce &amp; POC.](https://medium.com/@ravindrajatav0709/again-i-found-more-than-10-target-info-vulnerability-description-steps-to-reproduce-poc-0ee92851b4e7?source=rss------bug_bounty_writeup-5)
