@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How I found a bug in the US Department of Defense &lpar;DoD&rpar;](https://osintteam.blog/how-i-found-a-bug-in-the-us-department-of-defense-dod-39e2be157d70?source=rss------bug_bounty_writeup-5)
 - [️ Inside the 160-Comment Fight to Fix SnakeYAML’s RCE Default](https://infosecwriteups.com/%EF%B8%8F-inside-the-160-comment-fight-to-fix-snakeyamls-rce-default-1a20c5ca4d4c?source=rss----7b722bfd1b8d---4)
 - [When Open Source Isn’t: How OpenRewrite Lost Its Way](https://infosecwriteups.com/when-open-source-isnt-how-openrewrite-lost-its-way-642053be287d?source=rss----7b722bfd1b8d---4)
 - [{CyberDefenders Write-up} Yellow RAT](https://infosecwriteups.com/cyberdefenders-write-up-yellow-rat-8f727fde2e47?source=rss----7b722bfd1b8d---4)
@@ -21,7 +22,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [IDOR in Disguise: How a Phone Number Leaked PAN Details Instantly!!](https://medium.com/@amanba13.ab/idor-in-disguise-how-a-phone-number-leaked-pan-details-instantly-3c61113e04e7?source=rss------bug_bounty_writeup-5)
 - [The Glitch  in the System: Unmasking the Dark Side of Bug Bounties
 We’ve all seen those…](https://medium.com/@padhyepushkar/the-glitch-in-the-system-unmasking-the-dark-side-of-bug-bounties-weve-all-seen-those-6e878e2da70d?source=rss------bug_bounty_writeup-5)
-- [“From Doubt to Discovery: Reporting a CSRF Bug to NASA ”](https://medium.com/@virendraleelawat/from-doubt-to-discovery-reporting-a-csrf-bug-to-nasa-62f95ecbfb81?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
