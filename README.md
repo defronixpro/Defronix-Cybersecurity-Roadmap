@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Global CMS Chaos: How I Scored a $15,000 Bounty Across Two Programs](https://stevenfloresca.medium.com/global-cms-chaos-how-i-scored-a-15-000-bounty-across-two-programs-b535d1f0b888?source=rss------bug_bounty_writeup-5)
 - [DOM XSS Exploit: Using postMessage and JSON.parse in iframe Attacks](https://infosecwriteups.com/dom-xss-exploit-using-postmessage-and-json-parse-in-iframe-attacks-fc312eaa48c2?source=rss------bug_bounty_writeup-5)
 - [SC-200 - MS Security Operations Analyst illustrative notes](https://infosecwriteups.com/sc-200-ms-security-operations-analyst-illustrative-notes-4473d5750e99?source=rss----7b722bfd1b8d---4)
 - [Purple Teaming: When Hackers and Defenders Join Forces](https://infosecwriteups.com/purple-teaming-when-hackers-and-defenders-join-forces-fee825f60de6?source=rss----7b722bfd1b8d---4)
@@ -942,7 +943,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [The Glitch  in the System: Unmasking the Dark Side of Bug Bounties
 We’ve all seen those…](https://medium.com/@padhyepushkar/the-glitch-in-the-system-unmasking-the-dark-side-of-bug-bounties-weve-all-seen-those-6e878e2da70d?source=rss------bug_bounty_writeup-5)
 - [“From Doubt to Discovery: Reporting a CSRF Bug to NASA ”](https://medium.com/@virendraleelawat/from-doubt-to-discovery-reporting-a-csrf-bug-to-nasa-62f95ecbfb81?source=rss------bug_bounty_writeup-5)
-- [CSRF: How I gained unauthorized access to Cart](https://infosecwriteups.com/csrf-how-i-gained-unauthorized-access-to-cart-45e671a180f9?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
