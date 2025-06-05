@@ -1,6 +1,27 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Global CMS Chaos: How I Scored a $15,000 Bounty Across Two Programs](https://stevenfloresca.medium.com/global-cms-chaos-how-i-scored-a-15-000-bounty-across-two-programs-b535d1f0b888?source=rss------bug_bounty_writeup-5)
+- [DOM XSS Exploit: Using postMessage and JSON.parse in iframe Attacks](https://infosecwriteups.com/dom-xss-exploit-using-postmessage-and-json-parse-in-iframe-attacks-fc312eaa48c2?source=rss------bug_bounty_writeup-5)
+- [SC-200 - MS Security Operations Analyst illustrative notes](https://infosecwriteups.com/sc-200-ms-security-operations-analyst-illustrative-notes-4473d5750e99?source=rss----7b722bfd1b8d---4)
+- [Purple Teaming: When Hackers and Defenders Join Forces](https://infosecwriteups.com/purple-teaming-when-hackers-and-defenders-join-forces-fee825f60de6?source=rss----7b722bfd1b8d---4)
+- [IDOR allows unauthorized payment hijacking](https://infosecwriteups.com/idor-allows-unauthorized-payment-hijacking-3abf642c0cca?source=rss----7b722bfd1b8d---4)
+- [How Did I Hack a Website Just by Reading JS Files](https://infosecwriteups.com/how-did-i-hack-a-website-just-by-reading-js-files-80f73cbfd4c1?source=rss----7b722bfd1b8d---4)
+- [Top File Read Bug POCs that made $20000](https://infosecwriteups.com/top-file-read-bug-pocs-that-made-20000-3043e676d8d5?source=rss----7b722bfd1b8d---4)
+- [SOC L1 Alert Triage: TryHackMe](https://infosecwriteups.com/soc-l1-alert-triage-tryhackme-44b0648f4afc?source=rss----7b722bfd1b8d---4)
+- [JWT the Hell?! How Weak Tokens Let Me Become Admin with Just a Text Editor ️](https://infosecwriteups.com/jwt-the-hell-how-weak-tokens-let-me-become-admin-with-just-a-text-editor-%EF%B8%8F-e73bcd66af0d?source=rss----7b722bfd1b8d---4)
+- [Cybersecurity Interview Questions For Freshers](https://infosecwriteups.com/cyber-security-interview-questions-for-freshers-a6307092b1a5?source=rss----7b722bfd1b8d---4)
+- [Again I Found more than 10+ : Target Info, Vulnerability Description, Steps to Reproduce &amp; POC.](https://medium.com/@ravindrajatav0709/again-i-found-more-than-10-target-info-vulnerability-description-steps-to-reproduce-poc-0ee92851b4e7?source=rss------bug_bounty_writeup-5)
+- [5 Minutes, 3 Sites, 1 WordPress Vulnerability: My Bug Bounty Win](https://markazgasimov.medium.com/5-minutes-3-sites-1-wordpress-vulnerability-my-bug-bounty-win-9d4d90042833?source=rss------bug_bounty_writeup-5)
+- [How I made 600$ in 60 secs ?](https://medium.com/@arjanchaudharyy/how-i-made-600-in-60-secs-f2b085731b59?source=rss------bug_bounty_writeup-5)
+- [Bug Bounty Google Dorks 2025](https://medium.com/@logicTech/bug-bounty-google-dorks-2025-1b9a9ba00dd6?source=rss------bug_bounty_writeup-5)
+- [SSRF: When Your Server Becomes a Nosy Hacker — Part 1](https://hettt.medium.com/ssrf-when-your-server-becomes-a-nosy-hacker-part-1-f808b9513652?source=rss------bug_bounty_writeup-5)
+- [IDOR in Disguise: How a Phone Number Leaked PAN Details Instantly!!](https://medium.com/@amanba13.ab/idor-in-disguise-how-a-phone-number-leaked-pan-details-instantly-3c61113e04e7?source=rss------bug_bounty_writeup-5)
+- [404 to $4,000: Exposed .git, .env, and Hidden Dev Files via Predictable Paths”](https://infosecwriteups.com/404-to-4-000-exposed-git-env-and-hidden-dev-files-via-predictable-paths-f5723b3ad3f8?source=rss----7b722bfd1b8d---4)
+- [How One Path Traversal in Grafana Unleashed XSS, Open Redirect and SSRF &lpar;CVE-2025–4123&rpar;](https://infosecwriteups.com/how-one-path-traversal-in-grafana-unleashed-xss-open-redirect-and-ssrf-cve-2025-4123-b35245dccaab?source=rss----7b722bfd1b8d---4)
+- [The Glitch  in the System: Unmasking the Dark Side of Bug Bounties
+We’ve all seen those…](https://medium.com/@padhyepushkar/the-glitch-in-the-system-unmasking-the-dark-side-of-bug-bounties-weve-all-seen-those-6e878e2da70d?source=rss------bug_bounty_writeup-5)
+- [“From Doubt to Discovery: Reporting a CSRF Bug to NASA ”](https://medium.com/@virendraleelawat/from-doubt-to-discovery-reporting-a-csrf-bug-to-nasa-62f95ecbfb81?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
