@@ -1,27 +1,6 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
-- [️ Inside the 160-Comment Fight to Fix SnakeYAML’s RCE Default](https://infosecwriteups.com/%EF%B8%8F-inside-the-160-comment-fight-to-fix-snakeyamls-rce-default-1a20c5ca4d4c?source=rss----7b722bfd1b8d---4)
-- [When Open Source Isn’t: How OpenRewrite Lost Its Way](https://infosecwriteups.com/when-open-source-isnt-how-openrewrite-lost-its-way-642053be287d?source=rss----7b722bfd1b8d---4)
-- [{CyberDefenders Write-up} Yellow RAT](https://infosecwriteups.com/cyberdefenders-write-up-yellow-rat-8f727fde2e47?source=rss----7b722bfd1b8d---4)
-- [How Hackers Help NASA Stay Secure: Inside the NASA VDP](https://infosecwriteups.com/how-hackers-help-nasa-stay-secure-inside-the-nasa-vdp-07ec255c46f3?source=rss----7b722bfd1b8d---4)
-- [☠️ CORS of Destruction: How Misconfigured Origins Let Me Read Everything](https://infosecwriteups.com/%EF%B8%8F-cors-of-destruction-how-misconfigured-origins-let-me-read-everything-15a49261a32a?source=rss----7b722bfd1b8d---4)
-- [OSCP Fail? Use TJ Null List &amp; HTB Labs to Pass Your Retake](https://infosecwriteups.com/oscp-fail-use-tj-null-list-htb-labs-to-pass-your-retake-ff08164ea23b?source=rss----7b722bfd1b8d---4)
-- [Cracking JWTs: A Bug Bounty Hunting Guide [Part 4]](https://infosecwriteups.com/cracking-jwts-a-bug-bounty-hunting-guide-part-4-ad98636c5238?source=rss----7b722bfd1b8d---4)
-- [Cookie Attributes — More Than Just Name &amp; Value](https://infosecwriteups.com/cookie-attributes-more-than-just-name-value-a95591be6fba?source=rss----7b722bfd1b8d---4)
-- [Atomic Red Team Setup on Windows for ATT&amp;CK-Based Adversary Simulation](https://infosecwriteups.com/atomic-red-team-setup-on-windows-for-att-ck-based-adversary-simulation-ef37e1b0acec?source=rss----7b722bfd1b8d---4)
-- [Shodan Dorks to Find PII Data &amp; Leaks](https://infosecwriteups.com/shodan-dorks-to-find-pii-data-leaks-50ab8b101f61?source=rss----7b722bfd1b8d---4)
-- [Global CMS Chaos: How I Scored a $15,000 Bounty Across Two Programs](https://stevenfloresca.medium.com/global-cms-chaos-how-i-scored-a-15-000-bounty-across-two-programs-b535d1f0b888?source=rss------bug_bounty_writeup-5)
-- [DOM XSS Exploit: Using postMessage and JSON.parse in iframe Attacks](https://infosecwriteups.com/dom-xss-exploit-using-postmessage-and-json-parse-in-iframe-attacks-fc312eaa48c2?source=rss------bug_bounty_writeup-5)
-- [Again I Found more than 10+ : Target Info, Vulnerability Description, Steps to Reproduce &amp; POC.](https://medium.com/@ravindrajatav0709/again-i-found-more-than-10-target-info-vulnerability-description-steps-to-reproduce-poc-0ee92851b4e7?source=rss------bug_bounty_writeup-5)
-- [5 Minutes, 3 Sites, 1 WordPress Vulnerability: My Bug Bounty Win](https://markazgasimov.medium.com/5-minutes-3-sites-1-wordpress-vulnerability-my-bug-bounty-win-9d4d90042833?source=rss------bug_bounty_writeup-5)
-- [How I made 600$ in 60 secs ?](https://medium.com/@arjanchaudharyy/how-i-made-600-in-60-secs-f2b085731b59?source=rss------bug_bounty_writeup-5)
-- [Bug Bounty Google Dorks 2025](https://medium.com/@logicTech/bug-bounty-google-dorks-2025-1b9a9ba00dd6?source=rss------bug_bounty_writeup-5)
-- [SSRF: When Your Server Becomes a Nosy Hacker — Part 1](https://hettt.medium.com/ssrf-when-your-server-becomes-a-nosy-hacker-part-1-f808b9513652?source=rss------bug_bounty_writeup-5)
-- [IDOR in Disguise: How a Phone Number Leaked PAN Details Instantly!!](https://medium.com/@amanba13.ab/idor-in-disguise-how-a-phone-number-leaked-pan-details-instantly-3c61113e04e7?source=rss------bug_bounty_writeup-5)
-- [The Glitch  in the System: Unmasking the Dark Side of Bug Bounties
-We’ve all seen those…](https://medium.com/@padhyepushkar/the-glitch-in-the-system-unmasking-the-dark-side-of-bug-bounties-weve-all-seen-those-6e878e2da70d?source=rss------bug_bounty_writeup-5)
-- [“From Doubt to Discovery: Reporting a CSRF Bug to NASA ”](https://medium.com/@virendraleelawat/from-doubt-to-discovery-reporting-a-csrf-bug-to-nasa-62f95ecbfb81?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
