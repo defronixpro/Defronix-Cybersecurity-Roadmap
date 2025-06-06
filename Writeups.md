@@ -1,7 +1,6 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
-- [From RXSS to ATO: Bypassing WAF with a Simple POST Trick](https://devsecopsai.today/from-rxss-to-ato-bypassing-waf-with-a-simple-post-trick-1abbe945c952?source=rss------bug_bounty_writeup-5)
 - [Earned $100 in 2 Minutes — Finding an Open Redirect Vulnerability](https://medium.com/@iambuvanesh/earned-100-in-2-minutes-finding-an-open-redirect-vulnerability-1d8a67da4eac?source=rss------bug_bounty_writeup-5)
 - [Critical Bug Chaining: Upload Form ➜ CSRF ➜ Extension Bypass ➜ RCE](https://medium.com/@wanqais007/critical-bug-chaining-upload-form-csrf-extension-bypass-rce-0b772a37cc64?source=rss------bug_bounty_writeup-5)
 - [IDOR Flaw Leads to Unauthorized Project Deletions and UI Confusion](https://medium.com/@Sle3pyHead/idor-flaw-leads-to-unauthorized-project-deletions-and-ui-confusion-b41b87415d73?source=rss------bug_bounty_writeup-5)
