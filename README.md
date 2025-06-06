@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Solution Of Lab: Unprotected admin functionality](https://medium.com/@cyberawareness/solution-of-lab-unprotected-admin-functionality-0807ffba7c4a?source=rss------bug_bounty_writeup-5)
 - [Create own Hacking SERVER Instead of Portswigger exploit server](https://infosecwriteups.com/create-own-hacking-server-instead-of-portswigger-exploit-server-78b46172e2f6?source=rss----7b722bfd1b8d---4)
 - [OIDC: The Fellowship of the Token &lpar;Part III&rpar;](https://infosecwriteups.com/oidc-the-fellowship-of-the-token-part-iii-5132e4326783?source=rss----7b722bfd1b8d---4)
 - [How I Hacked 100+ Accounts Using Just XSS](https://infosecwriteups.com/how-i-hacked-100-accounts-using-just-xss-7cd61aa785c9?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How I made 600$ in 60 secs ?](https://medium.com/@arjanchaudharyy/how-i-made-600-in-60-secs-f2b085731b59?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Google Dorks 2025](https://medium.com/@logicTech/bug-bounty-google-dorks-2025-1b9a9ba00dd6?source=rss------bug_bounty_writeup-5)
 - [SSRF: When Your Server Becomes a Nosy Hacker — Part 1](https://hettt.medium.com/ssrf-when-your-server-becomes-a-nosy-hacker-part-1-f808b9513652?source=rss------bug_bounty_writeup-5)
-- [IDOR in Disguise: How a Phone Number Leaked PAN Details Instantly!!](https://medium.com/@amanba13.ab/idor-in-disguise-how-a-phone-number-leaked-pan-details-instantly-3c61113e04e7?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
