@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Critical Bug Chaining: Upload Form ➜ CSRF ➜ Extension Bypass ➜ RCE](https://medium.com/@wanqais007/critical-bug-chaining-upload-form-csrf-extension-bypass-rce-0b772a37cc64?source=rss------bug_bounty_writeup-5)
 - [IDOR Flaw Leads to Unauthorized Project Deletions and UI Confusion](https://medium.com/@Sle3pyHead/idor-flaw-leads-to-unauthorized-project-deletions-and-ui-confusion-b41b87415d73?source=rss------bug_bounty_writeup-5)
 - [Solution Of Lab: Unprotected admin functionality](https://medium.com/@cyberawareness/solution-of-lab-unprotected-admin-functionality-0807ffba7c4a?source=rss------bug_bounty_writeup-5)
 - [Create own Hacking SERVER Instead of Portswigger exploit server](https://infosecwriteups.com/create-own-hacking-server-instead-of-portswigger-exploit-server-78b46172e2f6?source=rss----7b722bfd1b8d---4)
@@ -940,7 +941,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Again I Found more than 10+ : Target Info, Vulnerability Description, Steps to Reproduce &amp; POC.](https://medium.com/@ravindrajatav0709/again-i-found-more-than-10-target-info-vulnerability-description-steps-to-reproduce-poc-0ee92851b4e7?source=rss------bug_bounty_writeup-5)
 - [5 Minutes, 3 Sites, 1 WordPress Vulnerability: My Bug Bounty Win](https://markazgasimov.medium.com/5-minutes-3-sites-1-wordpress-vulnerability-my-bug-bounty-win-9d4d90042833?source=rss------bug_bounty_writeup-5)
 - [How I made 600$ in 60 secs ?](https://medium.com/@arjanchaudharyy/how-i-made-600-in-60-secs-f2b085731b59?source=rss------bug_bounty_writeup-5)
-- [Bug Bounty Google Dorks 2025](https://medium.com/@logicTech/bug-bounty-google-dorks-2025-1b9a9ba00dd6?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
