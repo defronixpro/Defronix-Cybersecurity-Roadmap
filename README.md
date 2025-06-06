@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [From RXSS to ATO: Bypassing WAF with a Simple POST Trick](https://devsecopsai.today/from-rxss-to-ato-bypassing-waf-with-a-simple-post-trick-1abbe945c952?source=rss------bug_bounty_writeup-5)
 - [Earned $100 in 2 Minutes — Finding an Open Redirect Vulnerability](https://medium.com/@iambuvanesh/earned-100-in-2-minutes-finding-an-open-redirect-vulnerability-1d8a67da4eac?source=rss------bug_bounty_writeup-5)
 - [Critical Bug Chaining: Upload Form ➜ CSRF ➜ Extension Bypass ➜ RCE](https://medium.com/@wanqais007/critical-bug-chaining-upload-form-csrf-extension-bypass-rce-0b772a37cc64?source=rss------bug_bounty_writeup-5)
 - [IDOR Flaw Leads to Unauthorized Project Deletions and UI Confusion](https://medium.com/@Sle3pyHead/idor-flaw-leads-to-unauthorized-project-deletions-and-ui-confusion-b41b87415d73?source=rss------bug_bounty_writeup-5)
@@ -940,7 +941,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Global CMS Chaos: How I Scored a $15,000 Bounty Across Two Programs](https://stevenfloresca.medium.com/global-cms-chaos-how-i-scored-a-15-000-bounty-across-two-programs-b535d1f0b888?source=rss------bug_bounty_writeup-5)
 - [DOM XSS Exploit: Using postMessage and JSON.parse in iframe Attacks](https://infosecwriteups.com/dom-xss-exploit-using-postmessage-and-json-parse-in-iframe-attacks-fc312eaa48c2?source=rss------bug_bounty_writeup-5)
 - [Again I Found more than 10+ : Target Info, Vulnerability Description, Steps to Reproduce &amp; POC.](https://medium.com/@ravindrajatav0709/again-i-found-more-than-10-target-info-vulnerability-description-steps-to-reproduce-poc-0ee92851b4e7?source=rss------bug_bounty_writeup-5)
-- [5 Minutes, 3 Sites, 1 WordPress Vulnerability: My Bug Bounty Win](https://markazgasimov.medium.com/5-minutes-3-sites-1-wordpress-vulnerability-my-bug-bounty-win-9d4d90042833?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
