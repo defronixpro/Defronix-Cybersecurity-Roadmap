@@ -923,7 +923,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
 - [Business logic allows any user to be blocked from creating an account](https://infosecwriteups.com/business-logic-allows-any-user-to-be-blocked-from-creating-an-account-6a7ab7013ccc?source=rss------bug_bounty_writeup-5)
-- [Business Logic Flaws: A Bug Hunter’s Handbook](https://gr3yg05t.medium.com/business-logic-flaws-a-bug-hunters-handbook-293f6a89a7f4?source=rss------bug_bounty_writeup-5)
+- [Business Logic Flaws: A Bug Hunter’s Handbook](https://infosecwriteups.com/business-logic-flaws-a-bug-hunters-handbook-293f6a89a7f4?source=rss------bug_bounty_writeup-5)
 - [Living Off The Land: The Stealth Art of Red Team Operations](https://infosecwriteups.com/living-off-the-land-the-stealth-art-of-red-team-operations-1d65cf390792?source=rss----7b722bfd1b8d---4)
 - [21 Secret Linux Commands Hackers and Sysadmins Don’t Want You to Know About](https://infosecwriteups.com/21-secret-linux-commands-hackers-and-sysadmins-dont-want-you-to-know-about-b02fa72cc057?source=rss----7b722bfd1b8d---4)
 - [From Classic SOC to Autonomous SOC: The Future of Cyber Defense](https://infosecwriteups.com/from-classic-soc-to-autonomous-soc-the-future-of-cyber-defense-1ada150e86ca?source=rss----7b722bfd1b8d---4)
