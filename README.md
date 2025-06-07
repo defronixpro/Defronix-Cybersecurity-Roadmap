@@ -922,16 +922,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [Living Off The Land: The Stealth Art of Red Team Operations](https://infosecwriteups.com/living-off-the-land-the-stealth-art-of-red-team-operations-1d65cf390792?source=rss----7b722bfd1b8d---4)
-- [21 Secret Linux Commands Hackers and Sysadmins Don’t Want You to Know About](https://infosecwriteups.com/21-secret-linux-commands-hackers-and-sysadmins-dont-want-you-to-know-about-b02fa72cc057?source=rss----7b722bfd1b8d---4)
-- [From Classic SOC to Autonomous SOC: The Future of Cyber Defense](https://infosecwriteups.com/from-classic-soc-to-autonomous-soc-the-future-of-cyber-defense-1ada150e86ca?source=rss----7b722bfd1b8d---4)
-- [Race Condition Rumble: How I Bought 100 Products for the Price of One ️️](https://infosecwriteups.com/race-condition-rumble-how-i-bought-100-products-for-the-price-of-one-%EF%B8%8F-%EF%B8%8F-fb73f8477249?source=rss----7b722bfd1b8d---4)
-- [How I Captured a Password with One Command](https://infosecwriteups.com/why-https-matters-capturing-login-information-with-tshark-12d7818a667d?source=rss----7b722bfd1b8d---4)
-- [$7,500 Bug: Exposing Any HackerOne User’s Email via Private Program Invite](https://infosecwriteups.com/7-500-bug-exposing-any-hackerone-users-email-via-private-program-invite-de6fd6b3b6c8?source=rss----7b722bfd1b8d---4)
-- [How to Set Up a VPN with Tailscale: Overcoming CGNAT Challenges](https://infosecwriteups.com/how-to-set-up-a-vpn-with-tailscale-overcoming-cgnat-challenges-0e9c0088ef79?source=rss----7b722bfd1b8d---4)
-- [OIDC: Integrate Kubernetes authentication with Azure AD via OIDC &lpar;Part IV&rpar;](https://infosecwriteups.com/oidc-integrate-kubernetes-authentication-with-azure-ad-via-oidc-part-iv-69815768cf62?source=rss----7b722bfd1b8d---4)
-- [Create own Hacking SERVER Instead of Portswigger exploit server](https://infosecwriteups.com/create-own-hacking-server-instead-of-portswigger-exploit-server-78b46172e2f6?source=rss----7b722bfd1b8d---4)
-- [OIDC: The Fellowship of the Token &lpar;Part III&rpar;](https://infosecwriteups.com/oidc-the-fellowship-of-the-token-part-iii-5132e4326783?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
