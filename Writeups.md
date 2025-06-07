@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Business logic allows any user to be blocked from creating an account](https://medium.com/@jeetpal2007/business-logic-allows-any-user-to-be-blocked-from-creating-an-account-6a7ab7013ccc?source=rss------bug_bounty_writeup-5)
 - [Business Logic Flaws: A Bug Hunter’s Handbook](https://gr3yg05t.medium.com/business-logic-flaws-a-bug-hunters-handbook-293f6a89a7f4?source=rss------bug_bounty_writeup-5)
 - [Living Off The Land: The Stealth Art of Red Team Operations](https://infosecwriteups.com/living-off-the-land-the-stealth-art-of-red-team-operations-1d65cf390792?source=rss----7b722bfd1b8d---4)
 - [21 Secret Linux Commands Hackers and Sysadmins Don’t Want You to Know About](https://infosecwriteups.com/21-secret-linux-commands-hackers-and-sysadmins-dont-want-you-to-know-about-b02fa72cc057?source=rss----7b722bfd1b8d---4)
@@ -18,7 +19,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [OIDC: The Fellowship of the Token &lpar;Part III&rpar;](https://infosecwriteups.com/oidc-the-fellowship-of-the-token-part-iii-5132e4326783?source=rss----7b722bfd1b8d---4)
 - [How I found a bug in the US Department of Defense &lpar;DoD&rpar;](https://osintteam.blog/how-i-found-a-bug-in-the-us-department-of-defense-dod-39e2be157d70?source=rss------bug_bounty_writeup-5)
 - [Global CMS Chaos: How I Scored a $15,000 Bounty Across Two Programs](https://stevenfloresca.medium.com/global-cms-chaos-how-i-scored-a-15-000-bounty-across-two-programs-b535d1f0b888?source=rss------bug_bounty_writeup-5)
-- [DOM XSS Exploit: Using postMessage and JSON.parse in iframe Attacks](https://infosecwriteups.com/dom-xss-exploit-using-postmessage-and-json-parse-in-iframe-attacks-fc312eaa48c2?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
