@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How to manually hunt for F5 Big-IP RCE &lpar;CVE 2020–5902, CVE2022–1388&rpar;](https://medium.com/@josekuttykunnelthazhebinu/how-to-manually-hunt-for-f5-big-ip-rce-cve-2020-5902-cve2022-1388-da78fb0a562e?source=rss------bug_bounty_writeup-5)
 - [The Future is Simple: Why AI &amp; Tools Still Miss the Dumbest Bugs](https://myselfakash20.medium.com/the-future-is-simple-why-ai-tools-still-miss-the-dumbest-bugs-8e2072eff5a6?source=rss------bug_bounty_writeup-5)
 - [My First Reflected XSS: A Beginner’s Journey in Bug Bounty Hunting](https://medium.com/@Karansrma/my-first-reflected-xss-a-beginners-journey-in-bug-bounty-hunting-5515224c30bc?source=rss------bug_bounty_writeup-5)
 - [I reproduced a $10,000 bug](https://infosecwriteups.com/i-reproduced-a-10-000-bug-28466603e45e?source=rss----7b722bfd1b8d---4)
