@@ -1,16 +1,6 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
-- [I reproduced a $10,000 bug](https://infosecwriteups.com/i-reproduced-a-10-000-bug-28466603e45e?source=rss----7b722bfd1b8d---4)
-- [Rethinking the guest network to improve my home network security](https://infosecwriteups.com/rethinking-the-guest-network-to-improve-my-home-network-security-8042c7665c2b?source=rss----7b722bfd1b8d---4)
-- [Business logic allows any user to be blocked from creating an account](https://infosecwriteups.com/business-logic-allows-any-user-to-be-blocked-from-creating-an-account-6a7ab7013ccc?source=rss----7b722bfd1b8d---4)
-- [Understanding Misconfiguration Exploits: A Beginner’s Guide to Offensive Security Thinking.](https://infosecwriteups.com/understanding-misconfiguration-exploits-a-beginners-guide-to-offensive-security-thinking-ec86f812e6fb?source=rss----7b722bfd1b8d---4)
-- [Cracking JWTs: A Bug Bounty Hunting Guide [Part 5]](https://infosecwriteups.com/cracking-jwts-a-bug-bounty-hunting-guide-part-5-2791be30bd17?source=rss----7b722bfd1b8d---4)
-- [Abuse-ception: How I Turned the Abuse Report Feature Into a Mass Email Spammer](https://infosecwriteups.com/abuse-ception-how-i-turned-the-abuse-report-feature-into-a-mass-email-spammer-38b38a4c3c36?source=rss----7b722bfd1b8d---4)
-- [$1,000 Bug: Firefox Account Deletion Without 2FA or Authorization](https://infosecwriteups.com/1-000-bug-firefox-account-deletion-without-2fa-or-authorization-e7a6c5bfd028?source=rss----7b722bfd1b8d---4)
-- [The 5 Cybersecurity Roles That Will Disappear First](https://infosecwriteups.com/the-5-cybersecurity-roles-that-will-disappear-first-821b2de9be6a?source=rss----7b722bfd1b8d---4)
-- [Living Off The Land: The Stealth Art of Red Team Operations](https://infosecwriteups.com/living-off-the-land-the-stealth-art-of-red-team-operations-1d65cf390792?source=rss----7b722bfd1b8d---4)
-- [21 Secret Linux Commands Hackers and Sysadmins Don’t Want You to Know About](https://infosecwriteups.com/21-secret-linux-commands-hackers-and-sysadmins-dont-want-you-to-know-about-b02fa72cc057?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
