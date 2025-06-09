@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Better Than Nmap? Meet FingerprintX — The Go-Powered Port Fingerprinter](https://medium.com/@hacker_might/better-than-nmap-meet-fingerprintx-the-go-powered-port-fingerprinter-b309956402f8?source=rss------bug_bounty_writeup-5)
+- [From Hunger to Hacker: How a Zomato Order Earned Me ₹25K”](https://medium.com/@leavemessagetopraveen/from-hunger-to-hacker-how-a-zomato-order-earned-me-25k-706b879c2bce?source=rss------bug_bounty_writeup-5)
 - [50 Command Line Tools You Wish You Knew Sooner](https://infosecwriteups.com/50-command-line-tools-you-wish-you-knew-sooner-833908ca951e?source=rss----7b722bfd1b8d---4)
 - [My Laptop Died, So I Hacked with My Phone. No Excuse](https://infosecwriteups.com/my-laptop-died-so-i-hacked-with-my-phone-no-excuse-8dc8d030e43e?source=rss----7b722bfd1b8d---4)
 - [ToolHive Tutorial: Securely Deploy and Manage MCP Servers](https://infosecwriteups.com/toolhive-tutorial-securely-deploy-and-manage-mcp-servers-9d44ed541e6e?source=rss----7b722bfd1b8d---4)
@@ -940,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [I reproduced a $10,000 bug](https://infosecwriteups.com/i-reproduced-a-10-000-bug-28466603e45e?source=rss----7b722bfd1b8d---4)
 - [Rethinking the guest network to improve my home network security](https://infosecwriteups.com/rethinking-the-guest-network-to-improve-my-home-network-security-8042c7665c2b?source=rss----7b722bfd1b8d---4)
 - [Business logic allows any user to be blocked from creating an account](https://infosecwriteups.com/business-logic-allows-any-user-to-be-blocked-from-creating-an-account-6a7ab7013ccc?source=rss------bug_bounty_writeup-5)
-- [Business Logic Flaws: A Bug Hunter’s Handbook](https://infosecwriteups.com/business-logic-flaws-a-bug-hunters-handbook-293f6a89a7f4?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
