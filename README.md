@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [$500 OTP Bypass: Found It, Proved It, Then…](https://medium.com/@kailasv678/500-otp-bypass-found-it-proved-it-then-3930c9e45d4f?source=rss------bug_bounty_writeup-5)
+- [A simple Bug Bounty Recon &amp; Exploitation Workflow — A Field Guide](https://medium.com/@d1lv3rdn4/a-simple-bug-bounty-recon-exploitation-workflow-a-field-guide-3061fd0acfc9?source=rss------bug_bounty_writeup-5)
 - [How to manually hunt for F5 Big-IP RCE &lpar;CVE 2020–5902, CVE2022–1388&rpar;](https://medium.com/@josekuttykunnelthazhebinu/how-to-manually-hunt-for-f5-big-ip-rce-cve-2020-5902-cve2022-1388-da78fb0a562e?source=rss------bug_bounty_writeup-5)
 - [The Future is Simple: Why AI &amp; Tools Still Miss the Dumbest Bugs](https://myselfakash20.medium.com/the-future-is-simple-why-ai-tools-still-miss-the-dumbest-bugs-8e2072eff5a6?source=rss------bug_bounty_writeup-5)
 - [My First Reflected XSS: A Beginner’s Journey in Bug Bounty Hunting](https://medium.com/@Karansrma/my-first-reflected-xss-a-beginners-journey-in-bug-bounty-hunting-5515224c30bc?source=rss------bug_bounty_writeup-5)
@@ -939,8 +941,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [21 Secret Linux Commands Hackers and Sysadmins Don’t Want You to Know About](https://infosecwriteups.com/21-secret-linux-commands-hackers-and-sysadmins-dont-want-you-to-know-about-b02fa72cc057?source=rss----7b722bfd1b8d---4)
 - [Earned $100 in 2 Minutes — Finding an Open Redirect Vulnerability](https://medium.com/@iambuvanesh/earned-100-in-2-minutes-finding-an-open-redirect-vulnerability-1d8a67da4eac?source=rss------bug_bounty_writeup-5)
 - [Critical Bug Chaining: Upload Form ➜ CSRF ➜ Extension Bypass ➜ RCE](https://medium.com/@wanqais007/critical-bug-chaining-upload-form-csrf-extension-bypass-rce-0b772a37cc64?source=rss------bug_bounty_writeup-5)
-- [IDOR Flaw Leads to Unauthorized Project Deletions and UI Confusion](https://medium.com/@Sle3pyHead/idor-flaw-leads-to-unauthorized-project-deletions-and-ui-confusion-b41b87415d73?source=rss------bug_bounty_writeup-5)
-- [Solution Of Lab: Unprotected admin functionality](https://medium.com/@cyberawareness/solution-of-lab-unprotected-admin-functionality-0807ffba7c4a?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
