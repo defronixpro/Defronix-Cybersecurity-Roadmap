@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Cracking JWTs: A Bug Bounty Hunting Guide [Part 6]](https://infosecwriteups.com/cracking-jwts-a-bug-bounty-hunting-guide-part-6-1d48459744f6?source=rss------bug_bounty_writeup-5)
 - [Better Than Nmap? Meet FingerprintX — The Go-Powered Port Fingerprinter](https://medium.com/@hacker_might/better-than-nmap-meet-fingerprintx-the-go-powered-port-fingerprinter-b309956402f8?source=rss------bug_bounty_writeup-5)
 - [From Hunger to Hacker: How a Zomato Order Earned Me ₹25K”](https://medium.com/@leavemessagetopraveen/from-hunger-to-hacker-how-a-zomato-order-earned-me-25k-706b879c2bce?source=rss------bug_bounty_writeup-5)
 - [50 Command Line Tools You Wish You Knew Sooner](https://infosecwriteups.com/50-command-line-tools-you-wish-you-knew-sooner-833908ca951e?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [My First Reflected XSS: A Beginner’s Journey in Bug Bounty Hunting](https://medium.com/@Karansrma/my-first-reflected-xss-a-beginners-journey-in-bug-bounty-hunting-5515224c30bc?source=rss------bug_bounty_writeup-5)
 - [I reproduced a $10,000 bug](https://infosecwriteups.com/i-reproduced-a-10-000-bug-28466603e45e?source=rss----7b722bfd1b8d---4)
 - [Rethinking the guest network to improve my home network security](https://infosecwriteups.com/rethinking-the-guest-network-to-improve-my-home-network-security-8042c7665c2b?source=rss----7b722bfd1b8d---4)
-- [Business logic allows any user to be blocked from creating an account](https://infosecwriteups.com/business-logic-allows-any-user-to-be-blocked-from-creating-an-account-6a7ab7013ccc?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
