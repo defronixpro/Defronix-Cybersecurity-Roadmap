@@ -1,12 +1,6 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
-- [Earned My First 3-Digit Bounty with a Reflected XSS: Here’s How I Did It](https://medium.com/@MrLoser/earned-my-first-3-digit-bounty-with-a-reflected-xss-heres-how-i-did-it-372a35573d55?source=rss------bug_bounty_writeup-5)
-- [$500 OTP Bypass: Found It, Proved It, Then…](https://medium.com/@kailasv678/500-otp-bypass-found-it-proved-it-then-3930c9e45d4f?source=rss------bug_bounty_writeup-5)
-- [A simple Bug Bounty Recon &amp; Exploitation Workflow — A Field Guide](https://medium.com/@d1lv3rdn4/a-simple-bug-bounty-recon-exploitation-workflow-a-field-guide-3061fd0acfc9?source=rss------bug_bounty_writeup-5)
-- [How to manually hunt for F5 Big-IP RCE &lpar;CVE 2020–5902, CVE2022–1388&rpar;](https://medium.com/@josekuttykunnelthazhebinu/how-to-manually-hunt-for-f5-big-ip-rce-cve-2020-5902-cve2022-1388-da78fb0a562e?source=rss------bug_bounty_writeup-5)
-- [The Future is Simple: Why AI &amp; Tools Still Miss the Dumbest Bugs](https://myselfakash20.medium.com/the-future-is-simple-why-ai-tools-still-miss-the-dumbest-bugs-8e2072eff5a6?source=rss------bug_bounty_writeup-5)
-- [My First Reflected XSS: A Beginner’s Journey in Bug Bounty Hunting](https://medium.com/@Karansrma/my-first-reflected-xss-a-beginners-journey-in-bug-bounty-hunting-5515224c30bc?source=rss------bug_bounty_writeup-5)
 - [I reproduced a $10,000 bug](https://infosecwriteups.com/i-reproduced-a-10-000-bug-28466603e45e?source=rss----7b722bfd1b8d---4)
 - [Rethinking the guest network to improve my home network security](https://infosecwriteups.com/rethinking-the-guest-network-to-improve-my-home-network-security-8042c7665c2b?source=rss----7b722bfd1b8d---4)
 - [Business logic allows any user to be blocked from creating an account](https://infosecwriteups.com/business-logic-allows-any-user-to-be-blocked-from-creating-an-account-6a7ab7013ccc?source=rss----7b722bfd1b8d---4)
@@ -15,11 +9,8 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Abuse-ception: How I Turned the Abuse Report Feature Into a Mass Email Spammer](https://infosecwriteups.com/abuse-ception-how-i-turned-the-abuse-report-feature-into-a-mass-email-spammer-38b38a4c3c36?source=rss----7b722bfd1b8d---4)
 - [$1,000 Bug: Firefox Account Deletion Without 2FA or Authorization](https://infosecwriteups.com/1-000-bug-firefox-account-deletion-without-2fa-or-authorization-e7a6c5bfd028?source=rss----7b722bfd1b8d---4)
 - [The 5 Cybersecurity Roles That Will Disappear First](https://infosecwriteups.com/the-5-cybersecurity-roles-that-will-disappear-first-821b2de9be6a?source=rss----7b722bfd1b8d---4)
-- [Business logic allows any user to be blocked from creating an account](https://infosecwriteups.com/business-logic-allows-any-user-to-be-blocked-from-creating-an-account-6a7ab7013ccc?source=rss------bug_bounty_writeup-5)
-- [Business Logic Flaws: A Bug Hunter’s Handbook](https://infosecwriteups.com/business-logic-flaws-a-bug-hunters-handbook-293f6a89a7f4?source=rss------bug_bounty_writeup-5)
 - [Living Off The Land: The Stealth Art of Red Team Operations](https://infosecwriteups.com/living-off-the-land-the-stealth-art-of-red-team-operations-1d65cf390792?source=rss----7b722bfd1b8d---4)
 - [21 Secret Linux Commands Hackers and Sysadmins Don’t Want You to Know About](https://infosecwriteups.com/21-secret-linux-commands-hackers-and-sysadmins-dont-want-you-to-know-about-b02fa72cc057?source=rss----7b722bfd1b8d---4)
-- [Earned $100 in 2 Minutes — Finding an Open Redirect Vulnerability](https://medium.com/@iambuvanesh/earned-100-in-2-minutes-finding-an-open-redirect-vulnerability-1d8a67da4eac?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
