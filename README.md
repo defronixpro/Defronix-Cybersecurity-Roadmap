@@ -922,9 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [Upload2Own: How SQL Injection and File Upload Flaws Lead to Remote Code Execution](https://adarshkrduaby.medium.com/upload2own-how-sql-injection-and-file-upload-flaws-lead-to-remote-code-execution-4e243e8312ea?source=rss------bug_bounty_writeup-5)
 - [Ghost in the Network](https://infosecwriteups.com/ghost-in-the-network-51b73b17fe50?source=rss----7b722bfd1b8d---4)
-- [Found Critical Vulnerability: Unauthorized Access to Customer Support Emails and Data via…](https://medium.com/@ravindrajatav0709/found-critical-vulnerability-unauthorized-access-to-customer-support-emails-and-data-via-a3a1c0a42e23?source=rss------bug_bounty_writeup-5)
 - [Cracking JWTs: A Bug Bounty Hunting Guide [Part 6]](https://infosecwriteups.com/cracking-jwts-a-bug-bounty-hunting-guide-part-6-1d48459744f6?source=rss----7b722bfd1b8d---4)
 - [GraphQL Gatecrash: When an Introspection Query Opened the Whole Backend ️](https://infosecwriteups.com/graphql-gatecrash-when-an-introspection-query-opened-the-whole-backend-%EF%B8%8F-5ec2a74ac20a?source=rss----7b722bfd1b8d---4)
 - [Practical study material OSWP Part 3: WEP Walkthrough](https://infosecwriteups.com/practical-study-material-oswp-part-3-wep-walkthrough-5dd2fe8ae176?source=rss----7b722bfd1b8d---4)
@@ -934,14 +932,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [OSWE Web Hacking Tips &lpar;IPPSEC&rpar;: Java Reversing #2](https://infosecwriteups.com/oswe-web-hacking-tips-ippsec-java-reversing-2-7b17f7aeccc7?source=rss----7b722bfd1b8d---4)
 - [Crafting Standalone Python Proof of Concept Exploits](https://infosecwriteups.com/crafting-standalone-python-proof-of-concept-exploits-5e02317134db?source=rss----7b722bfd1b8d---4)
 - [HTML Injection in Traveler Profiles](https://infosecwriteups.com/html-injection-in-traveler-profiles-e251be22dc7d?source=rss----7b722bfd1b8d---4)
-- [Grafana CVE-2025–4123 | Open Redirect - XSS - SSRF](https://osintteam.blog/grafana-cve-2025-4123-open-redirect-xss-ssrf-8fa24bb26d5d?source=rss------bug_bounty_writeup-5)
-- [Cracking JWTs: A Bug Bounty Hunting Guide [Part 6]](https://infosecwriteups.com/cracking-jwts-a-bug-bounty-hunting-guide-part-6-1d48459744f6?source=rss------bug_bounty_writeup-5)
-- [Better Than Nmap? Meet FingerprintX — The Go-Powered Port Fingerprinter](https://osintteam.blog/better-than-nmap-meet-fingerprintx-the-go-powered-port-fingerprinter-b309956402f8?source=rss------bug_bounty_writeup-5)
-- [From Hunger to Hacker: How a Zomato Order Earned Me ₹25K”](https://medium.com/@leavemessagetopraveen/from-hunger-to-hacker-how-a-zomato-order-earned-me-25k-706b879c2bce?source=rss------bug_bounty_writeup-5)
-- [How I bypassed the same open redirect endpoint not once, not twice… but FOUR times](https://ektuhacker.medium.com/how-i-bypassed-the-same-open-redirect-endpoint-not-once-not-twice-but-four-times-1299a56c75f4?source=rss------bug_bounty_writeup-5)
-- [Earned My First 3-Digit Bounty with a Reflected XSS: Here’s How I Did It](https://medium.com/@MrLoser/earned-my-first-3-digit-bounty-with-a-reflected-xss-heres-how-i-did-it-372a35573d55?source=rss------bug_bounty_writeup-5)
-- [$500 OTP Bypass: Found It, Proved It, Then…](https://medium.com/@kailasv678/500-otp-bypass-found-it-proved-it-then-3930c9e45d4f?source=rss------bug_bounty_writeup-5)
-- [A simple Bug Bounty Recon &amp; Exploitation Workflow — A Field Guide](https://medium.com/@d1lv3rdn4/a-simple-bug-bounty-recon-exploitation-workflow-a-field-guide-3061fd0acfc9?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
