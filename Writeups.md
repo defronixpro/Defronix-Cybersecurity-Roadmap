@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Upload2Own: How SQL Injection and File Upload Flaws Lead to Remote Code Execution](https://adarshkrduaby.medium.com/upload2own-how-sql-injection-and-file-upload-flaws-lead-to-remote-code-execution-4e243e8312ea?source=rss------bug_bounty_writeup-5)
 - [Ghost in the Network](https://infosecwriteups.com/ghost-in-the-network-51b73b17fe50?source=rss----7b722bfd1b8d---4)
 - [Found Critical Vulnerability: Unauthorized Access to Customer Support Emails and Data via…](https://medium.com/@ravindrajatav0709/found-critical-vulnerability-unauthorized-access-to-customer-support-emails-and-data-via-a3a1c0a42e23?source=rss------bug_bounty_writeup-5)
 - [Cracking JWTs: A Bug Bounty Hunting Guide [Part 6]](https://infosecwriteups.com/cracking-jwts-a-bug-bounty-hunting-guide-part-6-1d48459744f6?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Earned My First 3-Digit Bounty with a Reflected XSS: Here’s How I Did It](https://medium.com/@MrLoser/earned-my-first-3-digit-bounty-with-a-reflected-xss-heres-how-i-did-it-372a35573d55?source=rss------bug_bounty_writeup-5)
 - [$500 OTP Bypass: Found It, Proved It, Then…](https://medium.com/@kailasv678/500-otp-bypass-found-it-proved-it-then-3930c9e45d4f?source=rss------bug_bounty_writeup-5)
 - [A simple Bug Bounty Recon &amp; Exploitation Workflow — A Field Guide](https://medium.com/@d1lv3rdn4/a-simple-bug-bounty-recon-exploitation-workflow-a-field-guide-3061fd0acfc9?source=rss------bug_bounty_writeup-5)
-- [How to manually hunt for F5 Big-IP RCE &lpar;CVE 2020–5902, CVE2022–1388&rpar;](https://medium.com/@josekuttykunnelthazhebinu/how-to-manually-hunt-for-f5-big-ip-rce-cve-2020-5902-cve2022-1388-da78fb0a562e?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
