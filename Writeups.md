@@ -15,7 +15,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [HTML Injection in Traveler Profiles](https://infosecwriteups.com/html-injection-in-traveler-profiles-e251be22dc7d?source=rss----7b722bfd1b8d---4)
 - [Grafana CVE-2025–4123 | Open Redirect - XSS - SSRF](https://osintteam.blog/grafana-cve-2025-4123-open-redirect-xss-ssrf-8fa24bb26d5d?source=rss------bug_bounty_writeup-5)
 - [Cracking JWTs: A Bug Bounty Hunting Guide [Part 6]](https://infosecwriteups.com/cracking-jwts-a-bug-bounty-hunting-guide-part-6-1d48459744f6?source=rss------bug_bounty_writeup-5)
-- [Better Than Nmap? Meet FingerprintX — The Go-Powered Port Fingerprinter](https://medium.com/@hacker_might/better-than-nmap-meet-fingerprintx-the-go-powered-port-fingerprinter-b309956402f8?source=rss------bug_bounty_writeup-5)
+- [Better Than Nmap? Meet FingerprintX — The Go-Powered Port Fingerprinter](https://osintteam.blog/better-than-nmap-meet-fingerprintx-the-go-powered-port-fingerprinter-b309956402f8?source=rss------bug_bounty_writeup-5)
 - [From Hunger to Hacker: How a Zomato Order Earned Me ₹25K”](https://medium.com/@leavemessagetopraveen/from-hunger-to-hacker-how-a-zomato-order-earned-me-25k-706b879c2bce?source=rss------bug_bounty_writeup-5)
 - [How I bypassed the same open redirect endpoint not once, not twice… but FOUR times](https://ektuhacker.medium.com/how-i-bypassed-the-same-open-redirect-endpoint-not-once-not-twice-but-four-times-1299a56c75f4?source=rss------bug_bounty_writeup-5)
 - [Earned My First 3-Digit Bounty with a Reflected XSS: Here’s How I Did It](https://medium.com/@MrLoser/earned-my-first-3-digit-bounty-with-a-reflected-xss-heres-how-i-did-it-372a35573d55?source=rss------bug_bounty_writeup-5)
