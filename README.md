@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Bypassing Open Redirect Filters Using Creative URL Manipulation](https://medium.com/@abdelrahman8545/bypassing-open-redirect-filters-using-creative-url-manipulation-b43aa3a61cc8?source=rss------bug_bounty_writeup-5)
 - [How Gen AI is Revolutionizing Cyber Attack Strategies](https://infosecwriteups.com/how-gen-ai-is-revolutionizing-cyber-attack-strategies-6ea6adbbf116?source=rss----7b722bfd1b8d---4)
 - [Wazuh Server Deployment: A Comprehensive Report](https://infosecwriteups.com/wazuh-server-deployment-a-comprehensive-report-f98f7964492f?source=rss----7b722bfd1b8d---4)
 - [How Hackers Achieve Invisible Persistence in Active Directory: Shadow Credentials &amp;…](https://infosecwriteups.com/how-hackers-achieve-invisible-persistence-in-active-directory-shadow-credentials-6b53a6c85e74?source=rss----7b722bfd1b8d---4)
@@ -940,8 +941,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Better Than Nmap? Meet FingerprintX — The Go-Powered Port Fingerprinter](https://osintteam.blog/better-than-nmap-meet-fingerprintx-the-go-powered-port-fingerprinter-b309956402f8?source=rss------bug_bounty_writeup-5)
 - [From Hunger to Hacker: How a Zomato Order Earned Me ₹25K”](https://medium.com/@leavemessagetopraveen/from-hunger-to-hacker-how-a-zomato-order-earned-me-25k-706b879c2bce?source=rss------bug_bounty_writeup-5)
 - [How I bypassed the same open redirect endpoint not once, not twice… but FOUR times](https://ektuhacker.medium.com/how-i-bypassed-the-same-open-redirect-endpoint-not-once-not-twice-but-four-times-1299a56c75f4?source=rss------bug_bounty_writeup-5)
-- [Earned My First 3-Digit Bounty with a Reflected XSS: Here’s How I Did It](https://medium.com/@MrLoser/earned-my-first-3-digit-bounty-with-a-reflected-xss-heres-how-i-did-it-372a35573d55?source=rss------bug_bounty_writeup-5)
-- [$500 OTP Bypass: Found It, Proved It, Then…](https://medium.com/@kailasv678/500-otp-bypass-found-it-proved-it-then-3930c9e45d4f?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
