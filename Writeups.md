@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How a Simple RECON Earned Me ₹XX,000](https://infosecwriteups.com/how-a-simple-recon-earned-me-xx-000-4282805d2eac?source=rss------bug_bounty_writeup-5)
 - [Bypassing Open Redirect Filters Using Creative URL Manipulation](https://medium.com/@abdelrahman8545/bypassing-open-redirect-filters-using-creative-url-manipulation-b43aa3a61cc8?source=rss------bug_bounty_writeup-5)
 - [How Gen AI is Revolutionizing Cyber Attack Strategies](https://infosecwriteups.com/how-gen-ai-is-revolutionizing-cyber-attack-strategies-6ea6adbbf116?source=rss----7b722bfd1b8d---4)
 - [Wazuh Server Deployment: A Comprehensive Report](https://infosecwriteups.com/wazuh-server-deployment-a-comprehensive-report-f98f7964492f?source=rss----7b722bfd1b8d---4)
@@ -19,7 +20,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Cracking JWTs: A Bug Bounty Hunting Guide [Part 6]](https://infosecwriteups.com/cracking-jwts-a-bug-bounty-hunting-guide-part-6-1d48459744f6?source=rss------bug_bounty_writeup-5)
 - [Better Than Nmap? Meet FingerprintX — The Go-Powered Port Fingerprinter](https://osintteam.blog/better-than-nmap-meet-fingerprintx-the-go-powered-port-fingerprinter-b309956402f8?source=rss------bug_bounty_writeup-5)
 - [From Hunger to Hacker: How a Zomato Order Earned Me ₹25K”](https://medium.com/@leavemessagetopraveen/from-hunger-to-hacker-how-a-zomato-order-earned-me-25k-706b879c2bce?source=rss------bug_bounty_writeup-5)
-- [How I bypassed the same open redirect endpoint not once, not twice… but FOUR times](https://ektuhacker.medium.com/how-i-bypassed-the-same-open-redirect-endpoint-not-once-not-twice-but-four-times-1299a56c75f4?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
