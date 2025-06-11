@@ -1,11 +1,6 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
-- [Cracking JWTs: A Bug Bounty Hunting Guide [Part 7] — The Final P1 Boss](https://infosecwriteups.com/cracking-jwts-a-bug-bounty-hunting-guide-part-7-the-final-p1-boss-7a8baf3cf085?source=rss------bug_bounty_writeup-5)
-- [From Zero to Free Credits: Abusing a Referral System Like a Lazy Genius](https://medium.com/legionhunters/from-zero-to-free-credits-abusing-a-referral-system-like-a-lazy-genius-fc2d6b674754?source=rss------bug_bounty_writeup-5)
-- [Cracking the Clock: How I Took Over Any Account Using a Timestamp Leak](https://ritikver22000.medium.com/cracking-the-clock-how-i-took-over-any-account-using-a-timestamp-leak-516fc88c0113?source=rss------bug_bounty_writeup-5)
-- [How a Simple RECON Earned Me ₹XX,000](https://infosecwriteups.com/how-a-simple-recon-earned-me-xx-000-4282805d2eac?source=rss------bug_bounty_writeup-5)
-- [Bypassing Open Redirect Filters Using Creative URL Manipulation](https://medium.com/@abdelrahman8545/bypassing-open-redirect-filters-using-creative-url-manipulation-b43aa3a61cc8?source=rss------bug_bounty_writeup-5)
 - [How Gen AI is Revolutionizing Cyber Attack Strategies](https://infosecwriteups.com/how-gen-ai-is-revolutionizing-cyber-attack-strategies-6ea6adbbf116?source=rss----7b722bfd1b8d---4)
 - [Wazuh Server Deployment: A Comprehensive Report](https://infosecwriteups.com/wazuh-server-deployment-a-comprehensive-report-f98f7964492f?source=rss----7b722bfd1b8d---4)
 - [How Hackers Achieve Invisible Persistence in Active Directory: Shadow Credentials &amp;…](https://infosecwriteups.com/how-hackers-achieve-invisible-persistence-in-active-directory-shadow-credentials-6b53a6c85e74?source=rss----7b722bfd1b8d---4)
@@ -16,10 +11,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Business Logic Flaws: A Bug Hunter’s Handbook](https://infosecwriteups.com/business-logic-flaws-a-bug-hunters-handbook-293f6a89a7f4?source=rss----7b722bfd1b8d---4)
 - [The Personalized Internet: How AI Is Creating Unique Digital Experiences for Everyone](https://infosecwriteups.com/the-personalized-internet-how-ai-is-creating-unique-digital-experiences-for-everyone-f30a3badaeb1?source=rss----7b722bfd1b8d---4)
 - [Zero Trust vs. Trust But Verify: A Cybersecurity Superhero Analogy](https://infosecwriteups.com/zero-trust-vs-trust-but-verify-a-cybersecurity-superhero-analogy-df89835c9d3b?source=rss----7b722bfd1b8d---4)
-- [Bug Bounty for Beginners: The Real Talk Guide &lpar;No BS Edition&rpar;](https://medium.com/@telynor_51425/bug-bounty-for-beginners-the-real-talk-guide-no-bs-edition-b47f8e92efb5?source=rss------bug_bounty_writeup-5)
-- [Upload2Own: How SQL Injection and File Upload Flaws Lead to Remote Code Execution](https://adarshkrduaby.medium.com/upload2own-how-sql-injection-and-file-upload-flaws-lead-to-remote-code-execution-4e243e8312ea?source=rss------bug_bounty_writeup-5)
-- [Found Critical Vulnerability: Unauthorized Access to Customer Support Emails and Data via…](https://medium.com/@ravindrajatav0709/found-critical-vulnerability-unauthorized-access-to-customer-support-emails-and-data-via-a3a1c0a42e23?source=rss------bug_bounty_writeup-5)
-- [Grafana CVE-2025–4123 | Open Redirect - XSS - SSRF](https://osintteam.blog/grafana-cve-2025-4123-open-redirect-xss-ssrf-8fa24bb26d5d?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
