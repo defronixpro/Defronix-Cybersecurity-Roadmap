@@ -1,6 +1,16 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [GraphQL in the Wild: Recon to RCE via Introspection, Nested Queries &amp; Batching Attacks](https://infosecwriteups.com/graphql-in-the-wild-recon-to-rce-via-introspection-nested-queries-batching-attacks-dbd2d704fbdf?source=rss----7b722bfd1b8d---4)
+- [Urgent: CVE-2025–47273 Exposes Python SetupTools — Here’s How to Stay Secure](https://infosecwriteups.com/urgent-cve-2025-47273-exposes-python-setuptools-heres-how-to-stay-secure-843a183a02dc?source=rss----7b722bfd1b8d---4)
+- [Cracking JWTs: A Bug Bounty Hunting Guide [Part 7] — The Final P1 Boss](https://infosecwriteups.com/cracking-jwts-a-bug-bounty-hunting-guide-part-7-the-final-p1-boss-7a8baf3cf085?source=rss----7b722bfd1b8d---4)
+- [How to Protect Your Personal Info When Shopping Online](https://infosecwriteups.com/how-to-protect-your-personal-info-when-shopping-online-de5d21e377ab?source=rss----7b722bfd1b8d---4)
+- [How a Simple RECON Earned Me ₹XX,000](https://infosecwriteups.com/how-a-simple-recon-earned-me-xx-000-4282805d2eac?source=rss----7b722bfd1b8d---4)
+- [A classic file based IDOR on NIELIT portal](https://infosecwriteups.com/a-classic-file-based-idor-on-nielit-portal-064604c7fc62?source=rss----7b722bfd1b8d---4)
+- [How I hacked Karnataka NIC portal with a simple SQL injection](https://infosecwriteups.com/how-i-hacked-karnataka-nic-portal-with-a-simple-sql-injection-073f064ad99e?source=rss----7b722bfd1b8d---4)
+- [Bash Automation Scripts for DevOps: Essential Tools for Modern Infrastructure Management](https://infosecwriteups.com/bash-automation-scripts-for-devops-essential-tools-for-modern-infrastructure-management-a677a08392bd?source=rss----7b722bfd1b8d---4)
+- [OAuth2verdrive: How Broken Token Exchange Let Me Log in as Any User](https://infosecwriteups.com/oauth2verdrive-how-broken-token-exchange-let-me-log-in-as-any-user-3f211de93bf1?source=rss----7b722bfd1b8d---4)
+- [Bypassing Authentication: A Critical Flaw in Basecamp’s](https://infosecwriteups.com/bypassing-authentication-a-critical-flaw-in-basecamps-849d9fadf39f?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
