@@ -922,15 +922,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [Open Redirect Nedir?](https://medium.com/@silverxcyber/open-redirect-n%C9%99dir-519cc1897d0a?source=rss------bug_bounty_writeup-5)
-- [How I Discovered Three Reflected XSS Vulnerabilities and Earned a Spot in NASA’s Hall of Fame](https://medium.com/@michaeltanoto222/how-i-discovered-three-reflected-xss-vulnerabilities-and-earned-a-spot-in-nasas-hall-of-fame-537b6a2c01be?source=rss------bug_bounty_writeup-5)
-- [The Quantum Way of Recon: Why I Stopped Copying Recon Methods and Built My Own](https://medium.com/@clipp3r/the-quantum-way-of-recon-why-i-stopped-copying-recon-methods-and-built-my-own-b9e9fddcd756?source=rss------bug_bounty_writeup-5)
-- [How I Bypassed a CAPTCHA Without Solving It](https://medium.com/@mazenibrahem373/how-i-bypassed-a-captcha-without-solving-it-7c5c85ee71f0?source=rss------bug_bounty_writeup-5)
-- [Cracking JWTs: A Bug Bounty Hunting Guide [Part 7] — The Final P1 Boss](https://infosecwriteups.com/cracking-jwts-a-bug-bounty-hunting-guide-part-7-the-final-p1-boss-7a8baf3cf085?source=rss------bug_bounty_writeup-5)
-- [From Zero to Free Credits: Abusing a Referral System Like a Lazy Genius](https://medium.com/legionhunters/from-zero-to-free-credits-abusing-a-referral-system-like-a-lazy-genius-fc2d6b674754?source=rss------bug_bounty_writeup-5)
-- [Cracking the Clock: How I Took Over Any Account Using a Timestamp Leak](https://ritikver22000.medium.com/cracking-the-clock-how-i-took-over-any-account-using-a-timestamp-leak-516fc88c0113?source=rss------bug_bounty_writeup-5)
-- [How a Simple RECON Earned Me ₹XX,000](https://infosecwriteups.com/how-a-simple-recon-earned-me-xx-000-4282805d2eac?source=rss------bug_bounty_writeup-5)
-- [Bypassing Open Redirect Filters Using Creative URL Manipulation](https://medium.com/@abdelrahman8545/bypassing-open-redirect-filters-using-creative-url-manipulation-b43aa3a61cc8?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
