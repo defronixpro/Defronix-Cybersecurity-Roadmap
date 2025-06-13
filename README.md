@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [The Most Underrated 0-Click Account Takeover Using Punycode IDN Attacks](https://infosecwriteups.com/the-most-underrated-0-click-account-takeover-using-punycode-idn-attacks-c0afdb74a3dc?source=rss----7b722bfd1b8d---4)
 - [Stop Network Hijacks: A Hacker’s Guide to DNS &amp; DHCP Pen Testing](https://infosecwriteups.com/stop-network-hijacks-a-hackers-guide-to-dns-dhcp-pen-testing-c6c215ef4c50?source=rss----7b722bfd1b8d---4)
 - [Utilising Context Augmentation in LLMs for Bug Bounty](https://infosecwriteups.com/utilising-context-augmentation-in-llms-for-bug-bounty-c41a0c03f4b8?source=rss----7b722bfd1b8d---4)
 - [Web Cache Deception — The Vulnerability Even Developers Don’t See Coming](https://infosecwriteups.com/web-cache-deception-the-vulnerability-even-developers-dont-see-coming-c9b814b76da3?source=rss----7b722bfd1b8d---4)
@@ -931,7 +932,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [SolarWinds Hack: How 4,032 Lines of Code Compromised a Nation](https://infosecwriteups.com/solarwinds-hack-how-4-032-lines-of-code-compromised-a-nation-070182a8d81c?source=rss----7b722bfd1b8d---4)
 - [$7,500 Bounty: Exposed Any User’s Email on HackerOne](https://infosecwriteups.com/7-500-bounty-exposed-any-users-email-on-hackerone-2d19bb2a214c?source=rss----7b722bfd1b8d---4)
 - [Hakrawler Tutorial: Fast Web Crawler for Bug Bounty](https://infosecwriteups.com/hakrawler-tutorial-fast-web-crawler-for-bug-bounty-8d334848dd85?source=rss----7b722bfd1b8d---4)
-- [Jack of All, Master of None: The Cybersecurity Enthusiast’s Dilemma](https://infosecwriteups.com/jack-of-all-master-of-none-the-cybersecurity-enthusiasts-dilemma-48ec2e60981c?source=rss----7b722bfd1b8d---4)
 - [Weeks of Watching, One Moment of Madness: A 2-Minute Hunt That Brought It All Down](https://osintteam.blog/weeks-of-watching-one-moment-of-madness-a-2-minute-hunt-that-brought-it-all-down-41f181a1cbc9?source=rss------bug_bounty_writeup-5)
 - [Open Redirect Nedir?](https://medium.com/@silverxcyber/open-redirect-n%C9%99dir-519cc1897d0a?source=rss------bug_bounty_writeup-5)
 - [How I Discovered Three Reflected XSS Vulnerabilities and Earned a Spot in NASA’s Hall of Fame](https://medium.com/@michaeltanoto222/how-i-discovered-three-reflected-xss-vulnerabilities-and-earned-a-spot-in-nasas-hall-of-fame-537b6a2c01be?source=rss------bug_bounty_writeup-5)
