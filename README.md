@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Bypass IP Whitelisting by Abusing Trusted Flows](https://medium.com/@kabi_777/bbp-how-i-bypass-ip-whitelisting-by-abusing-trusted-flows-069f1aa415c0?source=rss------bug_bounty_writeup-5)
 - [TryHackMe: “Security Footage” CTF Challenge Writeup](https://infosecwriteups.com/tryhackme-security-footage-ctf-challenge-writeup-e9b451cded7e?source=rss----7b722bfd1b8d---4)
 - [Reflective Kerberos Relay Attack &lpar;CVE-2025-33073&rpar;: NT AUTHORITY\SYSTEM Privilege Escalation](https://infosecwriteups.com/reflective-kerberos-relay-attack-cve-2025-33073-nt-authority-system-privilege-escalation-bfab6cef1acc?source=rss----7b722bfd1b8d---4)
 - [Container Escape Techniques: Breaking Out of the Digital Jail](https://infosecwriteups.com/container-escape-techniques-breaking-out-of-the-digital-jail-ad06962c5292?source=rss----7b722bfd1b8d---4)
