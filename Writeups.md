@@ -1,7 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
-- [Exposure Protocol: Information Disclosure in the Wild [Part 1]](https://medium.com/@adityabhatt3010/exposure-protocol-information-disclosure-in-the-wild-part-1-588de47882b1?source=rss------bug_bounty_writeup-5)
+- [Exposure Protocol: Information Disclosure in the Wild [Part 1]](https://infosecwriteups.com/exposure-protocol-information-disclosure-in-the-wild-part-1-588de47882b1?source=rss------bug_bounty_writeup-5)
 - [Bypass IP Whitelisting by Abusing Trusted Flows](https://medium.com/@kabi_777/bbp-how-i-bypass-ip-whitelisting-by-abusing-trusted-flows-069f1aa415c0?source=rss------bug_bounty_writeup-5)
 - [TryHackMe: “Security Footage” CTF Challenge Writeup](https://infosecwriteups.com/tryhackme-security-footage-ctf-challenge-writeup-e9b451cded7e?source=rss----7b722bfd1b8d---4)
 - [Reflective Kerberos Relay Attack &lpar;CVE-2025-33073&rpar;: NT AUTHORITY\SYSTEM Privilege Escalation](https://infosecwriteups.com/reflective-kerberos-relay-attack-cve-2025-33073-nt-authority-system-privilege-escalation-bfab6cef1acc?source=rss----7b722bfd1b8d---4)
