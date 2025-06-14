@@ -20,7 +20,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How I Bypassed a CAPTCHA Without Solving It](https://medium.com/@mazenibrahem373/how-i-bypassed-a-captcha-without-solving-it-7c5c85ee71f0?source=rss------bug_bounty_writeup-5)
 - [Cracking JWTs: A Bug Bounty Hunting Guide [Part 7] — The Final P1 Boss](https://infosecwriteups.com/cracking-jwts-a-bug-bounty-hunting-guide-part-7-the-final-p1-boss-7a8baf3cf085?source=rss------bug_bounty_writeup-5)
 - [From Zero to Free Credits: Abusing a Referral System Like a Lazy Genius](https://medium.com/legionhunters/from-zero-to-free-credits-abusing-a-referral-system-like-a-lazy-genius-fc2d6b674754?source=rss------bug_bounty_writeup-5)
-- [Cracking the Clock: How I Took Over Any Account Using a Timestamp Leak](https://ritikver22000.medium.com/cracking-the-clock-how-i-took-over-any-account-using-a-timestamp-leak-516fc88c0113?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
