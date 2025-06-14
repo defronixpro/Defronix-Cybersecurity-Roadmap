@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Exposure Protocol: Information Disclosure in the Wild [Part 1]](https://infosecwriteups.com/exposure-protocol-information-disclosure-in-the-wild-part-1-588de47882b1?source=rss------bug_bounty_writeup-5)
 - [Bypass IP Whitelisting by Abusing Trusted Flows](https://medium.com/@kabi_777/bbp-how-i-bypass-ip-whitelisting-by-abusing-trusted-flows-069f1aa415c0?source=rss------bug_bounty_writeup-5)
 - [Chasing a Valid in the Stars: My First NASA.gov Find](https://medium.com/@FufuFaf1/chasing-a-valid-in-the-stars-my-first-nasa-gov-find-cecdb9c29c35?source=rss------bug_bounty_writeup-5)
 - [I Fooled the Filters: Homoglyph Username Bypass Vulnerability — An Overlooked Threat in Major…](https://icecream23.medium.com/i-fooled-the-filters-homoglyph-username-bypass-vulnerability-an-overlooked-threat-in-major-dd5f8cc63ba6?source=rss------bug_bounty_writeup-5)
@@ -931,7 +932,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [The Quantum Way of Recon: Why I Stopped Copying Recon Methods and Built My Own](https://medium.com/@clipp3r/the-quantum-way-of-recon-why-i-stopped-copying-recon-methods-and-built-my-own-b9e9fddcd756?source=rss------bug_bounty_writeup-5)
 - [How I Bypassed a CAPTCHA Without Solving It](https://medium.com/@mazenibrahem373/how-i-bypassed-a-captcha-without-solving-it-7c5c85ee71f0?source=rss------bug_bounty_writeup-5)
 - [Cracking JWTs: A Bug Bounty Hunting Guide [Part 7] — The Final P1 Boss](https://infosecwriteups.com/cracking-jwts-a-bug-bounty-hunting-guide-part-7-the-final-p1-boss-7a8baf3cf085?source=rss------bug_bounty_writeup-5)
-- [From Zero to Free Credits: Abusing a Referral System Like a Lazy Genius](https://medium.com/legionhunters/from-zero-to-free-credits-abusing-a-referral-system-like-a-lazy-genius-fc2d6b674754?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
