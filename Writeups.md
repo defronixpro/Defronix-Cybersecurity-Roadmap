@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Oauth2 Misconfig and AccessToken Leakage leads to Full Account Takeover](https://medium.com/@0xRedFox29/oauth2-misconfig-and-accesstoken-leakage-leads-to-full-account-takeover-b1c7333e599d?source=rss------bug_bounty_writeup-5)
 - [Exposure Protocol: Information Disclosure in the Wild [Part 1]](https://infosecwriteups.com/exposure-protocol-information-disclosure-in-the-wild-part-1-588de47882b1?source=rss------bug_bounty_writeup-5)
 - [Bypass IP Whitelisting by Abusing Trusted Flows](https://medium.com/@kabi_777/bbp-how-i-bypass-ip-whitelisting-by-abusing-trusted-flows-069f1aa415c0?source=rss------bug_bounty_writeup-5)
 - [TryHackMe: “Security Footage” CTF Challenge Writeup](https://infosecwriteups.com/tryhackme-security-footage-ctf-challenge-writeup-e9b451cded7e?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How I Discovered Three Reflected XSS Vulnerabilities and Earned a Spot in NASA’s Hall of Fame](https://medium.com/@michaeltanoto222/how-i-discovered-three-reflected-xss-vulnerabilities-and-earned-a-spot-in-nasas-hall-of-fame-537b6a2c01be?source=rss------bug_bounty_writeup-5)
 - [The Quantum Way of Recon: Why I Stopped Copying Recon Methods and Built My Own](https://medium.com/@clipp3r/the-quantum-way-of-recon-why-i-stopped-copying-recon-methods-and-built-my-own-b9e9fddcd756?source=rss------bug_bounty_writeup-5)
 - [How I Bypassed a CAPTCHA Without Solving It](https://medium.com/@mazenibrahem373/how-i-bypassed-a-captcha-without-solving-it-7c5c85ee71f0?source=rss------bug_bounty_writeup-5)
-- [Cracking JWTs: A Bug Bounty Hunting Guide [Part 7] — The Final P1 Boss](https://infosecwriteups.com/cracking-jwts-a-bug-bounty-hunting-guide-part-7-the-final-p1-boss-7a8baf3cf085?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
