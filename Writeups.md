@@ -1,7 +1,6 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
-- [How I Leaked Data of Cryptocurreny Human Proofing Site.](https://medium.com/@nnface/how-i-leaked-data-of-cryptocurreny-human-proofing-site-a46bf69cf350?source=rss------bug_bounty_writeup-5)
 - [IDOR Vulnerability Case Study: Real Bug Bounty Walkthrough on Broken Access Control](https://hackersatty.medium.com/idor-vulnerability-case-study-real-bug-bounty-walkthrough-on-broken-access-control-172e116bc733?source=rss------bug_bounty_writeup-5)
 - [Race Condition in Upload Quota — Free Storage via Parallel Uploads](https://medium.com/@FufuFaf1/race-condition-in-upload-quota-free-storage-via-parallel-uploads-8919949da8da?source=rss------bug_bounty_writeup-5)
 - [$10,000 Authentication Bypass at Uber](https://infosecwriteups.com/10-000-authentication-bypass-at-uber-c091c7733662?source=rss----7b722bfd1b8d---4)
