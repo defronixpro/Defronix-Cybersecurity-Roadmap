@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [IDOR Vulnerability Case Study: Real Bug Bounty Walkthrough on Broken Access Control](https://hackersatty.medium.com/idor-vulnerability-case-study-real-bug-bounty-walkthrough-on-broken-access-control-172e116bc733?source=rss------bug_bounty_writeup-5)
 - [Race Condition in Upload Quota — Free Storage via Parallel Uploads](https://medium.com/@FufuFaf1/race-condition-in-upload-quota-free-storage-via-parallel-uploads-8919949da8da?source=rss------bug_bounty_writeup-5)
 - [$10,000 Authentication Bypass at Uber](https://infosecwriteups.com/10-000-authentication-bypass-at-uber-c091c7733662?source=rss----7b722bfd1b8d---4)
 - [Subdomain Takeover in the Age of SaaS: Going Beyond CNAMEs](https://infosecwriteups.com/subdomain-takeover-in-the-age-of-saas-going-beyond-cnames-62cff97b0d0e?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Weeks of Watching, One Moment of Madness: A 2-Minute Hunt That Brought It All Down](https://osintteam.blog/weeks-of-watching-one-moment-of-madness-a-2-minute-hunt-that-brought-it-all-down-41f181a1cbc9?source=rss------bug_bounty_writeup-5)
 - [Open Redirect Nedir?](https://medium.com/@silverxcyber/open-redirect-n%C9%99dir-519cc1897d0a?source=rss------bug_bounty_writeup-5)
 - [How I Discovered Three Reflected XSS Vulnerabilities and Earned a Spot in NASA’s Hall of Fame](https://medium.com/@michaeltanoto222/how-i-discovered-three-reflected-xss-vulnerabilities-and-earned-a-spot-in-nasas-hall-of-fame-537b6a2c01be?source=rss------bug_bounty_writeup-5)
-- [The Quantum Way of Recon: Why I Stopped Copying Recon Methods and Built My Own](https://medium.com/@clipp3r/the-quantum-way-of-recon-why-i-stopped-copying-recon-methods-and-built-my-own-b9e9fddcd756?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
