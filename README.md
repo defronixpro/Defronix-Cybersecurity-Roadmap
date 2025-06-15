@@ -922,16 +922,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [$10,000 Authentication Bypass at Uber](https://infosecwriteups.com/10-000-authentication-bypass-at-uber-c091c7733662?source=rss----7b722bfd1b8d---4)
-- [Subdomain Takeover in the Age of SaaS: Going Beyond CNAMEs](https://infosecwriteups.com/subdomain-takeover-in-the-age-of-saas-going-beyond-cnames-62cff97b0d0e?source=rss----7b722bfd1b8d---4)
-- [Exposure Protocol: Information Disclosure in the Wild [Part 1]](https://infosecwriteups.com/exposure-protocol-information-disclosure-in-the-wild-part-1-588de47882b1?source=rss----7b722bfd1b8d---4)
-- [I Found 50+ Exploitable Devices in 1 Hour Using Shodan Dorking](https://infosecwriteups.com/i-found-50-exploitable-devices-in-1-hour-using-shodan-dorking-49e825ca0f3e?source=rss----7b722bfd1b8d---4)
-- [How I made 600$ in 60 secs ?](https://infosecwriteups.com/how-i-made-600-in-60-secs-f2b085731b59?source=rss----7b722bfd1b8d---4)
-- [A classic file based IDOR on a government institute application portal](https://infosecwriteups.com/a-classic-file-based-idor-on-a-government-institute-application-portal-b9f2b1d73035?source=rss----7b722bfd1b8d---4)
-- [How To Find Your 1st Bug For Bug Bounty Hunters &lpar;Step-by-Step Guide&rpar; — Guaranteed Result](https://infosecwriteups.com/how-to-find-your-1st-bug-for-bug-bounty-hunters-step-by-step-guide-guaranteed-result-fd80642a6b7b?source=rss----7b722bfd1b8d---4)
-- [25 Linux Command-Line Hacks That’ll Make You a Security Ninja](https://infosecwriteups.com/25-linux-command-line-hacks-thatll-make-you-a-security-ninja-ae07fca1ef74?source=rss----7b722bfd1b8d---4)
-- [The Anatomy of an RCE Attack : The Hacker’s Big Score](https://infosecwriteups.com/the-anatomy-of-an-rce-attack-the-hackers-big-score-a22fa2f2dbc6?source=rss----7b722bfd1b8d---4)
-- [How to Create Your Very Own Azure Active Directory Tenant](https://infosecwriteups.com/how-to-create-your-very-own-azure-active-directory-tenant-3d6f38cc3631?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
