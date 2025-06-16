@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [A Hacker’s Journey to NASA’s Hall of Fame](https://medium.com/@boss24ok/a-hackers-journey-to-nasa-s-hall-of-fame-864bb633a155?source=rss------bug_bounty_writeup-5)
 - [Exposure Protocol: Information Disclosure in the Wild [Part 2]](https://infosecwriteups.com/exposure-protocol-information-disclosure-in-the-wild-part-2-e6f4f9e21584?source=rss------bug_bounty_writeup-5)
 - [How I Leaked Data of Cryptocurrency Human Proofing Site.](https://medium.com/meetcyber/how-i-leaked-data-of-cryptocurreny-human-proofing-site-47b1bc53943c?source=rss------bug_bounty_writeup-5)
 - [Lab: Exploiting server-side parameter pollution in a REST URL](https://infosecwriteups.com/lab-exploiting-server-side-parameter-pollution-in-a-rest-url-97396fd4e958?source=rss----7b722bfd1b8d---4)
@@ -19,7 +20,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Exposure Protocol: Information Disclosure in the Wild [Part 1]](https://infosecwriteups.com/exposure-protocol-information-disclosure-in-the-wild-part-1-588de47882b1?source=rss------bug_bounty_writeup-5)
 - [Bypass IP Whitelisting by Abusing Trusted Flows](https://medium.com/@kabi_777/bbp-how-i-bypass-ip-whitelisting-by-abusing-trusted-flows-069f1aa415c0?source=rss------bug_bounty_writeup-5)
 - [Chasing a Valid in the Stars: My First NASA.gov Find](https://medium.com/@FufuFaf1/chasing-a-valid-in-the-stars-my-first-nasa-gov-find-cecdb9c29c35?source=rss------bug_bounty_writeup-5)
-- [I Fooled the Filters: Homoglyph Username Bypass Vulnerability — An Overlooked Threat in Major…](https://icecream23.medium.com/i-fooled-the-filters-homoglyph-username-bypass-vulnerability-an-overlooked-threat-in-major-dd5f8cc63ba6?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
