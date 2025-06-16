@@ -1,6 +1,9 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Zero-Downtime Deployments: The Ansible Strategy That Never Fails](https://infosecwriteups.com/zero-downtime-deployments-the-ansible-strategy-that-never-fails-1689f96a7439?source=rss----7b722bfd1b8d---4)
+- [Security and Privacy Checklist: 2025 Edition](https://infosecwriteups.com/security-and-privacy-checklist-2025-edition-f08a178ee105?source=rss----7b722bfd1b8d---4)
+- [How I Automated My Entire Infrastructure with One Tool &lpar;And Saved 20 Hours a Week&rpar;](https://infosecwriteups.com/how-i-automated-my-entire-infrastructure-with-one-tool-and-saved-20-hours-a-week-59fd6020b38f?source=rss----7b722bfd1b8d---4)
 - [IDOR Vulnerability Case Study: Real Bug Bounty Walkthrough on Broken Access Control](https://hackersatty.medium.com/idor-vulnerability-case-study-real-bug-bounty-walkthrough-on-broken-access-control-172e116bc733?source=rss------bug_bounty_writeup-5)
 - [Race Condition in Upload Quota — Free Storage via Parallel Uploads](https://medium.com/@FufuFaf1/race-condition-in-upload-quota-free-storage-via-parallel-uploads-8919949da8da?source=rss------bug_bounty_writeup-5)
 - [$10,000 Authentication Bypass at Uber](https://infosecwriteups.com/10-000-authentication-bypass-at-uber-c091c7733662?source=rss----7b722bfd1b8d---4)
@@ -10,9 +13,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How I made 600$ in 60 secs ?](https://infosecwriteups.com/how-i-made-600-in-60-secs-f2b085731b59?source=rss----7b722bfd1b8d---4)
 - [A classic file based IDOR on a government institute application portal](https://infosecwriteups.com/a-classic-file-based-idor-on-a-government-institute-application-portal-b9f2b1d73035?source=rss----7b722bfd1b8d---4)
 - [How To Find Your 1st Bug For Bug Bounty Hunters &lpar;Step-by-Step Guide&rpar; — Guaranteed Result](https://infosecwriteups.com/how-to-find-your-1st-bug-for-bug-bounty-hunters-step-by-step-guide-guaranteed-result-fd80642a6b7b?source=rss----7b722bfd1b8d---4)
-- [25 Linux Command-Line Hacks That’ll Make You a Security Ninja](https://infosecwriteups.com/25-linux-command-line-hacks-thatll-make-you-a-security-ninja-ae07fca1ef74?source=rss----7b722bfd1b8d---4)
-- [The Anatomy of an RCE Attack : The Hacker’s Big Score](https://infosecwriteups.com/the-anatomy-of-an-rce-attack-the-hackers-big-score-a22fa2f2dbc6?source=rss----7b722bfd1b8d---4)
-- [How to Create Your Very Own Azure Active Directory Tenant](https://infosecwriteups.com/how-to-create-your-very-own-azure-active-directory-tenant-3d6f38cc3631?source=rss----7b722bfd1b8d---4)
 - [Oauth2 Misconfig and AccessToken Leakage leads to Full Account Takeover](https://medium.com/@0xRedFox29/oauth2-misconfig-and-accesstoken-leakage-leads-to-full-account-takeover-b1c7333e599d?source=rss------bug_bounty_writeup-5)
 - [Exposure Protocol: Information Disclosure in the Wild [Part 1]](https://infosecwriteups.com/exposure-protocol-information-disclosure-in-the-wild-part-1-588de47882b1?source=rss------bug_bounty_writeup-5)
 - [Bypass IP Whitelisting by Abusing Trusted Flows](https://medium.com/@kabi_777/bbp-how-i-bypass-ip-whitelisting-by-abusing-trusted-flows-069f1aa415c0?source=rss------bug_bounty_writeup-5)
