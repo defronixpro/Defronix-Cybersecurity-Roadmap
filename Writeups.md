@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How I Leaked Data of Cryptocurreny Human Proofing Site.](https://medium.com/meetcyber/how-i-leaked-data-of-cryptocurreny-human-proofing-site-47b1bc53943c?source=rss------bug_bounty_writeup-5)
 - [Lab: Exploiting server-side parameter pollution in a REST URL](https://infosecwriteups.com/lab-exploiting-server-side-parameter-pollution-in-a-rest-url-97396fd4e958?source=rss----7b722bfd1b8d---4)
 - [Volt Typhoon APT Walkthrough — TryHackMe Room Investigation Using Splunk &amp; Threat Hunting…](https://infosecwriteups.com/volt-typhoon-apt-walkthrough-tryhackme-room-investigation-using-splunk-threat-hunting-cbfcf48c33d7?source=rss----7b722bfd1b8d---4)
 - [Real-World ClickFix Attack: How Hackers Turn a Simple Click Into a Full Breach](https://infosecwriteups.com/real-world-clickfix-attack-how-hackers-turn-a-simple-click-into-a-full-breach-2d17415f667e?source=rss----7b722bfd1b8d---4)
@@ -9,8 +10,16 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Zero-Downtime Deployments: The Ansible Strategy That Never Fails](https://infosecwriteups.com/zero-downtime-deployments-the-ansible-strategy-that-never-fails-1689f96a7439?source=rss----7b722bfd1b8d---4)
 - [Security and Privacy Checklist: 2025 Edition](https://infosecwriteups.com/security-and-privacy-checklist-2025-edition-f08a178ee105?source=rss----7b722bfd1b8d---4)
 - [How I Automated My Entire Infrastructure with One Tool &lpar;And Saved 20 Hours a Week&rpar;](https://infosecwriteups.com/how-i-automated-my-entire-infrastructure-with-one-tool-and-saved-20-hours-a-week-59fd6020b38f?source=rss----7b722bfd1b8d---4)
+- [IDOR Vulnerability Case Study: Real Bug Bounty Walkthrough on Broken Access Control](https://hackersatty.medium.com/idor-vulnerability-case-study-real-bug-bounty-walkthrough-on-broken-access-control-172e116bc733?source=rss------bug_bounty_writeup-5)
+- [Race Condition in Upload Quota — Free Storage via Parallel Uploads](https://medium.com/@FufuFaf1/race-condition-in-upload-quota-free-storage-via-parallel-uploads-8919949da8da?source=rss------bug_bounty_writeup-5)
 - [$10,000 Authentication Bypass at Uber](https://infosecwriteups.com/10-000-authentication-bypass-at-uber-c091c7733662?source=rss----7b722bfd1b8d---4)
 - [Subdomain Takeover in the Age of SaaS: Going Beyond CNAMEs](https://infosecwriteups.com/subdomain-takeover-in-the-age-of-saas-going-beyond-cnames-62cff97b0d0e?source=rss----7b722bfd1b8d---4)
+- [Oauth2 Misconfig and AccessToken Leakage leads to Full Account Takeover](https://medium.com/@0xRedFox29/oauth2-misconfig-and-accesstoken-leakage-leads-to-full-account-takeover-b1c7333e599d?source=rss------bug_bounty_writeup-5)
+- [Exposure Protocol: Information Disclosure in the Wild [Part 1]](https://infosecwriteups.com/exposure-protocol-information-disclosure-in-the-wild-part-1-588de47882b1?source=rss------bug_bounty_writeup-5)
+- [Bypass IP Whitelisting by Abusing Trusted Flows](https://medium.com/@kabi_777/bbp-how-i-bypass-ip-whitelisting-by-abusing-trusted-flows-069f1aa415c0?source=rss------bug_bounty_writeup-5)
+- [Chasing a Valid in the Stars: My First NASA.gov Find](https://medium.com/@FufuFaf1/chasing-a-valid-in-the-stars-my-first-nasa-gov-find-cecdb9c29c35?source=rss------bug_bounty_writeup-5)
+- [I Fooled the Filters: Homoglyph Username Bypass Vulnerability — An Overlooked Threat in Major…](https://icecream23.medium.com/i-fooled-the-filters-homoglyph-username-bypass-vulnerability-an-overlooked-threat-in-major-dd5f8cc63ba6?source=rss------bug_bounty_writeup-5)
+- [Weeks of Watching, One Moment of Madness: A 2-Minute Hunt That Brought It All Down](https://osintteam.blog/weeks-of-watching-one-moment-of-madness-a-2-minute-hunt-that-brought-it-all-down-41f181a1cbc9?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
