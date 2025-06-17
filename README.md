@@ -922,7 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [How I Found an Open Redirect in a Login Endpoint &lpar;and Why It Matters&rpar;](https://medium.com/@mdsafiulislam9252/how-i-found-an-open-redirect-in-a-login-endpoint-and-why-it-matters-49afaf7109df?source=rss------bug_bounty_writeup-5)
+- [How I Found an Open Redirect in a Login Endpoint &lpar;and Why It Matters&rpar;](https://medium.com/@TakiasSec/how-i-found-an-open-redirect-in-a-login-endpoint-and-why-it-matters-49afaf7109df?source=rss------bug_bounty_writeup-5)
 - [One Click to Collapse: Chaining Logic Flaw + CSRF to Take Down a SaaS Organization](https://canitey.medium.com/one-click-to-collapse-chaining-logic-flaw-csrf-to-take-down-a-saas-organization-7d58736fc6f9?source=rss------bug_bounty_writeup-5)
 - [Proxy Misconfiguration + SSRF: How I Chained Two Bugs Into Internal Admin Panel Access](https://infosecwriteups.com/proxy-misconfiguration-ssrf-how-i-chained-two-bugs-into-internal-admin-panel-access-cf0e43bf79e4?source=rss----7b722bfd1b8d---4)
 - [How We Wasted Years on Slow SQL Queries](https://infosecwriteups.com/how-we-wasted-years-on-slow-sql-queries-fa40917bd1a6?source=rss----7b722bfd1b8d---4)
