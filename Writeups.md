@@ -1,16 +1,6 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
-- [Proxy Misconfiguration + SSRF: How I Chained Two Bugs Into Internal Admin Panel Access](https://infosecwriteups.com/proxy-misconfiguration-ssrf-how-i-chained-two-bugs-into-internal-admin-panel-access-cf0e43bf79e4?source=rss----7b722bfd1b8d---4)
-- [How We Wasted Years on Slow SQL Queries](https://infosecwriteups.com/how-we-wasted-years-on-slow-sql-queries-fa40917bd1a6?source=rss----7b722bfd1b8d---4)
-- [Exposure Protocol: Information Disclosure in the Wild [Part 2]](https://infosecwriteups.com/exposure-protocol-information-disclosure-in-the-wild-part-2-e6f4f9e21584?source=rss----7b722bfd1b8d---4)
-- [Multi-Cloud Mastery: One Ansible Playbook to Rule Them All](https://infosecwriteups.com/multi-cloud-mastery-one-ansible-playbook-to-rule-them-all-4d5c7d5a2d31?source=rss----7b722bfd1b8d---4)
-- [How I Found A JWT Token Vulnerability that Led to Full Account Takeover](https://infosecwriteups.com/how-i-found-a-jwt-token-vulnerability-that-led-to-full-account-takeover-a2b6385b7c5c?source=rss----7b722bfd1b8d---4)
-- [“Nothing to Hide, Nothing to Fear”](https://infosecwriteups.com/nothing-to-hide-nothing-to-fear-711383afe7cf?source=rss----7b722bfd1b8d---4)
-- [How I Cracked a Linux Password](https://infosecwriteups.com/how-i-cracked-a-linux-password-fc10795209ed?source=rss----7b722bfd1b8d---4)
-- [CyberChef 101: A Quick Guide to The Most Versatile Cyber Tool](https://infosecwriteups.com/cyberchef-101-a-quick-guide-to-the-most-versatile-cyber-tool-24c83a146e5b?source=rss----7b722bfd1b8d---4)
-- [Token Tunnels: How Misused Refresh Tokens Let Me Hijack Sessions Forever ️](https://infosecwriteups.com/token-tunnels-how-misused-refresh-tokens-let-me-hijack-sessions-forever-%EF%B8%8F-de63e1adb8a3?source=rss----7b722bfd1b8d---4)
-- [How a Simple Redirect Led to a $550 XSS Vulnerability](https://infosecwriteups.com/how-a-simple-redirect-led-to-a-550-xss-vulnerability-b3e0ff045607?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
