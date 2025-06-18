@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Exposure Protocol: Information Disclosure in the Wild [Part 3]](https://infosecwriteups.com/exposure-protocol-information-disclosure-in-the-wild-part-3-2bea07098768?source=rss------bug_bounty_writeup-5)
 - [Bounty Hacker | Try Hack Me | Complete Walkthrough](https://medium.com/@avrodipjoy/bounty-hacker-try-hack-me-complete-walkthrough-1930650a0d0d?source=rss------bug_bounty_writeup-5)
 - [Multi-Step Process with No Access Control on One Step](https://infosecwriteups.com/multi-step-process-with-no-access-control-on-one-step-a17dba1a4415?source=rss----7b722bfd1b8d---4)
 - [The Psychology of the Click: Real-World Phishing Attack Simulation Using Zphisher](https://infosecwriteups.com/the-psychology-of-the-click-real-world-phishing-attack-simulation-using-zphisher-634c6b1473d6?source=rss----7b722bfd1b8d---4)
