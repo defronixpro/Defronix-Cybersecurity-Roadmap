@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Bounty Hacker | Try Hack Me | Complete Walkthrough](https://medium.com/@avrodipjoy/bounty-hacker-try-hack-me-complete-walkthrough-1930650a0d0d?source=rss------bug_bounty_writeup-5)
 - [Multi-Step Process with No Access Control on One Step](https://infosecwriteups.com/multi-step-process-with-no-access-control-on-one-step-a17dba1a4415?source=rss----7b722bfd1b8d---4)
 - [The Psychology of the Click: Real-World Phishing Attack Simulation Using Zphisher](https://infosecwriteups.com/the-psychology-of-the-click-real-world-phishing-attack-simulation-using-zphisher-634c6b1473d6?source=rss----7b722bfd1b8d---4)
 - [“My Wardriving Setup: Laptop and TP-Link Adapter”](https://infosecwriteups.com/my-wardriving-setup-laptop-and-tp-link-adapter-860354698d84?source=rss----7b722bfd1b8d---4)
@@ -19,7 +20,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [A Hacker’s Journey to NASA’s Hall of Fame](https://medium.com/@boss24ok/a-hackers-journey-to-nasa-s-hall-of-fame-864bb633a155?source=rss------bug_bounty_writeup-5)
 - [Exposure Protocol: Information Disclosure in the Wild [Part 2]](https://infosecwriteups.com/exposure-protocol-information-disclosure-in-the-wild-part-2-e6f4f9e21584?source=rss------bug_bounty_writeup-5)
 - [How I Leaked Data of Cryptocurrency Human Proofing Site.](https://medium.com/meetcyber/how-i-leaked-data-of-cryptocurreny-human-proofing-site-47b1bc53943c?source=rss------bug_bounty_writeup-5)
-- [IDOR Vulnerability Case Study: Real Bug Bounty Walkthrough on Broken Access Control](https://hackersatty.medium.com/idor-vulnerability-case-study-real-bug-bounty-walkthrough-on-broken-access-control-172e116bc733?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
