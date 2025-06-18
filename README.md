@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I Found a Location Spoofing Vulnerability in a Chrome Extension](https://medium.com/@FufuFaf1/how-i-found-a-location-spoofing-vulnerability-in-a-chrome-extension-6b53c56548ad?source=rss------bug_bounty_writeup-5)
 - [My First P1 on VDP program — Subdomain Takeover That Hit Critical](https://ousski.medium.com/my-first-p1-on-vdp-program-subdomain-takeover-that-hit-critical-c043565eb469?source=rss------bug_bounty_writeup-5)
 - [How I Found an Open Redirect in a Login Endpoint &lpar;and Why It Matters&rpar;](https://medium.com/@TakiasSec/how-i-found-an-open-redirect-in-a-login-endpoint-and-why-it-matters-49afaf7109df?source=rss------bug_bounty_writeup-5)
 - [One Click to Collapse: Chaining Logic Flaw + CSRF to Take Down a SaaS Organization](https://canitey.medium.com/one-click-to-collapse-chaining-logic-flaw-csrf-to-take-down-a-saas-organization-7d58736fc6f9?source=rss------bug_bounty_writeup-5)
@@ -940,7 +941,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How I Leaked Data of Cryptocurrency Human Proofing Site.](https://medium.com/meetcyber/how-i-leaked-data-of-cryptocurreny-human-proofing-site-47b1bc53943c?source=rss------bug_bounty_writeup-5)
 - [IDOR Vulnerability Case Study: Real Bug Bounty Walkthrough on Broken Access Control](https://hackersatty.medium.com/idor-vulnerability-case-study-real-bug-bounty-walkthrough-on-broken-access-control-172e116bc733?source=rss------bug_bounty_writeup-5)
 - [Race Condition in Upload Quota — Free Storage via Parallel Uploads](https://medium.com/@FufuFaf1/race-condition-in-upload-quota-free-storage-via-parallel-uploads-8919949da8da?source=rss------bug_bounty_writeup-5)
-- [Oauth2 Misconfig and AccessToken Leakage leads to Full Account Takeover](https://medium.com/@0xRedFox29/oauth2-misconfig-and-accesstoken-leakage-leads-to-full-account-takeover-b1c7333e599d?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
