@@ -922,6 +922,16 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Multi-Step Process with No Access Control on One Step](https://infosecwriteups.com/multi-step-process-with-no-access-control-on-one-step-a17dba1a4415?source=rss----7b722bfd1b8d---4)
+- [The Psychology of the Click: Real-World Phishing Attack Simulation Using Zphisher](https://infosecwriteups.com/the-psychology-of-the-click-real-world-phishing-attack-simulation-using-zphisher-634c6b1473d6?source=rss----7b722bfd1b8d---4)
+- [“My Wardriving Setup: Laptop and TP-Link Adapter”](https://infosecwriteups.com/my-wardriving-setup-laptop-and-tp-link-adapter-860354698d84?source=rss----7b722bfd1b8d---4)
+- [Stop Thinking Like a Victim: 10 Hacker Tactics Every Security Professional Must Know](https://infosecwriteups.com/stop-thinking-like-a-victim-10-hacker-tactics-every-security-professional-must-know-4fcd3e0b2c2d?source=rss----7b722bfd1b8d---4)
+- [Stop Building Insecure Apps: 7 Hidden Security Traps in Low-Code/No-Code Platforms](https://infosecwriteups.com/stop-building-insecure-apps-7-hidden-security-traps-in-low-code-no-code-platforms-4db7c12e223f?source=rss----7b722bfd1b8d---4)
+- [Forbidden but Not Forgotten: How an HTTP 403 Made Me a Superadmin](https://infosecwriteups.com/forbidden-but-not-forgotten-how-an-http-403-made-me-a-superadmin-6f769c4a9952?source=rss----7b722bfd1b8d---4)
+- [Locked Down and Leveled Up: Hardening My Home Lab by Creating a Domain Controller with Tiered…](https://infosecwriteups.com/locked-down-and-leveled-up-hardening-my-home-lab-by-creating-a-domain-controller-with-tiered-c63464860e6c?source=rss----7b722bfd1b8d---4)
+- [When Session Fixation Meets Session Confusion: A Case of Cross-User Control](https://infosecwriteups.com/when-session-fixation-meets-session-confusion-a-case-of-cross-user-control-bb2cd0d478e8?source=rss----7b722bfd1b8d---4)
+- [How I hacked a State Results NIC portal with a simple SQL injection](https://infosecwriteups.com/how-i-hacked-a-state-results-nic-portal-with-a-simple-sql-injection-e095725a091e?source=rss----7b722bfd1b8d---4)
+- [How I Hacked Accounts Using Host Header Injection in Password Reset Link — $$$$](https://infosecwriteups.com/how-i-hacked-accounts-using-host-header-injection-in-password-reset-link-2774431eed89?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
