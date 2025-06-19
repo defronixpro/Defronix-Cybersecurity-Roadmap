@@ -922,6 +922,9 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [✨ Bug Bounty Checklist — From Recon to Exploitation ⚔️](https://medium.com/@0b1d1/bug-bounty-checklist-from-recon-to-exploitation-%EF%B8%8F-a8374b2a25ea?source=rss------bug_bounty_writeup-5)
+- [How I Found a Bug in Minutes!](https://medium.com/@fuad_aliyev/how-i-found-a-bug-in-minutes-67b55c529ed9?source=rss------bug_bounty_writeup-5)
+- [XSS Meets IDOR: A Double Vulnerability Story on a Learning Platform](https://hettt.medium.com/xss-meets-idor-a-double-vulnerability-story-on-a-learning-platform-aed3157759e0?source=rss------bug_bounty_writeup-5)
 - [Cross-Origin Data Exposure via Misconfigured Jetpack Endpoint on redacted.fb.com](https://medium.com/@gourisankara357/cross-origin-data-exposure-via-misconfigured-jetpack-endpoint-on-redacted-fb-com-252f281ce74f?source=rss------bug_bounty_writeup-5)
 - [When domain.com is the same as mydomain.com](https://medium.com/@yppip/when-domain-com-is-the-same-as-mydomain-com-177029a1593b?source=rss------bug_bounty_writeup-5)
 - [CVE-2025-23121 Critical Veeam Vulnerability: Backup Servers at Risk from Authenticated RCE Flaw](https://infosecwriteups.com/cve-2025-23121-critical-veeam-vulnerability-backup-servers-at-risk-from-authenticated-rce-flaw-cc7e8bf5906e?source=rss----7b722bfd1b8d---4)
@@ -939,9 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Exposure Protocol: Information Disclosure in the Wild [Part 3]](https://infosecwriteups.com/exposure-protocol-information-disclosure-in-the-wild-part-3-2bea07098768?source=rss------bug_bounty_writeup-5)
 - [Bounty Hacker | Try Hack Me | Complete Walkthrough](https://medium.com/@avrodipjoy/bounty-hacker-try-hack-me-complete-walkthrough-1930650a0d0d?source=rss------bug_bounty_writeup-5)
 - [When Session Fixation Meets Session Confusion: A Case of Cross-User Control](https://infosecwriteups.com/when-session-fixation-meets-session-confusion-a-case-of-cross-user-control-bb2cd0d478e8?source=rss------bug_bounty_writeup-5)
-- [How I Found a Location Spoofing Vulnerability in a Chrome Extension](https://medium.com/@FufuFaf1/how-i-found-a-location-spoofing-vulnerability-in-a-chrome-extension-6b53c56548ad?source=rss------bug_bounty_writeup-5)
-- [My First P1 on VDP program — Subdomain Takeover That Hit Critical](https://ousski.medium.com/my-first-p1-on-vdp-program-subdomain-takeover-that-hit-critical-c043565eb469?source=rss------bug_bounty_writeup-5)
-- [How I Found an Open Redirect in a Login Endpoint &lpar;and Why It Matters&rpar;](https://medium.com/@TakiasSec/how-i-found-an-open-redirect-in-a-login-endpoint-and-why-it-matters-49afaf7109df?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
