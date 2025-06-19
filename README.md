@@ -923,7 +923,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
 - [✨ Bug Bounty Checklist — From Recon to Exploitation ⚔️](https://medium.com/@0b1d1/bug-bounty-checklist-from-recon-to-exploitation-%EF%B8%8F-a8374b2a25ea?source=rss------bug_bounty_writeup-5)
-- [How I Found a Bug in Minutes!](https://medium.com/@fuad_aliyev/how-i-found-a-bug-in-minutes-67b55c529ed9?source=rss------bug_bounty_writeup-5)
+- [How I Found a Improper Input Validation in Minutes!](https://medium.com/@fuad_aliyev/how-i-found-a-bug-in-minutes-67b55c529ed9?source=rss------bug_bounty_writeup-5)
 - [XSS Meets IDOR: A Double Vulnerability Story on a Learning Platform](https://hettt.medium.com/xss-meets-idor-a-double-vulnerability-story-on-a-learning-platform-aed3157759e0?source=rss------bug_bounty_writeup-5)
 - [Cross-Origin Data Exposure via Misconfigured Jetpack Endpoint on redacted.fb.com](https://medium.com/@gourisankara357/cross-origin-data-exposure-via-misconfigured-jetpack-endpoint-on-redacted-fb-com-252f281ce74f?source=rss------bug_bounty_writeup-5)
 - [When domain.com is the same as mydomain.com](https://medium.com/@yppip/when-domain-com-is-the-same-as-mydomain-com-177029a1593b?source=rss------bug_bounty_writeup-5)
