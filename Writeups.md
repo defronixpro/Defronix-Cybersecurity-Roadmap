@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [When domain.com is the same as mydomain.com](https://medium.com/@yppip/when-domain-com-is-the-same-as-mydomain-com-177029a1593b?source=rss------bug_bounty_writeup-5)
 - [CVE-2025-23121 Critical Veeam Vulnerability: Backup Servers at Risk from Authenticated RCE Flaw](https://infosecwriteups.com/cve-2025-23121-critical-veeam-vulnerability-backup-servers-at-risk-from-authenticated-rce-flaw-cc7e8bf5906e?source=rss----7b722bfd1b8d---4)
 - [$33,510 Bounty: Exploiting GitLab’s Hidden Redis Injection](https://infosecwriteups.com/33-510-bounty-exploiting-gitlabs-hidden-redis-injection-c2639520331b?source=rss----7b722bfd1b8d---4)
 - [Roundcube: CVE-2025–49113](https://infosecwriteups.com/roundcube-cve-2025-49113-22ec9ac88bce?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [My First P1 on VDP program — Subdomain Takeover That Hit Critical](https://ousski.medium.com/my-first-p1-on-vdp-program-subdomain-takeover-that-hit-critical-c043565eb469?source=rss------bug_bounty_writeup-5)
 - [How I Found an Open Redirect in a Login Endpoint &lpar;and Why It Matters&rpar;](https://medium.com/@TakiasSec/how-i-found-an-open-redirect-in-a-login-endpoint-and-why-it-matters-49afaf7109df?source=rss------bug_bounty_writeup-5)
 - [One Click to Collapse: Chaining Logic Flaw + CSRF to Take Down a SaaS Organization](https://canitey.medium.com/one-click-to-collapse-chaining-logic-flaw-csrf-to-take-down-a-saas-organization-7d58736fc6f9?source=rss------bug_bounty_writeup-5)
-- [A Hacker’s Journey to NASA’s Hall of Fame](https://medium.com/@boss24ok/a-hackers-journey-to-nasa-s-hall-of-fame-864bb633a155?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
