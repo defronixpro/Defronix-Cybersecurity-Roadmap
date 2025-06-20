@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How to Start Bug Bounty in 2025 — Technical Guide with Tools, Tactics &amp; Real Step](https://medium.com/@kailasv678/how-to-start-bug-bounty-in-2025-technical-guide-with-tools-tactics-real-step-ccca088f5675?source=rss------bug_bounty_writeup-5)
 - [puny-code,0-click account takeover](https://medium.com/@canonminibeast/puny-code-0-click-account-takeover-6345ec46a33b?source=rss------bug_bounty_writeup-5)
 - [✨ Bug Bounty Checklist — From Recon to Exploitation ⚔️](https://medium.com/@0b1d1/bug-bounty-checklist-from-recon-to-exploitation-%EF%B8%8F-a8374b2a25ea?source=rss------bug_bounty_writeup-5)
 - [How I Found a Improper Input Validation in Minutes!](https://medium.com/@fuad_aliyev/how-i-found-a-bug-in-minutes-67b55c529ed9?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Fileless Malware: The Ghost in Your Machine](https://infosecwriteups.com/fileless-malware-the-ghost-in-your-machine-6dbeb7eba566?source=rss----7b722bfd1b8d---4)
 - [CyberDefender: “DanaBot Lab” Challenge Writeup](https://infosecwriteups.com/cyberdefender-danabot-lab-challenge-writeup-4a85cfd86bdb?source=rss----7b722bfd1b8d---4)
 - [Exposure Protocol: Information Disclosure in the Wild [Part 3]](https://infosecwriteups.com/exposure-protocol-information-disclosure-in-the-wild-part-3-2bea07098768?source=rss------bug_bounty_writeup-5)
-- [Bounty Hacker | Try Hack Me | Complete Walkthrough](https://medium.com/@avrodipjoy/bounty-hacker-try-hack-me-complete-walkthrough-1930650a0d0d?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
