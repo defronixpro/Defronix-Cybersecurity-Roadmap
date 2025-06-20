@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Bug Bounty report: CVE-2020–11993](https://medium.com/@4l0neK1n9/bug-bounty-report-cve-2020-11993-e3bbca4995df?source=rss------bug_bounty_writeup-5)
 - [Everything You Need to Know About CVE-2025–3248: Langflow RCE Vulnerability Explained](https://infosecwriteups.com/everything-you-need-to-know-about-cve-2025-3248-langflow-rce-vulnerability-explained-3ef0d5be0076?source=rss----7b722bfd1b8d---4)
 - [Google, Apple, Facebook Logins Exposed in 2025’s 16 Billion Password Leak — What You Must Do Now](https://infosecwriteups.com/google-apple-facebook-logins-exposed-in-2025s-16-billion-password-leak-what-you-must-do-now-c8c3abca9bc3?source=rss----7b722bfd1b8d---4)
 - [Mastering Threat Hunting with Criminal IP: The Dorks Query Playbook &lpar;Part 1&rpar;](https://infosecwriteups.com/mastering-threat-hunting-with-criminal-ip-the-dorks-query-playbook-part-1-93980128014a?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [XSS Meets IDOR: A Double Vulnerability Story on a Learning Platform](https://hettt.medium.com/xss-meets-idor-a-double-vulnerability-story-on-a-learning-platform-aed3157759e0?source=rss------bug_bounty_writeup-5)
 - [Cross-Origin Data Exposure via Misconfigured Jetpack Endpoint on redacted.fb.com](https://medium.com/@gourisankara357/cross-origin-data-exposure-via-misconfigured-jetpack-endpoint-on-redacted-fb-com-252f281ce74f?source=rss------bug_bounty_writeup-5)
 - [When domain.com is the same as mydomain.com](https://medium.com/@yppip/when-domain-com-is-the-same-as-mydomain-com-177029a1593b?source=rss------bug_bounty_writeup-5)
-- [️ 100 Web App Bugs You Should Be Hunting](https://infosecwriteups.com/100-web-app-bugs-you-should-be-hunting-6295f78d6880?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
