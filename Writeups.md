@@ -1,6 +1,8 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Still Logged In? Google OAuth’s Secret Backdoor &lpar;No Tools Needed!&rpar;](https://cybersecuritywriteups.com/still-logged-in-google-oauths-secret-backdoor-no-tools-needed-5d9d964f7a6d?source=rss------bug_bounty_writeup-5)
+- [BAC — IDOR &lpar;$300–$2,500&rpar;](https://medium.com/@abinus2021/bac-idor-300-2-500-a694f1739ce7?source=rss------bug_bounty_writeup-5)
 - [Automating SQL Injection using Dalfox, GF and Waybackurls](https://izumy.medium.com/automating-sql-injection-using-dalfox-gf-and-waybackurls-f6b56176b46f?source=rss------bug_bounty_writeup-5)
 - [Apache Serverində Gözəgörünməz Hücum: Request Smuggling və Ziddiyyətli Başlıqların Gücü](https://medium.com/@4l0neK1n9/bug-bounty-report-cve-2020-11993-e3bbca4995df?source=rss------bug_bounty_writeup-5)
 - [Everything You Need to Know About CVE-2025–3248: Langflow RCE Vulnerability Explained](https://infosecwriteups.com/everything-you-need-to-know-about-cve-2025-3248-langflow-rce-vulnerability-explained-3ef0d5be0076?source=rss----7b722bfd1b8d---4)
@@ -19,8 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [puny-code,0-click account takeover](https://medium.com/@canonminibeast/puny-code-0-click-account-takeover-6345ec46a33b?source=rss------bug_bounty_writeup-5)
 - [✨ Bug Bounty Checklist — From Recon to Exploitation ⚔️](https://medium.com/@0b1d1/bug-bounty-checklist-from-recon-to-exploitation-%EF%B8%8F-a8374b2a25ea?source=rss------bug_bounty_writeup-5)
 - [How I Found a Improper Input Validation in Minutes!](https://medium.com/@fuad_aliyev/how-i-found-a-bug-in-minutes-67b55c529ed9?source=rss------bug_bounty_writeup-5)
-- [XSS Meets IDOR: A Double Vulnerability Story on a Learning Platform](https://hettt.medium.com/xss-meets-idor-a-double-vulnerability-story-on-a-learning-platform-aed3157759e0?source=rss------bug_bounty_writeup-5)
-- [Cross-Origin Data Exposure via Misconfigured Jetpack Endpoint on redacted.fb.com](https://medium.com/@gourisankara357/cross-origin-data-exposure-via-misconfigured-jetpack-endpoint-on-redacted-fb-com-252f281ce74f?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
