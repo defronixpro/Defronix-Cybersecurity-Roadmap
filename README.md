@@ -923,7 +923,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
 - [Automating SQL Injection using Dalfox, GF and Waybackurls](https://izumy.medium.com/automating-sql-injection-using-dalfox-gf-and-waybackurls-f6b56176b46f?source=rss------bug_bounty_writeup-5)
-- [Bug Bounty report: CVE-2020–11993](https://medium.com/@4l0neK1n9/bug-bounty-report-cve-2020-11993-e3bbca4995df?source=rss------bug_bounty_writeup-5)
+- [Apache Serverində Gözəgörünməz Hücum: Request Smuggling və Ziddiyyətli Başlıqların Gücü](https://medium.com/@4l0neK1n9/bug-bounty-report-cve-2020-11993-e3bbca4995df?source=rss------bug_bounty_writeup-5)
 - [Everything You Need to Know About CVE-2025–3248: Langflow RCE Vulnerability Explained](https://infosecwriteups.com/everything-you-need-to-know-about-cve-2025-3248-langflow-rce-vulnerability-explained-3ef0d5be0076?source=rss----7b722bfd1b8d---4)
 - [Google, Apple, Facebook Logins Exposed in 2025’s 16 Billion Password Leak — What You Must Do Now](https://infosecwriteups.com/google-apple-facebook-logins-exposed-in-2025s-16-billion-password-leak-what-you-must-do-now-c8c3abca9bc3?source=rss----7b722bfd1b8d---4)
 - [Mastering Threat Hunting with Criminal IP: The Dorks Query Playbook &lpar;Part 1&rpar;](https://infosecwriteups.com/mastering-threat-hunting-with-criminal-ip-the-dorks-query-playbook-part-1-93980128014a?source=rss----7b722bfd1b8d---4)
