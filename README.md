@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [PAN-OS CVE-2025–0133 | XSS](https://osintteam.blog/pan-os-cve-2025-0133-xss-d7ae25212005?source=rss------bug_bounty_writeup-5)
 - [How I Found a User Enumeration Flaw Through Password Reset Logic](https://medium.com/@gourisankara357/how-i-found-a-user-enumeration-flaw-through-password-reset-logic-9b7c01dbf0fe?source=rss------bug_bounty_writeup-5)
 - [Automation for Smarter Bug Hunting](https://infosecwriteups.com/automation-for-smarter-bug-hunting-8ada52923e81?source=rss----7b722bfd1b8d---4)
 - [16 Billion Passwords Leaked in the Biggest Breach Ever — Change Yours NOW](https://infosecwriteups.com/16-billion-passwords-leaked-in-the-biggest-breach-ever-change-yours-now-17a66f805b6f?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [$1,000-Value Bug: Abusing Cookie-Based Voting to Manipulate Comments at Scale](https://infosecwriteups.com/1-000-value-bug-abusing-cookie-based-voting-to-manipulate-comments-at-scale-7e3f3b672ad7?source=rss------bug_bounty_writeup-5)
 - [How to Start Bug Bounty in 2025 — Technical Guide with Tools, Tactics &amp; Real Step](https://medium.com/@kailasv678/how-to-start-bug-bounty-in-2025-technical-guide-with-tools-tactics-real-step-ccca088f5675?source=rss------bug_bounty_writeup-5)
 - [puny-code,0-click account takeover](https://medium.com/@canonminibeast/puny-code-0-click-account-takeover-6345ec46a33b?source=rss------bug_bounty_writeup-5)
-- [✨ Bug Bounty Checklist — From Recon to Exploitation ⚔️](https://medium.com/@0b1d1/bug-bounty-checklist-from-recon-to-exploitation-%EF%B8%8F-a8374b2a25ea?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
