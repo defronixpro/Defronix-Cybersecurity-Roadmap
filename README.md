@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How a Simple Bookmark Earned a Two-Digit € Bug Bounty](https://medium.com/meetcyber/how-a-simple-bookmark-earned-a-two-digit-bug-bounty-0a956537e5e5?source=rss------bug_bounty_writeup-5)
 - [When Permissions Don’t Match Reality: A Business Logic Flaw in Cloud Data Science Platforms](https://medium.com/@TakiasSec/when-permissions-dont-match-reality-a-business-logic-flaw-in-cloud-data-science-platforms-4f3d0a68fab0?source=rss------bug_bounty_writeup-5)
 - [PAN-OS CVE-2025–0133 | XSS](https://osintteam.blog/pan-os-cve-2025-0133-xss-d7ae25212005?source=rss------bug_bounty_writeup-5)
 - [How I Found a User Enumeration Flaw Through Password Reset Logic](https://medium.com/@gourisankara357/how-i-found-a-user-enumeration-flaw-through-password-reset-logic-9b7c01dbf0fe?source=rss------bug_bounty_writeup-5)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Everything You Need to Know About CVE-2025–3248: Langflow RCE Vulnerability Explained](https://infosecwriteups.com/everything-you-need-to-know-about-cve-2025-3248-langflow-rce-vulnerability-explained-3ef0d5be0076?source=rss----7b722bfd1b8d---4)
 - [How I Got 4 EUR for Free by Submitting “null” as a Redeem Code](https://medium.com/@banertheinrich/how-i-got-4-eur-for-free-by-submitting-null-as-a-redeem-code-257248184d28?source=rss------bug_bounty_writeup-5)
 - [$1,000-Value Bug: Abusing Cookie-Based Voting to Manipulate Comments at Scale](https://infosecwriteups.com/1-000-value-bug-abusing-cookie-based-voting-to-manipulate-comments-at-scale-7e3f3b672ad7?source=rss------bug_bounty_writeup-5)
-- [How to Start Bug Bounty in 2025 — Technical Guide with Tools, Tactics &amp; Real Step](https://medium.com/@kailasv678/how-to-start-bug-bounty-in-2025-technical-guide-with-tools-tactics-real-step-ccca088f5675?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
