@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Why 90% Fail at Bug Bounties &lpar;And How You Can Actually Win in 2025&rpar;](https://medium.com/@rishabhshri08/why-90-fail-at-bug-bounties-and-how-you-can-actually-win-in-2025-47ada94af783?source=rss------bug_bounty_writeup-5)
 - [Reflected XSS via File Upload on Sony](https://dr34m14.medium.com/reflected-xss-via-file-upload-on-sony-0aa0f3295216?source=rss------bug_bounty_writeup-5)
 - [Response Manipulation: The Hidden Path to Account Takeover](https://medium.com/@Y0S3TREX/response-manipulation-the-hidden-path-to-account-takeover-1f009bb5a676?source=rss------bug_bounty_writeup-5)
 - [Simple manual recon leads to P1 finding and uncovering AWS access and secret keys](https://medium.com/@abdalah336/simple-manual-recon-leads-to-p1-finding-and-uncovering-aws-access-and-secret-keys-01739de81633?source=rss------bug_bounty_writeup-5)
@@ -10,7 +11,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How a Simple Bookmark Earned a Two-Digit € Bug Bounty](https://medium.com/meetcyber/how-a-simple-bookmark-earned-a-two-digit-bug-bounty-0a956537e5e5?source=rss------bug_bounty_writeup-5)
 - [When Permissions Don’t Match Reality: A Business Logic Flaw in Cloud Data Science Platforms](https://medium.com/@TakiasSec/when-permissions-dont-match-reality-a-business-logic-flaw-in-cloud-data-science-platforms-4f3d0a68fab0?source=rss------bug_bounty_writeup-5)
 - [PAN-OS CVE-2025–0133 | XSS](https://osintteam.blog/pan-os-cve-2025-0133-xss-d7ae25212005?source=rss------bug_bounty_writeup-5)
-- [How I Found a User Enumeration Flaw Through Password Reset Logic](https://medium.com/@gourisankara357/how-i-found-a-user-enumeration-flaw-through-password-reset-logic-9b7c01dbf0fe?source=rss------bug_bounty_writeup-5)
 - [Automation for Smarter Bug Hunting](https://infosecwriteups.com/automation-for-smarter-bug-hunting-8ada52923e81?source=rss----7b722bfd1b8d---4)
 - [16 Billion Passwords Leaked in the Biggest Breach Ever — Change Yours NOW](https://infosecwriteups.com/16-billion-passwords-leaked-in-the-biggest-breach-ever-change-yours-now-17a66f805b6f?source=rss----7b722bfd1b8d---4)
 - [Build Your Eye-Catching Resume Using JSON Resume](https://infosecwriteups.com/build-your-eye-catching-resume-using-json-resume-4b5c81fcc59a?source=rss----7b722bfd1b8d---4)
