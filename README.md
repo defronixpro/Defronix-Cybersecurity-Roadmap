@@ -922,6 +922,14 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Simple manual recon leads to P1 finding and uncovering AWS access and secret keys](https://medium.com/@abdalah336/simple-manual-recon-leads-to-p1-finding-and-uncovering-aws-access-and-secret-keys-01739de81633?source=rss------bug_bounty_writeup-5)
+- [Reflected XSS with WAF Bypass — A Creative Payload That Worked](https://foysal1197.medium.com/reflected-xss-with-waf-bypass-a-creative-payload-that-worked-20e44e9ab23d?source=rss------bug_bounty_writeup-5)
+- [Subdomain Takeover Leads to 5000 USDC — Wild Hunt Pays Off](https://foysal1197.medium.com/subdomain-takeover-leads-to-5000-usdc-wild-hunt-pays-off-60d7fcddf932?source=rss------bug_bounty_writeup-5)
+- [IDOR to Account Takeover — My $4500 Bug Bounty Journey](https://foysal1197.medium.com/idor-to-account-takeover-my-4500-bug-bounty-journey-32e8b13fd60b?source=rss------bug_bounty_writeup-5)
+- [How a Simple Bookmark Earned a Two-Digit € Bug Bounty](https://medium.com/meetcyber/how-a-simple-bookmark-earned-a-two-digit-bug-bounty-0a956537e5e5?source=rss------bug_bounty_writeup-5)
+- [When Permissions Don’t Match Reality: A Business Logic Flaw in Cloud Data Science Platforms](https://medium.com/@TakiasSec/when-permissions-dont-match-reality-a-business-logic-flaw-in-cloud-data-science-platforms-4f3d0a68fab0?source=rss------bug_bounty_writeup-5)
+- [PAN-OS CVE-2025–0133 | XSS](https://osintteam.blog/pan-os-cve-2025-0133-xss-d7ae25212005?source=rss------bug_bounty_writeup-5)
+- [How I Found a User Enumeration Flaw Through Password Reset Logic](https://medium.com/@gourisankara357/how-i-found-a-user-enumeration-flaw-through-password-reset-logic-9b7c01dbf0fe?source=rss------bug_bounty_writeup-5)
 - [Automation for Smarter Bug Hunting](https://infosecwriteups.com/automation-for-smarter-bug-hunting-8ada52923e81?source=rss----7b722bfd1b8d---4)
 - [16 Billion Passwords Leaked in the Biggest Breach Ever — Change Yours NOW](https://infosecwriteups.com/16-billion-passwords-leaked-in-the-biggest-breach-ever-change-yours-now-17a66f805b6f?source=rss----7b722bfd1b8d---4)
 - [Build Your Eye-Catching Resume Using JSON Resume](https://infosecwriteups.com/build-your-eye-catching-resume-using-json-resume-4b5c81fcc59a?source=rss----7b722bfd1b8d---4)
@@ -931,6 +939,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [The Ultimate Red Team Playbook: 20 Attack Techniques That Will Make You a Better Defender](https://infosecwriteups.com/the-ultimate-red-team-playbook-20-attack-techniques-that-will-make-you-a-better-defender-be5a11ac2585?source=rss----7b722bfd1b8d---4)
 - [Stop Writing Terrible Spring Boot Code — 7 Mistakes That Are Slowing You Down &lpar;and How to Fix…](https://infosecwriteups.com/stop-writing-terrible-spring-boot-code-7-mistakes-that-are-slowing-you-down-and-how-to-fix-793252b5e4b5?source=rss----7b722bfd1b8d---4)
 - [Sending Push Notifications with Azure Notification Hub: A Beginner-Friendly Guide](https://infosecwriteups.com/sending-push-notifications-with-azure-notification-hub-a-beginner-friendly-guide-22bc79db37d7?source=rss----7b722bfd1b8d---4)
+- [Still Logged In? Google OAuth’s Secret Backdoor &lpar;No Tools Needed!&rpar;](https://cybersecuritywriteups.com/still-logged-in-google-oauths-secret-backdoor-no-tools-needed-5d9d964f7a6d?source=rss------bug_bounty_writeup-5)
+- [BAC — IDOR &lpar;$300–$2,500&rpar;](https://medium.com/@abinus2021/bac-idor-300-2-500-a694f1739ce7?source=rss------bug_bounty_writeup-5)
 - [Everything You Need to Know About CVE-2025–3248: Langflow RCE Vulnerability Explained](https://infosecwriteups.com/everything-you-need-to-know-about-cve-2025-3248-langflow-rce-vulnerability-explained-3ef0d5be0076?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
