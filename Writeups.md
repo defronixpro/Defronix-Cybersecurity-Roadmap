@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Response Manipulation: The Hidden Path to Account Takeover](https://medium.com/@Y0S3TREX/response-manipulation-the-hidden-path-to-account-takeover-1f009bb5a676?source=rss------bug_bounty_writeup-5)
 - [Simple manual recon leads to P1 finding and uncovering AWS access and secret keys](https://medium.com/@abdalah336/simple-manual-recon-leads-to-p1-finding-and-uncovering-aws-access-and-secret-keys-01739de81633?source=rss------bug_bounty_writeup-5)
 - [Reflected XSS with WAF Bypass — A Creative Payload That Worked](https://foysal1197.medium.com/reflected-xss-with-waf-bypass-a-creative-payload-that-worked-20e44e9ab23d?source=rss------bug_bounty_writeup-5)
 - [Subdomain Takeover Leads to 5000 USDC — Wild Hunt Pays Off](https://foysal1197.medium.com/subdomain-takeover-leads-to-5000-usdc-wild-hunt-pays-off-60d7fcddf932?source=rss------bug_bounty_writeup-5)
@@ -19,7 +20,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Stop Writing Terrible Spring Boot Code — 7 Mistakes That Are Slowing You Down &lpar;and How to Fix…](https://infosecwriteups.com/stop-writing-terrible-spring-boot-code-7-mistakes-that-are-slowing-you-down-and-how-to-fix-793252b5e4b5?source=rss----7b722bfd1b8d---4)
 - [Sending Push Notifications with Azure Notification Hub: A Beginner-Friendly Guide](https://infosecwriteups.com/sending-push-notifications-with-azure-notification-hub-a-beginner-friendly-guide-22bc79db37d7?source=rss----7b722bfd1b8d---4)
 - [Still Logged In? Google OAuth’s Secret Backdoor &lpar;No Tools Needed!&rpar;](https://cybersecuritywriteups.com/still-logged-in-google-oauths-secret-backdoor-no-tools-needed-5d9d964f7a6d?source=rss------bug_bounty_writeup-5)
-- [BAC — IDOR &lpar;$300–$2,500&rpar;](https://medium.com/@abinus2021/bac-idor-300-2-500-a694f1739ce7?source=rss------bug_bounty_writeup-5)
 - [Everything You Need to Know About CVE-2025–3248: Langflow RCE Vulnerability Explained](https://infosecwriteups.com/everything-you-need-to-know-about-cve-2025-3248-langflow-rce-vulnerability-explained-3ef0d5be0076?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
