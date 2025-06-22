@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Reflected XSS with WAF Bypass — A Creative Payload That Worked](https://foysal1197.medium.com/reflected-xss-with-waf-bypass-a-creative-payload-that-worked-20e44e9ab23d?source=rss------bug_bounty_writeup-5)
 - [Subdomain Takeover Leads to 5000 USDC — Wild Hunt Pays Off](https://foysal1197.medium.com/subdomain-takeover-leads-to-5000-usdc-wild-hunt-pays-off-60d7fcddf932?source=rss------bug_bounty_writeup-5)
 - [IDOR to Account Takeover — My $4500 Bug Bounty Journey](https://foysal1197.medium.com/idor-to-account-takeover-my-4500-bug-bounty-journey-32e8b13fd60b?source=rss------bug_bounty_writeup-5)
 - [How a Simple Bookmark Earned a Two-Digit € Bug Bounty](https://medium.com/meetcyber/how-a-simple-bookmark-earned-a-two-digit-bug-bounty-0a956537e5e5?source=rss------bug_bounty_writeup-5)
@@ -19,7 +20,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Still Logged In? Google OAuth’s Secret Backdoor &lpar;No Tools Needed!&rpar;](https://cybersecuritywriteups.com/still-logged-in-google-oauths-secret-backdoor-no-tools-needed-5d9d964f7a6d?source=rss------bug_bounty_writeup-5)
 - [BAC — IDOR &lpar;$300–$2,500&rpar;](https://medium.com/@abinus2021/bac-idor-300-2-500-a694f1739ce7?source=rss------bug_bounty_writeup-5)
 - [Automating SQL Injection using Dalfox, GF and Waybackurls](https://izumy.medium.com/automating-sql-injection-using-dalfox-gf-and-waybackurls-f6b56176b46f?source=rss------bug_bounty_writeup-5)
-- [Apache Serverində Gözəgörünməz Hücum: Request Smuggling və Ziddiyyətli Başlıqların Gücü](https://medium.com/@4l0neK1n9/bug-bounty-report-cve-2020-11993-e3bbca4995df?source=rss------bug_bounty_writeup-5)
 - [Everything You Need to Know About CVE-2025–3248: Langflow RCE Vulnerability Explained](https://infosecwriteups.com/everything-you-need-to-know-about-cve-2025-3248-langflow-rce-vulnerability-explained-3ef0d5be0076?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
