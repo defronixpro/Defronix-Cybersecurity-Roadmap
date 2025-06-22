@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [IDOR to Account Takeover — My $4500 Bug Bounty Journey](https://foysal1197.medium.com/idor-to-account-takeover-my-4500-bug-bounty-journey-32e8b13fd60b?source=rss------bug_bounty_writeup-5)
 - [How a Simple Bookmark Earned a Two-Digit € Bug Bounty](https://medium.com/meetcyber/how-a-simple-bookmark-earned-a-two-digit-bug-bounty-0a956537e5e5?source=rss------bug_bounty_writeup-5)
 - [When Permissions Don’t Match Reality: A Business Logic Flaw in Cloud Data Science Platforms](https://medium.com/@TakiasSec/when-permissions-dont-match-reality-a-business-logic-flaw-in-cloud-data-science-platforms-4f3d0a68fab0?source=rss------bug_bounty_writeup-5)
 - [PAN-OS CVE-2025–0133 | XSS](https://osintteam.blog/pan-os-cve-2025-0133-xss-d7ae25212005?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Apache Serverində Gözəgörünməz Hücum: Request Smuggling və Ziddiyyətli Başlıqların Gücü](https://medium.com/@4l0neK1n9/bug-bounty-report-cve-2020-11993-e3bbca4995df?source=rss------bug_bounty_writeup-5)
 - [Everything You Need to Know About CVE-2025–3248: Langflow RCE Vulnerability Explained](https://infosecwriteups.com/everything-you-need-to-know-about-cve-2025-3248-langflow-rce-vulnerability-explained-3ef0d5be0076?source=rss----7b722bfd1b8d---4)
 - [How I Got 4 EUR for Free by Submitting “null” as a Redeem Code](https://medium.com/@banertheinrich/how-i-got-4-eur-for-free-by-submitting-null-as-a-redeem-code-257248184d28?source=rss------bug_bounty_writeup-5)
-- [$1,000-Value Bug: Abusing Cookie-Based Voting to Manipulate Comments at Scale](https://infosecwriteups.com/1-000-value-bug-abusing-cookie-based-voting-to-manipulate-comments-at-scale-7e3f3b672ad7?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
