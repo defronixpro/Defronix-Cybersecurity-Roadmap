@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Bypass Facebook Business Quarantine — Integrity Safeguards](https://gtm0x01.medium.com/bypass-facebook-business-quarantine-integrity-safeguards-6eea61ee9eca?source=rss------bug_bounty_writeup-5)
 - [Mastering Nmap: The Ultimate Guide to Port Scanning](https://hettt.medium.com/mastering-nmap-the-ultimate-guide-to-port-scanning-530d0b0138f9?source=rss------bug_bounty_writeup-5)
 - [NTLM Explained in Under 5 Minutes &lpar;And Why You Should Care&rpar;](https://infosecwriteups.com/ntlm-explained-in-under-5-minutes-and-why-you-should-care-596d3d0eb5ee?source=rss----7b722bfd1b8d---4)
 - [$7,500 Bounty: Exposed Proxy on Reddit Allowed External Access to Internal Domains](https://infosecwriteups.com/7-500-bounty-exposed-proxy-on-reddit-allowed-external-access-to-internal-domains-a6abc413d852?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Subdomain Takeover Leads to 5000 USDC — Wild Hunt Pays Off](https://foysal1197.medium.com/subdomain-takeover-leads-to-5000-usdc-wild-hunt-pays-off-60d7fcddf932?source=rss------bug_bounty_writeup-5)
 - [IDOR to Account Takeover — My $4500 Bug Bounty Journey](https://foysal1197.medium.com/idor-to-account-takeover-my-4500-bug-bounty-journey-32e8b13fd60b?source=rss------bug_bounty_writeup-5)
 - [How a Simple Bookmark Earned a Two-Digit € Bug Bounty](https://medium.com/meetcyber/how-a-simple-bookmark-earned-a-two-digit-bug-bounty-0a956537e5e5?source=rss------bug_bounty_writeup-5)
-- [When Permissions Don’t Match Reality: A Business Logic Flaw in Cloud Data Science Platforms](https://medium.com/@TakiasSec/when-permissions-dont-match-reality-a-business-logic-flaw-in-cloud-data-science-platforms-4f3d0a68fab0?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
