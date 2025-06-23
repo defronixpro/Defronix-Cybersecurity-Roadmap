@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [PHP RCE in a Restricted Environment Using pcntl_fork and pcntl_exec](https://medium.com/@soman07/php-rce-in-a-restricted-environment-using-pcntl-fork-and-pcntl-exec-50e07ef54168?source=rss------bug_bounty_writeup-5)
 - [Bypass Facebook Business Quarantine — Integrity Safeguards](https://gtm0x01.medium.com/bypass-facebook-business-quarantine-integrity-safeguards-6eea61ee9eca?source=rss------bug_bounty_writeup-5)
 - [Mastering Nmap: The Ultimate Guide to Port Scanning](https://hettt.medium.com/mastering-nmap-the-ultimate-guide-to-port-scanning-530d0b0138f9?source=rss------bug_bounty_writeup-5)
 - [NTLM Explained in Under 5 Minutes &lpar;And Why You Should Care&rpar;](https://infosecwriteups.com/ntlm-explained-in-under-5-minutes-and-why-you-should-care-596d3d0eb5ee?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Reflected XSS with WAF Bypass — A Creative Payload That Worked](https://foysal1197.medium.com/reflected-xss-with-waf-bypass-a-creative-payload-that-worked-20e44e9ab23d?source=rss------bug_bounty_writeup-5)
 - [Subdomain Takeover Leads to 5000 USDC — Wild Hunt Pays Off](https://foysal1197.medium.com/subdomain-takeover-leads-to-5000-usdc-wild-hunt-pays-off-60d7fcddf932?source=rss------bug_bounty_writeup-5)
 - [IDOR to Account Takeover — My $4500 Bug Bounty Journey](https://foysal1197.medium.com/idor-to-account-takeover-my-4500-bug-bounty-journey-32e8b13fd60b?source=rss------bug_bounty_writeup-5)
-- [How a Simple Bookmark Earned a Two-Digit € Bug Bounty](https://medium.com/meetcyber/how-a-simple-bookmark-earned-a-two-digit-bug-bounty-0a956537e5e5?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
