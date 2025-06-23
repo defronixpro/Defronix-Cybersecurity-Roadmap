@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [CVE-2025–0133: Reflected XSS in Palo Alto GlobalProtect &lpar;PAN-OS&rpar; Exploit Analysis &amp; PoC](https://medium.com/@blog.krishoffsec/cve-2025-0133-reflected-xss-in-palo-alto-globalprotect-pan-os-exploit-analysis-poc-7468e29fc7a3?source=rss------bug_bounty_writeup-5)
 - [PHP RCE in a Restricted Environment Using pcntl_fork and pcntl_exec](https://medium.com/@soman07/php-rce-in-a-restricted-environment-using-pcntl-fork-and-pcntl-exec-50e07ef54168?source=rss------bug_bounty_writeup-5)
 - [Bypass Facebook Business Quarantine — Integrity Safeguards](https://gtm0x01.medium.com/bypass-facebook-business-quarantine-integrity-safeguards-6eea61ee9eca?source=rss------bug_bounty_writeup-5)
 - [Mastering Nmap: The Ultimate Guide to Port Scanning](https://hettt.medium.com/mastering-nmap-the-ultimate-guide-to-port-scanning-530d0b0138f9?source=rss------bug_bounty_writeup-5)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Simple manual recon leads to P1 finding and uncovering AWS access and secret keys](https://medium.com/@abdalah336/simple-manual-recon-leads-to-p1-finding-and-uncovering-aws-access-and-secret-keys-01739de81633?source=rss------bug_bounty_writeup-5)
 - [Reflected XSS with WAF Bypass — A Creative Payload That Worked](https://foysal1197.medium.com/reflected-xss-with-waf-bypass-a-creative-payload-that-worked-20e44e9ab23d?source=rss------bug_bounty_writeup-5)
 - [Subdomain Takeover Leads to 5000 USDC — Wild Hunt Pays Off](https://foysal1197.medium.com/subdomain-takeover-leads-to-5000-usdc-wild-hunt-pays-off-60d7fcddf932?source=rss------bug_bounty_writeup-5)
-- [IDOR to Account Takeover — My $4500 Bug Bounty Journey](https://foysal1197.medium.com/idor-to-account-takeover-my-4500-bug-bounty-journey-32e8b13fd60b?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
