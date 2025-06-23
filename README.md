@@ -922,6 +922,16 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [NTLM Explained in Under 5 Minutes &lpar;And Why You Should Care&rpar;](https://infosecwriteups.com/ntlm-explained-in-under-5-minutes-and-why-you-should-care-596d3d0eb5ee?source=rss----7b722bfd1b8d---4)
+- [$7,500 Bounty: Exposed Proxy on Reddit Allowed External Access to Internal Domains](https://infosecwriteups.com/7-500-bounty-exposed-proxy-on-reddit-allowed-external-access-to-internal-domains-a6abc413d852?source=rss----7b722bfd1b8d---4)
+- [API again: Org Takeover](https://infosecwriteups.com/api-again-org-takeover-a02e6d353027?source=rss----7b722bfd1b8d---4)
+- [Palo Alto Wireshark Quiz — January 2023](https://infosecwriteups.com/palo-alto-wireshark-quiz-january-2023-7591584e52d9?source=rss----7b722bfd1b8d---4)
+- [DNS Records](https://infosecwriteups.com/dns-records-3c7bcfe74b01?source=rss----7b722bfd1b8d---4)
+- [OSCP: Proving Grounds — Payday](https://infosecwriteups.com/oscp-proving-grounds-payday-6942ad48f071?source=rss----7b722bfd1b8d---4)
+- [Browser-in-the-Browser: The New Phishing Frontier](https://infosecwriteups.com/browser-in-the-browser-the-new-phishing-frontier-614cd3fddab9?source=rss----7b722bfd1b8d---4)
+- [Bypassing Filters via XML Encoding to Perform SQL Injection for Bug Hunting with BurpSuite](https://infosecwriteups.com/bypassing-filters-via-xml-encoding-to-perform-sql-injection-for-bug-hunting-with-with-burpsuite-1db9b7b486e8?source=rss----7b722bfd1b8d---4)
+- [Cheese CTF: TryHackMe WriteUp](https://infosecwriteups.com/cheese-ctf-tryhackme-writeup-362c996854f6?source=rss----7b722bfd1b8d---4)
+- [Hackers Assemble: The Vulniverse Saga](https://infosecwriteups.com/hackers-assemble-the-vulniverse-saga-84992359a522?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
