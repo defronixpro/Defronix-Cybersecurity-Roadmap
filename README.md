@@ -923,16 +923,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
 - [Race Condition 101: How I Exploited a Real Bug Bounty Scenario to Break Backend Validation](https://keroayman77.medium.com/race-condition-101-how-i-exploited-a-real-bug-bounty-scenario-to-break-backend-validation-c39352815f0a?source=rss------bug_bounty_writeup-5)
-- [The Dark Side of Swagger UI: How XSS and HTML Injection Can Compromise APIs](https://infosecwriteups.com/the-dark-side-of-swagger-ui-how-xss-and-html-injection-can-compromise-apis-1b670972a443?source=rss----7b722bfd1b8d---4)
-- [️ Stop API Key Leaks Before They Cost You — Meet KeySentry](https://infosecwriteups.com/%EF%B8%8F-stop-api-key-leaks-before-they-cost-you-meet-keysentry-5521f6c75ab0?source=rss----7b722bfd1b8d---4)
-- [AI closing the loop, CTI to Simulations and hunting](https://infosecwriteups.com/ai-closing-the-loop-cti-to-simulations-cfa65a3eca4e?source=rss----7b722bfd1b8d---4)
-- [80% of Phishing Clues Are in the Header, PhishHound Finds Them with YAML Logic](https://infosecwriteups.com/80-of-phishing-clues-are-in-the-header-phishhound-finds-them-with-yaml-logic-39e436ee151e?source=rss----7b722bfd1b8d---4)
-- [What is TTL &lpar;Time To Live&rpar;?](https://infosecwriteups.com/what-is-ttl-time-to-live-07ac44018422?source=rss----7b722bfd1b8d---4)
-- [Inside the MSHTML Exploit: A SOC Analyst’s Walkthrough of CVE-2021–40444](https://infosecwriteups.com/inside-the-mshtml-exploit-a-soc-analysts-walkthrough-of-cve-2021-40444-5a1b388985b0?source=rss----7b722bfd1b8d---4)
-- [How to Write a Perfect Bug Bounty Report &lpar;with Examples&rpar;](https://infosecwriteups.com/how-to-write-a-perfect-bug-bounty-report-with-examples-d6c72dad2ab4?source=rss----7b722bfd1b8d---4)
-- [How an OAuth Misconfiguration Led to Token Leakage](https://infosecwriteups.com/how-an-oauth-misconfiguration-led-to-token-leakage-6b38d3d32f8e?source=rss----7b722bfd1b8d---4)
-- [Lost and Found: How Deleted User Accounts Were Still Alive in the System ️](https://infosecwriteups.com/lost-and-found-how-deleted-user-accounts-were-still-alive-in-the-system-%EF%B8%8F-2ca9b1af0749?source=rss----7b722bfd1b8d---4)
-- [WebSocket Attacks — The protocol that dances under your security radar &lpar;POC inside&rpar;](https://infosecwriteups.com/websocket-attacks-the-protocol-that-dances-under-your-security-radar-poc-inside-7b327b51c7ba?source=rss----7b722bfd1b8d---4)
 - [The Uppercase Escape: Breaking Endpoint Restrictions via Case-Sensitivity](https://infosecwriteups.com/the-uppercase-escape-breaking-endpoint-restrictions-via-case-sensitivity-075ddd5d14e4?source=rss------bug_bounty_writeup-5)
 - [How Getting Stuck Led Me to a $3,XXX Bounty: The Recon That Almost Meant Nothing](https://kongsec.medium.com/how-getting-stuck-led-me-to-a-3-xxx-bounty-the-recon-that-almost-meant-nothing-a03a354df2cf?source=rss------bug_bounty_writeup-5)
 - [Remote File Inclusion &lpar;RFI&rpar; — Full Breakdown for Beginners](https://medium.com/@SKaif009/remote-file-inclusion-rfi-full-breakdown-for-beginners-7f89c55e3b2a?source=rss------bug_bounty_writeup-5)
