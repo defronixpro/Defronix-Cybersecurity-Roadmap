@@ -922,6 +922,16 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [The Dark Side of Swagger UI: How XSS and HTML Injection Can Compromise APIs](https://infosecwriteups.com/the-dark-side-of-swagger-ui-how-xss-and-html-injection-can-compromise-apis-1b670972a443?source=rss----7b722bfd1b8d---4)
+- [️ Stop API Key Leaks Before They Cost You — Meet KeySentry](https://infosecwriteups.com/%EF%B8%8F-stop-api-key-leaks-before-they-cost-you-meet-keysentry-5521f6c75ab0?source=rss----7b722bfd1b8d---4)
+- [AI closing the loop, CTI to Simulations and hunting](https://infosecwriteups.com/ai-closing-the-loop-cti-to-simulations-cfa65a3eca4e?source=rss----7b722bfd1b8d---4)
+- [80% of Phishing Clues Are in the Header, PhishHound Finds Them with YAML Logic](https://infosecwriteups.com/80-of-phishing-clues-are-in-the-header-phishhound-finds-them-with-yaml-logic-39e436ee151e?source=rss----7b722bfd1b8d---4)
+- [What is TTL &lpar;Time To Live&rpar;?](https://infosecwriteups.com/what-is-ttl-time-to-live-07ac44018422?source=rss----7b722bfd1b8d---4)
+- [Inside the MSHTML Exploit: A SOC Analyst’s Walkthrough of CVE-2021–40444](https://infosecwriteups.com/inside-the-mshtml-exploit-a-soc-analysts-walkthrough-of-cve-2021-40444-5a1b388985b0?source=rss----7b722bfd1b8d---4)
+- [How to Write a Perfect Bug Bounty Report &lpar;with Examples&rpar;](https://infosecwriteups.com/how-to-write-a-perfect-bug-bounty-report-with-examples-d6c72dad2ab4?source=rss----7b722bfd1b8d---4)
+- [How an OAuth Misconfiguration Led to Token Leakage](https://infosecwriteups.com/how-an-oauth-misconfiguration-led-to-token-leakage-6b38d3d32f8e?source=rss----7b722bfd1b8d---4)
+- [Lost and Found: How Deleted User Accounts Were Still Alive in the System ️](https://infosecwriteups.com/lost-and-found-how-deleted-user-accounts-were-still-alive-in-the-system-%EF%B8%8F-2ca9b1af0749?source=rss----7b722bfd1b8d---4)
+- [WebSocket Attacks — The protocol that dances under your security radar &lpar;POC inside&rpar;](https://infosecwriteups.com/websocket-attacks-the-protocol-that-dances-under-your-security-radar-poc-inside-7b327b51c7ba?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
