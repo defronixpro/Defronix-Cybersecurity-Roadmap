@@ -924,7 +924,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 <!-- WRITEUPS:START -->
 - [How Getting Stuck Led Me to a $3,XXX Bounty: The Recon That Almost Meant Nothing](https://kongsec.medium.com/how-getting-stuck-led-me-to-a-3-xxx-bounty-the-recon-that-almost-meant-nothing-a03a354df2cf?source=rss------bug_bounty_writeup-5)
 - [Remote File Inclusion &lpar;RFI&rpar; — Full Breakdown for Beginners](https://medium.com/@SKaif009/remote-file-inclusion-rfi-full-breakdown-for-beginners-7f89c55e3b2a?source=rss------bug_bounty_writeup-5)
-- [️ Stop API Key Leaks Before They Cost You — Meet KeySentry](https://medium.com/@adityabhatt3010/%EF%B8%8F-stop-api-key-leaks-before-they-cost-you-meet-keysentry-5521f6c75ab0?source=rss------bug_bounty_writeup-5)
+- [️ Stop API Key Leaks Before They Cost You — Meet KeySentry](https://infosecwriteups.com/%EF%B8%8F-stop-api-key-leaks-before-they-cost-you-meet-keysentry-5521f6c75ab0?source=rss------bug_bounty_writeup-5)
 - [CVE-2025–0133: Reflected XSS in Palo Alto GlobalProtect &lpar;PAN-OS&rpar; Exploit Analysis &amp; PoC](https://medium.com/@blog.krishoffsec/cve-2025-0133-reflected-xss-in-palo-alto-globalprotect-pan-os-exploit-analysis-poc-7468e29fc7a3?source=rss------bug_bounty_writeup-5)
 - [PHP RCE in a Restricted Environment Using pcntl_fork and pcntl_exec](https://medium.com/@soman07/php-rce-in-a-restricted-environment-using-pcntl-fork-and-pcntl-exec-50e07ef54168?source=rss------bug_bounty_writeup-5)
 - [Bypass Facebook Business Quarantine — Integrity Safeguards](https://gtm0x01.medium.com/bypass-facebook-business-quarantine-integrity-safeguards-6eea61ee9eca?source=rss------bug_bounty_writeup-5)
