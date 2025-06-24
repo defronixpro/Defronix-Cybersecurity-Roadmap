@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [️ Stop API Key Leaks Before They Cost You — Meet KeySentry](https://medium.com/@adityabhatt3010/%EF%B8%8F-stop-api-key-leaks-before-they-cost-you-meet-keysentry-5521f6c75ab0?source=rss------bug_bounty_writeup-5)
 - [CVE-2025–0133: Reflected XSS in Palo Alto GlobalProtect &lpar;PAN-OS&rpar; Exploit Analysis &amp; PoC](https://medium.com/@blog.krishoffsec/cve-2025-0133-reflected-xss-in-palo-alto-globalprotect-pan-os-exploit-analysis-poc-7468e29fc7a3?source=rss------bug_bounty_writeup-5)
 - [PHP RCE in a Restricted Environment Using pcntl_fork and pcntl_exec](https://medium.com/@soman07/php-rce-in-a-restricted-environment-using-pcntl-fork-and-pcntl-exec-50e07ef54168?source=rss------bug_bounty_writeup-5)
 - [Bypass Facebook Business Quarantine — Integrity Safeguards](https://gtm0x01.medium.com/bypass-facebook-business-quarantine-integrity-safeguards-6eea61ee9eca?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Response Manipulation: The Hidden Path to Account Takeover](https://medium.com/@Y0S3TREX/response-manipulation-the-hidden-path-to-account-takeover-1f009bb5a676?source=rss------bug_bounty_writeup-5)
 - [Simple manual recon leads to P1 finding and uncovering AWS access and secret keys](https://medium.com/@abdalah336/simple-manual-recon-leads-to-p1-finding-and-uncovering-aws-access-and-secret-keys-01739de81633?source=rss------bug_bounty_writeup-5)
 - [Reflected XSS with WAF Bypass — A Creative Payload That Worked](https://foysal1197.medium.com/reflected-xss-with-waf-bypass-a-creative-payload-that-worked-20e44e9ab23d?source=rss------bug_bounty_writeup-5)
-- [Subdomain Takeover Leads to 5000 USDC — Wild Hunt Pays Off](https://foysal1197.medium.com/subdomain-takeover-leads-to-5000-usdc-wild-hunt-pays-off-60d7fcddf932?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
