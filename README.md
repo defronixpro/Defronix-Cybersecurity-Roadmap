@@ -922,6 +922,9 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How Getting Stuck Led Me to a $3,XXX Bounty: The Recon That Almost Meant Nothing](https://kongsec.medium.com/how-getting-stuck-led-me-to-a-3-xxx-bounty-the-recon-that-almost-meant-nothing-a03a354df2cf?source=rss------bug_bounty_writeup-5)
+- [Remote File Inclusion &lpar;RFI&rpar; — Full Breakdown for Beginners](https://medium.com/@SKaif009/remote-file-inclusion-rfi-full-breakdown-for-beginners-7f89c55e3b2a?source=rss------bug_bounty_writeup-5)
+- [️ Stop API Key Leaks Before They Cost You — Meet KeySentry](https://medium.com/@adityabhatt3010/%EF%B8%8F-stop-api-key-leaks-before-they-cost-you-meet-keysentry-5521f6c75ab0?source=rss------bug_bounty_writeup-5)
 - [CVE-2025–0133: Reflected XSS in Palo Alto GlobalProtect &lpar;PAN-OS&rpar; Exploit Analysis &amp; PoC](https://medium.com/@blog.krishoffsec/cve-2025-0133-reflected-xss-in-palo-alto-globalprotect-pan-os-exploit-analysis-poc-7468e29fc7a3?source=rss------bug_bounty_writeup-5)
 - [PHP RCE in a Restricted Environment Using pcntl_fork and pcntl_exec](https://medium.com/@soman07/php-rce-in-a-restricted-environment-using-pcntl-fork-and-pcntl-exec-50e07ef54168?source=rss------bug_bounty_writeup-5)
 - [Bypass Facebook Business Quarantine — Integrity Safeguards](https://gtm0x01.medium.com/bypass-facebook-business-quarantine-integrity-safeguards-6eea61ee9eca?source=rss------bug_bounty_writeup-5)
@@ -939,9 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Why 90% Fail at Bug Bounties &lpar;And How You Can Actually Win in 2025&rpar;](https://medium.com/@rishabhshri08/why-90-fail-at-bug-bounties-and-how-you-can-actually-win-in-2025-47ada94af783?source=rss------bug_bounty_writeup-5)
 - [Reflected XSS via File Upload on Sony](https://dr34m14.medium.com/reflected-xss-via-file-upload-on-sony-0aa0f3295216?source=rss------bug_bounty_writeup-5)
 - [Response Manipulation: The Hidden Path to Account Takeover](https://medium.com/@Y0S3TREX/response-manipulation-the-hidden-path-to-account-takeover-1f009bb5a676?source=rss------bug_bounty_writeup-5)
-- [Simple manual recon leads to P1 finding and uncovering AWS access and secret keys](https://medium.com/@abdalah336/simple-manual-recon-leads-to-p1-finding-and-uncovering-aws-access-and-secret-keys-01739de81633?source=rss------bug_bounty_writeup-5)
-- [Reflected XSS with WAF Bypass — A Creative Payload That Worked](https://foysal1197.medium.com/reflected-xss-with-waf-bypass-a-creative-payload-that-worked-20e44e9ab23d?source=rss------bug_bounty_writeup-5)
-- [Subdomain Takeover Leads to 5000 USDC — Wild Hunt Pays Off](https://foysal1197.medium.com/subdomain-takeover-leads-to-5000-usdc-wild-hunt-pays-off-60d7fcddf932?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
