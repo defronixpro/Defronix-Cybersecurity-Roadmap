@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [CVE-2025-0133 — Reflected Cross-Site Scripting &lpar;XSS&rpar; in Palo Alto GlobalProtect VPN Portal](https://medium.com/@gourisankara357/cve-2025-0133-reflected-cross-site-scripting-xss-in-palo-alto-globalprotect-vpn-portal-591c5711160f?source=rss------bug_bounty_writeup-5)
 - [Zero-click Account Takeover!&lpar;I found it in half an hour&rpar;](https://medium.com/@spettyial/zero-click-account-takeover-i-found-it-in-half-an-hour-444e737f0919?source=rss------bug_bounty_writeup-5)
 - [Mastering Malware Analysis: A SOC Analyst’s Guide to Dynamic Analysis with AnyRun](https://infosecwriteups.com/mastering-malware-analysis-a-soc-analysts-guide-to-dynamic-analysis-with-anyrun-f701afbaefe0?source=rss----7b722bfd1b8d---4)
 - [Exposure Protocol: Information Disclosure in the Wild [Part 4]](https://infosecwriteups.com/exposure-protocol-information-disclosure-in-the-wild-part-4-509a7e6bb1de?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Remote File Inclusion &lpar;RFI&rpar; — Full Breakdown for Beginners](https://systemweakness.com/remote-file-inclusion-rfi-full-breakdown-for-beginners-7f89c55e3b2a?source=rss------bug_bounty_writeup-5)
 - [️ Stop API Key Leaks Before They Cost You — Meet KeySentry](https://infosecwriteups.com/%EF%B8%8F-stop-api-key-leaks-before-they-cost-you-meet-keysentry-5521f6c75ab0?source=rss------bug_bounty_writeup-5)
 - [CVE-2025–0133: Reflected XSS in Palo Alto GlobalProtect &lpar;PAN-OS&rpar; Exploit Analysis &amp; PoC](https://medium.com/@blog.krishoffsec/cve-2025-0133-reflected-xss-in-palo-alto-globalprotect-pan-os-exploit-analysis-poc-7468e29fc7a3?source=rss------bug_bounty_writeup-5)
-- [PHP RCE in a Restricted Environment Using pcntl_fork and pcntl_exec](https://medium.com/@soman07/php-rce-in-a-restricted-environment-using-pcntl-fork-and-pcntl-exec-50e07ef54168?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
