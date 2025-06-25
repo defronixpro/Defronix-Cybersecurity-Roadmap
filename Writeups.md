@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Bypassing the Group Member Limit via Race Condition](https://medium.com/@khaledelnabet/bypassing-the-group-member-limit-via-race-condition-2442ad33739e?source=rss------bug_bounty_writeup-5)
 - [Hacking APIs | Insecure Deserialization](https://medium.com/@aminefarah802/hacking-apis-1b809d9d5aa0?source=rss------bug_bounty_writeup-5)
 - [CVE-2025-0133 — Reflected Cross-Site Scripting &lpar;XSS&rpar; in Palo Alto GlobalProtect VPN Portal](https://medium.com/@gourisankara357/cve-2025-0133-reflected-cross-site-scripting-xss-in-palo-alto-globalprotect-vpn-portal-591c5711160f?source=rss------bug_bounty_writeup-5)
 - [Zero-click Account Takeover!&lpar;I found it in half an hour&rpar;](https://medium.com/@spettyial/zero-click-account-takeover-i-found-it-in-half-an-hour-444e737f0919?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [The Uppercase Escape: Breaking Endpoint Restrictions via Case-Sensitivity](https://infosecwriteups.com/the-uppercase-escape-breaking-endpoint-restrictions-via-case-sensitivity-075ddd5d14e4?source=rss------bug_bounty_writeup-5)
 - [How Getting Stuck Led Me to a $3,XXX Bounty: The Recon That Almost Meant Nothing](https://kongsec.medium.com/how-getting-stuck-led-me-to-a-3-xxx-bounty-the-recon-that-almost-meant-nothing-a03a354df2cf?source=rss------bug_bounty_writeup-5)
 - [Remote File Inclusion &lpar;RFI&rpar; — Full Breakdown for Beginners](https://systemweakness.com/remote-file-inclusion-rfi-full-breakdown-for-beginners-7f89c55e3b2a?source=rss------bug_bounty_writeup-5)
-- [️ Stop API Key Leaks Before They Cost You — Meet KeySentry](https://infosecwriteups.com/%EF%B8%8F-stop-api-key-leaks-before-they-cost-you-meet-keysentry-5521f6c75ab0?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
