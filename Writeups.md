@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Broken Access Control via Hardcoded Bearer Token in Public JS File](https://medium.com/@nnouh4967/broken-access-control-via-hardcoded-bearer-token-in-public-js-file-b2f6c87b4d44?source=rss------bug_bounty_writeup-5)
 - [The Logout That Didn’t Happen: A Session Bug Story](https://medium.com/@sirimanju41/the-logout-that-didnt-happen-a-session-bug-story-2652632c6067?source=rss------bug_bounty_writeup-5)
 - [How to Exploit Account Takeover via Password Reset Flaw](https://infosecwriteups.com/how-to-exploit-account-takeover-via-password-reset-flaw-274c7d82d096?source=rss----7b722bfd1b8d---4)
 - [Exploiting Android Components in Seconds](https://infosecwriteups.com/exploiting-android-components-in-seconds-ea6b6f06f86d?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Anatomy of a Critical Bug: A Case Study in Chaining IDORs](https://gentilsecurity.medium.com/anatomy-of-a-critical-bug-a-case-study-in-chaining-idors-e298bd297576?source=rss------bug_bounty_writeup-5)
 - [Exposure Protocol: Information Disclosure in the Wild [Part 4]](https://infosecwriteups.com/exposure-protocol-information-disclosure-in-the-wild-part-4-509a7e6bb1de?source=rss------bug_bounty_writeup-5)
 - [Race Condition 101: How I Exploited a Real Bug Bounty Scenario to Break Backend Validation](https://keroayman77.medium.com/race-condition-101-how-i-exploited-a-real-bug-bounty-scenario-to-break-backend-validation-c39352815f0a?source=rss------bug_bounty_writeup-5)
-- [The Uppercase Escape: Breaking Endpoint Restrictions via Case-Sensitivity](https://infosecwriteups.com/the-uppercase-escape-breaking-endpoint-restrictions-via-case-sensitivity-075ddd5d14e4?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
