@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I Found XSS — CVE-2025–0133 Using Shodan](https://ch4ndan.medium.com/how-i-found-xss-cve-2025-0133-using-shodan-39a37eae7807?source=rss------bug_bounty_writeup-5)
 - [Bypassing the Group Member Limit via Race Condition](https://medium.com/@khaledelnabet/bypassing-the-group-member-limit-via-race-condition-2442ad33739e?source=rss------bug_bounty_writeup-5)
 - [Hacking APIs | Insecure Deserialization](https://medium.com/@aminefarah802/hacking-apis-1b809d9d5aa0?source=rss------bug_bounty_writeup-5)
 - [CVE-2025-0133 — Reflected Cross-Site Scripting &lpar;XSS&rpar; in Palo Alto GlobalProtect VPN Portal](https://medium.com/@gourisankara357/cve-2025-0133-reflected-cross-site-scripting-xss-in-palo-alto-globalprotect-vpn-portal-591c5711160f?source=rss------bug_bounty_writeup-5)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Race Condition 101: How I Exploited a Real Bug Bounty Scenario to Break Backend Validation](https://keroayman77.medium.com/race-condition-101-how-i-exploited-a-real-bug-bounty-scenario-to-break-backend-validation-c39352815f0a?source=rss------bug_bounty_writeup-5)
 - [The Uppercase Escape: Breaking Endpoint Restrictions via Case-Sensitivity](https://infosecwriteups.com/the-uppercase-escape-breaking-endpoint-restrictions-via-case-sensitivity-075ddd5d14e4?source=rss------bug_bounty_writeup-5)
 - [How Getting Stuck Led Me to a $3,XXX Bounty: The Recon That Almost Meant Nothing](https://kongsec.medium.com/how-getting-stuck-led-me-to-a-3-xxx-bounty-the-recon-that-almost-meant-nothing-a03a354df2cf?source=rss------bug_bounty_writeup-5)
-- [Remote File Inclusion &lpar;RFI&rpar; — Full Breakdown for Beginners](https://systemweakness.com/remote-file-inclusion-rfi-full-breakdown-for-beginners-7f89c55e3b2a?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
