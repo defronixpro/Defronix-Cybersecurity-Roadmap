@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Exposure Protocol: Information Disclosure in the Wild [Part 4] ️](https://infosecwriteups.com/exposure-protocol-information-disclosure-in-the-wild-part-4-%EF%B8%8F-779babe65576?source=rss------bug_bounty_writeup-5)
 - [OAuth Open Redirect to ATO: One Link, All Platforms Compromised](https://h4reeqa.medium.com/oauth-open-redirect-to-ato-one-link-all-platforms-compromised-c4b54fb51396?source=rss------bug_bounty_writeup-5)
 - [One-Click Account Vulnerability: How I Discovered a Dangerous Authentication Flaw in a Global…](https://infosecwriteups.com/one-click-account-vulnerability-how-i-discovered-a-dangerous-authentication-flaw-in-a-global-1cbc9a39e206?source=rss------bug_bounty_writeup-5)
 - [Unveiling Steam’s $7500 Bounty: Buffer Overrun in SILK Voice Decoder](https://infosecwriteups.com/unveiling-steams-7500-bounty-buffer-overrun-in-silk-voice-decoder-22a5ad05dca2?source=rss----7b722bfd1b8d---4)
@@ -940,7 +941,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [The Logout That Didn’t Happen: A Session Bug Story](https://medium.com/@sirimanju41/the-logout-that-didnt-happen-a-session-bug-story-2652632c6067?source=rss------bug_bounty_writeup-5)
 - [How to Exploit Account Takeover via Password Reset Flaw](https://infosecwriteups.com/how-to-exploit-account-takeover-via-password-reset-flaw-274c7d82d096?source=rss----7b722bfd1b8d---4)
 - [How I Found XSS — CVE-2025–0133 Using Shodan](https://ch4ndan.medium.com/how-i-found-xss-cve-2025-0133-using-shodan-39a37eae7807?source=rss------bug_bounty_writeup-5)
-- [Bypassing the Group Member Limit via Race Condition](https://medium.com/@khaledelnabet/bypassing-the-group-member-limit-via-race-condition-2442ad33739e?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
