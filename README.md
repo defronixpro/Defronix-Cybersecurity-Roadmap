@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [XSS at U.S. Department of Education](https://medium.com/legionhunters/xss-at-u-s-department-of-education-771bf5b0a003?source=rss------bug_bounty_writeup-5)
 - [How I Took a Website Completely Offline with a Funky Cache Poisoning Vulnerability &lpar;CPDOS&rpar;](https://medium.com/@Maverick0o0/how-i-took-a-website-completely-offline-with-a-funky-cache-poisoning-vulnerability-cpdos-220ac75d1cf3?source=rss------bug_bounty_writeup-5)
 - [Broken Access Control via Hardcoded Bearer Token in Public JS File](https://medium.com/@nnouh4967/broken-access-control-via-hardcoded-bearer-token-in-public-js-file-b2f6c87b4d44?source=rss------bug_bounty_writeup-5)
 - [The Logout That Didn’t Happen: A Session Bug Story](https://medium.com/@sirimanju41/the-logout-that-didnt-happen-a-session-bug-story-2652632c6067?source=rss------bug_bounty_writeup-5)
@@ -940,7 +941,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Hacking APIs | Insecure Deserialization](https://medium.com/@aminefarah802/hacking-apis-1b809d9d5aa0?source=rss------bug_bounty_writeup-5)
 - [CVE-2025-0133 — Reflected Cross-Site Scripting &lpar;XSS&rpar; in Palo Alto GlobalProtect VPN Portal](https://medium.com/@gourisankara357/cve-2025-0133-reflected-cross-site-scripting-xss-in-palo-alto-globalprotect-vpn-portal-591c5711160f?source=rss------bug_bounty_writeup-5)
 - [Zero-click Account Takeover!&lpar;I found it in half an hour&rpar;](https://medium.com/@spettyial/zero-click-account-takeover-i-found-it-in-half-an-hour-444e737f0919?source=rss------bug_bounty_writeup-5)
-- [Anatomy of a Critical Bug: A Case Study in Chaining IDORs](https://gentilsecurity.medium.com/anatomy-of-a-critical-bug-a-case-study-in-chaining-idors-e298bd297576?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
