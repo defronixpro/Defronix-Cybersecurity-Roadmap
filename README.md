@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [One-Click Account Vulnerability: How I Discovered a Dangerous Authentication Flaw in a Global…](https://infosecwriteups.com/one-click-account-vulnerability-how-i-discovered-a-dangerous-authentication-flaw-in-a-global-1cbc9a39e206?source=rss------bug_bounty_writeup-5)
 - [Unveiling Steam’s $7500 Bounty: Buffer Overrun in SILK Voice Decoder](https://infosecwriteups.com/unveiling-steams-7500-bounty-buffer-overrun-in-silk-voice-decoder-22a5ad05dca2?source=rss----7b722bfd1b8d---4)
 - [AI for Linux Troubleshooting: Your New Command Line Ally](https://infosecwriteups.com/ai-for-linux-troubleshooting-your-new-command-line-ally-4055d541cd2d?source=rss----7b722bfd1b8d---4)
 - [Mastering Threat Hunting with Criminal IP: The Dorks Query Playbook &lpar;Part 2&rpar;](https://infosecwriteups.com/mastering-threat-hunting-with-criminal-ip-the-dorks-query-playbook-part-2-6bfebd34f728?source=rss----7b722bfd1b8d---4)
@@ -939,7 +940,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How I Found XSS — CVE-2025–0133 Using Shodan](https://ch4ndan.medium.com/how-i-found-xss-cve-2025-0133-using-shodan-39a37eae7807?source=rss------bug_bounty_writeup-5)
 - [Bypassing the Group Member Limit via Race Condition](https://medium.com/@khaledelnabet/bypassing-the-group-member-limit-via-race-condition-2442ad33739e?source=rss------bug_bounty_writeup-5)
 - [Hacking APIs | Insecure Deserialization](https://medium.com/@aminefarah802/hacking-apis-1b809d9d5aa0?source=rss------bug_bounty_writeup-5)
-- [CVE-2025-0133 — Reflected Cross-Site Scripting &lpar;XSS&rpar; in Palo Alto GlobalProtect VPN Portal](https://medium.com/@gourisankara357/cve-2025-0133-reflected-cross-site-scripting-xss-in-palo-alto-globalprotect-vpn-portal-591c5711160f?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
