@@ -1,6 +1,16 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Unveiling Steam’s $7500 Bounty: Buffer Overrun in SILK Voice Decoder](https://infosecwriteups.com/unveiling-steams-7500-bounty-buffer-overrun-in-silk-voice-decoder-22a5ad05dca2?source=rss----7b722bfd1b8d---4)
+- [AI for Linux Troubleshooting: Your New Command Line Ally](https://infosecwriteups.com/ai-for-linux-troubleshooting-your-new-command-line-ally-4055d541cd2d?source=rss----7b722bfd1b8d---4)
+- [Mastering Threat Hunting with Criminal IP: The Dorks Query Playbook &lpar;Part 2&rpar;](https://infosecwriteups.com/mastering-threat-hunting-with-criminal-ip-the-dorks-query-playbook-part-2-6bfebd34f728?source=rss----7b722bfd1b8d---4)
+- [CSCPSUT MetaCTF25 Qualifications Writeups](https://infosecwriteups.com/cscpsut-metactf25-qualifications-writeups-1974e9a7f03e?source=rss----7b722bfd1b8d---4)
+- [27 Cybersecurity Conferences in Singapore](https://infosecwriteups.com/27-cybersecurity-conferences-in-singapore-87694ba84da0?source=rss----7b722bfd1b8d---4)
+- [Mastering the Art of Linux](https://infosecwriteups.com/mastering-the-art-of-linux-16f6a345f38e?source=rss----7b722bfd1b8d---4)
+- [Adversarial AI in the Wild: Defending Against Attacks You Never Saw Coming](https://infosecwriteups.com/adversarial-ai-in-the-wild-defending-against-attacks-you-never-saw-coming-581d5cf7f3db?source=rss----7b722bfd1b8d---4)
+- [How I Would Pivot within Cybersecurity If I Got Laid Off Today &lpar;AI Edition&rpar;](https://infosecwriteups.com/how-i-would-pivot-within-cybersecurity-if-i-got-laid-off-today-ai-edition-5aced9e3c14d?source=rss----7b722bfd1b8d---4)
+- [Think Your Business is Secure? Here’s Why You Might Be Wrong](https://infosecwriteups.com/think-your-cybersecurity-is-enough-heres-why-you-might-be-wrong-f3707a24dac2?source=rss----7b722bfd1b8d---4)
+- [How to Exploit Account Takeover via Password Reset Flaw](https://infosecwriteups.com/how-to-exploit-account-takeover-via-password-reset-flaw-274c7d82d096?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
