@@ -12,6 +12,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How I Would Pivot within Cybersecurity If I Got Laid Off Today &lpar;AI Edition&rpar;](https://infosecwriteups.com/how-i-would-pivot-within-cybersecurity-if-i-got-laid-off-today-ai-edition-5aced9e3c14d?source=rss----7b722bfd1b8d---4)
 - [Think Your Business is Secure? Here’s Why You Might Be Wrong](https://infosecwriteups.com/think-your-cybersecurity-is-enough-heres-why-you-might-be-wrong-f3707a24dac2?source=rss----7b722bfd1b8d---4)
 - [XSS at U.S. Department of Education](https://medium.com/legionhunters/xss-at-u-s-department-of-education-771bf5b0a003?source=rss------bug_bounty_writeup-5)
+- [Zero Click Mass Account Takeover on Exchange](https://medium.com/@Maverick0o0/zero-click-mass-account-takeover-on-exchange-5e6c8790b054?source=rss------bug_bounty_writeup-5)
 - [How I Took a Website Completely Offline with a Funky Cache Poisoning Vulnerability &lpar;CPDOS&rpar;](https://medium.com/@Maverick0o0/how-i-took-a-website-completely-offline-with-a-funky-cache-poisoning-vulnerability-cpdos-220ac75d1cf3?source=rss------bug_bounty_writeup-5)
 - [Broken Access Control via Hardcoded Bearer Token in Public JS File](https://medium.com/@nnouh4967/broken-access-control-via-hardcoded-bearer-token-in-public-js-file-b2f6c87b4d44?source=rss------bug_bounty_writeup-5)
 - [The Logout That Didn’t Happen: A Session Bug Story](https://medium.com/@sirimanju41/the-logout-that-didnt-happen-a-session-bug-story-2652632c6067?source=rss------bug_bounty_writeup-5)
