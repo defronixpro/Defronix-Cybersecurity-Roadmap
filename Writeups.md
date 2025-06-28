@@ -1,6 +1,9 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Exposure Protocol: Information Disclosure in the Wild [Part 4] ️](https://infosecwriteups.com/exposure-protocol-information-disclosure-in-the-wild-part-4-%EF%B8%8F-779babe65576?source=rss------bug_bounty_writeup-5)
+- [OAuth Open Redirect to ATO: One Link, All Platforms Compromised](https://h4reeqa.medium.com/oauth-open-redirect-to-ato-one-link-all-platforms-compromised-c4b54fb51396?source=rss------bug_bounty_writeup-5)
+- [One-Click Account Vulnerability: How I Discovered a Dangerous Authentication Flaw in a Global…](https://infosecwriteups.com/one-click-account-vulnerability-how-i-discovered-a-dangerous-authentication-flaw-in-a-global-1cbc9a39e206?source=rss------bug_bounty_writeup-5)
 - [Unveiling Steam’s $7500 Bounty: Buffer Overrun in SILK Voice Decoder](https://infosecwriteups.com/unveiling-steams-7500-bounty-buffer-overrun-in-silk-voice-decoder-22a5ad05dca2?source=rss----7b722bfd1b8d---4)
 - [AI for Linux Troubleshooting: Your New Command Line Ally](https://infosecwriteups.com/ai-for-linux-troubleshooting-your-new-command-line-ally-4055d541cd2d?source=rss----7b722bfd1b8d---4)
 - [Mastering Threat Hunting with Criminal IP: The Dorks Query Playbook &lpar;Part 2&rpar;](https://infosecwriteups.com/mastering-threat-hunting-with-criminal-ip-the-dorks-query-playbook-part-2-6bfebd34f728?source=rss----7b722bfd1b8d---4)
@@ -10,7 +13,13 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Adversarial AI in the Wild: Defending Against Attacks You Never Saw Coming](https://infosecwriteups.com/adversarial-ai-in-the-wild-defending-against-attacks-you-never-saw-coming-581d5cf7f3db?source=rss----7b722bfd1b8d---4)
 - [How I Would Pivot within Cybersecurity If I Got Laid Off Today &lpar;AI Edition&rpar;](https://infosecwriteups.com/how-i-would-pivot-within-cybersecurity-if-i-got-laid-off-today-ai-edition-5aced9e3c14d?source=rss----7b722bfd1b8d---4)
 - [Think Your Business is Secure? Here’s Why You Might Be Wrong](https://infosecwriteups.com/think-your-cybersecurity-is-enough-heres-why-you-might-be-wrong-f3707a24dac2?source=rss----7b722bfd1b8d---4)
+- [XSS at U.S. Department of Education](https://medium.com/legionhunters/xss-at-u-s-department-of-education-771bf5b0a003?source=rss------bug_bounty_writeup-5)
+- [Zero Click Mass Account Takeover on Exchange](https://medium.com/@Maverick0o0/zero-click-mass-account-takeover-on-exchange-5e6c8790b054?source=rss------bug_bounty_writeup-5)
+- [How I Took a Website Completely Offline with a Funky Cache Poisoning Vulnerability &lpar;CPDOS&rpar;](https://medium.com/@Maverick0o0/how-i-took-a-website-completely-offline-with-a-funky-cache-poisoning-vulnerability-cpdos-220ac75d1cf3?source=rss------bug_bounty_writeup-5)
+- [Broken Access Control via Hardcoded Bearer Token in Public JS File](https://medium.com/@nnouh4967/broken-access-control-via-hardcoded-bearer-token-in-public-js-file-b2f6c87b4d44?source=rss------bug_bounty_writeup-5)
+- [The Logout That Didn’t Happen: A Session Bug Story](https://medium.com/@sirimanju41/the-logout-that-didnt-happen-a-session-bug-story-2652632c6067?source=rss------bug_bounty_writeup-5)
 - [How to Exploit Account Takeover via Password Reset Flaw](https://infosecwriteups.com/how-to-exploit-account-takeover-via-password-reset-flaw-274c7d82d096?source=rss----7b722bfd1b8d---4)
+- [How I Found XSS — CVE-2025–0133 Using Shodan](https://ch4ndan.medium.com/how-i-found-xss-cve-2025-0133-using-shodan-39a37eae7807?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
