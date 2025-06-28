@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [️ How I Took Over an Account by Bypassing Email Verification – A Privilege Escalation Story](https://medium.com/@whoadnan01/%EF%B8%8F-how-i-took-over-an-account-by-bypassing-email-verification-a-privilege-escalation-story-5c056c55bbc5?source=rss------bug_bounty_writeup-5)
 - [Exposure Protocol: Information Disclosure in the Wild [Part 4] ️](https://infosecwriteups.com/exposure-protocol-information-disclosure-in-the-wild-part-4-%EF%B8%8F-779babe65576?source=rss------bug_bounty_writeup-5)
 - [OAuth Open Redirect to ATO: One Link, All Platforms Compromised](https://h4reeqa.medium.com/oauth-open-redirect-to-ato-one-link-all-platforms-compromised-c4b54fb51396?source=rss------bug_bounty_writeup-5)
 - [One-Click Account Vulnerability: How I Discovered a Dangerous Authentication Flaw in a Global…](https://infosecwriteups.com/one-click-account-vulnerability-how-i-discovered-a-dangerous-authentication-flaw-in-a-global-1cbc9a39e206?source=rss------bug_bounty_writeup-5)
@@ -19,7 +20,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Broken Access Control via Hardcoded Bearer Token in Public JS File](https://medium.com/@nnouh4967/broken-access-control-via-hardcoded-bearer-token-in-public-js-file-b2f6c87b4d44?source=rss------bug_bounty_writeup-5)
 - [The Logout That Didn’t Happen: A Session Bug Story](https://medium.com/@sirimanju41/the-logout-that-didnt-happen-a-session-bug-story-2652632c6067?source=rss------bug_bounty_writeup-5)
 - [How to Exploit Account Takeover via Password Reset Flaw](https://infosecwriteups.com/how-to-exploit-account-takeover-via-password-reset-flaw-274c7d82d096?source=rss----7b722bfd1b8d---4)
-- [How I Found XSS — CVE-2025–0133 Using Shodan](https://ch4ndan.medium.com/how-i-found-xss-cve-2025-0133-using-shodan-39a37eae7807?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
