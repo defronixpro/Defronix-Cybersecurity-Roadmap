@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Bandit Tours &amp; Travel — Where Your Journey Might Lead to Some Unexpected Pages](https://systemweakness.com/bandit-tours-travel-where-your-journey-might-lead-to-some-unexpected-pages-d08edf8b7702?source=rss------bug_bounty_writeup-5)
 - [From Ghost to Glitch: Null Byte Injection in Registration &amp; Password Reset](https://medium.com/@maxcyber882/from-ghost-to-glitch-null-byte-injection-in-registration-password-reset-b44448bb7656?source=rss------bug_bounty_writeup-5)
 - [Uncover Hidden Endpoints, Secrets and Vulnerabilities Buried Inside JavaScript Files](https://infosecwriteups.com/uncover-hidden-endpoints-secrets-and-vulnerabilities-buried-inside-javascript-files-ea965b43f969?source=rss----7b722bfd1b8d---4)
 - [Exposed Client Secret in JavaScript Resulted in Quick Bug Bounty $$$](https://infosecwriteups.com/exposed-client-secret-in-javascript-resulted-in-quick-bug-bounty-35a609be138d?source=rss----7b722bfd1b8d---4)
@@ -940,7 +941,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [OAuth Open Redirect to ATO: One Link, All Platforms Compromised](https://h4reeqa.medium.com/oauth-open-redirect-to-ato-one-link-all-platforms-compromised-c4b54fb51396?source=rss------bug_bounty_writeup-5)
 - [One-Click Account Vulnerability: How I Discovered a Dangerous Authentication Flaw in a Global…](https://infosecwriteups.com/one-click-account-vulnerability-how-i-discovered-a-dangerous-authentication-flaw-in-a-global-1cbc9a39e206?source=rss------bug_bounty_writeup-5)
 - [XSS at U.S. Department of Education](https://medium.com/legionhunters/xss-at-u-s-department-of-education-771bf5b0a003?source=rss------bug_bounty_writeup-5)
-- [Zero Click Mass Account Takeover on Exchange](https://medium.com/@Maverick0o0/zero-click-mass-account-takeover-on-exchange-5e6c8790b054?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
