@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Behind the Race Condition Bug](https://nanashi0.medium.com/behind-the-race-condition-bug-ab21bd27240b?source=rss------bug_bounty_writeup-5)
 - [Websocket response manipulation leads to access admin panel &lpar;Arabic&rpar;](https://ro0od.medium.com/websocket-response-manipulation-leads-to-access-admin-panel-arabic-7a3b79cf6fdf?source=rss------bug_bounty_writeup-5)
 - [404 to 0wnage: How a Broken API Route Unlocked Production Secrets](https://infosecwriteups.com/404-to-0wnage-how-a-broken-api-route-unlocked-production-secrets-cc8ec9c6d063?source=rss----7b722bfd1b8d---4)
 - [PentestGPT: The Future of Automated Penetration Testing with AI](https://infosecwriteups.com/pentestgpt-the-future-of-automated-penetration-testing-with-ai-b6bf3b2c77bc?source=rss----7b722bfd1b8d---4)
@@ -940,7 +941,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [XSS at U.S. Department of Education](https://medium.com/legionhunters/xss-at-u-s-department-of-education-771bf5b0a003?source=rss------bug_bounty_writeup-5)
 - [Zero Click Mass Account Takeover on Exchange](https://medium.com/@Maverick0o0/zero-click-mass-account-takeover-on-exchange-5e6c8790b054?source=rss------bug_bounty_writeup-5)
 - [How I Took a Website Completely Offline with a Funky Cache Poisoning Vulnerability &lpar;CPDOS&rpar;](https://medium.com/@Maverick0o0/how-i-took-a-website-completely-offline-with-a-funky-cache-poisoning-vulnerability-cpdos-220ac75d1cf3?source=rss------bug_bounty_writeup-5)
-- [Broken Access Control via Hardcoded Bearer Token in Public JS File](https://medium.com/@nnouh4967/broken-access-control-via-hardcoded-bearer-token-in-public-js-file-b2f6c87b4d44?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
