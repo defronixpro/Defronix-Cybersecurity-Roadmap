@@ -923,16 +923,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
 - [’       .](https://g4o57.medium.com/-eadf05801bc6?source=rss------bug_bounty_writeup-5)
-- [AWSReaper: Cloud Pentesting Practical Techniques for Red Teams](https://infosecwriteups.com/awsreaper-cloud-pentesting-practical-techniques-for-red-teams-6e1220bb133f?source=rss----7b722bfd1b8d---4)
-- [$250 Bounty: Privilege Escalation in Acronis via System Clean-up Directory Junction Trick](https://infosecwriteups.com/250-bounty-privilege-escalation-in-acronis-via-system-clean-up-directory-junction-trick-f8ab338a6744?source=rss----7b722bfd1b8d---4)
-- [XOR is Weak? Think Again — Meet XORception](https://infosecwriteups.com/xor-is-weak-think-again-meet-xorception-64867f6587af?source=rss----7b722bfd1b8d---4)
-- [CVE-2025–49144: Notepad++ vulnerability allows full system compromise](https://infosecwriteups.com/cve-2025-49144-notepad-vulnerability-allows-full-system-compromise-17944dc3fc2b?source=rss----7b722bfd1b8d---4)
-- [I Automated Recon and Found 100+ Bugs](https://infosecwriteups.com/i-automated-recon-and-found-100-bugs-a6c68b6360eb?source=rss----7b722bfd1b8d---4)
-- [SQL injection vulnerability in WHERE clause allowing retrieval of hidden data — PortSwigger](https://infosecwriteups.com/sql-injection-vulnerability-in-where-clause-allowing-retrieval-of-hidden-data-portswigger-12342def10ec?source=rss----7b722bfd1b8d---4)
-- [SQL injection attack, querying the database type and version on Oracle — PortSwigger](https://infosecwriteups.com/sql-injection-attack-querying-the-database-type-and-version-on-oracle-portswigger-904487db7d3d?source=rss----7b722bfd1b8d---4)
-- [SQL injection attack, querying the database type and version on MySQL and Microsoft](https://infosecwriteups.com/sql-injection-attack-querying-the-database-type-and-version-on-mysql-and-microsoft-85081e7eef71?source=rss----7b722bfd1b8d---4)
-- [SQL injection UNION attack, retrieving data from other tables — Portswigger](https://infosecwriteups.com/sql-injection-union-attack-retrieving-data-from-other-tables-portswigger-ab892f5a9527?source=rss----7b722bfd1b8d---4)
-- [SQL injection UNION attack, retrieving multiple values in a single column — PortSwigger](https://infosecwriteups.com/sql-injection-union-attack-retrieving-multiple-values-in-a-single-column-portswigger-65d850e9cc8e?source=rss----7b722bfd1b8d---4)
 - [How can you append Custom User-Agent in Caido?](https://medium.com/@padhyepushkar/how-can-you-append-custom-user-agent-in-caido-d351275726ed?source=rss------bug_bounty_writeup-5)
 - [Bandit Tours &amp; Travel — Where Your Journey Might Lead to Some Unexpected Pages](https://systemweakness.com/bandit-tours-travel-where-your-journey-might-lead-to-some-unexpected-pages-d08edf8b7702?source=rss------bug_bounty_writeup-5)
 - [From Ghost to Glitch: Null Byte Injection in Registration &amp; Password Reset](https://medium.com/@maxcyber882/from-ghost-to-glitch-null-byte-injection-in-registration-password-reset-b44448bb7656?source=rss------bug_bounty_writeup-5)
