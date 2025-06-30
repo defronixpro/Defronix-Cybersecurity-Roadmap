@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [’       .](https://medium.com/@G4057/-eadf05801bc6?source=rss------bug_bounty_writeup-5)
 - [AWSReaper: Cloud Pentesting Practical Techniques for Red Teams](https://infosecwriteups.com/awsreaper-cloud-pentesting-practical-techniques-for-red-teams-6e1220bb133f?source=rss----7b722bfd1b8d---4)
 - [$250 Bounty: Privilege Escalation in Acronis via System Clean-up Directory Junction Trick](https://infosecwriteups.com/250-bounty-privilege-escalation-in-acronis-via-system-clean-up-directory-junction-trick-f8ab338a6744?source=rss----7b722bfd1b8d---4)
 - [XOR is Weak? Think Again — Meet XORception](https://infosecwriteups.com/xor-is-weak-think-again-meet-xorception-64867f6587af?source=rss----7b722bfd1b8d---4)
