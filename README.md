@@ -922,16 +922,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [AWSReaper: Cloud Pentesting Practical Techniques for Red Teams](https://infosecwriteups.com/awsreaper-cloud-pentesting-practical-techniques-for-red-teams-6e1220bb133f?source=rss----7b722bfd1b8d---4)
-- [$250 Bounty: Privilege Escalation in Acronis via System Clean-up Directory Junction Trick](https://infosecwriteups.com/250-bounty-privilege-escalation-in-acronis-via-system-clean-up-directory-junction-trick-f8ab338a6744?source=rss----7b722bfd1b8d---4)
-- [XOR is Weak? Think Again — Meet XORception](https://infosecwriteups.com/xor-is-weak-think-again-meet-xorception-64867f6587af?source=rss----7b722bfd1b8d---4)
-- [CVE-2025–49144: Notepad++ vulnerability allows full system compromise](https://infosecwriteups.com/cve-2025-49144-notepad-vulnerability-allows-full-system-compromise-17944dc3fc2b?source=rss----7b722bfd1b8d---4)
-- [I Automated Recon and Found 100+ Bugs](https://infosecwriteups.com/i-automated-recon-and-found-100-bugs-a6c68b6360eb?source=rss----7b722bfd1b8d---4)
-- [SQL injection vulnerability in WHERE clause allowing retrieval of hidden data — PortSwigger](https://infosecwriteups.com/sql-injection-vulnerability-in-where-clause-allowing-retrieval-of-hidden-data-portswigger-12342def10ec?source=rss----7b722bfd1b8d---4)
-- [SQL injection attack, querying the database type and version on Oracle — PortSwigger](https://infosecwriteups.com/sql-injection-attack-querying-the-database-type-and-version-on-oracle-portswigger-904487db7d3d?source=rss----7b722bfd1b8d---4)
-- [SQL injection attack, querying the database type and version on MySQL and Microsoft](https://infosecwriteups.com/sql-injection-attack-querying-the-database-type-and-version-on-mysql-and-microsoft-85081e7eef71?source=rss----7b722bfd1b8d---4)
-- [SQL injection UNION attack, retrieving data from other tables — Portswigger](https://infosecwriteups.com/sql-injection-union-attack-retrieving-data-from-other-tables-portswigger-ab892f5a9527?source=rss----7b722bfd1b8d---4)
-- [SQL injection UNION attack, retrieving multiple values in a single column — PortSwigger](https://infosecwriteups.com/sql-injection-union-attack-retrieving-multiple-values-in-a-single-column-portswigger-65d850e9cc8e?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
