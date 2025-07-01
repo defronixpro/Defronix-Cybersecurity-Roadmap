@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Massive Data Leak using Unauthenticated ARC GIS REST service](https://infosecwriteups.com/massive-data-leak-using-unauthenticated-arc-gis-rest-service-7a59ca13ca28?source=rss------bug_bounty_writeup-5)
 - [How I Forged a Facebook JWT to Impersonate Any User on Wit.ai &lpar;No Secret Verification&rpar;](https://medium.com/@ramzybouyahya1990/how-i-forged-a-facebook-jwt-to-impersonate-any-user-on-wit-ai-no-secret-verification-0d1d5e81b88b?source=rss------bug_bounty_writeup-5)
 - [Stock Management System &lpar;SMS&rpar; v1.0 — SQL injection challenge](https://medium.com/@aligamel728/stock-management-system-sms-v1-0-sql-injection-challenge-0c390bd30143?source=rss------bug_bounty_writeup-5)
 - [’       .](https://g4o57.medium.com/-eadf05801bc6?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Behind the Race Condition Bug](https://nanashi0.medium.com/behind-the-race-condition-bug-ab21bd27240b?source=rss------bug_bounty_writeup-5)
 - [Websocket response manipulation leads to access admin panel &lpar;Arabic&rpar;](https://ro0od.medium.com/websocket-response-manipulation-leads-to-access-admin-panel-arabic-7a3b79cf6fdf?source=rss------bug_bounty_writeup-5)
 - [️ How I Took Over an Account by Bypassing Email Verification – A Privilege Escalation Story](https://medium.com/@whoadnan01/%EF%B8%8F-how-i-took-over-an-account-by-bypassing-email-verification-a-privilege-escalation-story-5c056c55bbc5?source=rss------bug_bounty_writeup-5)
-- [Exposure Protocol: Information Disclosure in the Wild [Part 4] ️](https://infosecwriteups.com/exposure-protocol-information-disclosure-in-the-wild-part-4-%EF%B8%8F-779babe65576?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
