@@ -922,8 +922,10 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [IDOR: Improper Access Control in Meta Verified Waiting List Management](https://medium.com/@ramzybouyahya1990/idor-improper-access-control-in-meta-verified-waiting-list-management-e01ca89b37d4?source=rss------bug_bounty_writeup-5)
+- [Top 3 Security Training Platforms in 2025 &lpar;Tested for Hands-On Learning&rpar;](https://infosecwriteups.com/best-security-training-platforms-2025-c552cc14ccce?source=rss----7b722bfd1b8d---4)
 - [Massive Data Leak using Unauthenticated ARC GIS REST service](https://infosecwriteups.com/massive-data-leak-using-unauthenticated-arc-gis-rest-service-7a59ca13ca28?source=rss------bug_bounty_writeup-5)
-- [How I Forged a Facebook JWT to Impersonate Any User on Wit.ai &lpar;No Secret Verification&rpar;](https://medium.com/@ramzybouyahya1990/how-i-forged-a-facebook-jwt-to-impersonate-any-user-on-wit-ai-no-secret-verification-0d1d5e81b88b?source=rss------bug_bounty_writeup-5)
+- [How I Forged a Facebook/Github JWT to Impersonate Any User on Wit.ai &lpar;No Secret Verification&rpar;](https://medium.com/@ramzybouyahya1990/how-i-forged-a-facebook-jwt-to-impersonate-any-user-on-wit-ai-no-secret-verification-0d1d5e81b88b?source=rss------bug_bounty_writeup-5)
 - [Stock Management System &lpar;SMS&rpar; v1.0 — SQL injection challenge](https://medium.com/@aligamel728/stock-management-system-sms-v1-0-sql-injection-challenge-0c390bd30143?source=rss------bug_bounty_writeup-5)
 - [’       .](https://g4o57.medium.com/-eadf05801bc6?source=rss------bug_bounty_writeup-5)
 - [AWSReaper: Cloud Pentesting Practical Techniques for Red Teams](https://infosecwriteups.com/awsreaper-cloud-pentesting-practical-techniques-for-red-teams-6e1220bb133f?source=rss----7b722bfd1b8d---4)
@@ -935,13 +937,11 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [SQL injection attack, querying the database type and version on Oracle — PortSwigger](https://infosecwriteups.com/sql-injection-attack-querying-the-database-type-and-version-on-oracle-portswigger-904487db7d3d?source=rss----7b722bfd1b8d---4)
 - [SQL injection attack, querying the database type and version on MySQL and Microsoft](https://infosecwriteups.com/sql-injection-attack-querying-the-database-type-and-version-on-mysql-and-microsoft-85081e7eef71?source=rss----7b722bfd1b8d---4)
 - [SQL injection UNION attack, retrieving data from other tables — Portswigger](https://infosecwriteups.com/sql-injection-union-attack-retrieving-data-from-other-tables-portswigger-ab892f5a9527?source=rss----7b722bfd1b8d---4)
-- [SQL injection UNION attack, retrieving multiple values in a single column — PortSwigger](https://infosecwriteups.com/sql-injection-union-attack-retrieving-multiple-values-in-a-single-column-portswigger-65d850e9cc8e?source=rss----7b722bfd1b8d---4)
 - [How can you append Custom User-Agent in Caido?](https://medium.com/@padhyepushkar/how-can-you-append-custom-user-agent-in-caido-d351275726ed?source=rss------bug_bounty_writeup-5)
 - [Bandit Tours &amp; Travel — Where Your Journey Might Lead to Some Unexpected Pages](https://systemweakness.com/bandit-tours-travel-where-your-journey-might-lead-to-some-unexpected-pages-d08edf8b7702?source=rss------bug_bounty_writeup-5)
 - [From Ghost to Glitch: Null Byte Injection in Registration &amp; Password Reset](https://medium.com/@maxcyber882/from-ghost-to-glitch-null-byte-injection-in-registration-password-reset-b44448bb7656?source=rss------bug_bounty_writeup-5)
 - [Behind the Race Condition Bug](https://nanashi0.medium.com/behind-the-race-condition-bug-ab21bd27240b?source=rss------bug_bounty_writeup-5)
 - [Websocket response manipulation leads to access admin panel &lpar;Arabic&rpar;](https://ro0od.medium.com/websocket-response-manipulation-leads-to-access-admin-panel-arabic-7a3b79cf6fdf?source=rss------bug_bounty_writeup-5)
-- [️ How I Took Over an Account by Bypassing Email Verification – A Privilege Escalation Story](https://medium.com/@whoadnan01/%EF%B8%8F-how-i-took-over-an-account-by-bypassing-email-verification-a-privilege-escalation-story-5c056c55bbc5?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
