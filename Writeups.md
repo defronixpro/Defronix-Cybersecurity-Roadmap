@@ -20,7 +20,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Massive Data Leak using Unauthenticated ARC GIS REST service](https://infosecwriteups.com/massive-data-leak-using-unauthenticated-arc-gis-rest-service-7a59ca13ca28?source=rss------bug_bounty_writeup-5)
 - [How I Forged a Facebook/Github JWT to Impersonate Any User on Wit.ai &lpar;No Secret Verification&rpar;](https://medium.com/@ramzybouyahya/how-i-forged-a-facebook-jwt-to-impersonate-any-user-on-wit-ai-no-secret-verification-0d1d5e81b88b?source=rss------bug_bounty_writeup-5)
 - [Stock Management System &lpar;SMS&rpar; v1.0 — SQL injection challenge](https://medium.com/@aligamel728/stock-management-system-sms-v1-0-sql-injection-challenge-0c390bd30143?source=rss------bug_bounty_writeup-5)
-- [’       .](https://g4o57.medium.com/-eadf05801bc6?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
