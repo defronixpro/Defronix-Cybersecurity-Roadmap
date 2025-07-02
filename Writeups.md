@@ -1,16 +1,6 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
-- [Why You Don’t Need to Be an Expert to Start Freelancing](https://infosecwriteups.com/why-you-dont-need-to-be-an-expert-to-start-freelancing-ed2b422fad3e?source=rss----7b722bfd1b8d---4)
-- [Burp Extensions You’re Not Using &lpar;But Should&rpar;: Secret Weapons for Modern Web Apps](https://infosecwriteups.com/burp-extensions-youre-not-using-but-should-secret-weapons-for-modern-web-apps-dd7e8b7de642?source=rss----7b722bfd1b8d---4)
-- [Leaked API Key in Public JavaScript Leads to Potential Abuse](https://infosecwriteups.com/leaked-api-key-in-public-javascript-leads-to-potential-abuse-e2f255ee0ee5?source=rss----7b722bfd1b8d---4)
-- [The Hidden .git](https://infosecwriteups.com/the-hidden-git-b30afef0b462?source=rss----7b722bfd1b8d---4)
-- [VAPT Report on Credential Security in Windows 10 based Healthcare Infrastructure](https://infosecwriteups.com/vapt-report-on-credential-security-in-windows-10-based-healthcare-infrastructure-e395a202417a?source=rss----7b722bfd1b8d---4)
-- [Authentication Bypass via Email Domain Suffix Manipulation](https://infosecwriteups.com/authentication-bypass-via-email-domain-suffix-manipulation-c866501c7b4b?source=rss----7b722bfd1b8d---4)
-- [How to use FOFA for security research](https://infosecwriteups.com/how-to-use-fofa-for-security-research-dafb8e00aa14?source=rss----7b722bfd1b8d---4)
-- [Day 2 – The Shift: From User to Hunter](https://infosecwriteups.com/day-2-the-shift-from-user-to-hunter-6037fe4cd6f5?source=rss----7b722bfd1b8d---4)
-- [Day 7: Reflected XSS into attribute with angle brackets HTML-encoded: Zero to Hero Series —…](https://infosecwriteups.com/day-7-reflected-xss-into-attribute-with-angle-brackets-html-encoded-zero-to-hero-series-8b0c775fc7b5?source=rss----7b722bfd1b8d---4)
-- [Day 6:DOM XSS in jQuery selector sink using a hashchange event : Zero to Hero Series — Portswigger](https://infosecwriteups.com/day-6-dom-xss-in-jquery-selector-sink-using-a-hashchange-event-zero-to-hero-series-portswigger-f80367168d95?source=rss----7b722bfd1b8d---4)
 - [Bypassing Payment for Project Creation](https://medium.com/@Eyax0/bypassing-payment-for-project-creation-81b5e0f02c4c?source=rss------bug_bounty_writeup-5)
 - [Hacking a Birthday Campaign on a Food Delivery App — Bug Bounty: $1.000+](https://infosecwriteups.com/hacking-a-birthday-campaign-on-a-food-delivery-app-bug-bounty-1-000-22926fee1c31?source=rss------bug_bounty_writeup-5)
 - [Internal Paths/Files Leakage via Malformed Access Token on graph.meta.ai](https://medium.com/@ramzybouyahya/internal-file-paths-files-leakage-via-malformed-access-token-on-graph-meta-ai-3a167e7354b4?source=rss------bug_bounty_writeup-5)
