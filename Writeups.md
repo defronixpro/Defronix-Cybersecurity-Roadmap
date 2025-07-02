@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Bypassing Payment for Project Creation](https://medium.com/@Eyax0/bypassing-payment-for-project-creation-81b5e0f02c4c?source=rss------bug_bounty_writeup-5)
 - [How I Exploited a Hidden CSRF Vulnerability — And How You Can Prevent It](https://infosecwriteups.com/how-i-exploited-a-hidden-csrf-vulnerability-and-how-you-can-prevent-it-d089ad23887d?source=rss----7b722bfd1b8d---4)
 - [My 6-Month Bug Bounty Review ️‍♂️](https://infosecwriteups.com/my-6-month-bug-bounty-review-%EF%B8%8F-%EF%B8%8F-8469f3ca230f?source=rss----7b722bfd1b8d---4)
 - [Desync or Die Trying: Smuggling My Way into Internal APIs](https://infosecwriteups.com/desync-or-die-trying-smuggling-my-way-into-internal-apis-e59e1bf6f01d?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [’       .](https://g4o57.medium.com/-eadf05801bc6?source=rss------bug_bounty_writeup-5)
 - [How can you append Custom User-Agent in Caido?](https://medium.com/@padhyepushkar/how-can-you-append-custom-user-agent-in-caido-d351275726ed?source=rss------bug_bounty_writeup-5)
 - [Bandit Tours &amp; Travel — Where Your Journey Might Lead to Some Unexpected Pages](https://systemweakness.com/bandit-tours-travel-where-your-journey-might-lead-to-some-unexpected-pages-d08edf8b7702?source=rss------bug_bounty_writeup-5)
-- [From Ghost to Glitch: Null Byte Injection in Registration &amp; Password Reset](https://medium.com/@maxcyber882/from-ghost-to-glitch-null-byte-injection-in-registration-password-reset-b44448bb7656?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
