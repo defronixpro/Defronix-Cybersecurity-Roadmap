@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [100+ Vulnerabilities in 5 Minutes and a $200 Bug Bounty Reward](https://medium.com/@shamiloneleo/100-vulnerabilities-in-5-minutes-and-a-200-bug-bounty-reward-8e1ecc727a89?source=rss------bug_bounty_writeup-5)
 - [Why You Don’t Need to Be an Expert to Start Freelancing](https://infosecwriteups.com/why-you-dont-need-to-be-an-expert-to-start-freelancing-ed2b422fad3e?source=rss----7b722bfd1b8d---4)
 - [Burp Extensions You’re Not Using &lpar;But Should&rpar;: Secret Weapons for Modern Web Apps](https://infosecwriteups.com/burp-extensions-youre-not-using-but-should-secret-weapons-for-modern-web-apps-dd7e8b7de642?source=rss----7b722bfd1b8d---4)
 - [Leaked API Key in Public JavaScript Leads to Potential Abuse](https://infosecwriteups.com/leaked-api-key-in-public-javascript-leads-to-potential-abuse-e2f255ee0ee5?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Stock Management System &lpar;SMS&rpar; v1.0 — SQL injection challenge](https://medium.com/@aligamel728/stock-management-system-sms-v1-0-sql-injection-challenge-0c390bd30143?source=rss------bug_bounty_writeup-5)
 - [’       .](https://g4o57.medium.com/-eadf05801bc6?source=rss------bug_bounty_writeup-5)
 - [How can you append Custom User-Agent in Caido?](https://medium.com/@padhyepushkar/how-can-you-append-custom-user-agent-in-caido-d351275726ed?source=rss------bug_bounty_writeup-5)
-- [Bandit Tours &amp; Travel — Where Your Journey Might Lead to Some Unexpected Pages](https://systemweakness.com/bandit-tours-travel-where-your-journey-might-lead-to-some-unexpected-pages-d08edf8b7702?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
