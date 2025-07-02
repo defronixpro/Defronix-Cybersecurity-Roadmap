@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [CSRF to Delete Products From Any User Cart Lead To $$$](https://hamdiyasin135.medium.com/csrf-to-delete-products-from-any-user-cart-lead-to-af712bb2bfe5?source=rss------bug_bounty_writeup-5)
 - [100+ Vulnerabilities in 5 Minutes and a $200 Bug Bounty Reward](https://medium.com/@shamiloneleo/100-vulnerabilities-in-5-minutes-and-a-200-bug-bounty-reward-8e1ecc727a89?source=rss------bug_bounty_writeup-5)
 - [Why You Don’t Need to Be an Expert to Start Freelancing](https://infosecwriteups.com/why-you-dont-need-to-be-an-expert-to-start-freelancing-ed2b422fad3e?source=rss----7b722bfd1b8d---4)
 - [Burp Extensions You’re Not Using &lpar;But Should&rpar;: Secret Weapons for Modern Web Apps](https://infosecwriteups.com/burp-extensions-youre-not-using-but-should-secret-weapons-for-modern-web-apps-dd7e8b7de642?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How I Forged a Facebook/Github JWT to Impersonate Any User on Wit.ai &lpar;No Secret Verification&rpar;](https://medium.com/@ramzybouyahya/how-i-forged-a-facebook-jwt-to-impersonate-any-user-on-wit-ai-no-secret-verification-0d1d5e81b88b?source=rss------bug_bounty_writeup-5)
 - [Stock Management System &lpar;SMS&rpar; v1.0 — SQL injection challenge](https://medium.com/@aligamel728/stock-management-system-sms-v1-0-sql-injection-challenge-0c390bd30143?source=rss------bug_bounty_writeup-5)
 - [’       .](https://g4o57.medium.com/-eadf05801bc6?source=rss------bug_bounty_writeup-5)
-- [How can you append Custom User-Agent in Caido?](https://medium.com/@padhyepushkar/how-can-you-append-custom-user-agent-in-caido-d351275726ed?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
