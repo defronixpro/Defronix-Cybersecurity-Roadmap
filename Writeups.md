@@ -1,16 +1,6 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
-- [Bypassing Payment for Project Creation](https://medium.com/@Eyax0/bypassing-payment-for-project-creation-81b5e0f02c4c?source=rss------bug_bounty_writeup-5)
-- [Hacking a Birthday Campaign on a Food Delivery App — Bug Bounty: $1.000+](https://infosecwriteups.com/hacking-a-birthday-campaign-on-a-food-delivery-app-bug-bounty-1-000-22926fee1c31?source=rss------bug_bounty_writeup-5)
-- [Internal Paths/Files Leakage via Malformed Access Token on graph.meta.ai](https://medium.com/@ramzybouyahya/internal-file-paths-files-leakage-via-malformed-access-token-on-graph-meta-ai-3a167e7354b4?source=rss------bug_bounty_writeup-5)
-- [IDOR: Improper Access Control in Meta Verified Waiting List Management](https://medium.com/@ramzybouyahya/idor-improper-access-control-in-meta-verified-waiting-list-management-e01ca89b37d4?source=rss------bug_bounty_writeup-5)
-- [Massive Data Leak using Unauthenticated ARC GIS REST service](https://infosecwriteups.com/massive-data-leak-using-unauthenticated-arc-gis-rest-service-7a59ca13ca28?source=rss------bug_bounty_writeup-5)
-- [How I Forged a Facebook/Github JWT to Impersonate Any User on Wit.ai &lpar;No Secret Verification&rpar;](https://medium.com/@ramzybouyahya/how-i-forged-a-facebook-jwt-to-impersonate-any-user-on-wit-ai-no-secret-verification-0d1d5e81b88b?source=rss------bug_bounty_writeup-5)
-- [Stock Management System &lpar;SMS&rpar; v1.0 — SQL injection challenge](https://medium.com/@aligamel728/stock-management-system-sms-v1-0-sql-injection-challenge-0c390bd30143?source=rss------bug_bounty_writeup-5)
-- [’       .](https://g4o57.medium.com/-eadf05801bc6?source=rss------bug_bounty_writeup-5)
-- [How can you append Custom User-Agent in Caido?](https://medium.com/@padhyepushkar/how-can-you-append-custom-user-agent-in-caido-d351275726ed?source=rss------bug_bounty_writeup-5)
-- [Bandit Tours &amp; Travel — Where Your Journey Might Lead to Some Unexpected Pages](https://systemweakness.com/bandit-tours-travel-where-your-journey-might-lead-to-some-unexpected-pages-d08edf8b7702?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
