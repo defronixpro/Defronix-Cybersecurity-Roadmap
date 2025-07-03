@@ -3,7 +3,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 <!-- WRITEUPS:START -->
 - [OTP Bypass via JSON Response Manipulation](https://medium.com/@pin0ccs/otp-bypass-via-json-response-manipulation-838ed5e46b24?source=rss------bug_bounty_writeup-5)
 - [Reflected Xss at Rochester University](https://medium.com/@M0x_/reflected-xss-at-rochester-university-a08592b2febd?source=rss------bug_bounty_writeup-5)
-- [Found a Bug. Got No Bounty. Just Vibes.](https://medium.com/@vamsi113377/found-a-bug-got-no-bounty-just-vibes-74697314df1c?source=rss------bug_bounty_writeup-5)
+- [Found a Bug. Got No Bounty. Just Vibes.](https://medium.com/@Tony_29/found-a-bug-got-no-bounty-just-vibes-74697314df1c?source=rss------bug_bounty_writeup-5)
 - [CSRF to ATO: How I Took Over Accounts on Target.com with One POST Request](https://systemweakness.com/csrf-to-ato-how-i-took-over-accounts-on-target-com-with-one-post-request-3ab95112900c?source=rss------bug_bounty_writeup-5)
 - [Week 1 — Learning Basic concepts of Cybersecurity](https://infosecwriteups.com/week-1-learning-basic-concepts-of-cybersecurity-417434e71752?source=rss----7b722bfd1b8d---4)
 - [Performing CSRF Exploits Over GraphQL](https://infosecwriteups.com/performing-csrf-exploits-over-graphql-d6e1165d44dd?source=rss----7b722bfd1b8d---4)
