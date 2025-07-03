@@ -922,6 +922,15 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [One SSRF to Rule Them All](https://infosecwriteups.com/one-ssrf-to-rule-them-all-f6563afce506?source=rss------bug_bounty_writeup-5)
+- [Fake Logins, Real Costs: The OTP Bug Worth €X,XXX](https://infosecwriteups.com/fake-logins-real-costs-the-otp-bug-worth-x-xxx-74a422791385?source=rss------bug_bounty_writeup-5)
+- [️‍♂️ I Forced You to Log In as Me: OAuth Gone Wrong](https://root-geek.medium.com/%EF%B8%8F-%EF%B8%8F-i-forced-you-to-log-in-as-me-oauth-gone-wrong-d68961b1e327?source=rss------bug_bounty_writeup-5)
+- [This Simple IDOR Let Me Access Private User Photos &lpar;Earned $500&rpar;](https://jalwan.medium.com/this-simple-idor-let-me-access-private-user-photos-earned-500-d0537edba677?source=rss------bug_bounty_writeup-5)
+- [CSRF to Delete Products From Any User Cart Lead To $$$](https://hamdiyasin135.medium.com/csrf-to-delete-products-from-any-user-cart-lead-to-af712bb2bfe5?source=rss------bug_bounty_writeup-5)
+- [100+ Vulnerabilities in 5 Minutes and a $200 Bug Bounty Reward](https://medium.com/@shamiloneleo/100-vulnerabilities-in-5-minutes-and-a-200-bug-bounty-reward-8e1ecc727a89?source=rss------bug_bounty_writeup-5)
+- [Bypassing Payment for Project Creation](https://medium.com/@Eyax0/bypassing-payment-for-project-creation-81b5e0f02c4c?source=rss------bug_bounty_writeup-5)
+- [Hacking a Birthday Campaign on a Food Delivery App — Bug Bounty: $1.000+](https://infosecwriteups.com/hacking-a-birthday-campaign-on-a-food-delivery-app-bug-bounty-1-000-22926fee1c31?source=rss------bug_bounty_writeup-5)
+- [Internal Paths/Files Leakage via Malformed Access Token on graph.meta.ai](https://medium.com/@ramzybouyahya/internal-file-paths-files-leakage-via-malformed-access-token-on-graph-meta-ai-3a167e7354b4?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
