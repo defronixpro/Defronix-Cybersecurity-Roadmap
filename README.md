@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [OTP Bypass via JSON Response Manipulation](https://medium.com/@pin0ccs/otp-bypass-via-json-response-manipulation-838ed5e46b24?source=rss------bug_bounty_writeup-5)
+- [Reflected Xss at Rochester University](https://medium.com/@M0x_/reflected-xss-at-rochester-university-a08592b2febd?source=rss------bug_bounty_writeup-5)
 - [Found a Bug. Got No Bounty. Just Vibes.](https://medium.com/@vamsi113377/found-a-bug-got-no-bounty-just-vibes-74697314df1c?source=rss------bug_bounty_writeup-5)
 - [CSRF to ATO: How I Took Over Accounts on Target.com with One POST Request](https://systemweakness.com/csrf-to-ato-how-i-took-over-accounts-on-target-com-with-one-post-request-3ab95112900c?source=rss------bug_bounty_writeup-5)
 - [Week 1 — Learning Basic concepts of Cybersecurity](https://infosecwriteups.com/week-1-learning-basic-concepts-of-cybersecurity-417434e71752?source=rss----7b722bfd1b8d---4)
@@ -939,8 +941,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [️‍♂️ I Forced You to Log In as Me: OAuth Gone Wrong](https://root-geek.medium.com/%EF%B8%8F-%EF%B8%8F-i-forced-you-to-log-in-as-me-oauth-gone-wrong-d68961b1e327?source=rss------bug_bounty_writeup-5)
 - [This Simple IDOR Let Me Access Private User Photos &lpar;Earned $500&rpar;](https://jalwan.medium.com/this-simple-idor-let-me-access-private-user-photos-earned-500-d0537edba677?source=rss------bug_bounty_writeup-5)
 - [CSRF to Delete Products From Any User Cart Lead To $$$](https://hamdiyasin135.medium.com/csrf-to-delete-products-from-any-user-cart-lead-to-af712bb2bfe5?source=rss------bug_bounty_writeup-5)
-- [100+ Vulnerabilities in 5 Minutes and a $200 Bug Bounty Reward](https://medium.com/@shamiloneleo/100-vulnerabilities-in-5-minutes-and-a-200-bug-bounty-reward-8e1ecc727a89?source=rss------bug_bounty_writeup-5)
-- [Bypassing Payment for Project Creation](https://medium.com/@Eyax0/bypassing-payment-for-project-creation-81b5e0f02c4c?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
