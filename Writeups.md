@@ -1,7 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
-- [Two Patches. Zero Bounties. One Ignored Researcher — My Bug Bounty Experience with PayTabs.com](https://medium.com/@zhaenx/two-patches-zero-bounties-one-ignored-researcher-my-bug-bounty-experience-with-paytabs-com-052cefbc8e2e?source=rss------bug_bounty_writeup-5)
+- [Two Patches. Zero Bounties. One Ignored Researcher — My Bug Bounty Experience with PayTabs.com](https://zhaenx.medium.com/two-patches-zero-bounties-one-ignored-researcher-my-bug-bounty-experience-with-paytabs-com-052cefbc8e2e?source=rss------bug_bounty_writeup-5)
 - [OTP Bypass via JSON Response Manipulation](https://medium.com/@pin0ccs/otp-bypass-via-json-response-manipulation-838ed5e46b24?source=rss------bug_bounty_writeup-5)
 - [Reflected Xss at Rochester University](https://medium.com/@M0x_/reflected-xss-at-rochester-university-a08592b2febd?source=rss------bug_bounty_writeup-5)
 - [Found a Bug. Got No Bounty. Just Vibes.](https://medium.com/@Tony_29/found-a-bug-got-no-bounty-just-vibes-74697314df1c?source=rss------bug_bounty_writeup-5)
