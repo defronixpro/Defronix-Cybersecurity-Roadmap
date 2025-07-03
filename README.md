@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Found a Bug. Got No Bounty. Just Vibes.](https://medium.com/@vamsi113377/found-a-bug-got-no-bounty-just-vibes-74697314df1c?source=rss------bug_bounty_writeup-5)
 - [CSRF to ATO: How I Took Over Accounts on Target.com with One POST Request](https://systemweakness.com/csrf-to-ato-how-i-took-over-accounts-on-target-com-with-one-post-request-3ab95112900c?source=rss------bug_bounty_writeup-5)
 - [Week 1 — Learning Basic concepts of Cybersecurity](https://infosecwriteups.com/week-1-learning-basic-concepts-of-cybersecurity-417434e71752?source=rss----7b722bfd1b8d---4)
 - [Performing CSRF Exploits Over GraphQL](https://infosecwriteups.com/performing-csrf-exploits-over-graphql-d6e1165d44dd?source=rss----7b722bfd1b8d---4)
@@ -940,7 +941,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [CSRF to Delete Products From Any User Cart Lead To $$$](https://hamdiyasin135.medium.com/csrf-to-delete-products-from-any-user-cart-lead-to-af712bb2bfe5?source=rss------bug_bounty_writeup-5)
 - [100+ Vulnerabilities in 5 Minutes and a $200 Bug Bounty Reward](https://medium.com/@shamiloneleo/100-vulnerabilities-in-5-minutes-and-a-200-bug-bounty-reward-8e1ecc727a89?source=rss------bug_bounty_writeup-5)
 - [Bypassing Payment for Project Creation](https://medium.com/@Eyax0/bypassing-payment-for-project-creation-81b5e0f02c4c?source=rss------bug_bounty_writeup-5)
-- [Hacking a Birthday Campaign on a Food Delivery App — Bug Bounty: $1.000+](https://infosecwriteups.com/hacking-a-birthday-campaign-on-a-food-delivery-app-bug-bounty-1-000-22926fee1c31?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
