@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Bug Bounty Lessons from Two Out-of-Scope Reports: A Learning Journey, Not Just a Win Story](https://medium.com/@a5adujjaman/bug-bounty-lessons-from-two-out-of-scope-reports-a-learning-journey-not-just-a-win-story-9db3e40ae587?source=rss------bug_bounty_writeup-5)
 - [How I Unlocked Premium Features for Free via a Simple API Trick &lpar;Privilege Escalation Story&rpar;](https://medium.com/@FufuFaf1/how-i-unlocked-premium-features-for-free-via-a-simple-api-trick-privilege-escalation-story-ac1b4edba454?source=rss------bug_bounty_writeup-5)
 - [Two Patches. Zero Bounties. One Ignored Researcher — My Bug Bounty Experience with PayTabs.com](https://zhaenx.medium.com/two-patches-zero-bounties-one-ignored-researcher-my-bug-bounty-experience-with-paytabs-com-052cefbc8e2e?source=rss------bug_bounty_writeup-5)
 - [OTP Bypass via JSON Response Manipulation](https://medium.com/@pin0ccs/otp-bypass-via-json-response-manipulation-838ed5e46b24?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Fake Logins, Real Costs: The OTP Bug Worth €X,XXX](https://infosecwriteups.com/fake-logins-real-costs-the-otp-bug-worth-x-xxx-74a422791385?source=rss------bug_bounty_writeup-5)
 - [Why Apple Might Let ChatGPT or Claude Run Siri — and What It Means for the Future of AI](https://infosecwriteups.com/why-apple-might-let-chatgpt-or-claude-run-siri-and-what-it-means-for-the-future-of-ai-2b23f85988ee?source=rss----7b722bfd1b8d---4)
 - [️‍♂️ I Forced You to Log In as Me: OAuth Gone Wrong](https://root-geek.medium.com/%EF%B8%8F-%EF%B8%8F-i-forced-you-to-log-in-as-me-oauth-gone-wrong-d68961b1e327?source=rss------bug_bounty_writeup-5)
-- [This Simple IDOR Let Me Access Private User Photos &lpar;Earned $500&rpar;](https://jalwan.medium.com/this-simple-idor-let-me-access-private-user-photos-earned-500-d0537edba677?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
