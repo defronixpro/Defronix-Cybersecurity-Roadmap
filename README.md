@@ -926,7 +926,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How I Unlocked Premium Features for Free via a Simple API Trick &lpar;Privilege Escalation Story&rpar;](https://medium.com/@FufuFaf1/how-i-unlocked-premium-features-for-free-via-a-simple-api-trick-privilege-escalation-story-ac1b4edba454?source=rss------bug_bounty_writeup-5)
 - [Two Patches. Zero Bounties. One Ignored Researcher — My Bug Bounty Experience with PayTabs.com](https://zhaenx.medium.com/two-patches-zero-bounties-one-ignored-researcher-my-bug-bounty-experience-with-paytabs-com-052cefbc8e2e?source=rss------bug_bounty_writeup-5)
 - [OTP Bypass via JSON Response Manipulation](https://medium.com/@pin0ccs/otp-bypass-via-json-response-manipulation-838ed5e46b24?source=rss------bug_bounty_writeup-5)
-- [Reflected Xss at Rochester University](https://medium.com/@M0x_/reflected-xss-at-rochester-university-a08592b2febd?source=rss------bug_bounty_writeup-5)
+- [Reflected XSS on University of Rochester Medical Center &lpar;URMC&rpar; Subdomain](https://medium.com/@M0x_/reflected-xss-at-rochester-university-a08592b2febd?source=rss------bug_bounty_writeup-5)
 - [Found a Bug. Got No Bounty. Just Vibes.](https://medium.com/@Tony_29/found-a-bug-got-no-bounty-just-vibes-74697314df1c?source=rss------bug_bounty_writeup-5)
 - [CSRF to ATO: How I Took Over Accounts on Target.com with One POST Request](https://systemweakness.com/csrf-to-ato-how-i-took-over-accounts-on-target-com-with-one-post-request-3ab95112900c?source=rss------bug_bounty_writeup-5)
 - [Week 1 — Learning Basic concepts of Cybersecurity](https://infosecwriteups.com/week-1-learning-basic-concepts-of-cybersecurity-417434e71752?source=rss----7b722bfd1b8d---4)
