@@ -1,6 +1,16 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Week 1 — Learning Basic concepts of Cybersecurity](https://infosecwriteups.com/week-1-learning-basic-concepts-of-cybersecurity-417434e71752?source=rss----7b722bfd1b8d---4)
+- [Performing CSRF Exploits Over GraphQL](https://infosecwriteups.com/performing-csrf-exploits-over-graphql-d6e1165d44dd?source=rss----7b722bfd1b8d---4)
+- [File upload vulnerability explained like never before.](https://infosecwriteups.com/file-upload-vulnerability-explained-like-never-before-34cf86f31ad0?source=rss----7b722bfd1b8d---4)
+- [One SSRF to Rule Them All](https://infosecwriteups.com/one-ssrf-to-rule-them-all-f6563afce506?source=rss----7b722bfd1b8d---4)
+- [Burn It With Fire: How to Eliminate an Industry-Wide Supply Chain Vulnerability](https://infosecwriteups.com/burn-it-with-fire-how-to-eliminate-an-industry-wide-supply-chain-vulnerability-12515516fb56?source=rss----7b722bfd1b8d---4)
+- [I Stalked a Scammer on the Dark Web. Here’s What I Learned About OSINT](https://infosecwriteups.com/i-stalked-a-scammer-on-the-dark-web-heres-what-i-learned-about-osint-9f898fe84ef4?source=rss----7b722bfd1b8d---4)
+- [Secure by Design: A Modern Guide to Application Architecture Reviews](https://infosecwriteups.com/secure-by-design-a-modern-guide-to-application-architecture-reviews-19f016738990?source=rss----7b722bfd1b8d---4)
+- [That One Time SSL Pinning Made Me Question Everything About HTTPS](https://infosecwriteups.com/that-one-time-ssl-pinning-made-me-question-everything-about-https-b4deee5d453d?source=rss----7b722bfd1b8d---4)
+- [Fake Logins, Real Costs: The OTP Bug Worth €X,XXX](https://infosecwriteups.com/fake-logins-real-costs-the-otp-bug-worth-x-xxx-74a422791385?source=rss----7b722bfd1b8d---4)
+- [Why Apple Might Let ChatGPT or Claude Run Siri — and What It Means for the Future of AI](https://infosecwriteups.com/why-apple-might-let-chatgpt-or-claude-run-siri-and-what-it-means-for-the-future-of-ai-2b23f85988ee?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
