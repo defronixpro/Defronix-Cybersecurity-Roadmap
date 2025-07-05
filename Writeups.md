@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How a Social Icon Can Become a Threat Vector](https://medium.com/@vaaditya320/how-a-social-icon-can-become-a-threat-vector-58a2266ff685?source=rss------bug_bounty_writeup-5)
 - [Subdomain Takeover: When Your Own Domain Becomes Your Enemy ️‍♂️](https://hettt.medium.com/subdomain-takeover-when-your-own-domain-becomes-your-enemy-%EF%B8%8F-%EF%B8%8F-8c80e650aeea?source=rss------bug_bounty_writeup-5)
 - [️ Beyond /etc/passwd: LFI Bypass, The Ultimate Guide](https://systemweakness.com/%EF%B8%8F-beyond-etc-passwd-lfi-bypass-the-ultimate-guide-5829d1efb600?source=rss------bug_bounty_writeup-5)
 - [Exposed WordPress XML-RPC on akcmv.gov.lv: Brute Force and DDoS Risks](https://medium.com/@gourisankara357/exposed-wordpress-xml-rpc-on-akcmv-gov-lv-brute-force-and-ddos-risks-554c2a29edcf?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How I Unlocked Premium Features for Free via a Simple API Trick &lpar;Privilege Escalation Story&rpar;](https://medium.com/@FufuFaf1/how-i-unlocked-premium-features-for-free-via-a-simple-api-trick-privilege-escalation-story-ac1b4edba454?source=rss------bug_bounty_writeup-5)
 - [Two Patches. Zero Bounties. One Ignored Researcher — My Bug Bounty Experience with PayTabs.com](https://zhaenx.medium.com/two-patches-zero-bounties-one-ignored-researcher-my-bug-bounty-experience-with-paytabs-com-052cefbc8e2e?source=rss------bug_bounty_writeup-5)
 - [OTP Bypass via JSON Response Manipulation](https://medium.com/@pin0ccs/otp-bypass-via-json-response-manipulation-838ed5e46b24?source=rss------bug_bounty_writeup-5)
-- [Reflected XSS on University of Rochester Medical Center &lpar;URMC&rpar; Subdomain](https://medium.com/@M0x_/reflected-xss-at-rochester-university-a08592b2febd?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
