@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Subdomain Takeover: When Your Own Domain Becomes Your Enemy ️‍♂️](https://hettt.medium.com/subdomain-takeover-when-your-own-domain-becomes-your-enemy-%EF%B8%8F-%EF%B8%8F-8c80e650aeea?source=rss------bug_bounty_writeup-5)
 - [️ Beyond /etc/passwd: LFI Bypass, The Ultimate Guide](https://systemweakness.com/%EF%B8%8F-beyond-etc-passwd-lfi-bypass-the-ultimate-guide-5829d1efb600?source=rss------bug_bounty_writeup-5)
 - [Exposed WordPress XML-RPC on akcmv.gov.lv: Brute Force and DDoS Risks](https://medium.com/@gourisankara357/exposed-wordpress-xml-rpc-on-akcmv-gov-lv-brute-force-and-ddos-risks-554c2a29edcf?source=rss------bug_bounty_writeup-5)
 - [Web Monitoring Tools For OSINT Investigation](https://infosecwriteups.com/web-monitoring-tools-for-osint-investigation-5ab926a8fe16?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Two Patches. Zero Bounties. One Ignored Researcher — My Bug Bounty Experience with PayTabs.com](https://zhaenx.medium.com/two-patches-zero-bounties-one-ignored-researcher-my-bug-bounty-experience-with-paytabs-com-052cefbc8e2e?source=rss------bug_bounty_writeup-5)
 - [OTP Bypass via JSON Response Manipulation](https://medium.com/@pin0ccs/otp-bypass-via-json-response-manipulation-838ed5e46b24?source=rss------bug_bounty_writeup-5)
 - [Reflected XSS on University of Rochester Medical Center &lpar;URMC&rpar; Subdomain](https://medium.com/@M0x_/reflected-xss-at-rochester-university-a08592b2febd?source=rss------bug_bounty_writeup-5)
-- [Found a Bug. Got No Bounty. Just Vibes.](https://medium.com/@Tony_29/found-a-bug-got-no-bounty-just-vibes-74697314df1c?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
