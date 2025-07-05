@@ -1,7 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
-- [️ Beyond /etc/passwd: LFI Bypass, The Ultimate Guide](https://medium.com/@SKaif009/%EF%B8%8F-beyond-etc-passwd-lfi-bypass-the-ultimate-guide-5829d1efb600?source=rss------bug_bounty_writeup-5)
+- [️ Beyond /etc/passwd: LFI Bypass, The Ultimate Guide](https://systemweakness.com/%EF%B8%8F-beyond-etc-passwd-lfi-bypass-the-ultimate-guide-5829d1efb600?source=rss------bug_bounty_writeup-5)
 - [Exposed WordPress XML-RPC on akcmv.gov.lv: Brute Force and DDoS Risks](https://medium.com/@gourisankara357/exposed-wordpress-xml-rpc-on-akcmv-gov-lv-brute-force-and-ddos-risks-554c2a29edcf?source=rss------bug_bounty_writeup-5)
 - [Web Monitoring Tools For OSINT Investigation](https://infosecwriteups.com/web-monitoring-tools-for-osint-investigation-5ab926a8fe16?source=rss----7b722bfd1b8d---4)
 - [The Password I Never Reset — And Still Got In](https://infosecwriteups.com/the-password-i-never-reset-and-still-got-in-a3ff502b03ee?source=rss----7b722bfd1b8d---4)
