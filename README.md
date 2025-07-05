@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [️ Beyond /etc/passwd: LFI Bypass, The Ultimate Guide](https://systemweakness.com/%EF%B8%8F-beyond-etc-passwd-lfi-bypass-the-ultimate-guide-5829d1efb600?source=rss------bug_bounty_writeup-5)
 - [Exposed WordPress XML-RPC on akcmv.gov.lv: Brute Force and DDoS Risks](https://medium.com/@gourisankara357/exposed-wordpress-xml-rpc-on-akcmv-gov-lv-brute-force-and-ddos-risks-554c2a29edcf?source=rss------bug_bounty_writeup-5)
 - [Web Monitoring Tools For OSINT Investigation](https://infosecwriteups.com/web-monitoring-tools-for-osint-investigation-5ab926a8fe16?source=rss----7b722bfd1b8d---4)
 - [The Password I Never Reset — And Still Got In](https://infosecwriteups.com/the-password-i-never-reset-and-still-got-in-a3ff502b03ee?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [OTP Bypass via JSON Response Manipulation](https://medium.com/@pin0ccs/otp-bypass-via-json-response-manipulation-838ed5e46b24?source=rss------bug_bounty_writeup-5)
 - [Reflected XSS on University of Rochester Medical Center &lpar;URMC&rpar; Subdomain](https://medium.com/@M0x_/reflected-xss-at-rochester-university-a08592b2febd?source=rss------bug_bounty_writeup-5)
 - [Found a Bug. Got No Bounty. Just Vibes.](https://medium.com/@Tony_29/found-a-bug-got-no-bounty-just-vibes-74697314df1c?source=rss------bug_bounty_writeup-5)
-- [CSRF to ATO: How I Took Over Accounts on Target.com with One POST Request](https://systemweakness.com/csrf-to-ato-how-i-took-over-accounts-on-target-com-with-one-post-request-3ab95112900c?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
