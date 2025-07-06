@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [The Bug That Let Users Hide Comments from Creators — And I Bypassed the Fix the Same Day](https://medium.com/@sandipgyawali/the-bug-that-let-users-hide-comments-from-creators-and-i-bypassed-the-fix-the-same-day-e7b95c1ae3b2?source=rss------bug_bounty_writeup-5)
 - [From Open Redirect to Internal Access: My SSRF Exploit Story](https://infosecwriteups.com/from-open-redirect-to-internal-access-my-ssrf-exploit-story-10a736962f98?source=rss----7b722bfd1b8d---4)
 - [OSINT: How to Find Hidden Data Leaks Using Free Tools](https://infosecwriteups.com/osint-how-to-find-hidden-data-leaks-using-free-tools-b1f1613dc638?source=rss----7b722bfd1b8d---4)
 - [$600 Bounty: How Revealed Hidden Read Receipts in Bumble’s Chat API](https://infosecwriteups.com/600-bounty-how-revealed-hidden-read-receipts-in-bumbles-chat-api-53bc06c987f5?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Bug Bounty Lessons from Two Out-of-Scope Reports: A Learning Journey, Not Just a Win Story](https://medium.com/@a5adujjaman/bug-bounty-lessons-from-two-out-of-scope-reports-a-learning-journey-not-just-a-win-story-9db3e40ae587?source=rss------bug_bounty_writeup-5)
 - [How I Unlocked Premium Features for Free via a Simple API Trick &lpar;Privilege Escalation Story&rpar;](https://medium.com/@FufuFaf1/how-i-unlocked-premium-features-for-free-via-a-simple-api-trick-privilege-escalation-story-ac1b4edba454?source=rss------bug_bounty_writeup-5)
 - [Two Patches. Zero Bounties. One Ignored Researcher — My Bug Bounty Experience with PayTabs.com](https://zhaenx.medium.com/two-patches-zero-bounties-one-ignored-researcher-my-bug-bounty-experience-with-paytabs-com-052cefbc8e2e?source=rss------bug_bounty_writeup-5)
-- [OTP Bypass via JSON Response Manipulation](https://medium.com/@pin0ccs/otp-bypass-via-json-response-manipulation-838ed5e46b24?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
