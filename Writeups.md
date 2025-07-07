@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [&lpar;LLM injection&rpar; Bypass payment in Chat GPT](https://medium.com/@VulnRAM/llm-injection-bypass-payment-in-chat-gpt-34b194d1210a?source=rss------bug_bounty_writeup-5)
 - [How to Easily Find exposed Secret keys and Tokens in Bug Hunting](https://infosecwriteups.com/how-to-easily-find-exposed-secret-keys-and-tokens-in-bug-hunting-afed1ea9e883?source=rss----7b722bfd1b8d---4)
 - [How to Easily Find exposed Secret keys and Tokens in Bug Hunting](https://infosecwriteups.com/how-to-easily-find-exposed-secret-keys-and-tokens-in-bug-hunting-afed1ea9e883?source=rss------bug_bounty_writeup-5)
 - [Here’s what I learned after solving 5 Path Traversal Labs.](https://infosecwriteups.com/heres-what-i-learned-after-solving-5-path-traversal-labs-c8676b126422?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [The Bug That Let Users Hide Comments from Creators — And I Bypassed the Fix the Same Day](https://medium.com/@sandipgyawali/the-bug-that-let-users-hide-comments-from-creators-and-i-bypassed-the-fix-the-same-day-e7b95c1ae3b2?source=rss------bug_bounty_writeup-5)
 - [How a Social Icon Can Become a Threat Vector](https://medium.com/@vaaditya320/how-a-social-icon-can-become-a-threat-vector-58a2266ff685?source=rss------bug_bounty_writeup-5)
 - [Subdomain Takeover: When Your Own Domain Becomes Your Enemy ️‍♂️](https://hettt.medium.com/subdomain-takeover-when-your-own-domain-becomes-your-enemy-%EF%B8%8F-%EF%B8%8F-8c80e650aeea?source=rss------bug_bounty_writeup-5)
-- [️ Beyond /etc/passwd: LFI Bypass, The Ultimate Guide](https://systemweakness.com/%EF%B8%8F-beyond-etc-passwd-lfi-bypass-the-ultimate-guide-5829d1efb600?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
