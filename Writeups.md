@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How a Simple Break Turned a Duplicate Into a P1 Bounty via Request Method Manipulation](https://medium.com/@whitehat29/how-a-simple-break-turned-a-duplicate-into-a-p1-bounty-via-request-method-manipulation-72994a088079?source=rss------bug_bounty_writeup-5)
 - [Unauthenticated API Endpoint Exposes SMS Account Balance — An Information Disclosure Story](https://medium.com/@gourisankara357/unauthenticated-api-endpoint-exposes-sms-account-balance-an-information-disclosure-story-23b16b83cdef?source=rss------bug_bounty_writeup-5)
 - [La constancia: el verdadero secreto del Bug Bounty](https://gorkaaa.medium.com/la-constancia-el-verdadero-secreto-del-bug-bounty-1c1e14305c6e?source=rss------bug_bounty_writeup-5)
 - [The Bug That Let Users Hide Comments from Creators — And I Bypassed the Fix the Same Day](https://medium.com/@sandipgyawali/the-bug-that-let-users-hide-comments-from-creators-and-i-bypassed-the-fix-the-same-day-e7b95c1ae3b2?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Web Monitoring Tools For OSINT Investigation](https://infosecwriteups.com/web-monitoring-tools-for-osint-investigation-5ab926a8fe16?source=rss----7b722bfd1b8d---4)
 - [Just Wanted to Be a Driver, Ended Up Discovering a Time Capsule](https://infosecwriteups.com/just-wanted-to-be-a-driver-ended-up-discovering-a-time-capsule-085808a4baa8?source=rss------bug_bounty_writeup-5)
 - [escalate privileges](https://medium.com/@poyanfaraji.code/escalate-privileges-f235043b8dbd?source=rss------bug_bounty_writeup-5)
-- [Bug Bounty Lessons from Two Out-of-Scope Reports: A Learning Journey, Not Just a Win Story](https://medium.com/@a5adujjaman/bug-bounty-lessons-from-two-out-of-scope-reports-a-learning-journey-not-just-a-win-story-9db3e40ae587?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
