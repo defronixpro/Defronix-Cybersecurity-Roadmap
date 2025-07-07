@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I Identified a Logic Flaw in WhatsApp’s Call Verification](https://medium.com/@pradumon14/how-i-identified-a-logic-flaw-in-whatsapps-call-verification-906ded6f8ce0?source=rss------bug_bounty_writeup-5)
 - [Privilege Escalation Techniques Every Hacker Should Know](https://medium.com/@es0557533/privilege-escalation-techniques-every-hacker-should-know-3a41c9b18706?source=rss------bug_bounty_writeup-5)
 - [How a Simple Break Turned a Duplicate Into a P1 Bounty via Request Method Manipulation](https://cybersecuritywriteups.com/how-a-simple-break-turned-a-duplicate-into-a-p1-bounty-via-request-method-manipulation-72994a088079?source=rss------bug_bounty_writeup-5)
 - [Unauthenticated API Endpoint Exposes SMS Account Balance — An Information Disclosure Story](https://medium.com/@gourisankara357/unauthenticated-api-endpoint-exposes-sms-account-balance-an-information-disclosure-story-23b16b83cdef?source=rss------bug_bounty_writeup-5)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [️ Beyond /etc/passwd: LFI Bypass, The Ultimate Guide](https://systemweakness.com/%EF%B8%8F-beyond-etc-passwd-lfi-bypass-the-ultimate-guide-5829d1efb600?source=rss------bug_bounty_writeup-5)
 - [Exposed WordPress XML-RPC on akcmv.gov.lv: Brute Force and DDoS Risks](https://medium.com/@gourisankara357/exposed-wordpress-xml-rpc-on-akcmv-gov-lv-brute-force-and-ddos-risks-554c2a29edcf?source=rss------bug_bounty_writeup-5)
 - [Web Monitoring Tools For OSINT Investigation](https://infosecwriteups.com/web-monitoring-tools-for-osint-investigation-5ab926a8fe16?source=rss----7b722bfd1b8d---4)
-- [Just Wanted to Be a Driver, Ended Up Discovering a Time Capsule](https://infosecwriteups.com/just-wanted-to-be-a-driver-ended-up-discovering-a-time-capsule-085808a4baa8?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
