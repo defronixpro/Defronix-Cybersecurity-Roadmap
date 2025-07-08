@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I Tricked a Swagger UI into Showing a Fake Login Page](https://medium.com/@iamshafayat/how-i-tricked-a-swagger-ui-into-showing-a-fake-login-page-68e9f08a3d59?source=rss------bug_bounty_writeup-5)
 - [THE DARK ART OF GOOGLE DORKING : HOW I UNCOVERED SENSITIVE DATA IN THE WILD](https://medium.com/@gourisankara357/the-dark-art-of-google-dorking-how-i-uncovered-sensitive-data-in-the-wild-4405e74382f3?source=rss------bug_bounty_writeup-5)
 - [&lpar;LLM injection&rpar; Bypass payment in Chat GPT](https://medium.com/@VulnRAM/llm-injection-bypass-payment-in-chat-gpt-34b194d1210a?source=rss------bug_bounty_writeup-5)
 - [How to Easily Find exposed Secret keys and Tokens in Bug Hunting](https://infosecwriteups.com/how-to-easily-find-exposed-secret-keys-and-tokens-in-bug-hunting-afed1ea9e883?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Unauthenticated API Endpoint Exposes SMS Account Balance — An Information Disclosure Story](https://medium.com/@gourisankara357/unauthenticated-api-endpoint-exposes-sms-account-balance-an-information-disclosure-story-23b16b83cdef?source=rss------bug_bounty_writeup-5)
 - [La constancia: el verdadero secreto del Bug Bounty](https://gorkaaa.medium.com/la-constancia-el-verdadero-secreto-del-bug-bounty-1c1e14305c6e?source=rss------bug_bounty_writeup-5)
 - [The Bug That Let Users Hide Comments from Creators — And I Bypassed the Fix the Same Day](https://medium.com/@sandipgyawali/the-bug-that-let-users-hide-comments-from-creators-and-i-bypassed-the-fix-the-same-day-e7b95c1ae3b2?source=rss------bug_bounty_writeup-5)
-- [How a Social Icon Can Become a Threat Vector](https://medium.com/@vaaditya320/how-a-social-icon-can-become-a-threat-vector-58a2266ff685?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
