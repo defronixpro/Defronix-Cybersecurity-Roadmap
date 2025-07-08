@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [️ Advanced OAuth Vulnerabilities — Deep Dive](https://systemweakness.com/%EF%B8%8F-advanced-oauth-vulnerabilities-deep-dive-b941c90f49b6?source=rss------bug_bounty_writeup-5)
 - [Challenge: findme &lpar;Web Exploitation&rpar;](https://medium.com/@nani.yashwanth12/challenge-findme-web-exploitation-e3fa59cea419?source=rss------bug_bounty_writeup-5)
 - [How Low Severity Bugs Lead to Critical Rewards](https://infosecwriteups.com/how-low-severity-bugs-lead-to-critical-rewards-bed034ed149e?source=rss----7b722bfd1b8d---4)
 - [How I made Vertical Privilege Escalation through Request Manipulation](https://infosecwriteups.com/how-i-made-vertical-privilege-escalation-through-request-manipulation-98cfef624740?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How I Identified a Logic Flaw in WhatsApp’s Call Verification](https://medium.com/@pradumon14/how-i-identified-a-logic-flaw-in-whatsapps-call-verification-906ded6f8ce0?source=rss------bug_bounty_writeup-5)
 - [Privilege Escalation Techniques Every Hacker Should Know](https://medium.com/@es0557533/privilege-escalation-techniques-every-hacker-should-know-3a41c9b18706?source=rss------bug_bounty_writeup-5)
 - [How a Simple Break Turned a Duplicate Into a P1 Bounty via Request Method Manipulation](https://cybersecuritywriteups.com/how-a-simple-break-turned-a-duplicate-into-a-p1-bounty-via-request-method-manipulation-72994a088079?source=rss------bug_bounty_writeup-5)
-- [Unauthenticated API Endpoint Exposes SMS Account Balance — An Information Disclosure Story](https://medium.com/@gourisankara357/unauthenticated-api-endpoint-exposes-sms-account-balance-an-information-disclosure-story-23b16b83cdef?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
