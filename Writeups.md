@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How I Downloaded All Bitbucket Repos by Finding a Leaked Token in a JS file for $4k Bounty.](https://medium.com/@s41n1k/how-i-downloaded-all-bitbucket-repos-by-finding-a-leaked-token-in-a-js-file-for-4k-bounty-a701d6effa50?source=rss------bug_bounty_writeup-5)
 - [How I Tricked a Swagger UI into Showing a Fake Login Page](https://medium.com/@iamshafayat/how-i-tricked-a-swagger-ui-into-showing-a-fake-login-page-68e9f08a3d59?source=rss------bug_bounty_writeup-5)
 - [THE DARK ART OF GOOGLE DORKING : HOW I UNCOVERED SENSITIVE DATA IN THE WILD](https://medium.com/@gourisankara357/the-dark-art-of-google-dorking-how-i-uncovered-sensitive-data-in-the-wild-4405e74382f3?source=rss------bug_bounty_writeup-5)
 - [&lpar;LLM injection&rpar; Bypass payment in Chat GPT](https://medium.com/@VulnRAM/llm-injection-bypass-payment-in-chat-gpt-34b194d1210a?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How a Simple Break Turned a Duplicate Into a P1 Bounty via Request Method Manipulation](https://cybersecuritywriteups.com/how-a-simple-break-turned-a-duplicate-into-a-p1-bounty-via-request-method-manipulation-72994a088079?source=rss------bug_bounty_writeup-5)
 - [Unauthenticated API Endpoint Exposes SMS Account Balance — An Information Disclosure Story](https://medium.com/@gourisankara357/unauthenticated-api-endpoint-exposes-sms-account-balance-an-information-disclosure-story-23b16b83cdef?source=rss------bug_bounty_writeup-5)
 - [La constancia: el verdadero secreto del Bug Bounty](https://gorkaaa.medium.com/la-constancia-el-verdadero-secreto-del-bug-bounty-1c1e14305c6e?source=rss------bug_bounty_writeup-5)
-- [The Bug That Let Users Hide Comments from Creators — And I Bypassed the Fix the Same Day](https://medium.com/@sandipgyawali/the-bug-that-let-users-hide-comments-from-creators-and-i-bypassed-the-fix-the-same-day-e7b95c1ae3b2?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
