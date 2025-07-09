@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Stored XSS via Organization Name](https://medium.com/@edahmed008/stored-xss-via-organization-name-e47b7d476a06?source=rss------bug_bounty_writeup-5)
 - [️ Advanced OAuth Vulnerabilities — Deep Dive](https://systemweakness.com/%EF%B8%8F-advanced-oauth-vulnerabilities-deep-dive-b941c90f49b6?source=rss------bug_bounty_writeup-5)
 - [Challenge: findme &lpar;Web Exploitation&rpar;](https://medium.com/@nani.yashwanth12/challenge-findme-web-exploitation-e3fa59cea419?source=rss------bug_bounty_writeup-5)
 - [How Low Severity Bugs Lead to Critical Rewards](https://infosecwriteups.com/how-low-severity-bugs-lead-to-critical-rewards-bed034ed149e?source=rss----7b722bfd1b8d---4)
@@ -938,7 +939,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How I Tricked a Swagger UI into Showing a Fake Login Page](https://systemweakness.com/how-i-tricked-a-swagger-ui-into-showing-a-fake-login-page-68e9f08a3d59?source=rss------bug_bounty_writeup-5)
 - [THE DARK ART OF GOOGLE DORKING : HOW I UNCOVERED SENSITIVE DATA IN THE WILD](https://medium.com/@gourisankara357/the-dark-art-of-google-dorking-how-i-uncovered-sensitive-data-in-the-wild-4405e74382f3?source=rss------bug_bounty_writeup-5)
 - [&lpar;LLM injection&rpar; Bypass payment in Chat GPT](https://medium.com/@VulnRAM/llm-injection-bypass-payment-in-chat-gpt-34b194d1210a?source=rss------bug_bounty_writeup-5)
-- [How to Easily Find exposed Secret keys and Tokens in Bug Hunting](https://infosecwriteups.com/how-to-easily-find-exposed-secret-keys-and-tokens-in-bug-hunting-afed1ea9e883?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
