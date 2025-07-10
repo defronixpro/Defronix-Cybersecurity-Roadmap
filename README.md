@@ -922,9 +922,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [Stored XSS via Organization Name](https://medium.com/@edahmed008/stored-xss-via-organization-name-e47b7d476a06?source=rss------bug_bounty_writeup-5)
-- [️ Advanced OAuth Vulnerabilities — Deep Dive](https://systemweakness.com/%EF%B8%8F-advanced-oauth-vulnerabilities-deep-dive-b941c90f49b6?source=rss------bug_bounty_writeup-5)
-- [Challenge: findme &lpar;Web Exploitation&rpar;](https://medium.com/@nani.yashwanth12/challenge-findme-web-exploitation-e3fa59cea419?source=rss------bug_bounty_writeup-5)
 - [How Low Severity Bugs Lead to Critical Rewards](https://infosecwriteups.com/how-low-severity-bugs-lead-to-critical-rewards-bed034ed149e?source=rss----7b722bfd1b8d---4)
 - [How I made Vertical Privilege Escalation through Request Manipulation](https://infosecwriteups.com/how-i-made-vertical-privilege-escalation-through-request-manipulation-98cfef624740?source=rss----7b722bfd1b8d---4)
 - [I Unlocked Gemini Advanced Till 2025 Using a Temporary .EDU](https://infosecwriteups.com/i-unlocked-gemini-advanced-till-2025-using-a-temporary-edu-16c98e4cfabb?source=rss----7b722bfd1b8d---4)
@@ -935,10 +932,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Open Source Tool for AI-Specific Threat Modeling — Fast, Context-Aware, and Developer-Friendly](https://infosecwriteups.com/open-source-tool-for-ai-specific-threat-modeling-fast-context-aware-and-developer-friendly-2c047fdc1781?source=rss----7b722bfd1b8d---4)
 - [The $100,000 Click: My First Year in Bug Bounties](https://infosecwriteups.com/the-100-000-click-my-first-year-in-bug-bounties-824d581a6c00?source=rss----7b722bfd1b8d---4)
 - [The Ultimate API Penetration Testing Checklist &lpar;2025 Edition&rpar;](https://infosecwriteups.com/the-ultimate-api-penetration-testing-checklist-2025-edition-092ca8a4056a?source=rss----7b722bfd1b8d---4)
-- [How I Downloaded All Bitbucket Repos by Finding a Leaked Token in a JS file for $4k Bounty.](https://medium.com/@s41n1k/how-i-downloaded-all-bitbucket-repos-by-finding-a-leaked-token-in-a-js-file-for-4k-bounty-a701d6effa50?source=rss------bug_bounty_writeup-5)
-- [How I Tricked a Swagger UI into Showing a Fake Login Page](https://systemweakness.com/how-i-tricked-a-swagger-ui-into-showing-a-fake-login-page-68e9f08a3d59?source=rss------bug_bounty_writeup-5)
-- [THE DARK ART OF GOOGLE DORKING : HOW I UNCOVERED SENSITIVE DATA IN THE WILD](https://medium.com/@gourisankara357/the-dark-art-of-google-dorking-how-i-uncovered-sensitive-data-in-the-wild-4405e74382f3?source=rss------bug_bounty_writeup-5)
-- [&lpar;LLM injection&rpar; Bypass payment in Chat GPT](https://medium.com/@VulnRAM/llm-injection-bypass-payment-in-chat-gpt-34b194d1210a?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
