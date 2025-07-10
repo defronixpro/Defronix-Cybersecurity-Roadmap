@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [From Rooted to Rejected: How I Found an LFI… Then Got a “Duplicate” Anyway](https://medium.com/@SKaif009/from-rooted-to-rejected-how-i-found-an-lfi-then-got-a-duplicate-anyway-c353e8088ce4?source=rss------bug_bounty_writeup-5)
 - [How Not to Handle Your API Keys: A Love Letter to Developers Everywhere](https://medium.com/meetcyber/how-not-to-handle-your-api-keys-a-love-letter-to-developers-everywhere-451db07c790f?source=rss------bug_bounty_writeup-5)
 - [AI Model API-Validation Using Curl](https://medium.com/@rr-1k/ai-model-api-validation-using-curl-b4b28975a87e?source=rss------bug_bounty_writeup-5)
 - [Stored XSS via Organization Name](https://medium.com/@edahmed008/stored-xss-via-organization-name-e47b7d476a06?source=rss------bug_bounty_writeup-5)
@@ -17,7 +18,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [The $100,000 Click: My First Year in Bug Bounties](https://infosecwriteups.com/the-100-000-click-my-first-year-in-bug-bounties-824d581a6c00?source=rss----7b722bfd1b8d---4)
 - [The Ultimate API Penetration Testing Checklist &lpar;2025 Edition&rpar;](https://infosecwriteups.com/the-ultimate-api-penetration-testing-checklist-2025-edition-092ca8a4056a?source=rss----7b722bfd1b8d---4)
 - [How I Downloaded All Bitbucket Repos by Finding a Leaked Token in a JS file for $4k Bounty.](https://medium.com/@s41n1k/how-i-downloaded-all-bitbucket-repos-by-finding-a-leaked-token-in-a-js-file-for-4k-bounty-a701d6effa50?source=rss------bug_bounty_writeup-5)
-- [How I Tricked a Swagger UI into Showing a Fake Login Page](https://systemweakness.com/how-i-tricked-a-swagger-ui-into-showing-a-fake-login-page-68e9f08a3d59?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
