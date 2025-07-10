@@ -1,7 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
-- [From Rooted to Rejected: How I Found an LFI… Then Got a “Duplicate” Anyway](https://medium.com/@SKaif009/from-rooted-to-rejected-how-i-found-an-lfi-then-got-a-duplicate-anyway-c353e8088ce4?source=rss------bug_bounty_writeup-5)
+- [From Rooted to Rejected: How I Found an LFI… Then Got a “Duplicate” Anyway](https://systemweakness.com/from-rooted-to-rejected-how-i-found-an-lfi-then-got-a-duplicate-anyway-c353e8088ce4?source=rss------bug_bounty_writeup-5)
 - [How Not to Handle Your API Keys: A Love Letter to Developers Everywhere](https://medium.com/meetcyber/how-not-to-handle-your-api-keys-a-love-letter-to-developers-everywhere-451db07c790f?source=rss------bug_bounty_writeup-5)
 - [AI Model API-Validation Using Curl](https://medium.com/@rr-1k/ai-model-api-validation-using-curl-b4b28975a87e?source=rss------bug_bounty_writeup-5)
 - [Stored XSS via Organization Name](https://medium.com/@edahmed008/stored-xss-via-organization-name-e47b7d476a06?source=rss------bug_bounty_writeup-5)
