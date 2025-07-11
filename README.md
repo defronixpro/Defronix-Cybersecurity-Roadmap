@@ -922,23 +922,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [From Informative To Medium &lpar;6.5&rpar;](https://medium.com/@Muhammad_Wageh/from-informative-to-medium-6-5-e19bec7cf23d?source=rss------bug_bounty_writeup-5)
-- [From Rooted to Rejected: How I Found an LFI… Then Got a “Duplicate” Anyway](https://systemweakness.com/from-rooted-to-rejected-how-i-found-an-lfi-then-got-a-duplicate-anyway-c353e8088ce4?source=rss------bug_bounty_writeup-5)
-- [How Not to Handle Your API Keys: A Love Letter to Developers Everywhere](https://medium.com/meetcyber/how-not-to-handle-your-api-keys-a-love-letter-to-developers-everywhere-451db07c790f?source=rss------bug_bounty_writeup-5)
-- [AI Model API-Validation Using Curl](https://medium.com/@rr-1k/ai-model-api-validation-using-curl-b4b28975a87e?source=rss------bug_bounty_writeup-5)
-- [Stored XSS via Organization Name](https://medium.com/@edahmed008/stored-xss-via-organization-name-e47b7d476a06?source=rss------bug_bounty_writeup-5)
-- [️ Advanced OAuth Vulnerabilities — Deep Dive](https://systemweakness.com/%EF%B8%8F-advanced-oauth-vulnerabilities-deep-dive-b941c90f49b6?source=rss------bug_bounty_writeup-5)
-- [Challenge: findme &lpar;Web Exploitation&rpar;](https://medium.com/@nani.yashwanth12/challenge-findme-web-exploitation-e3fa59cea419?source=rss------bug_bounty_writeup-5)
-- [How Low Severity Bugs Lead to Critical Rewards](https://infosecwriteups.com/how-low-severity-bugs-lead-to-critical-rewards-bed034ed149e?source=rss----7b722bfd1b8d---4)
-- [How I made Vertical Privilege Escalation through Request Manipulation](https://infosecwriteups.com/how-i-made-vertical-privilege-escalation-through-request-manipulation-98cfef624740?source=rss----7b722bfd1b8d---4)
-- [I Unlocked Gemini Advanced Till 2025 Using a Temporary .EDU](https://infosecwriteups.com/i-unlocked-gemini-advanced-till-2025-using-a-temporary-edu-16c98e4cfabb?source=rss----7b722bfd1b8d---4)
-- [The HackerOne-Wayback Machine Saga: An Unofficial Vulnerability or Just Public Oversight?](https://infosecwriteups.com/the-hackerone-wayback-machine-saga-an-unofficial-vulnerability-or-just-public-oversight-22c1fb0112bb?source=rss----7b722bfd1b8d---4)
-- [Printed QR Code Hacking in 2025: The Invisible Threat You Must Know!](https://infosecwriteups.com/printed-qr-code-hacking-in-2025-the-invisible-threat-you-must-know-721acc07a352?source=rss----7b722bfd1b8d---4)
-- [Tuesday Morning Threat Report: July 8, 2025](https://infosecwriteups.com/tuesday-morning-threat-report-july-8-2025-5111fbacf555?source=rss----7b722bfd1b8d---4)
-- [Inside the Breach: How an Entire Bank&#39;s Computer Systems Were Hacked](https://infosecwriteups.com/title-inside-the-breach-how-an-entire-banks-computer-systems-were-hacked-cee78b45a5dc?source=rss----7b722bfd1b8d---4)
-- [Open Source Tool for AI-Specific Threat Modeling — Fast, Context-Aware, and Developer-Friendly](https://infosecwriteups.com/open-source-tool-for-ai-specific-threat-modeling-fast-context-aware-and-developer-friendly-2c047fdc1781?source=rss----7b722bfd1b8d---4)
-- [The $100,000 Click: My First Year in Bug Bounties](https://infosecwriteups.com/the-100-000-click-my-first-year-in-bug-bounties-824d581a6c00?source=rss----7b722bfd1b8d---4)
-- [The Ultimate API Penetration Testing Checklist &lpar;2025 Edition&rpar;](https://infosecwriteups.com/the-ultimate-api-penetration-testing-checklist-2025-edition-092ca8a4056a?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
