@@ -1,14 +1,6 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
-- [Bug Hunting 101: The Firebase Misconfig That Earned Me a Bounty](https://medium.com/@secshubhamsharma/bug-hunting-101-the-firebase-misconfig-that-earned-me-a-bounty-dd600cef8ade?source=rss------bug_bounty_writeup-5)
-- [Public Bucket, Private Tears – The Day I Found an Open S3 and Still Got “Informative”](https://medium.com/@Tony_29/public-bucket-private-tears-the-day-i-found-an-open-s3-and-still-got-informative-a0bcfca59760?source=rss------bug_bounty_writeup-5)
-- [When One Google Account Isn’t Enough: Breaking Identity Boundaries via SSO Confusion](https://systemweakness.com/when-one-google-account-isnt-enough-breaking-identity-boundaries-via-sso-confusion-10e4f8381a44?source=rss------bug_bounty_writeup-5)
-- [From Informative To Medium &lpar;6.5&rpar;](https://medium.com/@Muhammad_Wageh/from-informative-to-medium-6-5-e19bec7cf23d?source=rss------bug_bounty_writeup-5)
-- [From Rooted to Rejected: How I Found an LFI… Then Got a “Duplicate” Anyway](https://systemweakness.com/from-rooted-to-rejected-how-i-found-an-lfi-then-got-a-duplicate-anyway-c353e8088ce4?source=rss------bug_bounty_writeup-5)
-- [How Not to Handle Your API Keys: A Love Letter to Developers Everywhere](https://medium.com/meetcyber/how-not-to-handle-your-api-keys-a-love-letter-to-developers-everywhere-451db07c790f?source=rss------bug_bounty_writeup-5)
-- [AI Model API-Validation Using Curl](https://medium.com/@rr-1k/ai-model-api-validation-using-curl-b4b28975a87e?source=rss------bug_bounty_writeup-5)
-- [Stored XSS via Organization Name](https://medium.com/@edahmed008/stored-xss-via-organization-name-e47b7d476a06?source=rss------bug_bounty_writeup-5)
 - [How Low Severity Bugs Lead to Critical Rewards](https://infosecwriteups.com/how-low-severity-bugs-lead-to-critical-rewards-bed034ed149e?source=rss----7b722bfd1b8d---4)
 - [How I made Vertical Privilege Escalation through Request Manipulation](https://infosecwriteups.com/how-i-made-vertical-privilege-escalation-through-request-manipulation-98cfef624740?source=rss----7b722bfd1b8d---4)
 - [I Unlocked Gemini Advanced Till 2025 Using a Temporary .EDU](https://infosecwriteups.com/i-unlocked-gemini-advanced-till-2025-using-a-temporary-edu-16c98e4cfabb?source=rss----7b722bfd1b8d---4)
