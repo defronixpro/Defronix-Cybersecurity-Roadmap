@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Bug Hunting 101: The Firebase Misconfig That Earned Me a Bounty](https://medium.com/@secshubhamsharma/bug-hunting-101-the-firebase-misconfig-that-earned-me-a-bounty-dd600cef8ade?source=rss------bug_bounty_writeup-5)
 - [Public Bucket, Private Tears – The Day I Found an Open S3 and Still Got “Informative”](https://medium.com/@Tony_29/public-bucket-private-tears-the-day-i-found-an-open-s3-and-still-got-informative-a0bcfca59760?source=rss------bug_bounty_writeup-5)
 - [When One Google Account Isn’t Enough: Breaking Identity Boundaries via SSO Confusion](https://systemweakness.com/when-one-google-account-isnt-enough-breaking-identity-boundaries-via-sso-confusion-10e4f8381a44?source=rss------bug_bounty_writeup-5)
 - [From Informative To Medium &lpar;6.5&rpar;](https://medium.com/@Muhammad_Wageh/from-informative-to-medium-6-5-e19bec7cf23d?source=rss------bug_bounty_writeup-5)
