@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [From Blind XSS to RCE: When Headers Became My Terminal](https://is4curity.medium.com/from-blind-xss-to-rce-when-headers-became-my-terminal-d137d2c808a3?source=rss------bug_bounty_writeup-5)
 - [BAC &lpar;Authorization Bypass Allows Former Owner to Add Teachers After Role Downgrade&rpar;](https://medium.com/@HBlackGhost/bac-authorization-bypass-allows-former-owner-to-add-teachers-after-role-downgrade-d346fc051fca?source=rss------bug_bounty_writeup-5)
 - [How to Create Your Own Hacker Toolkit in Docker](https://infosecwriteups.com/how-to-create-your-own-hacker-toolkit-in-docker-606723dbd8ac?source=rss----7b722bfd1b8d---4)
 - [MOST USEFUL TOOLS IN AD PENTESTING](https://infosecwriteups.com/introduction-e336611520dd?source=rss----7b722bfd1b8d---4)
