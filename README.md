@@ -922,7 +922,18 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [From Blind XSS to RCE: When Headers Became My Terminal](https://is4curity.medium.com/from-blind-xss-to-rce-when-headers-became-my-terminal-d137d2c808a3?source=rss------bug_bounty_writeup-5)
 - [BAC &lpar;Authorization Bypass Allows Former Owner to Add Teachers After Role Downgrade&rpar;](https://medium.com/@HBlackGhost/bac-authorization-bypass-allows-former-owner-to-add-teachers-after-role-downgrade-d346fc051fca?source=rss------bug_bounty_writeup-5)
+- [How to Create Your Own Hacker Toolkit in Docker](https://infosecwriteups.com/how-to-create-your-own-hacker-toolkit-in-docker-606723dbd8ac?source=rss----7b722bfd1b8d---4)
+- [MOST USEFUL TOOLS IN AD PENTESTING](https://infosecwriteups.com/introduction-e336611520dd?source=rss----7b722bfd1b8d---4)
+- [Found a CORS Misconfiguration Using Burp Suite &lpar;Got a P5&rpar;](https://infosecwriteups.com/found-a-cors-misconfiguration-using-burp-suite-got-a-p4-c212289f9592?source=rss----7b722bfd1b8d---4)
+- [Windows Privilege Escalation: The Hidden Danger of Unquoted Service Paths](https://infosecwriteups.com/windows-privilege-escalation-the-hidden-danger-of-unquoted-service-paths-08a6f2cc84dc?source=rss----7b722bfd1b8d---4)
+- [Review: Offensive X 2025 Conference-Talks, Hacking Challenges, and Cybersecurity Community in…](https://infosecwriteups.com/offensive-x-2025-hacking-conference-review-athens-e7aec6dd42c5?source=rss----7b722bfd1b8d---4)
+- [Difference between SameSite Cookie Attributes: Strict, Lax, None and No SameSite](https://infosecwriteups.com/difference-between-samesite-cookie-attributes-strict-lax-none-and-no-samesite-242fbfdbc8e1?source=rss----7b722bfd1b8d---4)
+- [Git Happens: When .git Folders Revealed the Whole Damn Backend](https://infosecwriteups.com/git-happens-when-git-folders-revealed-the-whole-damn-backend-b181b77c4c76?source=rss----7b722bfd1b8d---4)
+- [A Flaw in sudo Strikes Again — Privilege Escalation via chroot and nsswitch](https://infosecwriteups.com/a-flaw-in-sudo-strikes-again-privilege-escalation-via-chroot-and-nsswitch-278eb9ca2fdc?source=rss----7b722bfd1b8d---4)
+- [How a 3-Byte Command Can Shut Down a Plant and Cost Millions](https://infosecwriteups.com/detecting-illegal-function-codes-in-scada-with-defender-for-iot-81fa12a16944?source=rss----7b722bfd1b8d---4)
+- [VAPT Report on SMB Exploitation in Windows 10 Finance Endpoint](https://infosecwriteups.com/vapt-report-on-smb-exploitation-in-windows-10-finance-endpoint-e78430191dc2?source=rss----7b722bfd1b8d---4)
 - [Bug Hunting 101: The Firebase Misconfig That Earned Me a Bounty](https://medium.com/@secshubhamsharma/bug-hunting-101-the-firebase-misconfig-that-earned-me-a-bounty-dd600cef8ade?source=rss------bug_bounty_writeup-5)
 - [Public Bucket, Private Tears – The Day I Found an Open S3 and Still Got “Informative”](https://medium.com/@Tony_29/public-bucket-private-tears-the-day-i-found-an-open-s3-and-still-got-informative-a0bcfca59760?source=rss------bug_bounty_writeup-5)
 - [When One Google Account Isn’t Enough: Breaking Identity Boundaries via SSO Confusion](https://systemweakness.com/when-one-google-account-isnt-enough-breaking-identity-boundaries-via-sso-confusion-10e4f8381a44?source=rss------bug_bounty_writeup-5)
