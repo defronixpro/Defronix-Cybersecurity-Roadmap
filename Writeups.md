@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [I Thought Hacking Was Illegal — Until I Learned People Get Paid to Do It](https://medium.com/@alexjoyelraj/i-thought-hacking-was-illegal-until-i-learned-people-get-paid-to-do-it-48726f33323a?source=rss------bug_bounty_writeup-5)
 - [Even Duplicates Have Stories — My XSS Discovery on Experian](https://medium.com/@amin.orion.01/even-duplicates-have-stories-my-xss-discovery-on-experian-8d961fc5db97?source=rss------bug_bounty_writeup-5)
 - [“RXSS! on Mercedes-Benz”](https://medium.com/@tsxninja2004/rxss-on-mercedes-benz-71a839da2d31?source=rss------bug_bounty_writeup-5)
 - [How a Tiny Script Can Hijack Your Site: The Hidden Dangers of XSS](https://infosecwriteups.com/how-a-tiny-script-can-hijack-your-site-the-hidden-dangers-of-xss-0df74dd6444f?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [When One Google Account Isn’t Enough: Breaking Identity Boundaries via SSO Confusion](https://systemweakness.com/when-one-google-account-isnt-enough-breaking-identity-boundaries-via-sso-confusion-10e4f8381a44?source=rss------bug_bounty_writeup-5)
 - [From Informative To Medium &lpar;6.5&rpar;](https://medium.com/@Muhammad_Wageh/from-informative-to-medium-6-5-e19bec7cf23d?source=rss------bug_bounty_writeup-5)
 - [From Rooted to Rejected: How I Found an LFI… Then Got a “Duplicate” Anyway](https://systemweakness.com/from-rooted-to-rejected-how-i-found-an-lfi-then-got-a-duplicate-anyway-c353e8088ce4?source=rss------bug_bounty_writeup-5)
-- [How Not to Handle Your API Keys: A Love Letter to Developers Everywhere](https://medium.com/meetcyber/how-not-to-handle-your-api-keys-a-love-letter-to-developers-everywhere-451db07c790f?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
