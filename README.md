@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Business Logic Bug to Bypass NO’s](https://medium.com/@most54244/business-logic-bug-to-bypass-nos-6b7472e87814?source=rss------bug_bounty_writeup-5)
 - [From URL to Server’s secrets: Path Traversal Vulnerability](https://infosecwriteups.com/from-url-to-servers-secrets-path-traversal-vulnerability-df78f5978949?source=rss----7b722bfd1b8d---4)
 - [5 Linux Networking Commands You’ve Probably Never Heard Of](https://infosecwriteups.com/5-linux-networking-commands-youve-probably-never-heard-of-23faca9f154b?source=rss----7b722bfd1b8d---4)
 - [CTI Notetaking: How to Make Effective Notes and Documentation](https://infosecwriteups.com/cti-notetaking-how-to-make-effective-notes-and-documentation-8541cdff90cd?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [BAC &lpar;Authorization Bypass Allows Former Owner to Add Teachers After Role Downgrade&rpar;](https://medium.com/@HBlackGhost/bac-authorization-bypass-allows-former-owner-to-add-teachers-after-role-downgrade-d346fc051fca?source=rss------bug_bounty_writeup-5)
 - [Bug Hunting 101: The Firebase Misconfig That Earned Me a Bounty](https://medium.com/@secshubhamsharma/bug-hunting-101-the-firebase-misconfig-that-earned-me-a-bounty-dd600cef8ade?source=rss------bug_bounty_writeup-5)
 - [Public Bucket, Private Tears – The Day I Found an Open S3 and Still Got “Informative”](https://medium.com/@Tony_29/public-bucket-private-tears-the-day-i-found-an-open-s3-and-still-got-informative-a0bcfca59760?source=rss------bug_bounty_writeup-5)
-- [When One Google Account Isn’t Enough: Breaking Identity Boundaries via SSO Confusion](https://systemweakness.com/when-one-google-account-isnt-enough-breaking-identity-boundaries-via-sso-confusion-10e4f8381a44?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
