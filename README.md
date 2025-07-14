@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Android Logcat: The Hidden Goldmine of Sensitive Data for Pentesters](https://medium.com/@gowthami09027/android-logcat-the-hidden-goldmine-of-sensitive-data-for-pentesters-66a11109781a?source=rss------bug_bounty_writeup-5)
 - [The Curious Case of the Open Redirect &lpar;$500 Bounty&rpar;](https://medium.com/@nareshkandula54/the-curious-case-of-the-open-redirect-500-bounty-9a3e0fb6e7d1?source=rss------bug_bounty_writeup-5)
 - [I Thought Hacking Was Illegal — Until I Learned People Get Paid to Do It](https://medium.com/@alexjoyelraj/i-thought-hacking-was-illegal-until-i-learned-people-get-paid-to-do-it-48726f33323a?source=rss------bug_bounty_writeup-5)
 - [Even Duplicates Have Stories — My XSS Discovery on Experian](https://medium.com/@amin.orion.01/even-duplicates-have-stories-my-xss-discovery-on-experian-8d961fc5db97?source=rss------bug_bounty_writeup-5)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Bug Hunting 101: The Firebase Misconfig That Earned Me a Bounty](https://medium.com/@secshubhamsharma/bug-hunting-101-the-firebase-misconfig-that-earned-me-a-bounty-dd600cef8ade?source=rss------bug_bounty_writeup-5)
 - [Public Bucket, Private Tears – The Day I Found an Open S3 and Still Got “Informative”](https://medium.com/@Tony_29/public-bucket-private-tears-the-day-i-found-an-open-s3-and-still-got-informative-a0bcfca59760?source=rss------bug_bounty_writeup-5)
 - [When One Google Account Isn’t Enough: Breaking Identity Boundaries via SSO Confusion](https://systemweakness.com/when-one-google-account-isnt-enough-breaking-identity-boundaries-via-sso-confusion-10e4f8381a44?source=rss------bug_bounty_writeup-5)
-- [From Informative To Medium &lpar;6.5&rpar;](https://medium.com/@Muhammad_Wageh/from-informative-to-medium-6-5-e19bec7cf23d?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
