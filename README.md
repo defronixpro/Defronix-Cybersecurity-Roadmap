@@ -923,16 +923,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
 - [Business Logic Bug to Bypass NO’s](https://medium.com/@most54244/business-logic-bug-to-bypass-nos-6b7472e87814?source=rss------bug_bounty_writeup-5)
-- [From URL to Server’s secrets: Path Traversal Vulnerability](https://infosecwriteups.com/from-url-to-servers-secrets-path-traversal-vulnerability-df78f5978949?source=rss----7b722bfd1b8d---4)
-- [5 Linux Networking Commands You’ve Probably Never Heard Of](https://infosecwriteups.com/5-linux-networking-commands-youve-probably-never-heard-of-23faca9f154b?source=rss----7b722bfd1b8d---4)
-- [CTI Notetaking: How to Make Effective Notes and Documentation](https://infosecwriteups.com/cti-notetaking-how-to-make-effective-notes-and-documentation-8541cdff90cd?source=rss----7b722bfd1b8d---4)
-- [XSS with Cloudflare WAF Bypass | Zurich Insurance](https://infosecwriteups.com/xss-with-cloudflare-waf-bypass-zurich-insurance-4cdfc05b6e2d?source=rss----7b722bfd1b8d---4)
-- [Fileless DPAPI Credential Extraction With PowerShell](https://infosecwriteups.com/fileless-dpapi-credential-extraction-with-powershell-c9952c136463?source=rss----7b722bfd1b8d---4)
-- [End-to-End ELK + MCP Integration: A Beginner’s Deployment Guide](https://infosecwriteups.com/end-to-end-elk-mcp-integration-a-beginners-deployment-guide-f2c3e36a0aeb?source=rss----7b722bfd1b8d---4)
-- [️‍♂️ Mastering OSINT: How to Find Information on Anyone](https://infosecwriteups.com/%EF%B8%8F-%EF%B8%8F-mastering-osint-how-to-find-information-on-anyone-9185be6f9429?source=rss----7b722bfd1b8d---4)
-- [The Dumbest Way I Broke Slack &lpar;Sort of&rpar;: HTTP Request Smuggling FTW $6,500 REWARDS](https://infosecwriteups.com/the-dumbest-way-i-broke-slack-sort-of-http-request-smuggling-ftw-6-500-rewards-ccf2e22e76bd?source=rss----7b722bfd1b8d---4)
-- [$$ Unlocking Hidden Vulnerabilities: Uncovering Business Logic Flaws in Modern Web Apps](https://infosecwriteups.com/unlocking-hidden-vulnerabilities-uncovering-business-logic-flaws-in-modern-web-apps-dc5bf1be1e2d?source=rss----7b722bfd1b8d---4)
-- [W1seGuy | TryHackMe Walkthrough — XOR? BrUt3_F0rC3 iT](https://infosecwriteups.com/w1seguy-tryhackme-walkthrough-xor-brut3-f0rc3-it-481ed52e257f?source=rss----7b722bfd1b8d---4)
 - [Android Logcat: The Hidden Goldmine of Sensitive Data for Pentesters](https://medium.com/@gowthami09027/android-logcat-the-hidden-goldmine-of-sensitive-data-for-pentesters-66a11109781a?source=rss------bug_bounty_writeup-5)
 - [The Curious Case of the Open Redirect &lpar;$500 Bounty&rpar;](https://medium.com/@nareshkandula54/the-curious-case-of-the-open-redirect-500-bounty-9a3e0fb6e7d1?source=rss------bug_bounty_writeup-5)
 - [I Thought Hacking Was Illegal — Until I Learned People Get Paid to Do It](https://medium.com/@alexjoyelraj/i-thought-hacking-was-illegal-until-i-learned-people-get-paid-to-do-it-48726f33323a?source=rss------bug_bounty_writeup-5)
