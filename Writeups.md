@@ -1,8 +1,18 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Unauthenticated Password Reset Abuse](https://infosecwriteups.com/unauthenticated-password-reset-abuse-ad2375b358f5?source=rss----7b722bfd1b8d---4)
+- [️ WAF? LOL: How Burp Collaborator Helped Me Sneak a Shell Through a Cloud Firewall](https://infosecwriteups.com/%EF%B8%8F-waf-lol-how-burp-collaborator-helped-me-sneak-a-shell-through-a-cloud-firewall-14d662e47999?source=rss----7b722bfd1b8d---4)
+- [Google Unicode SPUA-B Misinterpretation: Decoding Hidden Instructions as Plain Text](https://infosecwriteups.com/google-unicode-spua-b-misinterpretation-decoding-hidden-instructions-as-plain-text-114c159ebe8b?source=rss----7b722bfd1b8d---4)
+- [TRiSM for Agentic AI](https://infosecwriteups.com/trism-for-agentic-ai-424d8c78878a?source=rss----7b722bfd1b8d---4)
+- [Tuesday Morning Threat Report: July 15, 2025](https://infosecwriteups.com/tuesday-morning-threat-report-july-15-2025-867de2fc59d4?source=rss----7b722bfd1b8d---4)
+- [Leaks on Repeat: How a CI/CD Webhook Gave Me Root Logs, Tokens &amp; Tears](https://infosecwriteups.com/leaks-on-repeat-how-a-ci-cd-webhook-gave-me-root-logs-tokens-tears-072dfeef9629?source=rss----7b722bfd1b8d---4)
+- [JS File Leak Could Lead to App Exploits](https://infosecwriteups.com/js-file-leak-could-lead-to-app-exploits-260c8f008c00?source=rss----7b722bfd1b8d---4)
 - [Business Logic Bug to Bypass NO’s](https://medium.com/@most54244/business-logic-bug-to-bypass-nos-6b7472e87814?source=rss------bug_bounty_writeup-5)
 - [RCE + ROOT-LEVEL ACCESS &lpar;CVSS 10.0&rpar;:](https://medium.com/@rabiu-101/unauthenticated-remote-code-execution-rce-root-level-access-cvss-10-0-8fc70e022d59?source=rss------bug_bounty_writeup-5)
+- [From URL to Server’s secrets: Path Traversal Vulnerability](https://infosecwriteups.com/from-url-to-servers-secrets-path-traversal-vulnerability-df78f5978949?source=rss----7b722bfd1b8d---4)
+- [5 Linux Networking Commands You’ve Probably Never Heard Of](https://infosecwriteups.com/5-linux-networking-commands-youve-probably-never-heard-of-23faca9f154b?source=rss----7b722bfd1b8d---4)
+- [CTI Notetaking: How to Make Effective Notes and Documentation](https://infosecwriteups.com/cti-notetaking-how-to-make-effective-notes-and-documentation-8541cdff90cd?source=rss----7b722bfd1b8d---4)
 - [Android Logcat: The Hidden Goldmine of Sensitive Data for Pentesters](https://medium.com/@gowthami09027/android-logcat-the-hidden-goldmine-of-sensitive-data-for-pentesters-66a11109781a?source=rss------bug_bounty_writeup-5)
 - [The Curious Case of the Open Redirect &lpar;$500 Bounty&rpar;](https://medium.com/@nareshkandula54/the-curious-case-of-the-open-redirect-500-bounty-9a3e0fb6e7d1?source=rss------bug_bounty_writeup-5)
 - [I Thought Hacking Was Illegal — Until I Learned People Get Paid to Do It](https://medium.com/@alexjoyelraj/i-thought-hacking-was-illegal-until-i-learned-people-get-paid-to-do-it-48726f33323a?source=rss------bug_bounty_writeup-5)
