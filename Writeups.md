@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Day 1 of My Bug Bounty Journey — Starting from Zero](https://medium.com/@varmamanju2003/day-1-of-my-bug-bounty-journey-starting-from-zero-59210d31ce15?source=rss------bug_bounty_writeup-5)
 - [Unauthenticated Password Reset Abuse](https://infosecwriteups.com/unauthenticated-password-reset-abuse-ad2375b358f5?source=rss----7b722bfd1b8d---4)
 - [️ WAF? LOL: How Burp Collaborator Helped Me Sneak a Shell Through a Cloud Firewall](https://infosecwriteups.com/%EF%B8%8F-waf-lol-how-burp-collaborator-helped-me-sneak-a-shell-through-a-cloud-firewall-14d662e47999?source=rss----7b722bfd1b8d---4)
 - [Google Unicode SPUA-B Misinterpretation: Decoding Hidden Instructions as Plain Text](https://infosecwriteups.com/google-unicode-spua-b-misinterpretation-decoding-hidden-instructions-as-plain-text-114c159ebe8b?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [“RXSS! on Mercedes-Benz”](https://medium.com/@tsxninja2004/rxss-on-mercedes-benz-71a839da2d31?source=rss------bug_bounty_writeup-5)
 - [From Blind XSS to RCE: When Headers Became My Terminal](https://is4curity.medium.com/from-blind-xss-to-rce-when-headers-became-my-terminal-d137d2c808a3?source=rss------bug_bounty_writeup-5)
 - [BAC &lpar;Authorization Bypass Allows Former Owner to Add Teachers After Role Downgrade&rpar;](https://medium.com/@HBlackGhost/bac-authorization-bypass-allows-former-owner-to-add-teachers-after-role-downgrade-d346fc051fca?source=rss------bug_bounty_writeup-5)
-- [Bug Hunting 101: The Firebase Misconfig That Earned Me a Bounty](https://medium.com/@secshubhamsharma/bug-hunting-101-the-firebase-misconfig-that-earned-me-a-bounty-dd600cef8ade?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
