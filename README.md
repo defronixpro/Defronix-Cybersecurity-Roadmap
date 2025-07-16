@@ -922,7 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [Headi — Best Open Source HTTP Header Injection Testing Tool for Ethical Hackers](https://medium.com/@hacker_might/headi-best-open-source-http-header-injection-testing-tool-for-ethical-hackers-8336ab857d39?source=rss------bug_bounty_writeup-5)
+- [How I Brute-Forced 400 Internal Accounts Without Logging In-P3-](https://medium.com/@hacker_space11/how-i-brute-forced-400-internal-accounts-without-logging-in-p3-5d90aa7a703c?source=rss------bug_bounty_writeup-5)
+- [Headi — Best Open Source HTTP Header Injection Testing Tool for Ethical Hackers](https://osintteam.blog/headi-best-open-source-http-header-injection-testing-tool-for-ethical-hackers-8336ab857d39?source=rss------bug_bounty_writeup-5)
 - [Day 1 of My Bug Bounty Journey — Starting from Zero](https://medium.com/@cypervoid/day-1-of-my-bug-bounty-journey-starting-from-zero-59210d31ce15?source=rss------bug_bounty_writeup-5)
 - [Unauthenticated Password Reset Abuse](https://infosecwriteups.com/unauthenticated-password-reset-abuse-ad2375b358f5?source=rss----7b722bfd1b8d---4)
 - [️ WAF? LOL: How Burp Collaborator Helped Me Sneak a Shell Through a Cloud Firewall](https://infosecwriteups.com/%EF%B8%8F-waf-lol-how-burp-collaborator-helped-me-sneak-a-shell-through-a-cloud-firewall-14d662e47999?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [I Thought Hacking Was Illegal — Until I Learned People Get Paid to Do It](https://medium.com/@alexjoyelraj/i-thought-hacking-was-illegal-until-i-learned-people-get-paid-to-do-it-48726f33323a?source=rss------bug_bounty_writeup-5)
 - [Even Duplicates Have Stories — My XSS Discovery on Experian](https://medium.com/@amin.orion.01/even-duplicates-have-stories-my-xss-discovery-on-experian-8d961fc5db97?source=rss------bug_bounty_writeup-5)
 - [“RXSS! on Mercedes-Benz”](https://medium.com/@tsxninja2004/rxss-on-mercedes-benz-71a839da2d31?source=rss------bug_bounty_writeup-5)
-- [From Blind XSS to RCE: When Headers Became My Terminal](https://is4curity.medium.com/from-blind-xss-to-rce-when-headers-became-my-terminal-d137d2c808a3?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
