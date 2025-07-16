@@ -1,7 +1,6 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
-- [ZoomEye BugBounty Radar: Streamlined Asset Monitoring for Bug Bounty Hunters](https://medium.com/@zoomeye_team/zoomeye-bugbounty-radar-streamlined-asset-monitoring-for-bug-bounty-hunters-a74103c5c3c5?source=rss------bug_bounty_writeup-5)
 - [Google Dorking My Way Out of Exam Stress &lpar;And Into the Hall of Fame&rpar; ️](https://infosecwriteups.com/google-dorking-my-way-out-of-exam-stress-and-into-the-hall-of-fame-%EF%B8%8F-a01d984f713d?source=rss----7b722bfd1b8d---4)
 - [How to Create Your Own Hacker Toolkit in Docker](https://infosecwriteups.com/how-to-create-your-own-hacker-toolkit-in-docker-3e41aa623729?source=rss----7b722bfd1b8d---4)
 - [Integrating FortiGate Logs with Wazuh](https://infosecwriteups.com/integrating-fortigate-logs-with-wazuh-d689e442971e?source=rss----7b722bfd1b8d---4)
@@ -12,15 +11,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [All About Server Side Template Injection &lpar;SSTI&rpar;](https://infosecwriteups.com/all-about-server-side-template-injection-ssti-101e45650c03?source=rss----7b722bfd1b8d---4)
 - [Exploiting WebSocket Authentication Bypass](https://infosecwriteups.com/exploiting-websocket-authentication-bypass-3d2c998fc062?source=rss----7b722bfd1b8d---4)
 - [I Almost Bought a $239 Domain for $1 — A Ghost-Level Bug No One’s Watching](https://infosecwriteups.com/i-almost-bought-a-239-domain-for-1-a-ghost-level-bug-no-ones-watching-2ffe740279cd?source=rss----7b722bfd1b8d---4)
-- [Password Managers: The Need, the Breaches, and the Story Behind My CVE &lpar;CVE-2021–31857&rpar;](https://infosecwriteups.com/password-managers-the-need-the-breaches-and-the-story-behind-my-cve-cve-2021-31857-ae288c6049fc?source=rss------bug_bounty_writeup-5)
-- [How I Brute-Forced 400 Internal Accounts Without Logging In-P3-](https://medium.com/@hacker_space11/how-i-brute-forced-400-internal-accounts-without-logging-in-p3-5d90aa7a703c?source=rss------bug_bounty_writeup-5)
-- [Headi — Best Open Source HTTP Header Injection Testing Tool for Ethical Hackers](https://osintteam.blog/headi-best-open-source-http-header-injection-testing-tool-for-ethical-hackers-8336ab857d39?source=rss------bug_bounty_writeup-5)
-- [Day 1 of My Bug Bounty Journey — Starting from Zero](https://medium.com/@cypervoid/day-1-of-my-bug-bounty-journey-starting-from-zero-59210d31ce15?source=rss------bug_bounty_writeup-5)
-- [Business Logic Bug to Bypass NO’s](https://medium.com/@most54244/business-logic-bug-to-bypass-nos-6b7472e87814?source=rss------bug_bounty_writeup-5)
-- [RCE + ROOT-LEVEL ACCESS &lpar;CVSS 10.0&rpar;:](https://medium.com/@rabiu-101/unauthenticated-remote-code-execution-rce-root-level-access-cvss-10-0-8fc70e022d59?source=rss------bug_bounty_writeup-5)
-- [Android Logcat: The Hidden Goldmine of Sensitive Data for Pentesters](https://medium.com/@gowthami09027/android-logcat-the-hidden-goldmine-of-sensitive-data-for-pentesters-66a11109781a?source=rss------bug_bounty_writeup-5)
-- [The Curious Case of the Open Redirect &lpar;$500 Bounty&rpar;](https://medium.com/@nareshkandula54/the-curious-case-of-the-open-redirect-500-bounty-9a3e0fb6e7d1?source=rss------bug_bounty_writeup-5)
-- [I Thought Hacking Was Illegal — Until I Learned People Get Paid to Do It](https://medium.com/@alexjoyelraj/i-thought-hacking-was-illegal-until-i-learned-people-get-paid-to-do-it-48726f33323a?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
