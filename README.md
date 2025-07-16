@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I Used SSRF to Gain Admin Access: Step-by-Step with Payloads](https://infosecwriteups.com/how-i-used-ssrf-to-gain-admin-access-step-by-step-with-payloads-6717457a125a?source=rss----7b722bfd1b8d---4)
+- [Recon to Master: The Complete Bug Bounty Checklist](https://infosecwriteups.com/recon-to-master-the-complete-bug-bounty-checklist-95b80ea55ff0?source=rss----7b722bfd1b8d---4)
 - [SQL Injection in hidden Contact Form Parameter](https://medium.com/@anonymousshetty2003/sql-injection-in-hidden-contact-form-parameter-660bd1281491?source=rss------bug_bounty_writeup-5)
 - [CSRF in a subdomain of VISA leads to deletion of account](https://medium.com/@anonymousshetty2003/csrf-in-a-subdomain-of-visa-leads-to-deletion-of-account-b0b998db1ad7?source=rss------bug_bounty_writeup-5)
 - [ZoomEye BugBounty Radar: Streamlined Asset Monitoring for Bug Bounty Hunters](https://medium.com/@zoomeye_team/zoomeye-bugbounty-radar-streamlined-asset-monitoring-for-bug-bounty-hunters-a74103c5c3c5?source=rss------bug_bounty_writeup-5)
@@ -933,8 +935,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Breaking File Upload Filters with Trailing Dots or Spaces](https://infosecwriteups.com/breaking-file-upload-filters-with-trailing-dots-or-spaces-b0b1d118eaf5?source=rss----7b722bfd1b8d---4)
 - [Attacking Agentic AI — Abusing Insecure Function Calls to Break Output Handling.](https://infosecwriteups.com/attacking-agentic-ai-abusing-insecure-function-calls-to-break-output-handling-cda2c2771454?source=rss----7b722bfd1b8d---4)
 - [All About Server Side Template Injection &lpar;SSTI&rpar;](https://infosecwriteups.com/all-about-server-side-template-injection-ssti-101e45650c03?source=rss----7b722bfd1b8d---4)
-- [Exploiting WebSocket Authentication Bypass](https://infosecwriteups.com/exploiting-websocket-authentication-bypass-3d2c998fc062?source=rss----7b722bfd1b8d---4)
-- [I Almost Bought a $239 Domain for $1 — A Ghost-Level Bug No One’s Watching](https://infosecwriteups.com/i-almost-bought-a-239-domain-for-1-a-ghost-level-bug-no-ones-watching-2ffe740279cd?source=rss----7b722bfd1b8d---4)
 - [Password Managers: The Need, the Breaches, and the Story Behind My CVE &lpar;CVE-2021–31857&rpar;](https://infosecwriteups.com/password-managers-the-need-the-breaches-and-the-story-behind-my-cve-cve-2021-31857-ae288c6049fc?source=rss------bug_bounty_writeup-5)
 - [How I Brute-Forced 400 Internal Accounts Without Logging In-P3-](https://medium.com/@hacker_space11/how-i-brute-forced-400-internal-accounts-without-logging-in-p3-5d90aa7a703c?source=rss------bug_bounty_writeup-5)
 - [Headi — Best Open Source HTTP Header Injection Testing Tool for Ethical Hackers](https://osintteam.blog/headi-best-open-source-http-header-injection-testing-tool-for-ethical-hackers-8336ab857d39?source=rss------bug_bounty_writeup-5)
