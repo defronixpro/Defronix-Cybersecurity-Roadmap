@@ -1,6 +1,9 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How I Used SSRF to Gain Admin Access: Step-by-Step with Payloads](https://infosecwriteups.com/how-i-used-ssrf-to-gain-admin-access-step-by-step-with-payloads-6717457a125a?source=rss----7b722bfd1b8d---4)
+- [Recon to Master: The Complete Bug Bounty Checklist](https://infosecwriteups.com/recon-to-master-the-complete-bug-bounty-checklist-95b80ea55ff0?source=rss----7b722bfd1b8d---4)
+- [SQL Injection in hidden Contact Form Parameter](https://medium.com/@anonymousshetty2003/sql-injection-in-hidden-contact-form-parameter-660bd1281491?source=rss------bug_bounty_writeup-5)
 - [CSRF in a subdomain of VISA leads to deletion of account](https://medium.com/@anonymousshetty2003/csrf-in-a-subdomain-of-visa-leads-to-deletion-of-account-b0b998db1ad7?source=rss------bug_bounty_writeup-5)
 - [ZoomEye BugBounty Radar: Streamlined Asset Monitoring for Bug Bounty Hunters](https://medium.com/@zoomeye_team/zoomeye-bugbounty-radar-streamlined-asset-monitoring-for-bug-bounty-hunters-a74103c5c3c5?source=rss------bug_bounty_writeup-5)
 - [Google Dorking My Way Out of Exam Stress &lpar;And Into the Hall of Fame&rpar; ️](https://infosecwriteups.com/google-dorking-my-way-out-of-exam-stress-and-into-the-hall-of-fame-%EF%B8%8F-a01d984f713d?source=rss----7b722bfd1b8d---4)
@@ -11,8 +14,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Breaking File Upload Filters with Trailing Dots or Spaces](https://infosecwriteups.com/breaking-file-upload-filters-with-trailing-dots-or-spaces-b0b1d118eaf5?source=rss----7b722bfd1b8d---4)
 - [Attacking Agentic AI — Abusing Insecure Function Calls to Break Output Handling.](https://infosecwriteups.com/attacking-agentic-ai-abusing-insecure-function-calls-to-break-output-handling-cda2c2771454?source=rss----7b722bfd1b8d---4)
 - [All About Server Side Template Injection &lpar;SSTI&rpar;](https://infosecwriteups.com/all-about-server-side-template-injection-ssti-101e45650c03?source=rss----7b722bfd1b8d---4)
-- [Exploiting WebSocket Authentication Bypass](https://infosecwriteups.com/exploiting-websocket-authentication-bypass-3d2c998fc062?source=rss----7b722bfd1b8d---4)
-- [I Almost Bought a $239 Domain for $1 — A Ghost-Level Bug No One’s Watching](https://infosecwriteups.com/i-almost-bought-a-239-domain-for-1-a-ghost-level-bug-no-ones-watching-2ffe740279cd?source=rss----7b722bfd1b8d---4)
 - [Password Managers: The Need, the Breaches, and the Story Behind My CVE &lpar;CVE-2021–31857&rpar;](https://infosecwriteups.com/password-managers-the-need-the-breaches-and-the-story-behind-my-cve-cve-2021-31857-ae288c6049fc?source=rss------bug_bounty_writeup-5)
 - [How I Brute-Forced 400 Internal Accounts Without Logging In-P3-](https://medium.com/@hacker_space11/how-i-brute-forced-400-internal-accounts-without-logging-in-p3-5d90aa7a703c?source=rss------bug_bounty_writeup-5)
 - [Headi — Best Open Source HTTP Header Injection Testing Tool for Ethical Hackers](https://osintteam.blog/headi-best-open-source-http-header-injection-testing-tool-for-ethical-hackers-8336ab857d39?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Business Logic Bug to Bypass NO’s](https://medium.com/@most54244/business-logic-bug-to-bypass-nos-6b7472e87814?source=rss------bug_bounty_writeup-5)
 - [RCE + ROOT-LEVEL ACCESS &lpar;CVSS 10.0&rpar;:](https://medium.com/@rabiu-101/unauthenticated-remote-code-execution-rce-root-level-access-cvss-10-0-8fc70e022d59?source=rss------bug_bounty_writeup-5)
 - [Android Logcat: The Hidden Goldmine of Sensitive Data for Pentesters](https://medium.com/@gowthami09027/android-logcat-the-hidden-goldmine-of-sensitive-data-for-pentesters-66a11109781a?source=rss------bug_bounty_writeup-5)
-- [The Curious Case of the Open Redirect &lpar;$500 Bounty&rpar;](https://medium.com/@nareshkandula54/the-curious-case-of-the-open-redirect-500-bounty-9a3e0fb6e7d1?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
