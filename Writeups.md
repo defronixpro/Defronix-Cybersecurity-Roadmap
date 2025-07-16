@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Apex Domain Bruteforcing for Wide Recon](https://medium.com/@sepix/apex-domain-bruteforcing-for-wide-recon-d5460bc1b5b1?source=rss------bug_bounty_writeup-5)
 - [How I Used SSRF to Gain Admin Access: Step-by-Step with Payloads](https://infosecwriteups.com/how-i-used-ssrf-to-gain-admin-access-step-by-step-with-payloads-6717457a125a?source=rss----7b722bfd1b8d---4)
 - [Recon to Master: The Complete Bug Bounty Checklist](https://infosecwriteups.com/recon-to-master-the-complete-bug-bounty-checklist-95b80ea55ff0?source=rss----7b722bfd1b8d---4)
 - [SQL Injection in hidden Contact Form Parameter](https://medium.com/@anonymousshetty2003/sql-injection-in-hidden-contact-form-parameter-660bd1281491?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Day 1 of My Bug Bounty Journey — Starting from Zero](https://medium.com/@cypervoid/day-1-of-my-bug-bounty-journey-starting-from-zero-59210d31ce15?source=rss------bug_bounty_writeup-5)
 - [Business Logic Bug to Bypass NO’s](https://medium.com/@most54244/business-logic-bug-to-bypass-nos-6b7472e87814?source=rss------bug_bounty_writeup-5)
 - [RCE + ROOT-LEVEL ACCESS &lpar;CVSS 10.0&rpar;:](https://medium.com/@rabiu-101/unauthenticated-remote-code-execution-rce-root-level-access-cvss-10-0-8fc70e022d59?source=rss------bug_bounty_writeup-5)
-- [Android Logcat: The Hidden Goldmine of Sensitive Data for Pentesters](https://medium.com/@gowthami09027/android-logcat-the-hidden-goldmine-of-sensitive-data-for-pentesters-66a11109781a?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
