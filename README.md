@@ -922,6 +922,9 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I Brute-Forced 400 Internal Accounts Without Logging In-P3-](https://medium.com/@hacker_space11/how-i-brute-forced-400-internal-accounts-without-logging-in-p3-5d90aa7a703c?source=rss------bug_bounty_writeup-5)
+- [Headi — Best Open Source HTTP Header Injection Testing Tool for Ethical Hackers](https://osintteam.blog/headi-best-open-source-http-header-injection-testing-tool-for-ethical-hackers-8336ab857d39?source=rss------bug_bounty_writeup-5)
+- [Day 1 of My Bug Bounty Journey — Starting from Zero](https://medium.com/@cypervoid/day-1-of-my-bug-bounty-journey-starting-from-zero-59210d31ce15?source=rss------bug_bounty_writeup-5)
 - [Unauthenticated Password Reset Abuse](https://infosecwriteups.com/unauthenticated-password-reset-abuse-ad2375b358f5?source=rss----7b722bfd1b8d---4)
 - [️ WAF? LOL: How Burp Collaborator Helped Me Sneak a Shell Through a Cloud Firewall](https://infosecwriteups.com/%EF%B8%8F-waf-lol-how-burp-collaborator-helped-me-sneak-a-shell-through-a-cloud-firewall-14d662e47999?source=rss----7b722bfd1b8d---4)
 - [Google Unicode SPUA-B Misinterpretation: Decoding Hidden Instructions as Plain Text](https://infosecwriteups.com/google-unicode-spua-b-misinterpretation-decoding-hidden-instructions-as-plain-text-114c159ebe8b?source=rss----7b722bfd1b8d---4)
@@ -929,9 +932,16 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Tuesday Morning Threat Report: July 15, 2025](https://infosecwriteups.com/tuesday-morning-threat-report-july-15-2025-867de2fc59d4?source=rss----7b722bfd1b8d---4)
 - [Leaks on Repeat: How a CI/CD Webhook Gave Me Root Logs, Tokens &amp; Tears](https://infosecwriteups.com/leaks-on-repeat-how-a-ci-cd-webhook-gave-me-root-logs-tokens-tears-072dfeef9629?source=rss----7b722bfd1b8d---4)
 - [JS File Leak Could Lead to App Exploits](https://infosecwriteups.com/js-file-leak-could-lead-to-app-exploits-260c8f008c00?source=rss----7b722bfd1b8d---4)
+- [Business Logic Bug to Bypass NO’s](https://medium.com/@most54244/business-logic-bug-to-bypass-nos-6b7472e87814?source=rss------bug_bounty_writeup-5)
+- [RCE + ROOT-LEVEL ACCESS &lpar;CVSS 10.0&rpar;:](https://medium.com/@rabiu-101/unauthenticated-remote-code-execution-rce-root-level-access-cvss-10-0-8fc70e022d59?source=rss------bug_bounty_writeup-5)
 - [From URL to Server’s secrets: Path Traversal Vulnerability](https://infosecwriteups.com/from-url-to-servers-secrets-path-traversal-vulnerability-df78f5978949?source=rss----7b722bfd1b8d---4)
 - [5 Linux Networking Commands You’ve Probably Never Heard Of](https://infosecwriteups.com/5-linux-networking-commands-youve-probably-never-heard-of-23faca9f154b?source=rss----7b722bfd1b8d---4)
 - [CTI Notetaking: How to Make Effective Notes and Documentation](https://infosecwriteups.com/cti-notetaking-how-to-make-effective-notes-and-documentation-8541cdff90cd?source=rss----7b722bfd1b8d---4)
+- [Android Logcat: The Hidden Goldmine of Sensitive Data for Pentesters](https://medium.com/@gowthami09027/android-logcat-the-hidden-goldmine-of-sensitive-data-for-pentesters-66a11109781a?source=rss------bug_bounty_writeup-5)
+- [The Curious Case of the Open Redirect &lpar;$500 Bounty&rpar;](https://medium.com/@nareshkandula54/the-curious-case-of-the-open-redirect-500-bounty-9a3e0fb6e7d1?source=rss------bug_bounty_writeup-5)
+- [I Thought Hacking Was Illegal — Until I Learned People Get Paid to Do It](https://medium.com/@alexjoyelraj/i-thought-hacking-was-illegal-until-i-learned-people-get-paid-to-do-it-48726f33323a?source=rss------bug_bounty_writeup-5)
+- [Even Duplicates Have Stories — My XSS Discovery on Experian](https://medium.com/@amin.orion.01/even-duplicates-have-stories-my-xss-discovery-on-experian-8d961fc5db97?source=rss------bug_bounty_writeup-5)
+- [“RXSS! on Mercedes-Benz”](https://medium.com/@tsxninja2004/rxss-on-mercedes-benz-71a839da2d31?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
