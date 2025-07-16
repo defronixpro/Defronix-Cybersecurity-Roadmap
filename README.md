@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [ZoomEye BugBounty Radar: Streamlined Asset Monitoring for Bug Bounty Hunters](https://medium.com/@zoomeye_team/zoomeye-bugbounty-radar-streamlined-asset-monitoring-for-bug-bounty-hunters-a74103c5c3c5?source=rss------bug_bounty_writeup-5)
 - [Google Dorking My Way Out of Exam Stress &lpar;And Into the Hall of Fame&rpar; ️](https://infosecwriteups.com/google-dorking-my-way-out-of-exam-stress-and-into-the-hall-of-fame-%EF%B8%8F-a01d984f713d?source=rss----7b722bfd1b8d---4)
 - [How to Create Your Own Hacker Toolkit in Docker](https://infosecwriteups.com/how-to-create-your-own-hacker-toolkit-in-docker-3e41aa623729?source=rss----7b722bfd1b8d---4)
 - [Integrating FortiGate Logs with Wazuh](https://infosecwriteups.com/integrating-fortigate-logs-with-wazuh-d689e442971e?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Android Logcat: The Hidden Goldmine of Sensitive Data for Pentesters](https://medium.com/@gowthami09027/android-logcat-the-hidden-goldmine-of-sensitive-data-for-pentesters-66a11109781a?source=rss------bug_bounty_writeup-5)
 - [The Curious Case of the Open Redirect &lpar;$500 Bounty&rpar;](https://medium.com/@nareshkandula54/the-curious-case-of-the-open-redirect-500-bounty-9a3e0fb6e7d1?source=rss------bug_bounty_writeup-5)
 - [I Thought Hacking Was Illegal — Until I Learned People Get Paid to Do It](https://medium.com/@alexjoyelraj/i-thought-hacking-was-illegal-until-i-learned-people-get-paid-to-do-it-48726f33323a?source=rss------bug_bounty_writeup-5)
-- [Even Duplicates Have Stories — My XSS Discovery on Experian](https://medium.com/@amin.orion.01/even-duplicates-have-stories-my-xss-discovery-on-experian-8d961fc5db97?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
