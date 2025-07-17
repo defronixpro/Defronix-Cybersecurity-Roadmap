@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Open Redirect Vulnerability — The Silent Gateway to Phishing and OAuth Hijacks](https://medium.com/@SKaif009/open-redirect-vulnerability-the-silent-gateway-to-phishing-and-oauth-hijacks-cce80ad9aa4c?source=rss------bug_bounty_writeup-5)
 - [CVE‑2025‑27210 &amp; CVE‑2025‑27209: Two high‑severity vulnerabilities in Node.js](https://infosecwriteups.com/cve-2025-27210-cve-2025-27209-two-high-severity-vulnerabilities-in-node-js-9134ea00dc2a?source=rss----7b722bfd1b8d---4)
 - [Leave ’Em On Read: GitHub Issue Comment Injection](https://infosecwriteups.com/leave-em-on-read-github-issue-comment-injection-3a0850574bb0?source=rss----7b722bfd1b8d---4)
 - [The Anatomy of a Critical Bug](https://infosecwriteups.com/the-anatomy-of-a-critical-bug-388329a1c55a?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Headi — Best Open Source HTTP Header Injection Testing Tool for Ethical Hackers](https://osintteam.blog/headi-best-open-source-http-header-injection-testing-tool-for-ethical-hackers-8336ab857d39?source=rss------bug_bounty_writeup-5)
 - [Day 1 of My Bug Bounty Journey — Starting from Zero](https://medium.com/@cypervoid/day-1-of-my-bug-bounty-journey-starting-from-zero-59210d31ce15?source=rss------bug_bounty_writeup-5)
 - [Business Logic Bug to Bypass NO’s](https://medium.com/@most54244/business-logic-bug-to-bypass-nos-6b7472e87814?source=rss------bug_bounty_writeup-5)
-- [RCE + ROOT-LEVEL ACCESS &lpar;CVSS 10.0&rpar;:](https://medium.com/@rabiu-101/unauthenticated-remote-code-execution-rce-root-level-access-cvss-10-0-8fc70e022d59?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
