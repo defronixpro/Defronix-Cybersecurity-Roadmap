@@ -1,7 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
-- [Open Redirect Vulnerability — The Silent Gateway to Phishing and OAuth Hijacks](https://medium.com/@SKaif009/open-redirect-vulnerability-the-silent-gateway-to-phishing-and-oauth-hijacks-cce80ad9aa4c?source=rss------bug_bounty_writeup-5)
+- [Open Redirect Vulnerability — The Silent Gateway to Phishing and OAuth Hijacks](https://systemweakness.com/open-redirect-vulnerability-the-silent-gateway-to-phishing-and-oauth-hijacks-cce80ad9aa4c?source=rss------bug_bounty_writeup-5)
 - [CVE‑2025‑27210 &amp; CVE‑2025‑27209: Two high‑severity vulnerabilities in Node.js](https://infosecwriteups.com/cve-2025-27210-cve-2025-27209-two-high-severity-vulnerabilities-in-node-js-9134ea00dc2a?source=rss----7b722bfd1b8d---4)
 - [Leave ’Em On Read: GitHub Issue Comment Injection](https://infosecwriteups.com/leave-em-on-read-github-issue-comment-injection-3a0850574bb0?source=rss----7b722bfd1b8d---4)
 - [The Anatomy of a Critical Bug](https://infosecwriteups.com/the-anatomy-of-a-critical-bug-388329a1c55a?source=rss----7b722bfd1b8d---4)
