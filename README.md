@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [️Breaking a PHP App with Nothing But Cookies and XML](https://medium.com/@jabaribrown62/%EF%B8%8F-breaking-a-php-app-with-nothing-but-cookies-and-xml-4c519c046533?source=rss------bug_bounty_writeup-5)
 - [Same Bug, Different Places: 3 Logic Flaws I Found on Main Domain](https://medium.com/@nnouh4967/same-bug-different-places-3-logic-flaws-i-found-on-main-domain-90608ced8d4c?source=rss------bug_bounty_writeup-5)
 - [Google Dorks for Bug Bounty Hunting: 25 Powerful Dorks to Find Exposed PDFs, NDAs, and Signatures](https://hackersatty.medium.com/google-dorks-for-bug-bounty-hunting-25-powerful-dorks-to-find-exposed-pdfs-ndas-and-signatures-cf8c54e19189?source=rss------bug_bounty_writeup-5)
 - [My first shot with Bugbounty Radar and I hit a vuln — bounty coming soon?](https://medium.com/@liusdgs/my-first-shot-with-bugbounty-radar-and-i-hit-a-vuln-bounty-coming-soon-93a9cfa91727?source=rss------bug_bounty_writeup-5)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Apex Domain Bruteforcing for Wide Recon](https://medium.com/@sepix/apex-domain-bruteforcing-for-wide-recon-d5460bc1b5b1?source=rss------bug_bounty_writeup-5)
 - [SQL Injection in hidden Contact Form Parameter](https://medium.com/@anonymousshetty2003/sql-injection-in-hidden-contact-form-parameter-660bd1281491?source=rss------bug_bounty_writeup-5)
 - [How i found CSRF in a subdomain of VISA that lead to deletion of account](https://medium.com/@anonymousshetty2003/csrf-in-a-subdomain-of-visa-leads-to-deletion-of-account-b0b998db1ad7?source=rss------bug_bounty_writeup-5)
-- [ZoomEye BugBounty Radar: Streamlined Asset Monitoring for Bug Bounty Hunters](https://medium.com/@zoomeye_team/zoomeye-bugbounty-radar-streamlined-asset-monitoring-for-bug-bounty-hunters-a74103c5c3c5?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
