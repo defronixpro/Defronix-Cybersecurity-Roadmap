@@ -1,14 +1,6 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
-- [How I Hacked NASA and Defaced It](https://medium.com/@iamshafayat/how-i-hacked-nasa-and-defaced-it-9f106e833cc1?source=rss------bug_bounty_writeup-5)
-- [️Breaking a PHP App with Nothing But Cookies and XML](https://medium.com/@jabaribrown62/%EF%B8%8F-breaking-a-php-app-with-nothing-but-cookies-and-xml-4c519c046533?source=rss------bug_bounty_writeup-5)
-- [Same Bug, Different Places: 3 Logic Flaws I Found on Main Domain](https://medium.com/@nnouh4967/same-bug-different-places-3-logic-flaws-i-found-on-main-domain-90608ced8d4c?source=rss------bug_bounty_writeup-5)
-- [Google Dorks for Bug Bounty Hunting: 25 Powerful Dorks to Find Exposed PDFs, NDAs, and Signatures](https://hackersatty.medium.com/google-dorks-for-bug-bounty-hunting-25-powerful-dorks-to-find-exposed-pdfs-ndas-and-signatures-cf8c54e19189?source=rss------bug_bounty_writeup-5)
-- [My first shot with Bugbounty Radar and I hit a vuln — bounty coming soon?](https://medium.com/@liusdgs/my-first-shot-with-bugbounty-radar-and-i-hit-a-vuln-bounty-coming-soon-93a9cfa91727?source=rss------bug_bounty_writeup-5)
-- [$2,000 |critical Samsung Bug Bounty: Bypassing Plan Restrictions via Business Logic Flaw](https://medium.com/@aminefarah802/2-000-critical-samsung-bug-bounty-bypassing-plan-restrictions-via-business-logic-flaw-e18eace8a6cf?source=rss------bug_bounty_writeup-5)
-- [My Latest Bug: Reflected XSS on GlobalProtect VPN Portal &lpar;CVE-2025–0133&rpar;](https://medium.com/@firdansp/my-latest-bug-reflected-xss-on-globalprotect-vpn-portal-cve-2025-0133-ba1649943250?source=rss------bug_bounty_writeup-5)
-- [Open Redirect Vulnerability — The Silent Gateway to Phishing and OAuth Hijacks](https://systemweakness.com/open-redirect-vulnerability-the-silent-gateway-to-phishing-and-oauth-hijacks-cce80ad9aa4c?source=rss------bug_bounty_writeup-5)
 - [CVE‑2025‑27210 &amp; CVE‑2025‑27209: Two high‑severity vulnerabilities in Node.js](https://infosecwriteups.com/cve-2025-27210-cve-2025-27209-two-high-severity-vulnerabilities-in-node-js-9134ea00dc2a?source=rss----7b722bfd1b8d---4)
 - [Leave ’Em On Read: GitHub Issue Comment Injection](https://infosecwriteups.com/leave-em-on-read-github-issue-comment-injection-3a0850574bb0?source=rss----7b722bfd1b8d---4)
 - [The Anatomy of a Critical Bug](https://infosecwriteups.com/the-anatomy-of-a-critical-bug-388329a1c55a?source=rss----7b722bfd1b8d---4)
@@ -19,7 +11,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Resetting Microsoft Entra ID Passwords Using Sentinel Playbooks Triggered by Incidents](https://infosecwriteups.com/resetting-microsoft-entra-id-passwords-using-sentinel-playbooks-triggered-by-incidents-0677d09043bf?source=rss----7b722bfd1b8d---4)
 - [Decrypting DPAPI Credentials Offline](https://infosecwriteups.com/decrypting-dpapi-credentials-offline-8c8f27207956?source=rss----7b722bfd1b8d---4)
 - [I Accidentally Exposed My API Keys](https://infosecwriteups.com/i-accidentally-exposed-my-api-keys-a96e0278e4ae?source=rss----7b722bfd1b8d---4)
-- [Apex Domain Bruteforcing for Wide Recon](https://medium.com/@sepix/apex-domain-bruteforcing-for-wide-recon-d5460bc1b5b1?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
