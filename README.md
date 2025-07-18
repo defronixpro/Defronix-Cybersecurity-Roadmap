@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Google Dorks for Bug Bounty Hunting: 25 Powerful Dorks to Find Exposed PDFs, NDAs, and Signatures](https://hackersatty.medium.com/google-dorks-for-bug-bounty-hunting-25-powerful-dorks-to-find-exposed-pdfs-ndas-and-signatures-cf8c54e19189?source=rss------bug_bounty_writeup-5)
 - [My first shot with Bugbounty Radar and I hit a vuln — bounty coming soon?](https://medium.com/@liusdgs/my-first-shot-with-bugbounty-radar-and-i-hit-a-vuln-bounty-coming-soon-93a9cfa91727?source=rss------bug_bounty_writeup-5)
 - [$2,000 |critical Samsung Bug Bounty: Bypassing Plan Restrictions via Business Logic Flaw](https://medium.com/@aminefarah802/2-000-critical-samsung-bug-bounty-bypassing-plan-restrictions-via-business-logic-flaw-e18eace8a6cf?source=rss------bug_bounty_writeup-5)
 - [My Latest Bug: Reflected XSS on GlobalProtect VPN Portal &lpar;CVE-2025–0133&rpar;](https://medium.com/@firdansp/my-latest-bug-reflected-xss-on-globalprotect-vpn-portal-cve-2025-0133-ba1649943250?source=rss------bug_bounty_writeup-5)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How i found CSRF in a subdomain of VISA that lead to deletion of account](https://medium.com/@anonymousshetty2003/csrf-in-a-subdomain-of-visa-leads-to-deletion-of-account-b0b998db1ad7?source=rss------bug_bounty_writeup-5)
 - [ZoomEye BugBounty Radar: Streamlined Asset Monitoring for Bug Bounty Hunters](https://medium.com/@zoomeye_team/zoomeye-bugbounty-radar-streamlined-asset-monitoring-for-bug-bounty-hunters-a74103c5c3c5?source=rss------bug_bounty_writeup-5)
 - [Password Managers: The Need, the Breaches, and the Story Behind My CVE &lpar;CVE-2021–31857&rpar;](https://infosecwriteups.com/password-managers-the-need-the-breaches-and-the-story-behind-my-cve-cve-2021-31857-ae288c6049fc?source=rss------bug_bounty_writeup-5)
-- [How I Brute-Forced 400 Internal Accounts Without Logging In-P3-](https://medium.com/@hacker_space11/how-i-brute-forced-400-internal-accounts-without-logging-in-p3-5d90aa7a703c?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
