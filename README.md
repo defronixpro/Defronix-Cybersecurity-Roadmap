@@ -922,15 +922,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [$5375 Bounty: IDOR — Creating a Share Link for Any Campaign Planner in Facebook Business…](https://medium.com/@muriarfad/5375-bounty-idor-creating-a-share-link-for-any-campaign-planner-in-facebook-business-03f0994d4d16?source=rss------bug_bounty_writeup-5)
-- [How I Hacked NASA and Defaced It](https://medium.com/@iamshafayat/how-i-hacked-nasa-and-defaced-it-9f106e833cc1?source=rss------bug_bounty_writeup-5)
-- [️Breaking a PHP App with Nothing But Cookies and XML](https://medium.com/@jabaribrown62/%EF%B8%8F-breaking-a-php-app-with-nothing-but-cookies-and-xml-4c519c046533?source=rss------bug_bounty_writeup-5)
-- [Same Bug, Different Places: 3 Logic Flaws I Found on Main Domain](https://medium.com/@nnouh4967/same-bug-different-places-3-logic-flaws-i-found-on-main-domain-90608ced8d4c?source=rss------bug_bounty_writeup-5)
-- [Google Dorks for Bug Bounty Hunting: 25 Powerful Dorks to Find Exposed PDFs, NDAs, and Signatures](https://hackersatty.medium.com/google-dorks-for-bug-bounty-hunting-25-powerful-dorks-to-find-exposed-pdfs-ndas-and-signatures-cf8c54e19189?source=rss------bug_bounty_writeup-5)
-- [My first shot with Bugbounty Radar and I hit a vuln — bounty coming soon?](https://medium.com/@liusdgs/my-first-shot-with-bugbounty-radar-and-i-hit-a-vuln-bounty-coming-soon-93a9cfa91727?source=rss------bug_bounty_writeup-5)
-- [$2,000 |critical Samsung Bug Bounty: Bypassing Plan Restrictions via Business Logic Flaw](https://medium.com/@aminefarah802/2-000-critical-samsung-bug-bounty-bypassing-plan-restrictions-via-business-logic-flaw-e18eace8a6cf?source=rss------bug_bounty_writeup-5)
-- [My Latest Bug: Reflected XSS on GlobalProtect VPN Portal &lpar;CVE-2025–0133&rpar;](https://medium.com/@firdansp/my-latest-bug-reflected-xss-on-globalprotect-vpn-portal-cve-2025-0133-ba1649943250?source=rss------bug_bounty_writeup-5)
-- [Open Redirect Vulnerability — The Silent Gateway to Phishing and OAuth Hijacks](https://systemweakness.com/open-redirect-vulnerability-the-silent-gateway-to-phishing-and-oauth-hijacks-cce80ad9aa4c?source=rss------bug_bounty_writeup-5)
 - [CVE‑2025‑27210 &amp; CVE‑2025‑27209: Two high‑severity vulnerabilities in Node.js](https://infosecwriteups.com/cve-2025-27210-cve-2025-27209-two-high-severity-vulnerabilities-in-node-js-9134ea00dc2a?source=rss----7b722bfd1b8d---4)
 - [Leave ’Em On Read: GitHub Issue Comment Injection](https://infosecwriteups.com/leave-em-on-read-github-issue-comment-injection-3a0850574bb0?source=rss----7b722bfd1b8d---4)
 - [The Anatomy of a Critical Bug](https://infosecwriteups.com/the-anatomy-of-a-critical-bug-388329a1c55a?source=rss----7b722bfd1b8d---4)
