@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Reflected Cross-Site Scripting in Search Functionality](https://medium.com/@osamaashraf1233/reflected-cross-site-scripting-in-search-functionality-d584593b966f?source=rss------bug_bounty_writeup-5)
 - [HTB — Base](https://infosecwriteups.com/htb-base-d19c43f25362?source=rss----7b722bfd1b8d---4)
 - [1. How to Start Bug Bounty with Zero Knowledge](https://infosecwriteups.com/1-how-to-start-bug-bounty-with-zero-knowledge-5178f12f6529?source=rss----7b722bfd1b8d---4)
 - [From Cookie Consent to Command Execution: A Real-World SQLi + Full PII Leak to RCE on a Careers…](https://infosecwriteups.com/from-cookie-consent-to-command-execution-a-real-world-sqli-full-pii-leak-to-rce-on-a-careers-a8c554521d9e?source=rss----7b722bfd1b8d---4)
@@ -19,7 +20,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [My first shot with Bugbounty Radar and I hit a vuln — bounty coming soon?](https://medium.com/@liusdgs/my-first-shot-with-bugbounty-radar-and-i-hit-a-vuln-bounty-coming-soon-93a9cfa91727?source=rss------bug_bounty_writeup-5)
 - [$2,000 |critical Samsung Bug Bounty: Bypassing Plan Restrictions via Business Logic Flaw](https://medium.com/@aminefarah802/2-000-critical-samsung-bug-bounty-bypassing-plan-restrictions-via-business-logic-flaw-e18eace8a6cf?source=rss------bug_bounty_writeup-5)
 - [My Latest Bug: Reflected XSS on GlobalProtect VPN Portal &lpar;CVE-2025–0133&rpar;](https://medium.com/@firdansp/my-latest-bug-reflected-xss-on-globalprotect-vpn-portal-cve-2025-0133-ba1649943250?source=rss------bug_bounty_writeup-5)
-- [Open Redirect Vulnerability — The Silent Gateway to Phishing and OAuth Hijacks](https://systemweakness.com/open-redirect-vulnerability-the-silent-gateway-to-phishing-and-oauth-hijacks-cce80ad9aa4c?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
