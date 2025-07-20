@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Easiest P4 worth $60-$100 on Yandex](https://medium.com/@tsxninja2004/easiest-p4-worth-60-100-on-yandex-4ed0c291a37e?source=rss------bug_bounty_writeup-5)
 - [Death by a Thousand AI Slops: How Fake Bugs Are Killing Bug Bounties](https://infosecwriteups.com/death-by-a-thousand-ai-slops-how-fake-bugs-are-killing-bug-bounties-e4a8803edab7?source=rss----7b722bfd1b8d---4)
 - [DNS Poisoning: How Hackers Trick Your Internet](https://infosecwriteups.com/dns-poisoning-how-hackers-trick-your-internet-7621e93517a6?source=rss----7b722bfd1b8d---4)
 - [Extracting and Cracking NTLMv1 Hashes](https://infosecwriteups.com/extracting-and-cracking-ntlmv1-hashes-035ea0267d3e?source=rss----7b722bfd1b8d---4)
@@ -19,7 +20,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Same Bug, Different Places: 3 Logic Flaws I Found on Main Domain](https://medium.com/@nnouh4967/same-bug-different-places-3-logic-flaws-i-found-on-main-domain-90608ced8d4c?source=rss------bug_bounty_writeup-5)
 - [Google Dorks for Bug Bounty Hunting: 25 Powerful Dorks to Find Exposed PDFs, NDAs, and Signatures](https://hackersatty.medium.com/google-dorks-for-bug-bounty-hunting-25-powerful-dorks-to-find-exposed-pdfs-ndas-and-signatures-cf8c54e19189?source=rss------bug_bounty_writeup-5)
 - [My first shot with Bugbounty Radar and I hit a vuln — bounty coming soon?](https://medium.com/@liusdgs/my-first-shot-with-bugbounty-radar-and-i-hit-a-vuln-bounty-coming-soon-93a9cfa91727?source=rss------bug_bounty_writeup-5)
-- [$2,000 |critical Samsung Bug Bounty: Bypassing Plan Restrictions via Business Logic Flaw](https://medium.com/@aminefarah802/2-000-critical-samsung-bug-bounty-bypassing-plan-restrictions-via-business-logic-flaw-e18eace8a6cf?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
