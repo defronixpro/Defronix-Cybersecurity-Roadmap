@@ -932,7 +932,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [A Beginner-Friendly Guide to RCE, Command Injection, and More](https://infosecwriteups.com/a-beginner-friendly-guide-to-rce-command-injection-and-more-eadf64b481eb?source=rss----7b722bfd1b8d---4)
 - [Bug Bounties, Broken Promises](https://infosecwriteups.com/bug-bounties-broken-promises-a19557db0aaa?source=rss----7b722bfd1b8d---4)
 - [The Cybersecurity Library Your Boss Won’t Share](https://infosecwriteups.com/the-cybersecurity-library-your-boss-wont-share-37421d69e328?source=rss----7b722bfd1b8d---4)
-- [Business Logic: Broken. Wallet: Hacked. OTP: Bypassed.](https://hettt.medium.com/business-logic-broken-wallet-hacked-otp-bypassed-d82e6591a63a?source=rss------bug_bounty_writeup-5)
+- [Business Logic: Broken. Wallet: Hacked. OTP: Bypassed.](https://cybersecuritywriteups.com/business-logic-broken-wallet-hacked-otp-bypassed-d82e6591a63a?source=rss------bug_bounty_writeup-5)
 - [Reflected Cross-Site Scripting in Search Functionality](https://medium.com/@osamaashraf1233/reflected-cross-site-scripting-in-search-functionality-d584593b966f?source=rss------bug_bounty_writeup-5)
 - [$5375 Bounty: IDOR — Creating a Share Link for Any Campaign Planner in Facebook Business…](https://medium.com/@muriarfad/5375-bounty-idor-creating-a-share-link-for-any-campaign-planner-in-facebook-business-03f0994d4d16?source=rss------bug_bounty_writeup-5)
 - [How I Hacked NASA and Defaced It](https://medium.com/@iamshafayat/how-i-hacked-nasa-and-defaced-it-9f106e833cc1?source=rss------bug_bounty_writeup-5)
