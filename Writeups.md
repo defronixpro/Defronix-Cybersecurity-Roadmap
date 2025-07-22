@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Insufficient Access Controls in GraphQL Enables Unauthorized User Enumeration](https://medium.com/@bassemwanies2002/insufficient-access-controls-in-graphql-enables-unauthorized-user-enumeration-400d24e40208?source=rss------bug_bounty_writeup-5)
 - [A Forgotten Domain, a Hidden SSRF: How I Followed a Gut Feeling and Hit Gold](https://medium.com/@rutxploit/a-forgotten-domain-a-hidden-ssrf-how-i-followed-a-gut-feeling-and-hit-gold-2dc17f743c00?source=rss------bug_bounty_writeup-5)
 - [Beginner Bug Hunters Must Try this Bug !!](https://medium.com/@tsxninja2004/beginner-bug-hunters-must-try-this-bug-f2adb9ddc74a?source=rss------bug_bounty_writeup-5)
 - [From Customer to Admin: Real-World IDOR in an E-Commerce Platform](https://santhosh-adiga-u.medium.com/from-customer-to-admin-real-world-idor-in-an-e-commerce-platform-18e452280bb8?source=rss------bug_bounty_writeup-5)
@@ -18,7 +19,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [The Password Graveyard: Why Yours is Dead on Arrival](https://infosecwriteups.com/the-password-graveyard-why-yours-is-dead-on-arrival-c20c0575f8a2?source=rss----7b722bfd1b8d---4)
 - [CVE-2025–49706 — SharePoint Spoofing Vulnerability Under Active Exploitation](https://infosecwriteups.com/cve-2025-49706-sharepoint-spoofing-vulnerability-under-active-exploitation-3a640df68d3e?source=rss----7b722bfd1b8d---4)
 - [I Followed This Recon Checklist and Found 12 Bugs in 1 Week](https://infosecwriteups.com/i-followed-this-recon-checklist-and-found-12-bugs-in-1-week-1e546a0d8b2e?source=rss----7b722bfd1b8d---4)
-- [Broken Access Control to Gain Unauthorized Role Management in a Public Program](https://medium.com/@bassemwanies2002/broken-access-control-to-gain-unauthorized-role-management-in-a-public-program-6925f83d0dc4?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
