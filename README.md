@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Insufficient Access Controls in GraphQL Enables Unauthorized User Enumeration](https://medium.com/@bassemwanies2002/insufficient-access-controls-in-graphql-enables-unauthorized-user-enumeration-400d24e40208?source=rss------bug_bounty_writeup-5)
 - [A Forgotten Domain, a Hidden SSRF: How I Followed a Gut Feeling and Hit Gold](https://medium.com/@rutxploit/a-forgotten-domain-a-hidden-ssrf-how-i-followed-a-gut-feeling-and-hit-gold-2dc17f743c00?source=rss------bug_bounty_writeup-5)
 - [Beginner Bug Hunters Must Try this Bug !!](https://medium.com/@tsxninja2004/beginner-bug-hunters-must-try-this-bug-f2adb9ddc74a?source=rss------bug_bounty_writeup-5)
 - [From Customer to Admin: Real-World IDOR in an E-Commerce Platform](https://santhosh-adiga-u.medium.com/from-customer-to-admin-real-world-idor-in-an-e-commerce-platform-18e452280bb8?source=rss------bug_bounty_writeup-5)
@@ -929,7 +930,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Dorks For Sensitive Information Disclosure Part-2](https://medium.com/@devanshpatel930/dorks-for-sensitive-information-disclosure-part-2-4355b479d2aa?source=rss------bug_bounty_writeup-5)
 - [How I found my first Critical SSRF &lpar;and how you can too&rpar;](https://systemweakness.com/how-i-found-my-first-critical-ssrf-and-how-you-can-too-b0f5fb1bd62b?source=rss------bug_bounty_writeup-5)
 - [How I Found a Bug in 1 minute](https://infosecwriteups.com/how-i-found-a-bug-in-1-minute-c81dc179d0aa?source=rss------bug_bounty_writeup-5)
-- [Broken Access Control to Gain Unauthorized Role Management in a Public Program](https://medium.com/@bassemwanies2002/broken-access-control-to-gain-unauthorized-role-management-in-a-public-program-6925f83d0dc4?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
