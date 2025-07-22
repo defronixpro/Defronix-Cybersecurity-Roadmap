@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Dorks For Sensitive Information Disclosure Part-2](https://medium.com/@devanshpatel930/dorks-for-sensitive-information-disclosure-part-2-4355b479d2aa?source=rss------bug_bounty_writeup-5)
 - [How I found my first Critical SSRF &lpar;and how you can too&rpar;](https://medium.com/@Appsec_pt/how-i-found-my-first-critical-ssrf-and-how-you-can-too-b0f5fb1bd62b?source=rss------bug_bounty_writeup-5)
 - [Week 5— Learning Basic Concepts of Cybersecurity](https://infosecwriteups.com/week-5-learning-basic-concepts-of-cybersecurity-ae310b92ab71?source=rss----7b722bfd1b8d---4)
 - [Begin Your Bug Bounty Journey [in 2025]](https://infosecwriteups.com/begin-your-bug-bounty-journey-in-2025-54635a59eccc?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Business Logic: Broken. Wallet: Hacked. OTP: Bypassed.](https://cybersecuritywriteups.com/business-logic-broken-wallet-hacked-otp-bypassed-d82e6591a63a?source=rss------bug_bounty_writeup-5)
 - [Reflected Cross-Site Scripting in Search Functionality](https://medium.com/@osamaashraf1233/reflected-cross-site-scripting-in-search-functionality-d584593b966f?source=rss------bug_bounty_writeup-5)
 - [$5375 Bounty: IDOR — Creating a Share Link for Any Campaign Planner in Facebook Business…](https://medium.com/@muriarfad/5375-bounty-idor-creating-a-share-link-for-any-campaign-planner-in-facebook-business-03f0994d4d16?source=rss------bug_bounty_writeup-5)
-- [How I Hacked NASA and Defaced It](https://medium.com/@iamshafayat/how-i-hacked-nasa-and-defaced-it-9f106e833cc1?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
