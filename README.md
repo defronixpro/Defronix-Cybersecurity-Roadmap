@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Beginner Bug Hunters Must Try this Bug !!](https://medium.com/@tsxninja2004/beginner-bug-hunters-must-try-this-bug-f2adb9ddc74a?source=rss------bug_bounty_writeup-5)
 - [From Customer to Admin: Real-World IDOR in an E-Commerce Platform](https://santhosh-adiga-u.medium.com/from-customer-to-admin-real-world-idor-in-an-e-commerce-platform-18e452280bb8?source=rss------bug_bounty_writeup-5)
 - [BUG BOUNTY-La lógica rota no lanza errores. Sólo oportunidades.](https://gorkaaa.medium.com/bug-bounty-la-l%C3%B3gica-rota-no-lanza-errores-s%C3%B3lo-oportunidades-bc97104ef0fc?source=rss------bug_bounty_writeup-5)
 - [Dorks For Sensitive Information Disclosure Part-2](https://medium.com/@devanshpatel930/dorks-for-sensitive-information-disclosure-part-2-4355b479d2aa?source=rss------bug_bounty_writeup-5)
@@ -939,7 +940,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [I Followed This Recon Checklist and Found 12 Bugs in 1 Week](https://infosecwriteups.com/i-followed-this-recon-checklist-and-found-12-bugs-in-1-week-1e546a0d8b2e?source=rss----7b722bfd1b8d---4)
 - [Broken Access Control to Gain Unauthorized Role Management in a Public Program](https://medium.com/@bassemwanies2002/broken-access-control-to-gain-unauthorized-role-management-in-a-public-program-6925f83d0dc4?source=rss------bug_bounty_writeup-5)
 - [Staging Sites, Admin:Admin, and a $500 Payday](https://medium.com/@rutxploit/staging-sites-admin-admin-and-a-500-payday-f45cc481ad1a?source=rss------bug_bounty_writeup-5)
-- [Earn from $20 to $20,000 by Bug Bounty! The Ultimate Guide for Beginners](https://medium.com/@rashad.desk/earn-from-20-to-20-000-by-bug-bounty-the-ultimate-guide-for-beginners-3aea9735f9a7?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
