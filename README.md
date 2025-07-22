@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [From Customer to Admin: Real-World IDOR in an E-Commerce Platform](https://santhosh-adiga-u.medium.com/from-customer-to-admin-real-world-idor-in-an-e-commerce-platform-18e452280bb8?source=rss------bug_bounty_writeup-5)
 - [BUG BOUNTY-La lógica rota no lanza errores. Sólo oportunidades.](https://gorkaaa.medium.com/bug-bounty-la-l%C3%B3gica-rota-no-lanza-errores-s%C3%B3lo-oportunidades-bc97104ef0fc?source=rss------bug_bounty_writeup-5)
 - [Dorks For Sensitive Information Disclosure Part-2](https://medium.com/@devanshpatel930/dorks-for-sensitive-information-disclosure-part-2-4355b479d2aa?source=rss------bug_bounty_writeup-5)
 - [How I found my first Critical SSRF &lpar;and how you can too&rpar;](https://systemweakness.com/how-i-found-my-first-critical-ssrf-and-how-you-can-too-b0f5fb1bd62b?source=rss------bug_bounty_writeup-5)
@@ -939,8 +940,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Broken Access Control to Gain Unauthorized Role Management in a Public Program](https://medium.com/@bassemwanies2002/broken-access-control-to-gain-unauthorized-role-management-in-a-public-program-6925f83d0dc4?source=rss------bug_bounty_writeup-5)
 - [Staging Sites, Admin:Admin, and a $500 Payday](https://medium.com/@rutxploit/staging-sites-admin-admin-and-a-500-payday-f45cc481ad1a?source=rss------bug_bounty_writeup-5)
 - [Earn from $20 to $20,000 by Bug Bounty! The Ultimate Guide for Beginners](https://medium.com/@rashad.desk/earn-from-20-to-20-000-by-bug-bounty-the-ultimate-guide-for-beginners-3aea9735f9a7?source=rss------bug_bounty_writeup-5)
-- [Easiest P4 worth $60-$100 on Yandex](https://medium.com/@tsxninja2004/easiest-p4-worth-60-100-on-yandex-4ed0c291a37e?source=rss------bug_bounty_writeup-5)
-- [Business Logic: Broken. Wallet: Hacked. OTP: Bypassed.](https://cybersecuritywriteups.com/business-logic-broken-wallet-hacked-otp-bypassed-d82e6591a63a?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
