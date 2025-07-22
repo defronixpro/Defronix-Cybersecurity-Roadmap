@@ -924,7 +924,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 <!-- WRITEUPS:START -->
 - [BUG BOUNTY-La lógica rota no lanza errores. Sólo oportunidades.](https://gorkaaa.medium.com/bug-bounty-la-l%C3%B3gica-rota-no-lanza-errores-s%C3%B3lo-oportunidades-bc97104ef0fc?source=rss------bug_bounty_writeup-5)
 - [Dorks For Sensitive Information Disclosure Part-2](https://medium.com/@devanshpatel930/dorks-for-sensitive-information-disclosure-part-2-4355b479d2aa?source=rss------bug_bounty_writeup-5)
-- [How I found my first Critical SSRF &lpar;and how you can too&rpar;](https://medium.com/@Appsec_pt/how-i-found-my-first-critical-ssrf-and-how-you-can-too-b0f5fb1bd62b?source=rss------bug_bounty_writeup-5)
+- [How I found my first Critical SSRF &lpar;and how you can too&rpar;](https://systemweakness.com/how-i-found-my-first-critical-ssrf-and-how-you-can-too-b0f5fb1bd62b?source=rss------bug_bounty_writeup-5)
 - [Week 5— Learning Basic Concepts of Cybersecurity](https://infosecwriteups.com/week-5-learning-basic-concepts-of-cybersecurity-ae310b92ab71?source=rss----7b722bfd1b8d---4)
 - [Begin Your Bug Bounty Journey [in 2025]](https://infosecwriteups.com/begin-your-bug-bounty-journey-in-2025-54635a59eccc?source=rss----7b722bfd1b8d---4)
 - [How I Found a Bug in 1 minute](https://infosecwriteups.com/how-i-found-a-bug-in-1-minute-c81dc179d0aa?source=rss----7b722bfd1b8d---4)
@@ -941,7 +941,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Earn from $20 to $20,000 by Bug Bounty! The Ultimate Guide for Beginners](https://medium.com/@rashad.desk/earn-from-20-to-20-000-by-bug-bounty-the-ultimate-guide-for-beginners-3aea9735f9a7?source=rss------bug_bounty_writeup-5)
 - [Easiest P4 worth $60-$100 on Yandex](https://medium.com/@tsxninja2004/easiest-p4-worth-60-100-on-yandex-4ed0c291a37e?source=rss------bug_bounty_writeup-5)
 - [Business Logic: Broken. Wallet: Hacked. OTP: Bypassed.](https://cybersecuritywriteups.com/business-logic-broken-wallet-hacked-otp-bypassed-d82e6591a63a?source=rss------bug_bounty_writeup-5)
-- [Reflected Cross-Site Scripting in Search Functionality](https://medium.com/@osamaashraf1233/reflected-cross-site-scripting-in-search-functionality-d584593b966f?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
