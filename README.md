@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [10 Prerequisites Before Your First Bug Bounty &lpar;And the Tools to Get You Started&rpar;](https://medium.com/@saltinehacker/10-prerequisites-before-your-first-bug-bounty-and-the-tools-to-get-you-started-9ad3635189b1?source=rss------bug_bounty_writeup-5)
 - [Insufficient Access Controls in GraphQL Enables Unauthorized User Enumeration](https://medium.com/@bassemwanies2002/insufficient-access-controls-in-graphql-enables-unauthorized-user-enumeration-400d24e40208?source=rss------bug_bounty_writeup-5)
 - [A Forgotten Domain, a Hidden SSRF: How I Followed a Gut Feeling and Hit Gold](https://medium.com/@rutxploit/a-forgotten-domain-a-hidden-ssrf-how-i-followed-a-gut-feeling-and-hit-gold-2dc17f743c00?source=rss------bug_bounty_writeup-5)
 - [Beginner Bug Hunters Must Try this Bug !!](https://medium.com/@tsxninja2004/beginner-bug-hunters-must-try-this-bug-f2adb9ddc74a?source=rss------bug_bounty_writeup-5)
@@ -932,7 +933,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Week 5— Learning Basic Concepts of Cybersecurity](https://infosecwriteups.com/week-5-learning-basic-concepts-of-cybersecurity-ae310b92ab71?source=rss----7b722bfd1b8d---4)
 - [Begin Your Bug Bounty Journey [in 2025]](https://infosecwriteups.com/begin-your-bug-bounty-journey-in-2025-54635a59eccc?source=rss----7b722bfd1b8d---4)
 - [How I Found a Bug in 1 minute](https://infosecwriteups.com/how-i-found-a-bug-in-1-minute-c81dc179d0aa?source=rss----7b722bfd1b8d---4)
-- [How I Found a Bug in 1 minute](https://infosecwriteups.com/how-i-found-a-bug-in-1-minute-c81dc179d0aa?source=rss------bug_bounty_writeup-5)
 - [$500 Bounty: DOM-Based XSS in Gatecoin’s Charting Library](https://infosecwriteups.com/500-bounty-dom-based-xss-in-gatecoins-charting-library-e21e40c4f270?source=rss----7b722bfd1b8d---4)
 - [Linux Ricers!!! I need your help](https://infosecwriteups.com/linux-ricers-i-need-your-help-8b280c5af4c6?source=rss----7b722bfd1b8d---4)
 - [Secrets in Session: How a Forgotten Cookie Let Me Walk Into Admin Panel Like I Owned the Place…](https://infosecwriteups.com/secrets-in-session-how-a-forgotten-cookie-let-me-walk-into-admin-panel-like-i-owned-the-place-6aeb97f7f9de?source=rss----7b722bfd1b8d---4)
