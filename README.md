@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Menganalisis Kerentanan Rails Debug Mode pada Ruby on Rails](https://medium.com/@ahmadfaizabdilla/menganalisis-kerentanan-rails-debug-mode-pada-ruby-on-rails-c9aa6e0e4967?source=rss------bug_bounty_writeup-5)
+- [Prototype Pollution Vulnerability: Full Technical Guide](https://medium.com/@SKaif009/prototype-pollution-vulnerability-full-technical-guide-1e57fb09d83f?source=rss------bug_bounty_writeup-5)
 - [Open Redirect Vulnerability in EXBO’s Support Domain](https://medium.com/@ch1ta/open-redirect-vulnerability-in-exbos-support-domain-e7b0b39851af?source=rss------bug_bounty_writeup-5)
 - [2. Setting Up the Ultimate Hacker’s Lab &lpar;Free Tools Only&rpar;](https://infosecwriteups.com/2-setting-up-the-ultimate-hackers-lab-free-tools-only-1f0debb37af1?source=rss------bug_bounty_writeup-5)
 - [10 Prerequisites Before Your First Bug Bounty &lpar;And the Tools to Get You Started&rpar;](https://medium.com/@saltinehacker/10-prerequisites-before-your-first-bug-bounty-and-the-tools-to-get-you-started-9ad3635189b1?source=rss------bug_bounty_writeup-5)
@@ -929,7 +931,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [A Forgotten Domain, a Hidden SSRF: How I Followed a Gut Feeling and Hit Gold](https://medium.com/@rutxploit/a-forgotten-domain-a-hidden-ssrf-how-i-followed-a-gut-feeling-and-hit-gold-2dc17f743c00?source=rss------bug_bounty_writeup-5)
 - [Beginner Bug Hunters Must Try this Bug !!](https://medium.com/@tsxninja2004/beginner-bug-hunters-must-try-this-bug-f2adb9ddc74a?source=rss------bug_bounty_writeup-5)
 - [From Customer to Admin: Real-World IDOR in an E-Commerce Platform](https://santhosh-adiga-u.medium.com/from-customer-to-admin-real-world-idor-in-an-e-commerce-platform-18e452280bb8?source=rss------bug_bounty_writeup-5)
-- [BUG BOUNTY-La lógica rota no lanza errores. Sólo oportunidades.](https://gorkaaa.medium.com/bug-bounty-la-l%C3%B3gica-rota-no-lanza-errores-s%C3%B3lo-oportunidades-bc97104ef0fc?source=rss------bug_bounty_writeup-5)
 - [Week 5— Learning Basic Concepts of Cybersecurity](https://infosecwriteups.com/week-5-learning-basic-concepts-of-cybersecurity-ae310b92ab71?source=rss----7b722bfd1b8d---4)
 - [Begin Your Bug Bounty Journey [in 2025]](https://infosecwriteups.com/begin-your-bug-bounty-journey-in-2025-54635a59eccc?source=rss----7b722bfd1b8d---4)
 - [How I Found a Bug in 1 minute](https://infosecwriteups.com/how-i-found-a-bug-in-1-minute-c81dc179d0aa?source=rss----7b722bfd1b8d---4)
