@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [“Bug Bounty CVE-2025–0133 PAN-OS: Reflected Cross-Site Scripting &lpar;XSS&rpar; “Most Exploited…](https://medium.com/@hariharanhex00/bug-bounty-cve-2025-0133-pan-os-reflected-cross-site-scripting-xss-most-exploited-79832916cfcd?source=rss------bug_bounty_writeup-5)
 - [Menganalisis Kerentanan Rails Debug Mode pada Ruby on Rails](https://medium.com/@ahmadfaizabdilla/menganalisis-kerentanan-rails-debug-mode-pada-ruby-on-rails-c9aa6e0e4967?source=rss------bug_bounty_writeup-5)
 - [Prototype Pollution Vulnerability: Full Technical Guide](https://medium.com/@SKaif009/prototype-pollution-vulnerability-full-technical-guide-1e57fb09d83f?source=rss------bug_bounty_writeup-5)
 - [Open Redirect Vulnerability in EXBO’s Support Domain](https://medium.com/@ch1ta/open-redirect-vulnerability-in-exbos-support-domain-e7b0b39851af?source=rss------bug_bounty_writeup-5)
