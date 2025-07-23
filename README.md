@@ -931,7 +931,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Insufficient Access Controls in GraphQL Enables Unauthorized User Enumeration](https://medium.com/@bassemwanies2002/insufficient-access-controls-in-graphql-enables-unauthorized-user-enumeration-400d24e40208?source=rss------bug_bounty_writeup-5)
 - [A Forgotten Domain, a Hidden SSRF: How I Followed a Gut Feeling and Hit Gold](https://medium.com/@rutxploit/a-forgotten-domain-a-hidden-ssrf-how-i-followed-a-gut-feeling-and-hit-gold-2dc17f743c00?source=rss------bug_bounty_writeup-5)
 - [Beginner Bug Hunters Must Try this Bug !!](https://medium.com/@tsxninja2004/beginner-bug-hunters-must-try-this-bug-f2adb9ddc74a?source=rss------bug_bounty_writeup-5)
-- [From Customer to Admin: Real-World IDOR in an E-Commerce Platform](https://santhosh-adiga-u.medium.com/from-customer-to-admin-real-world-idor-in-an-e-commerce-platform-18e452280bb8?source=rss------bug_bounty_writeup-5)
+- [From Customer to Admin: Real-World IDOR in an E-Commerce Platform](https://medium.com/design-bootcamp/from-customer-to-admin-real-world-idor-in-an-e-commerce-platform-18e452280bb8?source=rss------bug_bounty_writeup-5)
 - [Week 5— Learning Basic Concepts of Cybersecurity](https://infosecwriteups.com/week-5-learning-basic-concepts-of-cybersecurity-ae310b92ab71?source=rss----7b722bfd1b8d---4)
 - [Begin Your Bug Bounty Journey [in 2025]](https://infosecwriteups.com/begin-your-bug-bounty-journey-in-2025-54635a59eccc?source=rss----7b722bfd1b8d---4)
 - [How I Found a Bug in 1 minute](https://infosecwriteups.com/how-i-found-a-bug-in-1-minute-c81dc179d0aa?source=rss----7b722bfd1b8d---4)
