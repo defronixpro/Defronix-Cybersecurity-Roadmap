@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Discovered a Reflected HTML Injection on Microsoft Learn That Earned a Spot in Microsoft’s Hall of…](https://medium.com/@gourisankara357/discovered-a-reflected-html-injection-on-microsoft-learn-that-earned-a-spot-in-microsofts-hall-of-aa607a52e077?source=rss------bug_bounty_writeup-5)
 - [Admin Emails &amp; Passwords Exposed via HTTP Method Change](https://infosecwriteups.com/admin-emails-passwords-exposed-via-http-method-change-da23186f37d3?source=rss----7b722bfd1b8d---4)
 - [Exploiting the Overlooked: From Regex Bypasses to Full Source Code Leaks](https://infosecwriteups.com/exploiting-the-overlooked-from-regex-bypasses-to-full-source-code-leaks-92f99d40ac20?source=rss----7b722bfd1b8d---4)
 - [Dom-Based Xss](https://infosecwriteups.com/dom-based-xss-fa913b66b09b?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Menganalisis Kerentanan Rails Debug Mode pada Ruby on Rails](https://medium.com/@ahmadfaizabdilla/menganalisis-kerentanan-rails-debug-mode-pada-ruby-on-rails-c9aa6e0e4967?source=rss------bug_bounty_writeup-5)
 - [Prototype Pollution Vulnerability: Full Technical Guide](https://medium.com/@SKaif009/prototype-pollution-vulnerability-full-technical-guide-1e57fb09d83f?source=rss------bug_bounty_writeup-5)
 - [Open Redirect Vulnerability in EXBO’s Support Domain](https://medium.com/@ch1ta/open-redirect-vulnerability-in-exbos-support-domain-e7b0b39851af?source=rss------bug_bounty_writeup-5)
-- [2. Setting Up the Ultimate Hacker’s Lab &lpar;Free Tools Only&rpar;](https://infosecwriteups.com/2-setting-up-the-ultimate-hackers-lab-free-tools-only-1f0debb37af1?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
