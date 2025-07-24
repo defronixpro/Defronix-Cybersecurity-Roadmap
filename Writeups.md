@@ -1,6 +1,16 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [BUG BOUNTY-Entender el negocio es entender la superficie de ataque](https://gorkaaa.medium.com/bug-bounty-entender-el-negocio-es-entender-la-superficie-de-ataque-3ce1ebbfb211?source=rss------bug_bounty_writeup-5)
+- [Authentication Bypass via Inconsistent Credential Validation &lpar;Phone vs Email Login&rpar;](https://medium.com/@ch1ta/authentication-bypass-via-inconsistent-credential-validation-phone-vs-email-login-2e435bc2a290?source=rss------bug_bounty_writeup-5)
+- [IDOR vulnerability gives me 2500$](https://l4zyhacker.medium.com/idor-vulnerability-gives-me-2500-42cd077c37f1?source=rss------bug_bounty_writeup-5)
+- [How I Chained 2FA Bypasses in a Crypto P2P System to Steal User USDT](https://0xbartita.medium.com/how-i-chained-2fa-bypasses-in-a-crypto-p2p-system-to-steal-user-usdt-ef214879c173?source=rss------bug_bounty_writeup-5)
+- [“Bug Bounty CVE-2025–0133 PAN-OS: Reflected Cross-Site Scripting &lpar;XSS&rpar; “Most Exploited…](https://medium.com/@hariharanhex00/bug-bounty-cve-2025-0133-pan-os-reflected-cross-site-scripting-xss-most-exploited-79832916cfcd?source=rss------bug_bounty_writeup-5)
+- [Menganalisis Kerentanan Rails Debug Mode pada Ruby on Rails](https://medium.com/@ahmadfaizabdilla/menganalisis-kerentanan-rails-debug-mode-pada-ruby-on-rails-c9aa6e0e4967?source=rss------bug_bounty_writeup-5)
+- [Prototype Pollution Vulnerability: Full Technical Guide](https://medium.com/@SKaif009/prototype-pollution-vulnerability-full-technical-guide-1e57fb09d83f?source=rss------bug_bounty_writeup-5)
+- [Open Redirect Vulnerability in EXBO’s Support Domain](https://medium.com/@ch1ta/open-redirect-vulnerability-in-exbos-support-domain-e7b0b39851af?source=rss------bug_bounty_writeup-5)
+- [2. Setting Up the Ultimate Hacker’s Lab &lpar;Free Tools Only&rpar;](https://infosecwriteups.com/2-setting-up-the-ultimate-hackers-lab-free-tools-only-1f0debb37af1?source=rss------bug_bounty_writeup-5)
+- [10 Prerequisites Before Your First Bug Bounty &lpar;And the Tools to Get You Started&rpar;](https://medium.com/@saltinehacker/10-prerequisites-before-your-first-bug-bounty-and-the-tools-to-get-you-started-9ad3635189b1?source=rss------bug_bounty_writeup-5)
 - [Week 5— Learning Basic Concepts of Cybersecurity](https://infosecwriteups.com/week-5-learning-basic-concepts-of-cybersecurity-ae310b92ab71?source=rss----7b722bfd1b8d---4)
 - [Begin Your Bug Bounty Journey [in 2025]](https://infosecwriteups.com/begin-your-bug-bounty-journey-in-2025-54635a59eccc?source=rss----7b722bfd1b8d---4)
 - [How I Found a Bug in 1 minute](https://infosecwriteups.com/how-i-found-a-bug-in-1-minute-c81dc179d0aa?source=rss----7b722bfd1b8d---4)
