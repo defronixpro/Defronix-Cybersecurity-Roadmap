@@ -923,17 +923,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
 - [Discovered a Reflected HTML Injection on Microsoft Learn That Earned a Spot in Microsoft’s Hall of…](https://medium.com/@gourisankara357/discovered-a-reflected-html-injection-on-microsoft-learn-that-earned-a-spot-in-microsofts-hall-of-aa607a52e077?source=rss------bug_bounty_writeup-5)
-- [Admin Emails &amp; Passwords Exposed via HTTP Method Change](https://infosecwriteups.com/admin-emails-passwords-exposed-via-http-method-change-da23186f37d3?source=rss----7b722bfd1b8d---4)
-- [Exploiting the Overlooked: From Regex Bypasses to Full Source Code Leaks](https://infosecwriteups.com/exploiting-the-overlooked-from-regex-bypasses-to-full-source-code-leaks-92f99d40ac20?source=rss----7b722bfd1b8d---4)
-- [Dom-Based Xss](https://infosecwriteups.com/dom-based-xss-fa913b66b09b?source=rss----7b722bfd1b8d---4)
-- [Active Directory Cheat Sheet 2025 — Red Team to Blue Team Mastery](https://infosecwriteups.com/active-directory-cheat-sheet-2025-red-team-to-blue-team-mastery-e45f218fddb7?source=rss----7b722bfd1b8d---4)
-- [Flipper Zero Episode 5: Evil Portals &amp; the Dangers of Free Wi-Fi](https://infosecwriteups.com/flipper-zero-episode-5-evil-portals-the-dangers-of-free-wi-fi-f23c340859e4?source=rss----7b722bfd1b8d---4)
-- [Prompt Injection Attacks: Hacking AI Through Conversation](https://infosecwriteups.com/prompt-injection-attacks-hacking-ai-through-conversation-c33c65f8aaa9?source=rss----7b722bfd1b8d---4)
-- [Living Memory Attacks: Code Injection Without Files](https://infosecwriteups.com/living-memory-attacks-code-injection-without-files-aed0da3a466b?source=rss----7b722bfd1b8d---4)
-- [“Mastering SQL Injection: Real-World Exploits and Advanced Techniques”](https://infosecwriteups.com/mastering-sql-injection-real-world-exploits-and-advanced-techniques-90e2adedcdb0?source=rss----7b722bfd1b8d---4)
-- [The Thumbnail Trap: An Unpatched Google Docs Vulnerability That Risks Your Privacy](https://infosecwriteups.com/the-thumbnail-trap-an-unpatched-google-docs-vulnerability-e68911384e6e?source=rss----7b722bfd1b8d---4)
 - [The Thumbnail Trap: An Unpatched Google Docs Vulnerability That Risks Your Privacy](https://infosecwriteups.com/the-thumbnail-trap-an-unpatched-google-docs-vulnerability-e68911384e6e?source=rss------bug_bounty_writeup-5)
-- [Episode 4 – Silently Dangerous: Blind SQL Injection](https://infosecwriteups.com/episode-4-silently-dangerous-blind-sql-injection-a795fab8f669?source=rss----7b722bfd1b8d---4)
 - [BUG BOUNTY-Entender el negocio es entender la superficie de ataque](https://gorkaaa.medium.com/bug-bounty-entender-el-negocio-es-entender-la-superficie-de-ataque-3ce1ebbfb211?source=rss------bug_bounty_writeup-5)
 - [Authentication Bypass via Inconsistent Credential Validation &lpar;Phone vs Email Login&rpar;](https://medium.com/@ch1ta/authentication-bypass-via-inconsistent-credential-validation-phone-vs-email-login-2e435bc2a290?source=rss------bug_bounty_writeup-5)
 - [IDOR vulnerability gives me 2500$](https://l4zyhacker.medium.com/idor-vulnerability-gives-me-2500-42cd077c37f1?source=rss------bug_bounty_writeup-5)
