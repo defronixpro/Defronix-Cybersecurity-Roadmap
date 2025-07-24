@@ -922,6 +922,16 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Admin Emails &amp; Passwords Exposed via HTTP Method Change](https://infosecwriteups.com/admin-emails-passwords-exposed-via-http-method-change-da23186f37d3?source=rss----7b722bfd1b8d---4)
+- [Exploiting the Overlooked: From Regex Bypasses to Full Source Code Leaks](https://infosecwriteups.com/exploiting-the-overlooked-from-regex-bypasses-to-full-source-code-leaks-92f99d40ac20?source=rss----7b722bfd1b8d---4)
+- [Dom-Based Xss](https://infosecwriteups.com/dom-based-xss-fa913b66b09b?source=rss----7b722bfd1b8d---4)
+- [Active Directory Cheat Sheet 2025 — Red Team to Blue Team Mastery](https://infosecwriteups.com/active-directory-cheat-sheet-2025-red-team-to-blue-team-mastery-e45f218fddb7?source=rss----7b722bfd1b8d---4)
+- [Flipper Zero Episode 5: Evil Portals &amp; the Dangers of Free Wi-Fi](https://infosecwriteups.com/flipper-zero-episode-5-evil-portals-the-dangers-of-free-wi-fi-f23c340859e4?source=rss----7b722bfd1b8d---4)
+- [Prompt Injection Attacks: Hacking AI Through Conversation](https://infosecwriteups.com/prompt-injection-attacks-hacking-ai-through-conversation-c33c65f8aaa9?source=rss----7b722bfd1b8d---4)
+- [Living Memory Attacks: Code Injection Without Files](https://infosecwriteups.com/living-memory-attacks-code-injection-without-files-aed0da3a466b?source=rss----7b722bfd1b8d---4)
+- [“Mastering SQL Injection: Real-World Exploits and Advanced Techniques”](https://infosecwriteups.com/mastering-sql-injection-real-world-exploits-and-advanced-techniques-90e2adedcdb0?source=rss----7b722bfd1b8d---4)
+- [The Thumbnail Trap: An Unpatched Google Docs Vulnerability That Risks Your Privacy](https://infosecwriteups.com/the-thumbnail-trap-an-unpatched-google-docs-vulnerability-e68911384e6e?source=rss----7b722bfd1b8d---4)
+- [Episode 4 – Silently Dangerous: Blind SQL Injection](https://infosecwriteups.com/episode-4-silently-dangerous-blind-sql-injection-a795fab8f669?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
