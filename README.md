@@ -922,6 +922,11 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I Found and Exploited a Critical Remote Code Execution in OpenSSH &lpar;CVE-2024–6387&rpar; Using Shodan…](https://medium.com/@FufuFaf1/how-i-found-and-exploited-a-critical-remote-code-execution-in-openssh-cve-2024-6387-using-shodan-172b8535f53d?source=rss------bug_bounty_writeup-5)
+- [️ How I Found an Unauthenticated GraphQL Data Exposure and got 0$ for it](https://medium.com/@77r4sed/%EF%B8%8F-how-i-found-an-unauthenticated-graphql-data-exposure-and-got-0-for-it-edfb07bf72a8?source=rss------bug_bounty_writeup-5)
+- [Hacker Watches What He Wants For Free. Hacking Netflix Pt.2 | Bug Bounty Tour #4](https://medium.com/@nnface/hacker-watches-what-he-wants-for-free-hacking-netflix-pt-2-bug-bounty-tour-4-1c029997d8e2?source=rss------bug_bounty_writeup-5)
+- [️ Top 10 Web App Attack Vectors You Must Master in 2025](https://medium.com/@samael_0x4/%EF%B8%8F-top-10-web-app-attack-vectors-you-must-master-in-2025-bcdd1e507223?source=rss------bug_bounty_writeup-5)
+- [How I Found Over 30 Security Vulnerabilities in a Single Program](https://asametyigit.medium.com/how-i-found-over-30-security-vulnerabilities-in-a-single-program-64642ab2df72?source=rss------bug_bounty_writeup-5)
 - [NoSQL Injection: Exploitation Techniques and Attack Scenarios](https://hettt.medium.com/nosql-injection-exploitation-techniques-and-attack-scenarios-434ebec61dbd?source=rss------bug_bounty_writeup-5)
 - [The tool that gave me the first bounty](https://medium.com/@mohaned0101/the-tool-that-gave-me-the-first-bounty-9303cac972a3?source=rss------bug_bounty_writeup-5)
 - [Exploiting SSRF via Cloudflare Image Proxy on [REDACTED]](https://medium.com/@sauravkrish59/exploiting-ssrf-via-cloudflare-image-proxy-on-redacted-a32aeb8e6b8c?source=rss------bug_bounty_writeup-5)
@@ -933,15 +938,10 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Inside the Phisher’s Mind: How Hackers Actually Build Phishing Links &lpar;Step-by-Step Breakdown&rpar;](https://infosecwriteups.com/inside-the-phishers-mind-how-hackers-actually-build-phishing-links-step-by-step-breakdown-9caaf581a88d?source=rss----7b722bfd1b8d---4)
 - [“When Silence Falls: The Hidden Art of Burning a Hacker Forum”](https://infosecwriteups.com/when-silence-falls-the-hidden-art-of-burning-a-hacker-forum-a926bf6372d7?source=rss----7b722bfd1b8d---4)
 - [Tuning Detections isn’t Hard Unless You Make it Hard](https://infosecwriteups.com/tuning-detections-isnt-hard-unless-you-make-it-hard-15a7374cde47?source=rss----7b722bfd1b8d---4)
-- [How I Chained 2FA Bypasses in a Crypto P2P System to Steal User USDT](https://0xbartita.medium.com/how-i-chained-2fa-bypasses-in-a-crypto-p2p-system-to-steal-user-usdt-ed68ee078998?source=rss------bug_bounty_writeup-5)
-- [Discovered a Reflected HTML Injection on Microsoft Learn That Earned a Spot in Microsoft’s Hall of…](https://medium.com/@gourisankara357/discovered-a-reflected-html-injection-on-microsoft-learn-that-earned-a-spot-in-microsofts-hall-of-aa607a52e077?source=rss------bug_bounty_writeup-5)
 - [Admin Emails &amp; Passwords Exposed via HTTP Method Change](https://infosecwriteups.com/admin-emails-passwords-exposed-via-http-method-change-da23186f37d3?source=rss----7b722bfd1b8d---4)
 - [Exploiting the Overlooked: From Regex Bypasses to Full Source Code Leaks](https://infosecwriteups.com/exploiting-the-overlooked-from-regex-bypasses-to-full-source-code-leaks-92f99d40ac20?source=rss----7b722bfd1b8d---4)
 - [Dom-Based Xss](https://infosecwriteups.com/dom-based-xss-fa913b66b09b?source=rss----7b722bfd1b8d---4)
 - [Active Directory Cheat Sheet 2025 — Red Team to Blue Team Mastery](https://infosecwriteups.com/active-directory-cheat-sheet-2025-red-team-to-blue-team-mastery-e45f218fddb7?source=rss----7b722bfd1b8d---4)
-- [The Thumbnail Trap: An Unpatched Google Docs Vulnerability That Risks Your Privacy](https://infosecwriteups.com/the-thumbnail-trap-an-unpatched-google-docs-vulnerability-e68911384e6e?source=rss------bug_bounty_writeup-5)
-- [BUG BOUNTY-Entender el negocio es entender la superficie de ataque](https://gorkaaa.medium.com/bug-bounty-entender-el-negocio-es-entender-la-superficie-de-ataque-3ce1ebbfb211?source=rss------bug_bounty_writeup-5)
-- [Authentication Bypass via Inconsistent Credential Validation &lpar;Phone vs Email Login&rpar;](https://medium.com/@ch1ta/authentication-bypass-via-inconsistent-credential-validation-phone-vs-email-login-2e435bc2a290?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
