@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [BUGBOUNTY- No caces bugs. Caza inconsistencias.](https://gorkaaa.medium.com/bugbounty-no-caces-bugs-caza-inconsistencias-9ea08ecabe96?source=rss------bug_bounty_writeup-5)
 - [Episode 5: HTML Injection: Understanding, Finding, and Preventing a Silent Web Threat](https://infosecwriteups.com/episode-5-html-injection-understanding-finding-and-preventing-a-silent-web-threat-2375f76bc808?source=rss----7b722bfd1b8d---4)
 - [Episode 5: HTML Injection: Understanding, Finding, and Preventing a Silent Web Threat](https://infosecwriteups.com/episode-5-html-injection-understanding-finding-and-preventing-a-silent-web-threat-2375f76bc808?source=rss------bug_bounty_writeup-5)
 - [Routing-Based SSRF  —  Host Header Injection Leads to Internal Access](https://infosecwriteups.com/routing-based-ssrf-host-header-injection-leads-to-internal-access-b65a1c8b1b42?source=rss----7b722bfd1b8d---4)
@@ -940,7 +941,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Authentication Bypass via Inconsistent Credential Validation &lpar;Phone vs Email Login&rpar;](https://medium.com/@ch1ta/authentication-bypass-via-inconsistent-credential-validation-phone-vs-email-login-2e435bc2a290?source=rss------bug_bounty_writeup-5)
 - [IDOR vulnerability gives me 2500$](https://l4zyhacker.medium.com/idor-vulnerability-gives-me-2500-42cd077c37f1?source=rss------bug_bounty_writeup-5)
 - [“Bug Bounty CVE-2025–0133 PAN-OS: Reflected Cross-Site Scripting &lpar;XSS&rpar; “Most Exploited…](https://medium.com/@hariharanhex00/bug-bounty-cve-2025-0133-pan-os-reflected-cross-site-scripting-xss-most-exploited-79832916cfcd?source=rss------bug_bounty_writeup-5)
-- [Menganalisis Kerentanan Rails Debug Mode pada Ruby on Rails](https://medium.com/@ahmadfaizabdilla/menganalisis-kerentanan-rails-debug-mode-pada-ruby-on-rails-c9aa6e0e4967?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
