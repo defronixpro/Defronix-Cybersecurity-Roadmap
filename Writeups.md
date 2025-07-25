@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [The tool that gave me the first bounty](https://medium.com/@mohaned0101/the-tool-that-gave-me-the-first-bounty-9303cac972a3?source=rss------bug_bounty_writeup-5)
 - [Exploiting SSRF via Cloudflare Image Proxy on [REDACTED]](https://medium.com/@sauravkrish59/exploiting-ssrf-via-cloudflare-image-proxy-on-redacted-a32aeb8e6b8c?source=rss------bug_bounty_writeup-5)
 - [BUGBOUNTY- No caces bugs. Caza inconsistencias.](https://gorkaaa.medium.com/bugbounty-no-caces-bugs-caza-inconsistencias-9ea08ecabe96?source=rss------bug_bounty_writeup-5)
 - [Episode 5: HTML Injection: Understanding, Finding, and Preventing a Silent Web Threat](https://infosecwriteups.com/episode-5-html-injection-understanding-finding-and-preventing-a-silent-web-threat-2375f76bc808?source=rss----7b722bfd1b8d---4)
