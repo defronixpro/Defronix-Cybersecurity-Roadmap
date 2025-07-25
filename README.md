@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I Chained 2FA Bypasses in a Crypto P2P System to Steal User USDT](https://0xbartita.medium.com/how-i-chained-2fa-bypasses-in-a-crypto-p2p-system-to-steal-user-usdt-ed68ee078998?source=rss------bug_bounty_writeup-5)
 - [Discovered a Reflected HTML Injection on Microsoft Learn That Earned a Spot in Microsoft’s Hall of…](https://medium.com/@gourisankara357/discovered-a-reflected-html-injection-on-microsoft-learn-that-earned-a-spot-in-microsofts-hall-of-aa607a52e077?source=rss------bug_bounty_writeup-5)
 - [Admin Emails &amp; Passwords Exposed via HTTP Method Change](https://infosecwriteups.com/admin-emails-passwords-exposed-via-http-method-change-da23186f37d3?source=rss----7b722bfd1b8d---4)
 - [Exploiting the Overlooked: From Regex Bypasses to Full Source Code Leaks](https://infosecwriteups.com/exploiting-the-overlooked-from-regex-bypasses-to-full-source-code-leaks-92f99d40ac20?source=rss----7b722bfd1b8d---4)
@@ -937,11 +938,9 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [BUG BOUNTY-Entender el negocio es entender la superficie de ataque](https://gorkaaa.medium.com/bug-bounty-entender-el-negocio-es-entender-la-superficie-de-ataque-3ce1ebbfb211?source=rss------bug_bounty_writeup-5)
 - [Authentication Bypass via Inconsistent Credential Validation &lpar;Phone vs Email Login&rpar;](https://medium.com/@ch1ta/authentication-bypass-via-inconsistent-credential-validation-phone-vs-email-login-2e435bc2a290?source=rss------bug_bounty_writeup-5)
 - [IDOR vulnerability gives me 2500$](https://l4zyhacker.medium.com/idor-vulnerability-gives-me-2500-42cd077c37f1?source=rss------bug_bounty_writeup-5)
-- [How I Chained 2FA Bypasses in a Crypto P2P System to Steal User USDT](https://0xbartita.medium.com/how-i-chained-2fa-bypasses-in-a-crypto-p2p-system-to-steal-user-usdt-ef214879c173?source=rss------bug_bounty_writeup-5)
 - [“Bug Bounty CVE-2025–0133 PAN-OS: Reflected Cross-Site Scripting &lpar;XSS&rpar; “Most Exploited…](https://medium.com/@hariharanhex00/bug-bounty-cve-2025-0133-pan-os-reflected-cross-site-scripting-xss-most-exploited-79832916cfcd?source=rss------bug_bounty_writeup-5)
 - [Menganalisis Kerentanan Rails Debug Mode pada Ruby on Rails](https://medium.com/@ahmadfaizabdilla/menganalisis-kerentanan-rails-debug-mode-pada-ruby-on-rails-c9aa6e0e4967?source=rss------bug_bounty_writeup-5)
 - [Prototype Pollution Vulnerability: Full Technical Guide](https://medium.com/@SKaif009/prototype-pollution-vulnerability-full-technical-guide-1e57fb09d83f?source=rss------bug_bounty_writeup-5)
-- [Open Redirect Vulnerability in EXBO’s Support Domain](https://medium.com/@ch1ta/open-redirect-vulnerability-in-exbos-support-domain-e7b0b39851af?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
