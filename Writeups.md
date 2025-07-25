@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [️ Top 10 Web App Attack Vectors You Must Master in 2025](https://medium.com/@samael_0x4/%EF%B8%8F-top-10-web-app-attack-vectors-you-must-master-in-2025-bcdd1e507223?source=rss------bug_bounty_writeup-5)
 - [How I Found Over 30 Security Vulnerabilities in a Single Program](https://asametyigit.medium.com/how-i-found-over-30-security-vulnerabilities-in-a-single-program-64642ab2df72?source=rss------bug_bounty_writeup-5)
 - [NoSQL Injection: Exploitation Techniques and Attack Scenarios](https://hettt.medium.com/nosql-injection-exploitation-techniques-and-attack-scenarios-434ebec61dbd?source=rss------bug_bounty_writeup-5)
 - [The tool that gave me the first bounty](https://medium.com/@mohaned0101/the-tool-that-gave-me-the-first-bounty-9303cac972a3?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Dom-Based Xss](https://infosecwriteups.com/dom-based-xss-fa913b66b09b?source=rss----7b722bfd1b8d---4)
 - [Active Directory Cheat Sheet 2025 — Red Team to Blue Team Mastery](https://infosecwriteups.com/active-directory-cheat-sheet-2025-red-team-to-blue-team-mastery-e45f218fddb7?source=rss----7b722bfd1b8d---4)
 - [The Thumbnail Trap: An Unpatched Google Docs Vulnerability That Risks Your Privacy](https://infosecwriteups.com/the-thumbnail-trap-an-unpatched-google-docs-vulnerability-e68911384e6e?source=rss------bug_bounty_writeup-5)
-- [BUG BOUNTY-Entender el negocio es entender la superficie de ataque](https://gorkaaa.medium.com/bug-bounty-entender-el-negocio-es-entender-la-superficie-de-ataque-3ce1ebbfb211?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
