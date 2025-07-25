@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [NoSQL Injection: Exploitation Techniques and Attack Scenarios](https://hettt.medium.com/nosql-injection-exploitation-techniques-and-attack-scenarios-434ebec61dbd?source=rss------bug_bounty_writeup-5)
 - [The tool that gave me the first bounty](https://medium.com/@mohaned0101/the-tool-that-gave-me-the-first-bounty-9303cac972a3?source=rss------bug_bounty_writeup-5)
 - [Exploiting SSRF via Cloudflare Image Proxy on [REDACTED]](https://medium.com/@sauravkrish59/exploiting-ssrf-via-cloudflare-image-proxy-on-redacted-a32aeb8e6b8c?source=rss------bug_bounty_writeup-5)
 - [BUGBOUNTY- No caces bugs. Caza inconsistencias.](https://gorkaaa.medium.com/bugbounty-no-caces-bugs-caza-inconsistencias-9ea08ecabe96?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [The Thumbnail Trap: An Unpatched Google Docs Vulnerability That Risks Your Privacy](https://infosecwriteups.com/the-thumbnail-trap-an-unpatched-google-docs-vulnerability-e68911384e6e?source=rss------bug_bounty_writeup-5)
 - [BUG BOUNTY-Entender el negocio es entender la superficie de ataque](https://gorkaaa.medium.com/bug-bounty-entender-el-negocio-es-entender-la-superficie-de-ataque-3ce1ebbfb211?source=rss------bug_bounty_writeup-5)
 - [Authentication Bypass via Inconsistent Credential Validation &lpar;Phone vs Email Login&rpar;](https://medium.com/@ch1ta/authentication-bypass-via-inconsistent-credential-validation-phone-vs-email-login-2e435bc2a290?source=rss------bug_bounty_writeup-5)
-- [IDOR vulnerability gives me 2500$](https://l4zyhacker.medium.com/idor-vulnerability-gives-me-2500-42cd077c37f1?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
