@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [The Bug Hiding in Plain Sight: A Simple Click Led to Cross-Org Account Takeover](https://ayaa101.medium.com/the-bug-hiding-in-plain-sight-a-simple-click-led-to-cross-org-account-takeover-82b77f640f6f?source=rss------bug_bounty_writeup-5)
 - [How I Found and Exploited a Critical Remote Code Execution in OpenSSH &lpar;CVE-2024–6387&rpar; Using Shodan…](https://medium.com/@FufuFaf1/how-i-found-and-exploited-a-critical-remote-code-execution-in-openssh-cve-2024-6387-using-shodan-172b8535f53d?source=rss------bug_bounty_writeup-5)
 - [️ How I Found an Unauthenticated GraphQL Data Exposure and got 0$ for it](https://medium.com/@77r4sed/%EF%B8%8F-how-i-found-an-unauthenticated-graphql-data-exposure-and-got-0-for-it-edfb07bf72a8?source=rss------bug_bounty_writeup-5)
 - [Hacker Watches What He Wants For Free. Hacking Netflix Pt.2 | Bug Bounty Tour #4](https://medium.com/@nnface/hacker-watches-what-he-wants-for-free-hacking-netflix-pt-2-bug-bounty-tour-4-1c029997d8e2?source=rss------bug_bounty_writeup-5)
@@ -932,7 +933,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Exploiting SSRF via Cloudflare Image Proxy on [REDACTED]](https://medium.com/@sauravkrish59/exploiting-ssrf-via-cloudflare-image-proxy-on-redacted-a32aeb8e6b8c?source=rss------bug_bounty_writeup-5)
 - [BUGBOUNTY- No caces bugs. Caza inconsistencias.](https://gorkaaa.medium.com/bugbounty-no-caces-bugs-caza-inconsistencias-9ea08ecabe96?source=rss------bug_bounty_writeup-5)
 - [Episode 5: HTML Injection: Understanding, Finding, and Preventing a Silent Web Threat](https://infosecwriteups.com/episode-5-html-injection-understanding-finding-and-preventing-a-silent-web-threat-2375f76bc808?source=rss----7b722bfd1b8d---4)
-- [Episode 5: HTML Injection: Understanding, Finding, and Preventing a Silent Web Threat](https://infosecwriteups.com/episode-5-html-injection-understanding-finding-and-preventing-a-silent-web-threat-2375f76bc808?source=rss------bug_bounty_writeup-5)
 - [Routing-Based SSRF  —  Host Header Injection Leads to Internal Access](https://infosecwriteups.com/routing-based-ssrf-host-header-injection-leads-to-internal-access-b65a1c8b1b42?source=rss----7b722bfd1b8d---4)
 - [One Tool to Rule JWTs — Easy JWT Pentesting with JWTAuditor](https://infosecwriteups.com/one-tool-to-rule-jwts-easy-jwt-pentesting-with-jwtauditor-3483b37b01a3?source=rss----7b722bfd1b8d---4)
 - [Inside the Phisher’s Mind: How Hackers Actually Build Phishing Links &lpar;Step-by-Step Breakdown&rpar;](https://infosecwriteups.com/inside-the-phishers-mind-how-hackers-actually-build-phishing-links-step-by-step-breakdown-9caaf581a88d?source=rss----7b722bfd1b8d---4)
