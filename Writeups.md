@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Bug Bounty - La mejor herramienta es una mente incómoda](https://gorkaaa.medium.com/bug-bounty-la-mejor-herramienta-es-una-mente-inc%C3%B3moda-45c3309ca923?source=rss------bug_bounty_writeup-5)
 - [Episode 6: How I Discovered LDAP Injection and Why It Matters &lpar;Even If You’re Not a Hacker&rpar;](https://infosecwriteups.com/episode-6-how-i-discovered-ldap-injection-and-why-it-matters-even-if-youre-not-a-hacker-f2d7f22e3390?source=rss----7b722bfd1b8d---4)
 - [The Ultimate Bug Bounty Cheat Sheet for Ethical Hackers &lpar;2025 Edition&rpar;](https://infosecwriteups.com/the-ultimate-bug-bounty-cheat-sheet-for-ethical-hackers-2025-edition-5c63ba5ca0a6?source=rss----7b722bfd1b8d---4)
 - [Exploiting Apache Tomcat6 using Metasploit](https://infosecwriteups.com/exploiting-apache-tomcat6-using-metasploit-d5ba3c4950e7?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How I Found Over 30 Security Vulnerabilities in a Single Program](https://asametyigit.medium.com/how-i-found-over-30-security-vulnerabilities-in-a-single-program-64642ab2df72?source=rss------bug_bounty_writeup-5)
 - [NoSQL Injection: Exploitation Techniques and Attack Scenarios](https://hettt.medium.com/nosql-injection-exploitation-techniques-and-attack-scenarios-434ebec61dbd?source=rss------bug_bounty_writeup-5)
 - [The tool that gave me the first bounty](https://medium.com/@mohaned0101/the-tool-that-gave-me-the-first-bounty-9303cac972a3?source=rss------bug_bounty_writeup-5)
-- [Exploiting SSRF via Cloudflare Image Proxy on [REDACTED]](https://medium.com/@sauravkrish59/exploiting-ssrf-via-cloudflare-image-proxy-on-redacted-a32aeb8e6b8c?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
