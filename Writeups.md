@@ -7,7 +7,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Exploiting Apache Tomcat6 using Metasploit](https://infosecwriteups.com/exploiting-apache-tomcat6-using-metasploit-d5ba3c4950e7?source=rss----7b722bfd1b8d---4)
 - [Iframe Injection Vulnerability Found in EEOC — Hall of Fame Entry](https://infosecwriteups.com/iframe-injection-vulnerability-found-in-eeoc-hall-of-fame-entry-0e8a4c2059d0?source=rss----7b722bfd1b8d---4)
 - [From Jio Mobile to NASA HOF: My Unconventional Path into Cybersecurity](https://infosecwriteups.com/from-jio-mobile-to-nasa-hof-my-unconventional-path-into-cybersecurity-32463b64c941?source=rss----7b722bfd1b8d---4)
-- [SSRF via Flawed Request Parsing Leads to SSRF and Internal Admin Access](https://infosecwriteups.com/ssrf-via-flawed-request-parsing-leads-to-ssrf-and-internal-admin-access-ffac4b3103db?source=rss----7b722bfd1b8d---4)
+- [SSRF via Flawed Request Parsing Leads to Internal Admin Access](https://infosecwriteups.com/ssrf-via-flawed-request-parsing-leads-to-ssrf-and-internal-admin-access-ffac4b3103db?source=rss----7b722bfd1b8d---4)
 - [How I Bypassed 2FA and Took Over Accounts with a Simple Brute Force Attack](https://infosecwriteups.com/how-i-bypassed-2fa-and-took-over-accounts-with-a-simple-brute-force-attack-68ffc5cf5bd0?source=rss----7b722bfd1b8d---4)
 - [I Automated CSP Extraction and Mapped 100+ Subdomains](https://infosecwriteups.com/i-automated-csp-extraction-and-mapped-100-subdomains-adf04880ea5d?source=rss----7b722bfd1b8d---4)
 - [XSS Meets IDOR: A Double Vulnerability Story on a Learning Platform](https://infosecwriteups.com/xss-meets-idor-a-double-vulnerability-story-on-a-learning-platform-aed3157759e0?source=rss----7b722bfd1b8d---4)
