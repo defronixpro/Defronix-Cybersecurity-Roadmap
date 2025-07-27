@@ -922,12 +922,22 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Episode 7: Server-Side Includes Injection — The Quiet Danger Lurking in Legacy Code](https://infosecwriteups.com/episode-7-server-side-includes-injection-the-quiet-danger-lurking-in-legacy-code-51002a88fb88?source=rss----7b722bfd1b8d---4)
 - [Episode 7: Server-Side Includes Injection — The Quiet Danger Lurking in Legacy Code](https://infosecwriteups.com/episode-7-server-side-includes-injection-the-quiet-danger-lurking-in-legacy-code-51002a88fb88?source=rss------bug_bounty_writeup-5)
+- [“IDOR Attacks Unmasked: Code Exploits and Real-World Breaches”](https://infosecwriteups.com/idor-attacks-unmasked-code-exploits-and-real-world-breaches-b05cddfb45c7?source=rss----7b722bfd1b8d---4)
+- [How to use “Caido Workflows” to scan for anything](https://infosecwriteups.com/how-to-use-caido-workflows-to-scan-for-anything-07eed72ba06a?source=rss----7b722bfd1b8d---4)
+- [Insecure by Design: How a Mobile API Let Me Reset Anyone’s Password With Just a Phone Number](https://infosecwriteups.com/insecure-by-design-how-a-mobile-api-let-me-reset-anyones-password-with-just-a-phone-number-ba588ec384e5?source=rss----7b722bfd1b8d---4)
+- [How We Discovered a Stored HTML Injection in a Chatbot System ️](https://infosecwriteups.com/how-we-discovered-a-stored-html-injection-in-a-chatbot-system-%EF%B8%8F-6cbefe8b0718?source=rss----7b722bfd1b8d---4)
+- [“Why IDORs Are Everywhere — And How to Find Them”](https://infosecwriteups.com/why-idors-are-everywhere-and-how-to-find-them-3ba45128e0f3?source=rss----7b722bfd1b8d---4)
 - [“Bug Bounty ”Telerik Report Server Authentication Bypass — CVE-2024–4358 “POC”](https://medium.com/@hariharanhex00/bug-bounty-telerik-report-server-authentication-bypass-cve-2024-4358-poc-358575ed7102?source=rss------bug_bounty_writeup-5)
 - [:     HackerOne!](https://medium.com/@umeryousuf26/hackerone-19b7aeaf7c6a?source=rss------bug_bounty_writeup-5)
 - [When an Android App Whispers Secrets: How I Found Plaintext Credentials in Logcat](https://medium.com/@rutxploit/when-an-android-app-whispers-secrets-how-i-found-plaintext-credentials-in-logcat-e44abf0856e3?source=rss------bug_bounty_writeup-5)
 - [Public APIs vs. Private APIs: A Bug Hunter’s Perspective](https://medium.com/@n4it40_07/public-apis-vs-private-apis-a-bug-hunters-perspective-f506cb0a3865?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty - La mejor herramienta es una mente incómoda](https://gorkaaa.medium.com/bug-bounty-la-mejor-herramienta-es-una-mente-inc%C3%B3moda-45c3309ca923?source=rss------bug_bounty_writeup-5)
+- [Episode 6: How I Discovered LDAP Injection and Why It Matters &lpar;Even If You’re Not a Hacker&rpar;](https://infosecwriteups.com/episode-6-how-i-discovered-ldap-injection-and-why-it-matters-even-if-youre-not-a-hacker-f2d7f22e3390?source=rss----7b722bfd1b8d---4)
+- [The Ultimate Bug Bounty Cheat Sheet for Ethical Hackers &lpar;2025 Edition&rpar;](https://infosecwriteups.com/the-ultimate-bug-bounty-cheat-sheet-for-ethical-hackers-2025-edition-5c63ba5ca0a6?source=rss----7b722bfd1b8d---4)
+- [Exploiting Apache Tomcat6 using Metasploit](https://infosecwriteups.com/exploiting-apache-tomcat6-using-metasploit-d5ba3c4950e7?source=rss----7b722bfd1b8d---4)
+- [Iframe Injection Vulnerability Found in EEOC — Hall of Fame Entry](https://infosecwriteups.com/iframe-injection-vulnerability-found-in-eeoc-hall-of-fame-entry-0e8a4c2059d0?source=rss----7b722bfd1b8d---4)
 - [How I Found a $3,000 Bug Using Just Recon](https://medium.com/@zinolioncity/how-i-found-a-3-000-bug-using-just-recon-18dd88e827ae?source=rss------bug_bounty_writeup-5)
 - [The Bug Hiding in Plain Sight: A Simple Click Led to Cross-Org Account Takeover](https://ayaa101.medium.com/the-bug-hiding-in-plain-sight-a-simple-click-led-to-cross-org-account-takeover-82b77f640f6f?source=rss------bug_bounty_writeup-5)
 - [How I Found and Exploited a Critical Remote Code Execution in OpenSSH &lpar;CVE-2024–6387&rpar; Using Shodan…](https://medium.com/@FufuFaf1/how-i-found-and-exploited-a-critical-remote-code-execution-in-openssh-cve-2024-6387-using-shodan-172b8535f53d?source=rss------bug_bounty_writeup-5)
