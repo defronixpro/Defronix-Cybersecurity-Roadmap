@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Bug Bounty — “Si todo parece seguro, es que no has mirado lo suficiente”](https://gorkaaa.medium.com/bug-bounty-si-todo-parece-seguro-es-que-no-has-mirado-lo-suficiente-386fef4ba55f?source=rss------bug_bounty_writeup-5)
 - [I can hack so why can’t I do bounties?](https://thexssrat.medium.com/i-can-hack-so-why-cant-i-do-bounties-5e0cd09486c4?source=rss------bug_bounty_writeup-5)
 - [Episode 7: Server-Side Includes Injection — The Quiet Danger Lurking in Legacy Code](https://infosecwriteups.com/episode-7-server-side-includes-injection-the-quiet-danger-lurking-in-legacy-code-51002a88fb88?source=rss----7b722bfd1b8d---4)
 - [Episode 7: Server-Side Includes Injection — The Quiet Danger Lurking in Legacy Code](https://infosecwriteups.com/episode-7-server-side-includes-injection-the-quiet-danger-lurking-in-legacy-code-51002a88fb88?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Iframe Injection Vulnerability Found in EEOC — Hall of Fame Entry](https://infosecwriteups.com/iframe-injection-vulnerability-found-in-eeoc-hall-of-fame-entry-0e8a4c2059d0?source=rss----7b722bfd1b8d---4)
 - [How I Found a $3,000 Bug Using Just Recon](https://medium.com/@zinolioncity/how-i-found-a-3-000-bug-using-just-recon-18dd88e827ae?source=rss------bug_bounty_writeup-5)
 - [The Bug Hiding in Plain Sight: A Simple Click Led to Cross-Org Account Takeover](https://ayaa101.medium.com/the-bug-hiding-in-plain-sight-a-simple-click-led-to-cross-org-account-takeover-82b77f640f6f?source=rss------bug_bounty_writeup-5)
-- [How I Found and Exploited a Critical Remote Code Execution in OpenSSH &lpar;CVE-2024–6387&rpar; Using Shodan…](https://medium.com/@FufuFaf1/how-i-found-and-exploited-a-critical-remote-code-execution-in-openssh-cve-2024-6387-using-shodan-172b8535f53d?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
