@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [“Bug Bounty ”Telerik Report Server Authentication Bypass — CVE-2024–4358 “POC”](https://medium.com/@hariharanhex00/bug-bounty-telerik-report-server-authentication-bypass-cve-2024-4358-poc-358575ed7102?source=rss------bug_bounty_writeup-5)
 - [:     HackerOne!](https://medium.com/@umeryousuf26/hackerone-19b7aeaf7c6a?source=rss------bug_bounty_writeup-5)
 - [When an Android App Whispers Secrets: How I Found Plaintext Credentials in Logcat](https://medium.com/@rutxploit/when-an-android-app-whispers-secrets-how-i-found-plaintext-credentials-in-logcat-e44abf0856e3?source=rss------bug_bounty_writeup-5)
 - [Public APIs vs. Private APIs: A Bug Hunter’s Perspective](https://medium.com/@n4it40_07/public-apis-vs-private-apis-a-bug-hunters-perspective-f506cb0a3865?source=rss------bug_bounty_writeup-5)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How I Found and Exploited a Critical Remote Code Execution in OpenSSH &lpar;CVE-2024–6387&rpar; Using Shodan…](https://medium.com/@FufuFaf1/how-i-found-and-exploited-a-critical-remote-code-execution-in-openssh-cve-2024-6387-using-shodan-172b8535f53d?source=rss------bug_bounty_writeup-5)
 - [️ How I Found an Unauthenticated GraphQL Data Exposure and got 0$ for it](https://medium.com/@77r4sed/%EF%B8%8F-how-i-found-an-unauthenticated-graphql-data-exposure-and-got-0-for-it-edfb07bf72a8?source=rss------bug_bounty_writeup-5)
 - [Hacker Watches What He Wants For Free. Hacking Netflix Pt.2 | Bug Bounty Tour #4](https://medium.com/@nnface/hacker-watches-what-he-wants-for-free-hacking-netflix-pt-2-bug-bounty-tour-4-1c029997d8e2?source=rss------bug_bounty_writeup-5)
-- [️ Top 10 Web App Attack Vectors You Must Master in 2025](https://medium.com/@samael_0x4/%EF%B8%8F-top-10-web-app-attack-vectors-you-must-master-in-2025-bcdd1e507223?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
