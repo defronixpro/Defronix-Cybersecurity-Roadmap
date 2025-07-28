@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Clickjacking: Everything You Need to Know About This UI-Based Threat](https://medium.com/@0xAbJr/clickjacking-everything-you-need-to-know-about-this-ui-based-threat-22a3ade82fba?source=rss------bug_bounty_writeup-5)
 - [Stop Leaving Bugs Behind with my new Recon Tool](https://systemweakness.com/stop-leaving-bugs-behind-with-my-new-recon-tool-627a9068f1b2?source=rss------bug_bounty_writeup-5)
 - [Vulnerable Directory + Broken Token Generator = Authorizing Every Hacker. Hacking Epam Systems](https://medium.com/@nnface/vulnerable-directory-broken-token-generator-authorizing-every-hacker-hacking-epam-systems-706b77951b6c?source=rss------bug_bounty_writeup-5)
 - [How One Logical vulnerability Opened the Gates](https://medium.com/@foxyeye/how-one-logical-vulnerability-opened-the-gates-dc9a088ced08?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Bug Bounty — “Si todo parece seguro, es que no has mirado lo suficiente”](https://gorkaaa.medium.com/bug-bounty-si-todo-parece-seguro-es-que-no-has-mirado-lo-suficiente-386fef4ba55f?source=rss------bug_bounty_writeup-5)
 - [I can hack so why can’t I do bounties?](https://thexssrat.medium.com/i-can-hack-so-why-cant-i-do-bounties-5e0cd09486c4?source=rss------bug_bounty_writeup-5)
 - [Episode 7: Server-Side Includes Injection — The Quiet Danger Lurking in Legacy Code](https://infosecwriteups.com/episode-7-server-side-includes-injection-the-quiet-danger-lurking-in-legacy-code-51002a88fb88?source=rss------bug_bounty_writeup-5)
-- [“Bug Bounty ”Telerik Report Server Authentication Bypass — CVE-2024–4358 “POC”](https://medium.com/@hariharanhex00/bug-bounty-telerik-report-server-authentication-bypass-cve-2024-4358-poc-358575ed7102?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
