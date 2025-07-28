@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How I got Zero-Click Account Takeover &lpar;ATO&rpar; through Forgot Password](https://keroayman77.medium.com/how-i-got-zero-click-account-takeover-ato-through-forgot-password-f15d9049e128?source=rss------bug_bounty_writeup-5)
 - [How I Found a Reflected XSS on AppyPie’s Template Search Page](https://anupamas02.medium.com/how-i-found-a-reflected-xss-on-appypies-template-search-page-7ddf3516d3f7?source=rss------bug_bounty_writeup-5)
 - [How I Got a Free OSCP Exam Directly from OffSec](https://infosecwriteups.com/how-i-got-a-free-oscp-exam-directly-from-offsec-c54e562121c5?source=rss----7b722bfd1b8d---4)
 - [The Auth Apocalypse: Broken Authentication &amp; Session Management Explored.](https://infosecwriteups.com/the-auth-apocalypse-broken-authentication-session-management-explored-ff4642c376e2?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [:     HackerOne!](https://medium.com/@umeryousuf26/hackerone-19b7aeaf7c6a?source=rss------bug_bounty_writeup-5)
 - [When an Android App Whispers Secrets: How I Found Plaintext Credentials in Logcat](https://medium.com/@rutxploit/when-an-android-app-whispers-secrets-how-i-found-plaintext-credentials-in-logcat-e44abf0856e3?source=rss------bug_bounty_writeup-5)
 - [Public APIs vs. Private APIs: A Bug Hunter’s Perspective](https://medium.com/@n4it40_07/public-apis-vs-private-apis-a-bug-hunters-perspective-f506cb0a3865?source=rss------bug_bounty_writeup-5)
-- [Bug Bounty - La mejor herramienta es una mente incómoda](https://gorkaaa.medium.com/bug-bounty-la-mejor-herramienta-es-una-mente-inc%C3%B3moda-45c3309ca923?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
