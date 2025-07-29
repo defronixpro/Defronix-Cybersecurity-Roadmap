@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [¿Organizas bien tus reportes de Bug Bounty? Probablemente no.](https://gorkaaa.medium.com/organizas-bien-tus-reportes-de-bug-bounty-probablemente-no-892b654ffbc3?source=rss------bug_bounty_writeup-5)
 - [Clickjacking: Everything You Need to Know About This UI-Based Threat](https://medium.com/@0xAbJr/clickjacking-everything-you-need-to-know-about-this-ui-based-threat-22a3ade82fba?source=rss------bug_bounty_writeup-5)
 - [Stop Leaving Bugs Behind with my new Recon Tool](https://systemweakness.com/stop-leaving-bugs-behind-with-my-new-recon-tool-627a9068f1b2?source=rss------bug_bounty_writeup-5)
 - [Vulnerable Directory + Broken Token Generator = Authorizing Every Hacker. Hacking Epam Systems](https://medium.com/@nnface/vulnerable-directory-broken-token-generator-authorizing-every-hacker-hacking-epam-systems-706b77951b6c?source=rss------bug_bounty_writeup-5)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Exposed xmlrpc.php – How a Legacy File Opens the Door to Attacks](https://infosecwriteups.com/exposed-xmlrpc-php-how-a-legacy-file-opens-the-door-to-attacks-d99dd0cb9d33?source=rss----7b722bfd1b8d---4)
 - [Bug Bounty — “Si todo parece seguro, es que no has mirado lo suficiente”](https://gorkaaa.medium.com/bug-bounty-si-todo-parece-seguro-es-que-no-has-mirado-lo-suficiente-386fef4ba55f?source=rss------bug_bounty_writeup-5)
 - [I can hack so why can’t I do bounties?](https://thexssrat.medium.com/i-can-hack-so-why-cant-i-do-bounties-5e0cd09486c4?source=rss------bug_bounty_writeup-5)
-- [Episode 7: Server-Side Includes Injection — The Quiet Danger Lurking in Legacy Code](https://infosecwriteups.com/episode-7-server-side-includes-injection-the-quiet-danger-lurking-in-legacy-code-51002a88fb88?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
