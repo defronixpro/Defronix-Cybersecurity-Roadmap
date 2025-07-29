@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How I Gained Remote Code Execution &lpar;RCE&rpar; on Huawei Phones](https://nmochea.medium.com/how-i-gained-remote-code-execution-rce-on-huawei-phones-e55a986c1ca0?source=rss------bug_bounty_writeup-5)
 - [Day 17 Blind SQL injection with out-of-band data exfiltration — Zero to Hero out-of-band —…](https://infosecwriteups.com/day-17-blind-sql-injection-with-out-of-band-data-exfiltration-zero-to-hero-out-of-band-a7f770ab30a0?source=rss----7b722bfd1b8d---4)
 - [Day 16: Blind SQL injection with out-of-band interaction— Zero to Hero out-of-band — Portswigger](https://infosecwriteups.com/day-16-blind-sql-injection-with-out-of-band-interaction-zero-to-hero-out-of-band-portswigger-80cca693aa03?source=rss----7b722bfd1b8d---4)
 - [️ DNS and Deception: How SSRF and Metadata Gave Me Cloud Access on a Silver Platter](https://infosecwriteups.com/%EF%B8%8F-dns-and-deception-how-ssrf-and-metadata-gave-me-cloud-access-on-a-silver-platter-e9cf97c3693f?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How One Logical vulnerability Opened the Gates](https://medium.com/@foxyeye/how-one-logical-vulnerability-opened-the-gates-dc9a088ced08?source=rss------bug_bounty_writeup-5)
 - [How I got Zero-Click Account Takeover &lpar;ATO&rpar; through Forgot Password](https://keroayman77.medium.com/how-i-got-zero-click-account-takeover-ato-through-forgot-password-f15d9049e128?source=rss------bug_bounty_writeup-5)
 - [How I Found a Reflected XSS on AppyPie’s Template Search Page](https://anupamas02.medium.com/how-i-found-a-reflected-xss-on-appypies-template-search-page-7ddf3516d3f7?source=rss------bug_bounty_writeup-5)
-- [The Auth Apocalypse: Broken Authentication &amp; Session Management Explored.](https://infosecwriteups.com/the-auth-apocalypse-broken-authentication-session-management-explored-ff4642c376e2?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
