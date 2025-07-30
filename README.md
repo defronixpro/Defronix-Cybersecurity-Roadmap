@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [SSRF via Host Header Injection — A Prank Gone Vulnerable](https://medium.com/@syedshorox27/ssrf-via-host-header-injection-a-prank-gone-vulnerable-52eb514f664d?source=rss------bug_bounty_writeup-5)
 - [How I Gained Remote Code Execution &lpar;RCE&rpar; on Huawei Phones](https://nmochea.medium.com/how-i-gained-remote-code-execution-rce-on-huawei-phones-e55a986c1ca0?source=rss------bug_bounty_writeup-5)
 - [Day 17 Blind SQL injection with out-of-band data exfiltration — Zero to Hero out-of-band —…](https://infosecwriteups.com/day-17-blind-sql-injection-with-out-of-band-data-exfiltration-zero-to-hero-out-of-band-a7f770ab30a0?source=rss----7b722bfd1b8d---4)
 - [Day 16: Blind SQL injection with out-of-band interaction— Zero to Hero out-of-band — Portswigger](https://infosecwriteups.com/day-16-blind-sql-injection-with-out-of-band-interaction-zero-to-hero-out-of-band-portswigger-80cca693aa03?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Vulnerable Directory + Broken Token Generator = Authorizing Every Hacker. Hacking Epam Systems](https://medium.com/@nnface/vulnerable-directory-broken-token-generator-authorizing-every-hacker-hacking-epam-systems-706b77951b6c?source=rss------bug_bounty_writeup-5)
 - [How One Logical vulnerability Opened the Gates](https://medium.com/@foxyeye/how-one-logical-vulnerability-opened-the-gates-dc9a088ced08?source=rss------bug_bounty_writeup-5)
 - [How I got Zero-Click Account Takeover &lpar;ATO&rpar; through Forgot Password](https://keroayman77.medium.com/how-i-got-zero-click-account-takeover-ato-through-forgot-password-f15d9049e128?source=rss------bug_bounty_writeup-5)
-- [How I Found a Reflected XSS on AppyPie’s Template Search Page](https://anupamas02.medium.com/how-i-found-a-reflected-xss-on-appypies-template-search-page-7ddf3516d3f7?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
