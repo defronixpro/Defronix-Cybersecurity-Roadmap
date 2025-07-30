@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [‍ BugBounty-Cuando no sabes por dónde seguir, mira atrás](https://gorkaaa.medium.com/bugbounty-cuando-no-sabes-por-d%C3%B3nde-seguir-mira-atr%C3%A1s-d5ff15ab2e5b?source=rss------bug_bounty_writeup-5)
 - [How I Earned a $4,000 Bug Bounty Using a Simple Yet Overlooked Method](https://medium.com/@ekenejosepha1/how-i-earned-a-4-000-bug-bounty-using-a-simple-yet-overlooked-method-27197ace1eeb?source=rss------bug_bounty_writeup-5)
 - [SSRF via Host Header Injection — A Prank Gone Vulnerable](https://medium.com/@syedshorox27/ssrf-via-host-header-injection-a-prank-gone-vulnerable-52eb514f664d?source=rss------bug_bounty_writeup-5)
 - [How I Gained Remote Code Execution &lpar;RCE&rpar; on Huawei Phones](https://nmochea.medium.com/how-i-gained-remote-code-execution-rce-on-huawei-phones-e55a986c1ca0?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Clickjacking: Everything You Need to Know About This UI-Based Threat](https://medium.com/@0xAbJr/clickjacking-everything-you-need-to-know-about-this-ui-based-threat-22a3ade82fba?source=rss------bug_bounty_writeup-5)
 - [Stop Leaving Bugs Behind with my new Recon Tool](https://systemweakness.com/stop-leaving-bugs-behind-with-my-new-recon-tool-627a9068f1b2?source=rss------bug_bounty_writeup-5)
 - [Vulnerable Directory + Broken Token Generator = Authorizing Every Hacker. Hacking Epam Systems](https://medium.com/@nnface/vulnerable-directory-broken-token-generator-authorizing-every-hacker-hacking-epam-systems-706b77951b6c?source=rss------bug_bounty_writeup-5)
-- [How One Logical vulnerability Opened the Gates](https://medium.com/@foxyeye/how-one-logical-vulnerability-opened-the-gates-dc9a088ced08?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
