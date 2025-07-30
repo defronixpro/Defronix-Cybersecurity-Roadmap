@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [From Self-XSS to Account Takeover](https://medium.com/@splintercat/from-self-xss-to-account-takeover-c6488adc5737?source=rss------bug_bounty_writeup-5)
 - [From Path Guessing to Dashboard Takeover: Full Access to Government Data via Broken Access Control](https://0xhamod.medium.com/from-path-guessing-to-dashboard-takeover-full-access-to-government-data-via-broken-access-control-a4c048fc05bb?source=rss------bug_bounty_writeup-5)
 - [Episode 8: Server-Side Template Injection — The Quiet Killer Hiding in Plain HTML](https://yamini369.medium.com/episode-8-server-side-template-injection-the-quiet-killer-hiding-in-plain-html-26596ac16006?source=rss------bug_bounty_writeup-5)
 - [BugBounty Radar — A Quick User Guide](https://medium.com/@zoomeye_team/bugbounty-radar-a-quick-user-guide-6ef72d2f04bb?source=rss------bug_bounty_writeup-5)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [“CSRF Hacking: Real-World Exploits and How to Stop Them”](https://infosecwriteups.com/csrf-hacking-real-world-exploits-and-how-to-stop-them-df8dc1a79f46?source=rss----7b722bfd1b8d---4)
 - [How I Clinched $500 Within Minutes !!](https://infosecwriteups.com/how-i-clinched-500-within-minutes-5b828ad0f5a4?source=rss------bug_bounty_writeup-5)
 - [Easiest No Rate Limit Bypass‼️](https://infosecwriteups.com/easiest-no-rate-limit-bypass-%EF%B8%8F-47baf1813309?source=rss------bug_bounty_writeup-5)
-- [¿Organizas bien tus reportes de Bug Bounty? Probablemente no.](https://gorkaaa.medium.com/organizas-bien-tus-reportes-de-bug-bounty-probablemente-no-892b654ffbc3?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
