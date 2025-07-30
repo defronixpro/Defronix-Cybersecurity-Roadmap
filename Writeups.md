@@ -1,12 +1,6 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
-- [Episode 8: Server-Side Template Injection — The Quiet Killer Hiding in Plain HTML](https://yamini369.medium.com/episode-8-server-side-template-injection-the-quiet-killer-hiding-in-plain-html-26596ac16006?source=rss------bug_bounty_writeup-5)
-- [BugBounty Radar — A Quick User Guide](https://medium.com/@zoomeye_team/bugbounty-radar-a-quick-user-guide-6ef72d2f04bb?source=rss------bug_bounty_writeup-5)
-- [‍ BugBounty-Cuando no sabes por dónde seguir, mira atrás](https://gorkaaa.medium.com/bugbounty-cuando-no-sabes-por-d%C3%B3nde-seguir-mira-atr%C3%A1s-d5ff15ab2e5b?source=rss------bug_bounty_writeup-5)
-- [How I Earned a $4,000 Bug Bounty Using a Simple Yet Overlooked Method](https://medium.com/@ekenejosepha1/how-i-earned-a-4-000-bug-bounty-using-a-simple-yet-overlooked-method-27197ace1eeb?source=rss------bug_bounty_writeup-5)
-- [SSRF via Host Header Injection — A Prank Gone Vulnerable](https://medium.com/@syedshorox27/ssrf-via-host-header-injection-a-prank-gone-vulnerable-52eb514f664d?source=rss------bug_bounty_writeup-5)
-- [How I Gained Remote Code Execution &lpar;RCE&rpar; on Huawei Phones](https://nmochea.medium.com/how-i-gained-remote-code-execution-rce-on-huawei-phones-e55a986c1ca0?source=rss------bug_bounty_writeup-5)
 - [Day 17 Blind SQL injection with out-of-band data exfiltration — Zero to Hero out-of-band —…](https://infosecwriteups.com/day-17-blind-sql-injection-with-out-of-band-data-exfiltration-zero-to-hero-out-of-band-a7f770ab30a0?source=rss----7b722bfd1b8d---4)
 - [Day 16: Blind SQL injection with out-of-band interaction— Zero to Hero out-of-band — Portswigger](https://infosecwriteups.com/day-16-blind-sql-injection-with-out-of-band-interaction-zero-to-hero-out-of-band-portswigger-80cca693aa03?source=rss----7b722bfd1b8d---4)
 - [️ DNS and Deception: How SSRF and Metadata Gave Me Cloud Access on a Silver Platter](https://infosecwriteups.com/%EF%B8%8F-dns-and-deception-how-ssrf-and-metadata-gave-me-cloud-access-on-a-silver-platter-e9cf97c3693f?source=rss----7b722bfd1b8d---4)
@@ -17,10 +11,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [From 429 to 200: From Bypass to Bounty using X-Overwriting Headers](https://infosecwriteups.com/from-429-to-200-from-bypass-to-bounty-using-x-overwriting-headers-e3a819d453a6?source=rss----7b722bfd1b8d---4)
 - [60+ SharePoint Servers Compromised by CVE-2025–53770 in 4 Days — The Zero-Day Microsoft Can’t…](https://infosecwriteups.com/60-sharepoint-servers-compromised-by-cve-2025-53770-in-4-days-the-zero-day-microsoft-cant-37dafde480db?source=rss----7b722bfd1b8d---4)
 - [“CSRF Hacking: Real-World Exploits and How to Stop Them”](https://infosecwriteups.com/csrf-hacking-real-world-exploits-and-how-to-stop-them-df8dc1a79f46?source=rss----7b722bfd1b8d---4)
-- [How I Clinched $500 Within Minutes !!](https://infosecwriteups.com/how-i-clinched-500-within-minutes-5b828ad0f5a4?source=rss------bug_bounty_writeup-5)
-- [Easiest No Rate Limit Bypass‼️](https://infosecwriteups.com/easiest-no-rate-limit-bypass-%EF%B8%8F-47baf1813309?source=rss------bug_bounty_writeup-5)
-- [¿Organizas bien tus reportes de Bug Bounty? Probablemente no.](https://gorkaaa.medium.com/organizas-bien-tus-reportes-de-bug-bounty-probablemente-no-892b654ffbc3?source=rss------bug_bounty_writeup-5)
-- [Clickjacking: Everything You Need to Know About This UI-Based Threat](https://medium.com/@0xAbJr/clickjacking-everything-you-need-to-know-about-this-ui-based-threat-22a3ade82fba?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
