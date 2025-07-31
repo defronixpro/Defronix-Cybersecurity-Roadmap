@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I Got Easy Admin Panel Access &amp; Database Credentials — Bug Bounty Hunting](https://medium.com/@pranavrp77/how-i-got-easy-admin-panel-access-database-credentials-bug-bounty-hunting-a16935d0d3b8?source=rss------bug_bounty_writeup-5)
 - [No, no todo fallo en login es una SQLi](https://gorkaaa.medium.com/no-no-todo-fallo-en-login-es-una-sqli-a21592652d96?source=rss------bug_bounty_writeup-5)
 - [From Exposed API Key to Arbitrary Account Creation: A GraphQL Bug Bounty Walkthrough](https://medium.com/@drizzlehx/from-exposed-api-key-to-arbitrary-account-creation-a-graphql-bug-bounty-walkthrough-af0d26accab3?source=rss------bug_bounty_writeup-5)
 - [Access Bank Account Information via Response Manipulation](https://brbr0s.medium.com/access-bank-account-information-via-response-manipulation-d3b1ec95375f?source=rss------bug_bounty_writeup-5)
@@ -931,7 +932,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [BugBounty Radar — A Quick User Guide](https://medium.com/@zoomeye_team/bugbounty-radar-a-quick-user-guide-6ef72d2f04bb?source=rss------bug_bounty_writeup-5)
 - [‍ BugBounty-Cuando no sabes por dónde seguir, mira atrás](https://gorkaaa.medium.com/bugbounty-cuando-no-sabes-por-d%C3%B3nde-seguir-mira-atr%C3%A1s-d5ff15ab2e5b?source=rss------bug_bounty_writeup-5)
 - [How I Earned a $4,000 Bug Bounty Using a Simple Yet Overlooked Method](https://medium.com/@ekenejosepha1/how-i-earned-a-4-000-bug-bounty-using-a-simple-yet-overlooked-method-27197ace1eeb?source=rss------bug_bounty_writeup-5)
-- [SSRF via Host Header Injection — A Prank Gone Vulnerable](https://medium.com/@syedshorox27/ssrf-via-host-header-injection-a-prank-gone-vulnerable-52eb514f664d?source=rss------bug_bounty_writeup-5)
 - [Day 17 Blind SQL injection with out-of-band data exfiltration — Zero to Hero out-of-band —…](https://infosecwriteups.com/day-17-blind-sql-injection-with-out-of-band-data-exfiltration-zero-to-hero-out-of-band-a7f770ab30a0?source=rss----7b722bfd1b8d---4)
 - [Day 16: Blind SQL injection with out-of-band interaction— Zero to Hero out-of-band — Portswigger](https://infosecwriteups.com/day-16-blind-sql-injection-with-out-of-band-interaction-zero-to-hero-out-of-band-portswigger-80cca693aa03?source=rss----7b722bfd1b8d---4)
 - [️ DNS and Deception: How SSRF and Metadata Gave Me Cloud Access on a Silver Platter](https://infosecwriteups.com/%EF%B8%8F-dns-and-deception-how-ssrf-and-metadata-gave-me-cloud-access-on-a-silver-platter-e9cf97c3693f?source=rss----7b722bfd1b8d---4)
