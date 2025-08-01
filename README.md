@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [The Epic Tale of a JWT Key Left on a Confluence Wiki Page — Totally Secure, Right?](https://medium.com/@devanshpatel930/the-epic-tale-of-a-jwt-key-left-on-a-confluence-wiki-page-totally-secure-right-141189f1d9c3?source=rss------bug_bounty_writeup-5)
 - [What is Same origin policy ? Why you should know about SOP ?](https://infosecwriteups.com/what-is-same-origin-policy-why-you-should-know-about-sop-36ef803b4732?source=rss----7b722bfd1b8d---4)
 - [HTTP Cookies](https://infosecwriteups.com/http-cookies-b605fc29c058?source=rss----7b722bfd1b8d---4)
 - [Red Teaming the Cloud: Exploiting Misconfigurations in Azure, GCP, and AWS](https://infosecwriteups.com/red-teaming-the-cloud-exploiting-misconfigurations-in-azure-gcp-and-aws-0f84530528ab?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [From Path Guessing to Dashboard Takeover: Full Access to Government Data via Broken Access Control](https://0xhamod.medium.com/from-path-guessing-to-dashboard-takeover-full-access-to-government-data-via-broken-access-control-a4c048fc05bb?source=rss------bug_bounty_writeup-5)
 - [Episode 8: Server-Side Template Injection — The Quiet Killer Hiding in Plain HTML](https://yamini369.medium.com/episode-8-server-side-template-injection-the-quiet-killer-hiding-in-plain-html-26596ac16006?source=rss------bug_bounty_writeup-5)
 - [BugBounty Radar — A Quick User Guide](https://medium.com/@zoomeye_team/bugbounty-radar-a-quick-user-guide-6ef72d2f04bb?source=rss------bug_bounty_writeup-5)
-- [‍ BugBounty-Cuando no sabes por dónde seguir, mira atrás](https://gorkaaa.medium.com/bugbounty-cuando-no-sabes-por-d%C3%B3nde-seguir-mira-atr%C3%A1s-d5ff15ab2e5b?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
