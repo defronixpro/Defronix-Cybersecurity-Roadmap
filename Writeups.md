@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [I Tried CSRF Attacks in Many Website &lpar;And Failed Miserably&rpar;. Here’s What I Learned](https://systemweakness.com/i-tried-csrf-attacks-in-many-website-and-failed-miserably-heres-what-i-learned-dd71317cb4e0?source=rss------bug_bounty_writeup-5)
 - [The Epic Tale of a JWT Key Left on a Confluence Wiki Page — Totally Secure, Right?](https://medium.com/@devanshpatel930/the-epic-tale-of-a-jwt-key-left-on-a-confluence-wiki-page-totally-secure-right-141189f1d9c3?source=rss------bug_bounty_writeup-5)
 - [What is Same origin policy ? Why you should know about SOP ?](https://infosecwriteups.com/what-is-same-origin-policy-why-you-should-know-about-sop-36ef803b4732?source=rss----7b722bfd1b8d---4)
 - [HTTP Cookies](https://infosecwriteups.com/http-cookies-b605fc29c058?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [From Self-XSS to Account Takeover](https://medium.com/@splintercat/from-self-xss-to-account-takeover-c6488adc5737?source=rss------bug_bounty_writeup-5)
 - [From Path Guessing to Dashboard Takeover: Full Access to Government Data via Broken Access Control](https://0xhamod.medium.com/from-path-guessing-to-dashboard-takeover-full-access-to-government-data-via-broken-access-control-a4c048fc05bb?source=rss------bug_bounty_writeup-5)
 - [Episode 8: Server-Side Template Injection — The Quiet Killer Hiding in Plain HTML](https://yamini369.medium.com/episode-8-server-side-template-injection-the-quiet-killer-hiding-in-plain-html-26596ac16006?source=rss------bug_bounty_writeup-5)
-- [BugBounty Radar — A Quick User Guide](https://medium.com/@zoomeye_team/bugbounty-radar-a-quick-user-guide-6ef72d2f04bb?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
