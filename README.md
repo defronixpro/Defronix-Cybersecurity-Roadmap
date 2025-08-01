@@ -922,16 +922,16 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [What is Same origin policy ? Why you should know about SOP ?](https://infosecwriteups.com/what-is-same-origin-policy-why-you-should-know-about-sop-36ef803b4732?source=rss----7b722bfd1b8d---4)
+- [HTTP Cookies](https://infosecwriteups.com/http-cookies-b605fc29c058?source=rss----7b722bfd1b8d---4)
+- [Red Teaming the Cloud: Exploiting Misconfigurations in Azure, GCP, and AWS](https://infosecwriteups.com/red-teaming-the-cloud-exploiting-misconfigurations-in-azure-gcp-and-aws-0f84530528ab?source=rss----7b722bfd1b8d---4)
+- [From Innocent Messages to Total Takeover: How I Hacked a Professional Network!](https://infosecwriteups.com/from-innocent-messages-to-total-takeover-how-i-hacked-a-professional-network-2033537d5d6a?source=rss----7b722bfd1b8d---4)
+- [Hack The Box Academy Writeup — PASSWORD ATTACKS — Writing Custom Wordlists and Rules](https://infosecwriteups.com/htb-password-cracking-wordlist-osint-6a5e01b60638?source=rss----7b722bfd1b8d---4)
 - [Phishing via Swagger UI — Exploiting Misconfigurations for Fun &amp; Bounties](https://infosecwriteups.com/phishing-via-swagger-ui-exploiting-misconfigurations-for-fun-bounties-5442f26a7b81?source=rss----7b722bfd1b8d---4)
 - [I Dropped Out to Learn Cybersecurity &lpar;Without a Degree&rpar; — And Landed Paid Work](https://infosecwriteups.com/i-dropped-out-to-learn-cybersecurity-without-a-degree-and-landed-paid-work-60bdacc56b3b?source=rss----7b722bfd1b8d---4)
 - [CSRF in Disguise: How a Tracking Pixel Let Me Steal User Actions Like a Spy](https://infosecwriteups.com/csrf-in-disguise-how-a-tracking-pixel-let-me-steal-user-actions-like-a-spy-28c084002d1e?source=rss----7b722bfd1b8d---4)
 - [Stored DOM XSS: A Hidden Threat in Blog Comments](https://infosecwriteups.com/stored-dom-xss-a-hidden-threat-in-blog-comments-50aca72e40fd?source=rss----7b722bfd1b8d---4)
 - [How I Hacked a $500 Bug Using Just an Email Field](https://infosecwriteups.com/how-i-hacked-a-500-bug-using-just-an-email-field-e5a0cb89e051?source=rss----7b722bfd1b8d---4)
-- [Linktree Username Validation Bypass: A Hidden Threat with a Leading Space](https://infosecwriteups.com/linktree-username-validation-bypass-a-hidden-threat-with-a-leading-space-52537955f79e?source=rss----7b722bfd1b8d---4)
-- [How a Small Open Redirect Flaw Became a $1000 rXSS Payday](https://infosecwriteups.com/how-a-small-open-redirect-flaw-became-a-1000-rxss-payday-6960e4610f8f?source=rss----7b722bfd1b8d---4)
-- [Port Scanning with CLI tools: Telnet, Netcat and cURL](https://infosecwriteups.com/port-scanning-with-cli-tools-telnet-netcat-and-nmap-ffca11e44f71?source=rss----7b722bfd1b8d---4)
-- [Learn about JWT if you want to Bypass Auth](https://infosecwriteups.com/learn-about-jwt-if-you-want-to-bypass-authentication-4f9ea587a786?source=rss----7b722bfd1b8d---4)
-- [Hacking Headless on Hack The Box: OSCP Prep](https://infosecwriteups.com/hacking-headless-on-hack-the-box-oscp-prep-2409ee387e13?source=rss----7b722bfd1b8d---4)
 - [How I Discovered an IDOR Vulnerability in chatgpt.com and Got Rewarded by OpenAI](https://medium.com/@moamelshakeer/how-i-discovered-an-idor-vulnerability-in-chatgpt-com-and-got-rewarded-by-openai-bc4da48d5013?source=rss------bug_bounty_writeup-5)
 - [How I Got Easy Admin Panel Access &amp; Database Credentials — Bug Bounty Hunting](https://medium.com/@pranavrp77/how-i-got-easy-admin-panel-access-database-credentials-bug-bounty-hunting-a16935d0d3b8?source=rss------bug_bounty_writeup-5)
 - [No, no todo fallo en login es una SQLi](https://gorkaaa.medium.com/no-no-todo-fallo-en-login-es-una-sqli-a21592652d96?source=rss------bug_bounty_writeup-5)
