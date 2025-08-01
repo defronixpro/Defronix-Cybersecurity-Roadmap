@@ -923,6 +923,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
 - [I Tried CSRF Attacks in Many Website &lpar;And Failed Miserably&rpar;. Here’s What I Learned](https://systemweakness.com/i-tried-csrf-attacks-in-many-website-and-failed-miserably-heres-what-i-learned-dd71317cb4e0?source=rss------bug_bounty_writeup-5)
+- [Stored XSS → Account Takeover](https://medium.com/@s0ly/stored-xss-account-takeover-7d9db5e6cdcb?source=rss------bug_bounty_writeup-5)
 - [The Epic Tale of a JWT Key Left on a Confluence Wiki Page — Totally Secure, Right?](https://medium.com/@devanshpatel930/the-epic-tale-of-a-jwt-key-left-on-a-confluence-wiki-page-totally-secure-right-141189f1d9c3?source=rss------bug_bounty_writeup-5)
 - [What is Same origin policy ? Why you should know about SOP ?](https://infosecwriteups.com/what-is-same-origin-policy-why-you-should-know-about-sop-36ef803b4732?source=rss----7b722bfd1b8d---4)
 - [HTTP Cookies](https://infosecwriteups.com/http-cookies-b605fc29c058?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Access Bank Account Information via Response Manipulation](https://brbr0s.medium.com/access-bank-account-information-via-response-manipulation-d3b1ec95375f?source=rss------bug_bounty_writeup-5)
 - [From Self-XSS to Account Takeover](https://medium.com/@splintercat/from-self-xss-to-account-takeover-c6488adc5737?source=rss------bug_bounty_writeup-5)
 - [From Path Guessing to Dashboard Takeover: Full Access to Government Data via Broken Access Control](https://0xhamod.medium.com/from-path-guessing-to-dashboard-takeover-full-access-to-government-data-via-broken-access-control-a4c048fc05bb?source=rss------bug_bounty_writeup-5)
-- [Episode 8: Server-Side Template Injection — The Quiet Killer Hiding in Plain HTML](https://yamini369.medium.com/episode-8-server-side-template-injection-the-quiet-killer-hiding-in-plain-html-26596ac16006?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
