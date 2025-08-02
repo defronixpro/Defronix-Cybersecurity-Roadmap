@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [It Took Me 10 Minutes to Find an BAC Vulnerability $$$ That Exposed Every Users Profiles .](https://medium.com/@mxfizz07/it-took-me-10-minutes-to-find-an-bac-vulnerability-that-exposed-every-users-profiles-8fcaa192fd20?source=rss------bug_bounty_writeup-5)
 - [Exploiting URL-Based Price Manipulation on a Third-Party E-Commerce Cart](https://medium.com/@mrflash403/exploiting-url-based-price-manipulation-on-a-third-party-e-commerce-cart-19f7357b8410?source=rss------bug_bounty_writeup-5)
 - [I Tried CSRF Attacks in Many Website &lpar;And Failed Miserably&rpar;. Here’s What I Learned](https://systemweakness.com/i-tried-csrf-attacks-in-many-website-and-failed-miserably-heres-what-i-learned-dd71317cb4e0?source=rss------bug_bounty_writeup-5)
 - [Stored XSS → Account Takeover](https://medium.com/@s0ly/stored-xss-account-takeover-7d9db5e6cdcb?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [No, no todo fallo en login es una SQLi](https://gorkaaa.medium.com/no-no-todo-fallo-en-login-es-una-sqli-a21592652d96?source=rss------bug_bounty_writeup-5)
 - [From Exposed API Key to Arbitrary Account Creation: A GraphQL Bug Bounty Walkthrough](https://medium.com/@drizzlehx/from-exposed-api-key-to-arbitrary-account-creation-a-graphql-bug-bounty-walkthrough-af0d26accab3?source=rss------bug_bounty_writeup-5)
 - [Access Bank Account Information via Response Manipulation](https://brbr0s.medium.com/access-bank-account-information-via-response-manipulation-d3b1ec95375f?source=rss------bug_bounty_writeup-5)
-- [From Self-XSS to Account Takeover](https://medium.com/@splintercat/from-self-xss-to-account-takeover-c6488adc5737?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
