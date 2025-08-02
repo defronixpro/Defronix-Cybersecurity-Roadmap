@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Exploiting URL-Based Price Manipulation on a Third-Party E-Commerce Cart](https://medium.com/@mrflash403/exploiting-url-based-price-manipulation-on-a-third-party-e-commerce-cart-19f7357b8410?source=rss------bug_bounty_writeup-5)
 - [I Tried CSRF Attacks in Many Website &lpar;And Failed Miserably&rpar;. Here’s What I Learned](https://systemweakness.com/i-tried-csrf-attacks-in-many-website-and-failed-miserably-heres-what-i-learned-dd71317cb4e0?source=rss------bug_bounty_writeup-5)
 - [Stored XSS → Account Takeover](https://medium.com/@s0ly/stored-xss-account-takeover-7d9db5e6cdcb?source=rss------bug_bounty_writeup-5)
 - [The Epic Tale of a JWT Key Left on a Confluence Wiki Page — Totally Secure, Right?](https://medium.com/@devanshpatel930/the-epic-tale-of-a-jwt-key-left-on-a-confluence-wiki-page-totally-secure-right-141189f1d9c3?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [From Exposed API Key to Arbitrary Account Creation: A GraphQL Bug Bounty Walkthrough](https://medium.com/@drizzlehx/from-exposed-api-key-to-arbitrary-account-creation-a-graphql-bug-bounty-walkthrough-af0d26accab3?source=rss------bug_bounty_writeup-5)
 - [Access Bank Account Information via Response Manipulation](https://brbr0s.medium.com/access-bank-account-information-via-response-manipulation-d3b1ec95375f?source=rss------bug_bounty_writeup-5)
 - [From Self-XSS to Account Takeover](https://medium.com/@splintercat/from-self-xss-to-account-takeover-c6488adc5737?source=rss------bug_bounty_writeup-5)
-- [From Path Guessing to Dashboard Takeover: Full Access to Government Data via Broken Access Control](https://0xhamod.medium.com/from-path-guessing-to-dashboard-takeover-full-access-to-government-data-via-broken-access-control-a4c048fc05bb?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
