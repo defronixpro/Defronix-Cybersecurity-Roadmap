@@ -922,6 +922,16 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [What is Same origin policy ? Why you should know about SOP ?](https://infosecwriteups.com/what-is-same-origin-policy-why-you-should-know-about-sop-36ef803b4732?source=rss----7b722bfd1b8d---4)
+- [HTTP Cookies](https://infosecwriteups.com/http-cookies-b605fc29c058?source=rss----7b722bfd1b8d---4)
+- [Red Teaming the Cloud: Exploiting Misconfigurations in Azure, GCP, and AWS](https://infosecwriteups.com/red-teaming-the-cloud-exploiting-misconfigurations-in-azure-gcp-and-aws-0f84530528ab?source=rss----7b722bfd1b8d---4)
+- [From Innocent Messages to Total Takeover: How I Hacked a Professional Network!](https://infosecwriteups.com/from-innocent-messages-to-total-takeover-how-i-hacked-a-professional-network-2033537d5d6a?source=rss----7b722bfd1b8d---4)
+- [Hack The Box Academy Writeup — PASSWORD ATTACKS — Writing Custom Wordlists and Rules](https://infosecwriteups.com/htb-password-cracking-wordlist-osint-6a5e01b60638?source=rss----7b722bfd1b8d---4)
+- [Phishing via Swagger UI — Exploiting Misconfigurations for Fun &amp; Bounties](https://infosecwriteups.com/phishing-via-swagger-ui-exploiting-misconfigurations-for-fun-bounties-5442f26a7b81?source=rss----7b722bfd1b8d---4)
+- [I Dropped Out to Learn Cybersecurity &lpar;Without a Degree&rpar; — And Landed Paid Work](https://infosecwriteups.com/i-dropped-out-to-learn-cybersecurity-without-a-degree-and-landed-paid-work-60bdacc56b3b?source=rss----7b722bfd1b8d---4)
+- [CSRF in Disguise: How a Tracking Pixel Let Me Steal User Actions Like a Spy](https://infosecwriteups.com/csrf-in-disguise-how-a-tracking-pixel-let-me-steal-user-actions-like-a-spy-28c084002d1e?source=rss----7b722bfd1b8d---4)
+- [Stored DOM XSS: A Hidden Threat in Blog Comments](https://infosecwriteups.com/stored-dom-xss-a-hidden-threat-in-blog-comments-50aca72e40fd?source=rss----7b722bfd1b8d---4)
+- [How I Hacked a $500 Bug Using Just an Email Field](https://infosecwriteups.com/how-i-hacked-a-500-bug-using-just-an-email-field-e5a0cb89e051?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
