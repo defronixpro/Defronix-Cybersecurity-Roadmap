@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Stored XSS to Privilege Escalation to Admin Takeover to Data Breach](https://ahmdhalabi.medium.com/stored-xss-to-privilege-escalation-to-admin-takeover-to-data-breach-6239d0cc3a5c?source=rss------bug_bounty_writeup-5)
 - [No Rate Limiting: My First Real Bug Bounty Find &lpar;At 17&rpar;](https://medium.com/@ibansal2205/no-rate-limiting-my-first-real-bug-bounty-find-at-17-5a8641a2bb81?source=rss------bug_bounty_writeup-5)
 - [It Took Me 10 Minutes to Find an BAC Vulnerability $$$ That Exposed Every Users Profiles .](https://medium.com/@mxfizz07/it-took-me-10-minutes-to-find-an-bac-vulnerability-that-exposed-every-users-profiles-8fcaa192fd20?source=rss------bug_bounty_writeup-5)
 - [Exploiting URL-Based Price Manipulation on a Third-Party E-Commerce Cart](https://medium.com/@mrflash403/exploiting-url-based-price-manipulation-on-a-third-party-e-commerce-cart-19f7357b8410?source=rss------bug_bounty_writeup-5)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How I Discovered an IDOR Vulnerability in chatgpt.com and Got Rewarded by OpenAI](https://medium.com/@moamelshakeer/how-i-discovered-an-idor-vulnerability-in-chatgpt-com-and-got-rewarded-by-openai-bc4da48d5013?source=rss------bug_bounty_writeup-5)
 - [How I Got Easy Admin Panel Access &amp; Database Credentials — Bug Bounty Hunting](https://medium.com/@pranavrp77/how-i-got-easy-admin-panel-access-database-credentials-bug-bounty-hunting-a16935d0d3b8?source=rss------bug_bounty_writeup-5)
 - [No, no todo fallo en login es una SQLi](https://gorkaaa.medium.com/no-no-todo-fallo-en-login-es-una-sqli-a21592652d96?source=rss------bug_bounty_writeup-5)
-- [From Exposed API Key to Arbitrary Account Creation: A GraphQL Bug Bounty Walkthrough](https://medium.com/@drizzlehx/from-exposed-api-key-to-arbitrary-account-creation-a-graphql-bug-bounty-walkthrough-af0d26accab3?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
