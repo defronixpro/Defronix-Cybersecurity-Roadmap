@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Unauthorized Privilege Escalation in Role Logic](https://medium.com/@edahmed008/unauthorized-privilege-escalation-in-role-logic-5271f34e652c?source=rss------bug_bounty_writeup-5)
+- [Hi Researcher!](https://bugcrowd.medium.com/hi-researcher-d57ddfa29ddd?source=rss------bug_bounty_writeup-5)
 - [Confluence Takeover: How a Simple Support Email Gave Me Full Wiki Access](https://medium.com/@kalvik/confluence-takeover-how-a-simple-support-email-gave-me-full-wiki-access-a9ac7c27fa31?source=rss------bug_bounty_writeup-5)
 - [Cómo organizar tus reportes de Bug Bounty y potenciar tu progreso con IA](https://gorkaaa.medium.com/c%C3%B3mo-organizar-tus-reportes-de-bug-bounty-y-potenciar-tu-progreso-con-ia-3dbe3a043828?source=rss------bug_bounty_writeup-5)
 - [Revenant: A Modern, Full-Stack Reverse Shell C2 Framework — From Payload Generation to Victim…](https://infosecwriteups.com/revenant-a-modern-full-stack-reverse-shell-c2-framework-from-payload-generation-to-victim-c73167670619?source=rss----7b722bfd1b8d---4)
@@ -940,8 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Exploiting URL-Based Price Manipulation on a Third-Party E-Commerce Cart](https://medium.com/@mrflash403/exploiting-url-based-price-manipulation-on-a-third-party-e-commerce-cart-19f7357b8410?source=rss------bug_bounty_writeup-5)
 - [I Tried CSRF Attacks in Many Website &lpar;And Failed Miserably&rpar;. Here’s What I Learned](https://systemweakness.com/i-tried-csrf-attacks-in-many-website-and-failed-miserably-heres-what-i-learned-dd71317cb4e0?source=rss------bug_bounty_writeup-5)
 - [Stored XSS → Account Takeover](https://medium.com/@s0ly/stored-xss-account-takeover-7d9db5e6cdcb?source=rss------bug_bounty_writeup-5)
-- [The Epic Tale of a JWT Key Left on a Confluence Wiki Page — Totally Secure, Right?](https://medium.com/@devanshpatel930/the-epic-tale-of-a-jwt-key-left-on-a-confluence-wiki-page-totally-secure-right-141189f1d9c3?source=rss------bug_bounty_writeup-5)
-- [How I Discovered an IDOR Vulnerability in chatgpt.com and Got Rewarded by OpenAI](https://medium.com/@moamelshakeer/how-i-discovered-an-idor-vulnerability-in-chatgpt-com-and-got-rewarded-by-openai-bc4da48d5013?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
