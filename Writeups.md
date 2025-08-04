@@ -20,7 +20,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [It Took Me 10 Minutes to Find an BAC Vulnerability $$$ That Exposed Every Users Profiles .](https://medium.com/@mxfizz07/it-took-me-10-minutes-to-find-an-bac-vulnerability-that-exposed-every-users-profiles-8fcaa192fd20?source=rss------bug_bounty_writeup-5)
 - [Exploiting URL-Based Price Manipulation on a Third-Party E-Commerce Cart](https://medium.com/@mrflash403/exploiting-url-based-price-manipulation-on-a-third-party-e-commerce-cart-19f7357b8410?source=rss------bug_bounty_writeup-5)
 - [I Tried CSRF Attacks in Many Website &lpar;And Failed Miserably&rpar;. Here’s What I Learned](https://systemweakness.com/i-tried-csrf-attacks-in-many-website-and-failed-miserably-heres-what-i-learned-dd71317cb4e0?source=rss------bug_bounty_writeup-5)
-- [Stored XSS → Account Takeover](https://medium.com/@s0ly/stored-xss-account-takeover-7d9db5e6cdcb?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
