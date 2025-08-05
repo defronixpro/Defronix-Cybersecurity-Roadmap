@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [AI OSINT Gone Wrong: How ChatGPT Conversations Ended Up in Google Search](https://infosecwriteups.com/ai-osint-gone-wrong-how-chatgpt-conversations-ended-up-in-google-search-42d20375c8da?source=rss----7b722bfd1b8d---4)
+- [I Turned IDOR and XSS Into a Mass Account Takeover](https://infosecwriteups.com/i-turned-idor-and-xss-into-a-mass-account-takeover-a0b487c19366?source=rss----7b722bfd1b8d---4)
 - [How I Got on a US Government Hall of Fame in 5 Minutes.](https://medium.com/@devanshpatel930/how-i-got-on-a-us-government-hall-of-fame-in-5-minutes-280be3993f79?source=rss------bug_bounty_writeup-5)
 - [Unauthorized Privilege Escalation in Role Logic](https://medium.com/@edahmed008/unauthorized-privilege-escalation-in-role-logic-5271f34e652c?source=rss------bug_bounty_writeup-5)
 - [Hi Researcher!](https://bugcrowd.medium.com/hi-researcher-d57ddfa29ddd?source=rss------bug_bounty_writeup-5)
@@ -935,8 +937,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Zeek &lpar;Bro&rpar; Network Analysis: Advanced Tactics](https://infosecwriteups.com/zeek-bro-network-analysis-advanced-tactics-dcbf160b5743?source=rss----7b722bfd1b8d---4)
 - [“Day 2: Reconnaissance — How I Found My First Real Bug &lpar;And How You Can Too&rpar;”](https://infosecwriteups.com/day-2-reconnaissance-how-i-found-my-first-real-bug-and-how-you-can-too-dbf81cb44069?source=rss----7b722bfd1b8d---4)
 - [Clean-Up Fail: How a Forgotten Admin Endpoint Let Me Drop All The Data ️](https://infosecwriteups.com/clean-up-fail-how-a-forgotten-admin-endpoint-let-me-drop-all-the-data-%EF%B8%8F-1e1c376a986a?source=rss----7b722bfd1b8d---4)
-- [OSCP Linux Privilege Escalation Using Apache2](https://infosecwriteups.com/oscp-linux-privilege-escalation-18c75248be91?source=rss----7b722bfd1b8d---4)
-- [Package of Problems: How a Frontend NPM Library Leaked Internal API Keys](https://infosecwriteups.com/package-of-problems-how-a-frontend-npm-library-leaked-internal-api-keys-423784602d54?source=rss----7b722bfd1b8d---4)
 - [Stored XSS to Privilege Escalation to Admin Takeover to Data Breach](https://ahmdhalabi.medium.com/stored-xss-to-privilege-escalation-to-admin-takeover-to-data-breach-6239d0cc3a5c?source=rss------bug_bounty_writeup-5)
 - [No Rate Limiting: My First Real Bug Bounty Find &lpar;At 17&rpar;](https://medium.com/@ibansal2205/no-rate-limiting-my-first-real-bug-bounty-find-at-17-5a8641a2bb81?source=rss------bug_bounty_writeup-5)
 - [It Took Me 10 Minutes to Find an BAC Vulnerability $$$ That Exposed Every Users Profiles .](https://medium.com/@mxfizz07/it-took-me-10-minutes-to-find-an-bac-vulnerability-that-exposed-every-users-profiles-8fcaa192fd20?source=rss------bug_bounty_writeup-5)
