@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Do you Practice, but Still Feel Stuck at Bug Bounty?](https://systemweakness.com/do-you-practice-but-still-feel-stuck-at-bug-bounty-6b80dba02403?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Hunting — Are Self Hosted Programs Any Better?](https://medium.com/activated-thinker/bug-bounty-hunting-are-self-hosted-programs-any-better-797ecf90bc80?source=rss------bug_bounty_writeup-5)
 - [How an API Token Flaw Let Me Bypass Premium Restrictions](https://medium.com/@secshubhamsharma/how-an-api-token-flaw-let-me-bypass-premium-restrictions-43a395f3ddd9?source=rss------bug_bounty_writeup-5)
 - [️‍♂️ Tracking AgentTesla: Real-World Malware Behavior Analysis Using Joe Sandbox](https://infosecwriteups.com/%EF%B8%8F-%EF%B8%8F-tracking-agenttesla-real-world-malware-behavior-analysis-using-joe-sandbox-60c8b923e651?source=rss----7b722bfd1b8d---4)
@@ -19,7 +20,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Confluence Takeover: How a Simple Support Email Gave Me Full Wiki Access](https://medium.com/@kalvik/confluence-takeover-how-a-simple-support-email-gave-me-full-wiki-access-a9ac7c27fa31?source=rss------bug_bounty_writeup-5)
 - [Cómo organizar tus reportes de Bug Bounty y potenciar tu progreso con IA](https://gorkaaa.medium.com/c%C3%B3mo-organizar-tus-reportes-de-bug-bounty-y-potenciar-tu-progreso-con-ia-3dbe3a043828?source=rss------bug_bounty_writeup-5)
 - [Stored XSS to Privilege Escalation to Admin Takeover to Data Breach](https://ahmdhalabi.medium.com/stored-xss-to-privilege-escalation-to-admin-takeover-to-data-breach-6239d0cc3a5c?source=rss------bug_bounty_writeup-5)
-- [No Rate Limiting: My First Real Bug Bounty Find &lpar;At 17&rpar;](https://medium.com/@ibansal2205/no-rate-limiting-my-first-real-bug-bounty-find-at-17-5a8641a2bb81?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
