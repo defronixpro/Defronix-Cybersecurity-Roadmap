@@ -1,6 +1,8 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Bug Bounty Hunting — Are Self Hosted Programs Any Better?](https://medium.com/activated-thinker/bug-bounty-hunting-are-self-hosted-programs-any-better-797ecf90bc80?source=rss------bug_bounty_writeup-5)
+- [How an API Token Flaw Let Me Bypass Premium Restrictions](https://medium.com/@secshubhamsharma/how-an-api-token-flaw-let-me-bypass-premium-restrictions-43a395f3ddd9?source=rss------bug_bounty_writeup-5)
 - [️‍♂️ Tracking AgentTesla: Real-World Malware Behavior Analysis Using Joe Sandbox](https://infosecwriteups.com/%EF%B8%8F-%EF%B8%8F-tracking-agenttesla-real-world-malware-behavior-analysis-using-joe-sandbox-60c8b923e651?source=rss----7b722bfd1b8d---4)
 - [Honeypots: Trapping Hackers with Decoy Systems](https://infosecwriteups.com/honeypots-trapping-hackers-with-decoy-systems-80c08caab946?source=rss----7b722bfd1b8d---4)
 - [Digital Fraud in the Jewellery Business — How Hackers Are Misusing Trusted Jewellery Brands?](https://infosecwriteups.com/digital-fraud-in-the-jewellery-business-how-hackers-are-misusing-trusted-jewellery-brands-ad08e10b66cb?source=rss----7b722bfd1b8d---4)
@@ -11,6 +13,13 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Ticket to Trouble: How I Hijacked Support Tickets to See Everyone’s Complaints ️](https://infosecwriteups.com/%EF%B8%8F-ticket-to-trouble-how-i-hijacked-support-tickets-to-see-everyones-complaints-%EF%B8%8F-3fbcb33afdf7?source=rss----7b722bfd1b8d---4)
 - [Burp Suite For Beginners: How I Learned the Proxy and Interceptor](https://infosecwriteups.com/burp-suite-for-beginners-how-i-learned-the-proxy-and-interceptor-dcb787dc89ae?source=rss----7b722bfd1b8d---4)
 - [Reflected XSS Made Easy: Catching Real Bugs in the Wild](https://infosecwriteups.com/reflected-xss-made-easy-catching-real-bugs-in-the-wild-4222376ae3ea?source=rss----7b722bfd1b8d---4)
+- [How I Got on a US Government Hall of Fame in 5 Minutes.](https://medium.com/@devanshpatel930/how-i-got-on-a-us-government-hall-of-fame-in-5-minutes-280be3993f79?source=rss------bug_bounty_writeup-5)
+- [Unauthorized Privilege Escalation in Role Logic](https://medium.com/@edahmed008/unauthorized-privilege-escalation-in-role-logic-5271f34e652c?source=rss------bug_bounty_writeup-5)
+- [Hi Researcher!](https://bugcrowd.medium.com/hi-researcher-d57ddfa29ddd?source=rss------bug_bounty_writeup-5)
+- [Confluence Takeover: How a Simple Support Email Gave Me Full Wiki Access](https://medium.com/@kalvik/confluence-takeover-how-a-simple-support-email-gave-me-full-wiki-access-a9ac7c27fa31?source=rss------bug_bounty_writeup-5)
+- [Cómo organizar tus reportes de Bug Bounty y potenciar tu progreso con IA](https://gorkaaa.medium.com/c%C3%B3mo-organizar-tus-reportes-de-bug-bounty-y-potenciar-tu-progreso-con-ia-3dbe3a043828?source=rss------bug_bounty_writeup-5)
+- [Stored XSS to Privilege Escalation to Admin Takeover to Data Breach](https://ahmdhalabi.medium.com/stored-xss-to-privilege-escalation-to-admin-takeover-to-data-breach-6239d0cc3a5c?source=rss------bug_bounty_writeup-5)
+- [No Rate Limiting: My First Real Bug Bounty Find &lpar;At 17&rpar;](https://medium.com/@ibansal2205/no-rate-limiting-my-first-real-bug-bounty-find-at-17-5a8641a2bb81?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
