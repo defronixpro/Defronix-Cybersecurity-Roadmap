@@ -922,16 +922,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [️‍♂️ Tracking AgentTesla: Real-World Malware Behavior Analysis Using Joe Sandbox](https://infosecwriteups.com/%EF%B8%8F-%EF%B8%8F-tracking-agenttesla-real-world-malware-behavior-analysis-using-joe-sandbox-60c8b923e651?source=rss----7b722bfd1b8d---4)
-- [Honeypots: Trapping Hackers with Decoy Systems](https://infosecwriteups.com/honeypots-trapping-hackers-with-decoy-systems-80c08caab946?source=rss----7b722bfd1b8d---4)
-- [Digital Fraud in the Jewellery Business — How Hackers Are Misusing Trusted Jewellery Brands?](https://infosecwriteups.com/digital-fraud-in-the-jewellery-business-how-hackers-are-misusing-trusted-jewellery-brands-ad08e10b66cb?source=rss----7b722bfd1b8d---4)
-- [Your Domain, My Playground: How I Created Links on Your Site Without Access ‍](https://infosecwriteups.com/your-domain-my-playground-how-i-created-links-on-your-site-without-access-9a77b712ac31?source=rss----7b722bfd1b8d---4)
-- [️ The Dark Side of Bug Hunting: A Deep Dive](https://infosecwriteups.com/%EF%B8%8F-the-dark-side-of-bug-hunting-a-deep-dive-2c7429ab88f9?source=rss----7b722bfd1b8d---4)
-- [DAY 1 Recon: Manual Reconnaissance: How I Explore Targets Like a Hacker &lpar;But With Good Intentions&rpar;](https://infosecwriteups.com/day-1-recon-manual-reconnaissance-how-i-explore-targets-like-a-hacker-but-with-good-intentions-04b61864d1ea?source=rss----7b722bfd1b8d---4)
-- [Structured vs. Unstructured Threat Intelligence: The Ultimate Guide](https://infosecwriteups.com/https-kravensecurity-com-structured-unstructured-threat-intelligence-49e371c84f1f?source=rss----7b722bfd1b8d---4)
-- [Ticket to Trouble: How I Hijacked Support Tickets to See Everyone’s Complaints ️](https://infosecwriteups.com/%EF%B8%8F-ticket-to-trouble-how-i-hijacked-support-tickets-to-see-everyones-complaints-%EF%B8%8F-3fbcb33afdf7?source=rss----7b722bfd1b8d---4)
-- [Burp Suite For Beginners: How I Learned the Proxy and Interceptor](https://infosecwriteups.com/burp-suite-for-beginners-how-i-learned-the-proxy-and-interceptor-dcb787dc89ae?source=rss----7b722bfd1b8d---4)
-- [Reflected XSS Made Easy: Catching Real Bugs in the Wild](https://infosecwriteups.com/reflected-xss-made-easy-catching-real-bugs-in-the-wild-4222376ae3ea?source=rss----7b722bfd1b8d---4)
 - [How I Got on a US Government Hall of Fame in 5 Minutes.](https://medium.com/@devanshpatel930/how-i-got-on-a-us-government-hall-of-fame-in-5-minutes-280be3993f79?source=rss------bug_bounty_writeup-5)
 - [Unauthorized Privilege Escalation in Role Logic](https://medium.com/@edahmed008/unauthorized-privilege-escalation-in-role-logic-5271f34e652c?source=rss------bug_bounty_writeup-5)
 - [Hi Researcher!](https://bugcrowd.medium.com/hi-researcher-d57ddfa29ddd?source=rss------bug_bounty_writeup-5)
