@@ -1,10 +1,6 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
-- [Unauthorized Privilege Escalation in Role Logic](https://medium.com/@edahmed008/unauthorized-privilege-escalation-in-role-logic-5271f34e652c?source=rss------bug_bounty_writeup-5)
-- [Hi Researcher!](https://bugcrowd.medium.com/hi-researcher-d57ddfa29ddd?source=rss------bug_bounty_writeup-5)
-- [Confluence Takeover: How a Simple Support Email Gave Me Full Wiki Access](https://medium.com/@kalvik/confluence-takeover-how-a-simple-support-email-gave-me-full-wiki-access-a9ac7c27fa31?source=rss------bug_bounty_writeup-5)
-- [Cómo organizar tus reportes de Bug Bounty y potenciar tu progreso con IA](https://gorkaaa.medium.com/c%C3%B3mo-organizar-tus-reportes-de-bug-bounty-y-potenciar-tu-progreso-con-ia-3dbe3a043828?source=rss------bug_bounty_writeup-5)
 - [Revenant: A Modern, Full-Stack Reverse Shell C2 Framework — From Payload Generation to Victim…](https://infosecwriteups.com/revenant-a-modern-full-stack-reverse-shell-c2-framework-from-payload-generation-to-victim-c73167670619?source=rss----7b722bfd1b8d---4)
 - [Hack Smarter: Automate Security Testing with LLMs and the CAI Framework](https://infosecwriteups.com/hack-smarter-automate-security-testing-with-llms-and-the-cai-framework-fea6e61c1400?source=rss----7b722bfd1b8d---4)
 - [Windows Authentication Monitoring](https://infosecwriteups.com/windows-authentication-monitoring-ca3dce7b7526?source=rss----7b722bfd1b8d---4)
@@ -15,11 +11,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Clean-Up Fail: How a Forgotten Admin Endpoint Let Me Drop All The Data ️](https://infosecwriteups.com/clean-up-fail-how-a-forgotten-admin-endpoint-let-me-drop-all-the-data-%EF%B8%8F-1e1c376a986a?source=rss----7b722bfd1b8d---4)
 - [OSCP Linux Privilege Escalation Using Apache2](https://infosecwriteups.com/oscp-linux-privilege-escalation-18c75248be91?source=rss----7b722bfd1b8d---4)
 - [Package of Problems: How a Frontend NPM Library Leaked Internal API Keys](https://infosecwriteups.com/package-of-problems-how-a-frontend-npm-library-leaked-internal-api-keys-423784602d54?source=rss----7b722bfd1b8d---4)
-- [Stored XSS to Privilege Escalation to Admin Takeover to Data Breach](https://ahmdhalabi.medium.com/stored-xss-to-privilege-escalation-to-admin-takeover-to-data-breach-6239d0cc3a5c?source=rss------bug_bounty_writeup-5)
-- [No Rate Limiting: My First Real Bug Bounty Find &lpar;At 17&rpar;](https://medium.com/@ibansal2205/no-rate-limiting-my-first-real-bug-bounty-find-at-17-5a8641a2bb81?source=rss------bug_bounty_writeup-5)
-- [It Took Me 10 Minutes to Find an BAC Vulnerability $$$ That Exposed Every Users Profiles .](https://medium.com/@mxfizz07/it-took-me-10-minutes-to-find-an-bac-vulnerability-that-exposed-every-users-profiles-8fcaa192fd20?source=rss------bug_bounty_writeup-5)
-- [Exploiting URL-Based Price Manipulation on a Third-Party E-Commerce Cart](https://medium.com/@mrflash403/exploiting-url-based-price-manipulation-on-a-third-party-e-commerce-cart-19f7357b8410?source=rss------bug_bounty_writeup-5)
-- [I Tried CSRF Attacks in Many Website &lpar;And Failed Miserably&rpar;. Here’s What I Learned](https://systemweakness.com/i-tried-csrf-attacks-in-many-website-and-failed-miserably-heres-what-i-learned-dd71317cb4e0?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
