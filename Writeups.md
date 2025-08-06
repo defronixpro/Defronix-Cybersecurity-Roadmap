@@ -14,7 +14,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Ticket to Trouble: How I Hijacked Support Tickets to See Everyone’s Complaints ️](https://infosecwriteups.com/%EF%B8%8F-ticket-to-trouble-how-i-hijacked-support-tickets-to-see-everyones-complaints-%EF%B8%8F-3fbcb33afdf7?source=rss----7b722bfd1b8d---4)
 - [Burp Suite For Beginners: How I Learned the Proxy and Interceptor](https://infosecwriteups.com/burp-suite-for-beginners-how-i-learned-the-proxy-and-interceptor-dcb787dc89ae?source=rss----7b722bfd1b8d---4)
 - [Reflected XSS Made Easy: Catching Real Bugs in the Wild](https://infosecwriteups.com/reflected-xss-made-easy-catching-real-bugs-in-the-wild-4222376ae3ea?source=rss----7b722bfd1b8d---4)
-- [How I Got on a US Government Hall of Fame in 5 Minutes.](https://medium.com/@devanshpatel930/how-i-got-on-a-us-government-hall-of-fame-in-5-minutes-280be3993f79?source=rss------bug_bounty_writeup-5)
+- [How I Got on a US Government Hall of Fame in 5 Minutes.](https://infosecwriteups.com/how-i-got-on-a-us-government-hall-of-fame-in-5-minutes-280be3993f79?source=rss------bug_bounty_writeup-5)
 - [Unauthorized Privilege Escalation in Role Logic](https://medium.com/@edahmed008/unauthorized-privilege-escalation-in-role-logic-5271f34e652c?source=rss------bug_bounty_writeup-5)
 - [Hi Researcher!](https://bugcrowd.medium.com/hi-researcher-d57ddfa29ddd?source=rss------bug_bounty_writeup-5)
 - [Confluence Takeover: How a Simple Support Email Gave Me Full Wiki Access](https://medium.com/@kalvik/confluence-takeover-how-a-simple-support-email-gave-me-full-wiki-access-a9ac7c27fa31?source=rss------bug_bounty_writeup-5)
