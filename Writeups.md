@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [ZERO-DAY CVE-2025–24893 “XWiki Platform — Remote Code Execution” POC](https://medium.com/@hariharanhex00/zero-day-cve-2025-24893-xwiki-platform-remote-code-execution-poc-00bd2ca3a93d?source=rss------bug_bounty_writeup-5)
 - [Broken OAuth Linking](https://brbr0s.medium.com/broken-oauth-linking-94308b7d423e?source=rss------bug_bounty_writeup-5)
 - [Access Bank Account Information via Response Manipulation](https://brbr0s.medium.com/access-bank-account-information-via-response-manipulation-b373c9e4b536?source=rss------bug_bounty_writeup-5)
 - [How I Earned $1,752 Using Just Nmap: A Bug Bounty Recon Success Story](https://medium.com/@zinomoneyexcell/how-i-earned-1-752-using-just-nmap-a-bug-bounty-recon-success-story-1101c726959a?source=rss------bug_bounty_writeup-5)
@@ -16,7 +17,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Why People Still Fall for Malware?](https://infosecwriteups.com/why-people-still-fall-for-malware-da850deed46f?source=rss----7b722bfd1b8d---4)
 - [How I Found a SQL Injection on an E-Commerce Platform — Step-by-Step Bug Bounty Guide](https://medium.com/@sales.mohammedgabic/how-i-found-a-sql-injection-on-an-e-commerce-platform-step-by-step-bug-bounty-guide-d9fa3a705b9b?source=rss------bug_bounty_writeup-5)
 - [Dorks For Sensitive Information Disclosure Part-2](https://infosecwriteups.com/dorks-for-sensitive-information-disclosure-part-2-4355b479d2aa?source=rss----7b722bfd1b8d---4)
-- [How I Earned $1,375 from a Remote Code Execution &lpar;RCE&rpar; Bug — A Bug Bounty Story](https://medium.com/@ekenejosepha1/how-i-earned-1-375-from-a-remote-code-execution-rce-bug-a-bug-bounty-story-b5c912395278?source=rss------bug_bounty_writeup-5)
 - [VulnOS “Legacy” Lab Walkthrough](https://infosecwriteups.com/vulnos-legacy-lab-walkthrough-406813eb338a?source=rss----7b722bfd1b8d---4)
 - [Wireless Penetration Testing Made Easy: Our Team’s Go-To Wifite Workflow](https://infosecwriteups.com/wireless-penetration-testing-made-easy-our-teams-go-to-wifite-workflow-f7d2f8be0839?source=rss----7b722bfd1b8d---4)
 - [Day 4: IDOR — How I Hacked a Dating App &amp; Accessed Every User’s Private Data](https://infosecwriteups.com/day-4-idor-how-i-hacked-a-dating-app-accessed-every-users-private-data-b59a485f455f?source=rss----7b722bfd1b8d---4)
