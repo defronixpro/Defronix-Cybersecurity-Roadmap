@@ -1,6 +1,16 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [ZERO-DAY CVE-2025–24893 “XWiki Platform — Remote Code Execution” POC](https://medium.com/@hariharanhex00/zero-day-cve-2025-24893-xwiki-platform-remote-code-execution-poc-00bd2ca3a93d?source=rss------bug_bounty_writeup-5)
+- [Broken OAuth Linking](https://brbr0s.medium.com/broken-oauth-linking-94308b7d423e?source=rss------bug_bounty_writeup-5)
+- [Access Bank Account Information via Response Manipulation](https://brbr0s.medium.com/access-bank-account-information-via-response-manipulation-b373c9e4b536?source=rss------bug_bounty_writeup-5)
+- [How I Earned $1,752 Using Just Nmap: A Bug Bounty Recon Success Story](https://medium.com/@zinomoneyexcell/how-i-earned-1-752-using-just-nmap-a-bug-bounty-recon-success-story-1101c726959a?source=rss------bug_bounty_writeup-5)
+- [Advanced Account Takeover Techniques: A Hacker’s Playbook for Awareness](https://elcazad0r.medium.com/advanced-account-takeover-techniques-a-hackers-playbook-for-awareness-149754bad5af?source=rss------bug_bounty_writeup-5)
+- [️ From Public Sheet to API Takeover: Google Sheets Misconfig + Hardcoded Private Key &lpar;Bug Bounty&rpar;](https://medium.com/@salaheddine_kalada/%EF%B8%8F-from-public-sheet-to-api-takeover-google-sheets-misconfig-hardcoded-private-key-bug-bounty-2dc13e235236?source=rss------bug_bounty_writeup-5)
+- [How I Bagged $2,500 with a Simple XSS Using Burp Suite](https://medium.com/@zinomoneyexcell/how-i-bagged-2-500-with-a-simple-xss-using-burp-suite-0b57e485c98f?source=rss------bug_bounty_writeup-5)
+- [ZoomEye BugBounty Radar Best Practice](https://medium.com/@zoomeye_team/zoomeye-bugbounty-radar-best-practice-9fed04bd4ff2?source=rss------bug_bounty_writeup-5)
+- [S3 Subdomain Takeover!!!](https://medium.com/@0xchoudhary/s3-subdomain-takeover-0e2b1bba25f4?source=rss------bug_bounty_writeup-5)
+- [How I Found a SQL Injection on an E-Commerce Platform — Step-by-Step Bug Bounty Guide](https://medium.com/@sales.mohammedgabic/how-i-found-a-sql-injection-on-an-e-commerce-platform-step-by-step-bug-bounty-guide-d9fa3a705b9b?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
