@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Broken OAuth Linking](https://brbr0s.medium.com/broken-oauth-linking-94308b7d423e?source=rss------bug_bounty_writeup-5)
 - [Access Bank Account Information via Response Manipulation](https://brbr0s.medium.com/access-bank-account-information-via-response-manipulation-b373c9e4b536?source=rss------bug_bounty_writeup-5)
 - [How I Earned $1,752 Using Just Nmap: A Bug Bounty Recon Success Story](https://medium.com/@zinomoneyexcell/how-i-earned-1-752-using-just-nmap-a-bug-bounty-recon-success-story-1101c726959a?source=rss------bug_bounty_writeup-5)
 - [Advanced Account Takeover Techniques: A Hacker’s Playbook for Awareness](https://elcazad0r.medium.com/advanced-account-takeover-techniques-a-hackers-playbook-for-awareness-149754bad5af?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Wireless Penetration Testing Made Easy: Our Team’s Go-To Wifite Workflow](https://infosecwriteups.com/wireless-penetration-testing-made-easy-our-teams-go-to-wifite-workflow-f7d2f8be0839?source=rss----7b722bfd1b8d---4)
 - [Day 4: IDOR — How I Hacked a Dating App &amp; Accessed Every User’s Private Data](https://infosecwriteups.com/day-4-idor-how-i-hacked-a-dating-app-accessed-every-users-private-data-b59a485f455f?source=rss----7b722bfd1b8d---4)
 - [“Day 3: XSS Deep Dive — From Alert&lpar;1&rpar; to Account Takeovers”](https://infosecwriteups.com/day-3-xss-deep-dive-from-alert-1-to-account-takeovers-cf422ec57def?source=rss----7b722bfd1b8d---4)
-- [️‍♂️ 20 Recon Tools Every Bug Bounty Hunter Should Know &lpar;With Real Use Cases&rpar;](https://medium.com/@ekenejosepha1/%EF%B8%8F-%EF%B8%8F-20-recon-tools-every-bug-bounty-hunter-should-know-with-real-use-cases-27f68beb035c?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
