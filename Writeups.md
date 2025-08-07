@@ -1,6 +1,8 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How I Bagged $2,500 with a Simple XSS Using Burp Suite](https://medium.com/@zinomoneyexcell/how-i-bagged-2-500-with-a-simple-xss-using-burp-suite-0b57e485c98f?source=rss------bug_bounty_writeup-5)
+- [ZoomEye BugBounty Radar Best Practice](https://medium.com/@zoomeye_team/zoomeye-bugbounty-radar-best-practice-9fed04bd4ff2?source=rss------bug_bounty_writeup-5)
 - [S3 Subdomain Takeover!!!](https://medium.com/@0xchoudhary/s3-subdomain-takeover-0e2b1bba25f4?source=rss------bug_bounty_writeup-5)
 - [How I Got Hacked by a Telegram Bot and Reclaimed My Accounts](https://infosecwriteups.com/how-i-got-hacked-by-a-telegram-bot-and-reclaimed-my-accounts-a27dc431e531?source=rss----7b722bfd1b8d---4)
 - [Pods Don’t Lie: EKS Breakout &amp; Misconfigurations](https://infosecwriteups.com/pods-dont-lie-eks-breakout-misconfigurations-4279a9431de3?source=rss----7b722bfd1b8d---4)
@@ -19,8 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Earned $3,500 : How I Gained Shell Access on a Company](https://medium.com/@carylrobert16/how-i-gained-shell-access-on-a-company-server-and-earned-3-500-legally-bug-bounty-case-study-63ea522b4bed?source=rss------bug_bounty_writeup-5)
 - [How I Found 50+ Open Redirects Using Automation and Simple Bash Scripts](https://dr34m14.medium.com/how-i-found-50-open-redirects-using-automation-and-simple-bash-scripts-91e3b92f5c69?source=rss------bug_bounty_writeup-5)
 - [Do you Practice, but Still Feel Stuck at Bug Bounty?](https://systemweakness.com/do-you-practice-but-still-feel-stuck-at-bug-bounty-6b80dba02403?source=rss------bug_bounty_writeup-5)
-- [Bug Bounty Hunting — Are Self Hosted Programs Any Better?](https://medium.com/activated-thinker/bug-bounty-hunting-are-self-hosted-programs-any-better-797ecf90bc80?source=rss------bug_bounty_writeup-5)
-- [How an API Token Flaw Let Me Bypass Premium Restrictions](https://systemweakness.com/how-an-api-token-flaw-let-me-bypass-premium-restrictions-43a395f3ddd9?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
