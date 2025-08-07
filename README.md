@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [️ From Public Sheet to API Takeover: Google Sheets Misconfig + Hardcoded Private Key &lpar;Bug Bounty&rpar;](https://medium.com/@salaheddine_kalada/%EF%B8%8F-from-public-sheet-to-api-takeover-google-sheets-misconfig-hardcoded-private-key-bug-bounty-2dc13e235236?source=rss------bug_bounty_writeup-5)
 - [How I Bagged $2,500 with a Simple XSS Using Burp Suite](https://medium.com/@zinomoneyexcell/how-i-bagged-2-500-with-a-simple-xss-using-burp-suite-0b57e485c98f?source=rss------bug_bounty_writeup-5)
 - [ZoomEye BugBounty Radar Best Practice](https://medium.com/@zoomeye_team/zoomeye-bugbounty-radar-best-practice-9fed04bd4ff2?source=rss------bug_bounty_writeup-5)
 - [S3 Subdomain Takeover!!!](https://medium.com/@0xchoudhary/s3-subdomain-takeover-0e2b1bba25f4?source=rss------bug_bounty_writeup-5)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How Nmap Helped Me Land My First $2,000 Bug Bounty &lpar;Beginner-Friendly Pentest Story&rpar;](https://medium.com/@ekenejosepha1/how-nmap-helped-me-land-my-first-2-000-bug-bounty-beginner-friendly-pentest-story-0f6289d1659b?source=rss------bug_bounty_writeup-5)
 - [Earned $3,500 : How I Gained Shell Access on a Company](https://medium.com/@carylrobert16/how-i-gained-shell-access-on-a-company-server-and-earned-3-500-legally-bug-bounty-case-study-63ea522b4bed?source=rss------bug_bounty_writeup-5)
 - [How I Found 50+ Open Redirects Using Automation and Simple Bash Scripts](https://dr34m14.medium.com/how-i-found-50-open-redirects-using-automation-and-simple-bash-scripts-91e3b92f5c69?source=rss------bug_bounty_writeup-5)
-- [Do you Practice, but Still Feel Stuck at Bug Bounty?](https://systemweakness.com/do-you-practice-but-still-feel-stuck-at-bug-bounty-6b80dba02403?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
