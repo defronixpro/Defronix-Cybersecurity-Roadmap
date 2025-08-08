@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Breaking the Limits: Exploiting a Race Condition to Bypass Free Plan Restrictions](https://keroayman77.medium.com/breaking-the-limits-exploiting-a-race-condition-to-bypass-free-plan-restrictions-122a4221c23e?source=rss------bug_bounty_writeup-5)
+- [Bypassing UI Restrictions to Rename an Organization by Request Manipulation](https://keroayman77.medium.com/bypassing-ui-restrictions-to-rename-an-organization-393a972636a2?source=rss------bug_bounty_writeup-5)
 - [How I Chained Rate Limiting to Earn a Spot in Apple’s Hall of Fame](https://medium.com/@anonymousshetty2003/how-i-chained-rate-limiting-to-earn-a-spot-in-apples-hall-of-fame-f78305760462?source=rss------bug_bounty_writeup-5)
 - [Pen Testing Cryptographic Implementations: Where Secrets Slip](https://infosecwriteups.com/pen-testing-cryptographic-implementations-where-secrets-slip-89526543514c?source=rss----7b722bfd1b8d---4)
 - [How GRC Must Evolve in the Age of Agentic AI and Generative AI](https://infosecwriteups.com/how-grc-must-evolve-in-the-age-of-agentic-ai-and-generative-ai-b21dbca5f4d0?source=rss----7b722bfd1b8d---4)
@@ -940,8 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Advanced Account Takeover Techniques: A Hacker’s Playbook for Awareness](https://elcazad0r.medium.com/advanced-account-takeover-techniques-a-hackers-playbook-for-awareness-149754bad5af?source=rss------bug_bounty_writeup-5)
 - [️ From Public Sheet to API Takeover: Google Sheets Misconfig + Hardcoded Private Key &lpar;Bug Bounty&rpar;](https://medium.com/@salaheddine_kalada/%EF%B8%8F-from-public-sheet-to-api-takeover-google-sheets-misconfig-hardcoded-private-key-bug-bounty-2dc13e235236?source=rss------bug_bounty_writeup-5)
 - [How I Bagged $2,500 with a Simple XSS Using Burp Suite](https://medium.com/@zinomoneyexcell/how-i-bagged-2-500-with-a-simple-xss-using-burp-suite-0b57e485c98f?source=rss------bug_bounty_writeup-5)
-- [ZoomEye BugBounty Radar Best Practice](https://medium.com/@zoomeye_team/zoomeye-bugbounty-radar-best-practice-9fed04bd4ff2?source=rss------bug_bounty_writeup-5)
-- [S3 Subdomain Takeover!!!](https://medium.com/@0xchoudhary/s3-subdomain-takeover-0e2b1bba25f4?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
