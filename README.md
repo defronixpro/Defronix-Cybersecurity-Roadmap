@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I Chained Rate Limiting to Earn a Spot in Apple’s Hall of Fame](https://medium.com/@anonymousshetty2003/how-i-chained-rate-limiting-to-earn-a-spot-in-apples-hall-of-fame-f78305760462?source=rss------bug_bounty_writeup-5)
 - [Pen Testing Cryptographic Implementations: Where Secrets Slip](https://infosecwriteups.com/pen-testing-cryptographic-implementations-where-secrets-slip-89526543514c?source=rss----7b722bfd1b8d---4)
 - [How GRC Must Evolve in the Age of Agentic AI and Generative AI](https://infosecwriteups.com/how-grc-must-evolve-in-the-age-of-agentic-ai-and-generative-ai-b21dbca5f4d0?source=rss----7b722bfd1b8d---4)
 - [Bug Bounty Methodology for Finding Bugs Easily](https://infosecwriteups.com/bug-bounty-methodology-for-finding-bugs-easily-26e6bb3fc5a7?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How I Bagged $2,500 with a Simple XSS Using Burp Suite](https://medium.com/@zinomoneyexcell/how-i-bagged-2-500-with-a-simple-xss-using-burp-suite-0b57e485c98f?source=rss------bug_bounty_writeup-5)
 - [ZoomEye BugBounty Radar Best Practice](https://medium.com/@zoomeye_team/zoomeye-bugbounty-radar-best-practice-9fed04bd4ff2?source=rss------bug_bounty_writeup-5)
 - [S3 Subdomain Takeover!!!](https://medium.com/@0xchoudhary/s3-subdomain-takeover-0e2b1bba25f4?source=rss------bug_bounty_writeup-5)
-- [How I Found a SQL Injection on an E-Commerce Platform — Step-by-Step Bug Bounty Guide](https://medium.com/@sales.mohammedgabic/how-i-found-a-sql-injection-on-an-e-commerce-platform-step-by-step-bug-bounty-guide-d9fa3a705b9b?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
