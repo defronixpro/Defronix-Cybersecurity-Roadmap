@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Prompt Injection → Token Overload → Denial of Service in LLM HTML Generator](https://medium.com/@FufuFaf1/prompt-injection-token-overload-denial-of-service-in-llm-html-generator-0f2ef42ff3e3?source=rss------bug_bounty_writeup-5)
 - [The Easiest Bug Bounty of 2025](https://medium.com/@jeosantos2005/the-easiest-bug-bounty-of-2025-165c57df3e14?source=rss------bug_bounty_writeup-5)
 - [Google Dorks: Unearth Valuable Information with Advanced Searches](https://infosecwriteups.com/google-dorks-unearth-valuable-information-with-advanced-searches-2cedfb6e189e?source=rss----7b722bfd1b8d---4)
 - [Single API Key from a Chrome Extension Led to 5.2 Million Exposed Customer Records](https://infosecwriteups.com/single-api-key-from-a-chrome-extension-led-to-5-2-million-exposed-customer-records-0cc81545a7a8?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Broken OAuth Linking](https://brbr0s.medium.com/broken-oauth-linking-94308b7d423e?source=rss------bug_bounty_writeup-5)
 - [Access Bank Account Information via Response Manipulation](https://brbr0s.medium.com/access-bank-account-information-via-response-manipulation-b373c9e4b536?source=rss------bug_bounty_writeup-5)
 - [How I Earned $1,752 Using Just Nmap: A Bug Bounty Recon Success Story](https://medium.com/@zinomoneyexcell/how-i-earned-1-752-using-just-nmap-a-bug-bounty-recon-success-story-1101c726959a?source=rss------bug_bounty_writeup-5)
-- [Advanced Account Takeover Techniques: A Hacker’s Playbook for Awareness](https://elcazad0r.medium.com/advanced-account-takeover-techniques-a-hackers-playbook-for-awareness-149754bad5af?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
