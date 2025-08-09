@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [The Easiest Bug Bounty of 2025](https://medium.com/@jeosantos2005/the-easiest-bug-bounty-of-2025-165c57df3e14?source=rss------bug_bounty_writeup-5)
 - [Google Dorks: Unearth Valuable Information with Advanced Searches](https://infosecwriteups.com/google-dorks-unearth-valuable-information-with-advanced-searches-2cedfb6e189e?source=rss----7b722bfd1b8d---4)
 - [Single API Key from a Chrome Extension Led to 5.2 Million Exposed Customer Records](https://infosecwriteups.com/single-api-key-from-a-chrome-extension-led-to-5-2-million-exposed-customer-records-0cc81545a7a8?source=rss----7b722bfd1b8d---4)
 - [Single API Key from a Chrome Extension Led to 5.2 Million Exposed Customer Records](https://infosecwriteups.com/single-api-key-from-a-chrome-extension-led-to-5-2-million-exposed-customer-records-0cc81545a7a8?source=rss------bug_bounty_writeup-5)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Access Bank Account Information via Response Manipulation](https://brbr0s.medium.com/access-bank-account-information-via-response-manipulation-b373c9e4b536?source=rss------bug_bounty_writeup-5)
 - [How I Earned $1,752 Using Just Nmap: A Bug Bounty Recon Success Story](https://medium.com/@zinomoneyexcell/how-i-earned-1-752-using-just-nmap-a-bug-bounty-recon-success-story-1101c726959a?source=rss------bug_bounty_writeup-5)
 - [Advanced Account Takeover Techniques: A Hacker’s Playbook for Awareness](https://elcazad0r.medium.com/advanced-account-takeover-techniques-a-hackers-playbook-for-awareness-149754bad5af?source=rss------bug_bounty_writeup-5)
-- [️ From Public Sheet to API Takeover: Google Sheets Misconfig + Hardcoded Private Key &lpar;Bug Bounty&rpar;](https://medium.com/@salaheddine_kalada/%EF%B8%8F-from-public-sheet-to-api-takeover-google-sheets-misconfig-hardcoded-private-key-bug-bounty-2dc13e235236?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
