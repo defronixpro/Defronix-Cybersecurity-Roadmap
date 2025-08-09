@@ -1,6 +1,9 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Test in Prod | Bugcrowd CTF 2025](https://infosecwriteups.com/test-in-prod-bugcrowd-ctf-2025-e44ab60d96d1?source=rss----7b722bfd1b8d---4)
+- [Honeypot Setup: Complete VPS Step-by-Step Documentation for Cybersecurity Students](https://infosecwriteups.com/honeypot-setup-complete-vps-step-by-step-documentation-for-cybersecurity-students-1830d17c0a47?source=rss----7b722bfd1b8d---4)
+- [TryHackMe: Hide Echo](https://infosecwriteups.com/tryhackme-disable-echo-29c3c48e54d2?source=rss----7b722bfd1b8d---4)
 - [Breaking the Limits: Exploiting a Race Condition to Bypass Free Plan Restrictions](https://keroayman77.medium.com/breaking-the-limits-exploiting-a-race-condition-to-bypass-free-plan-restrictions-122a4221c23e?source=rss------bug_bounty_writeup-5)
 - [Bypassing UI Restrictions to Rename an Organization by Request Manipulation](https://keroayman77.medium.com/bypassing-ui-restrictions-to-rename-an-organization-393a972636a2?source=rss------bug_bounty_writeup-5)
 - [How I Chained Rate Limiting to Earn a Spot in Apple’s Hall of Fame](https://medium.com/@anonymousshetty2003/how-i-chained-rate-limiting-to-earn-a-spot-in-apples-hall-of-fame-f78305760462?source=rss------bug_bounty_writeup-5)
@@ -11,9 +14,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Wireless Hacking: From Aircrack-ng to WPA3](https://infosecwriteups.com/wireless-hacking-from-aircrack-ng-to-wpa3-ec9ec6db34a5?source=rss----7b722bfd1b8d---4)
 - [Attack Surface: Exploiting Misconfigured Container Registries](https://infosecwriteups.com/attack-surface-exploiting-misconfigured-container-registries-fcc4e964a902?source=rss----7b722bfd1b8d---4)
 - [Robots Secret | Bugcrowd CTF 2025](https://infosecwriteups.com/robots-secret-bugcrowd-ctf-2025-afc40a16d6bb?source=rss----7b722bfd1b8d---4)
-- [Exploiting XSS to Bypass CSRF Defenses: Change Victim’s Email](https://infosecwriteups.com/exploiting-xss-to-bypass-csrf-defenses-change-victims-email-dcdcbfe1d5df?source=rss----7b722bfd1b8d---4)
-- [How I Bypassed a Strict WAF Using SQL Injection Tricks](https://infosecwriteups.com/how-i-bypassed-a-strict-waf-using-sql-injection-tricks-b0a500b712d8?source=rss----7b722bfd1b8d---4)
-- [“Day 5: SSRF — How I Hacked AWS Keys &amp; Stole $15,000 in Cloud Credits”](https://infosecwriteups.com/day-5-ssrf-how-i-hacked-aws-keys-stole-15-000-in-cloud-credits-ed521d7525f9?source=rss----7b722bfd1b8d---4)
 - [ZERO-DAY CVE-2025–24893 “XWiki Platform — Remote Code Execution” POC](https://medium.com/@hariharanhex00/zero-day-cve-2025-24893-xwiki-platform-remote-code-execution-poc-00bd2ca3a93d?source=rss------bug_bounty_writeup-5)
 - [Broken OAuth Linking](https://brbr0s.medium.com/broken-oauth-linking-94308b7d423e?source=rss------bug_bounty_writeup-5)
 - [Access Bank Account Information via Response Manipulation](https://brbr0s.medium.com/access-bank-account-information-via-response-manipulation-b373c9e4b536?source=rss------bug_bounty_writeup-5)
