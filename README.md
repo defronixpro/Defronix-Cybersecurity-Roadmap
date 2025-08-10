@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I Found 100+ API Keys in JavaScript Files &lpar;JS Secrets Exposed&rpar;](https://infosecwriteups.com/how-i-found-100-api-keys-in-javascript-files-js-secrets-exposed-939cc1f22289?source=rss----7b722bfd1b8d---4)
 - [Advanced WAF Bypass Using a Single cURL Command](https://medium.com/@aminefarah802/advanced-waf-bypass-using-a-single-curl-command-6042a643948e?source=rss------bug_bounty_writeup-5)
 - [Prompt Injection → Token Overload → Denial of Service in LLM HTML Generator](https://medium.com/@FufuFaf1/prompt-injection-token-overload-denial-of-service-in-llm-html-generator-0f2ef42ff3e3?source=rss------bug_bounty_writeup-5)
 - [The Easiest Bug Bounty of 2025](https://medium.com/@jeosantos2005/the-easiest-bug-bounty-of-2025-165c57df3e14?source=rss------bug_bounty_writeup-5)
@@ -935,7 +936,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Think Fast: How Auto-Complete Suggested Me Passwords That Weren’t Mine ᾒf](https://infosecwriteups.com/think-fast-how-auto-complete-suggested-me-passwords-that-werent-mine-%E1%BE%92f-d5c26ad34a3a?source=rss----7b722bfd1b8d---4)
 - [Understanding CSRF and How to Prevent It in Your Application — Part 1](https://infosecwriteups.com/understanding-csrf-and-how-to-prevent-it-in-your-application-part-1-9178bbc828d7?source=rss----7b722bfd1b8d---4)
 - [Open Sesame | Bugcrowd CTF 2025](https://infosecwriteups.com/open-sesame-bugcrowd-ctf-2025-190f295ea1b8?source=rss----7b722bfd1b8d---4)
-- [Bypassing 403 &amp; 401 Errors: All Hacker Techniques Revealed](https://infosecwriteups.com/bypassing-403-401-errors-all-hacker-techniques-revealed-0709ddfa99af?source=rss----7b722bfd1b8d---4)
 - [Breaking the Limits: Exploiting a Race Condition to Bypass Free Plan Restrictions](https://keroayman77.medium.com/breaking-the-limits-exploiting-a-race-condition-to-bypass-free-plan-restrictions-122a4221c23e?source=rss------bug_bounty_writeup-5)
 - [Bypassing UI Restrictions to Rename an Organization by Request Manipulation](https://keroayman77.medium.com/bypassing-ui-restrictions-to-rename-an-organization-393a972636a2?source=rss------bug_bounty_writeup-5)
 - [How I Chained Rate Limiting to Earn a Spot in Apple’s Hall of Fame](https://medium.com/@anonymousshetty2003/how-i-chained-rate-limiting-to-earn-a-spot-in-apples-hall-of-fame-f78305760462?source=rss------bug_bounty_writeup-5)
@@ -946,7 +946,17 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
 - [How to backup and restore the Windows Registry](https://www.bleepingcomputer.com/tutorials/how-to-backup-and-restore-the-windows-registry/)
+- [How To Fix Error: Externally-Managed-Environment In Python &lpar;Kali Linux&rpar;](https://technicalnavigator.in/how-to-fix-error-externally-managed-environment-in-python-kali-linux/)
+- [Understanding Systemctl Command in Linux &lpar;Practical&rpar;](https://technicalnavigator.in/understanding-systemctl-command-in-linux-practical/)
+- [Macros in docm &amp; Linux memory dump| Hack The Boo  Challanges](https://technicalnavigator.in/macros-in-docm-linux-memory-dump-hack-the-boo-challanges/)
+- [Android Apps debugging |  Frida, JADX, Genymotion](https://technicalnavigator.in/android-apps-debugging-frida-jadx-genymotion/)
+- [MouseServer | wifimouse – Windows/ Linux](https://technicalnavigator.in/mouseserver-wifimouse-windows-linux/)
+- [FFUF fuzzer | web-application penetration-testing](https://technicalnavigator.in/ffuf-fuzzer-web-application-penetration-testing/)
 - [How to open a Windows 11 Command Prompt as Administrator](https://www.bleepingcomputer.com/tutorials/how-to-open-a-windows-11-command-prompt-as-administrator/)
+- [Classes-Objects &amp; Deserialization bug](https://technicalnavigator.in/classes-objects-deserialization-bug/)
+- [Loki Tool | Multhreading Over Sockets in C](https://technicalnavigator.in/loki-tool-multhreading-over-sockets-in-c/)
+- [Egghunter | NASM | C prototype](https://technicalnavigator.in/egghunter-nasm-c-prototype/)
+- [TELNET &amp; FTP Analysis](https://technicalnavigator.in/telnet-ftp-analysis/)
 - [How to make the Start menu full screen in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-make-the-start-menu-full-screen-in-windows-10/)
 - [How to install the Microsoft Visual C++ 2015 Runtime](https://www.bleepingcomputer.com/tutorials/how-to-install-the-microsoft-visual-c-2015-runtime/)
 - [How to open an elevated PowerShell Admin prompt in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-open-an-elevated-powershell-admin-prompt-in-windows-10/)
