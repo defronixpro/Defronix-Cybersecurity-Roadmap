@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How I Found 100+ API Keys in JavaScript Files &lpar;JS Secrets Exposed&rpar;](https://infosecwriteups.com/how-i-found-100-api-keys-in-javascript-files-js-secrets-exposed-939cc1f22289?source=rss----7b722bfd1b8d---4)
 - [Advanced WAF Bypass Using a Single cURL Command](https://medium.com/@aminefarah802/advanced-waf-bypass-using-a-single-curl-command-6042a643948e?source=rss------bug_bounty_writeup-5)
 - [Prompt Injection → Token Overload → Denial of Service in LLM HTML Generator](https://medium.com/@FufuFaf1/prompt-injection-token-overload-denial-of-service-in-llm-html-generator-0f2ef42ff3e3?source=rss------bug_bounty_writeup-5)
 - [The Easiest Bug Bounty of 2025](https://medium.com/@jeosantos2005/the-easiest-bug-bounty-of-2025-165c57df3e14?source=rss------bug_bounty_writeup-5)
@@ -14,7 +15,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Think Fast: How Auto-Complete Suggested Me Passwords That Weren’t Mine ᾒf](https://infosecwriteups.com/think-fast-how-auto-complete-suggested-me-passwords-that-werent-mine-%E1%BE%92f-d5c26ad34a3a?source=rss----7b722bfd1b8d---4)
 - [Understanding CSRF and How to Prevent It in Your Application — Part 1](https://infosecwriteups.com/understanding-csrf-and-how-to-prevent-it-in-your-application-part-1-9178bbc828d7?source=rss----7b722bfd1b8d---4)
 - [Open Sesame | Bugcrowd CTF 2025](https://infosecwriteups.com/open-sesame-bugcrowd-ctf-2025-190f295ea1b8?source=rss----7b722bfd1b8d---4)
-- [Bypassing 403 &amp; 401 Errors: All Hacker Techniques Revealed](https://infosecwriteups.com/bypassing-403-401-errors-all-hacker-techniques-revealed-0709ddfa99af?source=rss----7b722bfd1b8d---4)
 - [Breaking the Limits: Exploiting a Race Condition to Bypass Free Plan Restrictions](https://keroayman77.medium.com/breaking-the-limits-exploiting-a-race-condition-to-bypass-free-plan-restrictions-122a4221c23e?source=rss------bug_bounty_writeup-5)
 - [Bypassing UI Restrictions to Rename an Organization by Request Manipulation](https://keroayman77.medium.com/bypassing-ui-restrictions-to-rename-an-organization-393a972636a2?source=rss------bug_bounty_writeup-5)
 - [How I Chained Rate Limiting to Earn a Spot in Apple’s Hall of Fame](https://medium.com/@anonymousshetty2003/how-i-chained-rate-limiting-to-earn-a-spot-in-apples-hall-of-fame-f78305760462?source=rss------bug_bounty_writeup-5)
