@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [$3,500 Bounty —  Total Failure of Password Protection While Extracting Seed Phrase — A Critical…](https://hacker-write-ups.medium.com/3-500-bounty-total-failure-of-password-protection-while-extracting-seed-phrase-a-critical-79723184d46e?source=rss------bug_bounty_writeup-5)
 - [Zero-Click ATO via Reusable Password Reset Token](https://medium.com/@mahmodziad40/zero-click-ato-via-reusable-password-reset-token-3299d0bfc005?source=rss------bug_bounty_writeup-5)
 - [Loop of Doom: How a Recursive Redirect Opened the Gates to Session Hijacking ♻️](https://infosecwriteups.com/loop-of-doom-how-a-recursive-redirect-opened-the-gates-to-session-hijacking-%EF%B8%8F-705417f3e741?source=rss----7b722bfd1b8d---4)
 - [$10,000 Google Bug Bounty: How a Deserialization RCE in AppSheet Could Have Led to Remote Code…](https://infosecwriteups.com/10-000-google-bug-bounty-how-a-deserialization-rce-in-appsheet-could-have-led-to-remote-code-955b0a2e840b?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Bypassing UI Restrictions to Rename an Organization by Request Manipulation](https://keroayman77.medium.com/bypassing-ui-restrictions-to-rename-an-organization-393a972636a2?source=rss------bug_bounty_writeup-5)
 - [How I Chained Rate Limiting to Earn a Spot in Apple’s Hall of Fame](https://medium.com/@anonymousshetty2003/how-i-chained-rate-limiting-to-earn-a-spot-in-apples-hall-of-fame-f78305760462?source=rss------bug_bounty_writeup-5)
 - [ZERO-DAY CVE-2025–24893 “XWiki Platform — Remote Code Execution” POC](https://medium.com/@hariharanhex00/zero-day-cve-2025-24893-xwiki-platform-remote-code-execution-poc-00bd2ca3a93d?source=rss------bug_bounty_writeup-5)
-- [Broken OAuth Linking](https://brbr0s.medium.com/broken-oauth-linking-94308b7d423e?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
