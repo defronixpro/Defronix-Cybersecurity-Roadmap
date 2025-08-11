@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I Found an XSS Vulnerability in the BMKG Website and Earned a Certificate at 13 Years Old](https://medium.com/@jallaludinozi25/how-i-found-an-xss-vulnerability-in-the-bmkg-website-and-earned-a-certificate-at-13-years-old-c2cd1988efd1?source=rss------bug_bounty_writeup-5)
+- [The Ultimate Threat Intelligence Toolkit: 40+ Tools for Malware Analysis, Sandboxing, and IP…](https://osintteam.blog/the-ultimate-threat-intelligence-toolkit-40-tools-for-malware-analysis-sandboxing-and-ip-d0b63b38d487?source=rss------bug_bounty_writeup-5)
 - [$3,500 Bounty —  Total Failure of Password Protection While Extracting Seed Phrase — A Critical…](https://hacker-write-ups.medium.com/3-500-bounty-total-failure-of-password-protection-while-extracting-seed-phrase-a-critical-79723184d46e?source=rss------bug_bounty_writeup-5)
 - [Zero-Click ATO via Reusable Password Reset Token](https://medium.com/@mahmodziad40/zero-click-ato-via-reusable-password-reset-token-3299d0bfc005?source=rss------bug_bounty_writeup-5)
 - [Loop of Doom: How a Recursive Redirect Opened the Gates to Session Hijacking ♻️](https://infosecwriteups.com/loop-of-doom-how-a-recursive-redirect-opened-the-gates-to-session-hijacking-%EF%B8%8F-705417f3e741?source=rss----7b722bfd1b8d---4)
@@ -940,8 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Single API Key from a Chrome Extension Led to 5.2 Million Exposed Customer Records](https://infosecwriteups.com/single-api-key-from-a-chrome-extension-led-to-5-2-million-exposed-customer-records-0cc81545a7a8?source=rss------bug_bounty_writeup-5)
 - [Breaking the Limits: Exploiting a Race Condition to Bypass Free Plan Restrictions](https://keroayman77.medium.com/breaking-the-limits-exploiting-a-race-condition-to-bypass-free-plan-restrictions-122a4221c23e?source=rss------bug_bounty_writeup-5)
 - [Bypassing UI Restrictions to Rename an Organization by Request Manipulation](https://keroayman77.medium.com/bypassing-ui-restrictions-to-rename-an-organization-393a972636a2?source=rss------bug_bounty_writeup-5)
-- [How I Chained Rate Limiting to Earn a Spot in Apple’s Hall of Fame](https://medium.com/@anonymousshetty2003/how-i-chained-rate-limiting-to-earn-a-spot-in-apples-hall-of-fame-f78305760462?source=rss------bug_bounty_writeup-5)
-- [ZERO-DAY CVE-2025–24893 “XWiki Platform — Remote Code Execution” POC](https://medium.com/@hariharanhex00/zero-day-cve-2025-24893-xwiki-platform-remote-code-execution-poc-00bd2ca3a93d?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
