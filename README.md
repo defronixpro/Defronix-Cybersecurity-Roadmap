@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [The 3 Tools you need for Bug Bounty / Pentesting](https://medium.com/@jeosantos2005/the-3-tools-you-need-for-bug-bounty-pentesting-f6f2b94229a4?source=rss------bug_bounty_writeup-5)
 - [[02]. How do I create my luck in bug bounty?](https://medium.com/@yoyomiski/2-how-do-i-create-my-luck-in-bug-bounty-2186c426c452?source=rss------bug_bounty_writeup-5)
 - [You’re Missing Out on Bounties if you Don’t Hunt this Bug](https://medium.com/@dr_1n-ctrl/youre-missing-out-on-bounties-if-you-don-t-hunt-this-bug-8df1714771b6?source=rss------bug_bounty_writeup-5)
 - [Mastering Web Cache Deception Vulnerabilities: An Advanced Bug Hunter’s Guide](https://infosecwriteups.com/mastering-web-cache-deception-vulnerabilities-an-advanced-bug-hunters-guide-b7b500b482e3?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Advanced WAF Bypass Using a Single cURL Command](https://medium.com/@aminefarah802/advanced-waf-bypass-using-a-single-curl-command-6042a643948e?source=rss------bug_bounty_writeup-5)
 - [Prompt Injection → Token Overload → Denial of Service in LLM HTML Generator](https://medium.com/@FufuFaf1/prompt-injection-token-overload-denial-of-service-in-llm-html-generator-0f2ef42ff3e3?source=rss------bug_bounty_writeup-5)
 - [The Easiest Bug Bounty of 2025](https://medium.com/@jeosantos2005/the-easiest-bug-bounty-of-2025-165c57df3e14?source=rss------bug_bounty_writeup-5)
-- [Single API Key from a Chrome Extension Led to 5.2 Million Exposed Customer Records](https://infosecwriteups.com/single-api-key-from-a-chrome-extension-led-to-5-2-million-exposed-customer-records-0cc81545a7a8?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
