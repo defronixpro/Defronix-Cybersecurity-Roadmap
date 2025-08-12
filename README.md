@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [My 100 Hour Rule for Bug Bounty !](https://devprogramming.medium.com/my-100-hour-rule-for-bug-bounty-046f96fc7791?source=rss------bug_bounty_writeup-5)
 - [How I Removed Other User`s Uploaded Images in a Few Clicks](https://strangerwhite.medium.com/how-i-removed-other-user-s-uploaded-images-in-a-few-clicks-fdeb6355458b?source=rss------bug_bounty_writeup-5)
 - [The Bug that made me a Bounty in only a Few Minutes](https://medium.com/@cheirishpro/the-bug-that-made-me-a-bounty-in-only-a-few-minutes-7cf92bb03c19?source=rss------bug_bounty_writeup-5)
 - [How a Simple Rate Limit Issue Earned Me €500](https://enterlectury.medium.com/how-a-simple-rate-limit-issue-earned-me-500-763aa5ae8ae1?source=rss------bug_bounty_writeup-5)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [AI-Powered Cyber Attacks: Deepfakes, Bots, and Beyond](https://infosecwriteups.com/ai-powered-cyber-attacks-deepfakes-bots-and-beyond-7330bbb0cfff?source=rss----7b722bfd1b8d---4)
 - [A Deep Dive into Improper Authentication](https://infosecwriteups.com/a-deep-dive-into-improper-authentication-a68a92929f33?source=rss----7b722bfd1b8d---4)
 - [The 3 Tools you need for Bug Bounty / Pentesting](https://medium.com/@jeosantos2005/the-3-tools-you-need-for-bug-bounty-pentesting-f6f2b94229a4?source=rss------bug_bounty_writeup-5)
-- [[02]. How do I create my luck in bug bounty?](https://medium.com/@yoyomiski/2-how-do-i-create-my-luck-in-bug-bounty-2186c426c452?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
