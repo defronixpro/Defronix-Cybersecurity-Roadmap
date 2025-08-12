@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How a Simple Rate Limit Issue Earned Me €500](https://enterlectury.medium.com/how-a-simple-rate-limit-issue-earned-me-500-763aa5ae8ae1?source=rss------bug_bounty_writeup-5)
 - [InfoSec Writeups x BSides Vizag 2025 — CFP Now Open!](https://infosecwriteups.com/infosec-writeups-x-bsides-vizag-2025-cfp-now-open-6d526ed45613?source=rss----7b722bfd1b8d---4)
 - [[03]. I received $200 from Mozilla for a simple bypass](https://medium.com/@yoyomiski/03-i-received-200-from-mozilla-for-a-simple-bypass-fc5f1e020e9a?source=rss------bug_bounty_writeup-5)
 - [The 3 Best Tools for Bug Bounty / Pentesting](https://medium.com/@dr_1n-ctrl/the-3-best-tools-for-bug-bounty-pentesting-915e95686e6f?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [[02]. How do I create my luck in bug bounty?](https://medium.com/@yoyomiski/2-how-do-i-create-my-luck-in-bug-bounty-2186c426c452?source=rss------bug_bounty_writeup-5)
 - [You’re Missing Out on Bounties if you Don’t Hunt this Bug](https://medium.com/@dr_1n-ctrl/youre-missing-out-on-bounties-if-you-don-t-hunt-this-bug-8df1714771b6?source=rss------bug_bounty_writeup-5)
 - [How I Found an XSS Vulnerability in the BMKG Website and Earned a Certificate at 13 Years Old](https://medium.com/@jallaludinozi25/how-i-found-an-xss-vulnerability-in-the-bmkg-website-and-earned-a-certificate-at-13-years-old-c2cd1988efd1?source=rss------bug_bounty_writeup-5)
-- [The Ultimate Threat Intelligence Toolkit: 40+ Tools for Malware Analysis, Sandboxing, and IP…](https://osintteam.blog/the-ultimate-threat-intelligence-toolkit-40-tools-for-malware-analysis-sandboxing-and-ip-d0b63b38d487?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
