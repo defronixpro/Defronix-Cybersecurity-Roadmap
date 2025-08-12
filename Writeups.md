@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [The 3 Best Tools for Bug Bounty / Pentesting](https://medium.com/@dr_1n-ctrl/the-3-best-tools-for-bug-bounty-pentesting-915e95686e6f?source=rss------bug_bounty_writeup-5)
 - [How I could Takeover any Account by Bypassing OTP Rate Limits](https://medium.com/@anonymousshetty2003/how-i-could-takeover-any-account-by-bypassing-otp-rate-limits-1155d616d947?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty village CTF - Gaining access to an internal researcher portal](https://infosecwriteups.com/bug-bounty-village-ctf-gaining-access-to-an-internal-researcher-portal-b575fa08b205?source=rss------bug_bounty_writeup-5)
 - [Dorks For Sensitive Information Disclosure Part-3](https://infosecwriteups.com/dorks-for-sensitive-information-disclosure-part-3-a687a9c5a3bf?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How I Found an XSS Vulnerability in the BMKG Website and Earned a Certificate at 13 Years Old](https://medium.com/@jallaludinozi25/how-i-found-an-xss-vulnerability-in-the-bmkg-website-and-earned-a-certificate-at-13-years-old-c2cd1988efd1?source=rss------bug_bounty_writeup-5)
 - [The Ultimate Threat Intelligence Toolkit: 40+ Tools for Malware Analysis, Sandboxing, and IP…](https://osintteam.blog/the-ultimate-threat-intelligence-toolkit-40-tools-for-malware-analysis-sandboxing-and-ip-d0b63b38d487?source=rss------bug_bounty_writeup-5)
 - [$3,500 Bounty —  Total Failure of Password Protection While Extracting Seed Phrase — A Critical…](https://hacker-write-ups.medium.com/3-500-bounty-total-failure-of-password-protection-while-extracting-seed-phrase-a-critical-79723184d46e?source=rss------bug_bounty_writeup-5)
-- [Zero-Click ATO via Reusable Password Reset Token](https://medium.com/@mahmodziad40/zero-click-ato-via-reusable-password-reset-token-3299d0bfc005?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
