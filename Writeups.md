@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Bug Bounty village CTF - Gaining access to an internal researcher portal](https://infosecwriteups.com/bug-bounty-village-ctf-gaining-access-to-an-internal-researcher-portal-b575fa08b205?source=rss------bug_bounty_writeup-5)
 - [Dorks For Sensitive Information Disclosure Part-3](https://medium.com/@devanshpatel930/dorks-for-sensitive-information-disclosure-part-3-a687a9c5a3bf?source=rss------bug_bounty_writeup-5)
 - [“Day 1: Breaking Into Bug Bounties — Your First Steps”](https://infosecwriteups.com/day-1-breaking-into-bug-bounties-your-first-steps-dd1007e8f098?source=rss----7b722bfd1b8d---4)
 - [“Day 8: Mobile Hacking — How I Cracked a Banking App’s PIN in 10 Seconds &lpar;$5000 Bug&rpar;”](https://infosecwriteups.com/day-8-mobile-hacking-how-i-cracked-a-banking-apps-pin-in-10-seconds-5000-bug-575bd10823cd?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [$3,500 Bounty —  Total Failure of Password Protection While Extracting Seed Phrase — A Critical…](https://hacker-write-ups.medium.com/3-500-bounty-total-failure-of-password-protection-while-extracting-seed-phrase-a-critical-79723184d46e?source=rss------bug_bounty_writeup-5)
 - [Zero-Click ATO via Reusable Password Reset Token](https://medium.com/@mahmodziad40/zero-click-ato-via-reusable-password-reset-token-3299d0bfc005?source=rss------bug_bounty_writeup-5)
 - [Advanced WAF Bypass Using a Single cURL Command](https://medium.com/@aminefarah802/advanced-waf-bypass-using-a-single-curl-command-6042a643948e?source=rss------bug_bounty_writeup-5)
-- [Prompt Injection → Token Overload → Denial of Service in LLM HTML Generator](https://medium.com/@FufuFaf1/prompt-injection-token-overload-denial-of-service-in-llm-html-generator-0f2ef42ff3e3?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
