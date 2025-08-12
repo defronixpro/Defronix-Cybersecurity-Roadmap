@@ -1,6 +1,8 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [InfoSec Writeups x BSides Vizag 2025 — CFP Now Open!](https://infosecwriteups.com/infosec-writeups-x-bsides-vizag-2025-cfp-now-open-6d526ed45613?source=rss----7b722bfd1b8d---4)
+- [[03]. I received $200 from Mozilla for a simple bypass](https://medium.com/@yoyomiski/03-i-received-200-from-mozilla-for-a-simple-bypass-fc5f1e020e9a?source=rss------bug_bounty_writeup-5)
 - [The 3 Best Tools for Bug Bounty / Pentesting](https://medium.com/@dr_1n-ctrl/the-3-best-tools-for-bug-bounty-pentesting-915e95686e6f?source=rss------bug_bounty_writeup-5)
 - [How I could Takeover any Account by Bypassing OTP Rate Limits](https://medium.com/@anonymousshetty2003/how-i-could-takeover-any-account-by-bypassing-otp-rate-limits-1155d616d947?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty village CTF - Gaining access to an internal researcher portal](https://infosecwriteups.com/bug-bounty-village-ctf-gaining-access-to-an-internal-researcher-portal-b575fa08b205?source=rss------bug_bounty_writeup-5)
@@ -14,13 +16,11 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Logs Don’t Lie: How a GraphQL Debug Endpoint Spilled the Entire Database ️](https://infosecwriteups.com/logs-dont-lie-how-a-graphql-debug-endpoint-spilled-the-entire-database-%EF%B8%8F-a4b859ec6a1c?source=rss----7b722bfd1b8d---4)
 - [AI-Powered Cyber Attacks: Deepfakes, Bots, and Beyond](https://infosecwriteups.com/ai-powered-cyber-attacks-deepfakes-bots-and-beyond-7330bbb0cfff?source=rss----7b722bfd1b8d---4)
 - [A Deep Dive into Improper Authentication](https://infosecwriteups.com/a-deep-dive-into-improper-authentication-a68a92929f33?source=rss----7b722bfd1b8d---4)
-- [Betanet: The “Censorship-Free” Internet That Could Change the Web Forever](https://infosecwriteups.com/betanet-the-censorship-free-internet-that-could-change-the-web-forever-530c7294d9af?source=rss----7b722bfd1b8d---4)
 - [The 3 Tools you need for Bug Bounty / Pentesting](https://medium.com/@jeosantos2005/the-3-tools-you-need-for-bug-bounty-pentesting-f6f2b94229a4?source=rss------bug_bounty_writeup-5)
 - [[02]. How do I create my luck in bug bounty?](https://medium.com/@yoyomiski/2-how-do-i-create-my-luck-in-bug-bounty-2186c426c452?source=rss------bug_bounty_writeup-5)
 - [You’re Missing Out on Bounties if you Don’t Hunt this Bug](https://medium.com/@dr_1n-ctrl/youre-missing-out-on-bounties-if-you-don-t-hunt-this-bug-8df1714771b6?source=rss------bug_bounty_writeup-5)
 - [How I Found an XSS Vulnerability in the BMKG Website and Earned a Certificate at 13 Years Old](https://medium.com/@jallaludinozi25/how-i-found-an-xss-vulnerability-in-the-bmkg-website-and-earned-a-certificate-at-13-years-old-c2cd1988efd1?source=rss------bug_bounty_writeup-5)
 - [The Ultimate Threat Intelligence Toolkit: 40+ Tools for Malware Analysis, Sandboxing, and IP…](https://osintteam.blog/the-ultimate-threat-intelligence-toolkit-40-tools-for-malware-analysis-sandboxing-and-ip-d0b63b38d487?source=rss------bug_bounty_writeup-5)
-- [$3,500 Bounty —  Total Failure of Password Protection While Extracting Seed Phrase — A Critical…](https://hacker-write-ups.medium.com/3-500-bounty-total-failure-of-password-protection-while-extracting-seed-phrase-a-critical-79723184d46e?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
