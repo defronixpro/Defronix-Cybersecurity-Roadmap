@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How I Removed Other User`s Uploaded Images in a Few Clicks](https://strangerwhite.medium.com/how-i-removed-other-user-s-uploaded-images-in-a-few-clicks-fdeb6355458b?source=rss------bug_bounty_writeup-5)
 - [The Bug that made me a Bounty in only a Few Minutes](https://medium.com/@cheirishpro/the-bug-that-made-me-a-bounty-in-only-a-few-minutes-7cf92bb03c19?source=rss------bug_bounty_writeup-5)
 - [How a Simple Rate Limit Issue Earned Me €500](https://enterlectury.medium.com/how-a-simple-rate-limit-issue-earned-me-500-763aa5ae8ae1?source=rss------bug_bounty_writeup-5)
 - [InfoSec Writeups x BSides Vizag 2025 — CFP Now Open!](https://infosecwriteups.com/infosec-writeups-x-bsides-vizag-2025-cfp-now-open-6d526ed45613?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [A Deep Dive into Improper Authentication](https://infosecwriteups.com/a-deep-dive-into-improper-authentication-a68a92929f33?source=rss----7b722bfd1b8d---4)
 - [The 3 Tools you need for Bug Bounty / Pentesting](https://medium.com/@jeosantos2005/the-3-tools-you-need-for-bug-bounty-pentesting-f6f2b94229a4?source=rss------bug_bounty_writeup-5)
 - [[02]. How do I create my luck in bug bounty?](https://medium.com/@yoyomiski/2-how-do-i-create-my-luck-in-bug-bounty-2186c426c452?source=rss------bug_bounty_writeup-5)
-- [You’re Missing Out on Bounties if you Don’t Hunt this Bug](https://medium.com/@dr_1n-ctrl/youre-missing-out-on-bounties-if-you-don-t-hunt-this-bug-8df1714771b6?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
