@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [The Best Alternatives to Intelx.io](https://medium.com/@Appsec_pt/the-best-alternatives-to-intelx-io-f1c469e23fb1?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Nightmare: How A Vulnerability Disclosure Turned into Nightmare !](https://devprogramming.medium.com/bug-bounty-nightmare-how-a-vulnerability-disclosure-turned-into-nightmare-dca809fa00d6?source=rss------bug_bounty_writeup-5)
 - [My 100 Hour Rule for Bug Bounty !](https://devprogramming.medium.com/my-100-hour-rule-for-bug-bounty-046f96fc7791?source=rss------bug_bounty_writeup-5)
 - [How I Removed Other User`s Uploaded Images in a Few Clicks](https://strangerwhite.medium.com/how-i-removed-other-user-s-uploaded-images-in-a-few-clicks-fdeb6355458b?source=rss------bug_bounty_writeup-5)
@@ -11,7 +12,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [The 3 Best Tools for Bug Bounty / Pentesting](https://medium.com/@dr_1n-ctrl/the-3-best-tools-for-bug-bounty-pentesting-915e95686e6f?source=rss------bug_bounty_writeup-5)
 - [How I could Takeover any Account by Bypassing OTP Rate Limits](https://medium.com/@anonymousshetty2003/how-i-could-takeover-any-account-by-bypassing-otp-rate-limits-1155d616d947?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty village CTF - Gaining access to an internal researcher portal](https://infosecwriteups.com/bug-bounty-village-ctf-gaining-access-to-an-internal-researcher-portal-b575fa08b205?source=rss------bug_bounty_writeup-5)
-- [Dorks For Sensitive Information Disclosure Part-3](https://infosecwriteups.com/dorks-for-sensitive-information-disclosure-part-3-a687a9c5a3bf?source=rss------bug_bounty_writeup-5)
 - [“Day 1: Breaking Into Bug Bounties — Your First Steps”](https://infosecwriteups.com/day-1-breaking-into-bug-bounties-your-first-steps-dd1007e8f098?source=rss----7b722bfd1b8d---4)
 - [“Day 8: Mobile Hacking — How I Cracked a Banking App’s PIN in 10 Seconds &lpar;$5000 Bug&rpar;”](https://infosecwriteups.com/day-8-mobile-hacking-how-i-cracked-a-banking-apps-pin-in-10-seconds-5000-bug-575bd10823cd?source=rss----7b722bfd1b8d---4)
 - [Double Trouble VulnHub Walkthrough: Step-by-Step Guide to Solving ‘Machine Inside a Machine’ for…](https://infosecwriteups.com/double-trouble-vulnhub-walkthrough-step-by-step-guide-to-solving-machine-inside-a-machine-for-b89b3561407e?source=rss----7b722bfd1b8d---4)
