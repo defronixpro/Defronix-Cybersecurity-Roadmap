@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [CVE-2023–38646 – Pre-Auth RCE in Metabase: One Token to Rule Them All](https://medium.com/@24bkdoor/cve-2023-38646-pre-auth-rce-in-metabase-one-token-to-rule-them-all-9bc6b5caa9c1?source=rss------bug_bounty_writeup-5)
 - [How I Found a Critical XSS On a Public Bug Bounty Program](https://1-day.medium.com/how-i-found-a-critical-xss-on-a-public-bug-bounty-program-27d492117f61?source=rss------bug_bounty_writeup-5)
 - [$125 For Unauthorized Campaign Modification via Insecure ID Parameter &lpar;IDOR&rpar;](https://medium.com/@Tanvir0x1/125-for-unauthorized-campaign-modification-via-insecure-id-parameter-idor-cfda4db522e2?source=rss------bug_bounty_writeup-5)
 - [The Best Alternatives to Intelx.io](https://systemweakness.com/the-best-alternatives-to-intelx-io-f1c469e23fb1?source=rss------bug_bounty_writeup-5)
@@ -11,7 +12,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How a Simple Rate Limit Issue Earned Me €500](https://enterlectury.medium.com/how-a-simple-rate-limit-issue-earned-me-500-763aa5ae8ae1?source=rss------bug_bounty_writeup-5)
 - [InfoSec Writeups x BSides Vizag 2025 — CFP Now Open!](https://infosecwriteups.com/infosec-writeups-x-bsides-vizag-2025-cfp-now-open-6d526ed45613?source=rss----7b722bfd1b8d---4)
 - [[03]. I received $200 from Mozilla for a simple bypass](https://medium.com/@yoyomiski/03-i-received-200-from-mozilla-for-a-simple-bypass-fc5f1e020e9a?source=rss------bug_bounty_writeup-5)
-- [The 3 Best Tools for Bug Bounty / Pentesting](https://medium.com/@dr_1n-ctrl/the-3-best-tools-for-bug-bounty-pentesting-915e95686e6f?source=rss------bug_bounty_writeup-5)
 - [“Day 1: Breaking Into Bug Bounties — Your First Steps”](https://infosecwriteups.com/day-1-breaking-into-bug-bounties-your-first-steps-dd1007e8f098?source=rss----7b722bfd1b8d---4)
 - [“Day 8: Mobile Hacking — How I Cracked a Banking App’s PIN in 10 Seconds &lpar;$5000 Bug&rpar;”](https://infosecwriteups.com/day-8-mobile-hacking-how-i-cracked-a-banking-apps-pin-in-10-seconds-5000-bug-575bd10823cd?source=rss----7b722bfd1b8d---4)
 - [Double Trouble VulnHub Walkthrough: Step-by-Step Guide to Solving ‘Machine Inside a Machine’ for…](https://infosecwriteups.com/double-trouble-vulnhub-walkthrough-step-by-step-guide-to-solving-machine-inside-a-machine-for-b89b3561407e?source=rss----7b722bfd1b8d---4)
