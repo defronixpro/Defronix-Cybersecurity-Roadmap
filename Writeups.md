@@ -17,7 +17,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [The Best Alternatives to Intelx.io](https://systemweakness.com/the-best-alternatives-to-intelx-io-f1c469e23fb1?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Nightmare: How A Vulnerability Disclosure Turned into Nightmare !](https://devprogramming.medium.com/bug-bounty-nightmare-how-a-vulnerability-disclosure-turned-into-nightmare-dca809fa00d6?source=rss------bug_bounty_writeup-5)
 - [My 100 Hour Rule for Bug Bounty !](https://devprogramming.medium.com/my-100-hour-rule-for-bug-bounty-046f96fc7791?source=rss------bug_bounty_writeup-5)
-- [How I Removed Other User`s Uploaded Images in a Few Clicks](https://strangerwhite.medium.com/how-i-removed-other-user-s-uploaded-images-in-a-few-clicks-fdeb6355458b?source=rss------bug_bounty_writeup-5)
+- [How I Removed Other User`s Uploaded Images in a Few Clicks](https://infosecwriteups.com/how-i-removed-other-user-s-uploaded-images-in-a-few-clicks-fdeb6355458b?source=rss------bug_bounty_writeup-5)
 - [The Bug that made me a Bounty in only a Few Minutes](https://medium.com/@cheirishpro/the-bug-that-made-me-a-bounty-in-only-a-few-minutes-7cf92bb03c19?source=rss------bug_bounty_writeup-5)
 - [How a Simple Rate Limit Issue Earned Me €500](https://enterlectury.medium.com/how-a-simple-rate-limit-issue-earned-me-500-763aa5ae8ae1?source=rss------bug_bounty_writeup-5)
 - [[03]. I received $200 from Mozilla for a simple bypass](https://medium.com/@yoyomiski/03-i-received-200-from-mozilla-for-a-simple-bypass-fc5f1e020e9a?source=rss------bug_bounty_writeup-5)
