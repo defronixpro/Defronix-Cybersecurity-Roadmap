@@ -1,6 +1,8 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Mi P3 En la NASA con 16 Años](https://gorkaaa.medium.com/mi-p3-en-la-nasa-con-16-a%C3%B1os-b6ba79e1e4af?source=rss------bug_bounty_writeup-5)
+- [Mi P1 En la NASA con 16 Años](https://gorkaaa.medium.com/mi-p1-en-la-nasa-con-16-a%C3%B1os-3eba63256d5b?source=rss------bug_bounty_writeup-5)
 - [0-Click Account Takeover Through a Simple Password Reset Parameter](https://g0w6y.medium.com/0-click-account-takeover-through-a-simple-password-reset-parameter-482ad44019a2?source=rss------bug_bounty_writeup-5)
 - [A Race Condition Leads to Bypass Subscription Plan](https://medium.com/@youssefawad1357/a-race-condition-leads-to-bypass-subscription-plan-929abae2f355?source=rss------bug_bounty_writeup-5)
 - [☕ Web Cache Poisoning — How to Trick the Internet’s Memory and Serve Everyone Your “Special Recipe”](https://infosecwriteups.com/web-cache-poisoning-how-to-trick-the-internets-memory-and-serve-everyone-your-special-recipe-eea160e6bb89?source=rss------bug_bounty_writeup-5)
@@ -19,8 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How I Found a Critical XSS On a Public Bug Bounty Program](https://1-day.medium.com/how-i-found-a-critical-xss-on-a-public-bug-bounty-program-27d492117f61?source=rss------bug_bounty_writeup-5)
 - [$125 For Unauthorized Campaign Modification via Insecure ID Parameter &lpar;IDOR&rpar;](https://medium.com/@Tanvir0x1/125-for-unauthorized-campaign-modification-via-insecure-id-parameter-idor-cfda4db522e2?source=rss------bug_bounty_writeup-5)
 - [The Best Alternatives to Intelx.io](https://systemweakness.com/the-best-alternatives-to-intelx-io-f1c469e23fb1?source=rss------bug_bounty_writeup-5)
-- [Bug Bounty Nightmare: How A Vulnerability Disclosure Turned into Nightmare !](https://devprogramming.medium.com/bug-bounty-nightmare-how-a-vulnerability-disclosure-turned-into-nightmare-dca809fa00d6?source=rss------bug_bounty_writeup-5)
-- [My 100 Hour Rule for Bug Bounty !](https://devprogramming.medium.com/my-100-hour-rule-for-bug-bounty-046f96fc7791?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
