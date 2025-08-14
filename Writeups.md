@@ -1,6 +1,8 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Dorks For Sensitive Information Disclosure Part-3](https://infosecwriteups.com/dorks-for-sensitive-information-disclosure-part-3-a687a9c5a3bf?source=rss----7b722bfd1b8d---4)
+- [Spring Boot Slim-Down: 7 Proven Ways to Shrink JAR Size &amp; Speed Up Deployments &lpar;2025 Guide&rpar;](https://infosecwriteups.com/spring-boot-slim-down-7-proven-ways-to-shrink-jar-size-speed-up-deployments-2025-guide-6d1c59f05183?source=rss----7b722bfd1b8d---4)
 - [CVE-2023–38646 – Pre-Auth RCE in Metabase: One Token to Rule Them All](https://medium.com/@24bkdoor/cve-2023-38646-pre-auth-rce-in-metabase-one-token-to-rule-them-all-9bc6b5caa9c1?source=rss------bug_bounty_writeup-5)
 - [How I Found a Critical XSS On a Public Bug Bounty Program](https://1-day.medium.com/how-i-found-a-critical-xss-on-a-public-bug-bounty-program-27d492117f61?source=rss------bug_bounty_writeup-5)
 - [$125 For Unauthorized Campaign Modification via Insecure ID Parameter &lpar;IDOR&rpar;](https://medium.com/@Tanvir0x1/125-for-unauthorized-campaign-modification-via-insecure-id-parameter-idor-cfda4db522e2?source=rss------bug_bounty_writeup-5)
@@ -19,8 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [AWS SNS Secrets: From Misconfiguration to Exploitation - A CloudGoat Walkthrough](https://infosecwriteups.com/aws-sns-secrets-from-misconfiguration-to-exploitation-a-cloudgoat-walkthrough-68098308b148?source=rss----7b722bfd1b8d---4)
 - [Bugcrowd CTF 2025](https://infosecwriteups.com/bugcrowd-ctf-2025-2a6fb79fd5da?source=rss----7b722bfd1b8d---4)
 - [Logs Don’t Lie: How a GraphQL Debug Endpoint Spilled the Entire Database ️](https://infosecwriteups.com/logs-dont-lie-how-a-graphql-debug-endpoint-spilled-the-entire-database-%EF%B8%8F-a4b859ec6a1c?source=rss----7b722bfd1b8d---4)
-- [AI-Powered Cyber Attacks: Deepfakes, Bots, and Beyond](https://infosecwriteups.com/ai-powered-cyber-attacks-deepfakes-bots-and-beyond-7330bbb0cfff?source=rss----7b722bfd1b8d---4)
-- [A Deep Dive into Improper Authentication](https://infosecwriteups.com/a-deep-dive-into-improper-authentication-a68a92929f33?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
