@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [CVE-2023–38646 – Pre-Auth RCE in Metabase: One Token to Rule Them All](https://medium.com/@24bkdoor/cve-2023-38646-pre-auth-rce-in-metabase-one-token-to-rule-them-all-9bc6b5caa9c1?source=rss------bug_bounty_writeup-5)
 - [How I Found a Critical XSS On a Public Bug Bounty Program](https://1-day.medium.com/how-i-found-a-critical-xss-on-a-public-bug-bounty-program-27d492117f61?source=rss------bug_bounty_writeup-5)
 - [$125 For Unauthorized Campaign Modification via Insecure ID Parameter &lpar;IDOR&rpar;](https://medium.com/@Tanvir0x1/125-for-unauthorized-campaign-modification-via-insecure-id-parameter-idor-cfda4db522e2?source=rss------bug_bounty_writeup-5)
 - [The Best Alternatives to Intelx.io](https://systemweakness.com/the-best-alternatives-to-intelx-io-f1c469e23fb1?source=rss------bug_bounty_writeup-5)
@@ -932,7 +933,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How a Simple Rate Limit Issue Earned Me €500](https://enterlectury.medium.com/how-a-simple-rate-limit-issue-earned-me-500-763aa5ae8ae1?source=rss------bug_bounty_writeup-5)
 - [InfoSec Writeups x BSides Vizag 2025 — CFP Now Open!](https://infosecwriteups.com/infosec-writeups-x-bsides-vizag-2025-cfp-now-open-6d526ed45613?source=rss----7b722bfd1b8d---4)
 - [[03]. I received $200 from Mozilla for a simple bypass](https://medium.com/@yoyomiski/03-i-received-200-from-mozilla-for-a-simple-bypass-fc5f1e020e9a?source=rss------bug_bounty_writeup-5)
-- [The 3 Best Tools for Bug Bounty / Pentesting](https://medium.com/@dr_1n-ctrl/the-3-best-tools-for-bug-bounty-pentesting-915e95686e6f?source=rss------bug_bounty_writeup-5)
 - [“Day 1: Breaking Into Bug Bounties — Your First Steps”](https://infosecwriteups.com/day-1-breaking-into-bug-bounties-your-first-steps-dd1007e8f098?source=rss----7b722bfd1b8d---4)
 - [“Day 8: Mobile Hacking — How I Cracked a Banking App’s PIN in 10 Seconds &lpar;$5000 Bug&rpar;”](https://infosecwriteups.com/day-8-mobile-hacking-how-i-cracked-a-banking-apps-pin-in-10-seconds-5000-bug-575bd10823cd?source=rss----7b722bfd1b8d---4)
 - [Double Trouble VulnHub Walkthrough: Step-by-Step Guide to Solving ‘Machine Inside a Machine’ for…](https://infosecwriteups.com/double-trouble-vulnhub-walkthrough-step-by-step-guide-to-solving-machine-inside-a-machine-for-b89b3561407e?source=rss----7b722bfd1b8d---4)
@@ -946,7 +946,17 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
 - [How to backup and restore the Windows Registry](https://www.bleepingcomputer.com/tutorials/how-to-backup-and-restore-the-windows-registry/)
+- [How To Fix Error: Externally-Managed-Environment In Python &lpar;Kali Linux&rpar;](https://technicalnavigator.in/how-to-fix-error-externally-managed-environment-in-python-kali-linux/)
+- [Understanding Systemctl Command in Linux &lpar;Practical&rpar;](https://technicalnavigator.in/understanding-systemctl-command-in-linux-practical/)
+- [Macros in docm &amp; Linux memory dump| Hack The Boo  Challanges](https://technicalnavigator.in/macros-in-docm-linux-memory-dump-hack-the-boo-challanges/)
+- [Android Apps debugging |  Frida, JADX, Genymotion](https://technicalnavigator.in/android-apps-debugging-frida-jadx-genymotion/)
+- [MouseServer | wifimouse – Windows/ Linux](https://technicalnavigator.in/mouseserver-wifimouse-windows-linux/)
+- [FFUF fuzzer | web-application penetration-testing](https://technicalnavigator.in/ffuf-fuzzer-web-application-penetration-testing/)
 - [How to open a Windows 11 Command Prompt as Administrator](https://www.bleepingcomputer.com/tutorials/how-to-open-a-windows-11-command-prompt-as-administrator/)
+- [Classes-Objects &amp; Deserialization bug](https://technicalnavigator.in/classes-objects-deserialization-bug/)
+- [Loki Tool | Multhreading Over Sockets in C](https://technicalnavigator.in/loki-tool-multhreading-over-sockets-in-c/)
+- [Egghunter | NASM | C prototype](https://technicalnavigator.in/egghunter-nasm-c-prototype/)
+- [TELNET &amp; FTP Analysis](https://technicalnavigator.in/telnet-ftp-analysis/)
 - [How to make the Start menu full screen in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-make-the-start-menu-full-screen-in-windows-10/)
 - [How to install the Microsoft Visual C++ 2015 Runtime](https://www.bleepingcomputer.com/tutorials/how-to-install-the-microsoft-visual-c-2015-runtime/)
 - [How to open an elevated PowerShell Admin prompt in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-open-an-elevated-powershell-admin-prompt-in-windows-10/)
