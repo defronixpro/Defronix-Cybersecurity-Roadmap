@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Episode 2: Brute Force Attacks — When Hackers Keep Knocking Until the Door Opens](https://osintteam.blog/episode-2-brute-force-attacks-when-hackers-keep-knocking-until-the-door-opens-f08d6f386cfc?source=rss------bug_bounty_writeup-5)
+- [Episode 3 — Riding the Session Wave: Understanding Session Hijacking](https://osintteam.blog/episode-3-riding-the-session-wave-understanding-session-hijacking-1d94bcba05bf?source=rss------bug_bounty_writeup-5)
 - [How I Turned a Simple OAuth Bug Into a One-Click Account Takeover](https://sr0x01.medium.com/how-i-turned-a-simple-oauth-bug-into-a-one-click-account-takeover-d8ac8f4c149f?source=rss------bug_bounty_writeup-5)
 - [Rate limit bypass leads to email triggering&lpar;$$$&rpar;](https://sr0x01.medium.com/rate-limit-bypass-leads-to-email-triggering-665a9cd1c3f3?source=rss------bug_bounty_writeup-5)
 - [Disclose Page Admins via Facebook Appointments](https://medium.com/@ramzybouyahya/disclose-page-admins-via-facebook-appointments-4925b899e79a?source=rss------bug_bounty_writeup-5)
@@ -930,8 +932,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [A Beginner’s Guide to Google Dorking: Unlocking Hidden Web Data](https://medium.com/@warang.harmit/a-beginners-guide-to-google-dorking-unlocking-hidden-web-data-57ef6e0325ca?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty: Lo que parece innecesario para el usuario, a veces es esencial para el atacante](https://gorkaaa.medium.com/bug-bounty-lo-que-parece-innecesario-para-el-usuario-a-veces-es-esencial-para-el-atacante-32961185d286?source=rss------bug_bounty_writeup-5)
 - [Dorks For Sensitive Information Disclosure Part-1](https://teamdh49.medium.com/dorks-for-sensitive-information-disclosure-part-1-185e19512f33?source=rss------bug_bounty_writeup-5)
-- [Shodan’t Have Shown That: How an Exposed Device Led to Source Code](https://teamdh49.medium.com/shodant-have-shown-that-how-an-exposed-device-led-to-source-code-3371c1160439?source=rss------bug_bounty_writeup-5)
-- [Reflected XSS Filter Bypass in Search Functionality](https://kashsecurity.medium.com/reflected-xss-filter-bypass-in-search-functionality-be2d511e7621?source=rss------bug_bounty_writeup-5)
 - [Hacking AI is TOO EASY &lpar;This Should Be Illegal&rpar;](https://infosecwriteups.com/hacking-ai-is-too-easy-this-should-be-illegal-90dd2b7b05bd?source=rss----7b722bfd1b8d---4)
 - [CSRF Testing Methodology: From Detection to Exploitation](https://infosecwriteups.com/csrf-testing-methodology-from-detection-to-exploitation-4235423af02e?source=rss----7b722bfd1b8d---4)
 - [JWT Pentesting: A Journey from Token to Takeover](https://infosecwriteups.com/jwt-pentesting-a-journey-from-token-to-takeover-1b2a7af08933?source=rss----7b722bfd1b8d---4)
