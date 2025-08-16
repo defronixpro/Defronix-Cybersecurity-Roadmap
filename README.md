@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [A Beginner’s Guide to Google Dorking: Unlocking Hidden Web Data](https://medium.com/@warang.harmit/a-beginners-guide-to-google-dorking-unlocking-hidden-web-data-57ef6e0325ca?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty: Lo que parece innecesario para el usuario, a veces es esencial para el atacante](https://gorkaaa.medium.com/bug-bounty-lo-que-parece-innecesario-para-el-usuario-a-veces-es-esencial-para-el-atacante-32961185d286?source=rss------bug_bounty_writeup-5)
 - [Dorks For Sensitive Information Disclosure Part-1](https://teamdh49.medium.com/dorks-for-sensitive-information-disclosure-part-1-185e19512f33?source=rss------bug_bounty_writeup-5)
 - [Shodan’t Have Shown That: How an Exposed Device Led to Source Code](https://teamdh49.medium.com/shodant-have-shown-that-how-an-exposed-device-led-to-source-code-3371c1160439?source=rss------bug_bounty_writeup-5)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Mi P3 En la NASA con 16 Años](https://gorkaaa.medium.com/mi-p3-en-la-nasa-con-16-a%C3%B1os-b6ba79e1e4af?source=rss------bug_bounty_writeup-5)
 - [Mi P1 En la NASA con 16 Años](https://gorkaaa.medium.com/mi-p1-en-la-nasa-con-16-a%C3%B1os-3eba63256d5b?source=rss------bug_bounty_writeup-5)
 - [0-Click Account Takeover Through a Simple Password Reset Parameter](https://g0w6y.medium.com/0-click-account-takeover-through-a-simple-password-reset-parameter-482ad44019a2?source=rss------bug_bounty_writeup-5)
-- [A Race Condition Leads to Bypass Subscription Plan](https://medium.com/@youssefawad1357/a-race-condition-leads-to-bypass-subscription-plan-929abae2f355?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
