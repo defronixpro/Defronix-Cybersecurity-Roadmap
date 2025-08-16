@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Disclose Page Admins via Facebook Appointments](https://medium.com/@ramzybouyahya/disclose-page-admins-via-facebook-appointments-4925b899e79a?source=rss------bug_bounty_writeup-5)
+- [Disclosing Private Group Members via Facebook Rooms](https://medium.com/@ramzybouyahya/disclosing-private-group-members-via-facebook-rooms-d2e805ac8441?source=rss------bug_bounty_writeup-5)
 - [اكتشفت اول ثغره ليا و كانت Stored XSS](https://medium.com/@abdallanofal9/%D8%A7%D9%83%D8%AA%D8%B4%D9%81%D8%AA-%D8%A7%D9%88%D9%84-%D8%AB%D8%BA%D8%B1%D9%87-%D9%84%D9%8A%D8%A7-%D9%88-%D9%83%D8%A7%D9%86%D8%AA-stored-xss-c24861237c9a?source=rss------bug_bounty_writeup-5)
 - [A Beginner’s Guide to Google Dorking: Unlocking Hidden Web Data](https://medium.com/@warang.harmit/a-beginners-guide-to-google-dorking-unlocking-hidden-web-data-57ef6e0325ca?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty: Lo que parece innecesario para el usuario, a veces es esencial para el atacante](https://gorkaaa.medium.com/bug-bounty-lo-que-parece-innecesario-para-el-usuario-a-veces-es-esencial-para-el-atacante-32961185d286?source=rss------bug_bounty_writeup-5)
@@ -940,8 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [“Unfiltered Talk” — How Target Chatbot Let Me Redecorate Their Website](https://infosecwriteups.com/unfiltered-talk-how-target-chatbot-let-me-redecorate-their-website-693150c9a9e5?source=rss----7b722bfd1b8d---4)
 - [The Kernel Speaks C, but the World Dreams in C++](https://infosecwriteups.com/the-kernel-speaks-c-but-the-world-dreams-in-c-a6672ec7fb3b?source=rss----7b722bfd1b8d---4)
 - [Account Deletion Security Pitfalls — A Bug Bounty Case Study](https://sohanxp56.medium.com/account-deletion-security-pitfalls-a-bug-bounty-case-study-8ab8fe7ac8f5?source=rss------bug_bounty_writeup-5)
-- [Mi P3 En la NASA con 16 Años](https://gorkaaa.medium.com/mi-p3-en-la-nasa-con-16-a%C3%B1os-b6ba79e1e4af?source=rss------bug_bounty_writeup-5)
-- [Mi P1 En la NASA con 16 Años](https://gorkaaa.medium.com/mi-p1-en-la-nasa-con-16-a%C3%B1os-3eba63256d5b?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
