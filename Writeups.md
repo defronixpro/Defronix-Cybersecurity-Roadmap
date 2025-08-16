@@ -1,6 +1,8 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How I Turned a Simple OAuth Bug Into a One-Click Account Takeover](https://sr0x01.medium.com/how-i-turned-a-simple-oauth-bug-into-a-one-click-account-takeover-d8ac8f4c149f?source=rss------bug_bounty_writeup-5)
+- [Rate limit bypass leads to email triggering&lpar;$$$&rpar;](https://sr0x01.medium.com/rate-limit-bypass-leads-to-email-triggering-665a9cd1c3f3?source=rss------bug_bounty_writeup-5)
 - [Disclose Page Admins via Facebook Appointments](https://medium.com/@ramzybouyahya/disclose-page-admins-via-facebook-appointments-4925b899e79a?source=rss------bug_bounty_writeup-5)
 - [Disclosing Private Group Members via Facebook Rooms](https://medium.com/@ramzybouyahya/disclosing-private-group-members-via-facebook-rooms-d2e805ac8441?source=rss------bug_bounty_writeup-5)
 - [اكتشفت اول ثغره ليا و كانت Stored XSS](https://medium.com/@abdallanofal9/%D8%A7%D9%83%D8%AA%D8%B4%D9%81%D8%AA-%D8%A7%D9%88%D9%84-%D8%AB%D8%BA%D8%B1%D9%87-%D9%84%D9%8A%D8%A7-%D9%88-%D9%83%D8%A7%D9%86%D8%AA-stored-xss-c24861237c9a?source=rss------bug_bounty_writeup-5)
@@ -9,7 +11,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Dorks For Sensitive Information Disclosure Part-1](https://teamdh49.medium.com/dorks-for-sensitive-information-disclosure-part-1-185e19512f33?source=rss------bug_bounty_writeup-5)
 - [Shodan’t Have Shown That: How an Exposed Device Led to Source Code](https://teamdh49.medium.com/shodant-have-shown-that-how-an-exposed-device-led-to-source-code-3371c1160439?source=rss------bug_bounty_writeup-5)
 - [Reflected XSS Filter Bypass in Search Functionality](https://kashsecurity.medium.com/reflected-xss-filter-bypass-in-search-functionality-be2d511e7621?source=rss------bug_bounty_writeup-5)
-- [Easy 130$ Bounty: User to Admin](https://medium.com/@sari.mmusab/easy-130-bounty-user-to-admin-fe9340ff9bd3?source=rss------bug_bounty_writeup-5)
 - [Hacking AI is TOO EASY &lpar;This Should Be Illegal&rpar;](https://infosecwriteups.com/hacking-ai-is-too-easy-this-should-be-illegal-90dd2b7b05bd?source=rss----7b722bfd1b8d---4)
 - [CSRF Testing Methodology: From Detection to Exploitation](https://infosecwriteups.com/csrf-testing-methodology-from-detection-to-exploitation-4235423af02e?source=rss----7b722bfd1b8d---4)
 - [JWT Pentesting: A Journey from Token to Takeover](https://infosecwriteups.com/jwt-pentesting-a-journey-from-token-to-takeover-1b2a7af08933?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Remote File Inclusion &lpar;RFI&rpar; — Full Breakdown for Beginners](https://infosecwriteups.com/remote-file-inclusion-rfi-full-breakdown-for-beginners-7f89c55e3b2a?source=rss----7b722bfd1b8d---4)
 - [“Unfiltered Talk” — How Target Chatbot Let Me Redecorate Their Website](https://infosecwriteups.com/unfiltered-talk-how-target-chatbot-let-me-redecorate-their-website-693150c9a9e5?source=rss----7b722bfd1b8d---4)
 - [The Kernel Speaks C, but the World Dreams in C++](https://infosecwriteups.com/the-kernel-speaks-c-but-the-world-dreams-in-c-a6672ec7fb3b?source=rss----7b722bfd1b8d---4)
-- [Account Deletion Security Pitfalls — A Bug Bounty Case Study](https://sohanxp56.medium.com/account-deletion-security-pitfalls-a-bug-bounty-case-study-8ab8fe7ac8f5?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
