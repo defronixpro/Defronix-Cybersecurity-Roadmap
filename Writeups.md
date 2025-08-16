@@ -1,6 +1,8 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Dorks For Sensitive Information Disclosure Part-1](https://teamdh49.medium.com/dorks-for-sensitive-information-disclosure-part-1-185e19512f33?source=rss------bug_bounty_writeup-5)
+- [Shodan’t Have Shown That: How an Exposed Device Led to Source Code](https://teamdh49.medium.com/shodant-have-shown-that-how-an-exposed-device-led-to-source-code-3371c1160439?source=rss------bug_bounty_writeup-5)
 - [Reflected XSS Filter Bypass in Search Functionality](https://kashsecurity.medium.com/reflected-xss-filter-bypass-in-search-functionality-be2d511e7621?source=rss------bug_bounty_writeup-5)
 - [Easy 130$ Bounty: User to Admin](https://medium.com/@sari.mmusab/easy-130-bounty-user-to-admin-fe9340ff9bd3?source=rss------bug_bounty_writeup-5)
 - [Hacking AI is TOO EASY &lpar;This Should Be Illegal&rpar;](https://infosecwriteups.com/hacking-ai-is-too-easy-this-should-be-illegal-90dd2b7b05bd?source=rss----7b722bfd1b8d---4)
@@ -19,8 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [0-Click Account Takeover Through a Simple Password Reset Parameter](https://g0w6y.medium.com/0-click-account-takeover-through-a-simple-password-reset-parameter-482ad44019a2?source=rss------bug_bounty_writeup-5)
 - [A Race Condition Leads to Bypass Subscription Plan](https://medium.com/@youssefawad1357/a-race-condition-leads-to-bypass-subscription-plan-929abae2f355?source=rss------bug_bounty_writeup-5)
 - [☕ Web Cache Poisoning — How to Trick the Internet’s Memory and Serve Everyone Your “Special Recipe”](https://infosecwriteups.com/web-cache-poisoning-how-to-trick-the-internets-memory-and-serve-everyone-your-special-recipe-eea160e6bb89?source=rss------bug_bounty_writeup-5)
-- [Alright — I’ll expand your English writeup into a full, detailed, technical case study that works…](https://medium.com/codex/alright-ill-expand-your-english-writeup-into-a-full-detailed-technical-case-study-that-works-d7bca86c79db?source=rss------bug_bounty_writeup-5)
-- [CVE-2023–38646 – Pre-Auth RCE in Metabase: One Token to Rule Them All](https://medium.com/@24bkdoor/cve-2023-38646-pre-auth-rce-in-metabase-one-token-to-rule-them-all-9bc6b5caa9c1?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
