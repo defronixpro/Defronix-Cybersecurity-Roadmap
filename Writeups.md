@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [اكتشفت اول ثغره ليا و كانت Stored XSS](https://medium.com/@abdallanofal9/%D8%A7%D9%83%D8%AA%D8%B4%D9%81%D8%AA-%D8%A7%D9%88%D9%84-%D8%AB%D8%BA%D8%B1%D9%87-%D9%84%D9%8A%D8%A7-%D9%88-%D9%83%D8%A7%D9%86%D8%AA-stored-xss-c24861237c9a?source=rss------bug_bounty_writeup-5)
 - [A Beginner’s Guide to Google Dorking: Unlocking Hidden Web Data](https://medium.com/@warang.harmit/a-beginners-guide-to-google-dorking-unlocking-hidden-web-data-57ef6e0325ca?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty: Lo que parece innecesario para el usuario, a veces es esencial para el atacante](https://gorkaaa.medium.com/bug-bounty-lo-que-parece-innecesario-para-el-usuario-a-veces-es-esencial-para-el-atacante-32961185d286?source=rss------bug_bounty_writeup-5)
 - [Dorks For Sensitive Information Disclosure Part-1](https://teamdh49.medium.com/dorks-for-sensitive-information-disclosure-part-1-185e19512f33?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Account Deletion Security Pitfalls — A Bug Bounty Case Study](https://sohanxp56.medium.com/account-deletion-security-pitfalls-a-bug-bounty-case-study-8ab8fe7ac8f5?source=rss------bug_bounty_writeup-5)
 - [Mi P3 En la NASA con 16 Años](https://gorkaaa.medium.com/mi-p3-en-la-nasa-con-16-a%C3%B1os-b6ba79e1e4af?source=rss------bug_bounty_writeup-5)
 - [Mi P1 En la NASA con 16 Años](https://gorkaaa.medium.com/mi-p1-en-la-nasa-con-16-a%C3%B1os-3eba63256d5b?source=rss------bug_bounty_writeup-5)
-- [0-Click Account Takeover Through a Simple Password Reset Parameter](https://g0w6y.medium.com/0-click-account-takeover-through-a-simple-password-reset-parameter-482ad44019a2?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
