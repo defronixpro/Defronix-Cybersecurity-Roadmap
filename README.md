@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Stored XSS in episode notes allows for account takeover](https://medium.com/@edahmed008/stored-xss-in-episode-notes-allows-for-account-takeover-c6c333a07575?source=rss------bug_bounty_writeup-5)
 - [Cada funcionalidad es una promesa: ¿la cumple para todos?](https://gorkaaa.medium.com/cada-funcionalidad-es-una-promesa-la-cumple-para-todos-9125ef7b7e92?source=rss------bug_bounty_writeup-5)
 - [My First 150 Days Bug Bounty Hunting](https://medium.com/@YourFinalSin/my-first-150-days-bug-bounty-hunting-034623c89836?source=rss------bug_bounty_writeup-5)
 - [Episode 2: Brute Force Attacks — When Hackers Keep Knocking Until the Door Opens](https://osintteam.blog/episode-2-brute-force-attacks-when-hackers-keep-knocking-until-the-door-opens-f08d6f386cfc?source=rss------bug_bounty_writeup-5)
@@ -931,7 +932,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Disclose Page Admins via Facebook Appointments](https://medium.com/@ramzybouyahya/disclose-page-admins-via-facebook-appointments-4925b899e79a?source=rss------bug_bounty_writeup-5)
 - [Disclosing Private Group Members via Facebook Rooms](https://medium.com/@ramzybouyahya/disclosing-private-group-members-via-facebook-rooms-d2e805ac8441?source=rss------bug_bounty_writeup-5)
 - [اكتشفت اول ثغره ليا و كانت Stored XSS](https://medium.com/@abdallanofal9/%D8%A7%D9%83%D8%AA%D8%B4%D9%81%D8%AA-%D8%A7%D9%88%D9%84-%D8%AB%D8%BA%D8%B1%D9%87-%D9%84%D9%8A%D8%A7-%D9%88-%D9%83%D8%A7%D9%86%D8%AA-stored-xss-c24861237c9a?source=rss------bug_bounty_writeup-5)
-- [A Beginner’s Guide to Google Dorking: Unlocking Hidden Web Data](https://medium.com/@warang.harmit/a-beginners-guide-to-google-dorking-unlocking-hidden-web-data-57ef6e0325ca?source=rss------bug_bounty_writeup-5)
 - [Hacking AI is TOO EASY &lpar;This Should Be Illegal&rpar;](https://infosecwriteups.com/hacking-ai-is-too-easy-this-should-be-illegal-90dd2b7b05bd?source=rss----7b722bfd1b8d---4)
 - [CSRF Testing Methodology: From Detection to Exploitation](https://infosecwriteups.com/csrf-testing-methodology-from-detection-to-exploitation-4235423af02e?source=rss----7b722bfd1b8d---4)
 - [JWT Pentesting: A Journey from Token to Takeover](https://infosecwriteups.com/jwt-pentesting-a-journey-from-token-to-takeover-1b2a7af08933?source=rss----7b722bfd1b8d---4)
