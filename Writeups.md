@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [The Ultimate Guide to API Hacking in 2025: From Basics to Advanced Exploits](https://samael0x4.medium.com/the-ultimate-guide-to-api-hacking-in-2025-from-basics-to-advanced-exploits-fa31be273c5f?source=rss------bug_bounty_writeup-5)
 - [How I Discovered a Critical SQL Injection in a Private Bug Bounty Program](https://medium.com/@salaheddine_kalada/how-i-discovered-a-critical-sql-injection-in-a-private-bug-bounty-program-d1f4735c0b59?source=rss------bug_bounty_writeup-5)
 - [4 Counterfeited Valid Certificates Leaked Using Bug Bounty Skills](https://medium.com/great-hackers-battalion/reccoinassance-using-bug-bounty-skills-3ed856006b74?source=rss------bug_bounty_writeup-5)
 - [️ KeySentry v2 — Stop API Key Leaks Before They Stop You](https://infosecwriteups.com/%EF%B8%8F-keysentry-v2-stop-api-key-leaks-before-they-stop-you-9be0dc734932?source=rss------bug_bounty_writeup-5)
@@ -10,7 +11,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Cada funcionalidad es una promesa: ¿la cumple para todos?](https://gorkaaa.medium.com/cada-funcionalidad-es-una-promesa-la-cumple-para-todos-9125ef7b7e92?source=rss------bug_bounty_writeup-5)
 - [My First 150 Days Bug Bounty Hunting](https://medium.com/@YourFinalSin/my-first-150-days-bug-bounty-hunting-034623c89836?source=rss------bug_bounty_writeup-5)
 - [Episode 2: Brute Force Attacks — When Hackers Keep Knocking Until the Door Opens](https://osintteam.blog/episode-2-brute-force-attacks-when-hackers-keep-knocking-until-the-door-opens-f08d6f386cfc?source=rss------bug_bounty_writeup-5)
-- [Episode 3 — Riding the Session Wave: Understanding Session Hijacking](https://osintteam.blog/episode-3-riding-the-session-wave-understanding-session-hijacking-1d94bcba05bf?source=rss------bug_bounty_writeup-5)
 - [Hacking AI is TOO EASY &lpar;This Should Be Illegal&rpar;](https://infosecwriteups.com/hacking-ai-is-too-easy-this-should-be-illegal-90dd2b7b05bd?source=rss----7b722bfd1b8d---4)
 - [CSRF Testing Methodology: From Detection to Exploitation](https://infosecwriteups.com/csrf-testing-methodology-from-detection-to-exploitation-4235423af02e?source=rss----7b722bfd1b8d---4)
 - [JWT Pentesting: A Journey from Token to Takeover](https://infosecwriteups.com/jwt-pentesting-a-journey-from-token-to-takeover-1b2a7af08933?source=rss----7b722bfd1b8d---4)
