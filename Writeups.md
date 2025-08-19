@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [My First Bug-Hunting Adventure: A Privilege Escalation Tale](https://medium.com/@solutionexit5/my-first-bug-hunting-adventure-a-privilege-escalation-tale-89aad782981f?source=rss------bug_bounty_writeup-5)
 - [Reconocimiento web sin herramientas comunes: un método manual para bug bounty hunters](https://gorkaaa.medium.com/reconocimiento-web-sin-herramientas-comunes-un-m%C3%A9todo-manual-para-bug-bounty-hunters-1dbfbc2f3b5a?source=rss------bug_bounty_writeup-5)
 - [The Ultimate Guide to API Hacking in 2025: From Basics to Advanced Exploits](https://samael0x4.medium.com/the-ultimate-guide-to-api-hacking-in-2025-from-basics-to-advanced-exploits-fa31be273c5f?source=rss------bug_bounty_writeup-5)
 - [How I Discovered a Critical SQL Injection in a Private Bug Bounty Program](https://medium.com/@salaheddine_kalada/how-i-discovered-a-critical-sql-injection-in-a-private-bug-bounty-program-d1f4735c0b59?source=rss------bug_bounty_writeup-5)
@@ -10,7 +11,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Simple 2FA Bypass PortSwigger Writeup: How I Used This Method for a Real-Time Bug and Earned $2,500](https://mukibas37.medium.com/simple-2fa-bypass-portswigger-writeup-how-i-used-this-method-for-a-real-time-bug-and-earned-2-500-d18b5e317c3a?source=rss------bug_bounty_writeup-5)
 - [Stored XSS in episode notes allows for account takeover](https://medium.com/@edahmed008/stored-xss-in-episode-notes-allows-for-account-takeover-c6c333a07575?source=rss------bug_bounty_writeup-5)
 - [Cada funcionalidad es una promesa: ¿la cumple para todos?](https://gorkaaa.medium.com/cada-funcionalidad-es-una-promesa-la-cumple-para-todos-9125ef7b7e92?source=rss------bug_bounty_writeup-5)
-- [My First 150 Days Bug Bounty Hunting](https://medium.com/@YourFinalSin/my-first-150-days-bug-bounty-hunting-034623c89836?source=rss------bug_bounty_writeup-5)
 - [Hacking AI is TOO EASY &lpar;This Should Be Illegal&rpar;](https://infosecwriteups.com/hacking-ai-is-too-easy-this-should-be-illegal-90dd2b7b05bd?source=rss----7b722bfd1b8d---4)
 - [CSRF Testing Methodology: From Detection to Exploitation](https://infosecwriteups.com/csrf-testing-methodology-from-detection-to-exploitation-4235423af02e?source=rss----7b722bfd1b8d---4)
 - [JWT Pentesting: A Journey from Token to Takeover](https://infosecwriteups.com/jwt-pentesting-a-journey-from-token-to-takeover-1b2a7af08933?source=rss----7b722bfd1b8d---4)
