@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Invite Link Doesn’t Expire After Organization Deletion](https://medium.com/@edahmed008/invite-link-doesnt-expire-after-organization-deletion-d892d50fde4e?source=rss------bug_bounty_writeup-5)
 - [My First Bug-Hunting Adventure: A Privilege Escalation Tale](https://medium.com/@solutionexit5/my-first-bug-hunting-adventure-a-privilege-escalation-tale-89aad782981f?source=rss------bug_bounty_writeup-5)
 - [Reconocimiento web sin herramientas comunes: un método manual para bug bounty hunters](https://gorkaaa.medium.com/reconocimiento-web-sin-herramientas-comunes-un-m%C3%A9todo-manual-para-bug-bounty-hunters-1dbfbc2f3b5a?source=rss------bug_bounty_writeup-5)
 - [The Ultimate Guide to API Hacking in 2025: From Basics to Advanced Exploits](https://samael0x4.medium.com/the-ultimate-guide-to-api-hacking-in-2025-from-basics-to-advanced-exploits-fa31be273c5f?source=rss------bug_bounty_writeup-5)
@@ -931,7 +932,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [From Findings to Fixes: My Experience Creating a Penetration Testing Report](https://medium.com/@drizzlehx/from-findings-to-fixes-my-experience-creating-a-penetration-testing-report-d3cf308e10cd?source=rss------bug_bounty_writeup-5)
 - [Simple 2FA Bypass PortSwigger Writeup: How I Used This Method for a Real-Time Bug and Earned $2,500](https://mukibas37.medium.com/simple-2fa-bypass-portswigger-writeup-how-i-used-this-method-for-a-real-time-bug-and-earned-2-500-d18b5e317c3a?source=rss------bug_bounty_writeup-5)
 - [Stored XSS in episode notes allows for account takeover](https://medium.com/@edahmed008/stored-xss-in-episode-notes-allows-for-account-takeover-c6c333a07575?source=rss------bug_bounty_writeup-5)
-- [Cada funcionalidad es una promesa: ¿la cumple para todos?](https://gorkaaa.medium.com/cada-funcionalidad-es-una-promesa-la-cumple-para-todos-9125ef7b7e92?source=rss------bug_bounty_writeup-5)
 - [Hacking AI is TOO EASY &lpar;This Should Be Illegal&rpar;](https://infosecwriteups.com/hacking-ai-is-too-easy-this-should-be-illegal-90dd2b7b05bd?source=rss----7b722bfd1b8d---4)
 - [CSRF Testing Methodology: From Detection to Exploitation](https://infosecwriteups.com/csrf-testing-methodology-from-detection-to-exploitation-4235423af02e?source=rss----7b722bfd1b8d---4)
 - [JWT Pentesting: A Journey from Token to Takeover](https://infosecwriteups.com/jwt-pentesting-a-journey-from-token-to-takeover-1b2a7af08933?source=rss----7b722bfd1b8d---4)
@@ -946,17 +946,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
 - [How to backup and restore the Windows Registry](https://www.bleepingcomputer.com/tutorials/how-to-backup-and-restore-the-windows-registry/)
-- [How To Fix Error: Externally-Managed-Environment In Python &lpar;Kali Linux&rpar;](https://technicalnavigator.in/how-to-fix-error-externally-managed-environment-in-python-kali-linux/)
-- [Understanding Systemctl Command in Linux &lpar;Practical&rpar;](https://technicalnavigator.in/understanding-systemctl-command-in-linux-practical/)
-- [Macros in docm &amp; Linux memory dump| Hack The Boo  Challanges](https://technicalnavigator.in/macros-in-docm-linux-memory-dump-hack-the-boo-challanges/)
-- [Android Apps debugging |  Frida, JADX, Genymotion](https://technicalnavigator.in/android-apps-debugging-frida-jadx-genymotion/)
-- [MouseServer | wifimouse – Windows/ Linux](https://technicalnavigator.in/mouseserver-wifimouse-windows-linux/)
-- [FFUF fuzzer | web-application penetration-testing](https://technicalnavigator.in/ffuf-fuzzer-web-application-penetration-testing/)
 - [How to open a Windows 11 Command Prompt as Administrator](https://www.bleepingcomputer.com/tutorials/how-to-open-a-windows-11-command-prompt-as-administrator/)
-- [Classes-Objects &amp; Deserialization bug](https://technicalnavigator.in/classes-objects-deserialization-bug/)
-- [Loki Tool | Multhreading Over Sockets in C](https://technicalnavigator.in/loki-tool-multhreading-over-sockets-in-c/)
-- [Egghunter | NASM | C prototype](https://technicalnavigator.in/egghunter-nasm-c-prototype/)
-- [TELNET &amp; FTP Analysis](https://technicalnavigator.in/telnet-ftp-analysis/)
 - [How to make the Start menu full screen in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-make-the-start-menu-full-screen-in-windows-10/)
 - [How to install the Microsoft Visual C++ 2015 Runtime](https://www.bleepingcomputer.com/tutorials/how-to-install-the-microsoft-visual-c-2015-runtime/)
 - [How to open an elevated PowerShell Admin prompt in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-open-an-elevated-powershell-admin-prompt-in-windows-10/)
