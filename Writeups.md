@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Finding Your First High Severity Bug](https://medium.com/no-time/finding-your-first-high-severity-bug-535b4631517b?source=rss------bug_bounty_writeup-5)
 - [Tools Every Bug Bounty Hunter Should Know for Reconnaissance](https://medium.com/@ajudeb55/tools-every-bug-bounty-hunter-should-know-for-reconnaissance-822c2a04b6f7?source=rss------bug_bounty_writeup-5)
 - [Invite Link Doesn’t Expire After Organization Deletion](https://medium.com/@edahmed008/invite-link-doesnt-expire-after-organization-deletion-d892d50fde4e?source=rss------bug_bounty_writeup-5)
 - [My First Bug-Hunting Adventure: A Privilege Escalation Tale](https://medium.com/@solutionexit5/my-first-bug-hunting-adventure-a-privilege-escalation-tale-89aad782981f?source=rss------bug_bounty_writeup-5)
@@ -9,7 +10,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How I Discovered a Critical SQL Injection in a Private Bug Bounty Program](https://medium.com/@salaheddine_kalada/how-i-discovered-a-critical-sql-injection-in-a-private-bug-bounty-program-d1f4735c0b59?source=rss------bug_bounty_writeup-5)
 - [4 Counterfeited Valid Certificates Leaked Using Bug Bounty Skills](https://medium.com/great-hackers-battalion/reccoinassance-using-bug-bounty-skills-3ed856006b74?source=rss------bug_bounty_writeup-5)
 - [️ KeySentry v2 — Stop API Key Leaks Before They Stop You](https://infosecwriteups.com/%EF%B8%8F-keysentry-v2-stop-api-key-leaks-before-they-stop-you-9be0dc734932?source=rss------bug_bounty_writeup-5)
-- [From Findings to Fixes: My Experience Creating a Penetration Testing Report](https://medium.com/@drizzlehx/from-findings-to-fixes-my-experience-creating-a-penetration-testing-report-d3cf308e10cd?source=rss------bug_bounty_writeup-5)
 - [Hacking AI is TOO EASY &lpar;This Should Be Illegal&rpar;](https://infosecwriteups.com/hacking-ai-is-too-easy-this-should-be-illegal-90dd2b7b05bd?source=rss----7b722bfd1b8d---4)
 - [CSRF Testing Methodology: From Detection to Exploitation](https://infosecwriteups.com/csrf-testing-methodology-from-detection-to-exploitation-4235423af02e?source=rss----7b722bfd1b8d---4)
 - [JWT Pentesting: A Journey from Token to Takeover](https://infosecwriteups.com/jwt-pentesting-a-journey-from-token-to-takeover-1b2a7af08933?source=rss----7b722bfd1b8d---4)
