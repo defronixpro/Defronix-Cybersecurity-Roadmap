@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I Found a Critical Sony Vulnerability: Improper Authentication — Generic](https://medium.com/@iprogrammer16/how-i-found-a-critical-sony-vulnerability-improper-authentication-generic-2a215962b6dd?source=rss------bug_bounty_writeup-5)
 - [¿La IA va a reemplazar a los Bug Bounty Hunters?](https://gorkaaa.medium.com/la-ia-va-a-reemplazar-a-los-bug-bounty-hunters-8d43f5ec456e?source=rss------bug_bounty_writeup-5)
 - [Stored XSS via Unsanitized SVG File Upload](https://medium.com/@youssefawad1357/stored-xss-via-unsanitized-svg-file-upload-d7e4619cc937?source=rss------bug_bounty_writeup-5)
 - [“Day 7: API Hacking — How I Stole 5000 OAuth Tokens &amp; Won $300”](https://infosecwriteups.com/day-7-api-hacking-how-i-stole-5000-oauth-tokens-won-300-49b988ed8e21?source=rss----7b722bfd1b8d---4)
@@ -940,7 +941,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Invite Link Doesn’t Expire After Organization Deletion](https://medium.com/@edahmed008/invite-link-doesnt-expire-after-organization-deletion-d892d50fde4e?source=rss------bug_bounty_writeup-5)
 - [My First Bug-Hunting Adventure: A Privilege Escalation Tale](https://medium.com/@solutionexit5/my-first-bug-hunting-adventure-a-privilege-escalation-tale-89aad782981f?source=rss------bug_bounty_writeup-5)
 - [Reconocimiento web sin herramientas comunes: un método manual para bug bounty hunters](https://gorkaaa.medium.com/reconocimiento-web-sin-herramientas-comunes-un-m%C3%A9todo-manual-para-bug-bounty-hunters-1dbfbc2f3b5a?source=rss------bug_bounty_writeup-5)
-- [The Ultimate Guide to API Hacking in 2025: From Basics to Advanced Exploits](https://samael0x4.medium.com/the-ultimate-guide-to-api-hacking-in-2025-from-basics-to-advanced-exploits-fa31be273c5f?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
