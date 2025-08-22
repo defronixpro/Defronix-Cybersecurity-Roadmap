@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Staying Motivated in Bug Bounty Hunting: Lessons from Experience](https://medium.com/@ghannu0x01/staying-motivated-in-bug-bounty-hunting-lessons-from-experience-f319b2081dfc?source=rss------bug_bounty_writeup-5)
 - [Manual work for $4k Bounty Akamai cant stop Information Disclosure](https://medium.com/@amnotacat/manual-work-for-4k-bounty-akamai-cant-stop-information-disclosure-98ab6cc10068?source=rss------bug_bounty_writeup-5)
 - [XSS Exploit via RichText Parser](https://infosecwriteups.com/xss-exploit-via-richtext-parser-352e1b39603b?source=rss----7b722bfd1b8d---4)
 - [Clipboard DOM-based XSS in GitLab](https://infosecwriteups.com/clipboard-dom-based-xss-in-gitlab-2b4768f108cf?source=rss----7b722bfd1b8d---4)
