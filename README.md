@@ -922,6 +922,13 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [XSS Exploit via RichText Parser](https://infosecwriteups.com/xss-exploit-via-richtext-parser-352e1b39603b?source=rss----7b722bfd1b8d---4)
+- [Clipboard DOM-based XSS in GitLab](https://infosecwriteups.com/clipboard-dom-based-xss-in-gitlab-2b4768f108cf?source=rss----7b722bfd1b8d---4)
+- [Mastering WordPress Bug Hunting: A Complete Guide for Security Researchers](https://infosecwriteups.com/mastering-wordpress-bug-hunting-a-complete-guide-for-security-researchers-3ff7ee4413a2?source=rss----7b722bfd1b8d---4)
+- [This Is How I Got $750 From My First IDOR](https://infosecwriteups.com/this-is-how-i-got-750-from-my-first-idor-8058061c65ba?source=rss----7b722bfd1b8d---4)
+- [Analysis of Black Energy Malware-Infected RAM Image with Volatility3](https://infosecwriteups.com/analysis-of-black-energy-malware-infected-ram-image-with-volatility3-31379f8c4312?source=rss----7b722bfd1b8d---4)
+- [️ KeySentry v2 — Stop API Key Leaks Before They Stop You](https://infosecwriteups.com/%EF%B8%8F-keysentry-v2-stop-api-key-leaks-before-they-stop-you-9be0dc734932?source=rss----7b722bfd1b8d---4)
+- [Buried Treasures in Backups: How .bak Files Handed Me the Keys to Production ️](https://infosecwriteups.com/buried-treasures-in-backups-how-bak-files-handed-me-the-keys-to-production-%EF%B8%8F-4bf325a51f31?source=rss----7b722bfd1b8d---4)
 - [How a Simple Endpoint Copy Turned Into Bonus Bounty$$$$](https://medium.com/@whitehat29/how-a-simple-endpoint-copy-turned-into-bonus-bounty-a35906b2c611?source=rss------bug_bounty_writeup-5)
 - [CatReloaded 2025 CTF Web writeup](https://medium.com/@k4r1mw4l1d/catreloaded-2025-ctf-web-writeup-4d692010c882?source=rss------bug_bounty_writeup-5)
 - [A Deep Dive into Admin Panel Exploitation](https://medium.com/h7w/a-deep-dive-into-admin-panel-exploitation-8c8998c6aa53?source=rss------bug_bounty_writeup-5)
@@ -931,13 +938,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [“Day 7: API Hacking — How I Stole 5000 OAuth Tokens &amp; Won $300”](https://infosecwriteups.com/day-7-api-hacking-how-i-stole-5000-oauth-tokens-won-300-49b988ed8e21?source=rss----7b722bfd1b8d---4)
 - [“Day 16: The CI/CD Betrayal — How a Tiny GitHub Action Misconfiguration Led to a $800 Cloud Breach”](https://infosecwriteups.com/day-16-the-ci-cd-betrayal-how-a-tiny-github-action-misconfiguration-led-to-a-800-cloud-breach-05a229c0684d?source=rss----7b722bfd1b8d---4)
 - [How Hackers Use ChatGPT for Cybersecurity ⚡](https://infosecwriteups.com/how-hackers-use-chatgpt-for-cybersecurity-bd221cb0bbcf?source=rss----7b722bfd1b8d---4)
-- [Lo-Fi TCTF](https://infosecwriteups.com/lo-fi-tctf-e3e4ab6a9200?source=rss----7b722bfd1b8d---4)
-- [Query Gone Wild: How I Turned a Forgotten GraphQL Endpoint into Full Account Access](https://infosecwriteups.com/query-gone-wild-how-i-turned-a-forgotten-graphql-endpoint-into-full-account-access-9d79d1f42970?source=rss----7b722bfd1b8d---4)
-- [Brooklyn Nine Nine TryHackMe Walkthrough — Step-by-Step Beginner’s Guide](https://infosecwriteups.com/brooklyn-nine-nine-tryhackme-walkthrough-step-by-step-beginners-guide-f61ed5223224?source=rss----7b722bfd1b8d---4)
-- [From Discord Link to Malware Infection: Digital  Forensics Walkthrough](https://infosecwriteups.com/from-discord-link-to-malware-infection-digital-forensics-walkthrough-0104bf7baee9?source=rss----7b722bfd1b8d---4)
-- [“Day 15: The Phantom JS Threat — How Forgotten Code Became a Silent RCE Bomb”](https://infosecwriteups.com/day-15-the-phantom-js-threat-how-forgotten-code-became-a-silent-rce-bomb-e4f9551b14d8?source=rss----7b722bfd1b8d---4)
-- [“Day 14: Cookie Hijacking Exposed — How I Bypassed Chrome’s “Secure” Storage”](https://infosecwriteups.com/day-14-cookie-hijacking-exposed-how-i-bypassed-chromes-secure-storage-9648b32ba6f5?source=rss----7b722bfd1b8d---4)
-- [Yelp XSS Flaw Opens the Door to Account Takeovers](https://infosecwriteups.com/yelp-xss-flaw-opens-the-door-to-account-takeovers-3c058a87dc3e?source=rss----7b722bfd1b8d---4)
 - [Yelp XSS Flaw Opens the Door to Account Takeovers](https://infosecwriteups.com/yelp-xss-flaw-opens-the-door-to-account-takeovers-3c058a87dc3e?source=rss------bug_bounty_writeup-5)
 - [Finding Your First High Severity Bug](https://medium.com/no-time/finding-your-first-high-severity-bug-535b4631517b?source=rss------bug_bounty_writeup-5)
 - [Tools Every Bug Bounty Hunter Should Know for Reconnaissance](https://medium.com/@ajudeb55/tools-every-bug-bounty-hunter-should-know-for-reconnaissance-822c2a04b6f7?source=rss------bug_bounty_writeup-5)
