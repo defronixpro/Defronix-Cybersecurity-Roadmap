@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I Earned My First $500 Bug Bounty via Rate Limit Bypass](https://medium.com/@ghannu0x01/how-i-earned-my-first-500-bug-bounty-via-rate-limit-bypass-8c1e92374860?source=rss------bug_bounty_writeup-5)
 - [Staying Motivated in Bug Bounty Hunting: Lessons from Experience](https://medium.com/@ghannu0x01/staying-motivated-in-bug-bounty-hunting-lessons-from-experience-f319b2081dfc?source=rss------bug_bounty_writeup-5)
 - [Manual work for $4k Bounty Akamai cant stop Information Disclosure](https://medium.com/@amnotacat/manual-work-for-4k-bounty-akamai-cant-stop-information-disclosure-98ab6cc10068?source=rss------bug_bounty_writeup-5)
 - [XSS Exploit via RichText Parser](https://infosecwriteups.com/xss-exploit-via-richtext-parser-352e1b39603b?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [“Day 16: The CI/CD Betrayal — How a Tiny GitHub Action Misconfiguration Led to a $800 Cloud Breach”](https://infosecwriteups.com/day-16-the-ci-cd-betrayal-how-a-tiny-github-action-misconfiguration-led-to-a-800-cloud-breach-05a229c0684d?source=rss----7b722bfd1b8d---4)
 - [How Hackers Use ChatGPT for Cybersecurity ⚡](https://infosecwriteups.com/how-hackers-use-chatgpt-for-cybersecurity-bd221cb0bbcf?source=rss----7b722bfd1b8d---4)
 - [Yelp XSS Flaw Opens the Door to Account Takeovers](https://infosecwriteups.com/yelp-xss-flaw-opens-the-door-to-account-takeovers-3c058a87dc3e?source=rss------bug_bounty_writeup-5)
-- [Finding Your First High Severity Bug](https://medium.com/no-time/finding-your-first-high-severity-bug-535b4631517b?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
