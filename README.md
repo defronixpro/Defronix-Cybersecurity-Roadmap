@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How a Simple Endpoint Copy Turned Into Bonus Bounty$$$$](https://medium.com/@whitehat29/how-a-simple-endpoint-copy-turned-into-bonus-bounty-a35906b2c611?source=rss------bug_bounty_writeup-5)
 - [CatReloaded 2025 CTF Web writeup](https://medium.com/@k4r1mw4l1d/catreloaded-2025-ctf-web-writeup-4d692010c882?source=rss------bug_bounty_writeup-5)
 - [A Deep Dive into Admin Panel Exploitation](https://medium.com/h7w/a-deep-dive-into-admin-panel-exploitation-8c8998c6aa53?source=rss------bug_bounty_writeup-5)
 - [How I Found a Critical Sony Vulnerability: Improper Authentication — Generic](https://medium.com/@iprogrammer16/how-i-found-a-critical-sony-vulnerability-improper-authentication-generic-2a215962b6dd?source=rss------bug_bounty_writeup-5)
@@ -940,7 +941,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Yelp XSS Flaw Opens the Door to Account Takeovers](https://infosecwriteups.com/yelp-xss-flaw-opens-the-door-to-account-takeovers-3c058a87dc3e?source=rss------bug_bounty_writeup-5)
 - [Finding Your First High Severity Bug](https://medium.com/no-time/finding-your-first-high-severity-bug-535b4631517b?source=rss------bug_bounty_writeup-5)
 - [Tools Every Bug Bounty Hunter Should Know for Reconnaissance](https://medium.com/@ajudeb55/tools-every-bug-bounty-hunter-should-know-for-reconnaissance-822c2a04b6f7?source=rss------bug_bounty_writeup-5)
-- [Invite Link Doesn’t Expire After Organization Deletion](https://medium.com/@edahmed008/invite-link-doesnt-expire-after-organization-deletion-d892d50fde4e?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
