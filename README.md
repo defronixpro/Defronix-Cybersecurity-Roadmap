@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Tip de Bug Bounty: los fallos viven en los flujos secundarios](https://gorkaaa.medium.com/tip-de-bug-bounty-los-fallos-viven-en-los-flujos-secundarios-6a689523ec63?source=rss------bug_bounty_writeup-5)
 - [How I Earned My First $500 Bug Bounty via Rate Limit Bypass](https://medium.com/@ghannu0x01/how-i-earned-my-first-500-bug-bounty-via-rate-limit-bypass-8c1e92374860?source=rss------bug_bounty_writeup-5)
 - [Staying Motivated in Bug Bounty Hunting: Lessons from Experience](https://medium.com/@ghannu0x01/staying-motivated-in-bug-bounty-hunting-lessons-from-experience-f319b2081dfc?source=rss------bug_bounty_writeup-5)
 - [Manual work for $4k Bounty Akamai cant stop Information Disclosure](https://medium.com/@amnotacat/manual-work-for-4k-bounty-akamai-cant-stop-information-disclosure-98ab6cc10068?source=rss------bug_bounty_writeup-5)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [“Day 7: API Hacking — How I Stole 5000 OAuth Tokens &amp; Won $300”](https://infosecwriteups.com/day-7-api-hacking-how-i-stole-5000-oauth-tokens-won-300-49b988ed8e21?source=rss----7b722bfd1b8d---4)
 - [“Day 16: The CI/CD Betrayal — How a Tiny GitHub Action Misconfiguration Led to a $800 Cloud Breach”](https://infosecwriteups.com/day-16-the-ci-cd-betrayal-how-a-tiny-github-action-misconfiguration-led-to-a-800-cloud-breach-05a229c0684d?source=rss----7b722bfd1b8d---4)
 - [How Hackers Use ChatGPT for Cybersecurity ⚡](https://infosecwriteups.com/how-hackers-use-chatgpt-for-cybersecurity-bd221cb0bbcf?source=rss----7b722bfd1b8d---4)
-- [Yelp XSS Flaw Opens the Door to Account Takeovers](https://infosecwriteups.com/yelp-xss-flaw-opens-the-door-to-account-takeovers-3c058a87dc3e?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
