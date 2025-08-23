@@ -932,7 +932,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Analysis of Black Energy Malware-Infected RAM Image with Volatility3](https://infosecwriteups.com/analysis-of-black-energy-malware-infected-ram-image-with-volatility3-31379f8c4312?source=rss----7b722bfd1b8d---4)
 - [️ KeySentry v2 — Stop API Key Leaks Before They Stop You](https://infosecwriteups.com/%EF%B8%8F-keysentry-v2-stop-api-key-leaks-before-they-stop-you-9be0dc734932?source=rss----7b722bfd1b8d---4)
 - [Buried Treasures in Backups: How .bak Files Handed Me the Keys to Production ️](https://infosecwriteups.com/buried-treasures-in-backups-how-bak-files-handed-me-the-keys-to-production-%EF%B8%8F-4bf325a51f31?source=rss----7b722bfd1b8d---4)
-- [How a Simple Endpoint Copy Turned Into Bonus Bounty$$$$](https://medium.com/@whitehat29/how-a-simple-endpoint-copy-turned-into-bonus-bounty-a35906b2c611?source=rss------bug_bounty_writeup-5)
+- [How a Simple Endpoint Copy Turned Into Bonus Bounty$$$$](https://cybersecuritywriteups.com/how-a-simple-endpoint-copy-turned-into-bonus-bounty-a35906b2c611?source=rss------bug_bounty_writeup-5)
 - [CatReloaded 2025 CTF Web writeup](https://medium.com/@k4r1mw4l1d/catreloaded-2025-ctf-web-writeup-4d692010c882?source=rss------bug_bounty_writeup-5)
 - [A Deep Dive into Admin Panel Exploitation](https://medium.com/h7w/a-deep-dive-into-admin-panel-exploitation-8c8998c6aa53?source=rss------bug_bounty_writeup-5)
 - [How I Found a Critical Sony Vulnerability: Improper Authentication — Generic](https://medium.com/legionhunters/how-i-found-a-critical-sony-vulnerability-improper-authentication-generic-2a215962b6dd?source=rss------bug_bounty_writeup-5)
