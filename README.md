@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Shellshock: The Bash Bug That Shook the Internet](https://hettt.medium.com/shellshock-the-bash-bug-that-shook-the-internet-4adbea238bad?source=rss------bug_bounty_writeup-5)
 - [&lpar;CVE-2025–52970&rpar; Authentication Bypass in FortiWeb ”POC”](https://medium.com/@hariharanhex00/cve-2025-52970-authentication-bypass-in-c-poc-04d7abd0c5f9?source=rss------bug_bounty_writeup-5)
 - [Get Notified when a Bug Bounty Target launches New Subdomains](https://systemweakness.com/get-notified-when-a-bug-bounty-target-launches-new-subdomains-368150388c39?source=rss------bug_bounty_writeup-5)
 - [The Free URL Scanner That Saves Me Hours &lpar;CyScan.io&rpar;](https://kd-200.medium.com/the-free-url-scanner-that-saves-me-hours-cyscan-io-8909c26188e3?source=rss------bug_bounty_writeup-5)
@@ -937,7 +938,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [️ KeySentry v2 — Stop API Key Leaks Before They Stop You](https://infosecwriteups.com/%EF%B8%8F-keysentry-v2-stop-api-key-leaks-before-they-stop-you-9be0dc734932?source=rss----7b722bfd1b8d---4)
 - [Buried Treasures in Backups: How .bak Files Handed Me the Keys to Production ️](https://infosecwriteups.com/buried-treasures-in-backups-how-bak-files-handed-me-the-keys-to-production-%EF%B8%8F-4bf325a51f31?source=rss----7b722bfd1b8d---4)
 - [How a Simple Endpoint Copy Turned Into Bonus Bounty$$$$](https://cybersecuritywriteups.com/how-a-simple-endpoint-copy-turned-into-bonus-bounty-a35906b2c611?source=rss------bug_bounty_writeup-5)
-- [CatReloaded 2025 CTF Web writeup](https://medium.com/@k4r1mw4l1d/catreloaded-2025-ctf-web-writeup-4d692010c882?source=rss------bug_bounty_writeup-5)
 - [“Day 7: API Hacking — How I Stole 5000 OAuth Tokens &amp; Won $300”](https://infosecwriteups.com/day-7-api-hacking-how-i-stole-5000-oauth-tokens-won-300-49b988ed8e21?source=rss----7b722bfd1b8d---4)
 - [“Day 16: The CI/CD Betrayal — How a Tiny GitHub Action Misconfiguration Led to a $800 Cloud Breach”](https://infosecwriteups.com/day-16-the-ci-cd-betrayal-how-a-tiny-github-action-misconfiguration-led-to-a-800-cloud-breach-05a229c0684d?source=rss----7b722bfd1b8d---4)
 - [How Hackers Use ChatGPT for Cybersecurity ⚡](https://infosecwriteups.com/how-hackers-use-chatgpt-for-cybersecurity-bd221cb0bbcf?source=rss----7b722bfd1b8d---4)
