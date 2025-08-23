@@ -17,7 +17,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [A Deep Dive into Admin Panel Exploitation](https://medium.com/h7w/a-deep-dive-into-admin-panel-exploitation-8c8998c6aa53?source=rss------bug_bounty_writeup-5)
 - [How I Found a Critical Sony Vulnerability: Improper Authentication — Generic](https://medium.com/legionhunters/how-i-found-a-critical-sony-vulnerability-improper-authentication-generic-2a215962b6dd?source=rss------bug_bounty_writeup-5)
 - [¿La IA va a reemplazar a los Bug Bounty Hunters?](https://gorkaaa.medium.com/la-ia-va-a-reemplazar-a-los-bug-bounty-hunters-8d43f5ec456e?source=rss------bug_bounty_writeup-5)
-- [Stored XSS via Unsanitized SVG File Upload](https://medium.com/@youssefawad1357/stored-xss-via-unsanitized-svg-file-upload-d7e4619cc937?source=rss------bug_bounty_writeup-5)
 - [“Day 7: API Hacking — How I Stole 5000 OAuth Tokens &amp; Won $300”](https://infosecwriteups.com/day-7-api-hacking-how-i-stole-5000-oauth-tokens-won-300-49b988ed8e21?source=rss----7b722bfd1b8d---4)
 - [“Day 16: The CI/CD Betrayal — How a Tiny GitHub Action Misconfiguration Led to a $800 Cloud Breach”](https://infosecwriteups.com/day-16-the-ci-cd-betrayal-how-a-tiny-github-action-misconfiguration-led-to-a-800-cloud-breach-05a229c0684d?source=rss----7b722bfd1b8d---4)
 - [How Hackers Use ChatGPT for Cybersecurity ⚡](https://infosecwriteups.com/how-hackers-use-chatgpt-for-cybersecurity-bd221cb0bbcf?source=rss----7b722bfd1b8d---4)
