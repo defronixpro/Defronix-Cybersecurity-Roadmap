@@ -8,7 +8,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [The Free URL Scanner That Saves Me Hours &lpar;CyScan.io&rpar;](https://kd-200.medium.com/the-free-url-scanner-that-saves-me-hours-cyscan-io-8909c26188e3?source=rss------bug_bounty_writeup-5)
 - [Tip de Bug Bounty: los fallos viven en los flujos secundarios](https://gorkaaa.medium.com/tip-de-bug-bounty-los-fallos-viven-en-los-flujos-secundarios-6a689523ec63?source=rss------bug_bounty_writeup-5)
 - [How I Earned My First $500 Bug Bounty via Rate Limit Bypass](https://medium.com/@ghannu0x01/how-i-earned-my-first-500-bug-bounty-via-rate-limit-bypass-8c1e92374860?source=rss------bug_bounty_writeup-5)
-- [Staying Motivated in Bug Bounty Hunting: Lessons from Experience](https://medium.com/@ghannu0x01/staying-motivated-in-bug-bounty-hunting-lessons-from-experience-f319b2081dfc?source=rss------bug_bounty_writeup-5)
 - [XSS Exploit via RichText Parser](https://infosecwriteups.com/xss-exploit-via-richtext-parser-352e1b39603b?source=rss----7b722bfd1b8d---4)
 - [Clipboard DOM-based XSS in GitLab](https://infosecwriteups.com/clipboard-dom-based-xss-in-gitlab-2b4768f108cf?source=rss----7b722bfd1b8d---4)
 - [Mastering WordPress Bug Hunting: A Complete Guide for Security Researchers](https://infosecwriteups.com/mastering-wordpress-bug-hunting-a-complete-guide-for-security-researchers-3ff7ee4413a2?source=rss----7b722bfd1b8d---4)
