@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How I found an Account Lockout Vulnerability Without Any Tools](https://strangerwhite.medium.com/how-i-found-an-account-lockout-vulnerability-without-any-tools-f52cbcd58730?source=rss------bug_bounty_writeup-5)
 - [Lo que aprendí hackeando la NASA &lpar;y lo que significa realmente ser hacker&rpar;](https://gorkaaa.medium.com/lo-que-aprend%C3%AD-hackeando-la-nasa-y-lo-que-significa-realmente-ser-hacker-e4e5b390e570?source=rss------bug_bounty_writeup-5)
 - [How to Choose the Right Bug Bounty Target: A Tactical Guide for Beginner Hunters](https://medium.com/@warang.harmit/how-to-choose-the-right-bug-bounty-target-a-tactical-guide-for-beginner-hunters-ab929e591a08?source=rss------bug_bounty_writeup-5)
 - [The 3 Best Data Breach Search Engines](https://medium.com/@dr_1n-ctrl/the-3-best-data-breach-search-engines-45e00e659137?source=rss------bug_bounty_writeup-5)
@@ -8,7 +9,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Unveiling the Shadows: A Remote Code Execution Vulnerability Report to Bytedance. Ignored.](https://medium.com/@rabiu-101/unveiling-the-shadows-a-remote-code-execution-vulnerability-report-to-bytedance-ignored-b95a016aa032?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty: Subdomain Takeover: Cómo detectar y explotar subdominios huérfanos](https://gorkaaa.medium.com/bug-bounty-subdomain-takeover-c%C3%B3mo-detectar-y-explotar-subdominios-hu%C3%A9rfanos-722d1af41e8e?source=rss------bug_bounty_writeup-5)
 - [Shellshock: The Bash Bug That Shook the Internet](https://infosecwriteups.com/shellshock-the-bash-bug-that-shook-the-internet-4adbea238bad?source=rss------bug_bounty_writeup-5)
-- [&lpar;CVE-2025–52970&rpar; Authentication Bypass in FortiWeb ”POC”](https://medium.com/@hariharanhex00/cve-2025-52970-authentication-bypass-in-c-poc-04d7abd0c5f9?source=rss------bug_bounty_writeup-5)
 - [XSS Exploit via RichText Parser](https://infosecwriteups.com/xss-exploit-via-richtext-parser-352e1b39603b?source=rss----7b722bfd1b8d---4)
 - [Clipboard DOM-based XSS in GitLab](https://infosecwriteups.com/clipboard-dom-based-xss-in-gitlab-2b4768f108cf?source=rss----7b722bfd1b8d---4)
 - [Mastering WordPress Bug Hunting: A Complete Guide for Security Researchers](https://infosecwriteups.com/mastering-wordpress-bug-hunting-a-complete-guide-for-security-researchers-3ff7ee4413a2?source=rss----7b722bfd1b8d---4)
