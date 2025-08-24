@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How to Choose the Right Bug Bounty Target: A Tactical Guide for Beginner Hunters](https://medium.com/@warang.harmit/how-to-choose-the-right-bug-bounty-target-a-tactical-guide-for-beginner-hunters-ab929e591a08?source=rss------bug_bounty_writeup-5)
+- [The 3 Best Data Breach Search Engines](https://medium.com/@dr_1n-ctrl/the-3-best-data-breach-search-engines-45e00e659137?source=rss------bug_bounty_writeup-5)
 - [Finding Needle in The Haystack : How a Forgotten Subdomain Led to Complete AWS Infrastructure…](https://medium.com/@0xakash.singh/finding-needle-in-the-haystack-how-a-forgotten-subdomain-led-to-complete-aws-infrastructure-328571e88496?source=rss------bug_bounty_writeup-5)
 - [Unveiling the Shadows: A Remote Code Execution Vulnerability Report to Bytedance. Ignored.](https://medium.com/@rabiu-101/unveiling-the-shadows-a-remote-code-execution-vulnerability-report-to-bytedance-ignored-b95a016aa032?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty: Subdomain Takeover: Cómo detectar y explotar subdominios huérfanos](https://gorkaaa.medium.com/bug-bounty-subdomain-takeover-c%C3%B3mo-detectar-y-explotar-subdominios-hu%C3%A9rfanos-722d1af41e8e?source=rss------bug_bounty_writeup-5)
@@ -929,7 +931,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [&lpar;CVE-2025–52970&rpar; Authentication Bypass in FortiWeb ”POC”](https://medium.com/@hariharanhex00/cve-2025-52970-authentication-bypass-in-c-poc-04d7abd0c5f9?source=rss------bug_bounty_writeup-5)
 - [Get Notified when a Bug Bounty Target launches New Subdomains](https://systemweakness.com/get-notified-when-a-bug-bounty-target-launches-new-subdomains-368150388c39?source=rss------bug_bounty_writeup-5)
 - [The Free URL Scanner That Saves Me Hours &lpar;CyScan.io&rpar;](https://kd-200.medium.com/the-free-url-scanner-that-saves-me-hours-cyscan-io-8909c26188e3?source=rss------bug_bounty_writeup-5)
-- [Tip de Bug Bounty: los fallos viven en los flujos secundarios](https://gorkaaa.medium.com/tip-de-bug-bounty-los-fallos-viven-en-los-flujos-secundarios-6a689523ec63?source=rss------bug_bounty_writeup-5)
 - [XSS Exploit via RichText Parser](https://infosecwriteups.com/xss-exploit-via-richtext-parser-352e1b39603b?source=rss----7b722bfd1b8d---4)
 - [Clipboard DOM-based XSS in GitLab](https://infosecwriteups.com/clipboard-dom-based-xss-in-gitlab-2b4768f108cf?source=rss----7b722bfd1b8d---4)
 - [Mastering WordPress Bug Hunting: A Complete Guide for Security Researchers](https://infosecwriteups.com/mastering-wordpress-bug-hunting-a-complete-guide-for-security-researchers-3ff7ee4413a2?source=rss----7b722bfd1b8d---4)
