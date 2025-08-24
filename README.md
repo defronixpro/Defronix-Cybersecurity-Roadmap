@@ -922,14 +922,14 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Finding Needle in The Haystack : How a Forgotten Subdomain Led to Complete AWS Infrastructure…](https://medium.com/@0xakash.singh/finding-needle-in-the-haystack-how-a-forgotten-subdomain-led-to-complete-aws-infrastructure-328571e88496?source=rss------bug_bounty_writeup-5)
+- [Unveiling the Shadows: A Remote Code Execution Vulnerability Report to Bytedance. Ignored.](https://medium.com/@rabiu-101/unveiling-the-shadows-a-remote-code-execution-vulnerability-report-to-bytedance-ignored-b95a016aa032?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty: Subdomain Takeover: Cómo detectar y explotar subdominios huérfanos](https://gorkaaa.medium.com/bug-bounty-subdomain-takeover-c%C3%B3mo-detectar-y-explotar-subdominios-hu%C3%A9rfanos-722d1af41e8e?source=rss------bug_bounty_writeup-5)
 - [Shellshock: The Bash Bug That Shook the Internet](https://infosecwriteups.com/shellshock-the-bash-bug-that-shook-the-internet-4adbea238bad?source=rss------bug_bounty_writeup-5)
 - [&lpar;CVE-2025–52970&rpar; Authentication Bypass in FortiWeb ”POC”](https://medium.com/@hariharanhex00/cve-2025-52970-authentication-bypass-in-c-poc-04d7abd0c5f9?source=rss------bug_bounty_writeup-5)
 - [Get Notified when a Bug Bounty Target launches New Subdomains](https://systemweakness.com/get-notified-when-a-bug-bounty-target-launches-new-subdomains-368150388c39?source=rss------bug_bounty_writeup-5)
 - [The Free URL Scanner That Saves Me Hours &lpar;CyScan.io&rpar;](https://kd-200.medium.com/the-free-url-scanner-that-saves-me-hours-cyscan-io-8909c26188e3?source=rss------bug_bounty_writeup-5)
 - [Tip de Bug Bounty: los fallos viven en los flujos secundarios](https://gorkaaa.medium.com/tip-de-bug-bounty-los-fallos-viven-en-los-flujos-secundarios-6a689523ec63?source=rss------bug_bounty_writeup-5)
-- [How I Earned My First $500 Bug Bounty via Rate Limit Bypass](https://medium.com/@ghannu0x01/how-i-earned-my-first-500-bug-bounty-via-rate-limit-bypass-8c1e92374860?source=rss------bug_bounty_writeup-5)
-- [Staying Motivated in Bug Bounty Hunting: Lessons from Experience](https://medium.com/@ghannu0x01/staying-motivated-in-bug-bounty-hunting-lessons-from-experience-f319b2081dfc?source=rss------bug_bounty_writeup-5)
 - [XSS Exploit via RichText Parser](https://infosecwriteups.com/xss-exploit-via-richtext-parser-352e1b39603b?source=rss----7b722bfd1b8d---4)
 - [Clipboard DOM-based XSS in GitLab](https://infosecwriteups.com/clipboard-dom-based-xss-in-gitlab-2b4768f108cf?source=rss----7b722bfd1b8d---4)
 - [Mastering WordPress Bug Hunting: A Complete Guide for Security Researchers](https://infosecwriteups.com/mastering-wordpress-bug-hunting-a-complete-guide-for-security-researchers-3ff7ee4413a2?source=rss----7b722bfd1b8d---4)
