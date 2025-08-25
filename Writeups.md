@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Flagtionary — Web](https://medium.com/@mostafa.abdo12376/flagtionary-web-bd3da8aedad1?source=rss------bug_bounty_writeup-5)
 - [My First Bug Bounty: HTML Injection Got me 250$](https://medium.com/@ch1ta/my-first-bug-bounty-html-injection-got-me-250-419878fc528e?source=rss------bug_bounty_writeup-5)
 - [How to find an Information Disclosure &lpar;ID&rpar; vulnerabilities](https://medium.com/@ImAltyb26/how-to-find-an-information-disclosure-id-vulnerabilities-165717e57f6f?source=rss------bug_bounty_writeup-5)
 - [Blind XSS via Clipboard Paste Handling: A Detailed Guide](https://infosecwriteups.com/blind-xss-via-clipboard-paste-handling-a-detailed-guide-4c52d65c43f4?source=rss----7b722bfd1b8d---4)
@@ -19,7 +20,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [The 3 Best Data Breach Search Engines](https://medium.com/@dr_1n-ctrl/the-3-best-data-breach-search-engines-45e00e659137?source=rss------bug_bounty_writeup-5)
 - [Forgotten Subdomain = $1000 “AWS Breach” Bounty](https://medium.com/@0xakash.singh/finding-needle-in-the-haystack-how-a-forgotten-subdomain-led-to-complete-aws-infrastructure-328571e88496?source=rss------bug_bounty_writeup-5)
 - [Unveiling the Shadows: A Remote Code Execution Vulnerability Report to Bytedance. Ignored.](https://medium.com/@rabiu-101/unveiling-the-shadows-a-remote-code-execution-vulnerability-report-to-bytedance-ignored-b95a016aa032?source=rss------bug_bounty_writeup-5)
-- [Bug Bounty: Subdomain Takeover: Cómo detectar y explotar subdominios huérfanos](https://gorkaaa.medium.com/bug-bounty-subdomain-takeover-c%C3%B3mo-detectar-y-explotar-subdominios-hu%C3%A9rfanos-722d1af41e8e?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
