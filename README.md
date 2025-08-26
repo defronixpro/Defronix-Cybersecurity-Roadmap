@@ -922,8 +922,10 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Bug Bounty XSS con postMessage: cuando la confianza entre ventanas se convierte en vulnerabilidad](https://gorkaaa.medium.com/bug-bounty-xss-con-postmessage-cuando-la-confianza-entre-ventanas-se-convierte-en-vulnerabilidad-f18822acf0ab?source=rss------bug_bounty_writeup-5)
+- [The Psychology of Bug Bounty Hunting: Why Mindset Beats Tools](https://sukhveersingh97997.medium.com/the-psychology-of-bug-bounty-hunting-why-mindset-beats-tools-5278ea7fa528?source=rss------bug_bounty_writeup-5)
 - [#Another Bug Bounty Win: Responsible Disclosure of Potential Template Injection Got me 250$](https://medium.com/@ch1ta/another-bug-bounty-win-responsible-disclosure-of-potential-template-injection-got-me-250-a1d7be3cc781?source=rss------bug_bounty_writeup-5)
-- [When Ads Lie: How I Found a Click Fraud Weakness in a Major E-Commerce Site](https://medium.com/@devanshpatel930/when-ads-lie-how-i-found-a-click-fraud-weakness-in-a-major-e-commerce-site-4e8c26e16780?source=rss------bug_bounty_writeup-5)
+- [When Ads Lie: How I Found a Click Fraud Weakness in a Major E-Commerce Site](https://infosecwriteups.com/when-ads-lie-how-i-found-a-click-fraud-weakness-in-a-major-e-commerce-site-4e8c26e16780?source=rss------bug_bounty_writeup-5)
 - [Microsoft Partner Leak: Leaking Microsoft Employee PII and 700M+ Partner Records](https://medium.com/@faav/microsoft-partner-leak-leaking-microsoft-employee-pii-and-700m-partner-records-38c9c5ea4fad?source=rss------bug_bounty_writeup-5)
 - [Flagtionary — Web](https://medium.com/@mostafa.abdo12376/flagtionary-web-bd3da8aedad1?source=rss------bug_bounty_writeup-5)
 - [My First Bug Bounty: HTML Injection Got me 250$](https://medium.com/@ch1ta/my-first-bug-bounty-html-injection-got-me-250-419878fc528e?source=rss------bug_bounty_writeup-5)
@@ -940,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [JavaScript leads to Admin](https://infosecwriteups.com/javascript-leads-to-admin-f7afecc21d02?source=rss----7b722bfd1b8d---4)
 - [How I found an Account Lockout Vulnerability Without Any Tools](https://strangerwhite.medium.com/how-i-found-an-account-lockout-vulnerability-without-any-tools-f52cbcd58730?source=rss------bug_bounty_writeup-5)
 - [Lo que aprendí hackeando la NASA &lpar;y lo que significa realmente ser hacker&rpar;](https://gorkaaa.medium.com/lo-que-aprend%C3%AD-hackeando-la-nasa-y-lo-que-significa-realmente-ser-hacker-e4e5b390e570?source=rss------bug_bounty_writeup-5)
-- [How to Choose the Right Bug Bounty Target: A Tactical Guide for Beginner Hunters](https://medium.com/@warang.harmit/how-to-choose-the-right-bug-bounty-target-a-tactical-guide-for-beginner-hunters-ab929e591a08?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
