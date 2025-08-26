@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Looking for Leaked Credentials? The 3 Best Tools for Bug Hunters / Red Teamers](https://medium.com/@cheirishpro/looking-for-leaked-credentials-the-3-best-tools-for-bug-hunters-red-teamers-1c9e0891c321?source=rss------bug_bounty_writeup-5)
 - [How to Hunt Easy Vulnerabilities on Websites](https://osintteam.blog/how-to-hunt-easy-vulnerabilities-on-websites-44024c3e301f?source=rss------bug_bounty_writeup-5)
 - [Unique ways to Recon for Bug Hunters: Short series [Part 2]](https://osintteam.blog/unique-ways-to-recon-for-bug-hunters-short-series-part-2-735d0b2fad2b?source=rss------bug_bounty_writeup-5)
 - [Node.js Local Privilege Escalation Vulnerability](https://medium.com/h7w/node-js-local-privilege-escalation-vulnerability-0963cf7d44fb?source=rss------bug_bounty_writeup-5)
@@ -931,7 +932,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Bug Bounty XSS con postMessage: cuando la confianza entre ventanas se convierte en vulnerabilidad](https://gorkaaa.medium.com/bug-bounty-xss-con-postmessage-cuando-la-confianza-entre-ventanas-se-convierte-en-vulnerabilidad-f18822acf0ab?source=rss------bug_bounty_writeup-5)
 - [The Psychology of Bug Bounty Hunting: Why Mindset Beats Tools](https://sukhveersingh97997.medium.com/the-psychology-of-bug-bounty-hunting-why-mindset-beats-tools-5278ea7fa528?source=rss------bug_bounty_writeup-5)
 - [#Another Bug Bounty Win: Responsible Disclosure of Potential Template Injection Got me 250$](https://medium.com/@ch1ta/another-bug-bounty-win-responsible-disclosure-of-potential-template-injection-got-me-250-a1d7be3cc781?source=rss------bug_bounty_writeup-5)
-- [When Ads Lie: How I Found a Click Fraud Weakness in a Major E-Commerce Site](https://infosecwriteups.com/when-ads-lie-how-i-found-a-click-fraud-weakness-in-a-major-e-commerce-site-4e8c26e16780?source=rss------bug_bounty_writeup-5)
 - [Blind XSS via Clipboard Paste Handling: A Detailed Guide](https://infosecwriteups.com/blind-xss-via-clipboard-paste-handling-a-detailed-guide-4c52d65c43f4?source=rss----7b722bfd1b8d---4)
 - [“Day 12: The Rate Limit Paradox — How I Weaponized API Protections for a $500 DoS Bug”](https://infosecwriteups.com/day-12-the-rate-limit-paradox-how-i-weaponized-api-protections-for-a-500-dos-bug-497fa5f8fe45?source=rss----7b722bfd1b8d---4)
 - [6. Subdomain Enumeration Like a Pro](https://infosecwriteups.com/6-subdomain-enumeration-like-a-pro-8461c8a92e25?source=rss----7b722bfd1b8d---4)
