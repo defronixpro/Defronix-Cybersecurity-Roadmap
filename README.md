@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Critical Vulnerability Discovery: Passwordless Invite Link Authentication Bypass Got me 500$](https://medium.com/@ch1ta/critical-vulnerability-discovery-passwordless-invite-link-authentication-bypass-got-me-500-215d5a3277d4?source=rss------bug_bounty_writeup-5)
 - [How Unlimited Backup Code Generation Can Break Account Security](https://medium.com/@ahmadelkali7/how-unlimited-backup-code-generation-can-break-account-security-dc03d3ffbf87?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty XSS con postMessage: cuando la confianza entre ventanas se convierte en vulnerabilidad](https://gorkaaa.medium.com/bug-bounty-xss-con-postmessage-cuando-la-confianza-entre-ventanas-se-convierte-en-vulnerabilidad-f18822acf0ab?source=rss------bug_bounty_writeup-5)
 - [The Psychology of Bug Bounty Hunting: Why Mindset Beats Tools](https://sukhveersingh97997.medium.com/the-psychology-of-bug-bounty-hunting-why-mindset-beats-tools-5278ea7fa528?source=rss------bug_bounty_writeup-5)
@@ -941,17 +942,16 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [“Day 13: The Phantom Dependency Threat — How an Abandoned npm Package Almost Broke the Web”](https://infosecwriteups.com/day-13-the-phantom-dependency-threat-how-an-abandoned-npm-package-almost-broke-the-web-b60155a56d9a?source=rss----7b722bfd1b8d---4)
 - [Pyrat TryHackMe Walkthrough: Step-by-Step Beginner’s Guide to Easy Level CTF with Reverse Shell and…](https://infosecwriteups.com/pyrat-tryhackme-walkthrough-step-by-step-beginners-guide-to-easy-level-ctf-with-reverse-shell-and-df93f824d9d5?source=rss----7b722bfd1b8d---4)
 - [JavaScript leads to Admin](https://infosecwriteups.com/javascript-leads-to-admin-f7afecc21d02?source=rss----7b722bfd1b8d---4)
-- [How I found an Account Lockout Vulnerability Without Any Tools](https://strangerwhite.medium.com/how-i-found-an-account-lockout-vulnerability-without-any-tools-f52cbcd58730?source=rss------bug_bounty_writeup-5)
-- [How To Fix Error: Externally-Managed-Environment In Python &lpar;Kali Linux&rpar;](https://technicalnavigator.in/how-to-fix-error-externally-managed-environment-in-python-kali-linux/)
-- [Understanding Systemctl Command in Linux &lpar;Practical&rpar;](https://technicalnavigator.in/understanding-systemctl-command-in-linux-practical/)
-- [Macros in docm &amp; Linux memory dump| Hack The Boo  Challanges](https://technicalnavigator.in/macros-in-docm-linux-memory-dump-hack-the-boo-challanges/)
-- [Android Apps debugging |  Frida, JADX, Genymotion](https://technicalnavigator.in/android-apps-debugging-frida-jadx-genymotion/)
-- [MouseServer | wifimouse – Windows/ Linux](https://technicalnavigator.in/mouseserver-wifimouse-windows-linux/)
-- [FFUF fuzzer | web-application penetration-testing](https://technicalnavigator.in/ffuf-fuzzer-web-application-penetration-testing/)
-- [Classes-Objects &amp; Deserialization bug](https://technicalnavigator.in/classes-objects-deserialization-bug/)
-- [Loki Tool | Multhreading Over Sockets in C](https://technicalnavigator.in/loki-tool-multhreading-over-sockets-in-c/)
-- [Egghunter | NASM | C prototype](https://technicalnavigator.in/egghunter-nasm-c-prototype/)
-- [TELNET &amp; FTP Analysis](https://technicalnavigator.in/telnet-ftp-analysis/)
+- [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
+- [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
+- [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
+- [How to backup and restore the Windows Registry](https://www.bleepingcomputer.com/tutorials/how-to-backup-and-restore-the-windows-registry/)
+- [How to open a Windows 11 Command Prompt as Administrator](https://www.bleepingcomputer.com/tutorials/how-to-open-a-windows-11-command-prompt-as-administrator/)
+- [How to make the Start menu full screen in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-make-the-start-menu-full-screen-in-windows-10/)
+- [How to install the Microsoft Visual C++ 2015 Runtime](https://www.bleepingcomputer.com/tutorials/how-to-install-the-microsoft-visual-c-2015-runtime/)
+- [How to open an elevated PowerShell Admin prompt in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-open-an-elevated-powershell-admin-prompt-in-windows-10/)
+- [How to Translate a Web Page in Google Chrome](https://www.bleepingcomputer.com/tutorials/how-to-translate-a-web-page-in-google-chrome/)
+- [How to Install and Uninstall Google Chrome in Windows](https://www.bleepingcomputer.com/tutorials/how-to-install-and-uninstall-google-chrome-in-windows/)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
