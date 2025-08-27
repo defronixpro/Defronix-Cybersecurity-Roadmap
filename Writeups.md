@@ -1,7 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
-- [From Bugs to Bucks: My First Bounty $$$](https://medium.com/@rajveer_0101/from-bugs-to-bucks-my-first-bounty-0ab9f6341368?source=rss------bug_bounty_writeup-5)
+- [From Bugs to Bucks: My First Bounty $$$](https://infosecwriteups.com/from-bugs-to-bucks-my-first-bounty-0ab9f6341368?source=rss------bug_bounty_writeup-5)
 - [Weak Rate Limiting &amp; Password Oracle in Change Email Endpoint Got me bounty reward.](https://medium.com/@ch1ta/weak-rate-limiting-password-oracle-in-change-email-endpoint-got-me-bounty-reward-15de040a656f?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Un buen hacker no fuerza puertas, encuentra las que nunca cerraron](https://gorkaaa.medium.com/bug-bounty-un-buen-hacker-no-fuerza-puertas-encuentra-las-que-nunca-cerraron-743232169bd8?source=rss------bug_bounty_writeup-5)
 - [Looking for Leaked Credentials? The 3 Best Tools for Bug Hunters / Red Teamers](https://medium.com/@cheirishpro/looking-for-leaked-credentials-the-3-best-tools-for-bug-hunters-red-teamers-1c9e0891c321?source=rss------bug_bounty_writeup-5)
