@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Weak Rate Limiting &amp; Password Oracle in Change Email Endpoint Got me bounty reward.](https://medium.com/@ch1ta/weak-rate-limiting-password-oracle-in-change-email-endpoint-got-me-bounty-reward-15de040a656f?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Un buen hacker no fuerza puertas, encuentra las que nunca cerraron](https://gorkaaa.medium.com/bug-bounty-un-buen-hacker-no-fuerza-puertas-encuentra-las-que-nunca-cerraron-743232169bd8?source=rss------bug_bounty_writeup-5)
 - [Looking for Leaked Credentials? The 3 Best Tools for Bug Hunters / Red Teamers](https://medium.com/@cheirishpro/looking-for-leaked-credentials-the-3-best-tools-for-bug-hunters-red-teamers-1c9e0891c321?source=rss------bug_bounty_writeup-5)
 - [How to Hunt Easy Vulnerabilities on Websites](https://osintteam.blog/how-to-hunt-easy-vulnerabilities-on-websites-44024c3e301f?source=rss------bug_bounty_writeup-5)
@@ -931,7 +932,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Critical Vulnerability Discovery: Passwordless Invite Link Authentication Bypass Got me 500$](https://medium.com/@ch1ta/critical-vulnerability-discovery-passwordless-invite-link-authentication-bypass-got-me-500-215d5a3277d4?source=rss------bug_bounty_writeup-5)
 - [How Unlimited Backup Code Generation Can Break Account Security](https://medium.com/@ahmadelkali7/how-unlimited-backup-code-generation-can-break-account-security-dc03d3ffbf87?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty XSS con postMessage: cuando la confianza entre ventanas se convierte en vulnerabilidad](https://gorkaaa.medium.com/bug-bounty-xss-con-postmessage-cuando-la-confianza-entre-ventanas-se-convierte-en-vulnerabilidad-f18822acf0ab?source=rss------bug_bounty_writeup-5)
-- [The Psychology of Bug Bounty Hunting: Why Mindset Beats Tools](https://sukhveersingh97997.medium.com/the-psychology-of-bug-bounty-hunting-why-mindset-beats-tools-5278ea7fa528?source=rss------bug_bounty_writeup-5)
 - [Blind XSS via Clipboard Paste Handling: A Detailed Guide](https://infosecwriteups.com/blind-xss-via-clipboard-paste-handling-a-detailed-guide-4c52d65c43f4?source=rss----7b722bfd1b8d---4)
 - [“Day 12: The Rate Limit Paradox — How I Weaponized API Protections for a $500 DoS Bug”](https://infosecwriteups.com/day-12-the-rate-limit-paradox-how-i-weaponized-api-protections-for-a-500-dos-bug-497fa5f8fe45?source=rss----7b722bfd1b8d---4)
 - [6. Subdomain Enumeration Like a Pro](https://infosecwriteups.com/6-subdomain-enumeration-like-a-pro-8461c8a92e25?source=rss----7b722bfd1b8d---4)
