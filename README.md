@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Understanding the MITRE Framework: A Comprehensive Guide](https://medium.com/@shalomo.social/understanding-the-mitre-framework-a-comprehensive-guide-736423cb2521?source=rss------bug_bounty_writeup-5)
 - [How I Turned a “Type 3 Chars” Search Box Into Full SQLi](https://medium.com/@ghostxploiter/how-i-turned-a-type-3-chars-search-box-into-full-sqli-a4664e41071f?source=rss------bug_bounty_writeup-5)
 - [From Bugs to Bucks: My First Bounty $$$](https://infosecwriteups.com/from-bugs-to-bucks-my-first-bounty-0ab9f6341368?source=rss------bug_bounty_writeup-5)
 - [Weak Rate Limiting &amp; Password Oracle in Change Email Endpoint Got me bounty reward.](https://medium.com/@ch1ta/weak-rate-limiting-password-oracle-in-change-email-endpoint-got-me-bounty-reward-15de040a656f?source=rss------bug_bounty_writeup-5)
@@ -930,7 +931,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How to Hunt Easy Vulnerabilities on Websites](https://osintteam.blog/how-to-hunt-easy-vulnerabilities-on-websites-44024c3e301f?source=rss------bug_bounty_writeup-5)
 - [Unique ways to Recon for Bug Hunters: Short series [Part 2]](https://osintteam.blog/unique-ways-to-recon-for-bug-hunters-short-series-part-2-735d0b2fad2b?source=rss------bug_bounty_writeup-5)
 - [Node.js Local Privilege Escalation Vulnerability](https://medium.com/h7w/node-js-local-privilege-escalation-vulnerability-0963cf7d44fb?source=rss------bug_bounty_writeup-5)
-- [How a Misconfigured API Endpoint Helped Me Earn a $$$ Bounty](https://medium.com/@r3dd404/how-a-misconfigured-api-endpoint-helped-me-earn-a-bounty-0a6d54c46c2d?source=rss------bug_bounty_writeup-5)
 - [Blind XSS via Clipboard Paste Handling: A Detailed Guide](https://infosecwriteups.com/blind-xss-via-clipboard-paste-handling-a-detailed-guide-4c52d65c43f4?source=rss----7b722bfd1b8d---4)
 - [“Day 12: The Rate Limit Paradox — How I Weaponized API Protections for a $500 DoS Bug”](https://infosecwriteups.com/day-12-the-rate-limit-paradox-how-i-weaponized-api-protections-for-a-500-dos-bug-497fa5f8fe45?source=rss----7b722bfd1b8d---4)
 - [6. Subdomain Enumeration Like a Pro](https://infosecwriteups.com/6-subdomain-enumeration-like-a-pro-8461c8a92e25?source=rss----7b722bfd1b8d---4)
