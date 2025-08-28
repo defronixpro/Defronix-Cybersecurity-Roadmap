@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [From Shodan to SQLi: Hacking an Exposed Company Dashboard](https://infosecwriteups.com/from-shodan-to-sqli-hacking-an-exposed-company-dashboard-0b66a37a54ea?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Broken Access Control: la vulnerabilidad que abre más puertas de las que imaginas](https://gorkaaa.medium.com/bug-bounty-broken-access-control-la-vulnerabilidad-que-abre-m%C3%A1s-puertas-de-las-que-imaginas-52ede8b6bc4a?source=rss------bug_bounty_writeup-5)
 - [Weak OAuth, Big Problem: Grafana Login Bypass Explained](https://teamdh49.medium.com/weak-oauth-big-problem-grafana-login-bypass-explained-ee078ad6aa27?source=rss------bug_bounty_writeup-5)
 - [Understanding the MITRE Framework: A Comprehensive Guide](https://medium.com/@shalomo.social/understanding-the-mitre-framework-a-comprehensive-guide-736423cb2521?source=rss------bug_bounty_writeup-5)
@@ -930,7 +931,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Weak Rate Limiting &amp; Password Oracle in Change Email Endpoint Got me bounty reward.](https://ch1ta.medium.com/weak-rate-limiting-password-oracle-in-change-email-endpoint-got-me-bounty-reward-15de040a656f?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Un buen hacker no fuerza puertas, encuentra las que nunca cerraron](https://gorkaaa.medium.com/bug-bounty-un-buen-hacker-no-fuerza-puertas-encuentra-las-que-nunca-cerraron-743232169bd8?source=rss------bug_bounty_writeup-5)
 - [Looking for Leaked Credentials? The 3 Best Tools for Bug Hunters / Red Teamers](https://medium.com/@cheirishpro/looking-for-leaked-credentials-the-3-best-tools-for-bug-hunters-red-teamers-1c9e0891c321?source=rss------bug_bounty_writeup-5)
-- [How to Hunt Easy Vulnerabilities on Websites](https://osintteam.blog/how-to-hunt-easy-vulnerabilities-on-websites-44024c3e301f?source=rss------bug_bounty_writeup-5)
 - [Blind XSS via Clipboard Paste Handling: A Detailed Guide](https://infosecwriteups.com/blind-xss-via-clipboard-paste-handling-a-detailed-guide-4c52d65c43f4?source=rss----7b722bfd1b8d---4)
 - [“Day 12: The Rate Limit Paradox — How I Weaponized API Protections for a $500 DoS Bug”](https://infosecwriteups.com/day-12-the-rate-limit-paradox-how-i-weaponized-api-protections-for-a-500-dos-bug-497fa5f8fe45?source=rss----7b722bfd1b8d---4)
 - [6. Subdomain Enumeration Like a Pro](https://infosecwriteups.com/6-subdomain-enumeration-like-a-pro-8461c8a92e25?source=rss----7b722bfd1b8d---4)
