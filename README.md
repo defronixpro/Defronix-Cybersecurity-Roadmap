@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Automating Credential Stuffing Attacks with Burp Suite Intruder](https://systemweakness.com/automating-credential-stuffing-attacks-with-burp-suite-intruder-3aa74cf0c2d1?source=rss------bug_bounty_writeup-5)
 - [XSS Stored Bypass cookie http only via all accounts take over](https://medium.com/@VulnRAM/xss-stored-bypass-cookie-http-only-via-all-accounts-take-over-ef7134f139d1?source=rss------bug_bounty_writeup-5)
 - [From Shodan to SQLi: Hacking an Exposed Company Dashboard](https://infosecwriteups.com/from-shodan-to-sqli-hacking-an-exposed-company-dashboard-0b66a37a54ea?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Broken Access Control: la vulnerabilidad que abre más puertas de las que imaginas](https://gorkaaa.medium.com/bug-bounty-broken-access-control-la-vulnerabilidad-que-abre-m%C3%A1s-puertas-de-las-que-imaginas-52ede8b6bc4a?source=rss------bug_bounty_writeup-5)
@@ -930,7 +931,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How I Turned a “Type 3 Chars” Search Box Into Full SQLi](https://medium.com/@ghostxploiter/how-i-turned-a-type-3-chars-search-box-into-full-sqli-a4664e41071f?source=rss------bug_bounty_writeup-5)
 - [From Bugs to Bucks: My First Bounty $$$](https://infosecwriteups.com/from-bugs-to-bucks-my-first-bounty-0ab9f6341368?source=rss------bug_bounty_writeup-5)
 - [Weak Rate Limiting &amp; Password Oracle in Change Email Endpoint Got me bounty reward.](https://ch1ta.medium.com/weak-rate-limiting-password-oracle-in-change-email-endpoint-got-me-bounty-reward-15de040a656f?source=rss------bug_bounty_writeup-5)
-- [Bug Bounty Un buen hacker no fuerza puertas, encuentra las que nunca cerraron](https://gorkaaa.medium.com/bug-bounty-un-buen-hacker-no-fuerza-puertas-encuentra-las-que-nunca-cerraron-743232169bd8?source=rss------bug_bounty_writeup-5)
 - [Blind XSS via Clipboard Paste Handling: A Detailed Guide](https://infosecwriteups.com/blind-xss-via-clipboard-paste-handling-a-detailed-guide-4c52d65c43f4?source=rss----7b722bfd1b8d---4)
 - [“Day 12: The Rate Limit Paradox — How I Weaponized API Protections for a $500 DoS Bug”](https://infosecwriteups.com/day-12-the-rate-limit-paradox-how-i-weaponized-api-protections-for-a-500-dos-bug-497fa5f8fe45?source=rss----7b722bfd1b8d---4)
 - [6. Subdomain Enumeration Like a Pro](https://infosecwriteups.com/6-subdomain-enumeration-like-a-pro-8461c8a92e25?source=rss----7b722bfd1b8d---4)
@@ -941,6 +941,26 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [“Day 13: The Phantom Dependency Threat — How an Abandoned npm Package Almost Broke the Web”](https://infosecwriteups.com/day-13-the-phantom-dependency-threat-how-an-abandoned-npm-package-almost-broke-the-web-b60155a56d9a?source=rss----7b722bfd1b8d---4)
 - [Pyrat TryHackMe Walkthrough: Step-by-Step Beginner’s Guide to Easy Level CTF with Reverse Shell and…](https://infosecwriteups.com/pyrat-tryhackme-walkthrough-step-by-step-beginners-guide-to-easy-level-ctf-with-reverse-shell-and-df93f824d9d5?source=rss----7b722bfd1b8d---4)
 - [JavaScript leads to Admin](https://infosecwriteups.com/javascript-leads-to-admin-f7afecc21d02?source=rss----7b722bfd1b8d---4)
+- [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
+- [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
+- [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
+- [How to backup and restore the Windows Registry](https://www.bleepingcomputer.com/tutorials/how-to-backup-and-restore-the-windows-registry/)
+- [How To Fix Error: Externally-Managed-Environment In Python &lpar;Kali Linux&rpar;](https://technicalnavigator.in/how-to-fix-error-externally-managed-environment-in-python-kali-linux/)
+- [Understanding Systemctl Command in Linux &lpar;Practical&rpar;](https://technicalnavigator.in/understanding-systemctl-command-in-linux-practical/)
+- [Macros in docm &amp; Linux memory dump| Hack The Boo  Challanges](https://technicalnavigator.in/macros-in-docm-linux-memory-dump-hack-the-boo-challanges/)
+- [Android Apps debugging |  Frida, JADX, Genymotion](https://technicalnavigator.in/android-apps-debugging-frida-jadx-genymotion/)
+- [MouseServer | wifimouse – Windows/ Linux](https://technicalnavigator.in/mouseserver-wifimouse-windows-linux/)
+- [FFUF fuzzer | web-application penetration-testing](https://technicalnavigator.in/ffuf-fuzzer-web-application-penetration-testing/)
+- [How to open a Windows 11 Command Prompt as Administrator](https://www.bleepingcomputer.com/tutorials/how-to-open-a-windows-11-command-prompt-as-administrator/)
+- [Classes-Objects &amp; Deserialization bug](https://technicalnavigator.in/classes-objects-deserialization-bug/)
+- [Loki Tool | Multhreading Over Sockets in C](https://technicalnavigator.in/loki-tool-multhreading-over-sockets-in-c/)
+- [Egghunter | NASM | C prototype](https://technicalnavigator.in/egghunter-nasm-c-prototype/)
+- [TELNET &amp; FTP Analysis](https://technicalnavigator.in/telnet-ftp-analysis/)
+- [How to make the Start menu full screen in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-make-the-start-menu-full-screen-in-windows-10/)
+- [How to install the Microsoft Visual C++ 2015 Runtime](https://www.bleepingcomputer.com/tutorials/how-to-install-the-microsoft-visual-c-2015-runtime/)
+- [How to open an elevated PowerShell Admin prompt in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-open-an-elevated-powershell-admin-prompt-in-windows-10/)
+- [How to Translate a Web Page in Google Chrome](https://www.bleepingcomputer.com/tutorials/how-to-translate-a-web-page-in-google-chrome/)
+- [How to Install and Uninstall Google Chrome in Windows](https://www.bleepingcomputer.com/tutorials/how-to-install-and-uninstall-google-chrome-in-windows/)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
