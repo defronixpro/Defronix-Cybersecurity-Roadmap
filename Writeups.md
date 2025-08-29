@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [To Each Their Own in Hacking: Choosing Your Path in Cybersecurity](https://medium.com/@hrofficial62/to-each-their-own-in-hacking-choosing-your-path-in-cybersecurity-50f9a6b0b27c?source=rss------bug_bounty_writeup-5)
 - [Automating Credential Stuffing Attacks with Burp Suite Intruder](https://systemweakness.com/automating-credential-stuffing-attacks-with-burp-suite-intruder-3aa74cf0c2d1?source=rss------bug_bounty_writeup-5)
 - [XSS Stored Bypass cookie http only via all accounts take over](https://medium.com/@VulnRAM/xss-stored-bypass-cookie-http-only-via-all-accounts-take-over-ef7134f139d1?source=rss------bug_bounty_writeup-5)
 - [From Shodan to SQLi: Hacking an Exposed Company Dashboard](https://infosecwriteups.com/from-shodan-to-sqli-hacking-an-exposed-company-dashboard-0b66a37a54ea?source=rss------bug_bounty_writeup-5)
@@ -9,7 +10,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Understanding the MITRE Framework: A Comprehensive Guide](https://medium.com/@shalomo.social/understanding-the-mitre-framework-a-comprehensive-guide-736423cb2521?source=rss------bug_bounty_writeup-5)
 - [How I Turned a “Type 3 Chars” Search Box Into Full SQLi](https://medium.com/@ghostxploiter/how-i-turned-a-type-3-chars-search-box-into-full-sqli-a4664e41071f?source=rss------bug_bounty_writeup-5)
 - [From Bugs to Bucks: My First Bounty $$$](https://infosecwriteups.com/from-bugs-to-bucks-my-first-bounty-0ab9f6341368?source=rss------bug_bounty_writeup-5)
-- [Weak Rate Limiting &amp; Password Oracle in Change Email Endpoint Got me bounty reward.](https://ch1ta.medium.com/weak-rate-limiting-password-oracle-in-change-email-endpoint-got-me-bounty-reward-15de040a656f?source=rss------bug_bounty_writeup-5)
 - [Blind XSS via Clipboard Paste Handling: A Detailed Guide](https://infosecwriteups.com/blind-xss-via-clipboard-paste-handling-a-detailed-guide-4c52d65c43f4?source=rss----7b722bfd1b8d---4)
 - [“Day 12: The Rate Limit Paradox — How I Weaponized API Protections for a $500 DoS Bug”](https://infosecwriteups.com/day-12-the-rate-limit-paradox-how-i-weaponized-api-protections-for-a-500-dos-bug-497fa5f8fe45?source=rss----7b722bfd1b8d---4)
 - [6. Subdomain Enumeration Like a Pro](https://infosecwriteups.com/6-subdomain-enumeration-like-a-pro-8461c8a92e25?source=rss----7b722bfd1b8d---4)
