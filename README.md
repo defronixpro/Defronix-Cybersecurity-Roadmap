@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Unsafe Request Handling in Account Deletion Flow Got me 91 $](https://ch1ta.medium.com/unsafe-request-handling-in-account-deletion-flow-got-me-91-7cb365d375d0?source=rss------bug_bounty_writeup-5)
+- [Bug Bounty Enumeración de JavaScript: cómo encontrar endpoints y secretos escondidos](https://gorkaaa.medium.com/bug-bounty-enumeraci%C3%B3n-de-javascript-c%C3%B3mo-encontrar-endpoints-y-secretos-escondidos-47cb9f5affde?source=rss------bug_bounty_writeup-5)
 - [To Each Their Own in Hacking: Choosing Your Path in Cybersecurity](https://medium.com/@hrofficial62/to-each-their-own-in-hacking-choosing-your-path-in-cybersecurity-50f9a6b0b27c?source=rss------bug_bounty_writeup-5)
 - [Automating Credential Stuffing Attacks with Burp Suite Intruder](https://systemweakness.com/automating-credential-stuffing-attacks-with-burp-suite-intruder-3aa74cf0c2d1?source=rss------bug_bounty_writeup-5)
 - [XSS Stored Bypass cookie http only via all accounts take over](https://medium.com/@VulnRAM/xss-stored-bypass-cookie-http-only-via-all-accounts-take-over-ef7134f139d1?source=rss------bug_bounty_writeup-5)
@@ -930,7 +932,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Weak OAuth, Big Problem: Grafana Login Bypass Explained](https://teamdh49.medium.com/weak-oauth-big-problem-grafana-login-bypass-explained-ee078ad6aa27?source=rss------bug_bounty_writeup-5)
 - [Understanding the MITRE Framework: A Comprehensive Guide](https://medium.com/@shalomo.social/understanding-the-mitre-framework-a-comprehensive-guide-736423cb2521?source=rss------bug_bounty_writeup-5)
 - [How I Turned a “Type 3 Chars” Search Box Into Full SQLi](https://medium.com/@ghostxploiter/how-i-turned-a-type-3-chars-search-box-into-full-sqli-a4664e41071f?source=rss------bug_bounty_writeup-5)
-- [From Bugs to Bucks: My First Bounty $$$](https://infosecwriteups.com/from-bugs-to-bucks-my-first-bounty-0ab9f6341368?source=rss------bug_bounty_writeup-5)
 - [Blind XSS via Clipboard Paste Handling: A Detailed Guide](https://infosecwriteups.com/blind-xss-via-clipboard-paste-handling-a-detailed-guide-4c52d65c43f4?source=rss----7b722bfd1b8d---4)
 - [“Day 12: The Rate Limit Paradox — How I Weaponized API Protections for a $500 DoS Bug”](https://infosecwriteups.com/day-12-the-rate-limit-paradox-how-i-weaponized-api-protections-for-a-500-dos-bug-497fa5f8fe45?source=rss----7b722bfd1b8d---4)
 - [6. Subdomain Enumeration Like a Pro](https://infosecwriteups.com/6-subdomain-enumeration-like-a-pro-8461c8a92e25?source=rss----7b722bfd1b8d---4)
