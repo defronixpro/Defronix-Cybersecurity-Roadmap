@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [HTTP Request Smuggling in Government Websites](https://osintteam.blog/http-request-smuggling-in-government-websites-30fcbe230415?source=rss------bug_bounty_writeup-5)
 - [Exploiting OTP with IP Rotation on a Flutter App: Bypassing Rate Limits](https://0xhussein.medium.com/exploiting-otp-with-ip-rotation-on-a-flutter-app-bypassing-rate-limits-58f9dffec83c?source=rss------bug_bounty_writeup-5)
 - [Unsafe Request Handling in Account Deletion Flow Got me 91 $](https://ch1ta.medium.com/unsafe-request-handling-in-account-deletion-flow-got-me-91-7cb365d375d0?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Enumeración de JavaScript: cómo encontrar endpoints y secretos escondidos](https://gorkaaa.medium.com/bug-bounty-enumeraci%C3%B3n-de-javascript-c%C3%B3mo-encontrar-endpoints-y-secretos-escondidos-47cb9f5affde?source=rss------bug_bounty_writeup-5)
@@ -931,7 +932,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [From Shodan to SQLi: Hacking an Exposed Company Dashboard](https://infosecwriteups.com/from-shodan-to-sqli-hacking-an-exposed-company-dashboard-0b66a37a54ea?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Broken Access Control: la vulnerabilidad que abre más puertas de las que imaginas](https://gorkaaa.medium.com/bug-bounty-broken-access-control-la-vulnerabilidad-que-abre-m%C3%A1s-puertas-de-las-que-imaginas-52ede8b6bc4a?source=rss------bug_bounty_writeup-5)
 - [Weak OAuth, Big Problem: Grafana Login Bypass Explained](https://teamdh49.medium.com/weak-oauth-big-problem-grafana-login-bypass-explained-ee078ad6aa27?source=rss------bug_bounty_writeup-5)
-- [Understanding the MITRE Framework: A Comprehensive Guide](https://medium.com/@shalomo.social/understanding-the-mitre-framework-a-comprehensive-guide-736423cb2521?source=rss------bug_bounty_writeup-5)
 - [Blind XSS via Clipboard Paste Handling: A Detailed Guide](https://infosecwriteups.com/blind-xss-via-clipboard-paste-handling-a-detailed-guide-4c52d65c43f4?source=rss----7b722bfd1b8d---4)
 - [“Day 12: The Rate Limit Paradox — How I Weaponized API Protections for a $500 DoS Bug”](https://infosecwriteups.com/day-12-the-rate-limit-paradox-how-i-weaponized-api-protections-for-a-500-dos-bug-497fa5f8fe45?source=rss----7b722bfd1b8d---4)
 - [6. Subdomain Enumeration Like a Pro](https://infosecwriteups.com/6-subdomain-enumeration-like-a-pro-8461c8a92e25?source=rss----7b722bfd1b8d---4)
