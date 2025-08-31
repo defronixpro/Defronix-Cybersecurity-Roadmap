@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How to Find SQLi in Bug Bounty ️](https://medium.com/@nexusphere/how-to-find-sqli-in-bug-bounty-%EF%B8%8F-7a1543e98d9e?source=rss------bug_bounty_writeup-5)
 - [I Found DOM-Based XSS &amp; HTML Injection in Swagger UI](https://medium.com/@0xmrX/i-found-dom-based-xss-html-injection-in-swagger-ui-292df97500c9?source=rss------bug_bounty_writeup-5)
 - [Mr. Robot TryHackMe Walkthrough: Medium CTF Guide with WordPress Exploit &amp; Root Privilege…](https://infosecwriteups.com/mr-robot-tryhackme-walkthrough-medium-ctf-guide-with-wordpress-exploit-root-privilege-194fca7065d7?source=rss----7b722bfd1b8d---4)
 - [Forgotten Subdomain = $1000 “AWS Breach” Bounty](https://infosecwriteups.com/finding-needle-in-the-haystack-how-a-forgotten-subdomain-led-to-complete-aws-infrastructure-328571e88496?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [HTTP Request Smuggling in Government Websites](https://osintteam.blog/http-request-smuggling-in-government-websites-30fcbe230415?source=rss------bug_bounty_writeup-5)
 - [Exploiting OTP with IP Rotation on a Flutter App: Bypassing Rate Limits](https://0xhussein.medium.com/exploiting-otp-with-ip-rotation-on-a-flutter-app-bypassing-rate-limits-58f9dffec83c?source=rss------bug_bounty_writeup-5)
 - [Unsafe Request Handling in Account Deletion Flow Got me 91 $](https://ch1ta.medium.com/unsafe-request-handling-in-account-deletion-flow-got-me-91-7cb365d375d0?source=rss------bug_bounty_writeup-5)
-- [Bug Bounty Enumeración de JavaScript: cómo encontrar endpoints y secretos escondidos](https://gorkaaa.medium.com/bug-bounty-enumeraci%C3%B3n-de-javascript-c%C3%B3mo-encontrar-endpoints-y-secretos-escondidos-47cb9f5affde?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
