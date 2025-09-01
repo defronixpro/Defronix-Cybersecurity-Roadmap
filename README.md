@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Ransomware Tabletop Exercise &amp; Playbook](https://infosecwriteups.com/ransomware-tabletop-exercise-playbook-fd74a495777b?source=rss----7b722bfd1b8d---4)
+- [AI Security Newsletter — July, 2025](https://infosecwriteups.com/ai-security-newsletter-july-2025-91c38d1a3d1d?source=rss----7b722bfd1b8d---4)
 - [How to Find SQLi in Bug Bounty ️](https://medium.com/@nexusphere/how-to-find-sqli-in-bug-bounty-%EF%B8%8F-7a1543e98d9e?source=rss------bug_bounty_writeup-5)
 - [I Found DOM-Based XSS &amp; HTML Injection in Swagger UI](https://medium.com/@0xmrX/i-found-dom-based-xss-html-injection-in-swagger-ui-292df97500c9?source=rss------bug_bounty_writeup-5)
 - [Mr. Robot TryHackMe Walkthrough: Medium CTF Guide with WordPress Exploit &amp; Root Privilege…](https://infosecwriteups.com/mr-robot-tryhackme-walkthrough-medium-ctf-guide-with-wordpress-exploit-root-privilege-194fca7065d7?source=rss----7b722bfd1b8d---4)
@@ -932,8 +934,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [OffSec Threat Hunter &lpar;OSTH&rpar;: Course Review and Exam Tips](https://infosecwriteups.com/offsec-threat-hunter-osth-course-review-and-exam-tips-e4b8ab415d40?source=rss----7b722bfd1b8d---4)
 - [“Day 22: The Race Condition Heist — How I Bought a $3,000 Drone for $0.01”](https://infosecwriteups.com/day-22-the-race-condition-heist-how-i-bought-a-3-000-drone-for-0-01-8cca7dc6c559?source=rss----7b722bfd1b8d---4)
 - [$5000+ in Bounties, 20+ Bug Reports, 2 Hall of Fame : Find Your First Bug!](https://infosecwriteups.com/5000-in-bounties-20-bug-reports-2-hall-of-fame-find-your-first-bug-32d564c1b9b4?source=rss----7b722bfd1b8d---4)
-- [Token Tales: Finding Hidden API Keys in JavaScript and Turning Them Into Gold](https://infosecwriteups.com/token-tales-finding-hidden-api-keys-in-javascript-and-turning-them-into-gold-e4e93c51e52b?source=rss----7b722bfd1b8d---4)
-- [Soupedecode 01 — TryHackMe Walkthrough &lpar;Active Directory Boot-to-Root&rpar;](https://infosecwriteups.com/soupedecode-01-tryhackme-walkthrough-active-directory-boot-to-root-7a80ba0f4de6?source=rss----7b722bfd1b8d---4)
 - [Bug Bounty Web Cache Deception: cuando la caché filtra datos privados](https://gorkaaa.medium.com/bug-bounty-web-cache-deception-cuando-la-cach%C3%A9-filtra-datos-privados-f8f72e6200b5?source=rss------bug_bounty_writeup-5)
 - [$500 Bounty for Stored SVG-based Script Execution Vulnerability in target.com’s Chat System](https://ch1ta.medium.com/500-bounty-for-stored-svg-based-script-execution-vulnerability-in-target-coms-chat-system-8358d0d6fc35?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty:Las rutas olvidadas suelen ser las más vulnerables](https://gorkaaa.medium.com/bug-bounty-las-rutas-olvidadas-suelen-ser-las-m%C3%A1s-vulnerables-5793395d4281?source=rss------bug_bounty_writeup-5)
