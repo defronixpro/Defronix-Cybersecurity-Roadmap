@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Recon to Responsible Disclosure](https://saurabh-jain.medium.com/recon-to-responsible-disclosure-ee3d308a3b69?source=rss------bug_bounty_writeup-5)
 - [I Broke Rate Limits to Hijack Accounts — Without Getting Blocked](https://teamdh49.medium.com/i-broke-rate-limits-to-hijack-accounts-without-getting-blocked-d06bbdfd836a?source=rss------bug_bounty_writeup-5)
 - [HTB-LAB Local File Inclusion &lpar;LFI&rpar;](https://medium.com/@kamelgaceb25/htb-lab-local-file-inclusion-lfi-5061ab1b4299?source=rss------bug_bounty_writeup-5)
 - [How I Exploited a JWT Misconfiguration for Account Takeover and Admin Access in 5 Minutes](https://infosecwriteups.com/how-i-exploited-a-jwt-misconfiguration-for-account-takeover-and-admin-access-in-5-minutes-c2974899f4ec?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [$500 Bounty for Stored SVG-based Script Execution Vulnerability in target.com’s Chat System](https://ch1ta.medium.com/500-bounty-for-stored-svg-based-script-execution-vulnerability-in-target-coms-chat-system-8358d0d6fc35?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty:Las rutas olvidadas suelen ser las más vulnerables](https://gorkaaa.medium.com/bug-bounty-las-rutas-olvidadas-suelen-ser-las-m%C3%A1s-vulnerables-5793395d4281?source=rss------bug_bounty_writeup-5)
 - [Stuck In Bug Hunting? Don’t Know Where To Go Now? Don’t Worry More. I Got You!](https://medium.com/great-hackers-battalion/stuck-in-bug-hunting-dont-know-where-to-go-now-don-t-worry-more-i-got-you-261f533919aa?source=rss------bug_bounty_writeup-5)
-- [Cracking Code, Catching Bugs: My Case Study of Three Vulnerability Hunts](https://medium.com/@letchupkt/cracking-code-catching-bugs-my-case-study-of-three-vulnerability-hunts-855fe0ef6e37?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
