@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How to Spot Easy Website Bugs with Real Examples](https://osintteam.blog/how-to-spot-easy-website-bugs-with-real-examples-2507f6688e25?source=rss------bug_bounty_writeup-5)
 - [The Bug Hunter’s Diary: Earning Bounties Legally](https://darkpurple.medium.com/the-bug-hunters-diary-earning-bounties-legally-f0549bb6d395?source=rss------bug_bounty_writeup-5)
 - [A Critical Zero-Day in Atlassian Jira Service Management Cloud: Password Reset Account Takeover](https://medium.com/@MoSalah11/a-critical-zero-day-in-atlassian-jira-service-management-cloud-password-reset-account-takeover-1903cbb8bd31?source=rss------bug_bounty_writeup-5)
 - [The Little CV + CSRF That Broke an Account](https://0onoproblem.medium.com/the-little-cv-csrf-that-broke-an-account-3c0abbc08597?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [“Day 24: The Polyglot Poison — How I Turned a Resume Upload into a Remote Shell”](https://infosecwriteups.com/day-24-the-polyglot-poison-how-i-turned-a-resume-upload-into-a-remote-shell-dc998722a328?source=rss----7b722bfd1b8d---4)
 - [How to Find SQLi in Bug Bounty ️](https://medium.com/@nexusphere/how-to-find-sqli-in-bug-bounty-%EF%B8%8F-7a1543e98d9e?source=rss------bug_bounty_writeup-5)
 - [I Found DOM-Based XSS &amp; HTML Injection in Swagger UI](https://medium.com/@0xmrX/i-found-dom-based-xss-html-injection-in-swagger-ui-292df97500c9?source=rss------bug_bounty_writeup-5)
-- [Bug Bounty Web Cache Deception: cuando la caché filtra datos privados](https://gorkaaa.medium.com/bug-bounty-web-cache-deception-cuando-la-cach%C3%A9-filtra-datos-privados-f8f72e6200b5?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
