@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [The Bug Hunter’s Diary: Earning Bounties Legally](https://darkpurple.medium.com/the-bug-hunters-diary-earning-bounties-legally-f0549bb6d395?source=rss------bug_bounty_writeup-5)
+- [A Critical Zero-Day in Atlassian Jira Service Management Cloud: Password Reset Account Takeover](https://medium.com/@MoSalah11/a-critical-zero-day-in-atlassian-jira-service-management-cloud-password-reset-account-takeover-1903cbb8bd31?source=rss------bug_bounty_writeup-5)
 - [The Little CV + CSRF That Broke an Account](https://0onoproblem.medium.com/the-little-cv-csrf-that-broke-an-account-3c0abbc08597?source=rss------bug_bounty_writeup-5)
 - [Recon to Responsible Disclosure](https://saurabh-jain.medium.com/recon-to-responsible-disclosure-ee3d308a3b69?source=rss------bug_bounty_writeup-5)
 - [I Broke Rate Limits to Hijack Accounts — Without Getting Blocked](https://teamdh49.medium.com/i-broke-rate-limits-to-hijack-accounts-without-getting-blocked-d06bbdfd836a?source=rss------bug_bounty_writeup-5)
@@ -940,8 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How to Find SQLi in Bug Bounty ️](https://medium.com/@nexusphere/how-to-find-sqli-in-bug-bounty-%EF%B8%8F-7a1543e98d9e?source=rss------bug_bounty_writeup-5)
 - [I Found DOM-Based XSS &amp; HTML Injection in Swagger UI](https://medium.com/@0xmrX/i-found-dom-based-xss-html-injection-in-swagger-ui-292df97500c9?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Web Cache Deception: cuando la caché filtra datos privados](https://gorkaaa.medium.com/bug-bounty-web-cache-deception-cuando-la-cach%C3%A9-filtra-datos-privados-f8f72e6200b5?source=rss------bug_bounty_writeup-5)
-- [$500 Bounty for Stored SVG-based Script Execution Vulnerability in target.com’s Chat System](https://ch1ta.medium.com/500-bounty-for-stored-svg-based-script-execution-vulnerability-in-target-coms-chat-system-8358d0d6fc35?source=rss------bug_bounty_writeup-5)
-- [Bug Bounty:Las rutas olvidadas suelen ser las más vulnerables](https://gorkaaa.medium.com/bug-bounty-las-rutas-olvidadas-suelen-ser-las-m%C3%A1s-vulnerables-5793395d4281?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
