@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [From Manage Members to Full Admin: Privilege Escalation in a GraphQL API](https://medium.com/@bassemwanies2002/from-manage-members-to-full-admin-privilege-escalation-in-a-graphql-api-b58699829d6e?source=rss------bug_bounty_writeup-5)
 - [How I Crashed Example Health’s CORS Party](https://infosecwriteups.com/how-i-crashed-example-healths-cors-party-5b64a897be5a?source=rss------bug_bounty_writeup-5)
 - [Unleash the Power of JS Link Finder: Hunt Hidden Endpoints Like a Pro](https://infosecwriteups.com/unleash-the-power-of-js-link-finder-hunt-hidden-endpoints-like-a-pro-deb77530155f?source=rss----7b722bfd1b8d---4)
 - [Enterprise Prompt Security: Injection Prevention Tools Compared](https://infosecwriteups.com/enterprise-prompt-security-injection-prevention-tools-compared-22b08a683c8b?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [The Little CV + CSRF That Broke an Account](https://0onoproblem.medium.com/the-little-cv-csrf-that-broke-an-account-3c0abbc08597?source=rss------bug_bounty_writeup-5)
 - [Recon to Responsible Disclosure](https://saurabh-jain.medium.com/recon-to-responsible-disclosure-ee3d308a3b69?source=rss------bug_bounty_writeup-5)
 - [I Broke Rate Limits to Hijack Accounts — Without Getting Blocked](https://teamdh49.medium.com/i-broke-rate-limits-to-hijack-accounts-without-getting-blocked-d06bbdfd836a?source=rss------bug_bounty_writeup-5)
-- [HTB-LAB Local File Inclusion &lpar;LFI&rpar;](https://medium.com/@kamelgaceb25/htb-lab-local-file-inclusion-lfi-5061ab1b4299?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
