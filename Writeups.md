@@ -1,15 +1,15 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Unleash the Power of JS Link Finder: Hunt Hidden Endpoints Like a Pro](https://infosecwriteups.com/unleash-the-power-of-js-link-finder-hunt-hidden-endpoints-like-a-pro-deb77530155f?source=rss----7b722bfd1b8d---4)
+- [Enterprise Prompt Security: Injection Prevention Tools Compared](https://infosecwriteups.com/enterprise-prompt-security-injection-prevention-tools-compared-22b08a683c8b?source=rss----7b722bfd1b8d---4)
+- [I hacked my entire College’s Wi-Fi Network!](https://infosecwriteups.com/i-hacked-my-entire-colleges-wi-fi-network-2869e7e77077?source=rss----7b722bfd1b8d---4)
 - [Mastering Ffuf: Basic and Advanced Commands](https://infosecwriteups.com/mastering-ffuf-basic-and-advanced-commands-60e53bdbffc7?source=rss----7b722bfd1b8d---4)
 - [Zoom Notes Phishing Abuse: How Attackers Exploit a Trusted Brand to Deliver Legitimate-Looking…](https://infosecwriteups.com/zoom-notes-phishing-abuse-how-attackers-exploit-a-trusted-brand-to-deliver-legitimate-looking-67bd6f87b8c9?source=rss----7b722bfd1b8d---4)
 - [Security Engineer Interview Questions Part-2](https://infosecwriteups.com/security-engineer-interview-questions-part-2-0bdd5fbf3a52?source=rss----7b722bfd1b8d---4)
 - [Basic Pentesting Walkthrough: Solving the TryHackMe Lab](https://infosecwriteups.com/basic-pentesting-walkthrough-solving-the-tryhackme-lab-235af4cf8d3b?source=rss----7b722bfd1b8d---4)
 - [“Day 26: The Logic Bomb — How I Hacked 0.1% of a Million-User Platform in 10 Minutes”](https://infosecwriteups.com/day-26-the-logic-bomb-how-i-hacked-0-1-of-a-million-user-platform-in-10-minutes-7dcb23f488cb?source=rss----7b722bfd1b8d---4)
-- [Enterprise Prompt Security: Injection Prevention Tools Compared](https://infosecwriteups.com/enterprise-prompt-security-injection-prevention-tools-compared-22b08a683c8b?source=rss----7b722bfd1b8d---4)
-- [I hacked my entire College’s Wi-Fi Network!](https://infosecwriteups.com/i-hacked-my-entire-colleges-wi-fi-network-2869e7e77077?source=rss----7b722bfd1b8d---4)
 - [[Part2] Installing and Configuring CAPEv2 on Ubuntu 22.04](https://infosecwriteups.com/building-capev2-automated-malware-analysis-sandbox-part-2-0c47e4b5cbcd?source=rss----7b722bfd1b8d---4)
-- [Unleash the Power of JS Link Finder: Hunt Hidden Endpoints Like a Pro](https://infosecwriteups.com/unleash-the-power-of-js-link-finder-hunt-hidden-endpoints-like-a-pro-deb77530155f?source=rss----7b722bfd1b8d---4)
 - [Unleash the Power of JS Link Finder: Hunt Hidden Endpoints Like a Pro](https://infosecwriteups.com/unleash-the-power-of-js-link-finder-hunt-hidden-endpoints-like-a-pro-deb77530155f?source=rss------bug_bounty_writeup-5)
 - [OhSINT TryHackMe Walkthrough](https://infosecwriteups.com/ohsint-tryhackme-walkthrough-251dc6096f66?source=rss----7b722bfd1b8d---4)
 - [Cómo redactar un buen reporte de Bug Bounty &lpar;paso a paso&rpar;](https://gorkaaa.medium.com/c%C3%B3mo-redactar-un-buen-reporte-de-bug-bounty-paso-a-paso-288016837dff?source=rss------bug_bounty_writeup-5)
