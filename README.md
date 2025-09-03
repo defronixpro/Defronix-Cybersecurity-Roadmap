@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Cada feature es una decisión. Cada decisión, una posible grieta.](https://gorkaaa.medium.com/cada-feature-es-una-decisi%C3%B3n-cada-decisi%C3%B3n-una-posible-grieta-3ba14ee1bac8?source=rss------bug_bounty_writeup-5)
 - [From Manage Members to Full Admin: Privilege Escalation in a GraphQL API](https://medium.com/@bassemwanies2002/from-manage-members-to-full-admin-privilege-escalation-in-a-graphql-api-b58699829d6e?source=rss------bug_bounty_writeup-5)
 - [How I Crashed Example Health’s CORS Party](https://infosecwriteups.com/how-i-crashed-example-healths-cors-party-5b64a897be5a?source=rss------bug_bounty_writeup-5)
 - [Unleash the Power of JS Link Finder: Hunt Hidden Endpoints Like a Pro](https://infosecwriteups.com/unleash-the-power-of-js-link-finder-hunt-hidden-endpoints-like-a-pro-deb77530155f?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [A Critical Zero-Day in Atlassian Jira Service Management Cloud: Password Reset Account Takeover](https://medium.com/@MoSalah11/a-critical-zero-day-in-atlassian-jira-service-management-cloud-password-reset-account-takeover-1903cbb8bd31?source=rss------bug_bounty_writeup-5)
 - [The Little CV + CSRF That Broke an Account](https://0onoproblem.medium.com/the-little-cv-csrf-that-broke-an-account-3c0abbc08597?source=rss------bug_bounty_writeup-5)
 - [Recon to Responsible Disclosure](https://saurabh-jain.medium.com/recon-to-responsible-disclosure-ee3d308a3b69?source=rss------bug_bounty_writeup-5)
-- [I Broke Rate Limits to Hijack Accounts — Without Getting Blocked](https://teamdh49.medium.com/i-broke-rate-limits-to-hijack-accounts-without-getting-blocked-d06bbdfd836a?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
