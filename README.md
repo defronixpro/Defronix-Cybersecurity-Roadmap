@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How to write a good Bug Bounty Report](https://systemweakness.com/how-to-write-a-good-bug-bounty-report-76d935a8c5b1?source=rss------bug_bounty_writeup-5)
 - [How Weak Access Control Can Break Your Web App](https://medium.com/@cybersuperfan/how-weak-access-control-can-break-your-web-app-c9da6286c187?source=rss------bug_bounty_writeup-5)
 - [Cada feature es una decisión. Cada decisión, una posible grieta.](https://gorkaaa.medium.com/cada-feature-es-una-decisi%C3%B3n-cada-decisi%C3%B3n-una-posible-grieta-3ba14ee1bac8?source=rss------bug_bounty_writeup-5)
 - [From Manage Members to Full Admin: Privilege Escalation in a GraphQL API](https://medium.com/@bassemwanies2002/from-manage-members-to-full-admin-privilege-escalation-in-a-graphql-api-b58699829d6e?source=rss------bug_bounty_writeup-5)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How to Spot Easy Website Bugs with Real Examples](https://osintteam.blog/how-to-spot-easy-website-bugs-with-real-examples-2507f6688e25?source=rss------bug_bounty_writeup-5)
 - [The Bug Hunter’s Diary: Earning Bounties Legally](https://darkpurple.medium.com/the-bug-hunters-diary-earning-bounties-legally-f0549bb6d395?source=rss------bug_bounty_writeup-5)
 - [A Critical Zero-Day in Atlassian Jira Service Management Cloud: Password Reset Account Takeover](https://medium.com/@MoSalah11/a-critical-zero-day-in-atlassian-jira-service-management-cloud-password-reset-account-takeover-1903cbb8bd31?source=rss------bug_bounty_writeup-5)
-- [The Little CV + CSRF That Broke an Account](https://0onoproblem.medium.com/the-little-cv-csrf-that-broke-an-account-3c0abbc08597?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
