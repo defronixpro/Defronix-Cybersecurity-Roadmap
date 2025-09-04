@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [First Bug Bounty Reward — Broken Access Control](https://medium.com/@defidev59/first-bug-bounty-reward-broken-access-control-e63ba29789f7?source=rss------bug_bounty_writeup-5)
 - [Vulnerabilidades en WebSockets: el canal olvidado &lpar;pero explotable&rpar;](https://gorkaaa.medium.com/vulnerabilidades-en-websockets-el-canal-olvidado-pero-explotable-8512ab4bddf3?source=rss------bug_bounty_writeup-5)
 - [How to write a good Bug Bounty Report](https://systemweakness.com/how-to-write-a-good-bug-bounty-report-76d935a8c5b1?source=rss------bug_bounty_writeup-5)
 - [How Weak Access Control Can Break Your Web App](https://medium.com/@cybersuperfan/how-weak-access-control-can-break-your-web-app-c9da6286c187?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [OhSINT TryHackMe Walkthrough](https://infosecwriteups.com/ohsint-tryhackme-walkthrough-251dc6096f66?source=rss----7b722bfd1b8d---4)
 - [Cómo redactar un buen reporte de Bug Bounty &lpar;paso a paso&rpar;](https://gorkaaa.medium.com/c%C3%B3mo-redactar-un-buen-reporte-de-bug-bounty-paso-a-paso-288016837dff?source=rss------bug_bounty_writeup-5)
 - [How to Spot Easy Website Bugs with Real Examples](https://osintteam.blog/how-to-spot-easy-website-bugs-with-real-examples-2507f6688e25?source=rss------bug_bounty_writeup-5)
-- [The Bug Hunter’s Diary: Earning Bounties Legally](https://darkpurple.medium.com/the-bug-hunters-diary-earning-bounties-legally-f0549bb6d395?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
