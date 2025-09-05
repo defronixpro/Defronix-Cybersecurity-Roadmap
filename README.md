@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Account Takeover via Insecure Email Change — Critical Vulnerability](https://medium.com/@3bddagg3/account-takeover-via-insecure-email-change-critical-vulnerability-b67d44d7f600?source=rss------bug_bounty_writeup-5)
 - [OTP bypass via logic flaw](https://medium.com/@moatymohamed897/otp-bypass-via-logic-flaw-8a5c96f84fab?source=rss------bug_bounty_writeup-5)
 - [Start Testing for This Bug and watch Your Bug Bounty Resu](https://medium.com/@jeosantos2005/start-testing-for-this-bug-and-watch-your-bug-bounty-resu-091602b301b5?source=rss------bug_bounty_writeup-5)
 - [Your Domain, My Playground: Hijacking Your Link Previews ‍](https://infosecwriteups.com/your-domain-my-playground-hijacking-your-link-previews-fdca8272bb4e?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How to write a good Bug Bounty Report](https://systemweakness.com/how-to-write-a-good-bug-bounty-report-76d935a8c5b1?source=rss------bug_bounty_writeup-5)
 - [How Weak Access Control Can Break Your Web App](https://medium.com/@cybersuperfan/how-weak-access-control-can-break-your-web-app-c9da6286c187?source=rss------bug_bounty_writeup-5)
 - [Cada feature es una decisión. Cada decisión, una posible grieta.](https://gorkaaa.medium.com/cada-feature-es-una-decisi%C3%B3n-cada-decisi%C3%B3n-una-posible-grieta-3ba14ee1bac8?source=rss------bug_bounty_writeup-5)
-- [From Manage Members to Full Admin: Privilege Escalation in a GraphQL API](https://medium.com/@bassemwanies2002/from-manage-members-to-full-admin-privilege-escalation-in-a-graphql-api-b58699829d6e?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
