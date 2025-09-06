@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [[Guide] Crafting a neat and valuable bug bounty report](https://medium.com/@pm_/guide-crafting-a-neat-and-valuable-bug-bounty-report-0bf1bc933bdc?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty: No hay payload que sustituya a una buena intuición](https://gorkaaa.medium.com/bug-bounty-no-hay-payload-que-sustituya-a-una-buena-intuici%C3%B3n-49c7f079f32c?source=rss------bug_bounty_writeup-5)
 - [How I Bypassed CAPTCHA and No Rate Limiting Leading to Account Takeover](https://medium.com/@youssefawad1357/bypassing-captcha-with-no-rate-limiting-potentially-leading-to-ato-0a7714c9042d?source=rss------bug_bounty_writeup-5)
 - [How i Got $500 From Information Disclosure By Sending a Jpeg](https://infosecwriteups.com/how-i-got-500-from-information-disclosure-by-sending-a-jpeg-e273d1b94da1?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Hunting GraphQL Gold: Uncovering Hidden Vulnerabilities in Modern APIs](https://infosecwriteups.com/hunting-graphql-gold-uncovering-hidden-vulnerabilities-in-modern-apis-ae3c3dbf462d?source=rss------bug_bounty_writeup-5)
 - [A Smarter Way to Find Bugs in Subdomains](https://osintteam.blog/a-smarter-way-to-find-bugs-in-subdomains-8df5bc504aa2?source=rss------bug_bounty_writeup-5)
 - [First Bug Bounty Reward — Broken Access Control](https://medium.com/@defidev59/first-bug-bounty-reward-broken-access-control-e63ba29789f7?source=rss------bug_bounty_writeup-5)
-- [Vulnerabilidades en WebSockets: el canal olvidado &lpar;pero explotable&rpar;](https://gorkaaa.medium.com/vulnerabilidades-en-websockets-el-canal-olvidado-pero-explotable-8512ab4bddf3?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
