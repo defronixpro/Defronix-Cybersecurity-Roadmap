@@ -1,6 +1,9 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [OSINT — A Beginner’s Guide to Open Source Intelligence.](https://infosecwriteups.com/osint-a-beginners-guide-to-open-source-intelligence-a510063b9474?source=rss----7b722bfd1b8d---4)
+- [How Hackers Use Google Dorks to Find Secrets](https://infosecwriteups.com/how-hackers-use-google-dorks-to-find-secrets-9130c8a8f9cc?source=rss----7b722bfd1b8d---4)
+- [11. Secrets in JS Files — And How to Find Them](https://infosecwriteups.com/11-secrets-in-js-files-and-how-to-find-them-f4088cf71610?source=rss----7b722bfd1b8d---4)
 - [Bug Bounty: NoSQL Injection: la vulnerabilidad silenciosa que muchos pasan por alto](https://gorkaaa.medium.com/bug-bounty-nosql-injection-la-vulnerabilidad-silenciosa-que-muchos-pasan-por-alto-0a1b45f53bd7?source=rss------bug_bounty_writeup-5)
 - [Account Takeover via Insecure Email Change — Critical Vulnerability](https://medium.com/@3bddagg3/account-takeover-via-insecure-email-change-critical-vulnerability-b67d44d7f600?source=rss------bug_bounty_writeup-5)
 - [OTP bypass via logic flaw](https://medium.com/@moatymohamed897/otp-bypass-via-logic-flaw-8a5c96f84fab?source=rss------bug_bounty_writeup-5)
@@ -12,9 +15,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [From image Upload to Workspace Takeover: Deconstructing a Critical Stored XSS Attack](https://infosecwriteups.com/from-image-upload-to-workspace-takeover-deconstructing-a-critical-stored-xss-attack-55d821c73b72?source=rss----7b722bfd1b8d---4)
 - [TryHackMe Startup Challenge Walkthrough: Step-by-Step Beginner’s Guide to FTP Exploitation and…](https://infosecwriteups.com/tryhackme-startup-challenge-walkthrough-step-by-step-beginners-guide-to-ftp-exploitation-and-d3f85323b799?source=rss----7b722bfd1b8d---4)
 - [The Unsolved case of P Mariammal](https://infosecwriteups.com/the-unsolved-case-of-p-mariammal-09dab0235c6d?source=rss----7b722bfd1b8d---4)
-- [How to Ruin Your Weekend: Building a DIY EDR](https://infosecwriteups.com/how-to-ruin-your-weekend-building-a-diy-edr-a8f6dc6f8da4?source=rss----7b722bfd1b8d---4)
-- [“Day 28: The DOM Clobbering Coup — How I Turned a Simple Comment Box into a CSP Bypass”](https://infosecwriteups.com/day-28-the-dom-clobbering-coup-how-i-turned-a-simple-comment-box-into-a-csp-bypass-109af0e954a6?source=rss----7b722bfd1b8d---4)
-- [2FA Bypass via Request Handling Flaw](https://infosecwriteups.com/2fa-bypass-via-request-handling-flaw-e4cf21bb4c55?source=rss----7b722bfd1b8d---4)
 - [Hunting GraphQL Gold: Uncovering Hidden Vulnerabilities in Modern APIs](https://infosecwriteups.com/hunting-graphql-gold-uncovering-hidden-vulnerabilities-in-modern-apis-ae3c3dbf462d?source=rss------bug_bounty_writeup-5)
 - [A Smarter Way to Find Bugs in Subdomains](https://osintteam.blog/a-smarter-way-to-find-bugs-in-subdomains-8df5bc504aa2?source=rss------bug_bounty_writeup-5)
 - [First Bug Bounty Reward — Broken Access Control](https://medium.com/@defidev59/first-bug-bounty-reward-broken-access-control-e63ba29789f7?source=rss------bug_bounty_writeup-5)
