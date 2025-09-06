@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Bug Bounty: No hay payload que sustituya a una buena intuición](https://gorkaaa.medium.com/bug-bounty-no-hay-payload-que-sustituya-a-una-buena-intuici%C3%B3n-49c7f079f32c?source=rss------bug_bounty_writeup-5)
 - [How I Bypassed CAPTCHA and No Rate Limiting Leading to Account Takeover](https://medium.com/@youssefawad1357/bypassing-captcha-with-no-rate-limiting-potentially-leading-to-ato-0a7714c9042d?source=rss------bug_bounty_writeup-5)
 - [How i Got $500 From Information Disclosure By Sending a Jpeg](https://infosecwriteups.com/how-i-got-500-from-information-disclosure-by-sending-a-jpeg-e273d1b94da1?source=rss----7b722bfd1b8d---4)
 - [Reverse Engineering WannaCry Ransomware: A Deep Dive](https://infosecwriteups.com/reverse-engineering-wannacry-ransomware-a-deep-dive-86ee4a8d7c7a?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [A Smarter Way to Find Bugs in Subdomains](https://osintteam.blog/a-smarter-way-to-find-bugs-in-subdomains-8df5bc504aa2?source=rss------bug_bounty_writeup-5)
 - [First Bug Bounty Reward — Broken Access Control](https://medium.com/@defidev59/first-bug-bounty-reward-broken-access-control-e63ba29789f7?source=rss------bug_bounty_writeup-5)
 - [Vulnerabilidades en WebSockets: el canal olvidado &lpar;pero explotable&rpar;](https://gorkaaa.medium.com/vulnerabilidades-en-websockets-el-canal-olvidado-pero-explotable-8512ab4bddf3?source=rss------bug_bounty_writeup-5)
-- [How to write a good Bug Bounty Report](https://systemweakness.com/how-to-write-a-good-bug-bounty-report-76d935a8c5b1?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
