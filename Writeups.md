@@ -13,7 +13,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [DVWA Reflected XSS &lpar;ALL LEVELS&rpar;](https://infosecwriteups.com/dvwa-reflected-xss-all-levels-616e561dd674?source=rss----7b722bfd1b8d---4)
 - [Surviving the Nightmare: My Biohazard CTF Adventure](https://infosecwriteups.com/surviving-the-nightmare-my-biohazard-ctf-adventure-e9e5d4ff13e2?source=rss----7b722bfd1b8d---4)
 - [Bug Bounty: NoSQL Injection: la vulnerabilidad silenciosa que muchos pasan por alto](https://gorkaaa.medium.com/bug-bounty-nosql-injection-la-vulnerabilidad-silenciosa-que-muchos-pasan-por-alto-0a1b45f53bd7?source=rss------bug_bounty_writeup-5)
-- [Account Takeover via Insecure Email Change — Critical Vulnerability](https://medium.com/@3bddagg3/account-takeover-via-insecure-email-change-critical-vulnerability-b67d44d7f600?source=rss------bug_bounty_writeup-5)
+- [Account Takeover via Insecure Email Change — Critical Vulnerability](https://medium.com/@0xalr/account-takeover-via-insecure-email-change-critical-vulnerability-b67d44d7f600?source=rss------bug_bounty_writeup-5)
 - [OTP bypass via logic flaw](https://medium.com/@moatymohamed897/otp-bypass-via-logic-flaw-8a5c96f84fab?source=rss------bug_bounty_writeup-5)
 - [Start Testing for This Bug and watch Your Bug Bounty Resu](https://medium.com/@jeosantos2005/start-testing-for-this-bug-and-watch-your-bug-bounty-resu-091602b301b5?source=rss------bug_bounty_writeup-5)
 - [Hunting GraphQL Gold: Uncovering Hidden Vulnerabilities in Modern APIs](https://infosecwriteups.com/hunting-graphql-gold-uncovering-hidden-vulnerabilities-in-modern-apis-ae3c3dbf462d?source=rss------bug_bounty_writeup-5)
