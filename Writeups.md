@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How I Discovered Account Takeover &lpar;ATO&rpar; via IDOR lead to 500$ bounty](https://infosecwriteups.com/how-i-discovered-account-takeover-ato-via-idor-lead-to-500-bounty-537bc7ff10b8?source=rss------bug_bounty_writeup-5)
 - [[Guide] Crafting a neat and valuable bug bounty report](https://medium.com/@pm_/guide-crafting-a-neat-and-valuable-bug-bounty-report-0bf1bc933bdc?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty: No hay payload que sustituya a una buena intuición](https://gorkaaa.medium.com/bug-bounty-no-hay-payload-que-sustituya-a-una-buena-intuici%C3%B3n-49c7f079f32c?source=rss------bug_bounty_writeup-5)
 - [How I Bypassed CAPTCHA and No Rate Limiting Leading to Account Takeover](https://medium.com/@youssefawad1357/bypassing-captcha-with-no-rate-limiting-potentially-leading-to-ato-0a7714c9042d?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Start Testing for This Bug and watch Your Bug Bounty Resu](https://medium.com/@jeosantos2005/start-testing-for-this-bug-and-watch-your-bug-bounty-resu-091602b301b5?source=rss------bug_bounty_writeup-5)
 - [Hunting GraphQL Gold: Uncovering Hidden Vulnerabilities in Modern APIs](https://infosecwriteups.com/hunting-graphql-gold-uncovering-hidden-vulnerabilities-in-modern-apis-ae3c3dbf462d?source=rss------bug_bounty_writeup-5)
 - [A Smarter Way to Find Bugs in Subdomains](https://osintteam.blog/a-smarter-way-to-find-bugs-in-subdomains-8df5bc504aa2?source=rss------bug_bounty_writeup-5)
-- [First Bug Bounty Reward — Broken Access Control](https://medium.com/@defidev59/first-bug-bounty-reward-broken-access-control-e63ba29789f7?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
