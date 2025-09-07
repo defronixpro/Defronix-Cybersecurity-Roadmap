@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Gaining Root Access via NFS Misconfiguration](https://infosecwriteups.com/gaining-root-access-via-nfs-misconfiguration-92d4d44f8837?source=rss----7b722bfd1b8d---4)
 - [When a Carriage Return Nearly Broke Git &lpar;And How You Can Stay Safe&rpar;](https://infosecwriteups.com/when-a-carriage-return-nearly-broke-git-and-how-you-can-stay-safe-42bb19a3783b?source=rss----7b722bfd1b8d---4)
 - [Pass The Hash - How Hackers Get Access Without Passwords](https://infosecwriteups.com/pass-the-hash-how-hackers-get-access-without-passwords-d1f8b4f32410?source=rss----7b722bfd1b8d---4)
 - [How I Discovered Account Takeover &lpar;ATO&rpar; via IDOR lead to 500$ bounty](https://infosecwriteups.com/how-i-discovered-account-takeover-ato-via-idor-lead-to-500-bounty-537bc7ff10b8?source=rss----7b722bfd1b8d---4)
@@ -10,7 +11,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [12. Broken Access Control: When the Rules Break](https://infosecwriteups.com/12-broken-access-control-when-the-rules-break-0bc37a474d57?source=rss----7b722bfd1b8d---4)
 - [Hackers Assemble 2: The Saga Completes](https://infosecwriteups.com/hackers-assemble-2-the-saga-completes-590f4813812a?source=rss----7b722bfd1b8d---4)
 - [Master Wi-Fi Cracking with Wifite](https://infosecwriteups.com/master-wi-fi-cracking-with-wifite-e20181aa07ff?source=rss----7b722bfd1b8d---4)
-- [Flatline TryHackMe Walkthrough — Complete Step-by-Step Guide to Root](https://infosecwriteups.com/flatline-tryhackme-walkthrough-complete-step-by-step-guide-to-root-4167180f1355?source=rss----7b722bfd1b8d---4)
 - [How I Hacked An AI Based Company](https://medium.com/@lewrohan1/how-i-hacked-an-ai-based-company-9e190e0f5126?source=rss------bug_bounty_writeup-5)
 - [Crack the 403 Code: Turn Forbidden Errors into Bug Bounty Wins](https://infosecwriteups.com/crack-the-403-code-turn-forbidden-errors-into-bug-bounty-wins-1f5efe98b987?source=rss------bug_bounty_writeup-5)
 - [How I Discovered Account Takeover &lpar;ATO&rpar; via IDOR lead to 500$ bounty](https://infosecwriteups.com/how-i-discovered-account-takeover-ato-via-idor-lead-to-500-bounty-537bc7ff10b8?source=rss------bug_bounty_writeup-5)
