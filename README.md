@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I Found a High-Severity IDOR Without Using Any Proxy Tools](https://medium.com/@yusufabdulkadir74/how-i-found-a-high-severity-idor-without-using-any-proxy-tools-8a6d2d09efc7?source=rss------bug_bounty_writeup-5)
 - [The Auth Apocalypse: Episode 5—The Cookie Thief’s Favourite Snack](https://osintteam.blog/the-auth-apocalypse-episode-5-the-cookie-thiefs-favourite-snack-6b32dcc8fe6d?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty: Information Disclosure: el fallo invisible que rompe sistemas](https://gorkaaa.medium.com/bug-bounty-information-disclosure-el-fallo-invisible-que-rompe-sistemas-7ac62023ac1c?source=rss------bug_bounty_writeup-5)
 - [Gaining Root Access via NFS Misconfiguration](https://infosecwriteups.com/gaining-root-access-via-nfs-misconfiguration-92d4d44f8837?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Bug Bounty: No hay payload que sustituya a una buena intuición](https://gorkaaa.medium.com/bug-bounty-no-hay-payload-que-sustituya-a-una-buena-intuici%C3%B3n-49c7f079f32c?source=rss------bug_bounty_writeup-5)
 - [How I Bypassed CAPTCHA and No Rate Limiting Leading to Account Takeover](https://medium.com/@youssefawad1357/bypassing-captcha-with-no-rate-limiting-potentially-leading-to-ato-0a7714c9042d?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty: NoSQL Injection: la vulnerabilidad silenciosa que muchos pasan por alto](https://gorkaaa.medium.com/bug-bounty-nosql-injection-la-vulnerabilidad-silenciosa-que-muchos-pasan-por-alto-0a1b45f53bd7?source=rss------bug_bounty_writeup-5)
-- [Account Takeover via Insecure Email Change — Critical Vulnerability](https://medium.com/@0xalr/account-takeover-via-insecure-email-change-critical-vulnerability-b67d44d7f600?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
