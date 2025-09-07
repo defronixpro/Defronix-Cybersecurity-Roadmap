@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Gaining Root Access via NFS Misconfiguration](https://infosecwriteups.com/gaining-root-access-via-nfs-misconfiguration-92d4d44f8837?source=rss----7b722bfd1b8d---4)
 - [When a Carriage Return Nearly Broke Git &lpar;And How You Can Stay Safe&rpar;](https://infosecwriteups.com/when-a-carriage-return-nearly-broke-git-and-how-you-can-stay-safe-42bb19a3783b?source=rss----7b722bfd1b8d---4)
 - [Pass The Hash - How Hackers Get Access Without Passwords](https://infosecwriteups.com/pass-the-hash-how-hackers-get-access-without-passwords-d1f8b4f32410?source=rss----7b722bfd1b8d---4)
 - [How I Discovered Account Takeover &lpar;ATO&rpar; via IDOR lead to 500$ bounty](https://infosecwriteups.com/how-i-discovered-account-takeover-ato-via-idor-lead-to-500-bounty-537bc7ff10b8?source=rss----7b722bfd1b8d---4)
@@ -931,7 +932,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [12. Broken Access Control: When the Rules Break](https://infosecwriteups.com/12-broken-access-control-when-the-rules-break-0bc37a474d57?source=rss----7b722bfd1b8d---4)
 - [Hackers Assemble 2: The Saga Completes](https://infosecwriteups.com/hackers-assemble-2-the-saga-completes-590f4813812a?source=rss----7b722bfd1b8d---4)
 - [Master Wi-Fi Cracking with Wifite](https://infosecwriteups.com/master-wi-fi-cracking-with-wifite-e20181aa07ff?source=rss----7b722bfd1b8d---4)
-- [Flatline TryHackMe Walkthrough — Complete Step-by-Step Guide to Root](https://infosecwriteups.com/flatline-tryhackme-walkthrough-complete-step-by-step-guide-to-root-4167180f1355?source=rss----7b722bfd1b8d---4)
 - [How I Hacked An AI Based Company](https://medium.com/@lewrohan1/how-i-hacked-an-ai-based-company-9e190e0f5126?source=rss------bug_bounty_writeup-5)
 - [Crack the 403 Code: Turn Forbidden Errors into Bug Bounty Wins](https://infosecwriteups.com/crack-the-403-code-turn-forbidden-errors-into-bug-bounty-wins-1f5efe98b987?source=rss------bug_bounty_writeup-5)
 - [How I Discovered Account Takeover &lpar;ATO&rpar; via IDOR lead to 500$ bounty](https://infosecwriteups.com/how-i-discovered-account-takeover-ato-via-idor-lead-to-500-bounty-537bc7ff10b8?source=rss------bug_bounty_writeup-5)
@@ -946,7 +946,17 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
 - [How to backup and restore the Windows Registry](https://www.bleepingcomputer.com/tutorials/how-to-backup-and-restore-the-windows-registry/)
+- [How To Fix Error: Externally-Managed-Environment In Python &lpar;Kali Linux&rpar;](https://technicalnavigator.in/how-to-fix-error-externally-managed-environment-in-python-kali-linux/)
+- [Understanding Systemctl Command in Linux &lpar;Practical&rpar;](https://technicalnavigator.in/understanding-systemctl-command-in-linux-practical/)
+- [Macros in docm &amp; Linux memory dump| Hack The Boo  Challanges](https://technicalnavigator.in/macros-in-docm-linux-memory-dump-hack-the-boo-challanges/)
+- [Android Apps debugging |  Frida, JADX, Genymotion](https://technicalnavigator.in/android-apps-debugging-frida-jadx-genymotion/)
+- [MouseServer | wifimouse – Windows/ Linux](https://technicalnavigator.in/mouseserver-wifimouse-windows-linux/)
+- [FFUF fuzzer | web-application penetration-testing](https://technicalnavigator.in/ffuf-fuzzer-web-application-penetration-testing/)
 - [How to open a Windows 11 Command Prompt as Administrator](https://www.bleepingcomputer.com/tutorials/how-to-open-a-windows-11-command-prompt-as-administrator/)
+- [Classes-Objects &amp; Deserialization bug](https://technicalnavigator.in/classes-objects-deserialization-bug/)
+- [Loki Tool | Multhreading Over Sockets in C](https://technicalnavigator.in/loki-tool-multhreading-over-sockets-in-c/)
+- [Egghunter | NASM | C prototype](https://technicalnavigator.in/egghunter-nasm-c-prototype/)
+- [TELNET &amp; FTP Analysis](https://technicalnavigator.in/telnet-ftp-analysis/)
 - [How to make the Start menu full screen in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-make-the-start-menu-full-screen-in-windows-10/)
 - [How to install the Microsoft Visual C++ 2015 Runtime](https://www.bleepingcomputer.com/tutorials/how-to-install-the-microsoft-visual-c-2015-runtime/)
 - [How to open an elevated PowerShell Admin prompt in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-open-an-elevated-powershell-admin-prompt-in-windows-10/)
