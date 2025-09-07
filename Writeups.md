@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Bug Bounty: Information Disclosure: el fallo invisible que rompe sistemas](https://gorkaaa.medium.com/bug-bounty-information-disclosure-el-fallo-invisible-que-rompe-sistemas-7ac62023ac1c?source=rss------bug_bounty_writeup-5)
 - [Gaining Root Access via NFS Misconfiguration](https://infosecwriteups.com/gaining-root-access-via-nfs-misconfiguration-92d4d44f8837?source=rss----7b722bfd1b8d---4)
 - [When a Carriage Return Nearly Broke Git &lpar;And How You Can Stay Safe&rpar;](https://infosecwriteups.com/when-a-carriage-return-nearly-broke-git-and-how-you-can-stay-safe-42bb19a3783b?source=rss----7b722bfd1b8d---4)
 - [Pass The Hash - How Hackers Get Access Without Passwords](https://infosecwriteups.com/pass-the-hash-how-hackers-get-access-without-passwords-d1f8b4f32410?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Bug Bounty: NoSQL Injection: la vulnerabilidad silenciosa que muchos pasan por alto](https://gorkaaa.medium.com/bug-bounty-nosql-injection-la-vulnerabilidad-silenciosa-que-muchos-pasan-por-alto-0a1b45f53bd7?source=rss------bug_bounty_writeup-5)
 - [Account Takeover via Insecure Email Change — Critical Vulnerability](https://medium.com/@0xalr/account-takeover-via-insecure-email-change-critical-vulnerability-b67d44d7f600?source=rss------bug_bounty_writeup-5)
 - [OTP bypass via logic flaw](https://medium.com/@moatymohamed897/otp-bypass-via-logic-flaw-8a5c96f84fab?source=rss------bug_bounty_writeup-5)
-- [Start Testing for This Bug and watch Your Bug Bounty Resu](https://medium.com/@jeosantos2005/start-testing-for-this-bug-and-watch-your-bug-bounty-resu-091602b301b5?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
