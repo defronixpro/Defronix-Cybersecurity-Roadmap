@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [When Your Bug Gets Marked “Duplicate”: A Netflix Atlas Security Research Journey](https://letchupkt.medium.com/when-your-bug-gets-marked-duplicate-a-netflix-atlas-security-research-journey-eae25a5f4f35?source=rss------bug_bounty_writeup-5)
 - [How I Found My First SQL Injection Bug Bounty](https://infosecwriteups.com/how-i-found-my-first-sql-injection-bug-bounty-a6ac6e1add39?source=rss----7b722bfd1b8d---4)
 - [Hack The Box — Synced &lpar;rsync&rpar;](https://infosecwriteups.com/hack-the-box-synced-rsync-c8cef67c795a?source=rss----7b722bfd1b8d---4)
 - [How I Hack Websites With Just HTML Injection](https://infosecwriteups.com/how-i-hack-websites-with-just-html-injection-9ccbc87faf47?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Crack the 403 Code: Turn Forbidden Errors into Bug Bounty Wins](https://infosecwriteups.com/crack-the-403-code-turn-forbidden-errors-into-bug-bounty-wins-1f5efe98b987?source=rss------bug_bounty_writeup-5)
 - [How I Discovered Account Takeover &lpar;ATO&rpar; via IDOR lead to 500$ bounty](https://infosecwriteups.com/how-i-discovered-account-takeover-ato-via-idor-lead-to-500-bounty-537bc7ff10b8?source=rss------bug_bounty_writeup-5)
 - [[Guide] Crafting a neat and valuable bug bounty report](https://medium.com/@pm_/guide-crafting-a-neat-and-valuable-bug-bounty-report-0bf1bc933bdc?source=rss------bug_bounty_writeup-5)
-- [Bug Bounty: No hay payload que sustituya a una buena intuición](https://gorkaaa.medium.com/bug-bounty-no-hay-payload-que-sustituya-a-una-buena-intuici%C3%B3n-49c7f079f32c?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
