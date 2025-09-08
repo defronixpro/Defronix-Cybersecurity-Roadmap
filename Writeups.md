@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Broken like Hijacking earned me $150](https://infosecwriteups.com/broken-like-hijacking-earned-me-150-d67fc0571582?source=rss------bug_bounty_writeup-5)
 - [Parameter Cloaking in Web Cache Poisoning Using Rails Parameter Cloaking Scanner](https://infosecwriteups.com/parameter-cloaking-in-web-cache-poisoning-using-rails-parameter-cloaking-scanner-489b571587c4?source=rss----7b722bfd1b8d---4)
 - [Certified Red Team Analyst — Exam Review](https://infosecwriteups.com/certified-red-team-analyst-exam-review-135d4c7825bd?source=rss----7b722bfd1b8d---4)
 - [Merchant Transaction Data Exposure](https://infosecwriteups.com/merchants-transaction-data-5a95f4afc59a?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How I Hacked An AI Based Company](https://medium.com/@lewrohan1/how-i-hacked-an-ai-based-company-9e190e0f5126?source=rss------bug_bounty_writeup-5)
 - [Crack the 403 Code: Turn Forbidden Errors into Bug Bounty Wins](https://infosecwriteups.com/crack-the-403-code-turn-forbidden-errors-into-bug-bounty-wins-1f5efe98b987?source=rss------bug_bounty_writeup-5)
 - [How I Discovered Account Takeover &lpar;ATO&rpar; via IDOR lead to 500$ bounty](https://infosecwriteups.com/how-i-discovered-account-takeover-ato-via-idor-lead-to-500-bounty-537bc7ff10b8?source=rss------bug_bounty_writeup-5)
-- [[Guide] Crafting a neat and valuable bug bounty report](https://medium.com/@pm_/guide-crafting-a-neat-and-valuable-bug-bounty-report-0bf1bc933bdc?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
