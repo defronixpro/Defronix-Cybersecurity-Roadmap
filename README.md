@@ -922,6 +922,9 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Parameter Cloaking in Web Cache Poisoning Using Rails Parameter Cloaking Scanner](https://infosecwriteups.com/parameter-cloaking-in-web-cache-poisoning-using-rails-parameter-cloaking-scanner-489b571587c4?source=rss----7b722bfd1b8d---4)
+- [Certified Red Team Analyst — Exam Review](https://infosecwriteups.com/certified-red-team-analyst-exam-review-135d4c7825bd?source=rss----7b722bfd1b8d---4)
+- [Merchant Transaction Data Exposure](https://infosecwriteups.com/merchants-transaction-data-5a95f4afc59a?source=rss----7b722bfd1b8d---4)
 - [When Your Bug Gets Marked “Duplicate”: A Netflix Atlas Security Research Journey](https://letchupkt.medium.com/when-your-bug-gets-marked-duplicate-a-netflix-atlas-security-research-journey-eae25a5f4f35?source=rss------bug_bounty_writeup-5)
 - [How I Found My First SQL Injection Bug Bounty](https://infosecwriteups.com/how-i-found-my-first-sql-injection-bug-bounty-a6ac6e1add39?source=rss----7b722bfd1b8d---4)
 - [Hack The Box — Synced &lpar;rsync&rpar;](https://infosecwriteups.com/hack-the-box-synced-rsync-c8cef67c795a?source=rss----7b722bfd1b8d---4)
@@ -930,9 +933,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Chaining Path Traversal Vulnerability to RCE  — Meta’s 111,750$ Bug](https://infosecwriteups.com/chaining-path-traversal-vulnerability-to-rce-metas-111-750-bug-a98a473c6a05?source=rss----7b722bfd1b8d---4)
 - [Anonforce — TryHackMe Walkthrough | Complete Guide to Boot2Root](https://infosecwriteups.com/anonforce-tryhackme-walkthrough-complete-guide-to-boot2root-d66405777aec?source=rss----7b722bfd1b8d---4)
 - [TryHackMe Year of the Rabbit Walkthrough: Easy CTF Guide for FTP, SSH, and Privilege Escalation](https://infosecwriteups.com/tryhackme-year-of-the-rabbit-walkthrough-easy-ctf-guide-for-ftp-ssh-and-privilege-escalation-5e3217ccbfcb?source=rss----7b722bfd1b8d---4)
-- [Hunting OS Command Injection](https://infosecwriteups.com/hunting-os-command-injection-039dbb284c7d?source=rss----7b722bfd1b8d---4)
-- [CVE-2025–48539: Bluetooth Zero-Click Exploit Targets Android Devices via Kernel Race Condition](https://infosecwriteups.com/bluetooth-zero-click-exploit-targets-android-devices-via-kernel-race-condition-80aaf5f7fd21?source=rss----7b722bfd1b8d---4)
-- [“Day 30: The Finale — The Bug That Almost Broke the Internet &lpar;Or Just My Testing Account&rpar;”](https://infosecwriteups.com/day-30-the-finale-the-bug-that-almost-broke-the-internet-or-just-my-testing-account-d63112e13427?source=rss----7b722bfd1b8d---4)
 - [Hunting OS Command Injection](https://infosecwriteups.com/hunting-os-command-injection-039dbb284c7d?source=rss------bug_bounty_writeup-5)
 - [When Support Portals Bite Back: DOM-XSS in a Helpcenter](https://infosecwriteups.com/when-support-portals-bite-back-dom-xss-in-a-helpcenter-4ac7e154ce4e?source=rss------bug_bounty_writeup-5)
 - [How I Found a High-Severity IDOR Without Using Any Proxy Tools](https://medium.com/@yusufabdulkadir74/how-i-found-a-high-severity-idor-without-using-any-proxy-tools-8a6d2d09efc7?source=rss------bug_bounty_writeup-5)
