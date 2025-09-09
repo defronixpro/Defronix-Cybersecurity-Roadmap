@@ -1,16 +1,16 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Stegoint: Where is steganography? | TryHackMe CTF](https://infosecwriteups.com/stegoint-where-is-steganography-tryhackme-ctf-81ee02779569?source=rss----7b722bfd1b8d---4)
+- [Understanding RSA encryption algorithm](https://infosecwriteups.com/understanding-rsa-encryption-algorithm-cf542b3cae4c?source=rss----7b722bfd1b8d---4)
+- [Block | TryHackMe CTF writeup](https://infosecwriteups.com/block-tryhackme-ctf-writeup-8b748ecfab48?source=rss----7b722bfd1b8d---4)
+- [Understanding CSRF and How to Prevent It in Your Application — Part 2](https://infosecwriteups.com/understanding-csrf-and-how-to-prevent-it-in-your-application-part-2-4cfd2940e236?source=rss----7b722bfd1b8d---4)
+- [Investigating an APT with Splunk &lpar;Boss of the SOC&rpar;](https://infosecwriteups.com/investigating-an-apt-with-splunk-boss-of-the-soc-bbf7f35645af?source=rss----7b722bfd1b8d---4)
+- [4. Top 10 Recon Tools I Use Every Day &lpar;With Pro Tips &amp; Workflows&rpar;](https://infosecwriteups.com/4-top-10-recon-tools-i-use-every-day-with-pro-tips-workflows-61665e79e65d?source=rss----7b722bfd1b8d---4)
+- [8. Intro to XSS: How I Found My First Bug](https://infosecwriteups.com/8-intro-to-xss-how-i-found-my-first-bug-0046a4dbec4b?source=rss----7b722bfd1b8d---4)
 - [How a Failed Payment on a Train Platform Earned Me $400](https://infosecwriteups.com/how-a-failed-payment-on-a-train-platform-earned-me-400-23241d204550?source=rss----7b722bfd1b8d---4)
 - [LockBit 3.0 &lpar;“LockBit Black”&rpar; APT High Level Profile](https://infosecwriteups.com/lockbit-3-0-lockbit-black-apt-high-level-profile-9952b4617c1b?source=rss----7b722bfd1b8d---4)
 - [CVE-2025–24204: Apple macOS Entitlement Flaw Enables Memory Dump, Keychain Theft, and FairPlay…](https://infosecwriteups.com/cve-2025-24204-apple-macos-entitlement-flaw-enables-memory-dump-keychain-theft-and-fairplay-5bb9f86de19b?source=rss----7b722bfd1b8d---4)
-- [Broken like Hijacking earned me $150](https://infosecwriteups.com/broken-like-hijacking-earned-me-150-d67fc0571582?source=rss----7b722bfd1b8d---4)
-- [Subfinder](https://infosecwriteups.com/subfinder-97b70205b82e?source=rss----7b722bfd1b8d---4)
-- [SQL for Bug Bounty Hunters 2.0](https://infosecwriteups.com/sql-for-bug-bounty-hunters-2-0-f7e136c0e5c9?source=rss----7b722bfd1b8d---4)
-- [AspGoat: The First Intentionally Vulnerable modern ASP.NET Core App for OWASP Top 10](https://infosecwriteups.com/aspgoat-the-first-intentionally-vulnerable-modern-asp-net-core-app-for-owasp-top-10-d6037f7ac3f1?source=rss----7b722bfd1b8d---4)
-- [Web Cache Poisoning via Fat GET Requests: Exploiting Cache Key Flaws](https://infosecwriteups.com/web-cache-poisoning-via-fat-get-requests-exploiting-cache-key-flaws-37e8d5030a2d?source=rss----7b722bfd1b8d---4)
-- [XSS in Google IDX Workstation → RCE! $22,500 Bounty Earned](https://infosecwriteups.com/xss-in-google-idx-workstation-rce-22-500-bounty-earned-2d09f0176869?source=rss----7b722bfd1b8d---4)
-- [Binary Patching: A Complete Step-by-Step Guide](https://infosecwriteups.com/binary-patching-a-complete-step-by-step-guide-fac337985094?source=rss----7b722bfd1b8d---4)
 - [Broken like Hijacking earned me $150](https://infosecwriteups.com/broken-like-hijacking-earned-me-150-d67fc0571582?source=rss------bug_bounty_writeup-5)
 - [When Your Bug Gets Marked “Duplicate”: A Netflix Atlas Security Research Journey](https://letchupkt.medium.com/when-your-bug-gets-marked-duplicate-a-netflix-atlas-security-research-journey-eae25a5f4f35?source=rss------bug_bounty_writeup-5)
 - [Hunting OS Command Injection](https://infosecwriteups.com/hunting-os-command-injection-039dbb284c7d?source=rss------bug_bounty_writeup-5)
