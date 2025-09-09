@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How I Accidentally Stumbled Upon a Critical Vulnerability &lpar;Exposed backup on google storage&rpar;](https://siratsami71.medium.com/how-i-accidentally-stumbled-upon-a-critical-vulnerability-exposed-backup-on-google-storage-420f17004062?source=rss------bug_bounty_writeup-5)
 - [Understanding RSA encryption algorithm](https://infosecwriteups.com/understanding-rsa-encryption-algorithm-cf542b3cae4c?source=rss----7b722bfd1b8d---4)
 - [Bug Bounty: No hay payload que sustituya a una buena intuición](https://gorkaaa.medium.com/bug-bounty-no-hay-payload-que-sustituya-a-una-buena-intuici%C3%B3n-e7f12dce0253?source=rss------bug_bounty_writeup-5)
 - [Planet X : Android Application Based CTF Challenge Walkthrough](https://infosecwriteups.com/planet-x-android-application-based-ctf-challenge-walkthrough-778547aac015?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [The Auth Apocalypse: Episode 5—The Cookie Thief’s Favourite Snack](https://osintteam.blog/the-auth-apocalypse-episode-5-the-cookie-thiefs-favourite-snack-6b32dcc8fe6d?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty: Information Disclosure: el fallo invisible que rompe sistemas](https://gorkaaa.medium.com/bug-bounty-information-disclosure-el-fallo-invisible-que-rompe-sistemas-7ac62023ac1c?source=rss------bug_bounty_writeup-5)
 - [How I Hacked An AI Based Company](https://medium.com/@lewrohan1/how-i-hacked-an-ai-based-company-9e190e0f5126?source=rss------bug_bounty_writeup-5)
-- [Crack the 403 Code: Turn Forbidden Errors into Bug Bounty Wins](https://infosecwriteups.com/crack-the-403-code-turn-forbidden-errors-into-bug-bounty-wins-1f5efe98b987?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
