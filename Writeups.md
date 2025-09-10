@@ -3,6 +3,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 <!-- WRITEUPS:START -->
 - [DeepProbe: Open-Source Memory Forensics with ATT&amp;CK-Mapped Detections](https://infosecwriteups.com/deepprobe-open-source-memory-forensics-with-att-ck-mapped-detections-a1acb663de39?source=rss----7b722bfd1b8d---4)
 - [This Silent Attack Can Hijack Any Website You Trust-Here’s How It Works](https://infosecwriteups.com/this-silent-attack-can-hijack-any-website-you-trust-heres-how-it-works-48f99fda2ef6?source=rss----7b722bfd1b8d---4)
+- [Regular User Can Invite Admin — Resulting in Full Organization Compromise](https://medium.com/@0xammarsaber/regular-user-can-invite-admin-resulting-in-full-organization-compromise-050dd57f9e01?source=rss------bug_bounty_writeup-5)
 - [Beyond CVE: Crafting a Comprehensive Vulnerability Intelligence Strategy for Modern Security Teams](https://infosecwriteups.com/beyond-cve-crafting-a-comprehensive-vulnerability-intelligence-strategy-for-modern-security-teams-2a98275cca18?source=rss----7b722bfd1b8d---4)
 - [How I Found an Exposed User Database via an Unprotected API &lpar;And How to Prevent It&rpar; in a private…](https://infosecwriteups.com/how-i-found-an-exposed-user-database-via-an-unprotected-api-and-how-to-prevent-it-in-a-private-77dd95a1101c?source=rss----7b722bfd1b8d---4)
 - [How i found first account takeover, reported and got the bounty in same day and in same hour.](https://infosecwriteups.com/bismillah-hir-rahman-nir-raheem-9adef82e9718?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Hunting OS Command Injection](https://infosecwriteups.com/hunting-os-command-injection-039dbb284c7d?source=rss------bug_bounty_writeup-5)
 - [When Support Portals Bite Back: DOM-XSS in a Helpcenter](https://infosecwriteups.com/when-support-portals-bite-back-dom-xss-in-a-helpcenter-4ac7e154ce4e?source=rss------bug_bounty_writeup-5)
 - [How I Found a High-Severity IDOR Without Using Any Proxy Tools](https://medium.com/@yusufabdulkadir74/how-i-found-a-high-severity-idor-without-using-any-proxy-tools-8a6d2d09efc7?source=rss------bug_bounty_writeup-5)
-- [The Auth Apocalypse: Episode 5—The Cookie Thief’s Favourite Snack](https://osintteam.blog/the-auth-apocalypse-episode-5-the-cookie-thiefs-favourite-snack-6b32dcc8fe6d?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
