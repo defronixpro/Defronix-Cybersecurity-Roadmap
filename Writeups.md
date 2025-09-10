@@ -1,6 +1,9 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Largest NPM Compromise in History: Supply Chain Attack](https://infosecwriteups.com/largest-npm-compromise-in-history-supply-chain-attack-908c343ca1a4?source=rss----7b722bfd1b8d---4)
+- [Protecting Data at Rest and in Transit: End-to-end, Link &amp; Onion Encryption](https://infosecwriteups.com/protecting-data-at-rest-and-in-transit-end-to-end-link-onion-encryption-4800a7cf3eb5?source=rss----7b722bfd1b8d---4)
+- [Fuckyouwaf](https://infosecwriteups.com/fuckyouwaf-0e7be8fb1ef0?source=rss----7b722bfd1b8d---4)
 - [MOI-CTF: dash rush writeup | by Dargham Ali](https://medium.com/@wireshark.pcap/moi-ctf-dash-rush-writeup-by-dargham-ali-13cafb958bc1?source=rss------bug_bounty_writeup-5)
 - [Nuevo Video Bug Bounty: Hackeando Reddit Sin Filtros](https://gorkaaa.medium.com/nuevo-video-bug-bounty-hackeando-reddit-sin-filtros-df82b7338145?source=rss------bug_bounty_writeup-5)
 - [How I Accidentally Stumbled Upon a Critical Vulnerability &lpar;Exposed backup on google storage&rpar;](https://siratsami71.medium.com/how-i-accidentally-stumbled-upon-a-critical-vulnerability-exposed-backup-on-google-storage-420f17004062?source=rss------bug_bounty_writeup-5)
@@ -12,9 +15,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Stegoint: Where is steganography? | TryHackMe CTF](https://infosecwriteups.com/stegoint-where-is-steganography-tryhackme-ctf-81ee02779569?source=rss----7b722bfd1b8d---4)
 - [Block | TryHackMe CTF writeup](https://infosecwriteups.com/block-tryhackme-ctf-writeup-8b748ecfab48?source=rss----7b722bfd1b8d---4)
 - [Understanding CSRF and How to Prevent It in Your Application — Part 2](https://infosecwriteups.com/understanding-csrf-and-how-to-prevent-it-in-your-application-part-2-4cfd2940e236?source=rss----7b722bfd1b8d---4)
-- [Investigating an APT with Splunk &lpar;Boss of the SOC&rpar;](https://infosecwriteups.com/investigating-an-apt-with-splunk-boss-of-the-soc-bbf7f35645af?source=rss----7b722bfd1b8d---4)
-- [4. Top 10 Recon Tools I Use Every Day &lpar;With Pro Tips &amp; Workflows&rpar;](https://infosecwriteups.com/4-top-10-recon-tools-i-use-every-day-with-pro-tips-workflows-61665e79e65d?source=rss----7b722bfd1b8d---4)
-- [8. Intro to XSS: How I Found My First Bug](https://infosecwriteups.com/8-intro-to-xss-how-i-found-my-first-bug-0046a4dbec4b?source=rss----7b722bfd1b8d---4)
 - [Broken like Hijacking earned me $150](https://infosecwriteups.com/broken-like-hijacking-earned-me-150-d67fc0571582?source=rss------bug_bounty_writeup-5)
 - [When Your Bug Gets Marked “Duplicate”: A Netflix Atlas Security Research Journey](https://letchupkt.medium.com/when-your-bug-gets-marked-duplicate-a-netflix-atlas-security-research-journey-eae25a5f4f35?source=rss------bug_bounty_writeup-5)
 - [Hunting OS Command Injection](https://infosecwriteups.com/hunting-os-command-injection-039dbb284c7d?source=rss------bug_bounty_writeup-5)
