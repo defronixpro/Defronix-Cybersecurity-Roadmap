@@ -1,6 +1,8 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How a Client-Side CSRF Flaw Breaks a Core Defense](https://infosecwriteups.com/the-un-secret-token-how-a-client-side-csrf-flaw-breaks-a-core-defense-e427fca69102?source=rss----7b722bfd1b8d---4)
+- [Why “Failing” a Pen Test is Actually Your Best Outcome](https://infosecwriteups.com/why-failing-a-pen-test-is-actually-your-best-outcome-5ed52a4bd3b0?source=rss----7b722bfd1b8d---4)
 - [They Said XSS Was Dead… Then I Got Paid  &lpar;My First Bounty in 2025&rpar;](https://medium.com/@file_d0t_bug/they-said-xss-was-dead-then-i-got-paid-my-first-bounty-in-2025-6eb8d27c6c1a?source=rss------bug_bounty_writeup-5)
 - [DeepProbe: Open-Source Memory Forensics with ATT&amp;CK-Mapped Detections](https://infosecwriteups.com/deepprobe-open-source-memory-forensics-with-att-ck-mapped-detections-a1acb663de39?source=rss----7b722bfd1b8d---4)
 - [This Silent Attack Can Hijack Any Website You Trust-Here’s How It Works](https://infosecwriteups.com/this-silent-attack-can-hijack-any-website-you-trust-heres-how-it-works-48f99fda2ef6?source=rss----7b722bfd1b8d---4)
@@ -11,8 +13,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [A very easy bug anyone can find and ignored by many bug bounty hunters](https://infosecwriteups.com/a-very-easy-bug-anyone-can-find-8d2b11a768c7?source=rss----7b722bfd1b8d---4)
 - [IDOR: How I Could Delete Any Product Image on an E-Commerce Platform](https://infosecwriteups.com/idor-how-i-could-delete-any-product-image-on-an-e-commerce-platform-8998453a50ea?source=rss----7b722bfd1b8d---4)
 - [&lpar;My&rpar;Reasons Why I failed OSCP: Do Not Make Same Mistakes](https://infosecwriteups.com/my-reasons-why-i-failed-oscp-do-not-make-same-mistakes-b8c1fc26f194?source=rss----7b722bfd1b8d---4)
-- [How I Turned a $4 Microcontroller into a Rubber Ducky](https://infosecwriteups.com/how-i-turned-a-4-microcontroller-into-a-rubber-ducky-65abb8c083bb?source=rss----7b722bfd1b8d---4)
-- [✈️ I Tried Hacking a Flight Booking API — Here’s What I Found &lpar;or Didn’t &rpar;](https://infosecwriteups.com/%EF%B8%8F-i-tried-hacking-a-flight-booking-api-heres-what-i-found-or-didn-t-bc4391b57d41?source=rss----7b722bfd1b8d---4)
 - [MOI-CTF: dash rush writeup | by Dargham Ali](https://medium.com/@wireshark.pcap/moi-ctf-dash-rush-writeup-by-dargham-ali-13cafb958bc1?source=rss------bug_bounty_writeup-5)
 - [Nuevo Video Bug Bounty: Hackeando Reddit Sin Filtros](https://gorkaaa.medium.com/nuevo-video-bug-bounty-hackeando-reddit-sin-filtros-df82b7338145?source=rss------bug_bounty_writeup-5)
 - [How I Accidentally Stumbled Upon a Critical Vulnerability &lpar;Exposed backup on google storage&rpar;](https://siratsami71.medium.com/how-i-accidentally-stumbled-upon-a-critical-vulnerability-exposed-backup-on-google-storage-420f17004062?source=rss------bug_bounty_writeup-5)
