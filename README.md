@@ -922,12 +922,12 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [What Happens in Your Cloud Doesn’t Stay in Your Cloud: A Not-So-Serious Guide to NIST SP 800–228](https://infosecwriteups.com/what-happens-in-your-cloud-doesnt-stay-in-your-cloud-a-not-so-serious-guide-to-nist-sp-800-228-4a8d1b526998?source=rss----7b722bfd1b8d---4)
-- [How a Client-Side CSRF Flaw Breaks a Core Defense](https://infosecwriteups.com/the-un-secret-token-how-a-client-side-csrf-flaw-breaks-a-core-defense-e427fca69102?source=rss----7b722bfd1b8d---4)
-- [Advanced Free Resources for Bug Bounty Hunters](https://infosecwriteups.com/advanced-free-resources-for-bug-bounty-hunters-b830c4a99e2f?source=rss----7b722bfd1b8d---4)
 - [OSCP Tactics: Tunneling and Port Forwarding](https://infosecwriteups.com/oscp-tactics-tunneling-and-port-forwarding-8027efd2bdbf?source=rss----7b722bfd1b8d---4)
 - [I Am Now a Certified Red Team Analyst &lpar;CRTA&rpar; — My Journey with CyberWarFare Labs](https://infosecwriteups.com/i-am-now-a-certified-red-team-analyst-crta-my-journey-with-cyberwarfare-labs-0845f47f7572?source=rss----7b722bfd1b8d---4)
 - [Overwork, Burnout and the Toll on Mental Health in Cybersecurity](https://infosecwriteups.com/overwork-burnout-and-the-toll-on-mental-health-in-cybersecurity-e68a8877211f?source=rss----7b722bfd1b8d---4)
+- [What Happens in Your Cloud Doesn’t Stay in Your Cloud: A Not-So-Serious Guide to NIST SP 800–228](https://infosecwriteups.com/what-happens-in-your-cloud-doesnt-stay-in-your-cloud-a-not-so-serious-guide-to-nist-sp-800-228-4a8d1b526998?source=rss----7b722bfd1b8d---4)
+- [How a Client-Side CSRF Flaw Breaks a Core Defense](https://infosecwriteups.com/the-un-secret-token-how-a-client-side-csrf-flaw-breaks-a-core-defense-e427fca69102?source=rss----7b722bfd1b8d---4)
+- [Advanced Free Resources for Bug Bounty Hunters](https://infosecwriteups.com/advanced-free-resources-for-bug-bounty-hunters-b830c4a99e2f?source=rss----7b722bfd1b8d---4)
 - [Why “Failing” a Pen Test is Actually Your Best Outcome](https://infosecwriteups.com/why-failing-a-pen-test-is-actually-your-best-outcome-5ed52a4bd3b0?source=rss----7b722bfd1b8d---4)
 - [They Said XSS Was Dead… Then I Got Paid  &lpar;My First Bounty in 2025&rpar;](https://medium.com/@file_d0t_bug/they-said-xss-was-dead-then-i-got-paid-my-first-bounty-in-2025-6eb8d27c6c1a?source=rss------bug_bounty_writeup-5)
 - [DeepProbe: Open-Source Memory Forensics with ATT&amp;CK-Mapped Detections](https://infosecwriteups.com/deepprobe-open-source-memory-forensics-with-att-ck-mapped-detections-a1acb663de39?source=rss----7b722bfd1b8d---4)
