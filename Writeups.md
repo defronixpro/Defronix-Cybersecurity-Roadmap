@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Advanced Free Resources for Bug Bounty Hunters](https://infosecwriteups.com/advanced-free-resources-for-bug-bounty-hunters-b830c4a99e2f?source=rss----7b722bfd1b8d---4)
 - [How I Bypassed a 403 Forbidden WAF Protection &lpar;and What I Learned&rpar;](https://samael0x4.medium.com/how-i-bypassed-a-403-forbidden-waf-protection-and-what-i-learned-b2bb859eddaf?source=rss------bug_bounty_writeup-5)
 - [El mejor camino para entrar es entender por qué otros no lo ven](https://gorkaaa.medium.com/el-mejor-camino-para-entrar-es-entender-por-qu%C3%A9-otros-no-lo-ven-87c051c7011c?source=rss------bug_bounty_writeup-5)
 - [How I Escalated a Navigation Bug Into Trusted-Origin File Downloads](https://medium.com/@FufuFaf1/how-i-escalated-a-navigation-bug-into-trusted-origin-file-downloads-0dca4c38d896?source=rss------bug_bounty_writeup-5)
@@ -10,7 +11,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Overwork, Burnout and the Toll on Mental Health in Cybersecurity](https://infosecwriteups.com/overwork-burnout-and-the-toll-on-mental-health-in-cybersecurity-e68a8877211f?source=rss----7b722bfd1b8d---4)
 - [What Happens in Your Cloud Doesn’t Stay in Your Cloud: A Not-So-Serious Guide to NIST SP 800–228](https://infosecwriteups.com/what-happens-in-your-cloud-doesnt-stay-in-your-cloud-a-not-so-serious-guide-to-nist-sp-800-228-4a8d1b526998?source=rss----7b722bfd1b8d---4)
 - [How a Client-Side CSRF Flaw Breaks a Core Defense](https://infosecwriteups.com/the-un-secret-token-how-a-client-side-csrf-flaw-breaks-a-core-defense-e427fca69102?source=rss----7b722bfd1b8d---4)
-- [Advanced Free Resources for Bug Bounty Hunters](https://infosecwriteups.com/advanced-free-resources-for-bug-bounty-hunters-b830c4a99e2f?source=rss----7b722bfd1b8d---4)
 - [Why “Failing” a Pen Test is Actually Your Best Outcome](https://infosecwriteups.com/why-failing-a-pen-test-is-actually-your-best-outcome-5ed52a4bd3b0?source=rss----7b722bfd1b8d---4)
 - [They Said XSS Was Dead… Then I Got Paid  &lpar;My First Bounty in 2025&rpar;](https://medium.com/@file_d0t_bug/they-said-xss-was-dead-then-i-got-paid-my-first-bounty-in-2025-6eb8d27c6c1a?source=rss------bug_bounty_writeup-5)
 - [DeepProbe: Open-Source Memory Forensics with ATT&amp;CK-Mapped Detections](https://infosecwriteups.com/deepprobe-open-source-memory-forensics-with-att-ck-mapped-detections-a1acb663de39?source=rss----7b722bfd1b8d---4)
