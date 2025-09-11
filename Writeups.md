@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [El mejor camino para entrar es entender por qué otros no lo ven](https://gorkaaa.medium.com/el-mejor-camino-para-entrar-es-entender-por-qu%C3%A9-otros-no-lo-ven-87c051c7011c?source=rss------bug_bounty_writeup-5)
 - [How I Escalated a Navigation Bug Into Trusted-Origin File Downloads](https://medium.com/@FufuFaf1/how-i-escalated-a-navigation-bug-into-trusted-origin-file-downloads-0dca4c38d896?source=rss------bug_bounty_writeup-5)
 - [Penetration Testing, Beginners To Expert!](https://infosecwriteups.com/penetration-testing-beginners-to-expert-8378f9169160?source=rss------bug_bounty_writeup-5)
 - [OSCP Tactics: Tunneling and Port Forwarding](https://infosecwriteups.com/oscp-tactics-tunneling-and-port-forwarding-8027efd2bdbf?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How I Accidentally Stumbled Upon a Critical Vulnerability &lpar;Exposed backup on google storage&rpar;](https://siratsami71.medium.com/how-i-accidentally-stumbled-upon-a-critical-vulnerability-exposed-backup-on-google-storage-420f17004062?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty: No hay payload que sustituya a una buena intuición](https://gorkaaa.medium.com/bug-bounty-no-hay-payload-que-sustituya-a-una-buena-intuici%C3%B3n-e7f12dce0253?source=rss------bug_bounty_writeup-5)
 - [Broken like Hijacking earned me $150](https://infosecwriteups.com/broken-like-hijacking-earned-me-150-d67fc0571582?source=rss------bug_bounty_writeup-5)
-- [When Your Bug Gets Marked “Duplicate”: A Netflix Atlas Security Research Journey](https://letchupkt.medium.com/when-your-bug-gets-marked-duplicate-a-netflix-atlas-security-research-journey-eae25a5f4f35?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
