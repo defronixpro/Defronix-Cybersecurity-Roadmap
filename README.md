@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Advanced Free Resources for Bug Bounty Hunters](https://infosecwriteups.com/advanced-free-resources-for-bug-bounty-hunters-b830c4a99e2f?source=rss----7b722bfd1b8d---4)
 - [How I Bypassed a 403 Forbidden WAF Protection &lpar;and What I Learned&rpar;](https://samael0x4.medium.com/how-i-bypassed-a-403-forbidden-waf-protection-and-what-i-learned-b2bb859eddaf?source=rss------bug_bounty_writeup-5)
 - [El mejor camino para entrar es entender por qué otros no lo ven](https://gorkaaa.medium.com/el-mejor-camino-para-entrar-es-entender-por-qu%C3%A9-otros-no-lo-ven-87c051c7011c?source=rss------bug_bounty_writeup-5)
 - [How I Escalated a Navigation Bug Into Trusted-Origin File Downloads](https://medium.com/@FufuFaf1/how-i-escalated-a-navigation-bug-into-trusted-origin-file-downloads-0dca4c38d896?source=rss------bug_bounty_writeup-5)
@@ -931,7 +932,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Overwork, Burnout and the Toll on Mental Health in Cybersecurity](https://infosecwriteups.com/overwork-burnout-and-the-toll-on-mental-health-in-cybersecurity-e68a8877211f?source=rss----7b722bfd1b8d---4)
 - [What Happens in Your Cloud Doesn’t Stay in Your Cloud: A Not-So-Serious Guide to NIST SP 800–228](https://infosecwriteups.com/what-happens-in-your-cloud-doesnt-stay-in-your-cloud-a-not-so-serious-guide-to-nist-sp-800-228-4a8d1b526998?source=rss----7b722bfd1b8d---4)
 - [How a Client-Side CSRF Flaw Breaks a Core Defense](https://infosecwriteups.com/the-un-secret-token-how-a-client-side-csrf-flaw-breaks-a-core-defense-e427fca69102?source=rss----7b722bfd1b8d---4)
-- [Advanced Free Resources for Bug Bounty Hunters](https://infosecwriteups.com/advanced-free-resources-for-bug-bounty-hunters-b830c4a99e2f?source=rss----7b722bfd1b8d---4)
 - [Why “Failing” a Pen Test is Actually Your Best Outcome](https://infosecwriteups.com/why-failing-a-pen-test-is-actually-your-best-outcome-5ed52a4bd3b0?source=rss----7b722bfd1b8d---4)
 - [They Said XSS Was Dead… Then I Got Paid  &lpar;My First Bounty in 2025&rpar;](https://medium.com/@file_d0t_bug/they-said-xss-was-dead-then-i-got-paid-my-first-bounty-in-2025-6eb8d27c6c1a?source=rss------bug_bounty_writeup-5)
 - [DeepProbe: Open-Source Memory Forensics with ATT&amp;CK-Mapped Detections](https://infosecwriteups.com/deepprobe-open-source-memory-forensics-with-att-ck-mapped-detections-a1acb663de39?source=rss----7b722bfd1b8d---4)
@@ -946,17 +946,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
 - [How to backup and restore the Windows Registry](https://www.bleepingcomputer.com/tutorials/how-to-backup-and-restore-the-windows-registry/)
-- [How To Fix Error: Externally-Managed-Environment In Python &lpar;Kali Linux&rpar;](https://technicalnavigator.in/how-to-fix-error-externally-managed-environment-in-python-kali-linux/)
-- [Understanding Systemctl Command in Linux &lpar;Practical&rpar;](https://technicalnavigator.in/understanding-systemctl-command-in-linux-practical/)
-- [Macros in docm &amp; Linux memory dump| Hack The Boo  Challanges](https://technicalnavigator.in/macros-in-docm-linux-memory-dump-hack-the-boo-challanges/)
-- [Android Apps debugging |  Frida, JADX, Genymotion](https://technicalnavigator.in/android-apps-debugging-frida-jadx-genymotion/)
-- [MouseServer | wifimouse – Windows/ Linux](https://technicalnavigator.in/mouseserver-wifimouse-windows-linux/)
-- [FFUF fuzzer | web-application penetration-testing](https://technicalnavigator.in/ffuf-fuzzer-web-application-penetration-testing/)
 - [How to open a Windows 11 Command Prompt as Administrator](https://www.bleepingcomputer.com/tutorials/how-to-open-a-windows-11-command-prompt-as-administrator/)
-- [Classes-Objects &amp; Deserialization bug](https://technicalnavigator.in/classes-objects-deserialization-bug/)
-- [Loki Tool | Multhreading Over Sockets in C](https://technicalnavigator.in/loki-tool-multhreading-over-sockets-in-c/)
-- [Egghunter | NASM | C prototype](https://technicalnavigator.in/egghunter-nasm-c-prototype/)
-- [TELNET &amp; FTP Analysis](https://technicalnavigator.in/telnet-ftp-analysis/)
 - [How to make the Start menu full screen in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-make-the-start-menu-full-screen-in-windows-10/)
 - [How to install the Microsoft Visual C++ 2015 Runtime](https://www.bleepingcomputer.com/tutorials/how-to-install-the-microsoft-visual-c-2015-runtime/)
 - [How to open an elevated PowerShell Admin prompt in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-open-an-elevated-powershell-admin-prompt-in-windows-10/)
