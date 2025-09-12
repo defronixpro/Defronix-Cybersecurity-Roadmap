@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [RCE realista basado en un caso real pagado con $30,000](https://gorkaaa.medium.com/rce-realista-basado-en-un-caso-real-pagado-con-30-000-a9a5412ee14d?source=rss------bug_bounty_writeup-5)
 - [how I made 6 figures in my first year in bug bounty: my experiences](https://medium.com/@furkan0x01/how-i-made-6-figures-in-my-first-year-in-bug-bounty-my-experiences-b6c2ec914a2a?source=rss------bug_bounty_writeup-5)
 - [Vulnerability Capstone | TryHackMe &lpar;THM&rpar;](https://infosecwriteups.com/vulnerability-capstone-tryhackme-thm-1ab5dc385891?source=rss----7b722bfd1b8d---4)
 - [npm Supply Chain Attack — IoCs, Detection &amp; Remediation](https://infosecwriteups.com/npm-supply-chain-attack-iocs-detection-remediation-815eefdb0ee2?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How I Escalated a Navigation Bug Into Trusted-Origin File Downloads](https://medium.com/@FufuFaf1/how-i-escalated-a-navigation-bug-into-trusted-origin-file-downloads-0dca4c38d896?source=rss------bug_bounty_writeup-5)
 - [Penetration Testing, Beginners To Expert!](https://infosecwriteups.com/penetration-testing-beginners-to-expert-8378f9169160?source=rss------bug_bounty_writeup-5)
 - [They Said XSS Was Dead… Then I Got Paid  &lpar;My First Bounty in 2025&rpar;](https://medium.com/@file_d0t_bug/they-said-xss-was-dead-then-i-got-paid-my-first-bounty-in-2025-6eb8d27c6c1a?source=rss------bug_bounty_writeup-5)
-- [Regular User Can Invite Admin — Resulting in Full Organization Compromise](https://medium.com/@0xammarsaber/regular-user-can-invite-admin-resulting-in-full-organization-compromise-050dd57f9e01?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
