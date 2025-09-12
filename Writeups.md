@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [I Bypassed a Login Page With a Single Request](https://infosecwriteups.com/i-bypassed-a-login-page-with-a-single-request-cf7b415b2423?source=rss----7b722bfd1b8d---4)
 - [Why “Failing” a Pen Test is Actually Your Best Outcome](https://infosecwriteups.com/why-failing-a-pen-test-is-actually-your-best-outcome-5ed52a4bd3b0?source=rss----7b722bfd1b8d---4)
 - [The Anatomy of a Critical Bug](https://infosecwriteups.com/the-anatomy-of-a-critical-bug-388329a1c55a?source=rss----7b722bfd1b8d---4)
 - [HTB Titanic Walkthrough](https://infosecwriteups.com/htb-titanic-walkthrough-3557be1fb2a4?source=rss----7b722bfd1b8d---4)
@@ -10,7 +11,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [13. My First Private Program Experience &lpar;and Mistakes I Made&rpar;](https://infosecwriteups.com/13-my-first-private-program-experience-and-mistakes-i-made-a5d8d6b325a7?source=rss----7b722bfd1b8d---4)
 - [“How the Threat Intelligence Lifecycle Powers Smarter Cyber Defense”](https://infosecwriteups.com/how-the-threat-intelligence-lifecycle-powers-smarter-cyber-defense-ee647aab565b?source=rss----7b722bfd1b8d---4)
 - [I Wanted Privacy… So I Built My Own Browser &lpar;Here’s What Happened&rpar;](https://infosecwriteups.com/i-wanted-privacy-so-i-built-my-own-browser-heres-what-happened-3d9e05def4e8?source=rss----7b722bfd1b8d---4)
-- [Windows Initial Compromise Detection](https://infosecwriteups.com/windows-initial-compromise-detection-74fa08d8199a?source=rss----7b722bfd1b8d---4)
 - [Smuggle Your Way to Bounties: Mastering HTTP Request Smuggling in 2025](https://infosecwriteups.com/smuggle-your-way-to-bounties-mastering-http-request-smuggling-in-2025-6218e1adc444?source=rss------bug_bounty_writeup-5)
 - [How I Bypassed a 403 Forbidden WAF Protection &lpar;and What I Learned&rpar;](https://samael0x4.medium.com/how-i-bypassed-a-403-forbidden-waf-protection-and-what-i-learned-b2bb859eddaf?source=rss------bug_bounty_writeup-5)
 - [El mejor camino para entrar es entender por qué otros no lo ven](https://gorkaaa.medium.com/el-mejor-camino-para-entrar-es-entender-por-qu%C3%A9-otros-no-lo-ven-87c051c7011c?source=rss------bug_bounty_writeup-5)
