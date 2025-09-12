@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [This Burp Intruder Automation will get you Bounties](https://medium.com/@jeosantos2005/this-burp-intruder-automation-will-get-you-bounties-6897a53bafc6?source=rss------bug_bounty_writeup-5)
 - [I Bypassed a Login Page With a Single Request](https://infosecwriteups.com/i-bypassed-a-login-page-with-a-single-request-cf7b415b2423?source=rss----7b722bfd1b8d---4)
 - [Why “Failing” a Pen Test is Actually Your Best Outcome](https://infosecwriteups.com/why-failing-a-pen-test-is-actually-your-best-outcome-5ed52a4bd3b0?source=rss----7b722bfd1b8d---4)
 - [The Anatomy of a Critical Bug](https://infosecwriteups.com/the-anatomy-of-a-critical-bug-388329a1c55a?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Regular User Can Invite Admin — Resulting in Full Organization Compromise](https://medium.com/@0xammarsaber/regular-user-can-invite-admin-resulting-in-full-organization-compromise-050dd57f9e01?source=rss------bug_bounty_writeup-5)
 - [MOI-CTF: dash rush writeup | by Dargham Ali](https://medium.com/@wireshark.pcap/moi-ctf-dash-rush-writeup-by-dargham-ali-13cafb958bc1?source=rss------bug_bounty_writeup-5)
 - [Nuevo Video Bug Bounty: Hackeando Reddit Sin Filtros](https://gorkaaa.medium.com/nuevo-video-bug-bounty-hackeando-reddit-sin-filtros-df82b7338145?source=rss------bug_bounty_writeup-5)
-- [How I Accidentally Stumbled Upon a Critical Vulnerability &lpar;Exposed backup on google storage&rpar;](https://siratsami71.medium.com/how-i-accidentally-stumbled-upon-a-critical-vulnerability-exposed-backup-on-google-storage-420f17004062?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
