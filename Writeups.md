@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [“Threat Intelligence Unveiled: Breaking Down the Types and It’s Importance”](https://infosecwriteups.com/threat-intelligence-unveiled-breaking-down-the-types-and-its-importance-ce2b19891ee1?source=rss----7b722bfd1b8d---4)
 - [Unauthenticated iSCSI Targets: From Basics to Exploitation](https://infosecwriteups.com/unauthenticated-iscsi-targets-from-basics-to-exploitation-fc08b92341d6?source=rss----7b722bfd1b8d---4)
 - [Unauthenticated Deletion of Critical SSO Configuration Attributes](https://medium.com/@ehsameer/unauthenticated-deletion-of-critical-sso-configuration-attributes-e3bc56c258a8?source=rss------bug_bounty_writeup-5)
 - [This Burp Intruder Automation will get you Bounties](https://medium.com/@jeosantos2005/this-burp-intruder-automation-will-get-you-bounties-6897a53bafc6?source=rss------bug_bounty_writeup-5)
@@ -12,7 +13,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [HTB Vintage Machine Walkthrough | Easy HackTheBox Guide for Beginners](https://infosecwriteups.com/htb-vintage-machine-walkthrough-easy-hackthebox-guide-for-beginners-c39008aa3e16?source=rss----7b722bfd1b8d---4)
 - [“That One Time I Found a Golden Ticket in a Desktop App”](https://infosecwriteups.com/that-one-time-i-found-a-golden-ticket-in-a-desktop-app-8db725c10338?source=rss----7b722bfd1b8d---4)
 - [13. My First Private Program Experience &lpar;and Mistakes I Made&rpar;](https://infosecwriteups.com/13-my-first-private-program-experience-and-mistakes-i-made-a5d8d6b325a7?source=rss----7b722bfd1b8d---4)
-- [“How the Threat Intelligence Lifecycle Powers Smarter Cyber Defense”](https://infosecwriteups.com/how-the-threat-intelligence-lifecycle-powers-smarter-cyber-defense-ee647aab565b?source=rss----7b722bfd1b8d---4)
 - [Smuggle Your Way to Bounties: Mastering HTTP Request Smuggling in 2025](https://infosecwriteups.com/smuggle-your-way-to-bounties-mastering-http-request-smuggling-in-2025-6218e1adc444?source=rss------bug_bounty_writeup-5)
 - [How I Bypassed a 403 Forbidden WAF Protection &lpar;and What I Learned&rpar;](https://samael0x4.medium.com/how-i-bypassed-a-403-forbidden-waf-protection-and-what-i-learned-b2bb859eddaf?source=rss------bug_bounty_writeup-5)
 - [El mejor camino para entrar es entender por qué otros no lo ven](https://gorkaaa.medium.com/el-mejor-camino-para-entrar-es-entender-por-qu%C3%A9-otros-no-lo-ven-87c051c7011c?source=rss------bug_bounty_writeup-5)
