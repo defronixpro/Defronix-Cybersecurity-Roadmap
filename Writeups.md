@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [TryHackMe : Lo-Fi Step-by-Step Solution](https://infosecwriteups.com/tryhackme-lo-fi-step-by-step-solution-b7d48fe19d8a?source=rss----7b722bfd1b8d---4)
 - [Race Condition in OTP Request — Unlimited SMS Bombing](https://medium.com/@Cyberx08/race-condition-in-otp-request-unlimited-sms-bombing-685b554d9bd3?source=rss------bug_bounty_writeup-5)
 - [kioptrix level 1](https://infosecwriteups.com/kioptrix-level-1-24841c948a30?source=rss----7b722bfd1b8d---4)
 - [How Hackers Turn Upload Files For Gaining System Access](https://infosecwriteups.com/how-hackers-turn-upload-files-for-gaining-system-access-1728eac12b71?source=rss----7b722bfd1b8d---4)
@@ -15,7 +16,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Unauthenticated Deletion of Critical SSO Configuration Attributes](https://medium.com/@ehsameer/unauthenticated-deletion-of-critical-sso-configuration-attributes-e3bc56c258a8?source=rss------bug_bounty_writeup-5)
 - [This Burp Intruder Automation will get you Bounties](https://medium.com/@jeosantos2005/this-burp-intruder-automation-will-get-you-bounties-6897a53bafc6?source=rss------bug_bounty_writeup-5)
 - [I Bypassed a Login Page With a Single Request](https://infosecwriteups.com/i-bypassed-a-login-page-with-a-single-request-cf7b415b2423?source=rss----7b722bfd1b8d---4)
-- [Why “Failing” a Pen Test is Actually Your Best Outcome](https://infosecwriteups.com/why-failing-a-pen-test-is-actually-your-best-outcome-5ed52a4bd3b0?source=rss----7b722bfd1b8d---4)
 - [Smuggle Your Way to Bounties: Mastering HTTP Request Smuggling in 2025](https://infosecwriteups.com/smuggle-your-way-to-bounties-mastering-http-request-smuggling-in-2025-6218e1adc444?source=rss------bug_bounty_writeup-5)
 - [How I Bypassed a 403 Forbidden WAF Protection &lpar;and What I Learned&rpar;](https://samael0x4.medium.com/how-i-bypassed-a-403-forbidden-waf-protection-and-what-i-learned-b2bb859eddaf?source=rss------bug_bounty_writeup-5)
 - [El mejor camino para entrar es entender por qué otros no lo ven](https://gorkaaa.medium.com/el-mejor-camino-para-entrar-es-entender-por-qu%C3%A9-otros-no-lo-ven-87c051c7011c?source=rss------bug_bounty_writeup-5)
