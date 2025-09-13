@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Bug Bounty: Lo que se automatiza sin entender, no se encuentra de verdad](https://gorkaaa.medium.com/bug-bounty-lo-que-se-automatiza-sin-entender-no-se-encuentra-de-verdad-a713ea45f1c7?source=rss------bug_bounty_writeup-5)
 - [How to enumerate SUID binaries easily using SUID3NUM](https://infosecwriteups.com/how-to-enumerate-suid-binaries-easily-using-suid3num-a39db5733610?source=rss----7b722bfd1b8d---4)
 - [“Day 25: The Cloud Heist — How a Forgotten Webhook Tester Gave Me the Keys to AWS”](https://infosecwriteups.com/day-25-the-cloud-heist-how-a-forgotten-webhook-tester-gave-me-the-keys-to-aws-0e2876b515a8?source=rss----7b722bfd1b8d---4)
 - [9. The Secret Power of Google Dorking](https://infosecwriteups.com/9-the-secret-power-of-google-dorking-736325566220?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How I Bypassed a 403 Forbidden WAF Protection &lpar;and What I Learned&rpar;](https://samael0x4.medium.com/how-i-bypassed-a-403-forbidden-waf-protection-and-what-i-learned-b2bb859eddaf?source=rss------bug_bounty_writeup-5)
 - [El mejor camino para entrar es entender por qué otros no lo ven](https://gorkaaa.medium.com/el-mejor-camino-para-entrar-es-entender-por-qu%C3%A9-otros-no-lo-ven-87c051c7011c?source=rss------bug_bounty_writeup-5)
 - [How I Escalated a Navigation Bug Into Trusted-Origin File Downloads](https://medium.com/@FufuFaf1/how-i-escalated-a-navigation-bug-into-trusted-origin-file-downloads-0dca4c38d896?source=rss------bug_bounty_writeup-5)
-- [Penetration Testing, Beginners To Expert!](https://infosecwriteups.com/penetration-testing-beginners-to-expert-8378f9169160?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
