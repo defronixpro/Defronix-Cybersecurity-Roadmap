@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Bug Bounty: Open Redirect: el fallo que nadie respeta… pero todos deberíamos temer](https://gorkaaa.medium.com/bug-bounty-open-redirect-el-fallo-que-nadie-respeta-pero-todos-deber%C3%ADamos-temer-a414059a53ad?source=rss------bug_bounty_writeup-5)
 - [The Mcfaddens](https://medium.com/@consultingalcan/the-mcfaddens-7e9e35f4d863?source=rss------bug_bounty_writeup-5)
 - [Break the Limits: How to Bypass API Rate Limits for Big Bounty Wins](https://osintteam.blog/break-the-limits-how-to-bypass-api-rate-limits-for-big-bounty-wins-11d07a7afaf2?source=rss------bug_bounty_writeup-5)
 - [Can Bug Bounty Hunting Make One A Millionaire?](https://medium.com/activated-thinker/can-bug-bounty-hunting-make-one-a-millionaire-d8fef40820e9?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Race Condition in OTP Request — Unlimited SMS Bombing](https://medium.com/@Cyberx08/race-condition-in-otp-request-unlimited-sms-bombing-685b554d9bd3?source=rss------bug_bounty_writeup-5)
 - [RCE realista basado en un caso real pagado con $30,000](https://gorkaaa.medium.com/rce-realista-basado-en-un-caso-real-pagado-con-30-000-a9a5412ee14d?source=rss------bug_bounty_writeup-5)
 - [how I made 6 figures in my first year in bug bounty: my experiences](https://medium.com/@furkan0x01/how-i-made-6-figures-in-my-first-year-in-bug-bounty-my-experiences-b6c2ec914a2a?source=rss------bug_bounty_writeup-5)
-- [Unauthenticated Deletion of Critical SSO Configuration Attributes](https://medium.com/@ehsameer/unauthenticated-deletion-of-critical-sso-configuration-attributes-e3bc56c258a8?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
