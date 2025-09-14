@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Break the Limits: How to Bypass API Rate Limits for Big Bounty Wins](https://osintteam.blog/break-the-limits-how-to-bypass-api-rate-limits-for-big-bounty-wins-11d07a7afaf2?source=rss------bug_bounty_writeup-5)
 - [Can Bug Bounty Hunting Make One A Millionaire?](https://medium.com/activated-thinker/can-bug-bounty-hunting-make-one-a-millionaire-d8fef40820e9?source=rss------bug_bounty_writeup-5)
 - [How a Simple IDOR Earned Me $500](https://medium.com/@0xkarthi/how-a-simple-idor-earned-me-500-79802371a565?source=rss------bug_bounty_writeup-5)
 - [Supercharge Your Bug Bounty Toolkit: API Testing, DTO Validation, and Tree-sitter Analysis](https://medium.com/@bughunteroX/supercharge-your-bug-bounty-toolkit-api-testing-dto-validation-and-tree-sitter-analysis-a51cf74e6f1b?source=rss------bug_bounty_writeup-5)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [how I made 6 figures in my first year in bug bounty: my experiences](https://medium.com/@furkan0x01/how-i-made-6-figures-in-my-first-year-in-bug-bounty-my-experiences-b6c2ec914a2a?source=rss------bug_bounty_writeup-5)
 - [Unauthenticated Deletion of Critical SSO Configuration Attributes](https://medium.com/@ehsameer/unauthenticated-deletion-of-critical-sso-configuration-attributes-e3bc56c258a8?source=rss------bug_bounty_writeup-5)
 - [This Burp Intruder Automation will get you Bounties](https://medium.com/@jeosantos2005/this-burp-intruder-automation-will-get-you-bounties-6897a53bafc6?source=rss------bug_bounty_writeup-5)
-- [Smuggle Your Way to Bounties: Mastering HTTP Request Smuggling in 2025](https://infosecwriteups.com/smuggle-your-way-to-bounties-mastering-http-request-smuggling-in-2025-6218e1adc444?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
