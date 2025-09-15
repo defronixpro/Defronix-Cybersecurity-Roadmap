@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Healthcheck in the Wild — How an Unauthenticated Endpoint Leaked Internal Server Details](https://medium.com/@bassemwanies2002/healthcheck-in-the-wild-how-an-unauthenticated-endpoint-leaked-internal-server-details-0d4d4a3374ea?source=rss------bug_bounty_writeup-5)
 - [Secrets in Plain Sight: How I Found a Hardcoded API Key in a Public JS File](https://medium.com/@bassemwanies2002/secrets-in-plain-sight-how-i-found-a-hardcoded-api-key-in-a-public-js-file-51656593bbb9?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty: Open Redirect: el fallo que nadie respeta… pero todos deberíamos temer](https://gorkaaa.medium.com/bug-bounty-open-redirect-el-fallo-que-nadie-respeta-pero-todos-deber%C3%ADamos-temer-a414059a53ad?source=rss------bug_bounty_writeup-5)
 - [The Mcfaddens](https://medium.com/@consultingalcan/the-mcfaddens-7e9e35f4d863?source=rss------bug_bounty_writeup-5)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Keys to the Kingdom: How I Hacked a Fortune 500 Company Through Their Mobile App](https://infosecwriteups.com/keys-to-the-kingdom-how-i-hacked-a-fortune-500-company-through-their-mobile-app-e26debedd3f3?source=rss----7b722bfd1b8d---4)
 - [How to Make mspaint Say “Meow”: A Playful Guide to DLL Injection](https://infosecwriteups.com/how-to-make-mspaint-say-meow-a-playful-guide-to-dll-injection-edf748eb9558?source=rss----7b722bfd1b8d---4)
 - [Race Condition in OTP Request — Unlimited SMS Bombing](https://medium.com/@Cyberx08/race-condition-in-otp-request-unlimited-sms-bombing-685b554d9bd3?source=rss------bug_bounty_writeup-5)
-- [RCE realista basado en un caso real pagado con $30,000](https://gorkaaa.medium.com/rce-realista-basado-en-un-caso-real-pagado-con-30-000-a9a5412ee14d?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
