@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Account Takeover vía endpoint de reset password: cuando el sistema te regala el acceso](https://gorkaaa.medium.com/account-takeover-v%C3%ADa-endpoint-de-reset-password-cuando-el-sistema-te-regala-el-acceso-2f5b619edfb8?source=rss------bug_bounty_writeup-5)
 - [How a Shared Upload URL Let Me Take Over qaAccounts](https://medium.com/@abhisheksharma27082006/how-a-shared-upload-url-let-me-take-over-qaaccounts-9298be10e342?source=rss------bug_bounty_writeup-5)
 - [Gmail OAuth Enforcement Bypass 100$ deal.](https://ch1ta.medium.com/gmail-oauth-enforcement-bypass-100-deal-4644a9a3ebe6?source=rss------bug_bounty_writeup-5)
 - [⌛ Pending Invite Hijack — Takeover via Improper Identity Linking](https://medium.com/@bassemwanies2002/pending-invite-hijack-takeover-via-improper-identity-linking-905619fff772?source=rss------bug_bounty_writeup-5)
@@ -931,7 +932,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [The Mcfaddens](https://medium.com/@consultingalcan/the-mcfaddens-7e9e35f4d863?source=rss------bug_bounty_writeup-5)
 - [Break the Limits: How to Bypass API Rate Limits for Big Bounty Wins](https://osintteam.blog/break-the-limits-how-to-bypass-api-rate-limits-for-big-bounty-wins-11d07a7afaf2?source=rss------bug_bounty_writeup-5)
 - [Can Bug Bounty Hunting Make One A Millionaire?](https://medium.com/activated-thinker/can-bug-bounty-hunting-make-one-a-millionaire-d8fef40820e9?source=rss------bug_bounty_writeup-5)
-- [How a Simple IDOR Earned Me $500](https://medium.com/@0xkarthi/how-a-simple-idor-earned-me-500-79802371a565?source=rss------bug_bounty_writeup-5)
 - [How to enumerate SUID binaries easily using SUID3NUM](https://infosecwriteups.com/how-to-enumerate-suid-binaries-easily-using-suid3num-a39db5733610?source=rss----7b722bfd1b8d---4)
 - [“Day 25: The Cloud Heist — How a Forgotten Webhook Tester Gave Me the Keys to AWS”](https://infosecwriteups.com/day-25-the-cloud-heist-how-a-forgotten-webhook-tester-gave-me-the-keys-to-aws-0e2876b515a8?source=rss----7b722bfd1b8d---4)
 - [9. The Secret Power of Google Dorking](https://infosecwriteups.com/9-the-secret-power-of-google-dorking-736325566220?source=rss----7b722bfd1b8d---4)
