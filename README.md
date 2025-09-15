@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Gmail OAuth Enforcement Bypass 100$ deal.](https://ch1ta.medium.com/gmail-oauth-enforcement-bypass-100-deal-4644a9a3ebe6?source=rss------bug_bounty_writeup-5)
 - [⌛ Pending Invite Hijack — Takeover via Improper Identity Linking](https://medium.com/@bassemwanies2002/pending-invite-hijack-takeover-via-improper-identity-linking-905619fff772?source=rss------bug_bounty_writeup-5)
 - [Healthcheck in the Wild — How an Unauthenticated Endpoint Leaked Internal Server Details](https://medium.com/@bassemwanies2002/healthcheck-in-the-wild-how-an-unauthenticated-endpoint-leaked-internal-server-details-0d4d4a3374ea?source=rss------bug_bounty_writeup-5)
 - [Secrets in Plain Sight: How I Found a Hardcoded API Key in a Public JS File](https://medium.com/@bassemwanies2002/secrets-in-plain-sight-how-i-found-a-hardcoded-api-key-in-a-public-js-file-51656593bbb9?source=rss------bug_bounty_writeup-5)
@@ -931,7 +932,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Can Bug Bounty Hunting Make One A Millionaire?](https://medium.com/activated-thinker/can-bug-bounty-hunting-make-one-a-millionaire-d8fef40820e9?source=rss------bug_bounty_writeup-5)
 - [How a Simple IDOR Earned Me $500](https://medium.com/@0xkarthi/how-a-simple-idor-earned-me-500-79802371a565?source=rss------bug_bounty_writeup-5)
 - [Supercharge Your Bug Bounty Toolkit: API Testing, DTO Validation, and Tree-sitter Analysis](https://medium.com/@bughunteroX/supercharge-your-bug-bounty-toolkit-api-testing-dto-validation-and-tree-sitter-analysis-a51cf74e6f1b?source=rss------bug_bounty_writeup-5)
-- [Bug Bounty: Lo que se automatiza sin entender, no se encuentra de verdad](https://gorkaaa.medium.com/bug-bounty-lo-que-se-automatiza-sin-entender-no-se-encuentra-de-verdad-a713ea45f1c7?source=rss------bug_bounty_writeup-5)
 - [How to enumerate SUID binaries easily using SUID3NUM](https://infosecwriteups.com/how-to-enumerate-suid-binaries-easily-using-suid3num-a39db5733610?source=rss----7b722bfd1b8d---4)
 - [“Day 25: The Cloud Heist — How a Forgotten Webhook Tester Gave Me the Keys to AWS”](https://infosecwriteups.com/day-25-the-cloud-heist-how-a-forgotten-webhook-tester-gave-me-the-keys-to-aws-0e2876b515a8?source=rss----7b722bfd1b8d---4)
 - [9. The Secret Power of Google Dorking](https://infosecwriteups.com/9-the-secret-power-of-google-dorking-736325566220?source=rss----7b722bfd1b8d---4)
