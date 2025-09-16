@@ -1,6 +1,9 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [BountyHunter Walkthrough: HackTheBox Writeup](https://infosecwriteups.com/bountyhunter-walkthrough-hackthebox-writeup-6cf66611a632?source=rss----7b722bfd1b8d---4)
+- [HTB Planning Machine Walkthrough | Easy HackTheBox Guide for Beginners](https://infosecwriteups.com/htb-planning-machine-walkthrough-easy-hackthebox-guide-for-beginners-b0a1393b93ac?source=rss----7b722bfd1b8d---4)
+- [How I Hacked My ISP’s IPTV Set-Top Box?](https://infosecwriteups.com/how-i-hacked-my-isps-iptv-set-top-box-f1c6f49dab01?source=rss----7b722bfd1b8d---4)
 - [Bug Bounty: Bypass — Forgot Password Verification](https://medium.com/@defidev59/bug-bounty-bypass-forgot-password-verification-69bb8935fb98?source=rss------bug_bounty_writeup-5)
 - [When a Chatbot Becomes an Impostor](https://medium.com/@devanshpatel930/when-a-chatbot-becomes-an-impostor-736eedb29373?source=rss------bug_bounty_writeup-5)
 - [I Started Bug Hunting on an External Program… And Accidentally Collected 5 Bounties  &lpar;5 Bugs…](https://medium.com/@k4r33m/i-started-bug-hunting-on-an-external-program-and-accidentally-collected-5-bounties-5-bugs-cfc87f105144?source=rss------bug_bounty_writeup-5)
@@ -18,9 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Intro to SQL Injection](https://infosecwriteups.com/intro-to-sql-injection-26d25c52ff55?source=rss----7b722bfd1b8d---4)
 - [Data Poisoning Attacks](https://infosecwriteups.com/data-poisoning-attacks-07d8a07f8259?source=rss----7b722bfd1b8d---4)
 - [Nmap: The Detective Behind Your Network’s Secrets](https://infosecwriteups.com/nmap-the-detective-behind-your-networks-secrets-d94ca07b1e96?source=rss----7b722bfd1b8d---4)
-- [AI Security Research — August 2025](https://infosecwriteups.com/ai-security-research-august-2025-68d4f113f931?source=rss----7b722bfd1b8d---4)
-- [Keys to the Kingdom: How I Hacked a Fortune 500 Company Through Their Mobile App](https://infosecwriteups.com/keys-to-the-kingdom-how-i-hacked-a-fortune-500-company-through-their-mobile-app-e26debedd3f3?source=rss----7b722bfd1b8d---4)
-- [How to Make mspaint Say “Meow”: A Playful Guide to DLL Injection](https://infosecwriteups.com/how-to-make-mspaint-say-meow-a-playful-guide-to-dll-injection-edf748eb9558?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
