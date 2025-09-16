@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Bug Bounty Explotando el CVE-2025–29927: middleware vulnerable paso a paso](https://gorkaaa.medium.com/bug-bounty-explotando-el-cve-2025-29927-middleware-vulnerable-paso-a-paso-1a36f9478fe6?source=rss------bug_bounty_writeup-5)
 - [BountyHunter Walkthrough: HackTheBox Writeup](https://infosecwriteups.com/bountyhunter-walkthrough-hackthebox-writeup-6cf66611a632?source=rss----7b722bfd1b8d---4)
 - [HTB Planning Machine Walkthrough | Easy HackTheBox Guide for Beginners](https://infosecwriteups.com/htb-planning-machine-walkthrough-easy-hackthebox-guide-for-beginners-b0a1393b93ac?source=rss----7b722bfd1b8d---4)
 - [How I Hacked My ISP’s IPTV Set-Top Box?](https://infosecwriteups.com/how-i-hacked-my-isps-iptv-set-top-box-f1c6f49dab01?source=rss----7b722bfd1b8d---4)
@@ -934,7 +935,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Gmail OAuth Enforcement Bypass 100$ deal.](https://ch1ta.medium.com/gmail-oauth-enforcement-bypass-100-deal-4644a9a3ebe6?source=rss------bug_bounty_writeup-5)
 - [⌛ Pending Invite Hijack — Takeover via Improper Identity Linking](https://medium.com/@bassemwanies2002/pending-invite-hijack-takeover-via-improper-identity-linking-905619fff772?source=rss------bug_bounty_writeup-5)
 - [Healthcheck in the Wild — How an Unauthenticated Endpoint Leaked Internal Server Details](https://medium.com/@bassemwanies2002/healthcheck-in-the-wild-how-an-unauthenticated-endpoint-leaked-internal-server-details-0d4d4a3374ea?source=rss------bug_bounty_writeup-5)
-- [Secrets in Plain Sight: How I Found a Hardcoded API Key in a Public JS File](https://medium.com/@bassemwanies2002/secrets-in-plain-sight-how-i-found-a-hardcoded-api-key-in-a-public-js-file-51656593bbb9?source=rss------bug_bounty_writeup-5)
 - [How to enumerate SUID binaries easily using SUID3NUM](https://infosecwriteups.com/how-to-enumerate-suid-binaries-easily-using-suid3num-a39db5733610?source=rss----7b722bfd1b8d---4)
 - [“Day 25: The Cloud Heist — How a Forgotten Webhook Tester Gave Me the Keys to AWS”](https://infosecwriteups.com/day-25-the-cloud-heist-how-a-forgotten-webhook-tester-gave-me-the-keys-to-aws-0e2876b515a8?source=rss----7b722bfd1b8d---4)
 - [9. The Secret Power of Google Dorking](https://infosecwriteups.com/9-the-secret-power-of-google-dorking-736325566220?source=rss----7b722bfd1b8d---4)
