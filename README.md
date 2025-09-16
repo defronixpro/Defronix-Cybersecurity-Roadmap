@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [When a Chatbot Becomes an Impostor](https://medium.com/@devanshpatel930/when-a-chatbot-becomes-an-impostor-736eedb29373?source=rss------bug_bounty_writeup-5)
 - [I Started Bug Hunting on an External Program… And Accidentally Collected 5 Bounties  &lpar;5 Bugs…](https://medium.com/@k4r33m/i-started-bug-hunting-on-an-external-program-and-accidentally-collected-5-bounties-5-bugs-cfc87f105144?source=rss------bug_bounty_writeup-5)
 - [How I Got My First Valid Bug &lpar;and Yes, It Was Just a &#39;&rpar;](https://medium.com/@harshilsecops/how-i-got-my-first-valid-bug-and-yes-it-was-just-a-7347f5d2a120?source=rss------bug_bounty_writeup-5)
 - [Account Takeover vía endpoint de reset password: cuando el sistema te regala el acceso](https://gorkaaa.medium.com/account-takeover-v%C3%ADa-endpoint-de-reset-password-cuando-el-sistema-te-regala-el-acceso-2f5b619edfb8?source=rss------bug_bounty_writeup-5)
@@ -931,7 +932,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Healthcheck in the Wild — How an Unauthenticated Endpoint Leaked Internal Server Details](https://medium.com/@bassemwanies2002/healthcheck-in-the-wild-how-an-unauthenticated-endpoint-leaked-internal-server-details-0d4d4a3374ea?source=rss------bug_bounty_writeup-5)
 - [Secrets in Plain Sight: How I Found a Hardcoded API Key in a Public JS File](https://medium.com/@bassemwanies2002/secrets-in-plain-sight-how-i-found-a-hardcoded-api-key-in-a-public-js-file-51656593bbb9?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty: Open Redirect: el fallo que nadie respeta… pero todos deberíamos temer](https://gorkaaa.medium.com/bug-bounty-open-redirect-el-fallo-que-nadie-respeta-pero-todos-deber%C3%ADamos-temer-a414059a53ad?source=rss------bug_bounty_writeup-5)
-- [The Mcfaddens](https://medium.com/@consultingalcan/the-mcfaddens-7e9e35f4d863?source=rss------bug_bounty_writeup-5)
 - [How to enumerate SUID binaries easily using SUID3NUM](https://infosecwriteups.com/how-to-enumerate-suid-binaries-easily-using-suid3num-a39db5733610?source=rss----7b722bfd1b8d---4)
 - [“Day 25: The Cloud Heist — How a Forgotten Webhook Tester Gave Me the Keys to AWS”](https://infosecwriteups.com/day-25-the-cloud-heist-how-a-forgotten-webhook-tester-gave-me-the-keys-to-aws-0e2876b515a8?source=rss----7b722bfd1b8d---4)
 - [9. The Secret Power of Google Dorking](https://infosecwriteups.com/9-the-secret-power-of-google-dorking-736325566220?source=rss----7b722bfd1b8d---4)
