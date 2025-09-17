@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Cross-Tenant Payment Method Manipulation via IDOR](https://medium.com/@hi.david60/cross-tenant-payment-method-manipulation-via-idor-88c909f60632?source=rss------bug_bounty_writeup-5)
+- [Unauthorized Configuration Deletion via CORS Misconfiguration on an Industrial Platform](https://medium.com/@hi.david60/unauthorized-configuration-deletion-via-cors-misconfiguration-on-an-industrial-platform-40ff6528d099?source=rss------bug_bounty_writeup-5)
 - [Avoiding Burnout: How I Stay Motivated After Endless N/A and Duplicates](https://medium.com/@hxxfrd73/avoiding-burnout-how-i-stay-motivated-after-endless-n-a-and-duplicates-6647756b71ff?source=rss------bug_bounty_writeup-5)
 - [How to Choose Your Next Target: A Data-Driven Approach for Bug Hunters](https://medium.com/@hxxfrd73/how-to-choose-your-next-target-a-data-driven-approach-for-bug-hunters-98a0bff6c4dc?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Explotando el CVE-2025–29927: middleware vulnerable paso a paso](https://gorkaaa.medium.com/bug-bounty-explotando-el-cve-2025-29927-middleware-vulnerable-paso-a-paso-1a36f9478fe6?source=rss------bug_bounty_writeup-5)
@@ -933,8 +935,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [I Started Bug Hunting on an External Program… And Accidentally Collected 5 Bounties  &lpar;5 Bugs…](https://medium.com/@k4r33m/i-started-bug-hunting-on-an-external-program-and-accidentally-collected-5-bounties-5-bugs-cfc87f105144?source=rss------bug_bounty_writeup-5)
 - [How I Got My First Valid Bug &lpar;and Yes, It Was Just a &#39;&rpar;](https://medium.com/@harshilsecops/how-i-got-my-first-valid-bug-and-yes-it-was-just-a-7347f5d2a120?source=rss------bug_bounty_writeup-5)
 - [Account Takeover vía endpoint de reset password: cuando el sistema te regala el acceso](https://gorkaaa.medium.com/account-takeover-v%C3%ADa-endpoint-de-reset-password-cuando-el-sistema-te-regala-el-acceso-2f5b619edfb8?source=rss------bug_bounty_writeup-5)
-- [How a Shared Upload URL Let Me Take Over qaAccounts](https://medium.com/@abhisheksharma27082006/how-a-shared-upload-url-let-me-take-over-qaaccounts-9298be10e342?source=rss------bug_bounty_writeup-5)
-- [Gmail OAuth Enforcement Bypass 100$ deal.](https://ch1ta.medium.com/gmail-oauth-enforcement-bypass-100-deal-4644a9a3ebe6?source=rss------bug_bounty_writeup-5)
 - [How to enumerate SUID binaries easily using SUID3NUM](https://infosecwriteups.com/how-to-enumerate-suid-binaries-easily-using-suid3num-a39db5733610?source=rss----7b722bfd1b8d---4)
 - [“Day 25: The Cloud Heist — How a Forgotten Webhook Tester Gave Me the Keys to AWS”](https://infosecwriteups.com/day-25-the-cloud-heist-how-a-forgotten-webhook-tester-gave-me-the-keys-to-aws-0e2876b515a8?source=rss----7b722bfd1b8d---4)
 - [9. The Secret Power of Google Dorking](https://infosecwriteups.com/9-the-secret-power-of-google-dorking-736325566220?source=rss----7b722bfd1b8d---4)
