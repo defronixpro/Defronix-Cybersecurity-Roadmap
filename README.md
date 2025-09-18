@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Bounty Lab 2 | Writeup by InferiorAK | RCSC](https://osintteam.blog/bounty-lab-2-writeup-by-inferiorak-rcsc-6d31cb644411?source=rss------bug_bounty_writeup-5)
 - [You’re using GPT-5 wrong for hacking. Here’s how to be ahead of 99% of bug hunters](https://infosecwriteups.com/youre-using-gpt-5-wrong-for-hacking-here-s-how-to-be-ahead-of-99-of-bug-hunters-db96ee3587e7?source=rss----7b722bfd1b8d---4)
 - [Default Page to Admin Paths Exposure](https://infosecwriteups.com/default-page-to-admin-paths-exposure-1d5709b3725b?source=rss----7b722bfd1b8d---4)
 - [Do You Really Need Coding for Cybersecurity?](https://infosecwriteups.com/do-you-really-need-coding-for-cybersecurity-3f63ee79a54f?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Bug Bounty: Bypass — Forgot Password Verification](https://medium.com/@defidev59/bug-bounty-bypass-forgot-password-verification-69bb8935fb98?source=rss------bug_bounty_writeup-5)
 - [When a Chatbot Becomes an Impostor](https://medium.com/@devanshpatel930/when-a-chatbot-becomes-an-impostor-736eedb29373?source=rss------bug_bounty_writeup-5)
 - [I Started Bug Hunting on an External Program… And Accidentally Collected 5 Bounties  &lpar;5 Bugs…](https://medium.com/@k4r33m/i-started-bug-hunting-on-an-external-program-and-accidentally-collected-5-bounties-5-bugs-cfc87f105144?source=rss------bug_bounty_writeup-5)
-- [How I Got My First Valid Bug &lpar;and Yes, It Was Just a &#39;&rpar;](https://medium.com/@harshilsecops/how-i-got-my-first-valid-bug-and-yes-it-was-just-a-7347f5d2a120?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
