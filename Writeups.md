@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Mastering Reconnaissance Techniques: A Step-by-Step Guide to Uncovering Digital Assets](https://medium.com/@bhuwamdixit/mastering-reconnaissance-techniques-a-step-by-step-guide-to-uncovering-digital-assets-04d6a1535676?source=rss------bug_bounty_writeup-5)
 - [Bounty Lab 2 | Writeup by InferiorAK | RCSC](https://osintteam.blog/bounty-lab-2-writeup-by-inferiorak-rcsc-6d31cb644411?source=rss------bug_bounty_writeup-5)
 - [You’re using GPT-5 wrong for hacking. Here’s how to be ahead of 99% of bug hunters](https://infosecwriteups.com/youre-using-gpt-5-wrong-for-hacking-here-s-how-to-be-ahead-of-99-of-bug-hunters-db96ee3587e7?source=rss----7b722bfd1b8d---4)
 - [Default Page to Admin Paths Exposure](https://infosecwriteups.com/default-page-to-admin-paths-exposure-1d5709b3725b?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Bug Bounty Explotando el CVE-2025–29927: middleware vulnerable paso a paso](https://gorkaaa.medium.com/bug-bounty-explotando-el-cve-2025-29927-middleware-vulnerable-paso-a-paso-1a36f9478fe6?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty: Bypass — Forgot Password Verification](https://medium.com/@defidev59/bug-bounty-bypass-forgot-password-verification-69bb8935fb98?source=rss------bug_bounty_writeup-5)
 - [When a Chatbot Becomes an Impostor](https://medium.com/@devanshpatel930/when-a-chatbot-becomes-an-impostor-736eedb29373?source=rss------bug_bounty_writeup-5)
-- [I Started Bug Hunting on an External Program… And Accidentally Collected 5 Bounties  &lpar;5 Bugs…](https://medium.com/@k4r33m/i-started-bug-hunting-on-an-external-program-and-accidentally-collected-5-bounties-5-bugs-cfc87f105144?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
