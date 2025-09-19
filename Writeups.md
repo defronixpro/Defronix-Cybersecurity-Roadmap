@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Advanced Bug Hunting: Tips, Tricks and Methodology](https://osintteam.blog/advanced-bug-hunting-tips-tricks-and-methodology-9962b05ee740?source=rss------bug_bounty_writeup-5)
 - [The God Mode Vulnerability That Should Kill “Trust Microsoft” Forever](https://infosecwriteups.com/the-god-mode-vulnerability-that-should-kill-trust-microsoft-forever-f83b8fe6e909?source=rss----7b722bfd1b8d---4)
 - [The Pivot Method: Technical Moves for Bug Hunters in Progress](https://vicricsec.medium.com/the-pivot-method-technical-moves-for-bug-hunters-in-progress-b767bcee8911?source=rss------bug_bounty_writeup-5)
 - [Hidden Power of Race Conditions in Web Apps](https://medium.com/meetcyber/hidden-power-of-race-conditions-in-web-apps-f5633ba3463c?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Authorization bypass — Low-privileged user can view organization members and user details](https://medium.com/@edahmed008/authorization-bypass-low-privileged-user-can-view-organization-members-and-user-details-f0953dc9c51c?source=rss------bug_bounty_writeup-5)
 - [Cross-Tenant Payment Method Manipulation via IDOR](https://medium.com/@hi.david60/cross-tenant-payment-method-manipulation-via-idor-88c909f60632?source=rss------bug_bounty_writeup-5)
 - [Unauthorized Configuration Deletion via CORS Misconfiguration on an Industrial Platform](https://medium.com/@hi.david60/unauthorized-configuration-deletion-via-cors-misconfiguration-on-an-industrial-platform-40ff6528d099?source=rss------bug_bounty_writeup-5)
-- [Avoiding Burnout: How I Stay Motivated After Endless N/A and Duplicates](https://medium.com/@hxxfrd73/avoiding-burnout-how-i-stay-motivated-after-endless-n-a-and-duplicates-6647756b71ff?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
