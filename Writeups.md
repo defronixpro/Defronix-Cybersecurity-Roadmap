@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [The God Mode Vulnerability That Should Kill “Trust Microsoft” Forever](https://infosecwriteups.com/the-god-mode-vulnerability-that-should-kill-trust-microsoft-forever-f83b8fe6e909?source=rss----7b722bfd1b8d---4)
 - [The Pivot Method: Technical Moves for Bug Hunters in Progress](https://vicricsec.medium.com/the-pivot-method-technical-moves-for-bug-hunters-in-progress-b767bcee8911?source=rss------bug_bounty_writeup-5)
 - [Hidden Power of Race Conditions in Web Apps](https://medium.com/meetcyber/hidden-power-of-race-conditions-in-web-apps-f5633ba3463c?source=rss------bug_bounty_writeup-5)
 - [How I Uncovered an IDOR That Exposed Other Employee’s Personal Data](https://medium.com/@harikishorevp/idor-that-exposed-other-employees-personal-data-4ab9a85b9579?source=rss------bug_bounty_writeup-5)
@@ -16,7 +17,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Bounty Lab 2 | Writeup by InferiorAK | RCSC](https://osintteam.blog/bounty-lab-2-writeup-by-inferiorak-rcsc-6d31cb644411?source=rss------bug_bounty_writeup-5)
 - [You’re using GPT-5 wrong for hacking. Here’s how to be ahead of 99% of bug hunters](https://infosecwriteups.com/youre-using-gpt-5-wrong-for-hacking-here-s-how-to-be-ahead-of-99-of-bug-hunters-db96ee3587e7?source=rss----7b722bfd1b8d---4)
 - [Default Page to Admin Paths Exposure](https://infosecwriteups.com/default-page-to-admin-paths-exposure-1d5709b3725b?source=rss----7b722bfd1b8d---4)
-- [Do You Really Need Coding for Cybersecurity?](https://infosecwriteups.com/do-you-really-need-coding-for-cybersecurity-3f63ee79a54f?source=rss----7b722bfd1b8d---4)
 - [Authorization bypass — Low-privileged user can view organization members and user details](https://medium.com/@edahmed008/authorization-bypass-low-privileged-user-can-view-organization-members-and-user-details-f0953dc9c51c?source=rss------bug_bounty_writeup-5)
 - [Cross-Tenant Payment Method Manipulation via IDOR](https://medium.com/@hi.david60/cross-tenant-payment-method-manipulation-via-idor-88c909f60632?source=rss------bug_bounty_writeup-5)
 - [Unauthorized Configuration Deletion via CORS Misconfiguration on an Industrial Platform](https://medium.com/@hi.david60/unauthorized-configuration-deletion-via-cors-misconfiguration-on-an-industrial-platform-40ff6528d099?source=rss------bug_bounty_writeup-5)
