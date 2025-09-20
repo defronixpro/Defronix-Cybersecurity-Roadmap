@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Transforming Images into Insights: The Role of OCR in AI Workflows](https://infosecwriteups.com/transforming-images-into-insights-the-role-of-ocr-in-ai-workflows-6a7656ee5caf?source=rss----7b722bfd1b8d---4)
 - [WannaCry Ransomware: A DFIR &amp; SOC Monitoring Lab Walkthrough](https://infosecwriteups.com/wannacry-ransomware-a-dfir-soc-monitoring-lab-walkthrough-9001f61a71e9?source=rss----7b722bfd1b8d---4)
 - [PicoCTF Web Exploitation Walkthrough |GET aHEAD](https://infosecwriteups.com/picoctf-web-exploitation-walkthrough-get-ahead-618bd6b383fb?source=rss----7b722bfd1b8d---4)
 - [How I ‘Hacked’ NASA Without Going to Jail](https://infosecwriteups.com/how-did-i-hacked-nasa-without-go-to-the-jail-4bf0eebc934b?source=rss----7b722bfd1b8d---4)
@@ -10,7 +11,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [CVE-2025–10585: The Chrome V8 Zero-Day You Need to Patch Today ⚔️️](https://infosecwriteups.com/cve-2025-10585-the-chrome-v8-zero-day-you-need-to-patch-today-%EF%B8%8F-%EF%B8%8F-8168aa7f79cd?source=rss----7b722bfd1b8d---4)
 - [#1: Command Injection: A Complete Guide.](https://infosecwriteups.com/1-command-injection-a-complete-guide-a09bf5fcbf89?source=rss----7b722bfd1b8d---4)
 - [“How I Bank $1k+ a Month Finding Bugs Everyone Ignores”](https://infosecwriteups.com/how-i-bank-1k-a-month-finding-bugs-everyone-ignores-499a6d2cd1cb?source=rss----7b722bfd1b8d---4)
-- [Real-World Network Setups that Hackers Love | Cyber Codex](https://infosecwriteups.com/real-world-network-setups-that-hackers-love-cyber-codex-0d4291aebf27?source=rss----7b722bfd1b8d---4)
 - [Weaponizing Burp Intruder: Credential Stuffing done Right](https://medium.com/@dr_1n-ctrl/weaponizing-burp-intruder-credential-stuffing-done-right-f91fa3121bb9?source=rss------bug_bounty_writeup-5)
 - [Advanced Bug Hunting: Tips, Tricks and Methodology](https://osintteam.blog/advanced-bug-hunting-tips-tricks-and-methodology-9962b05ee740?source=rss------bug_bounty_writeup-5)
 - [The Pivot Method: Technical Moves for Bug Hunters in Progress](https://vicricsec.medium.com/the-pivot-method-technical-moves-for-bug-hunters-in-progress-b767bcee8911?source=rss------bug_bounty_writeup-5)
@@ -25,17 +25,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
 - [How to backup and restore the Windows Registry](https://www.bleepingcomputer.com/tutorials/how-to-backup-and-restore-the-windows-registry/)
-- [How To Fix Error: Externally-Managed-Environment In Python &lpar;Kali Linux&rpar;](https://technicalnavigator.in/how-to-fix-error-externally-managed-environment-in-python-kali-linux/)
-- [Understanding Systemctl Command in Linux &lpar;Practical&rpar;](https://technicalnavigator.in/understanding-systemctl-command-in-linux-practical/)
-- [Macros in docm &amp; Linux memory dump| Hack The Boo  Challanges](https://technicalnavigator.in/macros-in-docm-linux-memory-dump-hack-the-boo-challanges/)
-- [Android Apps debugging |  Frida, JADX, Genymotion](https://technicalnavigator.in/android-apps-debugging-frida-jadx-genymotion/)
-- [MouseServer | wifimouse – Windows/ Linux](https://technicalnavigator.in/mouseserver-wifimouse-windows-linux/)
-- [FFUF fuzzer | web-application penetration-testing](https://technicalnavigator.in/ffuf-fuzzer-web-application-penetration-testing/)
 - [How to open a Windows 11 Command Prompt as Administrator](https://www.bleepingcomputer.com/tutorials/how-to-open-a-windows-11-command-prompt-as-administrator/)
-- [Classes-Objects &amp; Deserialization bug](https://technicalnavigator.in/classes-objects-deserialization-bug/)
-- [Loki Tool | Multhreading Over Sockets in C](https://technicalnavigator.in/loki-tool-multhreading-over-sockets-in-c/)
-- [Egghunter | NASM | C prototype](https://technicalnavigator.in/egghunter-nasm-c-prototype/)
-- [TELNET &amp; FTP Analysis](https://technicalnavigator.in/telnet-ftp-analysis/)
 - [How to make the Start menu full screen in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-make-the-start-menu-full-screen-in-windows-10/)
 - [How to install the Microsoft Visual C++ 2015 Runtime](https://www.bleepingcomputer.com/tutorials/how-to-install-the-microsoft-visual-c-2015-runtime/)
 - [How to open an elevated PowerShell Admin prompt in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-open-an-elevated-powershell-admin-prompt-in-windows-10/)
