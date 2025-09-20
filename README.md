@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [CVE-2025–29927: Explotando un middleware vulnerable paso a paso](https://gorkaaa.medium.com/cve-2025-29927-explotando-un-middleware-vulnerable-paso-a-paso-e65a2a58f735?source=rss------bug_bounty_writeup-5)
 - [The Silent Killer of App Security: Broken Access Controls:An Advanced Bug Hunter’s Guide](https://medium.com/@sa6648094/the-silent-killer-of-app-security-broken-access-controls-an-advanced-bug-hunters-guide-faabdb8ba36b?source=rss------bug_bounty_writeup-5)
 - [How i Bypass Subscription Limits by race condition vulnerability](https://medium.com/@abhisheksharma27082006/how-i-bypass-subscription-limits-by-race-condition-vulnerability-cecfaacd07e7?source=rss------bug_bounty_writeup-5)
 - [Transforming Images into Insights: The Role of OCR in AI Workflows](https://infosecwriteups.com/transforming-images-into-insights-the-role-of-ocr-in-ai-workflows-6a7656ee5caf?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How I Uncovered an IDOR That Exposed Other Employee’s Personal Data](https://medium.com/@harikishorevp/idor-that-exposed-other-employees-personal-data-4ab9a85b9579?source=rss------bug_bounty_writeup-5)
 - [String Me Along: How a Single Quote Unraveled a Site’s Security](https://medium.com/@buffer2091/string-me-along-how-a-single-quote-unraveled-a-sites-security-2e71ec4534e6?source=rss------bug_bounty_writeup-5)
 - [Mastering Reconnaissance Techniques: A Step-by-Step Guide to Uncovering Digital Assets](https://medium.com/@bhuwamdixit/mastering-reconnaissance-techniques-a-step-by-step-guide-to-uncovering-digital-assets-04d6a1535676?source=rss------bug_bounty_writeup-5)
-- [Bounty Lab 2 | Writeup by InferiorAK | RCSC](https://osintteam.blog/bounty-lab-2-writeup-by-inferiorak-rcsc-6d31cb644411?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
