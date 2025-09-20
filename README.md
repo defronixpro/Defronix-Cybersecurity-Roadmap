@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How i Bypass Subscription Limits by race condition vulnerability](https://medium.com/@abhisheksharma27082006/how-i-bypass-subscription-limits-by-race-condition-vulnerability-cecfaacd07e7?source=rss------bug_bounty_writeup-5)
 - [Transforming Images into Insights: The Role of OCR in AI Workflows](https://infosecwriteups.com/transforming-images-into-insights-the-role-of-ocr-in-ai-workflows-6a7656ee5caf?source=rss----7b722bfd1b8d---4)
 - [WannaCry Ransomware: A DFIR &amp; SOC Monitoring Lab Walkthrough](https://infosecwriteups.com/wannacry-ransomware-a-dfir-soc-monitoring-lab-walkthrough-9001f61a71e9?source=rss----7b722bfd1b8d---4)
 - [PicoCTF Web Exploitation Walkthrough |GET aHEAD](https://infosecwriteups.com/picoctf-web-exploitation-walkthrough-get-ahead-618bd6b383fb?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Mastering Reconnaissance Techniques: A Step-by-Step Guide to Uncovering Digital Assets](https://medium.com/@bhuwamdixit/mastering-reconnaissance-techniques-a-step-by-step-guide-to-uncovering-digital-assets-04d6a1535676?source=rss------bug_bounty_writeup-5)
 - [Bounty Lab 2 | Writeup by InferiorAK | RCSC](https://osintteam.blog/bounty-lab-2-writeup-by-inferiorak-rcsc-6d31cb644411?source=rss------bug_bounty_writeup-5)
 - [Authorization bypass — Low-privileged user can view organization members and user details](https://medium.com/@edahmed008/authorization-bypass-low-privileged-user-can-view-organization-members-and-user-details-f0953dc9c51c?source=rss------bug_bounty_writeup-5)
-- [Cross-Tenant Payment Method Manipulation via IDOR](https://medium.com/@hi.david60/cross-tenant-payment-method-manipulation-via-idor-88c909f60632?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
