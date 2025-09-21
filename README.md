@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Deep Dive into WebSocket Hijacking Vulnerability](https://0zero0.medium.com/deep-dive-into-websocket-hijacking-vulnerability-42d8c5773944?source=rss------bug_bounty_writeup-5)
 - [Nueva comunidad en Discord para Bug Bounty y Pentesting](https://gorkaaa.medium.com/nueva-comunidad-en-discord-para-bug-bounty-y-pentesting-49f8f0a14a56?source=rss------bug_bounty_writeup-5)
 - [My $$$$$ Blind Xss Tips.](https://systemweakness.com/my-blind-xss-tips-481aa48d9651?source=rss------bug_bounty_writeup-5)
 - [CVE-2025–29927: Explotando un middleware vulnerable paso a paso](https://gorkaaa.medium.com/cve-2025-29927-explotando-un-middleware-vulnerable-paso-a-paso-e65a2a58f735?source=rss------bug_bounty_writeup-5)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Advanced Bug Hunting: Tips, Tricks and Methodology](https://osintteam.blog/advanced-bug-hunting-tips-tricks-and-methodology-9962b05ee740?source=rss------bug_bounty_writeup-5)
 - [The Pivot Method: Technical Moves for Bug Hunters in Progress](https://vicricsec.medium.com/the-pivot-method-technical-moves-for-bug-hunters-in-progress-b767bcee8911?source=rss------bug_bounty_writeup-5)
 - [Hidden Power of Race Conditions in Web Apps](https://medium.com/meetcyber/hidden-power-of-race-conditions-in-web-apps-f5633ba3463c?source=rss------bug_bounty_writeup-5)
-- [How I Uncovered an IDOR That Exposed Other Employee’s Personal Data](https://medium.com/@harikishorevp/idor-that-exposed-other-employees-personal-data-4ab9a85b9579?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
