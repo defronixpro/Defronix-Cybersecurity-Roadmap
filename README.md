@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [LFI + RCE en Node.js, Python y PHP — Nuevo vídeo este martes 23](https://gorkaaa.medium.com/lfi-rce-en-node-js-python-y-php-nuevo-v%C3%ADdeo-este-martes-23-370c1a0e84d9?source=rss------bug_bounty_writeup-5)
 - [Parameter Pollution Party: How Duplicate Keys Crashed the API &amp; Spilled All the Secrets](https://infosecwriteups.com/parameter-pollution-party-how-duplicate-keys-crashed-the-api-spilled-all-the-secrets-f2352d6620ab?source=rss----7b722bfd1b8d---4)
 - [Daily Bugle — TryHackMe Walkthrough: Joomla Exploitation &amp; Red Hat Privilege Escalation](https://infosecwriteups.com/daily-bugle-tryhackme-walkthrough-joomla-exploitation-red-hat-privilege-escalation-7e675a3cd706?source=rss----7b722bfd1b8d---4)
 - [TryHackMe — TechSupp0rt1 Walkthrough | Full Step-by-Step Guide](https://infosecwriteups.com/tryhackme-techsupp0rt1-walkthrough-full-step-by-step-guide-db0758109ad9?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [WannaCry Ransomware: A DFIR &amp; SOC Monitoring Lab Walkthrough](https://infosecwriteups.com/wannacry-ransomware-a-dfir-soc-monitoring-lab-walkthrough-9001f61a71e9?source=rss----7b722bfd1b8d---4)
 - [PicoCTF Web Exploitation Walkthrough |GET aHEAD](https://infosecwriteups.com/picoctf-web-exploitation-walkthrough-get-ahead-618bd6b383fb?source=rss----7b722bfd1b8d---4)
 - [Weaponizing Burp Intruder: Credential Stuffing done Right](https://medium.com/@dr_1n-ctrl/weaponizing-burp-intruder-credential-stuffing-done-right-f91fa3121bb9?source=rss------bug_bounty_writeup-5)
-- [Advanced Bug Hunting: Tips, Tricks and Methodology](https://osintteam.blog/advanced-bug-hunting-tips-tricks-and-methodology-9962b05ee740?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
