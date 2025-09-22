@@ -922,6 +922,13 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Parameter Pollution Party: How Duplicate Keys Crashed the API &amp; Spilled All the Secrets](https://infosecwriteups.com/parameter-pollution-party-how-duplicate-keys-crashed-the-api-spilled-all-the-secrets-f2352d6620ab?source=rss----7b722bfd1b8d---4)
+- [Daily Bugle — TryHackMe Walkthrough: Joomla Exploitation &amp; Red Hat Privilege Escalation](https://infosecwriteups.com/daily-bugle-tryhackme-walkthrough-joomla-exploitation-red-hat-privilege-escalation-7e675a3cd706?source=rss----7b722bfd1b8d---4)
+- [TryHackMe — TechSupp0rt1 Walkthrough | Full Step-by-Step Guide](https://infosecwriteups.com/tryhackme-techsupp0rt1-walkthrough-full-step-by-step-guide-db0758109ad9?source=rss----7b722bfd1b8d---4)
+- [AllSignsPoint2Pwnage — TryHackMe Walkthrough](https://infosecwriteups.com/allsignspoint2pwnage-tryhackme-walkthrough-9cd07b7de282?source=rss----7b722bfd1b8d---4)
+- [JWT Warfare: Obfuscation, Cracking, and Red Team Exploits | Cyber Codex](https://infosecwriteups.com/jwt-warfare-obfuscation-cracking-and-red-team-exploits-cyber-codex-06d45e465193?source=rss----7b722bfd1b8d---4)
+- [How I Automated Bulk Email Deletion from Naukri &amp; LinkedIn Using Google Apps Script](https://infosecwriteups.com/how-i-automated-bulk-email-deletion-from-naukri-linkedin-using-google-apps-script-da3e50bb613c?source=rss----7b722bfd1b8d---4)
+- [️ Track Every Change: Auditing with Spring Data JPA](https://infosecwriteups.com/%EF%B8%8F-track-every-change-auditing-with-spring-data-jpa-a8c032e367a4?source=rss----7b722bfd1b8d---4)
 - [How a Hidden Note Fooled an AI Summarizer — Discovering Prompt Injection in Summarization | Bug…](https://ph-hitachi.medium.com/how-a-hidden-note-fooled-an-ai-summarizer-discovering-prompt-injection-in-summarization-bug-8bc189b37704?source=rss------bug_bounty_writeup-5)
 - [Install or Update New Version Ghauri in WSL for testing SQL Injection](https://raflesiait.medium.com/install-or-update-new-ghauri-in-wsl-for-testing-sql-injection-0f626a218190?source=rss------bug_bounty_writeup-5)
 - [Deep Dive into WebSocket Hijacking Vulnerability](https://0zero0.medium.com/deep-dive-into-websocket-hijacking-vulnerability-42d8c5773944?source=rss------bug_bounty_writeup-5)
@@ -933,13 +940,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Transforming Images into Insights: The Role of OCR in AI Workflows](https://infosecwriteups.com/transforming-images-into-insights-the-role-of-ocr-in-ai-workflows-6a7656ee5caf?source=rss----7b722bfd1b8d---4)
 - [WannaCry Ransomware: A DFIR &amp; SOC Monitoring Lab Walkthrough](https://infosecwriteups.com/wannacry-ransomware-a-dfir-soc-monitoring-lab-walkthrough-9001f61a71e9?source=rss----7b722bfd1b8d---4)
 - [PicoCTF Web Exploitation Walkthrough |GET aHEAD](https://infosecwriteups.com/picoctf-web-exploitation-walkthrough-get-ahead-618bd6b383fb?source=rss----7b722bfd1b8d---4)
-- [How I ‘Hacked’ NASA Without Going to Jail](https://infosecwriteups.com/how-did-i-hacked-nasa-without-go-to-the-jail-4bf0eebc934b?source=rss----7b722bfd1b8d---4)
-- [The Bug Behind the Delete Button: How I Found a Critical IDOR](https://infosecwriteups.com/the-bug-behind-the-delete-button-how-i-found-a-critical-idor-2ea938226f7b?source=rss----7b722bfd1b8d---4)
-- [Breaking the &quot;KPMG CTF 2025 Hardest Mobile Challenge&quot;: A Deep Dive into VaultPass v2](https://infosecwriteups.com/breaking-the-kpmg-ctf-2025-hardest-mobile-challenge-a-deep-dive-into-vaultpass-v2-94bb61f409fb?source=rss----7b722bfd1b8d---4)
-- [UART Shell Privilege Escalation - KPMG CTF 2025 Writeup](https://infosecwriteups.com/uart-shell-privilege-escalation-kpmg-ctf-2025-writeup-8ce322de8d63?source=rss----7b722bfd1b8d---4)
-- [CVE-2025–10585: The Chrome V8 Zero-Day You Need to Patch Today ⚔️️](https://infosecwriteups.com/cve-2025-10585-the-chrome-v8-zero-day-you-need-to-patch-today-%EF%B8%8F-%EF%B8%8F-8168aa7f79cd?source=rss----7b722bfd1b8d---4)
-- [#1: Command Injection: A Complete Guide.](https://infosecwriteups.com/1-command-injection-a-complete-guide-a09bf5fcbf89?source=rss----7b722bfd1b8d---4)
-- [“How I Bank $1k+ a Month Finding Bugs Everyone Ignores”](https://infosecwriteups.com/how-i-bank-1k-a-month-finding-bugs-everyone-ignores-499a6d2cd1cb?source=rss----7b722bfd1b8d---4)
 - [Weaponizing Burp Intruder: Credential Stuffing done Right](https://medium.com/@dr_1n-ctrl/weaponizing-burp-intruder-credential-stuffing-done-right-f91fa3121bb9?source=rss------bug_bounty_writeup-5)
 - [Advanced Bug Hunting: Tips, Tricks and Methodology](https://osintteam.blog/advanced-bug-hunting-tips-tricks-and-methodology-9962b05ee740?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
