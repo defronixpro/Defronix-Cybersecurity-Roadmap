@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How a Hidden Note Fooled an AI Summarizer — Discovering Prompt Injection in Summarization | Bug…](https://ph-hitachi.medium.com/how-a-hidden-note-fooled-an-ai-summarizer-discovering-prompt-injection-in-summarization-bug-8bc189b37704?source=rss------bug_bounty_writeup-5)
 - [Install or Update New Version Ghauri in WSL for testing SQL Injection](https://raflesiait.medium.com/install-or-update-new-ghauri-in-wsl-for-testing-sql-injection-0f626a218190?source=rss------bug_bounty_writeup-5)
 - [Deep Dive into WebSocket Hijacking Vulnerability](https://0zero0.medium.com/deep-dive-into-websocket-hijacking-vulnerability-42d8c5773944?source=rss------bug_bounty_writeup-5)
 - [Nueva comunidad en Discord para Bug Bounty y Pentesting](https://gorkaaa.medium.com/nueva-comunidad-en-discord-para-bug-bounty-y-pentesting-49f8f0a14a56?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [“How I Bank $1k+ a Month Finding Bugs Everyone Ignores”](https://infosecwriteups.com/how-i-bank-1k-a-month-finding-bugs-everyone-ignores-499a6d2cd1cb?source=rss----7b722bfd1b8d---4)
 - [Weaponizing Burp Intruder: Credential Stuffing done Right](https://medium.com/@dr_1n-ctrl/weaponizing-burp-intruder-credential-stuffing-done-right-f91fa3121bb9?source=rss------bug_bounty_writeup-5)
 - [Advanced Bug Hunting: Tips, Tricks and Methodology](https://osintteam.blog/advanced-bug-hunting-tips-tricks-and-methodology-9962b05ee740?source=rss------bug_bounty_writeup-5)
-- [The Pivot Method: Technical Moves for Bug Hunters in Progress](https://vicricsec.medium.com/the-pivot-method-technical-moves-for-bug-hunters-in-progress-b767bcee8911?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
