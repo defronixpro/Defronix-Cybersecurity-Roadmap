@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [A Critical Bug Let Me Become an Admin on an External Bug Bounty Program](https://ln0rag.medium.com/a-critical-bug-let-me-become-an-admin-on-an-external-bug-bounty-program-e76733ca07eb?source=rss------bug_bounty_writeup-5)
 - [Introducing BountyBuddy — A Complete Bug Bounty Checklist &amp; Pentesting Checklist](https://infosecwriteups.com/introducing-bountybuddy-a-complete-bug-bounty-checklist-pentesting-checklist-a60bd1d899eb?source=rss------bug_bounty_writeup-5)
 - [LFI + RCE en Node.js, Python y PHP — Nuevo vídeo este martes 23](https://gorkaaa.medium.com/lfi-rce-en-node-js-python-y-php-nuevo-v%C3%ADdeo-este-martes-23-370c1a0e84d9?source=rss------bug_bounty_writeup-5)
 - [Parameter Pollution Party: How Duplicate Keys Crashed the API &amp; Spilled All the Secrets](https://infosecwriteups.com/parameter-pollution-party-how-duplicate-keys-crashed-the-api-spilled-all-the-secrets-f2352d6620ab?source=rss----7b722bfd1b8d---4)
@@ -938,7 +939,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [My $$$$$ Blind Xss Tips.](https://systemweakness.com/my-blind-xss-tips-481aa48d9651?source=rss------bug_bounty_writeup-5)
 - [CVE-2025–29927: Explotando un middleware vulnerable paso a paso](https://gorkaaa.medium.com/cve-2025-29927-explotando-un-middleware-vulnerable-paso-a-paso-e65a2a58f735?source=rss------bug_bounty_writeup-5)
 - [The Silent Killer of App Security: Broken Access Controls:An Advanced Bug Hunter’s Guide](https://medium.com/@sa6648094/the-silent-killer-of-app-security-broken-access-controls-an-advanced-bug-hunters-guide-faabdb8ba36b?source=rss------bug_bounty_writeup-5)
-- [How i Bypass Subscription Limits by race condition vulnerability](https://medium.com/@abhisheksharma27082006/how-i-bypass-subscription-limits-by-race-condition-vulnerability-cecfaacd07e7?source=rss------bug_bounty_writeup-5)
 - [Transforming Images into Insights: The Role of OCR in AI Workflows](https://infosecwriteups.com/transforming-images-into-insights-the-role-of-ocr-in-ai-workflows-6a7656ee5caf?source=rss----7b722bfd1b8d---4)
 - [WannaCry Ransomware: A DFIR &amp; SOC Monitoring Lab Walkthrough](https://infosecwriteups.com/wannacry-ransomware-a-dfir-soc-monitoring-lab-walkthrough-9001f61a71e9?source=rss----7b722bfd1b8d---4)
 - [PicoCTF Web Exploitation Walkthrough |GET aHEAD](https://infosecwriteups.com/picoctf-web-exploitation-walkthrough-get-ahead-618bd6b383fb?source=rss----7b722bfd1b8d---4)
