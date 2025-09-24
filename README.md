@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How a Missing HTTPOnly Header Can Lead to Session Hijacking](https://mukibas37.medium.com/how-a-missing-httponly-header-can-lead-to-session-hijacking-b161a0db6607?source=rss------bug_bounty_writeup-5)
 - [Comunidad Discord Pentesting y Bug Bounty](https://gorkaaa.medium.com/comunidad-discord-pentesting-y-bug-bounty-b51c9cd322b4?source=rss------bug_bounty_writeup-5)
 - [Linux Commands | Bug Bounty Edition](https://al1k0k.medium.com/linux-commands-bug-bounty-edition-3f89f9452793?source=rss------bug_bounty_writeup-5)
 - [Chaining Leaks to Unauthenticated Database Access: A Collaborative Bug Hunt](https://cybersecuritywriteups.com/chaining-leaks-to-unauthenticated-database-access-a-collaborative-bug-hunt-725f9849fd04?source=rss------bug_bounty_writeup-5)
@@ -938,7 +939,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [️ Track Every Change: Auditing with Spring Data JPA](https://infosecwriteups.com/%EF%B8%8F-track-every-change-auditing-with-spring-data-jpa-a8c032e367a4?source=rss----7b722bfd1b8d---4)
 - [How a Hidden Note Fooled an AI Summarizer — Discovering Prompt Injection in Summarization | Bug…](https://infosecwriteups.com/how-a-hidden-note-fooled-an-ai-summarizer-discovering-prompt-injection-in-summarization-bug-8bc189b37704?source=rss------bug_bounty_writeup-5)
 - [Install or Update New Version Ghauri in WSL for testing SQL Injection](https://raflesiait.medium.com/install-or-update-new-ghauri-in-wsl-for-testing-sql-injection-0f626a218190?source=rss------bug_bounty_writeup-5)
-- [Deep Dive into WebSocket Hijacking Vulnerability](https://0zero0.medium.com/deep-dive-into-websocket-hijacking-vulnerability-42d8c5773944?source=rss------bug_bounty_writeup-5)
 - [Transforming Images into Insights: The Role of OCR in AI Workflows](https://infosecwriteups.com/transforming-images-into-insights-the-role-of-ocr-in-ai-workflows-6a7656ee5caf?source=rss----7b722bfd1b8d---4)
 - [WannaCry Ransomware: A DFIR &amp; SOC Monitoring Lab Walkthrough](https://infosecwriteups.com/wannacry-ransomware-a-dfir-soc-monitoring-lab-walkthrough-9001f61a71e9?source=rss----7b722bfd1b8d---4)
 - [PicoCTF Web Exploitation Walkthrough |GET aHEAD](https://infosecwriteups.com/picoctf-web-exploitation-walkthrough-get-ahead-618bd6b383fb?source=rss----7b722bfd1b8d---4)
