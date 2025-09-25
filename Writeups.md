@@ -1,6 +1,12 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How Hackers Use AI to Find Vulnerabilities Faster](https://infosecwriteups.com/how-hackers-use-ai-to-find-vulnerabilities-faster-248bc162c07e?source=rss----7b722bfd1b8d---4)
+- [How a Hidden Note Fooled an AI Summarizer — Discovering Prompt Injection in Summarization | Bug…](https://infosecwriteups.com/how-a-hidden-note-fooled-an-ai-summarizer-discovering-prompt-injection-in-summarization-bug-8bc189b37704?source=rss----7b722bfd1b8d---4)
+- [Automating Ransomware Intelligence: Feed ransomware.live](https://infosecwriteups.com/automating-ransomware-intelligence-feed-ransomware-live-504970b8e08a?source=rss----7b722bfd1b8d---4)
+- [Building a secure AI tool with Lovable, Gemini API and Cloudflare Workers](https://infosecwriteups.com/building-a-secure-ai-tool-with-lovable-gemini-api-and-cloudflare-workers-eba940189c1e?source=rss----7b722bfd1b8d---4)
+- [Building An Offensive Security AI Agent - Part 2](https://infosecwriteups.com/building-an-offensive-security-ai-agent-part-2-d3fa197c4d20?source=rss----7b722bfd1b8d---4)
+- [Building An Offensive Security AI Agent — Part 1](https://infosecwriteups.com/building-my-first-offensive-security-agent-part-1-7b2dbb93c842?source=rss----7b722bfd1b8d---4)
 - [Privilege Escalation: Member Role Can Change Organization Name and Photo](https://medium.com/@HBlackGhost/privilege-escalation-member-role-can-change-organization-name-and-photo-702e00786a42?source=rss------bug_bounty_writeup-5)
 - [How a Missing HTTPOnly Header Can Lead to Session Hijacking](https://mukibas37.medium.com/how-a-missing-httponly-header-can-lead-to-session-hijacking-b161a0db6607?source=rss------bug_bounty_writeup-5)
 - [Comunidad Discord Pentesting y Bug Bounty](https://gorkaaa.medium.com/comunidad-discord-pentesting-y-bug-bounty-b51c9cd322b4?source=rss------bug_bounty_writeup-5)
@@ -14,13 +20,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Daily Bugle — TryHackMe Walkthrough: Joomla Exploitation &amp; Red Hat Privilege Escalation](https://infosecwriteups.com/daily-bugle-tryhackme-walkthrough-joomla-exploitation-red-hat-privilege-escalation-7e675a3cd706?source=rss----7b722bfd1b8d---4)
 - [TryHackMe — TechSupp0rt1 Walkthrough | Full Step-by-Step Guide](https://infosecwriteups.com/tryhackme-techsupp0rt1-walkthrough-full-step-by-step-guide-db0758109ad9?source=rss----7b722bfd1b8d---4)
 - [AllSignsPoint2Pwnage — TryHackMe Walkthrough](https://infosecwriteups.com/allsignspoint2pwnage-tryhackme-walkthrough-9cd07b7de282?source=rss----7b722bfd1b8d---4)
-- [JWT Warfare: Obfuscation, Cracking, and Red Team Exploits | Cyber Codex](https://infosecwriteups.com/jwt-warfare-obfuscation-cracking-and-red-team-exploits-cyber-codex-06d45e465193?source=rss----7b722bfd1b8d---4)
-- [How I Automated Bulk Email Deletion from Naukri &amp; LinkedIn Using Google Apps Script](https://infosecwriteups.com/how-i-automated-bulk-email-deletion-from-naukri-linkedin-using-google-apps-script-da3e50bb613c?source=rss----7b722bfd1b8d---4)
-- [️ Track Every Change: Auditing with Spring Data JPA](https://infosecwriteups.com/%EF%B8%8F-track-every-change-auditing-with-spring-data-jpa-a8c032e367a4?source=rss----7b722bfd1b8d---4)
 - [How a Hidden Note Fooled an AI Summarizer — Discovering Prompt Injection in Summarization | Bug…](https://infosecwriteups.com/how-a-hidden-note-fooled-an-ai-summarizer-discovering-prompt-injection-in-summarization-bug-8bc189b37704?source=rss------bug_bounty_writeup-5)
-- [Transforming Images into Insights: The Role of OCR in AI Workflows](https://infosecwriteups.com/transforming-images-into-insights-the-role-of-ocr-in-ai-workflows-6a7656ee5caf?source=rss----7b722bfd1b8d---4)
-- [WannaCry Ransomware: A DFIR &amp; SOC Monitoring Lab Walkthrough](https://infosecwriteups.com/wannacry-ransomware-a-dfir-soc-monitoring-lab-walkthrough-9001f61a71e9?source=rss----7b722bfd1b8d---4)
-- [PicoCTF Web Exploitation Walkthrough |GET aHEAD](https://infosecwriteups.com/picoctf-web-exploitation-walkthrough-get-ahead-618bd6b383fb?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
