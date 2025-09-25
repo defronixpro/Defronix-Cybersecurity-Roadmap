@@ -922,16 +922,16 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [UFO-1](https://infosecwriteups.com/ufo-1-9704de6b6da4?source=rss----7b722bfd1b8d---4)
+- [Tmux vs Screen: The Cybersecurity Engineer’s Ultimate Showdown in the Data Center](https://infosecwriteups.com/tmux-vs-screen-the-cybersecurity-engineers-ultimate-showdown-in-the-data-center-696b9573b8b9?source=rss----7b722bfd1b8d---4)
+- [[THM CTF] Industrial Intrusion Warm-up — Breach](https://infosecwriteups.com/thm-ctf-industrial-intrusion-warm-up-breach-5f3d1b18b4ca?source=rss----7b722bfd1b8d---4)
+- [Combining Web Cache Poisoning with X-Forwarded-Host and X-Original-URL Headers](https://infosecwriteups.com/combining-web-cache-poisoning-with-x-forwarded-host-and-x-original-url-headers-6d71d8d1f1f7?source=rss----7b722bfd1b8d---4)
+- [Unauthorized Unsubscription and Message of Employee](https://infosecwriteups.com/unauthorized-unsubscription-employee-bf36d81e3e8d?source=rss----7b722bfd1b8d---4)
 - [Process Injection 101 to Advanced &lpar;Part — 1&rpar;](https://infosecwriteups.com/process-injection-101-to-advanced-part-1-ead719f31a7f?source=rss----7b722bfd1b8d---4)
 - [Hacking Flutter Apps, network interception technique for iOS and Android applications](https://infosecwriteups.com/hacking-flutter-apps-network-interception-technique-for-ios-and-android-applications-4f79d065fb29?source=rss----7b722bfd1b8d---4)
 - [All About Prompt Injection: How Attackers Trick AI](https://infosecwriteups.com/all-about-prompt-injection-how-attackers-trick-ai-56ef7e9baa06?source=rss----7b722bfd1b8d---4)
 - [Unlocking the Secrets: My Biohazard CTF Adventure Part 2](https://infosecwriteups.com/unlocking-the-secrets-my-biohazard-ctf-adventure-part-2-5d8a234f6316?source=rss----7b722bfd1b8d---4)
 - [Arctic](https://infosecwriteups.com/arctic-83a0be82fc64?source=rss----7b722bfd1b8d---4)
-- [20 Top Monthly Insights — AI Security— September 2025](https://infosecwriteups.com/20-top-monthly-insights-ai-security-september-2025-3243435d559d?source=rss----7b722bfd1b8d---4)
-- [503 Page to Critical Bug](https://infosecwriteups.com/503-page-to-critical-bug-00e284eaeebe?source=rss----7b722bfd1b8d---4)
-- [How I Achieved 100 Points in OSCP in Just 3–4 Months — My 2025 Journey](https://infosecwriteups.com/how-i-achieved-100-points-in-oscp-in-just-3-4-months-my-2025-journey-795a7f6f05e5?source=rss----7b722bfd1b8d---4)
-- [How I Hacked My Way to TryHackMe’s Top 5% in 3 Weeks &lpar;Spoiler: No Black Hoodies Required&rpar;](https://infosecwriteups.com/how-i-hacked-my-way-to-tryhackmes-top-5-in-3-weeks-spoiler-no-black-hoodies-required-e1dae5cc2524?source=rss----7b722bfd1b8d---4)
-- [How to Trace an IP Address &lpar;Beginner’s OSINT Guide with Real Example&rpar;](https://infosecwriteups.com/how-to-trace-an-ip-address-beginners-osint-guide-with-real-example-440a22fa6e9c?source=rss----7b722bfd1b8d---4)
 - [Privilege Escalation: Member Role Can Change Organization Name and Photo](https://medium.com/@HBlackGhost/privilege-escalation-member-role-can-change-organization-name-and-photo-702e00786a42?source=rss------bug_bounty_writeup-5)
 - [How a Missing HTTPOnly Header Can Lead to Session Hijacking](https://mukibas37.medium.com/how-a-missing-httponly-header-can-lead-to-session-hijacking-b161a0db6607?source=rss------bug_bounty_writeup-5)
 - [Comunidad Discord Pentesting y Bug Bounty](https://gorkaaa.medium.com/comunidad-discord-pentesting-y-bug-bounty-b51c9cd322b4?source=rss------bug_bounty_writeup-5)
