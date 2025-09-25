@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [De SQLi a RCE — Explotación real paso a paso en laboratorio](https://gorkaaa.medium.com/de-sqli-a-rce-explotaci%C3%B3n-real-paso-a-paso-en-laboratorio-76cc3d73116a?source=rss------bug_bounty_writeup-5)
 - [UFO-1](https://infosecwriteups.com/ufo-1-9704de6b6da4?source=rss----7b722bfd1b8d---4)
 - [Tmux vs Screen: The Cybersecurity Engineer’s Ultimate Showdown in the Data Center](https://infosecwriteups.com/tmux-vs-screen-the-cybersecurity-engineers-ultimate-showdown-in-the-data-center-696b9573b8b9?source=rss----7b722bfd1b8d---4)
 - [[THM CTF] Industrial Intrusion Warm-up — Breach](https://infosecwriteups.com/thm-ctf-industrial-intrusion-warm-up-breach-5f3d1b18b4ca?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [A Critical Bug Let Me Become an Admin on an External Bug Bounty Program](https://ln0rag.medium.com/a-critical-bug-let-me-become-an-admin-on-an-external-bug-bounty-program-e76733ca07eb?source=rss------bug_bounty_writeup-5)
 - [Introducing BountyBuddy — A Complete Bug Bounty Checklist &amp; Pentesting Checklist](https://infosecwriteups.com/introducing-bountybuddy-a-complete-bug-bounty-checklist-pentesting-checklist-a60bd1d899eb?source=rss------bug_bounty_writeup-5)
 - [LFI + RCE en Node.js, Python y PHP — Nuevo vídeo este martes 23](https://gorkaaa.medium.com/lfi-rce-en-node-js-python-y-php-nuevo-v%C3%ADdeo-este-martes-23-370c1a0e84d9?source=rss------bug_bounty_writeup-5)
-- [How a Hidden Note Fooled an AI Summarizer — Discovering Prompt Injection in Summarization | Bug…](https://infosecwriteups.com/how-a-hidden-note-fooled-an-ai-summarizer-discovering-prompt-injection-in-summarization-bug-8bc189b37704?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
