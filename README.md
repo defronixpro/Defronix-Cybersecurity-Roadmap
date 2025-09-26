@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Extending Free Trials with Just a Clock Change: A Subscription Bypass Story](https://medium.com/@abhisheksharma27082006/extending-free-trials-with-just-a-clock-change-a-subscription-bypass-story-515d8565cba9?source=rss------bug_bounty_writeup-5)
 - [‍☠️picoCTF Web Exploitation: Local Authority](https://infosecwriteups.com/%EF%B8%8Fpicoctf-web-exploitation-local-authority-d49a33062f79?source=rss----7b722bfd1b8d---4)
 - [‍☠️ picoCTF 2024 — “Bookmarklet” Web Exploitation Challenge](https://infosecwriteups.com/%EF%B8%8F-picoctf-2024-bookmarklet-web-exploitation-challenge-834b3ce821e2?source=rss----7b722bfd1b8d---4)
 - [Authorization Bypass: The Simple SSO Mistake](https://infosecwriteups.com/authorization-bypass-the-simple-sso-mistake-c8bd261b961c?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Chaining Leaks to Unauthenticated Database Access: A Collaborative Bug Hunt](https://cybersecuritywriteups.com/chaining-leaks-to-unauthenticated-database-access-a-collaborative-bug-hunt-725f9849fd04?source=rss------bug_bounty_writeup-5)
 - [LFI + RCE en Node.js, Python y PHP — Laboratorio real paso a paso](https://gorkaaa.medium.com/lfi-rce-en-node-js-python-y-php-laboratorio-real-paso-a-paso-4a3b4f1089c3?source=rss------bug_bounty_writeup-5)
 - [A Critical Bug Let Me Become an Admin on an External Bug Bounty Program](https://ln0rag.medium.com/a-critical-bug-let-me-become-an-admin-on-an-external-bug-bounty-program-e76733ca07eb?source=rss------bug_bounty_writeup-5)
-- [Introducing BountyBuddy — A Complete Bug Bounty Checklist &amp; Pentesting Checklist](https://infosecwriteups.com/introducing-bountybuddy-a-complete-bug-bounty-checklist-pentesting-checklist-a60bd1d899eb?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
