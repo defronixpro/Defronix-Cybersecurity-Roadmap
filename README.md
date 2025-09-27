@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [SSRF on Steroids: How I Turned a PDF Generator Into a Cloud Data Firehose](https://medium.com/@iski/ssrf-on-steroids-how-i-turned-a-pdf-generator-into-a-cloud-data-firehose-ea49e0f7a627?source=rss------bug_bounty_writeup-5)
+- [Escalating an HTML Injection into 1-Click Account Takeover](https://marxchryz.medium.com/escalating-an-html-injection-into-1-click-account-takeover-3ba9dbf0ce5f?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Diaries: How a Leaked appsettings.json Became a High-Impact Find](https://0xbasak.medium.com/bug-bounty-diaries-how-a-leaked-appsettings-json-became-a-high-impact-find-57c3e19e0a36?source=rss------bug_bounty_writeup-5)
 - [When “1+1” Became $650 —  Escaping a Sandbox in Groovy](https://0x1git.medium.com/groovy-sandbox-escape-reading-files-via-classloader-650-bounty-story-8183ef9a332c?source=rss------bug_bounty_writeup-5)
 - [Extending Free Trials with Just a Clock Change: A Subscription Bypass Story](https://medium.com/@abhisheksharma27082006/extending-free-trials-with-just-a-clock-change-a-subscription-bypass-story-515d8565cba9?source=rss------bug_bounty_writeup-5)
@@ -940,8 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Privilege Escalation: Member Role Can Change Organization Name and Photo](https://medium.com/@HBlackGhost/privilege-escalation-member-role-can-change-organization-name-and-photo-702e00786a42?source=rss------bug_bounty_writeup-5)
 - [How a Missing HTTPOnly Header Can Lead to Session Hijacking](https://mukibas37.medium.com/how-a-missing-httponly-header-can-lead-to-session-hijacking-b161a0db6607?source=rss------bug_bounty_writeup-5)
 - [Comunidad Discord Pentesting y Bug Bounty](https://gorkaaa.medium.com/comunidad-discord-pentesting-y-bug-bounty-b51c9cd322b4?source=rss------bug_bounty_writeup-5)
-- [Linux Commands | Bug Bounty Edition](https://al1k0k.medium.com/linux-commands-bug-bounty-edition-3f89f9452793?source=rss------bug_bounty_writeup-5)
-- [Chaining Leaks to Unauthenticated Database Access: A Collaborative Bug Hunt](https://cybersecuritywriteups.com/chaining-leaks-to-unauthenticated-database-access-a-collaborative-bug-hunt-725f9849fd04?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
