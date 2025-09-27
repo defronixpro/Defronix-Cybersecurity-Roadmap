@@ -20,7 +20,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [De SQLi a RCE — Explotación real paso a paso en laboratorio](https://gorkaaa.medium.com/de-sqli-a-rce-explotaci%C3%B3n-real-paso-a-paso-en-laboratorio-76cc3d73116a?source=rss------bug_bounty_writeup-5)
 - [Privilege Escalation: Member Role Can Change Organization Name and Photo](https://medium.com/@HBlackGhost/privilege-escalation-member-role-can-change-organization-name-and-photo-702e00786a42?source=rss------bug_bounty_writeup-5)
 - [How a Missing HTTPOnly Header Can Lead to Session Hijacking](https://mukibas37.medium.com/how-a-missing-httponly-header-can-lead-to-session-hijacking-b161a0db6607?source=rss------bug_bounty_writeup-5)
-- [Comunidad Discord Pentesting y Bug Bounty](https://gorkaaa.medium.com/comunidad-discord-pentesting-y-bug-bounty-b51c9cd322b4?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
