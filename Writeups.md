@@ -1,7 +1,10 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How to Find P1 Bugs using Google in your Target — &lpar;Part-1&rpar;](https://infosecwriteups.com/how-to-find-p1-bugs-using-google-in-your-target-part-1-e37455324dc1?source=rss----7b722bfd1b8d---4)
 - [How to Find P1 Bugs using Google in your Target — &lpar;Part-1&rpar;](https://infosecwriteups.com/how-to-find-p1-bugs-using-google-in-your-target-part-1-e37455324dc1?source=rss------bug_bounty_writeup-5)
+- [The Postmark-MCP NPM Incident: What Happened, Why It Matters, and How to Hunt It Down](https://infosecwriteups.com/the-postmark-mcp-npm-incident-what-happened-why-it-matters-and-how-to-hunt-it-down-37431757472f?source=rss----7b722bfd1b8d---4)
+- [Brains —  TryHackMe Walkthrough](https://infosecwriteups.com/brains-tryhackme-walkthrough-8be300aa8d87?source=rss----7b722bfd1b8d---4)
 - [OSCP Exam Secrets — Avoiding Rabbit Holes and Staying on Track &lpar;Part 2&rpar;](https://infosecwriteups.com/oscp-exam-secrets-avoiding-rabbit-holes-and-staying-on-track-part-2-c5192aee6ae7?source=rss----7b722bfd1b8d---4)
 - [New Technique Bypass File Upload](https://infosecwriteups.com/new-technique-bypass-file-upload-4c18cef9f9ed?source=rss----7b722bfd1b8d---4)
 - [Generative AI for Hackers: Building Tools for Red Teaming](https://infosecwriteups.com/generative-ai-for-hackers-building-tools-for-red-teaming-de38b9b804a3?source=rss----7b722bfd1b8d---4)
@@ -9,9 +12,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [19. Finding Open Redirects with Ease](https://infosecwriteups.com/19-finding-open-redirects-with-ease-0cc59a41702c?source=rss----7b722bfd1b8d---4)
 - [Linux Threat Detection 1](https://infosecwriteups.com/linux-threat-detection-1-51791ba290e4?source=rss----7b722bfd1b8d---4)
 - [Database Auditing in Spring Boot with Hibernate Envers and Liquibase](https://infosecwriteups.com/database-auditing-in-spring-boot-with-hibernate-envers-and-liquibase-c38c16ccaf7e?source=rss----7b722bfd1b8d---4)
-- [How I discovered ATO through Insecure Email Verification Flow led to medium bounty](https://infosecwriteups.com/how-i-discovered-ato-through-insecure-email-verification-flow-led-to-medium-bounty-3a5f6df3f87e?source=rss----7b722bfd1b8d---4)
-- [A Simple Explanation of a Complex 2FA Bypass Technique](https://infosecwriteups.com/a-simple-explanation-of-a-complex-2fa-bypass-technique-de8b1db064a0?source=rss----7b722bfd1b8d---4)
-- [The Harsh Truth: Why Most Cybersecurity Resumes Get Rejected](https://infosecwriteups.com/the-harsh-truth-why-most-cybersecurity-resumes-get-rejected-f04fe03a0961?source=rss----7b722bfd1b8d---4)
 - [SSRF on Steroids: How I Turned a PDF Generator Into a Cloud Data Firehose](https://medium.com/@iski/ssrf-on-steroids-how-i-turned-a-pdf-generator-into-a-cloud-data-firehose-ea49e0f7a627?source=rss------bug_bounty_writeup-5)
 - [Escalating an HTML Injection into 1-Click Account Takeover](https://marxchryz.medium.com/escalating-an-html-injection-into-1-click-account-takeover-3ba9dbf0ce5f?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Diaries: How a Leaked appsettings.json Became a High-Impact Find](https://0xbasak.medium.com/bug-bounty-diaries-how-a-leaked-appsettings-json-became-a-high-impact-find-57c3e19e0a36?source=rss------bug_bounty_writeup-5)
