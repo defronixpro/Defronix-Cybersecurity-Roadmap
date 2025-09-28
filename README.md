@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Generative AI for Hackers: Building Tools for Red Teaming](https://infosecwriteups.com/generative-ai-for-hackers-building-tools-for-red-teaming-de38b9b804a3?source=rss----7b722bfd1b8d---4)
 - [[THM] Gallery — Writeup](https://infosecwriteups.com/thm-gallery-writeup-3a5d7d607646?source=rss----7b722bfd1b8d---4)
 - [19. Finding Open Redirects with Ease](https://infosecwriteups.com/19-finding-open-redirects-with-ease-0cc59a41702c?source=rss----7b722bfd1b8d---4)
 - [Linux Threat Detection 1](https://infosecwriteups.com/linux-threat-detection-1-51791ba290e4?source=rss----7b722bfd1b8d---4)
@@ -936,7 +937,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [When “1+1” Became $650 —  Escaping a Sandbox in Groovy](https://0x1git.medium.com/groovy-sandbox-escape-reading-files-via-classloader-650-bounty-story-8183ef9a332c?source=rss------bug_bounty_writeup-5)
 - [Extending Free Trials with Just a Clock Change: A Subscription Bypass Story](https://medium.com/@abhisheksharma27082006/extending-free-trials-with-just-a-clock-change-a-subscription-bypass-story-515d8565cba9?source=rss------bug_bounty_writeup-5)
 - [‍☠️picoCTF Web Exploitation: Local Authority](https://infosecwriteups.com/%EF%B8%8Fpicoctf-web-exploitation-local-authority-d49a33062f79?source=rss----7b722bfd1b8d---4)
-- [‍☠️ picoCTF 2024 — “Bookmarklet” Web Exploitation Challenge](https://infosecwriteups.com/%EF%B8%8F-picoctf-2024-bookmarklet-web-exploitation-challenge-834b3ce821e2?source=rss----7b722bfd1b8d---4)
 - [Stored XSS via PDF Upload in Live chat⚠️](https://medium.com/@firdansp/stored-xss-via-pdf-upload-in-live-chat-%EF%B8%8F-ce792a6eff1d?source=rss------bug_bounty_writeup-5)
 - [De SQLi a RCE — Explotación real paso a paso en laboratorio](https://gorkaaa.medium.com/de-sqli-a-rce-explotaci%C3%B3n-real-paso-a-paso-en-laboratorio-76cc3d73116a?source=rss------bug_bounty_writeup-5)
 - [Privilege Escalation: Member Role Can Change Organization Name and Photo](https://medium.com/@HBlackGhost/privilege-escalation-member-role-can-change-organization-name-and-photo-702e00786a42?source=rss------bug_bounty_writeup-5)
