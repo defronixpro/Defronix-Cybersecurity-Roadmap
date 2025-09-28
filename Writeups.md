@@ -1,6 +1,8 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [OSCP Exam Secrets — Avoiding Rabbit Holes and Staying on Track &lpar;Part 2&rpar;](https://infosecwriteups.com/oscp-exam-secrets-avoiding-rabbit-holes-and-staying-on-track-part-2-c5192aee6ae7?source=rss----7b722bfd1b8d---4)
+- [New Technique Bypass File Upload](https://infosecwriteups.com/new-technique-bypass-file-upload-4c18cef9f9ed?source=rss----7b722bfd1b8d---4)
 - [Generative AI for Hackers: Building Tools for Red Teaming](https://infosecwriteups.com/generative-ai-for-hackers-building-tools-for-red-teaming-de38b9b804a3?source=rss----7b722bfd1b8d---4)
 - [[THM] Gallery — Writeup](https://infosecwriteups.com/thm-gallery-writeup-3a5d7d607646?source=rss----7b722bfd1b8d---4)
 - [19. Finding Open Redirects with Ease](https://infosecwriteups.com/19-finding-open-redirects-with-ease-0cc59a41702c?source=rss----7b722bfd1b8d---4)
@@ -9,13 +11,11 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How I discovered ATO through Insecure Email Verification Flow led to medium bounty](https://infosecwriteups.com/how-i-discovered-ato-through-insecure-email-verification-flow-led-to-medium-bounty-3a5f6df3f87e?source=rss----7b722bfd1b8d---4)
 - [A Simple Explanation of a Complex 2FA Bypass Technique](https://infosecwriteups.com/a-simple-explanation-of-a-complex-2fa-bypass-technique-de8b1db064a0?source=rss----7b722bfd1b8d---4)
 - [The Harsh Truth: Why Most Cybersecurity Resumes Get Rejected](https://infosecwriteups.com/the-harsh-truth-why-most-cybersecurity-resumes-get-rejected-f04fe03a0961?source=rss----7b722bfd1b8d---4)
-- [My 5-Minute Workflow to Find Bugs on Any Website](https://infosecwriteups.com/my-5-minute-workflow-to-find-bugs-on-any-website-c20075320c96?source=rss----7b722bfd1b8d---4)
 - [SSRF on Steroids: How I Turned a PDF Generator Into a Cloud Data Firehose](https://medium.com/@iski/ssrf-on-steroids-how-i-turned-a-pdf-generator-into-a-cloud-data-firehose-ea49e0f7a627?source=rss------bug_bounty_writeup-5)
 - [Escalating an HTML Injection into 1-Click Account Takeover](https://marxchryz.medium.com/escalating-an-html-injection-into-1-click-account-takeover-3ba9dbf0ce5f?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Diaries: How a Leaked appsettings.json Became a High-Impact Find](https://0xbasak.medium.com/bug-bounty-diaries-how-a-leaked-appsettings-json-became-a-high-impact-find-57c3e19e0a36?source=rss------bug_bounty_writeup-5)
 - [When “1+1” Became $650 —  Escaping a Sandbox in Groovy](https://0x1git.medium.com/groovy-sandbox-escape-reading-files-via-classloader-650-bounty-story-8183ef9a332c?source=rss------bug_bounty_writeup-5)
 - [Extending Free Trials with Just a Clock Change: A Subscription Bypass Story](https://medium.com/@abhisheksharma27082006/extending-free-trials-with-just-a-clock-change-a-subscription-bypass-story-515d8565cba9?source=rss------bug_bounty_writeup-5)
-- [‍☠️picoCTF Web Exploitation: Local Authority](https://infosecwriteups.com/%EF%B8%8Fpicoctf-web-exploitation-local-authority-d49a33062f79?source=rss----7b722bfd1b8d---4)
 - [Stored XSS via PDF Upload in Live chat⚠️](https://medium.com/@firdansp/stored-xss-via-pdf-upload-in-live-chat-%EF%B8%8F-ce792a6eff1d?source=rss------bug_bounty_writeup-5)
 - [De SQLi a RCE — Explotación real paso a paso en laboratorio](https://gorkaaa.medium.com/de-sqli-a-rce-explotaci%C3%B3n-real-paso-a-paso-en-laboratorio-76cc3d73116a?source=rss------bug_bounty_writeup-5)
 - [Privilege Escalation: Member Role Can Change Organization Name and Photo](https://medium.com/@HBlackGhost/privilege-escalation-member-role-can-change-organization-name-and-photo-702e00786a42?source=rss------bug_bounty_writeup-5)
