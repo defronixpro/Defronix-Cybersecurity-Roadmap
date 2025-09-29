@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [⌚All Xiaomi watches hacked &lpar;Cross Tenant IDOR&rpar;](https://infosecwriteups.com/all-xiaomi-watches-hacked-cross-tenant-idor-98b46c3f8705?source=rss------bug_bounty_writeup-5)
 - [#2 File Upload Attacks: A Comprehensive Guide](https://infosecwriteups.com/2-file-upload-attacks-a-comprehensive-guide-3308cd48e815?source=rss----7b722bfd1b8d---4)
 - [How to Find P1 Bugs using Google in your Target — &lpar;Part-1&rpar;](https://infosecwriteups.com/how-to-find-p1-bugs-using-google-in-your-target-part-1-e37455324dc1?source=rss----7b722bfd1b8d---4)
 - [How to Find P1 Bugs using Google in your Target — &lpar;Part-1&rpar;](https://infosecwriteups.com/how-to-find-p1-bugs-using-google-in-your-target-part-1-e37455324dc1?source=rss------bug_bounty_writeup-5)
@@ -940,7 +941,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Extending Free Trials with Just a Clock Change: A Subscription Bypass Story](https://medium.com/@abhisheksharma27082006/extending-free-trials-with-just-a-clock-change-a-subscription-bypass-story-515d8565cba9?source=rss------bug_bounty_writeup-5)
 - [Stored XSS via PDF Upload in Live chat⚠️](https://medium.com/@firdansp/stored-xss-via-pdf-upload-in-live-chat-%EF%B8%8F-ce792a6eff1d?source=rss------bug_bounty_writeup-5)
 - [De SQLi a RCE — Explotación real paso a paso en laboratorio](https://gorkaaa.medium.com/de-sqli-a-rce-explotaci%C3%B3n-real-paso-a-paso-en-laboratorio-76cc3d73116a?source=rss------bug_bounty_writeup-5)
-- [Privilege Escalation: Member Role Can Change Organization Name and Photo](https://medium.com/@HBlackGhost/privilege-escalation-member-role-can-change-organization-name-and-photo-702e00786a42?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
