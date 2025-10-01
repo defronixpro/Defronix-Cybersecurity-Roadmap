@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [⚡ Burp Suite como un pro: workflow real, sin perder el tiempo &lpar;estreno mañana&rpar;](https://gorkaaa.medium.com/burp-suite-como-un-pro-workflow-real-sin-perder-el-tiempo-estreno-ma%C3%B1ana-db2429b15954?source=rss------bug_bounty_writeup-5)
 - [Unverified Email Change Vulnerability Leading to Account Takeover](https://medium.com/@abhisheksharma27082006/unverified-email-change-vulnerability-leading-to-account-takeover-1bcd5b09f0e5?source=rss------bug_bounty_writeup-5)
 - [HTMLI → XSS → SSTI → RCE — Laboratorio práctico paso a paso](https://gorkaaa.medium.com/htmli-xss-ssti-rce-laboratorio-pr%C3%A1ctico-paso-a-paso-edd26e47ffdd?source=rss------bug_bounty_writeup-5)
 - [Bypass Password Confirmation on Change Email](https://medium.com/@karim.hikal1/bypass-password-confirmation-on-change-email-d0e69bf0e99c?source=rss------bug_bounty_writeup-5)
@@ -940,7 +941,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [SSRF on Steroids: How I Turned a PDF Generator Into a Cloud Data Firehose](https://infosecwriteups.com/ssrf-on-steroids-how-i-turned-a-pdf-generator-into-a-cloud-data-firehose-ea49e0f7a627?source=rss------bug_bounty_writeup-5)
 - [Escalating an HTML Injection into 1-Click Account Takeover](https://marxchryz.medium.com/escalating-an-html-injection-into-1-click-account-takeover-3ba9dbf0ce5f?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Diaries: How a Leaked appsettings.json Became a High-Impact Find](https://0xbasak.medium.com/bug-bounty-diaries-how-a-leaked-appsettings-json-became-a-high-impact-find-57c3e19e0a36?source=rss------bug_bounty_writeup-5)
-- [When “1+1” Became $650 —  Escaping a Sandbox in Groovy](https://0x1git.medium.com/groovy-sandbox-escape-reading-files-via-classloader-650-bounty-story-8183ef9a332c?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
