@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Unverified Email Change Vulnerability Leading to Account Takeover](https://medium.com/@abhisheksharma27082006/unverified-email-change-vulnerability-leading-to-account-takeover-1bcd5b09f0e5?source=rss------bug_bounty_writeup-5)
 - [HTMLI → XSS → SSTI → RCE — Laboratorio práctico paso a paso](https://gorkaaa.medium.com/htmli-xss-ssti-rce-laboratorio-pr%C3%A1ctico-paso-a-paso-edd26e47ffdd?source=rss------bug_bounty_writeup-5)
 - [Bypass Password Confirmation on Change Email](https://medium.com/@karim.hikal1/bypass-password-confirmation-on-change-email-d0e69bf0e99c?source=rss------bug_bounty_writeup-5)
 - [⌚All Xiaomi watches hacked &lpar;Cross Tenant IDOR&rpar;](https://infosecwriteups.com/all-xiaomi-watches-hacked-cross-tenant-idor-98b46c3f8705?source=rss------bug_bounty_writeup-5)
@@ -19,7 +20,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Escalating an HTML Injection into 1-Click Account Takeover](https://marxchryz.medium.com/escalating-an-html-injection-into-1-click-account-takeover-3ba9dbf0ce5f?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Diaries: How a Leaked appsettings.json Became a High-Impact Find](https://0xbasak.medium.com/bug-bounty-diaries-how-a-leaked-appsettings-json-became-a-high-impact-find-57c3e19e0a36?source=rss------bug_bounty_writeup-5)
 - [When “1+1” Became $650 —  Escaping a Sandbox in Groovy](https://0x1git.medium.com/groovy-sandbox-escape-reading-files-via-classloader-650-bounty-story-8183ef9a332c?source=rss------bug_bounty_writeup-5)
-- [Extending Free Trials with Just a Clock Change: A Subscription Bypass Story](https://medium.com/@abhisheksharma27082006/extending-free-trials-with-just-a-clock-change-a-subscription-bypass-story-515d8565cba9?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
