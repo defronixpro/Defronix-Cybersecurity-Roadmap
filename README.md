@@ -936,7 +936,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [[THM] Gallery — Writeup](https://infosecwriteups.com/thm-gallery-writeup-3a5d7d607646?source=rss----7b722bfd1b8d---4)
 - [19. Finding Open Redirects with Ease](https://infosecwriteups.com/19-finding-open-redirects-with-ease-0cc59a41702c?source=rss----7b722bfd1b8d---4)
 - [Linux Threat Detection 1](https://infosecwriteups.com/linux-threat-detection-1-51791ba290e4?source=rss----7b722bfd1b8d---4)
-- [SSRF on Steroids: How I Turned a PDF Generator Into a Cloud Data Firehose](https://medium.com/@iski/ssrf-on-steroids-how-i-turned-a-pdf-generator-into-a-cloud-data-firehose-ea49e0f7a627?source=rss------bug_bounty_writeup-5)
+- [SSRF on Steroids: How I Turned a PDF Generator Into a Cloud Data Firehose](https://infosecwriteups.com/ssrf-on-steroids-how-i-turned-a-pdf-generator-into-a-cloud-data-firehose-ea49e0f7a627?source=rss------bug_bounty_writeup-5)
 - [Escalating an HTML Injection into 1-Click Account Takeover](https://marxchryz.medium.com/escalating-an-html-injection-into-1-click-account-takeover-3ba9dbf0ce5f?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Diaries: How a Leaked appsettings.json Became a High-Impact Find](https://0xbasak.medium.com/bug-bounty-diaries-how-a-leaked-appsettings-json-became-a-high-impact-find-57c3e19e0a36?source=rss------bug_bounty_writeup-5)
 - [When “1+1” Became $650 —  Escaping a Sandbox in Groovy](https://0x1git.medium.com/groovy-sandbox-escape-reading-files-via-classloader-650-bounty-story-8183ef9a332c?source=rss------bug_bounty_writeup-5)
