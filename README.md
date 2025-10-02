@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [My first 5-Minute Bug Bounty](https://systemweakness.com/my-first-5-minute-bug-bounty-1465e2cb517c?source=rss------bug_bounty_writeup-5)
 - [Truth About Bug Bounties: Beyond The Overnight Success](https://infosecwriteups.com/truth-about-bug-bounties-beyond-the-overnight-success-b3c8c89be4d4?source=rss------bug_bounty_writeup-5)
 - [Endless Cashback Glitch:How I Unlocked Unlimited Free Orders with One Simple Trick](https://strangerwhite.medium.com/endless-cashback-glitch-how-i-unlocked-unlimited-free-orders-with-one-simple-trick-d150c5db0a92?source=rss------bug_bounty_writeup-5)
 - [Reflected XSS — Part 2](https://medium.com/@file_d0t_bug/reflected-xss-part-2-0a0b2cb0a314?source=rss------bug_bounty_writeup-5)
