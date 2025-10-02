@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [My first 5-Minute Bug Bounty](https://systemweakness.com/my-first-5-minute-bug-bounty-1465e2cb517c?source=rss------bug_bounty_writeup-5)
 - [Truth About Bug Bounties: Beyond The Overnight Success](https://infosecwriteups.com/truth-about-bug-bounties-beyond-the-overnight-success-b3c8c89be4d4?source=rss------bug_bounty_writeup-5)
 - [Endless Cashback Glitch:How I Unlocked Unlimited Free Orders with One Simple Trick](https://strangerwhite.medium.com/endless-cashback-glitch-how-i-unlocked-unlimited-free-orders-with-one-simple-trick-d150c5db0a92?source=rss------bug_bounty_writeup-5)
 - [Reflected XSS — Part 2](https://medium.com/@file_d0t_bug/reflected-xss-part-2-0a0b2cb0a314?source=rss------bug_bounty_writeup-5)
