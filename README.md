@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Endless Cashback Glitch:How I Unlocked Unlimited Free Orders with One Simple Trick](https://strangerwhite.medium.com/endless-cashback-glitch-how-i-unlocked-unlimited-free-orders-with-one-simple-trick-d150c5db0a92?source=rss------bug_bounty_writeup-5)
 - [Reflected XSS — Part 2](https://medium.com/@file_d0t_bug/reflected-xss-part-2-0a0b2cb0a314?source=rss------bug_bounty_writeup-5)
 - [⚡ Burp Suite como un pro: workflow real, sin perder el tiempo &lpar;estreno mañana&rpar;](https://gorkaaa.medium.com/burp-suite-como-un-pro-workflow-real-sin-perder-el-tiempo-estreno-ma%C3%B1ana-db2429b15954?source=rss------bug_bounty_writeup-5)
 - [Unverified Email Change Vulnerability Leading to Account Takeover](https://medium.com/@abhisheksharma27082006/unverified-email-change-vulnerability-leading-to-account-takeover-1bcd5b09f0e5?source=rss------bug_bounty_writeup-5)
@@ -940,7 +941,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [19. Finding Open Redirects with Ease](https://infosecwriteups.com/19-finding-open-redirects-with-ease-0cc59a41702c?source=rss----7b722bfd1b8d---4)
 - [Linux Threat Detection 1](https://infosecwriteups.com/linux-threat-detection-1-51791ba290e4?source=rss----7b722bfd1b8d---4)
 - [SSRF on Steroids: How I Turned a PDF Generator Into a Cloud Data Firehose](https://infosecwriteups.com/ssrf-on-steroids-how-i-turned-a-pdf-generator-into-a-cloud-data-firehose-ea49e0f7a627?source=rss------bug_bounty_writeup-5)
-- [Escalating an HTML Injection into 1-Click Account Takeover](https://marxchryz.medium.com/escalating-an-html-injection-into-1-click-account-takeover-3ba9dbf0ce5f?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
