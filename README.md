@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [⚡️ Burp Suite como un pro: workflow real y sin perder el tiempo](https://gorkaaa.medium.com/%EF%B8%8F-burp-suite-como-un-pro-workflow-real-y-sin-perder-el-tiempo-952bfb65446a?source=rss------bug_bounty_writeup-5)
 - [My first 5-Minute Bug Bounty](https://systemweakness.com/my-first-5-minute-bug-bounty-1465e2cb517c?source=rss------bug_bounty_writeup-5)
 - [Truth About Bug Bounties: Beyond The Overnight Success](https://infosecwriteups.com/truth-about-bug-bounties-beyond-the-overnight-success-b3c8c89be4d4?source=rss------bug_bounty_writeup-5)
 - [Endless Cashback Glitch:How I Unlocked Unlimited Free Orders with One Simple Trick](https://strangerwhite.medium.com/endless-cashback-glitch-how-i-unlocked-unlimited-free-orders-with-one-simple-trick-d150c5db0a92?source=rss------bug_bounty_writeup-5)
@@ -933,7 +934,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [⌚All Xiaomi watches hacked &lpar;Cross Tenant IDOR&rpar;](https://infosecwriteups.com/all-xiaomi-watches-hacked-cross-tenant-idor-98b46c3f8705?source=rss------bug_bounty_writeup-5)
 - [#2 File Upload Attacks: A Comprehensive Guide](https://infosecwriteups.com/2-file-upload-attacks-a-comprehensive-guide-3308cd48e815?source=rss----7b722bfd1b8d---4)
 - [How to Find P1 Bugs using Google in your Target — &lpar;Part-1&rpar;](https://infosecwriteups.com/how-to-find-p1-bugs-using-google-in-your-target-part-1-e37455324dc1?source=rss----7b722bfd1b8d---4)
-- [How to Find P1 Bugs using Google in your Target — &lpar;Part-1&rpar;](https://infosecwriteups.com/how-to-find-p1-bugs-using-google-in-your-target-part-1-e37455324dc1?source=rss------bug_bounty_writeup-5)
 - [The Postmark-MCP NPM Incident: What Happened, Why It Matters, and How to Hunt It Down](https://infosecwriteups.com/the-postmark-mcp-npm-incident-what-happened-why-it-matters-and-how-to-hunt-it-down-37431757472f?source=rss----7b722bfd1b8d---4)
 - [Brains —  TryHackMe Walkthrough](https://infosecwriteups.com/brains-tryhackme-walkthrough-8be300aa8d87?source=rss----7b722bfd1b8d---4)
 - [OSCP Exam Secrets — Avoiding Rabbit Holes and Staying on Track &lpar;Part 2&rpar;](https://infosecwriteups.com/oscp-exam-secrets-avoiding-rabbit-holes-and-staying-on-track-part-2-c5192aee6ae7?source=rss----7b722bfd1b8d---4)
@@ -946,17 +946,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
 - [How to backup and restore the Windows Registry](https://www.bleepingcomputer.com/tutorials/how-to-backup-and-restore-the-windows-registry/)
-- [How To Fix Error: Externally-Managed-Environment In Python &lpar;Kali Linux&rpar;](https://technicalnavigator.in/how-to-fix-error-externally-managed-environment-in-python-kali-linux/)
-- [Understanding Systemctl Command in Linux &lpar;Practical&rpar;](https://technicalnavigator.in/understanding-systemctl-command-in-linux-practical/)
-- [Macros in docm &amp; Linux memory dump| Hack The Boo  Challanges](https://technicalnavigator.in/macros-in-docm-linux-memory-dump-hack-the-boo-challanges/)
-- [Android Apps debugging |  Frida, JADX, Genymotion](https://technicalnavigator.in/android-apps-debugging-frida-jadx-genymotion/)
-- [MouseServer | wifimouse – Windows/ Linux](https://technicalnavigator.in/mouseserver-wifimouse-windows-linux/)
-- [FFUF fuzzer | web-application penetration-testing](https://technicalnavigator.in/ffuf-fuzzer-web-application-penetration-testing/)
 - [How to open a Windows 11 Command Prompt as Administrator](https://www.bleepingcomputer.com/tutorials/how-to-open-a-windows-11-command-prompt-as-administrator/)
-- [Classes-Objects &amp; Deserialization bug](https://technicalnavigator.in/classes-objects-deserialization-bug/)
-- [Loki Tool | Multhreading Over Sockets in C](https://technicalnavigator.in/loki-tool-multhreading-over-sockets-in-c/)
-- [Egghunter | NASM | C prototype](https://technicalnavigator.in/egghunter-nasm-c-prototype/)
-- [TELNET &amp; FTP Analysis](https://technicalnavigator.in/telnet-ftp-analysis/)
 - [How to make the Start menu full screen in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-make-the-start-menu-full-screen-in-windows-10/)
 - [How to install the Microsoft Visual C++ 2015 Runtime](https://www.bleepingcomputer.com/tutorials/how-to-install-the-microsoft-visual-c-2015-runtime/)
 - [How to open an elevated PowerShell Admin prompt in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-open-an-elevated-powershell-admin-prompt-in-windows-10/)
