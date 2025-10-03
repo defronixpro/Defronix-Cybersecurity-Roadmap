@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [A New Home for Free Learning: Introducing Live.dinesh049.shop](https://teamdh49.medium.com/a-new-home-for-free-learning-introducing-live-dinesh049-shop-78a3c4c43837?source=rss------bug_bounty_writeup-5)
 - [⚡️ Burp Suite como un pro: workflow real y sin perder el tiempo](https://gorkaaa.medium.com/%EF%B8%8F-burp-suite-como-un-pro-workflow-real-y-sin-perder-el-tiempo-952bfb65446a?source=rss------bug_bounty_writeup-5)
 - [My first 5-Minute Bug Bounty](https://systemweakness.com/my-first-5-minute-bug-bounty-1465e2cb517c?source=rss------bug_bounty_writeup-5)
 - [Truth About Bug Bounties: Beyond The Overnight Success](https://infosecwriteups.com/truth-about-bug-bounties-beyond-the-overnight-success-b3c8c89be4d4?source=rss------bug_bounty_writeup-5)
@@ -10,7 +11,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Unverified Email Change Vulnerability Leading to Account Takeover](https://medium.com/@abhisheksharma27082006/unverified-email-change-vulnerability-leading-to-account-takeover-1bcd5b09f0e5?source=rss------bug_bounty_writeup-5)
 - [HTMLI → XSS → SSTI → RCE — Laboratorio práctico paso a paso](https://gorkaaa.medium.com/htmli-xss-ssti-rce-laboratorio-pr%C3%A1ctico-paso-a-paso-edd26e47ffdd?source=rss------bug_bounty_writeup-5)
 - [Bypass Password Confirmation on Change Email](https://medium.com/@karim.hikal1/bypass-password-confirmation-on-change-email-d0e69bf0e99c?source=rss------bug_bounty_writeup-5)
-- [⌚All Xiaomi watches hacked &lpar;Cross Tenant IDOR&rpar;](https://infosecwriteups.com/all-xiaomi-watches-hacked-cross-tenant-idor-98b46c3f8705?source=rss------bug_bounty_writeup-5)
 - [#2 File Upload Attacks: A Comprehensive Guide](https://infosecwriteups.com/2-file-upload-attacks-a-comprehensive-guide-3308cd48e815?source=rss----7b722bfd1b8d---4)
 - [How to Find P1 Bugs using Google in your Target — &lpar;Part-1&rpar;](https://infosecwriteups.com/how-to-find-p1-bugs-using-google-in-your-target-part-1-e37455324dc1?source=rss----7b722bfd1b8d---4)
 - [The Postmark-MCP NPM Incident: What Happened, Why It Matters, and How to Hunt It Down](https://infosecwriteups.com/the-postmark-mcp-npm-incident-what-happened-why-it-matters-and-how-to-hunt-it-down-37431757472f?source=rss----7b722bfd1b8d---4)
