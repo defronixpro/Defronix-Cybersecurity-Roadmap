@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Improper HTML in Chat Leads to Phishing Attacks](https://medium.com/@firdansp/improper-html-in-chat-leads-to-phishing-attacks-b931ac3e8a4c?source=rss------bug_bounty_writeup-5)
 - [Business Logic Error: Membeli Kredit di Bawah Minimum Checkout](https://medium.com/@robisubagja158/business-logic-error-membeli-kredit-di-bawah-minimum-checkout-54f5a7a8709e?source=rss------bug_bounty_writeup-5)
 - [Stealing JWT Tokens via OAuth redirect_uri Manipulation: A Critical Vulnerability](https://infosecwriteups.com/stealing-jwt-tokens-via-oauth-redirect-uri-manipulation-a-critical-vulnerability-abbd579b5443?source=rss------bug_bounty_writeup-5)
 - [A New Home for Free Learning: Introducing Live.dinesh049.shop](https://teamdh49.medium.com/a-new-home-for-free-learning-introducing-live-dinesh049-shop-78a3c4c43837?source=rss------bug_bounty_writeup-5)
@@ -10,7 +11,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Endless Cashback Glitch:How I Unlocked Unlimited Free Orders with One Simple Trick](https://strangerwhite.medium.com/endless-cashback-glitch-how-i-unlocked-unlimited-free-orders-with-one-simple-trick-d150c5db0a92?source=rss------bug_bounty_writeup-5)
 - [Reflected XSS — Part 2](https://medium.com/@file_d0t_bug/reflected-xss-part-2-0a0b2cb0a314?source=rss------bug_bounty_writeup-5)
 - [⚡ Burp Suite como un pro: workflow real, sin perder el tiempo &lpar;estreno mañana&rpar;](https://gorkaaa.medium.com/burp-suite-como-un-pro-workflow-real-sin-perder-el-tiempo-estreno-ma%C3%B1ana-db2429b15954?source=rss------bug_bounty_writeup-5)
-- [Unverified Email Change Vulnerability Leading to Account Takeover](https://medium.com/@abhisheksharma27082006/unverified-email-change-vulnerability-leading-to-account-takeover-1bcd5b09f0e5?source=rss------bug_bounty_writeup-5)
 - [#2 File Upload Attacks: A Comprehensive Guide](https://infosecwriteups.com/2-file-upload-attacks-a-comprehensive-guide-3308cd48e815?source=rss----7b722bfd1b8d---4)
 - [How to Find P1 Bugs using Google in your Target — &lpar;Part-1&rpar;](https://infosecwriteups.com/how-to-find-p1-bugs-using-google-in-your-target-part-1-e37455324dc1?source=rss----7b722bfd1b8d---4)
 - [The Postmark-MCP NPM Incident: What Happened, Why It Matters, and How to Hunt It Down](https://infosecwriteups.com/the-postmark-mcp-npm-incident-what-happened-why-it-matters-and-how-to-hunt-it-down-37431757472f?source=rss----7b722bfd1b8d---4)
