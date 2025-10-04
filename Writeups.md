@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Cache Crash: How I Poisoned CDN Responses and Became Every User Simultaneously](https://infosecwriteups.com/cache-crash-how-i-poisoned-cdn-responses-and-became-every-user-simultaneously-6261a2e966b4?source=rss----7b722bfd1b8d---4)
 - [Improper HTML in Chat Leads to Phishing Attacks](https://medium.com/@firdansp/improper-html-in-chat-leads-to-phishing-attacks-b931ac3e8a4c?source=rss------bug_bounty_writeup-5)
 - [Business Logic Error: Membeli Kredit di Bawah Minimum Checkout](https://medium.com/@robisubagja158/business-logic-error-membeli-kredit-di-bawah-minimum-checkout-54f5a7a8709e?source=rss------bug_bounty_writeup-5)
 - [Stealing JWT Tokens via OAuth redirect_uri Manipulation: A Critical Vulnerability](https://infosecwriteups.com/stealing-jwt-tokens-via-oauth-redirect-uri-manipulation-a-critical-vulnerability-abbd579b5443?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Generative AI for Hackers: Building Tools for Red Teaming](https://infosecwriteups.com/generative-ai-for-hackers-building-tools-for-red-teaming-de38b9b804a3?source=rss----7b722bfd1b8d---4)
 - [[THM] Gallery — Writeup](https://infosecwriteups.com/thm-gallery-writeup-3a5d7d607646?source=rss----7b722bfd1b8d---4)
 - [19. Finding Open Redirects with Ease](https://infosecwriteups.com/19-finding-open-redirects-with-ease-0cc59a41702c?source=rss----7b722bfd1b8d---4)
-- [Linux Threat Detection 1](https://infosecwriteups.com/linux-threat-detection-1-51791ba290e4?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
