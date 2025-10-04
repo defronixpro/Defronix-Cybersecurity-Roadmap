@@ -1,6 +1,9 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Stealing JWT Tokens via OAuth redirect_uri Manipulation: A Critical Vulnerability](https://infosecwriteups.com/stealing-jwt-tokens-via-oauth-redirect-uri-manipulation-a-critical-vulnerability-abbd579b5443?source=rss----7b722bfd1b8d---4)
+- [Explore](https://infosecwriteups.com/explore-fc087c281155?source=rss----7b722bfd1b8d---4)
+- [Devvortex](https://infosecwriteups.com/devvortex-08b1821005e5?source=rss----7b722bfd1b8d---4)
 - [CORS Misadventures: How Misconfigured Origins Turned Me Into an Accidental Admin](https://infosecwriteups.com/cors-misadventures-how-misconfigured-origins-turned-me-into-an-accidental-admin-2107aa1768d6?source=rss----7b722bfd1b8d---4)
 - [How I Bypassed Random Medical Center Assignment During Appointment Booking](https://infosecwriteups.com/how-i-bypassed-random-medical-center-assignment-during-appointment-booking-16daaf7b7a6d?source=rss----7b722bfd1b8d---4)
 - [Errors to API Exposure](https://infosecwriteups.com/errors-to-api-exposure-cbcf2b73946e?source=rss----7b722bfd1b8d---4)
@@ -18,9 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Reflected XSS — Part 2](https://medium.com/@file_d0t_bug/reflected-xss-part-2-0a0b2cb0a314?source=rss------bug_bounty_writeup-5)
 - [⚡ Burp Suite como un pro: workflow real, sin perder el tiempo &lpar;estreno mañana&rpar;](https://gorkaaa.medium.com/burp-suite-como-un-pro-workflow-real-sin-perder-el-tiempo-estreno-ma%C3%B1ana-db2429b15954?source=rss------bug_bounty_writeup-5)
 - [#2 File Upload Attacks: A Comprehensive Guide](https://infosecwriteups.com/2-file-upload-attacks-a-comprehensive-guide-3308cd48e815?source=rss----7b722bfd1b8d---4)
-- [How to Find P1 Bugs using Google in your Target — &lpar;Part-1&rpar;](https://infosecwriteups.com/how-to-find-p1-bugs-using-google-in-your-target-part-1-e37455324dc1?source=rss----7b722bfd1b8d---4)
-- [The Postmark-MCP NPM Incident: What Happened, Why It Matters, and How to Hunt It Down](https://infosecwriteups.com/the-postmark-mcp-npm-incident-what-happened-why-it-matters-and-how-to-hunt-it-down-37431757472f?source=rss----7b722bfd1b8d---4)
-- [Brains —  TryHackMe Walkthrough](https://infosecwriteups.com/brains-tryhackme-walkthrough-8be300aa8d87?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
