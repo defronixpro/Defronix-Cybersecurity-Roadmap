@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Mastering Blind XSS: A Comprehensive Guide to Finding and Exploiting This Hidden Vulnerability](https://osintteam.blog/mastering-blind-xss-a-comprehensive-guide-to-finding-and-exploiting-this-hidden-vulnerability-c4538397e782?source=rss------bug_bounty_writeup-5)
 - [Expressway — HackTheBox walkthough](https://infosecwriteups.com/expressway-hackthebox-walkthough-d523a3a24c68?source=rss----7b722bfd1b8d---4)
 - [Red Stone One Carat — TryHackMe Challenge Write-up](https://infosecwriteups.com/red-stone-one-carat-tryhackme-challenge-write-up-2bf6d920b0c6?source=rss----7b722bfd1b8d---4)
 - [TryHackMe Infinity Shell Walkthrough: Web Shell Forensics &amp; CTF Guide](https://infosecwriteups.com/tryhackme-infinity-shell-walkthrough-web-shell-forensics-ctf-guide-1230f5b1aa56?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Truth About Bug Bounties: Beyond The Overnight Success](https://osintteam.blog/truth-about-bug-bounties-beyond-the-overnight-success-b3c8c89be4d4?source=rss------bug_bounty_writeup-5)
 - [Endless Cashback Glitch:How I Unlocked Unlimited Free Orders with One Simple Trick](https://strangerwhite.medium.com/endless-cashback-glitch-how-i-unlocked-unlimited-free-orders-with-one-simple-trick-d150c5db0a92?source=rss------bug_bounty_writeup-5)
 - [Reflected XSS — Part 2](https://medium.com/@file_d0t_bug/reflected-xss-part-2-0a0b2cb0a314?source=rss------bug_bounty_writeup-5)
-- [⚡ Burp Suite como un pro: workflow real, sin perder el tiempo &lpar;estreno mañana&rpar;](https://gorkaaa.medium.com/burp-suite-como-un-pro-workflow-real-sin-perder-el-tiempo-estreno-ma%C3%B1ana-db2429b15954?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
