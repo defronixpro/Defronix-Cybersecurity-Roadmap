@@ -1,16 +1,16 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Expressway — HackTheBox walkthough](https://infosecwriteups.com/expressway-hackthebox-walkthough-d523a3a24c68?source=rss----7b722bfd1b8d---4)
+- [Red Stone One Carat — TryHackMe Challenge Write-up](https://infosecwriteups.com/red-stone-one-carat-tryhackme-challenge-write-up-2bf6d920b0c6?source=rss----7b722bfd1b8d---4)
+- [TryHackMe Infinity Shell Walkthrough: Web Shell Forensics &amp; CTF Guide](https://infosecwriteups.com/tryhackme-infinity-shell-walkthrough-web-shell-forensics-ctf-guide-1230f5b1aa56?source=rss----7b722bfd1b8d---4)
+- [How To Attack Admin Panels Successfully Part 2](https://infosecwriteups.com/how-to-attack-admin-panels-successfully-part-2-9316c3caad3a?source=rss----7b722bfd1b8d---4)
 - [XDR: Operation Global Dagger 2](https://infosecwriteups.com/xdr-operation-global-dagger-2-65ba900bc51f?source=rss----7b722bfd1b8d---4)
 - [How Blind XSS Payloads Earned Me $10,000+ in Bug Bounties](https://infosecwriteups.com/how-blind-xss-payloads-earned-me-10-000-in-bug-bounties-70789f3940f9?source=rss----7b722bfd1b8d---4)
 - [I Failed My First Ethical Hacking Interview — Here’s What I Learned](https://infosecwriteups.com/i-failed-my-first-ethical-hacking-interview-heres-what-i-learned-aea3de6d7318?source=rss----7b722bfd1b8d---4)
 - [REQUIRED vs REQUIRES_NEW in Spring Boot: Transaction Propagation Demystified](https://infosecwriteups.com/required-vs-requires-new-in-spring-boot-transaction-propagation-demystified-032fe9c47793?source=rss----7b722bfd1b8d---4)
 - [Buffer overflow | stack overflow binary exploitation guide | pentestgarage ADcCD labs…](https://infosecwriteups.com/buffer-overflow-stack-overflow-binary-exploitation-guide-pentestgarage-adccd-labs-9c2b5433ebc3?source=rss----7b722bfd1b8d---4)
 - [Stealing JWT Tokens via OAuth redirect_uri Manipulation: A Critical Vulnerability](https://infosecwriteups.com/stealing-jwt-tokens-via-oauth-redirect-uri-manipulation-a-critical-vulnerability-abbd579b5443?source=rss----7b722bfd1b8d---4)
-- [Explore](https://infosecwriteups.com/explore-fc087c281155?source=rss----7b722bfd1b8d---4)
-- [Devvortex](https://infosecwriteups.com/devvortex-08b1821005e5?source=rss----7b722bfd1b8d---4)
-- [CORS Misadventures: How Misconfigured Origins Turned Me Into an Accidental Admin](https://infosecwriteups.com/cors-misadventures-how-misconfigured-origins-turned-me-into-an-accidental-admin-2107aa1768d6?source=rss----7b722bfd1b8d---4)
-- [How I Bypassed Random Medical Center Assignment During Appointment Booking](https://infosecwriteups.com/how-i-bypassed-random-medical-center-assignment-during-appointment-booking-16daaf7b7a6d?source=rss----7b722bfd1b8d---4)
 - [Improper HTML in Chat Leads to Phishing Attacks](https://medium.com/@firdansp/improper-html-in-chat-leads-to-phishing-attacks-b931ac3e8a4c?source=rss------bug_bounty_writeup-5)
 - [Business Logic Error: Membeli Kredit di Bawah Minimum Checkout](https://medium.com/@robisubagja158/business-logic-error-membeli-kredit-di-bawah-minimum-checkout-54f5a7a8709e?source=rss------bug_bounty_writeup-5)
 - [Stealing JWT Tokens via OAuth redirect_uri Manipulation: A Critical Vulnerability](https://infosecwriteups.com/stealing-jwt-tokens-via-oauth-redirect-uri-manipulation-a-critical-vulnerability-abbd579b5443?source=rss------bug_bounty_writeup-5)
