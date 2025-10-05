@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [6 Platforms Every Bug Bounty Hunter Should Know.](https://infosecwriteups.com/6-platforms-every-bug-bounty-hunter-should-know-d401b8485009?source=rss------bug_bounty_writeup-5)
 - [Episode 1: The Validation Mirage — How I Found a Premium Account Bug Without Paying a Penny](https://osintteam.blog/episode-1-the-validation-mirage-how-i-found-a-premium-account-bug-without-paying-a-penny-b5520da54f1a?source=rss------bug_bounty_writeup-5)
 - [Excel 2025 CTF | Anonymous &lpar;Miscellaneous&rpar; challenge Writeup](https://infosecwriteups.com/excel-2025-ctf-anonymous-miscellaneous-challenge-writeup-65f0fa92ffec?source=rss----7b722bfd1b8d---4)
 - [Mastering Google Dorking: Discovering Website Vulnerabilities](https://infosecwriteups.com/mastering-google-dorking-discovering-website-vulnerabilities-0f5720ce45ae?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Stealing JWT Tokens via OAuth redirect_uri Manipulation: A Critical Vulnerability](https://infosecwriteups.com/stealing-jwt-tokens-via-oauth-redirect-uri-manipulation-a-critical-vulnerability-abbd579b5443?source=rss------bug_bounty_writeup-5)
 - [A New Home for Free Learning: Introducing Live.dinesh049.shop](https://teamdh49.medium.com/a-new-home-for-free-learning-introducing-live-dinesh049-shop-78a3c4c43837?source=rss------bug_bounty_writeup-5)
 - [⚡️ Burp Suite como un pro: workflow real y sin perder el tiempo](https://gorkaaa.medium.com/%EF%B8%8F-burp-suite-como-un-pro-workflow-real-y-sin-perder-el-tiempo-952bfb65446a?source=rss------bug_bounty_writeup-5)
-- [My first 5-Minute Bug Bounty](https://systemweakness.com/my-first-5-minute-bug-bounty-1465e2cb517c?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
