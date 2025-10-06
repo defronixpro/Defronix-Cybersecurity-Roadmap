@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Complete Account Takeover using browser Autofill feature due to DOM based javascript execution](https://medium.com/@Cyber78678/complete-account-takeover-using-browser-autofill-feature-due-to-dom-based-javascript-execution-d01ef203a358?source=rss------bug_bounty_writeup-5)
 - [Actuator Unleashed: A Guide to Finding and Exploiting Spring Boot Actuator Endpoints](https://infosecwriteups.com/actuator-unleashed-a-guide-to-finding-and-exploiting-spring-boot-actuator-endpoints-29252dcd9d79?source=rss----7b722bfd1b8d---4)
 - [My First Bug Hunt: How I Found a P5 Vulnerability](https://medium.com/@jyothismohan17/my-first-bug-hunt-how-i-found-a-p5-vulnerability-a4cddfe2af84?source=rss------bug_bounty_writeup-5)
 - [Authentication Bypass: Mis-scoped SAML Sessions Enable User Impersonation](https://0xoverlord.medium.com/authentication-bypass-mis-scoped-saml-sessions-enable-user-impersonation-fd73ce7fbea0?source=rss------bug_bounty_writeup-5)
@@ -19,7 +20,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Forgot password link doesn’t expire after used.](https://medium.com/@edahmed008/forgot-password-link-doesnt-expire-after-used-e55f0c5fe96f?source=rss------bug_bounty_writeup-5)
 - [Mastering Blind XSS: A Comprehensive Guide to Finding and Exploiting This Hidden Vulnerability](https://osintteam.blog/mastering-blind-xss-a-comprehensive-guide-to-finding-and-exploiting-this-hidden-vulnerability-c4538397e782?source=rss------bug_bounty_writeup-5)
 - [Improper HTML in Chat Leads to Phishing Attacks](https://medium.com/@firdansp/improper-html-in-chat-leads-to-phishing-attacks-b931ac3e8a4c?source=rss------bug_bounty_writeup-5)
-- [Business Logic Error: Membeli Kredit di Bawah Minimum Checkout](https://medium.com/@robisubagja158/business-logic-error-membeli-kredit-di-bawah-minimum-checkout-54f5a7a8709e?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
