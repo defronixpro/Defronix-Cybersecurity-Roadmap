@@ -8,7 +8,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [OSINT: Google Dorking Hacks: The X-Ray Vision for Google Search](https://infosecwriteups.com/osint-google-dorking-hacks-the-x-ray-vision-for-google-search-8c6cd8335ff2?source=rss----7b722bfd1b8d---4)
 - [Net Sec Challenge — TryHackMe Walkthrough](https://infosecwriteups.com/net-sec-challenge-tryhackme-walkthrough-e553bda3c5a5?source=rss----7b722bfd1b8d---4)
 - [New Data Exfiltration Technique Using Brave Sync](https://infosecwriteups.com/new-data-exfiltration-technique-using-brave-sync-3fe5313c5e59?source=rss----7b722bfd1b8d---4)
-- [6 Platforms Every Bug Bounty Hunter Should Know.](https://osintteam.blog/6-platforms-every-bug-bounty-hunter-should-know-d401b8485009?source=rss------bug_bounty_writeup-5)
+- [Bug Bounty 101: The 6 Platforms You Must Know](https://osintteam.blog/6-platforms-every-bug-bounty-hunter-should-know-d401b8485009?source=rss------bug_bounty_writeup-5)
 - [Episode 1: The Validation Mirage — How I Found a Premium Account Bug Without Paying a Penny](https://osintteam.blog/episode-1-the-validation-mirage-how-i-found-a-premium-account-bug-without-paying-a-penny-b5520da54f1a?source=rss------bug_bounty_writeup-5)
 - [Excel 2025 CTF | Anonymous &lpar;Miscellaneous&rpar; challenge Writeup](https://infosecwriteups.com/excel-2025-ctf-anonymous-miscellaneous-challenge-writeup-65f0fa92ffec?source=rss----7b722bfd1b8d---4)
 - [Mastering Google Dorking: Discovering Website Vulnerabilities](https://infosecwriteups.com/mastering-google-dorking-discovering-website-vulnerabilities-0f5720ce45ae?source=rss----7b722bfd1b8d---4)
