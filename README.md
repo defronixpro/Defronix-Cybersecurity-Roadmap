@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [My First Bug Hunt: How I Found a P5 Vulnerability](https://medium.com/@jyothismohan17/my-first-bug-hunt-how-i-found-a-p5-vulnerability-a4cddfe2af84?source=rss------bug_bounty_writeup-5)
+- [Authentication Bypass: Mis-scoped SAML Sessions Enable User Impersonation](https://0xoverlord.medium.com/authentication-bypass-mis-scoped-saml-sessions-enable-user-impersonation-fd73ce7fbea0?source=rss------bug_bounty_writeup-5)
 - [Baby](https://infosecwriteups.com/baby-dfc2547dc387?source=rss----7b722bfd1b8d---4)
 - [Breaking Into HackTheBox: My Journey from Script Kiddie to Root](https://infosecwriteups.com/breaking-into-hackthebox-my-journey-from-script-kiddie-to-root-d1cb5baeb758?source=rss----7b722bfd1b8d---4)
 - [SQHell: Manually hunting SQL injection with detailed explanation](https://infosecwriteups.com/sqhell-manually-hunting-sql-injection-with-detailed-explanation-8fd24360c65e?source=rss----7b722bfd1b8d---4)
@@ -939,8 +941,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Mastering Blind XSS: A Comprehensive Guide to Finding and Exploiting This Hidden Vulnerability](https://osintteam.blog/mastering-blind-xss-a-comprehensive-guide-to-finding-and-exploiting-this-hidden-vulnerability-c4538397e782?source=rss------bug_bounty_writeup-5)
 - [Improper HTML in Chat Leads to Phishing Attacks](https://medium.com/@firdansp/improper-html-in-chat-leads-to-phishing-attacks-b931ac3e8a4c?source=rss------bug_bounty_writeup-5)
 - [Business Logic Error: Membeli Kredit di Bawah Minimum Checkout](https://medium.com/@robisubagja158/business-logic-error-membeli-kredit-di-bawah-minimum-checkout-54f5a7a8709e?source=rss------bug_bounty_writeup-5)
-- [Stealing JWT Tokens via OAuth redirect_uri Manipulation: A Critical Vulnerability](https://infosecwriteups.com/stealing-jwt-tokens-via-oauth-redirect-uri-manipulation-a-critical-vulnerability-abbd579b5443?source=rss------bug_bounty_writeup-5)
-- [A New Home for Free Learning: Introducing Live.dinesh049.shop](https://teamdh49.medium.com/a-new-home-for-free-learning-introducing-live-dinesh049-shop-78a3c4c43837?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
