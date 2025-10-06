@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [New Data Exfiltration Technique Using Brave Sync](https://infosecwriteups.com/new-data-exfiltration-technique-using-brave-sync-3fe5313c5e59?source=rss----7b722bfd1b8d---4)
 - [6 Platforms Every Bug Bounty Hunter Should Know.](https://osintteam.blog/6-platforms-every-bug-bounty-hunter-should-know-d401b8485009?source=rss------bug_bounty_writeup-5)
 - [Episode 1: The Validation Mirage — How I Found a Premium Account Bug Without Paying a Penny](https://osintteam.blog/episode-1-the-validation-mirage-how-i-found-a-premium-account-bug-without-paying-a-penny-b5520da54f1a?source=rss------bug_bounty_writeup-5)
 - [Excel 2025 CTF | Anonymous &lpar;Miscellaneous&rpar; challenge Writeup](https://infosecwriteups.com/excel-2025-ctf-anonymous-miscellaneous-challenge-writeup-65f0fa92ffec?source=rss----7b722bfd1b8d---4)
@@ -15,7 +16,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Expressway — HackTheBox walkthough](https://infosecwriteups.com/expressway-hackthebox-walkthough-d523a3a24c68?source=rss----7b722bfd1b8d---4)
 - [Red Stone One Carat — TryHackMe Challenge Write-up](https://infosecwriteups.com/red-stone-one-carat-tryhackme-challenge-write-up-2bf6d920b0c6?source=rss----7b722bfd1b8d---4)
 - [TryHackMe Infinity Shell Walkthrough: Web Shell Forensics &amp; CTF Guide](https://infosecwriteups.com/tryhackme-infinity-shell-walkthrough-web-shell-forensics-ctf-guide-1230f5b1aa56?source=rss----7b722bfd1b8d---4)
-- [How To Attack Admin Panels Successfully Part 2](https://infosecwriteups.com/how-to-attack-admin-panels-successfully-part-2-9316c3caad3a?source=rss----7b722bfd1b8d---4)
 - [Improper HTML in Chat Leads to Phishing Attacks](https://medium.com/@firdansp/improper-html-in-chat-leads-to-phishing-attacks-b931ac3e8a4c?source=rss------bug_bounty_writeup-5)
 - [Business Logic Error: Membeli Kredit di Bawah Minimum Checkout](https://medium.com/@robisubagja158/business-logic-error-membeli-kredit-di-bawah-minimum-checkout-54f5a7a8709e?source=rss------bug_bounty_writeup-5)
 - [Stealing JWT Tokens via OAuth redirect_uri Manipulation: A Critical Vulnerability](https://infosecwriteups.com/stealing-jwt-tokens-via-oauth-redirect-uri-manipulation-a-critical-vulnerability-abbd579b5443?source=rss------bug_bounty_writeup-5)
