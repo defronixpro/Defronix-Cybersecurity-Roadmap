@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Actuator Unleashed: A Guide to Finding and Exploiting Spring Boot Actuator Endpoints](https://infosecwriteups.com/actuator-unleashed-a-guide-to-finding-and-exploiting-spring-boot-actuator-endpoints-29252dcd9d79?source=rss----7b722bfd1b8d---4)
 - [My First Bug Hunt: How I Found a P5 Vulnerability](https://medium.com/@jyothismohan17/my-first-bug-hunt-how-i-found-a-p5-vulnerability-a4cddfe2af84?source=rss------bug_bounty_writeup-5)
 - [Authentication Bypass: Mis-scoped SAML Sessions Enable User Impersonation](https://0xoverlord.medium.com/authentication-bypass-mis-scoped-saml-sessions-enable-user-impersonation-fd73ce7fbea0?source=rss------bug_bounty_writeup-5)
 - [Baby](https://infosecwriteups.com/baby-dfc2547dc387?source=rss----7b722bfd1b8d---4)
@@ -15,7 +16,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Excel 2025 CTF | Anonymous &lpar;Miscellaneous&rpar; challenge Writeup](https://infosecwriteups.com/excel-2025-ctf-anonymous-miscellaneous-challenge-writeup-65f0fa92ffec?source=rss----7b722bfd1b8d---4)
 - [Mastering Google Dorking: Discovering Website Vulnerabilities](https://infosecwriteups.com/mastering-google-dorking-discovering-website-vulnerabilities-0f5720ce45ae?source=rss----7b722bfd1b8d---4)
 - [Mastering Google Dorking: Discovering Website Vulnerabilities](https://infosecwriteups.com/mastering-google-dorking-discovering-website-vulnerabilities-0f5720ce45ae?source=rss------bug_bounty_writeup-5)
-- [Secrets Hackers Don’t Tell: Recon Techniques That Actually Pay](https://infosecwriteups.com/secrets-hackers-dont-tell-recon-techniques-that-actually-pay-dc1940363187?source=rss----7b722bfd1b8d---4)
 - [Forgot password link doesn’t expire after used.](https://medium.com/@edahmed008/forgot-password-link-doesnt-expire-after-used-e55f0c5fe96f?source=rss------bug_bounty_writeup-5)
 - [Mastering Blind XSS: A Comprehensive Guide to Finding and Exploiting This Hidden Vulnerability](https://osintteam.blog/mastering-blind-xss-a-comprehensive-guide-to-finding-and-exploiting-this-hidden-vulnerability-c4538397e782?source=rss------bug_bounty_writeup-5)
 - [Improper HTML in Chat Leads to Phishing Attacks](https://medium.com/@firdansp/improper-html-in-chat-leads-to-phishing-attacks-b931ac3e8a4c?source=rss------bug_bounty_writeup-5)
