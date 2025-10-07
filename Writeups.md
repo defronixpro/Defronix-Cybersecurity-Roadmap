@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How to Repair Outlook PST File without ScanPST.exe?](https://infosecwriteups.com/how-to-repair-outlook-pst-file-without-scanpst-exe-66ca1993f179?source=rss----7b722bfd1b8d---4)
 - [When a Callback Form Became an Open Door — a short story about a hospital workflow gone wrong](https://infosecwriteups.com/when-a-callback-form-became-an-open-door-a-short-story-about-a-hospital-workflow-gone-wrong-50052deeb0c3?source=rss------bug_bounty_writeup-5)
 - [Hidden API Endpoints: The Hacker’s Secret Weapon](https://infosecwriteups.com/hidden-api-endpoints-the-hackers-secret-weapon-a9ee297a29c2?source=rss----7b722bfd1b8d---4)
 - [Adversary TTP Simulation Lab](https://infosecwriteups.com/adversary-emulation-and-threat-detection-cybersecurity-homelab-f1a02fbc2567?source=rss----7b722bfd1b8d---4)
@@ -16,7 +17,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [SQHell: Manually hunting SQL injection with detailed explanation](https://infosecwriteups.com/sqhell-manually-hunting-sql-injection-with-detailed-explanation-8fd24360c65e?source=rss----7b722bfd1b8d---4)
 - [Week 12— Async API Calls: fetch, Axios, and Promises](https://infosecwriteups.com/week-12-async-api-calls-fetch-axios-and-promises-f8da63c5d91c?source=rss----7b722bfd1b8d---4)
 - [OSINT: Google Dorking Hacks: The X-Ray Vision for Google Search](https://infosecwriteups.com/osint-google-dorking-hacks-the-x-ray-vision-for-google-search-8c6cd8335ff2?source=rss----7b722bfd1b8d---4)
-- [Net Sec Challenge — TryHackMe Walkthrough](https://infosecwriteups.com/net-sec-challenge-tryhackme-walkthrough-e553bda3c5a5?source=rss----7b722bfd1b8d---4)
 - [Bug Bounty 101: The 6 Platforms You Must Know](https://osintteam.blog/6-platforms-every-bug-bounty-hunter-should-know-d401b8485009?source=rss------bug_bounty_writeup-5)
 - [Episode 1: The Validation Mirage — How I Found a Premium Account Bug Without Paying a Penny](https://osintteam.blog/episode-1-the-validation-mirage-how-i-found-a-premium-account-bug-without-paying-a-penny-b5520da54f1a?source=rss------bug_bounty_writeup-5)
 - [Mastering Google Dorking: Discovering Website Vulnerabilities](https://infosecwriteups.com/mastering-google-dorking-discovering-website-vulnerabilities-0f5720ce45ae?source=rss------bug_bounty_writeup-5)
