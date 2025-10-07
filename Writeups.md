@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How a Single Signup Flaw Exposed 162,481 User Records](https://infosecwriteups.com/how-a-single-signup-flaw-exposed-162-481-user-records-070238ff9f4a?source=rss----7b722bfd1b8d---4)
 - [Small Bugs, Easy Money: CSRF &amp; Race Conditions](https://medium.com/@nnouh4967/small-bugs-easy-money-csrf-race-conditions-b5fc69694f1f?source=rss------bug_bounty_writeup-5)
 - [Writing Effective Bug Bounty Reports](https://medium.com/@cocopelly255/writing-effective-bug-bounty-reports-9e71f6b8706c?source=rss------bug_bounty_writeup-5)
 - [Complete Account Takeover using browser Autofill feature due to DOM based javascript execution](https://medium.com/@Cyber78678/complete-account-takeover-using-browser-autofill-feature-due-to-dom-based-javascript-execution-d01ef203a358?source=rss------bug_bounty_writeup-5)
@@ -17,7 +18,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Bug Bounty 101: The 6 Platforms You Must Know](https://osintteam.blog/6-platforms-every-bug-bounty-hunter-should-know-d401b8485009?source=rss------bug_bounty_writeup-5)
 - [Episode 1: The Validation Mirage — How I Found a Premium Account Bug Without Paying a Penny](https://osintteam.blog/episode-1-the-validation-mirage-how-i-found-a-premium-account-bug-without-paying-a-penny-b5520da54f1a?source=rss------bug_bounty_writeup-5)
 - [Evaluation and Mobile Integration of Object Detection Models in AI-Based Industrial Training](https://infosecwriteups.com/evaluation-and-mobile-integration-of-object-detection-models-in-ai-based-industrial-training-dab8f2149fd3?source=rss----7b722bfd1b8d---4)
-- [Excel 2025 CTF | Anonymous &lpar;Miscellaneous&rpar; challenge Writeup](https://infosecwriteups.com/excel-2025-ctf-anonymous-miscellaneous-challenge-writeup-65f0fa92ffec?source=rss----7b722bfd1b8d---4)
 - [Mastering Google Dorking: Discovering Website Vulnerabilities](https://infosecwriteups.com/mastering-google-dorking-discovering-website-vulnerabilities-0f5720ce45ae?source=rss------bug_bounty_writeup-5)
 - [Forgot password link doesn’t expire after used.](https://medium.com/@edahmed008/forgot-password-link-doesnt-expire-after-used-e55f0c5fe96f?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
