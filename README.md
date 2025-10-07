@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [When a Callback Form Became an Open Door — a short story about a hospital workflow gone wrong](https://medium.com/@devanshpatel930/when-a-callback-form-became-an-open-door-a-short-story-about-a-hospital-workflow-gone-wrong-50052deeb0c3?source=rss------bug_bounty_writeup-5)
 - [Hidden API Endpoints: The Hacker’s Secret Weapon](https://infosecwriteups.com/hidden-api-endpoints-the-hackers-secret-weapon-a9ee297a29c2?source=rss----7b722bfd1b8d---4)
 - [Adversary TTP Simulation Lab](https://infosecwriteups.com/adversary-emulation-and-threat-detection-cybersecurity-homelab-f1a02fbc2567?source=rss----7b722bfd1b8d---4)
 - [How a Single Signup Flaw Exposed 162,481 User Records](https://infosecwriteups.com/how-a-single-signup-flaw-exposed-162-481-user-records-070238ff9f4a?source=rss----7b722bfd1b8d---4)
@@ -940,7 +941,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Bug Bounty 101: The 6 Platforms You Must Know](https://osintteam.blog/6-platforms-every-bug-bounty-hunter-should-know-d401b8485009?source=rss------bug_bounty_writeup-5)
 - [Episode 1: The Validation Mirage — How I Found a Premium Account Bug Without Paying a Penny](https://osintteam.blog/episode-1-the-validation-mirage-how-i-found-a-premium-account-bug-without-paying-a-penny-b5520da54f1a?source=rss------bug_bounty_writeup-5)
 - [Mastering Google Dorking: Discovering Website Vulnerabilities](https://infosecwriteups.com/mastering-google-dorking-discovering-website-vulnerabilities-0f5720ce45ae?source=rss------bug_bounty_writeup-5)
-- [Forgot password link doesn’t expire after used.](https://medium.com/@edahmed008/forgot-password-link-doesnt-expire-after-used-e55f0c5fe96f?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
