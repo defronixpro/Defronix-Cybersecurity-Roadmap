@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [This OAuth Bug Earned Me $$$$: Account Takeover via Identity Injection](https://medium.com/@hacker_might/this-oauth-bug-earned-me-account-takeover-via-identity-injection-27774f65288c?source=rss------bug_bounty_writeup-5)
 - [Wow a deep link? Let’s hijack it to ATO](https://canitey.medium.com/wow-a-deep-link-lets-hijack-it-to-ato-c742838c9d78?source=rss------bug_bounty_writeup-5)
 - [Accidental High-Sev ASP.NET Bug: How a Coffee Break Exposed Someone Else’s PII &lpar;and a $600 Bounty&rpar;](https://medium.com/@theteatoast/accidental-high-sev-asp-net-0ca17ed328c9?source=rss------bug_bounty_writeup-5)
 - [How I Found a $1,000 IDOR Bug Using Burp Suite ?](https://devprogramming.medium.com/how-i-found-a-1-000-idor-bug-using-burp-suite-dfb2b11d933e?source=rss------bug_bounty_writeup-5)
@@ -15,7 +16,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Writing Effective Bug Bounty Reports](https://medium.com/@cocopelly255/writing-effective-bug-bounty-reports-9e71f6b8706c?source=rss------bug_bounty_writeup-5)
 - [Complete Account Takeover using browser Autofill feature due to DOM based javascript execution](https://medium.com/@Cyber78678/complete-account-takeover-using-browser-autofill-feature-due-to-dom-based-javascript-execution-d01ef203a358?source=rss------bug_bounty_writeup-5)
 - [Actuator Unleashed: A Guide to Finding and Exploiting Spring Boot Actuator Endpoints](https://infosecwriteups.com/actuator-unleashed-a-guide-to-finding-and-exploiting-spring-boot-actuator-endpoints-29252dcd9d79?source=rss----7b722bfd1b8d---4)
-- [My First Bug Hunt: How I Found a P5 Vulnerability](https://medium.com/@jyothismohan17/my-first-bug-hunt-how-i-found-a-p5-vulnerability-a4cddfe2af84?source=rss------bug_bounty_writeup-5)
 - [Baby](https://infosecwriteups.com/baby-dfc2547dc387?source=rss----7b722bfd1b8d---4)
 - [Breaking Into HackTheBox: My Journey from Script Kiddie to Root](https://infosecwriteups.com/breaking-into-hackthebox-my-journey-from-script-kiddie-to-root-d1cb5baeb758?source=rss----7b722bfd1b8d---4)
 - [SQHell: Manually hunting SQL injection with detailed explanation](https://infosecwriteups.com/sqhell-manually-hunting-sql-injection-with-detailed-explanation-8fd24360c65e?source=rss----7b722bfd1b8d---4)
