@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Accidental High-Sev ASP.NET](https://medium.com/@theteatoast/accidental-high-sev-asp-net-0ca17ed328c9?source=rss------bug_bounty_writeup-5)
 - [How I Found a $1,000 IDOR Bug Using Burp Suite ?](https://devprogramming.medium.com/how-i-found-a-1-000-idor-bug-using-burp-suite-dfb2b11d933e?source=rss------bug_bounty_writeup-5)
 - [How to Report a Vulnerability When the Company Has No Responsible Disclosure Policy](https://1-day.medium.com/how-to-report-a-vulnerability-when-the-company-has-no-responsible-disclosure-policy-9c729e56d328?source=rss------bug_bounty_writeup-5)
 - [$35,000 por este fallo en GitLab — Reporte CRITICAL explicado paso a paso](https://gorkaaa.medium.com/35-000-por-este-fallo-en-gitlab-reporte-critical-explicado-paso-a-paso-66944c30f086?source=rss------bug_bounty_writeup-5)
