@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Wow a deep link? Let’s hijack it to ATO](https://canitey.medium.com/wow-a-deep-link-lets-hijack-it-to-ato-c742838c9d78?source=rss------bug_bounty_writeup-5)
 - [Accidental High-Sev ASP.NET Bug: How a Coffee Break Exposed Someone Else’s PII &lpar;and a $600 Bounty&rpar;](https://medium.com/@theteatoast/accidental-high-sev-asp-net-0ca17ed328c9?source=rss------bug_bounty_writeup-5)
 - [How I Found a $1,000 IDOR Bug Using Burp Suite ?](https://devprogramming.medium.com/how-i-found-a-1-000-idor-bug-using-burp-suite-dfb2b11d933e?source=rss------bug_bounty_writeup-5)
 - [How to Report a Vulnerability When the Company Has No Responsible Disclosure Policy](https://1-day.medium.com/how-to-report-a-vulnerability-when-the-company-has-no-responsible-disclosure-policy-9c729e56d328?source=rss------bug_bounty_writeup-5)
@@ -15,7 +16,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Complete Account Takeover using browser Autofill feature due to DOM based javascript execution](https://medium.com/@Cyber78678/complete-account-takeover-using-browser-autofill-feature-due-to-dom-based-javascript-execution-d01ef203a358?source=rss------bug_bounty_writeup-5)
 - [Actuator Unleashed: A Guide to Finding and Exploiting Spring Boot Actuator Endpoints](https://infosecwriteups.com/actuator-unleashed-a-guide-to-finding-and-exploiting-spring-boot-actuator-endpoints-29252dcd9d79?source=rss----7b722bfd1b8d---4)
 - [My First Bug Hunt: How I Found a P5 Vulnerability](https://medium.com/@jyothismohan17/my-first-bug-hunt-how-i-found-a-p5-vulnerability-a4cddfe2af84?source=rss------bug_bounty_writeup-5)
-- [Authentication Bypass: Mis-scoped SAML Sessions Enable User Impersonation](https://0xoverlord.medium.com/authentication-bypass-mis-scoped-saml-sessions-enable-user-impersonation-fd73ce7fbea0?source=rss------bug_bounty_writeup-5)
 - [Baby](https://infosecwriteups.com/baby-dfc2547dc387?source=rss----7b722bfd1b8d---4)
 - [Breaking Into HackTheBox: My Journey from Script Kiddie to Root](https://infosecwriteups.com/breaking-into-hackthebox-my-journey-from-script-kiddie-to-root-d1cb5baeb758?source=rss----7b722bfd1b8d---4)
 - [SQHell: Manually hunting SQL injection with detailed explanation](https://infosecwriteups.com/sqhell-manually-hunting-sql-injection-with-detailed-explanation-8fd24360c65e?source=rss----7b722bfd1b8d---4)
@@ -25,17 +25,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
 - [How to backup and restore the Windows Registry](https://www.bleepingcomputer.com/tutorials/how-to-backup-and-restore-the-windows-registry/)
-- [How To Fix Error: Externally-Managed-Environment In Python &lpar;Kali Linux&rpar;](https://technicalnavigator.in/how-to-fix-error-externally-managed-environment-in-python-kali-linux/)
-- [Understanding Systemctl Command in Linux &lpar;Practical&rpar;](https://technicalnavigator.in/understanding-systemctl-command-in-linux-practical/)
-- [Macros in docm &amp; Linux memory dump| Hack The Boo  Challanges](https://technicalnavigator.in/macros-in-docm-linux-memory-dump-hack-the-boo-challanges/)
-- [Android Apps debugging |  Frida, JADX, Genymotion](https://technicalnavigator.in/android-apps-debugging-frida-jadx-genymotion/)
-- [MouseServer | wifimouse – Windows/ Linux](https://technicalnavigator.in/mouseserver-wifimouse-windows-linux/)
-- [FFUF fuzzer | web-application penetration-testing](https://technicalnavigator.in/ffuf-fuzzer-web-application-penetration-testing/)
 - [How to open a Windows 11 Command Prompt as Administrator](https://www.bleepingcomputer.com/tutorials/how-to-open-a-windows-11-command-prompt-as-administrator/)
-- [Classes-Objects &amp; Deserialization bug](https://technicalnavigator.in/classes-objects-deserialization-bug/)
-- [Loki Tool | Multhreading Over Sockets in C](https://technicalnavigator.in/loki-tool-multhreading-over-sockets-in-c/)
-- [Egghunter | NASM | C prototype](https://technicalnavigator.in/egghunter-nasm-c-prototype/)
-- [TELNET &amp; FTP Analysis](https://technicalnavigator.in/telnet-ftp-analysis/)
 - [How to make the Start menu full screen in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-make-the-start-menu-full-screen-in-windows-10/)
 - [How to install the Microsoft Visual C++ 2015 Runtime](https://www.bleepingcomputer.com/tutorials/how-to-install-the-microsoft-visual-c-2015-runtime/)
 - [How to open an elevated PowerShell Admin prompt in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-open-an-elevated-powershell-admin-prompt-in-windows-10/)
