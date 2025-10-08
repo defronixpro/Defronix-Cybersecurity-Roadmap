@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Microsoft Events Leak, Part I: Leaking Event Registration and Waitlist Databases](https://medium.com/@faav/microsoft-events-leak-part-i-leaking-event-registration-and-waitlist-databases-74a301364e76?source=rss------bug_bounty_writeup-5)
 - [Subdomain Discovery: Bug Bounty Guide](https://osintteam.blog/subdomain-discovery-bug-bounty-guide-b496990820f9?source=rss------bug_bounty_writeup-5)
 - [How I Find Sensitive Information Leaks on GitHub &lpar;and a Real Example&rpar;](https://osintteam.blog/how-i-find-sensitive-information-leaks-on-github-and-a-real-example-d247be13c809?source=rss------bug_bounty_writeup-5)
 - [This OAuth Bug Earned Me $$$$: Account Takeover via Identity Injection](https://medium.com/@hacker_might/this-oauth-bug-earned-me-account-takeover-via-identity-injection-27774f65288c?source=rss------bug_bounty_writeup-5)
@@ -14,7 +15,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Hidden API Endpoints: The Hacker’s Secret Weapon](https://infosecwriteups.com/hidden-api-endpoints-the-hackers-secret-weapon-a9ee297a29c2?source=rss----7b722bfd1b8d---4)
 - [Adversary TTP Simulation Lab](https://infosecwriteups.com/adversary-emulation-and-threat-detection-cybersecurity-homelab-f1a02fbc2567?source=rss----7b722bfd1b8d---4)
 - [How a Single Signup Flaw Exposed 162,481 User Records](https://infosecwriteups.com/how-a-single-signup-flaw-exposed-162-481-user-records-070238ff9f4a?source=rss----7b722bfd1b8d---4)
-- [Small Bugs, Easy Money: CSRF &amp; Race Conditions](https://medium.com/@nnouh4967/small-bugs-easy-money-csrf-race-conditions-b5fc69694f1f?source=rss------bug_bounty_writeup-5)
 - [Actuator Unleashed: A Guide to Finding and Exploiting Spring Boot Actuator Endpoints](https://infosecwriteups.com/actuator-unleashed-a-guide-to-finding-and-exploiting-spring-boot-actuator-endpoints-29252dcd9d79?source=rss----7b722bfd1b8d---4)
 - [Baby](https://infosecwriteups.com/baby-dfc2547dc387?source=rss----7b722bfd1b8d---4)
 - [Breaking Into HackTheBox: My Journey from Script Kiddie to Root](https://infosecwriteups.com/breaking-into-hackthebox-my-journey-from-script-kiddie-to-root-d1cb5baeb758?source=rss----7b722bfd1b8d---4)
