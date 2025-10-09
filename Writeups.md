@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [0-click Account Takeover via Punycode](https://medium.com/@0x_s3fo/0-click-account-takeover-via-punycode-39b9a5cfbfb1?source=rss------bug_bounty_writeup-5)
 - [How I Solved TryHackMe Madness CTF: Step-by-Step Beginner-Friendly Walkthrough for 2025](https://infosecwriteups.com/how-i-solved-tryhackme-madness-ctf-step-by-step-beginner-friendly-walkthrough-for-2025-33c23eda6052?source=rss----7b722bfd1b8d---4)
 - [Man-in-the-Middle Detection](https://infosecwriteups.com/man-in-the-middle-detection-b38e3bc7f6ff?source=rss----7b722bfd1b8d---4)
 - [Imagery HTB WriteUp: Season 9 Machine 2](https://infosecwriteups.com/imagery-htb-writeup-season-9-machine-2-6e09f640a993?source=rss----7b722bfd1b8d---4)
@@ -17,7 +18,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Accidental High-Sev ASP.NET Bug: How a Coffee Break Exposed Someone Else’s PII &lpar;and a $600 Bounty&rpar;](https://medium.com/@theteatoast/accidental-high-sev-asp-net-0ca17ed328c9?source=rss------bug_bounty_writeup-5)
 - [How I Found a $1,000 IDOR Bug Using Burp Suite ?](https://devprogramming.medium.com/how-i-found-a-1-000-idor-bug-using-burp-suite-dfb2b11d933e?source=rss------bug_bounty_writeup-5)
 - [How to Report a Vulnerability When the Company Has No Responsible Disclosure Policy](https://1-day.medium.com/how-to-report-a-vulnerability-when-the-company-has-no-responsible-disclosure-policy-9c729e56d328?source=rss------bug_bounty_writeup-5)
-- [$35,000 por este fallo en GitLab — Reporte CRITICAL explicado paso a paso](https://gorkaaa.medium.com/35-000-por-este-fallo-en-gitlab-reporte-critical-explicado-paso-a-paso-66944c30f086?source=rss------bug_bounty_writeup-5)
 - [How to Repair Outlook PST File without ScanPST.exe?](https://infosecwriteups.com/how-to-repair-outlook-pst-file-without-scanpst-exe-66ca1993f179?source=rss----7b722bfd1b8d---4)
 - [Hidden API Endpoints: The Hacker’s Secret Weapon](https://infosecwriteups.com/hidden-api-endpoints-the-hackers-secret-weapon-a9ee297a29c2?source=rss----7b722bfd1b8d---4)
 - [Adversary TTP Simulation Lab](https://infosecwriteups.com/adversary-emulation-and-threat-detection-cybersecurity-homelab-f1a02fbc2567?source=rss----7b722bfd1b8d---4)
