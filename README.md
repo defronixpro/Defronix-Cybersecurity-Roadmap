@@ -925,7 +925,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Microsoft Events Leak, Part I: Leaking Event Registration and Waitlist Databases](https://medium.com/@faav/microsoft-events-leak-part-i-leaking-event-registration-and-waitlist-databases-74a301364e76?source=rss------bug_bounty_writeup-5)
 - [Subdomain Discovery: Bug Bounty Guide](https://osintteam.blog/subdomain-discovery-bug-bounty-guide-b496990820f9?source=rss------bug_bounty_writeup-5)
 - [How I Find Sensitive Information Leaks on GitHub &lpar;and a Real Example&rpar;](https://osintteam.blog/how-i-find-sensitive-information-leaks-on-github-and-a-real-example-d247be13c809?source=rss------bug_bounty_writeup-5)
-- [This OAuth Bug Earned Me $$$$: Account Takeover via Identity Injection](https://medium.com/@hacker_might/this-oauth-bug-earned-me-account-takeover-via-identity-injection-27774f65288c?source=rss------bug_bounty_writeup-5)
+- [This OAuth Bug Earned Me $$$$: Account Takeover via Identity Injection](https://medium.com/legionhunters/this-oauth-bug-earned-me-account-takeover-via-identity-injection-27774f65288c?source=rss------bug_bounty_writeup-5)
 - [Wow a deep link? Let’s hijack it to ATO](https://canitey.medium.com/wow-a-deep-link-lets-hijack-it-to-ato-c742838c9d78?source=rss------bug_bounty_writeup-5)
 - [Accidental High-Sev ASP.NET Bug: How a Coffee Break Exposed Someone Else’s PII &lpar;and a $600 Bounty&rpar;](https://medium.com/@theteatoast/accidental-high-sev-asp-net-0ca17ed328c9?source=rss------bug_bounty_writeup-5)
 - [How I Found a $1,000 IDOR Bug Using Burp Suite ?](https://devprogramming.medium.com/how-i-found-a-1-000-idor-bug-using-burp-suite-dfb2b11d933e?source=rss------bug_bounty_writeup-5)
