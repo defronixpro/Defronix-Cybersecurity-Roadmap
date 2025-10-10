@@ -926,7 +926,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How I Solved TryHackMe Madness CTF: Step-by-Step Beginner-Friendly Walkthrough for 2025](https://infosecwriteups.com/how-i-solved-tryhackme-madness-ctf-step-by-step-beginner-friendly-walkthrough-for-2025-33c23eda6052?source=rss----7b722bfd1b8d---4)
 - [Man-in-the-Middle Detection](https://infosecwriteups.com/man-in-the-middle-detection-b38e3bc7f6ff?source=rss----7b722bfd1b8d---4)
 - [Imagery HTB WriteUp: Season 9 Machine 2](https://infosecwriteups.com/imagery-htb-writeup-season-9-machine-2-6e09f640a993?source=rss----7b722bfd1b8d---4)
-- [How I found Multiple Bugs on CHESS.COM &amp; they refused](https://infosecwriteups.com/how-i-found-multiple-bugs-on-chess-com-they-refused-1fa6e308ed1f?source=rss----7b722bfd1b8d---4)
+- [How I got my First Bounty from Chess.com](https://infosecwriteups.com/how-i-found-multiple-bugs-on-chess-com-they-refused-1fa6e308ed1f?source=rss----7b722bfd1b8d---4)
 - [CORS Vulnerability with Trusted Insecure Protocols BurpSuite Walkthrough](https://infosecwriteups.com/cors-vulnerability-with-trusted-insecure-protocols-burpsuite-walkthrough-5004688e6018?source=rss----7b722bfd1b8d---4)
 - [Lame](https://infosecwriteups.com/lame-b814236efc97?source=rss----7b722bfd1b8d---4)
 - [Getting Hands-On with Kerbrute: Practical AD Enumeration &amp; Attack Tactics](https://infosecwriteups.com/getting-hands-on-with-kerbrute-practical-ad-enumeration-attack-tactics-107b212d8d60?source=rss----7b722bfd1b8d---4)
