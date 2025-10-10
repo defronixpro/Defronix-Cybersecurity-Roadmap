@@ -1,6 +1,9 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How I found an unauthenticated goldmine of PII](https://infosecwriteups.com/how-i-found-an-unauthenticated-goldmine-of-pii-8f1fc93d8a0d?source=rss----7b722bfd1b8d---4)
+- [Living Off the Cloud: Abusing Cloud Services for Red Teaming | Cyber Codex](https://infosecwriteups.com/living-off-the-cloud-abusing-cloud-services-for-red-teaming-cyber-codex-8844b19f593a?source=rss----7b722bfd1b8d---4)
+- [21. Tips for Staying Consistent and Avoiding Burnout](https://infosecwriteups.com/21-tips-for-staying-consistent-and-avoiding-burnout-a6ebeef29c4f?source=rss----7b722bfd1b8d---4)
 - [Business Logic Error - Bypassing Payment with Test Cards](https://infosecwriteups.com/business-logic-error-bypassing-payment-with-test-cards-77c6e3c36f16?source=rss----7b722bfd1b8d---4)
 - [My BTL1 Review](https://infosecwriteups.com/my-btl1-review-314d396a0f1f?source=rss----7b722bfd1b8d---4)
 - [HTB AD Track: Sauna Walkthrough](https://infosecwriteups.com/htb-ad-track-sauna-walkthrough-9aa9048b45b7?source=rss----7b722bfd1b8d---4)
@@ -11,9 +14,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [A Beginner’s Guide to Finding Hidden API Endpoints in JavaScript Files](https://infosecwriteups.com/a-beginners-guide-to-finding-hidden-api-endpoints-in-javascript-files-925853b61bd1?source=rss----7b722bfd1b8d---4)
 - [How I found an unauthenticated goldmine of PII](https://infosecwriteups.com/how-i-found-an-unauthenticated-goldmine-of-pii-8f1fc93d8a0d?source=rss------bug_bounty_writeup-5)
 - [0-click Account Takeover via Punycode](https://medium.com/@0x_s3fo/0-click-account-takeover-via-punycode-39b9a5cfbfb1?source=rss------bug_bounty_writeup-5)
-- [How I Solved TryHackMe Madness CTF: Step-by-Step Beginner-Friendly Walkthrough for 2025](https://infosecwriteups.com/how-i-solved-tryhackme-madness-ctf-step-by-step-beginner-friendly-walkthrough-for-2025-33c23eda6052?source=rss----7b722bfd1b8d---4)
-- [Man-in-the-Middle Detection](https://infosecwriteups.com/man-in-the-middle-detection-b38e3bc7f6ff?source=rss----7b722bfd1b8d---4)
-- [Imagery HTB WriteUp: Season 9 Machine 2](https://infosecwriteups.com/imagery-htb-writeup-season-9-machine-2-6e09f640a993?source=rss----7b722bfd1b8d---4)
 - [Microsoft Events Leak, Part I: Leaking Event Registration and Waitlist Databases](https://medium.com/@faav/microsoft-events-leak-part-i-leaking-event-registration-and-waitlist-databases-74a301364e76?source=rss------bug_bounty_writeup-5)
 - [Subdomain Discovery: Bug Bounty Guide](https://osintteam.blog/subdomain-discovery-bug-bounty-guide-b496990820f9?source=rss------bug_bounty_writeup-5)
 - [How I Find Sensitive Information Leaks on GitHub &lpar;and a Real Example&rpar;](https://osintteam.blog/how-i-find-sensitive-information-leaks-on-github-and-a-real-example-d247be13c809?source=rss------bug_bounty_writeup-5)
