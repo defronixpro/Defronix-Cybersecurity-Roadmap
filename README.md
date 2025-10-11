@@ -1,4 +1,4 @@
-# Defronix Cybersecurity Roadmap 
+# Defronix Cybersecurity Roadmap  
 
 Welcome Hackers, this is your go-to resource for learning cybersecurity stuff everyday :)
 Whether you're completely new to the field or looking to expand your knowledge, this repository is designed to provide you with a comprehensive introduction to cybersecurity concepts, tools, and practices recommended by [Mr. Nitesh Singh](https://in.linkedin.com/in/technicalnavigator)
