@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Mañana anuncio mi nueva Masterclass de Bug Bounty](https://gorkaaa.medium.com/ma%C3%B1ana-anuncio-mi-nueva-masterclass-de-bug-bounty-78abd91012e0?source=rss------bug_bounty_writeup-5)
 - [The Access Control Apocalypse: How Broken Permissions Gave Me Keys to Every Digital Door](https://infosecwriteups.com/the-access-control-apocalypse-how-broken-permissions-gave-me-keys-to-every-digital-door-9948d05edf2b?source=rss------bug_bounty_writeup-5)
 - [Write-up: SQL injection vulnerability in WHERE clause allowing retrieval of hidden data](https://medium.com/@zerotrace97/write-up-sql-injection-vulnerability-in-where-clause-allowing-retrieval-of-hidden-data-3da45a1c91f0?source=rss------bug_bounty_writeup-5)
 - [$35,000 por este fallo en GitLab — Análisis completo y lecciones reales](https://gorkaaa.medium.com/35-000-por-este-fallo-en-gitlab-an%C3%A1lisis-completo-y-lecciones-reales-601d5cc6a593?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Microsoft Events Leak, Part I: Leaking Event Registration and Waitlist Databases](https://medium.com/@faav/microsoft-events-leak-part-i-leaking-event-registration-and-waitlist-databases-74a301364e76?source=rss------bug_bounty_writeup-5)
 - [Subdomain Discovery: Bug Bounty Guide](https://osintteam.blog/subdomain-discovery-bug-bounty-guide-b496990820f9?source=rss------bug_bounty_writeup-5)
 - [How I Find Sensitive Information Leaks on GitHub &lpar;and a Real Example&rpar;](https://osintteam.blog/how-i-find-sensitive-information-leaks-on-github-and-a-real-example-d247be13c809?source=rss------bug_bounty_writeup-5)
-- [This OAuth Bug Earned Me $$$$: Account Takeover via Identity Injection](https://medium.com/legionhunters/this-oauth-bug-earned-me-account-takeover-via-identity-injection-27774f65288c?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
