@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [22. How to Get Invites to Private Programs](https://infosecwriteups.com/22-how-to-get-invites-to-private-programs-9bbb51664e21?source=rss----7b722bfd1b8d---4)
 - [Mañana anuncio mi nueva Masterclass de Bug Bounty](https://gorkaaa.medium.com/ma%C3%B1ana-anuncio-mi-nueva-masterclass-de-bug-bounty-78abd91012e0?source=rss------bug_bounty_writeup-5)
 - [The Access Control Apocalypse: How Broken Permissions Gave Me Keys to Every Digital Door](https://infosecwriteups.com/the-access-control-apocalypse-how-broken-permissions-gave-me-keys-to-every-digital-door-9948d05edf2b?source=rss------bug_bounty_writeup-5)
 - [Write-up: SQL injection vulnerability in WHERE clause allowing retrieval of hidden data](https://medium.com/@zerotrace97/write-up-sql-injection-vulnerability-in-where-clause-allowing-retrieval-of-hidden-data-3da45a1c91f0?source=rss------bug_bounty_writeup-5)
@@ -16,7 +17,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [One Click to All Baisc Recon for Bug Bounty](https://infosecwriteups.com/one-click-to-all-baisc-recon-for-bug-bounty-295ac745d602?source=rss----7b722bfd1b8d---4)
 - [The $500 Stored XSS Bug in SideFX’s Messaging System](https://infosecwriteups.com/the-500-stored-xss-bug-in-sidefxs-messaging-system-e55e1121d391?source=rss----7b722bfd1b8d---4)
 - [The $500 Stored XSS Bug in SideFX’s Messaging System](https://infosecwriteups.com/the-500-stored-xss-bug-in-sidefxs-messaging-system-e55e1121d391?source=rss------bug_bounty_writeup-5)
-- [A Beginner’s Guide to Finding Hidden API Endpoints in JavaScript Files](https://infosecwriteups.com/a-beginners-guide-to-finding-hidden-api-endpoints-in-javascript-files-925853b61bd1?source=rss----7b722bfd1b8d---4)
 - [How I Found an Unauthenticated Goldmine of PII](https://infosecwriteups.com/how-i-found-an-unauthenticated-goldmine-of-pii-8f1fc93d8a0d?source=rss------bug_bounty_writeup-5)
 - [0-click Account Takeover via Punycode](https://medium.com/@0x_s3fo/0-click-account-takeover-via-punycode-39b9a5cfbfb1?source=rss------bug_bounty_writeup-5)
 - [Microsoft Events Leak, Part I: Leaking Event Registration and Waitlist Databases](https://medium.com/@faav/microsoft-events-leak-part-i-leaking-event-registration-and-waitlist-databases-74a301364e76?source=rss------bug_bounty_writeup-5)
