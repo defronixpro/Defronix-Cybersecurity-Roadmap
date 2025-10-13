@@ -922,6 +922,12 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [The weirdest bug:When Reflected XSS Won’t Let a Page Breathe](https://infosecwriteups.com/the-weirdest-bug-when-reflected-xss-wont-let-a-page-breathe-58be5cdfb569?source=rss----7b722bfd1b8d---4)
+- [The Critical $1000 Bug:&lpar;blind SQL injection&rpar;](https://infosecwriteups.com/the-critical-1000-bug-blind-sql-injection-f85d5db861ba?source=rss----7b722bfd1b8d---4)
+- [How to break RSA? A guide for Hackers and CTF players to crack the RSA encryption algorithm](https://infosecwriteups.com/how-to-break-rsa-a-guide-for-hackers-and-ctf-players-to-crack-the-rsa-encryption-algorithm-c26f64ab0f35?source=rss----7b722bfd1b8d---4)
+- [Kerberos Authentication — In Layman terms](https://infosecwriteups.com/kerberos-authentication-in-layman-terms-19ed33532206?source=rss----7b722bfd1b8d---4)
+- [Brutus](https://infosecwriteups.com/brutus-b430c6e4a83d?source=rss----7b722bfd1b8d---4)
+- [22. How to Get Invites to Private Programs](https://infosecwriteups.com/22-how-to-get-invites-to-private-programs-9bbb51664e21?source=rss----7b722bfd1b8d---4)
 - [Mañana anuncio mi nueva Masterclass de Bug Bounty](https://gorkaaa.medium.com/ma%C3%B1ana-anuncio-mi-nueva-masterclass-de-bug-bounty-78abd91012e0?source=rss------bug_bounty_writeup-5)
 - [The Access Control Apocalypse: How Broken Permissions Gave Me Keys to Every Digital Door](https://infosecwriteups.com/the-access-control-apocalypse-how-broken-permissions-gave-me-keys-to-every-digital-door-9948d05edf2b?source=rss------bug_bounty_writeup-5)
 - [Write-up: SQL injection vulnerability in WHERE clause allowing retrieval of hidden data](https://medium.com/@zerotrace97/write-up-sql-injection-vulnerability-in-where-clause-allowing-retrieval-of-hidden-data-3da45a1c91f0?source=rss------bug_bounty_writeup-5)
@@ -931,13 +937,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Living Off the Cloud: Abusing Cloud Services for Red Teaming | Cyber Codex](https://infosecwriteups.com/living-off-the-cloud-abusing-cloud-services-for-red-teaming-cyber-codex-8844b19f593a?source=rss----7b722bfd1b8d---4)
 - [21. Tips for Staying Consistent and Avoiding Burnout](https://infosecwriteups.com/21-tips-for-staying-consistent-and-avoiding-burnout-a6ebeef29c4f?source=rss----7b722bfd1b8d---4)
 - [Business Logic Error - Bypassing Payment with Test Cards](https://infosecwriteups.com/business-logic-error-bypassing-payment-with-test-cards-77c6e3c36f16?source=rss----7b722bfd1b8d---4)
-- [My BTL1 Review](https://infosecwriteups.com/my-btl1-review-314d396a0f1f?source=rss----7b722bfd1b8d---4)
-- [HTB AD Track: Sauna Walkthrough](https://infosecwriteups.com/htb-ad-track-sauna-walkthrough-9aa9048b45b7?source=rss----7b722bfd1b8d---4)
-- [Unbelievable Security Hole: JWT Secret in a Series-B Funded Company](https://infosecwriteups.com/unbelievable-security-hole-jwt-secret-in-a-series-b-funded-company-540434b54e59?source=rss----7b722bfd1b8d---4)
-- [One Click to All Baisc Recon for Bug Bounty](https://infosecwriteups.com/one-click-to-all-baisc-recon-for-bug-bounty-295ac745d602?source=rss----7b722bfd1b8d---4)
-- [The $500 Stored XSS Bug in SideFX’s Messaging System](https://infosecwriteups.com/the-500-stored-xss-bug-in-sidefxs-messaging-system-e55e1121d391?source=rss----7b722bfd1b8d---4)
 - [The $500 Stored XSS Bug in SideFX’s Messaging System](https://infosecwriteups.com/the-500-stored-xss-bug-in-sidefxs-messaging-system-e55e1121d391?source=rss------bug_bounty_writeup-5)
-- [A Beginner’s Guide to Finding Hidden API Endpoints in JavaScript Files](https://infosecwriteups.com/a-beginners-guide-to-finding-hidden-api-endpoints-in-javascript-files-925853b61bd1?source=rss----7b722bfd1b8d---4)
 - [How I Found an Unauthenticated Goldmine of PII](https://infosecwriteups.com/how-i-found-an-unauthenticated-goldmine-of-pii-8f1fc93d8a0d?source=rss------bug_bounty_writeup-5)
 - [0-click Account Takeover via Punycode](https://medium.com/@0x_s3fo/0-click-account-takeover-via-punycode-39b9a5cfbfb1?source=rss------bug_bounty_writeup-5)
 - [Microsoft Events Leak, Part I: Leaking Event Registration and Waitlist Databases](https://medium.com/@faav/microsoft-events-leak-part-i-leaking-event-registration-and-waitlist-databases-74a301364e76?source=rss------bug_bounty_writeup-5)
