@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Microsoft Events Leak, Part II: Leaking Event Registration Database Again](https://medium.com/@faav/microsoft-events-leak-part-ii-leaking-event-registration-database-again-069050664475?source=rss------bug_bounty_writeup-5)
 - [“The Overlooked P4 Goldmine: Turning Simple Flaws into Consistent Bounties&quot;](https://infosecwriteups.com/the-overlooked-p4-goldmine-turning-simple-flaws-into-consistent-bounties-c4c4e4de3c47?source=rss----7b722bfd1b8d---4)
 - [CVE Deep Dive : CVE-2025–32462](https://infosecwriteups.com/cve-deep-dive-cve-2025-32462-b2d90ea240b4?source=rss----7b722bfd1b8d---4)
 - [Master Web Fuzzing: A Cheat‑Sheet to Finding Hidden Paths](https://infosecwriteups.com/master-web-fuzzing-a-cheat-sheet-to-finding-hidden-paths-6c2bcf521c44?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [The $500 Stored XSS Bug in SideFX’s Messaging System](https://infosecwriteups.com/the-500-stored-xss-bug-in-sidefxs-messaging-system-e55e1121d391?source=rss------bug_bounty_writeup-5)
 - [How I Found an Unauthenticated Goldmine of PII](https://infosecwriteups.com/how-i-found-an-unauthenticated-goldmine-of-pii-8f1fc93d8a0d?source=rss------bug_bounty_writeup-5)
 - [0-click Account Takeover via Punycode](https://medium.com/@0x_s3fo/0-click-account-takeover-via-punycode-39b9a5cfbfb1?source=rss------bug_bounty_writeup-5)
-- [Microsoft Events Leak, Part I: Leaking Event Registration and Waitlist Databases](https://medium.com/@faav/microsoft-events-leak-part-i-leaking-event-registration-and-waitlist-databases-74a301364e76?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
