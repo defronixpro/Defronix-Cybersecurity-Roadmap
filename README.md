@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I Solved Intigriti’s October 2025 Challenge with an “Unintended Solution”](https://medium.com/@ou_/how-i-solved-intigritis-october-2025-challenge-with-an-unintended-solution-4c44122cacdd?source=rss------bug_bounty_writeup-5)
 - [XSS: Bypassing Cloudflare WAF with a Simple Trick](https://medium.com/@pranavrp77/xss-bypassing-cloudflare-waf-with-a-simple-trick-12aff8ce87c7?source=rss------bug_bounty_writeup-5)
 - [How the cookie crumbls](https://medium.com/@collinpotter/how-the-cookie-crumbls-085614ecd0dd?source=rss------bug_bounty_writeup-5)
 - [Blockchain Bug Hunting &amp; Patch Workflow: A Complete Checklist for Ethical Hackers](https://medium.com/write-a-catalyst/blockchain-bug-hunting-patch-workflow-a-complete-checklist-for-ethical-hackers-057415161a0f?source=rss------bug_bounty_writeup-5)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [The Access Control Apocalypse: How Broken Permissions Gave Me Keys to Every Digital Door](https://infosecwriteups.com/the-access-control-apocalypse-how-broken-permissions-gave-me-keys-to-every-digital-door-9948d05edf2b?source=rss------bug_bounty_writeup-5)
 - [Write-up: SQL injection vulnerability in WHERE clause allowing retrieval of hidden data](https://medium.com/@zerotrace97/write-up-sql-injection-vulnerability-in-where-clause-allowing-retrieval-of-hidden-data-3da45a1c91f0?source=rss------bug_bounty_writeup-5)
 - [How I found A Reflected XSS on one of the Largest Telecommunication Companies](https://medium.com/@shellreaper/how-i-found-a-reflected-on-one-of-the-largest-telecommunication-companies-755bc1c465d3?source=rss------bug_bounty_writeup-5)
-- [$35,000 por este fallo en GitLab — Análisis completo y lecciones reales](https://gorkaaa.medium.com/35-000-por-este-fallo-en-gitlab-an%C3%A1lisis-completo-y-lecciones-reales-601d5cc6a593?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
