@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [XSS: Bypassing Cloudflare WAF with a Simple Trick](https://medium.com/@pranavrp77/xss-bypassing-cloudflare-waf-with-a-simple-trick-12aff8ce87c7?source=rss------bug_bounty_writeup-5)
 - [How the cookie crumbls](https://medium.com/@collinpotter/how-the-cookie-crumbls-085614ecd0dd?source=rss------bug_bounty_writeup-5)
 - [Blockchain Bug Hunting &amp; Patch Workflow: A Complete Checklist for Ethical Hackers](https://medium.com/write-a-catalyst/blockchain-bug-hunting-patch-workflow-a-complete-checklist-for-ethical-hackers-057415161a0f?source=rss------bug_bounty_writeup-5)
 - [Microsoft Events Leak, Part II: Leaking Event Registration Database Again](https://medium.com/@faav/microsoft-events-leak-part-ii-leaking-event-registration-database-again-069050664475?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Write-up: SQL injection vulnerability in WHERE clause allowing retrieval of hidden data](https://medium.com/@zerotrace97/write-up-sql-injection-vulnerability-in-where-clause-allowing-retrieval-of-hidden-data-3da45a1c91f0?source=rss------bug_bounty_writeup-5)
 - [How I found A Reflected XSS on one of the Largest Telecommunication Companies](https://medium.com/@shellreaper/how-i-found-a-reflected-on-one-of-the-largest-telecommunication-companies-755bc1c465d3?source=rss------bug_bounty_writeup-5)
 - [$35,000 por este fallo en GitLab — Análisis completo y lecciones reales](https://gorkaaa.medium.com/35-000-por-este-fallo-en-gitlab-an%C3%A1lisis-completo-y-lecciones-reales-601d5cc6a593?source=rss------bug_bounty_writeup-5)
-- [The $500 Stored XSS Bug in SideFX’s Messaging System](https://infosecwriteups.com/the-500-stored-xss-bug-in-sidefxs-messaging-system-e55e1121d391?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
