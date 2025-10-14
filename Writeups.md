@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [From Low to Medium - How a simple email injection earned me some $$$](https://infosecwriteups.com/from-low-to-medium-how-a-simple-email-injection-earned-me-some-3e7630ae4e9c?source=rss------bug_bounty_writeup-5)
 - [Reflected in the DOM, Escalated to Account Takeover](https://infosecwriteups.com/reflected-in-the-dom-escalated-to-account-takeover-a378659779c0?source=rss----7b722bfd1b8d---4)
 - [A Bug Hunter’s Guide to CSP Bypasses &lpar;Part 1&rpar;](https://infosecwriteups.com/a-bug-hunters-guide-to-csp-bypasses-part-1-69b606fd2699?source=rss----7b722bfd1b8d---4)
 - [Vulnnet-Roasted TryHackMe: Complete Walkthrough and Solution](https://infosecwriteups.com/vulnnet-roasted-tryhackme-walkthrough-5d023167003b?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Mañana anuncio mi nueva Masterclass de Bug Bounty](https://gorkaaa.medium.com/ma%C3%B1ana-anuncio-mi-nueva-masterclass-de-bug-bounty-78abd91012e0?source=rss------bug_bounty_writeup-5)
 - [The Access Control Apocalypse: How Broken Permissions Gave Me Keys to Every Digital Door](https://infosecwriteups.com/the-access-control-apocalypse-how-broken-permissions-gave-me-keys-to-every-digital-door-9948d05edf2b?source=rss------bug_bounty_writeup-5)
 - [Write-up: SQL injection vulnerability in WHERE clause allowing retrieval of hidden data](https://medium.com/@zerotrace97/write-up-sql-injection-vulnerability-in-where-clause-allowing-retrieval-of-hidden-data-3da45a1c91f0?source=rss------bug_bounty_writeup-5)
-- [How I found A Reflected XSS on one of the Largest Telecommunication Companies](https://medium.com/@shellreaper/how-i-found-a-reflected-on-one-of-the-largest-telecommunication-companies-755bc1c465d3?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
