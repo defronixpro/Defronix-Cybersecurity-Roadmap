@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Account Takeover And Staying Logged In Forever After Password Reset](https://medium.com/@eng.mahmoudbughunter/account-takeover-and-staying-logged-in-forever-after-password-reset-b0ed4b65ac22?source=rss------bug_bounty_writeup-5)
 - [From Low to Medium - How a simple email injection earned me some $$$](https://infosecwriteups.com/from-low-to-medium-how-a-simple-email-injection-earned-me-some-3e7630ae4e9c?source=rss------bug_bounty_writeup-5)
 - [Reflected in the DOM, Escalated to Account Takeover](https://infosecwriteups.com/reflected-in-the-dom-escalated-to-account-takeover-a378659779c0?source=rss----7b722bfd1b8d---4)
 - [A Bug Hunter’s Guide to CSP Bypasses &lpar;Part 1&rpar;](https://infosecwriteups.com/a-bug-hunters-guide-to-csp-bypasses-part-1-69b606fd2699?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Reflected in the DOM, Escalated to Account Takeover](https://infosecwriteups.com/reflected-in-the-dom-escalated-to-account-takeover-a378659779c0?source=rss------bug_bounty_writeup-5)
 - [Mañana anuncio mi nueva Masterclass de Bug Bounty](https://gorkaaa.medium.com/ma%C3%B1ana-anuncio-mi-nueva-masterclass-de-bug-bounty-78abd91012e0?source=rss------bug_bounty_writeup-5)
 - [The Access Control Apocalypse: How Broken Permissions Gave Me Keys to Every Digital Door](https://infosecwriteups.com/the-access-control-apocalypse-how-broken-permissions-gave-me-keys-to-every-digital-door-9948d05edf2b?source=rss------bug_bounty_writeup-5)
-- [Write-up: SQL injection vulnerability in WHERE clause allowing retrieval of hidden data](https://medium.com/@zerotrace97/write-up-sql-injection-vulnerability-in-where-clause-allowing-retrieval-of-hidden-data-3da45a1c91f0?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
