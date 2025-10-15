@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [$35,000 por un fallo en GitLab — Análisis completo de un reporte real](https://gorkaaa.medium.com/35-000-por-un-fallo-en-gitlab-an%C3%A1lisis-completo-de-un-reporte-real-3fe1bd5bbb00?source=rss------bug_bounty_writeup-5)
 - [How I Found a $250 XSS Bug After Losing Hope in Bug Bounty](https://infosecwriteups.com/how-i-found-a-250-xss-bug-after-losing-hope-in-bug-bounty-8ab557df4d1d?source=rss------bug_bounty_writeup-5)
 - [Locks Without Keys: The Power to Ban Users and Freeze a Platform’s Payments](https://medium.com/@hossalhanafy/locks-without-keys-the-power-to-ban-users-and-freeze-a-platforms-payments-8ca9ce16fe8d?source=rss------bug_bounty_writeup-5)
 - [Encrypt &amp; Decrypt Database Fields in Spring Boot Like a Pro &lpar;2025 Secure Guide&rpar;](https://infosecwriteups.com/encrypt-decrypt-database-fields-in-spring-boot-like-a-pro-2025-secure-guide-bf75a1331a82?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Beyond the Shell: Advanced Enumeration and Privilege Escalation for OSCP &lpar;Part 3&rpar;](https://infosecwriteups.com/beyond-the-shell-advanced-enumeration-and-privilege-escalation-for-oscp-part-3-7410d3812d02?source=rss----7b722bfd1b8d---4)
 - [How I Solved Intigriti’s October 2025 Challenge with an “Unintended Solution”](https://medium.com/@ou_/how-i-solved-intigritis-october-2025-challenge-with-an-unintended-solution-4c44122cacdd?source=rss------bug_bounty_writeup-5)
 - [XSS: Bypassing Cloudflare WAF with a Simple Trick](https://medium.com/@pranavrp77/xss-bypassing-cloudflare-waf-with-a-simple-trick-12aff8ce87c7?source=rss------bug_bounty_writeup-5)
-- [How the cookie crumbls](https://medium.com/@collinpotter/how-the-cookie-crumbls-085614ecd0dd?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
