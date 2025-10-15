@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I Found a $250 XSS Bug After Losing Hope in Bug Bounty](https://medium.com/@danishahmed2004505/how-i-found-a-250-xss-bug-after-losing-hope-in-bug-bounty-8ab557df4d1d?source=rss------bug_bounty_writeup-5)
 - [Locks Without Keys: The Power to Ban Users and Freeze a Platform’s Payments](https://medium.com/@hossalhanafy/locks-without-keys-the-power-to-ban-users-and-freeze-a-platforms-payments-8ca9ce16fe8d?source=rss------bug_bounty_writeup-5)
 - [Encrypt &amp; Decrypt Database Fields in Spring Boot Like a Pro &lpar;2025 Secure Guide&rpar;](https://infosecwriteups.com/encrypt-decrypt-database-fields-in-spring-boot-like-a-pro-2025-secure-guide-bf75a1331a82?source=rss----7b722bfd1b8d---4)
 - [$6000 Bounty: How a Simple Bug Lets Hackers Take Over Your Computer](https://osintteam.blog/6000-bounty-how-a-simple-bug-lets-hackers-take-over-your-computer-d1d261bd35af?source=rss------bug_bounty_writeup-5)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How I Solved Intigriti’s October 2025 Challenge with an “Unintended Solution”](https://medium.com/@ou_/how-i-solved-intigritis-october-2025-challenge-with-an-unintended-solution-4c44122cacdd?source=rss------bug_bounty_writeup-5)
 - [XSS: Bypassing Cloudflare WAF with a Simple Trick](https://medium.com/@pranavrp77/xss-bypassing-cloudflare-waf-with-a-simple-trick-12aff8ce87c7?source=rss------bug_bounty_writeup-5)
 - [How the cookie crumbls](https://medium.com/@collinpotter/how-the-cookie-crumbls-085614ecd0dd?source=rss------bug_bounty_writeup-5)
-- [Blockchain Bug Hunting &amp; Patch Workflow: A Complete Checklist for Ethical Hackers](https://medium.com/write-a-catalyst/blockchain-bug-hunting-patch-workflow-a-complete-checklist-for-ethical-hackers-057415161a0f?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
