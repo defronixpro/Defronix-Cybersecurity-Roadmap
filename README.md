@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Encrypt &amp; Decrypt Database Fields in Spring Boot Like a Pro &lpar;2025 Secure Guide&rpar;](https://infosecwriteups.com/encrypt-decrypt-database-fields-in-spring-boot-like-a-pro-2025-secure-guide-bf75a1331a82?source=rss----7b722bfd1b8d---4)
 - [$6000 Bounty: How a Simple Bug Lets Hackers Take Over Your Computer](https://osintteam.blog/6000-bounty-how-a-simple-bug-lets-hackers-take-over-your-computer-d1d261bd35af?source=rss------bug_bounty_writeup-5)
 - [4 vulnerabilidades reales en Google OAuth — análisis técnico paso a paso](https://gorkaaa.medium.com/4-vulnerabilidades-reales-en-google-oauth-an%C3%A1lisis-t%C3%A9cnico-paso-a-paso-26e6d8ac1b90?source=rss------bug_bounty_writeup-5)
 - [Account Takeover And Staying Logged In Forever After Password Reset](https://medium.com/@eng.mahmoudbughunter/account-takeover-and-staying-logged-in-forever-after-password-reset-b0ed4b65ac22?source=rss------bug_bounty_writeup-5)
@@ -935,7 +936,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Hack the Box Starting Point: Preignition](https://infosecwriteups.com/hack-the-box-starting-point-preignition-bb4ef527f887?source=rss----7b722bfd1b8d---4)
 - [How Prosper Landed His First Cybersecurity Job &lpar;and What You Can Learn From It&rpar;](https://infosecwriteups.com/how-prosper-landed-his-first-cybersecurity-job-and-what-you-can-learn-from-it-b86db81237f6?source=rss----7b722bfd1b8d---4)
 - [Beyond the Shell: Advanced Enumeration and Privilege Escalation for OSCP &lpar;Part 3&rpar;](https://infosecwriteups.com/beyond-the-shell-advanced-enumeration-and-privilege-escalation-for-oscp-part-3-7410d3812d02?source=rss----7b722bfd1b8d---4)
-- [CVE Deep Dive : CVE-2025–32463](https://infosecwriteups.com/cve-deep-dive-cve-2025-32463-a48025beaf21?source=rss----7b722bfd1b8d---4)
 - [How I Solved Intigriti’s October 2025 Challenge with an “Unintended Solution”](https://medium.com/@ou_/how-i-solved-intigritis-october-2025-challenge-with-an-unintended-solution-4c44122cacdd?source=rss------bug_bounty_writeup-5)
 - [XSS: Bypassing Cloudflare WAF with a Simple Trick](https://medium.com/@pranavrp77/xss-bypassing-cloudflare-waf-with-a-simple-trick-12aff8ce87c7?source=rss------bug_bounty_writeup-5)
 - [How the cookie crumbls](https://medium.com/@collinpotter/how-the-cookie-crumbls-085614ecd0dd?source=rss------bug_bounty_writeup-5)
