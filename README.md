@@ -922,8 +922,10 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Locks Without Keys: The Power to Ban Users and Freeze a Platform’s Payments](https://medium.com/@hossalhanafy/locks-without-keys-the-power-to-ban-users-and-freeze-a-platforms-payments-8ca9ce16fe8d?source=rss------bug_bounty_writeup-5)
 - [Encrypt &amp; Decrypt Database Fields in Spring Boot Like a Pro &lpar;2025 Secure Guide&rpar;](https://infosecwriteups.com/encrypt-decrypt-database-fields-in-spring-boot-like-a-pro-2025-secure-guide-bf75a1331a82?source=rss----7b722bfd1b8d---4)
 - [$6000 Bounty: How a Simple Bug Lets Hackers Take Over Your Computer](https://osintteam.blog/6000-bounty-how-a-simple-bug-lets-hackers-take-over-your-computer-d1d261bd35af?source=rss------bug_bounty_writeup-5)
+- [Ghost in the System: A Zero-Click Path to Owning Any User Account](https://ln0rag.medium.com/ghost-in-the-system-a-zero-click-path-to-owning-any-user-account-945f9ca7e70d?source=rss------bug_bounty_writeup-5)
 - [4 vulnerabilidades reales en Google OAuth — análisis técnico paso a paso](https://gorkaaa.medium.com/4-vulnerabilidades-reales-en-google-oauth-an%C3%A1lisis-t%C3%A9cnico-paso-a-paso-26e6d8ac1b90?source=rss------bug_bounty_writeup-5)
 - [Account Takeover And Staying Logged In Forever After Password Reset](https://medium.com/@eng.mahmoudbughunter/account-takeover-and-staying-logged-in-forever-after-password-reset-b0ed4b65ac22?source=rss------bug_bounty_writeup-5)
 - [From Low to Medium - How a simple email injection earned me some $$$](https://infosecwriteups.com/from-low-to-medium-how-a-simple-email-injection-earned-me-some-3e7630ae4e9c?source=rss------bug_bounty_writeup-5)
@@ -940,8 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [XSS: Bypassing Cloudflare WAF with a Simple Trick](https://medium.com/@pranavrp77/xss-bypassing-cloudflare-waf-with-a-simple-trick-12aff8ce87c7?source=rss------bug_bounty_writeup-5)
 - [How the cookie crumbls](https://medium.com/@collinpotter/how-the-cookie-crumbls-085614ecd0dd?source=rss------bug_bounty_writeup-5)
 - [Blockchain Bug Hunting &amp; Patch Workflow: A Complete Checklist for Ethical Hackers](https://medium.com/write-a-catalyst/blockchain-bug-hunting-patch-workflow-a-complete-checklist-for-ethical-hackers-057415161a0f?source=rss------bug_bounty_writeup-5)
-- [Microsoft Events Leak, Part II: Leaking Event Registration Database Again](https://medium.com/@faav/microsoft-events-leak-part-ii-leaking-event-registration-database-again-069050664475?source=rss------bug_bounty_writeup-5)
-- [Reflected in the DOM, Escalated to Account Takeover](https://infosecwriteups.com/reflected-in-the-dom-escalated-to-account-takeover-a378659779c0?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
