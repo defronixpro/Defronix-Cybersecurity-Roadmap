@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Encrypt &amp; Decrypt Database Fields in Spring Boot Like a Pro &lpar;2025 Secure Guide&rpar;](https://infosecwriteups.com/encrypt-decrypt-database-fields-in-spring-boot-like-a-pro-2025-secure-guide-bf75a1331a82?source=rss----7b722bfd1b8d---4)
 - [$6000 Bounty: How a Simple Bug Lets Hackers Take Over Your Computer](https://osintteam.blog/6000-bounty-how-a-simple-bug-lets-hackers-take-over-your-computer-d1d261bd35af?source=rss------bug_bounty_writeup-5)
 - [4 vulnerabilidades reales en Google OAuth — análisis técnico paso a paso](https://gorkaaa.medium.com/4-vulnerabilidades-reales-en-google-oauth-an%C3%A1lisis-t%C3%A9cnico-paso-a-paso-26e6d8ac1b90?source=rss------bug_bounty_writeup-5)
 - [Account Takeover And Staying Logged In Forever After Password Reset](https://medium.com/@eng.mahmoudbughunter/account-takeover-and-staying-logged-in-forever-after-password-reset-b0ed4b65ac22?source=rss------bug_bounty_writeup-5)
@@ -14,7 +15,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Hack the Box Starting Point: Preignition](https://infosecwriteups.com/hack-the-box-starting-point-preignition-bb4ef527f887?source=rss----7b722bfd1b8d---4)
 - [How Prosper Landed His First Cybersecurity Job &lpar;and What You Can Learn From It&rpar;](https://infosecwriteups.com/how-prosper-landed-his-first-cybersecurity-job-and-what-you-can-learn-from-it-b86db81237f6?source=rss----7b722bfd1b8d---4)
 - [Beyond the Shell: Advanced Enumeration and Privilege Escalation for OSCP &lpar;Part 3&rpar;](https://infosecwriteups.com/beyond-the-shell-advanced-enumeration-and-privilege-escalation-for-oscp-part-3-7410d3812d02?source=rss----7b722bfd1b8d---4)
-- [CVE Deep Dive : CVE-2025–32463](https://infosecwriteups.com/cve-deep-dive-cve-2025-32463-a48025beaf21?source=rss----7b722bfd1b8d---4)
 - [How I Solved Intigriti’s October 2025 Challenge with an “Unintended Solution”](https://medium.com/@ou_/how-i-solved-intigritis-october-2025-challenge-with-an-unintended-solution-4c44122cacdd?source=rss------bug_bounty_writeup-5)
 - [XSS: Bypassing Cloudflare WAF with a Simple Trick](https://medium.com/@pranavrp77/xss-bypassing-cloudflare-waf-with-a-simple-trick-12aff8ce87c7?source=rss------bug_bounty_writeup-5)
 - [How the cookie crumbls](https://medium.com/@collinpotter/how-the-cookie-crumbls-085614ecd0dd?source=rss------bug_bounty_writeup-5)
@@ -25,7 +25,17 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
 - [How to backup and restore the Windows Registry](https://www.bleepingcomputer.com/tutorials/how-to-backup-and-restore-the-windows-registry/)
+- [How To Fix Error: Externally-Managed-Environment In Python &lpar;Kali Linux&rpar;](https://technicalnavigator.in/how-to-fix-error-externally-managed-environment-in-python-kali-linux/)
+- [Understanding Systemctl Command in Linux &lpar;Practical&rpar;](https://technicalnavigator.in/understanding-systemctl-command-in-linux-practical/)
+- [Macros in docm &amp; Linux memory dump| Hack The Boo  Challanges](https://technicalnavigator.in/macros-in-docm-linux-memory-dump-hack-the-boo-challanges/)
+- [Android Apps debugging |  Frida, JADX, Genymotion](https://technicalnavigator.in/android-apps-debugging-frida-jadx-genymotion/)
+- [MouseServer | wifimouse – Windows/ Linux](https://technicalnavigator.in/mouseserver-wifimouse-windows-linux/)
+- [FFUF fuzzer | web-application penetration-testing](https://technicalnavigator.in/ffuf-fuzzer-web-application-penetration-testing/)
 - [How to open a Windows 11 Command Prompt as Administrator](https://www.bleepingcomputer.com/tutorials/how-to-open-a-windows-11-command-prompt-as-administrator/)
+- [Classes-Objects &amp; Deserialization bug](https://technicalnavigator.in/classes-objects-deserialization-bug/)
+- [Loki Tool | Multhreading Over Sockets in C](https://technicalnavigator.in/loki-tool-multhreading-over-sockets-in-c/)
+- [Egghunter | NASM | C prototype](https://technicalnavigator.in/egghunter-nasm-c-prototype/)
+- [TELNET &amp; FTP Analysis](https://technicalnavigator.in/telnet-ftp-analysis/)
 - [How to make the Start menu full screen in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-make-the-start-menu-full-screen-in-windows-10/)
 - [How to install the Microsoft Visual C++ 2015 Runtime](https://www.bleepingcomputer.com/tutorials/how-to-install-the-microsoft-visual-c-2015-runtime/)
 - [How to open an elevated PowerShell Admin prompt in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-open-an-elevated-powershell-admin-prompt-in-windows-10/)
