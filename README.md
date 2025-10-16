@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Business-Email Policy &amp; OTP Bypass](https://medium.com/@edahmed008/business-email-policy-otp-bypass-015bd25322d8?source=rss------bug_bounty_writeup-5)
 - [Mastering Host Header Injection: Techniques, Payloads and Real-World Scenarios](https://infosecwriteups.com/mastering-host-header-injection-techniques-payloads-and-real-world-scenarios-e00c9e1f85cd?source=rss----7b722bfd1b8d---4)
 - [The Ultimate Guide to 403 Forbidden Bypass &lpar;2025 Edition&rpar;](https://infosecwriteups.com/the-ultimate-guide-to-403-forbidden-bypass-2025-edition-1b2e852e503e?source=rss----7b722bfd1b8d---4)
 - [How to Identify Sensitive Data in JavaScript Files: &lpar;JS-Recon&rpar;](https://infosecwriteups.com/how-to-identify-sensitive-data-in-javascript-files-jsrecon-306b8a2e6462?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Account Takeover And Staying Logged In Forever After Password Reset](https://medium.com/@eng.mahmoudbughunter/account-takeover-and-staying-logged-in-forever-after-password-reset-b0ed4b65ac22?source=rss------bug_bounty_writeup-5)
 - [From Low to Medium - How a simple email injection earned me some $$$](https://infosecwriteups.com/from-low-to-medium-how-a-simple-email-injection-earned-me-some-3e7630ae4e9c?source=rss------bug_bounty_writeup-5)
 - [How I Solved Intigriti’s October 2025 Challenge with an “Unintended Solution”](https://medium.com/@ou_/how-i-solved-intigritis-october-2025-challenge-with-an-unintended-solution-4c44122cacdd?source=rss------bug_bounty_writeup-5)
-- [XSS: Bypassing Cloudflare WAF with a Simple Trick](https://medium.com/@pranavrp77/xss-bypassing-cloudflare-waf-with-a-simple-trick-12aff8ce87c7?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
