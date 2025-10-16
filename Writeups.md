@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How I Found a $250 XSS Bug After Losing Hope in Bug Bounty](https://infosecwriteups.com/how-i-found-a-250-xss-bug-after-losing-hope-in-bug-bounty-8ab557df4d1d?source=rss----7b722bfd1b8d---4)
 - [23. Tools vs. Mindset: What Matters More in 2025](https://infosecwriteups.com/23-tools-vs-mindset-what-matters-more-in-2025-1be217350787?source=rss----7b722bfd1b8d---4)
 - [How to Find XSS Vulnerabilities in 2 Minutes [Updated]](https://infosecwriteups.com/find-xss-vulnerabilities-in-just-2-minutes-d14b63d000b1?source=rss----7b722bfd1b8d---4)
 - [$35,000 por un fallo en GitLab — Análisis completo de un reporte real](https://gorkaaa.medium.com/35-000-por-un-fallo-en-gitlab-an%C3%A1lisis-completo-de-un-reporte-real-3fe1bd5bbb00?source=rss------bug_bounty_writeup-5)
@@ -18,7 +19,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How Hackers Find Secrets Hidden in Public Websites](https://infosecwriteups.com/how-hackers-find-secrets-hidden-in-public-websites-513756e90d0f?source=rss----7b722bfd1b8d---4)
 - [CTF to Bug Bounty: Part 1 of the Beginner’s Series for Aspiring Hunters](https://infosecwriteups.com/ctf-to-bug-bounty-part-1-of-the-beginners-series-for-aspiring-hunters-5ac37af302c4?source=rss----7b722bfd1b8d---4)
 - [Bypass 403 Response Code by Adding Creative String | IRSYADSEC](https://infosecwriteups.com/bypass-403-response-code-by-adding-creative-string-irsyadsec-a6472c9010d0?source=rss----7b722bfd1b8d---4)
-- [Hack the Box Starting Point: Preignition](https://infosecwriteups.com/hack-the-box-starting-point-preignition-bb4ef527f887?source=rss----7b722bfd1b8d---4)
 - [How I Solved Intigriti’s October 2025 Challenge with an “Unintended Solution”](https://medium.com/@ou_/how-i-solved-intigritis-october-2025-challenge-with-an-unintended-solution-4c44122cacdd?source=rss------bug_bounty_writeup-5)
 - [XSS: Bypassing Cloudflare WAF with a Simple Trick](https://medium.com/@pranavrp77/xss-bypassing-cloudflare-waf-with-a-simple-trick-12aff8ce87c7?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
