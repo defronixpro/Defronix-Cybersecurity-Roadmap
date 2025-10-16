@@ -922,16 +922,16 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Mastering Host Header Injection: Techniques, Payloads and Real-World Scenarios](https://infosecwriteups.com/mastering-host-header-injection-techniques-payloads-and-real-world-scenarios-e00c9e1f85cd?source=rss----7b722bfd1b8d---4)
+- [The Ultimate Guide to 403 Forbidden Bypass &lpar;2025 Edition&rpar;](https://infosecwriteups.com/the-ultimate-guide-to-403-forbidden-bypass-2025-edition-1b2e852e503e?source=rss----7b722bfd1b8d---4)
+- [How to Identify Sensitive Data in JavaScript Files: &lpar;JS-Recon&rpar;](https://infosecwriteups.com/how-to-identify-sensitive-data-in-javascript-files-jsrecon-306b8a2e6462?source=rss----7b722bfd1b8d---4)
+- [FFUF Mastery: The Ultimate Web Fuzzing Guide](https://infosecwriteups.com/ffuf-mastery-the-ultimate-web-fuzzing-guide-f7755c396b92?source=rss----7b722bfd1b8d---4)
 - [24. Common Reasons Bugs Get Rejected &lpar;And How to Avoid That&rpar;](https://infosecwriteups.com/24-common-reasons-bugs-get-rejected-and-how-to-avoid-that-6dda954d96a0?source=rss----7b722bfd1b8d---4)
 - [The Nutanix Fable: From nothing to Domain Admin](https://infosecwriteups.com/the-nutanix-fable-a-grand-extended-saga-of-total-domain-chaos-the-beer-fueled-edition-90813ef84aba?source=rss----7b722bfd1b8d---4)
 - [How I Mastered Blind SQL Injection With One Simple Method](https://infosecwriteups.com/how-i-mastered-blind-sql-injection-with-one-simple-method-23c21612ccf5?source=rss----7b722bfd1b8d---4)
 - [ProtoVault Breach Forensics Challenge Offsec CTF Week 1](https://infosecwriteups.com/protovault-breach-forensics-challenge-offsec-ctf-week-1-3baca49f556d?source=rss----7b722bfd1b8d---4)
 - [Internal Password Spraying from Linux: Attacking Active Directory](https://infosecwriteups.com/internal-password-spraying-from-linux-attacking-active-directory-c2b79c5348ff?source=rss----7b722bfd1b8d---4)
 - [How I was able to discover Broken Access Control](https://infosecwriteups.com/how-i-was-able-to-discover-broken-access-control-79982cba80b8?source=rss----7b722bfd1b8d---4)
-- [“The $10,800 Typo: How a Single Dot Broke Twitter’s Authentication”](https://infosecwriteups.com/the-10-800-typo-how-a-single-dot-broke-twitters-authentication-f485e6dc0f04?source=rss----7b722bfd1b8d---4)
-- [How I Found a $250 XSS Bug After Losing Hope in Bug Bounty](https://infosecwriteups.com/how-i-found-a-250-xss-bug-after-losing-hope-in-bug-bounty-8ab557df4d1d?source=rss----7b722bfd1b8d---4)
-- [23. Tools vs. Mindset: What Matters More in 2025](https://infosecwriteups.com/23-tools-vs-mindset-what-matters-more-in-2025-1be217350787?source=rss----7b722bfd1b8d---4)
-- [How to Find XSS Vulnerabilities in 2 Minutes [Updated]](https://infosecwriteups.com/find-xss-vulnerabilities-in-just-2-minutes-d14b63d000b1?source=rss----7b722bfd1b8d---4)
 - [$35,000 por un fallo en GitLab — Análisis completo de un reporte real](https://gorkaaa.medium.com/35-000-por-un-fallo-en-gitlab-an%C3%A1lisis-completo-de-un-reporte-real-3fe1bd5bbb00?source=rss------bug_bounty_writeup-5)
 - [How I Found a $250 XSS Bug After Losing Hope in Bug Bounty](https://infosecwriteups.com/how-i-found-a-250-xss-bug-after-losing-hope-in-bug-bounty-8ab557df4d1d?source=rss------bug_bounty_writeup-5)
 - [Locks Without Keys: The Power to Ban Users and Freeze a Platform’s Payments](https://medium.com/@hossalhanafy/locks-without-keys-the-power-to-ban-users-and-freeze-a-platforms-payments-8ca9ce16fe8d?source=rss------bug_bounty_writeup-5)
