@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [From €1500 to €0.50: A Bug Bounty Story of Payment Flow Manipulation](https://medium.com/meetcyber/from-1500-to-0-50-a-bug-bounty-story-of-payment-flow-manipulation-d845cc2c903d?source=rss------bug_bounty_writeup-5)
 - [HOW TO FIND STORED XSS IN GOOGLE ASSETS &amp; XSS CHAINING TRICK IN CSP PROTECTED GOOGLE](https://medium.com/@azzabughunter/how-to-find-stored-xss-in-google-assets-xss-chaining-trick-in-csp-protected-google-b854ee029e45?source=rss------bug_bounty_writeup-5)
 - [️ Charla + laboratorio: cómo se encontró un IDOR real &lpar;HackerOne&rpar; y cómo mitigarlo](https://gorkaaa.medium.com/%EF%B8%8F-charla-laboratorio-c%C3%B3mo-se-encontr%C3%B3-un-idor-real-hackerone-y-c%C3%B3mo-mitigarlo-5ebbe8868a37?source=rss------bug_bounty_writeup-5)
 - [Business-Email Policy &amp; OTP Bypass](https://medium.com/@edahmed008/business-email-policy-otp-bypass-015bd25322d8?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [$6000 Bounty: How a Simple Bug Lets Hackers Take Over Your Computer](https://osintteam.blog/6000-bounty-how-a-simple-bug-lets-hackers-take-over-your-computer-d1d261bd35af?source=rss------bug_bounty_writeup-5)
 - [Ghost in the System: A Zero-Click Path to Owning Any User Account](https://ln0rag.medium.com/ghost-in-the-system-a-zero-click-path-to-owning-any-user-account-945f9ca7e70d?source=rss------bug_bounty_writeup-5)
 - [4 vulnerabilidades reales en Google OAuth — análisis técnico paso a paso](https://gorkaaa.medium.com/4-vulnerabilidades-reales-en-google-oauth-an%C3%A1lisis-t%C3%A9cnico-paso-a-paso-26e6d8ac1b90?source=rss------bug_bounty_writeup-5)
-- [Account Takeover And Staying Logged In Forever After Password Reset](https://medium.com/@eng.mahmoudbughunter/account-takeover-and-staying-logged-in-forever-after-password-reset-b0ed4b65ac22?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
