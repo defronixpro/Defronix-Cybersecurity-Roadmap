@@ -922,6 +922,11 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Unveiling Hidden AWS Keys In My First Android Pentest](https://infosecwriteups.com/how-my-first-android-pentest-led-to-an-exposed-aws-secret-key-and-how-i-verified-it-caac6e08b1ae?source=rss----7b722bfd1b8d---4)
+- [How I Became an Accidental Admin and Almost Got Fired &lpar;From Someone Else’s Company&rpar;](https://infosecwriteups.com/how-i-became-an-accidental-admin-and-almost-got-fired-from-someone-elses-company-82e7b0acdb8b?source=rss----7b722bfd1b8d---4)
+- [️ Spring Boot API Security Like a Pro: Rate Limiting, Replay Protection &amp; Signature Validation…](https://infosecwriteups.com/%EF%B8%8F-spring-boot-api-security-like-a-pro-rate-limiting-replay-protection-signature-validation-2b28d02c17b1?source=rss----7b722bfd1b8d---4)
+- [25. Monetizing Your Skills Beyond Bug Bounty](https://infosecwriteups.com/25-monetizing-your-skills-beyond-bug-bounty-a6b503d6b6dc?source=rss----7b722bfd1b8d---4)
+- [The Art of Breaking OAuth: Real-World Exploit and Misuses](https://infosecwriteups.com/the-art-of-breaking-oauth-real-world-exploit-and-misuses-c495f5dc94e2?source=rss----7b722bfd1b8d---4)
 - [Account Takeover via IDOR: From UserID to Full Access](https://medium.com/@0xP0L73R63157/account-takeover-via-idor-from-userid-to-full-access-ade4f980cfb4?source=rss------bug_bounty_writeup-5)
 - [From €1500 to €0.50: A Bug Bounty Story of Payment Flow Manipulation](https://medium.com/meetcyber/from-1500-to-0-50-a-bug-bounty-story-of-payment-flow-manipulation-d845cc2c903d?source=rss------bug_bounty_writeup-5)
 - [HOW TO FIND STORED XSS IN GOOGLE ASSETS &amp; XSS CHAINING TRICK IN CSP PROTECTED GOOGLE](https://medium.com/@azzabughunter/how-to-find-stored-xss-in-google-assets-xss-chaining-trick-in-csp-protected-google-b854ee029e45?source=rss------bug_bounty_writeup-5)
@@ -932,11 +937,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How to Identify Sensitive Data in JavaScript Files: &lpar;JS-Recon&rpar;](https://infosecwriteups.com/how-to-identify-sensitive-data-in-javascript-files-jsrecon-306b8a2e6462?source=rss----7b722bfd1b8d---4)
 - [FFUF Mastery: The Ultimate Web Fuzzing Guide](https://infosecwriteups.com/ffuf-mastery-the-ultimate-web-fuzzing-guide-f7755c396b92?source=rss----7b722bfd1b8d---4)
 - [24. Common Reasons Bugs Get Rejected &lpar;And How to Avoid That&rpar;](https://infosecwriteups.com/24-common-reasons-bugs-get-rejected-and-how-to-avoid-that-6dda954d96a0?source=rss----7b722bfd1b8d---4)
-- [The Nutanix Fable: From nothing to Domain Admin](https://infosecwriteups.com/the-nutanix-fable-a-grand-extended-saga-of-total-domain-chaos-the-beer-fueled-edition-90813ef84aba?source=rss----7b722bfd1b8d---4)
-- [How I Mastered Blind SQL Injection With One Simple Method](https://infosecwriteups.com/how-i-mastered-blind-sql-injection-with-one-simple-method-23c21612ccf5?source=rss----7b722bfd1b8d---4)
-- [ProtoVault Breach Forensics Challenge Offsec CTF Week 1](https://infosecwriteups.com/protovault-breach-forensics-challenge-offsec-ctf-week-1-3baca49f556d?source=rss----7b722bfd1b8d---4)
-- [Internal Password Spraying from Linux: Attacking Active Directory](https://infosecwriteups.com/internal-password-spraying-from-linux-attacking-active-directory-c2b79c5348ff?source=rss----7b722bfd1b8d---4)
-- [How I was able to discover Broken Access Control](https://infosecwriteups.com/how-i-was-able-to-discover-broken-access-control-79982cba80b8?source=rss----7b722bfd1b8d---4)
 - [$35,000 por un fallo en GitLab — Análisis completo de un reporte real](https://gorkaaa.medium.com/35-000-por-un-fallo-en-gitlab-an%C3%A1lisis-completo-de-un-reporte-real-3fe1bd5bbb00?source=rss------bug_bounty_writeup-5)
 - [How I Found a $250 XSS Bug After Losing Hope in Bug Bounty](https://infosecwriteups.com/how-i-found-a-250-xss-bug-after-losing-hope-in-bug-bounty-8ab557df4d1d?source=rss------bug_bounty_writeup-5)
 - [Locks Without Keys: The Power to Ban Users and Freeze a Platform’s Payments](https://medium.com/@hossalhanafy/locks-without-keys-the-power-to-ban-users-and-freeze-a-platforms-payments-8ca9ce16fe8d?source=rss------bug_bounty_writeup-5)
