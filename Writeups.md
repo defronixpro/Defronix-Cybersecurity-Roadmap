@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [IDOR lead to unauthorized Access Organizations function](https://medium.com/@HBlackGhost/idor-lead-to-unauthorized-access-organizations-function-0dc707011dd1?source=rss------bug_bounty_writeup-5)
 - [Presentación de mi Masterclass de Bug Bounty — este fin de semana en Discord](https://gorkaaa.medium.com/presentaci%C3%B3n-de-mi-masterclass-de-bug-bounty-este-fin-de-semana-en-discord-4327b9953240?source=rss------bug_bounty_writeup-5)
 - [How I Found a High Severity Vulnerability in a Private Program of a Well-Known SIEM on Intigriti…](https://medium.com/@muhammadidris9404/bagaimana-saya-menemukan-kerentanan-high-di-program-pribadi-salah-satu-siem-terkenal-di-intigriti-bd480536114f?source=rss------bug_bounty_writeup-5)
 - [Unveiling Hidden AWS Keys In My First Android Pentest](https://infosecwriteups.com/how-my-first-android-pentest-led-to-an-exposed-aws-secret-key-and-how-i-verified-it-caac6e08b1ae?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [24. Common Reasons Bugs Get Rejected &lpar;And How to Avoid That&rpar;](https://infosecwriteups.com/24-common-reasons-bugs-get-rejected-and-how-to-avoid-that-6dda954d96a0?source=rss----7b722bfd1b8d---4)
 - [$35,000 por un fallo en GitLab — Análisis completo de un reporte real](https://gorkaaa.medium.com/35-000-por-un-fallo-en-gitlab-an%C3%A1lisis-completo-de-un-reporte-real-3fe1bd5bbb00?source=rss------bug_bounty_writeup-5)
 - [How I Found a $250 XSS Bug After Losing Hope in Bug Bounty](https://infosecwriteups.com/how-i-found-a-250-xss-bug-after-losing-hope-in-bug-bounty-8ab557df4d1d?source=rss------bug_bounty_writeup-5)
-- [Locks Without Keys: The Power to Ban Users and Freeze a Platform’s Payments](https://medium.com/@hossalhanafy/locks-without-keys-the-power-to-ban-users-and-freeze-a-platforms-payments-8ca9ce16fe8d?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
