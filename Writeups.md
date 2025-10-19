@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How I Made Over $10,000 Just by Chaining Multiple IDORs in a Single Web App &lpar;All from the Share…](https://medium.com/@ferdusalam_65023/how-i-made-over-10-000-just-by-chaining-multiple-idors-in-a-single-web-app-all-from-the-share-4d425a15aa37?source=rss------bug_bounty_writeup-5)
 - [How I Got My first Private Invite in Bug Bounty](https://medium.com/activated-thinker/how-i-got-my-first-private-invite-in-bug-bounty-f51ea01e03a7?source=rss------bug_bounty_writeup-5)
 - [IDOR lead to unauthorized Access Organizations function](https://medium.com/@HBlackGhost/idor-lead-to-unauthorized-access-organizations-function-0dc707011dd1?source=rss------bug_bounty_writeup-5)
 - [Presentación de mi Masterclass de Bug Bounty — este fin de semana en Discord](https://gorkaaa.medium.com/presentaci%C3%B3n-de-mi-masterclass-de-bug-bounty-este-fin-de-semana-en-discord-4327b9953240?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How to Identify Sensitive Data in JavaScript Files: &lpar;JS-Recon&rpar;](https://infosecwriteups.com/how-to-identify-sensitive-data-in-javascript-files-jsrecon-306b8a2e6462?source=rss----7b722bfd1b8d---4)
 - [FFUF Mastery: The Ultimate Web Fuzzing Guide](https://infosecwriteups.com/ffuf-mastery-the-ultimate-web-fuzzing-guide-f7755c396b92?source=rss----7b722bfd1b8d---4)
 - [24. Common Reasons Bugs Get Rejected &lpar;And How to Avoid That&rpar;](https://infosecwriteups.com/24-common-reasons-bugs-get-rejected-and-how-to-avoid-that-6dda954d96a0?source=rss----7b722bfd1b8d---4)
-- [$35,000 por un fallo en GitLab — Análisis completo de un reporte real](https://gorkaaa.medium.com/35-000-por-un-fallo-en-gitlab-an%C3%A1lisis-completo-de-un-reporte-real-3fe1bd5bbb00?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
