@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [MASTERCLASS BUG BOUNTY](https://gorkaaa.medium.com/masterclass-bug-bounty-6476ae69f1e4?source=rss------bug_bounty_writeup-5)
 - [How I Made Over $10,000 Just by Chaining Multiple IDORs in a Single Web App &lpar;All from the Share…](https://medium.com/@ferdusalam_65023/how-i-made-over-10-000-just-by-chaining-multiple-idors-in-a-single-web-app-all-from-the-share-4d425a15aa37?source=rss------bug_bounty_writeup-5)
 - [How I Got My first Private Invite in Bug Bounty](https://medium.com/activated-thinker/how-i-got-my-first-private-invite-in-bug-bounty-f51ea01e03a7?source=rss------bug_bounty_writeup-5)
 - [IDOR lead to unauthorized Access Organizations function](https://medium.com/@HBlackGhost/idor-lead-to-unauthorized-access-organizations-function-0dc707011dd1?source=rss------bug_bounty_writeup-5)
@@ -936,7 +937,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [From €1500 to €0.50: A Bug Bounty Story of Payment Flow Manipulation](https://medium.com/meetcyber/from-1500-to-0-50-a-bug-bounty-story-of-payment-flow-manipulation-d845cc2c903d?source=rss------bug_bounty_writeup-5)
 - [HOW TO FIND STORED XSS IN GOOGLE ASSETS &amp; XSS CHAINING TRICK IN CSP PROTECTED GOOGLE](https://medium.com/@azzabughunter/how-to-find-stored-xss-in-google-assets-xss-chaining-trick-in-csp-protected-google-b854ee029e45?source=rss------bug_bounty_writeup-5)
 - [️ Charla + laboratorio: cómo se encontró un IDOR real &lpar;HackerOne&rpar; y cómo mitigarlo](https://gorkaaa.medium.com/%EF%B8%8F-charla-laboratorio-c%C3%B3mo-se-encontr%C3%B3-un-idor-real-hackerone-y-c%C3%B3mo-mitigarlo-5ebbe8868a37?source=rss------bug_bounty_writeup-5)
-- [Business-Email Policy &amp; OTP Bypass](https://medium.com/@edahmed008/business-email-policy-otp-bypass-015bd25322d8?source=rss------bug_bounty_writeup-5)
 - [Mastering Host Header Injection: Techniques, Payloads and Real-World Scenarios](https://infosecwriteups.com/mastering-host-header-injection-techniques-payloads-and-real-world-scenarios-e00c9e1f85cd?source=rss----7b722bfd1b8d---4)
 - [The Ultimate Guide to 403 Forbidden Bypass &lpar;2025 Edition&rpar;](https://infosecwriteups.com/the-ultimate-guide-to-403-forbidden-bypass-2025-edition-1b2e852e503e?source=rss----7b722bfd1b8d---4)
 - [How to Identify Sensitive Data in JavaScript Files: &lpar;JS-Recon&rpar;](https://infosecwriteups.com/how-to-identify-sensitive-data-in-javascript-files-jsrecon-306b8a2e6462?source=rss----7b722bfd1b8d---4)
