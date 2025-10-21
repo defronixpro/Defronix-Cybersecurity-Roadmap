@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [This Is How I Find Reflected XSS In Bug Bounty](https://medium.com/activated-thinker/this-is-how-i-find-reflected-xss-in-bug-bounty-7b42059a5d04?source=rss------bug_bounty_writeup-5)
 - [Web Services SOAP Based Attack Vectors](https://medium.com/@melodicbook/web-services-soap-based-attack-vectors-a3a2672425ed?source=rss------bug_bounty_writeup-5)
 - [Week 14 — Understanding Redux &amp; Fingerprinting Bundlers](https://infosecwriteups.com/week-14-understanding-redux-fingerprinting-bundlers-cdba4a83fc7e?source=rss------bug_bounty_writeup-5)
 - [OTPs For Everyone: The Simplest $OTP Leak$ You’ll Ever Find](https://medium.com/@tinopreter/otps-for-everyone-the-simplest-otp-leak-youll-ever-find-5ff2d7d9c812?source=rss------bug_bounty_writeup-5)
@@ -931,7 +932,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How I Made Over $10,000 Just by Chaining Multiple IDORs in a Single Web App &lpar;All from the Share…](https://medium.com/@ferdusalam_65023/how-i-made-over-10-000-just-by-chaining-multiple-idors-in-a-single-web-app-all-from-the-share-4d425a15aa37?source=rss------bug_bounty_writeup-5)
 - [How I Got My first Private Invite in Bug Bounty](https://medium.com/activated-thinker/how-i-got-my-first-private-invite-in-bug-bounty-f51ea01e03a7?source=rss------bug_bounty_writeup-5)
 - [IDOR lead to unauthorized Access Organizations function](https://medium.com/@HBlackGhost/idor-lead-to-unauthorized-access-organizations-function-0dc707011dd1?source=rss------bug_bounty_writeup-5)
-- [Presentación de mi Masterclass de Bug Bounty — este fin de semana en Discord](https://gorkaaa.medium.com/presentaci%C3%B3n-de-mi-masterclass-de-bug-bounty-este-fin-de-semana-en-discord-4327b9953240?source=rss------bug_bounty_writeup-5)
 - [Unveiling Hidden AWS Keys In My First Android Pentest](https://infosecwriteups.com/how-my-first-android-pentest-led-to-an-exposed-aws-secret-key-and-how-i-verified-it-caac6e08b1ae?source=rss----7b722bfd1b8d---4)
 - [How I Became an Accidental Admin and Almost Got Fired &lpar;From Someone Else’s Company&rpar;](https://infosecwriteups.com/how-i-became-an-accidental-admin-and-almost-got-fired-from-someone-elses-company-82e7b0acdb8b?source=rss----7b722bfd1b8d---4)
 - [️ Spring Boot API Security Like a Pro: Rate Limiting, Replay Protection &amp; Signature Validation…](https://infosecwriteups.com/%EF%B8%8F-spring-boot-api-security-like-a-pro-rate-limiting-replay-protection-signature-validation-2b28d02c17b1?source=rss----7b722bfd1b8d---4)
