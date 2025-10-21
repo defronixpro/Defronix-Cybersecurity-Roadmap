@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Week 14 — Understanding Redux &amp; Fingerprinting Bundlers](https://infosecwriteups.com/week-14-understanding-redux-fingerprinting-bundlers-cdba4a83fc7e?source=rss------bug_bounty_writeup-5)
 - [OTPs For Everyone: The Simplest $OTP Leak$ You’ll Ever Find](https://medium.com/@tinopreter/otps-for-everyone-the-simplest-otp-leak-youll-ever-find-5ff2d7d9c812?source=rss------bug_bounty_writeup-5)
 - [How I got Access to an Employee Only Portal — Bug Bounty](https://medium.com/@jeosantos2005/how-i-got-access-to-an-employee-only-portal-bug-bounty-3e1cbc940b4f?source=rss------bug_bounty_writeup-5)
 - [When Encryption Went Public: The Case of the Hardcoded Key](https://medium.com/@devanshpatel930/when-encryption-went-public-the-case-of-the-hardcoded-key-d711cdd836fb?source=rss------bug_bounty_writeup-5)
@@ -15,7 +16,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [️ Spring Boot API Security Like a Pro: Rate Limiting, Replay Protection &amp; Signature Validation…](https://infosecwriteups.com/%EF%B8%8F-spring-boot-api-security-like-a-pro-rate-limiting-replay-protection-signature-validation-2b28d02c17b1?source=rss----7b722bfd1b8d---4)
 - [25. Monetizing Your Skills Beyond Bug Bounty](https://infosecwriteups.com/25-monetizing-your-skills-beyond-bug-bounty-a6b503d6b6dc?source=rss----7b722bfd1b8d---4)
 - [The Art of Breaking OAuth: Real-World Exploit and Misuses](https://infosecwriteups.com/the-art-of-breaking-oauth-real-world-exploit-and-misuses-c495f5dc94e2?source=rss----7b722bfd1b8d---4)
-- [Account Takeover via IDOR: From UserID to Full Access](https://medium.com/@0xP0L73R63157/account-takeover-via-idor-from-userid-to-full-access-ade4f980cfb4?source=rss------bug_bounty_writeup-5)
 - [Mastering Host Header Injection: Techniques, Payloads and Real-World Scenarios](https://infosecwriteups.com/mastering-host-header-injection-techniques-payloads-and-real-world-scenarios-e00c9e1f85cd?source=rss----7b722bfd1b8d---4)
 - [The Ultimate Guide to 403 Forbidden Bypass &lpar;2025 Edition&rpar;](https://infosecwriteups.com/the-ultimate-guide-to-403-forbidden-bypass-2025-edition-1b2e852e503e?source=rss----7b722bfd1b8d---4)
 - [How to Identify Sensitive Data in JavaScript Files: &lpar;JS-Recon&rpar;](https://infosecwriteups.com/how-to-identify-sensitive-data-in-javascript-files-jsrecon-306b8a2e6462?source=rss----7b722bfd1b8d---4)
