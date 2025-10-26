@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [JSON ResponseDisclosure: From Recon to Advanced Detection](https://osintteam.blog/json-responsedisclosure-from-recon-to-advanced-detection-3413df37461c?source=rss------bug_bounty_writeup-5)
 - [Web Cache Poisoning : Ancaman di Balik Kecepatan](https://medium.com/@ilman.dani11/web-cache-poisoning-ancaman-di-balik-kecepatan-67da01a9a8f4?source=rss------bug_bounty_writeup-5)
 - [Mastering Kali Linux for Ethical Hacking: From Beginner to Advanced](https://jayshreeram-bughunter.medium.com/mastering-kali-linux-for-ethical-hacking-from-beginner-to-advanced-b96cda724b42?source=rss------bug_bounty_writeup-5)
 - [Historia de una recompensa por $.$$$, Metodología aplicada y bypass de solución WAF.](https://medium.com/@dannyramirez_58605/historia-de-una-recompensa-por-metodolog%C3%ADa-aplicada-y-bypass-de-soluci%C3%B3n-waf-746a6f7a0dbf?source=rss------bug_bounty_writeup-5)
@@ -931,7 +932,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Real Bugs from Timing Flaws in Web Services](https://medium.com/write-a-catalyst/real-bugs-from-timing-flaws-in-web-services-89c885c4ac02?source=rss------bug_bounty_writeup-5)
 - [Mastering XSS on a Bug Bounty Platform: Finding, Understanding &amp; Bypassing Defense.](https://jayshreeram-bughunter.medium.com/mastering-xss-on-a-bug-bounty-platform-finding-understanding-bypassing-defense-7a6693284091?source=rss------bug_bounty_writeup-5)
 - [How Did I Hack a Website Just by Reading JS Files](https://medium.com/@devanshpatel930/how-did-i-hack-a-website-just-by-reading-js-files-6d6a6a90aac1?source=rss------bug_bounty_writeup-5)
-- [Cómo un Bug Bounty Hunter descubrió una vulnerabilidad en un banco](https://gorkaaa.medium.com/c%C3%B3mo-un-bug-bounty-hunter-descubri%C3%B3-una-vulnerabilidad-en-un-banco-9f730fdbba48?source=rss------bug_bounty_writeup-5)
 - [Unveiling Hidden AWS Keys In My First Android Pentest](https://infosecwriteups.com/how-my-first-android-pentest-led-to-an-exposed-aws-secret-key-and-how-i-verified-it-caac6e08b1ae?source=rss----7b722bfd1b8d---4)
 - [How I Became an Accidental Admin and Almost Got Fired &lpar;From Someone Else’s Company&rpar;](https://infosecwriteups.com/how-i-became-an-accidental-admin-and-almost-got-fired-from-someone-elses-company-82e7b0acdb8b?source=rss----7b722bfd1b8d---4)
 - [️ Spring Boot API Security Like a Pro: Rate Limiting, Replay Protection &amp; Signature Validation…](https://infosecwriteups.com/%EF%B8%8F-spring-boot-api-security-like-a-pro-rate-limiting-replay-protection-signature-validation-2b28d02c17b1?source=rss----7b722bfd1b8d---4)
