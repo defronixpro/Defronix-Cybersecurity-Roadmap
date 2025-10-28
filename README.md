@@ -927,7 +927,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [CTF Writeup — MarkdownSmartPreview &lpar;EJS SSTI&rpar; — Steps &amp; PoC](https://medium.com/@8wv/ctf-writeup-markdownsmartpreview-ejs-ssti-steps-poc-4eb2670c8db7?source=rss------bug_bounty_writeup-5)
 - [JSON ResponseDisclosure: From Recon to Advanced Detection](https://osintteam.blog/json-responsedisclosure-from-recon-to-advanced-detection-3413df37461c?source=rss------bug_bounty_writeup-5)
 - [Web Cache Poisoning : Ancaman di Balik Kecepatan](https://medium.com/@ilman.dani11/web-cache-poisoning-ancaman-di-balik-kecepatan-67da01a9a8f4?source=rss------bug_bounty_writeup-5)
-- [Mastering Kali Linux for Ethical Hacking: From Beginner to Advanced](https://jayshreeram-bughunter.medium.com/mastering-kali-linux-for-ethical-hacking-from-beginner-to-advanced-b96cda724b42?source=rss------bug_bounty_writeup-5)
 - [Historia de una recompensa por $.$$$, Metodología aplicada y bypass de solución WAF.](https://medium.com/@dannyramirez_58605/historia-de-una-recompensa-por-metodolog%C3%ADa-aplicada-y-bypass-de-soluci%C3%B3n-waf-746a6f7a0dbf?source=rss------bug_bounty_writeup-5)
 - [Ignoring a Firebase Public Configuration?](https://medium.com/@m0n3m/ignoring-a-firebase-public-configuration-9ccb9159abb5?source=rss------bug_bounty_writeup-5)
 - [Recon Wins Again: Uncovering a Billing Portal Leak Through Wayback Machine](https://senoritaahunter.medium.com/recon-wins-again-uncovering-a-billing-portal-leak-through-wayback-machine-c7301e815fc5?source=rss------bug_bounty_writeup-5)
