@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How a Small Chain Turned Duplicates into a Valid Bug with Post-Removal Access](https://medium.com/@OXmekky/how-a-small-chain-turned-duplicates-into-a-valid-bug-with-post-removal-access-f2829526595f?source=rss------bug_bounty_writeup-5)
 - [How a Single Message Could Take Down Discourse Instances &lpar;Bagging a $1K Bounty&rpar;](https://medium.com/@theteatoast/how-a-single-message-could-take-down-discourse-instances-bagging-a-1k-bounty-fc0d4adfde84?source=rss------bug_bounty_writeup-5)
 - [Week 15 — Automated JS Enum: Methodology &amp; Architecture](https://infosecwriteups.com/week-15-automated-js-enum-methodology-architecture-31becf8693ec?source=rss------bug_bounty_writeup-5)
 - [How To Not Get in Trouble Doing Beg Bounties](https://medium.com/activated-thinker/how-to-not-get-in-trouble-finding-beg-bounties-bee02cbef619?source=rss------bug_bounty_writeup-5)
@@ -930,7 +931,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Web Cache Poisoning : Ancaman di Balik Kecepatan](https://medium.com/@ilman.dani11/web-cache-poisoning-ancaman-di-balik-kecepatan-67da01a9a8f4?source=rss------bug_bounty_writeup-5)
 - [Historia de una recompensa por $.$$$, Metodología aplicada y bypass de solución WAF.](https://medium.com/@dannyramirez_58605/historia-de-una-recompensa-por-metodolog%C3%ADa-aplicada-y-bypass-de-soluci%C3%B3n-waf-746a6f7a0dbf?source=rss------bug_bounty_writeup-5)
 - [Ignoring a Firebase Public Configuration?](https://medium.com/@m0n3m/ignoring-a-firebase-public-configuration-9ccb9159abb5?source=rss------bug_bounty_writeup-5)
-- [Recon Wins Again: Uncovering a Billing Portal Leak Through Wayback Machine](https://senoritaahunter.medium.com/recon-wins-again-uncovering-a-billing-portal-leak-through-wayback-machine-c7301e815fc5?source=rss------bug_bounty_writeup-5)
 - [Unveiling Hidden AWS Keys In My First Android Pentest](https://infosecwriteups.com/how-my-first-android-pentest-led-to-an-exposed-aws-secret-key-and-how-i-verified-it-caac6e08b1ae?source=rss----7b722bfd1b8d---4)
 - [How I Became an Accidental Admin and Almost Got Fired &lpar;From Someone Else’s Company&rpar;](https://infosecwriteups.com/how-i-became-an-accidental-admin-and-almost-got-fired-from-someone-elses-company-82e7b0acdb8b?source=rss----7b722bfd1b8d---4)
 - [️ Spring Boot API Security Like a Pro: Rate Limiting, Replay Protection &amp; Signature Validation…](https://infosecwriteups.com/%EF%B8%8F-spring-boot-api-security-like-a-pro-rate-limiting-replay-protection-signature-validation-2b28d02c17b1?source=rss----7b722bfd1b8d---4)
