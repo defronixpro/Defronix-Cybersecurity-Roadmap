@@ -1,7 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
-- [Dorks For Sensitive Information Disclosure Part-4](https://medium.com/@devanshpatel930/dorks-for-sensitive-information-disclosure-part-4-5bc360ce551e?source=rss------bug_bounty_writeup-5)
+- [Dorks For Sensitive Information Disclosure Part-4](https://infosecwriteups.com/dorks-for-sensitive-information-disclosure-part-4-5bc360ce551e?source=rss------bug_bounty_writeup-5)
 - [Finding my first vulnerability on NASA: The Power of Google Dorking](https://ozgun32.medium.com/finding-my-first-vulnerability-on-nasa-the-power-of-google-dorking-6a5a65c7f413?source=rss------bug_bounty_writeup-5)
 - [Find Sensitive Information using: Google Dorking, Shodan, and FOFA](https://medium.com/@commanak46/find-sensitive-information-using-google-dorking-shodan-and-fofa-cce4b19b3940?source=rss------bug_bounty_writeup-5)
 - [How a Small Chain Turned Duplicates into a Valid Bug with Post-Removal Access](https://medium.com/@OXmekky/how-a-small-chain-turned-duplicates-into-a-valid-bug-with-post-removal-access-f2829526595f?source=rss------bug_bounty_writeup-5)
