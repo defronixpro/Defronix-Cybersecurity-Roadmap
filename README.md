@@ -927,7 +927,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Find Sensitive Information using: Google Dorking, Shodan, and FOFA](https://medium.com/@commanak46/find-sensitive-information-using-google-dorking-shodan-and-fofa-cce4b19b3940?source=rss------bug_bounty_writeup-5)
 - [How a Small Chain Turned Duplicates into a Valid Bug with Post-Removal Access](https://medium.com/@OXmekky/how-a-small-chain-turned-duplicates-into-a-valid-bug-with-post-removal-access-f2829526595f?source=rss------bug_bounty_writeup-5)
 - [How a Single Message Could Take Down Discourse Instances &lpar;Bagging a $1K Bounty&rpar;](https://medium.com/@theteatoast/how-a-single-message-could-take-down-discourse-instances-bagging-a-1k-bounty-fc0d4adfde84?source=rss------bug_bounty_writeup-5)
-- [Week 15 — Automated JS Enum: Methodology &amp; Architecture](https://infosecwriteups.com/week-15-automated-js-enum-methodology-architecture-31becf8693ec?source=rss------bug_bounty_writeup-5)
+- [Week 15 — Automated JS Enum: Methodology &amp; Architecture](https://iamaangx028.medium.com/week-15-automated-js-enum-methodology-architecture-31becf8693ec?source=rss------bug_bounty_writeup-5)
 - [How To Not Get in Trouble Doing Beg Bounties](https://medium.com/activated-thinker/how-to-not-get-in-trouble-finding-beg-bounties-bee02cbef619?source=rss------bug_bounty_writeup-5)
 - [CTF Writeup — MarkdownSmartPreview &lpar;EJS SSTI&rpar; — Steps &amp; PoC](https://medium.com/@8wv/ctf-writeup-markdownsmartpreview-ejs-ssti-steps-poc-4eb2670c8db7?source=rss------bug_bounty_writeup-5)
 - [JSON ResponseDisclosure: From Recon to Advanced Detection](https://osintteam.blog/json-responsedisclosure-from-recon-to-advanced-detection-3413df37461c?source=rss------bug_bounty_writeup-5)
