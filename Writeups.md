@@ -1,16 +1,17 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Light TryHackMe Walkthrough](https://infosecwriteups.com/light-tryhackme-walkthrough-46440619060b?source=rss----7b722bfd1b8d---4)
+- [Blue TryHackMe Walkthrough](https://infosecwriteups.com/blue-tryhackme-walkthrough-ef2898292a56?source=rss----7b722bfd1b8d---4)
+- [How I Hacked IIT Delhi](https://infosecwriteups.com/how-i-hacked-iit-delhi-885a7f810292?source=rss----7b722bfd1b8d---4)
 - [$1000 Bounty: GitLab Security Flaw Exposed](https://infosecwriteups.com/1000-bounty-gitlab-security-flaw-exposed-dd309788abb4?source=rss----7b722bfd1b8d---4)
+- [$1000 Bounty: GitLab Security Flaw Exposed](https://infosecwriteups.com/1000-bounty-gitlab-security-flaw-exposed-dd309788abb4?source=rss------bug_bounty_writeup-5)
 - [How I Became the Unofficial Company Archivist &lpar;And Saw Things I Can’t Unsee&rpar;](https://infosecwriteups.com/how-i-became-the-unofficial-company-archivist-and-saw-things-i-cant-unsee-626c711831e4?source=rss----7b722bfd1b8d---4)
 - [Planning — HackTheBox Walkthrough](https://infosecwriteups.com/planning-hackthebox-walkthrough-eefc19a981c2?source=rss----7b722bfd1b8d---4)
 - [Relevant — TryHackMe Room Walkthrough](https://infosecwriteups.com/relevant-tryhackme-room-walkthrough-0231c85c90ae?source=rss----7b722bfd1b8d---4)
 - [The $2,000 Bug That Changed My Life: How a Tiny URL Parameter Broke Web-Store Pricing !!](https://infosecwriteups.com/the-2-000-bug-that-changed-my-life-how-a-tiny-url-parameter-broke-web-store-pricing-7275c3d1204b?source=rss----7b722bfd1b8d---4)
 - [Reverse Polish Pwn Writeup | FortID CTF 2025](https://infosecwriteups.com/reverse-polish-pwn-writeup-fortid-ctf-2025-0022398d5b84?source=rss----7b722bfd1b8d---4)
 - [“The $10,000 Handlebars Hack: How Email Templates Led to Server Takeover”](https://infosecwriteups.com/the-10-000-handlebars-hack-how-email-templates-led-to-server-takeover-1458be4f48c9?source=rss----7b722bfd1b8d---4)
-- [The Day I Became Everyone: How User Swapping Turned Me into a Digital Shapeshifter](https://infosecwriteups.com/the-day-i-became-everyone-how-user-swapping-turned-me-into-a-digital-shapeshifter-91358848a593?source=rss----7b722bfd1b8d---4)
-- [“The $12,500 DNS Trick That Hacked Snapchat’s Cloud Servers”](https://infosecwriteups.com/the-12-500-dns-trick-that-hacked-snapchats-cloud-servers-0cb299ec1d37?source=rss----7b722bfd1b8d---4)
-- [How I Reported a Pre-Account Hijack Affecting Any Gmail User &lpar;Even Google Employees&rpar;- My Bug…](https://infosecwriteups.com/how-i-reported-a-pre-account-hijack-affecting-any-gmail-user-even-google-employees-my-bug-258180c8dd70?source=rss----7b722bfd1b8d---4)
 - [Race condition — Limits? What limits? — Webhook quota cracked &lpar;10 → 81&rpar;](https://0xmostafa.medium.com/race-condition-limits-what-limits-webhook-quota-cracked-10-81-3336afdd8ab4?source=rss------bug_bounty_writeup-5)
 - [Privilege Escalation — From Member to Organization Takeover](https://medium.com/@edahmed008/privilege-escalation-from-member-to-organization-takeover-4fb603817196?source=rss------bug_bounty_writeup-5)
 - [Dorks For Sensitive Information Disclosure Part-4](https://infosecwriteups.com/dorks-for-sensitive-information-disclosure-part-4-5bc360ce551e?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How a Single Message Could Take Down Discourse Instances &lpar;Bagging a $1K Bounty&rpar;](https://medium.com/@theteatoast/how-a-single-message-could-take-down-discourse-instances-bagging-a-1k-bounty-fc0d4adfde84?source=rss------bug_bounty_writeup-5)
 - [Week 15 — Automated JS Enum: Methodology &amp; Architecture](https://iamaangx028.medium.com/week-15-automated-js-enum-methodology-architecture-31becf8693ec?source=rss------bug_bounty_writeup-5)
 - [How To Not Get in Trouble Doing Beg Bounties](https://medium.com/activated-thinker/how-to-not-get-in-trouble-finding-beg-bounties-bee02cbef619?source=rss------bug_bounty_writeup-5)
-- [CTF Writeup — MarkdownSmartPreview &lpar;EJS SSTI&rpar; — Steps &amp; PoC](https://medium.com/@8wv/ctf-writeup-markdownsmartpreview-ejs-ssti-steps-poc-4eb2670c8db7?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
