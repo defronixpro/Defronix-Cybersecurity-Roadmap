@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How Leaked Credentials can benefit Bug Bounty Hunters](https://medium.com/@breachcollectiondotcom/how-leaked-credentials-can-benefit-bug-bounty-hunters-71252b8781da?source=rss------bug_bounty_writeup-5)
 - [Light TryHackMe Walkthrough](https://infosecwriteups.com/light-tryhackme-walkthrough-46440619060b?source=rss----7b722bfd1b8d---4)
 - [Blue TryHackMe Walkthrough](https://infosecwriteups.com/blue-tryhackme-walkthrough-ef2898292a56?source=rss----7b722bfd1b8d---4)
 - [How I Hacked IIT Delhi](https://infosecwriteups.com/how-i-hacked-iit-delhi-885a7f810292?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How a Small Chain Turned Duplicates into a Valid Bug with Post-Removal Access](https://medium.com/@OXmekky/how-a-small-chain-turned-duplicates-into-a-valid-bug-with-post-removal-access-f2829526595f?source=rss------bug_bounty_writeup-5)
 - [How a Single Message Could Take Down Discourse Instances &lpar;Bagging a $1K Bounty&rpar;](https://medium.com/@theteatoast/how-a-single-message-could-take-down-discourse-instances-bagging-a-1k-bounty-fc0d4adfde84?source=rss------bug_bounty_writeup-5)
 - [Week 15 — Automated JS Enum: Methodology &amp; Architecture](https://iamaangx028.medium.com/week-15-automated-js-enum-methodology-architecture-31becf8693ec?source=rss------bug_bounty_writeup-5)
-- [How To Not Get in Trouble Doing Beg Bounties](https://medium.com/activated-thinker/how-to-not-get-in-trouble-finding-beg-bounties-bee02cbef619?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
