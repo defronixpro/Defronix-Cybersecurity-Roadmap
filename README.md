@@ -925,7 +925,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How Leaked Credentials can benefit Bug Bounty Hunters](https://medium.com/@breachcollectiondotcom/how-leaked-credentials-can-benefit-bug-bounty-hunters-71252b8781da?source=rss------bug_bounty_writeup-5)
 - [Light TryHackMe Walkthrough](https://infosecwriteups.com/light-tryhackme-walkthrough-46440619060b?source=rss----7b722bfd1b8d---4)
 - [Blue TryHackMe Walkthrough](https://infosecwriteups.com/blue-tryhackme-walkthrough-ef2898292a56?source=rss----7b722bfd1b8d---4)
-- [How I Hacked IIT Delhi](https://infosecwriteups.com/how-i-hacked-iit-delhi-885a7f810292?source=rss----7b722bfd1b8d---4)
+- [How I Hacked IIT Delhi | | SQL Injection when SQLMAP failed](https://infosecwriteups.com/how-i-hacked-iit-delhi-885a7f810292?source=rss----7b722bfd1b8d---4)
 - [$1000 Bounty: GitLab Security Flaw Exposed](https://infosecwriteups.com/1000-bounty-gitlab-security-flaw-exposed-dd309788abb4?source=rss----7b722bfd1b8d---4)
 - [$1000 Bounty: GitLab Security Flaw Exposed](https://infosecwriteups.com/1000-bounty-gitlab-security-flaw-exposed-dd309788abb4?source=rss------bug_bounty_writeup-5)
 - [How I Became the Unofficial Company Archivist &lpar;And Saw Things I Can’t Unsee&rpar;](https://infosecwriteups.com/how-i-became-the-unofficial-company-archivist-and-saw-things-i-cant-unsee-626c711831e4?source=rss----7b722bfd1b8d---4)
