@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Race condition — Limits? What limits? — Webhook quota cracked &lpar;10 → 81&rpar;](https://0xmostafa.medium.com/race-condition-limits-what-limits-webhook-quota-cracked-10-81-3336afdd8ab4?source=rss------bug_bounty_writeup-5)
 - [Privilege Escalation — From Member to Organization Takeover](https://medium.com/@edahmed008/privilege-escalation-from-member-to-organization-takeover-4fb603817196?source=rss------bug_bounty_writeup-5)
 - [Dorks For Sensitive Information Disclosure Part-4](https://infosecwriteups.com/dorks-for-sensitive-information-disclosure-part-4-5bc360ce551e?source=rss------bug_bounty_writeup-5)
 - [Finding my first vulnerability on NASA: The Power of Google Dorking](https://ozgun32.medium.com/finding-my-first-vulnerability-on-nasa-the-power-of-google-dorking-6a5a65c7f413?source=rss------bug_bounty_writeup-5)
@@ -931,7 +932,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Week 15 — Automated JS Enum: Methodology &amp; Architecture](https://iamaangx028.medium.com/week-15-automated-js-enum-methodology-architecture-31becf8693ec?source=rss------bug_bounty_writeup-5)
 - [How To Not Get in Trouble Doing Beg Bounties](https://medium.com/activated-thinker/how-to-not-get-in-trouble-finding-beg-bounties-bee02cbef619?source=rss------bug_bounty_writeup-5)
 - [CTF Writeup — MarkdownSmartPreview &lpar;EJS SSTI&rpar; — Steps &amp; PoC](https://medium.com/@8wv/ctf-writeup-markdownsmartpreview-ejs-ssti-steps-poc-4eb2670c8db7?source=rss------bug_bounty_writeup-5)
-- [JSON ResponseDisclosure: From Recon to Advanced Detection](https://osintteam.blog/json-responsedisclosure-from-recon-to-advanced-detection-3413df37461c?source=rss------bug_bounty_writeup-5)
 - [Unveiling Hidden AWS Keys In My First Android Pentest](https://infosecwriteups.com/how-my-first-android-pentest-led-to-an-exposed-aws-secret-key-and-how-i-verified-it-caac6e08b1ae?source=rss----7b722bfd1b8d---4)
 - [How I Became an Accidental Admin and Almost Got Fired &lpar;From Someone Else’s Company&rpar;](https://infosecwriteups.com/how-i-became-an-accidental-admin-and-almost-got-fired-from-someone-elses-company-82e7b0acdb8b?source=rss----7b722bfd1b8d---4)
 - [️ Spring Boot API Security Like a Pro: Rate Limiting, Replay Protection &amp; Signature Validation…](https://infosecwriteups.com/%EF%B8%8F-spring-boot-api-security-like-a-pro-rate-limiting-replay-protection-signature-validation-2b28d02c17b1?source=rss----7b722bfd1b8d---4)
