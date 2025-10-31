@@ -940,7 +940,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Privilege Escalation — From Member to Organization Takeover](https://medium.com/@edahmed008/privilege-escalation-from-member-to-organization-takeover-4fb603817196?source=rss------bug_bounty_writeup-5)
 - [Dorks For Sensitive Information Disclosure Part-4](https://infosecwriteups.com/dorks-for-sensitive-information-disclosure-part-4-5bc360ce551e?source=rss------bug_bounty_writeup-5)
 - [Finding my first vulnerability on NASA: The Power of Google Dorking](https://ozgun32.medium.com/finding-my-first-vulnerability-on-nasa-the-power-of-google-dorking-6a5a65c7f413?source=rss------bug_bounty_writeup-5)
-- [Find Sensitive Information using: Google Dorking, Shodan, and FOFA](https://medium.com/mr-plan-publication/find-sensitive-information-using-google-dorking-shodan-and-fofa-cce4b19b3940?source=rss------bug_bounty_writeup-5)
+- [Find Sensitive Information using: Google Dorking, Shodan, and FOFA](https://osintteam.blog/find-sensitive-information-using-google-dorking-shodan-and-fofa-cce4b19b3940?source=rss------bug_bounty_writeup-5)
 - [How a Small Chain Turned Duplicates into a Valid Bug with Post-Removal Access](https://medium.com/@OXmekky/how-a-small-chain-turned-duplicates-into-a-valid-bug-with-post-removal-access-f2829526595f?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
