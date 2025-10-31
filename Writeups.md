@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [#4 RFI: From an External URL Into your Application](https://infosecwriteups.com/4-rfi-from-an-external-url-into-your-application-a5aeb1c5958c?source=rss----7b722bfd1b8d---4)
 - [How I Made ChatGPT My Personal Hacking Assistant &lpar;And Broke Their “AI-Powered” Security&rpar;](https://infosecwriteups.com/how-i-made-chatgpt-my-personal-hacking-assistant-and-broke-their-ai-powered-security-ee37d4a725c2?source=rss----7b722bfd1b8d---4)
 - [Hack the Box: Nibbles Walkthrough](https://infosecwriteups.com/hack-the-box-nibbles-walkthrough-1b414bf64d35?source=rss----7b722bfd1b8d---4)
 - [How I Hacked JWT Tokens and Became Everyone on the Internet &lpar;Temporarily&rpar;](https://infosecwriteups.com/how-i-hacked-jwt-tokens-and-became-everyone-on-the-internet-temporarily-1e05f961048d?source=rss----7b722bfd1b8d---4)
@@ -13,7 +14,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [$1000 Bounty: GitLab Security Flaw Exposed](https://infosecwriteups.com/1000-bounty-gitlab-security-flaw-exposed-dd309788abb4?source=rss----7b722bfd1b8d---4)
 - [$1000 Bounty: GitLab Security Flaw Exposed](https://infosecwriteups.com/1000-bounty-gitlab-security-flaw-exposed-dd309788abb4?source=rss------bug_bounty_writeup-5)
 - [How I Became the Unofficial Company Archivist &lpar;And Saw Things I Can’t Unsee&rpar;](https://infosecwriteups.com/how-i-became-the-unofficial-company-archivist-and-saw-things-i-cant-unsee-626c711831e4?source=rss----7b722bfd1b8d---4)
-- [Planning — HackTheBox Walkthrough](https://infosecwriteups.com/planning-hackthebox-walkthrough-eefc19a981c2?source=rss----7b722bfd1b8d---4)
 - [Race condition — Limits? What limits? — Webhook quota cracked &lpar;10 → 81&rpar;](https://0xmostafa.medium.com/race-condition-limits-what-limits-webhook-quota-cracked-10-81-3336afdd8ab4?source=rss------bug_bounty_writeup-5)
 - [Privilege Escalation — From Member to Organization Takeover](https://medium.com/@edahmed008/privilege-escalation-from-member-to-organization-takeover-4fb603817196?source=rss------bug_bounty_writeup-5)
 - [Dorks For Sensitive Information Disclosure Part-4](https://infosecwriteups.com/dorks-for-sensitive-information-disclosure-part-4-5bc360ce551e?source=rss------bug_bounty_writeup-5)
@@ -25,7 +25,17 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
 - [How to backup and restore the Windows Registry](https://www.bleepingcomputer.com/tutorials/how-to-backup-and-restore-the-windows-registry/)
+- [How To Fix Error: Externally-Managed-Environment In Python &lpar;Kali Linux&rpar;](https://technicalnavigator.in/how-to-fix-error-externally-managed-environment-in-python-kali-linux/)
+- [Understanding Systemctl Command in Linux &lpar;Practical&rpar;](https://technicalnavigator.in/understanding-systemctl-command-in-linux-practical/)
+- [Macros in docm &amp; Linux memory dump| Hack The Boo  Challanges](https://technicalnavigator.in/macros-in-docm-linux-memory-dump-hack-the-boo-challanges/)
+- [Android Apps debugging |  Frida, JADX, Genymotion](https://technicalnavigator.in/android-apps-debugging-frida-jadx-genymotion/)
+- [MouseServer | wifimouse – Windows/ Linux](https://technicalnavigator.in/mouseserver-wifimouse-windows-linux/)
+- [FFUF fuzzer | web-application penetration-testing](https://technicalnavigator.in/ffuf-fuzzer-web-application-penetration-testing/)
 - [How to open a Windows 11 Command Prompt as Administrator](https://www.bleepingcomputer.com/tutorials/how-to-open-a-windows-11-command-prompt-as-administrator/)
+- [Classes-Objects &amp; Deserialization bug](https://technicalnavigator.in/classes-objects-deserialization-bug/)
+- [Loki Tool | Multhreading Over Sockets in C](https://technicalnavigator.in/loki-tool-multhreading-over-sockets-in-c/)
+- [Egghunter | NASM | C prototype](https://technicalnavigator.in/egghunter-nasm-c-prototype/)
+- [TELNET &amp; FTP Analysis](https://technicalnavigator.in/telnet-ftp-analysis/)
 - [How to make the Start menu full screen in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-make-the-start-menu-full-screen-in-windows-10/)
 - [How to install the Microsoft Visual C++ 2015 Runtime](https://www.bleepingcomputer.com/tutorials/how-to-install-the-microsoft-visual-c-2015-runtime/)
 - [How to open an elevated PowerShell Admin prompt in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-open-an-elevated-powershell-admin-prompt-in-windows-10/)
