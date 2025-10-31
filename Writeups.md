@@ -1,6 +1,10 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How I Made ChatGPT My Personal Hacking Assistant &lpar;And Broke Their “AI-Powered” Security&rpar;](https://infosecwriteups.com/how-i-made-chatgpt-my-personal-hacking-assistant-and-broke-their-ai-powered-security-ee37d4a725c2?source=rss----7b722bfd1b8d---4)
+- [Hack the Box: Nibbles Walkthrough](https://infosecwriteups.com/hack-the-box-nibbles-walkthrough-1b414bf64d35?source=rss----7b722bfd1b8d---4)
+- [How I Hacked JWT Tokens and Became Everyone on the Internet &lpar;Temporarily&rpar;](https://infosecwriteups.com/how-i-hacked-jwt-tokens-and-became-everyone-on-the-internet-temporarily-1e05f961048d?source=rss----7b722bfd1b8d---4)
+- [Exposed API Keys and Secrets with AI](https://infosecwriteups.com/exposed-api-keys-and-secrets-d9c08f34ab73?source=rss----7b722bfd1b8d---4)
 - [Web Cache Poisoning — Part 2: Weaponizing Headers &amp; URL Discrepancies](https://medium.com/@Aacle/web-cache-poisoning-part-2-weaponizing-headers-url-discrepancies-bbb7b2c0159a?source=rss------bug_bounty_writeup-5)
 - [How Leaked Credentials can benefit Bug Bounty Hunters](https://medium.com/@breachcollectiondotcom/how-leaked-credentials-can-benefit-bug-bounty-hunters-71252b8781da?source=rss------bug_bounty_writeup-5)
 - [Light TryHackMe Walkthrough](https://infosecwriteups.com/light-tryhackme-walkthrough-46440619060b?source=rss----7b722bfd1b8d---4)
@@ -10,10 +14,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [$1000 Bounty: GitLab Security Flaw Exposed](https://infosecwriteups.com/1000-bounty-gitlab-security-flaw-exposed-dd309788abb4?source=rss------bug_bounty_writeup-5)
 - [How I Became the Unofficial Company Archivist &lpar;And Saw Things I Can’t Unsee&rpar;](https://infosecwriteups.com/how-i-became-the-unofficial-company-archivist-and-saw-things-i-cant-unsee-626c711831e4?source=rss----7b722bfd1b8d---4)
 - [Planning — HackTheBox Walkthrough](https://infosecwriteups.com/planning-hackthebox-walkthrough-eefc19a981c2?source=rss----7b722bfd1b8d---4)
-- [Relevant — TryHackMe Room Walkthrough](https://infosecwriteups.com/relevant-tryhackme-room-walkthrough-0231c85c90ae?source=rss----7b722bfd1b8d---4)
-- [The $2,000 Bug That Changed My Life: How a Tiny URL Parameter Broke Web-Store Pricing !!](https://infosecwriteups.com/the-2-000-bug-that-changed-my-life-how-a-tiny-url-parameter-broke-web-store-pricing-7275c3d1204b?source=rss----7b722bfd1b8d---4)
-- [Reverse Polish Pwn Writeup | FortID CTF 2025](https://infosecwriteups.com/reverse-polish-pwn-writeup-fortid-ctf-2025-0022398d5b84?source=rss----7b722bfd1b8d---4)
-- [“The $10,000 Handlebars Hack: How Email Templates Led to Server Takeover”](https://infosecwriteups.com/the-10-000-handlebars-hack-how-email-templates-led-to-server-takeover-1458be4f48c9?source=rss----7b722bfd1b8d---4)
 - [Race condition — Limits? What limits? — Webhook quota cracked &lpar;10 → 81&rpar;](https://0xmostafa.medium.com/race-condition-limits-what-limits-webhook-quota-cracked-10-81-3336afdd8ab4?source=rss------bug_bounty_writeup-5)
 - [Privilege Escalation — From Member to Organization Takeover](https://medium.com/@edahmed008/privilege-escalation-from-member-to-organization-takeover-4fb603817196?source=rss------bug_bounty_writeup-5)
 - [Dorks For Sensitive Information Disclosure Part-4](https://infosecwriteups.com/dorks-for-sensitive-information-disclosure-part-4-5bc360ce551e?source=rss------bug_bounty_writeup-5)
