@@ -922,7 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [How I earned ₹₹₹₹₹ by reporting API key to massive payment company.](https://medium.com/@deepk007/how-i-earned-by-reporting-api-key-to-massive-payment-company-f02e85fdbdab?source=rss------bug_bounty_writeup-5)
+- [How I earned ₹₹₹₹₹ by reporting API key to massive payment company](https://medium.com/@deepk007/how-i-earned-by-reporting-api-key-to-massive-payment-company-f02e85fdbdab?source=rss------bug_bounty_writeup-5)
 - [Idor — TryHackMe writeup](https://infosecwriteups.com/idor-tryhackme-writeup-705392a6890a?source=rss----7b722bfd1b8d---4)
 - [Web Cache Deception Attack – A Hidden Threat in Today’s Web Applications](https://infosecwriteups.com/web-cache-deception-attack-a-hidden-threat-in-todays-web-applications-9b7b4b37a3a0?source=rss----7b722bfd1b8d---4)
 - [SQL Injection Leads to dump the Student PII](https://infosecwriteups.com/sql-injection-leads-to-dump-the-student-pii-b9aaab02b7f4?source=rss----7b722bfd1b8d---4)
