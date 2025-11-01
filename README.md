@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Automation VS Manual Hacking. How To Do Bug Hunting The Right Way?](https://medium.com/activated-thinker/automation-vs-manual-hacking-how-to-do-bug-hunting-the-right-way-c6e58232609f?source=rss------bug_bounty_writeup-5)
 - [Authentication Bypass via Client-Side Response Tampering](https://medium.com/@bytewreaker/authentication-bypass-via-client-side-response-tampering-f79ad16dcef9?source=rss------bug_bounty_writeup-5)
 - [Vulnyx: Spooisong Write-up — Dari LFI ke Root via Miskonfigurasi DNS](https://medium.com/@exnomous/vulnyx-spooisong-write-up-dari-lfi-ke-root-via-miskonfigurasi-dns-ad3c4ca32afa?source=rss------bug_bounty_writeup-5)
 - [How I earned ₹₹₹₹₹ by reporting API key to massive payment company](https://medium.com/@deepk007/how-i-earned-by-reporting-api-key-to-massive-payment-company-f02e85fdbdab?source=rss------bug_bounty_writeup-5)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [$1000 Bounty: GitLab Security Flaw Exposed](https://infosecwriteups.com/1000-bounty-gitlab-security-flaw-exposed-dd309788abb4?source=rss------bug_bounty_writeup-5)
 - [Race condition — Limits? What limits? — Webhook quota cracked &lpar;10 → 81&rpar;](https://0xmostafa.medium.com/race-condition-limits-what-limits-webhook-quota-cracked-10-81-3336afdd8ab4?source=rss------bug_bounty_writeup-5)
 - [Privilege Escalation — From Member to Organization Takeover](https://medium.com/@edahmed008/privilege-escalation-from-member-to-organization-takeover-4fb603817196?source=rss------bug_bounty_writeup-5)
-- [Dorks For Sensitive Information Disclosure Part-4](https://infosecwriteups.com/dorks-for-sensitive-information-disclosure-part-4-5bc360ce551e?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
