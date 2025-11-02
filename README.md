@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [2FA Enforcement Bypass via Request Manipulation](https://medium.com/@bytewreaker/2fa-enforcement-bypass-via-request-manipulation-36b2296788ec?source=rss------bug_bounty_writeup-5)
+- [Internal API Credentials and Host Disclosure](https://medium.com/@bytewreaker/internal-api-credentials-and-host-disclosure-a5ca1b26cc05?source=rss------bug_bounty_writeup-5)
 - [Hunting JavaScript: Finding Vulnerable JS Links](https://medium.com/meetcyber/hunting-javascript-finding-vulnerable-js-links-3a99d01d6313?source=rss------bug_bounty_writeup-5)
 - [JavaScript Recon for Bug Hunters — Pull, Parse, Profit ️‍♂️](https://icecream23.medium.com/javascript-recon-for-bug-hunters-pull-parse-profit-%EF%B8%8F-%EF%B8%8F-6a0a3a3cd1df?source=rss------bug_bounty_writeup-5)
 - [How I Created a Private Project Without Paying — Subscription Bypass in Project Creation](https://medium.com/@alongali334/how-i-created-a-private-project-without-paying-subscription-bypass-in-project-creation-14e482788422?source=rss------bug_bounty_writeup-5)
@@ -935,13 +937,11 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [SQL Injection Leads to dump the Student PII](https://infosecwriteups.com/sql-injection-leads-to-dump-the-student-pii-b9aaab02b7f4?source=rss----7b722bfd1b8d---4)
 - [HTB Academy: Windows Fundamentals](https://infosecwriteups.com/htb-academy-windows-fundamentals-eefae02ee49c?source=rss----7b722bfd1b8d---4)
 - [Everyone Wants to Hack — No One Wants to Think](https://infosecwriteups.com/everyone-wants-to-hack-no-one-wants-to-think-a6bb8a313501?source=rss----7b722bfd1b8d---4)
-- [⚙️ Remote Code Execution in GitLab — The Tale of a Rogue “GitHub Import”](https://medium.com/@Aacle/%EF%B8%8F-remote-code-execution-in-gitlab-the-tale-of-a-rogue-github-import-660ec866f07c?source=rss------bug_bounty_writeup-5)
 - [011e021d6fa524b55bfc5ba67522daeb | MD5 Breakdown?](https://infosecwriteups.com/011e021d6fa524b55bfc5ba67522daeb-md5-breakdown-0d82846c0ff6?source=rss----7b722bfd1b8d---4)
 - [#4 RFI: From an External URL Into your Application](https://infosecwriteups.com/4-rfi-from-an-external-url-into-your-application-a5aeb1c5958c?source=rss----7b722bfd1b8d---4)
 - [How I Made ChatGPT My Personal Hacking Assistant &lpar;And Broke Their “AI-Powered” Security&rpar;](https://infosecwriteups.com/how-i-made-chatgpt-my-personal-hacking-assistant-and-broke-their-ai-powered-security-ee37d4a725c2?source=rss----7b722bfd1b8d---4)
 - [Hack the Box: Nibbles Walkthrough](https://infosecwriteups.com/hack-the-box-nibbles-walkthrough-1b414bf64d35?source=rss----7b722bfd1b8d---4)
 - [How I Hacked JWT Tokens and Became Everyone on the Internet &lpar;Temporarily&rpar;](https://infosecwriteups.com/how-i-hacked-jwt-tokens-and-became-everyone-on-the-internet-temporarily-1e05f961048d?source=rss----7b722bfd1b8d---4)
-- [Web Cache Poisoning — Part 2: Weaponizing Headers &amp; URL Discrepancies](https://medium.com/@Aacle/web-cache-poisoning-part-2-weaponizing-headers-url-discrepancies-bbb7b2c0159a?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
