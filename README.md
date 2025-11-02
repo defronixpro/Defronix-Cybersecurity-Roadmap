@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I Created a Private Project Without Paying — Subscription Bypass in Project Creation](https://medium.com/@alongali334/how-i-created-a-private-project-without-paying-subscription-bypass-in-project-creation-14e482788422?source=rss------bug_bounty_writeup-5)
 - [When an Endpoint Enumerator Turned Into a P1 information disclosure bug Here’s What I Found](https://medium.com/@Mayowaomolabi/when-an-endpoint-enumerator-turned-into-a-p1-information-disclosure-bug-heres-what-i-found-9cb6bd3b6752?source=rss------bug_bounty_writeup-5)
 - [Automation VS Manual Hacking. How To Do Bug Hunting The Right Way?](https://medium.com/activated-thinker/automation-vs-manual-hacking-how-to-do-bug-hunting-the-right-way-c6e58232609f?source=rss------bug_bounty_writeup-5)
 - [Authentication Bypass via Client-Side Response Tampering](https://medium.com/@bytewreaker/authentication-bypass-via-client-side-response-tampering-f79ad16dcef9?source=rss------bug_bounty_writeup-5)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Web Cache Poisoning — Part 2: Weaponizing Headers &amp; URL Discrepancies](https://medium.com/@Aacle/web-cache-poisoning-part-2-weaponizing-headers-url-discrepancies-bbb7b2c0159a?source=rss------bug_bounty_writeup-5)
 - [How Leaked Credentials can benefit Bug Bounty Hunters](https://medium.com/@breachcollectiondotcom/how-leaked-credentials-can-benefit-bug-bounty-hunters-71252b8781da?source=rss------bug_bounty_writeup-5)
 - [$1000 Bounty: GitLab Security Flaw Exposed](https://infosecwriteups.com/1000-bounty-gitlab-security-flaw-exposed-dd309788abb4?source=rss------bug_bounty_writeup-5)
-- [Race condition — Limits? What limits? — Webhook quota cracked &lpar;10 → 81&rpar;](https://0xmostafa.medium.com/race-condition-limits-what-limits-webhook-quota-cracked-10-81-3336afdd8ab4?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
