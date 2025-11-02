@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Hunting JavaScript: Finding Vulnerable JS Links](https://medium.com/meetcyber/hunting-javascript-finding-vulnerable-js-links-3a99d01d6313?source=rss------bug_bounty_writeup-5)
 - [JavaScript Recon for Bug Hunters — Pull, Parse, Profit ️‍♂️](https://icecream23.medium.com/javascript-recon-for-bug-hunters-pull-parse-profit-%EF%B8%8F-%EF%B8%8F-6a0a3a3cd1df?source=rss------bug_bounty_writeup-5)
 - [How I Created a Private Project Without Paying — Subscription Bypass in Project Creation](https://medium.com/@alongali334/how-i-created-a-private-project-without-paying-subscription-bypass-in-project-creation-14e482788422?source=rss------bug_bounty_writeup-5)
 - [When an Endpoint Enumerator Turned Into a P1 information disclosure bug Here’s What I Found](https://medium.com/@Mayowaomolabi/when-an-endpoint-enumerator-turned-into-a-p1-information-disclosure-bug-heres-what-i-found-9cb6bd3b6752?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Hack the Box: Nibbles Walkthrough](https://infosecwriteups.com/hack-the-box-nibbles-walkthrough-1b414bf64d35?source=rss----7b722bfd1b8d---4)
 - [How I Hacked JWT Tokens and Became Everyone on the Internet &lpar;Temporarily&rpar;](https://infosecwriteups.com/how-i-hacked-jwt-tokens-and-became-everyone-on-the-internet-temporarily-1e05f961048d?source=rss----7b722bfd1b8d---4)
 - [Web Cache Poisoning — Part 2: Weaponizing Headers &amp; URL Discrepancies](https://medium.com/@Aacle/web-cache-poisoning-part-2-weaponizing-headers-url-discrepancies-bbb7b2c0159a?source=rss------bug_bounty_writeup-5)
-- [How Leaked Credentials can benefit Bug Bounty Hunters](https://medium.com/@breachcollectiondotcom/how-leaked-credentials-can-benefit-bug-bounty-hunters-71252b8781da?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
