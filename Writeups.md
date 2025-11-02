@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Exposed API Key and RSA Private Key in POS Frontend](https://medium.com/@bytewreaker/exposed-api-key-and-rsa-private-key-in-pos-frontend-2132f55b0acc?source=rss------bug_bounty_writeup-5)
 - [2FA Enforcement Bypass via Request Manipulation](https://medium.com/@bytewreaker/2fa-enforcement-bypass-via-request-manipulation-36b2296788ec?source=rss------bug_bounty_writeup-5)
 - [Internal API Credentials and Host Disclosure](https://medium.com/@bytewreaker/internal-api-credentials-and-host-disclosure-a5ca1b26cc05?source=rss------bug_bounty_writeup-5)
 - [Hunting JavaScript: Finding Vulnerable JS Links](https://medium.com/meetcyber/hunting-javascript-finding-vulnerable-js-links-3a99d01d6313?source=rss------bug_bounty_writeup-5)
@@ -10,7 +11,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Automation VS Manual Hacking. How To Do Bug Hunting The Right Way?](https://medium.com/activated-thinker/automation-vs-manual-hacking-how-to-do-bug-hunting-the-right-way-c6e58232609f?source=rss------bug_bounty_writeup-5)
 - [Authentication Bypass via Client-Side Response Tampering](https://medium.com/@bytewreaker/authentication-bypass-via-client-side-response-tampering-f79ad16dcef9?source=rss------bug_bounty_writeup-5)
 - [Vulnyx: Spooisong Write-up — Dari LFI ke Root via Miskonfigurasi DNS](https://medium.com/@exnomous/vulnyx-spooisong-write-up-dari-lfi-ke-root-via-miskonfigurasi-dns-ad3c4ca32afa?source=rss------bug_bounty_writeup-5)
-- [A journey of finding Azure Speech Service API key in a massive payment Company](https://medium.com/@deepk007/how-i-earned-by-reporting-api-key-to-massive-payment-company-f02e85fdbdab?source=rss------bug_bounty_writeup-5)
 - [Idor — TryHackMe writeup](https://infosecwriteups.com/idor-tryhackme-writeup-705392a6890a?source=rss----7b722bfd1b8d---4)
 - [Web Cache Deception Attack – A Hidden Threat in Today’s Web Applications](https://infosecwriteups.com/web-cache-deception-attack-a-hidden-threat-in-todays-web-applications-9b7b4b37a3a0?source=rss----7b722bfd1b8d---4)
 - [SQL Injection Leads to dump the Student PII](https://infosecwriteups.com/sql-injection-leads-to-dump-the-student-pii-b9aaab02b7f4?source=rss----7b722bfd1b8d---4)
