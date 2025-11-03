@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Server-Side Discount Validation Bypass Enables Arbitrary Price Reduction](https://medium.com/@ali3bdelhady/server-side-discount-validation-bypass-enables-arbitrary-price-reduction-6336dfcea79e?source=rss------bug_bounty_writeup-5)
 - [How I Found a Stored XSS Vulnerability Through a PDF Upload](https://medium.com/@Abhiii_Sharma/how-i-found-a-stored-xss-vulnerability-through-a-pdf-upload-75b4bbfbf9a3?source=rss------bug_bounty_writeup-5)
 - [Exposed API Key and RSA Private Key in POS Frontend](https://medium.com/@bytewreaker/exposed-api-key-and-rsa-private-key-in-pos-frontend-2132f55b0acc?source=rss------bug_bounty_writeup-5)
 - [2FA Enforcement Bypass via Request Manipulation](https://medium.com/@bytewreaker/2fa-enforcement-bypass-via-request-manipulation-36b2296788ec?source=rss------bug_bounty_writeup-5)
@@ -9,7 +10,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [JavaScript Recon for Bug Hunters — Pull, Parse, Profit ️‍♂️](https://icecream23.medium.com/javascript-recon-for-bug-hunters-pull-parse-profit-%EF%B8%8F-%EF%B8%8F-6a0a3a3cd1df?source=rss------bug_bounty_writeup-5)
 - [How I Created a Private Project Without Paying — Subscription Bypass in Project Creation](https://medium.com/@alongali334/how-i-created-a-private-project-without-paying-subscription-bypass-in-project-creation-14e482788422?source=rss------bug_bounty_writeup-5)
 - [When an Endpoint Enumerator Turned Into a P1 information disclosure bug Here’s What I Found](https://medium.com/@Mayowaomolabi/when-an-endpoint-enumerator-turned-into-a-p1-information-disclosure-bug-heres-what-i-found-9cb6bd3b6752?source=rss------bug_bounty_writeup-5)
-- [Automation VS Manual Hacking. How To Do Bug Hunting The Right Way?](https://medium.com/activated-thinker/automation-vs-manual-hacking-how-to-do-bug-hunting-the-right-way-c6e58232609f?source=rss------bug_bounty_writeup-5)
 - [Idor — TryHackMe writeup](https://infosecwriteups.com/idor-tryhackme-writeup-705392a6890a?source=rss----7b722bfd1b8d---4)
 - [Web Cache Deception Attack – A Hidden Threat in Today’s Web Applications](https://infosecwriteups.com/web-cache-deception-attack-a-hidden-threat-in-todays-web-applications-9b7b4b37a3a0?source=rss----7b722bfd1b8d---4)
 - [SQL Injection Leads to dump the Student PII](https://infosecwriteups.com/sql-injection-leads-to-dump-the-student-pii-b9aaab02b7f4?source=rss----7b722bfd1b8d---4)
