@@ -10,7 +10,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How I Created a Private Project Without Paying — Subscription Bypass in Project Creation](https://medium.com/@alongali334/how-i-created-a-private-project-without-paying-subscription-bypass-in-project-creation-14e482788422?source=rss------bug_bounty_writeup-5)
 - [When an Endpoint Enumerator Turned Into a P1 information disclosure bug Here’s What I Found](https://medium.com/@Mayowaomolabi/when-an-endpoint-enumerator-turned-into-a-p1-information-disclosure-bug-heres-what-i-found-9cb6bd3b6752?source=rss------bug_bounty_writeup-5)
 - [Automation VS Manual Hacking. How To Do Bug Hunting The Right Way?](https://medium.com/activated-thinker/automation-vs-manual-hacking-how-to-do-bug-hunting-the-right-way-c6e58232609f?source=rss------bug_bounty_writeup-5)
-- [Authentication Bypass via Client-Side Response Tampering](https://medium.com/@bytewreaker/authentication-bypass-via-client-side-response-tampering-f79ad16dcef9?source=rss------bug_bounty_writeup-5)
 - [Idor — TryHackMe writeup](https://infosecwriteups.com/idor-tryhackme-writeup-705392a6890a?source=rss----7b722bfd1b8d---4)
 - [Web Cache Deception Attack – A Hidden Threat in Today’s Web Applications](https://infosecwriteups.com/web-cache-deception-attack-a-hidden-threat-in-todays-web-applications-9b7b4b37a3a0?source=rss----7b722bfd1b8d---4)
 - [SQL Injection Leads to dump the Student PII](https://infosecwriteups.com/sql-injection-leads-to-dump-the-student-pii-b9aaab02b7f4?source=rss----7b722bfd1b8d---4)
