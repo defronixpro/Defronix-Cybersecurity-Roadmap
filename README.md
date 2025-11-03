@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I Found a Stored XSS Vulnerability Through a PDF Upload](https://medium.com/@Abhiii_Sharma/how-i-found-a-stored-xss-vulnerability-through-a-pdf-upload-75b4bbfbf9a3?source=rss------bug_bounty_writeup-5)
 - [Exposed API Key and RSA Private Key in POS Frontend](https://medium.com/@bytewreaker/exposed-api-key-and-rsa-private-key-in-pos-frontend-2132f55b0acc?source=rss------bug_bounty_writeup-5)
 - [2FA Enforcement Bypass via Request Manipulation](https://medium.com/@bytewreaker/2fa-enforcement-bypass-via-request-manipulation-36b2296788ec?source=rss------bug_bounty_writeup-5)
 - [Internal API Credentials and Host Disclosure](https://medium.com/@bytewreaker/internal-api-credentials-and-host-disclosure-a5ca1b26cc05?source=rss------bug_bounty_writeup-5)
@@ -931,7 +932,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [When an Endpoint Enumerator Turned Into a P1 information disclosure bug Here’s What I Found](https://medium.com/@Mayowaomolabi/when-an-endpoint-enumerator-turned-into-a-p1-information-disclosure-bug-heres-what-i-found-9cb6bd3b6752?source=rss------bug_bounty_writeup-5)
 - [Automation VS Manual Hacking. How To Do Bug Hunting The Right Way?](https://medium.com/activated-thinker/automation-vs-manual-hacking-how-to-do-bug-hunting-the-right-way-c6e58232609f?source=rss------bug_bounty_writeup-5)
 - [Authentication Bypass via Client-Side Response Tampering](https://medium.com/@bytewreaker/authentication-bypass-via-client-side-response-tampering-f79ad16dcef9?source=rss------bug_bounty_writeup-5)
-- [Vulnyx: Spooisong Write-up — Dari LFI ke Root via Miskonfigurasi DNS](https://medium.com/@exnomous/vulnyx-spooisong-write-up-dari-lfi-ke-root-via-miskonfigurasi-dns-ad3c4ca32afa?source=rss------bug_bounty_writeup-5)
 - [Idor — TryHackMe writeup](https://infosecwriteups.com/idor-tryhackme-writeup-705392a6890a?source=rss----7b722bfd1b8d---4)
 - [Web Cache Deception Attack – A Hidden Threat in Today’s Web Applications](https://infosecwriteups.com/web-cache-deception-attack-a-hidden-threat-in-todays-web-applications-9b7b4b37a3a0?source=rss----7b722bfd1b8d---4)
 - [SQL Injection Leads to dump the Student PII](https://infosecwriteups.com/sql-injection-leads-to-dump-the-student-pii-b9aaab02b7f4?source=rss----7b722bfd1b8d---4)
