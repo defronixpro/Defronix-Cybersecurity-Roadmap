@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [20 Cache Poisoning Case Study | Depth Analysis of Real-world Bug Reports](https://medium.com/@Aacle/20-cache-poisoning-case-study-depth-analysis-of-real-world-bug-reports-d6aa02a6a44f?source=rss------bug_bounty_writeup-5)
 - [Leaking Mobile Numbers via Base64 on Government Portal](https://medium.com/@bytewreaker/leaking-mobile-numbers-via-base64-on-government-portal-c354277cbbc2?source=rss------bug_bounty_writeup-5)
 - [A Glitch in the Pit Lane: How a Security Flaw Exposed Max Verstappen’s Passport Data](https://osintteam.blog/a-glitch-in-the-pit-lane-how-a-security-flaw-exposed-max-verstappens-passport-data-6c0bf92c4ec4?source=rss------bug_bounty_writeup-5)
 - [How I Used Sequential IDs to Download an Entire Company’s User Database &lpar;And The Joker Helped&rpar;](https://infosecwriteups.com/how-i-used-sequential-ids-to-download-an-entire-companys-user-database-and-the-joker-helped-2a8dd23127e6?source=rss----7b722bfd1b8d---4)
@@ -18,7 +19,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Exposed API Key and RSA Private Key in POS Frontend](https://medium.com/@bytewreaker/exposed-api-key-and-rsa-private-key-in-pos-frontend-2132f55b0acc?source=rss------bug_bounty_writeup-5)
 - [2FA Enforcement Bypass via Request Manipulation](https://medium.com/@bytewreaker/2fa-enforcement-bypass-via-request-manipulation-36b2296788ec?source=rss------bug_bounty_writeup-5)
 - [Internal API Credentials and Host Disclosure](https://medium.com/@bytewreaker/internal-api-credentials-and-host-disclosure-a5ca1b26cc05?source=rss------bug_bounty_writeup-5)
-- [Hunting JavaScript: Finding Vulnerable JS Links](https://medium.com/meetcyber/hunting-javascript-finding-vulnerable-js-links-3a99d01d6313?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
