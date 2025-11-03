@@ -940,7 +940,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [2FA Enforcement Bypass via Request Manipulation](https://medium.com/@bytewreaker/2fa-enforcement-bypass-via-request-manipulation-36b2296788ec?source=rss------bug_bounty_writeup-5)
 - [Internal API Credentials and Host Disclosure](https://medium.com/@bytewreaker/internal-api-credentials-and-host-disclosure-a5ca1b26cc05?source=rss------bug_bounty_writeup-5)
 - [Hunting JavaScript: Finding Vulnerable JS Links](https://medium.com/meetcyber/hunting-javascript-finding-vulnerable-js-links-3a99d01d6313?source=rss------bug_bounty_writeup-5)
-- [JavaScript Recon for Bug Hunters — Pull, Parse, Profit ️‍♂️](https://icecream23.medium.com/javascript-recon-for-bug-hunters-pull-parse-profit-%EF%B8%8F-%EF%B8%8F-6a0a3a3cd1df?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
