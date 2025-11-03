@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [What is IDOR?](https://medium.com/@cybersecplayground/what-is-idor-b8ec70302b87?source=rss------bug_bounty_writeup-5)
 - [The Bug Hunter’s Automator: Why Bash Scripting is Your Greatest Force Multiplier](https://santhosh-adiga-u.medium.com/the-bug-hunters-automator-why-bash-scripting-is-your-greatest-force-multiplier-1200d26db7ab?source=rss------bug_bounty_writeup-5)
 - [The 3 AM Breakthrough: How a CTF Side Quest Unlocked a Critical Bug Bounty](https://santhosh-adiga-u.medium.com/the-3-am-breakthrough-how-a-ctf-side-quest-unlocked-a-critical-bug-bounty-f548f98245fc?source=rss------bug_bounty_writeup-5)
 - [20 Cache Poisoning Case Study | Depth Analysis of Real-world Bug Reports](https://medium.com/@Aacle/20-cache-poisoning-case-study-depth-analysis-of-real-world-bug-reports-d6aa02a6a44f?source=rss------bug_bounty_writeup-5)
@@ -939,7 +940,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How I Cracked the eJPT Exam in Just 3 Hours with a Score of 85%](https://infosecwriteups.com/how-i-cracked-the-ejpt-exam-in-just-3-hours-with-a-score-of-85-badc569e68ba?source=rss----7b722bfd1b8d---4)
 - [Server-Side Discount Validation Bypass Enables Arbitrary Price Reduction](https://medium.com/@ali3bdelhady/server-side-discount-validation-bypass-enables-arbitrary-price-reduction-6336dfcea79e?source=rss------bug_bounty_writeup-5)
 - [How I Found a Stored XSS Vulnerability Through a PDF Upload](https://medium.com/@Abhiii_Sharma/how-i-found-a-stored-xss-vulnerability-through-a-pdf-upload-75b4bbfbf9a3?source=rss------bug_bounty_writeup-5)
-- [Exposed API Key and RSA Private Key in POS Frontend](https://medium.com/@bytewreaker/exposed-api-key-and-rsa-private-key-in-pos-frontend-2132f55b0acc?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
