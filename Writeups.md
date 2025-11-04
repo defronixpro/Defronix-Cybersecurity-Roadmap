@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [IDOR: The Bug That Opens Doors Without Knocking](https://medium.com/@somnadh0000/idor-the-bug-that-opens-doors-without-knocking-6abbb9f9600f?source=rss------bug_bounty_writeup-5)
 - [Authentication Bypass in Indian Government Mobile App](https://medium.com/@bytewreaker/authentication-bypass-in-indian-government-mobile-app-b0cd66662d69?source=rss------bug_bounty_writeup-5)
 - [Why Packet Fuzzing is Still Valuable for Bug Bounties](https://medium.com/@audreyrowen/why-packet-fuzzing-is-still-valuable-for-bug-bounties-5e538f4777e5?source=rss------bug_bounty_writeup-5)
 - [What is IDOR?](https://medium.com/@cybersecplayground/what-is-idor-b8ec70302b87?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Tre — PG Play Writeup](https://infosecwriteups.com/tre-pg-play-writeup-d83bf75e83af?source=rss----7b722bfd1b8d---4)
 - [The Great Tenant Mix-Up: How I Accidentally Became Every Company’s Employee](https://infosecwriteups.com/the-great-tenant-mix-up-how-i-accidentally-became-every-companys-employee-24418d7a6d38?source=rss----7b722bfd1b8d---4)
 - [How I Cracked the eJPT Exam in Just 3 Hours with a Score of 85%](https://infosecwriteups.com/how-i-cracked-the-ejpt-exam-in-just-3-hours-with-a-score-of-85-badc569e68ba?source=rss----7b722bfd1b8d---4)
-- [Server-Side Discount Validation Bypass Enables Arbitrary Price Reduction](https://medium.com/@ali3bdelhady/server-side-discount-validation-bypass-enables-arbitrary-price-reduction-6336dfcea79e?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
