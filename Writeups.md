@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Meta bug bounty — One Last Spark AR RCE](https://fadyothman.medium.com/meta-bug-bounty-one-last-spark-ar-rce-343174b628cd?source=rss------bug_bounty_writeup-5)
 - [Simple IDORs Lead To PII Leaks Got $1476 Bounty](https://medium.com/@ferdusalam_65023/simple-idors-lead-to-pii-leaks-got-1476-bounty-aa3e06a5976b?source=rss------bug_bounty_writeup-5)
 - [The Most Common Medium Severity Bug Found In Almost Every Website](https://medium.com/activated-thinker/the-most-common-medium-severity-bug-found-in-almost-every-website-b0d0649dd739?source=rss------bug_bounty_writeup-5)
 - [IDOR: The Bug That Opens Doors Without Knocking](https://medium.com/@somnadh0000/idor-the-bug-that-opens-doors-without-knocking-6abbb9f9600f?source=rss------bug_bounty_writeup-5)
@@ -10,7 +11,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [The Bug Hunter’s Automator: Why Bash Scripting is Your Greatest Force Multiplier](https://santhosh-adiga-u.medium.com/the-bug-hunters-automator-why-bash-scripting-is-your-greatest-force-multiplier-1200d26db7ab?source=rss------bug_bounty_writeup-5)
 - [The 3 AM Breakthrough: How a CTF Side Quest Unlocked a Critical Bug Bounty](https://santhosh-adiga-u.medium.com/the-3-am-breakthrough-how-a-ctf-side-quest-unlocked-a-critical-bug-bounty-f548f98245fc?source=rss------bug_bounty_writeup-5)
 - [20 Cache Poisoning Case Study | Depth Analysis of Real-world Bug Reports](https://medium.com/@Aacle/20-cache-poisoning-case-study-depth-analysis-of-real-world-bug-reports-d6aa02a6a44f?source=rss------bug_bounty_writeup-5)
-- [How I found my first two valid bugs + mindset](https://medium.com/@poyanfaraji.code/how-i-found-my-first-two-valid-bugs-mindset-9b25b3a29ffc?source=rss------bug_bounty_writeup-5)
 - [How I Used Sequential IDs to Download an Entire Company’s User Database &lpar;And The Joker Helped&rpar;](https://infosecwriteups.com/how-i-used-sequential-ids-to-download-an-entire-companys-user-database-and-the-joker-helped-2a8dd23127e6?source=rss----7b722bfd1b8d---4)
 - [Understanding JSON Web Token &lpar;JWT&rpar; Security](https://infosecwriteups.com/understanding-json-web-token-jwt-security-48c3a9cc96f2?source=rss----7b722bfd1b8d---4)
 - [Backup vulnerabilities android mobile application](https://infosecwriteups.com/backup-vulnerabilities-android-mobile-application-187ec3420982?source=rss----7b722bfd1b8d---4)
