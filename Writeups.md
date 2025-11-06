@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Account Takeover Via Reflected XSS](https://medium.com/@eng.mahmoudbughunter/account-takeover-via-reflected-xss-6cd982ebff8d?source=rss------bug_bounty_writeup-5)
 - [“The Day I Found an Unsecured FTP — A Responsible Disclosure Story”](https://medium.com/@H4RUK7/the-day-i-found-an-unsecured-ftp-a-responsible-disclosure-story-00caf67ec647?source=rss------bug_bounty_writeup-5)
 - [⚔️ Understanding the “No Rate Limit” Vulnerability — The Silent API Killer](https://bughunteryash2511.medium.com/%EF%B8%8F-understanding-the-no-rate-limit-vulnerability-the-silent-api-killer-7b95340268e5?source=rss------bug_bounty_writeup-5)
 - [Automating Linux Privilege Escalation Checks](https://medium.com/@cybersecplayground/automating-linux-privilege-escalation-checks-6fb2470b07a3?source=rss------bug_bounty_writeup-5)
@@ -10,7 +11,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Meta bug bounty — One Last Spark AR RCE](https://fadyothman.medium.com/meta-bug-bounty-one-last-spark-ar-rce-343174b628cd?source=rss------bug_bounty_writeup-5)
 - [Simple IDORs Lead To PII Leaks Got $1476 Bounty](https://medium.com/@ferdusalam0/simple-idors-lead-to-pii-leaks-got-1476-bounty-aa3e06a5976b?source=rss------bug_bounty_writeup-5)
 - [The Most Common Medium Severity Bug Found In Almost Every Website](https://medium.com/activated-thinker/the-most-common-medium-severity-bug-found-in-almost-every-website-b0d0649dd739?source=rss------bug_bounty_writeup-5)
-- [IDOR: The Bug That Opens Doors Without Knocking](https://medium.com/@somnadh0000/idor-the-bug-that-opens-doors-without-knocking-6abbb9f9600f?source=rss------bug_bounty_writeup-5)
 - [How I Used Sequential IDs to Download an Entire Company’s User Database &lpar;And The Joker Helped&rpar;](https://infosecwriteups.com/how-i-used-sequential-ids-to-download-an-entire-companys-user-database-and-the-joker-helped-2a8dd23127e6?source=rss----7b722bfd1b8d---4)
 - [Understanding JSON Web Token &lpar;JWT&rpar; Security](https://infosecwriteups.com/understanding-json-web-token-jwt-security-48c3a9cc96f2?source=rss----7b722bfd1b8d---4)
 - [Backup vulnerabilities android mobile application](https://infosecwriteups.com/backup-vulnerabilities-android-mobile-application-187ec3420982?source=rss----7b722bfd1b8d---4)
@@ -25,7 +25,17 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
 - [How to backup and restore the Windows Registry](https://www.bleepingcomputer.com/tutorials/how-to-backup-and-restore-the-windows-registry/)
+- [How To Fix Error: Externally-Managed-Environment In Python &lpar;Kali Linux&rpar;](https://technicalnavigator.in/how-to-fix-error-externally-managed-environment-in-python-kali-linux/)
+- [Understanding Systemctl Command in Linux &lpar;Practical&rpar;](https://technicalnavigator.in/understanding-systemctl-command-in-linux-practical/)
+- [Macros in docm &amp; Linux memory dump| Hack The Boo  Challanges](https://technicalnavigator.in/macros-in-docm-linux-memory-dump-hack-the-boo-challanges/)
+- [Android Apps debugging |  Frida, JADX, Genymotion](https://technicalnavigator.in/android-apps-debugging-frida-jadx-genymotion/)
+- [MouseServer | wifimouse – Windows/ Linux](https://technicalnavigator.in/mouseserver-wifimouse-windows-linux/)
+- [FFUF fuzzer | web-application penetration-testing](https://technicalnavigator.in/ffuf-fuzzer-web-application-penetration-testing/)
 - [How to open a Windows 11 Command Prompt as Administrator](https://www.bleepingcomputer.com/tutorials/how-to-open-a-windows-11-command-prompt-as-administrator/)
+- [Classes-Objects &amp; Deserialization bug](https://technicalnavigator.in/classes-objects-deserialization-bug/)
+- [Loki Tool | Multhreading Over Sockets in C](https://technicalnavigator.in/loki-tool-multhreading-over-sockets-in-c/)
+- [Egghunter | NASM | C prototype](https://technicalnavigator.in/egghunter-nasm-c-prototype/)
+- [TELNET &amp; FTP Analysis](https://technicalnavigator.in/telnet-ftp-analysis/)
 - [How to make the Start menu full screen in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-make-the-start-menu-full-screen-in-windows-10/)
 - [How to install the Microsoft Visual C++ 2015 Runtime](https://www.bleepingcomputer.com/tutorials/how-to-install-the-microsoft-visual-c-2015-runtime/)
 - [How to open an elevated PowerShell Admin prompt in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-open-an-elevated-powershell-admin-prompt-in-windows-10/)
