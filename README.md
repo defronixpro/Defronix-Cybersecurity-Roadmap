@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Account Takeover Via Reflected XSS](https://medium.com/@eng.mahmoudbughunter/account-takeover-via-reflected-xss-6cd982ebff8d?source=rss------bug_bounty_writeup-5)
 - [“The Day I Found an Unsecured FTP — A Responsible Disclosure Story”](https://medium.com/@H4RUK7/the-day-i-found-an-unsecured-ftp-a-responsible-disclosure-story-00caf67ec647?source=rss------bug_bounty_writeup-5)
 - [⚔️ Understanding the “No Rate Limit” Vulnerability — The Silent API Killer](https://bughunteryash2511.medium.com/%EF%B8%8F-understanding-the-no-rate-limit-vulnerability-the-silent-api-killer-7b95340268e5?source=rss------bug_bounty_writeup-5)
 - [Automating Linux Privilege Escalation Checks](https://medium.com/@cybersecplayground/automating-linux-privilege-escalation-checks-6fb2470b07a3?source=rss------bug_bounty_writeup-5)
@@ -929,9 +930,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Changing Any User’s Profile Picture To Account Takeover](https://medium.com/@dk5267574/changing-any-users-profile-picture-to-account-takeover-d7509dd53d7b?source=rss------bug_bounty_writeup-5)
 - [How I found tricky $$$$ Server-Side Request Forgery &lpar;SSRF&rpar;](https://darkt.medium.com/how-i-found-tricky-server-side-request-forgery-ssrf-96c5fb630acd?source=rss------bug_bounty_writeup-5)
 - [Meta bug bounty — One Last Spark AR RCE](https://fadyothman.medium.com/meta-bug-bounty-one-last-spark-ar-rce-343174b628cd?source=rss------bug_bounty_writeup-5)
-- [Simple IDORs Lead To PII Leaks Got $1476 Bounty](https://medium.com/@ferdusalam_65023/simple-idors-lead-to-pii-leaks-got-1476-bounty-aa3e06a5976b?source=rss------bug_bounty_writeup-5)
+- [Simple IDORs Lead To PII Leaks Got $1476 Bounty](https://medium.com/@ferdusalam0/simple-idors-lead-to-pii-leaks-got-1476-bounty-aa3e06a5976b?source=rss------bug_bounty_writeup-5)
 - [The Most Common Medium Severity Bug Found In Almost Every Website](https://medium.com/activated-thinker/the-most-common-medium-severity-bug-found-in-almost-every-website-b0d0649dd739?source=rss------bug_bounty_writeup-5)
-- [IDOR: The Bug That Opens Doors Without Knocking](https://medium.com/@somnadh0000/idor-the-bug-that-opens-doors-without-knocking-6abbb9f9600f?source=rss------bug_bounty_writeup-5)
 - [How I Used Sequential IDs to Download an Entire Company’s User Database &lpar;And The Joker Helped&rpar;](https://infosecwriteups.com/how-i-used-sequential-ids-to-download-an-entire-companys-user-database-and-the-joker-helped-2a8dd23127e6?source=rss----7b722bfd1b8d---4)
 - [Understanding JSON Web Token &lpar;JWT&rpar; Security](https://infosecwriteups.com/understanding-json-web-token-jwt-security-48c3a9cc96f2?source=rss----7b722bfd1b8d---4)
 - [Backup vulnerabilities android mobile application](https://infosecwriteups.com/backup-vulnerabilities-android-mobile-application-187ec3420982?source=rss----7b722bfd1b8d---4)
