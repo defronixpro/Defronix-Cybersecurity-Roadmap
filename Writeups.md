@@ -1,7 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
-- [The Only Roadmap You Need For Bug Bounty](https://medium.com/@matrix-7337/the-only-roadmap-you-need-for-bug-bounty-c03c8175e42b?source=rss------bug_bounty_writeup-5)
+- [The Only Bug Bounty Roadmap You Need](https://medium.com/@matrix-7337/the-only-roadmap-you-need-for-bug-bounty-c03c8175e42b?source=rss------bug_bounty_writeup-5)
 - [Business Logic Error — Deleting the Project Owner by Manipulating a GraphQL Request](https://medium.com/@B14ck/business-logic-error-deleting-the-project-owner-by-manipulating-a-graphql-request-7e3bb5883d04?source=rss------bug_bounty_writeup-5)
 - [Account Takeover Via Reflected XSS](https://medium.com/@eng.mahmoudbughunter/account-takeover-via-reflected-xss-6cd982ebff8d?source=rss------bug_bounty_writeup-5)
 - [“The Day I Found an Unsecured FTP — A Responsible Disclosure Story”](https://medium.com/@H4RUK7/the-day-i-found-an-unsecured-ftp-a-responsible-disclosure-story-00caf67ec647?source=rss------bug_bounty_writeup-5)
