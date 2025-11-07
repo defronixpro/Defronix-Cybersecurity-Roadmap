@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [The Only Roadmap You Need For Bug Bounty](https://medium.com/@matrix-7337/the-only-roadmap-you-need-for-bug-bounty-c03c8175e42b?source=rss------bug_bounty_writeup-5)
 - [Business Logic Error — Deleting the Project Owner by Manipulating a GraphQL Request](https://medium.com/@B14ck/business-logic-error-deleting-the-project-owner-by-manipulating-a-graphql-request-7e3bb5883d04?source=rss------bug_bounty_writeup-5)
 - [Account Takeover Via Reflected XSS](https://medium.com/@eng.mahmoudbughunter/account-takeover-via-reflected-xss-6cd982ebff8d?source=rss------bug_bounty_writeup-5)
 - [“The Day I Found an Unsecured FTP — A Responsible Disclosure Story”](https://medium.com/@H4RUK7/the-day-i-found-an-unsecured-ftp-a-responsible-disclosure-story-00caf67ec647?source=rss------bug_bounty_writeup-5)
@@ -10,7 +11,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Changing Any User’s Profile Picture To Account Takeover](https://medium.com/@dk5267574/changing-any-users-profile-picture-to-account-takeover-d7509dd53d7b?source=rss------bug_bounty_writeup-5)
 - [How I found tricky $$$$ Server-Side Request Forgery &lpar;SSRF&rpar;](https://darkt.medium.com/how-i-found-tricky-server-side-request-forgery-ssrf-96c5fb630acd?source=rss------bug_bounty_writeup-5)
 - [Meta bug bounty — One Last Spark AR RCE](https://fadyothman.medium.com/meta-bug-bounty-one-last-spark-ar-rce-343174b628cd?source=rss------bug_bounty_writeup-5)
-- [Simple IDORs Lead To PII Leaks Got $1476 Bounty](https://medium.com/@ferdusalam0/simple-idors-lead-to-pii-leaks-got-1476-bounty-aa3e06a5976b?source=rss------bug_bounty_writeup-5)
 - [How I Used Sequential IDs to Download an Entire Company’s User Database &lpar;And The Joker Helped&rpar;](https://infosecwriteups.com/how-i-used-sequential-ids-to-download-an-entire-companys-user-database-and-the-joker-helped-2a8dd23127e6?source=rss----7b722bfd1b8d---4)
 - [Understanding JSON Web Token &lpar;JWT&rpar; Security](https://infosecwriteups.com/understanding-json-web-token-jwt-security-48c3a9cc96f2?source=rss----7b722bfd1b8d---4)
 - [Backup vulnerabilities android mobile application](https://infosecwriteups.com/backup-vulnerabilities-android-mobile-application-187ec3420982?source=rss----7b722bfd1b8d---4)
