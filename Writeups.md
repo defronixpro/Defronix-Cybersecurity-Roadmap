@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Giveback HTB Writeup](https://medium.com/@errur507/giveback-htb-writeup-0fa929451b98?source=rss------bug_bounty_writeup-5)
 - [OWASP Top 10 &lpar;2025 Release Candidate&rpar;: What Every Security Professional Needs to Know](https://bughunteryash2511.medium.com/owasp-top-10-2025-release-candidate-what-every-security-professional-needs-to-know-7d050a15f087?source=rss------bug_bounty_writeup-5)
 - [400 bad request that earns me $$$ bounty](https://medium.com/@mohaned0101/400-bad-request-that-earns-me-bounty-533f449d5dab?source=rss------bug_bounty_writeup-5)
 - [The Only Bug Bounty Roadmap You Need](https://medium.com/@matrix-7337/the-only-roadmap-you-need-for-bug-bounty-c03c8175e42b?source=rss------bug_bounty_writeup-5)
@@ -10,7 +11,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [⚔️ Understanding the “No Rate Limit” Vulnerability — The Silent API Killer](https://bughunteryash2511.medium.com/%EF%B8%8F-understanding-the-no-rate-limit-vulnerability-the-silent-api-killer-7b95340268e5?source=rss------bug_bounty_writeup-5)
 - [Automating Linux Privilege Escalation Checks](https://medium.com/@cybersecplayground/automating-linux-privilege-escalation-checks-6fb2470b07a3?source=rss------bug_bounty_writeup-5)
 - [Authentication Token Stored in localStorage](https://medium.com/@Abhiii_Sharma/authentication-token-stored-in-localstorage-15edd8d7a104?source=rss------bug_bounty_writeup-5)
-- [Changing Any User’s Profile Picture To Account Takeover](https://medium.com/@dk5267574/changing-any-users-profile-picture-to-account-takeover-d7509dd53d7b?source=rss------bug_bounty_writeup-5)
 - [How I Used Sequential IDs to Download an Entire Company’s User Database &lpar;And The Joker Helped&rpar;](https://infosecwriteups.com/how-i-used-sequential-ids-to-download-an-entire-companys-user-database-and-the-joker-helped-2a8dd23127e6?source=rss----7b722bfd1b8d---4)
 - [Understanding JSON Web Token &lpar;JWT&rpar; Security](https://infosecwriteups.com/understanding-json-web-token-jwt-security-48c3a9cc96f2?source=rss----7b722bfd1b8d---4)
 - [Backup vulnerabilities android mobile application](https://infosecwriteups.com/backup-vulnerabilities-android-mobile-application-187ec3420982?source=rss----7b722bfd1b8d---4)
