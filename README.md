@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [The Vibe Coder’s Blind Spot is Your Next Bug Bounty](https://sajjadsiam.medium.com/the-vibe-coders-blind-spot-is-your-next-bug-bounty-26387500acbb?source=rss------bug_bounty_writeup-5)
 - [Should Beginners Hack on Vdps?](https://medium.com/activated-thinker/should-beginners-hack-on-vdps-5f62a4d6dd20?source=rss------bug_bounty_writeup-5)
 - [From Scholarship Form to Security Find — My Broken Link Story](https://medium.com/@reseachertester/from-scholarship-form-to-security-find-my-broken-link-story-f32f8bf1f20e?source=rss------bug_bounty_writeup-5)
 - [How I found SSTI into an AI model due to unsafe argument](https://infosecwriteups.com/how-i-found-ssti-into-an-ai-model-due-to-unsafe-argument-4a44cadcd985?source=rss------bug_bounty_writeup-5)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [The Most Overlooked Bug Bounty Misconfiguration &lpar;Add This To Your Checklist&rpar;](https://medium.com/activated-thinker/the-most-overlooked-bug-bounty-misconfiguration-add-this-to-your-checklist-448cce763beb?source=rss------bug_bounty_writeup-5)
 - [Stored XSS via uploaded SVG in group chat](https://medium.com/@HBlackGhost/stored-xss-via-uploaded-svg-in-group-chat-b45f182b2e33?source=rss------bug_bounty_writeup-5)
 - [Giveback HTB Writeup](https://medium.com/@errur507/giveback-htb-writeup-0fa929451b98?source=rss------bug_bounty_writeup-5)
-- [OWASP Top 10 &lpar;2025 Release Candidate&rpar;: What Every Security Professional Needs to Know](https://bughunteryash2511.medium.com/owasp-top-10-2025-release-candidate-what-every-security-professional-needs-to-know-7d050a15f087?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
