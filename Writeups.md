@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How I found SSTI into an AI model due to unsafe argument](https://infosecwriteups.com/how-i-found-ssti-into-an-ai-model-due-to-unsafe-argument-4a44cadcd985?source=rss------bug_bounty_writeup-5)
 - [From Wooden Ducks to Digital Flags: My First v1t CTF OSINT Challenge](https://infosecwriteups.com/from-wooden-ducks-to-digital-flags-my-first-v1t-ctf-osint-challenge-84c38c9fbcb8?source=rss----7b722bfd1b8d---4)
 - [How I Used AI to Become Someone Else &lpar;And Why Your Face Is No Longer Your Password&rpar;](https://infosecwriteups.com/how-i-used-ai-to-become-someone-else-and-why-your-face-is-no-longer-your-password-dfd88c254733?source=rss----7b722bfd1b8d---4)
 - [Capture: A TryHackMe CTF writeup](https://infosecwriteups.com/capture-a-tryhackme-ctf-writeup-4a5404600120?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [OWASP Top 10 &lpar;2025 Release Candidate&rpar;: What Every Security Professional Needs to Know](https://bughunteryash2511.medium.com/owasp-top-10-2025-release-candidate-what-every-security-professional-needs-to-know-7d050a15f087?source=rss------bug_bounty_writeup-5)
 - [400 bad request that earns me $$$ bounty](https://medium.com/@mohaned0101/400-bad-request-that-earns-me-bounty-533f449d5dab?source=rss------bug_bounty_writeup-5)
 - [The Only Bug Bounty Roadmap You Need](https://medium.com/@matrix-7337/the-only-roadmap-you-need-for-bug-bounty-c03c8175e42b?source=rss------bug_bounty_writeup-5)
-- [Business Logic Error — Deleting the Project Owner by Manipulating a GraphQL Request](https://medium.com/@B14ck/business-logic-error-deleting-the-project-owner-by-manipulating-a-graphql-request-7e3bb5883d04?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
