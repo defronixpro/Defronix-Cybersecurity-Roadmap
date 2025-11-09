@@ -931,7 +931,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [HTB Starting Point: Synced](https://infosecwriteups.com/htb-starting-point-synced-c24e53638573?source=rss----7b722bfd1b8d---4)
 - [The Authorization Circus: Where Security Was the Main Clown](https://infosecwriteups.com/the-authorization-circus-where-security-was-the-main-clown-f4b84ca9356f?source=rss----7b722bfd1b8d---4)
 - [Time-of-check Time-of-use &lpar;TOCTOU&rpar; Race Condition Leads to Broken Authentication | Critical Finding](https://infosecwriteups.com/time-of-check-time-of-use-toctou-race-condition-leads-to-broken-authentication-critical-finding-b55993c92abc?source=rss----7b722bfd1b8d---4)
-- [How I turned Membership into a Paycheck](https://infosecwriteups.com/how-i-turned-membership-into-a-paycheck-a4e90afac2cc?source=rss----7b722bfd1b8d---4)
+- [How I got $$$ bounty from the membership I was offered](https://infosecwriteups.com/how-i-turned-membership-into-a-paycheck-a4e90afac2cc?source=rss----7b722bfd1b8d---4)
 - [Account Takeover via IDOR: From UserID to Full Access](https://infosecwriteups.com/account-takeover-via-idor-from-userid-to-full-access-ade4f980cfb4?source=rss----7b722bfd1b8d---4)
 - [AI/ LLM Hacking — Part 6 — Excessive Agency | Insecure Plugin](https://infosecwriteups.com/ai-llm-hacking-part-6-excessive-agency-insecure-plugin-6c83013c6806?source=rss----7b722bfd1b8d---4)
 - [HTB Starting Point: Mongod](https://infosecwriteups.com/htb-starting-point-mongod-29281b2887ff?source=rss----7b722bfd1b8d---4)
