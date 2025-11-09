@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [OAuth Authentication Bypass leading to PII disclosure](https://medium.com/@bugbounty0901/oauth-authentication-bypass-leading-to-pii-disclosure-5d243b62d532?source=rss------bug_bounty_writeup-5)
 - [How a Simple SVG File Turned Into a Data Exfiltration Vector in an Invoice System](https://medium.com/@bytewreaker/how-a-simple-svg-file-turned-into-a-data-exfiltration-vector-in-an-invoice-system-8cc78bedd1a8?source=rss------bug_bounty_writeup-5)
 - [The Most Overlooked Bug Bounty Misconfiguration &lpar;Add This To Your Checklist&rpar;](https://medium.com/activated-thinker/the-most-overlooked-bug-bounty-misconfiguration-add-this-to-your-checklist-448cce763beb?source=rss------bug_bounty_writeup-5)
 - [Stored XSS via uploaded SVG in group chat](https://medium.com/@HBlackGhost/stored-xss-via-uploaded-svg-in-group-chat-b45f182b2e33?source=rss------bug_bounty_writeup-5)
@@ -931,7 +932,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [The Only Bug Bounty Roadmap You Need](https://medium.com/@matrix-7337/the-only-roadmap-you-need-for-bug-bounty-c03c8175e42b?source=rss------bug_bounty_writeup-5)
 - [Business Logic Error — Deleting the Project Owner by Manipulating a GraphQL Request](https://medium.com/@B14ck/business-logic-error-deleting-the-project-owner-by-manipulating-a-graphql-request-7e3bb5883d04?source=rss------bug_bounty_writeup-5)
 - [Account Takeover Via Reflected XSS](https://medium.com/@eng.mahmoudbughunter/account-takeover-via-reflected-xss-6cd982ebff8d?source=rss------bug_bounty_writeup-5)
-- [“The Day I Found an Unsecured FTP — A Responsible Disclosure Story”](https://medium.com/@H4RUK7/the-day-i-found-an-unsecured-ftp-a-responsible-disclosure-story-00caf67ec647?source=rss------bug_bounty_writeup-5)
 - [How I Used Sequential IDs to Download an Entire Company’s User Database &lpar;And The Joker Helped&rpar;](https://infosecwriteups.com/how-i-used-sequential-ids-to-download-an-entire-companys-user-database-and-the-joker-helped-2a8dd23127e6?source=rss----7b722bfd1b8d---4)
 - [Understanding JSON Web Token &lpar;JWT&rpar; Security](https://infosecwriteups.com/understanding-json-web-token-jwt-security-48c3a9cc96f2?source=rss----7b722bfd1b8d---4)
 - [Backup vulnerabilities android mobile application](https://infosecwriteups.com/backup-vulnerabilities-android-mobile-application-187ec3420982?source=rss----7b722bfd1b8d---4)
