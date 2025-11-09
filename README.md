@@ -922,6 +922,10 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [From 404 to $4,000: Real Bugs Found in Forgotten Endpoints](https://infosecwriteups.com/from-404-to-4-000-real-bugs-found-in-forgotten-endpoints-5886c06f7473?source=rss----7b722bfd1b8d---4)
+- [From 404 to $4,000: Real Bugs Found in Forgotten Endpoints](https://infosecwriteups.com/from-404-to-4-000-real-bugs-found-in-forgotten-endpoints-5886c06f7473?source=rss------bug_bounty_writeup-5)
+- [CVE Deep Dive : CVE-2025–26465](https://infosecwriteups.com/cve-deep-dive-cve-2025-26465-4b7aee2dc82e?source=rss----7b722bfd1b8d---4)
+- [Lab 4#: Exploiting a mass assignment vulnerability | Api Testing](https://infosecwriteups.com/lab-4-exploiting-a-mass-assignment-vulnerability-api-testing-b08aeada5976?source=rss----7b722bfd1b8d---4)
 - [OAuth Authentication Bypass leading to PII disclosure](https://medium.com/@bugbounty0901/oauth-authentication-bypass-leading-to-pii-disclosure-5d243b62d532?source=rss------bug_bounty_writeup-5)
 - [How a Simple SVG File Turned Into a Data Exfiltration Vector in an Invoice System](https://medium.com/@bytewreaker/how-a-simple-svg-file-turned-into-a-data-exfiltration-vector-in-an-invoice-system-8cc78bedd1a8?source=rss------bug_bounty_writeup-5)
 - [The Most Overlooked Bug Bounty Misconfiguration &lpar;Add This To Your Checklist&rpar;](https://medium.com/activated-thinker/the-most-overlooked-bug-bounty-misconfiguration-add-this-to-your-checklist-448cce763beb?source=rss------bug_bounty_writeup-5)
@@ -931,7 +935,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [400 bad request that earns me $$$ bounty](https://medium.com/@mohaned0101/400-bad-request-that-earns-me-bounty-533f449d5dab?source=rss------bug_bounty_writeup-5)
 - [The Only Bug Bounty Roadmap You Need](https://medium.com/@matrix-7337/the-only-roadmap-you-need-for-bug-bounty-c03c8175e42b?source=rss------bug_bounty_writeup-5)
 - [Business Logic Error — Deleting the Project Owner by Manipulating a GraphQL Request](https://medium.com/@B14ck/business-logic-error-deleting-the-project-owner-by-manipulating-a-graphql-request-7e3bb5883d04?source=rss------bug_bounty_writeup-5)
-- [Account Takeover Via Reflected XSS](https://medium.com/@eng.mahmoudbughunter/account-takeover-via-reflected-xss-6cd982ebff8d?source=rss------bug_bounty_writeup-5)
 - [How I Used Sequential IDs to Download an Entire Company’s User Database &lpar;And The Joker Helped&rpar;](https://infosecwriteups.com/how-i-used-sequential-ids-to-download-an-entire-companys-user-database-and-the-joker-helped-2a8dd23127e6?source=rss----7b722bfd1b8d---4)
 - [Understanding JSON Web Token &lpar;JWT&rpar; Security](https://infosecwriteups.com/understanding-json-web-token-jwt-security-48c3a9cc96f2?source=rss----7b722bfd1b8d---4)
 - [Backup vulnerabilities android mobile application](https://infosecwriteups.com/backup-vulnerabilities-android-mobile-application-187ec3420982?source=rss----7b722bfd1b8d---4)
@@ -939,9 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Ehxb | File Upload Vulnerabilities I](https://infosecwriteups.com/ehxb-file-upload-vulnerabilities-i-6ed033539682?source=rss----7b722bfd1b8d---4)
 - [Ehxb | Race Conditions Vulnerabilities I](https://infosecwriteups.com/ehxb-race-conditions-vulnerabilities-i-9eea8b145465?source=rss----7b722bfd1b8d---4)
 - [Ehxb | Path Traversal Vulnerabilities](https://infosecwriteups.com/ehxb-path-traversal-vulnerabilities-from-discovery-to-automation-569b64ce46ac?source=rss----7b722bfd1b8d---4)
-- [Tre — PG Play Writeup](https://infosecwriteups.com/tre-pg-play-writeup-d83bf75e83af?source=rss----7b722bfd1b8d---4)
-- [The Great Tenant Mix-Up: How I Accidentally Became Every Company’s Employee](https://infosecwriteups.com/the-great-tenant-mix-up-how-i-accidentally-became-every-companys-employee-24418d7a6d38?source=rss----7b722bfd1b8d---4)
-- [How I Cracked the eJPT Exam in Just 3 Hours with a Score of 85%](https://infosecwriteups.com/how-i-cracked-the-ejpt-exam-in-just-3-hours-with-a-score-of-85-badc569e68ba?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
