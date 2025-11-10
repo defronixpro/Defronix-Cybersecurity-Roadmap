@@ -941,7 +941,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [OAuth Authentication Bypass leading to PII disclosure](https://medium.com/@bugbounty0901/oauth-authentication-bypass-leading-to-pii-disclosure-5d243b62d532?source=rss------bug_bounty_writeup-5)
 - [How a Simple SVG File Turned Into a Data Exfiltration Vector in an Invoice System](https://medium.com/@bytewreaker/how-a-simple-svg-file-turned-into-a-data-exfiltration-vector-in-an-invoice-system-8cc78bedd1a8?source=rss------bug_bounty_writeup-5)
 - [The Most Overlooked Bug Bounty Misconfiguration &lpar;Add This To Your Checklist&rpar;](https://medium.com/activated-thinker/the-most-overlooked-bug-bounty-misconfiguration-add-this-to-your-checklist-448cce763beb?source=rss------bug_bounty_writeup-5)
-- [Stored XSS via uploaded SVG in group chat](https://medium.com/@HBlackGhost/stored-xss-via-uploaded-svg-in-group-chat-b45f182b2e33?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
