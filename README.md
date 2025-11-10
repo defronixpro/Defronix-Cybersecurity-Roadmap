@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [The Hunt for a WAF Bypass: A Bug Bounty Story](https://0dayscyber.medium.com/the-hunt-for-a-waf-bypass-a-bug-bounty-story-0aebb17685da?source=rss------bug_bounty_writeup-5)
 - [SSH Isn’t Just a Service — It’s a Backdoor](https://medium.com/@samuelayomip2009/ssh-isnt-just-a-service-it-s-a-backdoor-88d579f4b798?source=rss------bug_bounty_writeup-5)
 - [How I accidentally broke QBFT finality on Electroneum Smart Chain](https://medium.com/@FufuFaf1/how-i-accidentally-broke-qbft-finality-on-electroneum-smart-chain-2d2f5ca11da3?source=rss------bug_bounty_writeup-5)
 - [The Vibe Coder’s Blind Spot is Your Next Bug Bounty](https://sajjadsiam.medium.com/the-vibe-coders-blind-spot-is-your-next-bug-bounty-26387500acbb?source=rss------bug_bounty_writeup-5)
@@ -940,7 +941,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [HTB Starting Point: Mongod](https://infosecwriteups.com/htb-starting-point-mongod-29281b2887ff?source=rss----7b722bfd1b8d---4)
 - [From 404 to $4,000: Real Bugs Found in Forgotten Endpoints](https://infosecwriteups.com/from-404-to-4-000-real-bugs-found-in-forgotten-endpoints-5886c06f7473?source=rss------bug_bounty_writeup-5)
 - [OAuth Authentication Bypass leading to PII disclosure](https://medium.com/@bugbounty0901/oauth-authentication-bypass-leading-to-pii-disclosure-5d243b62d532?source=rss------bug_bounty_writeup-5)
-- [How a Simple SVG File Turned Into a Data Exfiltration Vector in an Invoice System](https://medium.com/@bytewreaker/how-a-simple-svg-file-turned-into-a-data-exfiltration-vector-in-an-invoice-system-8cc78bedd1a8?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
