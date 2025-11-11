@@ -3,7 +3,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 <!-- WRITEUPS:START -->
 - [How I Turned a Failed “Race Condition” into a $ Bug Bounty Win](https://medium.com/@UrsaBear/how-i-turned-a-failed-race-condition-into-a-bug-bounty-win-647143a83cdd?source=rss------bug_bounty_writeup-5)
 - [The Hunt for a WAF Bypass: A Bug Bounty Story](https://0dayscyber.medium.com/the-hunt-for-a-waf-bypass-a-bug-bounty-story-0aebb17685da?source=rss------bug_bounty_writeup-5)
-- [SSH Isn’t Just a Service — It’s a Backdoor](https://medium.com/@samuelayomip2009/ssh-isnt-just-a-service-it-s-a-backdoor-88d579f4b798?source=rss------bug_bounty_writeup-5)
+- [SSH Isn’t Just a Service — It’s a Backdoor](https://medium.com/@bishopx_09/ssh-isnt-just-a-service-it-s-a-backdoor-88d579f4b798?source=rss------bug_bounty_writeup-5)
 - [How I accidentally broke QBFT finality on Electroneum Smart Chain](https://medium.com/@FufuFaf1/how-i-accidentally-broke-qbft-finality-on-electroneum-smart-chain-2d2f5ca11da3?source=rss------bug_bounty_writeup-5)
 - [The Vibe Coder’s Blind Spot is Your Next Bug Bounty](https://sajjadsiam.medium.com/the-vibe-coders-blind-spot-is-your-next-bug-bounty-26387500acbb?source=rss------bug_bounty_writeup-5)
 - [Should Beginners Hack on Vdps?](https://medium.com/activated-thinker/should-beginners-hack-on-vdps-5f62a4d6dd20?source=rss------bug_bounty_writeup-5)
