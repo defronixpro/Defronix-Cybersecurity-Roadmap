@@ -922,13 +922,13 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [A Story of a Slowloris DoS — the coolest DoS Attack](https://medium.com/@Appsec_pt/a-story-of-a-slowloris-dos-the-coolest-dos-attack-9279442ed89a?source=rss------bug_bounty_writeup-5)
 - [Responsible Recon: how to find bug-bounty and disclosure pages &lpar;ethically&rpar;](https://medium.com/@MuhammedAsfan/responsible-recon-how-to-find-bug-bounty-and-disclosure-pages-ethically-6b49a30eeaf6?source=rss------bug_bounty_writeup-5)
 - [SSH Isn’t Just a Service: How Outdated Daemons Create Unseen Backdoors](https://medium.com/@bishopx_09/ssh-isnt-just-a-service-how-outdated-daemons-create-unseen-backdoors-58ac0f47eaa9?source=rss------bug_bounty_writeup-5)
 - [0-Click Account Takeover Using Special Characters ✔](https://medium.com/@mahdisalhi0500/0-click-account-takeover-using-special-characters-0030a1e3c6d6?source=rss------bug_bounty_writeup-5)
 - [How I Turned a Failed “Race Condition” into a $ Bug Bounty Win](https://medium.com/@UrsaBear/how-i-turned-a-failed-race-condition-into-a-bug-bounty-win-647143a83cdd?source=rss------bug_bounty_writeup-5)
 - [The Hunt for a WAF Bypass: A Bug Bounty Story](https://0dayscyber.medium.com/the-hunt-for-a-waf-bypass-a-bug-bounty-story-0aebb17685da?source=rss------bug_bounty_writeup-5)
 - [How I accidentally broke QBFT finality on Electroneum Smart Chain](https://medium.com/@FufuFaf1/how-i-accidentally-broke-qbft-finality-on-electroneum-smart-chain-2d2f5ca11da3?source=rss------bug_bounty_writeup-5)
-- [The Vibe Coder’s Blind Spot is Your Next Bug Bounty](https://sajjadsiam.medium.com/the-vibe-coders-blind-spot-is-your-next-bug-bounty-26387500acbb?source=rss------bug_bounty_writeup-5)
 - [From Wooden Ducks to Digital Flags: My First v1t CTF OSINT Challenge](https://infosecwriteups.com/from-wooden-ducks-to-digital-flags-my-first-v1t-ctf-osint-challenge-84c38c9fbcb8?source=rss----7b722bfd1b8d---4)
 - [How I Used AI to Become Someone Else &lpar;And Why Your Face Is No Longer Your Password&rpar;](https://infosecwriteups.com/how-i-used-ai-to-become-someone-else-and-why-your-face-is-no-longer-your-password-dfd88c254733?source=rss----7b722bfd1b8d---4)
 - [Capture: A TryHackMe CTF writeup](https://infosecwriteups.com/capture-a-tryhackme-ctf-writeup-4a5404600120?source=rss----7b722bfd1b8d---4)
