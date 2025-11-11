@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How I Turned a Failed “Race Condition” into a $ Bug Bounty Win](https://medium.com/@UrsaBear/how-i-turned-a-failed-race-condition-into-a-bug-bounty-win-647143a83cdd?source=rss------bug_bounty_writeup-5)
 - [The Hunt for a WAF Bypass: A Bug Bounty Story](https://0dayscyber.medium.com/the-hunt-for-a-waf-bypass-a-bug-bounty-story-0aebb17685da?source=rss------bug_bounty_writeup-5)
 - [SSH Isn’t Just a Service — It’s a Backdoor](https://medium.com/@samuelayomip2009/ssh-isnt-just-a-service-it-s-a-backdoor-88d579f4b798?source=rss------bug_bounty_writeup-5)
 - [How I accidentally broke QBFT finality on Electroneum Smart Chain](https://medium.com/@FufuFaf1/how-i-accidentally-broke-qbft-finality-on-electroneum-smart-chain-2d2f5ca11da3?source=rss------bug_bounty_writeup-5)
@@ -19,7 +20,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [AI/ LLM Hacking — Part 6 — Excessive Agency | Insecure Plugin](https://infosecwriteups.com/ai-llm-hacking-part-6-excessive-agency-insecure-plugin-6c83013c6806?source=rss----7b722bfd1b8d---4)
 - [HTB Starting Point: Mongod](https://infosecwriteups.com/htb-starting-point-mongod-29281b2887ff?source=rss----7b722bfd1b8d---4)
 - [From 404 to $4,000: Real Bugs Found in Forgotten Endpoints](https://infosecwriteups.com/from-404-to-4-000-real-bugs-found-in-forgotten-endpoints-5886c06f7473?source=rss------bug_bounty_writeup-5)
-- [OAuth Authentication Bypass leading to PII disclosure](https://medium.com/@bugbounty0901/oauth-authentication-bypass-leading-to-pii-disclosure-5d243b62d532?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
