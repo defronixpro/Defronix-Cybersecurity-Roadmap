@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Business Logic Flaw: How an Empty Team Name Can Trap Users Forever](https://medium.com/@aminouji23/business-logic-flaw-how-an-empty-team-name-can-trap-users-forever-fb9152acb990?source=rss------bug_bounty_writeup-5)
 - [Email = Token = Broken Auth in Booking System](https://medium.com/@mohamedahmeds1029/email-token-broken-auth-in-booking-system-b54a7f5d7a52?source=rss------bug_bounty_writeup-5)
 - [When Six Zeros Broke a Food Delivery Empire](https://0dayscyber.medium.com/when-six-zeros-broke-a-food-delivery-empire-1b4a5cf5405b?source=rss------bug_bounty_writeup-5)
 - [A Story of a Slowloris DoS — the coolest DoS Attack](https://medium.com/@Appsec_pt/a-story-of-a-slowloris-dos-the-coolest-dos-attack-9279442ed89a?source=rss------bug_bounty_writeup-5)
