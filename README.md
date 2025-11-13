@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I Turned a Boring Image Downloader into an IDOR Goldmine](https://medium.com/@iamshafayat/how-i-turned-a-boring-image-downloader-into-an-idor-goldmine-77a77d8c6c05?source=rss------bug_bounty_writeup-5)
+- [CYBER KALKI Medium account suspended](https://medium.com/@hackercyberkalki/cyber-kalki-medium-account-suspended-c49fe61c8dc7?source=rss------bug_bounty_writeup-5)
 - [Reverse-Engineering Upload Names to Win an IDOR Bug](https://medium.com/@kazixabbir/reverse-engineering-upload-names-to-win-an-idor-bug-296f7e068c1a?source=rss------bug_bounty_writeup-5)
 - [Privilege Escalation via GraphQL: Editors Can Become Owners Through the “Share” Flow](https://medium.com/@B14ck/privilege-escalation-via-graphql-editors-can-become-owners-through-the-share-flow-b67782b98804?source=rss------bug_bounty_writeup-5)
 - [Business Logic Flaw: How an Empty Team Name Can Trap Users Forever](https://medium.com/@aminouji23/business-logic-flaw-how-an-empty-team-name-can-trap-users-forever-fb9152acb990?source=rss------bug_bounty_writeup-5)
@@ -929,8 +931,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [When Six Zeros Broke a Food Delivery Empire](https://0dayscyber.medium.com/when-six-zeros-broke-a-food-delivery-empire-1b4a5cf5405b?source=rss------bug_bounty_writeup-5)
 - [A Story of a Slowloris DoS — the coolest DoS Attack](https://medium.com/@Appsec_pt/a-story-of-a-slowloris-dos-the-coolest-dos-attack-9279442ed89a?source=rss------bug_bounty_writeup-5)
 - [Responsible Recon: how to find bug-bounty and disclosure pages &lpar;ethically&rpar;](https://medium.com/@MuhammedAsfan/responsible-recon-how-to-find-bug-bounty-and-disclosure-pages-ethically-6b49a30eeaf6?source=rss------bug_bounty_writeup-5)
-- [SSH Isn’t Just a Service: How Outdated Daemons Create Unseen Backdoors](https://medium.com/@bishopx_09/ssh-isnt-just-a-service-how-outdated-daemons-create-unseen-backdoors-58ac0f47eaa9?source=rss------bug_bounty_writeup-5)
-- [0-Click Account Takeover Using Special Characters ✔](https://medium.com/@mahdisalhi0500/0-click-account-takeover-using-special-characters-0030a1e3c6d6?source=rss------bug_bounty_writeup-5)
 - [From Wooden Ducks to Digital Flags: My First v1t CTF OSINT Challenge](https://infosecwriteups.com/from-wooden-ducks-to-digital-flags-my-first-v1t-ctf-osint-challenge-84c38c9fbcb8?source=rss----7b722bfd1b8d---4)
 - [How I Used AI to Become Someone Else &lpar;And Why Your Face Is No Longer Your Password&rpar;](https://infosecwriteups.com/how-i-used-ai-to-become-someone-else-and-why-your-face-is-no-longer-your-password-dfd88c254733?source=rss----7b722bfd1b8d---4)
 - [Capture: A TryHackMe CTF writeup](https://infosecwriteups.com/capture-a-tryhackme-ctf-writeup-4a5404600120?source=rss----7b722bfd1b8d---4)
