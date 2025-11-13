@@ -15,7 +15,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Reflected XSS in PUBG](https://infosecwriteups.com/reflected-xss-in-pubg-7cee89243268?source=rss----7b722bfd1b8d---4)
 - [Reflected XSS in PUBG](https://infosecwriteups.com/reflected-xss-in-pubg-7cee89243268?source=rss------bug_bounty_writeup-5)
 - [How I Turned a Boring Image Downloader into an IDOR Goldmine](https://medium.com/@iamshafayat/how-i-turned-a-boring-image-downloader-into-an-idor-goldmine-77a77d8c6c05?source=rss------bug_bounty_writeup-5)
-- [CYBER KALKI Medium account suspended](https://medium.com/@hackercyberkalki/cyber-kalki-medium-account-suspended-c49fe61c8dc7?source=rss------bug_bounty_writeup-5)
 - [Reverse-Engineering Upload Names to Win an IDOR Bug](https://medium.com/@kazixabbir/reverse-engineering-upload-names-to-win-an-idor-bug-296f7e068c1a?source=rss------bug_bounty_writeup-5)
 - [Privilege Escalation via GraphQL: Editors Can Become Owners Through the “Share” Flow](https://medium.com/@B14ck/privilege-escalation-via-graphql-editors-can-become-owners-through-the-share-flow-b67782b98804?source=rss------bug_bounty_writeup-5)
 - [Business Logic Flaw: How an Empty Team Name Can Trap Users Forever](https://medium.com/@aminouji23/business-logic-flaw-how-an-empty-team-name-can-trap-users-forever-fb9152acb990?source=rss------bug_bounty_writeup-5)
