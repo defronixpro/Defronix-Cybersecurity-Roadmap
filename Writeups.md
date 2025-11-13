@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Subdomain Enumeration: Uncovering the Hidden Corners of the Web](https://medium.com/@Purushothamr/subdomain-enumeration-uncovering-0bb2ae523c21?source=rss------bug_bounty_writeup-5)
 - [The Best AI for Ethical Hacking](https://systemweakness.com/the-best-ai-for-ethical-hacking-911c92de3b37?source=rss------bug_bounty_writeup-5)
 - [When Among Us Meets Academia: An OSINT Challenge That’s Not Sus At All | v1t CTF OSINT Challenge](https://infosecwriteups.com/when-among-us-meets-academia-an-osint-challenge-thats-not-sus-at-all-v1t-ctf-osint-challenge-00bba5775179?source=rss----7b722bfd1b8d---4)
 - [Privilege Escalation From Guest To Admin](https://infosecwriteups.com/privilege-escalation-from-guest-to-admin-c3d2eb357dd1?source=rss----7b722bfd1b8d---4)
@@ -19,7 +20,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Privilege Escalation via GraphQL: Editors Can Become Owners Through the “Share” Flow](https://medium.com/@B14ck/privilege-escalation-via-graphql-editors-can-become-owners-through-the-share-flow-b67782b98804?source=rss------bug_bounty_writeup-5)
 - [Business Logic Flaw: How an Empty Team Name Can Trap Users Forever](https://medium.com/@aminouji23/business-logic-flaw-how-an-empty-team-name-can-trap-users-forever-fb9152acb990?source=rss------bug_bounty_writeup-5)
 - [Email = Token = Broken Auth in Booking System](https://medium.com/@mohamedahmeds1029/email-token-broken-auth-in-booking-system-b54a7f5d7a52?source=rss------bug_bounty_writeup-5)
-- [When Six Zeros Broke a Food Delivery Empire](https://0dayscyber.medium.com/when-six-zeros-broke-a-food-delivery-empire-1b4a5cf5405b?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
