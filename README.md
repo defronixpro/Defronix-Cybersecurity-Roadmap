@@ -922,6 +922,9 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Lab 3#: Finding and exploiting an unused API endpoint | Api Testing](https://infosecwriteups.com/lab-3-finding-and-exploiting-an-unused-api-endpoint-api-testing-8826c2d161cb?source=rss----7b722bfd1b8d---4)
+- [Reflected XSS in PUBG](https://infosecwriteups.com/reflected-xss-in-pubg-7cee89243268?source=rss----7b722bfd1b8d---4)
+- [Reflected XSS in PUBG](https://infosecwriteups.com/reflected-xss-in-pubg-7cee89243268?source=rss------bug_bounty_writeup-5)
 - [How I Turned a Boring Image Downloader into an IDOR Goldmine](https://medium.com/@iamshafayat/how-i-turned-a-boring-image-downloader-into-an-idor-goldmine-77a77d8c6c05?source=rss------bug_bounty_writeup-5)
 - [CYBER KALKI Medium account suspended](https://medium.com/@hackercyberkalki/cyber-kalki-medium-account-suspended-c49fe61c8dc7?source=rss------bug_bounty_writeup-5)
 - [Reverse-Engineering Upload Names to Win an IDOR Bug](https://medium.com/@kazixabbir/reverse-engineering-upload-names-to-win-an-idor-bug-296f7e068c1a?source=rss------bug_bounty_writeup-5)
@@ -939,8 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Time-of-check Time-of-use &lpar;TOCTOU&rpar; Race Condition Leads to Broken Authentication | Critical Finding](https://infosecwriteups.com/time-of-check-time-of-use-toctou-race-condition-leads-to-broken-authentication-critical-finding-b55993c92abc?source=rss----7b722bfd1b8d---4)
 - [How I got $$$ bounty from the membership I was offered](https://infosecwriteups.com/how-i-turned-membership-into-a-paycheck-a4e90afac2cc?source=rss----7b722bfd1b8d---4)
 - [Account Takeover via IDOR: From UserID to Full Access](https://infosecwriteups.com/account-takeover-via-idor-from-userid-to-full-access-ade4f980cfb4?source=rss----7b722bfd1b8d---4)
-- [AI/ LLM Hacking — Part 6 — Excessive Agency | Insecure Plugin](https://infosecwriteups.com/ai-llm-hacking-part-6-excessive-agency-insecure-plugin-6c83013c6806?source=rss----7b722bfd1b8d---4)
-- [HTB Starting Point: Mongod](https://infosecwriteups.com/htb-starting-point-mongod-29281b2887ff?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
