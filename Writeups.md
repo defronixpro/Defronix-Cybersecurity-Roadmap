@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [When Among Us Meets Academia: An OSINT Challenge That’s Not Sus At All | v1t CTF OSINT Challenge](https://infosecwriteups.com/when-among-us-meets-academia-an-osint-challenge-thats-not-sus-at-all-v1t-ctf-osint-challenge-00bba5775179?source=rss----7b722bfd1b8d---4)
 - [Privilege Escalation From Guest To Admin](https://infosecwriteups.com/privilege-escalation-from-guest-to-admin-c3d2eb357dd1?source=rss----7b722bfd1b8d---4)
 - [CORS Vulnerability with Trusted Null Origin](https://infosecwriteups.com/cors-vulnerability-with-trusted-null-origin-0f9593bd7674?source=rss----7b722bfd1b8d---4)
 - [How I Cleared the CISSP and CISM in 6 Months — A Realistic Strategy That Actually Works](https://infosecwriteups.com/how-i-cleared-the-cissp-and-cism-in-6-months-a-realistic-strategy-that-actually-works-f5f48a3ea5f7?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Email = Token = Broken Auth in Booking System](https://medium.com/@mohamedahmeds1029/email-token-broken-auth-in-booking-system-b54a7f5d7a52?source=rss------bug_bounty_writeup-5)
 - [When Six Zeros Broke a Food Delivery Empire](https://0dayscyber.medium.com/when-six-zeros-broke-a-food-delivery-empire-1b4a5cf5405b?source=rss------bug_bounty_writeup-5)
 - [A Story of a Slowloris DoS — the coolest DoS Attack](https://systemweakness.com/a-story-of-a-slowloris-dos-the-coolest-dos-attack-9279442ed89a?source=rss------bug_bounty_writeup-5)
-- [From Wooden Ducks to Digital Flags: My First v1t CTF OSINT Challenge](https://infosecwriteups.com/from-wooden-ducks-to-digital-flags-my-first-v1t-ctf-osint-challenge-84c38c9fbcb8?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
