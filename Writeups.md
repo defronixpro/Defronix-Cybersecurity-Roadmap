@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Privilege Escalation via GraphQL: Editors Can Become Owners Through the “Share” Flow](https://medium.com/@B14ck/privilege-escalation-via-graphql-editors-can-become-owners-through-the-share-flow-b67782b98804?source=rss------bug_bounty_writeup-5)
 - [Business Logic Flaw: How an Empty Team Name Can Trap Users Forever](https://medium.com/@aminouji23/business-logic-flaw-how-an-empty-team-name-can-trap-users-forever-fb9152acb990?source=rss------bug_bounty_writeup-5)
 - [Email = Token = Broken Auth in Booking System](https://medium.com/@mohamedahmeds1029/email-token-broken-auth-in-booking-system-b54a7f5d7a52?source=rss------bug_bounty_writeup-5)
 - [When Six Zeros Broke a Food Delivery Empire](https://0dayscyber.medium.com/when-six-zeros-broke-a-food-delivery-empire-1b4a5cf5405b?source=rss------bug_bounty_writeup-5)
@@ -9,7 +10,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [SSH Isn’t Just a Service: How Outdated Daemons Create Unseen Backdoors](https://medium.com/@bishopx_09/ssh-isnt-just-a-service-how-outdated-daemons-create-unseen-backdoors-58ac0f47eaa9?source=rss------bug_bounty_writeup-5)
 - [0-Click Account Takeover Using Special Characters ✔](https://medium.com/@mahdisalhi0500/0-click-account-takeover-using-special-characters-0030a1e3c6d6?source=rss------bug_bounty_writeup-5)
 - [How I Turned a Failed “Race Condition” into a $ Bug Bounty Win](https://medium.com/@UrsaBear/how-i-turned-a-failed-race-condition-into-a-bug-bounty-win-647143a83cdd?source=rss------bug_bounty_writeup-5)
-- [The Hunt for a WAF Bypass: A Bug Bounty Story](https://0dayscyber.medium.com/the-hunt-for-a-waf-bypass-a-bug-bounty-story-0aebb17685da?source=rss------bug_bounty_writeup-5)
 - [From Wooden Ducks to Digital Flags: My First v1t CTF OSINT Challenge](https://infosecwriteups.com/from-wooden-ducks-to-digital-flags-my-first-v1t-ctf-osint-challenge-84c38c9fbcb8?source=rss----7b722bfd1b8d---4)
 - [How I Used AI to Become Someone Else &lpar;And Why Your Face Is No Longer Your Password&rpar;](https://infosecwriteups.com/how-i-used-ai-to-become-someone-else-and-why-your-face-is-no-longer-your-password-dfd88c254733?source=rss----7b722bfd1b8d---4)
 - [Capture: A TryHackMe CTF writeup](https://infosecwriteups.com/capture-a-tryhackme-ctf-writeup-4a5404600120?source=rss----7b722bfd1b8d---4)
@@ -24,17 +24,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
 - [How to backup and restore the Windows Registry](https://www.bleepingcomputer.com/tutorials/how-to-backup-and-restore-the-windows-registry/)
-- [How To Fix Error: Externally-Managed-Environment In Python &lpar;Kali Linux&rpar;](https://technicalnavigator.in/how-to-fix-error-externally-managed-environment-in-python-kali-linux/)
-- [Understanding Systemctl Command in Linux &lpar;Practical&rpar;](https://technicalnavigator.in/understanding-systemctl-command-in-linux-practical/)
-- [Macros in docm &amp; Linux memory dump| Hack The Boo  Challanges](https://technicalnavigator.in/macros-in-docm-linux-memory-dump-hack-the-boo-challanges/)
-- [Android Apps debugging |  Frida, JADX, Genymotion](https://technicalnavigator.in/android-apps-debugging-frida-jadx-genymotion/)
-- [MouseServer | wifimouse – Windows/ Linux](https://technicalnavigator.in/mouseserver-wifimouse-windows-linux/)
-- [FFUF fuzzer | web-application penetration-testing](https://technicalnavigator.in/ffuf-fuzzer-web-application-penetration-testing/)
 - [How to open a Windows 11 Command Prompt as Administrator](https://www.bleepingcomputer.com/tutorials/how-to-open-a-windows-11-command-prompt-as-administrator/)
-- [Classes-Objects &amp; Deserialization bug](https://technicalnavigator.in/classes-objects-deserialization-bug/)
-- [Loki Tool | Multhreading Over Sockets in C](https://technicalnavigator.in/loki-tool-multhreading-over-sockets-in-c/)
-- [Egghunter | NASM | C prototype](https://technicalnavigator.in/egghunter-nasm-c-prototype/)
-- [TELNET &amp; FTP Analysis](https://technicalnavigator.in/telnet-ftp-analysis/)
 - [How to make the Start menu full screen in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-make-the-start-menu-full-screen-in-windows-10/)
 - [How to install the Microsoft Visual C++ 2015 Runtime](https://www.bleepingcomputer.com/tutorials/how-to-install-the-microsoft-visual-c-2015-runtime/)
 - [How to open an elevated PowerShell Admin prompt in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-open-an-elevated-powershell-admin-prompt-in-windows-10/)
