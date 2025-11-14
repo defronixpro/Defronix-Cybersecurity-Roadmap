@@ -922,7 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [When the Bug Bounty Platform Turns Against Its Own Hunters](https://medium.com/@Gl1tchx/when-the-bug-bounty-platform-turns-against-its-own-hunters-3f5da87851ff?source=rss------bug_bounty_writeup-5)
+- [When the Bug Bounty Platform Turns Against Its Own Hunters](https://cybersecuritywriteups.com/when-the-bug-bounty-platform-turns-against-its-own-hunters-3f5da87851ff?source=rss------bug_bounty_writeup-5)
 - [$650 Bounty for a Beginner Friendly Bug: Blind XSS in Rockstar Games’ Admin Panel](https://osintteam.blog/650-bounty-for-a-beginner-friendly-bug-blind-xss-in-rockstar-games-admin-panel-3bfdf6a352b0?source=rss------bug_bounty_writeup-5)
 - [Subdomain Enumeration: Uncovering the Hidden Corners of the Web](https://medium.com/@Purushothamr/subdomain-enumeration-uncovering-0bb2ae523c21?source=rss------bug_bounty_writeup-5)
 - [The Best AI for Ethical Hacking](https://systemweakness.com/the-best-ai-for-ethical-hacking-911c92de3b37?source=rss------bug_bounty_writeup-5)
