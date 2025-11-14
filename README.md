@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [$650 Bounty for a Beginner Friendly Bug: Blind XSS in Rockstar Games’ Admin Panel](https://osintteam.blog/650-bounty-for-a-beginner-friendly-bug-blind-xss-in-rockstar-games-admin-panel-3bfdf6a352b0?source=rss------bug_bounty_writeup-5)
 - [Subdomain Enumeration: Uncovering the Hidden Corners of the Web](https://medium.com/@Purushothamr/subdomain-enumeration-uncovering-0bb2ae523c21?source=rss------bug_bounty_writeup-5)
 - [The Best AI for Ethical Hacking](https://systemweakness.com/the-best-ai-for-ethical-hacking-911c92de3b37?source=rss------bug_bounty_writeup-5)
 - [When Among Us Meets Academia: An OSINT Challenge That’s Not Sus At All | v1t CTF OSINT Challenge](https://infosecwriteups.com/when-among-us-meets-academia-an-osint-challenge-thats-not-sus-at-all-v1t-ctf-osint-challenge-00bba5775179?source=rss----7b722bfd1b8d---4)
@@ -940,7 +941,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Reverse-Engineering Upload Names to Win an IDOR Bug](https://medium.com/@kazixabbir/reverse-engineering-upload-names-to-win-an-idor-bug-296f7e068c1a?source=rss------bug_bounty_writeup-5)
 - [Privilege Escalation via GraphQL: Editors Can Become Owners Through the “Share” Flow](https://medium.com/@B14ck/privilege-escalation-via-graphql-editors-can-become-owners-through-the-share-flow-b67782b98804?source=rss------bug_bounty_writeup-5)
 - [Business Logic Flaw: How an Empty Team Name Can Trap Users Forever](https://medium.com/@aminouji23/business-logic-flaw-how-an-empty-team-name-can-trap-users-forever-fb9152acb990?source=rss------bug_bounty_writeup-5)
-- [Email = Token = Broken Auth in Booking System](https://medium.com/@mohamedahmeds1029/email-token-broken-auth-in-booking-system-b54a7f5d7a52?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
