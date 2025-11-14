@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How i Found My first IDOR On Heavily Tested Target](https://medium.com/@pawanparmarofficial45/how-i-found-my-first-idor-on-heavily-tested-target-ace3322824cc?source=rss------bug_bounty_writeup-5)
 - [When the Bug Bounty Platform Turns Against Its Own Hunters](https://cybersecuritywriteups.com/when-the-bug-bounty-platform-turns-against-its-own-hunters-3f5da87851ff?source=rss------bug_bounty_writeup-5)
 - [$650 Bounty for a Beginner Friendly Bug: Blind XSS in Rockstar Games’ Admin Panel](https://osintteam.blog/650-bounty-for-a-beginner-friendly-bug-blind-xss-in-rockstar-games-admin-panel-3bfdf6a352b0?source=rss------bug_bounty_writeup-5)
 - [Subdomain Enumeration: Uncovering the Hidden Corners of the Web](https://medium.com/@Purushothamr/subdomain-enumeration-uncovering-0bb2ae523c21?source=rss------bug_bounty_writeup-5)
@@ -940,7 +941,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Reflected XSS in PUBG](https://infosecwriteups.com/reflected-xss-in-pubg-7cee89243268?source=rss------bug_bounty_writeup-5)
 - [How I Turned a Boring Image Downloader into an IDOR Goldmine](https://medium.com/@iamshafayat/how-i-turned-a-boring-image-downloader-into-an-idor-goldmine-77a77d8c6c05?source=rss------bug_bounty_writeup-5)
 - [Reverse-Engineering Upload Names to Win an IDOR Bug](https://medium.com/@kazixabbir/reverse-engineering-upload-names-to-win-an-idor-bug-296f7e068c1a?source=rss------bug_bounty_writeup-5)
-- [Privilege Escalation via GraphQL: Editors Can Become Owners Through the “Share” Flow](https://medium.com/@B14ck/privilege-escalation-via-graphql-editors-can-become-owners-through-the-share-flow-b67782b98804?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
