@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [A Revolutionary Bug: How Accidentally Invented the “Informative” E-Commerce Experience](https://medium.com/meetcyber/a-revolutionary-bug-how-accidentally-invented-the-informative-e-commerce-experience-1882f3dfd1b5?source=rss------bug_bounty_writeup-5)
 - [Hijacking Reviews: IDOR is Everywhere](https://scriptjacker.medium.com/hijacking-reviews-idor-is-everywhere-32256f649cd5?source=rss------bug_bounty_writeup-5)
 - [DorkBounty: Supercharging Recon for Bug Bounty Hunters](https://infosecwriteups.com/dorkbounty-supercharging-recon-for-bug-bounty-hunters-68d985f9df9b?source=rss------bug_bounty_writeup-5)
 - [New Bug Hunters: This Is How You Land a Critical Find](https://medium.com/activated-thinker/new-bug-hunters-this-is-how-you-land-a-critical-find-eaaf71fae5f4?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [CORS Vulnerability with Trusted Insecure Protocols](https://infosecwriteups.com/cors-vulnerability-with-trusted-insecure-protocols-82ba36766c07?source=rss----7b722bfd1b8d---4)
 - [Digital Forensics — Windows USB Artifacts [Insider Threat Case]](https://infosecwriteups.com/digital-forensics-windows-usb-artifacts-insider-threat-case-938c35a13b7e?source=rss----7b722bfd1b8d---4)
 - [How to Find P1 Bugs using Google in your Target — &lpar;Part-2&rpar;](https://infosecwriteups.com/how-to-find-p1-bugs-using-google-in-your-target-part-2-d37a9bb0b2e7?source=rss----7b722bfd1b8d---4)
-- [How to Find P1 Bugs using Google in your Target — &lpar;Part-2&rpar;](https://infosecwriteups.com/how-to-find-p1-bugs-using-google-in-your-target-part-2-d37a9bb0b2e7?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
