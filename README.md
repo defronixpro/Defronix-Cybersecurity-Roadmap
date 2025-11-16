@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How We Hacked inside e-commerce company: From Hidden Endpoints to Server Files: Our Full…](https://d0loreh4z3.medium.com/how-we-hacked-inside-e-commerce-company-from-hidden-endpoints-to-server-files-our-full-f274d10f5997?source=rss------bug_bounty_writeup-5)
 - [Five Bounties, One Bug: Exploiting the Same SSRF via Five Unique Techniques](https://medium.com/@oksuzkayra16/five-bounties-one-bug-exploiting-the-same-ssrf-via-five-unique-techniques-3f0adb7965d6?source=rss------bug_bounty_writeup-5)
 - [A Revolutionary Bug: How Accidentally Invented the “Informative” E-Commerce Experience](https://medium.com/meetcyber/a-revolutionary-bug-how-accidentally-invented-the-informative-e-commerce-experience-1882f3dfd1b5?source=rss------bug_bounty_writeup-5)
 - [Hijacking Reviews: IDOR is Everywhere](https://scriptjacker.medium.com/hijacking-reviews-idor-is-everywhere-32256f649cd5?source=rss------bug_bounty_writeup-5)
@@ -934,7 +935,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How i Found My first IDOR On Heavily Tested Target](https://medium.com/@pawanparmarofficial45/how-i-found-my-first-idor-on-heavily-tested-target-ace3322824cc?source=rss------bug_bounty_writeup-5)
 - [When the Bug Bounty Platform Turns Against Its Own Hunters](https://cybersecuritywriteups.com/when-the-bug-bounty-platform-turns-against-its-own-hunters-3f5da87851ff?source=rss------bug_bounty_writeup-5)
 - [$650 Bounty for a Beginner Friendly Bug: Blind XSS in Rockstar Games’ Admin Panel](https://osintteam.blog/650-bounty-for-a-beginner-friendly-bug-blind-xss-in-rockstar-games-admin-panel-3bfdf6a352b0?source=rss------bug_bounty_writeup-5)
-- [Subdomain Enumeration: Uncovering the Hidden Corners of the Web](https://medium.com/@Purushothamr/subdomain-enumeration-uncovering-0bb2ae523c21?source=rss------bug_bounty_writeup-5)
 - [When Among Us Meets Academia: An OSINT Challenge That’s Not Sus At All | v1t CTF OSINT Challenge](https://infosecwriteups.com/when-among-us-meets-academia-an-osint-challenge-thats-not-sus-at-all-v1t-ctf-osint-challenge-00bba5775179?source=rss----7b722bfd1b8d---4)
 - [Privilege Escalation From Guest To Admin](https://infosecwriteups.com/privilege-escalation-from-guest-to-admin-c3d2eb357dd1?source=rss----7b722bfd1b8d---4)
 - [CORS Vulnerability with Trusted Null Origin](https://infosecwriteups.com/cors-vulnerability-with-trusted-null-origin-0f9593bd7674?source=rss----7b722bfd1b8d---4)
@@ -946,7 +946,17 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
 - [How to backup and restore the Windows Registry](https://www.bleepingcomputer.com/tutorials/how-to-backup-and-restore-the-windows-registry/)
+- [How To Fix Error: Externally-Managed-Environment In Python &lpar;Kali Linux&rpar;](https://technicalnavigator.in/how-to-fix-error-externally-managed-environment-in-python-kali-linux/)
+- [Understanding Systemctl Command in Linux &lpar;Practical&rpar;](https://technicalnavigator.in/understanding-systemctl-command-in-linux-practical/)
+- [Macros in docm &amp; Linux memory dump| Hack The Boo  Challanges](https://technicalnavigator.in/macros-in-docm-linux-memory-dump-hack-the-boo-challanges/)
+- [Android Apps debugging |  Frida, JADX, Genymotion](https://technicalnavigator.in/android-apps-debugging-frida-jadx-genymotion/)
+- [MouseServer | wifimouse – Windows/ Linux](https://technicalnavigator.in/mouseserver-wifimouse-windows-linux/)
+- [FFUF fuzzer | web-application penetration-testing](https://technicalnavigator.in/ffuf-fuzzer-web-application-penetration-testing/)
 - [How to open a Windows 11 Command Prompt as Administrator](https://www.bleepingcomputer.com/tutorials/how-to-open-a-windows-11-command-prompt-as-administrator/)
+- [Classes-Objects &amp; Deserialization bug](https://technicalnavigator.in/classes-objects-deserialization-bug/)
+- [Loki Tool | Multhreading Over Sockets in C](https://technicalnavigator.in/loki-tool-multhreading-over-sockets-in-c/)
+- [Egghunter | NASM | C prototype](https://technicalnavigator.in/egghunter-nasm-c-prototype/)
+- [TELNET &amp; FTP Analysis](https://technicalnavigator.in/telnet-ftp-analysis/)
 - [How to make the Start menu full screen in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-make-the-start-menu-full-screen-in-windows-10/)
 - [How to install the Microsoft Visual C++ 2015 Runtime](https://www.bleepingcomputer.com/tutorials/how-to-install-the-microsoft-visual-c-2015-runtime/)
 - [How to open an elevated PowerShell Admin prompt in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-open-an-elevated-powershell-admin-prompt-in-windows-10/)
