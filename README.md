@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [All-in-One Recon: A Complete Automated Recon Script for Bug Bounty Hunters &lpar;v2.1&rpar;](https://pradyumntiwarenexus.medium.com/all-in-one-recon-a-complete-automated-recon-script-for-bug-bounty-hunters-v2-1-b66f389c88d5?source=rss------bug_bounty_writeup-5)
 - [200 reports, 11 valid bugs, 0 critical issues. Here’s everything we wish we’d known about VDP.](https://medium.com/meetcyber/200-reports-11-valid-bugs-0-critical-issues-heres-everything-we-wish-we-d-known-about-vdp-9e54108c737f?source=rss------bug_bounty_writeup-5)
 - [We should make the Beta public &lpar;famous last words&rpar;](https://medium.com/@l_s_/we-should-make-the-beta-public-famous-last-words-69b6f3bab550?source=rss------bug_bounty_writeup-5)
 - [How We Hacked inside e-commerce company: From Hidden Endpoints to Server Files: Our Full…](https://d0loreh4z3.medium.com/how-we-hacked-inside-e-commerce-company-from-hidden-endpoints-to-server-files-our-full-f274d10f5997?source=rss------bug_bounty_writeup-5)
@@ -934,7 +935,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [When Reading the Source Code Is the Real Hack: A Web Challenge Story | v1t CTF](https://infosecwriteups.com/when-reading-the-source-code-is-the-real-hack-a-web-challenge-story-v1t-ctf-b6adfcaa0fee?source=rss----7b722bfd1b8d---4)
 - [Reflected XSS → DVWA Walkthrough: Learn How User Input Can Trigger a Script Execution](https://infosecwriteups.com/reflected-xss-dvwa-walkthrough-learn-how-user-input-can-trigger-a-script-execution-3c9f9f26962b?source=rss----7b722bfd1b8d---4)
 - [SQL Injection: Listing Database Contents on Non-Oracle Databases](https://infosecwriteups.com/sql-injection-listing-database-contents-on-non-oracle-databases-ff10335aa34b?source=rss----7b722bfd1b8d---4)
-- [How i Found My first IDOR On Heavily Tested Target](https://medium.com/@pawanparmarofficial45/how-i-found-my-first-idor-on-heavily-tested-target-ace3322824cc?source=rss------bug_bounty_writeup-5)
 - [When Among Us Meets Academia: An OSINT Challenge That’s Not Sus At All | v1t CTF OSINT Challenge](https://infosecwriteups.com/when-among-us-meets-academia-an-osint-challenge-thats-not-sus-at-all-v1t-ctf-osint-challenge-00bba5775179?source=rss----7b722bfd1b8d---4)
 - [Privilege Escalation From Guest To Admin](https://infosecwriteups.com/privilege-escalation-from-guest-to-admin-c3d2eb357dd1?source=rss----7b722bfd1b8d---4)
 - [CORS Vulnerability with Trusted Null Origin](https://infosecwriteups.com/cors-vulnerability-with-trusted-null-origin-0f9593bd7674?source=rss----7b722bfd1b8d---4)
