@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [IDOR — Authentication Token &amp; Video Metadata Manipulation](https://medium.com/@defidev59/idor-authentication-token-video-metadata-manipulation-c058111945a0?source=rss------bug_bounty_writeup-5)
 - [All-in-One Recon: A Complete Automated Recon Script for Bug Bounty Hunters &lpar;v2.1&rpar;](https://pradyumntiwarenexus.medium.com/all-in-one-recon-a-complete-automated-recon-script-for-bug-bounty-hunters-v2-1-b66f389c88d5?source=rss------bug_bounty_writeup-5)
 - [200 reports, 11 valid bugs, 0 critical issues. Here’s everything we wish we’d known about VDP.](https://medium.com/meetcyber/200-reports-11-valid-bugs-0-critical-issues-heres-everything-we-wish-we-d-known-about-vdp-9e54108c737f?source=rss------bug_bounty_writeup-5)
 - [We should make the Beta public &lpar;famous last words&rpar;](https://medium.com/@l_s_/we-should-make-the-beta-public-famous-last-words-69b6f3bab550?source=rss------bug_bounty_writeup-5)
@@ -931,7 +932,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Hijacking Reviews: IDOR is Everywhere](https://scriptjacker.medium.com/hijacking-reviews-idor-is-everywhere-32256f649cd5?source=rss------bug_bounty_writeup-5)
 - [DorkBounty: Supercharging Recon for Bug Bounty Hunters](https://infosecwriteups.com/dorkbounty-supercharging-recon-for-bug-bounty-hunters-68d985f9df9b?source=rss------bug_bounty_writeup-5)
 - [New Bug Hunters: This Is How You Land a Critical Find](https://medium.com/activated-thinker/new-bug-hunters-this-is-how-you-land-a-critical-find-eaaf71fae5f4?source=rss------bug_bounty_writeup-5)
-- [How to Test for IDOR: The Practical Methodology](https://z0h3.medium.com/how-to-test-for-idor-the-practical-methodology-fec3688febfb?source=rss------bug_bounty_writeup-5)
 - [When Reading the Source Code Is the Real Hack: A Web Challenge Story | v1t CTF](https://infosecwriteups.com/when-reading-the-source-code-is-the-real-hack-a-web-challenge-story-v1t-ctf-b6adfcaa0fee?source=rss----7b722bfd1b8d---4)
 - [Reflected XSS → DVWA Walkthrough: Learn How User Input Can Trigger a Script Execution](https://infosecwriteups.com/reflected-xss-dvwa-walkthrough-learn-how-user-input-can-trigger-a-script-execution-3c9f9f26962b?source=rss----7b722bfd1b8d---4)
 - [SQL Injection: Listing Database Contents on Non-Oracle Databases](https://infosecwriteups.com/sql-injection-listing-database-contents-on-non-oracle-databases-ff10335aa34b?source=rss----7b722bfd1b8d---4)
