@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How i was able to find my first 3 bugs in bugcrowd](https://medium.com/@mrx_w_/how-i-was-able-to-find-my-first-3-bugs-in-bugcrowd-77a1b673ed90?source=rss------bug_bounty_writeup-5)
 - [IDOR — Authentication Token &amp; Video Metadata Manipulation](https://medium.com/@defidev59/idor-authentication-token-video-metadata-manipulation-c058111945a0?source=rss------bug_bounty_writeup-5)
 - [All-in-One Recon: A Complete Automated Recon Script for Bug Bounty Hunters &lpar;v2.1&rpar;](https://pradyumntiwarenexus.medium.com/all-in-one-recon-a-complete-automated-recon-script-for-bug-bounty-hunters-v2-1-b66f389c88d5?source=rss------bug_bounty_writeup-5)
 - [200 reports, 11 valid bugs, 0 critical issues. Here’s everything we wish we’d known about VDP.](https://medium.com/meetcyber/200-reports-11-valid-bugs-0-critical-issues-heres-everything-we-wish-we-d-known-about-vdp-9e54108c737f?source=rss------bug_bounty_writeup-5)
@@ -931,7 +932,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [A Revolutionary Bug: How Accidentally Invented the “Informative” E-Commerce Experience](https://medium.com/meetcyber/a-revolutionary-bug-how-accidentally-invented-the-informative-e-commerce-experience-1882f3dfd1b5?source=rss------bug_bounty_writeup-5)
 - [Hijacking Reviews: IDOR is Everywhere](https://scriptjacker.medium.com/hijacking-reviews-idor-is-everywhere-32256f649cd5?source=rss------bug_bounty_writeup-5)
 - [DorkBounty: Supercharging Recon for Bug Bounty Hunters](https://infosecwriteups.com/dorkbounty-supercharging-recon-for-bug-bounty-hunters-68d985f9df9b?source=rss------bug_bounty_writeup-5)
-- [New Bug Hunters: This Is How You Land a Critical Find](https://medium.com/activated-thinker/new-bug-hunters-this-is-how-you-land-a-critical-find-eaaf71fae5f4?source=rss------bug_bounty_writeup-5)
 - [When Reading the Source Code Is the Real Hack: A Web Challenge Story | v1t CTF](https://infosecwriteups.com/when-reading-the-source-code-is-the-real-hack-a-web-challenge-story-v1t-ctf-b6adfcaa0fee?source=rss----7b722bfd1b8d---4)
 - [Reflected XSS → DVWA Walkthrough: Learn How User Input Can Trigger a Script Execution](https://infosecwriteups.com/reflected-xss-dvwa-walkthrough-learn-how-user-input-can-trigger-a-script-execution-3c9f9f26962b?source=rss----7b722bfd1b8d---4)
 - [SQL Injection: Listing Database Contents on Non-Oracle Databases](https://infosecwriteups.com/sql-injection-listing-database-contents-on-non-oracle-databases-ff10335aa34b?source=rss----7b722bfd1b8d---4)
@@ -942,6 +942,16 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [CORS Vulnerability with Trusted Insecure Protocols](https://infosecwriteups.com/cors-vulnerability-with-trusted-insecure-protocols-82ba36766c07?source=rss----7b722bfd1b8d---4)
 - [Digital Forensics — Windows USB Artifacts [Insider Threat Case]](https://infosecwriteups.com/digital-forensics-windows-usb-artifacts-insider-threat-case-938c35a13b7e?source=rss----7b722bfd1b8d---4)
 - [How to Find P1 Bugs using Google in your Target — &lpar;Part-2&rpar;](https://infosecwriteups.com/how-to-find-p1-bugs-using-google-in-your-target-part-2-d37a9bb0b2e7?source=rss----7b722bfd1b8d---4)
+- [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
+- [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
+- [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
+- [How to backup and restore the Windows Registry](https://www.bleepingcomputer.com/tutorials/how-to-backup-and-restore-the-windows-registry/)
+- [How to open a Windows 11 Command Prompt as Administrator](https://www.bleepingcomputer.com/tutorials/how-to-open-a-windows-11-command-prompt-as-administrator/)
+- [How to make the Start menu full screen in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-make-the-start-menu-full-screen-in-windows-10/)
+- [How to install the Microsoft Visual C++ 2015 Runtime](https://www.bleepingcomputer.com/tutorials/how-to-install-the-microsoft-visual-c-2015-runtime/)
+- [How to open an elevated PowerShell Admin prompt in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-open-an-elevated-powershell-admin-prompt-in-windows-10/)
+- [How to Translate a Web Page in Google Chrome](https://www.bleepingcomputer.com/tutorials/how-to-translate-a-web-page-in-google-chrome/)
+- [How to Install and Uninstall Google Chrome in Windows](https://www.bleepingcomputer.com/tutorials/how-to-install-and-uninstall-google-chrome-in-windows/)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
