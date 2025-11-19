@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Security Disclosure: Exposed Prometheus Node Exporter - Jio Infrastructure Internal System &quot;calmav&quot;…](https://medium.com/@christoscoming/security-disclosure-exposed-prometheus-node-exporter-jio-infrastructure-internal-system-calmav-16ab4ad64b58?source=rss------bug_bounty_writeup-5)
 - [From Play Store to Hall of Fame: My Journey Hunting Bugs in Government Mobile Apps](https://infosecwriteups.com/from-play-store-to-hall-of-fame-my-journey-hunting-bugs-in-government-mobile-apps-81f242ad8916?source=rss------bug_bounty_writeup-5)
 - [How i was able to find my first 3 bugs in bugcrowd](https://medium.com/@mrx_w_/how-i-was-able-to-find-my-first-3-bugs-in-bugcrowd-77a1b673ed90?source=rss------bug_bounty_writeup-5)
 - [IDOR — Authentication Token &amp; Video Metadata Manipulation](https://medium.com/@defidev59/idor-authentication-token-video-metadata-manipulation-c058111945a0?source=rss------bug_bounty_writeup-5)
@@ -931,7 +932,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How We Hacked inside e-commerce company: From Hidden Endpoints to Server Files: Our Full…](https://d0loreh4z3.medium.com/how-we-hacked-inside-e-commerce-company-from-hidden-endpoints-to-server-files-our-full-f274d10f5997?source=rss------bug_bounty_writeup-5)
 - [Five Bounties, One Bug: Exploiting the Same SSRF via Five Unique Techniques](https://medium.com/@oksuzkayra16/five-bounties-one-bug-exploiting-the-same-ssrf-via-five-unique-techniques-3f0adb7965d6?source=rss------bug_bounty_writeup-5)
 - [A Revolutionary Bug: How Accidentally Invented the “Informative” E-Commerce Experience](https://medium.com/meetcyber/a-revolutionary-bug-how-accidentally-invented-the-informative-e-commerce-experience-1882f3dfd1b5?source=rss------bug_bounty_writeup-5)
-- [Hijacking Reviews: IDOR is Everywhere](https://scriptjacker.medium.com/hijacking-reviews-idor-is-everywhere-32256f649cd5?source=rss------bug_bounty_writeup-5)
 - [When Reading the Source Code Is the Real Hack: A Web Challenge Story | v1t CTF](https://infosecwriteups.com/when-reading-the-source-code-is-the-real-hack-a-web-challenge-story-v1t-ctf-b6adfcaa0fee?source=rss----7b722bfd1b8d---4)
 - [Reflected XSS → DVWA Walkthrough: Learn How User Input Can Trigger a Script Execution](https://infosecwriteups.com/reflected-xss-dvwa-walkthrough-learn-how-user-input-can-trigger-a-script-execution-3c9f9f26962b?source=rss----7b722bfd1b8d---4)
 - [SQL Injection: Listing Database Contents on Non-Oracle Databases](https://infosecwriteups.com/sql-injection-listing-database-contents-on-non-oracle-databases-ff10335aa34b?source=rss----7b722bfd1b8d---4)
