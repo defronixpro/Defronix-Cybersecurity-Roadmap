@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [From Play Store to Hall of Fame: My Journey Hunting Bugs in Government Mobile Apps](https://infosecwriteups.com/from-play-store-to-hall-of-fame-my-journey-hunting-bugs-in-government-mobile-apps-81f242ad8916?source=rss------bug_bounty_writeup-5)
 - [How i was able to find my first 3 bugs in bugcrowd](https://medium.com/@mrx_w_/how-i-was-able-to-find-my-first-3-bugs-in-bugcrowd-77a1b673ed90?source=rss------bug_bounty_writeup-5)
 - [IDOR — Authentication Token &amp; Video Metadata Manipulation](https://medium.com/@defidev59/idor-authentication-token-video-metadata-manipulation-c058111945a0?source=rss------bug_bounty_writeup-5)
 - [All-in-One Recon: A Complete Automated Recon Script for Bug Bounty Hunters &lpar;v2.1&rpar;](https://pradyumntiwarenexus.medium.com/all-in-one-recon-a-complete-automated-recon-script-for-bug-bounty-hunters-v2-1-b66f389c88d5?source=rss------bug_bounty_writeup-5)
@@ -931,7 +932,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Five Bounties, One Bug: Exploiting the Same SSRF via Five Unique Techniques](https://medium.com/@oksuzkayra16/five-bounties-one-bug-exploiting-the-same-ssrf-via-five-unique-techniques-3f0adb7965d6?source=rss------bug_bounty_writeup-5)
 - [A Revolutionary Bug: How Accidentally Invented the “Informative” E-Commerce Experience](https://medium.com/meetcyber/a-revolutionary-bug-how-accidentally-invented-the-informative-e-commerce-experience-1882f3dfd1b5?source=rss------bug_bounty_writeup-5)
 - [Hijacking Reviews: IDOR is Everywhere](https://scriptjacker.medium.com/hijacking-reviews-idor-is-everywhere-32256f649cd5?source=rss------bug_bounty_writeup-5)
-- [DorkBounty: Supercharging Recon for Bug Bounty Hunters](https://infosecwriteups.com/dorkbounty-supercharging-recon-for-bug-bounty-hunters-68d985f9df9b?source=rss------bug_bounty_writeup-5)
 - [When Reading the Source Code Is the Real Hack: A Web Challenge Story | v1t CTF](https://infosecwriteups.com/when-reading-the-source-code-is-the-real-hack-a-web-challenge-story-v1t-ctf-b6adfcaa0fee?source=rss----7b722bfd1b8d---4)
 - [Reflected XSS → DVWA Walkthrough: Learn How User Input Can Trigger a Script Execution](https://infosecwriteups.com/reflected-xss-dvwa-walkthrough-learn-how-user-input-can-trigger-a-script-execution-3c9f9f26962b?source=rss----7b722bfd1b8d---4)
 - [SQL Injection: Listing Database Contents on Non-Oracle Databases](https://infosecwriteups.com/sql-injection-listing-database-contents-on-non-oracle-databases-ff10335aa34b?source=rss----7b722bfd1b8d---4)
@@ -946,17 +946,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
 - [How to backup and restore the Windows Registry](https://www.bleepingcomputer.com/tutorials/how-to-backup-and-restore-the-windows-registry/)
-- [How To Fix Error: Externally-Managed-Environment In Python &lpar;Kali Linux&rpar;](https://technicalnavigator.in/how-to-fix-error-externally-managed-environment-in-python-kali-linux/)
-- [Understanding Systemctl Command in Linux &lpar;Practical&rpar;](https://technicalnavigator.in/understanding-systemctl-command-in-linux-practical/)
-- [Macros in docm &amp; Linux memory dump| Hack The Boo  Challanges](https://technicalnavigator.in/macros-in-docm-linux-memory-dump-hack-the-boo-challanges/)
-- [Android Apps debugging |  Frida, JADX, Genymotion](https://technicalnavigator.in/android-apps-debugging-frida-jadx-genymotion/)
-- [MouseServer | wifimouse – Windows/ Linux](https://technicalnavigator.in/mouseserver-wifimouse-windows-linux/)
-- [FFUF fuzzer | web-application penetration-testing](https://technicalnavigator.in/ffuf-fuzzer-web-application-penetration-testing/)
 - [How to open a Windows 11 Command Prompt as Administrator](https://www.bleepingcomputer.com/tutorials/how-to-open-a-windows-11-command-prompt-as-administrator/)
-- [Classes-Objects &amp; Deserialization bug](https://technicalnavigator.in/classes-objects-deserialization-bug/)
-- [Loki Tool | Multhreading Over Sockets in C](https://technicalnavigator.in/loki-tool-multhreading-over-sockets-in-c/)
-- [Egghunter | NASM | C prototype](https://technicalnavigator.in/egghunter-nasm-c-prototype/)
-- [TELNET &amp; FTP Analysis](https://technicalnavigator.in/telnet-ftp-analysis/)
 - [How to make the Start menu full screen in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-make-the-start-menu-full-screen-in-windows-10/)
 - [How to install the Microsoft Visual C++ 2015 Runtime](https://www.bleepingcomputer.com/tutorials/how-to-install-the-microsoft-visual-c-2015-runtime/)
 - [How to open an elevated PowerShell Admin prompt in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-open-an-elevated-powershell-admin-prompt-in-windows-10/)
