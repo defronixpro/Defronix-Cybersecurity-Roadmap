@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Bug Bounty Commands Generator — A Practical Tool for Faster Pen-testing Workflows](https://medium.com/@HackByteX/bug-bounty-commands-generator-a-practical-tool-for-faster-pen-testing-workflows-f7d3d7a6addc?source=rss------bug_bounty_writeup-5)
 - [[NASA] GlobalProtect VPN Pre-Auth Leak →](https://medium.com/@christoscoming/nasa-globalprotect-vpn-pre-auth-leak-d868aa005341?source=rss------bug_bounty_writeup-5)
 - [Security Disclosure: Exposed Prometheus Node Exporter - Jio Infrastructure Internal System…](https://medium.com/@christoscoming/security-disclosure-exposed-prometheus-node-exporter-jio-infrastructure-internal-system-calmav-16ab4ad64b58?source=rss------bug_bounty_writeup-5)
 - [From Play Store to Hall of Fame: My Journey Hunting Bugs in Government Mobile Apps](https://infosecwriteups.com/from-play-store-to-hall-of-fame-my-journey-hunting-bugs-in-government-mobile-apps-81f242ad8916?source=rss------bug_bounty_writeup-5)
@@ -931,7 +932,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [200 reports, 11 valid bugs, 0 critical issues. Here’s everything we wish we’d known about VDP.](https://medium.com/meetcyber/200-reports-11-valid-bugs-0-critical-issues-heres-everything-we-wish-we-d-known-about-vdp-9e54108c737f?source=rss------bug_bounty_writeup-5)
 - [We should make the Beta public &lpar;famous last words&rpar;](https://medium.com/@l_s_/we-should-make-the-beta-public-famous-last-words-69b6f3bab550?source=rss------bug_bounty_writeup-5)
 - [How We Hacked inside e-commerce company: From Hidden Endpoints to Server Files: Our Full…](https://d0loreh4z3.medium.com/how-we-hacked-inside-e-commerce-company-from-hidden-endpoints-to-server-files-our-full-f274d10f5997?source=rss------bug_bounty_writeup-5)
-- [Five Bounties, One Bug: Exploiting the Same SSRF via Five Unique Techniques](https://medium.com/@oksuzkayra16/five-bounties-one-bug-exploiting-the-same-ssrf-via-five-unique-techniques-3f0adb7965d6?source=rss------bug_bounty_writeup-5)
 - [When Reading the Source Code Is the Real Hack: A Web Challenge Story | v1t CTF](https://infosecwriteups.com/when-reading-the-source-code-is-the-real-hack-a-web-challenge-story-v1t-ctf-b6adfcaa0fee?source=rss----7b722bfd1b8d---4)
 - [Reflected XSS → DVWA Walkthrough: Learn How User Input Can Trigger a Script Execution](https://infosecwriteups.com/reflected-xss-dvwa-walkthrough-learn-how-user-input-can-trigger-a-script-execution-3c9f9f26962b?source=rss----7b722bfd1b8d---4)
 - [SQL Injection: Listing Database Contents on Non-Oracle Databases](https://infosecwriteups.com/sql-injection-listing-database-contents-on-non-oracle-databases-ff10335aa34b?source=rss----7b722bfd1b8d---4)
@@ -946,17 +946,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
 - [How to backup and restore the Windows Registry](https://www.bleepingcomputer.com/tutorials/how-to-backup-and-restore-the-windows-registry/)
-- [How To Fix Error: Externally-Managed-Environment In Python &lpar;Kali Linux&rpar;](https://technicalnavigator.in/how-to-fix-error-externally-managed-environment-in-python-kali-linux/)
-- [Understanding Systemctl Command in Linux &lpar;Practical&rpar;](https://technicalnavigator.in/understanding-systemctl-command-in-linux-practical/)
-- [Macros in docm &amp; Linux memory dump| Hack The Boo  Challanges](https://technicalnavigator.in/macros-in-docm-linux-memory-dump-hack-the-boo-challanges/)
-- [Android Apps debugging |  Frida, JADX, Genymotion](https://technicalnavigator.in/android-apps-debugging-frida-jadx-genymotion/)
-- [MouseServer | wifimouse – Windows/ Linux](https://technicalnavigator.in/mouseserver-wifimouse-windows-linux/)
-- [FFUF fuzzer | web-application penetration-testing](https://technicalnavigator.in/ffuf-fuzzer-web-application-penetration-testing/)
 - [How to open a Windows 11 Command Prompt as Administrator](https://www.bleepingcomputer.com/tutorials/how-to-open-a-windows-11-command-prompt-as-administrator/)
-- [Classes-Objects &amp; Deserialization bug](https://technicalnavigator.in/classes-objects-deserialization-bug/)
-- [Loki Tool | Multhreading Over Sockets in C](https://technicalnavigator.in/loki-tool-multhreading-over-sockets-in-c/)
-- [Egghunter | NASM | C prototype](https://technicalnavigator.in/egghunter-nasm-c-prototype/)
-- [TELNET &amp; FTP Analysis](https://technicalnavigator.in/telnet-ftp-analysis/)
 - [How to make the Start menu full screen in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-make-the-start-menu-full-screen-in-windows-10/)
 - [How to install the Microsoft Visual C++ 2015 Runtime](https://www.bleepingcomputer.com/tutorials/how-to-install-the-microsoft-visual-c-2015-runtime/)
 - [How to open an elevated PowerShell Admin prompt in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-open-an-elevated-powershell-admin-prompt-in-windows-10/)
