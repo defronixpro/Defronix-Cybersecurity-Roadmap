@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Modern SSRF — Part 2 &lpar;Medium&rpar;: Practical, Safe Techniques for Bug Bounty Hunters](https://medium.com/great-hackers-battalion/modern-ssrf-part-2-medium-practical-safe-techniques-for-bug-bounty-hunters-e5e38ca22000?source=rss------bug_bounty_writeup-5)
 - [Bypassing University Email Verification: A Logical Flaw in a Saudi Cybersecurity Education Platform](https://medium.com/@amedocodo123/bypassing-university-email-verification-a-logical-flaw-in-a-saudi-cybersecurity-education-platform-3073721ce9bd?source=rss------bug_bounty_writeup-5)
 - [2 ATO via CSRF by using the same mechanism in different positions](https://canitey.medium.com/2-ato-via-csrf-by-using-the-same-mechanism-in-different-positions-20188133c625?source=rss------bug_bounty_writeup-5)
 - [Publicly Exposed RAG API Leading to Unauthenticated Access to PII and Internal System Data](https://g0w6y.medium.com/publicly-exposed-rag-api-leading-to-unauthenticated-access-to-pii-and-internal-system-data-83913558b2e2?source=rss------bug_bounty_writeup-5)
@@ -930,7 +931,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Security Disclosure: Exposed Prometheus Node Exporter - Jio Infrastructure Internal System…](https://medium.com/@christoscoming/security-disclosure-exposed-prometheus-node-exporter-jio-infrastructure-internal-system-calmav-16ab4ad64b58?source=rss------bug_bounty_writeup-5)
 - [From Play Store to Hall of Fame: My Journey Hunting Bugs in Government Mobile Apps](https://infosecwriteups.com/from-play-store-to-hall-of-fame-my-journey-hunting-bugs-in-government-mobile-apps-81f242ad8916?source=rss------bug_bounty_writeup-5)
 - [How i was able to find my first 3 bugs in bugcrowd](https://medium.com/@mrx_w_/how-i-was-able-to-find-my-first-3-bugs-in-bugcrowd-77a1b673ed90?source=rss------bug_bounty_writeup-5)
-- [IDOR — Authentication Token &amp; Video Metadata Manipulation](https://medium.com/@defidev59/idor-authentication-token-video-metadata-manipulation-c058111945a0?source=rss------bug_bounty_writeup-5)
 - [When Reading the Source Code Is the Real Hack: A Web Challenge Story | v1t CTF](https://infosecwriteups.com/when-reading-the-source-code-is-the-real-hack-a-web-challenge-story-v1t-ctf-b6adfcaa0fee?source=rss----7b722bfd1b8d---4)
 - [Reflected XSS → DVWA Walkthrough: Learn How User Input Can Trigger a Script Execution](https://infosecwriteups.com/reflected-xss-dvwa-walkthrough-learn-how-user-input-can-trigger-a-script-execution-3c9f9f26962b?source=rss----7b722bfd1b8d---4)
 - [SQL Injection: Listing Database Contents on Non-Oracle Databases](https://infosecwriteups.com/sql-injection-listing-database-contents-on-non-oracle-databases-ff10335aa34b?source=rss----7b722bfd1b8d---4)
