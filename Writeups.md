@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How I Spent 5 Hours For a Vulnerability And Got Ghosted](https://medium.com/@christosdimitropouloss/how-i-spent-5-hours-for-a-vulnerability-and-got-ghosted-e1bd09c1b9c7?source=rss------bug_bounty_writeup-5)
 - [How I Saved a Canadian Multi-Million Dollar Company from Total Compromise](https://medium.com/@iamrizwanvp/full-admin-takeover-how-i-saved-a-canadian-multi-million-dollar-company-from-total-compromise-209f3f1d26b7?source=rss------bug_bounty_writeup-5)
 - [PicoCTF Challenges: Hashcrack](https://infosecwriteups.com/picoctf-challenges-hashcrack-09fddae4bb9b?source=rss----7b722bfd1b8d---4)
 - [Beyond the Fear: How the Dark Web Became My Secret Weapon for a Azure AD Takeover ️‍♂️✨](https://infosecwriteups.com/beyond-the-fear-how-the-dark-web-became-my-secret-weapon-for-a-azure-ad-takeover-%EF%B8%8F-%EF%B8%8F-a226dbacba7a?source=rss----7b722bfd1b8d---4)
@@ -19,7 +20,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [2 ATO via CSRF by using the same mechanism in different positions](https://canitey.medium.com/2-ato-via-csrf-by-using-the-same-mechanism-in-different-positions-20188133c625?source=rss------bug_bounty_writeup-5)
 - [Publicly Exposed RAG API Leading to Unauthenticated Access to PII and Internal System Data](https://g0w6y.medium.com/publicly-exposed-rag-api-leading-to-unauthenticated-access-to-pii-and-internal-system-data-83913558b2e2?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Commands Generator — A Practical Tool for Faster Pen-testing Workflows](https://medium.com/@HackByteX/bug-bounty-commands-generator-a-practical-tool-for-faster-pen-testing-workflows-f7d3d7a6addc?source=rss------bug_bounty_writeup-5)
-- [[NASA] GlobalProtect VPN Pre-Auth Leak →](https://medium.com/@christoscoming/nasa-globalprotect-vpn-pre-auth-leak-d868aa005341?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
