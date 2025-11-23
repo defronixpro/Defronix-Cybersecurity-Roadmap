@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Full Admin Takeover: How I Saved a Canadian Multi-Million Dollar Company from Total Compromise](https://medium.com/@iamrizwanvp/full-admin-takeover-how-i-saved-a-canadian-multi-million-dollar-company-from-total-compromise-209f3f1d26b7?source=rss------bug_bounty_writeup-5)
 - [PicoCTF Challenges: Hashcrack](https://infosecwriteups.com/picoctf-challenges-hashcrack-09fddae4bb9b?source=rss----7b722bfd1b8d---4)
 - [Beyond the Fear: How the Dark Web Became My Secret Weapon for a Azure AD Takeover ️‍♂️✨](https://infosecwriteups.com/beyond-the-fear-how-the-dark-web-became-my-secret-weapon-for-a-azure-ad-takeover-%EF%B8%8F-%EF%B8%8F-a226dbacba7a?source=rss----7b722bfd1b8d---4)
 - [Lab 1#: Basic clickjacking with CSRF token protection | Clickjacking Lab](https://infosecwriteups.com/lab-1-basic-clickjacking-with-csrf-token-protection-clickjacking-lab-ee08bc71b170?source=rss----7b722bfd1b8d---4)
@@ -940,7 +941,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Publicly Exposed RAG API Leading to Unauthenticated Access to PII and Internal System Data](https://g0w6y.medium.com/publicly-exposed-rag-api-leading-to-unauthenticated-access-to-pii-and-internal-system-data-83913558b2e2?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Commands Generator — A Practical Tool for Faster Pen-testing Workflows](https://medium.com/@HackByteX/bug-bounty-commands-generator-a-practical-tool-for-faster-pen-testing-workflows-f7d3d7a6addc?source=rss------bug_bounty_writeup-5)
 - [[NASA] GlobalProtect VPN Pre-Auth Leak →](https://medium.com/@christoscoming/nasa-globalprotect-vpn-pre-auth-leak-d868aa005341?source=rss------bug_bounty_writeup-5)
-- [Security Disclosure: Exposed Prometheus Node Exporter - Jio Infrastructure Internal System…](https://medium.com/@christoscoming/security-disclosure-exposed-prometheus-node-exporter-jio-infrastructure-internal-system-calmav-16ab4ad64b58?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
