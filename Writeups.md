@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [From “Meh, It’s Just Reflected XSS” to “Sh*t, I Own the CEO”](https://infosecwriteups.com/from-meh-its-just-reflected-xss-to-sh-t-i-own-the-ceo-0e0793ef7186?source=rss------bug_bounty_writeup-5)
 - [⚡ 3 Tricks to Hunt Bug Faster: Stop Wasting Time, Finding Smartly](https://medium.com/@Aacle/3-tricks-to-hunt-bug-faster-stop-wasting-time-finding-smartly-4d5648919aec?source=rss------bug_bounty_writeup-5)
 - [NETFLIX Exposed Prometheus instance exposing internal metrics closed as duplicate leaks internal…](https://medium.com/@christoscoming/netflix-exposed-prometheus-instance-exposing-internal-metrics-closed-as-duplicate-leaks-internal-ip-dfa78d99864e?source=rss------bug_bounty_writeup-5)
 - [This article we will look into the vulnerability subdomain takeovers What makes a web app…](https://infosecwriteups.com/this-article-we-will-look-into-the-vulnerability-subdomain-takeovers-what-makes-a-web-app-27d2d136ba7e?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How I Built a Robot That Finds Broken Authorization While I Sleep](https://infosecwriteups.com/how-i-built-a-robot-that-finds-broken-authorization-while-i-sleep-458e94f4d879?source=rss----7b722bfd1b8d---4)
 - [Register / Signup Vulnerabilities: Step-by-Step Guide for Bug Hunters](https://osintteam.blog/register-signup-vulnerabilities-step-by-step-guide-for-bug-hunters-86239ee4cc95?source=rss------bug_bounty_writeup-5)
 - [Path Traversal Returns: CVE-2021–3281](https://osintteam.blog/path-traversal-returns-cve-2021-3281-52e270a69227?source=rss------bug_bounty_writeup-5)
-- [Modern SSRF — Part 2 &lpar;Medium&rpar;: Practical, Safe Techniques for Bug Bounty Hunters](https://medium.com/great-hackers-battalion/modern-ssrf-part-2-medium-practical-safe-techniques-for-bug-bounty-hunters-e5e38ca22000?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
