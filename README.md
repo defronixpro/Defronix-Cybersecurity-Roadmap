@@ -922,6 +922,10 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [$600 Bounty: Stored XSS in Jira Service Desk Reports](https://infosecwriteups.com/600-bounty-stored-xss-in-jira-service-desk-reports-22bad0f8120d?source=rss----7b722bfd1b8d---4)
+- [$600 Bounty: Stored XSS in Jira Service Desk Reports](https://infosecwriteups.com/600-bounty-stored-xss-in-jira-service-desk-reports-22bad0f8120d?source=rss------bug_bounty_writeup-5)
+- [Information Disclosure in Revive Adserver v6.0.0](https://infosecwriteups.com/information-disclosure-in-revive-adserver-v6-0-0-1abad04b5199?source=rss----7b722bfd1b8d---4)
+- [Information Disclosure in Revive Adserver v6.0.0](https://infosecwriteups.com/information-disclosure-in-revive-adserver-v6-0-0-1abad04b5199?source=rss------bug_bounty_writeup-5)
 - [How Newcomers Can Automate Vulnerability Finding In Bug Bounty Hunting?](https://medium.com/activated-thinker/how-newcomers-can-automate-vulnerability-finding-in-bug-bounty-hunting-16a3a55590ee?source=rss------bug_bounty_writeup-5)
 - [How I Spent 5 Hours For a Vulnerability And Got Ghosted](https://medium.com/@christosdimitropouloss/how-i-spent-5-hours-for-a-vulnerability-and-got-ghosted-e1bd09c1b9c7?source=rss------bug_bounty_writeup-5)
 - [How I Saved a Canadian Multi-Million Dollar Company from Total Compromise](https://medium.com/@iamrizwanvp/full-admin-takeover-how-i-saved-a-canadian-multi-million-dollar-company-from-total-compromise-209f3f1d26b7?source=rss------bug_bounty_writeup-5)
@@ -933,14 +937,11 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How I Taught AI to Predict Zero-Days Before They Happened &lpar;And Got Paid for Bugs That Didn’t Exist…](https://infosecwriteups.com/how-i-taught-ai-to-predict-zero-days-before-they-happened-and-got-paid-for-bugs-that-didnt-exist-3e0fe162d92f?source=rss----7b722bfd1b8d---4)
 - [How I Made Burp Suite My IDOR-Finding Robot Butler &lpar;And Found 20+ Bugs&rpar;](https://infosecwriteups.com/how-i-made-burp-suite-my-idor-finding-robot-butler-and-found-20-bugs-2c5a9edd370d?source=rss----7b722bfd1b8d---4)
 - [How One Tiny IDOR Created a Digital Domino Effect That Toppled Their Entire Security](https://infosecwriteups.com/how-one-tiny-idor-created-a-digital-domino-effect-that-toppled-their-entire-security-5959ffeeae34?source=rss----7b722bfd1b8d---4)
-- [Karmic Security — HTB Starting Point: Appointment](https://infosecwriteups.com/karmic-security-htb-starting-point-appointment-22aacde1bbfe?source=rss----7b722bfd1b8d---4)
-- [Hack the Box Starting Point: Responder](https://infosecwriteups.com/hack-the-box-starting-point-responder-6ff927b7733c?source=rss----7b722bfd1b8d---4)
 - [Register / Signup Vulnerabilities: Step-by-Step Guide for Bug Hunters](https://osintteam.blog/register-signup-vulnerabilities-step-by-step-guide-for-bug-hunters-86239ee4cc95?source=rss------bug_bounty_writeup-5)
 - [Path Traversal Returns: CVE-2021–3281](https://osintteam.blog/path-traversal-returns-cve-2021-3281-52e270a69227?source=rss------bug_bounty_writeup-5)
 - [Modern SSRF — Part 2 &lpar;Medium&rpar;: Practical, Safe Techniques for Bug Bounty Hunters](https://medium.com/great-hackers-battalion/modern-ssrf-part-2-medium-practical-safe-techniques-for-bug-bounty-hunters-e5e38ca22000?source=rss------bug_bounty_writeup-5)
 - [Bypassing University Email Verification: A Logical Flaw in a Saudi Cybersecurity Education Platform](https://medium.com/@amedocodo123/bypassing-university-email-verification-a-logical-flaw-in-a-saudi-cybersecurity-education-platform-3073721ce9bd?source=rss------bug_bounty_writeup-5)
 - [2 ATO via CSRF by using the same mechanism in different positions](https://canitey.medium.com/2-ato-via-csrf-by-using-the-same-mechanism-in-different-positions-20188133c625?source=rss------bug_bounty_writeup-5)
-- [Publicly Exposed RAG API Leading to Unauthenticated Access to PII and Internal System Data](https://g0w6y.medium.com/publicly-exposed-rag-api-leading-to-unauthenticated-access-to-pii-and-internal-system-data-83913558b2e2?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
