@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [$1,500 Recon Secrets: Dorks to Dollars](https://medium.com/@tinopreter/1-500-recon-secrets-dorks-to-dollars-0e7eca022708?source=rss------bug_bounty_writeup-5)
 - [From Dorks to Defense: How I Secured Two CERT-In Hall of Fames](https://infosecwriteups.com/from-dorks-to-defense-how-i-secured-two-cert-in-hall-of-fames-37f87f181bd0?source=rss------bug_bounty_writeup-5)
 - [I Exposed Carding Operations Exploiting Stripe’s payment gateway | Merchants API CC CHECKER…](https://medium.com/@christoscoming/i-exposed-carding-operations-exploiting-stripes-payment-gateway-merchants-api-cc-checker-bot-191bc0a1df6b?source=rss------bug_bounty_writeup-5)
 - [HOW I Got My First Bug Bounty In Few Steps– $50 AUD for an HTML Injection](https://medium.com/@sohambughunt3636/how-i-got-my-first-bug-bounty-in-few-steps-50-aud-for-an-html-injection-a6b40472fc76?source=rss------bug_bounty_writeup-5)
@@ -15,7 +16,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [$600 Bounty: Stored XSS in Jira Service Desk Reports](https://infosecwriteups.com/600-bounty-stored-xss-in-jira-service-desk-reports-22bad0f8120d?source=rss------bug_bounty_writeup-5)
 - [Information Disclosure in Revive Adserver v6.0.0](https://infosecwriteups.com/information-disclosure-in-revive-adserver-v6-0-0-1abad04b5199?source=rss----7b722bfd1b8d---4)
 - [Information Disclosure in Revive Adserver v6.0.0](https://infosecwriteups.com/information-disclosure-in-revive-adserver-v6-0-0-1abad04b5199?source=rss------bug_bounty_writeup-5)
-- [How Newcomers Can Automate Vulnerability Finding In Bug Bounty Hunting?](https://medium.com/activated-thinker/how-newcomers-can-automate-vulnerability-finding-in-bug-bounty-hunting-16a3a55590ee?source=rss------bug_bounty_writeup-5)
 - [PicoCTF Challenges: Hashcrack](https://infosecwriteups.com/picoctf-challenges-hashcrack-09fddae4bb9b?source=rss----7b722bfd1b8d---4)
 - [Beyond the Fear: How the Dark Web Became My Secret Weapon for a Azure AD Takeover ️‍♂️✨](https://infosecwriteups.com/beyond-the-fear-how-the-dark-web-became-my-secret-weapon-for-a-azure-ad-takeover-%EF%B8%8F-%EF%B8%8F-a226dbacba7a?source=rss----7b722bfd1b8d---4)
 - [Lab 1#: Basic clickjacking with CSRF token protection | Clickjacking Lab](https://infosecwriteups.com/lab-1-basic-clickjacking-with-csrf-token-protection-clickjacking-lab-ee08bc71b170?source=rss----7b722bfd1b8d---4)
@@ -25,17 +25,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
 - [How to backup and restore the Windows Registry](https://www.bleepingcomputer.com/tutorials/how-to-backup-and-restore-the-windows-registry/)
-- [How To Fix Error: Externally-Managed-Environment In Python &lpar;Kali Linux&rpar;](https://technicalnavigator.in/how-to-fix-error-externally-managed-environment-in-python-kali-linux/)
-- [Understanding Systemctl Command in Linux &lpar;Practical&rpar;](https://technicalnavigator.in/understanding-systemctl-command-in-linux-practical/)
-- [Macros in docm &amp; Linux memory dump| Hack The Boo  Challanges](https://technicalnavigator.in/macros-in-docm-linux-memory-dump-hack-the-boo-challanges/)
-- [Android Apps debugging |  Frida, JADX, Genymotion](https://technicalnavigator.in/android-apps-debugging-frida-jadx-genymotion/)
-- [MouseServer | wifimouse – Windows/ Linux](https://technicalnavigator.in/mouseserver-wifimouse-windows-linux/)
-- [FFUF fuzzer | web-application penetration-testing](https://technicalnavigator.in/ffuf-fuzzer-web-application-penetration-testing/)
 - [How to open a Windows 11 Command Prompt as Administrator](https://www.bleepingcomputer.com/tutorials/how-to-open-a-windows-11-command-prompt-as-administrator/)
-- [Classes-Objects &amp; Deserialization bug](https://technicalnavigator.in/classes-objects-deserialization-bug/)
-- [Loki Tool | Multhreading Over Sockets in C](https://technicalnavigator.in/loki-tool-multhreading-over-sockets-in-c/)
-- [Egghunter | NASM | C prototype](https://technicalnavigator.in/egghunter-nasm-c-prototype/)
-- [TELNET &amp; FTP Analysis](https://technicalnavigator.in/telnet-ftp-analysis/)
 - [How to make the Start menu full screen in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-make-the-start-menu-full-screen-in-windows-10/)
 - [How to install the Microsoft Visual C++ 2015 Runtime](https://www.bleepingcomputer.com/tutorials/how-to-install-the-microsoft-visual-c-2015-runtime/)
 - [How to open an elevated PowerShell Admin prompt in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-open-an-elevated-powershell-admin-prompt-in-windows-10/)
