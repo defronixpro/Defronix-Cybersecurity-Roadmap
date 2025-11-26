@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [$1,500 Recon Secrets: Dorks to Dollars](https://medium.com/@tinopreter/1-500-recon-secrets-dorks-to-dollars-0e7eca022708?source=rss------bug_bounty_writeup-5)
 - [From Dorks to Defense: How I Secured Two CERT-In Hall of Fames](https://infosecwriteups.com/from-dorks-to-defense-how-i-secured-two-cert-in-hall-of-fames-37f87f181bd0?source=rss------bug_bounty_writeup-5)
 - [I Exposed Carding Operations Exploiting Stripe’s payment gateway | Merchants API CC CHECKER…](https://medium.com/@christoscoming/i-exposed-carding-operations-exploiting-stripes-payment-gateway-merchants-api-cc-checker-bot-191bc0a1df6b?source=rss------bug_bounty_writeup-5)
 - [HOW I Got My First Bug Bounty In Few Steps– $50 AUD for an HTML Injection](https://medium.com/@sohambughunt3636/how-i-got-my-first-bug-bounty-in-few-steps-50-aud-for-an-html-injection-a6b40472fc76?source=rss------bug_bounty_writeup-5)
@@ -936,7 +937,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [$600 Bounty: Stored XSS in Jira Service Desk Reports](https://infosecwriteups.com/600-bounty-stored-xss-in-jira-service-desk-reports-22bad0f8120d?source=rss------bug_bounty_writeup-5)
 - [Information Disclosure in Revive Adserver v6.0.0](https://infosecwriteups.com/information-disclosure-in-revive-adserver-v6-0-0-1abad04b5199?source=rss----7b722bfd1b8d---4)
 - [Information Disclosure in Revive Adserver v6.0.0](https://infosecwriteups.com/information-disclosure-in-revive-adserver-v6-0-0-1abad04b5199?source=rss------bug_bounty_writeup-5)
-- [How Newcomers Can Automate Vulnerability Finding In Bug Bounty Hunting?](https://medium.com/activated-thinker/how-newcomers-can-automate-vulnerability-finding-in-bug-bounty-hunting-16a3a55590ee?source=rss------bug_bounty_writeup-5)
 - [PicoCTF Challenges: Hashcrack](https://infosecwriteups.com/picoctf-challenges-hashcrack-09fddae4bb9b?source=rss----7b722bfd1b8d---4)
 - [Beyond the Fear: How the Dark Web Became My Secret Weapon for a Azure AD Takeover ️‍♂️✨](https://infosecwriteups.com/beyond-the-fear-how-the-dark-web-became-my-secret-weapon-for-a-azure-ad-takeover-%EF%B8%8F-%EF%B8%8F-a226dbacba7a?source=rss----7b722bfd1b8d---4)
 - [Lab 1#: Basic clickjacking with CSRF token protection | Clickjacking Lab](https://infosecwriteups.com/lab-1-basic-clickjacking-with-csrf-token-protection-clickjacking-lab-ee08bc71b170?source=rss----7b722bfd1b8d---4)
