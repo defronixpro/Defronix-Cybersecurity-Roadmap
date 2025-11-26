@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How I Discovered an IDOR Vulnerability in a Parent/Child Management API](https://infosecwriteups.com/how-i-discovered-an-idor-vulnerability-in-a-parent-child-management-api-445c9471d23b?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty: Memanfaatkan webhook untuk mengambil token, uuid, sso hingga Account Takeover](https://medium.com/@0xRedFox29/bug-bounty-memanfaatkan-webhook-untuk-mengambil-token-uuid-sso-hingga-account-takeover-c325d488d68c?source=rss------bug_bounty_writeup-5)
 - [$1,500 Recon Secrets: Dorks to Dollars](https://medium.com/@tinopreter/1-500-recon-secrets-dorks-to-dollars-0e7eca022708?source=rss------bug_bounty_writeup-5)
 - [From Dorks to Defense: How I Secured Two CERT-In Hall of Fames](https://infosecwriteups.com/from-dorks-to-defense-how-i-secured-two-cert-in-hall-of-fames-37f87f181bd0?source=rss------bug_bounty_writeup-5)
@@ -14,7 +15,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Reflected XSS with Base64 — Breaching Obscurity in Seconds](https://infosecwriteups.com/reflected-xss-with-base64-breaching-obscurity-in-seconds-e1f9e50a4709?source=rss----7b722bfd1b8d---4)
 - [Uncovering Invisible Privileges: The Ultimate Guide to Mass-Assignment in Registration Flows](https://infosecwriteups.com/uncovering-invisible-privileges-the-ultimate-guide-to-mass-assignment-in-registration-flows-9ecd5ff40512?source=rss----7b722bfd1b8d---4)
 - [$600 Bounty: Stored XSS in Jira Service Desk Reports](https://infosecwriteups.com/600-bounty-stored-xss-in-jira-service-desk-reports-22bad0f8120d?source=rss----7b722bfd1b8d---4)
-- [$600 Bounty: Stored XSS in Jira Service Desk Reports](https://infosecwriteups.com/600-bounty-stored-xss-in-jira-service-desk-reports-22bad0f8120d?source=rss------bug_bounty_writeup-5)
 - [Information Disclosure in Revive Adserver v6.0.0](https://infosecwriteups.com/information-disclosure-in-revive-adserver-v6-0-0-1abad04b5199?source=rss----7b722bfd1b8d---4)
 - [PicoCTF Challenges: Hashcrack](https://infosecwriteups.com/picoctf-challenges-hashcrack-09fddae4bb9b?source=rss----7b722bfd1b8d---4)
 - [Beyond the Fear: How the Dark Web Became My Secret Weapon for a Azure AD Takeover ️‍♂️✨](https://infosecwriteups.com/beyond-the-fear-how-the-dark-web-became-my-secret-weapon-for-a-azure-ad-takeover-%EF%B8%8F-%EF%B8%8F-a226dbacba7a?source=rss----7b722bfd1b8d---4)
