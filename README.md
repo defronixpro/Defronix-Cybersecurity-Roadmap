@@ -922,7 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [From Dorks to Defense: How I Secured Two CERT-In Hall of Fames](https://hettt.medium.com/from-dorks-to-defense-how-i-secured-two-cert-in-hall-of-fames-37f87f181bd0?source=rss------bug_bounty_writeup-5)
+- [From Dorks to Defense: How I Secured Two CERT-In Hall of Fames](https://infosecwriteups.com/from-dorks-to-defense-how-i-secured-two-cert-in-hall-of-fames-37f87f181bd0?source=rss------bug_bounty_writeup-5)
 - [I Exposed Carding Operations Exploiting Stripe’s payment gateway | Merchants API CC CHECKER…](https://medium.com/@christoscoming/i-exposed-carding-operations-exploiting-stripes-payment-gateway-merchants-api-cc-checker-bot-191bc0a1df6b?source=rss------bug_bounty_writeup-5)
 - [HOW I Got My First Bug Bounty In Few Steps– $50 AUD for an HTML Injection](https://medium.com/@sohambughunt3636/how-i-got-my-first-bug-bounty-in-few-steps-50-aud-for-an-html-injection-a6b40472fc76?source=rss------bug_bounty_writeup-5)
 - [QR Codes from the Past: How an Archive Broke Two-Factor Auth](https://bunny0417.medium.com/qr-codes-from-the-past-how-an-archive-broke-two-factor-auth-e6e64bca466e?source=rss------bug_bounty_writeup-5)
