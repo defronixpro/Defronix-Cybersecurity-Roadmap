@@ -922,7 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [How I Found a Logic Flaw That Lets Users Self‑Delete From Organizations](https://medium.com/@a4medsherif/how-i-found-a-logic-flaw-that-lets-users-self-delete-from-organizations-c463520baeb0?source=rss------bug_bounty_writeup-5)
+- [How I Found a Logic Flaw That Lets Users Self‑Delete From Organizations](https://medium.com/@mr.vultra/how-i-found-a-logic-flaw-that-lets-users-self-delete-from-organizations-c463520baeb0?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Tips: How OTP Bypass Techniques Helped Me Find Multiple Bugs in Bug Bounty Programs](https://medium.com/@harshtalavaniya05/bug-bounty-tips-how-otp-bypass-techniques-helped-me-find-multiple-bugs-in-bug-bounty-programs-c29de4bb7a84?source=rss------bug_bounty_writeup-5)
 - [How a Simple ZIP Upload Revealed a Critical Remote Code Execution Flaw](https://medium.com/@harshtalavaniya05/how-a-simple-zip-upload-revealed-a-critical-remote-code-execution-flaw-042c375cdee7?source=rss------bug_bounty_writeup-5)
 - [How to Pick the Right Bug Bounty Target](https://medium.com/@Appsec_pt/how-to-pick-the-right-bug-bounty-target-98f900033bfa?source=rss------bug_bounty_writeup-5)
