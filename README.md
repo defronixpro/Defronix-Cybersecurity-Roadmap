@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [The Reality of Bug Bounty Mediation: A Hunter’s Perspective](https://medium.com/meetcyber/the-reality-of-bug-bounty-mediation-a-hunters-perspective-f0839a2dede2?source=rss------bug_bounty_writeup-5)
 - [From Owner to Orphaned: Exploiting a Race Condition in Organization Management](https://medium.com/@mr.vultra/from-owner-to-orphaned-exploiting-a-race-condition-in-organization-management-c6380d4e57ba?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Tips: How OTP Bypass Techniques Helped Me Find Multiple Bugs in Bug Bounty Programs](https://medium.com/@harshtalavaniya05/bug-bounty-tips-how-otp-bypass-techniques-helped-me-find-multiple-bugs-in-bug-bounty-programs-c29de4bb7a84?source=rss------bug_bounty_writeup-5)
 - [How a Simple ZIP Upload Revealed a Critical Remote Code Execution Flaw](https://medium.com/@harshtalavaniya05/how-a-simple-zip-upload-revealed-a-critical-remote-code-execution-flaw-042c375cdee7?source=rss------bug_bounty_writeup-5)
@@ -930,7 +931,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Bug Bounty: Memanfaatkan webhook untuk mengambil token, uuid, sso hingga Account Takeover](https://medium.com/@0xRedFox29/bug-bounty-memanfaatkan-webhook-untuk-mengambil-token-uuid-sso-hingga-account-takeover-c325d488d68c?source=rss------bug_bounty_writeup-5)
 - [$1,500 Recon Secrets: Dorks to Dollars](https://medium.com/@tinopreter/1-500-recon-secrets-dorks-to-dollars-0e7eca022708?source=rss------bug_bounty_writeup-5)
 - [From Dorks to Defense: How I Secured Two CERT-In Hall of Fames](https://infosecwriteups.com/from-dorks-to-defense-how-i-secured-two-cert-in-hall-of-fames-37f87f181bd0?source=rss------bug_bounty_writeup-5)
-- [I Exposed Carding Operations Exploiting Stripe’s payment gateway | Merchants API CC CHECKER…](https://medium.com/@christoscoming/i-exposed-carding-operations-exploiting-stripes-payment-gateway-merchants-api-cc-checker-bot-191bc0a1df6b?source=rss------bug_bounty_writeup-5)
 - [This article we will look into the vulnerability subdomain takeovers What makes a web app…](https://infosecwriteups.com/this-article-we-will-look-into-the-vulnerability-subdomain-takeovers-what-makes-a-web-app-27d2d136ba7e?source=rss----7b722bfd1b8d---4)
 - [Reflected XSS with Base64 — Breaching Obscurity in Seconds](https://infosecwriteups.com/reflected-xss-with-base64-breaching-obscurity-in-seconds-e1f9e50a4709?source=rss----7b722bfd1b8d---4)
 - [Uncovering Invisible Privileges: The Ultimate Guide to Mass-Assignment in Registration Flows](https://infosecwriteups.com/uncovering-invisible-privileges-the-ultimate-guide-to-mass-assignment-in-registration-flows-9ecd5ff40512?source=rss----7b722bfd1b8d---4)
