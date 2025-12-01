@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [A Practical Guide to Authentication and Session Management Vulnerabilities](https://infosecwriteups.com/a-practical-guide-to-authentication-and-session-management-vulnerabilities-517f5412a02a?source=rss----7b722bfd1b8d---4)
 - [$1,000 |critical Critical Log4Shell Vulnerability](https://medium.com/@aminefarah802/2-000-critical-critical-log4shell-vulnerability-2d55129c9c1b?source=rss------bug_bounty_writeup-5)
 - [Temporary Hacking, Permanent Access: A Meta Bug Bounty Story](https://gtm0x01.medium.com/temporary-hacking-permanent-access-a-meta-bug-bounty-story-1f72da3e63cf?source=rss------bug_bounty_writeup-5)
 - [When Bug Hunting Becomes a Burden: Surviving the Dark Side of Bug Bounties](https://medium.com/infosec-insights/when-bug-hunting-becomes-a-burden-surviving-the-dark-side-of-bug-bounties-a61bd290f7e6?source=rss------bug_bounty_writeup-5)
@@ -19,7 +20,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Beyond the Fear: How the Dark Web Became My Secret Weapon for a Azure AD Takeover ️‍♂️✨](https://infosecwriteups.com/beyond-the-fear-how-the-dark-web-became-my-secret-weapon-for-a-azure-ad-takeover-%EF%B8%8F-%EF%B8%8F-a226dbacba7a?source=rss----7b722bfd1b8d---4)
 - [Lab 1#: Basic clickjacking with CSRF token protection | Clickjacking Lab](https://infosecwriteups.com/lab-1-basic-clickjacking-with-csrf-token-protection-clickjacking-lab-ee08bc71b170?source=rss----7b722bfd1b8d---4)
 - [Secrets in JavaScript Files : What Hackers Extract](https://infosecwriteups.com/secrets-in-javascript-files-what-hackers-extract-60c18b6bf153?source=rss----7b722bfd1b8d---4)
-- [How I Built a Robot That Finds Broken Authorization While I Sleep](https://infosecwriteups.com/how-i-built-a-robot-that-finds-broken-authorization-while-i-sleep-458e94f4d879?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
