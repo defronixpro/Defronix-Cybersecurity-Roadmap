@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [$1,000 |critical Critical Log4Shell Vulnerability](https://medium.com/@aminefarah802/2-000-critical-critical-log4shell-vulnerability-2d55129c9c1b?source=rss------bug_bounty_writeup-5)
 - [Temporary Hacking, Permanent Access: A Meta Bug Bounty Story](https://gtm0x01.medium.com/temporary-hacking-permanent-access-a-meta-bug-bounty-story-1f72da3e63cf?source=rss------bug_bounty_writeup-5)
 - [When Bug Hunting Becomes a Burden: Surviving the Dark Side of Bug Bounties](https://medium.com/infosec-insights/when-bug-hunting-becomes-a-burden-surviving-the-dark-side-of-bug-bounties-a61bd290f7e6?source=rss------bug_bounty_writeup-5)
 - [The Reality of Bug Bounty Mediation: A Hunter’s Perspective](https://medium.com/meetcyber/the-reality-of-bug-bounty-mediation-a-hunters-perspective-f0839a2dede2?source=rss------bug_bounty_writeup-5)
@@ -930,7 +931,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How a Simple ZIP Upload Revealed a Critical Remote Code Execution Flaw](https://medium.com/@harshtalavaniya05/how-a-simple-zip-upload-revealed-a-critical-remote-code-execution-flaw-042c375cdee7?source=rss------bug_bounty_writeup-5)
 - [How to Pick the Right Bug Bounty Target](https://infosecwriteups.com/how-to-pick-the-right-bug-bounty-target-98f900033bfa?source=rss------bug_bounty_writeup-5)
 - [How I Discovered an IDOR Vulnerability in a Parent/Child Management API](https://infosecwriteups.com/how-i-discovered-an-idor-vulnerability-in-a-parent-child-management-api-445c9471d23b?source=rss------bug_bounty_writeup-5)
-- [Bug Bounty: Memanfaatkan webhook untuk mengambil token, uuid, sso hingga Account Takeover](https://medium.com/@0xRedFox29/bug-bounty-memanfaatkan-webhook-untuk-mengambil-token-uuid-sso-hingga-account-takeover-c325d488d68c?source=rss------bug_bounty_writeup-5)
 - [This article we will look into the vulnerability subdomain takeovers What makes a web app…](https://infosecwriteups.com/this-article-we-will-look-into-the-vulnerability-subdomain-takeovers-what-makes-a-web-app-27d2d136ba7e?source=rss----7b722bfd1b8d---4)
 - [Reflected XSS with Base64 — Breaching Obscurity in Seconds](https://infosecwriteups.com/reflected-xss-with-base64-breaching-obscurity-in-seconds-e1f9e50a4709?source=rss----7b722bfd1b8d---4)
 - [Uncovering Invisible Privileges: The Ultimate Guide to Mass-Assignment in Registration Flows](https://infosecwriteups.com/uncovering-invisible-privileges-the-ultimate-guide-to-mass-assignment-in-registration-flows-9ecd5ff40512?source=rss----7b722bfd1b8d---4)
