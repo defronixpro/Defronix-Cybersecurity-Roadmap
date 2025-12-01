@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Securing AI Agents with Information Flow Control &lpar;Part I&rpar;](https://infosecwriteups.com/securing-ai-agents-with-information-flow-control-ifc-part-i-4492a3219d53?source=rss----7b722bfd1b8d---4)
 - [How a Simple Email Casing Trick Led to Privilege Escalation &lpar;Admin → Owner&rpar;](https://medium.com/@edahmed008/how-a-simple-email-casing-trick-led-to-privilege-escalation-admin-owner-3923835b4e83?source=rss------bug_bounty_writeup-5)
 - [A Practical Guide to Authentication and Session Management Vulnerabilities](https://infosecwriteups.com/a-practical-guide-to-authentication-and-session-management-vulnerabilities-517f5412a02a?source=rss----7b722bfd1b8d---4)
 - [$1,000 |critical Critical Log4Shell Vulnerability](https://medium.com/@aminefarah802/2-000-critical-critical-log4shell-vulnerability-2d55129c9c1b?source=rss------bug_bounty_writeup-5)
@@ -940,7 +941,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [PicoCTF Challenges: Hashcrack](https://infosecwriteups.com/picoctf-challenges-hashcrack-09fddae4bb9b?source=rss----7b722bfd1b8d---4)
 - [Beyond the Fear: How the Dark Web Became My Secret Weapon for a Azure AD Takeover ️‍♂️✨](https://infosecwriteups.com/beyond-the-fear-how-the-dark-web-became-my-secret-weapon-for-a-azure-ad-takeover-%EF%B8%8F-%EF%B8%8F-a226dbacba7a?source=rss----7b722bfd1b8d---4)
 - [Lab 1#: Basic clickjacking with CSRF token protection | Clickjacking Lab](https://infosecwriteups.com/lab-1-basic-clickjacking-with-csrf-token-protection-clickjacking-lab-ee08bc71b170?source=rss----7b722bfd1b8d---4)
-- [Secrets in JavaScript Files : What Hackers Extract](https://infosecwriteups.com/secrets-in-javascript-files-what-hackers-extract-60c18b6bf153?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
