@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I Turned a 403 Error into a $200 API Key Leak Bounty](https://infosecwriteups.com/how-i-turned-a-403-error-into-a-200-api-key-leak-bounty-96faba78dfc4?source=rss------bug_bounty_writeup-5)
 - [How to find Race Conditions in Web Applications — From Beginner to Pro](https://systemweakness.com/how-to-find-race-conditions-in-web-applications-from-beginner-to-pro-4e59d51c6e47?source=rss------bug_bounty_writeup-5)
 - [How I Took Down an Entire Application Using google.com and Earned a $2,000 Bounty](https://medium.com/@oksuzkayra16/how-i-took-down-an-entire-application-using-google-com-and-earned-a-2-000-bounty-4f23c626b06e?source=rss------bug_bounty_writeup-5)
 - [How I Discovered 1,400+ Users’ PII Through a GraphQL Query — and Uncovered 5 More Bugs Using the…](https://ayaa101.medium.com/how-i-discovered-1-400-users-pii-through-a-graphql-query-and-uncovered-5-more-bugs-using-the-389d8e7d8deb?source=rss------bug_bounty_writeup-5)
