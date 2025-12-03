@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How a 2FA Bypass Bug Funded My EJPT Journey](https://medium.com/@dineshnarasimhan27/how-a-2fa-bypass-bug-funded-my-ejpt-journey-b8836989327f?source=rss------bug_bounty_writeup-5)
 - [Case Study: How I Found Four Critical Vulnerabilities in a Popular Lightning Network Python SDK](https://letchupkt.medium.com/case-study-how-i-found-four-critical-vulnerabilities-in-a-popular-lightning-network-python-sdk-08318d77613c?source=rss------bug_bounty_writeup-5)
 - [How I Turned a 403 Error into a $200 API Key Leak Bounty](https://infosecwriteups.com/how-i-turned-a-403-error-into-a-200-api-key-leak-bounty-96faba78dfc4?source=rss------bug_bounty_writeup-5)
 - [How to find Race Conditions in Web Applications — From Beginner to Pro](https://systemweakness.com/how-to-find-race-conditions-in-web-applications-from-beginner-to-pro-4e59d51c6e47?source=rss------bug_bounty_writeup-5)
@@ -11,7 +12,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [A Practical Guide to Authentication and Session Management Vulnerabilities](https://infosecwriteups.com/a-practical-guide-to-authentication-and-session-management-vulnerabilities-517f5412a02a?source=rss----7b722bfd1b8d---4)
 - [$1,000 |critical Critical Log4Shell Vulnerability](https://medium.com/@aminefarah802/2-000-critical-critical-log4shell-vulnerability-2d55129c9c1b?source=rss------bug_bounty_writeup-5)
 - [Temporary Hacking, Permanent Access: A Meta Bug Bounty Story](https://gtm0x01.medium.com/temporary-hacking-permanent-access-a-meta-bug-bounty-story-1f72da3e63cf?source=rss------bug_bounty_writeup-5)
-- [When Bug Hunting Becomes a Burden: Surviving the Dark Side of Bug Bounties](https://medium.com/infosec-insights/when-bug-hunting-becomes-a-burden-surviving-the-dark-side-of-bug-bounties-a61bd290f7e6?source=rss------bug_bounty_writeup-5)
 - [This article we will look into the vulnerability subdomain takeovers What makes a web app…](https://infosecwriteups.com/this-article-we-will-look-into-the-vulnerability-subdomain-takeovers-what-makes-a-web-app-27d2d136ba7e?source=rss----7b722bfd1b8d---4)
 - [Reflected XSS with Base64 — Breaching Obscurity in Seconds](https://infosecwriteups.com/reflected-xss-with-base64-breaching-obscurity-in-seconds-e1f9e50a4709?source=rss----7b722bfd1b8d---4)
 - [Uncovering Invisible Privileges: The Ultimate Guide to Mass-Assignment in Registration Flows](https://infosecwriteups.com/uncovering-invisible-privileges-the-ultimate-guide-to-mass-assignment-in-registration-flows-9ecd5ff40512?source=rss----7b722bfd1b8d---4)
@@ -24,7 +24,17 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
 - [How to backup and restore the Windows Registry](https://www.bleepingcomputer.com/tutorials/how-to-backup-and-restore-the-windows-registry/)
+- [How To Fix Error: Externally-Managed-Environment In Python &lpar;Kali Linux&rpar;](https://technicalnavigator.in/how-to-fix-error-externally-managed-environment-in-python-kali-linux/)
+- [Understanding Systemctl Command in Linux &lpar;Practical&rpar;](https://technicalnavigator.in/understanding-systemctl-command-in-linux-practical/)
+- [Macros in docm &amp; Linux memory dump| Hack The Boo  Challanges](https://technicalnavigator.in/macros-in-docm-linux-memory-dump-hack-the-boo-challanges/)
+- [Android Apps debugging |  Frida, JADX, Genymotion](https://technicalnavigator.in/android-apps-debugging-frida-jadx-genymotion/)
+- [MouseServer | wifimouse – Windows/ Linux](https://technicalnavigator.in/mouseserver-wifimouse-windows-linux/)
+- [FFUF fuzzer | web-application penetration-testing](https://technicalnavigator.in/ffuf-fuzzer-web-application-penetration-testing/)
 - [How to open a Windows 11 Command Prompt as Administrator](https://www.bleepingcomputer.com/tutorials/how-to-open-a-windows-11-command-prompt-as-administrator/)
+- [Classes-Objects &amp; Deserialization bug](https://technicalnavigator.in/classes-objects-deserialization-bug/)
+- [Loki Tool | Multhreading Over Sockets in C](https://technicalnavigator.in/loki-tool-multhreading-over-sockets-in-c/)
+- [Egghunter | NASM | C prototype](https://technicalnavigator.in/egghunter-nasm-c-prototype/)
+- [TELNET &amp; FTP Analysis](https://technicalnavigator.in/telnet-ftp-analysis/)
 - [How to make the Start menu full screen in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-make-the-start-menu-full-screen-in-windows-10/)
 - [How to install the Microsoft Visual C++ 2015 Runtime](https://www.bleepingcomputer.com/tutorials/how-to-install-the-microsoft-visual-c-2015-runtime/)
 - [How to open an elevated PowerShell Admin prompt in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-open-an-elevated-powershell-admin-prompt-in-windows-10/)
