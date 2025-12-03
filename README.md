@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How a 2FA Bypass Bug Funded My EJPT Journey](https://medium.com/@dineshnarasimhan27/how-a-2fa-bypass-bug-funded-my-ejpt-journey-b8836989327f?source=rss------bug_bounty_writeup-5)
+- [Case Study: How I Found Four Critical Vulnerabilities in a Popular Lightning Network Python SDK](https://letchupkt.medium.com/case-study-how-i-found-four-critical-vulnerabilities-in-a-popular-lightning-network-python-sdk-08318d77613c?source=rss------bug_bounty_writeup-5)
 - [How I Turned a 403 Error into a $200 API Key Leak Bounty](https://infosecwriteups.com/how-i-turned-a-403-error-into-a-200-api-key-leak-bounty-96faba78dfc4?source=rss------bug_bounty_writeup-5)
 - [How to find Race Conditions in Web Applications — From Beginner to Pro](https://systemweakness.com/how-to-find-race-conditions-in-web-applications-from-beginner-to-pro-4e59d51c6e47?source=rss------bug_bounty_writeup-5)
 - [How I Took Down an Entire Application Using google.com and Earned a $2,000 Bounty](https://medium.com/@oksuzkayra16/how-i-took-down-an-entire-application-using-google-com-and-earned-a-2-000-bounty-4f23c626b06e?source=rss------bug_bounty_writeup-5)
@@ -931,8 +933,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [A Practical Guide to Authentication and Session Management Vulnerabilities](https://infosecwriteups.com/a-practical-guide-to-authentication-and-session-management-vulnerabilities-517f5412a02a?source=rss----7b722bfd1b8d---4)
 - [$1,000 |critical Critical Log4Shell Vulnerability](https://medium.com/@aminefarah802/2-000-critical-critical-log4shell-vulnerability-2d55129c9c1b?source=rss------bug_bounty_writeup-5)
 - [Temporary Hacking, Permanent Access: A Meta Bug Bounty Story](https://gtm0x01.medium.com/temporary-hacking-permanent-access-a-meta-bug-bounty-story-1f72da3e63cf?source=rss------bug_bounty_writeup-5)
-- [When Bug Hunting Becomes a Burden: Surviving the Dark Side of Bug Bounties](https://medium.com/infosec-insights/when-bug-hunting-becomes-a-burden-surviving-the-dark-side-of-bug-bounties-a61bd290f7e6?source=rss------bug_bounty_writeup-5)
-- [The Reality of Bug Bounty Mediation: A Hunter’s Perspective](https://medium.com/meetcyber/the-reality-of-bug-bounty-mediation-a-hunters-perspective-f0839a2dede2?source=rss------bug_bounty_writeup-5)
 - [This article we will look into the vulnerability subdomain takeovers What makes a web app…](https://infosecwriteups.com/this-article-we-will-look-into-the-vulnerability-subdomain-takeovers-what-makes-a-web-app-27d2d136ba7e?source=rss----7b722bfd1b8d---4)
 - [Reflected XSS with Base64 — Breaching Obscurity in Seconds](https://infosecwriteups.com/reflected-xss-with-base64-breaching-obscurity-in-seconds-e1f9e50a4709?source=rss----7b722bfd1b8d---4)
 - [Uncovering Invisible Privileges: The Ultimate Guide to Mass-Assignment in Registration Flows](https://infosecwriteups.com/uncovering-invisible-privileges-the-ultimate-guide-to-mass-assignment-in-registration-flows-9ecd5ff40512?source=rss----7b722bfd1b8d---4)
