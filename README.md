@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I Found My First Bug in Just 12 Hours: A Beginner’s Journey](https://medium.com/@moganti.nehanth2007/how-i-found-my-first-bug-in-just-12-hours-a-beginners-journey-64d10810b6fc?source=rss------bug_bounty_writeup-5)
 - [View Once Photo Re-Accessible via “Edit with AI” in Messenger](https://medium.com/@verifiedsameer/view-once-photo-re-accessible-via-edit-with-ai-in-messenger-d6c90767000c?source=rss------bug_bounty_writeup-5)
 - [Meta Bug Bounty: “Only Me” Workplace Disclosure](https://medium.com/infosec-insights/meta-bug-bounty-only-me-workplace-disclosure-e80eda0c66bb?source=rss------bug_bounty_writeup-5)
 - [The Story of How I Hacked an Event Management Platform](https://osintteam.blog/the-story-of-how-i-hacked-an-event-management-platform-5a719250042c?source=rss------bug_bounty_writeup-5)
@@ -930,7 +931,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How I Turned a 403 Error into a $200 API Key Leak Bounty](https://infosecwriteups.com/how-i-turned-a-403-error-into-a-200-api-key-leak-bounty-96faba78dfc4?source=rss------bug_bounty_writeup-5)
 - [How to find Race Conditions in Web Applications — From Beginner to Pro](https://systemweakness.com/how-to-find-race-conditions-in-web-applications-from-beginner-to-pro-4e59d51c6e47?source=rss------bug_bounty_writeup-5)
 - [How I Took Down an Entire Application Using google.com and Earned a $2,000 Bounty](https://medium.com/@oksuzkayra16/how-i-took-down-an-entire-application-using-google-com-and-earned-a-2-000-bounty-4f23c626b06e?source=rss------bug_bounty_writeup-5)
-- [How I Discovered 1,400+ Users’ PII Through a GraphQL Query — and Uncovered 5 More Bugs Using the…](https://ayaa101.medium.com/how-i-discovered-1-400-users-pii-through-a-graphql-query-and-uncovered-5-more-bugs-using-the-389d8e7d8deb?source=rss------bug_bounty_writeup-5)
 - [Securing AI Agents with Information Flow Control &lpar;Part I&rpar;](https://infosecwriteups.com/securing-ai-agents-with-information-flow-control-ifc-part-i-4492a3219d53?source=rss----7b722bfd1b8d---4)
 - [A Practical Guide to Authentication and Session Management Vulnerabilities](https://infosecwriteups.com/a-practical-guide-to-authentication-and-session-management-vulnerabilities-517f5412a02a?source=rss----7b722bfd1b8d---4)
 - [This article we will look into the vulnerability subdomain takeovers What makes a web app…](https://infosecwriteups.com/this-article-we-will-look-into-the-vulnerability-subdomain-takeovers-what-makes-a-web-app-27d2d136ba7e?source=rss----7b722bfd1b8d---4)
