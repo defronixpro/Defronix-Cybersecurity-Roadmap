@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [View Once Photo Re-Accessible via “Edit with AI” in Messenger](https://medium.com/@verifiedsameer/view-once-photo-re-accessible-via-edit-with-ai-in-messenger-d6c90767000c?source=rss------bug_bounty_writeup-5)
 - [Meta Bug Bounty: “Only Me” Workplace Disclosure](https://medium.com/infosec-insights/meta-bug-bounty-only-me-workplace-disclosure-e80eda0c66bb?source=rss------bug_bounty_writeup-5)
 - [The Story of How I Hacked an Event Management Platform](https://osintteam.blog/the-story-of-how-i-hacked-an-event-management-platform-5a719250042c?source=rss------bug_bounty_writeup-5)
 - [How a 2FA Bypass Bug Funded My EJPT Journey](https://medium.com/@dineshnarasimhan27/how-a-2fa-bypass-bug-funded-my-ejpt-journey-b8836989327f?source=rss------bug_bounty_writeup-5)
@@ -931,7 +932,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How I Took Down an Entire Application Using google.com and Earned a $2,000 Bounty](https://medium.com/@oksuzkayra16/how-i-took-down-an-entire-application-using-google-com-and-earned-a-2-000-bounty-4f23c626b06e?source=rss------bug_bounty_writeup-5)
 - [How I Discovered 1,400+ Users’ PII Through a GraphQL Query — and Uncovered 5 More Bugs Using the…](https://ayaa101.medium.com/how-i-discovered-1-400-users-pii-through-a-graphql-query-and-uncovered-5-more-bugs-using-the-389d8e7d8deb?source=rss------bug_bounty_writeup-5)
 - [Securing AI Agents with Information Flow Control &lpar;Part I&rpar;](https://infosecwriteups.com/securing-ai-agents-with-information-flow-control-ifc-part-i-4492a3219d53?source=rss----7b722bfd1b8d---4)
-- [How a Simple Email Casing Trick Led to Privilege Escalation &lpar;Admin → Owner&rpar;](https://medium.com/@edahmed008/how-a-simple-email-casing-trick-led-to-privilege-escalation-admin-owner-3923835b4e83?source=rss------bug_bounty_writeup-5)
 - [A Practical Guide to Authentication and Session Management Vulnerabilities](https://infosecwriteups.com/a-practical-guide-to-authentication-and-session-management-vulnerabilities-517f5412a02a?source=rss----7b722bfd1b8d---4)
 - [This article we will look into the vulnerability subdomain takeovers What makes a web app…](https://infosecwriteups.com/this-article-we-will-look-into-the-vulnerability-subdomain-takeovers-what-makes-a-web-app-27d2d136ba7e?source=rss----7b722bfd1b8d---4)
 - [Reflected XSS with Base64 — Breaching Obscurity in Seconds](https://infosecwriteups.com/reflected-xss-with-base64-breaching-obscurity-in-seconds-e1f9e50a4709?source=rss----7b722bfd1b8d---4)
@@ -945,7 +945,17 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
 - [How to backup and restore the Windows Registry](https://www.bleepingcomputer.com/tutorials/how-to-backup-and-restore-the-windows-registry/)
+- [How To Fix Error: Externally-Managed-Environment In Python &lpar;Kali Linux&rpar;](https://technicalnavigator.in/how-to-fix-error-externally-managed-environment-in-python-kali-linux/)
+- [Understanding Systemctl Command in Linux &lpar;Practical&rpar;](https://technicalnavigator.in/understanding-systemctl-command-in-linux-practical/)
+- [Macros in docm &amp; Linux memory dump| Hack The Boo  Challanges](https://technicalnavigator.in/macros-in-docm-linux-memory-dump-hack-the-boo-challanges/)
+- [Android Apps debugging |  Frida, JADX, Genymotion](https://technicalnavigator.in/android-apps-debugging-frida-jadx-genymotion/)
+- [MouseServer | wifimouse – Windows/ Linux](https://technicalnavigator.in/mouseserver-wifimouse-windows-linux/)
+- [FFUF fuzzer | web-application penetration-testing](https://technicalnavigator.in/ffuf-fuzzer-web-application-penetration-testing/)
 - [How to open a Windows 11 Command Prompt as Administrator](https://www.bleepingcomputer.com/tutorials/how-to-open-a-windows-11-command-prompt-as-administrator/)
+- [Classes-Objects &amp; Deserialization bug](https://technicalnavigator.in/classes-objects-deserialization-bug/)
+- [Loki Tool | Multhreading Over Sockets in C](https://technicalnavigator.in/loki-tool-multhreading-over-sockets-in-c/)
+- [Egghunter | NASM | C prototype](https://technicalnavigator.in/egghunter-nasm-c-prototype/)
+- [TELNET &amp; FTP Analysis](https://technicalnavigator.in/telnet-ftp-analysis/)
 - [How to make the Start menu full screen in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-make-the-start-menu-full-screen-in-windows-10/)
 - [How to install the Microsoft Visual C++ 2015 Runtime](https://www.bleepingcomputer.com/tutorials/how-to-install-the-microsoft-visual-c-2015-runtime/)
 - [How to open an elevated PowerShell Admin prompt in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-open-an-elevated-powershell-admin-prompt-in-windows-10/)
