@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [When I Found a docker-compose.yml](https://medium.com/@anshubind89/when-i-found-a-docker-compose-yml-71192b9ed1bc?source=rss------bug_bounty_writeup-5)
+- [️ The Day I Found a phpinfo&lpar;&rpar; Page Exposed in Production — And Why It Was Worth More Than $200](https://medium.com/@anshubind89/%EF%B8%8F-the-day-i-found-a-phpinfo-page-exposed-in-production-and-why-it-was-worth-more-than-200-1e6c902e1f4a?source=rss------bug_bounty_writeup-5)
 - [₹16,000 Earned by Reporting 2 Simple API Vulnerability | High Severity P2](https://medium.com/@rajankumarbarik143/16000-api-bug-bounty-poc-by-anondgr-c5a6ea9fd8c5?source=rss------bug_bounty_writeup-5)
 - [Breaking Past 403: A Deep Dive into Out-of-Band SQL Injection Discovery](https://systemweakness.com/breaking-past-403-a-deep-dive-into-out-of-band-sql-injection-discovery-f4acbcbabe7c?source=rss------bug_bounty_writeup-5)
 - [My First CVE: CVE-2025–65883 — Remote Code Execution in a Genexis Router](https://0xw41th.medium.com/my-first-cve-cve-2025-65883-remote-code-execution-in-a-genexis-router-0c35749a99bd?source=rss------bug_bounty_writeup-5)
@@ -930,8 +932,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [View Once Photo Re-Accessible via “Edit with AI” in Messenger](https://medium.com/@verifiedsameer/view-once-photo-re-accessible-via-edit-with-ai-in-messenger-d6c90767000c?source=rss------bug_bounty_writeup-5)
 - [Meta Bug Bounty: “Only Me” Workplace Disclosure](https://medium.com/infosec-insights/meta-bug-bounty-only-me-workplace-disclosure-e80eda0c66bb?source=rss------bug_bounty_writeup-5)
 - [The Story of How I Hacked an Event Management Platform](https://osintteam.blog/the-story-of-how-i-hacked-an-event-management-platform-5a719250042c?source=rss------bug_bounty_writeup-5)
-- [How a 2FA Bypass Bug Funded My EJPT Journey](https://medium.com/@dineshnarasimhan27/how-a-2fa-bypass-bug-funded-my-ejpt-journey-b8836989327f?source=rss------bug_bounty_writeup-5)
-- [Case Study: How I Found Four Critical Vulnerabilities in a Popular Lightning Network Python SDK](https://letchupkt.medium.com/case-study-how-i-found-four-critical-vulnerabilities-in-a-popular-lightning-network-python-sdk-08318d77613c?source=rss------bug_bounty_writeup-5)
 - [Securing AI Agents with Information Flow Control &lpar;Part I&rpar;](https://infosecwriteups.com/securing-ai-agents-with-information-flow-control-ifc-part-i-4492a3219d53?source=rss----7b722bfd1b8d---4)
 - [A Practical Guide to Authentication and Session Management Vulnerabilities](https://infosecwriteups.com/a-practical-guide-to-authentication-and-session-management-vulnerabilities-517f5412a02a?source=rss----7b722bfd1b8d---4)
 - [This article we will look into the vulnerability subdomain takeovers What makes a web app…](https://infosecwriteups.com/this-article-we-will-look-into-the-vulnerability-subdomain-takeovers-what-makes-a-web-app-27d2d136ba7e?source=rss----7b722bfd1b8d---4)
