@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Members Can Prevent Admins/Owners from Accessing Reviews via Manipulated UUID](https://medium.com/@muhammedelkesht404/members-can-prevent-admins-owners-from-accessing-reviews-via-manipulated-uuid-a2dbce4dda6a?source=rss------bug_bounty_writeup-5)
 - [How I Made $5,000 &lpar;₹4.49 Lakh&rpar; in Just 1 Hour by Scanning JavaScript Files](https://mokhansec.medium.com/how-i-made-5-000-4-49-lakh-in-just-1-hour-by-scanning-javascript-files-18428e9184d9?source=rss------bug_bounty_writeup-5)
 - [Backdoor CTF-2025: Flask of Cookies writeup | by Dargham Ali](https://medium.com/@wireshark.pcap/backdoor-ctf-2025-flask-of-cookies-writeup-by-dargham-ali-fcd81b892608?source=rss------bug_bounty_writeup-5)
 - [From Simple File Upload to Full Server Control &lpar;Even If You Didn’t Get RCE Yet&rpar;](https://medium.com/@MuhammedAsfan/from-simple-file-upload-to-full-server-control-even-if-you-didnt-get-rce-yet-afd9debd3c6b?source=rss------bug_bounty_writeup-5)
@@ -931,7 +932,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Breaking Past 403: A Deep Dive into Out-of-Band SQL Injection Discovery](https://systemweakness.com/breaking-past-403-a-deep-dive-into-out-of-band-sql-injection-discovery-f4acbcbabe7c?source=rss------bug_bounty_writeup-5)
 - [My First CVE: CVE-2025–65883 — Remote Code Execution in a Genexis Router](https://0xw41th.medium.com/my-first-cve-cve-2025-65883-remote-code-execution-in-a-genexis-router-0c35749a99bd?source=rss------bug_bounty_writeup-5)
 - [How a Single Click Led to a Critical Account Takeover](https://medium.com/@gautammilan2024/how-a-single-click-led-to-a-critical-account-takeover-759e4164f674?source=rss------bug_bounty_writeup-5)
-- [How I Found My First Bug in Just 12 Hours: A Beginner’s Journey](https://medium.com/@moganti.nehanth2007/how-i-found-my-first-bug-in-just-12-hours-a-beginners-journey-64d10810b6fc?source=rss------bug_bounty_writeup-5)
 - [Securing AI Agents with Information Flow Control &lpar;Part I&rpar;](https://infosecwriteups.com/securing-ai-agents-with-information-flow-control-ifc-part-i-4492a3219d53?source=rss----7b722bfd1b8d---4)
 - [A Practical Guide to Authentication and Session Management Vulnerabilities](https://infosecwriteups.com/a-practical-guide-to-authentication-and-session-management-vulnerabilities-517f5412a02a?source=rss----7b722bfd1b8d---4)
 - [This article we will look into the vulnerability subdomain takeovers What makes a web app…](https://infosecwriteups.com/this-article-we-will-look-into-the-vulnerability-subdomain-takeovers-what-makes-a-web-app-27d2d136ba7e?source=rss----7b722bfd1b8d---4)
