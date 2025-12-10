@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Leaked PayPal production Client id and API Secret → full merchant takeover Closed as “Informative”…](https://medium.com/@elelyonmusk/leaked-paypal-production-client-id-and-api-secret-full-merchant-takeover-closed-as-informative-c2781f9aaaa7?source=rss------bug_bounty_writeup-5)
 - [Call/Message anyone on Facebook directly, bypassing the message requests &lpar;$$$$+$$$$$&rpar;](https://infosecwriteups.com/call-message-anyone-on-facebook-directly-bypassing-the-message-request-c182055b1724?source=rss------bug_bounty_writeup-5)
 - [Members Can Prevent Admins/Owners from Accessing Reviews via Manipulated UUID](https://medium.com/@muhammedelkesht404/members-can-prevent-admins-owners-from-accessing-reviews-via-manipulated-uuid-a2dbce4dda6a?source=rss------bug_bounty_writeup-5)
 - [How I Made $5,000 &lpar;₹4.49 Lakh&rpar; in Just 1 Hour by Scanning JavaScript Files](https://mokhansec.medium.com/how-i-made-5-000-4-49-lakh-in-just-1-hour-by-scanning-javascript-files-18428e9184d9?source=rss------bug_bounty_writeup-5)
@@ -931,7 +932,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [️ The Day I Found a phpinfo&lpar;&rpar; Page Exposed in Production — And Why It Was Worth More Than $200](https://medium.com/@anshubind89/%EF%B8%8F-the-day-i-found-a-phpinfo-page-exposed-in-production-and-why-it-was-worth-more-than-200-1e6c902e1f4a?source=rss------bug_bounty_writeup-5)
 - [₹16,000 Earned by Reporting 2 Simple API Vulnerability | High Severity P2](https://medium.com/@rajankumarbarik143/16000-api-bug-bounty-poc-by-anondgr-c5a6ea9fd8c5?source=rss------bug_bounty_writeup-5)
 - [Breaking Past 403: A Deep Dive into Out-of-Band SQL Injection Discovery](https://systemweakness.com/breaking-past-403-a-deep-dive-into-out-of-band-sql-injection-discovery-f4acbcbabe7c?source=rss------bug_bounty_writeup-5)
-- [My First CVE: CVE-2025–65883 — Remote Code Execution in a Genexis Router](https://0xw41th.medium.com/my-first-cve-cve-2025-65883-remote-code-execution-in-a-genexis-router-0c35749a99bd?source=rss------bug_bounty_writeup-5)
 - [Securing AI Agents with Information Flow Control &lpar;Part I&rpar;](https://infosecwriteups.com/securing-ai-agents-with-information-flow-control-ifc-part-i-4492a3219d53?source=rss----7b722bfd1b8d---4)
 - [A Practical Guide to Authentication and Session Management Vulnerabilities](https://infosecwriteups.com/a-practical-guide-to-authentication-and-session-management-vulnerabilities-517f5412a02a?source=rss----7b722bfd1b8d---4)
 - [This article we will look into the vulnerability subdomain takeovers What makes a web app…](https://infosecwriteups.com/this-article-we-will-look-into-the-vulnerability-subdomain-takeovers-what-makes-a-web-app-27d2d136ba7e?source=rss----7b722bfd1b8d---4)
