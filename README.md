@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [From a Single Quote &amp; a Space to a 1‑Year AI Subscription](https://medium.com/@shabutaher0/from-a-single-quote-a-space-to-a-1-year-ai-subscription-bc89a6671eff?source=rss------bug_bounty_writeup-5)
 - [️ When an Image Loader Turned Into a Backdoor: My Discovery of a Blind SSRF on a Blockchain…](https://medium.com/@anshubind89/%EF%B8%8F-when-an-image-loader-turned-into-a-backdoor-my-discovery-of-a-blind-ssrf-on-a-blockchain-94d33d6d5371?source=rss------bug_bounty_writeup-5)
 - [When a Login Page Became a Trap: My Discovery of a Web Cache Deception Vulnerability](https://medium.com/@anshubind89/when-a-login-page-became-a-trap-my-discovery-of-a-web-cache-deception-vulnerability-d1cbbdc0203f?source=rss------bug_bounty_writeup-5)
 - [Leaked PayPal production Client id and API Secret → full merchant takeover Closed as “Informative”…](https://medium.com/@elelyonmusk/leaked-paypal-production-client-id-and-api-secret-full-merchant-takeover-closed-as-informative-c2781f9aaaa7?source=rss------bug_bounty_writeup-5)
@@ -931,7 +932,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Backdoor CTF-2025: Flask of Cookies writeup | by Dargham Ali](https://medium.com/@wireshark.pcap/backdoor-ctf-2025-flask-of-cookies-writeup-by-dargham-ali-fcd81b892608?source=rss------bug_bounty_writeup-5)
 - [From Simple File Upload to Full Server Control &lpar;Even If You Didn’t Get RCE Yet&rpar;](https://medium.com/@MuhammedAsfan/from-simple-file-upload-to-full-server-control-even-if-you-didnt-get-rce-yet-afd9debd3c6b?source=rss------bug_bounty_writeup-5)
 - [When I Found a docker-compose.yml](https://medium.com/@anshubind89/when-i-found-a-docker-compose-yml-71192b9ed1bc?source=rss------bug_bounty_writeup-5)
-- [️ The Day I Found a phpinfo&lpar;&rpar; Page Exposed in Production — And Why It Was Worth More Than $200](https://medium.com/@anshubind89/%EF%B8%8F-the-day-i-found-a-phpinfo-page-exposed-in-production-and-why-it-was-worth-more-than-200-1e6c902e1f4a?source=rss------bug_bounty_writeup-5)
 - [Securing AI Agents with Information Flow Control &lpar;Part I&rpar;](https://infosecwriteups.com/securing-ai-agents-with-information-flow-control-ifc-part-i-4492a3219d53?source=rss----7b722bfd1b8d---4)
 - [A Practical Guide to Authentication and Session Management Vulnerabilities](https://infosecwriteups.com/a-practical-guide-to-authentication-and-session-management-vulnerabilities-517f5412a02a?source=rss----7b722bfd1b8d---4)
 - [This article we will look into the vulnerability subdomain takeovers What makes a web app…](https://infosecwriteups.com/this-article-we-will-look-into-the-vulnerability-subdomain-takeovers-what-makes-a-web-app-27d2d136ba7e?source=rss----7b722bfd1b8d---4)
