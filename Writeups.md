@@ -1,6 +1,12 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [My eWPTXv3 Exam Review](https://infosecwriteups.com/my-ewptxv3-exam-review-098ee2a5223c?source=rss----7b722bfd1b8d---4)
+- [When GPTs Call Home: Exploiting SSRF in ChatGPT’s Custom Actions](https://infosecwriteups.com/when-gpts-call-home-exploiting-ssrf-in-chatgpts-custom-actions-5df9df27dbe9?source=rss----7b722bfd1b8d---4)
+- [Why 99% of Bug Hunters Fail — and How to Be the 1%](https://infosecwriteups.com/why-99-of-bug-hunters-fail-and-how-to-be-the-1-0f07d96885b4?source=rss----7b722bfd1b8d---4)
+- [What Is The SS7 Exploit? How It Works](https://infosecwriteups.com/what-is-the-ss7-exploit-how-it-works-5f7e189b2ab9?source=rss----7b722bfd1b8d---4)
+- [How I found SSTI into an AI model due to unsafe argument](https://infosecwriteups.com/how-i-found-ssti-into-an-ai-model-due-to-unsafe-argument-4a44cadcd985?source=rss----7b722bfd1b8d---4)
+- [The Cybersecurity Habits That Changed My Career Forever](https://infosecwriteups.com/the-cybersecurity-habits-that-changed-my-career-forever-6e7a257f8d94?source=rss----7b722bfd1b8d---4)
 - [From a Single Quote &amp; a Space to a 1‑Year AI Subscription](https://medium.com/@shabutaher0/from-a-single-quote-a-space-to-a-1-year-ai-subscription-bc89a6671eff?source=rss------bug_bounty_writeup-5)
 - [️ When an Image Loader Turned Into a Backdoor: My Discovery of a Blind SSRF on a Blockchain…](https://medium.com/@anshubind89/%EF%B8%8F-when-an-image-loader-turned-into-a-backdoor-my-discovery-of-a-blind-ssrf-on-a-blockchain-94d33d6d5371?source=rss------bug_bounty_writeup-5)
 - [When a Login Page Became a Trap: My Discovery of a Web Cache Deception Vulnerability](https://medium.com/@anshubind89/when-a-login-page-became-a-trap-my-discovery-of-a-web-cache-deception-vulnerability-d1cbbdc0203f?source=rss------bug_bounty_writeup-5)
@@ -15,12 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [A Practical Guide to Authentication and Session Management Vulnerabilities](https://infosecwriteups.com/a-practical-guide-to-authentication-and-session-management-vulnerabilities-517f5412a02a?source=rss----7b722bfd1b8d---4)
 - [This article we will look into the vulnerability subdomain takeovers What makes a web app…](https://infosecwriteups.com/this-article-we-will-look-into-the-vulnerability-subdomain-takeovers-what-makes-a-web-app-27d2d136ba7e?source=rss----7b722bfd1b8d---4)
 - [Reflected XSS with Base64 — Breaching Obscurity in Seconds](https://infosecwriteups.com/reflected-xss-with-base64-breaching-obscurity-in-seconds-e1f9e50a4709?source=rss----7b722bfd1b8d---4)
-- [Uncovering Invisible Privileges: The Ultimate Guide to Mass-Assignment in Registration Flows](https://infosecwriteups.com/uncovering-invisible-privileges-the-ultimate-guide-to-mass-assignment-in-registration-flows-9ecd5ff40512?source=rss----7b722bfd1b8d---4)
-- [$600 Bounty: Stored XSS in Jira Service Desk Reports](https://infosecwriteups.com/600-bounty-stored-xss-in-jira-service-desk-reports-22bad0f8120d?source=rss----7b722bfd1b8d---4)
-- [Information Disclosure in Revive Adserver v6.0.0](https://infosecwriteups.com/information-disclosure-in-revive-adserver-v6-0-0-1abad04b5199?source=rss----7b722bfd1b8d---4)
-- [PicoCTF Challenges: Hashcrack](https://infosecwriteups.com/picoctf-challenges-hashcrack-09fddae4bb9b?source=rss----7b722bfd1b8d---4)
-- [Beyond the Fear: How the Dark Web Became My Secret Weapon for a Azure AD Takeover ️‍♂️✨](https://infosecwriteups.com/beyond-the-fear-how-the-dark-web-became-my-secret-weapon-for-a-azure-ad-takeover-%EF%B8%8F-%EF%B8%8F-a226dbacba7a?source=rss----7b722bfd1b8d---4)
-- [Lab 1#: Basic clickjacking with CSRF token protection | Clickjacking Lab](https://infosecwriteups.com/lab-1-basic-clickjacking-with-csrf-token-protection-clickjacking-lab-ee08bc71b170?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
