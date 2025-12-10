@@ -922,7 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [Call/Message anyone on Facebook directly, bypassing the message request &lpar;$$$$+$$$$$&rpar;](https://infosecwriteups.com/call-message-anyone-on-facebook-directly-bypassing-the-message-request-c182055b1724?source=rss------bug_bounty_writeup-5)
+- [Call/Message anyone on Facebook directly, bypassing the message requests &lpar;$$$$+$$$$$&rpar;](https://infosecwriteups.com/call-message-anyone-on-facebook-directly-bypassing-the-message-request-c182055b1724?source=rss------bug_bounty_writeup-5)
 - [Members Can Prevent Admins/Owners from Accessing Reviews via Manipulated UUID](https://medium.com/@muhammedelkesht404/members-can-prevent-admins-owners-from-accessing-reviews-via-manipulated-uuid-a2dbce4dda6a?source=rss------bug_bounty_writeup-5)
 - [How I Made $5,000 &lpar;₹4.49 Lakh&rpar; in Just 1 Hour by Scanning JavaScript Files](https://mokhansec.medium.com/how-i-made-5-000-4-49-lakh-in-just-1-hour-by-scanning-javascript-files-18428e9184d9?source=rss------bug_bounty_writeup-5)
 - [Backdoor CTF-2025: Flask of Cookies writeup | by Dargham Ali](https://medium.com/@wireshark.pcap/backdoor-ctf-2025-flask-of-cookies-writeup-by-dargham-ali-fcd81b892608?source=rss------bug_bounty_writeup-5)
