@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [️ When an Image Loader Turned Into a Backdoor: My Discovery of a Blind SSRF on a Blockchain…](https://medium.com/@anshubind89/%EF%B8%8F-when-an-image-loader-turned-into-a-backdoor-my-discovery-of-a-blind-ssrf-on-a-blockchain-94d33d6d5371?source=rss------bug_bounty_writeup-5)
+- [When a Login Page Became a Trap: My Discovery of a Web Cache Deception Vulnerability](https://medium.com/@anshubind89/when-a-login-page-became-a-trap-my-discovery-of-a-web-cache-deception-vulnerability-d1cbbdc0203f?source=rss------bug_bounty_writeup-5)
 - [Leaked PayPal production Client id and API Secret → full merchant takeover Closed as “Informative”…](https://medium.com/@elelyonmusk/leaked-paypal-production-client-id-and-api-secret-full-merchant-takeover-closed-as-informative-c2781f9aaaa7?source=rss------bug_bounty_writeup-5)
 - [Call/Message anyone on Facebook directly, bypassing the message requests &lpar;$$$$+$$$$$&rpar;](https://infosecwriteups.com/call-message-anyone-on-facebook-directly-bypassing-the-message-request-c182055b1724?source=rss------bug_bounty_writeup-5)
 - [Members Can Prevent Admins/Owners from Accessing Reviews via Manipulated UUID](https://medium.com/@muhammedelkesht404/members-can-prevent-admins-owners-from-accessing-reviews-via-manipulated-uuid-a2dbce4dda6a?source=rss------bug_bounty_writeup-5)
@@ -930,8 +932,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [From Simple File Upload to Full Server Control &lpar;Even If You Didn’t Get RCE Yet&rpar;](https://medium.com/@MuhammedAsfan/from-simple-file-upload-to-full-server-control-even-if-you-didnt-get-rce-yet-afd9debd3c6b?source=rss------bug_bounty_writeup-5)
 - [When I Found a docker-compose.yml](https://medium.com/@anshubind89/when-i-found-a-docker-compose-yml-71192b9ed1bc?source=rss------bug_bounty_writeup-5)
 - [️ The Day I Found a phpinfo&lpar;&rpar; Page Exposed in Production — And Why It Was Worth More Than $200](https://medium.com/@anshubind89/%EF%B8%8F-the-day-i-found-a-phpinfo-page-exposed-in-production-and-why-it-was-worth-more-than-200-1e6c902e1f4a?source=rss------bug_bounty_writeup-5)
-- [₹16,000 Earned by Reporting 2 Simple API Vulnerability | High Severity P2](https://medium.com/@rajankumarbarik143/16000-api-bug-bounty-poc-by-anondgr-c5a6ea9fd8c5?source=rss------bug_bounty_writeup-5)
-- [Breaking Past 403: A Deep Dive into Out-of-Band SQL Injection Discovery](https://systemweakness.com/breaking-past-403-a-deep-dive-into-out-of-band-sql-injection-discovery-f4acbcbabe7c?source=rss------bug_bounty_writeup-5)
 - [Securing AI Agents with Information Flow Control &lpar;Part I&rpar;](https://infosecwriteups.com/securing-ai-agents-with-information-flow-control-ifc-part-i-4492a3219d53?source=rss----7b722bfd1b8d---4)
 - [A Practical Guide to Authentication and Session Management Vulnerabilities](https://infosecwriteups.com/a-practical-guide-to-authentication-and-session-management-vulnerabilities-517f5412a02a?source=rss----7b722bfd1b8d---4)
 - [This article we will look into the vulnerability subdomain takeovers What makes a web app…](https://infosecwriteups.com/this-article-we-will-look-into-the-vulnerability-subdomain-takeovers-what-makes-a-web-app-27d2d136ba7e?source=rss----7b722bfd1b8d---4)
