@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [When an Image Endpoint Opened the Entire Server: My Discovery of a Critical Path Traversal…](https://medium.com/@anshubind89/when-an-image-endpoint-opened-the-entire-server-my-discovery-of-a-critical-path-traversal-28a2e9184f32?source=rss------bug_bounty_writeup-5)
+- [The Hidden Translation Key: How a Simple Blog Page Revealed a Serious Security Flaw](https://medium.com/@anshubind89/the-hidden-translation-key-how-a-simple-blog-page-revealed-a-serious-security-flaw-381df9311402?source=rss------bug_bounty_writeup-5)
 - [Getting all info about my coworkers via unprotected GraphQL path](https://canitey.medium.com/getting-all-info-about-my-coworkers-via-unprotected-graphql-path-ee75ad67903a?source=rss------bug_bounty_writeup-5)
 - [PayPal’s SDK URLs Leak Merchant Emails and Client IDs – A PII Goldmine Dismissed as &quot;Informative&quot;…](https://medium.com/@elelyonmusk/paypals-sdk-urls-leak-merchant-emails-and-client-ids-a-pii-goldmine-dismissed-as-informative-1f5f8e4fd4a4?source=rss------bug_bounty_writeup-5)
 - [HTB Academy: Windows CMD and PowerShell](https://infosecwriteups.com/htb-academy-windows-cmd-and-powershell-4abfd13d6a1e?source=rss----7b722bfd1b8d---4)
@@ -940,8 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [️ When an Image Loader Turned Into a Backdoor: My Discovery of a Blind SSRF on a Blockchain…](https://medium.com/@anshubind89/%EF%B8%8F-when-an-image-loader-turned-into-a-backdoor-my-discovery-of-a-blind-ssrf-on-a-blockchain-94d33d6d5371?source=rss------bug_bounty_writeup-5)
 - [When a Login Page Became a Trap: My Discovery of a Web Cache Deception Vulnerability](https://medium.com/@anshubind89/when-a-login-page-became-a-trap-my-discovery-of-a-web-cache-deception-vulnerability-d1cbbdc0203f?source=rss------bug_bounty_writeup-5)
 - [Leaked PayPal production Client id and API Secret → full merchant takeover Closed as “Informative”…](https://medium.com/@elelyonmusk/leaked-paypal-production-client-id-and-api-secret-full-merchant-takeover-closed-as-informative-c2781f9aaaa7?source=rss------bug_bounty_writeup-5)
-- [Call/Message anyone on Facebook directly, bypassing the message requests &lpar;$$$$+$$$$$&rpar;](https://infosecwriteups.com/call-message-anyone-on-facebook-directly-bypassing-the-message-request-c182055b1724?source=rss------bug_bounty_writeup-5)
-- [Members Can Prevent Admins/Owners from Accessing Reviews via Manipulated UUID](https://medium.com/@muhammedelkesht404/members-can-prevent-admins-owners-from-accessing-reviews-via-manipulated-uuid-a2dbce4dda6a?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
