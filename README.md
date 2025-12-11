@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Getting all info about my coworkers via unprotected GraphQL path](https://canitey.medium.com/getting-all-info-about-my-coworkers-via-unprotected-graphql-path-ee75ad67903a?source=rss------bug_bounty_writeup-5)
 - [PayPal’s SDK URLs Leak Merchant Emails and Client IDs – A PII Goldmine Dismissed as &quot;Informative&quot;…](https://medium.com/@elelyonmusk/paypals-sdk-urls-leak-merchant-emails-and-client-ids-a-pii-goldmine-dismissed-as-informative-1f5f8e4fd4a4?source=rss------bug_bounty_writeup-5)
 - [HTB Academy: Windows CMD and PowerShell](https://infosecwriteups.com/htb-academy-windows-cmd-and-powershell-4abfd13d6a1e?source=rss----7b722bfd1b8d---4)
 - [What Behind My First Critical Bug — ATO $X,XXX](https://brbr0s.medium.com/what-behind-my-first-critical-bug-ato-x-xxx-079cc10e1951?source=rss------bug_bounty_writeup-5)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Leaked PayPal production Client id and API Secret → full merchant takeover Closed as “Informative”…](https://medium.com/@elelyonmusk/leaked-paypal-production-client-id-and-api-secret-full-merchant-takeover-closed-as-informative-c2781f9aaaa7?source=rss------bug_bounty_writeup-5)
 - [Call/Message anyone on Facebook directly, bypassing the message requests &lpar;$$$$+$$$$$&rpar;](https://infosecwriteups.com/call-message-anyone-on-facebook-directly-bypassing-the-message-request-c182055b1724?source=rss------bug_bounty_writeup-5)
 - [Members Can Prevent Admins/Owners from Accessing Reviews via Manipulated UUID](https://medium.com/@muhammedelkesht404/members-can-prevent-admins-owners-from-accessing-reviews-via-manipulated-uuid-a2dbce4dda6a?source=rss------bug_bounty_writeup-5)
-- [How I Made $5,000 &lpar;₹4.49 Lakh&rpar; in Just 1 Hour by Scanning JavaScript Files](https://mokhansec.medium.com/how-i-made-5-000-4-49-lakh-in-just-1-hour-by-scanning-javascript-files-18428e9184d9?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
