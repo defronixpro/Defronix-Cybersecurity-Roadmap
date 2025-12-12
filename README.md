@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Massive Slack Infrastructure Exposure leaked internal hostnames by CYBER KALKI after Hackerone…](https://medium.com/@elelyonmusk/massive-slack-infrastructure-exposure-leaked-internal-hostnames-by-cyber-kalki-after-hackerone-ef37e73dbc36?source=rss------bug_bounty_writeup-5)
 - [Hunting Bugs in the Shadows of a Global Energy Giant: The Reflected XSS Hidden in a VPN Portal](https://medium.com/@anshubind89/hunting-bugs-in-the-shadows-of-a-global-energy-giant-the-reflected-xss-hidden-in-a-vpn-portal-8f3b0cd9a441?source=rss------bug_bounty_writeup-5)
 - [When env.js Breaks Bad: How a Single File Exposed Critical Secrets in a Global Enterprise](https://medium.com/@anshubind89/when-env-js-breaks-bad-how-a-single-file-exposed-critical-secrets-in-a-global-enterprise-f114b2f8613a?source=rss------bug_bounty_writeup-5)
 - [Permanent Denial of Service in Automattic Platforms](https://medium.com/meetcyber/permanent-denial-of-service-in-automattic-platforms-bdf92b1504d1?source=rss------bug_bounty_writeup-5)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [eJPT Review &lpar;2025&rpar;: A Great Starting Point, But It’s Showing Its Age](https://infosecwriteups.com/ejpt-review-2025-a-great-starting-point-but-its-showing-its-age-206054c6e3e7?source=rss----7b722bfd1b8d---4)
 - [0-Day Hunting Guide ️‍♂️: Recon Techniques Nobody Talks About](https://infosecwriteups.com/0-day-hunting-guide-%EF%B8%8F-%EF%B8%8F-recon-techniques-nobody-talks-about-046d373b6dab?source=rss----7b722bfd1b8d---4)
 - [How My Custom IDOR Hunter Made Me $50k &lpar;And Saved My Clicking Finger&rpar; ️](https://infosecwriteups.com/how-my-custom-idor-hunter-made-me-50k-and-saved-my-clicking-finger-%EF%B8%8F-c4fc5dc3b3d1?source=rss----7b722bfd1b8d---4)
-- [From a Single Quote &amp; a Space to a 1‑Year AI Subscription](https://medium.com/@shabutaher0/from-a-single-quote-a-space-to-a-1-year-ai-subscription-bc89a6671eff?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
