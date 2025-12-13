@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I Bypassed Voucher Limits Using a Race Condition Vulnerability](https://medium.com/meetcyber/how-i-bypassed-voucher-limits-using-a-race-condition-vulnerability-4cc3b192a5b1?source=rss------bug_bounty_writeup-5)
 - [️ The Day I Found an Exposed Firebase Database on a Ferrari Subdomain — And Got the “Already…](https://medium.com/@anshubind89/%EF%B8%8F-the-day-i-found-an-exposed-firebase-database-on-a-ferrari-subdomain-and-got-the-already-05023b362520?source=rss------bug_bounty_writeup-5)
 - [✉️ The Day I Found a Hardcoded SendinBlue API Key in a Front-End Script — And Why Email Services…](https://medium.com/@anshubind89/%EF%B8%8F-the-day-i-found-a-hardcoded-sendinblue-api-key-in-a-front-end-script-and-why-email-services-220ac969f10e?source=rss------bug_bounty_writeup-5)
 - [Beyond Authentication — Exploiting a Nasty IDOR in Profile Update Functionality](https://infosecwriteups.com/beyond-authentication-exploiting-a-nasty-idor-in-profile-update-functionality-25740fb56b05?source=rss----7b722bfd1b8d---4)
@@ -934,7 +935,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Hunting Bugs in the Shadows of a Global Energy Giant: The Reflected XSS Hidden in a VPN Portal](https://medium.com/@anshubind89/hunting-bugs-in-the-shadows-of-a-global-energy-giant-the-reflected-xss-hidden-in-a-vpn-portal-8f3b0cd9a441?source=rss------bug_bounty_writeup-5)
 - [When env.js Breaks Bad: How a Single File Exposed Critical Secrets in a Global Enterprise](https://medium.com/@anshubind89/when-env-js-breaks-bad-how-a-single-file-exposed-critical-secrets-in-a-global-enterprise-f114b2f8613a?source=rss------bug_bounty_writeup-5)
 - [Permanent Denial of Service in Automattic Platforms](https://medium.com/meetcyber/permanent-denial-of-service-in-automattic-platforms-bdf92b1504d1?source=rss------bug_bounty_writeup-5)
-- [When an Image Endpoint Opened the Entire Server: My Discovery of a Critical Path Traversal…](https://medium.com/@anshubind89/when-an-image-endpoint-opened-the-entire-server-my-discovery-of-a-critical-path-traversal-28a2e9184f32?source=rss------bug_bounty_writeup-5)
 - [HTB Academy: Windows CMD and PowerShell](https://infosecwriteups.com/htb-academy-windows-cmd-and-powershell-4abfd13d6a1e?source=rss----7b722bfd1b8d---4)
 - [Hack the Box Starting Point: Crocodile](https://infosecwriteups.com/hack-the-box-starting-point-crocodile-a8baf4427a8b?source=rss----7b722bfd1b8d---4)
 - [Outbound HTB Walkthrough / Solution — Exploiting Roundcube Webmail CVE-2025–49113 and Rooting via…](https://infosecwriteups.com/outbound-htb-walkthrough-solution-exploiting-roundcube-webmail-cve-2025-49113-and-rooting-via-d0d54f071691?source=rss----7b722bfd1b8d---4)
