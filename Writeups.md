@@ -16,7 +16,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [The Phishing Pond TryHackMe Writeup](https://infosecwriteups.com/the-phishing-pond-tryhackme-writeup-ebaaacdb8da2?source=rss----7b722bfd1b8d---4)
 - [I Spied on Hackers So You Don’t Have To: How Dark Web Chatter Led to a $Cloud Misconfiguration Bug…](https://infosecwriteups.com/i-spied-on-hackers-so-you-dont-have-to-how-dark-web-chatter-led-to-a-cloud-misconfiguration-bug-42409396317b?source=rss----7b722bfd1b8d---4)
 - [All About Android Pentesting](https://infosecwriteups.com/all-about-android-pentesting-f047b7c7e0f1?source=rss----7b722bfd1b8d---4)
-- [The Return of The Luhn Algorithm](https://infosecwriteups.com/the-return-of-the-luhn-algorithm-542d3d951576?source=rss------bug_bounty_writeup-5)
 - [Vulnerability Management Home Lab](https://infosecwriteups.com/vulnerability-management-using-nessus-200b593fbf9a?source=rss----7b722bfd1b8d---4)
 - [eJPT Review &lpar;2025&rpar;: A Great Starting Point, But It’s Showing Its Age](https://infosecwriteups.com/ejpt-review-2025-a-great-starting-point-but-its-showing-its-age-206054c6e3e7?source=rss----7b722bfd1b8d---4)
 - [0-Day Hunting Guide ️‍♂️: Recon Techniques Nobody Talks About](https://infosecwriteups.com/0-day-hunting-guide-%EF%B8%8F-%EF%B8%8F-recon-techniques-nobody-talks-about-046d373b6dab?source=rss----7b722bfd1b8d---4)
