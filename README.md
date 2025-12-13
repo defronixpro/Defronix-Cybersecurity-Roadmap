@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [The Art of Clean Recon: Amass for Bug Bounty Hunters](https://medium.com/@Purushothamr/the-art-of-clean-recon-amass-for-bug-bounty-hunters-42992157adf6?source=rss------bug_bounty_writeup-5)
 - [Massive Slack Infrastructure Exposure leaked internal hostnames by CYBER KALKI after Hackerone…](https://medium.com/@elelyonmusk/massive-slack-infrastructure-exposure-leaked-internal-hostnames-by-cyber-kalki-after-hackerone-ef37e73dbc36?source=rss------bug_bounty_writeup-5)
 - [Hunting Bugs in the Shadows of a Global Energy Giant: The Reflected XSS Hidden in a VPN Portal](https://medium.com/@anshubind89/hunting-bugs-in-the-shadows-of-a-global-energy-giant-the-reflected-xss-hidden-in-a-vpn-portal-8f3b0cd9a441?source=rss------bug_bounty_writeup-5)
 - [When env.js Breaks Bad: How a Single File Exposed Critical Secrets in a Global Enterprise](https://medium.com/@anshubind89/when-env-js-breaks-bad-how-a-single-file-exposed-critical-secrets-in-a-global-enterprise-f114b2f8613a?source=rss------bug_bounty_writeup-5)
@@ -931,13 +932,11 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Getting all info about my coworkers via unprotected GraphQL path](https://canitey.medium.com/getting-all-info-about-my-coworkers-via-unprotected-graphql-path-ee75ad67903a?source=rss------bug_bounty_writeup-5)
 - [PayPal’s SDK URLs Leak Merchant Emails and Client IDs – A PII Goldmine Dismissed as &quot;Informative&quot;…](https://medium.com/@elelyonmusk/paypals-sdk-urls-leak-merchant-emails-and-client-ids-a-pii-goldmine-dismissed-as-informative-1f5f8e4fd4a4?source=rss------bug_bounty_writeup-5)
 - [HTB Academy: Windows CMD and PowerShell](https://infosecwriteups.com/htb-academy-windows-cmd-and-powershell-4abfd13d6a1e?source=rss----7b722bfd1b8d---4)
-- [What Behind My First Critical Bug — ATO $X,XXX](https://brbr0s.medium.com/what-behind-my-first-critical-bug-ato-x-xxx-079cc10e1951?source=rss------bug_bounty_writeup-5)
 - [Hack the Box Starting Point: Crocodile](https://infosecwriteups.com/hack-the-box-starting-point-crocodile-a8baf4427a8b?source=rss----7b722bfd1b8d---4)
 - [Outbound HTB Walkthrough / Solution — Exploiting Roundcube Webmail CVE-2025–49113 and Rooting via…](https://infosecwriteups.com/outbound-htb-walkthrough-solution-exploiting-roundcube-webmail-cve-2025-49113-and-rooting-via-d0d54f071691?source=rss----7b722bfd1b8d---4)
 - [The Phishing Pond TryHackMe Writeup](https://infosecwriteups.com/the-phishing-pond-tryhackme-writeup-ebaaacdb8da2?source=rss----7b722bfd1b8d---4)
 - [I Spied on Hackers So You Don’t Have To: How Dark Web Chatter Led to a $Cloud Misconfiguration Bug…](https://infosecwriteups.com/i-spied-on-hackers-so-you-dont-have-to-how-dark-web-chatter-led-to-a-cloud-misconfiguration-bug-42409396317b?source=rss----7b722bfd1b8d---4)
 - [All About Android Pentesting](https://infosecwriteups.com/all-about-android-pentesting-f047b7c7e0f1?source=rss----7b722bfd1b8d---4)
-- [The Return of The Luhn Algorithm](https://infosecwriteups.com/the-return-of-the-luhn-algorithm-542d3d951576?source=rss------bug_bounty_writeup-5)
 - [Vulnerability Management Home Lab](https://infosecwriteups.com/vulnerability-management-using-nessus-200b593fbf9a?source=rss----7b722bfd1b8d---4)
 - [eJPT Review &lpar;2025&rpar;: A Great Starting Point, But It’s Showing Its Age](https://infosecwriteups.com/ejpt-review-2025-a-great-starting-point-but-its-showing-its-age-206054c6e3e7?source=rss----7b722bfd1b8d---4)
 - [0-Day Hunting Guide ️‍♂️: Recon Techniques Nobody Talks About](https://infosecwriteups.com/0-day-hunting-guide-%EF%B8%8F-%EF%B8%8F-recon-techniques-nobody-talks-about-046d373b6dab?source=rss----7b722bfd1b8d---4)
