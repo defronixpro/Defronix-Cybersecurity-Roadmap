@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [️ The Day I Found an Exposed Firebase Database on a Ferrari Subdomain — And Got the “Already…](https://medium.com/@anshubind89/%EF%B8%8F-the-day-i-found-an-exposed-firebase-database-on-a-ferrari-subdomain-and-got-the-already-05023b362520?source=rss------bug_bounty_writeup-5)
+- [✉️ The Day I Found a Hardcoded SendinBlue API Key in a Front-End Script — And Why Email Services…](https://medium.com/@anshubind89/%EF%B8%8F-the-day-i-found-a-hardcoded-sendinblue-api-key-in-a-front-end-script-and-why-email-services-220ac969f10e?source=rss------bug_bounty_writeup-5)
 - [Beyond Authentication — Exploiting a Nasty IDOR in Profile Update Functionality](https://infosecwriteups.com/beyond-authentication-exploiting-a-nasty-idor-in-profile-update-functionality-25740fb56b05?source=rss----7b722bfd1b8d---4)
 - [MITRE: TryHackMe Room Walkthrough](https://infosecwriteups.com/mitre-tryhackme-room-walkthrough-9a3998d2a688?source=rss----7b722bfd1b8d---4)
 - [Stored Cross-Site Scripting: HTML Context &lpar;Nothing Encoded&rpar;](https://infosecwriteups.com/stored-cross-site-scripting-html-context-nothing-encoded-1f63a3899cb2?source=rss----7b722bfd1b8d---4)
@@ -933,8 +935,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [When env.js Breaks Bad: How a Single File Exposed Critical Secrets in a Global Enterprise](https://medium.com/@anshubind89/when-env-js-breaks-bad-how-a-single-file-exposed-critical-secrets-in-a-global-enterprise-f114b2f8613a?source=rss------bug_bounty_writeup-5)
 - [Permanent Denial of Service in Automattic Platforms](https://medium.com/meetcyber/permanent-denial-of-service-in-automattic-platforms-bdf92b1504d1?source=rss------bug_bounty_writeup-5)
 - [When an Image Endpoint Opened the Entire Server: My Discovery of a Critical Path Traversal…](https://medium.com/@anshubind89/when-an-image-endpoint-opened-the-entire-server-my-discovery-of-a-critical-path-traversal-28a2e9184f32?source=rss------bug_bounty_writeup-5)
-- [The Hidden Translation Key: How a Simple Blog Page Revealed a Serious Security Flaw](https://medium.com/@anshubind89/the-hidden-translation-key-how-a-simple-blog-page-revealed-a-serious-security-flaw-381df9311402?source=rss------bug_bounty_writeup-5)
-- [Getting all info about my coworkers via unprotected GraphQL path](https://canitey.medium.com/getting-all-info-about-my-coworkers-via-unprotected-graphql-path-ee75ad67903a?source=rss------bug_bounty_writeup-5)
 - [HTB Academy: Windows CMD and PowerShell](https://infosecwriteups.com/htb-academy-windows-cmd-and-powershell-4abfd13d6a1e?source=rss----7b722bfd1b8d---4)
 - [Hack the Box Starting Point: Crocodile](https://infosecwriteups.com/hack-the-box-starting-point-crocodile-a8baf4427a8b?source=rss----7b722bfd1b8d---4)
 - [Outbound HTB Walkthrough / Solution — Exploiting Roundcube Webmail CVE-2025–49113 and Rooting via…](https://infosecwriteups.com/outbound-htb-walkthrough-solution-exploiting-roundcube-webmail-cve-2025-49113-and-rooting-via-d0d54f071691?source=rss----7b722bfd1b8d---4)
