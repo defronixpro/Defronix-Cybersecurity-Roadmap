@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [The Bombshell Exposures - Cyber Kalki Exposes GlobalProtect VPN Portals at NATO, NASA, and…](https://medium.com/@elelyonmusk/the-bombshell-exposures-cyber-kalki-exposes-globalprotect-vpn-portals-at-nato-nasa-and-tesla-9750a1da09ad?source=rss------bug_bounty_writeup-5)
 - [The Art of Clean Recon: Amass for Bug Bounty Hunters](https://medium.com/@Purushothamr/the-art-of-clean-recon-amass-for-bug-bounty-hunters-42992157adf6?source=rss------bug_bounty_writeup-5)
 - [Massive Slack Infrastructure Exposure leaked internal hostnames by CYBER KALKI after Hackerone…](https://medium.com/@elelyonmusk/massive-slack-infrastructure-exposure-leaked-internal-hostnames-by-cyber-kalki-after-hackerone-ef37e73dbc36?source=rss------bug_bounty_writeup-5)
 - [Hunting Bugs in the Shadows of a Global Energy Giant: The Reflected XSS Hidden in a VPN Portal](https://medium.com/@anshubind89/hunting-bugs-in-the-shadows-of-a-global-energy-giant-the-reflected-xss-hidden-in-a-vpn-portal-8f3b0cd9a441?source=rss------bug_bounty_writeup-5)
@@ -930,7 +931,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [When an Image Endpoint Opened the Entire Server: My Discovery of a Critical Path Traversal…](https://medium.com/@anshubind89/when-an-image-endpoint-opened-the-entire-server-my-discovery-of-a-critical-path-traversal-28a2e9184f32?source=rss------bug_bounty_writeup-5)
 - [The Hidden Translation Key: How a Simple Blog Page Revealed a Serious Security Flaw](https://medium.com/@anshubind89/the-hidden-translation-key-how-a-simple-blog-page-revealed-a-serious-security-flaw-381df9311402?source=rss------bug_bounty_writeup-5)
 - [Getting all info about my coworkers via unprotected GraphQL path](https://canitey.medium.com/getting-all-info-about-my-coworkers-via-unprotected-graphql-path-ee75ad67903a?source=rss------bug_bounty_writeup-5)
-- [PayPal’s SDK URLs Leak Merchant Emails and Client IDs – A PII Goldmine Dismissed as &quot;Informative&quot;…](https://medium.com/@elelyonmusk/paypals-sdk-urls-leak-merchant-emails-and-client-ids-a-pii-goldmine-dismissed-as-informative-1f5f8e4fd4a4?source=rss------bug_bounty_writeup-5)
 - [HTB Academy: Windows CMD and PowerShell](https://infosecwriteups.com/htb-academy-windows-cmd-and-powershell-4abfd13d6a1e?source=rss----7b722bfd1b8d---4)
 - [Hack the Box Starting Point: Crocodile](https://infosecwriteups.com/hack-the-box-starting-point-crocodile-a8baf4427a8b?source=rss----7b722bfd1b8d---4)
 - [Outbound HTB Walkthrough / Solution — Exploiting Roundcube Webmail CVE-2025–49113 and Rooting via…](https://infosecwriteups.com/outbound-htb-walkthrough-solution-exploiting-roundcube-webmail-cve-2025-49113-and-rooting-via-d0d54f071691?source=rss----7b722bfd1b8d---4)
@@ -945,17 +945,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
 - [How to backup and restore the Windows Registry](https://www.bleepingcomputer.com/tutorials/how-to-backup-and-restore-the-windows-registry/)
-- [How To Fix Error: Externally-Managed-Environment In Python &lpar;Kali Linux&rpar;](https://technicalnavigator.in/how-to-fix-error-externally-managed-environment-in-python-kali-linux/)
-- [Understanding Systemctl Command in Linux &lpar;Practical&rpar;](https://technicalnavigator.in/understanding-systemctl-command-in-linux-practical/)
-- [Macros in docm &amp; Linux memory dump| Hack The Boo  Challanges](https://technicalnavigator.in/macros-in-docm-linux-memory-dump-hack-the-boo-challanges/)
-- [Android Apps debugging |  Frida, JADX, Genymotion](https://technicalnavigator.in/android-apps-debugging-frida-jadx-genymotion/)
-- [MouseServer | wifimouse – Windows/ Linux](https://technicalnavigator.in/mouseserver-wifimouse-windows-linux/)
-- [FFUF fuzzer | web-application penetration-testing](https://technicalnavigator.in/ffuf-fuzzer-web-application-penetration-testing/)
 - [How to open a Windows 11 Command Prompt as Administrator](https://www.bleepingcomputer.com/tutorials/how-to-open-a-windows-11-command-prompt-as-administrator/)
-- [Classes-Objects &amp; Deserialization bug](https://technicalnavigator.in/classes-objects-deserialization-bug/)
-- [Loki Tool | Multhreading Over Sockets in C](https://technicalnavigator.in/loki-tool-multhreading-over-sockets-in-c/)
-- [Egghunter | NASM | C prototype](https://technicalnavigator.in/egghunter-nasm-c-prototype/)
-- [TELNET &amp; FTP Analysis](https://technicalnavigator.in/telnet-ftp-analysis/)
 - [How to make the Start menu full screen in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-make-the-start-menu-full-screen-in-windows-10/)
 - [How to install the Microsoft Visual C++ 2015 Runtime](https://www.bleepingcomputer.com/tutorials/how-to-install-the-microsoft-visual-c-2015-runtime/)
 - [How to open an elevated PowerShell Admin prompt in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-open-an-elevated-powershell-admin-prompt-in-windows-10/)
