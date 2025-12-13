@@ -922,6 +922,10 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Beyond Authentication — Exploiting a Nasty IDOR in Profile Update Functionality](https://infosecwriteups.com/beyond-authentication-exploiting-a-nasty-idor-in-profile-update-functionality-25740fb56b05?source=rss----7b722bfd1b8d---4)
+- [MITRE: TryHackMe Room Walkthrough](https://infosecwriteups.com/mitre-tryhackme-room-walkthrough-9a3998d2a688?source=rss----7b722bfd1b8d---4)
+- [Stored Cross-Site Scripting: HTML Context &lpar;Nothing Encoded&rpar;](https://infosecwriteups.com/stored-cross-site-scripting-html-context-nothing-encoded-1f63a3899cb2?source=rss----7b722bfd1b8d---4)
+- [From Recon to RCE: Hunting React2Shell &lpar;CVE-2025–55182&rpar; for Bug Bounties](https://infosecwriteups.com/from-recon-to-rce-hunting-react2shell-cve-2025-55182-for-bug-bounties-4e3a3ed79876?source=rss----7b722bfd1b8d---4)
 - [The Bombshell Exposures - Cyber Kalki Exposes GlobalProtect VPN Portals at NATO, NASA, and…](https://medium.com/@elelyonmusk/the-bombshell-exposures-cyber-kalki-exposes-globalprotect-vpn-portals-at-nato-nasa-and-tesla-9750a1da09ad?source=rss------bug_bounty_writeup-5)
 - [The Art of Clean Recon: Amass for Bug Bounty Hunters](https://medium.com/@Purushothamr/the-art-of-clean-recon-amass-for-bug-bounty-hunters-42992157adf6?source=rss------bug_bounty_writeup-5)
 - [Massive Slack Infrastructure Exposure leaked internal hostnames by CYBER KALKI after Hackerone…](https://medium.com/@elelyonmusk/massive-slack-infrastructure-exposure-leaked-internal-hostnames-by-cyber-kalki-after-hackerone-ef37e73dbc36?source=rss------bug_bounty_writeup-5)
@@ -937,10 +941,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [The Phishing Pond TryHackMe Writeup](https://infosecwriteups.com/the-phishing-pond-tryhackme-writeup-ebaaacdb8da2?source=rss----7b722bfd1b8d---4)
 - [I Spied on Hackers So You Don’t Have To: How Dark Web Chatter Led to a $Cloud Misconfiguration Bug…](https://infosecwriteups.com/i-spied-on-hackers-so-you-dont-have-to-how-dark-web-chatter-led-to-a-cloud-misconfiguration-bug-42409396317b?source=rss----7b722bfd1b8d---4)
 - [All About Android Pentesting](https://infosecwriteups.com/all-about-android-pentesting-f047b7c7e0f1?source=rss----7b722bfd1b8d---4)
-- [Vulnerability Management Home Lab](https://infosecwriteups.com/vulnerability-management-using-nessus-200b593fbf9a?source=rss----7b722bfd1b8d---4)
-- [eJPT Review &lpar;2025&rpar;: A Great Starting Point, But It’s Showing Its Age](https://infosecwriteups.com/ejpt-review-2025-a-great-starting-point-but-its-showing-its-age-206054c6e3e7?source=rss----7b722bfd1b8d---4)
-- [0-Day Hunting Guide ️‍♂️: Recon Techniques Nobody Talks About](https://infosecwriteups.com/0-day-hunting-guide-%EF%B8%8F-%EF%B8%8F-recon-techniques-nobody-talks-about-046d373b6dab?source=rss----7b722bfd1b8d---4)
-- [How My Custom IDOR Hunter Made Me $50k &lpar;And Saved My Clicking Finger&rpar; ️](https://infosecwriteups.com/how-my-custom-idor-hunter-made-me-50k-and-saved-my-clicking-finger-%EF%B8%8F-c4fc5dc3b3d1?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
