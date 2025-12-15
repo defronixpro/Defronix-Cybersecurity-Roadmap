@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [The CGI Script That Should Have Stayed Hidden — How a Forgotten Diagnostic File Exposed an…](https://medium.com/@anshubind89/the-cgi-script-that-should-have-stayed-hidden-how-a-forgotten-diagnostic-file-exposed-an-46e9215743cd?source=rss------bug_bounty_writeup-5)
+- [⚡ The Reflected XSS Hidden Inside a Login Page — And How a Single Parameter Became a Security Weak…](https://medium.com/@anshubind89/the-reflected-xss-hidden-inside-a-login-page-and-how-a-single-parameter-became-a-security-weak-ad52a584292f?source=rss------bug_bounty_writeup-5)
 - [$25,000| Critical Vulnerability was Found on HackerOne](https://medium.com/@aminefarah802/25-000-critical-vulnerability-was-found-on-hackerone-ee1dd3b33ad5?source=rss------bug_bounty_writeup-5)
 - [Negative AddOn to Financial Flaw — Business Logic Vulnerability](https://vrushabhd.medium.com/negative-addon-to-financial-flaw-business-logic-vulnerability-ea40f269e173?source=rss------bug_bounty_writeup-5)
 - [CSRF vs JWT: The One Story That Finally Makes It Click](https://medium.com/@MuhammedAsfan/csrf-vs-jwt-the-one-story-that-finally-makes-it-click-16352ef67196?source=rss------bug_bounty_writeup-5)
@@ -940,8 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How I discovered leaked Snowflake credentials for a Fortune 500 Manufacturing Company using…](https://medium.com/@tillson.galloway/how-i-discovered-leaked-snowflake-credentials-for-a-fortune-500-manufacturing-company-using-6adfdfcc3657?source=rss------bug_bounty_writeup-5)
 - [The Day I Found an Exposed Google Cloud Service Account Key in a Production JS File — And How…](https://medium.com/@anshubind89/the-day-i-found-an-exposed-google-cloud-service-account-key-in-a-production-js-file-and-how-6ee42010e638?source=rss------bug_bounty_writeup-5)
 - [When I Found a Hardcoded Sentry Token in a JS Bundle — And Got the Classic “Already a Known…](https://medium.com/@anshubind89/when-i-found-a-hardcoded-sentry-token-in-a-js-bundle-and-got-the-classic-already-a-known-de0fbc34680a?source=rss------bug_bounty_writeup-5)
-- [Exploiting Logic Flaw to Bypass Payment Using Fractional Quantities](https://hamzadzworm.medium.com/exploiting-logic-flaw-to-bypass-payment-using-fractional-quantities-e2f62aa512fb?source=rss------bug_bounty_writeup-5)
-- [How I Bypassed Voucher Limits Using a Race Condition Vulnerability](https://medium.com/meetcyber/how-i-bypassed-voucher-limits-using-a-race-condition-vulnerability-4cc3b192a5b1?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
