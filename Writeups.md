@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [The Lazy Hunter’s Guide to Modat: Recon Smarter, Not Harder](https://medium.com/@hacker_might/the-lazy-hunters-guide-to-modat-recon-smarter-not-harder-4bc95bc2a577?source=rss------bug_bounty_writeup-5)
 - [How i hacked a website just by looking at the source code](https://osintteam.blog/how-i-hacked-a-website-just-by-looking-at-the-source-code-90645f085736?source=rss------bug_bounty_writeup-5)
 - [The CGI Script That Should Have Stayed Hidden — How a Forgotten Diagnostic File Exposed an…](https://medium.com/@anshubind89/the-cgi-script-that-should-have-stayed-hidden-how-a-forgotten-diagnostic-file-exposed-an-46e9215743cd?source=rss------bug_bounty_writeup-5)
 - [⚡ The Reflected XSS Hidden Inside a Login Page — And How a Single Parameter Became a Security Weak…](https://medium.com/@anshubind89/the-reflected-xss-hidden-inside-a-login-page-and-how-a-single-parameter-became-a-security-weak-ad52a584292f?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Command and Control &amp; Tunnelling via ICMP](https://infosecwriteups.com/command-and-control-tunnelling-via-icmp-ad15f8afd233?source=rss----7b722bfd1b8d---4)
 - [Precious HTB Machine Walk-Though!](https://infosecwriteups.com/precious-htb-machine-walk-though-a64d23ab1640?source=rss----7b722bfd1b8d---4)
 - [How I discovered leaked Snowflake credentials for a Fortune 500 Manufacturing Company using…](https://medium.com/@tillson.galloway/how-i-discovered-leaked-snowflake-credentials-for-a-fortune-500-manufacturing-company-using-6adfdfcc3657?source=rss------bug_bounty_writeup-5)
-- [The Day I Found an Exposed Google Cloud Service Account Key in a Production JS File — And How…](https://medium.com/@anshubind89/the-day-i-found-an-exposed-google-cloud-service-account-key-in-a-production-js-file-and-how-6ee42010e638?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
