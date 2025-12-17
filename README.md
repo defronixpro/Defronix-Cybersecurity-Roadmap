@@ -922,6 +922,9 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How One WhatsApp Feature Got Me Two $500 Bounties in the Meta Bug Bounty Program](https://imshadab18.medium.com/how-one-whatsapp-feature-got-me-two-500-bounties-in-the-meta-bug-bounty-program-31ffb3ff12c9?source=rss------bug_bounty_writeup-5)
+- [GraphQL Security Deep Dive: Finding High‑Impact Bugs](https://medium.com/@afi0pchik/graphql-security-deep-dive-finding-high-impact-bugs-a6adedc6133c?source=rss------bug_bounty_writeup-5)
+- [SENSITIVE PII DATA FOUND OF PAYPAL, CEO ALEX CHRISS DATA BREACH LEAK WEBSITE CLOSED AS…](https://medium.com/@elelyonmusk/sensitive-pii-data-found-of-paypal-ceo-alex-chriss-data-breach-leak-website-closed-as-594d9a26fbd0?source=rss------bug_bounty_writeup-5)
 - [Breaking Payment Logic With Numbers: A Bug Bounty Story…](https://medium.com/@MuhammedAsfan/breaking-payment-logic-with-numbers-a-bug-bounty-story-091b3aa55256?source=rss------bug_bounty_writeup-5)
 - [The Night I Stumbled Into an Unprotected Hangfire Dashboard — And Why It Was Far More Dangerous…](https://medium.com/@anshubind89/the-night-i-stumbled-into-an-unprotected-hangfire-dashboard-and-why-it-was-far-more-dangerous-c8212005cf51?source=rss------bug_bounty_writeup-5)
 - [The Debug Log Left Behind — And How It Exposed the Inner Workings of a Major Automotive Platform](https://medium.com/@anshubind89/the-debug-log-left-behind-and-how-it-exposed-the-inner-workings-of-a-major-automotive-platform-97d1f09cadef?source=rss------bug_bounty_writeup-5)
@@ -939,9 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How i hacked a website just by looking at the source code](https://osintteam.blog/how-i-hacked-a-website-just-by-looking-at-the-source-code-90645f085736?source=rss------bug_bounty_writeup-5)
 - [The CGI Script That Should Have Stayed Hidden — How a Forgotten Diagnostic File Exposed an…](https://medium.com/@anshubind89/the-cgi-script-that-should-have-stayed-hidden-how-a-forgotten-diagnostic-file-exposed-an-46e9215743cd?source=rss------bug_bounty_writeup-5)
 - [⚡ The Reflected XSS Hidden Inside a Login Page — And How a Single Parameter Became a Security Weak…](https://medium.com/@anshubind89/the-reflected-xss-hidden-inside-a-login-page-and-how-a-single-parameter-became-a-security-weak-ad52a584292f?source=rss------bug_bounty_writeup-5)
-- [$25,000| Critical Vulnerability was Found on HackerOne](https://medium.com/@aminefarah802/25-000-critical-vulnerability-was-found-on-hackerone-ee1dd3b33ad5?source=rss------bug_bounty_writeup-5)
-- [Negative AddOn to Financial Flaw — Business Logic Vulnerability](https://vrushabhd.medium.com/negative-addon-to-financial-flaw-business-logic-vulnerability-ea40f269e173?source=rss------bug_bounty_writeup-5)
-- [CSRF vs JWT: The One Story That Finally Makes It Click](https://medium.com/@MuhammedAsfan/csrf-vs-jwt-the-one-story-that-finally-makes-it-click-16352ef67196?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
