@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Breaking Payment Logic With Numbers: A Bug Bounty Story…](https://medium.com/@MuhammedAsfan/breaking-payment-logic-with-numbers-a-bug-bounty-story-091b3aa55256?source=rss------bug_bounty_writeup-5)
 - [The Night I Stumbled Into an Unprotected Hangfire Dashboard — And Why It Was Far More Dangerous…](https://medium.com/@anshubind89/the-night-i-stumbled-into-an-unprotected-hangfire-dashboard-and-why-it-was-far-more-dangerous-c8212005cf51?source=rss------bug_bounty_writeup-5)
 - [The Debug Log Left Behind — And How It Exposed the Inner Workings of a Major Automotive Platform](https://medium.com/@anshubind89/the-debug-log-left-behind-and-how-it-exposed-the-inner-workings-of-a-major-automotive-platform-97d1f09cadef?source=rss------bug_bounty_writeup-5)
 - [Subdomain Roulette: How Forgotten Hosts Became My Golden Ticket to Admin Panels](https://infosecwriteups.com/subdomain-roulette-how-forgotten-hosts-became-my-golden-ticket-to-admin-panels-73c6aa17cac5?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [$25,000| Critical Vulnerability was Found on HackerOne](https://medium.com/@aminefarah802/25-000-critical-vulnerability-was-found-on-hackerone-ee1dd3b33ad5?source=rss------bug_bounty_writeup-5)
 - [Negative AddOn to Financial Flaw — Business Logic Vulnerability](https://vrushabhd.medium.com/negative-addon-to-financial-flaw-business-logic-vulnerability-ea40f269e173?source=rss------bug_bounty_writeup-5)
 - [CSRF vs JWT: The One Story That Finally Makes It Click](https://medium.com/@MuhammedAsfan/csrf-vs-jwt-the-one-story-that-finally-makes-it-click-16352ef67196?source=rss------bug_bounty_writeup-5)
-- [Bug Bounty Burnout and the Boredom of Repetitive Tasks](https://mokhansec.medium.com/bug-bounty-burnout-and-the-boredom-of-repetitive-tasks-dacda4dac71a?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
