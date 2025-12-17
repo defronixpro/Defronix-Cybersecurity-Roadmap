@@ -922,6 +922,11 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Call/Message anyone on Facebook directly, bypassing the message requests &lpar;$$$$+$$$$$&rpar;](https://infosecwriteups.com/call-message-anyone-on-facebook-directly-bypassing-the-message-request-c182055b1724?source=rss----7b722bfd1b8d---4)
+- [Discovering Cloud Misconfigurations with Google Dorks](https://infosecwriteups.com/discovering-cloud-misconfigurations-with-google-dorks-c683274abc90?source=rss----7b722bfd1b8d---4)
+- [The Unconventional OSINT: How Dark Web Tools Gave Me the Edge to Find a $ Bug ️‍♂️](https://infosecwriteups.com/the-unconventional-osint-how-dark-web-tools-gave-me-the-edge-to-find-a-bug-%EF%B8%8F-%EF%B8%8F-29397e2d6a1a?source=rss----7b722bfd1b8d---4)
+- [Who Wins in the 2026 Cybersecurity Job Market?](https://infosecwriteups.com/who-wins-in-the-2026-cybersecurity-job-market-ac96e409ebcb?source=rss----7b722bfd1b8d---4)
+- [Digital Forensics-[Ali Hadi — Mystery Hacked System Case]](https://infosecwriteups.com/digital-forensics-ali-hadi-mystery-hacked-system-case-24f3b6cb1a08?source=rss----7b722bfd1b8d---4)
 - [The Lazy Hunter’s Guide to Modat: Recon Smarter, Not Harder](https://medium.com/@hacker_might/the-lazy-hunters-guide-to-modat-recon-smarter-not-harder-4bc95bc2a577?source=rss------bug_bounty_writeup-5)
 - [How i hacked a website just by looking at the source code](https://osintteam.blog/how-i-hacked-a-website-just-by-looking-at-the-source-code-90645f085736?source=rss------bug_bounty_writeup-5)
 - [The CGI Script That Should Have Stayed Hidden — How a Forgotten Diagnostic File Exposed an…](https://medium.com/@anshubind89/the-cgi-script-that-should-have-stayed-hidden-how-a-forgotten-diagnostic-file-exposed-an-46e9215743cd?source=rss------bug_bounty_writeup-5)
@@ -936,11 +941,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How a Simple SSTI Turned Into $1,000 and RCE](https://infosecwriteups.com/how-a-simple-ssti-turned-into-1-000-and-rce-6d121fc4a55e?source=rss----7b722bfd1b8d---4)
 - [Why Monitoring Outbound Connections Is the Fastest Way to Detect a Compromised Linux Server](https://infosecwriteups.com/why-monitoring-outbound-connections-is-the-fastest-way-to-detect-a-compromised-linux-server-ef089c7a24a7?source=rss----7b722bfd1b8d---4)
 - [I Finally Accepted That I’m Not Everyone’s Cup of Tea — And That Changed Everything ☕](https://infosecwriteups.com/i-finally-accepted-that-im-not-everyone-s-cup-of-tea-and-that-changed-everything-db657f00b127?source=rss----7b722bfd1b8d---4)
-- [I Didn’t Hack Anything — The App Gave Me Admin Access by Itself](https://infosecwriteups.com/i-didnt-hack-anything-the-app-gave-me-admin-access-by-itself-532e72e92f44?source=rss----7b722bfd1b8d---4)
-- [Beyond Credentials: The Hidden Ecosystem of InfoStealers and the Log Economy](https://infosecwriteups.com/beyond-credentials-the-hidden-ecosystem-of-infostealers-and-the-log-economy-35dac21b2fbb?source=rss----7b722bfd1b8d---4)
-- [Command and Control &amp; Tunnelling via DNS](https://infosecwriteups.com/dns-tunneling-with-dnscat2-command-execution-over-dns-packets-a69970400bc4?source=rss----7b722bfd1b8d---4)
-- [Command and Control &amp; Tunnelling via ICMP](https://infosecwriteups.com/command-and-control-tunnelling-via-icmp-ad15f8afd233?source=rss----7b722bfd1b8d---4)
-- [Precious HTB Machine Walk-Though!](https://infosecwriteups.com/precious-htb-machine-walk-though-a64d23ab1640?source=rss----7b722bfd1b8d---4)
 - [How I discovered leaked Snowflake credentials for a Fortune 500 Manufacturing Company using…](https://medium.com/@tillson.galloway/how-i-discovered-leaked-snowflake-credentials-for-a-fortune-500-manufacturing-company-using-6adfdfcc3657?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
