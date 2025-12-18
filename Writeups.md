@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Why Most Bug Bounty Findings Come From Thinking, Not Tools](https://medium.com/meetcyber/why-most-bug-bounty-findings-come-from-thinking-not-tools-b955aa542090?source=rss------bug_bounty_writeup-5)
 - [Business Logic Bugs That Paid Big: How “Working as Intended” Broke Million-Dollar Systems](https://osintteam.blog/business-logic-bugs-that-paid-big-how-working-as-intended-broke-million-dollar-systems-6f4bd345659d?source=rss------bug_bounty_writeup-5)
 - [How One WhatsApp Feature Got Me Two $500 Bounties in the Meta Bug Bounty Program](https://imshadab18.medium.com/how-one-whatsapp-feature-got-me-two-500-bounties-in-the-meta-bug-bounty-program-31ffb3ff12c9?source=rss------bug_bounty_writeup-5)
 - [GraphQL Security Deep Dive: Finding High‑Impact Bugs](https://medium.com/@afi0pchik/graphql-security-deep-dive-finding-high-impact-bugs-a6adedc6133c?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [The Unconventional OSINT: How Dark Web Tools Gave Me the Edge to Find a $ Bug ️‍♂️](https://infosecwriteups.com/the-unconventional-osint-how-dark-web-tools-gave-me-the-edge-to-find-a-bug-%EF%B8%8F-%EF%B8%8F-29397e2d6a1a?source=rss----7b722bfd1b8d---4)
 - [The Lazy Hunter’s Guide to Modat: Recon Smarter, Not Harder](https://medium.com/@hacker_might/the-lazy-hunters-guide-to-modat-recon-smarter-not-harder-4bc95bc2a577?source=rss------bug_bounty_writeup-5)
 - [How i hacked a website just by looking at the source code](https://osintteam.blog/how-i-hacked-a-website-just-by-looking-at-the-source-code-90645f085736?source=rss------bug_bounty_writeup-5)
-- [The CGI Script That Should Have Stayed Hidden — How a Forgotten Diagnostic File Exposed an…](https://medium.com/@anshubind89/the-cgi-script-that-should-have-stayed-hidden-how-a-forgotten-diagnostic-file-exposed-an-46e9215743cd?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
