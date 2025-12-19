@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How I Found an Unauthenticated XXE That Allowed Arbitrary File Read in NASA](https://medium.com/@thomscoder/how-i-found-an-unauthenticated-xxe-that-allowed-arbitrary-file-read-in-nasa-bfffe24dc24e?source=rss------bug_bounty_writeup-5)
 - [Information disclosure, but not in the way you might expect](https://medium.com/@rajveer_0101/information-disclosure-but-not-in-the-way-you-might-expect-a914479e06cc?source=rss------bug_bounty_writeup-5)
 - [Outlawed / Banned from the Fraudulent Bug Bounty World: The Story of Cyber Kalki](https://medium.com/@elelyonmusk/outlawed-banned-from-the-fraudulent-bug-bounty-world-the-story-of-cyber-kalki-a73028b0959d?source=rss------bug_bounty_writeup-5)
 - [The Open Redirect That Could Turn a Trusted URL Into a Weapon — A Bug Hunting Story](https://medium.com/@anshubind89/the-open-redirect-that-could-turn-a-trusted-url-into-a-weapon-a-bug-hunting-story-c01e47e5ab3a?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How One WhatsApp Feature Got Me Two $500 Bounties in the Meta Bug Bounty Program](https://imshadab18.medium.com/how-one-whatsapp-feature-got-me-two-500-bounties-in-the-meta-bug-bounty-program-31ffb3ff12c9?source=rss------bug_bounty_writeup-5)
 - [GraphQL Security Deep Dive: Finding High‑Impact Bugs](https://medium.com/@afi0pchik/graphql-security-deep-dive-finding-high-impact-bugs-a6adedc6133c?source=rss------bug_bounty_writeup-5)
 - [SENSITIVE PII DATA FOUND OF PAYPAL, CEO ALEX CHRISS DATA BREACH LEAK WEBSITE CLOSED AS…](https://medium.com/@elelyonmusk/sensitive-pii-data-found-of-paypal-ceo-alex-chriss-data-breach-leak-website-closed-as-594d9a26fbd0?source=rss------bug_bounty_writeup-5)
-- [Breaking Payment Logic With Numbers: A Bug Bounty Story…](https://medium.com/@MuhammedAsfan/breaking-payment-logic-with-numbers-a-bug-bounty-story-091b3aa55256?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
