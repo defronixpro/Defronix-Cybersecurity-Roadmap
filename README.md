@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [The Open Redirect That Could Turn a Trusted URL Into a Weapon — A Bug Hunting Story](https://medium.com/@anshubind89/the-open-redirect-that-could-turn-a-trusted-url-into-a-weapon-a-bug-hunting-story-c01e47e5ab3a?source=rss------bug_bounty_writeup-5)
+- [The phpinfo&lpar;&rpar; Page That Shouldn’t Have Been There — And How It Exposed NykaaMan’s Internal…](https://medium.com/@anshubind89/the-phpinfo-page-that-shouldnt-have-been-there-and-how-it-exposed-nykaaman-s-internal-ee5f6e568159?source=rss------bug_bounty_writeup-5)
 - [HTB — EscapeTwo Writeup: Active Directory Attacks in Windows Environment](https://infosecwriteups.com/htb-escapetwo-writeup-active-directory-attacks-in-windows-environment-d4ee339cb11a?source=rss----7b722bfd1b8d---4)
 - [Hack The Box: Legacy Machine Writeup](https://infosecwriteups.com/hack-the-box-legacy-machine-writeup-166c93666fd2?source=rss----7b722bfd1b8d---4)
 - [One “Harmless” Parameter, Full Account Takeover — My Favorite Bug Bounty Find](https://infosecwriteups.com/one-harmless-parameter-full-account-takeover-my-favorite-bug-bounty-find-1e4c9cf7c17d?source=rss----7b722bfd1b8d---4)
@@ -940,8 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Breaking Payment Logic With Numbers: A Bug Bounty Story…](https://medium.com/@MuhammedAsfan/breaking-payment-logic-with-numbers-a-bug-bounty-story-091b3aa55256?source=rss------bug_bounty_writeup-5)
 - [The Night I Stumbled Into an Unprotected Hangfire Dashboard — And Why It Was Far More Dangerous…](https://medium.com/@anshubind89/the-night-i-stumbled-into-an-unprotected-hangfire-dashboard-and-why-it-was-far-more-dangerous-c8212005cf51?source=rss------bug_bounty_writeup-5)
 - [The Debug Log Left Behind — And How It Exposed the Inner Workings of a Major Automotive Platform](https://medium.com/@anshubind89/the-debug-log-left-behind-and-how-it-exposed-the-inner-workings-of-a-major-automotive-platform-97d1f09cadef?source=rss------bug_bounty_writeup-5)
-- [The Lazy Hunter’s Guide to Modat: Recon Smarter, Not Harder](https://medium.com/@hacker_might/the-lazy-hunters-guide-to-modat-recon-smarter-not-harder-4bc95bc2a577?source=rss------bug_bounty_writeup-5)
-- [How i hacked a website just by looking at the source code](https://osintteam.blog/how-i-hacked-a-website-just-by-looking-at-the-source-code-90645f085736?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
