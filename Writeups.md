@@ -12,7 +12,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Subdomain Roulette: How Forgotten Hosts Became My Golden Ticket to Admin Panels](https://infosecwriteups.com/subdomain-roulette-how-forgotten-hosts-became-my-golden-ticket-to-admin-panels-73c6aa17cac5?source=rss----7b722bfd1b8d---4)
 - [Agentic AI Red Teaming: The Hottest Cybersecurity Career of 2026 &lpar;Beginner-Friendly Guide&rpar;](https://infosecwriteups.com/agentic-ai-red-teaming-the-hottest-cybersecurity-career-of-2026-beginner-friendly-guide-ed2a2aa4812f?source=rss----7b722bfd1b8d---4)
 - [React2Shell: CVE-2025–55182 | TryHackMe Write-Up](https://infosecwriteups.com/react2shell-cve-2025-55182-tryhackme-write-up-9b2fa332ca8e?source=rss----7b722bfd1b8d---4)
-- [How I Hacked an Entrepreneur](https://infosecwriteups.com/how-i-hacked-an-entrepreneur-19d270a62c5c?source=rss----7b722bfd1b8d---4)
+- [How to Hack an Entrepreneur](https://infosecwriteups.com/how-i-hacked-an-entrepreneur-19d270a62c5c?source=rss----7b722bfd1b8d---4)
 - [The Return of The Luhn Algorithm](https://infosecwriteups.com/the-return-of-the-luhn-algorithm-542d3d951576?source=rss----7b722bfd1b8d---4)
 - [Known-Plaintext Attack on PHP-Proxy: From Broken Encryption to FastCGI RCE](https://infosecwriteups.com/known-plaintext-attack-on-php-proxy-from-broken-encryption-to-fastcgi-rce-4942523c7955?source=rss----7b722bfd1b8d---4)
 - [HackSmarter Arasaka AD Lab Writeup](https://infosecwriteups.com/hacksmarter-arasaka-ad-lab-writeup-b57d7e0b5e48?source=rss----7b722bfd1b8d---4)
