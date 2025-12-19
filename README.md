@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Information disclosure, but not in the way you might expect](https://medium.com/@rajveer_0101/information-disclosure-but-not-in-the-way-you-might-expect-a914479e06cc?source=rss------bug_bounty_writeup-5)
 - [Outlawed / Banned from the Fraudulent Bug Bounty World: The Story of Cyber Kalki](https://medium.com/@elelyonmusk/outlawed-banned-from-the-fraudulent-bug-bounty-world-the-story-of-cyber-kalki-a73028b0959d?source=rss------bug_bounty_writeup-5)
 - [The Open Redirect That Could Turn a Trusted URL Into a Weapon — A Bug Hunting Story](https://medium.com/@anshubind89/the-open-redirect-that-could-turn-a-trusted-url-into-a-weapon-a-bug-hunting-story-c01e47e5ab3a?source=rss------bug_bounty_writeup-5)
 - [The phpinfo&lpar;&rpar; Page That Shouldn’t Have Been There — And How It Exposed NykaaMan’s Internal…](https://medium.com/@anshubind89/the-phpinfo-page-that-shouldnt-have-been-there-and-how-it-exposed-nykaaman-s-internal-ee5f6e568159?source=rss------bug_bounty_writeup-5)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [GraphQL Security Deep Dive: Finding High‑Impact Bugs](https://medium.com/@afi0pchik/graphql-security-deep-dive-finding-high-impact-bugs-a6adedc6133c?source=rss------bug_bounty_writeup-5)
 - [SENSITIVE PII DATA FOUND OF PAYPAL, CEO ALEX CHRISS DATA BREACH LEAK WEBSITE CLOSED AS…](https://medium.com/@elelyonmusk/sensitive-pii-data-found-of-paypal-ceo-alex-chriss-data-breach-leak-website-closed-as-594d9a26fbd0?source=rss------bug_bounty_writeup-5)
 - [Breaking Payment Logic With Numbers: A Bug Bounty Story…](https://medium.com/@MuhammedAsfan/breaking-payment-logic-with-numbers-a-bug-bounty-story-091b3aa55256?source=rss------bug_bounty_writeup-5)
-- [The Night I Stumbled Into an Unprotected Hangfire Dashboard — And Why It Was Far More Dangerous…](https://medium.com/@anshubind89/the-night-i-stumbled-into-an-unprotected-hangfire-dashboard-and-why-it-was-far-more-dangerous-c8212005cf51?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
