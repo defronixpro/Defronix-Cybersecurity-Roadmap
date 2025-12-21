@@ -1,6 +1,8 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [The Day I Found a Spring Boot Actuator Endpoint Exposed in Production — And How It Nearly…](https://medium.com/@anshubind89/the-day-i-found-a-spring-boot-actuator-endpoint-exposed-in-production-and-how-it-nearly-7ce0e8fb7b0a?source=rss------bug_bounty_writeup-5)
+- [The Night I Found a Public Log Directory Exposing Nearly a Gigabyte of Sensitive Data](https://medium.com/@anshubind89/the-night-i-found-a-public-log-directory-exposing-nearly-a-gigabyte-of-sensitive-data-9b05e2eda2ce?source=rss------bug_bounty_writeup-5)
 - [From Broken Access Control to Mass Account Takeover](https://medium.com/@islem.meghnine/from-broken-access-control-to-mass-account-takeover-88d599489f45?source=rss------bug_bounty_writeup-5)
 - [Securing AI Agents with Information Flow Control &lpar;Part II&rpar;](https://infosecwriteups.com/securing-ai-agents-with-information-flow-control-part-ii-d857e8937253?source=rss----7b722bfd1b8d---4)
 - [An IDOR that allows user information disclosure](https://shahdmk99.medium.com/an-idor-that-allows-user-information-disclosure-36fd7643f31b?source=rss------bug_bounty_writeup-5)
@@ -19,8 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [My OSCP+ Journey — Part 2: Success After Struggle, How I Cracked the OSCP+](https://infosecwriteups.com/my-oscp-journey-part-2-success-after-struggle-how-i-cracked-the-oscp-cffa09914051?source=rss----7b722bfd1b8d---4)
 - [My OSCP+ Journey — Part 1: Failure That Taught Me More Than Success](https://infosecwriteups.com/my-oscp-journey-part-1-failure-that-taught-me-more-than-success-09870c31e54d?source=rss----7b722bfd1b8d---4)
 - [Why Most Bug Bounty Findings Come From Thinking, Not Tools](https://meetcyber.net/why-most-bug-bounty-findings-come-from-thinking-not-tools-b955aa542090?source=rss------bug_bounty_writeup-5)
-- [Business Logic Bugs That Paid Big: How “Working as Intended” Broke Million-Dollar Systems](https://osintteam.blog/business-logic-bugs-that-paid-big-how-working-as-intended-broke-million-dollar-systems-6f4bd345659d?source=rss------bug_bounty_writeup-5)
-- [How One WhatsApp Feature Got Me Two $500 Bounties in the Meta Bug Bounty Program](https://imshadab18.medium.com/how-one-whatsapp-feature-got-me-two-500-bounties-in-the-meta-bug-bounty-program-31ffb3ff12c9?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
