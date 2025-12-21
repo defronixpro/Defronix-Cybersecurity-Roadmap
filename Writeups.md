@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [From Broken Access Control to Mass Account Takeover](https://medium.com/@islem.meghnine/from-broken-access-control-to-mass-account-takeover-88d599489f45?source=rss------bug_bounty_writeup-5)
 - [Securing AI Agents with Information Flow Control &lpar;Part II&rpar;](https://infosecwriteups.com/securing-ai-agents-with-information-flow-control-part-ii-d857e8937253?source=rss----7b722bfd1b8d---4)
 - [An IDOR that allows user information disclosure](https://shahdmk99.medium.com/an-idor-that-allows-user-information-disclosure-36fd7643f31b?source=rss------bug_bounty_writeup-5)
 - [How I Found an Unauthenticated XXE That Allowed Arbitrary File Read in NASA](https://medium.com/@thomscoder/how-i-found-an-unauthenticated-xxe-that-allowed-arbitrary-file-read-in-nasa-bfffe24dc24e?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Why Most Bug Bounty Findings Come From Thinking, Not Tools](https://meetcyber.net/why-most-bug-bounty-findings-come-from-thinking-not-tools-b955aa542090?source=rss------bug_bounty_writeup-5)
 - [Business Logic Bugs That Paid Big: How “Working as Intended” Broke Million-Dollar Systems](https://osintteam.blog/business-logic-bugs-that-paid-big-how-working-as-intended-broke-million-dollar-systems-6f4bd345659d?source=rss------bug_bounty_writeup-5)
 - [How One WhatsApp Feature Got Me Two $500 Bounties in the Meta Bug Bounty Program](https://imshadab18.medium.com/how-one-whatsapp-feature-got-me-two-500-bounties-in-the-meta-bug-bounty-program-31ffb3ff12c9?source=rss------bug_bounty_writeup-5)
-- [SENSITIVE PII DATA FOUND OF PAYPAL, CEO ALEX CHRISS DATA BREACH LEAK WEBSITE CLOSED AS…](https://medium.com/@elelyonmusk/sensitive-pii-data-found-of-paypal-ceo-alex-chriss-data-breach-leak-website-closed-as-594d9a26fbd0?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
