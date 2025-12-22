@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [HTB University CTF 2025 All web challenges walkthrough](https://medium.com/@0xNayelx/htb-university-ctf-2025-all-web-challenges-walkthrough-c510d44ca944?source=rss------bug_bounty_writeup-5)
 - [The Day I Found a Spring Boot Actuator Endpoint Exposed in Production — And How It Nearly…](https://medium.com/@anshubind89/the-day-i-found-a-spring-boot-actuator-endpoint-exposed-in-production-and-how-it-nearly-7ce0e8fb7b0a?source=rss------bug_bounty_writeup-5)
 - [The Night I Found a Public Log Directory Exposing Nearly a Gigabyte of Sensitive Data](https://medium.com/@anshubind89/the-night-i-found-a-public-log-directory-exposing-nearly-a-gigabyte-of-sensitive-data-9b05e2eda2ce?source=rss------bug_bounty_writeup-5)
 - [From Broken Access Control to Mass Account Takeover](https://medium.com/@islem.meghnine/from-broken-access-control-to-mass-account-takeover-88d599489f45?source=rss------bug_bounty_writeup-5)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [HTB — Artificial Writeup: TensorFlow to Root](https://infosecwriteups.com/htb-artificial-writeup-tensorflow-to-root-50ce32c56ae2?source=rss----7b722bfd1b8d---4)
 - [My OSCP+ Journey — Part 2: Success After Struggle, How I Cracked the OSCP+](https://infosecwriteups.com/my-oscp-journey-part-2-success-after-struggle-how-i-cracked-the-oscp-cffa09914051?source=rss----7b722bfd1b8d---4)
 - [My OSCP+ Journey — Part 1: Failure That Taught Me More Than Success](https://infosecwriteups.com/my-oscp-journey-part-1-failure-that-taught-me-more-than-success-09870c31e54d?source=rss----7b722bfd1b8d---4)
-- [Why Most Bug Bounty Findings Come From Thinking, Not Tools](https://meetcyber.net/why-most-bug-bounty-findings-come-from-thinking-not-tools-b955aa542090?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
