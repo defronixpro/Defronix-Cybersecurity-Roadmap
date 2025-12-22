@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [️ How I Hunt Race Conditions: Every Case, One Hot Wheels Mustang at a Time](https://medium.com/@MuhammedAsfan/%EF%B8%8F-how-i-hunt-race-conditions-every-case-one-hot-wheels-mustang-at-a-time-90c6bb5dbb29?source=rss------bug_bounty_writeup-5)
 - [HTB University CTF 2025 All web challenges walkthrough](https://medium.com/@0xNayelx/htb-university-ctf-2025-all-web-challenges-walkthrough-c510d44ca944?source=rss------bug_bounty_writeup-5)
 - [The Day I Found a Spring Boot Actuator Endpoint Exposed in Production — And How It Nearly…](https://medium.com/@anshubind89/the-day-i-found-a-spring-boot-actuator-endpoint-exposed-in-production-and-how-it-nearly-7ce0e8fb7b0a?source=rss------bug_bounty_writeup-5)
 - [The Night I Found a Public Log Directory Exposing Nearly a Gigabyte of Sensitive Data](https://medium.com/@anshubind89/the-night-i-found-a-public-log-directory-exposing-nearly-a-gigabyte-of-sensitive-data-9b05e2eda2ce?source=rss------bug_bounty_writeup-5)
@@ -932,7 +933,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Information disclosure, but not in the way you might expect](https://medium.com/@rajveer_0101/information-disclosure-but-not-in-the-way-you-might-expect-a914479e06cc?source=rss------bug_bounty_writeup-5)
 - [Outlawed / Banned from the Fraudulent Bug Bounty World: The Story of Cyber Kalki](https://medium.com/@elelyonmusk/outlawed-banned-from-the-fraudulent-bug-bounty-world-the-story-of-cyber-kalki-a73028b0959d?source=rss------bug_bounty_writeup-5)
 - [The Open Redirect That Could Turn a Trusted URL Into a Weapon — A Bug Hunting Story](https://medium.com/@anshubind89/the-open-redirect-that-could-turn-a-trusted-url-into-a-weapon-a-bug-hunting-story-c01e47e5ab3a?source=rss------bug_bounty_writeup-5)
-- [The phpinfo&lpar;&rpar; Page That Shouldn’t Have Been There — And How It Exposed NykaaMan’s Internal…](https://medium.com/@anshubind89/the-phpinfo-page-that-shouldnt-have-been-there-and-how-it-exposed-nykaaman-s-internal-ee5f6e568159?source=rss------bug_bounty_writeup-5)
 - [HTB — EscapeTwo Writeup: Active Directory Attacks in Windows Environment](https://infosecwriteups.com/htb-escapetwo-writeup-active-directory-attacks-in-windows-environment-d4ee339cb11a?source=rss----7b722bfd1b8d---4)
 - [Hack The Box: Legacy Machine Writeup](https://infosecwriteups.com/hack-the-box-legacy-machine-writeup-166c93666fd2?source=rss----7b722bfd1b8d---4)
 - [One “Harmless” Parameter, Full Account Takeover — My Favorite Bug Bounty Find](https://infosecwriteups.com/one-harmless-parameter-full-account-takeover-my-favorite-bug-bounty-find-1e4c9cf7c17d?source=rss----7b722bfd1b8d---4)
@@ -946,7 +946,17 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
 - [How to backup and restore the Windows Registry](https://www.bleepingcomputer.com/tutorials/how-to-backup-and-restore-the-windows-registry/)
+- [How To Fix Error: Externally-Managed-Environment In Python &lpar;Kali Linux&rpar;](https://technicalnavigator.in/how-to-fix-error-externally-managed-environment-in-python-kali-linux/)
+- [Understanding Systemctl Command in Linux &lpar;Practical&rpar;](https://technicalnavigator.in/understanding-systemctl-command-in-linux-practical/)
+- [Macros in docm &amp; Linux memory dump| Hack The Boo  Challanges](https://technicalnavigator.in/macros-in-docm-linux-memory-dump-hack-the-boo-challanges/)
+- [Android Apps debugging |  Frida, JADX, Genymotion](https://technicalnavigator.in/android-apps-debugging-frida-jadx-genymotion/)
+- [MouseServer | wifimouse – Windows/ Linux](https://technicalnavigator.in/mouseserver-wifimouse-windows-linux/)
+- [FFUF fuzzer | web-application penetration-testing](https://technicalnavigator.in/ffuf-fuzzer-web-application-penetration-testing/)
 - [How to open a Windows 11 Command Prompt as Administrator](https://www.bleepingcomputer.com/tutorials/how-to-open-a-windows-11-command-prompt-as-administrator/)
+- [Classes-Objects &amp; Deserialization bug](https://technicalnavigator.in/classes-objects-deserialization-bug/)
+- [Loki Tool | Multhreading Over Sockets in C](https://technicalnavigator.in/loki-tool-multhreading-over-sockets-in-c/)
+- [Egghunter | NASM | C prototype](https://technicalnavigator.in/egghunter-nasm-c-prototype/)
+- [TELNET &amp; FTP Analysis](https://technicalnavigator.in/telnet-ftp-analysis/)
 - [How to make the Start menu full screen in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-make-the-start-menu-full-screen-in-windows-10/)
 - [How to install the Microsoft Visual C++ 2015 Runtime](https://www.bleepingcomputer.com/tutorials/how-to-install-the-microsoft-visual-c-2015-runtime/)
 - [How to open an elevated PowerShell Admin prompt in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-open-an-elevated-powershell-admin-prompt-in-windows-10/)
