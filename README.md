@@ -922,6 +922,9 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [The Day I Found a Prometheus Node Exporter Exposed to the Internet — And Why It Revealed More…](https://medium.com/@anshubind89/the-day-i-found-a-prometheus-node-exporter-exposed-to-the-internet-and-why-it-revealed-more-1841acd4496b?source=rss------bug_bounty_writeup-5)
+- [The Night I Found a Backup ZIP File Sitting in Plain Sight — And Why It Could Have Exposed Far…](https://medium.com/@anshubind89/the-night-i-found-a-backup-zip-file-sitting-in-plain-sight-and-why-it-could-have-exposed-far-5edfb2fdabde?source=rss------bug_bounty_writeup-5)
+- [The Danger of Simplicity: How a Default Credential Led to Full Account Access](https://medium.com/@xelcezeri/the-danger-of-simplicity-how-a-default-credential-led-to-full-account-access-c47afe8c2724?source=rss------bug_bounty_writeup-5)
 - [Breaking OAuth 2.0: Vulnerabilities &amp; Exploitation Guide](https://osintteam.blog/breaking-oauth-2-0-vulnerabilities-exploitation-guide-d8b5ef009370?source=rss------bug_bounty_writeup-5)
 - [Image Upload Bypass Leading to Stored XSS](https://cyxbugs.medium.com/image-upload-bypass-leading-to-stored-xss-546fd6db58b5?source=rss------bug_bounty_writeup-5)
 - [️ How I Hunt Race Conditions: Every Case, One Hot Wheels Mustang at a Time](https://medium.com/@MuhammedAsfan/%EF%B8%8F-how-i-hunt-race-conditions-every-case-one-hot-wheels-mustang-at-a-time-90c6bb5dbb29?source=rss------bug_bounty_writeup-5)
@@ -930,9 +933,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [The Night I Found a Public Log Directory Exposing Nearly a Gigabyte of Sensitive Data](https://medium.com/@anshubind89/the-night-i-found-a-public-log-directory-exposing-nearly-a-gigabyte-of-sensitive-data-9b05e2eda2ce?source=rss------bug_bounty_writeup-5)
 - [From Broken Access Control to Mass Account Takeover](https://medium.com/@islem.meghnine/from-broken-access-control-to-mass-account-takeover-88d599489f45?source=rss------bug_bounty_writeup-5)
 - [Securing AI Agents with Information Flow Control &lpar;Part II&rpar;](https://infosecwriteups.com/securing-ai-agents-with-information-flow-control-part-ii-d857e8937253?source=rss----7b722bfd1b8d---4)
-- [An IDOR that allows user information disclosure](https://shahdmk99.medium.com/an-idor-that-allows-user-information-disclosure-36fd7643f31b?source=rss------bug_bounty_writeup-5)
-- [How I Found an Unauthenticated XXE That Allowed Arbitrary File Read in NASA](https://medium.com/@thomscoder/how-i-found-an-unauthenticated-xxe-that-allowed-arbitrary-file-read-in-nasa-bfffe24dc24e?source=rss------bug_bounty_writeup-5)
-- [Information disclosure, but not in the way you might expect](https://medium.com/@rajveer_0101/information-disclosure-but-not-in-the-way-you-might-expect-a914479e06cc?source=rss------bug_bounty_writeup-5)
 - [HTB — EscapeTwo Writeup: Active Directory Attacks in Windows Environment](https://infosecwriteups.com/htb-escapetwo-writeup-active-directory-attacks-in-windows-environment-d4ee339cb11a?source=rss----7b722bfd1b8d---4)
 - [Hack The Box: Legacy Machine Writeup](https://infosecwriteups.com/hack-the-box-legacy-machine-writeup-166c93666fd2?source=rss----7b722bfd1b8d---4)
 - [One “Harmless” Parameter, Full Account Takeover — My Favorite Bug Bounty Find](https://infosecwriteups.com/one-harmless-parameter-full-account-takeover-my-favorite-bug-bounty-find-1e4c9cf7c17d?source=rss----7b722bfd1b8d---4)
