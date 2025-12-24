@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Hunting the Unseen: My Journey with Blind XSS &lpar;Case Studies&rpar;](https://medium.com/@xelcezeri/hunting-the-unseen-my-journey-with-blind-xss-case-studies-abf1c8c8fac9?source=rss------bug_bounty_writeup-5)
+- [Understanding CVEs: A Complete Guide to Bug Hunting and Reporting](https://medium.com/@sachinpv2004/understanding-cves-a-complete-guide-to-bug-hunting-and-reporting-63f470b885f5?source=rss------bug_bounty_writeup-5)
 - [️ Let’s Learn: Missing Security Headers &amp; CSRF &lpar;Beginner‑Friendly, Guide&rpar;](https://medium.com/@MuhammedAsfan/%EF%B8%8F-lets-learn-missing-security-headers-csrf-beginner-friendly-guide-a942a3d1d063?source=rss------bug_bounty_writeup-5)
 - [PortSwigger Web Security Academy: All Information Disclosure Labs Solved &lpar;Full Walkthrough&rpar;](https://medium.com/@blueorionn/portswigger-web-security-academy-all-information-disclosure-labs-solved-full-walkthrough-97f9c4c95edc?source=rss------bug_bounty_writeup-5)
 - [The Day I Found a Prometheus Node Exporter Exposed to the Internet — And Why It Revealed More…](https://medium.com/@anshubind89/the-day-i-found-a-prometheus-node-exporter-exposed-to-the-internet-and-why-it-revealed-more-1841acd4496b?source=rss------bug_bounty_writeup-5)
@@ -930,8 +932,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Breaking OAuth 2.0: Vulnerabilities &amp; Exploitation Guide](https://osintteam.blog/breaking-oauth-2-0-vulnerabilities-exploitation-guide-d8b5ef009370?source=rss------bug_bounty_writeup-5)
 - [Image Upload Bypass Leading to Stored XSS](https://cyxbugs.medium.com/image-upload-bypass-leading-to-stored-xss-546fd6db58b5?source=rss------bug_bounty_writeup-5)
 - [️ How I Hunt Race Conditions: Every Case, One Hot Wheels Mustang at a Time](https://medium.com/@MuhammedAsfan/%EF%B8%8F-how-i-hunt-race-conditions-every-case-one-hot-wheels-mustang-at-a-time-90c6bb5dbb29?source=rss------bug_bounty_writeup-5)
-- [HTB University CTF 2025 All web challenges walkthrough](https://medium.com/@0xNayelx/htb-university-ctf-2025-all-web-challenges-walkthrough-c510d44ca944?source=rss------bug_bounty_writeup-5)
-- [The Day I Found a Spring Boot Actuator Endpoint Exposed in Production — And How It Nearly…](https://medium.com/@anshubind89/the-day-i-found-a-spring-boot-actuator-endpoint-exposed-in-production-and-how-it-nearly-7ce0e8fb7b0a?source=rss------bug_bounty_writeup-5)
 - [Securing AI Agents with Information Flow Control &lpar;Part II&rpar;](https://infosecwriteups.com/securing-ai-agents-with-information-flow-control-part-ii-d857e8937253?source=rss----7b722bfd1b8d---4)
 - [HTB — EscapeTwo Writeup: Active Directory Attacks in Windows Environment](https://infosecwriteups.com/htb-escapetwo-writeup-active-directory-attacks-in-windows-environment-d4ee339cb11a?source=rss----7b722bfd1b8d---4)
 - [Hack The Box: Legacy Machine Writeup](https://infosecwriteups.com/hack-the-box-legacy-machine-writeup-166c93666fd2?source=rss----7b722bfd1b8d---4)
