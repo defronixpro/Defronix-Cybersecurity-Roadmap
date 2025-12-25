@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How a Simple LFI Turned Into Full Root RCE](https://medium.com/@Af4himi/how-a-simple-lfi-turned-into-full-root-rce-b8da5c71b4b3?source=rss------bug_bounty_writeup-5)
 - [The Day I Found a Google Sheets API Key Hidden in Plain Sight — Inside a Public JavaScript File](https://medium.com/@anshubind89/the-day-i-found-a-google-sheets-api-key-hidden-in-plain-sight-inside-a-public-javascript-file-45795be4f51c?source=rss------bug_bounty_writeup-5)
 - [The Night I Discovered a Production Server Hiding Behind an Exposed IP — And Why It Mattered…](https://medium.com/@anshubind89/the-night-i-discovered-a-production-server-hiding-behind-an-exposed-ip-and-why-it-mattered-e0f3009cdd51?source=rss------bug_bounty_writeup-5)
 - [Hunting the Unseen: My Journey with Blind XSS &lpar;Case Studies&rpar;](https://medium.com/@xelcezeri/hunting-the-unseen-my-journey-with-blind-xss-case-studies-abf1c8c8fac9?source=rss------bug_bounty_writeup-5)
@@ -931,7 +932,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [The Day I Found a Prometheus Node Exporter Exposed to the Internet — And Why It Revealed More…](https://medium.com/@anshubind89/the-day-i-found-a-prometheus-node-exporter-exposed-to-the-internet-and-why-it-revealed-more-1841acd4496b?source=rss------bug_bounty_writeup-5)
 - [The Night I Found a Backup ZIP File Sitting in Plain Sight — And Why It Could Have Exposed Far…](https://medium.com/@anshubind89/the-night-i-found-a-backup-zip-file-sitting-in-plain-sight-and-why-it-could-have-exposed-far-5edfb2fdabde?source=rss------bug_bounty_writeup-5)
 - [The Danger of Simplicity: How a Default Credential Led to Full Account Access](https://medium.com/@xelcezeri/the-danger-of-simplicity-how-a-default-credential-led-to-full-account-access-c47afe8c2724?source=rss------bug_bounty_writeup-5)
-- [Breaking OAuth 2.0: Vulnerabilities &amp; Exploitation Guide](https://osintteam.blog/breaking-oauth-2-0-vulnerabilities-exploitation-guide-d8b5ef009370?source=rss------bug_bounty_writeup-5)
 - [Securing AI Agents with Information Flow Control &lpar;Part II&rpar;](https://infosecwriteups.com/securing-ai-agents-with-information-flow-control-part-ii-d857e8937253?source=rss----7b722bfd1b8d---4)
 - [HTB — EscapeTwo Writeup: Active Directory Attacks in Windows Environment](https://infosecwriteups.com/htb-escapetwo-writeup-active-directory-attacks-in-windows-environment-d4ee339cb11a?source=rss----7b722bfd1b8d---4)
 - [Hack The Box: Legacy Machine Writeup](https://infosecwriteups.com/hack-the-box-legacy-machine-writeup-166c93666fd2?source=rss----7b722bfd1b8d---4)
