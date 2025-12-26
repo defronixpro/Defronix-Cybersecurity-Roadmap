@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Breaking Out with ../: A Simple Guide to Path Traversal Bugs](https://medium.com/@MuhammedAsfan/breaking-out-with-a-simple-guide-to-path-traversal-bugs-fafbc2508496?source=rss------bug_bounty_writeup-5)
 - [Breaking The Registration Flow : A Pre-account Takeover Vulnerability](https://meetcyber.net/breaking-the-registration-flow-a-pre-account-takeover-vulnerability-6cd95414148a?source=rss------bug_bounty_writeup-5)
 - [The Windows Event IDs Every Cybersecurity Professional Must Know](https://infosecwriteups.com/the-windows-event-ids-every-cybersecurity-professional-must-know-5003c9543a89?source=rss----7b722bfd1b8d---4)
 - [From SSRF to RCE: A 7-Step Chain Against PostHog](https://infosecwriteups.com/from-ssrf-to-rce-a-7-step-chain-against-posthog-d0954b3f26b0?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Hunting the Unseen: My Journey with Blind XSS &lpar;Case Studies&rpar;](https://medium.com/@xelcezeri/hunting-the-unseen-my-journey-with-blind-xss-case-studies-abf1c8c8fac9?source=rss------bug_bounty_writeup-5)
 - [Understanding CVEs: A Complete Guide to Bug Hunting and Reporting](https://medium.com/@sachinpv2004/understanding-cves-a-complete-guide-to-bug-hunting-and-reporting-63f470b885f5?source=rss------bug_bounty_writeup-5)
 - [️ Let’s Learn: Missing Security Headers &amp; CSRF &lpar;Beginner‑Friendly, Guide&rpar;](https://medium.com/@MuhammedAsfan/%EF%B8%8F-lets-learn-missing-security-headers-csrf-beginner-friendly-guide-a942a3d1d063?source=rss------bug_bounty_writeup-5)
-- [PortSwigger Web Security Academy: All Information Disclosure Labs Solved &lpar;Full Walkthrough&rpar;](https://medium.com/@blueorionn/portswigger-web-security-academy-all-information-disclosure-labs-solved-full-walkthrough-97f9c4c95edc?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
