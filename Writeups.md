@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Account Takeover via IDOR](https://medium.com/@xelcezeri/account-takeover-via-idor-71b24946bdf7?source=rss------bug_bounty_writeup-5)
 - [$100 bounty — XSS &amp; Input Validation](https://infosecwriteups.com/100-bounty-xss-input-validation-1ccfb35c5e1f?source=rss----7b722bfd1b8d---4)
 - [I Didn’t Hack You. You Posted Everything.](https://infosecwriteups.com/i-didnt-hack-you-you-posted-everything-4d6bae509815?source=rss----7b722bfd1b8d---4)
 - [BankGPT TryHackMe Writeup Walkthrough](https://infosecwriteups.com/bankgpt-tryhackme-writeup-walkthrough-e5457594887b?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [The Night I Discovered a Production Server Hiding Behind an Exposed IP — And Why It Mattered…](https://medium.com/@anshubind89/the-night-i-discovered-a-production-server-hiding-behind-an-exposed-ip-and-why-it-mattered-e0f3009cdd51?source=rss------bug_bounty_writeup-5)
 - [Hunting the Unseen: My Journey with Blind XSS &lpar;Case Studies&rpar;](https://medium.com/@xelcezeri/hunting-the-unseen-my-journey-with-blind-xss-case-studies-abf1c8c8fac9?source=rss------bug_bounty_writeup-5)
 - [Understanding CVEs: A Complete Guide to Bug Hunting and Reporting](https://medium.com/@sachinpv2004/understanding-cves-a-complete-guide-to-bug-hunting-and-reporting-63f470b885f5?source=rss------bug_bounty_writeup-5)
-- [️ Let’s Learn: Missing Security Headers &amp; CSRF &lpar;Beginner‑Friendly, Guide&rpar;](https://medium.com/@MuhammedAsfan/%EF%B8%8F-lets-learn-missing-security-headers-csrf-beginner-friendly-guide-a942a3d1d063?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
