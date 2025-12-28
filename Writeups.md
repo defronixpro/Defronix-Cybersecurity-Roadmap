@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [From Reverse DNS to Super Admin: How I Earned $7,500 Finding an Exposed Admin Panel](https://medium.com/@DarkyOS/from-reverse-dns-to-super-admin-how-i-earned-7-500-finding-an-exposed-admin-panel-22500c65fe27?source=rss------bug_bounty_writeup-5)
 - [Understanding PII and Initial Discovery Techniques &lpar;Part 1/3&rpar;](https://medium.com/@cybersecplayground/understanding-pii-and-initial-discovery-techniques-part-1-3-417cfac5b050?source=rss------bug_bounty_writeup-5)
 - [The Illusion of Client-Side Security](https://0wnr.medium.com/the-illusion-of-client-side-security-ceaf7b4dc3e5?source=rss------bug_bounty_writeup-5)
 - [The QR Code Trap: How I Forced a Major Brand to Host My Phishing Links &lpar;And Why It Got Rejected&rpar;](https://medium.com/@an.anonymous.school/the-qr-code-trap-how-i-forced-a-major-brand-to-host-my-phishing-links-and-why-it-got-rejected-47aa2d0c2991?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [TryHackMe: Daily Bugle Walkthrough](https://infosecwriteups.com/tryhackme-daily-bugle-walkthrough-075d478e597a?source=rss----7b722bfd1b8d---4)
 - [Horizontal Privilege Escalation via IDOR: Viewing, Editing and Deleting](https://scriptjacker.medium.com/horizontal-privilege-escalation-via-idor-viewing-editing-and-deleting-b10936ad4eb1?source=rss------bug_bounty_writeup-5)
 - [SQL Injection &lpar;SQLi&rpar; From Zero to Advanced](https://medium.com/@MuhammedAsfan/sql-injection-sqli-from-zero-to-advanced-bf5c1c93f524?source=rss------bug_bounty_writeup-5)
-- [How a Simple LFI Turned Into Full Root RCE](https://medium.com/@Af4himi/how-a-simple-lfi-turned-into-full-root-rce-b8da5c71b4b3?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
