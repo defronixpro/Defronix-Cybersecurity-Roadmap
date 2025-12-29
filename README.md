@@ -922,7 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [️ How I Earned $$$ by Exploiting an XML-RPC SSRF in a WordPress Site](https://medium.com/@algodemo5/%EF%B8%8F-how-i-earned-by-exploiting-an-xml-rpc-ssrf-in-a-wordpress-site-1d5822f0bd50?source=rss------bug_bounty_writeup-5)
+- [How I Paid from$99 college fees to $0.5| Price Tampering vulnerability](https://medium.com/@bhushan5/how-i-paid-from-99-college-fees-to-0-5-price-tampering-vulnerability-344196b802b5?source=rss------bug_bounty_writeup-5)
+- [️ How I Earned $$$ by Exploiting an XML-RPC SSRF in a WordPress Site](https://medium.com/@bhushan5/%EF%B8%8F-how-i-earned-by-exploiting-an-xml-rpc-ssrf-in-a-wordpress-site-1d5822f0bd50?source=rss------bug_bounty_writeup-5)
 - [From Reverse DNS to Super Admin: How I Earned $7,500 Finding an Exposed Admin Panel](https://medium.com/@DarkyOS/from-reverse-dns-to-super-admin-how-i-earned-7-500-finding-an-exposed-admin-panel-22500c65fe27?source=rss------bug_bounty_writeup-5)
 - [Understanding PII and Initial Discovery Techniques &lpar;Part 1/3&rpar;](https://medium.com/@cybersecplayground/understanding-pii-and-initial-discovery-techniques-part-1-3-417cfac5b050?source=rss------bug_bounty_writeup-5)
 - [The Illusion of Client-Side Security](https://0wnr.medium.com/the-illusion-of-client-side-security-ceaf7b4dc3e5?source=rss------bug_bounty_writeup-5)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [The Windows Event IDs Every Cybersecurity Professional Must Know](https://infosecwriteups.com/the-windows-event-ids-every-cybersecurity-professional-must-know-5003c9543a89?source=rss----7b722bfd1b8d---4)
 - [From SSRF to RCE: A 7-Step Chain Against PostHog](https://infosecwriteups.com/from-ssrf-to-rce-a-7-step-chain-against-posthog-d0954b3f26b0?source=rss----7b722bfd1b8d---4)
 - [TryHackMe: Daily Bugle Walkthrough](https://infosecwriteups.com/tryhackme-daily-bugle-walkthrough-075d478e597a?source=rss----7b722bfd1b8d---4)
-- [Horizontal Privilege Escalation via IDOR: Viewing, Editing and Deleting](https://scriptjacker.medium.com/horizontal-privilege-escalation-via-idor-viewing-editing-and-deleting-b10936ad4eb1?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
