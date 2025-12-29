@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Consistency Over Chaos: A 360-Day Bug Hunting Experiment](https://infosecwriteups.com/consistency-over-chaos-a-360-day-bug-hunting-experiment-50d43381ef4d?source=rss------bug_bounty_writeup-5)
 - [Monitor Bug Bounty Targets in Real Time Using Certificate Transparency Logs](https://infosecwriteups.com/monitor-bug-bounty-targets-in-real-time-using-certificate-transparency-logs-247caa34d0f9?source=rss----7b722bfd1b8d---4)
 - [$2,400 Bounty: for Discovering Critical DoS Vulnerability in Rack &lpar;CVE-2022–30122&rpar;](https://infosecwriteups.com/2-400-bounty-for-discovering-critical-dos-vulnerability-in-rack-cve-2022-30122-26b8f0d9e484?source=rss----7b722bfd1b8d---4)
 - [SQLi → RCE: Exploiting PostgreSQLi](https://infosecwriteups.com/sqli-rce-exploiting-postgresqli-f5bb81d24630?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [From “Website Not Accessible” to Critical Error-Based SQLi](https://medium.com/@chos3n/from-website-not-accessible-to-critical-error-based-sqli-483cda463a10?source=rss------bug_bounty_writeup-5)
 - [Account Takeover via IDOR](https://medium.com/@xelcezeri/account-takeover-via-idor-71b24946bdf7?source=rss------bug_bounty_writeup-5)
 - [Breaking Out with ../: A Simple Guide to Path Traversal Bugs](https://medium.com/@MuhammedAsfan/breaking-out-with-a-simple-guide-to-path-traversal-bugs-fafbc2508496?source=rss------bug_bounty_writeup-5)
-- [Breaking The Registration Flow : A Pre-account Takeover Vulnerability](https://meetcyber.net/breaking-the-registration-flow-a-pre-account-takeover-vulnerability-6cd95414148a?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
