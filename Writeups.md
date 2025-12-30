@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [The Illusion of Security: How I Bypassed CAPTCHA to Enumerate Users &lpar;and Why It Was a Duplicate&rpar;](https://medium.com/@an.anonymous.school/the-illusion-of-security-how-i-bypassed-captcha-to-enumerate-users-and-why-it-was-a-duplicate-010d8b96f5d4?source=rss------bug_bounty_writeup-5)
 - [How i found Sensitive Data Exposure in NASA Vulnerable Disclosure Program](https://medium.com/@hihiprocybertech/how-i-found-sensitive-data-exposure-in-nasa-vulnerable-disclosure-program-70139bd47ecb?source=rss------bug_bounty_writeup-5)
 - [Consistency Over Chaos: A 360-Day Bug Hunting Experiment](https://infosecwriteups.com/consistency-over-chaos-a-360-day-bug-hunting-experiment-50d43381ef4d?source=rss------bug_bounty_writeup-5)
 - [Monitor Bug Bounty Targets in Real Time Using Certificate Transparency Logs](https://infosecwriteups.com/monitor-bug-bounty-targets-in-real-time-using-certificate-transparency-logs-247caa34d0f9?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [The Illusion of Client-Side Security](https://0wnr.medium.com/the-illusion-of-client-side-security-ceaf7b4dc3e5?source=rss------bug_bounty_writeup-5)
 - [The QR Code Trap: How I Forced a Major Brand to Host My Phishing Links &lpar;And Why It Got Rejected&rpar;](https://medium.com/@an.anonymous.school/the-qr-code-trap-how-i-forced-a-major-brand-to-host-my-phishing-links-and-why-it-got-rejected-47aa2d0c2991?source=rss------bug_bounty_writeup-5)
 - [From “Website Not Accessible” to Critical Error-Based SQLi](https://medium.com/@chos3n/from-website-not-accessible-to-critical-error-based-sqli-483cda463a10?source=rss------bug_bounty_writeup-5)
-- [Account Takeover via IDOR](https://medium.com/@xelcezeri/account-takeover-via-idor-71b24946bdf7?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
