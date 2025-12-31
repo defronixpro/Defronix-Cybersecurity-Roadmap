@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Reality of Bug Bounty / Bug Hunting](https://stackharry1.medium.com/reality-of-bug-bounty-bug-hunting-b11afa350187?source=rss------bug_bounty_writeup-5)
 - [How I Found 7 Logical Bugs in the com-olho CTF Feature](https://infosecwriteups.com/how-i-found-7-logical-bugs-in-the-com-olho-ctf-feature-7adc4c88615d?source=rss----7b722bfd1b8d---4)
 - [DAST Automation Using BurpSuite MCP](https://infosecwriteups.com/dast-automation-using-burpsuite-mcp-923b6c0101e1?source=rss----7b722bfd1b8d---4)
 - [Droid-Warden CTF by INE : How I Finished First Under Pressure](https://infosecwriteups.com/droid-warden-ctf-by-ine-how-i-finished-first-under-pressure-6caad8b21155?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Understanding PII and Initial Discovery Techniques &lpar;Part 1/3&rpar;](https://medium.com/@cybersecplayground/understanding-pii-and-initial-discovery-techniques-part-1-3-417cfac5b050?source=rss------bug_bounty_writeup-5)
 - [The Illusion of Client-Side Security](https://0wnr.medium.com/the-illusion-of-client-side-security-ceaf7b4dc3e5?source=rss------bug_bounty_writeup-5)
 - [The QR Code Trap: How I Forced a Major Brand to Host My Phishing Links &lpar;And Why It Got Rejected&rpar;](https://medium.com/@an.anonymous.school/the-qr-code-trap-how-i-forced-a-major-brand-to-host-my-phishing-links-and-why-it-got-rejected-47aa2d0c2991?source=rss------bug_bounty_writeup-5)
-- [From “Website Not Accessible” to Critical Error-Based SQLi](https://medium.com/@chos3n/from-website-not-accessible-to-critical-error-based-sqli-483cda463a10?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
