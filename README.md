@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Hacking NASA: How I Spent 6 Hours Hunting a ‘Critical’ Bug That Wasn’t](https://letchupkt.medium.com/hacking-nasa-how-i-spent-6-hours-hunting-a-critical-bug-that-wasn-t-9eff778a9880?source=rss------bug_bounty_writeup-5)
 - [BAC &lpar;Privilege Escalation&rpar;: How a Simple Method Swap Exposed Sensitive Admin Data](https://0xmostafa.medium.com/bac-privilege-escalation-how-a-simple-method-swap-exposed-sensitive-admin-data-30b241057088?source=rss------bug_bounty_writeup-5)
 - [After More Than 2 Years in Bug Bounty: Here’s My Methodology](https://medium.com/@karemelaud5/after-more-than-2-years-in-bug-bounty-heres-my-methodology-0157629e2d7d?source=rss------bug_bounty_writeup-5)
 - [Reality of Bug Bounty / Bug Hunting](https://stackharry1.medium.com/reality-of-bug-bounty-bug-hunting-b11afa350187?source=rss------bug_bounty_writeup-5)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How I Paid from$99 college fees to $0.5| Price Tampering vulnerability](https://medium.com/@bhushan5/how-i-paid-from-99-college-fees-to-0-5-price-tampering-vulnerability-344196b802b5?source=rss------bug_bounty_writeup-5)
 - [️ How I Earned $$$ by Exploiting an XML-RPC SSRF in a WordPress Site](https://medium.com/@bhushan5/%EF%B8%8F-how-i-earned-by-exploiting-an-xml-rpc-ssrf-in-a-wordpress-site-1d5822f0bd50?source=rss------bug_bounty_writeup-5)
 - [From Reverse DNS to Super Admin: How I Earned $7,500 Finding an Exposed Admin Panel](https://medium.com/@DarkyOS/from-reverse-dns-to-super-admin-how-i-earned-7-500-finding-an-exposed-admin-panel-22500c65fe27?source=rss------bug_bounty_writeup-5)
-- [Understanding PII and Initial Discovery Techniques &lpar;Part 1/3&rpar;](https://medium.com/@cybersecplayground/understanding-pii-and-initial-discovery-techniques-part-1-3-417cfac5b050?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
