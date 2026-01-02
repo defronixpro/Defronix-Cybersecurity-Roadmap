@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Breaking the Walls: Techniques for 403 Forbidden Bypass](https://medium.com/@xelcezeri/breaking-the-walls-techniques-for-403-forbidden-bypass-c25034b822c6?source=rss------bug_bounty_writeup-5)
 - [Turning a WordPress API into a DDoS Cannon: The XML-RPC Amplification](https://letchupkt.medium.com/turning-a-wordpress-api-into-a-ddos-cannon-the-xml-rpc-amplification-0433c8175a12?source=rss------bug_bounty_writeup-5)
 - [The &quot;Irony&quot; Attack: How I Used a Security Feature to Bomb Inboxes &lpar;And Waited 3 Months for $250&rpar;](https://systemweakness.com/the-irony-attack-how-i-used-a-security-feature-to-bomb-inboxes-and-waited-3-months-for-250-98bd4b4ce11b?source=rss------bug_bounty_writeup-5)
 - [How Weak Password Reset Flows Turn “Forgot Password?” Into Full Account Takeover](https://medium.com/@MuhammedAsfan/how-weak-password-reset-flows-turn-forgot-password-into-full-account-takeover-dc95508cdfe8?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Hacking NASA: How I Spent 6 Hours Hunting a ‘Critical’ Bug That Wasn’t](https://letchupkt.medium.com/hacking-nasa-how-i-spent-6-hours-hunting-a-critical-bug-that-wasn-t-9eff778a9880?source=rss------bug_bounty_writeup-5)
 - [BAC &lpar;Privilege Escalation&rpar;: How a Simple Method Swap Exposed Sensitive Admin Data](https://0xmostafa.medium.com/bac-privilege-escalation-how-a-simple-method-swap-exposed-sensitive-admin-data-30b241057088?source=rss------bug_bounty_writeup-5)
 - [After More Than 2 Years in Bug Bounty: Here’s My Methodology](https://medium.com/@karemelaud5/after-more-than-2-years-in-bug-bounty-heres-my-methodology-0157629e2d7d?source=rss------bug_bounty_writeup-5)
-- [Reality of Bug Bounty / Bug Hunting](https://stackharry1.medium.com/reality-of-bug-bounty-bug-hunting-b11afa350187?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
