@@ -1,6 +1,8 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Hunting a Zero-Click Reflected XSS: Breaking Out of Attributes in WordPress Search](https://infosecwriteups.com/hunting-a-zero-click-reflected-xss-breaking-out-of-attributes-in-wordpress-search-70071a099dd3?source=rss----7b722bfd1b8d---4)
+- [When CDNs Lie: How Cached Responses Exposed Private Data at Scale](https://infosecwriteups.com/when-cdns-lie-how-cached-responses-exposed-private-data-at-scale-7208a53b164c?source=rss----7b722bfd1b8d---4)
 - [PortSwigger Academy Lab: Source code disclosure via backup files](https://infosecwriteups.com/portswigger-academy-lab-source-code-disclosure-via-backup-files-5f5e6ad3db30?source=rss----7b722bfd1b8d---4)
 - [HexStrike MCP Orchestration with Ollama: Ubuntu Host, Kali VM, SSH Bridging, and Performance…](https://infosecwriteups.com/hexstrike-mcp-orchestration-with-ollama-ubuntu-host-kali-vm-ssh-bridging-and-performance-f049ab140596?source=rss----7b722bfd1b8d---4)
 - [Data Retired Box from Hackthebox](https://infosecwriteups.com/as-we-get-deep-into-this-engagement-ill-demonstrate-my-penetration-testing-methodology-and-my-b616fbd0d00f?source=rss----7b722bfd1b8d---4)
@@ -9,8 +11,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [I Didn’t Break the App — I Let Its Logic Break Itself](https://infosecwriteups.com/i-didnt-break-the-app-i-let-its-logic-break-itself-9cd22096111c?source=rss----7b722bfd1b8d---4)
 - [SnitchVisual Network Inspector](https://infosecwriteups.com/snitchvisual-network-inspector-56973d599ec5?source=rss----7b722bfd1b8d---4)
 - [HexStrike on Kali Linux 2025.4: A Comprehensive Guide](https://infosecwriteups.com/hexstrike-on-kali-linux-2025-4-a-comprehensive-guide-85a0e5752949?source=rss----7b722bfd1b8d---4)
-- [Prompt Injection Is Permanent: Your AI Agent Needs Seatbelts, Not Smarter Prompts](https://infosecwriteups.com/prompt-injection-is-permanent-your-ai-agent-needs-seatbelts-not-smarter-prompts-389d1c2696ce?source=rss----7b722bfd1b8d---4)
-- [Protecting Your Web Apps from Clickjacking](https://infosecwriteups.com/protecting-your-web-apps-from-clickjacking-c0c55570b969?source=rss----7b722bfd1b8d---4)
 - [How I Hacked One of the Largest Ministries in Indonesia](https://asyary.medium.com/how-i-hacked-one-of-the-largest-ministries-in-indonesia-1fba947893e1?source=rss------bug_bounty_writeup-5)
 - [Beyond the APK: Exploiting Misconfigured Firebase Databases](https://medium.com/@xelcezeri/beyond-the-apk-exploiting-misconfigured-firebase-databases-764c48e4fc80?source=rss------bug_bounty_writeup-5)
 - [Ghost Posts via IDOR: How I Read Unpublished NASA Blog Content Using Simple Math](https://letchupkt.medium.com/ghost-posts-via-idor-how-i-read-unpublished-nasa-blog-content-using-simple-math-8f778adc254d?source=rss------bug_bounty_writeup-5)
