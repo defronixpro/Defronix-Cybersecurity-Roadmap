@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [The &quot;Irony&quot; Attack: How I Used a Security Feature to Bomb Inboxes &lpar;And Waited 3 Months for $250&rpar;](https://systemweakness.com/the-irony-attack-how-i-used-a-security-feature-to-bomb-inboxes-and-waited-3-months-for-250-98bd4b4ce11b?source=rss------bug_bounty_writeup-5)
 - [How Weak Password Reset Flows Turn “Forgot Password?” Into Full Account Takeover](https://medium.com/@MuhammedAsfan/how-weak-password-reset-flows-turn-forgot-password-into-full-account-takeover-dc95508cdfe8?source=rss------bug_bounty_writeup-5)
 - [Hunting a Zero-Click Reflected XSS: Breaking Out of Attributes in WordPress Search](https://infosecwriteups.com/hunting-a-zero-click-reflected-xss-breaking-out-of-attributes-in-wordpress-search-70071a099dd3?source=rss----7b722bfd1b8d---4)
 - [When CDNs Lie: How Cached Responses Exposed Private Data at Scale](https://infosecwriteups.com/when-cdns-lie-how-cached-responses-exposed-private-data-at-scale-7208a53b164c?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [After More Than 2 Years in Bug Bounty: Here’s My Methodology](https://medium.com/@karemelaud5/after-more-than-2-years-in-bug-bounty-heres-my-methodology-0157629e2d7d?source=rss------bug_bounty_writeup-5)
 - [Reality of Bug Bounty / Bug Hunting](https://stackharry1.medium.com/reality-of-bug-bounty-bug-hunting-b11afa350187?source=rss------bug_bounty_writeup-5)
 - [The Illusion of Security: How I Bypassed CAPTCHA to Enumerate Users &lpar;and Why It Was a Duplicate&rpar;](https://medium.com/@an.anonymous.school/the-illusion-of-security-how-i-bypassed-captcha-to-enumerate-users-and-why-it-was-a-duplicate-010d8b96f5d4?source=rss------bug_bounty_writeup-5)
-- [How i found Sensitive Data Exposure in NASA Vulnerable Disclosure Program](https://medium.com/@hihiprocybertech/how-i-found-sensitive-data-exposure-in-nasa-vulnerable-disclosure-program-70139bd47ecb?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
