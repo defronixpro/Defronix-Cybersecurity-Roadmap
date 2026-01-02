@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How I Hacked One of the Largest Ministries in Indonesia](https://asyary.medium.com/how-i-hacked-one-of-the-largest-ministries-in-indonesia-1fba947893e1?source=rss------bug_bounty_writeup-5)
 - [Beyond the APK: Exploiting Misconfigured Firebase Databases](https://medium.com/@xelcezeri/beyond-the-apk-exploiting-misconfigured-firebase-databases-764c48e4fc80?source=rss------bug_bounty_writeup-5)
 - [Ghost Posts via IDOR: How I Read Unpublished NASA Blog Content Using Simple Math](https://letchupkt.medium.com/ghost-posts-via-idor-how-i-read-unpublished-nasa-blog-content-using-simple-math-8f778adc254d?source=rss------bug_bounty_writeup-5)
 - [Hacking NASA: How I Spent 6 Hours Hunting a ‘Critical’ Bug That Wasn’t](https://letchupkt.medium.com/hacking-nasa-how-i-spent-6-hours-hunting-a-critical-bug-that-wasn-t-9eff778a9880?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Consistency Over Chaos: A 360-Day Bug Hunting Experiment](https://infosecwriteups.com/consistency-over-chaos-a-360-day-bug-hunting-experiment-50d43381ef4d?source=rss------bug_bounty_writeup-5)
 - [Monitor Bug Bounty Targets in Real Time Using Certificate Transparency Logs](https://infosecwriteups.com/monitor-bug-bounty-targets-in-real-time-using-certificate-transparency-logs-247caa34d0f9?source=rss----7b722bfd1b8d---4)
 - [$2,400 Bounty: for Discovering Critical DoS Vulnerability in Rack &lpar;CVE-2022–30122&rpar;](https://infosecwriteups.com/2-400-bounty-for-discovering-critical-dos-vulnerability-in-rack-cve-2022-30122-26b8f0d9e484?source=rss----7b722bfd1b8d---4)
-- [How I Paid from$99 college fees to $0.5| Price Tampering vulnerability](https://medium.com/@bhushan5/how-i-paid-from-99-college-fees-to-0-5-price-tampering-vulnerability-344196b802b5?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
