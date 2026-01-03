@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Mastering Web Cache Deception Bugs: Advanced Bug Hunter’s Guide](https://medium.com/@reduan7707/mastering-web-cache-deception-bugs-advanced-bug-hunters-guide-eb6106147aab?source=rss------bug_bounty_writeup-5)
+- [The 1.8MB Mistake: Leaking Thousands of Government Users via a Liferay API](https://letchupkt.medium.com/the-1-8mb-mistake-leaking-thousands-of-government-users-via-a-liferay-api-1b07f89f7362?source=rss------bug_bounty_writeup-5)
 - [IDOR Is Not Just id=123: A Simple Guide to Smarter IDOR Hunting](https://medium.com/@MuhammedAsfan/idor-is-not-just-id-123-a-simple-guide-to-smarter-idor-hunting-5f58de1109dd?source=rss------bug_bounty_writeup-5)
 - [Breaking the Walls: Techniques for 403 Forbidden Bypass](https://medium.com/@xelcezeri/breaking-the-walls-techniques-for-403-forbidden-bypass-c25034b822c6?source=rss------bug_bounty_writeup-5)
 - [Turning a WordPress API into a DDoS Cannon: The XML-RPC Amplification](https://letchupkt.medium.com/turning-a-wordpress-api-into-a-ddos-cannon-the-xml-rpc-amplification-0433c8175a12?source=rss------bug_bounty_writeup-5)
@@ -936,12 +938,10 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Escape Windows Machine Writeup from Hackthebox](https://infosecwriteups.com/as-we-get-deep-into-this-engagement-ill-demonstrate-my-penetration-testing-methodology-and-my-198e597a3c9b?source=rss----7b722bfd1b8d---4)
 - [I Didn’t Break the App — I Let Its Logic Break Itself](https://infosecwriteups.com/i-didnt-break-the-app-i-let-its-logic-break-itself-9cd22096111c?source=rss----7b722bfd1b8d---4)
 - [SnitchVisual Network Inspector](https://infosecwriteups.com/snitchvisual-network-inspector-56973d599ec5?source=rss----7b722bfd1b8d---4)
-- [HexStrike on Kali Linux 2025.4: A Comprehensive Guide](https://infosecwriteups.com/hexstrike-on-kali-linux-2025-4-a-comprehensive-guide-85a0e5752949?source=rss----7b722bfd1b8d---4)
+- [Prompt Injection Is Permanent: Your AI Agent Needs Seatbelts, Not Smarter Prompts](https://infosecwriteups.com/prompt-injection-is-permanent-your-ai-agent-needs-seatbelts-not-smarter-prompts-389d1c2696ce?source=rss----7b722bfd1b8d---4)
 - [How I Hacked One of the Largest Ministries in Indonesia](https://asyary.medium.com/how-i-hacked-one-of-the-largest-ministries-in-indonesia-1fba947893e1?source=rss------bug_bounty_writeup-5)
 - [Beyond the APK: Exploiting Misconfigured Firebase Databases](https://medium.com/@xelcezeri/beyond-the-apk-exploiting-misconfigured-firebase-databases-764c48e4fc80?source=rss------bug_bounty_writeup-5)
 - [Ghost Posts via IDOR: How I Read Unpublished NASA Blog Content Using Simple Math](https://letchupkt.medium.com/ghost-posts-via-idor-how-i-read-unpublished-nasa-blog-content-using-simple-math-8f778adc254d?source=rss------bug_bounty_writeup-5)
-- [Hacking NASA: How I Spent 6 Hours Hunting a ‘Critical’ Bug That Wasn’t](https://letchupkt.medium.com/hacking-nasa-how-i-spent-6-hours-hunting-a-critical-bug-that-wasn-t-9eff778a9880?source=rss------bug_bounty_writeup-5)
-- [BAC &lpar;Privilege Escalation&rpar;: How a Simple Method Swap Exposed Sensitive Admin Data](https://0xmostafa.medium.com/bac-privilege-escalation-how-a-simple-method-swap-exposed-sensitive-admin-data-30b241057088?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
