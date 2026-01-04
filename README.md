@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [$280 Bug Bounty: How a Case-Sensitive Email Bug Locked Users&#39; Accounts](https://infosecwriteups.com/280-bug-bounty-how-a-case-sensitive-email-bug-locked-users-accounts-175fe00779d9?source=rss----7b722bfd1b8d---4)
 - [W1seGuy Room in TryHackMe](https://infosecwriteups.com/w1seguy-room-in-tryhackme-031880e5a138?source=rss----7b722bfd1b8d---4)
 - [The Endpoint Was Public for a Reason — The Data Wasn’t](https://infosecwriteups.com/the-endpoint-was-public-for-a-reason-the-data-wasnt-eaac71947415?source=rss----7b722bfd1b8d---4)
 - [Editor — HTB Walkthrough](https://infosecwriteups.com/editor-htb-walkthrough-2b29bac28300?source=rss----7b722bfd1b8d---4)
@@ -939,7 +940,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [When CDNs Lie: How Cached Responses Exposed Private Data at Scale](https://infosecwriteups.com/when-cdns-lie-how-cached-responses-exposed-private-data-at-scale-7208a53b164c?source=rss----7b722bfd1b8d---4)
 - [PortSwigger Academy Lab: Source code disclosure via backup files](https://infosecwriteups.com/portswigger-academy-lab-source-code-disclosure-via-backup-files-5f5e6ad3db30?source=rss----7b722bfd1b8d---4)
 - [HexStrike MCP Orchestration with Ollama: Ubuntu Host, Kali VM, SSH Bridging, and Performance…](https://infosecwriteups.com/hexstrike-mcp-orchestration-with-ollama-ubuntu-host-kali-vm-ssh-bridging-and-performance-f049ab140596?source=rss----7b722bfd1b8d---4)
-- [Data Retired Box from Hackthebox](https://infosecwriteups.com/as-we-get-deep-into-this-engagement-ill-demonstrate-my-penetration-testing-methodology-and-my-b616fbd0d00f?source=rss----7b722bfd1b8d---4)
 - [How I Hacked One of the Largest Ministries in Indonesia](https://asyary.medium.com/how-i-hacked-one-of-the-largest-ministries-in-indonesia-1fba947893e1?source=rss------bug_bounty_writeup-5)
 - [Beyond the APK: Exploiting Misconfigured Firebase Databases](https://medium.com/@xelcezeri/beyond-the-apk-exploiting-misconfigured-firebase-databases-764c48e4fc80?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
