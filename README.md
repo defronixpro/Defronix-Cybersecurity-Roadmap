@@ -922,6 +922,11 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [W1seGuy Room in TryHackMe](https://infosecwriteups.com/w1seguy-room-in-tryhackme-031880e5a138?source=rss----7b722bfd1b8d---4)
+- [The Endpoint Was Public for a Reason — The Data Wasn’t](https://infosecwriteups.com/the-endpoint-was-public-for-a-reason-the-data-wasnt-eaac71947415?source=rss----7b722bfd1b8d---4)
+- [Editor — HTB Walkthrough](https://infosecwriteups.com/editor-htb-walkthrough-2b29bac28300?source=rss----7b722bfd1b8d---4)
+- [The One-Click Library Wipe: Exploiting CSRF in Saved Stories](https://infosecwriteups.com/the-one-click-library-wipe-exploiting-csrf-in-saved-stories-28523d4bc5e2?source=rss----7b722bfd1b8d---4)
+- [Hacking Vulnerable Bank API &lpar;Extensive&rpar;](https://infosecwriteups.com/hacking-vulnerable-bank-api-extensive-d2a0d3bb209e?source=rss----7b722bfd1b8d---4)
 - [Unauthorized Access to Sensitive PII via Broken Access Control](https://ajay-vardhan01.medium.com/unauthorized-access-to-sensitive-pii-via-broken-access-control-507adf46879a?source=rss------bug_bounty_writeup-5)
 - [Mastering Web Cache Deception Bugs: Advanced Bug Hunter’s Guide](https://medium.com/@reduan7707/mastering-web-cache-deception-bugs-advanced-bug-hunters-guide-eb6106147aab?source=rss------bug_bounty_writeup-5)
 - [The 1.8MB Mistake: Leaking Thousands of Government Users via a Liferay API](https://letchupkt.medium.com/the-1-8mb-mistake-leaking-thousands-of-government-users-via-a-liferay-api-1b07f89f7362?source=rss------bug_bounty_writeup-5)
@@ -935,11 +940,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [PortSwigger Academy Lab: Source code disclosure via backup files](https://infosecwriteups.com/portswigger-academy-lab-source-code-disclosure-via-backup-files-5f5e6ad3db30?source=rss----7b722bfd1b8d---4)
 - [HexStrike MCP Orchestration with Ollama: Ubuntu Host, Kali VM, SSH Bridging, and Performance…](https://infosecwriteups.com/hexstrike-mcp-orchestration-with-ollama-ubuntu-host-kali-vm-ssh-bridging-and-performance-f049ab140596?source=rss----7b722bfd1b8d---4)
 - [Data Retired Box from Hackthebox](https://infosecwriteups.com/as-we-get-deep-into-this-engagement-ill-demonstrate-my-penetration-testing-methodology-and-my-b616fbd0d00f?source=rss----7b722bfd1b8d---4)
-- [Bashed Hackthebox Writeup](https://infosecwriteups.com/as-we-get-deep-into-this-engagement-ill-demonstrate-my-penetration-testing-methodology-and-my-dc86ed5f6971?source=rss----7b722bfd1b8d---4)
-- [Escape Windows Machine Writeup from Hackthebox](https://infosecwriteups.com/as-we-get-deep-into-this-engagement-ill-demonstrate-my-penetration-testing-methodology-and-my-198e597a3c9b?source=rss----7b722bfd1b8d---4)
-- [I Didn’t Break the App — I Let Its Logic Break Itself](https://infosecwriteups.com/i-didnt-break-the-app-i-let-its-logic-break-itself-9cd22096111c?source=rss----7b722bfd1b8d---4)
-- [SnitchVisual Network Inspector](https://infosecwriteups.com/snitchvisual-network-inspector-56973d599ec5?source=rss----7b722bfd1b8d---4)
-- [Prompt Injection Is Permanent: Your AI Agent Needs Seatbelts, Not Smarter Prompts](https://infosecwriteups.com/prompt-injection-is-permanent-your-ai-agent-needs-seatbelts-not-smarter-prompts-389d1c2696ce?source=rss----7b722bfd1b8d---4)
 - [How I Hacked One of the Largest Ministries in Indonesia](https://asyary.medium.com/how-i-hacked-one-of-the-largest-ministries-in-indonesia-1fba947893e1?source=rss------bug_bounty_writeup-5)
 - [Beyond the APK: Exploiting Misconfigured Firebase Databases](https://medium.com/@xelcezeri/beyond-the-apk-exploiting-misconfigured-firebase-databases-764c48e4fc80?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
