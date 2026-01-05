@@ -1,6 +1,13 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Bug Bounty Burnout Almost Killed My Motivation — Then This Logic Flaw Paid Me](https://infosecwriteups.com/bug-bounty-burnout-almost-killed-my-motivation-then-this-logic-flaw-paid-me-a1d335016445?source=rss----7b722bfd1b8d---4)
+- [OSINT4Fun: Advent of OSINT 2025 &lpar;Day 5 - Day 8&rpar;](https://infosecwriteups.com/osint4fun-advent-of-osint-2025-day-5-day-8-b0776e224e9c?source=rss----7b722bfd1b8d---4)
+- [The return to blogging and a blind SQL injection](https://infosecwriteups.com/the-return-to-blogging-and-a-blind-sql-injection-2bee0a7fa779?source=rss----7b722bfd1b8d---4)
+- [From Low to Medium - How a simple email injection earned me some $$$](https://infosecwriteups.com/from-low-to-medium-how-a-simple-email-injection-earned-me-some-3e7630ae4e9c?source=rss----7b722bfd1b8d---4)
+- [Cache Key Injection: Chaining Cache-Poisoning and CRLF Using an Unkeyed Parameter](https://infosecwriteups.com/cache-key-injection-chaining-cache-poisoning-and-crlf-using-an-unkeyed-parameter-b9e8b7be00a1?source=rss----7b722bfd1b8d---4)
+- [Key to the Kingdom: How I Found API Secrets Hiding in Plain Sight in JavaScript Files](https://infosecwriteups.com/key-to-the-kingdom-how-i-found-api-secrets-hiding-in-plain-sight-in-javascript-files-2f92ab1dfe63?source=rss----7b722bfd1b8d---4)
+- [Cache Clash: How CDN Misconfigurations Let Me Hijack Thousands of User Sessions](https://infosecwriteups.com/cache-clash-how-cdn-misconfigurations-let-me-hijack-thousands-of-user-sessions-52e09bc0b0a2?source=rss----7b722bfd1b8d---4)
 - [Account Takeover via IDOR in GraphQL Invitation Flow](https://scriptjacker.medium.com/account-takeover-via-idor-in-graphql-invitation-flow-546b9a120c53?source=rss------bug_bounty_writeup-5)
 - [The Art of Redirect 
  How “Low Impact” Open Redirects Become High-Value Chains](https://medium.com/@MuhammedAsfan/the-art-of-redirect-how-low-impact-open-redirects-become-high-value-chains-c8cf00e3b584?source=rss------bug_bounty_writeup-5)
@@ -9,18 +16,11 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [$280 Bug Bounty: How a Case-Sensitive Email Bug Locked Users&#39; Accounts](https://infosecwriteups.com/280-bug-bounty-how-a-case-sensitive-email-bug-locked-users-accounts-175fe00779d9?source=rss----7b722bfd1b8d---4)
 - [W1seGuy Room in TryHackMe](https://infosecwriteups.com/w1seguy-room-in-tryhackme-031880e5a138?source=rss----7b722bfd1b8d---4)
 - [The Endpoint Was Public for a Reason — The Data Wasn’t](https://infosecwriteups.com/the-endpoint-was-public-for-a-reason-the-data-wasnt-eaac71947415?source=rss----7b722bfd1b8d---4)
-- [Editor — HTB Walkthrough](https://infosecwriteups.com/editor-htb-walkthrough-2b29bac28300?source=rss----7b722bfd1b8d---4)
-- [The One-Click Library Wipe: Exploiting CSRF in Saved Stories](https://infosecwriteups.com/the-one-click-library-wipe-exploiting-csrf-in-saved-stories-28523d4bc5e2?source=rss----7b722bfd1b8d---4)
-- [Hacking Vulnerable Bank API &lpar;Extensive&rpar;](https://infosecwriteups.com/hacking-vulnerable-bank-api-extensive-d2a0d3bb209e?source=rss----7b722bfd1b8d---4)
 - [Unauthorized Access to Sensitive PII via Broken Access Control](https://ajay-vardhan01.medium.com/unauthorized-access-to-sensitive-pii-via-broken-access-control-507adf46879a?source=rss------bug_bounty_writeup-5)
 - [Mastering Web Cache Deception Bugs: Advanced Bug Hunter’s Guide](https://medium.com/@reduan7707/mastering-web-cache-deception-bugs-advanced-bug-hunters-guide-eb6106147aab?source=rss------bug_bounty_writeup-5)
 - [The 1.8MB Mistake: Leaking Thousands of Government Users via a Liferay API](https://letchupkt.medium.com/the-1-8mb-mistake-leaking-thousands-of-government-users-via-a-liferay-api-1b07f89f7362?source=rss------bug_bounty_writeup-5)
 - [IDOR Is Not Just id=123: A Simple Guide to Smarter IDOR Hunting](https://medium.com/@MuhammedAsfan/idor-is-not-just-id-123-a-simple-guide-to-smarter-idor-hunting-5f58de1109dd?source=rss------bug_bounty_writeup-5)
 - [Breaking the Walls: Techniques for 403 Forbidden Bypass](https://medium.com/@xelcezeri/breaking-the-walls-techniques-for-403-forbidden-bypass-c25034b822c6?source=rss------bug_bounty_writeup-5)
-- [Hunting a Zero-Click Reflected XSS: Breaking Out of Attributes in WordPress Search](https://infosecwriteups.com/hunting-a-zero-click-reflected-xss-breaking-out-of-attributes-in-wordpress-search-70071a099dd3?source=rss----7b722bfd1b8d---4)
-- [When CDNs Lie: How Cached Responses Exposed Private Data at Scale](https://infosecwriteups.com/when-cdns-lie-how-cached-responses-exposed-private-data-at-scale-7208a53b164c?source=rss----7b722bfd1b8d---4)
-- [PortSwigger Academy Lab: Source code disclosure via backup files](https://infosecwriteups.com/portswigger-academy-lab-source-code-disclosure-via-backup-files-5f5e6ad3db30?source=rss----7b722bfd1b8d---4)
-- [HexStrike MCP Orchestration with Ollama: Ubuntu Host, Kali VM, SSH Bridging, and Performance…](https://infosecwriteups.com/hexstrike-mcp-orchestration-with-ollama-ubuntu-host-kali-vm-ssh-bridging-and-performance-f049ab140596?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
