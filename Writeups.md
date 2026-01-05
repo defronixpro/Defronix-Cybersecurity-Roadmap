@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Account Takeover via IDOR in GraphQL Invitation Flow](https://scriptjacker.medium.com/account-takeover-via-idor-in-graphql-invitation-flow-546b9a120c53?source=rss------bug_bounty_writeup-5)
 - [The Art of Redirect 
  How “Low Impact” Open Redirects Become High-Value Chains](https://medium.com/@MuhammedAsfan/the-art-of-redirect-how-low-impact-open-redirects-become-high-value-chains-c8cf00e3b584?source=rss------bug_bounty_writeup-5)
 - [Deep-Dive PII Hunting &amp; Validation Techniques &lpar;Part 2/3&rpar;](https://medium.com/@cybersecplayground/deep-dive-pii-hunting-validation-techniques-part-2-3-c95d587115e2?source=rss------bug_bounty_writeup-5)
@@ -16,7 +17,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [The 1.8MB Mistake: Leaking Thousands of Government Users via a Liferay API](https://letchupkt.medium.com/the-1-8mb-mistake-leaking-thousands-of-government-users-via-a-liferay-api-1b07f89f7362?source=rss------bug_bounty_writeup-5)
 - [IDOR Is Not Just id=123: A Simple Guide to Smarter IDOR Hunting](https://medium.com/@MuhammedAsfan/idor-is-not-just-id-123-a-simple-guide-to-smarter-idor-hunting-5f58de1109dd?source=rss------bug_bounty_writeup-5)
 - [Breaking the Walls: Techniques for 403 Forbidden Bypass](https://medium.com/@xelcezeri/breaking-the-walls-techniques-for-403-forbidden-bypass-c25034b822c6?source=rss------bug_bounty_writeup-5)
-- [Turning a WordPress API into a DDoS Cannon: The XML-RPC Amplification](https://letchupkt.medium.com/turning-a-wordpress-api-into-a-ddos-cannon-the-xml-rpc-amplification-0433c8175a12?source=rss------bug_bounty_writeup-5)
 - [Hunting a Zero-Click Reflected XSS: Breaking Out of Attributes in WordPress Search](https://infosecwriteups.com/hunting-a-zero-click-reflected-xss-breaking-out-of-attributes-in-wordpress-search-70071a099dd3?source=rss----7b722bfd1b8d---4)
 - [When CDNs Lie: How Cached Responses Exposed Private Data at Scale](https://infosecwriteups.com/when-cdns-lie-how-cached-responses-exposed-private-data-at-scale-7208a53b164c?source=rss----7b722bfd1b8d---4)
 - [PortSwigger Academy Lab: Source code disclosure via backup files](https://infosecwriteups.com/portswigger-academy-lab-source-code-disclosure-via-backup-files-5f5e6ad3db30?source=rss----7b722bfd1b8d---4)
