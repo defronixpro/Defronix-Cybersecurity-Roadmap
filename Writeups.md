@@ -1,7 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
-- [600$ For Stealing Podcasts/Show via RSS Feed Manipulation](https://medium.com/legionhunters/600-for-stealing-podcasts-show-via-rss-feed-manipulation-f3f2cef08adf?source=rss------bug_bounty_writeup-5)
+- [600$ For Stealing Podcasts/Show via RSS Feed Manipulation](https://medium.com/@anas-nady/600-for-stealing-podcasts-show-via-rss-feed-manipulation-f3f2cef08adf?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Burnout Almost Killed My Motivation — Then This Logic Flaw Paid Me](https://infosecwriteups.com/bug-bounty-burnout-almost-killed-my-motivation-then-this-logic-flaw-paid-me-a1d335016445?source=rss----7b722bfd1b8d---4)
 - [OSINT4Fun: Advent of OSINT 2025 &lpar;Day 5 - Day 8&rpar;](https://infosecwriteups.com/osint4fun-advent-of-osint-2025-day-5-day-8-b0776e224e9c?source=rss----7b722bfd1b8d---4)
 - [The return to blogging and a blind SQL injection](https://infosecwriteups.com/the-return-to-blogging-and-a-blind-sql-injection-2bee0a7fa779?source=rss----7b722bfd1b8d---4)
@@ -13,7 +13,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [The Art of Redirect 
  How “Low Impact” Open Redirects Become High-Value Chains](https://medium.com/@MuhammedAsfan/the-art-of-redirect-how-low-impact-open-redirects-become-high-value-chains-c8cf00e3b584?source=rss------bug_bounty_writeup-5)
 - [Deep-Dive PII Hunting &amp; Validation Techniques &lpar;Part 2/3&rpar;](https://medium.com/@cybersecplayground/deep-dive-pii-hunting-validation-techniques-part-2-3-c95d587115e2?source=rss------bug_bounty_writeup-5)
-- [SAR 2,629 For Stored XSS via svg Image Leading to ATO](https://medium.com/legionhunters/sar-2-629-for-stored-xss-via-svg-image-leading-to-ato-1916c50251dc?source=rss------bug_bounty_writeup-5)
+- [SAR 2,629 For Stored XSS via svg Image Leading to ATO](https://medium.com/@anas-nady/sar-2-629-for-stored-xss-via-svg-image-leading-to-ato-1916c50251dc?source=rss------bug_bounty_writeup-5)
 - [$280 Bug Bounty: How a Case-Sensitive Email Bug Locked Users&#39; Accounts](https://infosecwriteups.com/280-bug-bounty-how-a-case-sensitive-email-bug-locked-users-accounts-175fe00779d9?source=rss----7b722bfd1b8d---4)
 - [W1seGuy Room in TryHackMe](https://infosecwriteups.com/w1seguy-room-in-tryhackme-031880e5a138?source=rss----7b722bfd1b8d---4)
 - [The Endpoint Was Public for a Reason — The Data Wasn’t](https://infosecwriteups.com/the-endpoint-was-public-for-a-reason-the-data-wasnt-eaac71947415?source=rss----7b722bfd1b8d---4)
