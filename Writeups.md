@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [600$ For Stealing Podcasts/Show via RSS Feed Manipulation](https://medium.com/legionhunters/600-for-stealing-podcasts-show-via-rss-feed-manipulation-f3f2cef08adf?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Burnout Almost Killed My Motivation — Then This Logic Flaw Paid Me](https://infosecwriteups.com/bug-bounty-burnout-almost-killed-my-motivation-then-this-logic-flaw-paid-me-a1d335016445?source=rss----7b722bfd1b8d---4)
 - [OSINT4Fun: Advent of OSINT 2025 &lpar;Day 5 - Day 8&rpar;](https://infosecwriteups.com/osint4fun-advent-of-osint-2025-day-5-day-8-b0776e224e9c?source=rss----7b722bfd1b8d---4)
 - [The return to blogging and a blind SQL injection](https://infosecwriteups.com/the-return-to-blogging-and-a-blind-sql-injection-2bee0a7fa779?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Mastering Web Cache Deception Bugs: Advanced Bug Hunter’s Guide](https://medium.com/@reduan7707/mastering-web-cache-deception-bugs-advanced-bug-hunters-guide-eb6106147aab?source=rss------bug_bounty_writeup-5)
 - [The 1.8MB Mistake: Leaking Thousands of Government Users via a Liferay API](https://letchupkt.medium.com/the-1-8mb-mistake-leaking-thousands-of-government-users-via-a-liferay-api-1b07f89f7362?source=rss------bug_bounty_writeup-5)
 - [IDOR Is Not Just id=123: A Simple Guide to Smarter IDOR Hunting](https://medium.com/@MuhammedAsfan/idor-is-not-just-id-123-a-simple-guide-to-smarter-idor-hunting-5f58de1109dd?source=rss------bug_bounty_writeup-5)
-- [Breaking the Walls: Techniques for 403 Forbidden Bypass](https://medium.com/@xelcezeri/breaking-the-walls-techniques-for-403-forbidden-bypass-c25034b822c6?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
