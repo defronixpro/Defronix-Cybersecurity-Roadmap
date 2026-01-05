@@ -942,6 +942,16 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Mastering Web Cache Deception Bugs: Advanced Bug Hunter’s Guide](https://medium.com/@reduan7707/mastering-web-cache-deception-bugs-advanced-bug-hunters-guide-eb6106147aab?source=rss------bug_bounty_writeup-5)
 - [The 1.8MB Mistake: Leaking Thousands of Government Users via a Liferay API](https://letchupkt.medium.com/the-1-8mb-mistake-leaking-thousands-of-government-users-via-a-liferay-api-1b07f89f7362?source=rss------bug_bounty_writeup-5)
 - [IDOR Is Not Just id=123: A Simple Guide to Smarter IDOR Hunting](https://medium.com/@MuhammedAsfan/idor-is-not-just-id-123-a-simple-guide-to-smarter-idor-hunting-5f58de1109dd?source=rss------bug_bounty_writeup-5)
+- [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
+- [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
+- [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
+- [How to backup and restore the Windows Registry](https://www.bleepingcomputer.com/tutorials/how-to-backup-and-restore-the-windows-registry/)
+- [How to open a Windows 11 Command Prompt as Administrator](https://www.bleepingcomputer.com/tutorials/how-to-open-a-windows-11-command-prompt-as-administrator/)
+- [How to make the Start menu full screen in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-make-the-start-menu-full-screen-in-windows-10/)
+- [How to install the Microsoft Visual C++ 2015 Runtime](https://www.bleepingcomputer.com/tutorials/how-to-install-the-microsoft-visual-c-2015-runtime/)
+- [How to open an elevated PowerShell Admin prompt in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-open-an-elevated-powershell-admin-prompt-in-windows-10/)
+- [How to Translate a Web Page in Google Chrome](https://www.bleepingcomputer.com/tutorials/how-to-translate-a-web-page-in-google-chrome/)
+- [How to Install and Uninstall Google Chrome in Windows](https://www.bleepingcomputer.com/tutorials/how-to-install-and-uninstall-google-chrome-in-windows/)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
