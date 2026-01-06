@@ -1,6 +1,8 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [One Post Away From Being Exposed](https://medium.com/@d3do/one-post-away-from-being-exposed-586c0d415f98?source=rss------bug_bounty_writeup-5)
+- [Beginner Mistakes to Avoid in Bug Bounty &lpar;So You Don’t Quit Too Early&rpar;](https://medium.com/@MuhammedAsfan/beginner-mistakes-to-avoid-in-bug-bounty-so-you-dont-quit-too-early-b1c4127eaac5?source=rss------bug_bounty_writeup-5)
 - [The Recon Mistake 90% of Hackers Make ‍](https://infosecwriteups.com/the-recon-mistake-90-of-hackers-make-52723b69b154?source=rss----7b722bfd1b8d---4)
 - [Active Directory Basics || TryHackMe Room Walkthrough](https://infosecwriteups.com/active-directory-basics-tryhackme-room-walkthrough-d30028c85f79?source=rss----7b722bfd1b8d---4)
 - [Breaking the Same-Origin Policy: A Dive into a CORS Misconfiguration](https://infosecwriteups.com/breaking-the-same-origin-policy-a-dive-into-a-cors-misconfiguration-b6174b0abee6?source=rss----7b722bfd1b8d---4)
@@ -19,8 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [SAR 2,629 For Stored XSS via svg Image Leading to ATO](https://medium.com/@anas-nady/sar-2-629-for-stored-xss-via-svg-image-leading-to-ato-1916c50251dc?source=rss------bug_bounty_writeup-5)
 - [Unauthorized Access to Sensitive PII via Broken Access Control](https://ajay-vardhan01.medium.com/unauthorized-access-to-sensitive-pii-via-broken-access-control-507adf46879a?source=rss------bug_bounty_writeup-5)
 - [Mastering Web Cache Deception Bugs: Advanced Bug Hunter’s Guide](https://medium.com/@reduan7707/mastering-web-cache-deception-bugs-advanced-bug-hunters-guide-eb6106147aab?source=rss------bug_bounty_writeup-5)
-- [The 1.8MB Mistake: Leaking Thousands of Government Users via a Liferay API](https://letchupkt.medium.com/the-1-8mb-mistake-leaking-thousands-of-government-users-via-a-liferay-api-1b07f89f7362?source=rss------bug_bounty_writeup-5)
-- [IDOR Is Not Just id=123: A Simple Guide to Smarter IDOR Hunting](https://medium.com/@MuhammedAsfan/idor-is-not-just-id-123-a-simple-guide-to-smarter-idor-hunting-5f58de1109dd?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
