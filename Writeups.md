@@ -18,7 +18,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [The Art of Redirect 
  How “Low Impact” Open Redirects Become High-Value Chains](https://medium.com/@MuhammedAsfan/the-art-of-redirect-how-low-impact-open-redirects-become-high-value-chains-c8cf00e3b584?source=rss------bug_bounty_writeup-5)
 - [Deep-Dive PII Hunting &amp; Validation Techniques &lpar;Part 2/3&rpar;](https://medium.com/@cybersecplayground/deep-dive-pii-hunting-validation-techniques-part-2-3-c95d587115e2?source=rss------bug_bounty_writeup-5)
-- [SAR 2,629 For Stored XSS via svg Image Leading to ATO](https://medium.com/@anas-nady/sar-2-629-for-stored-xss-via-svg-image-leading-to-ato-1916c50251dc?source=rss------bug_bounty_writeup-5)
+- [SAR 2,629 For Stored XSS via svg Image Leading to ATO](https://cybersecuritywriteups.com/sar-2-629-for-stored-xss-via-svg-image-leading-to-ato-1916c50251dc?source=rss------bug_bounty_writeup-5)
 - [Unauthorized Access to Sensitive PII via Broken Access Control](https://ajay-vardhan01.medium.com/unauthorized-access-to-sensitive-pii-via-broken-access-control-507adf46879a?source=rss------bug_bounty_writeup-5)
 - [Mastering Web Cache Deception Bugs: Advanced Bug Hunter’s Guide](https://medium.com/@reduan7707/mastering-web-cache-deception-bugs-advanced-bug-hunters-guide-eb6106147aab?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
