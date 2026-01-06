@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [My first bounty from Hackerone | $100 Code Injection on AI bot](https://infosecwriteups.com/my-first-bounty-from-hackerone-100-code-injection-on-ai-bot-620a7e3f2ba4?source=rss----7b722bfd1b8d---4)
 - [600$ For Stealing Podcasts/Show via RSS Feed Manipulation](https://medium.com/@anas-nady/600-for-stealing-podcasts-show-via-rss-feed-manipulation-f3f2cef08adf?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Burnout Almost Killed My Motivation — Then This Logic Flaw Paid Me](https://infosecwriteups.com/bug-bounty-burnout-almost-killed-my-motivation-then-this-logic-flaw-paid-me-a1d335016445?source=rss----7b722bfd1b8d---4)
 - [OSINT4Fun: Advent of OSINT 2025 &lpar;Day 5 - Day 8&rpar;](https://infosecwriteups.com/osint4fun-advent-of-osint-2025-day-5-day-8-b0776e224e9c?source=rss----7b722bfd1b8d---4)
@@ -937,7 +938,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [SAR 2,629 For Stored XSS via svg Image Leading to ATO](https://medium.com/@anas-nady/sar-2-629-for-stored-xss-via-svg-image-leading-to-ato-1916c50251dc?source=rss------bug_bounty_writeup-5)
 - [$280 Bug Bounty: How a Case-Sensitive Email Bug Locked Users&#39; Accounts](https://infosecwriteups.com/280-bug-bounty-how-a-case-sensitive-email-bug-locked-users-accounts-175fe00779d9?source=rss----7b722bfd1b8d---4)
 - [W1seGuy Room in TryHackMe](https://infosecwriteups.com/w1seguy-room-in-tryhackme-031880e5a138?source=rss----7b722bfd1b8d---4)
-- [The Endpoint Was Public for a Reason — The Data Wasn’t](https://infosecwriteups.com/the-endpoint-was-public-for-a-reason-the-data-wasnt-eaac71947415?source=rss----7b722bfd1b8d---4)
 - [Unauthorized Access to Sensitive PII via Broken Access Control](https://ajay-vardhan01.medium.com/unauthorized-access-to-sensitive-pii-via-broken-access-control-507adf46879a?source=rss------bug_bounty_writeup-5)
 - [Mastering Web Cache Deception Bugs: Advanced Bug Hunter’s Guide](https://medium.com/@reduan7707/mastering-web-cache-deception-bugs-advanced-bug-hunters-guide-eb6106147aab?source=rss------bug_bounty_writeup-5)
 - [The 1.8MB Mistake: Leaking Thousands of Government Users via a Liferay API](https://letchupkt.medium.com/the-1-8mb-mistake-leaking-thousands-of-government-users-via-a-liferay-api-1b07f89f7362?source=rss------bug_bounty_writeup-5)
