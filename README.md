@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Tanuki -Writeup](https://medium.com/@7s26simon/tanuki-writeup-d1e1d40f1339?source=rss------bug_bounty_writeup-5)
 - [One Post Away From Being Exposed](https://medium.com/@d3do/one-post-away-from-being-exposed-586c0d415f98?source=rss------bug_bounty_writeup-5)
 - [Beginner Mistakes to Avoid in Bug Bounty &lpar;So You Don’t Quit Too Early&rpar;](https://medium.com/@MuhammedAsfan/beginner-mistakes-to-avoid-in-bug-bounty-so-you-dont-quit-too-early-b1c4127eaac5?source=rss------bug_bounty_writeup-5)
 - [The Recon Mistake 90% of Hackers Make ‍](https://infosecwriteups.com/the-recon-mistake-90-of-hackers-make-52723b69b154?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Deep-Dive PII Hunting &amp; Validation Techniques &lpar;Part 2/3&rpar;](https://medium.com/@cybersecplayground/deep-dive-pii-hunting-validation-techniques-part-2-3-c95d587115e2?source=rss------bug_bounty_writeup-5)
 - [SAR 2,629 For Stored XSS via svg Image Leading to ATO](https://medium.com/legionhunters/sar-2-629-for-stored-xss-via-svg-image-leading-to-ato-1916c50251dc?source=rss------bug_bounty_writeup-5)
 - [Unauthorized Access to Sensitive PII via Broken Access Control](https://ajay-vardhan01.medium.com/unauthorized-access-to-sensitive-pii-via-broken-access-control-507adf46879a?source=rss------bug_bounty_writeup-5)
-- [Mastering Web Cache Deception Bugs: Advanced Bug Hunter’s Guide](https://medium.com/@reduan7707/mastering-web-cache-deception-bugs-advanced-bug-hunters-guide-eb6106147aab?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
