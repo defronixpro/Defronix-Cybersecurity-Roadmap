@@ -940,7 +940,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Opacity Thm Walkthrough](https://infosecwriteups.com/opacity-thm-walkthrough-7180b14b877b?source=rss----7b722bfd1b8d---4)
 - [Neighbour — THM Walkthrough](https://infosecwriteups.com/neighbour-thm-walkthrough-a35ec8cdd069?source=rss----7b722bfd1b8d---4)
 - [TryHackMe MD2PDF Writeup](https://infosecwriteups.com/tryhackme-md2pdf-writeup-21c700ebf015?source=rss----7b722bfd1b8d---4)
-- [600$ For Stealing Podcasts/Show via RSS Feed Manipulation](https://cybersecuritywriteups.com/600-for-stealing-podcasts-show-via-rss-feed-manipulation-f3f2cef08adf?source=rss------bug_bounty_writeup-5)
+- [600$ For Stealing Podcasts/Show via RSS Feed Manipulation](https://medium.com/@anas-nady/600-for-stealing-podcasts-show-via-rss-feed-manipulation-f3f2cef08adf?source=rss------bug_bounty_writeup-5)
 - [Account Takeover via IDOR in GraphQL Invitation Flow](https://scriptjacker.medium.com/account-takeover-via-idor-in-graphql-invitation-flow-546b9a120c53?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
