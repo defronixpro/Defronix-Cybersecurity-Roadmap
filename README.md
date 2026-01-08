@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Image XSS ATTACK on Exif.tools | Hacking exif.tools via image injection by CYBER KALKI #Livepoc](https://medium.com/@elelyonmusk/image-xss-attack-on-exif-tools-hacking-exif-tools-via-image-injection-by-cyber-kalki-livepoc-250f19afa866?source=rss------bug_bounty_writeup-5)
+- [Akamai WAF Bypass: Escalating SSRF into Internal Port Scanning](https://medium.com/@theteatoast/akamai-waf-bypass-escalating-ssrf-into-internal-port-scanning-fc78402f94e7?source=rss------bug_bounty_writeup-5)
 - [Token Leakage in Password Reset Flows](https://medium.com/@MuhammedAsfan/token-leakage-in-password-reset-flows-88ca87e0adca?source=rss------bug_bounty_writeup-5)
 - [How I Found Broken Authentication and Authorization on a Website](https://medium.com/@nyany032/how-i-found-broken-authentication-and-authorization-on-a-website-378db3f2aaea?source=rss------bug_bounty_writeup-5)
 - [Chaining Legacy Misconfigurations and IDOR to Access Sensitive User Operations](https://medium.com/@usamazahoor942/chaining-legacy-misconfigurations-and-idor-to-access-sensitive-user-operations-cb30c72a8367?source=rss------bug_bounty_writeup-5)
@@ -940,9 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [TryHackMe MD2PDF Writeup](https://infosecwriteups.com/tryhackme-md2pdf-writeup-21c700ebf015?source=rss----7b722bfd1b8d---4)
 - [600$ For Stealing Podcasts/Show via RSS Feed Manipulation](https://medium.com/@anas-nady/600-for-stealing-podcasts-show-via-rss-feed-manipulation-f3f2cef08adf?source=rss------bug_bounty_writeup-5)
 - [Account Takeover via IDOR in GraphQL Invitation Flow](https://scriptjacker.medium.com/account-takeover-via-idor-in-graphql-invitation-flow-546b9a120c53?source=rss------bug_bounty_writeup-5)
-- [The Art of Redirect 
- How “Low Impact” Open Redirects Become High-Value Chains](https://medium.com/@MuhammedAsfan/the-art-of-redirect-how-low-impact-open-redirects-become-high-value-chains-c8cf00e3b584?source=rss------bug_bounty_writeup-5)
-- [Deep-Dive PII Hunting &amp; Validation Techniques &lpar;Part 2/3&rpar;](https://medium.com/@cybersecplayground/deep-dive-pii-hunting-validation-techniques-part-2-3-c95d587115e2?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
