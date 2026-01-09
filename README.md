@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Zomato Ceo Deepinder Goyal and other Billionaires PAN NUMBER Sensitive PII Leak by Cyber Kalki](https://medium.com/@elelyonmusk/zomato-ceo-deepinder-goyal-and-other-billionaires-pan-number-sensitive-pii-leak-by-cyber-kalki-86bf8a327c1e?source=rss------bug_bounty_writeup-5)
 - [Caches, Edge, and Exploits](https://medium.com/@MuhammedAsfan/caches-edge-and-exploits-67db17b5fa6b?source=rss------bug_bounty_writeup-5)
 - [IDOR in 2026: Same Bug, Bigger Damage — 10 GB of Chat History &lpar;Dating Application&rpar;](https://osintteam.blog/idor-in-2026-same-bug-bigger-damage-10-gb-of-chat-history-dating-application-60f72a71be85?source=rss------bug_bounty_writeup-5)
 - [Image XSS ATTACK on Exif.tools | Hacking exif.tools via image injection by CYBER KALKI #Livepoc](https://medium.com/@elelyonmusk/image-xss-attack-on-exif-tools-hacking-exif-tools-via-image-injection-by-cyber-kalki-livepoc-250f19afa866?source=rss------bug_bounty_writeup-5)
@@ -934,7 +935,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [One Link, One Report, One Four-Digit Bounty](https://infosecwriteups.com/one-link-one-report-one-four-digit-bounty-a4a682a9b612?source=rss----7b722bfd1b8d---4)
 - [Tanuki -Writeup](https://medium.com/@7s26simon/tanuki-writeup-d1e1d40f1339?source=rss------bug_bounty_writeup-5)
 - [One Post Away From Being Exposed](https://medium.com/@d3do/one-post-away-from-being-exposed-586c0d415f98?source=rss------bug_bounty_writeup-5)
-- [Beginner Mistakes to Avoid in Bug Bounty &lpar;So You Don’t Quit Too Early&rpar;](https://medium.com/@MuhammedAsfan/beginner-mistakes-to-avoid-in-bug-bounty-so-you-dont-quit-too-early-b1c4127eaac5?source=rss------bug_bounty_writeup-5)
 - [The Recon Mistake 90% of Hackers Make ‍](https://infosecwriteups.com/the-recon-mistake-90-of-hackers-make-52723b69b154?source=rss----7b722bfd1b8d---4)
 - [Active Directory Basics || TryHackMe Room Walkthrough](https://infosecwriteups.com/active-directory-basics-tryhackme-room-walkthrough-d30028c85f79?source=rss----7b722bfd1b8d---4)
 - [Breaking the Same-Origin Policy: A Dive into a CORS Misconfiguration](https://infosecwriteups.com/breaking-the-same-origin-policy-a-dive-into-a-cors-misconfiguration-b6174b0abee6?source=rss----7b722bfd1b8d---4)
