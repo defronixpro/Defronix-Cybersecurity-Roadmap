@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Breaking Password Reset Logic: A Comprehensive Exploitation Guide](https://osintteam.blog/breaking-password-reset-logic-a-comprehensive-exploitation-guide-3c626aedb0fa?source=rss------bug_bounty_writeup-5)
 - [Zomato Ceo Deepinder Goyal and other Billionaires PAN NUMBER Sensitive PII Leak by Cyber Kalki](https://medium.com/@elelyonmusk/zomato-ceo-deepinder-goyal-and-other-billionaires-pan-number-sensitive-pii-leak-by-cyber-kalki-86bf8a327c1e?source=rss------bug_bounty_writeup-5)
 - [Caches, Edge, and Exploits](https://medium.com/@MuhammedAsfan/caches-edge-and-exploits-67db17b5fa6b?source=rss------bug_bounty_writeup-5)
 - [IDOR in 2026: Same Bug, Bigger Damage — 10 GB of Chat History &lpar;Dating Application&rpar;](https://osintteam.blog/idor-in-2026-same-bug-bigger-damage-10-gb-of-chat-history-dating-application-60f72a71be85?source=rss------bug_bounty_writeup-5)
@@ -13,7 +14,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Subdomain Takeover in 2025  — New Methods + Tools](https://infosecwriteups.com/subdomain-takeover-in-2025-new-methods-tools-dba94ba02121?source=rss----7b722bfd1b8d---4)
 - [One Link, One Report, One Four-Digit Bounty](https://infosecwriteups.com/one-link-one-report-one-four-digit-bounty-a4a682a9b612?source=rss----7b722bfd1b8d---4)
 - [Tanuki -Writeup](https://medium.com/@7s26simon/tanuki-writeup-d1e1d40f1339?source=rss------bug_bounty_writeup-5)
-- [One Post Away From Being Exposed](https://medium.com/@d3do/one-post-away-from-being-exposed-586c0d415f98?source=rss------bug_bounty_writeup-5)
 - [The Recon Mistake 90% of Hackers Make ‍](https://infosecwriteups.com/the-recon-mistake-90-of-hackers-make-52723b69b154?source=rss----7b722bfd1b8d---4)
 - [Active Directory Basics || TryHackMe Room Walkthrough](https://infosecwriteups.com/active-directory-basics-tryhackme-room-walkthrough-d30028c85f79?source=rss----7b722bfd1b8d---4)
 - [Breaking the Same-Origin Policy: A Dive into a CORS Misconfiguration](https://infosecwriteups.com/breaking-the-same-origin-policy-a-dive-into-a-cors-misconfiguration-b6174b0abee6?source=rss----7b722bfd1b8d---4)
@@ -25,17 +25,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
 - [How to backup and restore the Windows Registry](https://www.bleepingcomputer.com/tutorials/how-to-backup-and-restore-the-windows-registry/)
-- [How To Fix Error: Externally-Managed-Environment In Python &lpar;Kali Linux&rpar;](https://technicalnavigator.in/how-to-fix-error-externally-managed-environment-in-python-kali-linux/)
-- [Understanding Systemctl Command in Linux &lpar;Practical&rpar;](https://technicalnavigator.in/understanding-systemctl-command-in-linux-practical/)
-- [Macros in docm &amp; Linux memory dump| Hack The Boo  Challanges](https://technicalnavigator.in/macros-in-docm-linux-memory-dump-hack-the-boo-challanges/)
-- [Android Apps debugging |  Frida, JADX, Genymotion](https://technicalnavigator.in/android-apps-debugging-frida-jadx-genymotion/)
-- [MouseServer | wifimouse – Windows/ Linux](https://technicalnavigator.in/mouseserver-wifimouse-windows-linux/)
-- [FFUF fuzzer | web-application penetration-testing](https://technicalnavigator.in/ffuf-fuzzer-web-application-penetration-testing/)
 - [How to open a Windows 11 Command Prompt as Administrator](https://www.bleepingcomputer.com/tutorials/how-to-open-a-windows-11-command-prompt-as-administrator/)
-- [Classes-Objects &amp; Deserialization bug](https://technicalnavigator.in/classes-objects-deserialization-bug/)
-- [Loki Tool | Multhreading Over Sockets in C](https://technicalnavigator.in/loki-tool-multhreading-over-sockets-in-c/)
-- [Egghunter | NASM | C prototype](https://technicalnavigator.in/egghunter-nasm-c-prototype/)
-- [TELNET &amp; FTP Analysis](https://technicalnavigator.in/telnet-ftp-analysis/)
 - [How to make the Start menu full screen in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-make-the-start-menu-full-screen-in-windows-10/)
 - [How to install the Microsoft Visual C++ 2015 Runtime](https://www.bleepingcomputer.com/tutorials/how-to-install-the-microsoft-visual-c-2015-runtime/)
 - [How to open an elevated PowerShell Admin prompt in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-open-an-elevated-powershell-admin-prompt-in-windows-10/)
