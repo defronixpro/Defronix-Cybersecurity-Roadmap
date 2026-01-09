@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Caches, Edge, and Exploits](https://medium.com/@MuhammedAsfan/caches-edge-and-exploits-67db17b5fa6b?source=rss------bug_bounty_writeup-5)
 - [IDOR in 2026: Same Bug, Bigger Damage — 10 GB of Chat History &lpar;Dating Application&rpar;](https://osintteam.blog/idor-in-2026-same-bug-bigger-damage-10-gb-of-chat-history-dating-application-60f72a71be85?source=rss------bug_bounty_writeup-5)
 - [Image XSS ATTACK on Exif.tools | Hacking exif.tools via image injection by CYBER KALKI #Livepoc](https://medium.com/@elelyonmusk/image-xss-attack-on-exif-tools-hacking-exif-tools-via-image-injection-by-cyber-kalki-livepoc-250f19afa866?source=rss------bug_bounty_writeup-5)
 - [Akamai WAF Bypass: Escalating SSRF into Internal Port Scanning](https://medium.com/@theteatoast/akamai-waf-bypass-escalating-ssrf-into-internal-port-scanning-fc78402f94e7?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Opacity Thm Walkthrough](https://infosecwriteups.com/opacity-thm-walkthrough-7180b14b877b?source=rss----7b722bfd1b8d---4)
 - [Neighbour — THM Walkthrough](https://infosecwriteups.com/neighbour-thm-walkthrough-a35ec8cdd069?source=rss----7b722bfd1b8d---4)
 - [TryHackMe MD2PDF Writeup](https://infosecwriteups.com/tryhackme-md2pdf-writeup-21c700ebf015?source=rss----7b722bfd1b8d---4)
-- [600$ For Stealing Podcasts/Show via RSS Feed Manipulation](https://medium.com/@anas-nady/600-for-stealing-podcasts-show-via-rss-feed-manipulation-f3f2cef08adf?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
