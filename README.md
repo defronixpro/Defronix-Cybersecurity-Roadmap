@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How a Simple Email List Got Me My First Bug Bounty](https://medium.com/@suvraj112/how-a-simple-email-list-got-me-my-first-bug-bounty-0fe69dfc66b2?source=rss------bug_bounty_writeup-5)
 - [Multitasking Is Quietly Killing Your Bug Bounty Results](https://infosecwriteups.com/multitasking-is-quietly-killing-your-bug-bounty-results-9c08d04f653d?source=rss------bug_bounty_writeup-5)
 - [Which Bugs to Hunt for in 2026](https://infosecwriteups.com/which-bugs-to-hunt-for-in-2026-9359d33b0f57?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Hunters: Hunt this bug in 2026](https://medium.com/@jeosantos2005/bug-bounty-hunters-hunt-this-bug-in-2026-368a740c8d8f?source=rss------bug_bounty_writeup-5)
@@ -931,7 +932,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [IDOR in 2026: Same Bug, Bigger Damage — 10 GB of Chat History &lpar;Dating Application&rpar;](https://osintteam.blog/idor-in-2026-same-bug-bigger-damage-10-gb-of-chat-history-dating-application-60f72a71be85?source=rss------bug_bounty_writeup-5)
 - [Image XSS ATTACK on Exif.tools | Hacking exif.tools via image injection by CYBER KALKI #Livepoc](https://medium.com/@elelyonmusk/image-xss-attack-on-exif-tools-hacking-exif-tools-via-image-injection-by-cyber-kalki-livepoc-250f19afa866?source=rss------bug_bounty_writeup-5)
 - [Akamai WAF Bypass: Escalating SSRF into Internal Port Scanning](https://medium.com/@theteatoast/akamai-waf-bypass-escalating-ssrf-into-internal-port-scanning-fc78402f94e7?source=rss------bug_bounty_writeup-5)
-- [Token Leakage in Password Reset Flows](https://medium.com/@MuhammedAsfan/token-leakage-in-password-reset-flows-88ca87e0adca?source=rss------bug_bounty_writeup-5)
 - [How One “Safe” Optimization Feature Became a Critical Security Failure ⚙️](https://infosecwriteups.com/how-one-safe-optimization-feature-became-a-critical-security-failure-%EF%B8%8F-55b00dc462ec?source=rss----7b722bfd1b8d---4)
 - [Subdomain Takeover in 2025  — New Methods + Tools](https://infosecwriteups.com/subdomain-takeover-in-2025-new-methods-tools-dba94ba02121?source=rss----7b722bfd1b8d---4)
 - [One Link, One Report, One Four-Digit Bounty](https://infosecwriteups.com/one-link-one-report-one-four-digit-bounty-a4a682a9b612?source=rss----7b722bfd1b8d---4)
