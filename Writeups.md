@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Bug Bounty Hunters: Hunt this bug in 2026](https://medium.com/@jeosantos2005/bug-bounty-hunters-hunt-this-bug-in-2026-368a740c8d8f?source=rss------bug_bounty_writeup-5)
 - [Breaking Password Reset Logic: A Comprehensive Exploitation Guide](https://osintteam.blog/breaking-password-reset-logic-a-comprehensive-exploitation-guide-3c626aedb0fa?source=rss------bug_bounty_writeup-5)
 - [Zomato Ceo Deepinder Goyal and other Billionaires PAN NUMBER Sensitive PII Leak by Cyber Kalki](https://medium.com/@elelyonmusk/zomato-ceo-deepinder-goyal-and-other-billionaires-pan-number-sensitive-pii-leak-by-cyber-kalki-86bf8a327c1e?source=rss------bug_bounty_writeup-5)
 - [Caches, Edge, and Exploits](https://medium.com/@MuhammedAsfan/caches-edge-and-exploits-67db17b5fa6b?source=rss------bug_bounty_writeup-5)
@@ -13,7 +14,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How One “Safe” Optimization Feature Became a Critical Security Failure ⚙️](https://infosecwriteups.com/how-one-safe-optimization-feature-became-a-critical-security-failure-%EF%B8%8F-55b00dc462ec?source=rss----7b722bfd1b8d---4)
 - [Subdomain Takeover in 2025  — New Methods + Tools](https://infosecwriteups.com/subdomain-takeover-in-2025-new-methods-tools-dba94ba02121?source=rss----7b722bfd1b8d---4)
 - [One Link, One Report, One Four-Digit Bounty](https://infosecwriteups.com/one-link-one-report-one-four-digit-bounty-a4a682a9b612?source=rss----7b722bfd1b8d---4)
-- [Tanuki -Writeup](https://medium.com/@7s26simon/tanuki-writeup-d1e1d40f1339?source=rss------bug_bounty_writeup-5)
 - [The Recon Mistake 90% of Hackers Make ‍](https://infosecwriteups.com/the-recon-mistake-90-of-hackers-make-52723b69b154?source=rss----7b722bfd1b8d---4)
 - [Active Directory Basics || TryHackMe Room Walkthrough](https://infosecwriteups.com/active-directory-basics-tryhackme-room-walkthrough-d30028c85f79?source=rss----7b722bfd1b8d---4)
 - [Breaking the Same-Origin Policy: A Dive into a CORS Misconfiguration](https://infosecwriteups.com/breaking-the-same-origin-policy-a-dive-into-a-cors-misconfiguration-b6174b0abee6?source=rss----7b722bfd1b8d---4)
