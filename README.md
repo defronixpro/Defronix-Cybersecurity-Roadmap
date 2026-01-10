@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How a Simple Business Logic Flaw Caused an Account Lockout DoS](https://medium.com/@christosdimitropouloss/how-a-simple-business-logic-flaw-caused-an-account-lockout-dos-c6b66bd2e3d0?source=rss------bug_bounty_writeup-5)
 - [How I Won a $2,000 Bug Bounty Using Only Nmap](https://medium.com/@cybervolt/how-i-won-a-2-000-bug-bounty-using-only-nmap-45086c5e9ac3?source=rss------bug_bounty_writeup-5)
 - [The €400 Bug - VPN/Geo Location Bypass](https://infosecwriteups.com/the-400-bug-vpn-geo-location-bypass-0e9a6d26dd37?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Tools: A Practical List of Old &amp; New Tools Real Hackers Use](https://infosecwriteups.com/bug-bounty-tools-a-practical-list-of-old-new-tools-real-hackers-use-bbf7eb7009f8?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Breaking Password Reset Logic: A Comprehensive Exploitation Guide](https://osintteam.blog/breaking-password-reset-logic-a-comprehensive-exploitation-guide-3c626aedb0fa?source=rss------bug_bounty_writeup-5)
 - [Zomato Ceo Deepinder Goyal and other Billionaires PAN NUMBER Sensitive PII Leak by Cyber Kalki](https://medium.com/@elelyonmusk/zomato-ceo-deepinder-goyal-and-other-billionaires-pan-number-sensitive-pii-leak-by-cyber-kalki-86bf8a327c1e?source=rss------bug_bounty_writeup-5)
 - [Caches, Edge, and Exploits](https://medium.com/@MuhammedAsfan/caches-edge-and-exploits-67db17b5fa6b?source=rss------bug_bounty_writeup-5)
-- [IDOR in 2026: Same Bug, Bigger Damage — 10 GB of Chat History &lpar;Dating Application&rpar;](https://osintteam.blog/idor-in-2026-same-bug-bigger-damage-10-gb-of-chat-history-dating-application-60f72a71be85?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
