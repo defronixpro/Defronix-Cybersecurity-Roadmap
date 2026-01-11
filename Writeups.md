@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Race condition leading to multiple refunds and cash re](https://medium.com/@habibhassan293/race-condition-leading-to-multiple-refunds-and-cash-re-bdcf890cafca?source=rss------bug_bounty_writeup-5)
 - [Business logic flaw leading to product depletion](https://medium.com/@habibhassan293/business-logic-flaw-leading-to-product-depletion-6cfbc7ecda66?source=rss------bug_bounty_writeup-5)
 - [401/403 Bypass](https://medium.com/@MuhammedAsfan/401-403-bypass-e81ff93a9abe?source=rss------bug_bounty_writeup-5)
 - [How a Simple Business Logic Flaw Caused an Account Lockout DoS](https://medium.com/@christosdimitropouloss/how-a-simple-business-logic-flaw-caused-an-account-lockout-dos-c6b66bd2e3d0?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Multitasking Is Quietly Killing Your Bug Bounty Results](https://infosecwriteups.com/multitasking-is-quietly-killing-your-bug-bounty-results-9c08d04f653d?source=rss------bug_bounty_writeup-5)
 - [Which Bugs to Hunt for in 2026](https://infosecwriteups.com/which-bugs-to-hunt-for-in-2026-9359d33b0f57?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Hunters: Hunt this bug in 2026](https://medium.com/@jeosantos2005/bug-bounty-hunters-hunt-this-bug-in-2026-368a740c8d8f?source=rss------bug_bounty_writeup-5)
-- [Breaking Password Reset Logic: A Comprehensive Exploitation Guide](https://osintteam.blog/breaking-password-reset-logic-a-comprehensive-exploitation-guide-3c626aedb0fa?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
