@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Business logic flaw leading to product depletion](https://medium.com/@habibhassan293/business-logic-flaw-leading-to-product-depletion-6cfbc7ecda66?source=rss------bug_bounty_writeup-5)
 - [401/403 Bypass](https://medium.com/@MuhammedAsfan/401-403-bypass-e81ff93a9abe?source=rss------bug_bounty_writeup-5)
 - [How a Simple Business Logic Flaw Caused an Account Lockout DoS](https://medium.com/@christosdimitropouloss/how-a-simple-business-logic-flaw-caused-an-account-lockout-dos-c6b66bd2e3d0?source=rss------bug_bounty_writeup-5)
 - [How I Won a $2,000 Bug Bounty Using Only Nmap](https://medium.com/@cybervolt/how-i-won-a-2-000-bug-bounty-using-only-nmap-45086c5e9ac3?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Which Bugs to Hunt for in 2026](https://infosecwriteups.com/which-bugs-to-hunt-for-in-2026-9359d33b0f57?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Hunters: Hunt this bug in 2026](https://medium.com/@jeosantos2005/bug-bounty-hunters-hunt-this-bug-in-2026-368a740c8d8f?source=rss------bug_bounty_writeup-5)
 - [Breaking Password Reset Logic: A Comprehensive Exploitation Guide](https://osintteam.blog/breaking-password-reset-logic-a-comprehensive-exploitation-guide-3c626aedb0fa?source=rss------bug_bounty_writeup-5)
-- [Zomato Ceo Deepinder Goyal and other Billionaires PAN NUMBER Sensitive PII Leak by Cyber Kalki](https://medium.com/@elelyonmusk/zomato-ceo-deepinder-goyal-and-other-billionaires-pan-number-sensitive-pii-leak-by-cyber-kalki-86bf8a327c1e?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
