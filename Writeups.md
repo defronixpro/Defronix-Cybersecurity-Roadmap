@@ -1,7 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
-- [Everything About Cloud Bucket Hacking &lpar; S3 &amp; GCS &amp; Azure &amp; Firebase &rpar;](https://medium.com/legionhunters/everything-about-cloud-bucket-hacking-s3-gcs-azure-firebase-c027e9441ff9?source=rss------bug_bounty_writeup-5)
+- [Everything About Cloud Bucket Hacking &lpar; S3 &amp; GCS &amp; Azure &amp; Firebase &rpar;](https://cybersecuritywriteups.com/everything-about-cloud-bucket-hacking-s3-gcs-azure-firebase-c027e9441ff9?source=rss------bug_bounty_writeup-5)
 - [Race condition leading to multiple refunds and cash re](https://medium.com/@habibhassan293/race-condition-leading-to-multiple-refunds-and-cash-re-bdcf890cafca?source=rss------bug_bounty_writeup-5)
 - [Business logic flaw leading to product depletion](https://medium.com/@habibhassan293/business-logic-flaw-leading-to-product-depletion-6cfbc7ecda66?source=rss------bug_bounty_writeup-5)
 - [401/403 Bypass](https://medium.com/@MuhammedAsfan/401-403-bypass-e81ff93a9abe?source=rss------bug_bounty_writeup-5)
