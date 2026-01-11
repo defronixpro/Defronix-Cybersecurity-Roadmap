@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Back to Basics: How I took over an account with a simple ID change &lpar;IDOR&rpar;](https://medium.com/@mv999exe/back-to-basics-how-i-took-over-an-account-with-a-simple-id-change-idor-b82960cafd3c?source=rss------bug_bounty_writeup-5)
 - [Everything About Cloud Bucket Hacking &lpar; S3 &amp; GCS &amp; Azure &amp; Firebase &rpar;](https://cybersecuritywriteups.com/everything-about-cloud-bucket-hacking-s3-gcs-azure-firebase-c027e9441ff9?source=rss------bug_bounty_writeup-5)
 - [Race condition leading to multiple refunds and cash re](https://medium.com/@habibhassan293/race-condition-leading-to-multiple-refunds-and-cash-re-bdcf890cafca?source=rss------bug_bounty_writeup-5)
 - [Business logic flaw leading to product depletion](https://medium.com/@habibhassan293/business-logic-flaw-leading-to-product-depletion-6cfbc7ecda66?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [I Was Logged Out — But the API Still Trusted Me](https://infosecwriteups.com/i-was-logged-out-but-the-api-still-trusted-me-85ebbe020544?source=rss----7b722bfd1b8d---4)
 - [How a Simple Email List Got Me My First Bug Bounty](https://medium.com/@suvraj112/how-a-simple-email-list-got-me-my-first-bug-bounty-0fe69dfc66b2?source=rss------bug_bounty_writeup-5)
 - [Multitasking Is Quietly Killing Your Bug Bounty Results](https://infosecwriteups.com/multitasking-is-quietly-killing-your-bug-bounty-results-9c08d04f653d?source=rss------bug_bounty_writeup-5)
-- [Which Bugs to Hunt for in 2026](https://infosecwriteups.com/which-bugs-to-hunt-for-in-2026-9359d33b0f57?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
