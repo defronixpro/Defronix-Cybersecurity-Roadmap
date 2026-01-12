@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Bypassing Email Verification via OAuth Misconfiguration](https://medium.com/@xelcezeri/bypassing-email-verification-via-oauth-misconfiguration-cad488c15f2f?source=rss------bug_bounty_writeup-5)
 - [From Failure to $32,000: My Bug Bounty Journey](https://infosecwriteups.com/from-failure-to-32-000-my-bug-bounty-journey-84eac429e2d0?source=rss----7b722bfd1b8d---4)
 - [From Failure to $32,000: My Bug Bounty Journey](https://infosecwriteups.com/from-failure-to-32-000-my-bug-bounty-journey-84eac429e2d0?source=rss------bug_bounty_writeup-5)
 - [️ PROTOCOL BREACH: Engineering Total Domain Compromise on HTB Escape](https://infosecwriteups.com/%EF%B8%8F-protocol-breach-engineering-total-domain-compromise-on-htb-escape-350ecacf457c?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Race condition leading to multiple refunds and cash re](https://medium.com/@habibhassan293/race-condition-leading-to-multiple-refunds-and-cash-re-bdcf890cafca?source=rss------bug_bounty_writeup-5)
 - [Business logic flaw leading to product depletion](https://medium.com/@habibhassan293/business-logic-flaw-leading-to-product-depletion-6cfbc7ecda66?source=rss------bug_bounty_writeup-5)
 - [401/403 Bypass](https://medium.com/@MuhammedAsfan/401-403-bypass-e81ff93a9abe?source=rss------bug_bounty_writeup-5)
-- [How a Simple Business Logic Flaw Caused an Account Lockout DoS](https://medium.com/@christosdimitropouloss/how-a-simple-business-logic-flaw-caused-an-account-lockout-dos-c6b66bd2e3d0?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
