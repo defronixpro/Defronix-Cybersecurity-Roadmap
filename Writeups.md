@@ -1,6 +1,13 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [The Dark Web Dump Was Old — The Vulnerability Wasn’t ️](https://infosecwriteups.com/the-dark-web-dump-was-old-the-vulnerability-wasnt-%EF%B8%8F-f0c4a2df8171?source=rss----7b722bfd1b8d---4)
+- [How I Discovered Client-Side Desync &lpar;HTTP Request Smuggling&rpar; in Bug Bounty and Got Rewarded](https://infosecwriteups.com/how-i-discovered-client-side-desync-http-request-smuggling-in-bug-bounty-and-got-rewarded-2e1608a2d43e?source=rss----7b722bfd1b8d---4)
+- [How Playing CTFs Taught Me to Think Like a Hacker](https://infosecwriteups.com/how-playing-ctfs-taught-me-to-think-like-a-hacker-3230225e713b?source=rss----7b722bfd1b8d---4)
+- [How I Became the 4th Top Bug Bounty Researcher on Comolho: My Journey](https://infosecwriteups.com/how-i-became-the-4th-top-bug-bounty-researcher-on-comolho-my-journey-2782166cf83c?source=rss----7b722bfd1b8d---4)
+- [CVE-2025–68613: The Critical n8n Vulnerability Threatening 103,000+ Automation Platforms](https://infosecwriteups.com/cve-2025-68613-the-critical-n8n-vulnerability-threatening-103-000-automation-platforms-d1aca3cc9d07?source=rss----7b722bfd1b8d---4)
+- [3 Key AppSec Strategy changes in the Age of AI](https://infosecwriteups.com/3-key-appsec-strategy-changes-in-the-age-of-ai-071a8eca5c7b?source=rss----7b722bfd1b8d---4)
+- [The €400 Bug - VPN/Geo Location Bypass](https://infosecwriteups.com/the-400-bug-vpn-geo-location-bypass-0e9a6d26dd37?source=rss----7b722bfd1b8d---4)
 - [Content Security Policy &lpar;CSP&rpar; Explained: Simple Guide for XSS Defense](https://medium.com/@MuhammedAsfan/content-security-policy-csp-explained-simple-guide-for-xss-defense-5ebf67612351?source=rss------bug_bounty_writeup-5)
 - [The “Denial of Wallet” Race Condition: How I Bypassed Transaction Limits &lpar;And Got Rejected&rpar;](https://systemweakness.com/the-denial-of-wallet-race-condition-how-i-bypassed-transaction-limits-and-got-rejected-546598a25a23?source=rss------bug_bounty_writeup-5)
 - [Beyond IDOR: Discovering a Stored XSS in a Vulnerable Web Platform](https://medium.com/@mv999exe/beyond-idor-discovering-a-stored-xss-in-a-vulnerable-web-platform-3644bdb67a2e?source=rss------bug_bounty_writeup-5)
@@ -14,13 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Bug Bounty Tools: A Practical List of Old &amp; New Tools Real Hackers Use](https://infosecwriteups.com/bug-bounty-tools-a-practical-list-of-old-new-tools-real-hackers-use-bbf7eb7009f8?source=rss----7b722bfd1b8d---4)
 - [Which Bugs to Hunt for in 2026](https://infosecwriteups.com/which-bugs-to-hunt-for-in-2026-9359d33b0f57?source=rss----7b722bfd1b8d---4)
 - [How I Hacked My College’s Website and Found a CVE Affecting 100+ Institutions across India](https://infosecwriteups.com/how-i-hacked-my-colleges-website-and-found-a-cve-affecting-100-institutions-across-india-29b3c8266a11?source=rss----7b722bfd1b8d---4)
-- [We Grow on the Edge of the Abyss](https://infosecwriteups.com/we-grow-on-the-edge-of-the-abyss-67a61fd00ee0?source=rss----7b722bfd1b8d---4)
-- [One Forgotten Subdomain, Thousands of User Records — A Recon Story](https://infosecwriteups.com/one-forgotten-subdomain-thousands-of-user-records-a-recon-story-6dcde55aaa7c?source=rss----7b722bfd1b8d---4)
-- [CyberHeroes THM Writeup](https://infosecwriteups.com/cyberheroes-thm-writeup-80985a5e9136?source=rss----7b722bfd1b8d---4)
-- [[Relevant]  —  Windows Server 2016 Exploitation via IIS Enumeration, Credential Disclosure, and…](https://infosecwriteups.com/relevant-windows-server-2016-exploitation-via-iis-enumeration-credential-disclosure-and-518ca3f4a66e?source=rss----7b722bfd1b8d---4)
-- [Digital Travel App TripBFF Exposed Location Data Way Too Accurately](https://infosecwriteups.com/digital-travel-app-tripbff-exposed-location-data-way-too-accurately-524cd0792a7d?source=rss----7b722bfd1b8d---4)
-- [Critical n8n Security Vulnerability &lpar;CVE-2026–21858&rpar; Demands Immediate Action](https://infosecwriteups.com/critical-n8n-security-vulnerability-cve-2026-21858-demands-immediate-action-c4bd95b5d93c?source=rss----7b722bfd1b8d---4)
-- [I Was Logged Out — But the API Still Trusted Me](https://infosecwriteups.com/i-was-logged-out-but-the-api-still-trusted-me-85ebbe020544?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
