@@ -922,6 +922,9 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [When a Checkout Page Leaks Your Session](https://infosecwriteups.com/when-a-checkout-page-leaks-your-session-f08885668ae7?source=rss----7b722bfd1b8d---4)
+- [Bypassing SSRF Protections: A $10,000 Lesson from Slack](https://infosecwriteups.com/bypassing-ssrf-protections-a-10-000-lesson-from-slack-6cff022a44a6?source=rss----7b722bfd1b8d---4)
+- [How to Hack](https://infosecwriteups.com/how-to-hack-f5bfdbafe938?source=rss----7b722bfd1b8d---4)
 - [Bypassing Email Verification via OAuth Misconfiguration](https://medium.com/@xelcezeri/bypassing-email-verification-via-oauth-misconfiguration-cad488c15f2f?source=rss------bug_bounty_writeup-5)
 - [From Failure to $32,000: My Bug Bounty Journey](https://infosecwriteups.com/from-failure-to-32-000-my-bug-bounty-journey-84eac429e2d0?source=rss----7b722bfd1b8d---4)
 - [From Failure to $32,000: My Bug Bounty Journey](https://infosecwriteups.com/from-failure-to-32-000-my-bug-bounty-journey-84eac429e2d0?source=rss------bug_bounty_writeup-5)
@@ -931,9 +934,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Padelify — THM Writeup](https://infosecwriteups.com/padelify-thm-writeup-5f30dd31009f?source=rss----7b722bfd1b8d---4)
 - [React2Shell &lpar;CVE-2025–55182&rpar; — From React Server Components to Full RCE](https://infosecwriteups.com/react2shell-cve-2025-55182-from-react-server-components-to-full-rce-81acd9f94783?source=rss----7b722bfd1b8d---4)
 - [The Dark Web Dump Was Old — The Vulnerability Wasn’t ️](https://infosecwriteups.com/the-dark-web-dump-was-old-the-vulnerability-wasnt-%EF%B8%8F-f0c4a2df8171?source=rss----7b722bfd1b8d---4)
-- [How I Discovered Client-Side Desync &lpar;HTTP Request Smuggling&rpar; in Bug Bounty and Got Rewarded](https://infosecwriteups.com/how-i-discovered-client-side-desync-http-request-smuggling-in-bug-bounty-and-got-rewarded-2e1608a2d43e?source=rss----7b722bfd1b8d---4)
-- [How Playing CTFs Taught Me to Think Like a Hacker](https://infosecwriteups.com/how-playing-ctfs-taught-me-to-think-like-a-hacker-3230225e713b?source=rss----7b722bfd1b8d---4)
-- [How I Became the 4th Top Bug Bounty Researcher on Comolho: My Journey](https://infosecwriteups.com/how-i-became-the-4th-top-bug-bounty-researcher-on-comolho-my-journey-2782166cf83c?source=rss----7b722bfd1b8d---4)
 - [Content Security Policy &lpar;CSP&rpar; Explained: Simple Guide for XSS Defense](https://medium.com/@MuhammedAsfan/content-security-policy-csp-explained-simple-guide-for-xss-defense-5ebf67612351?source=rss------bug_bounty_writeup-5)
 - [The “Denial of Wallet” Race Condition: How I Bypassed Transaction Limits &lpar;And Got Rejected&rpar;](https://systemweakness.com/the-denial-of-wallet-race-condition-how-i-bypassed-transaction-limits-and-got-rejected-546598a25a23?source=rss------bug_bounty_writeup-5)
 - [Beyond IDOR: Discovering a Stored XSS in a Vulnerable Web Platform](https://medium.com/@mv999exe/beyond-idor-discovering-a-stored-xss-in-a-vulnerable-web-platform-3644bdb67a2e?source=rss------bug_bounty_writeup-5)
