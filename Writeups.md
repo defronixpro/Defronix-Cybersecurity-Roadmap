@@ -1,7 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
-- [The “Inspector Gadget” Hack: How I Bypassed Federal Authentication by Deleting a Popup](https://zer0figure.medium.com/the-inspector-gadget-hack-how-i-bypassed-federal-authentication-by-deleting-a-popup-03dd897177fe?source=rss------bug_bounty_writeup-5)
+- [The “Inspector Gadget” Hack: How I Bypassed Federal Authentication by Deleting a Popup](https://systemweakness.com/the-inspector-gadget-hack-how-i-bypassed-federal-authentication-by-deleting-a-popup-03dd897177fe?source=rss------bug_bounty_writeup-5)
 - [When a Checkout Page Leaks Your Session](https://infosecwriteups.com/when-a-checkout-page-leaks-your-session-f08885668ae7?source=rss----7b722bfd1b8d---4)
 - [Bypassing SSRF Protections: A $10,000 Lesson from Slack](https://infosecwriteups.com/bypassing-ssrf-protections-a-10-000-lesson-from-slack-6cff022a44a6?source=rss----7b722bfd1b8d---4)
 - [How to Hack](https://infosecwriteups.com/how-to-hack-f5bfdbafe938?source=rss----7b722bfd1b8d---4)
