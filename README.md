@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Hacking the Hackers](https://medium.com/@Br0k3n_1337/hacking-the-hackers-bd34031b8b53?source=rss------bug_bounty_writeup-5)
 - [The “Inspector Gadget” Hack: How I Bypassed Federal Authentication by Deleting a Popup](https://systemweakness.com/the-inspector-gadget-hack-how-i-bypassed-federal-authentication-by-deleting-a-popup-03dd897177fe?source=rss------bug_bounty_writeup-5)
 - [When a Checkout Page Leaks Your Session](https://infosecwriteups.com/when-a-checkout-page-leaks-your-session-f08885668ae7?source=rss----7b722bfd1b8d---4)
 - [Bypassing SSRF Protections: A $10,000 Lesson from Slack](https://infosecwriteups.com/bypassing-ssrf-protections-a-10-000-lesson-from-slack-6cff022a44a6?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Back to Basics: How I took over an account with a simple ID change &lpar;IDOR&rpar;](https://medium.com/@mv999exe/back-to-basics-how-i-took-over-an-account-with-a-simple-id-change-idor-b82960cafd3c?source=rss------bug_bounty_writeup-5)
 - [Everything About Cloud Bucket Hacking &lpar; S3 &amp; GCS &amp; Azure &amp; Firebase &rpar;](https://medium.com/@anas-nady/everything-about-cloud-bucket-hacking-s3-gcs-azure-firebase-c027e9441ff9?source=rss------bug_bounty_writeup-5)
 - [Race condition leading to multiple refunds and cash re](https://medium.com/@habibhassan293/race-condition-leading-to-multiple-refunds-and-cash-re-bdcf890cafca?source=rss------bug_bounty_writeup-5)
-- [Business logic flaw leading to product depletion](https://medium.com/@habibhassan293/business-logic-flaw-leading-to-product-depletion-6cfbc7ecda66?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
