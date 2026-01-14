@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [We All Say “WAF”, But What Is It Really?](https://medium.com/@MuhammedAsfan/we-all-say-waf-but-what-is-it-really-84f11116411d?source=rss------bug_bounty_writeup-5)
 - [Allsafe Android Pentesting — Part 4: Firebase Database Insecure Rules](https://medium.com/@mscmkn/allsafe-android-pentesting-part-4-firebase-database-insecure-rules-f23dae468460?source=rss------bug_bounty_writeup-5)
 - [Securing the Build: A Deep Dive into a Symlink Race Condition in Google’s Distroless](https://medium.com/@anandppatil83_43141/securing-the-build-a-deep-dive-into-a-symlink-race-condition-in-googles-distroless-997157d9c965?source=rss------bug_bounty_writeup-5)
 - [How I Found a Critical Biometric 2FA Bypass… and Lost the Bounty](https://letchupkt.medium.com/how-i-found-a-critical-biometric-2fa-bypass-and-lost-the-bounty-9c38441640c4?source=rss------bug_bounty_writeup-5)
@@ -941,7 +942,16 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [The Dark Web Dump Was Old — The Vulnerability Wasn’t ️](https://infosecwriteups.com/the-dark-web-dump-was-old-the-vulnerability-wasnt-%EF%B8%8F-f0c4a2df8171?source=rss----7b722bfd1b8d---4)
 - [Content Security Policy &lpar;CSP&rpar; Explained: Simple Guide for XSS Defense](https://medium.com/@MuhammedAsfan/content-security-policy-csp-explained-simple-guide-for-xss-defense-5ebf67612351?source=rss------bug_bounty_writeup-5)
 - [The “Denial of Wallet” Race Condition: How I Bypassed Transaction Limits &lpar;And Got Rejected&rpar;](https://systemweakness.com/the-denial-of-wallet-race-condition-how-i-bypassed-transaction-limits-and-got-rejected-546598a25a23?source=rss------bug_bounty_writeup-5)
-- [Beyond IDOR: Discovering a Stored XSS in a Vulnerable Web Platform](https://medium.com/@mv999exe/beyond-idor-discovering-a-stored-xss-in-a-vulnerable-web-platform-3644bdb67a2e?source=rss------bug_bounty_writeup-5)
+- [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
+- [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
+- [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
+- [How to backup and restore the Windows Registry](https://www.bleepingcomputer.com/tutorials/how-to-backup-and-restore-the-windows-registry/)
+- [How to open a Windows 11 Command Prompt as Administrator](https://www.bleepingcomputer.com/tutorials/how-to-open-a-windows-11-command-prompt-as-administrator/)
+- [How to make the Start menu full screen in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-make-the-start-menu-full-screen-in-windows-10/)
+- [How to install the Microsoft Visual C++ 2015 Runtime](https://www.bleepingcomputer.com/tutorials/how-to-install-the-microsoft-visual-c-2015-runtime/)
+- [How to open an elevated PowerShell Admin prompt in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-open-an-elevated-powershell-admin-prompt-in-windows-10/)
+- [How to Translate a Web Page in Google Chrome](https://www.bleepingcomputer.com/tutorials/how-to-translate-a-web-page-in-google-chrome/)
+- [How to Install and Uninstall Google Chrome in Windows](https://www.bleepingcomputer.com/tutorials/how-to-install-and-uninstall-google-chrome-in-windows/)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
