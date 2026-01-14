@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [An SSRF Sink You’re Probably Skipping &lpar;It Earned Me $700 in Bounties&rpar;](https://medium.com/@thomscoder/an-ssrf-sink-youre-probably-skipping-it-earned-me-700-in-bounties-438231ab5205?source=rss------bug_bounty_writeup-5)
 - [A 5-Day Bug Bounty Hunt on a Telecom Target: From Recon to RXSS and Open Redirect](https://medium.com/@ayanacharya193/a-5-day-bug-bounty-hunt-on-a-telecom-target-from-recon-to-rxss-and-open-redirect-119a27f8e37b?source=rss------bug_bounty_writeup-5)
 - [Open Redirect to XSS](https://medium.com/@xelcezeri/open-redirect-to-xss-3a579bf64ed2?source=rss------bug_bounty_writeup-5)
 - [My First XSS: How Simple Automation Helped Me Find It](https://medium.com/@dexter0_0/my-first-xss-how-simple-automation-helped-me-find-it-2d6d3f6143f4?source=rss------bug_bounty_writeup-5)
@@ -930,7 +931,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Securing the Build: A Deep Dive into a Symlink Race Condition in Google’s Distroless](https://medium.com/@anandppatil83_43141/securing-the-build-a-deep-dive-into-a-symlink-race-condition-in-googles-distroless-997157d9c965?source=rss------bug_bounty_writeup-5)
 - [How I Found a Critical Biometric 2FA Bypass… and Lost the Bounty](https://letchupkt.medium.com/how-i-found-a-critical-biometric-2fa-bypass-and-lost-the-bounty-9c38441640c4?source=rss------bug_bounty_writeup-5)
 - [Hacking the Hackers](https://medium.com/@Br0k3n_1337/hacking-the-hackers-bd34031b8b53?source=rss------bug_bounty_writeup-5)
-- [The “Inspector Gadget” Hack: How I Bypassed Federal Authentication by Deleting a Popup](https://systemweakness.com/the-inspector-gadget-hack-how-i-bypassed-federal-authentication-by-deleting-a-popup-03dd897177fe?source=rss------bug_bounty_writeup-5)
 - [When a Checkout Page Leaks Your Session](https://infosecwriteups.com/when-a-checkout-page-leaks-your-session-f08885668ae7?source=rss----7b722bfd1b8d---4)
 - [Bypassing SSRF Protections: A $10,000 Lesson from Slack](https://infosecwriteups.com/bypassing-ssrf-protections-a-10-000-lesson-from-slack-6cff022a44a6?source=rss----7b722bfd1b8d---4)
 - [How to Hack](https://infosecwriteups.com/how-to-hack-f5bfdbafe938?source=rss----7b722bfd1b8d---4)
