@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Allsafe Android Pentesting — Part 4: Firebase Database Insecure Rules](https://medium.com/@mscmkn/allsafe-android-pentesting-part-4-firebase-database-insecure-rules-f23dae468460?source=rss------bug_bounty_writeup-5)
 - [Securing the Build: A Deep Dive into a Symlink Race Condition in Google’s Distroless](https://medium.com/@anandppatil83_43141/securing-the-build-a-deep-dive-into-a-symlink-race-condition-in-googles-distroless-997157d9c965?source=rss------bug_bounty_writeup-5)
 - [How I Found a Critical Biometric 2FA Bypass… and Lost the Bounty](https://letchupkt.medium.com/how-i-found-a-critical-biometric-2fa-bypass-and-lost-the-bounty-9c38441640c4?source=rss------bug_bounty_writeup-5)
 - [Hacking the Hackers](https://medium.com/@Br0k3n_1337/hacking-the-hackers-bd34031b8b53?source=rss------bug_bounty_writeup-5)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Content Security Policy &lpar;CSP&rpar; Explained: Simple Guide for XSS Defense](https://medium.com/@MuhammedAsfan/content-security-policy-csp-explained-simple-guide-for-xss-defense-5ebf67612351?source=rss------bug_bounty_writeup-5)
 - [The “Denial of Wallet” Race Condition: How I Bypassed Transaction Limits &lpar;And Got Rejected&rpar;](https://systemweakness.com/the-denial-of-wallet-race-condition-how-i-bypassed-transaction-limits-and-got-rejected-546598a25a23?source=rss------bug_bounty_writeup-5)
 - [Beyond IDOR: Discovering a Stored XSS in a Vulnerable Web Platform](https://medium.com/@mv999exe/beyond-idor-discovering-a-stored-xss-in-a-vulnerable-web-platform-3644bdb67a2e?source=rss------bug_bounty_writeup-5)
-- [Back to Basics: How I took over an account with a simple ID change &lpar;IDOR&rpar;](https://medium.com/@mv999exe/back-to-basics-how-i-took-over-an-account-with-a-simple-id-change-idor-b82960cafd3c?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
