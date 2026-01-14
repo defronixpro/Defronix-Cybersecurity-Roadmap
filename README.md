@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [A 5-Day Bug Bounty Hunt on a Telecom Target: From Recon to RXSS and Open Redirect](https://medium.com/@ayanacharya193/a-5-day-bug-bounty-hunt-on-a-telecom-target-from-recon-to-rxss-and-open-redirect-119a27f8e37b?source=rss------bug_bounty_writeup-5)
 - [Open Redirect to XSS](https://medium.com/@xelcezeri/open-redirect-to-xss-3a579bf64ed2?source=rss------bug_bounty_writeup-5)
 - [My First XSS: How Simple Automation Helped Me Find It](https://medium.com/@dexter0_0/my-first-xss-how-simple-automation-helped-me-find-it-2d6d3f6143f4?source=rss------bug_bounty_writeup-5)
 - [We All Say “WAF”, But What Is It Really?](https://medium.com/@MuhammedAsfan/we-all-say-waf-but-what-is-it-really-84f11116411d?source=rss------bug_bounty_writeup-5)
@@ -933,9 +934,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [When a Checkout Page Leaks Your Session](https://infosecwriteups.com/when-a-checkout-page-leaks-your-session-f08885668ae7?source=rss----7b722bfd1b8d---4)
 - [Bypassing SSRF Protections: A $10,000 Lesson from Slack](https://infosecwriteups.com/bypassing-ssrf-protections-a-10-000-lesson-from-slack-6cff022a44a6?source=rss----7b722bfd1b8d---4)
 - [How to Hack](https://infosecwriteups.com/how-to-hack-f5bfdbafe938?source=rss----7b722bfd1b8d---4)
-- [Bypassing Email Verification via OAuth Misconfiguration](https://medium.com/@xelcezeri/bypassing-email-verification-via-oauth-misconfiguration-cad488c15f2f?source=rss------bug_bounty_writeup-5)
 - [From Failure to $32,000: My Bug Bounty Journey](https://infosecwriteups.com/from-failure-to-32-000-my-bug-bounty-journey-84eac429e2d0?source=rss----7b722bfd1b8d---4)
-- [From Failure to $32,000: My Bug Bounty Journey](https://infosecwriteups.com/from-failure-to-32-000-my-bug-bounty-journey-84eac429e2d0?source=rss------bug_bounty_writeup-5)
 - [️ PROTOCOL BREACH: Engineering Total Domain Compromise on HTB Escape](https://infosecwriteups.com/%EF%B8%8F-protocol-breach-engineering-total-domain-compromise-on-htb-escape-350ecacf457c?source=rss----7b722bfd1b8d---4)
 - [Exploit Weak Bucket Policies for Privileged Access](https://infosecwriteups.com/exploit-weak-bucket-policies-for-privileged-access-54ccf5ecb5a9?source=rss----7b722bfd1b8d---4)
 - [This Endpoint Was “Read-Only” — Until I Read Everything](https://infosecwriteups.com/this-endpoint-was-read-only-until-i-read-everything-c157154bdb99?source=rss----7b722bfd1b8d---4)
