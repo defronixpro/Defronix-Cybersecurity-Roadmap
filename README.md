@@ -922,7 +922,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [An SSRF Sink You’re Probably Skipping &lpar;It Earned Me $700 in Bounties&rpar;](https://medium.com/@thomscoder/an-ssrf-sink-youre-probably-skipping-it-earned-me-700-in-bounties-438231ab5205?source=rss------bug_bounty_writeup-5)
 - [A 5-Day Bug Bounty Hunt on a Telecom Target: From Recon to RXSS and Open Redirect](https://medium.com/@ayanacharya193/a-5-day-bug-bounty-hunt-on-a-telecom-target-from-recon-to-rxss-and-open-redirect-119a27f8e37b?source=rss------bug_bounty_writeup-5)
 - [Open Redirect to XSS](https://medium.com/@xelcezeri/open-redirect-to-xss-3a579bf64ed2?source=rss------bug_bounty_writeup-5)
 - [My First XSS: How Simple Automation Helped Me Find It](https://medium.com/@dexter0_0/my-first-xss-how-simple-automation-helped-me-find-it-2d6d3f6143f4?source=rss------bug_bounty_writeup-5)
