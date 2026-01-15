@@ -1,6 +1,8 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Securing AI Agents with Information Flow Control &lpar;Part III&rpar;](https://infosecwriteups.com/securing-ai-agents-with-information-flow-control-part-iii-76891bbde968?source=rss----7b722bfd1b8d---4)
+- [How To Host Your Own CTF](https://infosecwriteups.com/how-to-host-your-own-ctf-6eb2c1d1a43f?source=rss----7b722bfd1b8d---4)
 - [A 5-Day Bug Bounty Hunt on a Telecom Target: From Recon to RXSS and Open Redirect](https://medium.com/@ayanacharya193/a-5-day-bug-bounty-hunt-on-a-telecom-target-from-recon-to-rxss-and-open-redirect-119a27f8e37b?source=rss------bug_bounty_writeup-5)
 - [Open Redirect to XSS](https://medium.com/@xelcezeri/open-redirect-to-xss-3a579bf64ed2?source=rss------bug_bounty_writeup-5)
 - [My First XSS: How Simple Automation Helped Me Find It](https://medium.com/@dexter0_0/my-first-xss-how-simple-automation-helped-me-find-it-2d6d3f6143f4?source=rss------bug_bounty_writeup-5)
@@ -17,8 +19,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Exploit Weak Bucket Policies for Privileged Access](https://infosecwriteups.com/exploit-weak-bucket-policies-for-privileged-access-54ccf5ecb5a9?source=rss----7b722bfd1b8d---4)
 - [This Endpoint Was “Read-Only” — Until I Read Everything](https://infosecwriteups.com/this-endpoint-was-read-only-until-i-read-everything-c157154bdb99?source=rss----7b722bfd1b8d---4)
 - [Padelify — THM Writeup](https://infosecwriteups.com/padelify-thm-writeup-5f30dd31009f?source=rss----7b722bfd1b8d---4)
-- [React2Shell &lpar;CVE-2025–55182&rpar; — From React Server Components to Full RCE](https://infosecwriteups.com/react2shell-cve-2025-55182-from-react-server-components-to-full-rce-81acd9f94783?source=rss----7b722bfd1b8d---4)
-- [The Dark Web Dump Was Old — The Vulnerability Wasn’t ️](https://infosecwriteups.com/the-dark-web-dump-was-old-the-vulnerability-wasnt-%EF%B8%8F-f0c4a2df8171?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
