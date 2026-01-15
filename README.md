@@ -922,6 +922,9 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Mastering SQLMap and Ghauri: A Practical Guide to WAF Bypass Techniques](https://infosecwriteups.com/mastering-sqlmap-and-ghauri-a-practical-guide-to-waf-bypass-techniques-1aaa9eee9d32?source=rss----7b722bfd1b8d---4)
+- [Hacking Time Itself: UofTCTF 2026 “Guess the Number” Writeup](https://infosecwriteups.com/hacking-time-itself-uoftctf-2026-guess-the-number-writeup-7ccd4651e72d?source=rss----7b722bfd1b8d---4)
+- [30 High-Value Google Dorks for OSINT](https://infosecwriteups.com/30-high-value-google-dorks-for-osint-78f31ec865d8?source=rss----7b722bfd1b8d---4)
 - [Securing AI Agents with Information Flow Control &lpar;Part III&rpar;](https://infosecwriteups.com/securing-ai-agents-with-information-flow-control-part-iii-76891bbde968?source=rss----7b722bfd1b8d---4)
 - [How To Host Your Own CTF](https://infosecwriteups.com/how-to-host-your-own-ctf-6eb2c1d1a43f?source=rss----7b722bfd1b8d---4)
 - [A 5-Day Bug Bounty Hunt on a Telecom Target: From Recon to RXSS and Open Redirect](https://medium.com/@ayanacharya193/a-5-day-bug-bounty-hunt-on-a-telecom-target-from-recon-to-rxss-and-open-redirect-119a27f8e37b?source=rss------bug_bounty_writeup-5)
@@ -937,9 +940,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How to Hack](https://infosecwriteups.com/how-to-hack-f5bfdbafe938?source=rss----7b722bfd1b8d---4)
 - [From Failure to $32,000: My Bug Bounty Journey](https://infosecwriteups.com/from-failure-to-32-000-my-bug-bounty-journey-84eac429e2d0?source=rss----7b722bfd1b8d---4)
 - [️ PROTOCOL BREACH: Engineering Total Domain Compromise on HTB Escape](https://infosecwriteups.com/%EF%B8%8F-protocol-breach-engineering-total-domain-compromise-on-htb-escape-350ecacf457c?source=rss----7b722bfd1b8d---4)
-- [Exploit Weak Bucket Policies for Privileged Access](https://infosecwriteups.com/exploit-weak-bucket-policies-for-privileged-access-54ccf5ecb5a9?source=rss----7b722bfd1b8d---4)
-- [This Endpoint Was “Read-Only” — Until I Read Everything](https://infosecwriteups.com/this-endpoint-was-read-only-until-i-read-everything-c157154bdb99?source=rss----7b722bfd1b8d---4)
-- [Padelify — THM Writeup](https://infosecwriteups.com/padelify-thm-writeup-5f30dd31009f?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
