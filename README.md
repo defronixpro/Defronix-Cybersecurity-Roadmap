@@ -922,8 +922,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [How One Test Led Me to a Critical P1 Account Takeover &lpar;ATO&rpar; Bug on Bugcrowd](https://infosecwriteups.com/how-one-test-led-me-to-a-critical-p1-account-takeover-ato-bug-on-bugcrowd-831370edc8e9?source=rss----7b722bfd1b8d---4)
-- [How I Earned My First Bug Bounty : A Story Of A Beginner](https://infosecwriteups.com/how-i-earned-my-first-bug-bounty-a-story-of-a-beginner-a5ca51938321?source=rss----7b722bfd1b8d---4)
 - [Mastering SQLMap and Ghauri: A Practical Guide to WAF Bypass Techniques](https://infosecwriteups.com/mastering-sqlmap-and-ghauri-a-practical-guide-to-waf-bypass-techniques-1aaa9eee9d32?source=rss----7b722bfd1b8d---4)
 - [Hacking Time Itself: UofTCTF 2026 “Guess the Number” Writeup](https://infosecwriteups.com/hacking-time-itself-uoftctf-2026-guess-the-number-writeup-7ccd4651e72d?source=rss----7b722bfd1b8d---4)
 - [30 High-Value Google Dorks for Intelligence Gathering](https://infosecwriteups.com/30-high-value-google-dorks-for-osint-78f31ec865d8?source=rss----7b722bfd1b8d---4)
@@ -940,6 +938,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [When a Checkout Page Leaks Your Session](https://infosecwriteups.com/when-a-checkout-page-leaks-your-session-f08885668ae7?source=rss----7b722bfd1b8d---4)
 - [Bypassing SSRF Protections: A $10,000 Lesson from Slack](https://infosecwriteups.com/bypassing-ssrf-protections-a-10-000-lesson-from-slack-6cff022a44a6?source=rss----7b722bfd1b8d---4)
 - [How to Hack](https://infosecwriteups.com/how-to-hack-f5bfdbafe938?source=rss----7b722bfd1b8d---4)
+- [From Failure to $32,000: My Bug Bounty Journey](https://infosecwriteups.com/from-failure-to-32-000-my-bug-bounty-journey-84eac429e2d0?source=rss----7b722bfd1b8d---4)
+- [️ PROTOCOL BREACH: Engineering Total Domain Compromise on HTB Escape](https://infosecwriteups.com/%EF%B8%8F-protocol-breach-engineering-total-domain-compromise-on-htb-escape-350ecacf457c?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
