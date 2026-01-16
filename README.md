@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Understanding SSRF: How Hackers Turn Your Server Into a Secret Proxy](https://medium.com/@MuhammedAsfan/understanding-ssrf-how-hackers-turn-your-server-into-a-secret-proxy-f50fb65e612e?source=rss------bug_bounty_writeup-5)
 - [BAC = $$$](https://medium.com/@rajveer_0101/bac-71b9f4cfdf8b?source=rss------bug_bounty_writeup-5)
 - [How I bypass Rate limit via IP rotation allow restriction bypass](https://jeetpal2007.medium.com/how-i-bypass-rate-limit-via-ip-rotation-allow-restriction-bypass-7af709f2d0fc?source=rss------bug_bounty_writeup-5)
 - [Mastering SQLMap and Ghauri: A Practical Guide to WAF Bypass Techniques](https://infosecwriteups.com/mastering-sqlmap-and-ghauri-a-practical-guide-to-waf-bypass-techniques-1aaa9eee9d32?source=rss----7b722bfd1b8d---4)
@@ -934,7 +935,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [My First XSS: How Simple Automation Helped Me Find It](https://medium.com/@dexter0_0/my-first-xss-how-simple-automation-helped-me-find-it-2d6d3f6143f4?source=rss------bug_bounty_writeup-5)
 - [We All Say “WAF”, But What Is It Really?](https://medium.com/@MuhammedAsfan/we-all-say-waf-but-what-is-it-really-84f11116411d?source=rss------bug_bounty_writeup-5)
 - [Allsafe Android Pentesting — Part 4: Firebase Database Insecure Rules](https://medium.com/@mscmkn/allsafe-android-pentesting-part-4-firebase-database-insecure-rules-f23dae468460?source=rss------bug_bounty_writeup-5)
-- [Securing the Build: A Deep Dive into a Symlink Race Condition in Google’s Distroless](https://medium.com/@anandppatil83_43141/securing-the-build-a-deep-dive-into-a-symlink-race-condition-in-googles-distroless-997157d9c965?source=rss------bug_bounty_writeup-5)
 - [When a Checkout Page Leaks Your Session](https://infosecwriteups.com/when-a-checkout-page-leaks-your-session-f08885668ae7?source=rss----7b722bfd1b8d---4)
 - [Bypassing SSRF Protections: A $10,000 Lesson from Slack](https://infosecwriteups.com/bypassing-ssrf-protections-a-10-000-lesson-from-slack-6cff022a44a6?source=rss----7b722bfd1b8d---4)
 - [How to Hack](https://infosecwriteups.com/how-to-hack-f5bfdbafe938?source=rss----7b722bfd1b8d---4)
