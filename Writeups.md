@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [A Simple IDOR That Ignored Platform Logic](https://scriptjacker.medium.com/a-simple-idor-that-ignored-platform-logic-09bf86a8bf1d?source=rss------bug_bounty_writeup-5)
 - [Understanding SSRF: How Hackers Turn Your Server Into a Secret Proxy](https://medium.com/@MuhammedAsfan/understanding-ssrf-how-hackers-turn-your-server-into-a-secret-proxy-f50fb65e612e?source=rss------bug_bounty_writeup-5)
 - [BAC = $$$](https://medium.com/@rajveer_0101/bac-71b9f4cfdf8b?source=rss------bug_bounty_writeup-5)
 - [How I bypass Rate limit via IP rotation allow restriction bypass](https://jeetpal2007.medium.com/how-i-bypass-rate-limit-via-ip-rotation-allow-restriction-bypass-7af709f2d0fc?source=rss------bug_bounty_writeup-5)
@@ -13,7 +14,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Open Redirect to XSS](https://medium.com/@xelcezeri/open-redirect-to-xss-3a579bf64ed2?source=rss------bug_bounty_writeup-5)
 - [My First XSS: How Simple Automation Helped Me Find It](https://medium.com/@dexter0_0/my-first-xss-how-simple-automation-helped-me-find-it-2d6d3f6143f4?source=rss------bug_bounty_writeup-5)
 - [We All Say “WAF”, But What Is It Really?](https://medium.com/@MuhammedAsfan/we-all-say-waf-but-what-is-it-really-84f11116411d?source=rss------bug_bounty_writeup-5)
-- [Allsafe Android Pentesting — Part 4: Firebase Database Insecure Rules](https://medium.com/@mscmkn/allsafe-android-pentesting-part-4-firebase-database-insecure-rules-f23dae468460?source=rss------bug_bounty_writeup-5)
 - [When a Checkout Page Leaks Your Session](https://infosecwriteups.com/when-a-checkout-page-leaks-your-session-f08885668ae7?source=rss----7b722bfd1b8d---4)
 - [Bypassing SSRF Protections: A $10,000 Lesson from Slack](https://infosecwriteups.com/bypassing-ssrf-protections-a-10-000-lesson-from-slack-6cff022a44a6?source=rss----7b722bfd1b8d---4)
 - [How to Hack](https://infosecwriteups.com/how-to-hack-f5bfdbafe938?source=rss----7b722bfd1b8d---4)
@@ -23,7 +23,17 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
 - [How to backup and restore the Windows Registry](https://www.bleepingcomputer.com/tutorials/how-to-backup-and-restore-the-windows-registry/)
+- [How To Fix Error: Externally-Managed-Environment In Python &lpar;Kali Linux&rpar;](https://technicalnavigator.in/how-to-fix-error-externally-managed-environment-in-python-kali-linux/)
+- [Understanding Systemctl Command in Linux &lpar;Practical&rpar;](https://technicalnavigator.in/understanding-systemctl-command-in-linux-practical/)
+- [Macros in docm &amp; Linux memory dump| Hack The Boo  Challanges](https://technicalnavigator.in/macros-in-docm-linux-memory-dump-hack-the-boo-challanges/)
+- [Android Apps debugging |  Frida, JADX, Genymotion](https://technicalnavigator.in/android-apps-debugging-frida-jadx-genymotion/)
+- [MouseServer | wifimouse – Windows/ Linux](https://technicalnavigator.in/mouseserver-wifimouse-windows-linux/)
+- [FFUF fuzzer | web-application penetration-testing](https://technicalnavigator.in/ffuf-fuzzer-web-application-penetration-testing/)
 - [How to open a Windows 11 Command Prompt as Administrator](https://www.bleepingcomputer.com/tutorials/how-to-open-a-windows-11-command-prompt-as-administrator/)
+- [Classes-Objects &amp; Deserialization bug](https://technicalnavigator.in/classes-objects-deserialization-bug/)
+- [Loki Tool | Multhreading Over Sockets in C](https://technicalnavigator.in/loki-tool-multhreading-over-sockets-in-c/)
+- [Egghunter | NASM | C prototype](https://technicalnavigator.in/egghunter-nasm-c-prototype/)
+- [TELNET &amp; FTP Analysis](https://technicalnavigator.in/telnet-ftp-analysis/)
 - [How to make the Start menu full screen in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-make-the-start-menu-full-screen-in-windows-10/)
 - [How to install the Microsoft Visual C++ 2015 Runtime](https://www.bleepingcomputer.com/tutorials/how-to-install-the-microsoft-visual-c-2015-runtime/)
 - [How to open an elevated PowerShell Admin prompt in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-open-an-elevated-powershell-admin-prompt-in-windows-10/)
