@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Finding a $600 Remote Code Execution &lpar;RCE&rpar; on an E-Commerce Platform](https://medium.com/@cybervolt/finding-a-600-remote-code-execution-rce-on-an-e-commerce-platform-4fcb483778be?source=rss------bug_bounty_writeup-5)
 - [How Choosing the Right Wordlist Can Make or Break a Bug Bounty.](https://lopseg.medium.com/how-choosing-the-right-wordlist-can-make-or-break-a-bug-bounty-f2684b8fdabd?source=rss------bug_bounty_writeup-5)
 - [How JS Analysis Led to PII Disclosure](https://cybersecuritywriteups.com/how-js-analysis-led-to-pii-disclosure-02763f49108e?source=rss------bug_bounty_writeup-5)
 - [A Simple IDOR That Ignored Platform Logic](https://scriptjacker.medium.com/a-simple-idor-that-ignored-platform-logic-09bf86a8bf1d?source=rss------bug_bounty_writeup-5)
@@ -13,7 +14,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Securing AI Agents with Information Flow Control &lpar;Part III&rpar;](https://infosecwriteups.com/securing-ai-agents-with-information-flow-control-part-iii-76891bbde968?source=rss----7b722bfd1b8d---4)
 - [How To Host Your Own CTF](https://infosecwriteups.com/how-to-host-your-own-ctf-6eb2c1d1a43f?source=rss----7b722bfd1b8d---4)
 - [A 5-Day Bug Bounty Hunt on a Telecom Target: From Recon to RXSS and Open Redirect](https://medium.com/@ayanacharya193/a-5-day-bug-bounty-hunt-on-a-telecom-target-from-recon-to-rxss-and-open-redirect-119a27f8e37b?source=rss------bug_bounty_writeup-5)
-- [Open Redirect to XSS](https://medium.com/@xelcezeri/open-redirect-to-xss-3a579bf64ed2?source=rss------bug_bounty_writeup-5)
 - [When a Checkout Page Leaks Your Session](https://infosecwriteups.com/when-a-checkout-page-leaks-your-session-f08885668ae7?source=rss----7b722bfd1b8d---4)
 - [Bypassing SSRF Protections: A $10,000 Lesson from Slack](https://infosecwriteups.com/bypassing-ssrf-protections-a-10-000-lesson-from-slack-6cff022a44a6?source=rss----7b722bfd1b8d---4)
 - [How to Hack](https://infosecwriteups.com/how-to-hack-f5bfdbafe938?source=rss----7b722bfd1b8d---4)
