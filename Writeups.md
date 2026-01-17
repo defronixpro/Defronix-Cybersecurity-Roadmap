@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [XSS Payload Crafting and WAF Bypass: A Beginner‑Friendly Guide](https://medium.com/@MuhammedAsfan/xss-payload-crafting-and-waf-bypass-a-beginner-friendly-guide-781de268fa68?source=rss------bug_bounty_writeup-5)
 - [Finding a $600 Remote Code Execution &lpar;RCE&rpar; on an E-Commerce Platform](https://medium.com/@cybervolt/finding-a-600-remote-code-execution-rce-on-an-e-commerce-platform-4fcb483778be?source=rss------bug_bounty_writeup-5)
 - [How Choosing the Right Wordlist Can Make or Break a Bug Bounty.](https://lopseg.medium.com/how-choosing-the-right-wordlist-can-make-or-break-a-bug-bounty-f2684b8fdabd?source=rss------bug_bounty_writeup-5)
 - [How JS Analysis Led to PII Disclosure](https://cybersecuritywriteups.com/how-js-analysis-led-to-pii-disclosure-02763f49108e?source=rss------bug_bounty_writeup-5)
