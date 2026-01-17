@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [A Simple IDOR That Ignored Platform Logic](https://scriptjacker.medium.com/a-simple-idor-that-ignored-platform-logic-09bf86a8bf1d?source=rss------bug_bounty_writeup-5)
 - [Understanding SSRF: How Hackers Turn Your Server Into a Secret Proxy](https://medium.com/@MuhammedAsfan/understanding-ssrf-how-hackers-turn-your-server-into-a-secret-proxy-f50fb65e612e?source=rss------bug_bounty_writeup-5)
 - [BAC = $$$](https://medium.com/@rajveer_0101/bac-71b9f4cfdf8b?source=rss------bug_bounty_writeup-5)
 - [How I bypass Rate limit via IP rotation allow restriction bypass](https://jeetpal2007.medium.com/how-i-bypass-rate-limit-via-ip-rotation-allow-restriction-bypass-7af709f2d0fc?source=rss------bug_bounty_writeup-5)
@@ -934,7 +935,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Open Redirect to XSS](https://medium.com/@xelcezeri/open-redirect-to-xss-3a579bf64ed2?source=rss------bug_bounty_writeup-5)
 - [My First XSS: How Simple Automation Helped Me Find It](https://medium.com/@dexter0_0/my-first-xss-how-simple-automation-helped-me-find-it-2d6d3f6143f4?source=rss------bug_bounty_writeup-5)
 - [We All Say “WAF”, But What Is It Really?](https://medium.com/@MuhammedAsfan/we-all-say-waf-but-what-is-it-really-84f11116411d?source=rss------bug_bounty_writeup-5)
-- [Allsafe Android Pentesting — Part 4: Firebase Database Insecure Rules](https://medium.com/@mscmkn/allsafe-android-pentesting-part-4-firebase-database-insecure-rules-f23dae468460?source=rss------bug_bounty_writeup-5)
 - [When a Checkout Page Leaks Your Session](https://infosecwriteups.com/when-a-checkout-page-leaks-your-session-f08885668ae7?source=rss----7b722bfd1b8d---4)
 - [Bypassing SSRF Protections: A $10,000 Lesson from Slack](https://infosecwriteups.com/bypassing-ssrf-protections-a-10-000-lesson-from-slack-6cff022a44a6?source=rss----7b722bfd1b8d---4)
 - [How to Hack](https://infosecwriteups.com/how-to-hack-f5bfdbafe938?source=rss----7b722bfd1b8d---4)
