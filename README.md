@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [WAF Bypass Made Simple: A Practical Checklist for Testers and Bug Hunters](https://medium.com/@MuhammedAsfan/waf-bypass-made-simple-a-practical-checklist-for-testers-and-bug-hunters-18da199faf9c?source=rss------bug_bounty_writeup-5)
 - [Starting Your Bug Bounty Journey: Tips for Beginners](https://medium.com/@nayan12cr7/starting-your-bug-bounty-journey-tips-for-beginners-88a41eab150c?source=rss------bug_bounty_writeup-5)
 - [Password Reset Token Misconfiguration Leading to Pre-Account Takeover and Account Deletion](https://medium.com/@0xMo7areb/password-reset-token-misconfiguration-leading-to-pre-account-takeover-and-account-deletion-8f344cb0e9d6?source=rss------bug_bounty_writeup-5)
 - [Critical Blind Time-Based Injection Hiding Behind Normal Responses](https://ritikver22000.medium.com/critical-blind-time-based-injection-hiding-behind-normal-responses-c229b5956bd3?source=rss------bug_bounty_writeup-5)
@@ -931,7 +932,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [XSS Payload Crafting and WAF Bypass: A Beginner‑Friendly Guide](https://medium.com/@MuhammedAsfan/xss-payload-crafting-and-waf-bypass-a-beginner-friendly-guide-781de268fa68?source=rss------bug_bounty_writeup-5)
 - [Finding a $600 Remote Code Execution &lpar;RCE&rpar; on an E-Commerce Platform](https://medium.com/@cybervolt/finding-a-600-remote-code-execution-rce-on-an-e-commerce-platform-4fcb483778be?source=rss------bug_bounty_writeup-5)
 - [How Choosing the Right Wordlist Can Make or Break a Bug Bounty.](https://lopseg.medium.com/how-choosing-the-right-wordlist-can-make-or-break-a-bug-bounty-f2684b8fdabd?source=rss------bug_bounty_writeup-5)
-- [How JS Analysis Led to PII Disclosure](https://cybersecuritywriteups.com/how-js-analysis-led-to-pii-disclosure-02763f49108e?source=rss------bug_bounty_writeup-5)
 - [Mastering SQLMap and Ghauri: A Practical Guide to WAF Bypass Techniques](https://infosecwriteups.com/mastering-sqlmap-and-ghauri-a-practical-guide-to-waf-bypass-techniques-1aaa9eee9d32?source=rss----7b722bfd1b8d---4)
 - [Hacking Time Itself: UofTCTF 2026 “Guess the Number” Writeup](https://infosecwriteups.com/hacking-time-itself-uoftctf-2026-guess-the-number-writeup-7ccd4651e72d?source=rss----7b722bfd1b8d---4)
 - [30 High-Value Google Dorks for Intelligence Gathering](https://infosecwriteups.com/30-high-value-google-dorks-for-osint-78f31ec865d8?source=rss----7b722bfd1b8d---4)
@@ -946,17 +946,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
 - [How to backup and restore the Windows Registry](https://www.bleepingcomputer.com/tutorials/how-to-backup-and-restore-the-windows-registry/)
-- [How To Fix Error: Externally-Managed-Environment In Python &lpar;Kali Linux&rpar;](https://technicalnavigator.in/how-to-fix-error-externally-managed-environment-in-python-kali-linux/)
-- [Understanding Systemctl Command in Linux &lpar;Practical&rpar;](https://technicalnavigator.in/understanding-systemctl-command-in-linux-practical/)
-- [Macros in docm &amp; Linux memory dump| Hack The Boo  Challanges](https://technicalnavigator.in/macros-in-docm-linux-memory-dump-hack-the-boo-challanges/)
-- [Android Apps debugging |  Frida, JADX, Genymotion](https://technicalnavigator.in/android-apps-debugging-frida-jadx-genymotion/)
-- [MouseServer | wifimouse – Windows/ Linux](https://technicalnavigator.in/mouseserver-wifimouse-windows-linux/)
-- [FFUF fuzzer | web-application penetration-testing](https://technicalnavigator.in/ffuf-fuzzer-web-application-penetration-testing/)
 - [How to open a Windows 11 Command Prompt as Administrator](https://www.bleepingcomputer.com/tutorials/how-to-open-a-windows-11-command-prompt-as-administrator/)
-- [Classes-Objects &amp; Deserialization bug](https://technicalnavigator.in/classes-objects-deserialization-bug/)
-- [Loki Tool | Multhreading Over Sockets in C](https://technicalnavigator.in/loki-tool-multhreading-over-sockets-in-c/)
-- [Egghunter | NASM | C prototype](https://technicalnavigator.in/egghunter-nasm-c-prototype/)
-- [TELNET &amp; FTP Analysis](https://technicalnavigator.in/telnet-ftp-analysis/)
 - [How to make the Start menu full screen in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-make-the-start-menu-full-screen-in-windows-10/)
 - [How to install the Microsoft Visual C++ 2015 Runtime](https://www.bleepingcomputer.com/tutorials/how-to-install-the-microsoft-visual-c-2015-runtime/)
 - [How to open an elevated PowerShell Admin prompt in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-open-an-elevated-powershell-admin-prompt-in-windows-10/)
