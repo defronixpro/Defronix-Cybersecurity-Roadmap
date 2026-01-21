@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Cache Deception: When “Harmless Caching” Becomes a Real Risk](https://infosecwriteups.com/cache-deception-when-harmless-caching-becomes-a-real-risk-2920b0a2f3db?source=rss------bug_bounty_writeup-5)
 - [IDOR in 5 mins, That Paid me 500$](https://medium.com/@rajanbala39/idor-in-5-mins-that-paid-me-500-0d72a2243d1e?source=rss------bug_bounty_writeup-5)
 - [WAF Bypass Made Simple: A Practical Checklist for Testers and Bug Hunters](https://medium.com/@MuhammedAsfan/waf-bypass-made-simple-a-practical-checklist-for-testers-and-bug-hunters-18da199faf9c?source=rss------bug_bounty_writeup-5)
 - [Starting Your Bug Bounty Journey: Tips for Beginners](https://medium.com/@nayan12cr7/starting-your-bug-bounty-journey-tips-for-beginners-88a41eab150c?source=rss------bug_bounty_writeup-5)
@@ -931,7 +932,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [WAFs Made Simple: Why They Can’t Block Everything &lpar;And How They Really Work&rpar;](https://medium.com/@MuhammedAsfan/wafs-made-simple-why-they-cant-block-everything-and-how-they-really-work-0a1d689f5590?source=rss------bug_bounty_writeup-5)
 - [Hidden in the Source: Discovering Reflected XSS via Manual Code Review](https://medium.com/@xelcezeri/hidden-in-the-source-discovering-reflected-xss-via-manual-code-review-c2a697d9d8c1?source=rss------bug_bounty_writeup-5)
 - [XSS Payload Crafting and WAF Bypass: A Beginner‑Friendly Guide](https://medium.com/@MuhammedAsfan/xss-payload-crafting-and-waf-bypass-a-beginner-friendly-guide-781de268fa68?source=rss------bug_bounty_writeup-5)
-- [Finding a $600 Remote Code Execution &lpar;RCE&rpar; on an E-Commerce Platform](https://medium.com/@cybervolt/finding-a-600-remote-code-execution-rce-on-an-e-commerce-platform-4fcb483778be?source=rss------bug_bounty_writeup-5)
 - [Mastering SQLMap and Ghauri: A Practical Guide to WAF Bypass Techniques](https://infosecwriteups.com/mastering-sqlmap-and-ghauri-a-practical-guide-to-waf-bypass-techniques-1aaa9eee9d32?source=rss----7b722bfd1b8d---4)
 - [Hacking Time Itself: UofTCTF 2026 “Guess the Number” Writeup](https://infosecwriteups.com/hacking-time-itself-uoftctf-2026-guess-the-number-writeup-7ccd4651e72d?source=rss----7b722bfd1b8d---4)
 - [30 High-Value Google Dorks for Intelligence Gathering](https://infosecwriteups.com/30-high-value-google-dorks-for-osint-78f31ec865d8?source=rss----7b722bfd1b8d---4)
