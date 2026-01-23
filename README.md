@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Pentester’s Guide to SMB, SMTP, and SNMP Enumeration](https://osintteam.blog/pentesters-guide-to-smb-smtp-and-snmp-enumeration-58795a9d48ae?source=rss------bug_bounty_writeup-5)
 - [I Let AI Scan the Internet for Bugs | It Ended Up Finding Real Vulnerabilities](https://medium.com/write-a-catalyst/i-let-ai-scan-the-internet-for-bugs-it-ended-up-finding-real-vulnerabilities-4709ba5f35e0?source=rss------bug_bounty_writeup-5)
 - [Rethinking SQL Injection](https://systemweakness.com/rethinking-sql-injection-7c9fd3f8f30d?source=rss------bug_bounty_writeup-5)
 - [Cache Deception: When “Harmless Caching” Becomes a Real Risk](https://infosecwriteups.com/cache-deception-when-harmless-caching-becomes-a-real-risk-2920b0a2f3db?source=rss------bug_bounty_writeup-5)
@@ -931,7 +932,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Password Reset Token Misconfiguration Leading to Pre-Account Takeover and Account Deletion](https://medium.com/@0xMo7areb/password-reset-token-misconfiguration-leading-to-pre-account-takeover-and-account-deletion-8f344cb0e9d6?source=rss------bug_bounty_writeup-5)
 - [Critical Blind Time-Based Injection Hiding Behind Normal Responses](https://ritikver22000.medium.com/critical-blind-time-based-injection-hiding-behind-normal-responses-c229b5956bd3?source=rss------bug_bounty_writeup-5)
 - [Broken Math: Exploiting Business Logic for Price Manipulation](https://medium.com/@xelcezeri/broken-math-exploiting-business-logic-for-price-manipulation-ad52f1c47f3a?source=rss------bug_bounty_writeup-5)
-- [WAFs Made Simple: Why They Can’t Block Everything &lpar;And How They Really Work&rpar;](https://medium.com/@MuhammedAsfan/wafs-made-simple-why-they-cant-block-everything-and-how-they-really-work-0a1d689f5590?source=rss------bug_bounty_writeup-5)
 - [Mastering SQLMap and Ghauri: A Practical Guide to WAF Bypass Techniques](https://infosecwriteups.com/mastering-sqlmap-and-ghauri-a-practical-guide-to-waf-bypass-techniques-1aaa9eee9d32?source=rss----7b722bfd1b8d---4)
 - [Hacking Time Itself: UofTCTF 2026 “Guess the Number” Writeup](https://infosecwriteups.com/hacking-time-itself-uoftctf-2026-guess-the-number-writeup-7ccd4651e72d?source=rss----7b722bfd1b8d---4)
 - [30 High-Value Google Dorks for Intelligence Gathering](https://infosecwriteups.com/30-high-value-google-dorks-for-osint-78f31ec865d8?source=rss----7b722bfd1b8d---4)
