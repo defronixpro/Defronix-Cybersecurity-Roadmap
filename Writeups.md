@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [The Multi-Bug Streak: Uncovering 4 Vulnerabilities on a Single Target](https://medium.com/@xelcezeri/the-multi-bug-streak-uncovering-4-vulnerabilities-on-a-single-target-1b4daa50dad2?source=rss------bug_bounty_writeup-5)
 - [How I Got CVE-2025–53092: Technical Overview](https://medium.com/legionhunters/how-i-got-cve-2025-53092-technical-overview-ba0963b2958d?source=rss------bug_bounty_writeup-5)
 - [Simple Mistake, Big Security Nightmare: A True Story](https://medium.com/@tanjimulislam01huntr/simple-mistake-big-security-nightmare-a-true-story-43528548e7d5?source=rss------bug_bounty_writeup-5)
 - [Broken Access Control: How I Viewed Admin-Only Configs as a Standard Employee](https://medium.com/@mostafa23110006/broken-access-control-how-i-viewed-admin-only-configs-as-a-standard-employee-83f5a1ee6a08?source=rss------bug_bounty_writeup-5)
@@ -10,7 +11,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [I Let AI Scan the Internet for Bugs | It Ended Up Finding Real Vulnerabilities](https://medium.com/write-a-catalyst/i-let-ai-scan-the-internet-for-bugs-it-ended-up-finding-real-vulnerabilities-4709ba5f35e0?source=rss------bug_bounty_writeup-5)
 - [Rethinking SQL Injection](https://systemweakness.com/rethinking-sql-injection-7c9fd3f8f30d?source=rss------bug_bounty_writeup-5)
 - [Cache Deception: When “Harmless Caching” Becomes a Real Risk](https://infosecwriteups.com/cache-deception-when-harmless-caching-becomes-a-real-risk-2920b0a2f3db?source=rss------bug_bounty_writeup-5)
-- [IDOR in 5 mins, That Paid me 500$](https://medium.com/@rajanbala39/idor-in-5-mins-that-paid-me-500-0d72a2243d1e?source=rss------bug_bounty_writeup-5)
 - [Mastering SQLMap and Ghauri: A Practical Guide to WAF Bypass Techniques](https://infosecwriteups.com/mastering-sqlmap-and-ghauri-a-practical-guide-to-waf-bypass-techniques-1aaa9eee9d32?source=rss----7b722bfd1b8d---4)
 - [Hacking Time Itself: UofTCTF 2026 “Guess the Number” Writeup](https://infosecwriteups.com/hacking-time-itself-uoftctf-2026-guess-the-number-writeup-7ccd4651e72d?source=rss----7b722bfd1b8d---4)
 - [30 High-Value Google Dorks for Intelligence Gathering](https://infosecwriteups.com/30-high-value-google-dorks-for-osint-78f31ec865d8?source=rss----7b722bfd1b8d---4)
