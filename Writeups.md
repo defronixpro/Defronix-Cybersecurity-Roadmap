@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Deep-Dive PII , Analyzing Impact and Reporting &lpar;Part 3/3 &rpar;](https://medium.com/@cybersecplayground/deep-dive-pii-analyzing-impact-and-reporting-part-3-3-1f4c354a2071?source=rss------bug_bounty_writeup-5)
 - [How I hacked NASA with an RCE!!!](https://medium.com/@mr_prey3r/how-i-hacked-nasa-with-an-rce-5e764ed54dea?source=rss------bug_bounty_writeup-5)
 - [easy $100 | bypass 403 to 200 ok](https://infosecwriteups.com/easy-100-bypass-403-to-200-ok-b6bc126e2f4b?source=rss----7b722bfd1b8d---4)
 - [The Company Fixed the Bug — but Forgot the Cache](https://infosecwriteups.com/the-company-fixed-the-bug-but-forgot-the-cache-359878dc94e7?source=rss----7b722bfd1b8d---4)
@@ -20,25 +21,4 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Simple Endpoint, Critical Impact: How I Sabotaged Refunds](https://medium.com/@xelcezeri/simple-endpoint-critical-impact-how-i-sabotaged-refunds-1cd0ac7a4cb2?source=rss------bug_bounty_writeup-5)
 - [Pentester’s Guide to SMB, SMTP, and SNMP Enumeration](https://osintteam.blog/pentesters-guide-to-smb-smtp-and-snmp-enumeration-58795a9d48ae?source=rss------bug_bounty_writeup-5)
 - [I Let AI Scan the Internet for Bugs | It Ended Up Finding Real Vulnerabilities](https://medium.com/write-a-catalyst/i-let-ai-scan-the-internet-for-bugs-it-ended-up-finding-real-vulnerabilities-4709ba5f35e0?source=rss------bug_bounty_writeup-5)
-- [Rethinking SQL Injection](https://systemweakness.com/rethinking-sql-injection-7c9fd3f8f30d?source=rss------bug_bounty_writeup-5)
-- [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
-- [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
-- [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
-- [How to backup and restore the Windows Registry](https://www.bleepingcomputer.com/tutorials/how-to-backup-and-restore-the-windows-registry/)
-- [How To Fix Error: Externally-Managed-Environment In Python &lpar;Kali Linux&rpar;](https://technicalnavigator.in/how-to-fix-error-externally-managed-environment-in-python-kali-linux/)
-- [Understanding Systemctl Command in Linux &lpar;Practical&rpar;](https://technicalnavigator.in/understanding-systemctl-command-in-linux-practical/)
-- [Macros in docm &amp; Linux memory dump| Hack The Boo  Challanges](https://technicalnavigator.in/macros-in-docm-linux-memory-dump-hack-the-boo-challanges/)
-- [Android Apps debugging |  Frida, JADX, Genymotion](https://technicalnavigator.in/android-apps-debugging-frida-jadx-genymotion/)
-- [MouseServer | wifimouse – Windows/ Linux](https://technicalnavigator.in/mouseserver-wifimouse-windows-linux/)
-- [FFUF fuzzer | web-application penetration-testing](https://technicalnavigator.in/ffuf-fuzzer-web-application-penetration-testing/)
-- [How to open a Windows 11 Command Prompt as Administrator](https://www.bleepingcomputer.com/tutorials/how-to-open-a-windows-11-command-prompt-as-administrator/)
-- [Classes-Objects &amp; Deserialization bug](https://technicalnavigator.in/classes-objects-deserialization-bug/)
-- [Loki Tool | Multhreading Over Sockets in C](https://technicalnavigator.in/loki-tool-multhreading-over-sockets-in-c/)
-- [Egghunter | NASM | C prototype](https://technicalnavigator.in/egghunter-nasm-c-prototype/)
-- [TELNET &amp; FTP Analysis](https://technicalnavigator.in/telnet-ftp-analysis/)
-- [How to make the Start menu full screen in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-make-the-start-menu-full-screen-in-windows-10/)
-- [How to install the Microsoft Visual C++ 2015 Runtime](https://www.bleepingcomputer.com/tutorials/how-to-install-the-microsoft-visual-c-2015-runtime/)
-- [How to open an elevated PowerShell Admin prompt in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-open-an-elevated-powershell-admin-prompt-in-windows-10/)
-- [How to Translate a Web Page in Google Chrome](https://www.bleepingcomputer.com/tutorials/how-to-translate-a-web-page-in-google-chrome/)
-- [How to Install and Uninstall Google Chrome in Windows](https://www.bleepingcomputer.com/tutorials/how-to-install-and-uninstall-google-chrome-in-windows/)
 <!-- WRITEUPS:END -->
