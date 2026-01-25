@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Deep-Dive PII , Analyzing Impact and Reporting &lpar;Part 3/3 &rpar;](https://medium.com/@cybersecplayground/deep-dive-pii-analyzing-impact-and-reporting-part-3-3-1f4c354a2071?source=rss------bug_bounty_writeup-5)
 - [How I hacked NASA with an RCE!!!](https://medium.com/@mr_prey3r/how-i-hacked-nasa-with-an-rce-5e764ed54dea?source=rss------bug_bounty_writeup-5)
 - [easy $100 | bypass 403 to 200 ok](https://infosecwriteups.com/easy-100-bypass-403-to-200-ok-b6bc126e2f4b?source=rss----7b722bfd1b8d---4)
 - [The Company Fixed the Bug — but Forgot the Cache](https://infosecwriteups.com/the-company-fixed-the-bug-but-forgot-the-cache-359878dc94e7?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Simple Endpoint, Critical Impact: How I Sabotaged Refunds](https://medium.com/@xelcezeri/simple-endpoint-critical-impact-how-i-sabotaged-refunds-1cd0ac7a4cb2?source=rss------bug_bounty_writeup-5)
 - [Pentester’s Guide to SMB, SMTP, and SNMP Enumeration](https://osintteam.blog/pentesters-guide-to-smb-smtp-and-snmp-enumeration-58795a9d48ae?source=rss------bug_bounty_writeup-5)
 - [I Let AI Scan the Internet for Bugs | It Ended Up Finding Real Vulnerabilities](https://medium.com/write-a-catalyst/i-let-ai-scan-the-internet-for-bugs-it-ended-up-finding-real-vulnerabilities-4709ba5f35e0?source=rss------bug_bounty_writeup-5)
-- [Rethinking SQL Injection](https://systemweakness.com/rethinking-sql-injection-7c9fd3f8f30d?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
