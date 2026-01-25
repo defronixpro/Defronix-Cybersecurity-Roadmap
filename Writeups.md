@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How I hacked NASA with an RCE!!!](https://medium.com/@mr_prey3r/how-i-hacked-nasa-with-an-rce-5e764ed54dea?source=rss------bug_bounty_writeup-5)
 - [easy $100 | bypass 403 to 200 ok](https://infosecwriteups.com/easy-100-bypass-403-to-200-ok-b6bc126e2f4b?source=rss----7b722bfd1b8d---4)
 - [The Company Fixed the Bug — but Forgot the Cache](https://infosecwriteups.com/the-company-fixed-the-bug-but-forgot-the-cache-359878dc94e7?source=rss----7b722bfd1b8d---4)
 - [Break Glass Accounts Are Not ‘Set and Forget’: Best Practices and Monitoring in Microsoft Entra ID](https://infosecwriteups.com/break-glass-accounts-are-not-set-and-forget-best-practices-and-monitoring-in-microsoft-entra-id-d23feb2b7db2?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Pentester’s Guide to SMB, SMTP, and SNMP Enumeration](https://osintteam.blog/pentesters-guide-to-smb-smtp-and-snmp-enumeration-58795a9d48ae?source=rss------bug_bounty_writeup-5)
 - [I Let AI Scan the Internet for Bugs | It Ended Up Finding Real Vulnerabilities](https://medium.com/write-a-catalyst/i-let-ai-scan-the-internet-for-bugs-it-ended-up-finding-real-vulnerabilities-4709ba5f35e0?source=rss------bug_bounty_writeup-5)
 - [Rethinking SQL Injection](https://systemweakness.com/rethinking-sql-injection-7c9fd3f8f30d?source=rss------bug_bounty_writeup-5)
-- [Cache Deception: When “Harmless Caching” Becomes a Real Risk](https://infosecwriteups.com/cache-deception-when-harmless-caching-becomes-a-real-risk-2920b0a2f3db?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
