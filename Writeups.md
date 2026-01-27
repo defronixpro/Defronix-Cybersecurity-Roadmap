@@ -2,7 +2,7 @@
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
 - [IDOR Vulnerability in WEB3 Bug Bounty Platform Exposing User Sensitive PII](https://meetcyber.net/idor-vulnerability-in-web3-bug-bounty-platform-exposing-user-sensitive-pii-27bb5348db58?source=rss------bug_bounty_writeup-5)
-- [2FA Bypass via Reset Password](https://medium.com/@KhaledAhmed107/2fa-bypass-via-reset-password-daba828b10f3?source=rss------bug_bounty_writeup-5)
+- [2FA Bypass via Reset Password](https://systemweakness.com/2fa-bypass-via-reset-password-daba828b10f3?source=rss------bug_bounty_writeup-5)
 - [Prompt Injection in Agentic AI](https://infosecwriteups.com/prompt-injection-in-agentic-ai-66b93b52fe48?source=rss----7b722bfd1b8d---4)
 - [Prompt Injection in Agentic AI](https://infosecwriteups.com/prompt-injection-in-agentic-ai-66b93b52fe48?source=rss------bug_bounty_writeup-5)
 - [React2Shell &lpar;CVE-2025–55182&rpar; explained for mere mortals](https://infosecwriteups.com/react2shell-cve-2025-55182-explained-for-mere-mortals-66c4d6864dab?source=rss----7b722bfd1b8d---4)
