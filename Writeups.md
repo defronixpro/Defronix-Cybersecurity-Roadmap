@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [2FA Bypass via Reset Password](https://medium.com/@KhaledAhmed107/2fa-bypass-via-reset-password-daba828b10f3?source=rss------bug_bounty_writeup-5)
 - [Prompt Injection in Agentic AI](https://infosecwriteups.com/prompt-injection-in-agentic-ai-66b93b52fe48?source=rss----7b722bfd1b8d---4)
 - [Prompt Injection in Agentic AI](https://infosecwriteups.com/prompt-injection-in-agentic-ai-66b93b52fe48?source=rss------bug_bounty_writeup-5)
 - [React2Shell &lpar;CVE-2025–55182&rpar; explained for mere mortals](https://infosecwriteups.com/react2shell-cve-2025-55182-explained-for-mere-mortals-66c4d6864dab?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Broken Access Control: How I Viewed Admin-Only Configs as a Standard Employee](https://medium.com/@mostafa23110006/broken-access-control-how-i-viewed-admin-only-configs-as-a-standard-employee-83f5a1ee6a08?source=rss------bug_bounty_writeup-5)
 - [XSS Payloads Made Easy: How to Build One &lpar;Step by Step&rpar;](https://medium.com/@MuhammedAsfan/xss-payloads-made-easy-how-to-build-one-step-by-step-280f477bf609?source=rss------bug_bounty_writeup-5)
 - [Simple Endpoint, Critical Impact: How I Sabotaged Refunds](https://medium.com/@xelcezeri/simple-endpoint-critical-impact-how-i-sabotaged-refunds-1cd0ac7a4cb2?source=rss------bug_bounty_writeup-5)
-- [Pentester’s Guide to SMB, SMTP, and SNMP Enumeration](https://osintteam.blog/pentesters-guide-to-smb-smtp-and-snmp-enumeration-58795a9d48ae?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
