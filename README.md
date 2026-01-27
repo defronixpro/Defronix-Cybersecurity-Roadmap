@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [When “Export CSV” Becomes a Data Breach: A Case Study of a IDOR in a Crypto Platform](https://mokhansec.medium.com/when-export-csv-becomes-a-data-breach-a-case-study-of-a-idor-in-a-crypto-platform-ba29149d7c4a?source=rss------bug_bounty_writeup-5)
 - [IDOR Vulnerability in WEB3 Bug Bounty Platform Exposing User Sensitive PII](https://meetcyber.net/idor-vulnerability-in-web3-bug-bounty-platform-exposing-user-sensitive-pii-27bb5348db58?source=rss------bug_bounty_writeup-5)
 - [2FA Bypass via Reset Password](https://systemweakness.com/2fa-bypass-via-reset-password-daba828b10f3?source=rss------bug_bounty_writeup-5)
 - [Prompt Injection in Agentic AI](https://infosecwriteups.com/prompt-injection-in-agentic-ai-66b93b52fe48?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How I Got CVE-2025–53092: Technical Overview](https://medium.com/legionhunters/how-i-got-cve-2025-53092-technical-overview-ba0963b2958d?source=rss------bug_bounty_writeup-5)
 - [Simple Mistake, Big Security Nightmare: A True Story](https://medium.com/@tanjimulislam01huntr/simple-mistake-big-security-nightmare-a-true-story-43528548e7d5?source=rss------bug_bounty_writeup-5)
 - [Broken Access Control: How I Viewed Admin-Only Configs as a Standard Employee](https://medium.com/@mostafa23110006/broken-access-control-how-i-viewed-admin-only-configs-as-a-standard-employee-83f5a1ee6a08?source=rss------bug_bounty_writeup-5)
-- [XSS Payloads Made Easy: How to Build One &lpar;Step by Step&rpar;](https://medium.com/@MuhammedAsfan/xss-payloads-made-easy-how-to-build-one-step-by-step-280f477bf609?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
