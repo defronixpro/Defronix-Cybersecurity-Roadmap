@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How I Got My First Real Attention in Bug Bounty &lpar;And Why This Matters More Than Money&rpar;](https://medium.com/@nayan12cr7/how-i-got-my-first-real-attention-in-bug-bounty-and-why-this-matters-more-than-money-702982e924ba?source=rss------bug_bounty_writeup-5)
 - [2. OAuth Misbinding Vulnerability](https://infosecwriteups.com/2-oauth-misbinding-vulnerability-ed0e0830bdde?source=rss------bug_bounty_writeup-5)
 - [The “TMI” Endpoint: Why Unauthenticated Health Checks Are a Hacker’s Best Friend &lpar;And Why I Got 0…](https://zer0figure.medium.com/the-tmi-endpoint-why-unauthenticated-health-checks-are-a-hackers-best-friend-and-why-i-got-0-2945d21ea08f?source=rss------bug_bounty_writeup-5)
 - [How I hacked a website just by looking at the source code Part-2](https://infosecwriteups.com/how-i-hacked-a-website-just-by-looking-at-the-source-code-part-2-375b21321815?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [ALL about OSCP Pivoting| AD Lateral Movement | ligolo-ng, chisel, sshuttle](https://infosecwriteups.com/everything-about-pivoting-oscp-active-directory-lateral-movement-6ed34faa08a2?source=rss----7b722bfd1b8d---4)
 - [Deep-Dive PII , Analyzing Impact and Reporting &lpar;Part 3/3 &rpar;](https://medium.com/@cybersecplayground/deep-dive-pii-analyzing-impact-and-reporting-part-3-3-1f4c354a2071?source=rss------bug_bounty_writeup-5)
 - [How I hacked NASA with an RCE!!!](https://medium.com/@mr_prey3r/how-i-hacked-nasa-with-an-rce-5e764ed54dea?source=rss------bug_bounty_writeup-5)
-- [The Multi-Bug Streak: Uncovering 4 Vulnerabilities on a Single Target](https://medium.com/@xelcezeri/the-multi-bug-streak-uncovering-4-vulnerabilities-on-a-single-target-1b4daa50dad2?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
