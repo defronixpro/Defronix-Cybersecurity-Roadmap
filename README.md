@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [From One Mutation to a Full Service Outage: A GraphQL DoS Story](https://medium.com/@oksuzkayra16/from-one-mutation-to-a-full-service-outage-a-graphql-dos-story-71c1f3c76ea9?source=rss------bug_bounty_writeup-5)
 - [Breaking the Gate: How We Bypassed Email Verification on a Major Platform](https://letchupkt.medium.com/breaking-the-gate-how-we-bypassed-email-verification-on-a-major-platform-e1a66a432b64?source=rss------bug_bounty_writeup-5)
 - [Account Takeover via Weak Password Reset Token Validation](https://systemweakness.com/account-takeover-via-weak-password-reset-token-validation-91df56296f07?source=rss------bug_bounty_writeup-5)
 - [How a Temporary Invite Led to a Permanent Billing Takeover](https://medium.com/@mohammed01550038865/how-a-temporary-invite-led-to-a-permanent-billing-takeover-5211d6a5ec09?source=rss------bug_bounty_writeup-5)
@@ -931,7 +932,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [The “TMI” Endpoint: Why Unauthenticated Health Checks Are a Hacker’s Best Friend &lpar;And Why I Got 0…](https://zer0figure.medium.com/the-tmi-endpoint-why-unauthenticated-health-checks-are-a-hackers-best-friend-and-why-i-got-0-2945d21ea08f?source=rss------bug_bounty_writeup-5)
 - [How I hacked a website just by looking at the source code Part-2](https://infosecwriteups.com/how-i-hacked-a-website-just-by-looking-at-the-source-code-part-2-375b21321815?source=rss------bug_bounty_writeup-5)
 - [When “Export CSV” Becomes a Data Breach: A Case Study of a IDOR in a Crypto Platform](https://mokhansec.medium.com/when-export-csv-becomes-a-data-breach-a-case-study-of-a-idor-in-a-crypto-platform-ba29149d7c4a?source=rss------bug_bounty_writeup-5)
-- [IDOR Vulnerability in WEB3 Bug Bounty Platform Exposing User Sensitive PII](https://meetcyber.net/idor-vulnerability-in-web3-bug-bounty-platform-exposing-user-sensitive-pii-27bb5348db58?source=rss------bug_bounty_writeup-5)
 - [Prompt Injection in Agentic AI](https://infosecwriteups.com/prompt-injection-in-agentic-ai-66b93b52fe48?source=rss----7b722bfd1b8d---4)
 - [React2Shell &lpar;CVE-2025–55182&rpar; explained for mere mortals](https://infosecwriteups.com/react2shell-cve-2025-55182-explained-for-mere-mortals-66c4d6864dab?source=rss----7b722bfd1b8d---4)
 - [Bug Bounty Isn’t About Speed — It’s About Seeing What Others Ignore](https://infosecwriteups.com/bug-bounty-isnt-about-speed-it-s-about-seeing-what-others-ignore-1b99396cdd6c?source=rss----7b722bfd1b8d---4)
