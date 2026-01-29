@@ -1,6 +1,8 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Breaking the Gate: How We Bypassed Email Verification on a Major Platform](https://letchupkt.medium.com/breaking-the-gate-how-we-bypassed-email-verification-on-a-major-platform-e1a66a432b64?source=rss------bug_bounty_writeup-5)
+- [Account Takeover via Weak Password Reset Token Validation](https://systemweakness.com/account-takeover-via-weak-password-reset-token-validation-91df56296f07?source=rss------bug_bounty_writeup-5)
 - [How a Temporary Invite Led to a Permanent Billing Takeover](https://medium.com/@mohammed01550038865/how-a-temporary-invite-led-to-a-permanent-billing-takeover-5211d6a5ec09?source=rss------bug_bounty_writeup-5)
 - [New rate limit bypass , other won’t say](https://medium.com/@rajanbala39/new-rate-limit-bypass-other-wont-say-086489470239?source=rss------bug_bounty_writeup-5)
 - [How I Got My First Real Attention in Bug Bounty &lpar;And Why This Matters More Than Money&rpar;](https://medium.com/@nayan12cr7/how-i-got-my-first-real-attention-in-bug-bounty-and-why-this-matters-more-than-money-702982e924ba?source=rss------bug_bounty_writeup-5)
@@ -9,9 +11,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How I hacked a website just by looking at the source code Part-2](https://infosecwriteups.com/how-i-hacked-a-website-just-by-looking-at-the-source-code-part-2-375b21321815?source=rss------bug_bounty_writeup-5)
 - [When “Export CSV” Becomes a Data Breach: A Case Study of a IDOR in a Crypto Platform](https://mokhansec.medium.com/when-export-csv-becomes-a-data-breach-a-case-study-of-a-idor-in-a-crypto-platform-ba29149d7c4a?source=rss------bug_bounty_writeup-5)
 - [IDOR Vulnerability in WEB3 Bug Bounty Platform Exposing User Sensitive PII](https://meetcyber.net/idor-vulnerability-in-web3-bug-bounty-platform-exposing-user-sensitive-pii-27bb5348db58?source=rss------bug_bounty_writeup-5)
-- [2FA Bypass via Reset Password](https://systemweakness.com/2fa-bypass-via-reset-password-daba828b10f3?source=rss------bug_bounty_writeup-5)
 - [Prompt Injection in Agentic AI](https://infosecwriteups.com/prompt-injection-in-agentic-ai-66b93b52fe48?source=rss----7b722bfd1b8d---4)
-- [Prompt Injection in Agentic AI](https://infosecwriteups.com/prompt-injection-in-agentic-ai-66b93b52fe48?source=rss------bug_bounty_writeup-5)
 - [React2Shell &lpar;CVE-2025–55182&rpar; explained for mere mortals](https://infosecwriteups.com/react2shell-cve-2025-55182-explained-for-mere-mortals-66c4d6864dab?source=rss----7b722bfd1b8d---4)
 - [Bug Bounty Isn’t About Speed — It’s About Seeing What Others Ignore](https://infosecwriteups.com/bug-bounty-isnt-about-speed-it-s-about-seeing-what-others-ignore-1b99396cdd6c?source=rss----7b722bfd1b8d---4)
 - [Exploiting OAuth Device Authorization: Risks in Microsoft 365](https://infosecwriteups.com/exploiting-oauth-device-authorization-risks-in-microsoft-365-f254ecdf2612?source=rss----7b722bfd1b8d---4)
