@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Technical Bug Bounty Methodology: Deep Recon, Automation and Human Insight](https://nullsecurityx.medium.com/technical-bug-bounty-methodology-deep-recon-automation-and-human-insight-ec61e9e0f4dd?source=rss------bug_bounty_writeup-5)
 - [From One Mutation to a Full Service Outage: A GraphQL DoS Story](https://medium.com/@oksuzkayra16/from-one-mutation-to-a-full-service-outage-a-graphql-dos-story-71c1f3c76ea9?source=rss------bug_bounty_writeup-5)
 - [Breaking the Gate: How We Bypassed Email Verification on a Major Platform](https://letchupkt.medium.com/breaking-the-gate-how-we-bypassed-email-verification-on-a-major-platform-e1a66a432b64?source=rss------bug_bounty_writeup-5)
 - [Account Takeover via Weak Password Reset Token Validation](https://systemweakness.com/account-takeover-via-weak-password-reset-token-validation-91df56296f07?source=rss------bug_bounty_writeup-5)
@@ -931,7 +932,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [2. OAuth Misbinding Vulnerability](https://infosecwriteups.com/2-oauth-misbinding-vulnerability-ed0e0830bdde?source=rss------bug_bounty_writeup-5)
 - [The “TMI” Endpoint: Why Unauthenticated Health Checks Are a Hacker’s Best Friend &lpar;And Why I Got 0…](https://zer0figure.medium.com/the-tmi-endpoint-why-unauthenticated-health-checks-are-a-hackers-best-friend-and-why-i-got-0-2945d21ea08f?source=rss------bug_bounty_writeup-5)
 - [How I hacked a website just by looking at the source code Part-2](https://infosecwriteups.com/how-i-hacked-a-website-just-by-looking-at-the-source-code-part-2-375b21321815?source=rss------bug_bounty_writeup-5)
-- [When “Export CSV” Becomes a Data Breach: A Case Study of a IDOR in a Crypto Platform](https://mokhansec.medium.com/when-export-csv-becomes-a-data-breach-a-case-study-of-a-idor-in-a-crypto-platform-ba29149d7c4a?source=rss------bug_bounty_writeup-5)
 - [Prompt Injection in Agentic AI](https://infosecwriteups.com/prompt-injection-in-agentic-ai-66b93b52fe48?source=rss----7b722bfd1b8d---4)
 - [React2Shell &lpar;CVE-2025–55182&rpar; explained for mere mortals](https://infosecwriteups.com/react2shell-cve-2025-55182-explained-for-mere-mortals-66c4d6864dab?source=rss----7b722bfd1b8d---4)
 - [Bug Bounty Isn’t About Speed — It’s About Seeing What Others Ignore](https://infosecwriteups.com/bug-bounty-isnt-about-speed-it-s-about-seeing-what-others-ignore-1b99396cdd6c?source=rss----7b722bfd1b8d---4)
@@ -946,7 +946,17 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
 - [How to backup and restore the Windows Registry](https://www.bleepingcomputer.com/tutorials/how-to-backup-and-restore-the-windows-registry/)
+- [How To Fix Error: Externally-Managed-Environment In Python &lpar;Kali Linux&rpar;](https://technicalnavigator.in/how-to-fix-error-externally-managed-environment-in-python-kali-linux/)
+- [Understanding Systemctl Command in Linux &lpar;Practical&rpar;](https://technicalnavigator.in/understanding-systemctl-command-in-linux-practical/)
+- [Macros in docm &amp; Linux memory dump| Hack The Boo  Challanges](https://technicalnavigator.in/macros-in-docm-linux-memory-dump-hack-the-boo-challanges/)
+- [Android Apps debugging |  Frida, JADX, Genymotion](https://technicalnavigator.in/android-apps-debugging-frida-jadx-genymotion/)
+- [MouseServer | wifimouse – Windows/ Linux](https://technicalnavigator.in/mouseserver-wifimouse-windows-linux/)
+- [FFUF fuzzer | web-application penetration-testing](https://technicalnavigator.in/ffuf-fuzzer-web-application-penetration-testing/)
 - [How to open a Windows 11 Command Prompt as Administrator](https://www.bleepingcomputer.com/tutorials/how-to-open-a-windows-11-command-prompt-as-administrator/)
+- [Classes-Objects &amp; Deserialization bug](https://technicalnavigator.in/classes-objects-deserialization-bug/)
+- [Loki Tool | Multhreading Over Sockets in C](https://technicalnavigator.in/loki-tool-multhreading-over-sockets-in-c/)
+- [Egghunter | NASM | C prototype](https://technicalnavigator.in/egghunter-nasm-c-prototype/)
+- [TELNET &amp; FTP Analysis](https://technicalnavigator.in/telnet-ftp-analysis/)
 - [How to make the Start menu full screen in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-make-the-start-menu-full-screen-in-windows-10/)
 - [How to install the Microsoft Visual C++ 2015 Runtime](https://www.bleepingcomputer.com/tutorials/how-to-install-the-microsoft-visual-c-2015-runtime/)
 - [How to open an elevated PowerShell Admin prompt in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-open-an-elevated-powershell-admin-prompt-in-windows-10/)
