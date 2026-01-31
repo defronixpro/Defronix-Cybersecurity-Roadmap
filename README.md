@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I Was Able to Take Over All Organizations on the Platform via Stored XSS chained with BAC and…](https://medium.com/@0xs3fo/how-i-was-able-to-take-over-all-organizations-on-the-platform-via-stored-xss-chained-with-bac-and-24ea39046b0c?source=rss------bug_bounty_writeup-5)
 - [Overview](https://medium.com/@Hasan_khan0x/overview-8434b7f668ab?source=rss------bug_bounty_writeup-5)
 - [IDOR Vulnerability in Dictionary Endpoint — Arbitrary Deletion of User Items &lpar;€€€&rpar;](https://medium.com/@Hasan_khan0x/idor-vulnerability-in-dictionary-endpoint-arbitrary-deletion-of-user-items-b97182251623?source=rss------bug_bounty_writeup-5)
 - [How to Read a Web App Like a Hacker &lpar;Even If You’re Not Technical Yet&rpar;](https://medium.com/@ramanidhaval11/how-to-read-a-web-app-like-a-hacker-even-if-youre-not-technical-yet-dcc10e034d72?source=rss------bug_bounty_writeup-5)
@@ -931,7 +932,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How I Took Over Accounts Using a Weak Password Reset Token](https://systemweakness.com/account-takeover-via-weak-password-reset-token-validation-91df56296f07?source=rss------bug_bounty_writeup-5)
 - [How a Temporary Invite Led to a Permanent Billing Takeover](https://medium.com/@mohammed01550038865/how-a-temporary-invite-led-to-a-permanent-billing-takeover-5211d6a5ec09?source=rss------bug_bounty_writeup-5)
 - [New rate limit bypass , other won’t say](https://medium.com/@rajanbala39/new-rate-limit-bypass-other-wont-say-086489470239?source=rss------bug_bounty_writeup-5)
-- [How I Got My First Real Attention in Bug Bounty &lpar;And Why This Matters More Than Money&rpar;](https://medium.com/@nayan12cr7/how-i-got-my-first-real-attention-in-bug-bounty-and-why-this-matters-more-than-money-702982e924ba?source=rss------bug_bounty_writeup-5)
 - [Prompt Injection in Agentic AI](https://infosecwriteups.com/prompt-injection-in-agentic-ai-66b93b52fe48?source=rss----7b722bfd1b8d---4)
 - [React2Shell &lpar;CVE-2025–55182&rpar; explained for mere mortals](https://infosecwriteups.com/react2shell-cve-2025-55182-explained-for-mere-mortals-66c4d6864dab?source=rss----7b722bfd1b8d---4)
 - [Bug Bounty Isn’t About Speed — It’s About Seeing What Others Ignore](https://infosecwriteups.com/bug-bounty-isnt-about-speed-it-s-about-seeing-what-others-ignore-1b99396cdd6c?source=rss----7b722bfd1b8d---4)
