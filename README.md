@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [XSS Made Simple: How It Works, Why It’s Dangerous, and How Hackers Use JavaScript](https://medium.com/@MuhammedAsfan/xss-made-simple-how-it-works-why-its-dangerous-and-how-hackers-use-javascript-246162e273cc?source=rss------bug_bounty_writeup-5)
 - [2FA Bypass via Session Fixation — High Vulnerability in Vero 300$](https://medium.com/@Hasan_khan0x/2fa-bypass-via-session-fixation-high-vulnerability-in-vero-300-f9e56b39c9ca?source=rss------bug_bounty_writeup-5)
 - [IDOR Lets Attackers Choose Your Payment Method](https://medium.com/legionhunters/idor-lets-attackers-choose-your-payment-method-abe87784e726?source=rss------bug_bounty_writeup-5)
 - [How I Was Able to Take Over All Organizations on the Platform via Stored XSS chained with BAC and…](https://medium.com/@0xs3fo/how-i-was-able-to-take-over-all-organizations-on-the-platform-via-stored-xss-chained-with-bac-and-24ea39046b0c?source=rss------bug_bounty_writeup-5)
@@ -931,7 +932,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Technical Bug Bounty Methodology: Deep Recon, Automation and Human Insight](https://nullsecurityx.medium.com/technical-bug-bounty-methodology-deep-recon-automation-and-human-insight-ec61e9e0f4dd?source=rss------bug_bounty_writeup-5)
 - [From One Mutation to a Full Service Outage: A GraphQL DoS Story](https://medium.com/@oksuzkayra16/from-one-mutation-to-a-full-service-outage-a-graphql-dos-story-71c1f3c76ea9?source=rss------bug_bounty_writeup-5)
 - [Breaking the Gate: How We Bypassed Email Verification on a Major Platform](https://letchupkt.medium.com/breaking-the-gate-how-we-bypassed-email-verification-on-a-major-platform-e1a66a432b64?source=rss------bug_bounty_writeup-5)
-- [How I Took Over Accounts Using a Weak Password Reset Token](https://systemweakness.com/account-takeover-via-weak-password-reset-token-validation-91df56296f07?source=rss------bug_bounty_writeup-5)
 - [Prompt Injection in Agentic AI](https://infosecwriteups.com/prompt-injection-in-agentic-ai-66b93b52fe48?source=rss----7b722bfd1b8d---4)
 - [React2Shell &lpar;CVE-2025–55182&rpar; explained for mere mortals](https://infosecwriteups.com/react2shell-cve-2025-55182-explained-for-mere-mortals-66c4d6864dab?source=rss----7b722bfd1b8d---4)
 - [Bug Bounty Isn’t About Speed — It’s About Seeing What Others Ignore](https://infosecwriteups.com/bug-bounty-isnt-about-speed-it-s-about-seeing-what-others-ignore-1b99396cdd6c?source=rss----7b722bfd1b8d---4)
