@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [The Hidden Danger in XML: A Deep Dive into XXE Injection for Modern Pentesters](https://osintteam.blog/the-hidden-danger-in-xml-a-deep-dive-into-xxe-injection-for-modern-pentesters-684a3efd2634?source=rss------bug_bounty_writeup-5)
 - [My First Week: 3 Business Logic Bugs in Major E-Commerce](https://medium.com/@youalialassaf/my-first-week-3-business-logic-bugs-in-major-e-commerce-8b303e02771f?source=rss------bug_bounty_writeup-5)
 - [Tools for Bug Bounty v3.0 — Content Discovery](https://meetcyber.net/tools-for-bug-bounty-v3-0-content-discovery-3e97ade93c91?source=rss------bug_bounty_writeup-5)
 - [How I got a $$$$ by discovring a critical Sql Injecation vulnerability In a Public Bug Bounty…](https://medium.com/@a7madhacck/how-i-got-a-by-discovring-a-critical-sql-injecation-vulnerability-in-a-public-bug-bounty-98c684d7eab0?source=rss------bug_bounty_writeup-5)
@@ -931,7 +932,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How I Was Able to Take Over All Organizations on the Platform via Stored XSS chained with BAC and…](https://medium.com/@0xs3fo/how-i-was-able-to-take-over-all-organizations-on-the-platform-via-stored-xss-chained-with-bac-and-24ea39046b0c?source=rss------bug_bounty_writeup-5)
 - [Overview](https://medium.com/@Hasan_khan0x/overview-8434b7f668ab?source=rss------bug_bounty_writeup-5)
 - [IDOR Vulnerability in Dictionary Endpoint — Arbitrary Deletion of User Items &lpar;€€€&rpar;](https://medium.com/@Hasan_khan0x/idor-vulnerability-in-dictionary-endpoint-arbitrary-deletion-of-user-items-b97182251623?source=rss------bug_bounty_writeup-5)
-- [How to Read a Web App Like a Hacker &lpar;Even If You’re Not Technical Yet&rpar;](https://medium.com/@ramanidhaval11/how-to-read-a-web-app-like-a-hacker-even-if-youre-not-technical-yet-dcc10e034d72?source=rss------bug_bounty_writeup-5)
 - [Prompt Injection in Agentic AI](https://infosecwriteups.com/prompt-injection-in-agentic-ai-66b93b52fe48?source=rss----7b722bfd1b8d---4)
 - [React2Shell &lpar;CVE-2025–55182&rpar; explained for mere mortals](https://infosecwriteups.com/react2shell-cve-2025-55182-explained-for-mere-mortals-66c4d6864dab?source=rss----7b722bfd1b8d---4)
 - [Bug Bounty Isn’t About Speed — It’s About Seeing What Others Ignore](https://infosecwriteups.com/bug-bounty-isnt-about-speed-it-s-about-seeing-what-others-ignore-1b99396cdd6c?source=rss----7b722bfd1b8d---4)
@@ -942,16 +942,16 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [HTML Injection to Data Exfiltration: Weaponizing CSS](https://infosecwriteups.com/html-injection-to-data-exfiltration-weaponizing-css-88ec1639a0cd?source=rss----7b722bfd1b8d---4)
 - [Advent of Cyber Prep Track | Tryhackme | Day-0](https://infosecwriteups.com/advent-of-cyber-prep-track-tryhackme-day0-0dd49d50de37?source=rss----7b722bfd1b8d---4)
 - [ALL about OSCP Pivoting| AD Lateral Movement | ligolo-ng, chisel, sshuttle](https://infosecwriteups.com/everything-about-pivoting-oscp-active-directory-lateral-movement-6ed34faa08a2?source=rss----7b722bfd1b8d---4)
-- [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
-- [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
-- [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
-- [How to backup and restore the Windows Registry](https://www.bleepingcomputer.com/tutorials/how-to-backup-and-restore-the-windows-registry/)
-- [How to open a Windows 11 Command Prompt as Administrator](https://www.bleepingcomputer.com/tutorials/how-to-open-a-windows-11-command-prompt-as-administrator/)
-- [How to make the Start menu full screen in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-make-the-start-menu-full-screen-in-windows-10/)
-- [How to install the Microsoft Visual C++ 2015 Runtime](https://www.bleepingcomputer.com/tutorials/how-to-install-the-microsoft-visual-c-2015-runtime/)
-- [How to open an elevated PowerShell Admin prompt in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-open-an-elevated-powershell-admin-prompt-in-windows-10/)
-- [How to Translate a Web Page in Google Chrome](https://www.bleepingcomputer.com/tutorials/how-to-translate-a-web-page-in-google-chrome/)
-- [How to Install and Uninstall Google Chrome in Windows](https://www.bleepingcomputer.com/tutorials/how-to-install-and-uninstall-google-chrome-in-windows/)
+- [How To Fix Error: Externally-Managed-Environment In Python &lpar;Kali Linux&rpar;](https://technicalnavigator.in/how-to-fix-error-externally-managed-environment-in-python-kali-linux/)
+- [Understanding Systemctl Command in Linux &lpar;Practical&rpar;](https://technicalnavigator.in/understanding-systemctl-command-in-linux-practical/)
+- [Macros in docm &amp; Linux memory dump| Hack The Boo  Challanges](https://technicalnavigator.in/macros-in-docm-linux-memory-dump-hack-the-boo-challanges/)
+- [Android Apps debugging |  Frida, JADX, Genymotion](https://technicalnavigator.in/android-apps-debugging-frida-jadx-genymotion/)
+- [MouseServer | wifimouse – Windows/ Linux](https://technicalnavigator.in/mouseserver-wifimouse-windows-linux/)
+- [FFUF fuzzer | web-application penetration-testing](https://technicalnavigator.in/ffuf-fuzzer-web-application-penetration-testing/)
+- [Classes-Objects &amp; Deserialization bug](https://technicalnavigator.in/classes-objects-deserialization-bug/)
+- [Loki Tool | Multhreading Over Sockets in C](https://technicalnavigator.in/loki-tool-multhreading-over-sockets-in-c/)
+- [Egghunter | NASM | C prototype](https://technicalnavigator.in/egghunter-nasm-c-prototype/)
+- [TELNET &amp; FTP Analysis](https://technicalnavigator.in/telnet-ftp-analysis/)
 <!-- WRITEUPS:END -->
 [Read more 🙌](https://github.com/defronixpro/Defronix-Cybersecurity-Roadmap/blob/main/Writeups.md)
 
