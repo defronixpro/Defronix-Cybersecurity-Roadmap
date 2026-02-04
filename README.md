@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [No CSRF Protection: How a Logged-In User’s Email Can Be Changed Silently](https://medium.com/@sudoxploit/no-csrf-protection-how-a-logged-in-users-email-can-be-changed-silently-70cfb6599763?source=rss------bug_bounty_writeup-5)
 - [The $1,300 Sequel: Why Retesting is a Bug Hunter’s Secret Weapon](https://medium.com/@gopikrishna0295/the-1-300-sequel-why-retesting-is-a-bug-hunters-secret-weapon-b2734005f209?source=rss------bug_bounty_writeup-5)
 - [The Hidden Danger in XML: A Deep Dive into XXE Injection for Modern Pentesters](https://osintteam.blog/the-hidden-danger-in-xml-a-deep-dive-into-xxe-injection-for-modern-pentesters-684a3efd2634?source=rss------bug_bounty_writeup-5)
 - [My First Week: 3 Business Logic Bugs in Major E-Commerce](https://medium.com/@youalialassaf/my-first-week-3-business-logic-bugs-in-major-e-commerce-8b303e02771f?source=rss------bug_bounty_writeup-5)
@@ -931,7 +932,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [2FA Bypass via Session Fixation — High Vulnerability in Vero 300$](https://medium.com/@Hasan_khan0x/2fa-bypass-via-session-fixation-high-vulnerability-in-vero-300-f9e56b39c9ca?source=rss------bug_bounty_writeup-5)
 - [IDOR Lets Attackers Choose Your Payment Method](https://medium.com/legionhunters/idor-lets-attackers-choose-your-payment-method-abe87784e726?source=rss------bug_bounty_writeup-5)
 - [How I Was Able to Take Over All Organizations on the Platform via Stored XSS chained with BAC and…](https://medium.com/@0xs3fo/how-i-was-able-to-take-over-all-organizations-on-the-platform-via-stored-xss-chained-with-bac-and-24ea39046b0c?source=rss------bug_bounty_writeup-5)
-- [Overview](https://medium.com/@Hasan_khan0x/overview-8434b7f668ab?source=rss------bug_bounty_writeup-5)
 - [Prompt Injection in Agentic AI](https://infosecwriteups.com/prompt-injection-in-agentic-ai-66b93b52fe48?source=rss----7b722bfd1b8d---4)
 - [React2Shell &lpar;CVE-2025–55182&rpar; explained for mere mortals](https://infosecwriteups.com/react2shell-cve-2025-55182-explained-for-mere-mortals-66c4d6864dab?source=rss----7b722bfd1b8d---4)
 - [Bug Bounty Isn’t About Speed — It’s About Seeing What Others Ignore](https://infosecwriteups.com/bug-bounty-isnt-about-speed-it-s-about-seeing-what-others-ignore-1b99396cdd6c?source=rss----7b722bfd1b8d---4)
