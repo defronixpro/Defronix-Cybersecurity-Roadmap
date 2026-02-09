@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [SSL/TLS Made Simple: What That Lock Icon Really Means](https://medium.com/@MuhammedAsfan/ssl-tls-made-simple-what-that-lock-icon-really-means-895dfd0529c2?source=rss------bug_bounty_writeup-5)
 - [JavaScript Secret Hunting: 11 Methods Bug Bounty Hunters Use to Extract Hidden Treasures](https://infosecwriteups.com/javascript-secret-hunting-11-methods-bug-bounty-hunters-use-to-extract-hidden-treasures-6950df4cc42e?source=rss------bug_bounty_writeup-5)
 - [Breaking Tenant Isolation: Critical Cross-Tenant Data Access in Stripo’s AI Hub Campaign](https://infosecwriteups.com/breaking-tenant-isolation-critical-cross-tenant-data-access-in-stripos-ai-hub-campaign-ef9d69378314?source=rss------bug_bounty_writeup-5)
 - [How Wordfence Paid Me $0 for a Critical Vulnerability Affecting 700K Websites](https://medium.com/@info_29610/how-wordfence-paid-me-0-for-a-critical-vulnerability-affecting-700k-websites-ff69fea27f86?source=rss------bug_bounty_writeup-5)
@@ -939,7 +940,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Active Directory Penetration Testing](https://infosecwriteups.com/active-directory-penetration-testing-745cfb31d7d3?source=rss----7b722bfd1b8d---4)
 - [Proving Grounds Linux lab Levram &lpar; Road to OSCP &rpar;](https://infosecwriteups.com/as-always-in-every-penetration-testing-engagements-we-start-by-reconnaissance-and-information-04bf8744dc7e?source=rss----7b722bfd1b8d---4)
 - [How to Hack Swagger UI Complete Guide.](https://infosecwriteups.com/how-to-hack-swagger-ui-complete-guide-9291d9158603?source=rss----7b722bfd1b8d---4)
-- [How to Hack Swagger UI Complete Guide.](https://infosecwriteups.com/how-to-hack-swagger-ui-complete-guide-9291d9158603?source=rss------bug_bounty_writeup-5)
 - [I Followed the Password Reset Flow — and Ended Up Resetting Everyone’s Password](https://infosecwriteups.com/i-followed-the-password-reset-flow-and-ended-up-resetting-everyones-password-d81e07e6e3b7?source=rss----7b722bfd1b8d---4)
 - [Prompt Injection in Agentic AI](https://infosecwriteups.com/prompt-injection-in-agentic-ai-66b93b52fe48?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
