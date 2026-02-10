@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Breaking the Paywall: How a Simple Access Control Flaw Exposed Premium Hiring Data](https://infosecwriteups.com/breaking-the-paywall-how-a-simple-access-control-flaw-exposed-premium-hiring-data-013a5605646c?source=rss------bug_bounty_writeup-5)
 - [The Zombie SSH: How I Forced a Modern Server into a “Logjam” &lpar;And Why It Was Marked N/A&rpar;](https://systemweakness.com/the-zombie-ssh-how-i-forced-a-modern-server-into-a-logjam-and-why-it-was-marked-n-a-d6c22cbd9a93?source=rss------bug_bounty_writeup-5)
 - [Information Disclosure di LocalStorage](https://medium.com/@jallaludinozi25/information-disclosure-di-localstorage-8bb7cbc2d106?source=rss------bug_bounty_writeup-5)
 - [SSL/TLS Made Simple: What That Lock Icon Really Means](https://medium.com/@MuhammedAsfan/ssl-tls-made-simple-what-that-lock-icon-really-means-895dfd0529c2?source=rss------bug_bounty_writeup-5)
@@ -931,7 +932,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How to Turn Recon Notes Into Real Bug Bounty Findings](https://medium.com/@ramanidhaval11/how-to-turn-recon-notes-into-real-bug-bounty-findings-f3742df446de?source=rss------bug_bounty_writeup-5)
 - [Here’s how I discovered a high-severity broken access control vulnerability &lpar;BAC-1&rpar;](https://medium.com/@Br0k3n_1337/heres-how-i-discovered-a-high-severity-broken-access-control-vulnerability-bac-1-27c0e3e821f0?source=rss------bug_bounty_writeup-5)
 - [Business Logic Bug](https://medium.com/@hamt3r/business-logic-bug-8f9922142b18?source=rss------bug_bounty_writeup-5)
-- [Part 1: The Modern Recon Stack — How I Found What Others Missed](https://medium.com/@gopikrishna0295/part-1-the-modern-recon-stack-how-i-found-what-others-missed-e837e70863c0?source=rss------bug_bounty_writeup-5)
 - [How I hacked a website just by looking at the source code Part-2](https://infosecwriteups.com/how-i-hacked-a-website-just-by-looking-at-the-source-code-part-2-375b21321815?source=rss----7b722bfd1b8d---4)
 - [Active Directory Lab for PenTest. Manual Deployment Guide](https://infosecwriteups.com/active-directory-lab-for-pentest-manual-deployment-guide-cab28cd4ad8d?source=rss----7b722bfd1b8d---4)
 - [All About OWASP Top 10 for Agentic AI Applications](https://infosecwriteups.com/all-about-owasp-top-10-for-agentic-ai-applications-b8420d48a1f0?source=rss----7b722bfd1b8d---4)
