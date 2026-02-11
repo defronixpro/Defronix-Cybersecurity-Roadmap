@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Logic Poisoning: How One Bad Review Broke Ratings](https://medium.com/legionhunters/logic-poisoning-how-one-bad-review-broke-ratings-cfe38ae48338?source=rss------bug_bounty_writeup-5)
 - [How To Hack Part 3](https://infosecwriteups.com/how-to-hack-part-3-7d4713ad00ee?source=rss----7b722bfd1b8d---4)
 - [Introducing ExecEvasion: Understanding Execution Evasion Beyond Simple Filters](https://osintteam.blog/introducing-execevasion-understanding-execution-evasion-beyond-simple-filters-5b5c1411e89e?source=rss------bug_bounty_writeup-5)
 - [Business Logic Flaw Allows Delegated Users to Hide Messages Using Archive &amp; Trash States](https://medium.com/@moatymohamed897/business-logic-flaw-allows-delegated-users-to-hide-messages-using-archive-trash-states-1acd5d1227bd?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [SSL/TLS Made Simple: What That Lock Icon Really Means](https://medium.com/@MuhammedAsfan/ssl-tls-made-simple-what-that-lock-icon-really-means-895dfd0529c2?source=rss------bug_bounty_writeup-5)
 - [JavaScript Secret Hunting: 11 Methods Bug Bounty Hunters Use to Extract Hidden Treasures](https://infosecwriteups.com/javascript-secret-hunting-11-methods-bug-bounty-hunters-use-to-extract-hidden-treasures-6950df4cc42e?source=rss------bug_bounty_writeup-5)
 - [Breaking Tenant Isolation: Critical Cross-Tenant Data Access in Stripo’s AI Hub Campaign](https://infosecwriteups.com/breaking-tenant-isolation-critical-cross-tenant-data-access-in-stripos-ai-hub-campaign-ef9d69378314?source=rss------bug_bounty_writeup-5)
-- [How Wordfence Paid Me $0 for a Critical Vulnerability Affecting 700K Websites](https://medium.com/@info_29610/how-wordfence-paid-me-0-for-a-critical-vulnerability-affecting-700k-websites-ff69fea27f86?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
