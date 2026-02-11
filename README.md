@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How To Hack Part 3](https://infosecwriteups.com/how-to-hack-part-3-7d4713ad00ee?source=rss----7b722bfd1b8d---4)
 - [Introducing ExecEvasion: Understanding Execution Evasion Beyond Simple Filters](https://osintteam.blog/introducing-execevasion-understanding-execution-evasion-beyond-simple-filters-5b5c1411e89e?source=rss------bug_bounty_writeup-5)
 - [Business Logic Flaw Allows Delegated Users to Hide Messages Using Archive &amp; Trash States](https://medium.com/@moatymohamed897/business-logic-flaw-allows-delegated-users-to-hide-messages-using-archive-trash-states-1acd5d1227bd?source=rss------bug_bounty_writeup-5)
 - [From Recon to DNS Callbacks: Discovering an MSSQL Out-of-Band SQL Injection in a Bug Bounty Program](https://nullsecurityx.medium.com/from-recon-to-dns-callbacks-discovering-an-mssql-out-of-band-sql-injection-in-a-bug-bounty-program-53e214e34f55?source=rss------bug_bounty_writeup-5)
@@ -934,7 +935,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Ni8mare: Unauthenticated RCE in n8n &lpar;CVE-2026–21858&rpar;](https://infosecwriteups.com/ni8mare-unauthenticated-rce-in-n8n-cve-2026-21858-ed8976ce716d?source=rss----7b722bfd1b8d---4)
 - [The “Node 1.9” Miracle: How to Turn Your Bitcoin into a Hard Lesson in Cybersecurity](https://infosecwriteups.com/the-node-1-9-miracle-how-to-turn-your-bitcoin-into-a-hard-lesson-in-cybersecurity-e2435a142adb?source=rss----7b722bfd1b8d---4)
 - [Inside the OWASP Agentic AI Top 10: Exploitation and Architecture in Autonomous Systems](https://infosecwriteups.com/inside-the-owasp-agentic-ai-top-10-exploitation-and-architecture-in-autonomous-systems-2be96053b76e?source=rss----7b722bfd1b8d---4)
-- [Wild Bug Bounty Bugs You’ve Probably Never Seen](https://infosecwriteups.com/wild-bug-bounty-bugs-youve-probably-never-seen-38c13a18a7fa?source=rss----7b722bfd1b8d---4)
 - [Breaking the Paywall: How a Simple Access Control Flaw Exposed Premium Hiring Data](https://infosecwriteups.com/breaking-the-paywall-how-a-simple-access-control-flaw-exposed-premium-hiring-data-013a5605646c?source=rss------bug_bounty_writeup-5)
 - [The Zombie SSH: How I Forced a Modern Server into a “Logjam” &lpar;And Why It Was Marked N/A&rpar;](https://systemweakness.com/the-zombie-ssh-how-i-forced-a-modern-server-into-a-logjam-and-why-it-was-marked-n-a-d6c22cbd9a93?source=rss------bug_bounty_writeup-5)
 - [Information Disclosure di LocalStorage](https://medium.com/@jallaludinozi25/information-disclosure-di-localstorage-8bb7cbc2d106?source=rss------bug_bounty_writeup-5)
@@ -946,7 +946,17 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
 - [How to backup and restore the Windows Registry](https://www.bleepingcomputer.com/tutorials/how-to-backup-and-restore-the-windows-registry/)
+- [How To Fix Error: Externally-Managed-Environment In Python &lpar;Kali Linux&rpar;](https://technicalnavigator.in/how-to-fix-error-externally-managed-environment-in-python-kali-linux/)
+- [Understanding Systemctl Command in Linux &lpar;Practical&rpar;](https://technicalnavigator.in/understanding-systemctl-command-in-linux-practical/)
+- [Macros in docm &amp; Linux memory dump| Hack The Boo  Challanges](https://technicalnavigator.in/macros-in-docm-linux-memory-dump-hack-the-boo-challanges/)
+- [Android Apps debugging |  Frida, JADX, Genymotion](https://technicalnavigator.in/android-apps-debugging-frida-jadx-genymotion/)
+- [MouseServer | wifimouse – Windows/ Linux](https://technicalnavigator.in/mouseserver-wifimouse-windows-linux/)
+- [FFUF fuzzer | web-application penetration-testing](https://technicalnavigator.in/ffuf-fuzzer-web-application-penetration-testing/)
 - [How to open a Windows 11 Command Prompt as Administrator](https://www.bleepingcomputer.com/tutorials/how-to-open-a-windows-11-command-prompt-as-administrator/)
+- [Classes-Objects &amp; Deserialization bug](https://technicalnavigator.in/classes-objects-deserialization-bug/)
+- [Loki Tool | Multhreading Over Sockets in C](https://technicalnavigator.in/loki-tool-multhreading-over-sockets-in-c/)
+- [Egghunter | NASM | C prototype](https://technicalnavigator.in/egghunter-nasm-c-prototype/)
+- [TELNET &amp; FTP Analysis](https://technicalnavigator.in/telnet-ftp-analysis/)
 - [How to make the Start menu full screen in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-make-the-start-menu-full-screen-in-windows-10/)
 - [How to install the Microsoft Visual C++ 2015 Runtime](https://www.bleepingcomputer.com/tutorials/how-to-install-the-microsoft-visual-c-2015-runtime/)
 - [How to open an elevated PowerShell Admin prompt in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-open-an-elevated-powershell-admin-prompt-in-windows-10/)
