@@ -1,6 +1,9 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Black-Box Kubernetes Penetration Testing Playbook](https://infosecwriteups.com/black-box-kubernetes-penetration-testing-playbook-56350b178af4?source=rss----7b722bfd1b8d---4)
+- [Account Takeover using Improper Authorization in “Check Availability” Feature](https://infosecwriteups.com/account-takeover-using-improper-authorization-in-check-availability-feature-4f9f65098853?source=rss----7b722bfd1b8d---4)
+- [5 Ways to Bypass Email Verification Without Using Any Tool](https://infosecwriteups.com/5-ways-to-bypass-email-verification-without-using-any-tool-87bfbe7fc156?source=rss----7b722bfd1b8d---4)
 - [Hacking Google Drive Integrations: A Deep Dive into OAuth Security](https://infosecwriteups.com/hacking-google-drive-integrations-a-deep-dive-into-oauth-security-4e233bfcf395?source=rss------bug_bounty_writeup-5)
 - [Logic Poisoning: How One Bad Review Broke Ratings](https://medium.com/legionhunters/logic-poisoning-how-one-bad-review-broke-ratings-cfe38ae48338?source=rss------bug_bounty_writeup-5)
 - [How To Hack Part 3](https://infosecwriteups.com/how-to-hack-part-3-7d4713ad00ee?source=rss----7b722bfd1b8d---4)
@@ -13,9 +16,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How a Critical Race Condition in a Management System Led to a $0 Bounty](https://infosecwriteups.com/how-a-critical-race-condition-in-a-management-system-led-to-a-0-bounty-8ac2d0ad17da?source=rss----7b722bfd1b8d---4)
 - [Astronaut Proving Grounds Linux Machine &lpar; Road to OSCP&rpar;](https://infosecwriteups.com/as-always-in-every-penetration-testing-engagements-we-start-by-reconnaissance-and-information-8811ce8e7768?source=rss----7b722bfd1b8d---4)
 - [Proving Grounds Practice Codo Linux Lab &lpar; Road to OSCP &rpar;](https://infosecwriteups.com/proving-grounds-practice-codo-linux-lab-road-to-oscp-ab82689ee7ef?source=rss----7b722bfd1b8d---4)
-- [Ni8mare: Unauthenticated RCE in n8n &lpar;CVE-2026–21858&rpar;](https://infosecwriteups.com/ni8mare-unauthenticated-rce-in-n8n-cve-2026-21858-ed8976ce716d?source=rss----7b722bfd1b8d---4)
-- [The “Node 1.9” Miracle: How to Turn Your Bitcoin into a Hard Lesson in Cybersecurity](https://infosecwriteups.com/the-node-1-9-miracle-how-to-turn-your-bitcoin-into-a-hard-lesson-in-cybersecurity-e2435a142adb?source=rss----7b722bfd1b8d---4)
-- [Inside the OWASP Agentic AI Top 10: Exploitation and Architecture in Autonomous Systems](https://infosecwriteups.com/inside-the-owasp-agentic-ai-top-10-exploitation-and-architecture-in-autonomous-systems-2be96053b76e?source=rss----7b722bfd1b8d---4)
 - [Breaking the Paywall: How a Simple Access Control Flaw Exposed Premium Hiring Data](https://infosecwriteups.com/breaking-the-paywall-how-a-simple-access-control-flaw-exposed-premium-hiring-data-013a5605646c?source=rss------bug_bounty_writeup-5)
 - [The Zombie SSH: How I Forced a Modern Server into a “Logjam” &lpar;And Why It Was Marked N/A&rpar;](https://systemweakness.com/the-zombie-ssh-how-i-forced-a-modern-server-into-a-logjam-and-why-it-was-marked-n-a-d6c22cbd9a93?source=rss------bug_bounty_writeup-5)
 - [Information Disclosure di LocalStorage](https://medium.com/@jallaludinozi25/information-disclosure-di-localstorage-8bb7cbc2d106?source=rss------bug_bounty_writeup-5)
