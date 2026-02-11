@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [2FA bypass after fix via manually injecting “isVerifyAuth” cookie in local storage](https://medium.com/@mahmoudmagdy45456/2fa-bypass-after-fix-via-manually-injecting-isverifyauth-cookie-in-local-storage-296664399696?source=rss------bug_bounty_writeup-5)
 - [Everyone Scanned the App — I Read the Error Messages Instead](https://infosecwriteups.com/everyone-scanned-the-app-i-read-the-error-messages-instead-2d910231e45f?source=rss----7b722bfd1b8d---4)
 - [Black-Box Kubernetes Penetration Testing Playbook](https://infosecwriteups.com/black-box-kubernetes-penetration-testing-playbook-56350b178af4?source=rss----7b722bfd1b8d---4)
 - [Account Takeover using Improper Authorization in “Check Availability” Feature](https://infosecwriteups.com/account-takeover-using-improper-authorization-in-check-availability-feature-4f9f65098853?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [The Zombie SSH: How I Forced a Modern Server into a “Logjam” &lpar;And Why It Was Marked N/A&rpar;](https://systemweakness.com/the-zombie-ssh-how-i-forced-a-modern-server-into-a-logjam-and-why-it-was-marked-n-a-d6c22cbd9a93?source=rss------bug_bounty_writeup-5)
 - [Information Disclosure di LocalStorage](https://medium.com/@jallaludinozi25/information-disclosure-di-localstorage-8bb7cbc2d106?source=rss------bug_bounty_writeup-5)
 - [SSL/TLS Made Simple: What That Lock Icon Really Means](https://medium.com/@MuhammedAsfan/ssl-tls-made-simple-what-that-lock-icon-really-means-895dfd0529c2?source=rss------bug_bounty_writeup-5)
-- [JavaScript Secret Hunting: 11 Methods Bug Bounty Hunters Use to Extract Hidden Treasures](https://infosecwriteups.com/javascript-secret-hunting-11-methods-bug-bounty-hunters-use-to-extract-hidden-treasures-6950df4cc42e?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
