@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [From Restriction to Exposure: How a Single Feature Leaked Thousands of PII Records](https://osintteam.blog/from-restriction-to-exposure-how-a-single-feature-leaked-thousands-of-pii-records-24ec7d171de3?source=rss------bug_bounty_writeup-5)
 - [The Logic Flaw That Leads to Total Control: Mastering Account Takeovers in 2026](https://infosecwriteups.com/the-logic-flaw-that-leads-to-total-control-mastering-account-takeovers-in-2026-aecef6d30bd9?source=rss------bug_bounty_writeup-5)
 - [Part 3: The Modern Recon Stack — The automation script](https://medium.com/@gopikrishna0295/part-3-the-modern-recon-stack-the-automation-script-6aacbba06916?source=rss------bug_bounty_writeup-5)
 - [When ARP Goes Wrong: Threat Hunting ARP Poisoning in Network Traffic](https://infosecwriteups.com/when-arp-goes-wrong-threat-hunting-arp-poisoning-in-network-traffic-cf9f9d9c9ee1?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Business Logic Flaw Allows Delegated Users to Hide Messages Using Archive &amp; Trash States](https://medium.com/@moatymohamed897/business-logic-flaw-allows-delegated-users-to-hide-messages-using-archive-trash-states-1acd5d1227bd?source=rss------bug_bounty_writeup-5)
 - [From Recon to DNS Callbacks: Discovering an MSSQL Out-of-Band SQL Injection in a Bug Bounty Program](https://nullsecurityx.medium.com/from-recon-to-dns-callbacks-discovering-an-mssql-out-of-band-sql-injection-in-a-bug-bounty-program-53e214e34f55?source=rss------bug_bounty_writeup-5)
 - [Breaking the Paywall: How a Simple Access Control Flaw Exposed Premium Hiring Data](https://infosecwriteups.com/breaking-the-paywall-how-a-simple-access-control-flaw-exposed-premium-hiring-data-013a5605646c?source=rss------bug_bounty_writeup-5)
-- [The Zombie SSH: How I Forced a Modern Server into a “Logjam” &lpar;And Why It Was Marked N/A&rpar;](https://systemweakness.com/the-zombie-ssh-how-i-forced-a-modern-server-into-a-logjam-and-why-it-was-marked-n-a-d6c22cbd9a93?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
