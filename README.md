@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I found sensitive data exposure on web page “Access to the root URL is not allowed.”](https://medium.com/@albertstive1010/how-i-found-sensitive-data-exposure-on-web-page-access-to-the-root-url-is-not-allowed-5594fdd6cb57?source=rss------bug_bounty_writeup-5)
 - [Beyond the Perimeter: How I Bridge WiFi VLANs to Hijack Your Domain Controller](https://infosecwriteups.com/wifi-evil-twin-attack-active-directory-compromise-8517e4bbe202?source=rss----7b722bfd1b8d---4)
 - [Neural Network Backdoors: When Model Poisoning Led to System Compromise](https://infosecwriteups.com/neural-network-backdoors-when-model-poisoning-led-to-system-compromise-685f37350ec1?source=rss----7b722bfd1b8d---4)
 - [How I Passed the PNPT on My Second Attempt &lpar;2026&rpar;: Review and Tips](https://infosecwriteups.com/how-i-passed-the-pnpt-on-my-second-attempt-2026-review-and-tips-dcdd829cd591?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [2FA bypass after fix via manually injecting “isVerifyAuth” cookie in local storage](https://medium.com/legionhunters/2fa-bypass-after-fix-via-manually-injecting-isverifyauth-cookie-in-local-storage-296664399696?source=rss------bug_bounty_writeup-5)
 - [Hacking Google Drive Integrations: A Deep Dive into OAuth Security](https://infosecwriteups.com/hacking-google-drive-integrations-a-deep-dive-into-oauth-security-4e233bfcf395?source=rss------bug_bounty_writeup-5)
 - [Logic Poisoning: How One Bad Review Broke Ratings](https://medium.com/legionhunters/logic-poisoning-how-one-bad-review-broke-ratings-cfe38ae48338?source=rss------bug_bounty_writeup-5)
-- [Introducing ExecEvasion: Understanding Execution Evasion Beyond Simple Filters](https://osintteam.blog/introducing-execevasion-understanding-execution-evasion-beyond-simple-filters-5b5c1411e89e?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
