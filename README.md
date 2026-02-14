@@ -923,7 +923,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
 - [XSS WAF Bypass: 3 Tricks to Beat Alert Blockers](https://medium.com/@cybersecplayground/xss-waf-bypass-3-tricks-to-beat-alert-blockers-b7552dcde45b?source=rss------bug_bounty_writeup-5)
-- [From 1.5 Years of Silence to €250: How I Learned to Fight for Bug Bounty Impact](https://savi0r.medium.com/from-1-5-years-of-silence-to-250-how-i-learned-to-fight-for-bug-bounty-impact-947b20f0898f?source=rss------bug_bounty_writeup-5)
+- [Partial SSRF to €250: How Network Segmentation Bypass Beat ‘Just a Title Tag’](https://savi0r.medium.com/from-1-5-years-of-silence-to-250-how-i-learned-to-fight-for-bug-bounty-impact-947b20f0898f?source=rss------bug_bounty_writeup-5)
 - [Breaking the Box: bypassing Node.js Filesystem Permissions via Symlinks &lpar;CVE-2025–55130&rpar;](https://xalgord.medium.com/breaking-the-box-bypassing-node-js-filesystem-permissions-via-symlinks-cve-2025-55130-0b9ad44920f9?source=rss------bug_bounty_writeup-5)
 - [The Zero-to-Hero Guide to Bug Bounty Hunting: A Comprehensive Roadmap](https://infosecwriteups.com/the-zero-to-hero-guide-to-bug-bounty-hunting-a-comprehensive-roadmap-831a0a446803?source=rss------bug_bounty_writeup-5)
 - [How I found sensitive data exposure on web page “Access to the root URL is not allowed.”](https://medium.com/@albertstive1010/how-i-found-sensitive-data-exposure-on-web-page-access-to-the-root-url-is-not-allowed-5594fdd6cb57?source=rss------bug_bounty_writeup-5)
