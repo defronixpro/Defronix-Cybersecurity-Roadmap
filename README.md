@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Unauthenticated Image Access and EXIF Location Leak, Easy P4, you can find under 2 mins](https://infosecwriteups.com/unauthenticated-image-access-and-exif-location-leak-easy-p4-you-can-find-under-2-mins-88e5a9064a91?source=rss------bug_bounty_writeup-5)
 - [Stored HTML Injection That Took Down the Application — Landed me in $$$ Bounty](https://medium.com/@sunny561/stored-html-injection-that-took-down-the-application-landed-me-in-bounty-604c1f1f40b2?source=rss------bug_bounty_writeup-5)
 - [Why You Are Failing at Bug Bounty Hunting &lpar;And the Blueprint to Fix It&rpar;](https://infosecwriteups.com/why-you-are-failing-at-bug-bounty-hunting-and-the-blueprint-to-fix-it-e5a904ae63fa?source=rss------bug_bounty_writeup-5)
 - [THM — ValenFind](https://infosecwriteups.com/thm-valenfind-c5a42e2cf5b2?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [The Zero-to-Hero Guide to Bug Bounty Hunting: A Comprehensive Roadmap](https://infosecwriteups.com/the-zero-to-hero-guide-to-bug-bounty-hunting-a-comprehensive-roadmap-831a0a446803?source=rss------bug_bounty_writeup-5)
 - [How I found sensitive data exposure on web page “Access to the root URL is not allowed.”](https://medium.com/@albertstive1010/how-i-found-sensitive-data-exposure-on-web-page-access-to-the-root-url-is-not-allowed-5594fdd6cb57?source=rss------bug_bounty_writeup-5)
 - [$1000 Bounty for Chaining 2 IDOR’s &amp; WAF Bypass to Expose Full Event Database](https://medium.com/@DarkyOS/1000-bounty-for-chaining-2-idors-waf-bypass-to-expose-full-event-database-602a577a71cf?source=rss------bug_bounty_writeup-5)
-- [From API Keys to Dependency Confusion: Scaling JavaScript Analysis with 0xJS and 0xDepCheck](https://medium.com/@0xpedrop/from-api-keys-to-dependency-confusion-scaling-javascript-analysis-with-0xjs-and-0xdepcheck-b532e76ccb5f?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
