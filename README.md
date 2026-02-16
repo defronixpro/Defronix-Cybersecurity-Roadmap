@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [IDOR Vulnerability in Staff Management Endpoint — Arbitrary Deletion of Staff Members — 500$](https://medium.com/@Hasan_khan0x/idor-vulnerability-in-staff-management-endpoint-arbitrary-deletion-of-staff-members-500-aff5c84de2ff?source=rss------bug_bounty_writeup-5)
 - [404 Not Found Səhifəsini Necə Təhlükəsizlik Boşluğuna Çevirdim?](https://medium.com/@silverxcyber/404-not-found-s%C9%99hif%C9%99sini-nec%C9%99-t%C9%99hl%C3%BCk%C9%99sizlik-bo%C5%9Flu%C4%9Funa-%C3%A7evirdim-4547709017c6?source=rss------bug_bounty_writeup-5)
 - [Unauthenticated Image Access and EXIF Location Leak, Easy P4, you can find under 2 mins](https://infosecwriteups.com/unauthenticated-image-access-and-exif-location-leak-easy-p4-you-can-find-under-2-mins-88e5a9064a91?source=rss------bug_bounty_writeup-5)
 - [Stored HTML Injection That Took Down the Application — Landed me in $$$ Bounty](https://medium.com/@sunny561/stored-html-injection-that-took-down-the-application-landed-me-in-bounty-604c1f1f40b2?source=rss------bug_bounty_writeup-5)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Partial SSRF to €250: How Network Segmentation Bypass Beat ‘Just a Title Tag’](https://savi0r.medium.com/from-1-5-years-of-silence-to-250-how-i-learned-to-fight-for-bug-bounty-impact-947b20f0898f?source=rss------bug_bounty_writeup-5)
 - [Breaking the Box: bypassing Node.js Filesystem Permissions via Symlinks &lpar;CVE-2025–55130&rpar;](https://xalgord.medium.com/breaking-the-box-bypassing-node-js-filesystem-permissions-via-symlinks-cve-2025-55130-0b9ad44920f9?source=rss------bug_bounty_writeup-5)
 - [The Zero-to-Hero Guide to Bug Bounty Hunting: A Comprehensive Roadmap](https://infosecwriteups.com/the-zero-to-hero-guide-to-bug-bounty-hunting-a-comprehensive-roadmap-831a0a446803?source=rss------bug_bounty_writeup-5)
-- [How I found sensitive data exposure on web page “Access to the root URL is not allowed.”](https://medium.com/@albertstive1010/how-i-found-sensitive-data-exposure-on-web-page-access-to-the-root-url-is-not-allowed-5594fdd6cb57?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
