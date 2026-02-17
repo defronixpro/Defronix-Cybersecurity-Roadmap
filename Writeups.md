@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Part 1/3: Understanding phpinfo&lpar;&rpar; — The Accidental Goldmine](https://medium.com/@cybersecplayground/part-1-3-understanding-phpinfo-the-accidental-goldmine-c662da63a3c7?source=rss------bug_bounty_writeup-5)
 - [Stop Trusting req.body: How I Broke an Express + MongoDB App with NoSQL Injection](https://infosecwriteups.com/stop-trusting-req-body-how-i-broke-an-express-mongodb-app-with-nosql-injection-ba92208ebe53?source=rss----7b722bfd1b8d---4)
 - [The Database Was Sold Online. but the Vulnerability Was Still Open](https://infosecwriteups.com/the-database-was-sold-online-but-the-vulnerability-was-still-open-57c386c3404b?source=rss----7b722bfd1b8d---4)
 - [How I Escalated Privileges from “User” to “Admin”](https://infosecwriteups.com/how-i-escalated-privileges-from-user-to-admin-0e6aa72274fc?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [HAWK_II — Cryptography Challenge Writeup](https://infosecwriteups.com/hawk-ii-cryptography-challenge-writeup-9b32187f4dd5?source=rss----7b722bfd1b8d---4)
 - [TryHackMe Walkthrough -Subdomain Enumeration](https://medium.com/@bhanvararamchoudhary6/subdomain-enumeration-c57472f351a8?source=rss------bug_bounty_writeup-5)
 - [XSS WAF Bypass: 3 Tricks to Beat Alert Blockers](https://medium.com/@cybersecplayground/xss-waf-bypass-3-tricks-to-beat-alert-blockers-b7552dcde45b?source=rss------bug_bounty_writeup-5)
-- [Partial SSRF to €250: How Network Segmentation Bypass Beat ‘Just a Title Tag’](https://savi0r.medium.com/from-1-5-years-of-silence-to-250-how-i-learned-to-fight-for-bug-bounty-impact-947b20f0898f?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
