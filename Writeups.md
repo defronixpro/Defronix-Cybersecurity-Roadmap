@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Solving a Bugforge Challenge — Exploiting SQL Injection in a Pizza Store Application](https://medium.com/@sthapranaya890/solving-a-bugforge-challenge-exploiting-sql-injection-in-a-pizza-store-application-b55906098646?source=rss------bug_bounty_writeup-5)
 - [Gods Eye: The Reconnaissance Tool I Wish I Had 5 Years Ago](https://medium.com/@dhananjay_00/gods-eye-the-reconnaissance-tool-i-wish-i-had-5-years-ago-e7b2a7fdb211?source=rss------bug_bounty_writeup-5)
 - [TryHackMe Relevant Walkthrough: From Anonymous Share to SYSTEM](https://infosecwriteups.com/tryhackme-relevant-walkthrough-from-anonymous-share-to-system-140b3b74a15d?source=rss----7b722bfd1b8d---4)
 - [Exam Review: Certified AI/ML Pentester &lpar;C-AI/MLPen&rpar;](https://infosecwriteups.com/exam-review-certified-ai-ml-pentester-c-ai-mlpen-d991a7704872?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Unauthenticated Image Access and EXIF Location Leak, Easy P4, you can find under 2 mins](https://infosecwriteups.com/unauthenticated-image-access-and-exif-location-leak-easy-p4-you-can-find-under-2-mins-88e5a9064a91?source=rss------bug_bounty_writeup-5)
 - [Stored HTML Injection That Took Down the Application — Landed me in $$$ Bounty](https://medium.com/@sunny561/stored-html-injection-that-took-down-the-application-landed-me-in-bounty-604c1f1f40b2?source=rss------bug_bounty_writeup-5)
 - [Why You Are Failing at Bug Bounty Hunting &lpar;And the Blueprint to Fix It&rpar;](https://infosecwriteups.com/why-you-are-failing-at-bug-bounty-hunting-and-the-blueprint-to-fix-it-e5a904ae63fa?source=rss------bug_bounty_writeup-5)
-- [TryHackMe Walkthrough -Subdomain Enumeration](https://medium.com/@bhanvararamchoudhary6/subdomain-enumeration-c57472f351a8?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
