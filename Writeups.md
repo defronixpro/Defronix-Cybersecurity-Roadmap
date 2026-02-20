@@ -1,7 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
-- [Session Fixation Leading to Full Account Takeover](https://medium.com/@hjnjhjsas/session-fixation-leading-to-full-account-takeover-689a784294c4?source=rss------bug_bounty_writeup-5)
+- [Session Fixation Leading to Full Account Takeover](https://medium.com/@hjnjhjsas/session-fixation-leading-to-full-account-takeover-5fe5c3cbde57?source=rss------bug_bounty_writeup-5)
 - [Magician — Full Exploitation Walkthrough](https://infosecwriteups.com/magician-full-exploitation-walkthrough-53ed2b8e3063?source=rss----7b722bfd1b8d---4)
 - [Signed HackTheBox| Let’s Play With MSSQL &amp; Silver Ticket ️| NLTM Reflection](https://infosecwriteups.com/signed-hackthebox-lets-play-with-mssql-silver-ticket-%EF%B8%8F-nltm-reflection-c59a826d3722?source=rss----7b722bfd1b8d---4)
 - [OffSec Web Expert &lpar;OSWE&rpar; Course Review and Preparation Tips](https://infosecwriteups.com/offsec-web-expert-oswe-course-review-and-preparation-tips-e67d71b6490c?source=rss----7b722bfd1b8d---4)
@@ -20,7 +20,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [IDOR Vulnerability in Staff Management Endpoint — Arbitrary Deletion of Staff Members — 500$](https://medium.com/@Hasan_khan0x/idor-vulnerability-in-staff-management-endpoint-arbitrary-deletion-of-staff-members-500-aff5c84de2ff?source=rss------bug_bounty_writeup-5)
 - [404 Not Found Səhifəsini Necə Təhlükəsizlik Boşluğuna Çevirdim?](https://medium.com/@silverxcyber/404-not-found-s%C9%99hif%C9%99sini-nec%C9%99-t%C9%99hl%C3%BCk%C9%99sizlik-bo%C5%9Flu%C4%9Funa-%C3%A7evirdim-4547709017c6?source=rss------bug_bounty_writeup-5)
 - [Unauthenticated Image Access and EXIF Location Leak, Easy P4, you can find under 2 mins](https://infosecwriteups.com/unauthenticated-image-access-and-exif-location-leak-easy-p4-you-can-find-under-2-mins-88e5a9064a91?source=rss------bug_bounty_writeup-5)
-- [Stored HTML Injection That Took Down the Application — Landed me in $$$ Bounty](https://medium.com/@sunny561/stored-html-injection-that-took-down-the-application-landed-me-in-bounty-604c1f1f40b2?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
