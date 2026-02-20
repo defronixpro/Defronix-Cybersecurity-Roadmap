@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [OAuth: How a Simple Misconfiguration Can Lead to Full Account Take](https://medium.com/@mo.muwafak2001/oauth-how-a-simple-misconfiguration-can-lead-to-full-account-take-9d95f57f92ce?source=rss------bug_bounty_writeup-5)
 - [How I Exposed 1,900+ Partner Records on a Global API via Broken Access Control](https://medium.com/@dev_fr_/how-i-exposed-1-900-partner-records-on-a-global-api-via-broken-access-control-d8d12486b9ec?source=rss------bug_bounty_writeup-5)
 - [Simulasi Pencurian Cookie Melalui XSS&lpar;Cross Site Scripting&rpar; dan Implementasi Pertahanan Berlapis…](https://yongwi.medium.com/simulasi-pencurian-cookie-melalui-xss-cross-site-scripting-dan-implementasi-pertahanan-berlapis-d5fe30d0aace?source=rss------bug_bounty_writeup-5)
 - [Reading Private Chats : How I Turned an IDOR into a $$ Privacy Breach](https://medium.com/@mostafa23110006/reading-private-chats-how-i-turned-an-idor-into-a-privacy-breach-3720d8ed6a0c?source=rss------bug_bounty_writeup-5)
@@ -940,7 +941,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Gods Eye: The Reconnaissance Tool I Wish I Had 5 Years Ago](https://medium.com/@dhananjay_00/gods-eye-the-reconnaissance-tool-i-wish-i-had-5-years-ago-e7b2a7fdb211?source=rss------bug_bounty_writeup-5)
 - [Part 1/3: Understanding phpinfo&lpar;&rpar; — The Accidental Goldmine](https://medium.com/@cybersecplayground/part-1-3-understanding-phpinfo-the-accidental-goldmine-c662da63a3c7?source=rss------bug_bounty_writeup-5)
 - [I Found A Race Condition Vulnerability Which allow an attacker can do unlimited like &amp; dislike on…](https://mdnawshadahmmed.medium.com/i-found-a-race-condition-vulnerability-which-allow-an-attacker-can-do-unlimited-like-dislike-on-474659f312a8?source=rss------bug_bounty_writeup-5)
-- [Why curl Quit HackerOne](https://infosecwriteups.com/why-curl-quit-hackerone-526a05e12289?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
