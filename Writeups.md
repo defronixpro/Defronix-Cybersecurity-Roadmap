@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Simulasi Pencurian Cookie Melalui XSS&lpar;Cross Site Scripting&rpar; dan Implementasi Pertahanan Berlapis…](https://yongwi.medium.com/simulasi-pencurian-cookie-melalui-xss-cross-site-scripting-dan-implementasi-pertahanan-berlapis-d5fe30d0aace?source=rss------bug_bounty_writeup-5)
 - [Reading Private Chats : How I Turned an IDOR into a $$ Privacy Breach](https://medium.com/@mostafa23110006/reading-private-chats-how-i-turned-an-idor-into-a-privacy-breach-3720d8ed6a0c?source=rss------bug_bounty_writeup-5)
 - [Session Fixation Leading to Full Account Takeover](https://medium.com/@hjnjhjsas/session-fixation-leading-to-full-account-takeover-5fe5c3cbde57?source=rss------bug_bounty_writeup-5)
 - [Magician — Full Exploitation Walkthrough](https://infosecwriteups.com/magician-full-exploitation-walkthrough-53ed2b8e3063?source=rss----7b722bfd1b8d---4)
@@ -19,7 +20,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [I Found A Race Condition Vulnerability Which allow an attacker can do unlimited like &amp; dislike on…](https://mdnawshadahmmed.medium.com/i-found-a-race-condition-vulnerability-which-allow-an-attacker-can-do-unlimited-like-dislike-on-474659f312a8?source=rss------bug_bounty_writeup-5)
 - [Why curl Quit HackerOne](https://infosecwriteups.com/why-curl-quit-hackerone-526a05e12289?source=rss------bug_bounty_writeup-5)
 - [IDOR Vulnerability in Staff Management Endpoint — Arbitrary Deletion of Staff Members — 500$](https://medium.com/@Hasan_khan0x/idor-vulnerability-in-staff-management-endpoint-arbitrary-deletion-of-staff-members-500-aff5c84de2ff?source=rss------bug_bounty_writeup-5)
-- [404 Not Found Səhifəsini Necə Təhlükəsizlik Boşluğuna Çevirdim?](https://medium.com/@silverxcyber/404-not-found-s%C9%99hif%C9%99sini-nec%C9%99-t%C9%99hl%C3%BCk%C9%99sizlik-bo%C5%9Flu%C4%9Funa-%C3%A7evirdim-4547709017c6?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
