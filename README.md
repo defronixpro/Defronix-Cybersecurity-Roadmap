@@ -922,6 +922,10 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [The Day AI Designed a Better Dashboard Than Me: A UI/UX Case Study Using OpenAI Tools](https://infosecwriteups.com/the-day-ai-designed-a-better-dashboard-than-me-a-ui-ux-case-study-using-openai-tools-6b446b7eceb1?source=rss----7b722bfd1b8d---4)
+- [The $1,300 Sequel: How a simple retesting made me earn 500$ more for the same bug](https://infosecwriteups.com/the-1-300-sequel-why-retesting-is-a-bug-hunters-secret-weapon-b2734005f209?source=rss----7b722bfd1b8d---4)
+- [Splunk Basics — Did you SIEM | Tryhackme | Day-3](https://infosecwriteups.com/splunk-basics-did-you-siem-tryhackme-day-3-d5813d219eb7?source=rss----7b722bfd1b8d---4)
+- [Hacking Microsoft IIS: From Recon to Advanced Fuzzing](https://infosecwriteups.com/hacking-microsoft-iis-from-recon-to-advanced-fuzzing-013989524fe2?source=rss----7b722bfd1b8d---4)
 - [OAuth: How a Simple Misconfiguration Can Lead to Full Account Take](https://medium.com/@mo.muwafak2001/oauth-how-a-simple-misconfiguration-can-lead-to-full-account-take-9d95f57f92ce?source=rss------bug_bounty_writeup-5)
 - [How I Exposed 1,900+ Partner Records on a Global API via Broken Access Control](https://medium.com/@dev_fr_/how-i-exposed-1-900-partner-records-on-a-global-api-via-broken-access-control-d8d12486b9ec?source=rss------bug_bounty_writeup-5)
 - [Simulasi Pencurian Cookie Melalui XSS&lpar;Cross Site Scripting&rpar; dan Implementasi Pertahanan Berlapis…](https://yongwi.medium.com/simulasi-pencurian-cookie-melalui-xss-cross-site-scripting-dan-implementasi-pertahanan-berlapis-d5fe30d0aace?source=rss------bug_bounty_writeup-5)
@@ -933,10 +937,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Designing an IAM AI Agent Using MCP Server and Entra ID](https://infosecwriteups.com/designing-an-iam-ai-agent-using-mcp-server-and-entra-id-2cb8f86c830f?source=rss----7b722bfd1b8d---4)
 - [The Database Was Sold Online… but the Vulnerability Was Still Open](https://infosecwriteups.com/the-database-was-sold-online-but-the-vulnerability-was-still-open-81b98a978b0b?source=rss----7b722bfd1b8d---4)
 - [How I Bypassed Email Verification Using an Exposed API Endpoint](https://infosecwriteups.com/how-i-bypassed-email-verification-using-an-exposed-api-endpoint-f85693c5c08a?source=rss----7b722bfd1b8d---4)
-- [They Hacked the CSS: Inside Chrome’s First Zero-Day of 2026 &lpar;CVE-2026–2441&rpar;](https://infosecwriteups.com/they-hacked-the-css-inside-chromes-first-zero-day-of-2026-cve-2026-2441-d6087cedae2d?source=rss----7b722bfd1b8d---4)
-- [Backtrack — From Foothold to Root: A Step-by-Step Exploitation Walkthrough](https://infosecwriteups.com/backtrack-from-foothold-to-root-a-step-by-step-exploitation-walkthrough-ed1675be46cd?source=rss----7b722bfd1b8d---4)
-- [How I Built an AI System That Automates Security Risk Assessment &lpar;And Why Your Security Team Needs…](https://infosecwriteups.com/how-i-built-an-ai-system-that-automates-security-risk-assessment-and-why-your-security-team-needs-a0ab9b5b4b0b?source=rss----7b722bfd1b8d---4)
-- [Google Cybersecurity Certificate — and Why It’s the Easiest Way to Step Into the Field](https://infosecwriteups.com/google-cybersecurity-certificate-and-why-its-the-easiest-way-to-step-into-the-field-4292d2ec1f3a?source=rss----7b722bfd1b8d---4)
 - [Solving a Bugforge Challenge — Exploiting SQL Injection in a Pizza Store Application](https://medium.com/@sthapranaya890/solving-a-bugforge-challenge-exploiting-sql-injection-in-a-pizza-store-application-b55906098646?source=rss------bug_bounty_writeup-5)
 - [Gods Eye: The Reconnaissance Tool I Wish I Had 5 Years Ago](https://medium.com/@dhananjay_00/gods-eye-the-reconnaissance-tool-i-wish-i-had-5-years-ago-e7b2a7fdb211?source=rss------bug_bounty_writeup-5)
 - [Part 1/3: Understanding phpinfo&lpar;&rpar; — The Accidental Goldmine](https://medium.com/@cybersecplayground/part-1-3-understanding-phpinfo-the-accidental-goldmine-c662da63a3c7?source=rss------bug_bounty_writeup-5)
