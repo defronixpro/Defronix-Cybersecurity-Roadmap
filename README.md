@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Privilege Escalation via Role Manipulation](https://medium.com/@C0deRevenant/privilege-escalation-via-role-manipulation-192ade8dd937?source=rss------bug_bounty_writeup-5)
 - [The Invite That Took Over Accounts: A Logic Flaw](https://medium.com/legionhunters/the-invite-that-took-over-accounts-a-logic-flaw-453eed1d7dbd?source=rss------bug_bounty_writeup-5)
 - [How a User Enumeration Vulnerability was found in an OTP Authentication API](https://medium.com/@philipjames9047/how-a-user-enumeration-vulnerability-was-found-in-an-otp-authentication-api-a92d6235c640?source=rss------bug_bounty_writeup-5)
 - [How to Build a Practical PoC: A No Nonsense Guide to Command Injection](https://medium.com/@salihugurlu2001/how-to-build-a-practical-poc-a-no-nonsense-guide-to-command-injection-1cbee91efde6?source=rss------bug_bounty_writeup-5)
