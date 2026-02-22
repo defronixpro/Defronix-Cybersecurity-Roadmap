@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How a Simple “Resend” Button Led to an MFA Fatigue Vulnerability](https://medium.com/@Rahul.Masal/how-a-simple-resend-button-led-to-an-mfa-fatigue-vulnerability-6a638edf54ff?source=rss------bug_bounty_writeup-5)
 - [Jeeves Retired Box from Hackthebox](https://infosecwriteups.com/jeeves-retired-box-from-hackthebox-9721cb65b1d9?source=rss----7b722bfd1b8d---4)
 - [How Domain Enumeration, Content Discovery, Leaked Secrets, and Service URLs Converge into…](https://infosecwriteups.com/how-domain-enumeration-content-discovery-leaked-secrets-and-service-urls-converge-into-0e6d459d3880?source=rss----7b722bfd1b8d---4)
 - [Step-by-Step Guide to Setting Up a Cybersecurity Home Lab &lpar;Kali Linux + VirtualBox&rpar;](https://infosecwriteups.com/step-by-step-guide-to-setting-up-a-cybersecurity-home-lab-kali-linux-virtualbox-090a31d1fc22?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How I Exposed 1,900+ Partner Records on a Global API via Broken Access Control](https://medium.com/@dev_fr_/how-i-exposed-1-900-partner-records-on-a-global-api-via-broken-access-control-d8d12486b9ec?source=rss------bug_bounty_writeup-5)
 - [Simulasi Pencurian Cookie Melalui XSS&lpar;Cross Site Scripting&rpar; dan Implementasi Pertahanan Berlapis…](https://yongwi.medium.com/simulasi-pencurian-cookie-melalui-xss-cross-site-scripting-dan-implementasi-pertahanan-berlapis-d5fe30d0aace?source=rss------bug_bounty_writeup-5)
 - [Reading Private Chats : How I Turned an IDOR into a $$ Privacy Breach](https://medium.com/@mostafa23110006/reading-private-chats-how-i-turned-an-idor-into-a-privacy-breach-3720d8ed6a0c?source=rss------bug_bounty_writeup-5)
-- [Session Fixation Leading to Full Account Takeover](https://medium.com/@hjnjhjsas/session-fixation-leading-to-full-account-takeover-5fe5c3cbde57?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
