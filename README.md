@@ -922,7 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [How a Simple “Resend” Button Led to an MFA Fatigue Vulnerability](https://medium.com/@Rahul.Masal/how-a-simple-resend-button-led-to-an-mfa-fatigue-vulnerability-6a638edf54ff?source=rss------bug_bounty_writeup-5)
+- [How a Simple “Resend” Feature Enabled MFA Prompt Flooding](https://medium.com/@Rahul.Masal/how-a-simple-resend-button-led-to-an-mfa-fatigue-vulnerability-6a638edf54ff?source=rss------bug_bounty_writeup-5)
 - [Jeeves Retired Box from Hackthebox](https://infosecwriteups.com/jeeves-retired-box-from-hackthebox-9721cb65b1d9?source=rss----7b722bfd1b8d---4)
 - [How Domain Enumeration, Content Discovery, Leaked Secrets, and Service URLs Converge into…](https://infosecwriteups.com/how-domain-enumeration-content-discovery-leaked-secrets-and-service-urls-converge-into-0e6d459d3880?source=rss----7b722bfd1b8d---4)
 - [Step-by-Step Guide to Setting Up a Cybersecurity Home Lab &lpar;Kali Linux + VirtualBox&rpar;](https://infosecwriteups.com/step-by-step-guide-to-setting-up-a-cybersecurity-home-lab-kali-linux-virtualbox-090a31d1fc22?source=rss----7b722bfd1b8d---4)
