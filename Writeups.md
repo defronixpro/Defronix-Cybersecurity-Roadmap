@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How a User Enumeration Vulnerability was found in an OTP Authentication API](https://medium.com/@philipjames9047/how-a-user-enumeration-vulnerability-was-found-in-an-otp-authentication-api-a92d6235c640?source=rss------bug_bounty_writeup-5)
 - [How to Build a Practical PoC: A No Nonsense Guide to Command Injection](https://medium.com/@salihugurlu2001/how-to-build-a-practical-poc-a-no-nonsense-guide-to-command-injection-1cbee91efde6?source=rss------bug_bounty_writeup-5)
 - [How to Become a Top Bug Bounty Hunter in 2026](https://infosecwriteups.com/how-to-become-a-top-bug-bounty-hunter-in-2026-e34d6bc15f56?source=rss------bug_bounty_writeup-5)
 - [The Day AI Designed a Better Dashboard Than Me: A UI/UX Case Study Using OpenAI Tools](https://infosecwriteups.com/the-day-ai-designed-a-better-dashboard-than-me-a-ui-ux-case-study-using-openai-tools-6b446b7eceb1?source=rss----7b722bfd1b8d---4)
@@ -19,7 +20,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [The Database Was Sold Online… but the Vulnerability Was Still Open](https://infosecwriteups.com/the-database-was-sold-online-but-the-vulnerability-was-still-open-81b98a978b0b?source=rss----7b722bfd1b8d---4)
 - [How I Bypassed Email Verification Using an Exposed API Endpoint](https://infosecwriteups.com/how-i-bypassed-email-verification-using-an-exposed-api-endpoint-f85693c5c08a?source=rss----7b722bfd1b8d---4)
 - [Solving a Bugforge Challenge — Exploiting SQL Injection in a Pizza Store Application](https://medium.com/@sthapranaya890/solving-a-bugforge-challenge-exploiting-sql-injection-in-a-pizza-store-application-b55906098646?source=rss------bug_bounty_writeup-5)
-- [Gods Eye: The Reconnaissance Tool I Wish I Had 5 Years Ago](https://medium.com/@dhananjay_00/gods-eye-the-reconnaissance-tool-i-wish-i-had-5-years-ago-e7b2a7fdb211?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
