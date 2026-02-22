@@ -1,6 +1,8 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Privilege Escalation via Role Manipulation](https://medium.com/@C0deRevenant/privilege-escalation-via-role-manipulation-192ade8dd937?source=rss------bug_bounty_writeup-5)
+- [The Invite That Took Over Accounts: A Logic Flaw](https://medium.com/legionhunters/the-invite-that-took-over-accounts-a-logic-flaw-453eed1d7dbd?source=rss------bug_bounty_writeup-5)
 - [How a User Enumeration Vulnerability was found in an OTP Authentication API](https://medium.com/@philipjames9047/how-a-user-enumeration-vulnerability-was-found-in-an-otp-authentication-api-a92d6235c640?source=rss------bug_bounty_writeup-5)
 - [How to Build a Practical PoC: A No Nonsense Guide to Command Injection](https://medium.com/@salihugurlu2001/how-to-build-a-practical-poc-a-no-nonsense-guide-to-command-injection-1cbee91efde6?source=rss------bug_bounty_writeup-5)
 - [How to Become a Top Bug Bounty Hunter in 2026](https://infosecwriteups.com/how-to-become-a-top-bug-bounty-hunter-in-2026-e34d6bc15f56?source=rss------bug_bounty_writeup-5)
@@ -19,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Designing an IAM AI Agent Using MCP Server and Entra ID](https://infosecwriteups.com/designing-an-iam-ai-agent-using-mcp-server-and-entra-id-2cb8f86c830f?source=rss----7b722bfd1b8d---4)
 - [The Database Was Sold Online… but the Vulnerability Was Still Open](https://infosecwriteups.com/the-database-was-sold-online-but-the-vulnerability-was-still-open-81b98a978b0b?source=rss----7b722bfd1b8d---4)
 - [How I Bypassed Email Verification Using an Exposed API Endpoint](https://infosecwriteups.com/how-i-bypassed-email-verification-using-an-exposed-api-endpoint-f85693c5c08a?source=rss----7b722bfd1b8d---4)
-- [Solving a Bugforge Challenge — Exploiting SQL Injection in a Pizza Store Application](https://medium.com/@sthapranaya890/solving-a-bugforge-challenge-exploiting-sql-injection-in-a-pizza-store-application-b55906098646?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
