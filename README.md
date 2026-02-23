@@ -941,7 +941,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How to Build a Practical PoC: A No Nonsense Guide to Command Injection](https://medium.com/@salihugurlu2001/how-to-build-a-practical-poc-a-no-nonsense-guide-to-command-injection-1cbee91efde6?source=rss------bug_bounty_writeup-5)
 - [How to Become a Top Bug Bounty Hunter in 2026](https://infosecwriteups.com/how-to-become-a-top-bug-bounty-hunter-in-2026-e34d6bc15f56?source=rss------bug_bounty_writeup-5)
 - [OAuth: How a Simple Misconfiguration Can Lead to Full Account Take](https://medium.com/@mo.muwafak2001/oauth-how-a-simple-misconfiguration-can-lead-to-full-account-take-9d95f57f92ce?source=rss------bug_bounty_writeup-5)
-- [How I Exposed 1,900+ Partner Records on a Global API via Broken Access Control](https://medium.com/@dev_fr_/how-i-exposed-1-900-partner-records-on-a-global-api-via-broken-access-control-d8d12486b9ec?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
