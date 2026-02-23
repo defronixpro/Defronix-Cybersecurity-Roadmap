@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Recon Is Not Just Tools: Digging Gold](https://infosecwriteups.com/recon-is-not-just-tools-digging-gold-ffb7d4b0bb51?source=rss------bug_bounty_writeup-5)
 - [Full Organization Account Takeover &lpar;ATO&rpar; by Changing One Parameter](https://medium.com/@2os5/full-organization-account-takeover-ato-by-changing-one-parameter-9f67472d3138?source=rss------bug_bounty_writeup-5)
 - [Mining Wayback URLs for High-Impact Vulnerability Discovery](https://medium.com/@nitinsgavane/mining-wayback-urls-for-high-impact-vulnerability-discovery-dfa6ebbe63aa?source=rss------bug_bounty_writeup-5)
 - [How a Simple “Resend” Feature Enabled MFA Prompt Flooding](https://medium.com/@Rahul.Masal/how-a-simple-resend-button-led-to-an-mfa-fatigue-vulnerability-6a638edf54ff?source=rss------bug_bounty_writeup-5)
@@ -19,7 +20,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How a User Enumeration Vulnerability was found in an OTP Authentication API](https://medium.com/@philipjames9047/how-a-user-enumeration-vulnerability-was-found-in-an-otp-authentication-api-a92d6235c640?source=rss------bug_bounty_writeup-5)
 - [How to Build a Practical PoC: A No Nonsense Guide to Command Injection](https://medium.com/@salihugurlu2001/how-to-build-a-practical-poc-a-no-nonsense-guide-to-command-injection-1cbee91efde6?source=rss------bug_bounty_writeup-5)
 - [How to Become a Top Bug Bounty Hunter in 2026](https://infosecwriteups.com/how-to-become-a-top-bug-bounty-hunter-in-2026-e34d6bc15f56?source=rss------bug_bounty_writeup-5)
-- [OAuth: How a Simple Misconfiguration Can Lead to Full Account Take](https://medium.com/@mo.muwafak2001/oauth-how-a-simple-misconfiguration-can-lead-to-full-account-take-9d95f57f92ce?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
