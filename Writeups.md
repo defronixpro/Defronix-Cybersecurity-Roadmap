@@ -1,6 +1,8 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Full Organization Account Takeover &lpar;ATO&rpar; by Changing One Parameter](https://medium.com/@2os5/full-organization-account-takeover-ato-by-changing-one-parameter-9f67472d3138?source=rss------bug_bounty_writeup-5)
+- [Mining Wayback URLs for High-Impact Vulnerability Discovery](https://medium.com/@nitinsgavane/mining-wayback-urls-for-high-impact-vulnerability-discovery-dfa6ebbe63aa?source=rss------bug_bounty_writeup-5)
 - [How a Simple “Resend” Feature Enabled MFA Prompt Flooding](https://medium.com/@Rahul.Masal/how-a-simple-resend-button-led-to-an-mfa-fatigue-vulnerability-6a638edf54ff?source=rss------bug_bounty_writeup-5)
 - [Jeeves Retired Box from Hackthebox](https://infosecwriteups.com/jeeves-retired-box-from-hackthebox-9721cb65b1d9?source=rss----7b722bfd1b8d---4)
 - [How Domain Enumeration, Content Discovery, Leaked Secrets, and Service URLs Converge into…](https://infosecwriteups.com/how-domain-enumeration-content-discovery-leaked-secrets-and-service-urls-converge-into-0e6d459d3880?source=rss----7b722bfd1b8d---4)
@@ -19,8 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How to Become a Top Bug Bounty Hunter in 2026](https://infosecwriteups.com/how-to-become-a-top-bug-bounty-hunter-in-2026-e34d6bc15f56?source=rss------bug_bounty_writeup-5)
 - [OAuth: How a Simple Misconfiguration Can Lead to Full Account Take](https://medium.com/@mo.muwafak2001/oauth-how-a-simple-misconfiguration-can-lead-to-full-account-take-9d95f57f92ce?source=rss------bug_bounty_writeup-5)
 - [How I Exposed 1,900+ Partner Records on a Global API via Broken Access Control](https://medium.com/@dev_fr_/how-i-exposed-1-900-partner-records-on-a-global-api-via-broken-access-control-d8d12486b9ec?source=rss------bug_bounty_writeup-5)
-- [Simulasi Pencurian Cookie Melalui XSS&lpar;Cross Site Scripting&rpar; dan Implementasi Pertahanan Berlapis…](https://yongwi.medium.com/simulasi-pencurian-cookie-melalui-xss-cross-site-scripting-dan-implementasi-pertahanan-berlapis-d5fe30d0aace?source=rss------bug_bounty_writeup-5)
-- [Reading Private Chats : How I Turned an IDOR into a $$ Privacy Breach](https://medium.com/@mostafa23110006/reading-private-chats-how-i-turned-an-idor-into-a-privacy-breach-3720d8ed6a0c?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
