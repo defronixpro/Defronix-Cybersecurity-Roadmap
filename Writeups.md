@@ -4,7 +4,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Glassdoor’s IDOR vulnerability to retrieve email addresses of all users without interaction](https://medium.com/@safehacker_2715/glassdoors-idor-vulnerability-to-retrieve-email-addresses-of-all-users-without-interaction-db44c9606495?source=rss------bug_bounty_writeup-5)
 - [When /phpmyadmin Isn’t Hidden Anymore: An Exposed Database Panel](https://meetcyber.net/when-phpmyadmin-isnt-hidden-anymore-an-exposed-database-panel-a48c85ad8188?source=rss------bug_bounty_writeup-5)
 - [Recon? Fuzzing? Exploitation? No just a web sec write-up.](https://medium.com/@momen_besher/recon-fuzzing-exploitation-no-just-a-web-sec-write-up-58ff5f992611?source=rss------bug_bounty_writeup-5)
-- [One Invite Endpoint, One Race Condition — 4 Bugs Later](https://medium.com/@raslanco/one-invite-endpoint-one-race-condition-4-bugs-later-b48de71b280c?source=rss------bug_bounty_writeup-5)
+- [One Invite Feature, One Race Condition — 4 Bugs Later](https://medium.com/@raslanco/one-invite-endpoint-one-race-condition-4-bugs-later-b48de71b280c?source=rss------bug_bounty_writeup-5)
 - [When length - 32 Goes Negative: A Small Check, Real Memory Bug in wolfSSL](https://medium.com/legionhunters/when-length-32-goes-negative-a-small-check-real-memory-bug-in-wolfssl-3233d28e5f52?source=rss------bug_bounty_writeup-5)
 - [Recon Is Not Just Tools: Digging Gold](https://infosecwriteups.com/recon-is-not-just-tools-digging-gold-ffb7d4b0bb51?source=rss------bug_bounty_writeup-5)
 - [Intigriti Feb 2026: Cooking the CSP with a Side of JSONP](https://medium.com/@gauravjha68535/intigriti-feb-2026-cooking-the-csp-with-a-side-of-jsonp-d194f9305fc4?source=rss------bug_bounty_writeup-5)
