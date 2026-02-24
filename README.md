@@ -922,7 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [When /phpmyadmin Isn’t Hidden Anymore: An Exposed Database Panel](https://medium.com/@manav_24/when-phpmyadmin-isnt-hidden-anymore-an-exposed-database-panel-a48c85ad8188?source=rss------bug_bounty_writeup-5)
+- [Glassdoor’s IDOR vulnerability to retrieve email addresses of all users without interaction](https://medium.com/@safehacker_2715/glassdoors-idor-vulnerability-to-retrieve-email-addresses-of-all-users-without-interaction-db44c9606495?source=rss------bug_bounty_writeup-5)
+- [When /phpmyadmin Isn’t Hidden Anymore: An Exposed Database Panel](https://meetcyber.net/when-phpmyadmin-isnt-hidden-anymore-an-exposed-database-panel-a48c85ad8188?source=rss------bug_bounty_writeup-5)
 - [Recon? Fuzzing? Exploitation? No just a web sec write-up.](https://medium.com/@momen_besher/recon-fuzzing-exploitation-no-just-a-web-sec-write-up-58ff5f992611?source=rss------bug_bounty_writeup-5)
 - [One Invite Endpoint, One Race Condition — 4 Bugs Later](https://medium.com/@raslanco/one-invite-endpoint-one-race-condition-4-bugs-later-b48de71b280c?source=rss------bug_bounty_writeup-5)
 - [When length - 32 Goes Negative: A Small Check, Real Memory Bug in wolfSSL](https://medium.com/legionhunters/when-length-32-goes-negative-a-small-check-real-memory-bug-in-wolfssl-3233d28e5f52?source=rss------bug_bounty_writeup-5)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Walking An Application | TryHackMe Write-Up | Farros](https://infosecwriteups.com/walking-an-application-tryhackme-write-up-5d6601cf54e6?source=rss----7b722bfd1b8d---4)
 - [6. WebSocket Authorization Bypass Vulnerability leads to $$$](https://infosecwriteups.com/6-websocket-authorization-bypass-vulnerability-leads-to-7dd3aa376558?source=rss----7b722bfd1b8d---4)
 - [Lab: CORS vulnerability with basic origin reflection&lpar;Portswigger Labs&rpar;](https://infosecwriteups.com/lab-cors-vulnerability-with-basic-origin-reflection-portswigger-labs-1d7699266907?source=rss----7b722bfd1b8d---4)
-- [Privilege Escalation via Role Manipulation](https://medium.com/@C0deRevenant/privilege-escalation-via-role-manipulation-192ade8dd937?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
