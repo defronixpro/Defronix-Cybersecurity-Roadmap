@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [IDORs Explained: How One Number Can Hack an Entire Company](https://infosecwriteups.com/idors-explained-how-one-number-can-hack-an-entire-company-8872fef31c2d?source=rss------bug_bounty_writeup-5)
 - [Glassdoor’s IDOR vulnerability to retrieve email addresses of all users without interaction](https://medium.com/@safehacker_2715/glassdoors-idor-vulnerability-to-retrieve-email-addresses-of-all-users-without-interaction-db44c9606495?source=rss------bug_bounty_writeup-5)
 - [When /phpmyadmin Isn’t Hidden Anymore: An Exposed Database Panel](https://meetcyber.net/when-phpmyadmin-isnt-hidden-anymore-an-exposed-database-panel-a48c85ad8188?source=rss------bug_bounty_writeup-5)
 - [Recon? Fuzzing? Exploitation? No just a web sec write-up.](https://medium.com/@momen_besher/recon-fuzzing-exploitation-no-just-a-web-sec-write-up-58ff5f992611?source=rss------bug_bounty_writeup-5)
@@ -10,7 +11,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Intigriti Feb 2026: Cooking the CSP with a Side of JSONP](https://medium.com/@gauravjha68535/intigriti-feb-2026-cooking-the-csp-with-a-side-of-jsonp-d194f9305fc4?source=rss------bug_bounty_writeup-5)
 - [Full Organization Account Takeover &lpar;ATO&rpar; by Changing One Parameter](https://medium.com/@2os5/full-organization-account-takeover-ato-by-changing-one-parameter-9f67472d3138?source=rss------bug_bounty_writeup-5)
 - [Mining Wayback URLs for High-Impact Vulnerability Discovery](https://medium.com/@nitinsgavane/mining-wayback-urls-for-high-impact-vulnerability-discovery-dfa6ebbe63aa?source=rss------bug_bounty_writeup-5)
-- [How a Simple “Resend” Feature Enabled MFA Prompt Flooding](https://medium.com/@Rahul.Masal/how-a-simple-resend-button-led-to-an-mfa-fatigue-vulnerability-6a638edf54ff?source=rss------bug_bounty_writeup-5)
 - [Jeeves Retired Box from Hackthebox](https://infosecwriteups.com/jeeves-retired-box-from-hackthebox-9721cb65b1d9?source=rss----7b722bfd1b8d---4)
 - [How Domain Enumeration, Content Discovery, Leaked Secrets, and Service URLs Converge into…](https://infosecwriteups.com/how-domain-enumeration-content-discovery-leaked-secrets-and-service-urls-converge-into-0e6d459d3880?source=rss----7b722bfd1b8d---4)
 - [Step-by-Step Guide to Setting Up a Cybersecurity Home Lab &lpar;Kali Linux + VirtualBox&rpar;](https://infosecwriteups.com/step-by-step-guide-to-setting-up-a-cybersecurity-home-lab-kali-linux-virtualbox-090a31d1fc22?source=rss----7b722bfd1b8d---4)
