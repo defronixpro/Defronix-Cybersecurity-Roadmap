@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Cross-Site Request Forgery Leading to Account Takeover](https://medium.com/@montaser_mohsen/cross-site-request-forgery-leading-to-account-takeover-640f9ee3b2be?source=rss------bug_bounty_writeup-5)
 - [IDORs Explained: How One Number Can Hack an Entire Company](https://infosecwriteups.com/idors-explained-how-one-number-can-hack-an-entire-company-8872fef31c2d?source=rss------bug_bounty_writeup-5)
 - [Glassdoor’s IDOR vulnerability to retrieve email addresses of all users without interaction](https://medium.com/@safehacker_2715/glassdoors-idor-vulnerability-to-retrieve-email-addresses-of-all-users-without-interaction-db44c9606495?source=rss------bug_bounty_writeup-5)
 - [When /phpmyadmin Isn’t Hidden Anymore: An Exposed Database Panel](https://meetcyber.net/when-phpmyadmin-isnt-hidden-anymore-an-exposed-database-panel-a48c85ad8188?source=rss------bug_bounty_writeup-5)
@@ -10,7 +11,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Recon Is Not Just Tools: Digging Gold](https://infosecwriteups.com/recon-is-not-just-tools-digging-gold-ffb7d4b0bb51?source=rss------bug_bounty_writeup-5)
 - [Intigriti Feb 2026: Cooking the CSP with a Side of JSONP](https://medium.com/@gauravjha68535/intigriti-feb-2026-cooking-the-csp-with-a-side-of-jsonp-d194f9305fc4?source=rss------bug_bounty_writeup-5)
 - [Full Organization Account Takeover &lpar;ATO&rpar; by Changing One Parameter](https://medium.com/@2os5/full-organization-account-takeover-ato-by-changing-one-parameter-9f67472d3138?source=rss------bug_bounty_writeup-5)
-- [Mining Wayback URLs for High-Impact Vulnerability Discovery](https://medium.com/@nitinsgavane/mining-wayback-urls-for-high-impact-vulnerability-discovery-dfa6ebbe63aa?source=rss------bug_bounty_writeup-5)
 - [Jeeves Retired Box from Hackthebox](https://infosecwriteups.com/jeeves-retired-box-from-hackthebox-9721cb65b1d9?source=rss----7b722bfd1b8d---4)
 - [How Domain Enumeration, Content Discovery, Leaked Secrets, and Service URLs Converge into…](https://infosecwriteups.com/how-domain-enumeration-content-discovery-leaked-secrets-and-service-urls-converge-into-0e6d459d3880?source=rss----7b722bfd1b8d---4)
 - [Step-by-Step Guide to Setting Up a Cybersecurity Home Lab &lpar;Kali Linux + VirtualBox&rpar;](https://infosecwriteups.com/step-by-step-guide-to-setting-up-a-cybersecurity-home-lab-kali-linux-virtualbox-090a31d1fc22?source=rss----7b722bfd1b8d---4)
@@ -25,17 +25,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
 - [How to backup and restore the Windows Registry](https://www.bleepingcomputer.com/tutorials/how-to-backup-and-restore-the-windows-registry/)
-- [How To Fix Error: Externally-Managed-Environment In Python &lpar;Kali Linux&rpar;](https://technicalnavigator.in/how-to-fix-error-externally-managed-environment-in-python-kali-linux/)
-- [Understanding Systemctl Command in Linux &lpar;Practical&rpar;](https://technicalnavigator.in/understanding-systemctl-command-in-linux-practical/)
-- [Macros in docm &amp; Linux memory dump| Hack The Boo  Challanges](https://technicalnavigator.in/macros-in-docm-linux-memory-dump-hack-the-boo-challanges/)
-- [Android Apps debugging |  Frida, JADX, Genymotion](https://technicalnavigator.in/android-apps-debugging-frida-jadx-genymotion/)
-- [MouseServer | wifimouse – Windows/ Linux](https://technicalnavigator.in/mouseserver-wifimouse-windows-linux/)
-- [FFUF fuzzer | web-application penetration-testing](https://technicalnavigator.in/ffuf-fuzzer-web-application-penetration-testing/)
 - [How to open a Windows 11 Command Prompt as Administrator](https://www.bleepingcomputer.com/tutorials/how-to-open-a-windows-11-command-prompt-as-administrator/)
-- [Classes-Objects &amp; Deserialization bug](https://technicalnavigator.in/classes-objects-deserialization-bug/)
-- [Loki Tool | Multhreading Over Sockets in C](https://technicalnavigator.in/loki-tool-multhreading-over-sockets-in-c/)
-- [Egghunter | NASM | C prototype](https://technicalnavigator.in/egghunter-nasm-c-prototype/)
-- [TELNET &amp; FTP Analysis](https://technicalnavigator.in/telnet-ftp-analysis/)
 - [How to make the Start menu full screen in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-make-the-start-menu-full-screen-in-windows-10/)
 - [How to install the Microsoft Visual C++ 2015 Runtime](https://www.bleepingcomputer.com/tutorials/how-to-install-the-microsoft-visual-c-2015-runtime/)
 - [How to open an elevated PowerShell Admin prompt in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-open-an-elevated-powershell-admin-prompt-in-windows-10/)
