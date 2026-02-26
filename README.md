@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Pen-testing a Prod H3C Private Environment in 2026: Complete Redacted Findings &amp; Pentester Playbook](https://suicdalteddy.medium.com/pen-testing-a-prod-h3c-private-environment-in-2026-complete-redacted-findings-pentester-playbook-959df1746516?source=rss------bug_bounty_writeup-5)
 - [Username &amp; Email Collision Leading to Account Lockout and identity collision☠️](https://medium.com/@0xMo7areb/username-email-collision-leading-to-account-lockout-and-identity-collision-%EF%B8%8F-1cc963fb3d38?source=rss------bug_bounty_writeup-5)
 - [Anatomy of a Cloud Native Attack: How We Pwned Kubernetes for $100k](https://infosecwriteups.com/anatomy-of-a-cloud-native-attack-how-we-pwned-kubernetes-for-100k-6201ce3808af?source=rss------bug_bounty_writeup-5)
 - [TryHackMe — All-in-One — 00 | Prerequisites](https://infosecwriteups.com/tryhackme-all-in-one-00-prerequisites-78fb0630240e?source=rss----7b722bfd1b8d---4)
@@ -939,7 +940,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [When /phpmyadmin Isn’t Hidden Anymore: An Exposed Database Panel](https://meetcyber.net/when-phpmyadmin-isnt-hidden-anymore-an-exposed-database-panel-a48c85ad8188?source=rss------bug_bounty_writeup-5)
 - [Recon? Fuzzing? Exploitation? No just a web sec write-up.](https://medium.com/@momen_besher/recon-fuzzing-exploitation-no-just-a-web-sec-write-up-58ff5f992611?source=rss------bug_bounty_writeup-5)
 - [One Invite Feature, One Race Condition — 4 Bugs Later](https://medium.com/@raslanco/one-invite-endpoint-one-race-condition-4-bugs-later-b48de71b280c?source=rss------bug_bounty_writeup-5)
-- [When length - 32 Goes Negative: A Small Check, Real Memory Bug in wolfSSL](https://medium.com/legionhunters/when-length-32-goes-negative-a-small-check-real-memory-bug-in-wolfssl-3233d28e5f52?source=rss------bug_bounty_writeup-5)
 - [Jeeves Retired Box from Hackthebox](https://infosecwriteups.com/jeeves-retired-box-from-hackthebox-9721cb65b1d9?source=rss----7b722bfd1b8d---4)
 - [How Domain Enumeration, Content Discovery, Leaked Secrets, and Service URLs Converge into…](https://infosecwriteups.com/how-domain-enumeration-content-discovery-leaked-secrets-and-service-urls-converge-into-0e6d459d3880?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
