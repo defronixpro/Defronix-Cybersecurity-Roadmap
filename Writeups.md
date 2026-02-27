@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [From SSRF to AWS Pwnage: A Hacker’s Guide to Cloud-Native Exploits](https://xalgord.medium.com/from-ssrf-to-aws-pwnage-a-hackers-guide-to-cloud-native-exploits-bc4621ebb048?source=rss------bug_bounty_writeup-5)
 - [Anatomy of a Cloud Native Attack: How We Pwned Kubernetes for $100k](https://infosecwriteups.com/anatomy-of-a-cloud-native-attack-how-we-pwned-kubernetes-for-100k-6201ce3808af?source=rss----7b722bfd1b8d---4)
 - [What Hackers Talk About at 2 AM: Using Dark Web Forums for Recon ️](https://infosecwriteups.com/what-hackers-talk-about-at-2-am-using-dark-web-forums-for-recon-%EF%B8%8F-bdbff44bdea5?source=rss----7b722bfd1b8d---4)
 - [RoguePilot: How a Passive Prompt Injection Led to GitHub Repository Takeovers](https://infosecwriteups.com/roguepilot-how-a-passive-prompt-injection-led-to-github-repository-takeovers-d9b59dbc6d7d?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Glassdoor’s IDOR vulnerability to retrieve email addresses of all users without interaction](https://medium.com/@safehacker_2715/glassdoors-idor-vulnerability-to-retrieve-email-addresses-of-all-users-without-interaction-db44c9606495?source=rss------bug_bounty_writeup-5)
 - [When /phpmyadmin Isn’t Hidden Anymore: An Exposed Database Panel](https://meetcyber.net/when-phpmyadmin-isnt-hidden-anymore-an-exposed-database-panel-a48c85ad8188?source=rss------bug_bounty_writeup-5)
 - [Recon? Fuzzing? Exploitation? No just a web sec write-up.](https://medium.com/@momen_besher/recon-fuzzing-exploitation-no-just-a-web-sec-write-up-58ff5f992611?source=rss------bug_bounty_writeup-5)
-- [One Invite Feature, One Race Condition — 4 Bugs Later](https://medium.com/@raslanco/one-invite-endpoint-one-race-condition-4-bugs-later-b48de71b280c?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
