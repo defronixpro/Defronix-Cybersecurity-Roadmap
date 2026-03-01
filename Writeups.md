@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Shopify Account Takeover via Email Verification Bypass | Bug Bounty PoC $22,500](https://nullsecurityx.medium.com/shopify-account-takeover-via-email-verification-bypass-bug-bounty-poc-22-500-2088b7d539d4?source=rss------bug_bounty_writeup-5)
 - [The Day Admin Access Became an Organisation Takeover](https://medium.com/@kaivalyagurav8291/the-day-admin-access-became-an-organisation-takeover-0ee5d34677e5?source=rss------bug_bounty_writeup-5)
 - [Exploiting an Exported Android Activity via Intent Injection](https://medium.com/@bharathkannan439/exploiting-an-exported-android-activity-via-intent-injection-466df8b05912?source=rss------bug_bounty_writeup-5)
 - [How I Bypassed Email Verification on a Bug Bounty Target Using Just a Browser](https://medium.com/@josekuttykunnelthazhebinu/how-i-bypassed-email-verification-on-a-bug-bounty-target-using-just-a-browser-f10b4e5210ff?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [One-Click Account Takeover via Deep Link Token Auto-Append](https://infosecwriteups.com/one-click-account-takeover-via-deep-link-token-auto-append-ad91993bd336?source=rss----7b722bfd1b8d---4)
 - [WAF Bypass and JavaScript Incomplete Handling of Unicode Characters Leading to DOM-XSS](https://medium.com/@d0t0.toxin/waf-bypass-and-javascript-incomplete-handling-of-unicode-characters-leading-to-dom-xss-33e4aea1346e?source=rss------bug_bounty_writeup-5)
 - [Cross-Site Request Forgery Leading to Account Takeover](https://medium.com/@montaser_mohsen/cross-site-request-forgery-leading-to-account-takeover-640f9ee3b2be?source=rss------bug_bounty_writeup-5)
-- [IDORs Explained: How One Number Can Hack an Entire Company](https://infosecwriteups.com/idors-explained-how-one-number-can-hack-an-entire-company-8872fef31c2d?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
