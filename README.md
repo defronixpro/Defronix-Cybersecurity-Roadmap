@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Citrix Bleed: How a Single Bug Leaked Corporate Secrets &lpar;CVE-2023–4966&rpar;](https://xalgord.medium.com/citrix-bleed-how-a-single-bug-leaked-corporate-secrets-cve-2023-4966-45e9c6fbe9f6?source=rss------bug_bounty_writeup-5)
+- [&lpar;High-vuln&rpar; How I Bypassed IP Restrictions, CAPTCHA, and Unlocked Unlimited Brute-Force in One Shot](https://0xzyo.medium.com/high-vuln-how-i-bypassed-ip-restrictions-captcha-and-unlocked-unlimited-brute-force-in-one-shot-ec2b7063ef5d?source=rss------bug_bounty_writeup-5)
 - [Exploiting GraphQL: A Full-Spectrum Security Assessment Covering Introspection, Injection, and…](https://kizerh.medium.com/exploiting-graphql-a-full-spectrum-security-assessment-covering-introspection-injection-and-560f49a44f36?source=rss------bug_bounty_writeup-5)
 - [How I Found Yet Another Misconfiguration on This College Site](https://medium.com/@tanjimul_islam/how-i-found-yet-another-misconfiguration-on-this-college-site-e92925c6cb47?source=rss------bug_bounty_writeup-5)
 - [Shopify Account Takeover via Email Verification Bypass | Bug Bounty PoC $22,500](https://nullsecurityx.medium.com/shopify-account-takeover-via-email-verification-bypass-bug-bounty-poc-22-500-2088b7d539d4?source=rss------bug_bounty_writeup-5)
@@ -937,8 +939,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [THM — Corp Website](https://infosecwriteups.com/thm-corp-website-7b58ed3b8cbb?source=rss----7b722bfd1b8d---4)
 - [Advent of Cyber Prep Track](https://infosecwriteups.com/advent-of-cyber-prep-track-6688385413cd?source=rss----7b722bfd1b8d---4)
 - [Pen-testing a Prod H3C Private Environment in 2026: Complete Redacted Findings &amp; Pentester Playbook](https://suicdalteddy.medium.com/pen-testing-a-prod-h3c-private-environment-in-2026-complete-redacted-findings-pentester-playbook-959df1746516?source=rss------bug_bounty_writeup-5)
-- [Username &amp; Email Collision Leading to Account Lockout and identity collision☠️](https://medium.com/@0xMo7areb/username-email-collision-leading-to-account-lockout-and-identity-collision-%EF%B8%8F-1cc963fb3d38?source=rss------bug_bounty_writeup-5)
-- [Anatomy of a Cloud Native Attack: How We Pwned Kubernetes for $100k](https://infosecwriteups.com/anatomy-of-a-cloud-native-attack-how-we-pwned-kubernetes-for-100k-6201ce3808af?source=rss------bug_bounty_writeup-5)
 - [TryHackMe — All-in-One — 00 | Prerequisites](https://infosecwriteups.com/tryhackme-all-in-one-00-prerequisites-78fb0630240e?source=rss----7b722bfd1b8d---4)
 - [Chat History Poisoning in LLM Applications: Persistent Prompt Injection via Untrusted JSON Context](https://infosecwriteups.com/chat-history-poisoning-in-llm-applications-persistent-prompt-injection-via-untrusted-json-context-c485e4842394?source=rss----7b722bfd1b8d---4)
 - [One-Click Account Takeover via Deep Link Token Auto-Append](https://infosecwriteups.com/one-click-account-takeover-via-deep-link-token-auto-append-ad91993bd336?source=rss----7b722bfd1b8d---4)
