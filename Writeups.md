@@ -17,7 +17,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [️How Anonymous LDAP Enumeration Led to AS-REP Roasting and Domain Compromise](https://infosecwriteups.com/%EF%B8%8Fhow-anonymous-ldap-enumeration-led-to-as-rep-roasting-and-domain-compromise-0f6d71b0d7a1?source=rss----7b722bfd1b8d---4)
 - [THM — Corp Website](https://infosecwriteups.com/thm-corp-website-7b58ed3b8cbb?source=rss----7b722bfd1b8d---4)
 - [Advent of Cyber Prep Track](https://infosecwriteups.com/advent-of-cyber-prep-track-6688385413cd?source=rss----7b722bfd1b8d---4)
-- [Pen-testing a Prod H3C Private Environment in 2026: Complete Redacted Findings &amp; Pentester Playbook](https://suicdalteddy.medium.com/pen-testing-a-prod-h3c-private-environment-in-2026-complete-redacted-findings-pentester-playbook-959df1746516?source=rss------bug_bounty_writeup-5)
 - [TryHackMe — All-in-One — 00 | Prerequisites](https://infosecwriteups.com/tryhackme-all-in-one-00-prerequisites-78fb0630240e?source=rss----7b722bfd1b8d---4)
 - [Chat History Poisoning in LLM Applications: Persistent Prompt Injection via Untrusted JSON Context](https://infosecwriteups.com/chat-history-poisoning-in-llm-applications-persistent-prompt-injection-via-untrusted-json-context-c485e4842394?source=rss----7b722bfd1b8d---4)
 - [One-Click Account Takeover via Deep Link Token Auto-Append](https://infosecwriteups.com/one-click-account-takeover-via-deep-link-token-auto-append-ad91993bd336?source=rss----7b722bfd1b8d---4)
