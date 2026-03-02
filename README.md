@@ -922,7 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [Citrix Bleed: How a Single Bug Leaked Corporate Secrets &lpar;CVE-2023–4966&rpar;](https://xalgord.medium.com/citrix-bleed-how-a-single-bug-leaked-corporate-secrets-cve-2023-4966-45e9c6fbe9f6?source=rss------bug_bounty_writeup-5)
+- [Citrix Bleed: How a Single Bug Leaked Corporate Secrets &lpar;CVE-2023–4966&rpar;](https://infosecwriteups.com/citrix-bleed-how-a-single-bug-leaked-corporate-secrets-cve-2023-4966-45e9c6fbe9f6?source=rss------bug_bounty_writeup-5)
 - [&lpar;High-vuln&rpar; How I Bypassed IP Restrictions, CAPTCHA, and Unlocked Unlimited Brute-Force in One Shot](https://0xzyo.medium.com/high-vuln-how-i-bypassed-ip-restrictions-captcha-and-unlocked-unlimited-brute-force-in-one-shot-ec2b7063ef5d?source=rss------bug_bounty_writeup-5)
 - [Exploiting GraphQL: A Full-Spectrum Security Assessment Covering Introspection, Injection, and…](https://kizerh.medium.com/exploiting-graphql-a-full-spectrum-security-assessment-covering-introspection-injection-and-560f49a44f36?source=rss------bug_bounty_writeup-5)
 - [How I Found Yet Another Misconfiguration on This College Site](https://medium.com/@tanjimul_islam/how-i-found-yet-another-misconfiguration-on-this-college-site-e92925c6cb47?source=rss------bug_bounty_writeup-5)
