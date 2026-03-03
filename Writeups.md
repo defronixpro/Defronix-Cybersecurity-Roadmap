@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [The strangest scenario I’ve found: Improper authentication](https://medium.com/@yannickatone/the-strangest-scenario-ive-found-improper-authentication-5f27f6a1b9d9?source=rss------bug_bounty_writeup-5)
 - [TryHackMe CTF Walkthrough- Love at First Breach 2026: Hidden Deep into my Heart](https://infosecwriteups.com/tryhackme-free-ctf-walkthrough-love-at-first-breach-2026-hidden-deep-into-my-heart-00b86e6254f6?source=rss----7b722bfd1b8d---4)
 - [TryHackMe CTF Walkthrough- Love at First Breach 2026: Valenfind](https://infosecwriteups.com/tryhackme-free-ctf-walkthrough-love-at-first-breach-2026-valenfind-b5d3766b7dad?source=rss----7b722bfd1b8d---4)
 - [‍♂️ Pulling Off the Heist: A Methodical HTB Takedown](https://infosecwriteups.com/%EF%B8%8F-pulling-off-the-heist-a-methodical-htb-takedown-c4829c144bb2?source=rss----7b722bfd1b8d---4)
@@ -19,7 +20,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Shopify Account Takeover via Email Verification Bypass | Bug Bounty PoC $22,500](https://nullsecurityx.medium.com/shopify-account-takeover-via-email-verification-bypass-bug-bounty-poc-22-500-2088b7d539d4?source=rss------bug_bounty_writeup-5)
 - [The Day Admin Access Became an Organisation Takeover](https://medium.com/@kaivalyagurav8291/the-day-admin-access-became-an-organisation-takeover-0ee5d34677e5?source=rss------bug_bounty_writeup-5)
 - [Exploiting an Exported Android Activity via Intent Injection](https://medium.com/@bharathkannan439/exploiting-an-exported-android-activity-via-intent-injection-466df8b05912?source=rss------bug_bounty_writeup-5)
-- [How I Bypassed Email Verification on a Bug Bounty Target Using Just a Browser](https://medium.com/@josekuttykunnelthazhebinu/how-i-bypassed-email-verification-on-a-bug-bounty-target-using-just-a-browser-f10b4e5210ff?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
