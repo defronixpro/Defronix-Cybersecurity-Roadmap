@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Why the Best Bug Hunters Think Like Detectives, Not Hackers — And What That Difference Earns Them](https://medium.com/@R.H_Rizvi/why-the-best-bug-hunters-think-like-detectives-not-hackers-and-what-that-difference-earns-them-3c93e99d6fc9?source=rss------bug_bounty_writeup-5)
 - [Business Logic Vulnerability in Subscription Checkout](https://medium.com/@mahmoudmagdy45456/business-logic-vulnerability-in-subscription-checkout-31845a3685f4?source=rss------bug_bounty_writeup-5)
 - [The strangest scenario I’ve found: Improper authentication](https://medium.com/@yannickatone/the-strangest-scenario-ive-found-improper-authentication-5f27f6a1b9d9?source=rss------bug_bounty_writeup-5)
 - [TryHackMe CTF Walkthrough- Love at First Breach 2026: Hidden Deep into my Heart](https://infosecwriteups.com/tryhackme-free-ctf-walkthrough-love-at-first-breach-2026-hidden-deep-into-my-heart-00b86e6254f6?source=rss----7b722bfd1b8d---4)
@@ -940,7 +941,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Exploiting GraphQL: A Full-Spectrum Security Assessment Covering Introspection, Injection, and…](https://kizerh.medium.com/exploiting-graphql-a-full-spectrum-security-assessment-covering-introspection-injection-and-560f49a44f36?source=rss------bug_bounty_writeup-5)
 - [How I Found Yet Another Misconfiguration on This College Site](https://medium.com/@tanjimul_islam/how-i-found-yet-another-misconfiguration-on-this-college-site-e92925c6cb47?source=rss------bug_bounty_writeup-5)
 - [Shopify Account Takeover via Email Verification Bypass | Bug Bounty PoC $22,500](https://nullsecurityx.medium.com/shopify-account-takeover-via-email-verification-bypass-bug-bounty-poc-22-500-2088b7d539d4?source=rss------bug_bounty_writeup-5)
-- [The Day Admin Access Became an Organisation Takeover](https://medium.com/@kaivalyagurav8291/the-day-admin-access-became-an-organisation-takeover-0ee5d34677e5?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
