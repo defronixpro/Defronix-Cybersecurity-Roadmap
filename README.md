@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [CSRF To 1-Step Account Takeover](https://rijndael.medium.com/csrf-to-1-step-account-takeover-92ce90fc9ac5?source=rss------bug_bounty_writeup-5)
 - [Citrix Bleed: How a Single Bug Leaked Corporate Secrets &lpar;CVE-2023–4966&rpar;](https://infosecwriteups.com/citrix-bleed-how-a-single-bug-leaked-corporate-secrets-cve-2023-4966-45e9c6fbe9f6?source=rss------bug_bounty_writeup-5)
 - [&lpar;High-vuln&rpar; How I Bypassed IP Restrictions, CAPTCHA, and Unlocked Unlimited Brute-Force in One Shot](https://0xzyo.medium.com/high-vuln-how-i-bypassed-ip-restrictions-captcha-and-unlocked-unlimited-brute-force-in-one-shot-ec2b7063ef5d?source=rss------bug_bounty_writeup-5)
 - [Exploiting GraphQL: A Full-Spectrum Security Assessment Covering Introspection, Injection, and…](https://kizerh.medium.com/exploiting-graphql-a-full-spectrum-security-assessment-covering-introspection-injection-and-560f49a44f36?source=rss------bug_bounty_writeup-5)
@@ -930,7 +931,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [The Day Admin Access Became an Organisation Takeover](https://medium.com/@kaivalyagurav8291/the-day-admin-access-became-an-organisation-takeover-0ee5d34677e5?source=rss------bug_bounty_writeup-5)
 - [Exploiting an Exported Android Activity via Intent Injection](https://medium.com/@bharathkannan439/exploiting-an-exported-android-activity-via-intent-injection-466df8b05912?source=rss------bug_bounty_writeup-5)
 - [How I Bypassed Email Verification on a Bug Bounty Target Using Just a Browser](https://medium.com/@josekuttykunnelthazhebinu/how-i-bypassed-email-verification-on-a-bug-bounty-target-using-just-a-browser-f10b4e5210ff?source=rss------bug_bounty_writeup-5)
-- [From SSRF to AWS Pwnage: A Hacker’s Guide to Cloud-Native Exploits](https://xalgord.medium.com/from-ssrf-to-aws-pwnage-a-hackers-guide-to-cloud-native-exploits-bc4621ebb048?source=rss------bug_bounty_writeup-5)
 - [Anatomy of a Cloud Native Attack: How We Pwned Kubernetes for $100k](https://infosecwriteups.com/anatomy-of-a-cloud-native-attack-how-we-pwned-kubernetes-for-100k-6201ce3808af?source=rss----7b722bfd1b8d---4)
 - [What Hackers Talk About at 2 AM: Using Dark Web Forums for Recon ️](https://infosecwriteups.com/what-hackers-talk-about-at-2-am-using-dark-web-forums-for-recon-%EF%B8%8F-bdbff44bdea5?source=rss----7b722bfd1b8d---4)
 - [RoguePilot: How a Passive Prompt Injection Led to GitHub Repository Takeovers](https://infosecwriteups.com/roguepilot-how-a-passive-prompt-injection-led-to-github-repository-takeovers-d9b59dbc6d7d?source=rss----7b722bfd1b8d---4)
