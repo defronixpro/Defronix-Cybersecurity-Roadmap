@@ -1,7 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
-- [How a Simple RBAC Mistake Led to a $30K+ Admin Takeover](https://medium.com/@Seek404/how-a-simple-rbac-mistake-led-to-a-30k-admin-takeover-0533913c8383?source=rss------bug_bounty_writeup-5)
+- [How a Simple RBAC Mistake Led to a $20K+ Admin Takeover](https://medium.com/@Seek404/how-a-simple-rbac-mistake-led-to-a-30k-admin-takeover-0533913c8383?source=rss------bug_bounty_writeup-5)
 - [The Easiest RCE? How One Node.js Variable Creates Chaos](https://osintteam.blog/the-easiest-rce-how-one-node-js-variable-creates-chaos-4168c5010e2a?source=rss------bug_bounty_writeup-5)
 - [Why the Best Bug Hunters Think Like Detectives, Not Hackers — And What That Difference Earns Them](https://medium.com/@R.H_Rizvi/why-the-best-bug-hunters-think-like-detectives-not-hackers-and-what-that-difference-earns-them-3c93e99d6fc9?source=rss------bug_bounty_writeup-5)
 - [Business Logic Vulnerability in Subscription Checkout](https://medium.com/legionhunters/business-logic-vulnerability-in-subscription-checkout-31845a3685f4?source=rss------bug_bounty_writeup-5)
