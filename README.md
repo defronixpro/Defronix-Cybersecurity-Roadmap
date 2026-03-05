@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [You Don’t Need to Be a Genius to Find Real Security Vulnerabilities — You Need a Better Process](https://medium.com/@R.H_Rizvi/you-dont-need-to-be-a-genius-to-find-real-security-vulnerabilities-you-need-a-better-process-392669c80ec8?source=rss------bug_bounty_writeup-5)
 - [The Easiest RCE? How One Node.js Variable Creates Chaos](https://osintteam.blog/the-easiest-rce-how-one-node-js-variable-creates-chaos-4168c5010e2a?source=rss------bug_bounty_writeup-5)
 - [Why the Best Bug Hunters Think Like Detectives, Not Hackers — And What That Difference Earns Them](https://medium.com/@R.H_Rizvi/why-the-best-bug-hunters-think-like-detectives-not-hackers-and-what-that-difference-earns-them-3c93e99d6fc9?source=rss------bug_bounty_writeup-5)
 - [Business Logic Vulnerability in Subscription Checkout](https://medium.com/legionhunters/business-logic-vulnerability-in-subscription-checkout-31845a3685f4?source=rss------bug_bounty_writeup-5)
@@ -939,7 +940,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [CSRF To 1-Step Account Takeover](https://rijndael.medium.com/csrf-to-1-step-account-takeover-92ce90fc9ac5?source=rss------bug_bounty_writeup-5)
 - [Citrix Bleed: How a Single Bug Leaked Corporate Secrets &lpar;CVE-2023–4966&rpar;](https://infosecwriteups.com/citrix-bleed-how-a-single-bug-leaked-corporate-secrets-cve-2023-4966-45e9c6fbe9f6?source=rss------bug_bounty_writeup-5)
 - [&lpar;High-vuln&rpar; How I Bypassed IP Restrictions, CAPTCHA, and Unlocked Unlimited Brute-Force in One Shot](https://0xzyo.medium.com/high-vuln-how-i-bypassed-ip-restrictions-captcha-and-unlocked-unlimited-brute-force-in-one-shot-ec2b7063ef5d?source=rss------bug_bounty_writeup-5)
-- [Exploiting GraphQL: A Full-Spectrum Security Assessment Covering Introspection, Injection, and…](https://kizerh.medium.com/exploiting-graphql-a-full-spectrum-security-assessment-covering-introspection-injection-and-560f49a44f36?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
