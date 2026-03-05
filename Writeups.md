@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [A Critical Referral Logic Flaw Enabling Unlimited Financial Exposure](https://medium.com/@0xMo7areb/a-critical-referral-logic-flaw-enabling-unlimited-financial-exposure-44dd753e0269?source=rss------bug_bounty_writeup-5)
 - [You Don’t Need to Be a Genius to Find Real Security Vulnerabilities — You Need a Better Process](https://medium.com/@R.H_Rizvi/you-dont-need-to-be-a-genius-to-find-real-security-vulnerabilities-you-need-a-better-process-392669c80ec8?source=rss------bug_bounty_writeup-5)
 - [The Easiest RCE? How One Node.js Variable Creates Chaos](https://osintteam.blog/the-easiest-rce-how-one-node-js-variable-creates-chaos-4168c5010e2a?source=rss------bug_bounty_writeup-5)
 - [Why the Best Bug Hunters Think Like Detectives, Not Hackers — And What That Difference Earns Them](https://medium.com/@R.H_Rizvi/why-the-best-bug-hunters-think-like-detectives-not-hackers-and-what-that-difference-earns-them-3c93e99d6fc9?source=rss------bug_bounty_writeup-5)
@@ -18,7 +19,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Sunsetnoontide Offsec’s proving ground writeup](https://infosecwriteups.com/sunsetnoontide-offsecs-proving-ground-writeup-30276d80287f?source=rss----7b722bfd1b8d---4)
 - [CSRF To 1-Step Account Takeover](https://rijndael.medium.com/csrf-to-1-step-account-takeover-92ce90fc9ac5?source=rss------bug_bounty_writeup-5)
 - [Citrix Bleed: How a Single Bug Leaked Corporate Secrets &lpar;CVE-2023–4966&rpar;](https://infosecwriteups.com/citrix-bleed-how-a-single-bug-leaked-corporate-secrets-cve-2023-4966-45e9c6fbe9f6?source=rss------bug_bounty_writeup-5)
-- [&lpar;High-vuln&rpar; How I Bypassed IP Restrictions, CAPTCHA, and Unlocked Unlimited Brute-Force in One Shot](https://0xzyo.medium.com/high-vuln-how-i-bypassed-ip-restrictions-captcha-and-unlocked-unlimited-brute-force-in-one-shot-ec2b7063ef5d?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
