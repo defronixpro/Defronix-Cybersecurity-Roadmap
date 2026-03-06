@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [A Path Hidden in Plain Sight: Owning Active Directory](https://medium.com/@jabaribrown62/a-path-hidden-in-plain-sight-owning-active-directory-4595a7b730bc?source=rss------bug_bounty_writeup-5)
 - [IDORs Explained: How One Number Can Hack an Entire Company](https://infosecwriteups.com/idors-explained-how-one-number-can-hack-an-entire-company-8872fef31c2d?source=rss----7b722bfd1b8d---4)
 - [How I Passed eCPPT within 3 months Without Losing My Mind](https://infosecwriteups.com/how-i-passed-ecppt-within-3-months-without-losing-my-mind-ea6639ac8e40?source=rss----7b722bfd1b8d---4)
 - [Unlimited Shopping: Exploiting a Cart Logic Flaw to Bypass Product Limits](https://medium.com/@raslanco/unlimited-shopping-exploiting-a-cart-logic-flaw-to-bypass-product-limits-0c0d26e22672?source=rss------bug_bounty_writeup-5)
@@ -932,7 +933,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [The Easiest RCE? How One Node.js Variable Creates Chaos](https://osintteam.blog/the-easiest-rce-how-one-node-js-variable-creates-chaos-4168c5010e2a?source=rss------bug_bounty_writeup-5)
 - [Why the Best Bug Hunters Think Like Detectives, Not Hackers — And What That Difference Earns Them](https://medium.com/@R.H_Rizvi/why-the-best-bug-hunters-think-like-detectives-not-hackers-and-what-that-difference-earns-them-3c93e99d6fc9?source=rss------bug_bounty_writeup-5)
 - [Business Logic Vulnerability in Subscription Checkout](https://medium.com/legionhunters/business-logic-vulnerability-in-subscription-checkout-31845a3685f4?source=rss------bug_bounty_writeup-5)
-- [The strangest scenario I’ve found: Improper authentication](https://medium.com/@yannickatone/the-strangest-scenario-ive-found-improper-authentication-5f27f6a1b9d9?source=rss------bug_bounty_writeup-5)
 - [TryHackMe CTF Walkthrough- Love at First Breach 2026: Hidden Deep into my Heart](https://infosecwriteups.com/tryhackme-free-ctf-walkthrough-love-at-first-breach-2026-hidden-deep-into-my-heart-00b86e6254f6?source=rss----7b722bfd1b8d---4)
 - [TryHackMe CTF Walkthrough- Love at First Breach 2026: Valenfind](https://infosecwriteups.com/tryhackme-free-ctf-walkthrough-love-at-first-breach-2026-valenfind-b5d3766b7dad?source=rss----7b722bfd1b8d---4)
 - [‍♂️ Pulling Off the Heist: A Methodical HTB Takedown](https://infosecwriteups.com/%EF%B8%8F-pulling-off-the-heist-a-methodical-htb-takedown-c4829c144bb2?source=rss----7b722bfd1b8d---4)
