@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Unlimited Shopping: Exploiting a Cart Logic Flaw to Bypass Product Limits](https://medium.com/@raslanco/unlimited-shopping-exploiting-a-cart-logic-flaw-to-bypass-product-limits-0c0d26e22672?source=rss------bug_bounty_writeup-5)
 - [When Deleting One File Deletes Everything: An Unauthenticated BOLA in an AI Analytics Portal](https://medium.com/@Xp10it/when-deleting-one-file-deletes-everything-an-unauthenticated-bola-in-an-ai-analytics-portal-600b3957803e?source=rss------bug_bounty_writeup-5)
 - [Why Every Scanner Missed This RCE: Reviving CVE-2020–7961 On A 7 Year old Instance of Liferay](https://infosecwriteups.com/why-every-scanner-missed-this-rce-reviving-cve-2020-7961-on-a-7-year-old-instance-of-liferay-a0d1c4af0738?source=rss------bug_bounty_writeup-5)
 - [A Critical Referral Logic Flaw Enabling Unlimited Financial Exposure](https://medium.com/@0xMo7areb/a-critical-referral-logic-flaw-enabling-unlimited-financial-exposure-44dd753e0269?source=rss------bug_bounty_writeup-5)
@@ -940,7 +941,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [THM — CupidBot](https://infosecwriteups.com/thm-cupidbot-258284df3732?source=rss----7b722bfd1b8d---4)
 - [An AI That Can Hack Things Autonomously Is Real. The Hype Around It Is Not.](https://infosecwriteups.com/an-ai-that-can-hack-things-autonomously-is-real-the-hype-around-it-is-not-fcddf7ba0741?source=rss----7b722bfd1b8d---4)
 - [Sunsetnoontide Offsec’s proving ground writeup](https://infosecwriteups.com/sunsetnoontide-offsecs-proving-ground-writeup-30276d80287f?source=rss----7b722bfd1b8d---4)
-- [CSRF To 1-Step Account Takeover](https://rijndael.medium.com/csrf-to-1-step-account-takeover-92ce90fc9ac5?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
