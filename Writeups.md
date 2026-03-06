@@ -1,6 +1,8 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [IDORs Explained: How One Number Can Hack an Entire Company](https://infosecwriteups.com/idors-explained-how-one-number-can-hack-an-entire-company-8872fef31c2d?source=rss----7b722bfd1b8d---4)
+- [How I Passed eCPPT within 3 months Without Losing My Mind](https://infosecwriteups.com/how-i-passed-ecppt-within-3-months-without-losing-my-mind-ea6639ac8e40?source=rss----7b722bfd1b8d---4)
 - [Unlimited Shopping: Exploiting a Cart Logic Flaw to Bypass Product Limits](https://medium.com/@raslanco/unlimited-shopping-exploiting-a-cart-logic-flaw-to-bypass-product-limits-0c0d26e22672?source=rss------bug_bounty_writeup-5)
 - [When Deleting One File Deletes Everything: An Unauthenticated BOLA in an AI Analytics Portal](https://medium.com/@Xp10it/when-deleting-one-file-deletes-everything-an-unauthenticated-bola-in-an-ai-analytics-portal-600b3957803e?source=rss------bug_bounty_writeup-5)
 - [Why Every Scanner Missed This RCE: Reviving CVE-2020–7961 On A 7 Year old Instance of Liferay](https://infosecwriteups.com/why-every-scanner-missed-this-rce-reviving-cve-2020-7961-on-a-7-year-old-instance-of-liferay-a0d1c4af0738?source=rss------bug_bounty_writeup-5)
@@ -18,8 +20,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [I Made an AI Think It Was Root — And It Gave Me /etc/passwd](https://infosecwriteups.com/i-made-an-ai-think-it-was-root-and-it-gave-me-etc-passwd-d872418ea25c?source=rss----7b722bfd1b8d---4)
 - [Portswigger Walkthrough Lab: Username enumeration via subtly different responses](https://infosecwriteups.com/portswigger-walkthrough-lab-username-enumeration-via-subtly-different-responses-715467f0d2e8?source=rss----7b722bfd1b8d---4)
 - [THM — CupidBot](https://infosecwriteups.com/thm-cupidbot-258284df3732?source=rss----7b722bfd1b8d---4)
-- [An AI That Can Hack Things Autonomously Is Real. The Hype Around It Is Not.](https://infosecwriteups.com/an-ai-that-can-hack-things-autonomously-is-real-the-hype-around-it-is-not-fcddf7ba0741?source=rss----7b722bfd1b8d---4)
-- [Sunsetnoontide Offsec’s proving ground writeup](https://infosecwriteups.com/sunsetnoontide-offsecs-proving-ground-writeup-30276d80287f?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
