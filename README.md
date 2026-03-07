@@ -922,7 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [How I Used Reflected XSS + CORS to Get 1-Click OAuth Misconfiguration](https://medium.com/@mohammed01550038865/how-i-used-reflected-xss-cors-to-get-1-click-oauth-misconfiguration-82088e94c96c?source=rss------bug_bounty_writeup-5)
+- [How I Used Reflected XSS + CORS + CSRF to Get 1-Click OAuth Misconfiguration](https://medium.com/developersglobal/how-i-used-reflected-xss-cors-to-get-1-click-oauth-misconfiguration-82088e94c96c?source=rss------bug_bounty_writeup-5)
 - [A Path Hidden in Plain Sight: Owning Active Directory](https://infosecwriteups.com/a-path-hidden-in-plain-sight-owning-active-directory-4595a7b730bc?source=rss------bug_bounty_writeup-5)
 - [IDORs Explained: How One Number Can Hack an Entire Company](https://infosecwriteups.com/idors-explained-how-one-number-can-hack-an-entire-company-8872fef31c2d?source=rss----7b722bfd1b8d---4)
 - [How I Passed eCPPT within 3 months Without Losing My Mind](https://infosecwriteups.com/how-i-passed-ecppt-within-3-months-without-losing-my-mind-ea6639ac8e40?source=rss----7b722bfd1b8d---4)
