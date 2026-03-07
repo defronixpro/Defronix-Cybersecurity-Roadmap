@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Finding a Critical Authorization Flaw That Allowed Deleting Any User Account](https://medium.com/@nyany032/finding-a-critical-authorization-flaw-that-allowed-deleting-any-user-account-846eb5af9dda?source=rss------bug_bounty_writeup-5)
+- [The Bug Bounty Automation Trap: Why the Hunters Finding the Most Vulnerabilities Are Running Fewer…](https://medium.com/@R.H_Rizvi/the-bug-bounty-automation-trap-why-the-hunters-finding-the-most-vulnerabilities-are-running-fewer-50cd02b07f3a?source=rss------bug_bounty_writeup-5)
 - [One User, Multiple Votes: A Race Condition](https://medium.com/legionhunters/one-user-multiple-votes-a-race-condition-f55e0bf55186?source=rss------bug_bounty_writeup-5)
 - [The God-Mode Leak: How One JavaScript Variable Toppled an Entire B2B Ecosystem](https://medium.com/@kaifashraf1999/from-a-javascript-file-to-full-owner-access-how-a-single-exposed-token-compromised-an-entire-b2b-24296110c9a4?source=rss------bug_bounty_writeup-5)
 - [Reflected XSS in Facebook, Twitter &amp; Google Training Platforms](https://nullsecurityx.medium.com/reflected-xss-in-facebook-twitter-google-training-platforms-f98198d65657?source=rss------bug_bounty_writeup-5)
@@ -932,8 +934,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Unlimited Shopping: Exploiting a Cart Logic Flaw to Bypass Product Limits](https://medium.com/@raslanco/unlimited-shopping-exploiting-a-cart-logic-flaw-to-bypass-product-limits-0c0d26e22672?source=rss------bug_bounty_writeup-5)
 - [When Deleting One File Deletes Everything: An Unauthenticated BOLA in an AI Analytics Portal](https://medium.com/@Xp10it/when-deleting-one-file-deletes-everything-an-unauthenticated-bola-in-an-ai-analytics-portal-600b3957803e?source=rss------bug_bounty_writeup-5)
 - [Why Every Scanner Missed This RCE: Reviving CVE-2020–7961 On A 7 Year old Instance of Liferay](https://infosecwriteups.com/why-every-scanner-missed-this-rce-reviving-cve-2020-7961-on-a-7-year-old-instance-of-liferay-a0d1c4af0738?source=rss------bug_bounty_writeup-5)
-- [A Critical Referral Logic Flaw Enabling Unlimited Financial Exposure](https://medium.com/@0xMo7areb/a-critical-referral-logic-flaw-enabling-unlimited-financial-exposure-44dd753e0269?source=rss------bug_bounty_writeup-5)
-- [You Don’t Need to Be a Genius to Find Real Security Vulnerabilities — You Need a Better Process](https://medium.com/@R.H_Rizvi/you-dont-need-to-be-a-genius-to-find-real-security-vulnerabilities-you-need-a-better-process-392669c80ec8?source=rss------bug_bounty_writeup-5)
 - [TryHackMe CTF Walkthrough- Love at First Breach 2026: Hidden Deep into my Heart](https://infosecwriteups.com/tryhackme-free-ctf-walkthrough-love-at-first-breach-2026-hidden-deep-into-my-heart-00b86e6254f6?source=rss----7b722bfd1b8d---4)
 - [TryHackMe CTF Walkthrough- Love at First Breach 2026: Valenfind](https://infosecwriteups.com/tryhackme-free-ctf-walkthrough-love-at-first-breach-2026-valenfind-b5d3766b7dad?source=rss----7b722bfd1b8d---4)
 - [‍♂️ Pulling Off the Heist: A Methodical HTB Takedown](https://infosecwriteups.com/%EF%B8%8F-pulling-off-the-heist-a-methodical-htb-takedown-c4829c144bb2?source=rss----7b722bfd1b8d---4)
