@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I Discovered an Account Takeover Vulnerability via Improper Session Handling](https://medium.com/@RAHUL-Nj/how-i-discovered-an-account-takeover-vulnerability-via-improper-session-handling-7182a65448a1?source=rss------bug_bounty_writeup-5)
 - [How I Discovered a Price Manipulation Vulnerability in a Public Bug Bounty Program](https://medium.com/@mo397283/how-i-discovered-a-price-manipulation-vulnerability-in-a-public-bug-bounty-program-344dc6e9c1ed?source=rss------bug_bounty_writeup-5)
 - [Finding a Critical Authorization Flaw That Allowed Deleting Any User Account](https://medium.com/@nyany032/finding-a-critical-authorization-flaw-that-allowed-deleting-any-user-account-846eb5af9dda?source=rss------bug_bounty_writeup-5)
 - [The Bug Bounty Automation Trap: Why the Hunters Finding the Most Vulnerabilities Are Running Fewer…](https://medium.com/@R.H_Rizvi/the-bug-bounty-automation-trap-why-the-hunters-finding-the-most-vulnerabilities-are-running-fewer-50cd02b07f3a?source=rss------bug_bounty_writeup-5)
@@ -933,7 +934,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [IDORs Explained: How One Number Can Hack an Entire Company](https://infosecwriteups.com/idors-explained-how-one-number-can-hack-an-entire-company-8872fef31c2d?source=rss----7b722bfd1b8d---4)
 - [How I Passed eCPPT within 3 months Without Losing My Mind](https://infosecwriteups.com/how-i-passed-ecppt-within-3-months-without-losing-my-mind-ea6639ac8e40?source=rss----7b722bfd1b8d---4)
 - [Unlimited Shopping: Exploiting a Cart Logic Flaw to Bypass Product Limits](https://medium.com/@raslanco/unlimited-shopping-exploiting-a-cart-logic-flaw-to-bypass-product-limits-0c0d26e22672?source=rss------bug_bounty_writeup-5)
-- [When Deleting One File Deletes Everything: An Unauthenticated BOLA in an AI Analytics Portal](https://medium.com/@Xp10it/when-deleting-one-file-deletes-everything-an-unauthenticated-bola-in-an-ai-analytics-portal-600b3957803e?source=rss------bug_bounty_writeup-5)
 - [TryHackMe CTF Walkthrough- Love at First Breach 2026: Hidden Deep into my Heart](https://infosecwriteups.com/tryhackme-free-ctf-walkthrough-love-at-first-breach-2026-hidden-deep-into-my-heart-00b86e6254f6?source=rss----7b722bfd1b8d---4)
 - [TryHackMe CTF Walkthrough- Love at First Breach 2026: Valenfind](https://infosecwriteups.com/tryhackme-free-ctf-walkthrough-love-at-first-breach-2026-valenfind-b5d3766b7dad?source=rss----7b722bfd1b8d---4)
 - [‍♂️ Pulling Off the Heist: A Methodical HTB Takedown](https://infosecwriteups.com/%EF%B8%8F-pulling-off-the-heist-a-methodical-htb-takedown-c4829c144bb2?source=rss----7b722bfd1b8d---4)
