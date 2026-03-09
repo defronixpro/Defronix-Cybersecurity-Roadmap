@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Hacking AI Agents for 20,000$](https://anontriager.medium.com/hacking-ai-agents-for-20-000-15436be41eb9?source=rss------bug_bounty_writeup-5)
 - [Cross-Field XSS – A Creative Bypass I Found During Testing](https://medium.com/@mvenkatasaiamrutha7/cross-field-xss-a-creative-bypass-i-found-during-testing-c33c6c77d5e9?source=rss------bug_bounty_writeup-5)
 - [Received a $300 bounty for this Mobile OTP Verification Bypass.](https://ch4ndan.medium.com/received-a-300-bounty-for-this-mobile-otp-verification-bypass-0997b498aff7?source=rss------bug_bounty_writeup-5)
 - [How I Found My First Bug on a Government Website](https://medium.com/@vedanthore/how-i-found-my-first-bug-on-a-government-website-32eb3c0d0dc2?source=rss------bug_bounty_writeup-5)
@@ -10,7 +11,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Finding a Critical Authorization Flaw That Allowed Deleting Any User Account](https://medium.com/@nyany032/finding-a-critical-authorization-flaw-that-allowed-deleting-any-user-account-846eb5af9dda?source=rss------bug_bounty_writeup-5)
 - [The Bug Bounty Automation Trap: Why the Hunters Finding the Most Vulnerabilities Are Running Fewer…](https://medium.com/@R.H_Rizvi/the-bug-bounty-automation-trap-why-the-hunters-finding-the-most-vulnerabilities-are-running-fewer-50cd02b07f3a?source=rss------bug_bounty_writeup-5)
 - [One User, Multiple Votes: A Race Condition](https://medium.com/legionhunters/one-user-multiple-votes-a-race-condition-f55e0bf55186?source=rss------bug_bounty_writeup-5)
-- [The God-Mode Leak: How One JavaScript Variable Toppled an Entire B2B Ecosystem](https://medium.com/@kaifashraf1999/from-a-javascript-file-to-full-owner-access-how-a-single-exposed-token-compromised-an-entire-b2b-24296110c9a4?source=rss------bug_bounty_writeup-5)
 - [IDORs Explained: How One Number Can Hack an Entire Company](https://infosecwriteups.com/idors-explained-how-one-number-can-hack-an-entire-company-8872fef31c2d?source=rss----7b722bfd1b8d---4)
 - [How I Passed eCPPT within 3 months Without Losing My Mind](https://infosecwriteups.com/how-i-passed-ecppt-within-3-months-without-losing-my-mind-ea6639ac8e40?source=rss----7b722bfd1b8d---4)
 - [TryHackMe CTF Walkthrough- Love at First Breach 2026: Hidden Deep into my Heart](https://infosecwriteups.com/tryhackme-free-ctf-walkthrough-love-at-first-breach-2026-hidden-deep-into-my-heart-00b86e6254f6?source=rss----7b722bfd1b8d---4)
