@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [100$ Bug — The Hidden Cost of “Unsigned” Uploads: Exploiting Cloudinary for Denial of Wallet](https://zer0figure.medium.com/100-bug-the-hidden-cost-of-unsigned-uploads-exploiting-cloudinary-for-denial-of-wallet-a2c0d6c74890?source=rss------bug_bounty_writeup-5)
 - [Bypassing SSL Pinning in Flutter Android Apps Distributed as Split APKs](https://medium.com/@bharathkannan439/abbs-to-apk-for-penetration-testing-965acc55c56b?source=rss------bug_bounty_writeup-5)
 - [Journey to My First Bounty!](https://medium.com/@prakashchauhan9645/journey-to-my-first-bounty-72175d620b10?source=rss------bug_bounty_writeup-5)
 - [Your App Might Be Secure… But What About the Pipeline That Ships It?](https://medium.com/@MuhammedAsfan/your-app-might-be-secure-but-what-about-the-pipeline-that-ships-it-8ca54db0b713?source=rss------bug_bounty_writeup-5)
@@ -930,7 +931,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Cross-Field XSS – A Creative Bypass I Found During Testing](https://medium.com/@mvenkatasaiamrutha7/cross-field-xss-a-creative-bypass-i-found-during-testing-c33c6c77d5e9?source=rss------bug_bounty_writeup-5)
 - [Received a $300 bounty for this Mobile OTP Verification Bypass.](https://ch4ndan.medium.com/received-a-300-bounty-for-this-mobile-otp-verification-bypass-0997b498aff7?source=rss------bug_bounty_writeup-5)
 - [How I Found My First Bug on a Government Website](https://medium.com/@vedanthore/how-i-found-my-first-bug-on-a-government-website-32eb3c0d0dc2?source=rss------bug_bounty_writeup-5)
-- [I Hacked Your Account with a 6-Digit PIN: The Brute-Force Nightmare You Need to Fix](https://infosecwriteups.com/i-hacked-your-account-with-a-6-digit-pin-the-brute-force-nightmare-you-need-to-fix-7707309ca8c4?source=rss------bug_bounty_writeup-5)
 - [IDORs Explained: How One Number Can Hack an Entire Company](https://infosecwriteups.com/idors-explained-how-one-number-can-hack-an-entire-company-8872fef31c2d?source=rss----7b722bfd1b8d---4)
 - [How I Passed eCPPT within 3 months Without Losing My Mind](https://infosecwriteups.com/how-i-passed-ecppt-within-3-months-without-losing-my-mind-ea6639ac8e40?source=rss----7b722bfd1b8d---4)
 - [TryHackMe CTF Walkthrough- Love at First Breach 2026: Hidden Deep into my Heart](https://infosecwriteups.com/tryhackme-free-ctf-walkthrough-love-at-first-breach-2026-hidden-deep-into-my-heart-00b86e6254f6?source=rss----7b722bfd1b8d---4)
