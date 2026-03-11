@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [PostMessage Misconfiguration + AI Prompt Injection + Sandbox Escape = XSS &amp; Data Exfiltration](https://infosecwriteups.com/postmessage-misconfiguration-ai-prompt-injection-sandbox-escape-xss-data-exfiltration-d1d29821a2de?source=rss----7b722bfd1b8d---4)
+- [️Turning Directory Data into Domain Access](https://infosecwriteups.com/%EF%B8%8Fturning-directory-data-into-domain-access-74ce70eed60e?source=rss----7b722bfd1b8d---4)
 - [I Built the Ultimate CompTIA Security+ Roadmap! &lpar;You don’t need anything else&rpar;](https://infosecwriteups.com/i-built-the-ultimate-comptia-security-sy0-701-roadmap-you-dont-need-anything-else-4ecd01fbb736?source=rss----7b722bfd1b8d---4)
 - [XSS Bypass to Zero Click Account Takeover in AI Chatbot](https://infosecwriteups.com/xss-bypass-to-zero-click-account-takeover-in-ai-chatbot-a19acee8266f?source=rss----7b722bfd1b8d---4)
 - [Citrix Bleed: How a Single Bug Leaked Corporate Secrets &lpar;CVE-2023–4966&rpar;](https://infosecwriteups.com/citrix-bleed-how-a-single-bug-leaked-corporate-secrets-cve-2023-4966-45e9c6fbe9f6?source=rss----7b722bfd1b8d---4)
@@ -930,8 +932,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [I Reverse-Engineered Zomato’s Food Rescue Feature — Here’s What I Found Inside](https://infosecwriteups.com/i-reverse-engineered-zomatos-food-rescue-feature-here-s-what-i-found-inside-f7043d3710ee?source=rss----7b722bfd1b8d---4)
 - [I Found a Bug That Exposed Private Instagram Posts to Anyone.](https://infosecwriteups.com/i-found-a-bug-that-exposed-private-instagram-posts-to-anyone-eebb7923f7e3?source=rss----7b722bfd1b8d---4)
 - [OWASP LLM Top 10 vs Agentic AI Top 10 : Redefining OWASP Security Risks for Autonomous Systems](https://infosecwriteups.com/owasp-llm-top-10-vs-agentic-ai-top-10-redefining-owasp-security-risks-for-autonomous-systems-d5803cf84b74?source=rss----7b722bfd1b8d---4)
-- [The Attack Surface Nobody Is Talking About - What Happens When AI Agents Use Tools ?](https://infosecwriteups.com/the-attack-surface-nobody-is-talking-about-what-happens-when-ai-agents-use-tools-a518a6b3991f?source=rss----7b722bfd1b8d---4)
-- [Chaining the Boredom: How a Quiet Weekday Led to a Full Database Heist](https://infosecwriteups.com/chaining-the-boredom-how-a-quiet-weekday-led-to-a-full-database-heist-a680a77a533e?source=rss----7b722bfd1b8d---4)
 - [The Danger of Over-Permissive File Shares](https://infosecwriteups.com/the-danger-of-over-permissive-file-shares-bea10fab5190?source=rss------bug_bounty_writeup-5)
 - [How I Accidentally Hacked a Government Payment Portal While Looking for Bugs](https://letchupkt.medium.com/how-i-accidentally-hacked-a-government-payment-portal-while-looking-for-bugs-b5ecf75e1089?source=rss------bug_bounty_writeup-5)
 - [OSINT Is Not About Finding More Data — It Is About Asking Better Questions Than Everyone Else](https://medium.com/@R.H_Rizvi/osint-is-not-about-finding-more-data-it-is-about-asking-better-questions-than-everyone-else-3aed9d263613?source=rss------bug_bounty_writeup-5)
