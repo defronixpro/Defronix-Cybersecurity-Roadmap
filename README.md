@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [I&#39;m Staring From Scratch — Bug Bounty](https://medium.com/@the.air.cyborg/im-staring-from-scratch-bug-bounty-5ef4db56d76d?source=rss------bug_bounty_writeup-5)
 - [Exposed Credentials in a Public Repository Leading to Administrative Access in a CSIRT Portal](https://medium.com/@Rexusz-1337/exposed-credentials-in-a-public-repository-leading-to-administrative-access-in-a-csirt-portal-3dfb4d9fc73d?source=rss------bug_bounty_writeup-5)
 - [PostMessage Misconfiguration + AI Prompt Injection + Sandbox Escape = XSS &amp; Data Exfiltration](https://infosecwriteups.com/postmessage-misconfiguration-ai-prompt-injection-sandbox-escape-xss-data-exfiltration-d1d29821a2de?source=rss----7b722bfd1b8d---4)
 - [️Turning Directory Data into Domain Access](https://infosecwriteups.com/%EF%B8%8Fturning-directory-data-into-domain-access-74ce70eed60e?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [100$ Bug — The Hidden Cost of “Unsigned” Uploads: Exploiting Cloudinary for Denial of Wallet](https://zer0figure.medium.com/100-bug-the-hidden-cost-of-unsigned-uploads-exploiting-cloudinary-for-denial-of-wallet-a2c0d6c74890?source=rss------bug_bounty_writeup-5)
 - [Bypassing SSL Pinning in Flutter Android Apps Distributed as Split APKs](https://medium.com/@bharathkannan439/abbs-to-apk-for-penetration-testing-965acc55c56b?source=rss------bug_bounty_writeup-5)
 - [Journey to My First Bounty!](https://medium.com/@prakashchauhan9645/journey-to-my-first-bounty-72175d620b10?source=rss------bug_bounty_writeup-5)
-- [Your App Might Be Secure… But What About the Pipeline That Ships It?](https://medium.com/@MuhammedAsfan/your-app-might-be-secure-but-what-about-the-pipeline-that-ships-it-8ca54db0b713?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
