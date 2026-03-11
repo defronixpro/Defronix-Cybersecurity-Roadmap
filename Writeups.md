@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [From 11 Failed Reports to a NASA Letter of Appreciation — My Bug Bounty Journey](https://medium.com/@blog.krishoffsec/from-11-failed-reports-to-a-nasa-letter-of-appreciation-my-bug-bounty-journey-3f9a721a366a?source=rss------bug_bounty_writeup-5)
 - [I Asked an AI Assistant a Few Questions… and It Turned Into a $100 Bug Bounty](https://medium.com/@sauravkrish59/i-asked-an-ai-assistant-a-few-questions-and-it-turned-into-a-100-bug-bounty-de98936ac03a?source=rss------bug_bounty_writeup-5)
 - [From JavaScript Recon to Account Takeover: Finding a Hidden Endpoint](https://medium.com/@opindersinghsian/finding-hidden-endpoints-in-javascript-how-i-discovered-an-unauthenticated-password-update-fff8d7044e67?source=rss------bug_bounty_writeup-5)
 - [I&#39;m Staring From Scratch — Bug Bounty](https://medium.com/@the.air.cyborg/im-staring-from-scratch-bug-bounty-5ef4db56d76d?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [OSINT Is Not About Finding More Data — It Is About Asking Better Questions Than Everyone Else](https://medium.com/@R.H_Rizvi/osint-is-not-about-finding-more-data-it-is-about-asking-better-questions-than-everyone-else-3aed9d263613?source=rss------bug_bounty_writeup-5)
 - [The Cross-Site Scripting Paradox: Why Developers Who Sanitize Input Still Get Exploited](https://medium.com/@R.H_Rizvi/the-cross-site-scripting-paradox-why-developers-who-sanitize-input-still-get-exploited-b6a1d6273e6f?source=rss------bug_bounty_writeup-5)
 - [DLLHijacking Explained to a 10yr 0ld](https://medium.com/@ghostvirus62/dllhijacking-explained-to-a-10yr-0ld-b66f49fe1c57?source=rss------bug_bounty_writeup-5)
-- [100$ Bug — The Hidden Cost of “Unsigned” Uploads: Exploiting Cloudinary for Denial of Wallet](https://zer0figure.medium.com/100-bug-the-hidden-cost-of-unsigned-uploads-exploiting-cloudinary-for-denial-of-wallet-a2c0d6c74890?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
