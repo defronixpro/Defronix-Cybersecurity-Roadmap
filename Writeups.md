@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Why I Stopped Ignoring Open Redirects &lpar;A Zero-Click ATO Story&rpar;](https://medium.com/@hotisha/why-i-stopped-ignoring-open-redirects-a-zero-click-ato-story-babe76f3f1c5?source=rss------bug_bounty_writeup-5)
 - [Discovering OTP Validation Bypass and IDOR in a Data Export Function](https://medium.com/@nyany032/discovering-otp-validation-bypass-and-idor-in-a-data-export-function-83235fe7ba82?source=rss------bug_bounty_writeup-5)
 - [From 11 Failed Reports to a NASA Letter of Appreciation — My Bug Bounty Journey](https://medium.com/@blog.krishoffsec/from-11-failed-reports-to-a-nasa-letter-of-appreciation-my-bug-bounty-journey-3f9a721a366a?source=rss------bug_bounty_writeup-5)
 - [I Asked an AI Assistant a Few Questions… and It Turned Into a $100 Bug Bounty](https://medium.com/@sauravkrish59/i-asked-an-ai-assistant-a-few-questions-and-it-turned-into-a-100-bug-bounty-de98936ac03a?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [The Danger of Over-Permissive File Shares](https://infosecwriteups.com/the-danger-of-over-permissive-file-shares-bea10fab5190?source=rss------bug_bounty_writeup-5)
 - [How I Accidentally Hacked a Government Payment Portal While Looking for Bugs](https://letchupkt.medium.com/how-i-accidentally-hacked-a-government-payment-portal-while-looking-for-bugs-b5ecf75e1089?source=rss------bug_bounty_writeup-5)
 - [OSINT Is Not About Finding More Data — It Is About Asking Better Questions Than Everyone Else](https://medium.com/@R.H_Rizvi/osint-is-not-about-finding-more-data-it-is-about-asking-better-questions-than-everyone-else-3aed9d263613?source=rss------bug_bounty_writeup-5)
-- [The Cross-Site Scripting Paradox: Why Developers Who Sanitize Input Still Get Exploited](https://medium.com/@R.H_Rizvi/the-cross-site-scripting-paradox-why-developers-who-sanitize-input-still-get-exploited-b6a1d6273e6f?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
