@@ -922,6 +922,10 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [PortSwigger Is Amazing… But It Can Overwhelm Most Of Us](https://medium.com/h7w/portswigger-is-amazing-but-it-can-overwhelm-most-of-us-991227e8a4ce?source=rss------bug_bounty_writeup-5)
+- [A.I. Basics: What It Is, How It Learns, and Why It Matters in Cybersecurity](https://infosecwriteups.com/a-i-basics-what-it-is-how-it-learns-and-why-it-matters-in-cybersecurity-99fd71964487?source=rss----7b722bfd1b8d---4)
+- [I Made 5 AI Models Argue About Stocks. The Disagreements Were More Valuable Than the Answers.](https://infosecwriteups.com/i-made-5-ai-models-argue-about-stocks-the-disagreements-were-more-valuable-than-the-answers-277dcc5f3e90?source=rss----7b722bfd1b8d---4)
+- [How I Found a Critical SQL Injection in an “Abandoned” Website: Exploiting a Rare Chain of…](https://infosecwriteups.com/how-i-found-a-critical-sql-injection-in-an-abandoned-website-exploiting-a-rare-chain-of-10e5e5615b29?source=rss----7b722bfd1b8d---4)
 - [Prompt Injection grew up. Now it moves laterally](https://infosecwriteups.com/prompt-injection-grew-up-now-it-moves-laterally-7530960abec5?source=rss----7b722bfd1b8d---4)
 - [AMSI Demystified: Comprehensive Bypass Techniques for Cybersecurity Experts](https://infosecwriteups.com/amsi-demystified-comprehensive-bypass-techniques-for-cybersecurity-experts-bdabc024b13a?source=rss----7b722bfd1b8d---4)
 - [CTI Research: Sandworm / APT44](https://infosecwriteups.com/cti-research-sandworm-apt44-649332e8af44?source=rss----7b722bfd1b8d---4)
@@ -929,9 +933,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Learning Hacking and Cyber Security Now Compared to 10 years ago](https://infosecwriteups.com/learning-hacking-and-cyber-security-now-compared-to-10-years-ago-eebd596fd59b?source=rss----7b722bfd1b8d---4)
 - [A Path Hidden in Plain Sight: Owning Active Directory](https://infosecwriteups.com/a-path-hidden-in-plain-sight-owning-active-directory-4595a7b730bc?source=rss----7b722bfd1b8d---4)
 - [Unpacker: A Practical Guide to Modular Malware Packer Detection and Unpacking](https://infosecwriteups.com/unpacker-a-practical-guide-to-modular-malware-packer-detection-and-unpacking-cf8ba924f25b?source=rss----7b722bfd1b8d---4)
-- [CTI Research: Handala Hack Group &lpar;aka Handala Hack Team&rpar;](https://infosecwriteups.com/cti-research-handala-hack-group-aka-handala-hack-team-ddbdd294cfb8?source=rss----7b722bfd1b8d---4)
-- [How I Got 3 Bugs No Automation, Just Logic](https://infosecwriteups.com/how-i-got-3-bugs-no-automation-just-logic-65f372c664cd?source=rss----7b722bfd1b8d---4)
-- [Basic Static Malware Analysis: From Triage to Unpacking — Explained and Automated](https://infosecwriteups.com/basic-static-malware-analysis-from-triage-to-unpacking-explained-and-automated-9442ef3b11b8?source=rss----7b722bfd1b8d---4)
 - [How I got a Hall of Fame at a UEFA Champions League Football Club.](https://infosecwriteups.com/how-i-got-a-hall-of-fame-at-a-uefa-champions-league-football-club-bcedc352ce4d?source=rss------bug_bounty_writeup-5)
 - [The Automation Myth That’s Costing You Hours Every Week — And How Mastering n8n From Zero Changes…](https://medium.com/@R.H_Rizvi/the-automation-myth-thats-costing-you-hours-every-week-and-how-mastering-n8n-from-zero-changes-ff222142c1c0?source=rss------bug_bounty_writeup-5)
 - [The Cybersecurity Career Roadmap Most Beginners Follow Is Designed to Keep Them Beginners — Here Is…](https://medium.com/@R.H_Rizvi/the-cybersecurity-career-roadmap-most-beginners-follow-is-designed-to-keep-them-beginners-here-is-58f34caa7003?source=rss------bug_bounty_writeup-5)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [From 11 Failed Reports to a NASA Letter of Appreciation — My Bug Bounty Journey](https://medium.com/@blog.krishoffsec/from-11-failed-reports-to-a-nasa-letter-of-appreciation-my-bug-bounty-journey-3f9a721a366a?source=rss------bug_bounty_writeup-5)
 - [I Asked an AI Assistant a Few Questions… and It Turned Into a $100 Bug Bounty](https://medium.com/@sauravkrish59/i-asked-an-ai-assistant-a-few-questions-and-it-turned-into-a-100-bug-bounty-de98936ac03a?source=rss------bug_bounty_writeup-5)
 - [From JavaScript Recon to Account Takeover: Finding a Hidden Endpoint](https://medium.com/@opindersinghsian/finding-hidden-endpoints-in-javascript-how-i-discovered-an-unauthenticated-password-update-fff8d7044e67?source=rss------bug_bounty_writeup-5)
-- [I&#39;m Staring From Scratch — Bug Bounty](https://medium.com/@the.air.cyborg/im-staring-from-scratch-bug-bounty-5ef4db56d76d?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
