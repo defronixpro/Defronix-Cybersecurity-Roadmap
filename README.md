@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Learning Recon: A Look at Burgerprofiel](https://75uki.medium.com/learning-recon-a-look-at-burgerprofiel-38a3e406dc97?source=rss------bug_bounty_writeup-5)
 - [AI Jailbreaking : How Hackers Can Bypass AI Safety](https://infosecwriteups.com/ai-jailbreaking-how-hackers-can-bypass-ai-safety-c1d853724ff8?source=rss----7b722bfd1b8d---4)
 - [File Inclusion | TryHackMe Write-up | Farros](https://infosecwriteups.com/file-inclusion-tryhackme-write-up-farros-4d5927909ac8?source=rss----7b722bfd1b8d---4)
 - [The AI-BOM Nightmare: Why You Can’t Cryptographically Hash a Concept](https://infosecwriteups.com/the-ai-bom-nightmare-why-you-cant-cryptographically-hash-a-concept-548bef164aed?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Discovering OTP Validation Bypass and IDOR in a Data Export Function](https://medium.com/@nyany032/discovering-otp-validation-bypass-and-idor-in-a-data-export-function-83235fe7ba82?source=rss------bug_bounty_writeup-5)
 - [From 11 Failed Reports to a NASA Letter of Appreciation — My Bug Bounty Journey](https://medium.com/@blog.krishoffsec/from-11-failed-reports-to-a-nasa-letter-of-appreciation-my-bug-bounty-journey-3f9a721a366a?source=rss------bug_bounty_writeup-5)
 - [I Asked an AI Assistant a Few Questions… and It Turned Into a $100 Bug Bounty](https://medium.com/@sauravkrish59/i-asked-an-ai-assistant-a-few-questions-and-it-turned-into-a-100-bug-bounty-de98936ac03a?source=rss------bug_bounty_writeup-5)
-- [From JavaScript Recon to Account Takeover: Finding a Hidden Endpoint](https://medium.com/@opindersinghsian/finding-hidden-endpoints-in-javascript-how-i-discovered-an-unauthenticated-password-update-fff8d7044e67?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
