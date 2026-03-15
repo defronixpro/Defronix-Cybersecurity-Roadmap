@@ -1,16 +1,16 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Google Paid Hackers $17 Million in 2025 — Here’s Why](https://infosecwriteups.com/google-paid-hackers-17-million-in-2025-heres-why-5f5fc65d827e?source=rss----7b722bfd1b8d---4)
+- [A Practical Web Pentesting CTF Challenge — Step-by-Step Walkthrough](https://infosecwriteups.com/a-practical-web-pentesting-ctf-challenge-step-by-step-walkthrough-2c2bc2d63ef7?source=rss----7b722bfd1b8d---4)
+- [IDOR in Purchase Order Cancellation Allows Unauthorized Users to Cancel Other Users’ POs](https://infosecwriteups.com/idor-in-purchase-order-cancellation-allows-unauthorized-users-to-cancel-other-users-pos-bb9cbf4f7548?source=rss----7b722bfd1b8d---4)
+- [Bypassing Threads Block System: Blocked Users Can Still View Custom Feed Content](https://infosecwriteups.com/bypassing-threads-block-system-blocked-users-can-still-view-custom-feed-content-61a320325691?source=rss----7b722bfd1b8d---4)
+- [Mapping the Attackers Before Mapping the Application](https://infosecwriteups.com/mapping-the-attackers-before-mapping-the-application-af002d1d396b?source=rss----7b722bfd1b8d---4)
 - [The Danger of Over-Permissive File Shares](https://infosecwriteups.com/the-danger-of-over-permissive-file-shares-bea10fab5190?source=rss----7b722bfd1b8d---4)
 - [Alphabet Soup: LOTL Shellcode Obfuscation](https://infosecwriteups.com/alphabet-soup-lotl-shellcode-obfuscation-891667a6ee46?source=rss----7b722bfd1b8d---4)
 - [“Bug Bounty Bootcamp #28: Boolean-Based Blind SQL Injection — Extracting Data One True/False at a…](https://infosecwriteups.com/bug-bounty-bootcamp-28-boolean-based-blind-sql-injection-extracting-data-one-true-false-at-a-abe69e3de702?source=rss----7b722bfd1b8d---4)
 - [Single-endpoint Race Conditions](https://infosecwriteups.com/single-endpoint-race-conditions-7a3879c09e79?source=rss----7b722bfd1b8d---4)
 - [DLL Search Order Hijacking: Finding and Exploiting the Flaw](https://infosecwriteups.com/dll-search-order-hijacking-finding-and-exploiting-the-flaw-9f5dabaa2470?source=rss----7b722bfd1b8d---4)
-- [API Hunting to Employee PII Data](https://infosecwriteups.com/api-hunting-to-employee-pii-data-638866e3f494?source=rss----7b722bfd1b8d---4)
-- [3 Pentest Certifications I Wish I’d Taken Sooner](https://infosecwriteups.com/3-pentest-certifications-i-wish-id-taken-sooner-adf5afb66957?source=rss----7b722bfd1b8d---4)
-- [8. Second-Order Vulnerabilities: A Rare Bug -&gt; $$$](https://infosecwriteups.com/8-second-order-vulnerabilities-a-rare-bug-316829a5292d?source=rss----7b722bfd1b8d---4)
-- [The 2026 Pentesting Roadmap: From Beginner to Hired in 8 Steps &lpar;Updated&rpar;](https://infosecwriteups.com/the-2026-pentesting-roadmap-from-beginner-to-hired-in-8-steps-updated-d9d63edf25ae?source=rss----7b722bfd1b8d---4)
-- [I Hacked Your Account with a 6-Digit PIN: The Brute-Force Nightmare You Need to Fix](https://infosecwriteups.com/i-hacked-your-account-with-a-6-digit-pin-the-brute-force-nightmare-you-need-to-fix-7707309ca8c4?source=rss----7b722bfd1b8d---4)
 - [Bugs Most Hunters Overlook — And Why They Matter](https://medium.com/@vedanthore/bugs-most-hunters-overlook-and-why-they-matter-3ee862e2c2e5?source=rss------bug_bounty_writeup-5)
 - [Learning Recon: A Look at Burgerprofiel](https://75uki.medium.com/learning-recon-a-look-at-burgerprofiel-38a3e406dc97?source=rss------bug_bounty_writeup-5)
 - [PortSwigger Is Amazing… But It Can Overwhelm Most Of Us](https://medium.com/h7w/portswigger-is-amazing-but-it-can-overwhelm-most-of-us-991227e8a4ce?source=rss------bug_bounty_writeup-5)
