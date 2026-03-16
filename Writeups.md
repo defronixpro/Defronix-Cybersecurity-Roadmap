@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [A Business Logic Bug That Let Me Remove Platform Fees During Checkout](https://medium.com/@akashutosh659/a-business-logic-bug-that-let-me-remove-platform-fees-during-checkout-ac96b7eb7959?source=rss------bug_bounty_writeup-5)
 - [Everyone Is Using AI for Bug Bounty in 2026. Almost Nobody Is Using It Correctly.](https://medium.com/@R.H_Rizvi/everyone-is-using-ai-for-bug-bounty-in-2026-almost-nobody-is-using-it-correctly-fe7e3356010e?source=rss------bug_bounty_writeup-5)
 - [The Fresher’s Trap: Why the Most Prepared Beginners Are the Last Ones to Get Paid](https://medium.com/@R.H_Rizvi/the-freshers-trap-why-the-most-prepared-beginners-are-the-last-ones-to-get-paid-a69b11c5d9b7?source=rss------bug_bounty_writeup-5)
 - [How I Discovered a $700 CSRF Vulnerability and Recreated It as a Security Lab](https://medium.com/@C0deRevenant/how-i-discovered-a-700-csrf-vulnerability-and-recreated-it-as-a-security-lab-7a2e0a80eb92?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Bugs Most Hunters Overlook — And Why They Matter](https://medium.com/@vedanthore/bugs-most-hunters-overlook-and-why-they-matter-3ee862e2c2e5?source=rss------bug_bounty_writeup-5)
 - [Learning Recon: A Look at Burgerprofiel](https://75uki.medium.com/learning-recon-a-look-at-burgerprofiel-38a3e406dc97?source=rss------bug_bounty_writeup-5)
 - [PortSwigger Is Amazing… But It Can Overwhelm Most Of Us](https://medium.com/h7w/portswigger-is-amazing-but-it-can-overwhelm-most-of-us-991227e8a4ce?source=rss------bug_bounty_writeup-5)
-- [How I got a Hall of Fame at a UEFA Champions League Football Club.](https://infosecwriteups.com/how-i-got-a-hall-of-fame-at-a-uefa-champions-league-football-club-bcedc352ce4d?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
