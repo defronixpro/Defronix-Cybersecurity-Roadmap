@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Why I Hate Bugcrowd: When Fighting for a Valid Report Still Gets You Nowhere](https://medium.com/@aakashahmed.design/why-i-hate-bugcrowd-when-fighting-for-a-valid-report-still-gets-you-nowhere-7b1070c96d5e?source=rss------bug_bounty_writeup-5)
 - [My AI Agent Hunted APT29 under 60 Seconds. Here’s How I Built It.](https://infosecwriteups.com/my-ai-agent-hunted-apt29-under-60-seconds-heres-how-i-built-it-f98dfbdd115c?source=rss----7b722bfd1b8d---4)
 - [AI-Powered Malware Debugger That Explains Every Function It Sees](https://infosecwriteups.com/ai-powered-malware-debugger-that-explains-every-function-it-sees-2a28ef75df8a?source=rss----7b722bfd1b8d---4)
 - [How Threat Actors Accidentally Documented My Recon Strategy ️](https://infosecwriteups.com/how-threat-actors-accidentally-documented-my-recon-strategy-%EF%B8%8F-f28307135c04?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [The Automation Myth That’s Costing You Hours Every Week — And How Mastering n8n From Zero Changes…](https://medium.com/@R.H_Rizvi/the-automation-myth-thats-costing-you-hours-every-week-and-how-mastering-n8n-from-zero-changes-ff222142c1c0?source=rss------bug_bounty_writeup-5)
 - [The Cybersecurity Career Roadmap Most Beginners Follow Is Designed to Keep Them Beginners — Here Is…](https://medium.com/@R.H_Rizvi/the-cybersecurity-career-roadmap-most-beginners-follow-is-designed-to-keep-them-beginners-here-is-58f34caa7003?source=rss------bug_bounty_writeup-5)
 - [Payment Bypass That Let Me Get a Premium Course for $0 [Business Logic Flaw] P2](https://medium.com/@wanqais007/payment-bypass-that-let-me-get-a-premium-course-for-0-business-logic-flaw-p2-71c554d9c274?source=rss------bug_bounty_writeup-5)
-- [Why I Stopped Ignoring Open Redirects &lpar;A Zero-Click ATO Story&rpar;](https://medium.com/@hotisha/why-i-stopped-ignoring-open-redirects-a-zero-click-ato-story-babe76f3f1c5?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
