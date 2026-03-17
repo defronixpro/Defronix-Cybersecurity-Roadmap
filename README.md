@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [TryHackMe — Operation Endgame: Pwning an Active Directory Domain from Zero Credentials](https://infosecwriteups.com/tryhackme-operation-endgame-pwning-an-active-directory-domain-from-zero-credentials-8820e6279d95?source=rss----7b722bfd1b8d---4)
+- [CTI Research: MuddyWater/Seedworm &lpar;Mango Sandstorm&rpar;](https://infosecwriteups.com/cti-research-muddywater-seedworm-mango-sandstorm-ebf6af5ba061?source=rss----7b722bfd1b8d---4)
 - [A Business Logic Bug That Let Me Remove Platform Fees During Checkout](https://medium.com/@akashutosh659/a-business-logic-bug-that-let-me-remove-platform-fees-during-checkout-ac96b7eb7959?source=rss------bug_bounty_writeup-5)
 - [Everyone Is Using AI for Bug Bounty in 2026. Almost Nobody Is Using It Correctly.](https://medium.com/@R.H_Rizvi/everyone-is-using-ai-for-bug-bounty-in-2026-almost-nobody-is-using-it-correctly-fe7e3356010e?source=rss------bug_bounty_writeup-5)
 - [The Fresher’s Trap: Why the Most Prepared Beginners Are the Last Ones to Get Paid](https://medium.com/@R.H_Rizvi/the-freshers-trap-why-the-most-prepared-beginners-are-the-last-ones-to-get-paid-a69b11c5d9b7?source=rss------bug_bounty_writeup-5)
@@ -937,8 +939,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [The Beginner’s Bug Bounty Trap: Why Learning More Is Making You Earn Less](https://medium.com/@R.H_Rizvi/the-beginners-bug-bounty-trap-why-learning-more-is-making-you-earn-less-0676f46adfb7?source=rss------bug_bounty_writeup-5)
 - [Google Paid Hackers $17 Million in 2025 — Here’s Why](https://infosecwriteups.com/google-paid-hackers-17-million-in-2025-heres-why-5f5fc65d827e?source=rss----7b722bfd1b8d---4)
 - [A Practical Web Pentesting CTF Challenge — Step-by-Step Walkthrough](https://infosecwriteups.com/a-practical-web-pentesting-ctf-challenge-step-by-step-walkthrough-2c2bc2d63ef7?source=rss----7b722bfd1b8d---4)
-- [IDOR in Purchase Order Cancellation Allows Unauthorized Users to Cancel Other Users’ POs](https://infosecwriteups.com/idor-in-purchase-order-cancellation-allows-unauthorized-users-to-cancel-other-users-pos-bb9cbf4f7548?source=rss----7b722bfd1b8d---4)
-- [Bypassing Threads Block System: Blocked Users Can Still View Custom Feed Content](https://infosecwriteups.com/bypassing-threads-block-system-blocked-users-can-still-view-custom-feed-content-61a320325691?source=rss----7b722bfd1b8d---4)
 - [Bugs Most Hunters Overlook — And Why They Matter](https://medium.com/@vedanthore/bugs-most-hunters-overlook-and-why-they-matter-3ee862e2c2e5?source=rss------bug_bounty_writeup-5)
 - [Learning Recon: A Look at Burgerprofiel](https://75uki.medium.com/learning-recon-a-look-at-burgerprofiel-38a3e406dc97?source=rss------bug_bounty_writeup-5)
 - [PortSwigger Is Amazing… But It Can Overwhelm Most Of Us](https://medium.com/h7w/portswigger-is-amazing-but-it-can-overwhelm-most-of-us-991227e8a4ce?source=rss------bug_bounty_writeup-5)
