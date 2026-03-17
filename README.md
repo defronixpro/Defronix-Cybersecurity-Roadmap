@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [300$ Email Html Injection!](https://medium.com/@AliMojaver/300-email-html-injection-48dfc53e6d59?source=rss------bug_bounty_writeup-5)
 - [Viewer-to-Member Privilege Escalation Through Server-Side Authorization Bypass.](https://medium.com/@felofady90/viewer-to-member-privilege-escalation-through-server-side-authorization-bypass-fdbcc5b3fa46?source=rss------bug_bounty_writeup-5)
 - [I Found a Backdoor That Could Log Into Any Account on a Major Web Platform](https://zoidsec.medium.com/i-found-a-backdoor-that-could-log-into-any-account-on-a-major-web-platform-6e00df505b56?source=rss------bug_bounty_writeup-5)
 - [OTP Bypass Part 2: Advanced Logic Flaws and Race Conditions](https://medium.com/@arrheniuspaelongan09/otp-bypass-part-2-advanced-logic-flaws-and-race-conditions-d30ba3b33f07?source=rss------bug_bounty_writeup-5)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [My AI Agent Hunted APT29 under 60 Seconds. Here’s How I Built It.](https://infosecwriteups.com/my-ai-agent-hunted-apt29-under-60-seconds-heres-how-i-built-it-f98dfbdd115c?source=rss----7b722bfd1b8d---4)
 - [AI-Powered Malware Debugger That Explains Every Function It Sees](https://infosecwriteups.com/ai-powered-malware-debugger-that-explains-every-function-it-sees-2a28ef75df8a?source=rss----7b722bfd1b8d---4)
 - [The Deployment Door Nobody Checked: How a Logic Flaw Bypassed Cloud Authentication Entirely](https://medium.com/@R.H_Rizvi/the-deployment-door-nobody-checked-how-a-logic-flaw-bypassed-cloud-authentication-entirely-07a329aefed3?source=rss------bug_bounty_writeup-5)
-- [The Beginner’s Bug Bounty Trap: Why Learning More Is Making You Earn Less](https://medium.com/@R.H_Rizvi/the-beginners-bug-bounty-trap-why-learning-more-is-making-you-earn-less-0676f46adfb7?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
