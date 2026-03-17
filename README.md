@@ -922,6 +922,12 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [An Inspiring Write up from Proving grounds](https://infosecwriteups.com/an-inspiring-write-up-from-proving-grounds-99342df28758?source=rss----7b722bfd1b8d---4)
+- [Proving Grounds Linux Lab Hub &lpar; Road to OSCP &rpar;](https://infosecwriteups.com/proving-grounds-linux-lab-hub-road-to-oscp-e5d58a42530c?source=rss----7b722bfd1b8d---4)
+- [Case Study: The Uber Hack](https://infosecwriteups.com/case-study-the-uber-hack-d9453d275060?source=rss----7b722bfd1b8d---4)
+- [Vulnhub Prime: 1 — A Local File Inclusion &lpar;LFI&rpar; Vulnerability](https://infosecwriteups.com/local-file-inclusion-vulnerability-9bdc382e389f?source=rss----7b722bfd1b8d---4)
+- [Flu Proving Grounds linux lab](https://infosecwriteups.com/flu-proving-grounds-linux-lab-9e2f2502bfcf?source=rss----7b722bfd1b8d---4)
+- [How Prompts Break Systems: A Practical Analysis of LLM Defense Architecture](https://infosecwriteups.com/how-prompts-break-systems-a-practical-analysis-of-llm-defense-architecture-deff67a81bd2?source=rss----7b722bfd1b8d---4)
 - [TryHackMe — Operation Endgame: Pwning an Active Directory Domain from Zero Credentials](https://infosecwriteups.com/tryhackme-operation-endgame-pwning-an-active-directory-domain-from-zero-credentials-8820e6279d95?source=rss----7b722bfd1b8d---4)
 - [CTI Research: MuddyWater/Seedworm &lpar;Mango Sandstorm&rpar;](https://infosecwriteups.com/cti-research-muddywater-seedworm-mango-sandstorm-ebf6af5ba061?source=rss----7b722bfd1b8d---4)
 - [A Business Logic Bug That Let Me Remove Platform Fees During Checkout](https://medium.com/@akashutosh659/a-business-logic-bug-that-let-me-remove-platform-fees-during-checkout-ac96b7eb7959?source=rss------bug_bounty_writeup-5)
@@ -931,14 +937,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Why I Hate Bugcrowd: When Fighting for a Valid Report Still Gets You Nowhere](https://medium.com/@aakashahmed.design/why-i-hate-bugcrowd-when-fighting-for-a-valid-report-still-gets-you-nowhere-7b1070c96d5e?source=rss------bug_bounty_writeup-5)
 - [My AI Agent Hunted APT29 under 60 Seconds. Here’s How I Built It.](https://infosecwriteups.com/my-ai-agent-hunted-apt29-under-60-seconds-heres-how-i-built-it-f98dfbdd115c?source=rss----7b722bfd1b8d---4)
 - [AI-Powered Malware Debugger That Explains Every Function It Sees](https://infosecwriteups.com/ai-powered-malware-debugger-that-explains-every-function-it-sees-2a28ef75df8a?source=rss----7b722bfd1b8d---4)
-- [How Threat Actors Accidentally Documented My Recon Strategy ️](https://infosecwriteups.com/how-threat-actors-accidentally-documented-my-recon-strategy-%EF%B8%8F-f28307135c04?source=rss----7b722bfd1b8d---4)
-- [Breaking and Reporting Bugs: The Story Behind My Comet and Black Hole Wins on YesWeHack](https://infosecwriteups.com/breaking-and-reporting-bugs-the-story-behind-my-comet-and-black-hole-wins-on-yeswehack-15d5f0d39d50?source=rss----7b722bfd1b8d---4)
-- [How I Recovered a Deleted Instagram Photo from Data Backup, deleted two years ago and Earned a $550…](https://infosecwriteups.com/instagram-photo-was-present-in-data-backup-nearly-after-two-years-being-deleted-f0e4d6e108?source=rss----7b722bfd1b8d---4)
-- [Exploiting Promo Code Flaw: Abusing Codes to Buy Items for Free](https://infosecwriteups.com/exploiting-promo-code-flaw-abusing-codes-to-buy-items-for-free-51c5d7390a33?source=rss----7b722bfd1b8d---4)
 - [The Deployment Door Nobody Checked: How a Logic Flaw Bypassed Cloud Authentication Entirely](https://medium.com/@R.H_Rizvi/the-deployment-door-nobody-checked-how-a-logic-flaw-bypassed-cloud-authentication-entirely-07a329aefed3?source=rss------bug_bounty_writeup-5)
 - [The Beginner’s Bug Bounty Trap: Why Learning More Is Making You Earn Less](https://medium.com/@R.H_Rizvi/the-beginners-bug-bounty-trap-why-learning-more-is-making-you-earn-less-0676f46adfb7?source=rss------bug_bounty_writeup-5)
-- [Google Paid Hackers $17 Million in 2025 — Here’s Why](https://infosecwriteups.com/google-paid-hackers-17-million-in-2025-heres-why-5f5fc65d827e?source=rss----7b722bfd1b8d---4)
-- [A Practical Web Pentesting CTF Challenge — Step-by-Step Walkthrough](https://infosecwriteups.com/a-practical-web-pentesting-ctf-challenge-step-by-step-walkthrough-2c2bc2d63ef7?source=rss----7b722bfd1b8d---4)
 - [Bugs Most Hunters Overlook — And Why They Matter](https://medium.com/@vedanthore/bugs-most-hunters-overlook-and-why-they-matter-3ee862e2c2e5?source=rss------bug_bounty_writeup-5)
 - [Learning Recon: A Look at Burgerprofiel](https://75uki.medium.com/learning-recon-a-look-at-burgerprofiel-38a3e406dc97?source=rss------bug_bounty_writeup-5)
 - [PortSwigger Is Amazing… But It Can Overwhelm Most Of Us](https://medium.com/h7w/portswigger-is-amazing-but-it-can-overwhelm-most-of-us-991227e8a4ce?source=rss------bug_bounty_writeup-5)
