@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [I Found a Backdoor That Could Log Into Any Account on a Major Web Platform](https://zoidsec.medium.com/i-found-a-backdoor-that-could-log-into-any-account-on-a-major-web-platform-6e00df505b56?source=rss------bug_bounty_writeup-5)
+- [OTP Bypass Part 2: Advanced Logic Flaws and Race Conditions](https://medium.com/@arrheniuspaelongan09/otp-bypass-part-2-advanced-logic-flaws-and-race-conditions-d30ba3b33f07?source=rss------bug_bounty_writeup-5)
 - [An Inspiring Write up from Proving grounds](https://infosecwriteups.com/an-inspiring-write-up-from-proving-grounds-99342df28758?source=rss----7b722bfd1b8d---4)
 - [Proving Grounds Linux Lab Hub &lpar; Road to OSCP &rpar;](https://infosecwriteups.com/proving-grounds-linux-lab-hub-road-to-oscp-e5d58a42530c?source=rss----7b722bfd1b8d---4)
 - [Case Study: The Uber Hack](https://infosecwriteups.com/case-study-the-uber-hack-d9453d275060?source=rss----7b722bfd1b8d---4)
@@ -940,8 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [The Deployment Door Nobody Checked: How a Logic Flaw Bypassed Cloud Authentication Entirely](https://medium.com/@R.H_Rizvi/the-deployment-door-nobody-checked-how-a-logic-flaw-bypassed-cloud-authentication-entirely-07a329aefed3?source=rss------bug_bounty_writeup-5)
 - [The Beginner’s Bug Bounty Trap: Why Learning More Is Making You Earn Less](https://medium.com/@R.H_Rizvi/the-beginners-bug-bounty-trap-why-learning-more-is-making-you-earn-less-0676f46adfb7?source=rss------bug_bounty_writeup-5)
 - [Bugs Most Hunters Overlook — And Why They Matter](https://medium.com/@vedanthore/bugs-most-hunters-overlook-and-why-they-matter-3ee862e2c2e5?source=rss------bug_bounty_writeup-5)
-- [Learning Recon: A Look at Burgerprofiel](https://75uki.medium.com/learning-recon-a-look-at-burgerprofiel-38a3e406dc97?source=rss------bug_bounty_writeup-5)
-- [PortSwigger Is Amazing… But It Can Overwhelm Most Of Us](https://medium.com/h7w/portswigger-is-amazing-but-it-can-overwhelm-most-of-us-991227e8a4ce?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
