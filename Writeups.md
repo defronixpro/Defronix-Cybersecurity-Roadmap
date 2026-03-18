@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Exposed AWS AppSync API Key](https://medium.com/@1sherlok/exposed-aws-appsync-api-key-dcd54ce50a5c?source=rss------bug_bounty_writeup-5)
 - [How a Small Auth0 Misconfig Can Bankrupt Your Business](https://medium.com/@theteatoast/how-a-small-auth0-misconfig-can-bankrupt-your-business-221cb7640a17?source=rss------bug_bounty_writeup-5)
 - [How I Found a Critical Authentication Bypass in a Lightning Network SDK &lpar;CVSS 9.8&rpar;](https://infosecwriteups.com/how-i-found-a-critical-authentication-bypass-in-a-lightning-network-sdk-cvss-9-8-79f76eda1d84?source=rss----7b722bfd1b8d---4)
 - [How I Discovered a Complete CSRF Protection Bypass on a Major Crypto Exchange And What Happened…](https://infosecwriteups.com/how-i-discovered-a-complete-csrf-protection-bypass-on-a-major-crypto-exchange-and-what-happened-10c7fc794324?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [A Business Logic Bug That Let Me Remove Platform Fees During Checkout](https://medium.com/@akashutosh659/a-business-logic-bug-that-let-me-remove-platform-fees-during-checkout-ac96b7eb7959?source=rss------bug_bounty_writeup-5)
 - [Everyone Is Using AI for Bug Bounty in 2026. Almost Nobody Is Using It Correctly.](https://medium.com/@R.H_Rizvi/everyone-is-using-ai-for-bug-bounty-in-2026-almost-nobody-is-using-it-correctly-fe7e3356010e?source=rss------bug_bounty_writeup-5)
 - [The Fresher’s Trap: Why the Most Prepared Beginners Are the Last Ones to Get Paid](https://medium.com/@R.H_Rizvi/the-freshers-trap-why-the-most-prepared-beginners-are-the-last-ones-to-get-paid-a69b11c5d9b7?source=rss------bug_bounty_writeup-5)
-- [How I Discovered a $700 CSRF Vulnerability and Recreated It as a Security Lab](https://medium.com/@C0deRevenant/how-i-discovered-a-700-csrf-vulnerability-and-recreated-it-as-a-security-lab-7a2e0a80eb92?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
