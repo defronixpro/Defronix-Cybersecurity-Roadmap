@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Escaping the Sandbox: How a Simple Python Path Flaw Led to Host RCE](https://infosecwriteups.com/escaping-the-sandbox-how-a-simple-python-path-flaw-led-to-host-rce-817d39c95f86?source=rss----7b722bfd1b8d---4)
 - [My Complete Bug Bounty Hunting Workflow Every Command I Use, Step by Step](https://infosecwriteups.com/my-complete-bug-bounty-hunting-workflow-every-command-i-use-step-by-step-68484276471f?source=rss----7b722bfd1b8d---4)
 - [OffSec Proving Grounds — Potato](https://infosecwriteups.com/offsec-proving-grounds-potato-b080d38b4bed?source=rss----7b722bfd1b8d---4)
 - [WiFi Pentesting Series— Breaking WEP](https://infosecwriteups.com/wifi-pentesting-series-breaking-wep-dd1597db2e5e?source=rss----7b722bfd1b8d---4)
@@ -13,7 +14,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How a Small Auth0 Misconfig Can Bankrupt Your Business](https://medium.com/@theteatoast/how-a-small-auth0-misconfig-can-bankrupt-your-business-221cb7640a17?source=rss------bug_bounty_writeup-5)
 - [How I Found a Critical Authentication Bypass in a Lightning Network SDK &lpar;CVSS 9.8&rpar;](https://infosecwriteups.com/how-i-found-a-critical-authentication-bypass-in-a-lightning-network-sdk-cvss-9-8-79f76eda1d84?source=rss----7b722bfd1b8d---4)
 - [How I Discovered a Complete CSRF Protection Bypass on a Major Crypto Exchange And What Happened…](https://infosecwriteups.com/how-i-discovered-a-complete-csrf-protection-bypass-on-a-major-crypto-exchange-and-what-happened-10c7fc794324?source=rss----7b722bfd1b8d---4)
-- [The Dark Web: What Really Exists Beyond Google](https://infosecwriteups.com/the-dark-web-what-really-exists-beyond-google-00d2315134be?source=rss----7b722bfd1b8d---4)
 - [When SQL Injection Hides Behind Encoding — A Blind SQLi That Automation Missed](https://medium.com/@Xp10it/when-sql-injection-hides-behind-encoding-a-blind-sqli-that-automation-missed-2b74f9bb64e7?source=rss------bug_bounty_writeup-5)
 - [300$ Email Html Injection!](https://medium.com/@AliMojaver/300-email-html-injection-48dfc53e6d59?source=rss------bug_bounty_writeup-5)
 - [Viewer-to-Member Privilege Escalation Through Server-Side Authorization Bypass.](https://medium.com/@felofady90/viewer-to-member-privilege-escalation-through-server-side-authorization-bypass-fdbcc5b3fa46?source=rss------bug_bounty_writeup-5)
