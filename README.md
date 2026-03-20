@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Roadmap to Cybersecurity for Beginners](https://medium.com/@sredivyaa/roadmap-to-cybersecurity-for-beginners-2fd4be01a2a6?source=rss------bug_bounty_writeup-5)
 - [Automation Bug Bounty: From Recon to Real Bugs Using Powerful Tools &amp; Smart Workflows](https://meetcyber.net/automation-bug-bounty-from-recon-to-real-bugs-using-powerful-tools-smart-workflows-ad6913949125?source=rss------bug_bounty_writeup-5)
 - [TraceBack Box Writeup From HTB DOT EU](https://infosecwriteups.com/traceback-box-writeup-from-htb-dot-eu-641e68a547c7?source=rss----7b722bfd1b8d---4)
 - [How to Write a Vulnerability Report That Gets Paid -Not Rejected](https://infosecwriteups.com/how-to-write-a-vulnerability-report-that-gets-paid-not-rejected-77c2351134fa?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [300$ Email Html Injection!](https://medium.com/@AliMojaver/300-email-html-injection-48dfc53e6d59?source=rss------bug_bounty_writeup-5)
 - [Viewer-to-Member Privilege Escalation Through Server-Side Authorization Bypass.](https://medium.com/@felofady90/viewer-to-member-privilege-escalation-through-server-side-authorization-bypass-fdbcc5b3fa46?source=rss------bug_bounty_writeup-5)
 - [I Found a Backdoor That Could Log Into Any Account on a Major Web Platform](https://zoidsec.medium.com/i-found-a-backdoor-that-could-log-into-any-account-on-a-major-web-platform-6e00df505b56?source=rss------bug_bounty_writeup-5)
-- [OTP Bypass Part 2: Advanced Logic Flaws and Race Conditions](https://medium.com/@arrheniuspaelongan09/otp-bypass-part-2-advanced-logic-flaws-and-race-conditions-d30ba3b33f07?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
