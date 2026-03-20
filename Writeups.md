@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Breaking the Checkout: Price Manipulation](https://scriptjacker.medium.com/breaking-the-checkout-price-manipulation-a0779eee3af4?source=rss------bug_bounty_writeup-5)
 - [Roadmap to Cybersecurity for Beginners](https://medium.com/@sredivyaa/roadmap-to-cybersecurity-for-beginners-2fd4be01a2a6?source=rss------bug_bounty_writeup-5)
 - [Automation Bug Bounty: From Recon to Real Bugs Using Powerful Tools &amp; Smart Workflows](https://meetcyber.net/automation-bug-bounty-from-recon-to-real-bugs-using-powerful-tools-smart-workflows-ad6913949125?source=rss------bug_bounty_writeup-5)
 - [TraceBack Box Writeup From HTB DOT EU](https://infosecwriteups.com/traceback-box-writeup-from-htb-dot-eu-641e68a547c7?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [When SQL Injection Hides Behind Encoding — A Blind SQLi That Automation Missed](https://medium.com/@Xp10it/when-sql-injection-hides-behind-encoding-a-blind-sqli-that-automation-missed-2b74f9bb64e7?source=rss------bug_bounty_writeup-5)
 - [300$ Email Html Injection!](https://medium.com/@AliMojaver/300-email-html-injection-48dfc53e6d59?source=rss------bug_bounty_writeup-5)
 - [Viewer-to-Member Privilege Escalation Through Server-Side Authorization Bypass.](https://medium.com/@felofady90/viewer-to-member-privilege-escalation-through-server-side-authorization-bypass-fdbcc5b3fa46?source=rss------bug_bounty_writeup-5)
-- [I Found a Backdoor That Could Log Into Any Account on a Major Web Platform](https://zoidsec.medium.com/i-found-a-backdoor-that-could-log-into-any-account-on-a-major-web-platform-6e00df505b56?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
