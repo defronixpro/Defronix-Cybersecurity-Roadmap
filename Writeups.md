@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Stored DOM XSS to Account Takeover](https://medium.com/@0xRedFox29/stored-dom-xss-to-account-takeover-268ef3869da0?source=rss------bug_bounty_writeup-5)
 - [Breaking the Wall: A Deep Dive Into WAF Detection and Bypass Techniques](https://medium.com/@dufferhackers/breaking-the-wall-a-deep-dive-into-waf-detection-and-bypass-techniques-e880be92d0c0?source=rss------bug_bounty_writeup-5)
 - [Unauthenticated to Full DB Dump: FreePBX tizimidagi CVE-2025–57819 zaifligi real caseda](https://medium.com/@azizbekdeveloper707/unauthenticated-to-full-db-dump-freepbx-tizimidagi-cve-2025-57819-zaifligi-real-caseda-f578ad195f1e?source=rss------bug_bounty_writeup-5)
 - [Breaking the Checkout: Price Manipulation](https://scriptjacker.medium.com/breaking-the-checkout-price-manipulation-a0779eee3af4?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [SSRF via Unvalidated Preflight Location Header in Turborepo Leads to Auth Token Theft](https://medium.com/@0xanubiis/ssrf-via-unvalidated-preflight-location-header-in-turborepo-leads-to-auth-token-theft-dc69445daee0?source=rss------bug_bounty_writeup-5)
 - [Exposed AWS AppSync API Key](https://medium.com/@1sherlok/exposed-aws-appsync-api-key-dcd54ce50a5c?source=rss------bug_bounty_writeup-5)
 - [How a Small Auth0 Misconfig Can Bankrupt Your Business](https://medium.com/@theteatoast/how-a-small-auth0-misconfig-can-bankrupt-your-business-221cb7640a17?source=rss------bug_bounty_writeup-5)
-- [When SQL Injection Hides Behind Encoding — A Blind SQLi That Automation Missed](https://medium.com/@Xp10it/when-sql-injection-hides-behind-encoding-a-blind-sqli-that-automation-missed-2b74f9bb64e7?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
