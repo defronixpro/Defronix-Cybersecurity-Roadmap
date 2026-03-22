@@ -1,6 +1,10 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Infrastructure Pivoting: How CTI Analysts Expand From a Single IOC to a Full Attacker Network](https://infosecwriteups.com/infrastructure-pivoting-how-cti-analysts-expand-from-a-single-ioc-to-a-full-attacker-network-1295d50ec29c?source=rss----7b722bfd1b8d---4)
+- [Ploutus Malware: Uptick in ATM jackpotting incidents prompts FBI warning](https://infosecwriteups.com/ploutus-malware-uptick-in-atm-jackpotting-incidents-prompts-fbi-warning-554a944847b6?source=rss----7b722bfd1b8d---4)
+- [How I Found a Hardcoded RSA Private Key in a Major Crypto Exchange’s Frontend](https://infosecwriteups.com/how-i-found-a-hardcoded-rsa-private-key-in-a-major-crypto-exchanges-frontend-dd27b6a78fb2?source=rss----7b722bfd1b8d---4)
+- [Found a Denial of Service Vulnerability in a Major Company’s Production Infrastructure Using Shodan](https://infosecwriteups.com/found-a-denial-of-service-vulnerability-in-a-major-companys-production-infrastructure-using-shodan-e5f766a4df79?source=rss----7b722bfd1b8d---4)
 - [How I Find the Real IP Behind Cloudflare &lpar;When It’s Not Supposed to Be Visible&rpar;](https://medium.com/@dufferhackers/how-i-find-the-real-ip-behind-cloudflare-when-its-not-supposed-to-be-visible-cd48e2ce5e62?source=rss------bug_bounty_writeup-5)
 - [Where are the robots — robots.txt Enumeration](https://medium.com/@recoxy/where-are-the-robots-robots-txt-enumeration-e824ac8d95d0?source=rss------bug_bounty_writeup-5)
 - [Stored DOM XSS to Account Takeover](https://medium.com/@0xRedFox29/stored-dom-xss-to-account-takeover-268ef3869da0?source=rss------bug_bounty_writeup-5)
@@ -15,10 +19,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How I Found a $1,000 Signature Replay Vulnerability in a Blockchain Bridge SDK](https://infosecwriteups.com/how-i-found-a-1-000-signature-replay-vulnerability-in-a-blockchain-bridge-sdk-61cdf25c901c?source=rss----7b722bfd1b8d---4)
 - [The Art of Self-Healing Code: Malware that fixes itself](https://infosecwriteups.com/the-art-of-self-healing-code-malware-that-fixes-itself-f42dccd8bbc6?source=rss----7b722bfd1b8d---4)
 - [Hunting in the Dark Forest: How I Uncovered a Private $25M Simulation Fork via an RPC…](https://infosecwriteups.com/hunting-in-the-dark-forest-how-i-uncovered-a-private-25m-simulation-fork-via-an-rpc-4b4193f90ac5?source=rss----7b722bfd1b8d---4)
-- [How to Set Up a Bug Bounty Recon Automation with Python &amp; Nuclei](https://infosecwriteups.com/how-to-set-up-a-bug-bounty-recon-automation-with-python-nuclei-5d120ee608b3?source=rss----7b722bfd1b8d---4)
-- [Ghost Tom Box on TryHackMe.com](https://infosecwriteups.com/ghost-tom-box-on-tryhackme-com-b8683e1db32a?source=rss----7b722bfd1b8d---4)
-- [Source THM Box Writeup](https://infosecwriteups.com/source-thm-box-writeup-7b54454d8365?source=rss----7b722bfd1b8d---4)
-- [NTLM Is Dead. Your Password Hash Isn’t: Abusing SamrSetInformationUser in Active Directory](https://infosecwriteups.com/ntlm-is-dead-your-password-hash-isnt-abusing-samrsetinformationuser-in-active-directory-8de03eea29cf?source=rss----7b722bfd1b8d---4)
 - [Remember Me. Forget MFA](https://medium.com/@oksuzkayra16/remember-me-forget-mfa-84419f18b46f?source=rss------bug_bounty_writeup-5)
 - [SSRF via Unvalidated Preflight Location Header in Turborepo Leads to Auth Token Theft](https://medium.com/@0xanubiis/ssrf-via-unvalidated-preflight-location-header-in-turborepo-leads-to-auth-token-theft-dc69445daee0?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
