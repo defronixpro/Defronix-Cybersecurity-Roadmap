@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How I Accidentally Found an Integer Overflow in wolfSSL While Building a Cert Chain &lpar;CVE-2026–3229&rpar;](https://medium.com/@FufuFaf1/how-i-accidentally-found-an-integer-overflow-in-wolfssl-while-building-a-cert-chain-cve-2026-3229-b9fe453682a9?source=rss------bug_bounty_writeup-5)
 - [Exposed Endpoints Lead To Leak PII](https://medium.com/@1sherlok/exposed-endpoints-lead-to-leak-pii-96a581c37081?source=rss------bug_bounty_writeup-5)
 - [Infrastructure Pivoting: How CTI Analysts Expand From a Single IOC to a Full Attacker Network](https://infosecwriteups.com/infrastructure-pivoting-how-cti-analysts-expand-from-a-single-ioc-to-a-full-attacker-network-1295d50ec29c?source=rss----7b722bfd1b8d---4)
 - [Ploutus Malware: Uptick in ATM jackpotting incidents prompts FBI warning](https://infosecwriteups.com/ploutus-malware-uptick-in-atm-jackpotting-incidents-prompts-fbi-warning-554a944847b6?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How I Found a $1,000 Signature Replay Vulnerability in a Blockchain Bridge SDK](https://infosecwriteups.com/how-i-found-a-1-000-signature-replay-vulnerability-in-a-blockchain-bridge-sdk-61cdf25c901c?source=rss----7b722bfd1b8d---4)
 - [The Art of Self-Healing Code: Malware that fixes itself](https://infosecwriteups.com/the-art-of-self-healing-code-malware-that-fixes-itself-f42dccd8bbc6?source=rss----7b722bfd1b8d---4)
 - [Hunting in the Dark Forest: How I Uncovered a Private $25M Simulation Fork via an RPC…](https://infosecwriteups.com/hunting-in-the-dark-forest-how-i-uncovered-a-private-25m-simulation-fork-via-an-rpc-4b4193f90ac5?source=rss----7b722bfd1b8d---4)
-- [Remember Me. Forget MFA](https://medium.com/@oksuzkayra16/remember-me-forget-mfa-84419f18b46f?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
