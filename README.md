@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [I Thought It Was a Container… It Was a Whole Azure VM &lpar;RCE Story&rpar;](https://medium.com/@drizzlehx/i-thought-it-was-a-container-it-was-a-whole-azure-vm-rce-story-7d99d30d5a4a?source=rss------bug_bounty_writeup-5)
 - [How I Found a Critical Account Takeover Vulnerability in a Password Reset Flow](https://medium.com/@ferdusalam0/how-i-found-a-critical-account-takeover-vulnerability-in-a-password-reset-flow-a48d7079fdd7?source=rss------bug_bounty_writeup-5)
 - [Admin Panel Bypass via Unverified Email](https://medium.com/@rahimasec/admin-panel-bypass-via-unverified-email-2a50b262d48f?source=rss------bug_bounty_writeup-5)
 - [192.168.1.1 Walks Into Every House on the Street](https://infosecwriteups.com/192-168-1-1-walks-into-every-house-on-the-street-169e6e4d95d5?source=rss----7b722bfd1b8d---4)
@@ -939,8 +940,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Found a Denial of Service Vulnerability in a Major Company’s Production Infrastructure Using Shodan](https://infosecwriteups.com/found-a-denial-of-service-vulnerability-in-a-major-companys-production-infrastructure-using-shodan-e5f766a4df79?source=rss----7b722bfd1b8d---4)
 - [How I Find the Real IP Behind Cloudflare &lpar;When It’s Not Supposed to Be Visible&rpar;](https://medium.com/@dufferhackers/how-i-find-the-real-ip-behind-cloudflare-when-its-not-supposed-to-be-visible-cd48e2ce5e62?source=rss------bug_bounty_writeup-5)
 - [Where are the robots — robots.txt Enumeration](https://medium.com/@recoxy/where-are-the-robots-robots-txt-enumeration-e824ac8d95d0?source=rss------bug_bounty_writeup-5)
-- [Stored DOM XSS to Account Takeover](https://medium.com/@0xRedFox29/stored-dom-xss-to-account-takeover-268ef3869da0?source=rss------bug_bounty_writeup-5)
-- [Breaking the Wall: A Deep Dive Into WAF Detection and Bypass Techniques](https://medium.com/@dufferhackers/breaking-the-wall-a-deep-dive-into-waf-detection-and-bypass-techniques-e880be92d0c0?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
