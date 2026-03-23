@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Admin Panel Bypass via Unverified Email](https://medium.com/@rahimasec/admin-panel-bypass-via-unverified-email-2a50b262d48f?source=rss------bug_bounty_writeup-5)
 - [192.168.1.1 Walks Into Every House on the Street](https://infosecwriteups.com/192-168-1-1-walks-into-every-house-on-the-street-169e6e4d95d5?source=rss----7b722bfd1b8d---4)
 - [[13 Cubed] Trouble at ACME Challenge — Investigating Windows Endpoint](https://infosecwriteups.com/13-cubed-trouble-at-acme-challenge-investigating-windows-endpoint-9cada1bcd47b?source=rss----7b722bfd1b8d---4)
 - [Insecure Output Handling: Exploiting XSS in LLM Applications &lpar;Part 1&rpar;](https://infosecwriteups.com/insecure-output-handling-exploiting-xss-in-llm-applications-part-1-ad8b992f7e42?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Breaking the Wall: A Deep Dive Into WAF Detection and Bypass Techniques](https://medium.com/@dufferhackers/breaking-the-wall-a-deep-dive-into-waf-detection-and-bypass-techniques-e880be92d0c0?source=rss------bug_bounty_writeup-5)
 - [Unauthenticated to Full DB Dump: FreePBX tizimidagi CVE-2025–57819 zaifligi real caseda](https://medium.com/@azizbekdeveloper707/unauthenticated-to-full-db-dump-freepbx-tizimidagi-cve-2025-57819-zaifligi-real-caseda-f578ad195f1e?source=rss------bug_bounty_writeup-5)
 - [Breaking the Checkout: Price Manipulation](https://scriptjacker.medium.com/breaking-the-checkout-price-manipulation-a0779eee3af4?source=rss------bug_bounty_writeup-5)
-- [Roadmap to Cybersecurity for Beginners](https://medium.com/@sredivyaa/roadmap-to-cybersecurity-for-beginners-2fd4be01a2a6?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
