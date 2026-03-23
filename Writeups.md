@@ -19,8 +19,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How I Find the Real IP Behind Cloudflare &lpar;When It’s Not Supposed to Be Visible&rpar;](https://medium.com/@dufferhackers/how-i-find-the-real-ip-behind-cloudflare-when-its-not-supposed-to-be-visible-cd48e2ce5e62?source=rss------bug_bounty_writeup-5)
 - [Where are the robots — robots.txt Enumeration](https://medium.com/@recoxy/where-are-the-robots-robots-txt-enumeration-e824ac8d95d0?source=rss------bug_bounty_writeup-5)
 - [Stored DOM XSS to Account Takeover](https://medium.com/@0xRedFox29/stored-dom-xss-to-account-takeover-268ef3869da0?source=rss------bug_bounty_writeup-5)
-- [Breaking the Wall: A Deep Dive Into WAF Detection and Bypass Techniques](https://medium.com/@dufferhackers/breaking-the-wall-a-deep-dive-into-waf-detection-and-bypass-techniques-e880be92d0c0?source=rss------bug_bounty_writeup-5)
-- [Unauthenticated to Full DB Dump: FreePBX tizimidagi CVE-2025–57819 zaifligi real caseda](https://medium.com/@azizbekdeveloper707/unauthenticated-to-full-db-dump-freepbx-tizimidagi-cve-2025-57819-zaifligi-real-caseda-f578ad195f1e?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
