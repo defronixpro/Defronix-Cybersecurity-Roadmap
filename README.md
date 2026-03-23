@@ -922,6 +922,11 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Insecure Output Handling: Exploiting XSS in LLM Applications &lpar;Part 1&rpar;](https://infosecwriteups.com/insecure-output-handling-exploiting-xss-in-llm-applications-part-1-ad8b992f7e42?source=rss----7b722bfd1b8d---4)
+- [Jordak Linux Lab Proving Grounds](https://infosecwriteups.com/jordak-linux-lab-proving-grounds-d07b6c12900a?source=rss----7b722bfd1b8d---4)
+- [Understanding the insecure deserialization vulnerability](https://infosecwriteups.com/understanding-the-insecure-deserialization-vulnerability-9e95f3d7723a?source=rss----7b722bfd1b8d---4)
+- [Shellcode Analysis: Egg Hunters, Encoders, and Polymorphism](https://infosecwriteups.com/shellcode-analysis-egg-hunters-encoders-and-polymorphism-e0cbb76c5871?source=rss----7b722bfd1b8d---4)
+- [From iframe Injection to Account Takeover &lpar;Full Exploit Chain&rpar;](https://medium.com/@0xRedFox29/from-iframe-injection-to-account-takeover-full-exploit-chain-424db44a1167?source=rss------bug_bounty_writeup-5)
 - [How I Accidentally Found an Integer Overflow in wolfSSL While Building a Cert Chain &lpar;CVE-2026–3229&rpar;](https://medium.com/@FufuFaf1/how-i-accidentally-found-an-integer-overflow-in-wolfssl-while-building-a-cert-chain-cve-2026-3229-b9fe453682a9?source=rss------bug_bounty_writeup-5)
 - [Exposed Endpoints Lead To Leak PII](https://medium.com/@1sherlok/exposed-endpoints-lead-to-leak-pii-96a581c37081?source=rss------bug_bounty_writeup-5)
 - [Infrastructure Pivoting: How CTI Analysts Expand From a Single IOC to a Full Attacker Network](https://infosecwriteups.com/infrastructure-pivoting-how-cti-analysts-expand-from-a-single-ioc-to-a-full-attacker-network-1295d50ec29c?source=rss----7b722bfd1b8d---4)
@@ -935,13 +940,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Unauthenticated to Full DB Dump: FreePBX tizimidagi CVE-2025–57819 zaifligi real caseda](https://medium.com/@azizbekdeveloper707/unauthenticated-to-full-db-dump-freepbx-tizimidagi-cve-2025-57819-zaifligi-real-caseda-f578ad195f1e?source=rss------bug_bounty_writeup-5)
 - [Breaking the Checkout: Price Manipulation](https://scriptjacker.medium.com/breaking-the-checkout-price-manipulation-a0779eee3af4?source=rss------bug_bounty_writeup-5)
 - [Roadmap to Cybersecurity for Beginners](https://medium.com/@sredivyaa/roadmap-to-cybersecurity-for-beginners-2fd4be01a2a6?source=rss------bug_bounty_writeup-5)
-- [Automation Bug Bounty: From Recon to Real Bugs Using Powerful Tools &amp; Smart Workflows](https://meetcyber.net/automation-bug-bounty-from-recon-to-real-bugs-using-powerful-tools-smart-workflows-ad6913949125?source=rss------bug_bounty_writeup-5)
 - [TraceBack Box Writeup From HTB DOT EU](https://infosecwriteups.com/traceback-box-writeup-from-htb-dot-eu-641e68a547c7?source=rss----7b722bfd1b8d---4)
 - [How to Write a Vulnerability Report That Gets Paid -Not Rejected](https://infosecwriteups.com/how-to-write-a-vulnerability-report-that-gets-paid-not-rejected-77c2351134fa?source=rss----7b722bfd1b8d---4)
-- [ATT&amp;CK as a Working Tool: Theory and Hands-On Practical Usage](https://infosecwriteups.com/att-ck-as-a-working-tool-theory-and-hands-on-practical-usage-d63835c9f101?source=rss----7b722bfd1b8d---4)
-- [How I Found a $1,000 Signature Replay Vulnerability in a Blockchain Bridge SDK](https://infosecwriteups.com/how-i-found-a-1-000-signature-replay-vulnerability-in-a-blockchain-bridge-sdk-61cdf25c901c?source=rss----7b722bfd1b8d---4)
-- [The Art of Self-Healing Code: Malware that fixes itself](https://infosecwriteups.com/the-art-of-self-healing-code-malware-that-fixes-itself-f42dccd8bbc6?source=rss----7b722bfd1b8d---4)
-- [Hunting in the Dark Forest: How I Uncovered a Private $25M Simulation Fork via an RPC…](https://infosecwriteups.com/hunting-in-the-dark-forest-how-i-uncovered-a-private-25m-simulation-fork-via-an-rpc-4b4193f90ac5?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
