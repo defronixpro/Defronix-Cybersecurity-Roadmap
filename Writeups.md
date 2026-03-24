@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How I Made Over $72,000 From a Single Private Bug Bounty Program Without Chasing Hundreds of…](https://medium.com/@ferdusalam0/how-i-made-over-72-000-from-a-single-private-bug-bounty-program-without-chasing-hundreds-of-ce014773522c?source=rss------bug_bounty_writeup-5)
 - [Privilege Escalation: How Broken Access Control Led to Full Account Takeover](https://infosecwriteups.com/privilege-escalation-how-broken-access-control-led-to-full-account-takeover-c7b42bb9f47b?source=rss----7b722bfd1b8d---4)
 - [GCP Penetration Testing: A Step-by-Step Attack Guide](https://infosecwriteups.com/gcp-penetration-testing-a-step-by-step-attack-guide-9e39bc3eb96d?source=rss----7b722bfd1b8d---4)
 - [Misconfigured SSO Led to a Critical Issue](https://infosecwriteups.com/misconfigured-sso-led-to-a-critical-issue-81c4c11d1a48?source=rss----7b722bfd1b8d---4)
@@ -18,7 +19,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Shellcode Analysis: Egg Hunters, Encoders, and Polymorphism](https://infosecwriteups.com/shellcode-analysis-egg-hunters-encoders-and-polymorphism-e0cbb76c5871?source=rss----7b722bfd1b8d---4)
 - [From iframe Injection to Account Takeover &lpar;Full Exploit Chain&rpar;](https://medium.com/@0xRedFox29/from-iframe-injection-to-account-takeover-full-exploit-chain-424db44a1167?source=rss------bug_bounty_writeup-5)
 - [How I Accidentally Found an Integer Overflow in wolfSSL While Building a Cert Chain &lpar;CVE-2026–3229&rpar;](https://medium.com/@FufuFaf1/how-i-accidentally-found-an-integer-overflow-in-wolfssl-while-building-a-cert-chain-cve-2026-3229-b9fe453682a9?source=rss------bug_bounty_writeup-5)
-- [Exposed Endpoints Lead To Leak PII](https://medium.com/@1sherlok/exposed-endpoints-lead-to-leak-pii-96a581c37081?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
