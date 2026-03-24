@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [From Stored XSS to Cookie Tossing into Credit Card Theft](https://medium.com/@YourFinalSin/from-stored-xss-to-cookie-tossing-into-credit-card-theft-396b59b49326?source=rss------bug_bounty_writeup-5)
 - [I Thought It Was a Container… It Was a Whole Azure VM &lpar;RCE Story&rpar;](https://medium.com/@drizzlehx/i-thought-it-was-a-container-it-was-a-whole-azure-vm-rce-story-7d99d30d5a4a?source=rss------bug_bounty_writeup-5)
 - [How I Found a Critical Account Takeover Vulnerability in a Password Reset Flow](https://medium.com/@ferdusalam0/how-i-found-a-critical-account-takeover-vulnerability-in-a-password-reset-flow-a48d7079fdd7?source=rss------bug_bounty_writeup-5)
 - [Admin Panel Bypass via Unverified Email](https://medium.com/@rahimasec/admin-panel-bypass-via-unverified-email-2a50b262d48f?source=rss------bug_bounty_writeup-5)
@@ -18,7 +19,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How I Found a Hardcoded RSA Private Key in a Major Crypto Exchange’s Frontend](https://infosecwriteups.com/how-i-found-a-hardcoded-rsa-private-key-in-a-major-crypto-exchanges-frontend-dd27b6a78fb2?source=rss----7b722bfd1b8d---4)
 - [Found a Denial of Service Vulnerability in a Major Company’s Production Infrastructure Using Shodan](https://infosecwriteups.com/found-a-denial-of-service-vulnerability-in-a-major-companys-production-infrastructure-using-shodan-e5f766a4df79?source=rss----7b722bfd1b8d---4)
 - [How I Find the Real IP Behind Cloudflare &lpar;When It’s Not Supposed to Be Visible&rpar;](https://medium.com/@dufferhackers/how-i-find-the-real-ip-behind-cloudflare-when-its-not-supposed-to-be-visible-cd48e2ce5e62?source=rss------bug_bounty_writeup-5)
-- [Where are the robots — robots.txt Enumeration](https://medium.com/@recoxy/where-are-the-robots-robots-txt-enumeration-e824ac8d95d0?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
