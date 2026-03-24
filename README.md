@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [From IDOR to Admin Takeover: How I Accidentally Walked Into an ATO](https://medium.com/@wanqais007/from-idor-to-admin-takeover-how-i-accidentally-walked-into-an-ato-8ec9f7b034c8?source=rss------bug_bounty_writeup-5)
 - [How I Made Over $72,000 From a Single Private Bug Bounty Program Without Chasing Hundreds of…](https://medium.com/@ferdusalam0/how-i-made-over-72-000-from-a-single-private-bug-bounty-program-without-chasing-hundreds-of-ce014773522c?source=rss------bug_bounty_writeup-5)
 - [Privilege Escalation: How Broken Access Control Led to Full Account Takeover](https://infosecwriteups.com/privilege-escalation-how-broken-access-control-led-to-full-account-takeover-c7b42bb9f47b?source=rss----7b722bfd1b8d---4)
 - [GCP Penetration Testing: A Step-by-Step Attack Guide](https://infosecwriteups.com/gcp-penetration-testing-a-step-by-step-attack-guide-9e39bc3eb96d?source=rss----7b722bfd1b8d---4)
@@ -939,7 +940,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Understanding the insecure deserialization vulnerability](https://infosecwriteups.com/understanding-the-insecure-deserialization-vulnerability-9e95f3d7723a?source=rss----7b722bfd1b8d---4)
 - [Shellcode Analysis: Egg Hunters, Encoders, and Polymorphism](https://infosecwriteups.com/shellcode-analysis-egg-hunters-encoders-and-polymorphism-e0cbb76c5871?source=rss----7b722bfd1b8d---4)
 - [From iframe Injection to Account Takeover &lpar;Full Exploit Chain&rpar;](https://medium.com/@0xRedFox29/from-iframe-injection-to-account-takeover-full-exploit-chain-424db44a1167?source=rss------bug_bounty_writeup-5)
-- [How I Accidentally Found an Integer Overflow in wolfSSL While Building a Cert Chain &lpar;CVE-2026–3229&rpar;](https://medium.com/@FufuFaf1/how-i-accidentally-found-an-integer-overflow-in-wolfssl-while-building-a-cert-chain-cve-2026-3229-b9fe453682a9?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
