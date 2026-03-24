@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Misconfigured SSO Led to a Critical Issue](https://infosecwriteups.com/misconfigured-sso-led-to-a-critical-issue-81c4c11d1a48?source=rss----7b722bfd1b8d---4)
+- [Insecure Output Handling: SQL Injection Through LLM Output &lpar;Part 2&rpar;](https://infosecwriteups.com/insecure-output-handling-sql-injection-through-llm-output-part-2-1cb4f931c31a?source=rss----7b722bfd1b8d---4)
 - [The Intern’s Laptop That Exposed an Entire Engineering Team](https://medium.com/@contact_56467/the-interns-laptop-that-exposed-an-entire-engineering-team-9d8d97bb3b10?source=rss------bug_bounty_writeup-5)
 - [From Stored XSS to Cookie Tossing into Credit Card Theft](https://medium.com/@YourFinalSin/from-stored-xss-to-cookie-tossing-into-credit-card-theft-396b59b49326?source=rss------bug_bounty_writeup-5)
 - [I Thought It Was a Container… It Was a Whole Azure VM &lpar;RCE Story&rpar;](https://medium.com/@drizzlehx/i-thought-it-was-a-container-it-was-a-whole-azure-vm-rce-story-7d99d30d5a4a?source=rss------bug_bounty_writeup-5)
@@ -938,8 +940,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Exposed Endpoints Lead To Leak PII](https://medium.com/@1sherlok/exposed-endpoints-lead-to-leak-pii-96a581c37081?source=rss------bug_bounty_writeup-5)
 - [Infrastructure Pivoting: How CTI Analysts Expand From a Single IOC to a Full Attacker Network](https://infosecwriteups.com/infrastructure-pivoting-how-cti-analysts-expand-from-a-single-ioc-to-a-full-attacker-network-1295d50ec29c?source=rss----7b722bfd1b8d---4)
 - [Ploutus Malware: Uptick in ATM jackpotting incidents prompts FBI warning](https://infosecwriteups.com/ploutus-malware-uptick-in-atm-jackpotting-incidents-prompts-fbi-warning-554a944847b6?source=rss----7b722bfd1b8d---4)
-- [How I Found a Hardcoded RSA Private Key in a Major Crypto Exchange’s Frontend](https://infosecwriteups.com/how-i-found-a-hardcoded-rsa-private-key-in-a-major-crypto-exchanges-frontend-dd27b6a78fb2?source=rss----7b722bfd1b8d---4)
-- [Found a Denial of Service Vulnerability in a Major Company’s Production Infrastructure Using Shodan](https://infosecwriteups.com/found-a-denial-of-service-vulnerability-in-a-major-companys-production-infrastructure-using-shodan-e5f766a4df79?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
