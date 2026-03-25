@@ -922,6 +922,10 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [I Followed the Data Trail — It Led Straight to a Production Server](https://infosecwriteups.com/i-followed-the-data-trail-it-led-straight-to-a-production-server-a4ee78a160c0?source=rss----7b722bfd1b8d---4)
+- [FunboxRookie — Anonymous FTP, Zip-Cracked SSH Keys, and a Password Hidden in MySQL History | OffSec…](https://infosecwriteups.com/funboxrookie-anonymous-ftp-zip-cracked-ssh-keys-and-a-password-hidden-in-mysql-history-offsec-4df4fedb3473?source=rss----7b722bfd1b8d---4)
+- [CVSS v4.0: The Practical Field Guide for Vulnerability Management](https://infosecwriteups.com/cvss-v4-0-the-practical-field-guide-for-vulnerability-management-5b5a59728456?source=rss----7b722bfd1b8d---4)
+- [Privilege Persistence via Reusable Role-Change Request Leads to Full Store Takeover](https://medium.com/@Dr_Robik/privilege-persistence-via-reusable-role-change-request-leads-to-full-store-takeover-c3c2e1b38b0e?source=rss------bug_bounty_writeup-5)
 - [From IDOR to Admin Takeover: How I Accidentally Walked Into an ATO](https://medium.com/@wanqais007/from-idor-to-admin-takeover-how-i-accidentally-walked-into-an-ato-8ec9f7b034c8?source=rss------bug_bounty_writeup-5)
 - [How I Made Over $72,000 From a Single Private Bug Bounty Program Without Chasing Hundreds of…](https://medium.com/@ferdusalam0/how-i-made-over-72-000-from-a-single-private-bug-bounty-program-without-chasing-hundreds-of-ce014773522c?source=rss------bug_bounty_writeup-5)
 - [Privilege Escalation: How Broken Access Control Led to Full Account Takeover](https://infosecwriteups.com/privilege-escalation-how-broken-access-control-led-to-full-account-takeover-c7b42bb9f47b?source=rss----7b722bfd1b8d---4)
@@ -936,10 +940,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [192.168.1.1 Walks Into Every House on the Street](https://infosecwriteups.com/192-168-1-1-walks-into-every-house-on-the-street-169e6e4d95d5?source=rss----7b722bfd1b8d---4)
 - [[13 Cubed] Trouble at ACME Challenge — Investigating Windows Endpoint](https://infosecwriteups.com/13-cubed-trouble-at-acme-challenge-investigating-windows-endpoint-9cada1bcd47b?source=rss----7b722bfd1b8d---4)
 - [Insecure Output Handling: Exploiting XSS in LLM Applications &lpar;Part 1&rpar;](https://infosecwriteups.com/insecure-output-handling-exploiting-xss-in-llm-applications-part-1-ad8b992f7e42?source=rss----7b722bfd1b8d---4)
-- [Jordak Linux Lab Proving Grounds](https://infosecwriteups.com/jordak-linux-lab-proving-grounds-d07b6c12900a?source=rss----7b722bfd1b8d---4)
-- [Understanding the insecure deserialization vulnerability](https://infosecwriteups.com/understanding-the-insecure-deserialization-vulnerability-9e95f3d7723a?source=rss----7b722bfd1b8d---4)
-- [Shellcode Analysis: Egg Hunters, Encoders, and Polymorphism](https://infosecwriteups.com/shellcode-analysis-egg-hunters-encoders-and-polymorphism-e0cbb76c5871?source=rss----7b722bfd1b8d---4)
-- [From iframe Injection to Account Takeover &lpar;Full Exploit Chain&rpar;](https://medium.com/@0xRedFox29/from-iframe-injection-to-account-takeover-full-exploit-chain-424db44a1167?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
