@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Business Logic: Bypassing Free Plan Team Invitations](https://medium.com/@essamezzat/business-logic-bypassing-free-plan-team-invitations-4183309809e5?source=rss------bug_bounty_writeup-5)
 - [I Followed the Data Trail — It Led Straight to a Production Server](https://infosecwriteups.com/i-followed-the-data-trail-it-led-straight-to-a-production-server-a4ee78a160c0?source=rss----7b722bfd1b8d---4)
 - [FunboxRookie — Anonymous FTP, Zip-Cracked SSH Keys, and a Password Hidden in MySQL History | OffSec…](https://infosecwriteups.com/funboxrookie-anonymous-ftp-zip-cracked-ssh-keys-and-a-password-hidden-in-mysql-history-offsec-4df4fedb3473?source=rss----7b722bfd1b8d---4)
 - [CVSS v4.0: The Practical Field Guide for Vulnerability Management](https://infosecwriteups.com/cvss-v4-0-the-practical-field-guide-for-vulnerability-management-5b5a59728456?source=rss----7b722bfd1b8d---4)
@@ -936,7 +937,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [From Stored XSS to Cookie Tossing into Credit Card Theft](https://medium.com/@YourFinalSin/from-stored-xss-to-cookie-tossing-into-credit-card-theft-396b59b49326?source=rss------bug_bounty_writeup-5)
 - [I Thought It Was a Container… It Was a Whole Azure VM &lpar;RCE Story&rpar;](https://medium.com/@drizzlehx/i-thought-it-was-a-container-it-was-a-whole-azure-vm-rce-story-7d99d30d5a4a?source=rss------bug_bounty_writeup-5)
 - [How I Found a Critical Account Takeover Vulnerability in a Password Reset Flow](https://medium.com/@ferdusalam0/how-i-found-a-critical-account-takeover-vulnerability-in-a-password-reset-flow-a48d7079fdd7?source=rss------bug_bounty_writeup-5)
-- [Admin Panel Bypass via Unverified Email](https://medium.com/@rahimasec/admin-panel-bypass-via-unverified-email-2a50b262d48f?source=rss------bug_bounty_writeup-5)
 - [192.168.1.1 Walks Into Every House on the Street](https://infosecwriteups.com/192-168-1-1-walks-into-every-house-on-the-street-169e6e4d95d5?source=rss----7b722bfd1b8d---4)
 - [[13 Cubed] Trouble at ACME Challenge — Investigating Windows Endpoint](https://infosecwriteups.com/13-cubed-trouble-at-acme-challenge-investigating-windows-endpoint-9cada1bcd47b?source=rss----7b722bfd1b8d---4)
 - [Insecure Output Handling: Exploiting XSS in LLM Applications &lpar;Part 1&rpar;](https://infosecwriteups.com/insecure-output-handling-exploiting-xss-in-llm-applications-part-1-ad8b992f7e42?source=rss----7b722bfd1b8d---4)
