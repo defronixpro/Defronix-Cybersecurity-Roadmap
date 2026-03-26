@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [IDOR on Tesla Disclosing Users’ Emails](https://medium.com/@lonewolfx1/idor-on-tesla-disclosing-users-emails-d86132348ca0?source=rss------bug_bounty_writeup-5)
 - [How I Found Pre-Account Takeover Vulnerabilities](https://medium.com/@montaser_mohsen/how-i-found-pre-account-takeover-vulnerabilities-6b81aef6e2ca?source=rss------bug_bounty_writeup-5)
 - [Business Logic: Bypassing Free Plan Team Invitations](https://medium.com/@essamezzat/business-logic-bypassing-free-plan-team-invitations-4183309809e5?source=rss------bug_bounty_writeup-5)
 - [I Followed the Data Trail — It Led Straight to a Production Server](https://infosecwriteups.com/i-followed-the-data-trail-it-led-straight-to-a-production-server-a4ee78a160c0?source=rss----7b722bfd1b8d---4)
