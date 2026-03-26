@@ -922,6 +922,10 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [From Delaying Certifications to Passing eJPT: My Real Journey](https://infosecwriteups.com/from-delaying-certifications-to-passing-ejpt-my-real-journey-5dbebaf5b8c0?source=rss----7b722bfd1b8d---4)
+- [Django CSRF Token: Misconfiguration or Misunderstanding?](https://infosecwriteups.com/django-csrf-token-misconfiguration-or-misunderstanding-c0054c815fc7?source=rss----7b722bfd1b8d---4)
+- [Improper Input Handling Leading to Client Side Code Execution and Backend Information Disclosure](https://infosecwriteups.com/improper-input-handling-leading-to-client-side-code-execution-and-backend-information-disclosure-fe58853f9f0c?source=rss----7b722bfd1b8d---4)
+- [A Practical Workflow for Fuzzing and Scanning in Bug Bounty](https://infosecwriteups.com/a-practical-workflow-for-fuzzing-and-scanning-in-bug-bounty-64fa00ded29b?source=rss----7b722bfd1b8d---4)
 - [IDOR on Tesla Disclosing Users’ Emails](https://medium.com/@lonewolfx1/idor-on-tesla-disclosing-users-emails-d86132348ca0?source=rss------bug_bounty_writeup-5)
 - [How I Found Pre-Account Takeover Vulnerabilities](https://medium.com/@montaser_mohsen/how-i-found-pre-account-takeover-vulnerabilities-6b81aef6e2ca?source=rss------bug_bounty_writeup-5)
 - [Business Logic: Bypassing Free Plan Team Invitations](https://medium.com/@essamezzat/business-logic-bypassing-free-plan-team-invitations-4183309809e5?source=rss------bug_bounty_writeup-5)
@@ -934,13 +938,9 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Privilege Escalation: How Broken Access Control Led to Full Account Takeover](https://infosecwriteups.com/privilege-escalation-how-broken-access-control-led-to-full-account-takeover-c7b42bb9f47b?source=rss----7b722bfd1b8d---4)
 - [GCP Penetration Testing: A Step-by-Step Attack Guide](https://infosecwriteups.com/gcp-penetration-testing-a-step-by-step-attack-guide-9e39bc3eb96d?source=rss----7b722bfd1b8d---4)
 - [Misconfigured SSO Led to a Critical Issue](https://infosecwriteups.com/misconfigured-sso-led-to-a-critical-issue-81c4c11d1a48?source=rss----7b722bfd1b8d---4)
-- [Insecure Output Handling: SQL Injection Through LLM Output &lpar;Part 2&rpar;](https://infosecwriteups.com/insecure-output-handling-sql-injection-through-llm-output-part-2-1cb4f931c31a?source=rss----7b722bfd1b8d---4)
 - [The Intern’s Laptop That Exposed an Entire Engineering Team](https://medium.com/@contact_56467/the-interns-laptop-that-exposed-an-entire-engineering-team-9d8d97bb3b10?source=rss------bug_bounty_writeup-5)
 - [From Stored XSS to Cookie Tossing into Credit Card Theft](https://medium.com/@YourFinalSin/from-stored-xss-to-cookie-tossing-into-credit-card-theft-396b59b49326?source=rss------bug_bounty_writeup-5)
 - [I Thought It Was a Container… It Was a Whole Azure VM &lpar;RCE Story&rpar;](https://medium.com/@drizzlehx/i-thought-it-was-a-container-it-was-a-whole-azure-vm-rce-story-7d99d30d5a4a?source=rss------bug_bounty_writeup-5)
-- [192.168.1.1 Walks Into Every House on the Street](https://infosecwriteups.com/192-168-1-1-walks-into-every-house-on-the-street-169e6e4d95d5?source=rss----7b722bfd1b8d---4)
-- [[13 Cubed] Trouble at ACME Challenge — Investigating Windows Endpoint](https://infosecwriteups.com/13-cubed-trouble-at-acme-challenge-investigating-windows-endpoint-9cada1bcd47b?source=rss----7b722bfd1b8d---4)
-- [Insecure Output Handling: Exploiting XSS in LLM Applications &lpar;Part 1&rpar;](https://infosecwriteups.com/insecure-output-handling-exploiting-xss-in-llm-applications-part-1-ad8b992f7e42?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
