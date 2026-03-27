@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I Weaponized a Simple PDF Upload and Executed Code on the Target](https://medium.com/@cookiebug404/how-i-weaponized-a-simple-pdf-upload-and-executed-code-on-the-target-a22044c28904?source=rss------bug_bounty_writeup-5)
 - [Critical Admin Access Vulnerability
 on NASA’s .nasa.gov Subdomain](https://aashutoshdevkota.medium.com/critical-admin-access-vulnerability-on-nasas-nasa-gov-subdomain-0586a00ce5f0?source=rss------bug_bounty_writeup-5)
 - [From Delaying Certifications to Passing eJPT: My Real Journey](https://infosecwriteups.com/from-delaying-certifications-to-passing-ejpt-my-real-journey-5dbebaf5b8c0?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ on NASA’s .nasa.gov Subdomain](https://aashutoshdevkota.medium.com/critical-ad
 - [GCP Penetration Testing: A Step-by-Step Attack Guide](https://infosecwriteups.com/gcp-penetration-testing-a-step-by-step-attack-guide-9e39bc3eb96d?source=rss----7b722bfd1b8d---4)
 - [Misconfigured SSO Led to a Critical Issue](https://infosecwriteups.com/misconfigured-sso-led-to-a-critical-issue-81c4c11d1a48?source=rss----7b722bfd1b8d---4)
 - [The Intern’s Laptop That Exposed an Entire Engineering Team](https://medium.com/@contact_56467/the-interns-laptop-that-exposed-an-entire-engineering-team-9d8d97bb3b10?source=rss------bug_bounty_writeup-5)
-- [From Stored XSS to Cookie Tossing into Credit Card Theft](https://medium.com/@YourFinalSin/from-stored-xss-to-cookie-tossing-into-credit-card-theft-396b59b49326?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
