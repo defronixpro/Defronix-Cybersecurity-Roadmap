@@ -1,6 +1,8 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Critical Admin Access Vulnerability
+on NASA’s .nasa.gov Subdomain](https://aashutoshdevkota.medium.com/critical-admin-access-vulnerability-on-nasas-nasa-gov-subdomain-0586a00ce5f0?source=rss------bug_bounty_writeup-5)
 - [From Delaying Certifications to Passing eJPT: My Real Journey](https://infosecwriteups.com/from-delaying-certifications-to-passing-ejpt-my-real-journey-5dbebaf5b8c0?source=rss----7b722bfd1b8d---4)
 - [Django CSRF Token: Misconfiguration or Misunderstanding?](https://infosecwriteups.com/django-csrf-token-misconfiguration-or-misunderstanding-c0054c815fc7?source=rss----7b722bfd1b8d---4)
 - [Improper Input Handling Leading to Client Side Code Execution and Backend Information Disclosure](https://infosecwriteups.com/improper-input-handling-leading-to-client-side-code-execution-and-backend-information-disclosure-fe58853f9f0c?source=rss----7b722bfd1b8d---4)
@@ -19,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Misconfigured SSO Led to a Critical Issue](https://infosecwriteups.com/misconfigured-sso-led-to-a-critical-issue-81c4c11d1a48?source=rss----7b722bfd1b8d---4)
 - [The Intern’s Laptop That Exposed an Entire Engineering Team](https://medium.com/@contact_56467/the-interns-laptop-that-exposed-an-entire-engineering-team-9d8d97bb3b10?source=rss------bug_bounty_writeup-5)
 - [From Stored XSS to Cookie Tossing into Credit Card Theft](https://medium.com/@YourFinalSin/from-stored-xss-to-cookie-tossing-into-credit-card-theft-396b59b49326?source=rss------bug_bounty_writeup-5)
-- [I Thought It Was a Container… It Was a Whole Azure VM &lpar;RCE Story&rpar;](https://medium.com/@drizzlehx/i-thought-it-was-a-container-it-was-a-whole-azure-vm-rce-story-7d99d30d5a4a?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
