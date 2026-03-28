@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [From $500 to $1,500 Email Verification Bypass: Impact Chaining](https://medium.com/@tinopreter/from-500-to-1-500-email-verification-bypass-impact-chaining-3efd55b24f23?source=rss------bug_bounty_writeup-5)
 - [You Can Find This Bug in ANY Website &lpar;How I Changed P5 to P1 Using Chain Vulnerability&rpar;](https://medium.com/@aktamil13/you-can-find-this-bug-in-any-website-how-i-changed-p5-to-p1-using-chain-vulnerability-87f08fab35fa?source=rss------bug_bounty_writeup-5)
 - [FAT CAT &lpar;Forensics&rpar;— KJSSE CTF 3.0](https://infosecwriteups.com/fat-cat-forensics-kjsse-ctf-3-0-389909256dc5?source=rss----7b722bfd1b8d---4)
 - [Proving Grounds — Practice — Access](https://infosecwriteups.com/proving-grounds-practice-access-a6e6a89f4ae6?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ on NASA’s .nasa.gov Subdomain](https://aashutoshdevkota.medium.com/critical-ad
 - [Business Logic: Bypassing Free Plan Team Invitations](https://medium.com/@essamezzat/business-logic-bypassing-free-plan-team-invitations-4183309809e5?source=rss------bug_bounty_writeup-5)
 - [Privilege Persistence via Reusable Role-Change Request Leads to Full Store Takeover](https://medium.com/@Dr_Robik/privilege-persistence-via-reusable-role-change-request-leads-to-full-store-takeover-c3c2e1b38b0e?source=rss------bug_bounty_writeup-5)
 - [From IDOR to Admin Takeover: How I Accidentally Walked Into an ATO](https://medium.com/@wanqais007/from-idor-to-admin-takeover-how-i-accidentally-walked-into-an-ato-8ec9f7b034c8?source=rss------bug_bounty_writeup-5)
-- [How I Made Over $72,000 From a Single Private Bug Bounty Program Without Chasing Hundreds of…](https://medium.com/@ferdusalam0/how-i-made-over-72-000-from-a-single-private-bug-bounty-program-without-chasing-hundreds-of-ce014773522c?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
