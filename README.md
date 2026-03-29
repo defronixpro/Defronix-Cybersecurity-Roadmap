@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How Changing 401 to 200 Lead to Full Account Takeover](https://medium.com/@KhaledAhmed107/how-changing-401-to-200-lead-to-full-account-takeover-f264fdc51044?source=rss------bug_bounty_writeup-5)
 - [$210 Bounty — The Ghost in the API: How I Scraped “Deleted” Users &lpar;And Survived a 2-Month Triage…](https://systemweakness.com/210-bounty-the-ghost-in-the-api-how-i-scraped-deleted-users-and-survived-a-2-month-triage-f77daafcc6fe?source=rss------bug_bounty_writeup-5)
 - [From $500 to $1,500 Email Verification Bypass: Impact Chaining](https://medium.com/@tinopreter/from-500-to-1-500-email-verification-bypass-impact-chaining-3efd55b24f23?source=rss------bug_bounty_writeup-5)
 - [You Can Find This Bug in ANY Website &lpar;How I Changed P5 to P1 Using Chain Vulnerability&rpar;](https://medium.com/@aktamil13/you-can-find-this-bug-in-any-website-how-i-changed-p5-to-p1-using-chain-vulnerability-87f08fab35fa?source=rss------bug_bounty_writeup-5)
@@ -941,7 +942,6 @@ on NASA’s .nasa.gov Subdomain](https://aashutoshdevkota.medium.com/critical-ad
 - [IDOR on Tesla Disclosing Users’ Emails](https://medium.com/@lonewolfx1/idor-on-tesla-disclosing-users-emails-d86132348ca0?source=rss------bug_bounty_writeup-5)
 - [How I Found Pre-Account Takeover Vulnerabilities](https://medium.com/@montaser_mohsen/how-i-found-pre-account-takeover-vulnerabilities-6b81aef6e2ca?source=rss------bug_bounty_writeup-5)
 - [Business Logic: Bypassing Free Plan Team Invitations](https://medium.com/@essamezzat/business-logic-bypassing-free-plan-team-invitations-4183309809e5?source=rss------bug_bounty_writeup-5)
-- [Privilege Persistence via Reusable Role-Change Request Leads to Full Store Takeover](https://medium.com/@Dr_Robik/privilege-persistence-via-reusable-role-change-request-leads-to-full-store-takeover-c3c2e1b38b0e?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
