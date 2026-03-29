@@ -922,6 +922,10 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [From OSCP Prep to HTB CPTS: How I Conquered the Exam in 7 Days](https://infosecwriteups.com/from-oscp-prep-to-htb-cpts-how-i-conquered-the-exam-in-7-days-350b6f692bd5?source=rss----7b722bfd1b8d---4)
+- [ORDER ORDER — PicoCTF Writeup](https://infosecwriteups.com/order-order-picoctf-writeup-b7c7de44f296?source=rss----7b722bfd1b8d---4)
+- [Finding an IDOR in User Profile API: A $15,000 Journey to Critical](https://infosecwriteups.com/finding-an-idor-in-user-profile-api-a-15-000-journey-to-critical-0f05e583c00b?source=rss----7b722bfd1b8d---4)
+- [OWASP Top 10 for LLMs: What Every Beginner in AI &amp; Cybersecurity Must Know](https://infosecwriteups.com/owasp-top-10-for-llms-what-every-beginner-in-ai-cybersecurity-must-know-4e83729725f6?source=rss----7b722bfd1b8d---4)
 - [How Changing 401 to 200 Lead to Full Account Takeover](https://medium.com/@KhaledAhmed107/how-changing-401-to-200-lead-to-full-account-takeover-f264fdc51044?source=rss------bug_bounty_writeup-5)
 - [$210 Bounty — The Ghost in the API: How I Scraped “Deleted” Users &lpar;And Survived a 2-Month Triage…](https://systemweakness.com/210-bounty-the-ghost-in-the-api-how-i-scraped-deleted-users-and-survived-a-2-month-triage-f77daafcc6fe?source=rss------bug_bounty_writeup-5)
 - [From $500 to $1,500 Email Verification Bypass: Impact Chaining](https://medium.com/@tinopreter/from-500-to-1-500-email-verification-bypass-impact-chaining-3efd55b24f23?source=rss------bug_bounty_writeup-5)
@@ -932,10 +936,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [From a Silent Math Error to Certificate Bypass: Uncovering an Integer Overflow in a TLS Parser](https://infosecwriteups.com/from-a-silent-math-error-to-certificate-bypass-uncovering-an-integer-overflow-in-a-tls-parser-b73b86696f74?source=rss----7b722bfd1b8d---4)
 - [Azure Blob Storage Misconfigurations: Attacker’s Gateway to Data](https://infosecwriteups.com/azure-blob-storage-misconfigurations-attackers-gateway-to-data-b7d8e957440e?source=rss----7b722bfd1b8d---4)
 - [Proving Grounds — Practice — Nagoya](https://infosecwriteups.com/proving-grounds-practice-nagoya-19eec0a917a1?source=rss----7b722bfd1b8d---4)
-- [Sumo — Shellshock on a CGI Script and Dirty COW on a 2012 Kernel | OffSec PG](https://infosecwriteups.com/sumo-shellshock-on-a-cgi-script-and-dirty-cow-on-a-2012-kernel-offsec-pg-32fefefe55fd?source=rss----7b722bfd1b8d---4)
-- [Microsoft Power BI API Credential Exposure: From Public Postman Workspace to Data Exfiltration in…](https://infosecwriteups.com/microsoft-power-bi-api-credential-exposure-from-public-postman-workspace-to-data-exfiltration-in-849d2335f330?source=rss----7b722bfd1b8d---4)
-- [Assessment Methodologies: Vulnerability Assessment CTF-1 — eJPT &lpar;INE&rpar;](https://infosecwriteups.com/assessment-methodologies-vulnerability-assessment-ctf-1-ejpt-ine-f487e0b2cef5?source=rss----7b722bfd1b8d---4)
-- [Microsoft Authenticator’s Unclaimed Deep Link: A Full Account Takeover Story &lpar;CVE-2026–26123&rpar;](https://infosecwriteups.com/microsoft-authenticators-unclaimed-deep-link-a-full-account-takeover-story-cve-2026-26123-e0409a920a02?source=rss----7b722bfd1b8d---4)
 - [How I Weaponized a Simple PDF Upload and Executed Code on the Target](https://medium.com/@cookiebug404/how-i-weaponized-a-simple-pdf-upload-and-executed-code-on-the-target-a22044c28904?source=rss------bug_bounty_writeup-5)
 - [Critical Admin Access Vulnerability
 on NASA’s .nasa.gov Subdomain](https://aashutoshdevkota.medium.com/critical-admin-access-vulnerability-on-nasas-nasa-gov-subdomain-0586a00ce5f0?source=rss------bug_bounty_writeup-5)
