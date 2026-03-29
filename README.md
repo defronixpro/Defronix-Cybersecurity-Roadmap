@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [PSFuzz: Rethinking Web Fuzzing in the Age of AI](https://infosecwriteups.com/psfuzz-rethinking-web-fuzzing-in-the-age-of-ai-9fe0c2df0952?source=rss----7b722bfd1b8d---4)
 - [From OSCP Prep to HTB CPTS: How I Conquered the Exam in 7 Days](https://infosecwriteups.com/from-oscp-prep-to-htb-cpts-how-i-conquered-the-exam-in-7-days-350b6f692bd5?source=rss----7b722bfd1b8d---4)
 - [ORDER ORDER — PicoCTF Writeup](https://infosecwriteups.com/order-order-picoctf-writeup-b7c7de44f296?source=rss----7b722bfd1b8d---4)
 - [Finding an IDOR in User Profile API: A $15,000 Journey to Critical](https://infosecwriteups.com/finding-an-idor-in-user-profile-api-a-15-000-journey-to-critical-0f05e583c00b?source=rss----7b722bfd1b8d---4)
@@ -935,7 +936,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How I Spent 30 Days Chasing a $40,000 Bug Bounty And What I Learned the Hard Way](https://infosecwriteups.com/how-i-spent-30-days-chasing-a-40-000-bug-bounty-and-what-i-learned-the-hard-way-dc35caf61142?source=rss----7b722bfd1b8d---4)
 - [From a Silent Math Error to Certificate Bypass: Uncovering an Integer Overflow in a TLS Parser](https://infosecwriteups.com/from-a-silent-math-error-to-certificate-bypass-uncovering-an-integer-overflow-in-a-tls-parser-b73b86696f74?source=rss----7b722bfd1b8d---4)
 - [Azure Blob Storage Misconfigurations: Attacker’s Gateway to Data](https://infosecwriteups.com/azure-blob-storage-misconfigurations-attackers-gateway-to-data-b7d8e957440e?source=rss----7b722bfd1b8d---4)
-- [Proving Grounds — Practice — Nagoya](https://infosecwriteups.com/proving-grounds-practice-nagoya-19eec0a917a1?source=rss----7b722bfd1b8d---4)
 - [How I Weaponized a Simple PDF Upload and Executed Code on the Target](https://medium.com/@cookiebug404/how-i-weaponized-a-simple-pdf-upload-and-executed-code-on-the-target-a22044c28904?source=rss------bug_bounty_writeup-5)
 - [Critical Admin Access Vulnerability
 on NASA’s .nasa.gov Subdomain](https://aashutoshdevkota.medium.com/critical-admin-access-vulnerability-on-nasas-nasa-gov-subdomain-0586a00ce5f0?source=rss------bug_bounty_writeup-5)
