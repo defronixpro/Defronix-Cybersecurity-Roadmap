@@ -1,7 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
-- [How Bug Bounty Hunters Are Using Claude Code.](https://medium.com/@Aacle/how-bug-bounty-hunters-are-using-claude-code-a94d6ceb056a?source=rss------bug_bounty_writeup-5)
+- [How Bug Bounty Hunters Are Using Claude Code.](https://infosecwriteups.com/how-bug-bounty-hunters-are-using-claude-code-a94d6ceb056a?source=rss------bug_bounty_writeup-5)
 - [️   SQL Injection for Beginners: The Complete Guide](https://infosecwriteups.com/%EF%B8%8F-sql-injection-for-beginners-the-complete-guide-2750907b095b?source=rss----7b722bfd1b8d---4)
 - [Why Most Cybersecurity Beginners Never Become Hackers](https://infosecwriteups.com/why-most-cybersecurity-beginners-never-become-hackers-38a22b32091a?source=rss----7b722bfd1b8d---4)
 - [Before You Touch Nmap: Networking Fundamentals Every Beginner Must Understand](https://infosecwriteups.com/before-you-touch-nmap-networking-fundamentals-every-beginner-must-understand-b65ea907ca87?source=rss----7b722bfd1b8d---4)
