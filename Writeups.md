@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [️ This Vulnerability Was Sitting in Front of Everyone — But No One Noticed](https://sukhveersingh97997.medium.com/%EF%B8%8F-this-vulnerability-was-sitting-in-front-of-everyone-but-no-one-noticed-b41d2fe059aa?source=rss------bug_bounty_writeup-5)
 - [MobSF Exists for Mobile - So I Built One for the Web: Meet Argus](https://infosecwriteups.com/mobsf-exists-for-mobile-so-i-built-one-for-the-web-meet-argus-6fbaf37557c8?source=rss----7b722bfd1b8d---4)
 - [VulnCorp CTF by INE: The Moment I Wanted to Quit, But I Didn’t](https://infosecwriteups.com/vulncorp-ctf-by-ine-the-moment-i-wanted-to-quit-but-didnt-81772fe065c5?source=rss----7b722bfd1b8d---4)
 - [From Paste Site to Payout: How a Single Dump Led to a Critical Bug](https://infosecwriteups.com/from-paste-site-to-payout-how-a-single-dump-led-to-a-critical-bug-56bf0677d1cf?source=rss----7b722bfd1b8d---4)
@@ -21,7 +22,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How I Weaponized a Simple PDF Upload and Executed Code on the Target](https://medium.com/@cookiebug404/how-i-weaponized-a-simple-pdf-upload-and-executed-code-on-the-target-a22044c28904?source=rss------bug_bounty_writeup-5)
 - [Critical Admin Access Vulnerability
 on NASA’s .nasa.gov Subdomain](https://aashutoshdevkota.medium.com/critical-admin-access-vulnerability-on-nasas-nasa-gov-subdomain-0586a00ce5f0?source=rss------bug_bounty_writeup-5)
-- [IDOR on Tesla Disclosing Users’ Emails](https://medium.com/@lonewolfx1/idor-on-tesla-disclosing-users-emails-d86132348ca0?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
