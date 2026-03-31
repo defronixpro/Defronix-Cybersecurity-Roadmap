@@ -1,6 +1,8 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [️   SQL Injection for Beginners: The Complete Guide](https://infosecwriteups.com/%EF%B8%8F-sql-injection-for-beginners-the-complete-guide-2750907b095b?source=rss----7b722bfd1b8d---4)
+- [Why Most Cybersecurity Beginners Never Become Hackers](https://infosecwriteups.com/why-most-cybersecurity-beginners-never-become-hackers-38a22b32091a?source=rss----7b722bfd1b8d---4)
 - [Before You Touch Nmap: Networking Fundamentals Every Beginner Must Understand](https://infosecwriteups.com/before-you-touch-nmap-networking-fundamentals-every-beginner-must-understand-b65ea907ca87?source=rss----7b722bfd1b8d---4)
 - [SAR — CVE-2019–12454 in sar2html and a Writable Cron Script That Got Me Root | OffSec PG](https://infosecwriteups.com/sar-cve-2019-12454-in-sar2html-and-a-writable-cron-script-that-got-me-root-offsec-pg-0b4f8a17ca82?source=rss----7b722bfd1b8d---4)
 - [Understanding OT Cybersecurity: A Practical Guide to Asset Inventory for Industrial Control…](https://infosecwriteups.com/understanding-ot-cybersecurity-a-practical-guide-to-asset-inventory-for-industrial-control-65dc8b4e3f4d?source=rss----7b722bfd1b8d---4)
@@ -9,8 +11,17 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Your Secure Messenger is Spying on You &lpar;And You Can’t Turn It Off&rpar;](https://infosecwriteups.com/your-secure-messenger-is-spying-on-you-and-you-cant-turn-it-off-8aa96977b238?source=rss----7b722bfd1b8d---4)
 - [How I Attacked Active Directory During OSCP Labs &lpar;And What Tools Actually Worked&rpar;](https://infosecwriteups.com/how-i-attacked-active-directory-during-oscp-labs-and-what-tools-actually-worked-8a10e12930a4?source=rss----7b722bfd1b8d---4)
 - [Anglerphish — A Feature-Rich Gophish Fork](https://infosecwriteups.com/anglerphish-6dc3e5520242?source=rss----7b722bfd1b8d---4)
-- [Writeup for picoCTF challenge “No FA”](https://infosecwriteups.com/writeup-for-picoctf-challenge-no-fa-e8ebbab71c4b?source=rss----7b722bfd1b8d---4)
-- [“Not Applicable” to Victory: How I Escalated a P2 DoS Vulnerability on Bugcrowd](https://infosecwriteups.com/not-applicable-to-victory-how-i-escalated-a-p2-dos-vulnerability-on-bugcrowd-c5fa05ab4727?source=rss----7b722bfd1b8d---4)
+- [️ This Vulnerability Was Sitting in Front of Everyone — But No One Noticed](https://sukhveersingh97997.medium.com/%EF%B8%8F-this-vulnerability-was-sitting-in-front-of-everyone-but-no-one-noticed-b41d2fe059aa?source=rss------bug_bounty_writeup-5)
+- [I Got 5 Bug Bounty Reports Rejected… Then This One Bug Paid Me $800](https://sukhveersingh97997.medium.com/i-got-5-bug-bounty-reports-rejected-then-this-one-bug-paid-me-800-8da5f22ea7d7?source=rss------bug_bounty_writeup-5)
+- [I Bypassed an Admin Panel With One Burp Suite Rule](https://abdelaalx2000.medium.com/i-bypassed-an-admin-panel-with-one-burp-suite-rule-c478d1f31e6c?source=rss------bug_bounty_writeup-5)
+- [I Found a Bug That Could Delete Anyone’s Profile on a U.S. Navy Website](https://abdelaalx2000.medium.com/i-found-a-bug-that-could-delete-anyones-profile-on-a-u-s-navy-website-d5c822f73bba?source=rss------bug_bounty_writeup-5)
+- [How Changing 401 to 200 Lead to Full Account Takeover](https://medium.com/@KhaledAhmed107/how-changing-401-to-200-lead-to-full-account-takeover-f264fdc51044?source=rss------bug_bounty_writeup-5)
+- [$210 Bounty — The Ghost in the API: How I Scraped “Deleted” Users &lpar;And Survived a 2-Month Triage…](https://systemweakness.com/210-bounty-the-ghost-in-the-api-how-i-scraped-deleted-users-and-survived-a-2-month-triage-f77daafcc6fe?source=rss------bug_bounty_writeup-5)
+- [From $500 to $1,500 Email Verification Bypass: Impact Chaining](https://medium.com/@tinopreter/from-500-to-1-500-email-verification-bypass-impact-chaining-3efd55b24f23?source=rss------bug_bounty_writeup-5)
+- [You Can Find This Bug in ANY Website &lpar;How I Changed P5 to P1 Using Chain Vulnerability&rpar;](https://medium.com/@aktamil13/you-can-find-this-bug-in-any-website-how-i-changed-p5-to-p1-using-chain-vulnerability-87f08fab35fa?source=rss------bug_bounty_writeup-5)
+- [How I Weaponized a Simple PDF Upload and Executed Code on the Target](https://medium.com/@cookiebug404/how-i-weaponized-a-simple-pdf-upload-and-executed-code-on-the-target-a22044c28904?source=rss------bug_bounty_writeup-5)
+- [Critical Admin Access Vulnerability
+on NASA’s .nasa.gov Subdomain](https://aashutoshdevkota.medium.com/critical-admin-access-vulnerability-on-nasas-nasa-gov-subdomain-0586a00ce5f0?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
