@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How Bug Bounty Hunters Are Using Claude Code.](https://medium.com/@Aacle/how-bug-bounty-hunters-are-using-claude-code-a94d6ceb056a?source=rss------bug_bounty_writeup-5)
 - [️   SQL Injection for Beginners: The Complete Guide](https://infosecwriteups.com/%EF%B8%8F-sql-injection-for-beginners-the-complete-guide-2750907b095b?source=rss----7b722bfd1b8d---4)
 - [Why Most Cybersecurity Beginners Never Become Hackers](https://infosecwriteups.com/why-most-cybersecurity-beginners-never-become-hackers-38a22b32091a?source=rss----7b722bfd1b8d---4)
 - [Before You Touch Nmap: Networking Fundamentals Every Beginner Must Understand](https://infosecwriteups.com/before-you-touch-nmap-networking-fundamentals-every-beginner-must-understand-b65ea907ca87?source=rss----7b722bfd1b8d---4)
@@ -941,8 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [From $500 to $1,500 Email Verification Bypass: Impact Chaining](https://medium.com/@tinopreter/from-500-to-1-500-email-verification-bypass-impact-chaining-3efd55b24f23?source=rss------bug_bounty_writeup-5)
 - [You Can Find This Bug in ANY Website &lpar;How I Changed P5 to P1 Using Chain Vulnerability&rpar;](https://medium.com/@aktamil13/you-can-find-this-bug-in-any-website-how-i-changed-p5-to-p1-using-chain-vulnerability-87f08fab35fa?source=rss------bug_bounty_writeup-5)
 - [How I Weaponized a Simple PDF Upload and Executed Code on the Target](https://medium.com/@cookiebug404/how-i-weaponized-a-simple-pdf-upload-and-executed-code-on-the-target-a22044c28904?source=rss------bug_bounty_writeup-5)
-- [Critical Admin Access Vulnerability
-on NASA’s .nasa.gov Subdomain](https://aashutoshdevkota.medium.com/critical-admin-access-vulnerability-on-nasas-nasa-gov-subdomain-0586a00ce5f0?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
