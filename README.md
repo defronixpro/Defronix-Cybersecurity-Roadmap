@@ -922,6 +922,10 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [BAC: THE Money-making Machine](https://medium.com/@rajveer_0101/bac-the-money-making-machine-ba1bed9418ca?source=rss------bug_bounty_writeup-5)
+- [Intigriti March 2026 XSS Challenge Writeup: Chaining 3 Bypasses to Steal Admin Cookies](https://infosecwriteups.com/intigriti-march-2026-xss-challenge-writeup-chaining-3-bypasses-to-steal-admin-cookies-4e1910864582?source=rss----7b722bfd1b8d---4)
+- [[BAC] Improper Authorization in Public Facebook Groups](https://infosecwriteups.com/bac-improper-authorization-in-public-facebook-groups-5345a7f49173?source=rss----7b722bfd1b8d---4)
+- [Cracking DVRIP/Sofia Hashes With Python](https://infosecwriteups.com/cracking-dvrip-sofia-hashes-with-python-e7596a6004bf?source=rss----7b722bfd1b8d---4)
 - [How Bug Bounty Hunters Are Using Claude Code.](https://infosecwriteups.com/how-bug-bounty-hunters-are-using-claude-code-a94d6ceb056a?source=rss------bug_bounty_writeup-5)
 - [️   SQL Injection for Beginners: The Complete Guide](https://infosecwriteups.com/%EF%B8%8F-sql-injection-for-beginners-the-complete-guide-2750907b095b?source=rss----7b722bfd1b8d---4)
 - [Why Most Cybersecurity Beginners Never Become Hackers](https://infosecwriteups.com/why-most-cybersecurity-beginners-never-become-hackers-38a22b32091a?source=rss----7b722bfd1b8d---4)
@@ -930,9 +934,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Understanding OT Cybersecurity: A Practical Guide to Asset Inventory for Industrial Control…](https://infosecwriteups.com/understanding-ot-cybersecurity-a-practical-guide-to-asset-inventory-for-industrial-control-65dc8b4e3f4d?source=rss----7b722bfd1b8d---4)
 - [Thinking Tokens Are the New Denial-of-Wallet Attack Surface](https://infosecwriteups.com/thinking-tokens-are-the-new-denial-of-wallet-attack-surface-d23394007577?source=rss----7b722bfd1b8d---4)
 - [The Axios npm Compromise: How the Internet’s Most Popular HTTP Client Became a Trojan Horse](https://infosecwriteups.com/the-axios-npm-compromise-how-the-internets-most-popular-http-client-became-a-trojan-horse-c80c6f73f52d?source=rss----7b722bfd1b8d---4)
-- [Your Secure Messenger is Spying on You &lpar;And You Can’t Turn It Off&rpar;](https://infosecwriteups.com/your-secure-messenger-is-spying-on-you-and-you-cant-turn-it-off-8aa96977b238?source=rss----7b722bfd1b8d---4)
-- [How I Attacked Active Directory During OSCP Labs &lpar;And What Tools Actually Worked&rpar;](https://infosecwriteups.com/how-i-attacked-active-directory-during-oscp-labs-and-what-tools-actually-worked-8a10e12930a4?source=rss----7b722bfd1b8d---4)
-- [Anglerphish — A Feature-Rich Gophish Fork](https://infosecwriteups.com/anglerphish-6dc3e5520242?source=rss----7b722bfd1b8d---4)
 - [️ This Vulnerability Was Sitting in Front of Everyone — But No One Noticed](https://sukhveersingh97997.medium.com/%EF%B8%8F-this-vulnerability-was-sitting-in-front-of-everyone-but-no-one-noticed-b41d2fe059aa?source=rss------bug_bounty_writeup-5)
 - [I Got 5 Bug Bounty Reports Rejected… Then This One Bug Paid Me $800](https://sukhveersingh97997.medium.com/i-got-5-bug-bounty-reports-rejected-then-this-one-bug-paid-me-800-8da5f22ea7d7?source=rss------bug_bounty_writeup-5)
 - [I Bypassed an Admin Panel With One Burp Suite Rule](https://abdelaalx2000.medium.com/i-bypassed-an-admin-panel-with-one-burp-suite-rule-c478d1f31e6c?source=rss------bug_bounty_writeup-5)
@@ -940,8 +941,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How Changing 401 to 200 Lead to Full Account Takeover](https://medium.com/@KhaledAhmed107/how-changing-401-to-200-lead-to-full-account-takeover-f264fdc51044?source=rss------bug_bounty_writeup-5)
 - [$210 Bounty — The Ghost in the API: How I Scraped “Deleted” Users &lpar;And Survived a 2-Month Triage…](https://systemweakness.com/210-bounty-the-ghost-in-the-api-how-i-scraped-deleted-users-and-survived-a-2-month-triage-f77daafcc6fe?source=rss------bug_bounty_writeup-5)
 - [From $500 to $1,500 Email Verification Bypass: Impact Chaining](https://medium.com/@tinopreter/from-500-to-1-500-email-verification-bypass-impact-chaining-3efd55b24f23?source=rss------bug_bounty_writeup-5)
-- [You Can Find This Bug in ANY Website &lpar;How I Changed P5 to P1 Using Chain Vulnerability&rpar;](https://medium.com/@aktamil13/you-can-find-this-bug-in-any-website-how-i-changed-p5-to-p1-using-chain-vulnerability-87f08fab35fa?source=rss------bug_bounty_writeup-5)
-- [How I Weaponized a Simple PDF Upload and Executed Code on the Target](https://medium.com/@cookiebug404/how-i-weaponized-a-simple-pdf-upload-and-executed-code-on-the-target-a22044c28904?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
