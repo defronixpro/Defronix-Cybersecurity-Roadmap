@@ -3,8 +3,10 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 <!-- WRITEUPS:START -->
 - [BAC: THE Money-Making Machine](https://medium.com/@rajveer_0101/bac-the-money-making-machine-ba1bed9418ca?source=rss------bug_bounty_writeup-5)
 - [Intigriti March 2026 XSS Challenge Writeup: Chaining 3 Bypasses to Steal Admin Cookies](https://infosecwriteups.com/intigriti-march-2026-xss-challenge-writeup-chaining-3-bypasses-to-steal-admin-cookies-4e1910864582?source=rss----7b722bfd1b8d---4)
+- [GitHub is a Search Engine for Secrets — and Nobody Told You](https://infosecwriteups.com/github-is-a-search-engine-for-secrets-and-nobody-told-you-65331d15803e?source=rss----7b722bfd1b8d---4)
 - [[BAC] Improper Authorization in Public Facebook Groups](https://infosecwriteups.com/bac-improper-authorization-in-public-facebook-groups-5345a7f49173?source=rss----7b722bfd1b8d---4)
 - [Cracking DVRIP/Sofia Hashes With Python](https://infosecwriteups.com/cracking-dvrip-sofia-hashes-with-python-e7596a6004bf?source=rss----7b722bfd1b8d---4)
+- [GitHub is a Search Engine for Secrets — and Nobody Told You](https://infosecwriteups.com/github-is-a-search-engine-for-secrets-and-nobody-told-you-65331d15803e?source=rss------bug_bounty_writeup-5)
 - [Hi ReadMe.io](https://sheshasai.medium.com/hi-readme-io-c0b7ce2e4909?source=rss------bug_bounty_writeup-5)
 - [How Bug Bounty Hunters Are Using Claude Code.](https://infosecwriteups.com/how-bug-bounty-hunters-are-using-claude-code-a94d6ceb056a?source=rss------bug_bounty_writeup-5)
 - [️   SQL Injection for Beginners: The Complete Guide](https://infosecwriteups.com/%EF%B8%8F-sql-injection-for-beginners-the-complete-guide-2750907b095b?source=rss----7b722bfd1b8d---4)
@@ -13,7 +15,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [SAR — CVE-2019–12454 in sar2html and a Writable Cron Script That Got Me Root | OffSec PG](https://infosecwriteups.com/sar-cve-2019-12454-in-sar2html-and-a-writable-cron-script-that-got-me-root-offsec-pg-0b4f8a17ca82?source=rss----7b722bfd1b8d---4)
 - [Understanding OT Cybersecurity: A Practical Guide to Asset Inventory for Industrial Control…](https://infosecwriteups.com/understanding-ot-cybersecurity-a-practical-guide-to-asset-inventory-for-industrial-control-65dc8b4e3f4d?source=rss----7b722bfd1b8d---4)
 - [Thinking Tokens Are the New Denial-of-Wallet Attack Surface](https://infosecwriteups.com/thinking-tokens-are-the-new-denial-of-wallet-attack-surface-d23394007577?source=rss----7b722bfd1b8d---4)
-- [The Axios npm Compromise: How the Internet’s Most Popular HTTP Client Became a Trojan Horse](https://infosecwriteups.com/the-axios-npm-compromise-how-the-internets-most-popular-http-client-became-a-trojan-horse-c80c6f73f52d?source=rss----7b722bfd1b8d---4)
 - [️ This Vulnerability Was Sitting in Front of Everyone — But No One Noticed](https://sukhveersingh97997.medium.com/%EF%B8%8F-this-vulnerability-was-sitting-in-front-of-everyone-but-no-one-noticed-b41d2fe059aa?source=rss------bug_bounty_writeup-5)
 - [I Got 5 Bug Bounty Reports Rejected… Then This One Bug Paid Me $800](https://sukhveersingh97997.medium.com/i-got-5-bug-bounty-reports-rejected-then-this-one-bug-paid-me-800-8da5f22ea7d7?source=rss------bug_bounty_writeup-5)
 - [I Bypassed an Admin Panel With One Burp Suite Rule](https://abdelaalx2000.medium.com/i-bypassed-an-admin-panel-with-one-burp-suite-rule-c478d1f31e6c?source=rss------bug_bounty_writeup-5)
