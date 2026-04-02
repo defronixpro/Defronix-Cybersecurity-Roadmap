@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I Found a Critical SAML Authentication Bypasson a Major Automotive Company&#39;s Dealer Portal](https://ousski.medium.com/how-i-found-a-critical-saml-authentication-bypass-848b1a33172e?source=rss------bug_bounty_writeup-5)
 - [Basic Pentesting 0x01](https://infosecwriteups.com/basic-pentesting-0x01-92da90895fdb?source=rss----7b722bfd1b8d---4)
 - [Pneak into the wonderful world of shortcuts in the Linux terminal](https://infosecwriteups.com/pneak-into-the-wonderful-world-of-shortcuts-in-the-linux-terminal-60fc80e843b2?source=rss----7b722bfd1b8d---4)
 - [Beyond Recon: Using AI for Real Exploitation in Pentesting](https://infosecwriteups.com/beyond-recon-using-ai-for-real-exploitation-in-pentesting-2791416e4ebd?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [️ This Vulnerability Was Sitting in Front of Everyone — But No One Noticed](https://sukhveersingh97997.medium.com/%EF%B8%8F-this-vulnerability-was-sitting-in-front-of-everyone-but-no-one-noticed-b41d2fe059aa?source=rss------bug_bounty_writeup-5)
 - [I Got 5 Bug Bounty Reports Rejected… Then This One Bug Paid Me $800](https://sukhveersingh97997.medium.com/i-got-5-bug-bounty-reports-rejected-then-this-one-bug-paid-me-800-8da5f22ea7d7?source=rss------bug_bounty_writeup-5)
 - [I Bypassed an Admin Panel With One Burp Suite Rule](https://abdelaalx2000.medium.com/i-bypassed-an-admin-panel-with-one-burp-suite-rule-c478d1f31e6c?source=rss------bug_bounty_writeup-5)
-- [I Found a Bug That Could Delete Anyone’s Profile on a U.S. Navy Website](https://abdelaalx2000.medium.com/i-found-a-bug-that-could-delete-anyones-profile-on-a-u-s-navy-website-d5c822f73bba?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
