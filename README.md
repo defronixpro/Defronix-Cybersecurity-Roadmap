@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Basic Pentesting 0x01](https://infosecwriteups.com/basic-pentesting-0x01-92da90895fdb?source=rss----7b722bfd1b8d---4)
 - [Pneak into the wonderful world of shortcuts in the Linux terminal](https://infosecwriteups.com/pneak-into-the-wonderful-world-of-shortcuts-in-the-linux-terminal-60fc80e843b2?source=rss----7b722bfd1b8d---4)
 - [Beyond Recon: Using AI for Real Exploitation in Pentesting](https://infosecwriteups.com/beyond-recon-using-ai-for-real-exploitation-in-pentesting-2791416e4ebd?source=rss----7b722bfd1b8d---4)
 - [CORS vs SOP: Why Your Browser Blocks Cross-Origin Requests &lpar;And When It Doesn’t&rpar;](https://infosecwriteups.com/cors-sop-backbone-of-web-security-681b6567cbc0?source=rss----7b722bfd1b8d---4)
@@ -931,7 +932,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Domain Admin… and Beyond](https://infosecwriteups.com/domain-admin-and-beyond-b33a93e35d73?source=rss----7b722bfd1b8d---4)
 - [Enforcing Real-Time Cloud App Protection with Conditional Access and Defender for Cloud Apps](https://infosecwriteups.com/enforcing-real-time-cloud-app-protection-with-conditional-access-and-defender-for-cloud-apps-793954d2d18e?source=rss----7b722bfd1b8d---4)
 - [Axios Just Got Weaponized — And Your npm install Pulled the Trigger](https://infosecwriteups.com/axios-just-got-weaponized-and-your-npm-install-pulled-the-trigger-8ba05aac905e?source=rss----7b722bfd1b8d---4)
-- [CTF Writeup — ezRSA - Ramadan CTF 2026](https://infosecwriteups.com/ctf-writeup-ezrsa-ramadan-ctf-2026-f697fe98a224?source=rss----7b722bfd1b8d---4)
 - [How to Hunt IDORs When IDs Are UUIDs &lpar;Not Integers&rpar; Lab: User ID controlled by request parameter…](https://medium.com/@guyani/how-to-hunt-idors-when-ids-are-uuids-not-integers-lab-user-id-controlled-by-request-parameter-4c54aa5cc650?source=rss------bug_bounty_writeup-5)
 - [Breaking It During a Hackathon](https://medium.com/@debang5hu/breaking-it-during-a-hackathon-bb2f56da2ab7?source=rss------bug_bounty_writeup-5)
 - [BAC: THE Money-Making Machine](https://medium.com/@rajveer_0101/bac-the-money-making-machine-ba1bed9418ca?source=rss------bug_bounty_writeup-5)
