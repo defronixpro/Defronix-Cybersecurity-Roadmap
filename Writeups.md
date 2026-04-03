@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Exposed .env File Leads To API Key Leak &amp; Financial Impact](https://medium.com/@1sherlok/exposed-env-file-leads-to-api-key-leak-financial-impact-3886bf375367?source=rss------bug_bounty_writeup-5)
 - [VirtualHost And Subdomains](https://infosecwriteups.com/virtualhost-and-subdomains-36e2e156fa4e?source=rss----7b722bfd1b8d---4)
 - [Path Traversal — A tour to the web server’s assets](https://infosecwriteups.com/path-traversal-a-tour-to-the-web-servers-assets-6a81e6312386?source=rss----7b722bfd1b8d---4)
 - [Reverse Engineering a WhatsApp 0-Click Vulnerability: A Deep Dive into CVE-2025–43300](https://infosecwriteups.com/reverse-engineering-a-whatsapp-0-click-vulnerability-a-deep-dive-into-cve-2025-43300-d8d425644fe9?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How Bug Bounty Hunters Are Using Claude Code.](https://infosecwriteups.com/how-bug-bounty-hunters-are-using-claude-code-a94d6ceb056a?source=rss------bug_bounty_writeup-5)
 - [️ This Vulnerability Was Sitting in Front of Everyone — But No One Noticed](https://sukhveersingh97997.medium.com/%EF%B8%8F-this-vulnerability-was-sitting-in-front-of-everyone-but-no-one-noticed-b41d2fe059aa?source=rss------bug_bounty_writeup-5)
 - [I Got 5 Bug Bounty Reports Rejected… Then This One Bug Paid Me $800](https://sukhveersingh97997.medium.com/i-got-5-bug-bounty-reports-rejected-then-this-one-bug-paid-me-800-8da5f22ea7d7?source=rss------bug_bounty_writeup-5)
-- [I Bypassed an Admin Panel With One Burp Suite Rule](https://abdelaalx2000.medium.com/i-bypassed-an-admin-panel-with-one-burp-suite-rule-c478d1f31e6c?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
