@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How I Earned $200 in 5 Minutes Using a Simple Broken Link Hijacking Bug](https://medium.com/@pradeeptadi03/how-i-earned-200-in-5-minutes-using-a-simple-broken-link-hijacking-bug-41821fb41b1e?source=rss------bug_bounty_writeup-5)
 - [Stored XSS via iframe Injection Leads to $505 Bounty](https://medium.com/@sachinaneja/stored-xss-via-iframe-injection-leads-to-505-bounty-07580e9489fb?source=rss------bug_bounty_writeup-5)
 - [BUG BOUNTY from Zero To Hero! All secrects finally revealed !! @lazyhackerbd](https://medium.com/@lazyhackerbd/bug-bounty-from-zero-to-hero-all-secrects-finally-revealed-by-lazyhackerbd-d3be5f754a4a?source=rss------bug_bounty_writeup-5)
 - [How I Simulated a Supply Chain Attack on Thousands of Servers — and Made $25K](https://infosecwriteups.com/how-i-simulated-a-supply-chain-attack-on-thousands-of-servers-and-made-25k-7d36647cbf36?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Breaking It During a Hackathon](https://medium.com/@debang5hu/breaking-it-during-a-hackathon-bb2f56da2ab7?source=rss------bug_bounty_writeup-5)
 - [BAC: THE Money-Making Machine](https://medium.com/@rajveer_0101/bac-the-money-making-machine-ba1bed9418ca?source=rss------bug_bounty_writeup-5)
 - [GitHub is a Search Engine for Secrets — and Nobody Told You](https://infosecwriteups.com/github-is-a-search-engine-for-secrets-and-nobody-told-you-65331d15803e?source=rss------bug_bounty_writeup-5)
-- [Hi ReadMe.io](https://sheshasai.medium.com/hi-readme-io-c0b7ce2e4909?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
