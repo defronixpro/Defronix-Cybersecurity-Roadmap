@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Stored XSS via iframe Injection Leads to $505 Bounty](https://medium.com/@sachinaneja/stored-xss-via-iframe-injection-leads-to-505-bounty-07580e9489fb?source=rss------bug_bounty_writeup-5)
 - [BUG BOUNTY from Zero To Hero! All secrects finally revealed !! @lazyhackerbd](https://medium.com/@lazyhackerbd/bug-bounty-from-zero-to-hero-all-secrects-finally-revealed-by-lazyhackerbd-d3be5f754a4a?source=rss------bug_bounty_writeup-5)
 - [How I Simulated a Supply Chain Attack on Thousands of Servers — and Made $25K](https://infosecwriteups.com/how-i-simulated-a-supply-chain-attack-on-thousands-of-servers-and-made-25k-7d36647cbf36?source=rss----7b722bfd1b8d---4)
 - [Bug Hunting Without Touching the Target: The Power of External Intelligence](https://infosecwriteups.com/bug-hunting-without-touching-the-target-the-power-of-external-intelligence-c40d0b0c4d27?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [BAC: THE Money-Making Machine](https://medium.com/@rajveer_0101/bac-the-money-making-machine-ba1bed9418ca?source=rss------bug_bounty_writeup-5)
 - [GitHub is a Search Engine for Secrets — and Nobody Told You](https://infosecwriteups.com/github-is-a-search-engine-for-secrets-and-nobody-told-you-65331d15803e?source=rss------bug_bounty_writeup-5)
 - [Hi ReadMe.io](https://sheshasai.medium.com/hi-readme-io-c0b7ce2e4909?source=rss------bug_bounty_writeup-5)
-- [How Bug Bounty Hunters Are Using Claude Code.](https://infosecwriteups.com/how-bug-bounty-hunters-are-using-claude-code-a94d6ceb056a?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
