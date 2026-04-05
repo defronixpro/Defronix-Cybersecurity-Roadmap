@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Unlimited Invites via Race Condition, invite limit bypass writeup](https://medium.com/@0xHafez/unlimited-invites-via-race-condition-invite-limit-bypass-writeup-c907d21be060?source=rss------bug_bounty_writeup-5)
 - [The Invisible Threat: Detecting Early-Stage Phishing &amp; Scam Campaigns](https://infosecwriteups.com/the-invisible-threat-detecting-early-stage-phishing-scam-campaigns-c5d36ef97336?source=rss----7b722bfd1b8d---4)
 - [Inside SC-200: What It Takes to Become a Microsoft Security Analyst](https://infosecwriteups.com/inside-sc-200-what-it-takes-to-become-a-microsoft-security-analyst-16391c166025?source=rss----7b722bfd1b8d---4)
 - [Blind SQL Injection in Private Program Leads to $2,100 Bounty](https://medium.com/@sachinaneja/blind-sql-injection-in-private-program-leads-to-2-100-bounty-a7e11e775919?source=rss------bug_bounty_writeup-5)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How I Found a Critical SAML Authentication Bypasson a Major Automotive Company&#39;s Dealer Portal](https://ousski.medium.com/how-i-found-a-critical-saml-authentication-bypass-848b1a33172e?source=rss------bug_bounty_writeup-5)
 - [How to Hunt IDORs When IDs Are UUIDs &lpar;Not Integers&rpar; Lab: User ID controlled by request parameter…](https://medium.com/@guyani/how-to-hunt-idors-when-ids-are-uuids-not-integers-lab-user-id-controlled-by-request-parameter-4c54aa5cc650?source=rss------bug_bounty_writeup-5)
 - [Breaking It During a Hackathon](https://medium.com/@debang5hu/breaking-it-during-a-hackathon-bb2f56da2ab7?source=rss------bug_bounty_writeup-5)
-- [BAC: THE Money-Making Machine](https://medium.com/@rajveer_0101/bac-the-money-making-machine-ba1bed9418ca?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
