@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [The Bug Bounty Checklist That Turns Beginners Into Hackers The Day I Missed a $500 Bug…](https://krishna-cyber.medium.com/the-bug-bounty-checklist-that-turns-beginners-into-hackers-e65cf644a915?source=rss------bug_bounty_writeup-5)
 - [Using Cloudflare’s Post-Quantum Tunnel to Protect Plex Remote Access on a Synology NAS](https://infosecwriteups.com/using-cloudflares-post-quantum-tunnel-to-protect-plex-remote-access-on-a-synology-nas-5745ae8b085e?source=rss----7b722bfd1b8d---4)
 - [How to Leak a $340B Secret: The Anthropic “Claude Code” Incident](https://infosecwriteups.com/how-to-leak-a-340b-secret-the-anthropic-claude-code-incident-663b3d6e3bb4?source=rss----7b722bfd1b8d---4)
 - [Nocturnal &lpar;Easy&rpar;| HackTheBox Writeup &lpar;Walkthrough&rpar;](https://infosecwriteups.com/nocturnal-easy-hackthebox-writeup-walkthrough-09e4eef3e1a8?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Bug Hunting Without Touching the Target: The Power of External Intelligence](https://infosecwriteups.com/bug-hunting-without-touching-the-target-the-power-of-external-intelligence-c40d0b0c4d27?source=rss----7b722bfd1b8d---4)
 - [Bug Hunting Without Touching the Target: The Power of External Intelligence](https://infosecwriteups.com/bug-hunting-without-touching-the-target-the-power-of-external-intelligence-c40d0b0c4d27?source=rss------bug_bounty_writeup-5)
 - [Exposed .env File Leads To API Key Leak &amp; Financial Impact](https://medium.com/@1sherlok/exposed-env-file-leads-to-api-key-leak-financial-impact-3886bf375367?source=rss------bug_bounty_writeup-5)
-- [How I Found a Critical SAML Authentication Bypasson a Major Automotive Company&#39;s Dealer Portal](https://ousski.medium.com/how-i-found-a-critical-saml-authentication-bypass-848b1a33172e?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
