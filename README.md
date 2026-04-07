@@ -926,7 +926,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [NGFW Vendor Moves and the Rise of SADL](https://infosecwriteups.com/ngfw-vendor-moves-and-the-rise-of-sadl-4217dbfffdba?source=rss----7b722bfd1b8d---4)
 - [Why strip_tags&lpar;&rpar; Does Not Protect You From XSS in PHP/Laravel](https://infosecwriteups.com/why-strip-tags-does-not-protect-you-from-xss-in-php-laravel-c97d0e805213?source=rss----7b722bfd1b8d---4)
 - [The Company Fixed the Breach… but Forgot the Root Cause](https://infosecwriteups.com/the-company-fixed-the-breach-but-forgot-the-root-cause-ed2c3a82e4e2?source=rss----7b722bfd1b8d---4)
-- [6+ Ways to Spot a Phishing Email in 2026](https://infosecwriteups.com/6-ways-to-spot-a-phishing-email-in-2026-c6a5d614a32e?source=rss----7b722bfd1b8d---4)
+- [6+ Ways to Spot an AI Phishing Email in 2026](https://infosecwriteups.com/6-ways-to-spot-a-phishing-email-in-2026-c6a5d614a32e?source=rss----7b722bfd1b8d---4)
 - [TryHackMe: CSRF Introduction — Full Walkthrough](https://infosecwriteups.com/tryhackme-csrf-introduction-full-walkthrough-c97c1a94e575?source=rss----7b722bfd1b8d---4)
 - [Android APK Analysis Tool: AI-Powered Static Malware Analysis in Your Terminal](https://infosecwriteups.com/android-apk-analysis-tool-ai-powered-static-malware-analysis-in-your-terminal-4beb239dad12?source=rss----7b722bfd1b8d---4)
 - [Vegeta: 1 — Morse Code Audio Recon + Writable /etc/passwd to Root | OffSec PG Play](https://infosecwriteups.com/vegeta-1-morse-code-audio-recon-writable-etc-passwd-to-root-offsec-pg-play-75fa1b9ae08e?source=rss----7b722bfd1b8d---4)
