@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [CSPT &lpar;Client-Side Path Traversal&rpar;](https://medium.com/@shadyfarouk1986/cspt-client-side-path-traversal-d7d446a88da1?source=rss------bug_bounty_writeup-5)
 - [The Bug Bounty Checklist That Turns Beginners Into Hackers The Day I Missed a $500 Bug…](https://krishna-cyber.medium.com/the-bug-bounty-checklist-that-turns-beginners-into-hackers-e65cf644a915?source=rss------bug_bounty_writeup-5)
 - [Using Cloudflare’s Post-Quantum Tunnel to Protect Plex Remote Access on a Synology NAS](https://infosecwriteups.com/using-cloudflares-post-quantum-tunnel-to-protect-plex-remote-access-on-a-synology-nas-5745ae8b085e?source=rss----7b722bfd1b8d---4)
 - [How to Leak a $340B Secret: The Anthropic “Claude Code” Incident](https://infosecwriteups.com/how-to-leak-a-340b-secret-the-anthropic-claude-code-incident-663b3d6e3bb4?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How I Simulated a Supply Chain Attack on Thousands of Servers — and Made $25K](https://infosecwriteups.com/how-i-simulated-a-supply-chain-attack-on-thousands-of-servers-and-made-25k-7d36647cbf36?source=rss----7b722bfd1b8d---4)
 - [Bug Hunting Without Touching the Target: The Power of External Intelligence](https://infosecwriteups.com/bug-hunting-without-touching-the-target-the-power-of-external-intelligence-c40d0b0c4d27?source=rss----7b722bfd1b8d---4)
 - [Bug Hunting Without Touching the Target: The Power of External Intelligence](https://infosecwriteups.com/bug-hunting-without-touching-the-target-the-power-of-external-intelligence-c40d0b0c4d27?source=rss------bug_bounty_writeup-5)
-- [Exposed .env File Leads To API Key Leak &amp; Financial Impact](https://medium.com/@1sherlok/exposed-env-file-leads-to-api-key-leak-financial-impact-3886bf375367?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
