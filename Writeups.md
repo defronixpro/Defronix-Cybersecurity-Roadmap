@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Temodar Agent: Opening the Door to AI‑Powered WordPress Security Analysis](https://medium.com/@xeloxa/temodar-agent-opening-the-door-to-ai-powered-wordpress-security-analysis-707bab4f9342?source=rss------bug_bounty_writeup-5)
 - [From Low Bug to $1000 Bounty — The Privilege Escalation Playbook Every Hacker Should Know](https://osintteam.blog/from-low-bug-to-1000-bounty-the-privilege-escalation-playbook-every-hacker-should-know-35fad04ff112?source=rss------bug_bounty_writeup-5)
 - [I Found a “Hidden” API Bug That Could Have Paid $2,000+ — And Most Hackers Would Miss It](https://osintteam.blog/i-found-a-hidden-api-bug-that-could-have-paid-2-000-and-most-hackers-would-miss-it-99c641560e17?source=rss------bug_bounty_writeup-5)
 - [The orWhere Trap: How SQL Operator Precedence Breaks Multi-Tenant Data Isolation in Laravel](https://infosecwriteups.com/the-orwhere-trap-how-sql-operator-precedence-breaks-multi-tenant-data-isolation-in-laravel-ec598f5a0f27?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Unlimited Invites via Race Condition, invite limit bypass writeup](https://medium.com/@0xHafez/unlimited-invites-via-race-condition-invite-limit-bypass-writeup-c907d21be060?source=rss------bug_bounty_writeup-5)
 - [From IDOR to SQL Injection in GraphQL WebSocket Escalated to PII &amp; Document Leak](https://medium.com/@DarkyOS/sql-injection-in-graphql-websocket-escalated-to-pii-document-leak-09ba7ad2800a?source=rss------bug_bounty_writeup-5)
 - [Blind SQL Injection in Private Program Leads to $2,100 Bounty](https://medium.com/@sachinaneja/blind-sql-injection-in-private-program-leads-to-2-100-bounty-a7e11e775919?source=rss------bug_bounty_writeup-5)
-- [How I Earned $200 in 5 Minutes Using a Simple Broken Link Hijacking Bug](https://medium.com/@pradeeptadi03/how-i-earned-200-in-5-minutes-using-a-simple-broken-link-hijacking-bug-41821fb41b1e?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
