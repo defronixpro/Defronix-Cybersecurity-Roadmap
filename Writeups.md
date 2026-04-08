@@ -1,6 +1,8 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How I Became an Organization Owner via Invite Manipulation &lpar;Privilege
+Escalation&rpar;](https://medium.com/@edahmed008/how-i-became-an-organization-owner-via-invite-manipulation-privilege-escalation-7a39ba5152cb?source=rss------bug_bounty_writeup-5)
 - [Unauthorized Access to Premium Content via Client-Side Security Flaw](https://medium.com/@kripansuyal/unauthorized-access-to-premium-content-via-client-side-security-flaw-efd0dd4e7c26?source=rss------bug_bounty_writeup-5)
 - [10 Recent Exploits Every Cybersecurity Professional Should Know &lpar;Stay Ahead in 2026&rpar;](https://medium.com/@cybervolt/10-recent-exploits-every-cybersecurity-professional-should-know-stay-ahead-in-2026-2dec8fb24932?source=rss------bug_bounty_writeup-5)
 - [Temodar Agent: Opening the Door to AI‑Powered WordPress Security Analysis](https://medium.com/@xeloxa/temodar-agent-opening-the-door-to-ai-powered-wordpress-security-analysis-707bab4f9342?source=rss------bug_bounty_writeup-5)
@@ -20,7 +22,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [The Bug Bounty Checklist That Turns Beginners Into Hackers The Day I Missed a $500 Bug…](https://krishna-cyber.medium.com/the-bug-bounty-checklist-that-turns-beginners-into-hackers-e65cf644a915?source=rss------bug_bounty_writeup-5)
 - [Using Cloudflare’s Post-Quantum Tunnel to Protect Plex Remote Access on a Synology NAS](https://infosecwriteups.com/using-cloudflares-post-quantum-tunnel-to-protect-plex-remote-access-on-a-synology-nas-5745ae8b085e?source=rss----7b722bfd1b8d---4)
 - [Bug Bounties in the AI Era: New Attack Surfaces, New Opportunities](https://bevijaygupta.medium.com/bug-bounties-in-the-ai-era-new-attack-surfaces-new-opportunities-633903136b0b?source=rss------bug_bounty_writeup-5)
-- [Unlimited Invites via Race Condition, invite limit bypass writeup](https://medium.com/@0xHafez/unlimited-invites-via-race-condition-invite-limit-bypass-writeup-c907d21be060?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
