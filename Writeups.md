@@ -21,7 +21,7 @@ Escalation&rpar;](https://medium.com/@edahmed008/how-i-became-an-organization-ow
 - [CSPT &lpar;Client-Side Path Traversal&rpar;](https://medium.com/@shadyfarouk1986/cspt-client-side-path-traversal-d7d446a88da1?source=rss------bug_bounty_writeup-5)
 - [The Bug Bounty Checklist That Turns Beginners Into Hackers The Day I Missed a $500 Bug…](https://krishna-cyber.medium.com/the-bug-bounty-checklist-that-turns-beginners-into-hackers-e65cf644a915?source=rss------bug_bounty_writeup-5)
 - [Using Cloudflare’s Post-Quantum Tunnel to Protect Plex Remote Access on a Synology NAS](https://infosecwriteups.com/using-cloudflares-post-quantum-tunnel-to-protect-plex-remote-access-on-a-synology-nas-5745ae8b085e?source=rss----7b722bfd1b8d---4)
-- [Bug Bounties in the AI Era: New Attack Surfaces, New Opportunities](https://bevijaygupta.medium.com/bug-bounties-in-the-ai-era-new-attack-surfaces-new-opportunities-633903136b0b?source=rss------bug_bounty_writeup-5)
+- [Bug Bounties in the AI Era: New Attack Surfaces, New Opportunities](https://medium.com/cyberscribers-exploring-cybersecurity/bug-bounties-in-the-ai-era-new-attack-surfaces-new-opportunities-633903136b0b?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
