@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [5 Ways I Found PII Disclosures in the Wild: Real Case Studies](https://scriptjacker.medium.com/5-ways-i-found-pii-disclosures-in-the-wild-real-case-studies-14429c54264f?source=rss------bug_bounty_writeup-5)
 - [A Simple Race Condition with Real-World Impact](https://medium.com/@Dr_Robik/a-simple-race-condition-with-real-world-impact-c5ae22f9f7b2?source=rss------bug_bounty_writeup-5)
 - [How I Bypassed 2FA Reconfiguration Using Response Manipulation — My First Bug Bounty](https://medium.com/@anamorsyai/how-i-bypassed-2fa-reconfiguration-using-response-manipulation-my-first-bug-bounty-d98316799010?source=rss------bug_bounty_writeup-5)
 - [So… You Thought Your VPN Was Keeping You Safe and Secure? Think Again &lpar;Hacker’s Edition&rpar;](https://infosecwriteups.com/so-you-thought-your-vpn-was-keeping-you-safe-and-secure-think-again-hackers-edition-375e88188221?source=rss----7b722bfd1b8d---4)
@@ -942,7 +943,6 @@ Escalation&rpar;](https://medium.com/@edahmed008/how-i-became-an-organization-ow
 - [From Low Bug to $1000 Bounty — The Privilege Escalation Playbook Every Hacker Should Know](https://osintteam.blog/from-low-bug-to-1000-bounty-the-privilege-escalation-playbook-every-hacker-should-know-35fad04ff112?source=rss------bug_bounty_writeup-5)
 - [I Found a “Hidden” API Bug That Could Have Paid $2,000+ — And Most Hackers Would Miss It](https://osintteam.blog/i-found-a-hidden-api-bug-that-could-have-paid-2-000-and-most-hackers-would-miss-it-99c641560e17?source=rss------bug_bounty_writeup-5)
 - [The Company Fixed the Breach… but Forgot the Root Cause](https://infosecwriteups.com/the-company-fixed-the-breach-but-forgot-the-root-cause-ed2c3a82e4e2?source=rss------bug_bounty_writeup-5)
-- [CSPT &lpar;Client-Side Path Traversal&rpar;](https://medium.com/@shadyfarouk1986/cspt-client-side-path-traversal-d7d446a88da1?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
