@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How I Bypassed 2FA Reconfiguration Using Response Manipulation — My First Bug Bounty](https://medium.com/@anamorsyai/how-i-bypassed-2fa-reconfiguration-using-response-manipulation-my-first-bug-bounty-d98316799010?source=rss------bug_bounty_writeup-5)
 - [So… You Thought Your VPN Was Keeping You Safe and Secure? Think Again &lpar;Hacker’s Edition&rpar;](https://infosecwriteups.com/so-you-thought-your-vpn-was-keeping-you-safe-and-secure-think-again-hackers-edition-375e88188221?source=rss----7b722bfd1b8d---4)
 - [Building a SOC Ticketing System with JIRA &lpar;Complete Step-by-Step Guide&rpar;](https://infosecwriteups.com/building-a-soc-ticketing-system-with-jira-complete-step-by-step-guide-a5eac6d4ce35?source=rss----7b722bfd1b8d---4)
 - [The Ministry of Silly Walks Presents: Walking the PEB](https://infosecwriteups.com/the-ministry-of-silly-walks-presents-walking-the-peb-e3c159eb3d30?source=rss----7b722bfd1b8d---4)
@@ -21,7 +22,6 @@ Escalation&rpar;](https://medium.com/@edahmed008/how-i-became-an-organization-ow
 - [The Company Fixed the Breach… but Forgot the Root Cause](https://infosecwriteups.com/the-company-fixed-the-breach-but-forgot-the-root-cause-ed2c3a82e4e2?source=rss------bug_bounty_writeup-5)
 - [CSPT &lpar;Client-Side Path Traversal&rpar;](https://medium.com/@shadyfarouk1986/cspt-client-side-path-traversal-d7d446a88da1?source=rss------bug_bounty_writeup-5)
 - [The Bug Bounty Checklist That Turns Beginners Into Hackers The Day I Missed a $500 Bug…](https://krishna-cyber.medium.com/the-bug-bounty-checklist-that-turns-beginners-into-hackers-e65cf644a915?source=rss------bug_bounty_writeup-5)
-- [Bug Bounties in the AI Era: New Attack Surfaces, New Opportunities](https://medium.com/cyberscribers-exploring-cybersecurity/bug-bounties-in-the-ai-era-new-attack-surfaces-new-opportunities-633903136b0b?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
