@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Exploiting Race Conditions to Bypass Platform Limits](https://medium.com/@montaser_mohsen/exploiting-race-conditions-to-bypass-platform-limits-06ccc9c9c03a?source=rss------bug_bounty_writeup-5)
 - [“Bug Bounty Bootcamp #31: Blind SQL Injection on INSERT — When Contact Forms Become Silent Data…](https://infosecwriteups.com/bug-bounty-bootcamp-31-blind-sql-injection-on-insert-when-contact-forms-become-silent-data-dfa5f8ddffe8?source=rss----7b722bfd1b8d---4)
 - [PortSwigger Lab: Information disclosure in version control history](https://infosecwriteups.com/portswigger-lab-information-disclosure-in-version-control-history-8c69ddf0cfca?source=rss----7b722bfd1b8d---4)
 - [️ The 2026 Web3 Security Roadmap](https://infosecwriteups.com/%EF%B8%8F-the-2026-web3-security-roadmap-aeb45011b9a5?source=rss----7b722bfd1b8d---4)
@@ -942,7 +943,6 @@ Escalation&rpar;](https://medium.com/@edahmed008/how-i-became-an-organization-ow
 - [10 Recent Exploits Every Cybersecurity Professional Should Know &lpar;Stay Ahead in 2026&rpar;](https://medium.com/@cybervolt/10-recent-exploits-every-cybersecurity-professional-should-know-stay-ahead-in-2026-2dec8fb24932?source=rss------bug_bounty_writeup-5)
 - [Temodar Agent: Opening the Door to AI‑Powered WordPress Security Analysis](https://medium.com/@xeloxa/temodar-agent-opening-the-door-to-ai-powered-wordpress-security-analysis-707bab4f9342?source=rss------bug_bounty_writeup-5)
 - [From Low Bug to $1000 Bounty — The Privilege Escalation Playbook Every Hacker Should Know](https://osintteam.blog/from-low-bug-to-1000-bounty-the-privilege-escalation-playbook-every-hacker-should-know-35fad04ff112?source=rss------bug_bounty_writeup-5)
-- [I Found a “Hidden” API Bug That Could Have Paid $2,000+ — And Most Hackers Would Miss It](https://osintteam.blog/i-found-a-hidden-api-bug-that-could-have-paid-2-000-and-most-hackers-would-miss-it-99c641560e17?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
