@@ -1,6 +1,10 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [RSS Feed Validator to RCE](https://medium.com/@anonanoon9/rss-validator-to-rce-4e4bd2451b0b?source=rss------bug_bounty_writeup-5)
+- [5 Ways I Found PII Disclosures in the Wild: Real Case Studies](https://scriptjacker.medium.com/5-ways-i-found-pii-disclosures-in-the-wild-real-case-studies-14429c54264f?source=rss------bug_bounty_writeup-5)
+- [A Simple Race Condition with Real-World Impact](https://medium.com/@Dr_Robik/a-simple-race-condition-with-real-world-impact-c5ae22f9f7b2?source=rss------bug_bounty_writeup-5)
+- [How I Bypassed 2FA Reconfiguration Using Response Manipulation — My First Bug Bounty](https://medium.com/@anamorsyai/how-i-bypassed-2fa-reconfiguration-using-response-manipulation-my-first-bug-bounty-d98316799010?source=rss------bug_bounty_writeup-5)
 - [So… You Thought Your VPN Was Keeping You Safe and Secure? Think Again &lpar;Hacker’s Edition&rpar;](https://infosecwriteups.com/so-you-thought-your-vpn-was-keeping-you-safe-and-secure-think-again-hackers-edition-375e88188221?source=rss----7b722bfd1b8d---4)
 - [Building a SOC Ticketing System with JIRA &lpar;Complete Step-by-Step Guide&rpar;](https://infosecwriteups.com/building-a-soc-ticketing-system-with-jira-complete-step-by-step-guide-a5eac6d4ce35?source=rss----7b722bfd1b8d---4)
 - [The Ministry of Silly Walks Presents: Walking the PEB](https://infosecwriteups.com/the-ministry-of-silly-walks-presents-walking-the-peb-e3c159eb3d30?source=rss----7b722bfd1b8d---4)
@@ -11,6 +15,13 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Dig Dug TryHackMe Walkthrough](https://infosecwriteups.com/dig-dug-tryhackme-walkthrough-5ecaf8fb0f33?source=rss----7b722bfd1b8d---4)
 - [Love Letter Locker — TryHackMe Writeup](https://infosecwriteups.com/love-letter-locker-tryhackme-writeup-88ea904851fb?source=rss----7b722bfd1b8d---4)
 - [“Bug Bounty Bootcamp #30: Time-Based Blind SQL Injection — When Silence Speaks Through Delays”](https://infosecwriteups.com/bug-bounty-bootcamp-30-time-based-blind-sql-injection-when-silence-speaks-through-delays-7e2107b6dc18?source=rss----7b722bfd1b8d---4)
+- [How I Became an Organization Owner via Invite Manipulation &lpar;Privilege
+Escalation&rpar;](https://medium.com/@edahmed008/how-i-became-an-organization-owner-via-invite-manipulation-privilege-escalation-7a39ba5152cb?source=rss------bug_bounty_writeup-5)
+- [Unauthorized Access to Premium Content via Client-Side Security Flaw](https://medium.com/@kripansuyal/unauthorized-access-to-premium-content-via-client-side-security-flaw-efd0dd4e7c26?source=rss------bug_bounty_writeup-5)
+- [10 Recent Exploits Every Cybersecurity Professional Should Know &lpar;Stay Ahead in 2026&rpar;](https://medium.com/@cybervolt/10-recent-exploits-every-cybersecurity-professional-should-know-stay-ahead-in-2026-2dec8fb24932?source=rss------bug_bounty_writeup-5)
+- [Temodar Agent: Opening the Door to AI‑Powered WordPress Security Analysis](https://medium.com/@xeloxa/temodar-agent-opening-the-door-to-ai-powered-wordpress-security-analysis-707bab4f9342?source=rss------bug_bounty_writeup-5)
+- [From Low Bug to $1000 Bounty — The Privilege Escalation Playbook Every Hacker Should Know](https://osintteam.blog/from-low-bug-to-1000-bounty-the-privilege-escalation-playbook-every-hacker-should-know-35fad04ff112?source=rss------bug_bounty_writeup-5)
+- [I Found a “Hidden” API Bug That Could Have Paid $2,000+ — And Most Hackers Would Miss It](https://osintteam.blog/i-found-a-hidden-api-bug-that-could-have-paid-2-000-and-most-hackers-would-miss-it-99c641560e17?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
