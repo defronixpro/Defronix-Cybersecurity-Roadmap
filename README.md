@@ -922,27 +922,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [Phishing Mengurai Taktik Penyamaran Attacker untuk mengambil alih Akun](https://infosecwriteups.com/phishing-mengurai-taktik-penyamaran-attacker-untuk-mengambil-alih-akun-82e7569df7b9?source=rss----7b722bfd1b8d---4)
-- [Exploiting LLM APIs with Excessive Agency &lpar;PortSwigger Lab Write-up&rpar;](https://infosecwriteups.com/exploiting-llm-apis-with-excessive-agency-portswigger-lab-write-up-df0650f736ae?source=rss----7b722bfd1b8d---4)
-- [[CMesS] — Gila CMS 1.10.9](https://infosecwriteups.com/cmess-gila-cms-1-10-9-11ed31a8cd2d?source=rss----7b722bfd1b8d---4)
-- [I went for coffee and came back with 6 vulnerabilities in WordPress plugins](https://infosecwriteups.com/i-went-for-coffee-and-came-back-with-6-vulnerabilities-in-wordpress-plugins-8f98fd40ef90?source=rss----7b722bfd1b8d---4)
-- [3 Ways to Simulate MFA in Phishing Campaigns with Anglerphish](https://infosecwriteups.com/3-ways-to-simulate-mfa-in-phishing-campaigns-with-anglerphish-b9078b7a7ab3?source=rss----7b722bfd1b8d---4)
-- [“Bug Bounty Bootcamp #32: Weaponizing File Uploads — From Profile Pictures to Remote Code…](https://infosecwriteups.com/bug-bounty-bootcamp-32-weaponizing-file-uploads-from-profile-pictures-to-remote-code-f582eb579c85?source=rss----7b722bfd1b8d---4)
-- [Network Segmentation Strategies: Implementing CISA’s Cybersecurity Best Practices for Layered…](https://infosecwriteups.com/network-segmentation-strategies-implementing-cisas-cybersecurity-best-practices-for-layered-7e053227770c?source=rss----7b722bfd1b8d---4)
-- [️ OWASP API Top 10 — TryHackMe Walkthrough &lpar;Part 2&rpar;](https://infosecwriteups.com/%EF%B8%8F-owasp-api-top-10-tryhackme-walkthrough-part-2-b9d1100e2660?source=rss----7b722bfd1b8d---4)
-- [Threat Hunting with IPS/IDS — LetsDefend](https://medium.com/@firdansp/threat-hunting-with-ips-ids-letsdefend-62e515ffbe81?source=rss------bug_bounty_writeup-5)
-- [OTP Bypass Menuju Account Takeover via Response Manipulation](https://nervhym.medium.com/otp-bypass-menuju-account-takeover-via-response-manipulation-905e33771387?source=rss------bug_bounty_writeup-5)
-- [Exploiting Race Conditions to Bypass Platform Limits](https://medium.com/@montaser_mohsen/exploiting-race-conditions-to-bypass-platform-limits-06ccc9c9c03a?source=rss------bug_bounty_writeup-5)
-- [“Bug Bounty Bootcamp #31: Blind SQL Injection on INSERT — When Contact Forms Become Silent Data…](https://infosecwriteups.com/bug-bounty-bootcamp-31-blind-sql-injection-on-insert-when-contact-forms-become-silent-data-dfa5f8ddffe8?source=rss----7b722bfd1b8d---4)
-- [PortSwigger Lab: Information disclosure in version control history](https://infosecwriteups.com/portswigger-lab-information-disclosure-in-version-control-history-8c69ddf0cfca?source=rss----7b722bfd1b8d---4)
-- [How I found a $5,000 Command Injection via an RSS validator](https://medium.com/@anonanoon9/rss-validator-to-rce-4e4bd2451b0b?source=rss------bug_bounty_writeup-5)
-- [5 Ways I Found PII Disclosures in the Wild: Real Case Studies](https://scriptjacker.medium.com/5-ways-i-found-pii-disclosures-in-the-wild-real-case-studies-14429c54264f?source=rss------bug_bounty_writeup-5)
-- [A Simple Race Condition with Real-World Impact](https://medium.com/@Dr_Robik/a-simple-race-condition-with-real-world-impact-c5ae22f9f7b2?source=rss------bug_bounty_writeup-5)
-- [How I Bypassed 2FA Reconfiguration Using Response Manipulation — My First Bug Bounty](https://medium.com/@anamorsyai/how-i-bypassed-2fa-reconfiguration-using-response-manipulation-my-first-bug-bounty-d98316799010?source=rss------bug_bounty_writeup-5)
-- [How I Became an Organization Owner via Invite Manipulation &lpar;Privilege
-Escalation&rpar;](https://medium.com/@edahmed008/how-i-became-an-organization-owner-via-invite-manipulation-privilege-escalation-7a39ba5152cb?source=rss------bug_bounty_writeup-5)
-- [Unauthorized Access to Premium Content via Client-Side Security Flaw](https://medium.com/@kripansuyal/unauthorized-access-to-premium-content-via-client-side-security-flaw-efd0dd4e7c26?source=rss------bug_bounty_writeup-5)
-- [10 Recent Exploits Every Cybersecurity Professional Should Know &lpar;Stay Ahead in 2026&rpar;](https://medium.com/@cybervolt/10-recent-exploits-every-cybersecurity-professional-should-know-stay-ahead-in-2026-2dec8fb24932?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
