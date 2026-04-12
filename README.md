@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Race Condition in Withdrawal Function: From Discovery to POC](https://medium.com/@goorgeniangoris/race-condition-in-withdrawal-function-from-discovery-to-poc-56bff465e0eb?source=rss------bug_bounty_writeup-5)
 - [How a Simple IDOR Earned Me a $10000+ Bounty](https://medium.com/@sachinaneja/how-a-simple-idor-earned-me-a-10000-bounty-fa6fb9b53263?source=rss------bug_bounty_writeup-5)
 - [The False Comfort of Dashboards](https://infosecwriteups.com/the-false-comfort-of-dashboards-472b88954a56?source=rss----7b722bfd1b8d---4)
 - [ThreatLens: Automating IoC Detection Directly in Your Browser](https://infosecwriteups.com/threatlens-automating-ioc-detection-directly-in-your-browser-9547e3c7defa?source=rss----7b722bfd1b8d---4)
@@ -942,7 +943,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How I Bypassed 2FA Reconfiguration Using Response Manipulation — My First Bug Bounty](https://medium.com/@anamorsyai/how-i-bypassed-2fa-reconfiguration-using-response-manipulation-my-first-bug-bounty-d98316799010?source=rss------bug_bounty_writeup-5)
 - [How I Became an Organization Owner via Invite Manipulation &lpar;Privilege
 Escalation&rpar;](https://medium.com/@edahmed008/how-i-became-an-organization-owner-via-invite-manipulation-privilege-escalation-7a39ba5152cb?source=rss------bug_bounty_writeup-5)
-- [Unauthorized Access to Premium Content via Client-Side Security Flaw](https://medium.com/@kripansuyal/unauthorized-access-to-premium-content-via-client-side-security-flaw-efd0dd4e7c26?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
