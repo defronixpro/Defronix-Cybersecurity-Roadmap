@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Broken Access Control via Replay Attack](https://medium.com/@0xJad/broken-access-control-via-replay-attack-78bd960cdc9f?source=rss------bug_bounty_writeup-5)
 - [Race Condition in Withdrawal Function: From Discovery to POC](https://medium.com/@goorgeniangoris/race-condition-in-withdrawal-function-from-discovery-to-poc-56bff465e0eb?source=rss------bug_bounty_writeup-5)
 - [How a Simple IDOR Earned Me a $10000+ Bounty](https://medium.com/@sachinaneja/how-a-simple-idor-earned-me-a-10000-bounty-fa6fb9b53263?source=rss------bug_bounty_writeup-5)
 - [The False Comfort of Dashboards](https://infosecwriteups.com/the-false-comfort-of-dashboards-472b88954a56?source=rss----7b722bfd1b8d---4)
@@ -20,8 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [5 Ways I Found PII Disclosures in the Wild: Real Case Studies](https://scriptjacker.medium.com/5-ways-i-found-pii-disclosures-in-the-wild-real-case-studies-14429c54264f?source=rss------bug_bounty_writeup-5)
 - [A Simple Race Condition with Real-World Impact](https://medium.com/@Dr_Robik/a-simple-race-condition-with-real-world-impact-c5ae22f9f7b2?source=rss------bug_bounty_writeup-5)
 - [How I Bypassed 2FA Reconfiguration Using Response Manipulation — My First Bug Bounty](https://medium.com/@anamorsyai/how-i-bypassed-2fa-reconfiguration-using-response-manipulation-my-first-bug-bounty-d98316799010?source=rss------bug_bounty_writeup-5)
-- [How I Became an Organization Owner via Invite Manipulation &lpar;Privilege
-Escalation&rpar;](https://medium.com/@edahmed008/how-i-became-an-organization-owner-via-invite-manipulation-privilege-escalation-7a39ba5152cb?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
