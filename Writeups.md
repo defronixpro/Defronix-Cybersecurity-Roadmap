@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How a Simple IDOR Earned Me a $10000+ Bounty](https://medium.com/@sachinaneja/how-a-simple-idor-earned-me-a-10000-bounty-fa6fb9b53263?source=rss------bug_bounty_writeup-5)
 - [The False Comfort of Dashboards](https://infosecwriteups.com/the-false-comfort-of-dashboards-472b88954a56?source=rss----7b722bfd1b8d---4)
 - [ThreatLens: Automating IoC Detection Directly in Your Browser](https://infosecwriteups.com/threatlens-automating-ioc-detection-directly-in-your-browser-9547e3c7defa?source=rss----7b722bfd1b8d---4)
 - [The Accidental Open Source: What Claude Code’s Leaked Source Code Tells Us About the Future of AI…](https://infosecwriteups.com/the-accidental-open-source-what-claude-codes-leaked-source-code-tells-us-about-the-future-of-ai-c5706b0b41d0?source=rss----7b722bfd1b8d---4)
@@ -21,7 +22,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How I Became an Organization Owner via Invite Manipulation &lpar;Privilege
 Escalation&rpar;](https://medium.com/@edahmed008/how-i-became-an-organization-owner-via-invite-manipulation-privilege-escalation-7a39ba5152cb?source=rss------bug_bounty_writeup-5)
 - [Unauthorized Access to Premium Content via Client-Side Security Flaw](https://medium.com/@kripansuyal/unauthorized-access-to-premium-content-via-client-side-security-flaw-efd0dd4e7c26?source=rss------bug_bounty_writeup-5)
-- [10 Recent Exploits Every Cybersecurity Professional Should Know &lpar;Stay Ahead in 2026&rpar;](https://medium.com/@cybervolt/10-recent-exploits-every-cybersecurity-professional-should-know-stay-ahead-in-2026-2dec8fb24932?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
