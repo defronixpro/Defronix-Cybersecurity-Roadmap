@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [The False Comfort of Dashboards](https://infosecwriteups.com/the-false-comfort-of-dashboards-472b88954a56?source=rss----7b722bfd1b8d---4)
 - [ThreatLens: Automating IoC Detection Directly in Your Browser](https://infosecwriteups.com/threatlens-automating-ioc-detection-directly-in-your-browser-9547e3c7defa?source=rss----7b722bfd1b8d---4)
 - [The Accidental Open Source: What Claude Code’s Leaked Source Code Tells Us About the Future of AI…](https://infosecwriteups.com/the-accidental-open-source-what-claude-codes-leaked-source-code-tells-us-about-the-future-of-ai-c5706b0b41d0?source=rss----7b722bfd1b8d---4)
 - [App using Cognito for SSO? Use this Methodology to find High Severity Issues](https://infosecwriteups.com/app-using-cognito-for-sso-use-this-methodology-to-find-high-severity-issues-b11a7ecfe0a1?source=rss----7b722bfd1b8d---4)
@@ -10,7 +11,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [CVE-2026-21876 — Root cause, Reproduction, Impact and Lessons Learned](https://infosecwriteups.com/cve-2026-21876-root-cause-reproduction-impact-and-lessons-learned-410909440568?source=rss----7b722bfd1b8d---4)
 - [OT Reconnaissance with Wireshark and GrassMarlin](https://infosecwriteups.com/ot-reconnaissance-with-wireshark-and-grassmarlin-26e68ed2aebd?source=rss----7b722bfd1b8d---4)
 - [Phishing Mengurai Taktik Penyamaran Attacker untuk mengambil alih Akun](https://infosecwriteups.com/phishing-mengurai-taktik-penyamaran-attacker-untuk-mengambil-alih-akun-82e7569df7b9?source=rss----7b722bfd1b8d---4)
-- [Exploiting LLM APIs with Excessive Agency &lpar;PortSwigger Lab Write-up&rpar;](https://infosecwriteups.com/exploiting-llm-apis-with-excessive-agency-portswigger-lab-write-up-df0650f736ae?source=rss----7b722bfd1b8d---4)
 - [Threat Hunting with IPS/IDS — LetsDefend](https://medium.com/@firdansp/threat-hunting-with-ips-ids-letsdefend-62e515ffbe81?source=rss------bug_bounty_writeup-5)
 - [OTP Bypass Menuju Account Takeover via Response Manipulation](https://nervhym.medium.com/otp-bypass-menuju-account-takeover-via-response-manipulation-905e33771387?source=rss------bug_bounty_writeup-5)
 - [Exploiting Race Conditions to Bypass Platform Limits](https://medium.com/@montaser_mohsen/exploiting-race-conditions-to-bypass-platform-limits-06ccc9c9c03a?source=rss------bug_bounty_writeup-5)
