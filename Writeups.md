@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Cool Open Redirect With Bypass](https://medium.com/@pm_/cool-open-redirect-with-bypass-d4a4f726b391?source=rss------bug_bounty_writeup-5)
 - [How I Found a CVSS 8.6 Token Exposure in a U.S. Financial Firm’s Production CMS](https://medium.com/@mv999exe/how-i-found-a-cvss-8-6-token-exposure-in-a-u-s-financial-firms-production-cms-1431fbedd5fe?source=rss------bug_bounty_writeup-5)
 - [Broken Access Control via Replay Attack](https://medium.com/@0xJad/broken-access-control-via-replay-attack-78bd960cdc9f?source=rss------bug_bounty_writeup-5)
 - [Race Condition in Withdrawal Function: From Discovery to POC](https://medium.com/@goorgeniangoris/race-condition-in-withdrawal-function-from-discovery-to-poc-56bff465e0eb?source=rss------bug_bounty_writeup-5)
@@ -19,8 +20,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [OTP Bypass Menuju Account Takeover via Response Manipulation](https://nervhym.medium.com/otp-bypass-menuju-account-takeover-via-response-manipulation-905e33771387?source=rss------bug_bounty_writeup-5)
 - [Exploiting Race Conditions to Bypass Platform Limits](https://medium.com/@montaser_mohsen/exploiting-race-conditions-to-bypass-platform-limits-06ccc9c9c03a?source=rss------bug_bounty_writeup-5)
 - [How I found a $5,000 Command Injection via an RSS validator](https://medium.com/@anonanoon9/rss-validator-to-rce-4e4bd2451b0b?source=rss------bug_bounty_writeup-5)
-- [5 Ways I Found PII Disclosures in the Wild: Real Case Studies](https://scriptjacker.medium.com/5-ways-i-found-pii-disclosures-in-the-wild-real-case-studies-14429c54264f?source=rss------bug_bounty_writeup-5)
-- [A Simple Race Condition with Real-World Impact](https://medium.com/@Dr_Robik/a-simple-race-condition-with-real-world-impact-c5ae22f9f7b2?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
