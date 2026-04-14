@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Is Bug Bounty a Good Long-Term Career? The Reality in 2026](https://medium.com/@pradeeptadi03/is-bug-bounty-a-good-long-term-career-the-reality-in-2026-8bb238d4d01e?source=rss------bug_bounty_writeup-5)
 - [Two Auth Modes, One Bypass: Discovering a Hidden Attack Path in AWS AppSync](https://medium.com/@splintercat/two-auth-modes-one-bypass-discovering-a-hidden-attack-path-in-aws-appsync-a4b27497e254?source=rss------bug_bounty_writeup-5)
 - [Android Malware Analysis: A Practical Guide for Security Analysts](https://infosecwriteups.com/android-malware-analysis-a-practical-guide-for-security-analysts-9cda5efb181d?source=rss----7b722bfd1b8d---4)
 - [From Threat Intelligence to Detection: A Practitioner’s Guide](https://infosecwriteups.com/from-threat-intelligence-to-detection-a-practitioners-guide-2d930b168426?source=rss----7b722bfd1b8d---4)
@@ -19,7 +20,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Cool Open Redirect With Bypass](https://medium.com/@pm_/cool-open-redirect-with-bypass-d4a4f726b391?source=rss------bug_bounty_writeup-5)
 - [How I Found a CVSS 8.6 Token Exposure in a U.S. Financial Firm’s Production CMS](https://medium.com/@mv999exe/how-i-found-a-cvss-8-6-token-exposure-in-a-u-s-financial-firms-production-cms-1431fbedd5fe?source=rss------bug_bounty_writeup-5)
 - [Broken Access Control via Replay Attack](https://medium.com/@0xJad/broken-access-control-via-replay-attack-78bd960cdc9f?source=rss------bug_bounty_writeup-5)
-- [Race Condition in Withdrawal Function: From Discovery to POC](https://medium.com/@goorgeniangoris/race-condition-in-withdrawal-function-from-discovery-to-poc-56bff465e0eb?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
