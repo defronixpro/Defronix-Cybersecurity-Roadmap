@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [When OAuth Bypasses Email Restrictions — A Simple Signup Logic Flaw](https://strangerwhite.medium.com/when-oauth-bypasses-email-restrictions-a-simple-signup-logic-flaw-6aaabc22766f?source=rss------bug_bounty_writeup-5)
 - [Cool Open Redirect With Bypass](https://medium.com/@pm_/cool-open-redirect-with-bypass-d4a4f726b391?source=rss------bug_bounty_writeup-5)
 - [How I Found a CVSS 8.6 Token Exposure in a U.S. Financial Firm’s Production CMS](https://medium.com/@mv999exe/how-i-found-a-cvss-8-6-token-exposure-in-a-u-s-financial-firms-production-cms-1431fbedd5fe?source=rss------bug_bounty_writeup-5)
 - [Broken Access Control via Replay Attack](https://medium.com/@0xJad/broken-access-control-via-replay-attack-78bd960cdc9f?source=rss------bug_bounty_writeup-5)
@@ -940,7 +941,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Threat Hunting with IPS/IDS — LetsDefend](https://medium.com/@firdansp/threat-hunting-with-ips-ids-letsdefend-62e515ffbe81?source=rss------bug_bounty_writeup-5)
 - [OTP Bypass Menuju Account Takeover via Response Manipulation](https://nervhym.medium.com/otp-bypass-menuju-account-takeover-via-response-manipulation-905e33771387?source=rss------bug_bounty_writeup-5)
 - [Exploiting Race Conditions to Bypass Platform Limits](https://medium.com/@montaser_mohsen/exploiting-race-conditions-to-bypass-platform-limits-06ccc9c9c03a?source=rss------bug_bounty_writeup-5)
-- [How I found a $5,000 Command Injection via an RSS validator](https://medium.com/@anonanoon9/rss-validator-to-rce-4e4bd2451b0b?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
