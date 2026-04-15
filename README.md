@@ -922,6 +922,10 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Lazy RC4: Payload Encryption Using SystemFunction032](https://infosecwriteups.com/lazy-rc4-payload-encryption-using-systemfunction032-9b89c370f407?source=rss----7b722bfd1b8d---4)
+- [DVRIP/Sofia Protocol Dissector for Wireshark &lpar;Written in Lua&rpar;](https://infosecwriteups.com/writing-a-wireshark-protocol-dissector-in-lua-eb216d97427f?source=rss----7b722bfd1b8d---4)
+- [How To Hack Part 4](https://infosecwriteups.com/how-to-hack-part-4-a10b9259cc4c?source=rss----7b722bfd1b8d---4)
+- [Breaking 2FA in WordPress: Account Takeover via CSRF in Google Authenticator](https://infosecwriteups.com/breaking-2fa-in-wordpress-account-takeover-via-csrf-in-google-authenticator-1b01d078b4a5?source=rss----7b722bfd1b8d---4)
 - [Day-3 Bypassing XSS with Hash Parameter](https://smartpicks4u.medium.com/day-3-bypassing-xss-with-hash-parameter-d654e7e4548c?source=rss------bug_bounty_writeup-5)
 - [Is Bug Bounty a Good Long-Term Career? The Reality in 2026](https://medium.com/@pradeeptadi03/is-bug-bounty-a-good-long-term-career-the-reality-in-2026-8bb238d4d01e?source=rss------bug_bounty_writeup-5)
 - [Two Auth Modes, One Bypass: Discovering a Hidden Attack Path in AWS AppSync](https://medium.com/@splintercat/two-auth-modes-one-bypass-discovering-a-hidden-attack-path-in-aws-appsync-a4b27497e254?source=rss------bug_bounty_writeup-5)
@@ -931,10 +935,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [GraphQL RCE: The Kill Chain to Cloud Identity…!](https://infosecwriteups.com/graphql-rce-the-kill-chain-to-cloud-identity-324699602931?source=rss----7b722bfd1b8d---4)
 - [How Dark Web Intelligence Helped Me Prioritize High-Value Targets](https://infosecwriteups.com/how-dark-web-intelligence-helped-me-prioritize-high-value-targets-57401b8f3d96?source=rss----7b722bfd1b8d---4)
 - [Exam Review: Certified Network Security Practitioner &lpar;CNSP&rpar;](https://infosecwriteups.com/exam-review-certified-network-security-practitioner-cnsp-fe8827ed6724?source=rss----7b722bfd1b8d---4)
-- [Rocket — CVE-2021–22911 NoSQL Injection + Ruby cap_setuid to Root | TryHackMe](https://infosecwriteups.com/rocket-cve-2021-22911-nosql-injection-ruby-cap-setuid-to-root-tryhackme-e4dc9e6ba82b?source=rss----7b722bfd1b8d---4)
-- [Lian_Yu — TryHackMe Walkthrough](https://infosecwriteups.com/lian-yu-tryhackme-walkthrough-2dc9ad347dee?source=rss----7b722bfd1b8d---4)
-- [Master Advanced Netcat Usage for Hackers: Techniques Beyond Reverse Shells](https://infosecwriteups.com/master-advanced-netcat-usage-for-hackers-techniques-beyond-reverse-shells-89f5e29776cb?source=rss----7b722bfd1b8d---4)
-- [Exploiting LLM APIs for OS Command Injection &lpar;PortSwigger Lab Write-up&rpar;](https://infosecwriteups.com/exploiting-llm-apis-for-os-command-injection-portswigger-lab-write-up-cb8738d8aa44?source=rss----7b722bfd1b8d---4)
 - [The Art of Knowing Everything Before You Hack Anything part 2](https://medium.com/@NeM0x00/the-art-of-knowing-everything-before-you-hack-anything-part-2-adba92f68281?source=rss------bug_bounty_writeup-5)
 - [How I Bypassed LG’s Account Verification with a Simple URL Edit](https://medium.com/@anonymoushackerx.bugreporter/how-i-bypassed-lgs-account-verification-with-a-simple-url-edit-205ba390d7b9?source=rss------bug_bounty_writeup-5)
 - [Uncle Rat’s Bug Bounty Methdology — 2026 Version](https://thexssrat.medium.com/uncle-rats-bug-bounty-methdology-2026-version-65c88af2cbe6?source=rss------bug_bounty_writeup-5)
