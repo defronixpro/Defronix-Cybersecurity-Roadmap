@@ -1,6 +1,10 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Engineering Nexus: How I Built Secure E2EE Network Sync Into a Linux Clipboard Manager](https://infosecwriteups.com/engineering-nexus-how-i-built-secure-e2ee-network-sync-into-a-linux-clipboard-manager-70f9d01fddda?source=rss----7b722bfd1b8d---4)
+- [“Bug Bounty Bootcamp #34: IDOR Beyond GET — Modifying, Deleting, and Method Switching for Maximum…](https://infosecwriteups.com/bug-bounty-bootcamp-34-idor-beyond-get-modifying-deleting-and-method-switching-for-maximum-159554377462?source=rss----7b722bfd1b8d---4)
+- [Linux Fundamentals Part 2: TryHackMe Walkthrough](https://infosecwriteups.com/linux-fundamentals-part-2-tryhackme-walkthrough-1cb226b5dc1c?source=rss----7b722bfd1b8d---4)
+- [Android APK Vulnerability Research Complete Guide](https://infosecwriteups.com/android-apk-vulnerability-research-complete-guide-a8fcae0f4849?source=rss----7b722bfd1b8d---4)
 - [day -4 Cross-site request forgery &lpar;CSRF&rpar;](https://smartpicks4u.medium.com/day-4-cross-site-request-forgery-csrf-e82267229670?source=rss------bug_bounty_writeup-5)
 - [Lazy RC4: Payload Encryption Using SystemFunction032](https://infosecwriteups.com/lazy-rc4-payload-encryption-using-systemfunction032-9b89c370f407?source=rss----7b722bfd1b8d---4)
 - [DVRIP/Sofia Protocol Dissector for Wireshark &lpar;Written in Lua&rpar;](https://infosecwriteups.com/writing-a-wireshark-protocol-dissector-in-lua-eb216d97427f?source=rss----7b722bfd1b8d---4)
@@ -11,10 +15,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Two Auth Modes, One Bypass: Discovering a Hidden Attack Path in AWS AppSync](https://medium.com/@splintercat/two-auth-modes-one-bypass-discovering-a-hidden-attack-path-in-aws-appsync-a4b27497e254?source=rss------bug_bounty_writeup-5)
 - [Android Malware Analysis: A Practical Guide for Security Analysts](https://infosecwriteups.com/android-malware-analysis-a-practical-guide-for-security-analysts-9cda5efb181d?source=rss----7b722bfd1b8d---4)
 - [From Threat Intelligence to Detection: A Practitioner’s Guide](https://infosecwriteups.com/from-threat-intelligence-to-detection-a-practitioners-guide-2d930b168426?source=rss----7b722bfd1b8d---4)
-- [I Tricked an AI Into Deleting a User Account &lpar;No Direct Access Needed&rpar;](https://infosecwriteups.com/i-tricked-an-ai-into-deleting-a-user-account-no-direct-access-needed-3d64528a648b?source=rss----7b722bfd1b8d---4)
-- [GraphQL RCE: The Kill Chain to Cloud Identity…!](https://infosecwriteups.com/graphql-rce-the-kill-chain-to-cloud-identity-324699602931?source=rss----7b722bfd1b8d---4)
-- [How Dark Web Intelligence Helped Me Prioritize High-Value Targets](https://infosecwriteups.com/how-dark-web-intelligence-helped-me-prioritize-high-value-targets-57401b8f3d96?source=rss----7b722bfd1b8d---4)
-- [Exam Review: Certified Network Security Practitioner &lpar;CNSP&rpar;](https://infosecwriteups.com/exam-review-certified-network-security-practitioner-cnsp-fe8827ed6724?source=rss----7b722bfd1b8d---4)
 - [The Art of Knowing Everything Before You Hack Anything part 2](https://medium.com/@NeM0x00/the-art-of-knowing-everything-before-you-hack-anything-part-2-adba92f68281?source=rss------bug_bounty_writeup-5)
 - [How I Bypassed LG’s Account Verification with a Simple URL Edit](https://medium.com/@anonymoushackerx.bugreporter/how-i-bypassed-lgs-account-verification-with-a-simple-url-edit-205ba390d7b9?source=rss------bug_bounty_writeup-5)
 - [Uncle Rat’s Bug Bounty Methdology — 2026 Version](https://thexssrat.medium.com/uncle-rats-bug-bounty-methdology-2026-version-65c88af2cbe6?source=rss------bug_bounty_writeup-5)
