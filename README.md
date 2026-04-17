@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Race Condition Exploitation in Poll Systems: How I Manipulated Votes with a Single Account](https://medium.com/@jonathangeorge1412/race-condition-exploitation-in-poll-systems-how-i-manipulated-votes-with-a-single-account-093a61acd24f?source=rss------bug_bounty_writeup-5)
 - [[13Cubed] Chaos at Cobalt Challenge — Investigating Windows Endpoint](https://infosecwriteups.com/13cubed-chaos-at-cobalt-challenge-investigating-windows-endpoint-2a43ccb5f0cc?source=rss----7b722bfd1b8d---4)
 - [Engineering Nexus: How I Built Secure E2EE Network Sync Into a Linux Clipboard Manager](https://infosecwriteups.com/engineering-nexus-how-i-built-secure-e2ee-network-sync-into-a-linux-clipboard-manager-70f9d01fddda?source=rss----7b722bfd1b8d---4)
 - [“Bug Bounty Bootcamp #34: IDOR Beyond GET — Modifying, Deleting, and Method Switching for Maximum…](https://infosecwriteups.com/bug-bounty-bootcamp-34-idor-beyond-get-modifying-deleting-and-method-switching-for-maximum-159554377462?source=rss----7b722bfd1b8d---4)
