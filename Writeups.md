@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [The Many Quirks of Linux libc — A Trail of Bits C/C++ Testing Handbook Challenge Write-Up](https://reza-zamiri.medium.com/the-many-quirks-of-linux-libc-a-trail-of-bits-c-c-testing-handbook-challenge-write-up-4dbd15f626b8?source=rss------bug_bounty_writeup-5)
 - [Day 5 — CSRF Token Bypass using GET Request](https://smartpicks4u.medium.com/day-5-csrf-token-bypass-using-get-request-791cba29812d?source=rss------bug_bounty_writeup-5)
 - [Email Verification Bypass &amp; AI Credits Manipulation via simple Mass Assignment](https://medium.com/@sh3rif0x/email-verification-bypass-ai-credits-manipulation-via-simple-mass-assignment-60999a81cb4c?source=rss------bug_bounty_writeup-5)
 - [Race Condition Exploitation in Poll Systems: How I Manipulated Votes with a Single Account](https://medium.com/@jonathangeorge1412/race-condition-exploitation-in-poll-systems-how-i-manipulated-votes-with-a-single-account-093a61acd24f?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Android Malware Analysis: A Practical Guide for Security Analysts](https://infosecwriteups.com/android-malware-analysis-a-practical-guide-for-security-analysts-9cda5efb181d?source=rss----7b722bfd1b8d---4)
 - [The Art of Knowing Everything Before You Hack Anything part 2](https://medium.com/@NeM0x00/the-art-of-knowing-everything-before-you-hack-anything-part-2-adba92f68281?source=rss------bug_bounty_writeup-5)
 - [How I Bypassed LG’s Account Verification with a Simple URL Edit](https://medium.com/@anonymoushackerx.bugreporter/how-i-bypassed-lgs-account-verification-with-a-simple-url-edit-205ba390d7b9?source=rss------bug_bounty_writeup-5)
-- [Uncle Rat’s Bug Bounty Methdology — 2026 Version](https://thexssrat.medium.com/uncle-rats-bug-bounty-methdology-2026-version-65c88af2cbe6?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
