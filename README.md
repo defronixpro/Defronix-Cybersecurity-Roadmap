@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Day-6: Let’s do some labs on CSRF](https://smartpicks4u.medium.com/day-6-lets-do-some-labs-on-csrf-f22af85e2a32?source=rss------bug_bounty_writeup-5)
 - [Unauthorized Account Deletion via HTTP Method Manipulation.A Business Logic Flaw in REST API Design](https://medium.com/@Mo_serag/unauthorized-account-deletion-via-http-method-manipulation-a-business-logic-flaw-in-rest-api-design-22ca2a39c363?source=rss------bug_bounty_writeup-5)
 - [The Many Quirks of Linux libc — A Trail of Bits C/C++ Testing Handbook Challenge Write-Up](https://reza-zamiri.medium.com/the-many-quirks-of-linux-libc-a-trail-of-bits-c-c-testing-handbook-challenge-write-up-4dbd15f626b8?source=rss------bug_bounty_writeup-5)
 - [Day 5 — CSRF Token Bypass using GET Request](https://smartpicks4u.medium.com/day-5-csrf-token-bypass-using-get-request-791cba29812d?source=rss------bug_bounty_writeup-5)
@@ -939,7 +940,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Breaking 2FA in WordPress: Account Takeover via CSRF in Google Authenticator](https://infosecwriteups.com/breaking-2fa-in-wordpress-account-takeover-via-csrf-in-google-authenticator-1b01d078b4a5?source=rss----7b722bfd1b8d---4)
 - [Day-3 Bypassing XSS with Hash Parameter](https://smartpicks4u.medium.com/day-3-bypassing-xss-with-hash-parameter-d654e7e4548c?source=rss------bug_bounty_writeup-5)
 - [Is Bug Bounty a Good Long-Term Career? The Reality in 2026](https://medium.com/@pradeeptadi03/is-bug-bounty-a-good-long-term-career-the-reality-in-2026-8bb238d4d01e?source=rss------bug_bounty_writeup-5)
-- [Two Auth Modes, One Bypass: Discovering a Hidden Attack Path in AWS AppSync](https://medium.com/@splintercat/two-auth-modes-one-bypass-discovering-a-hidden-attack-path-in-aws-appsync-a4b27497e254?source=rss------bug_bounty_writeup-5)
 - [Android Malware Analysis: A Practical Guide for Security Analysts](https://infosecwriteups.com/android-malware-analysis-a-practical-guide-for-security-analysts-9cda5efb181d?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
