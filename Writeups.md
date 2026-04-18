@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Unauthorized Account Deletion via HTTP Method Manipulation.A Business Logic Flaw in REST API Design](https://medium.com/@Mo_serag/unauthorized-account-deletion-via-http-method-manipulation-a-business-logic-flaw-in-rest-api-design-22ca2a39c363?source=rss------bug_bounty_writeup-5)
 - [The Many Quirks of Linux libc — A Trail of Bits C/C++ Testing Handbook Challenge Write-Up](https://reza-zamiri.medium.com/the-many-quirks-of-linux-libc-a-trail-of-bits-c-c-testing-handbook-challenge-write-up-4dbd15f626b8?source=rss------bug_bounty_writeup-5)
 - [Day 5 — CSRF Token Bypass using GET Request](https://smartpicks4u.medium.com/day-5-csrf-token-bypass-using-get-request-791cba29812d?source=rss------bug_bounty_writeup-5)
 - [Email Verification Bypass &amp; AI Credits Manipulation via simple Mass Assignment](https://medium.com/@sh3rif0x/email-verification-bypass-ai-credits-manipulation-via-simple-mass-assignment-60999a81cb4c?source=rss------bug_bounty_writeup-5)
@@ -19,7 +20,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Is Bug Bounty a Good Long-Term Career? The Reality in 2026](https://medium.com/@pradeeptadi03/is-bug-bounty-a-good-long-term-career-the-reality-in-2026-8bb238d4d01e?source=rss------bug_bounty_writeup-5)
 - [Two Auth Modes, One Bypass: Discovering a Hidden Attack Path in AWS AppSync](https://medium.com/@splintercat/two-auth-modes-one-bypass-discovering-a-hidden-attack-path-in-aws-appsync-a4b27497e254?source=rss------bug_bounty_writeup-5)
 - [Android Malware Analysis: A Practical Guide for Security Analysts](https://infosecwriteups.com/android-malware-analysis-a-practical-guide-for-security-analysts-9cda5efb181d?source=rss----7b722bfd1b8d---4)
-- [The Art of Knowing Everything Before You Hack Anything part 2](https://medium.com/@NeM0x00/the-art-of-knowing-everything-before-you-hack-anything-part-2-adba92f68281?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
