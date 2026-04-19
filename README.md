@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How to Get Started with Cybersecurity and Ethical Hacking](https://infosecwriteups.com/how-to-get-started-with-cybersecurity-and-ethical-hacking-5f8147d92970?source=rss----7b722bfd1b8d---4)
 - [Beyond Good Faith: How AI exploits the “Authorization Gap” by shattering the illusion of human…](https://infosecwriteups.com/beyond-good-faith-how-ai-exploits-the-authorization-gap-by-shattering-the-illusion-of-human-c0384469b530?source=rss----7b722bfd1b8d---4)
 - [Apna Hacker Lab Setup Karo Kali Linux + VirtualBox + Burp Suite &lpar;Hinglish Mein&rpar;](https://infosecwriteups.com/apna-hacker-lab-setup-karo-kali-linux-virtualbox-burp-suite-hinglish-mein-59a3adb74b97?source=rss----7b722bfd1b8d---4)
 - [500$ IDOR on a Public Program](https://medium.com/@sari.mmusab/500-idor-on-a-public-program-553858933e42?source=rss------bug_bounty_writeup-5)
@@ -932,7 +933,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Sumeru AI CTF 2026 Writeup](https://infosecwriteups.com/sumeru-ai-ctf-2026-writeup-61393f4a2251?source=rss----7b722bfd1b8d---4)
 - [Borderlands — Git History API Key Leak + BGP Hijacking to Flag Interception | TryHackMe](https://infosecwriteups.com/borderlands-git-history-api-key-leak-bgp-hijacking-to-flag-interception-tryhackme-cddd7c32dce1?source=rss----7b722bfd1b8d---4)
 - [Hardening Gophish: Implementing AES-256-GCM Database Encryption in Anglerphish](https://infosecwriteups.com/hardening-gophish-implementing-aes-256-gcm-database-encryption-in-anglerphish-735617ec8849?source=rss----7b722bfd1b8d---4)
-- [PicoCTF Writeup — AutoRev 1](https://infosecwriteups.com/picoctf-writeup-autorev-1-180a9f350d8f?source=rss----7b722bfd1b8d---4)
 - [Day-6: Let’s do some labs on CSRF](https://smartpicks4u.medium.com/day-6-lets-do-some-labs-on-csrf-f22af85e2a32?source=rss------bug_bounty_writeup-5)
 - [Unauthorized Account Deletion via HTTP Method Manipulation.A Business Logic Flaw in REST API Design](https://medium.com/@Mo_serag/unauthorized-account-deletion-via-http-method-manipulation-a-business-logic-flaw-in-rest-api-design-22ca2a39c363?source=rss------bug_bounty_writeup-5)
 - [The Many Quirks of Linux libc — A Trail of Bits C/C++ Testing Handbook Challenge Write-Up](https://reza-zamiri.medium.com/the-many-quirks-of-linux-libc-a-trail-of-bits-c-c-testing-handbook-challenge-write-up-4dbd15f626b8?source=rss------bug_bounty_writeup-5)
