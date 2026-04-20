@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How I Found a GraphQL Endpoint Leaking Millions](https://prateekpulastya.medium.com/how-i-found-a-graphql-endpoint-leaking-millions-5cbfd55d994e?source=rss------bug_bounty_writeup-5)
 - [How to Get Started with Cybersecurity and Ethical Hacking](https://infosecwriteups.com/how-to-get-started-with-cybersecurity-and-ethical-hacking-5f8147d92970?source=rss----7b722bfd1b8d---4)
 - [Beyond Good Faith: How AI exploits the “Authorization Gap” by shattering the illusion of human…](https://infosecwriteups.com/beyond-good-faith-how-ai-exploits-the-authorization-gap-by-shattering-the-illusion-of-human-c0384469b530?source=rss----7b722bfd1b8d---4)
 - [Apna Hacker Lab Setup Karo Kali Linux + VirtualBox + Burp Suite &lpar;Hinglish Mein&rpar;](https://infosecwriteups.com/apna-hacker-lab-setup-karo-kali-linux-virtualbox-burp-suite-hinglish-mein-59a3adb74b97?source=rss----7b722bfd1b8d---4)
@@ -19,7 +20,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Email Verification Bypass &amp; AI Credits Manipulation via simple Mass Assignment](https://medium.com/@sh3rif0x/email-verification-bypass-ai-credits-manipulation-via-simple-mass-assignment-60999a81cb4c?source=rss------bug_bounty_writeup-5)
 - [Race Condition Exploitation in Poll Systems: How I Manipulated Votes with a Single Account](https://medium.com/@jonathangeorge1412/race-condition-exploitation-in-poll-systems-how-i-manipulated-votes-with-a-single-account-093a61acd24f?source=rss------bug_bounty_writeup-5)
 - [day -4 Cross-site request forgery &lpar;CSRF&rpar;](https://smartpicks4u.medium.com/day-4-cross-site-request-forgery-csrf-e82267229670?source=rss------bug_bounty_writeup-5)
-- [Day-3 Bypassing XSS with Hash Parameter](https://smartpicks4u.medium.com/day-3-bypassing-xss-with-hash-parameter-d654e7e4548c?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
