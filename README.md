@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I Bypassed Authentication And Earned a 300$ Bounty](https://medium.com/@laganparihar/how-i-bypassed-authentication-and-earned-a-300-bounty-e6c4b6554b8b?source=rss------bug_bounty_writeup-5)
 - [The Hidden Art of Testing Authorization — Where Most Critical Bugs Exist](https://medium.com/@pradeeptadi03/the-hidden-art-of-testing-authorization-where-most-critical-bugs-exist-b70f0c3198d2?source=rss------bug_bounty_writeup-5)
 - [I wasn’t premium But I invited a teammate anyway — Authorization Bypass Allowing Non-Premium Users…](https://medium.com/@Oiluminado_x86/i-wasnt-premium-425d610434a3?source=rss------bug_bounty_writeup-5)
 - [I Found a Critical Bug in Meesho.](https://medium.com/@crimsonsovereign/i-found-a-critical-bug-in-meesho-b1d567c5eb7d?source=rss------bug_bounty_writeup-5)
@@ -940,7 +941,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [500$ IDOR on a Public Program](https://medium.com/@sari.mmusab/500-idor-on-a-public-program-553858933e42?source=rss------bug_bounty_writeup-5)
 - [Day-6: Let’s do some labs on CSRF](https://smartpicks4u.medium.com/day-6-lets-do-some-labs-on-csrf-f22af85e2a32?source=rss------bug_bounty_writeup-5)
 - [Unauthorized Account Deletion via HTTP Method Manipulation.A Business Logic Flaw in REST API Design](https://medium.com/@Mo_serag/unauthorized-account-deletion-via-http-method-manipulation-a-business-logic-flaw-in-rest-api-design-22ca2a39c363?source=rss------bug_bounty_writeup-5)
-- [The Many Quirks of Linux libc — A Trail of Bits C/C++ Testing Handbook Challenge Write-Up](https://reza-zamiri.medium.com/the-many-quirks-of-linux-libc-a-trail-of-bits-c-c-testing-handbook-challenge-write-up-4dbd15f626b8?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
