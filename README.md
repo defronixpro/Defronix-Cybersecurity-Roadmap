@@ -923,10 +923,9 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
 - [How I Bypassed 2FA on a Fintech Platform](https://osintteam.blog/how-i-bypassed-2fa-on-a-fintech-platform-0a8806e94671?source=rss------bug_bounty_writeup-5)
-- [How I Bypassed Authentication And Earned a 300$ Bounty](https://medium.com/@laganparihar/how-i-bypassed-authentication-and-earned-a-300-bounty-e6c4b6554b8b?source=rss------bug_bounty_writeup-5)
+- [How I Bypassed Authentication And Earned a 300$ Bounty](https://medium.com/@lagan_/how-i-bypassed-authentication-and-earned-a-300-bounty-e6c4b6554b8b?source=rss------bug_bounty_writeup-5)
 - [The Hidden Art of Testing Authorization — Where Most Critical Bugs Exist](https://medium.com/@pradeeptadi03/the-hidden-art-of-testing-authorization-where-most-critical-bugs-exist-b70f0c3198d2?source=rss------bug_bounty_writeup-5)
 - [I wasn’t premium But I invited a teammate anyway — Authorization Bypass Allowing Non-Premium Users…](https://medium.com/@Oiluminado_x86/i-wasnt-premium-425d610434a3?source=rss------bug_bounty_writeup-5)
-- [I Found a Critical Bug in Meesho.](https://medium.com/@crimsonsovereign/i-found-a-critical-bug-in-meesho-b1d567c5eb7d?source=rss------bug_bounty_writeup-5)
 - [How a Simple OTP Flaw Could Lead to Full Account Takeover](https://blackmambaa.medium.com/how-a-simple-otp-flaw-could-lead-to-full-account-takeover-12220a10a63b?source=rss------bug_bounty_writeup-5)
 - [Apple Knows. Visa Knows. Nobody Has Fixed It. Here’s Why.](https://infosecwriteups.com/apple-knows-visa-knows-nobody-has-fixed-it-heres-why-e37796a6e8e2?source=rss----7b722bfd1b8d---4)
 - [Instagram Scraper Broke 12 Times in 6 Weeks: A Maintenance Postmortem](https://infosecwriteups.com/instagram-scraper-broke-12-times-in-6-weeks-a-maintenance-postmortem-aad38b68f238?source=rss----7b722bfd1b8d---4)
