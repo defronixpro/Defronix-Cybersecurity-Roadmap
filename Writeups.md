@@ -1,6 +1,8 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Breaking Access Control: How a Low-Privilege User Accessed Workspace Members Data](https://medium.com/@montaser_mohsen/breaking-access-control-how-a-low-privilege-user-accessed-workspace-members-data-af2e72d64bb9?source=rss------bug_bounty_writeup-5)
+- [That One “Download” Endpoint That Shouldn’t Have Been There](https://medium.com/@21bec131/that-one-download-endpoint-that-shouldnt-have-been-there-98fa9e0c4a36?source=rss------bug_bounty_writeup-5)
 - [How I Found an Exposed Google Maps API Key in a Production Config File](https://infosecwriteups.com/how-i-found-an-exposed-google-maps-api-key-in-a-production-config-file-53453b909521?source=rss----7b722bfd1b8d---4)
 - [How I Found and Bypassed a Newsletter Confirmation System &lpar;IDOR&rpar;.](https://infosecwriteups.com/how-i-found-and-bypassed-a-newsletter-confirmation-system-idor-4698d1012317?source=rss----7b722bfd1b8d---4)
 - [SSRF Server-Side Request Forgery: Server Ko Apna Agent Banao, Internal Network Explore Karo!](https://infosecwriteups.com/ssrf-server-side-request-forgery-server-ko-apna-agent-banao-internal-network-explore-karo-4b48abb86e34?source=rss----7b722bfd1b8d---4)
@@ -18,8 +20,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [I wasn’t premium But I invited a teammate anyway — Authorization Bypass Allowing Non-Premium Users…](https://medium.com/@Oiluminado_x86/i-wasnt-premium-425d610434a3?source=rss------bug_bounty_writeup-5)
 - [How a Simple OTP Flaw Could Lead to Full Account Takeover](https://blackmambaa.medium.com/how-a-simple-otp-flaw-could-lead-to-full-account-takeover-12220a10a63b?source=rss------bug_bounty_writeup-5)
 - [How I Found a GraphQL Endpoint Leaking Millions](https://prateekpulastya.medium.com/how-i-found-a-graphql-endpoint-leaking-millions-5cbfd55d994e?source=rss------bug_bounty_writeup-5)
-- [500$ IDOR on a Public Program](https://medium.com/@sari.mmusab/500-idor-on-a-public-program-553858933e42?source=rss------bug_bounty_writeup-5)
-- [Day-6: Let’s do some labs on CSRF](https://smartpicks4u.medium.com/day-6-lets-do-some-labs-on-csrf-f22af85e2a32?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
