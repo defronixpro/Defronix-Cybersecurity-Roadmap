@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Breaking Logic with Timing: A Race Condition Case Study &lpar;with a Vibe &rpar;](https://medium.com/@omnikkotow/breaking-logic-with-timing-a-race-condition-case-study-with-a-vibe-9a47db69d68e?source=rss------bug_bounty_writeup-5)
 - [The File That Answered Back — XXE Hidden in Cell A2](https://alvinferd.medium.com/the-file-that-answered-back-xxe-hidden-in-cell-a2-20dbb8161dd8?source=rss------bug_bounty_writeup-5)
 - [Breaking Access Control: How a Low-Privilege User Accessed Workspace Members Data](https://medium.com/@montaser_mohsen/breaking-access-control-how-a-low-privilege-user-accessed-workspace-members-data-af2e72d64bb9?source=rss------bug_bounty_writeup-5)
 - [That One “Download” Endpoint That Shouldn’t Have Been There](https://medium.com/@21bec131/that-one-download-endpoint-that-shouldnt-have-been-there-98fa9e0c4a36?source=rss------bug_bounty_writeup-5)
@@ -940,7 +941,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How I Bypassed Authentication And Earned a 300$ Bounty](https://medium.com/@lagan_/how-i-bypassed-authentication-and-earned-a-300-bounty-e6c4b6554b8b?source=rss------bug_bounty_writeup-5)
 - [The Hidden Art of Testing Authorization — Where Most Critical Bugs Exist](https://medium.com/@pradeeptadi03/the-hidden-art-of-testing-authorization-where-most-critical-bugs-exist-b70f0c3198d2?source=rss------bug_bounty_writeup-5)
 - [I wasn’t premium But I invited a teammate anyway — Authorization Bypass Allowing Non-Premium Users…](https://medium.com/@Oiluminado_x86/i-wasnt-premium-425d610434a3?source=rss------bug_bounty_writeup-5)
-- [How a Simple OTP Flaw Could Lead to Full Account Takeover](https://blackmambaa.medium.com/how-a-simple-otp-flaw-could-lead-to-full-account-takeover-12220a10a63b?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
