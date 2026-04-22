@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Authentication bypass via unauthenticated JWT generation on a telecom provider](https://medium.com/@amrgomaa009/authentication-bypass-via-unauthenticated-jwt-generation-on-a-telecom-provider-78df29d88261?source=rss------bug_bounty_writeup-5)
+- [Day 9: How I Bypassed Double CSRF Token Validation Using Only an IMG Tag](https://smartpicks4u.medium.com/day-9-csrf-where-the-token-is-duplicated-in-the-cookie-5b78f8288183?source=rss------bug_bounty_writeup-5)
 - [Broken Authentication](https://medium.com/@CryVoid/broken-authentication-88c882596961?source=rss------bug_bounty_writeup-5)
 - [Critical Auth Bypass: How Forgot Password Feature Allowed Unverified Users to Access the Entire App…](https://medium.com/@viralecho/critical-auth-bypass-how-forgot-password-feature-allowed-unverified-users-to-access-the-entire-app-ad4ae8b832d4?source=rss------bug_bounty_writeup-5)
 - [Day 7 &amp; 8: What Took 2 Days..](https://smartpicks4u.medium.com/day-7-8-what-took-2-days-c404fe7fe8bf?source=rss------bug_bounty_writeup-5)
@@ -940,8 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [WaTF Bank Walkthrough &lpar;Part 1&rpar;: Exploiting Android App Security Flaws](https://infosecwriteups.com/watf-bank-walkthrough-part-1-exploiting-android-app-security-flaws-3accf699f5cd?source=rss----7b722bfd1b8d---4)
 - [Breaking Email Trust: How I Bypassed Email Verification in a Real-World Application.](https://infosecwriteups.com/breaking-email-trust-how-i-bypassed-email-verification-in-a-real-world-application-5c8ef5a51b51?source=rss----7b722bfd1b8d---4)
 - [Breaking Email Trust: How I Bypassed Email Verification in a Real-World Application.](https://infosecwriteups.com/breaking-email-trust-how-i-bypassed-email-verification-in-a-real-world-application-5c8ef5a51b51?source=rss------bug_bounty_writeup-5)
-- [How I Bypassed 2FA on a Fintech Platform](https://osintteam.blog/how-i-bypassed-2fa-on-a-fintech-platform-0a8806e94671?source=rss------bug_bounty_writeup-5)
-- [How I Bypassed Authentication And Earned a 300$ Bounty](https://medium.com/@lagan_/how-i-bypassed-authentication-and-earned-a-300-bounty-e6c4b6554b8b?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
