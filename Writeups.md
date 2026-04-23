@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How a Fake Image and an Expired Token Made a Server Confess Everything](https://medium.com/@abdullah44040/how-a-fake-image-and-an-expired-token-made-a-server-confess-everything-ad1f169b1f70?source=rss------bug_bounty_writeup-5)
 - [How I Found a Critical Bug Using Claude Desktop &lpar;Free&rpar;](https://medium.com/@red_darkin/how-i-found-a-critical-bug-using-claude-desktop-free-a626e8f3ed67?source=rss------bug_bounty_writeup-5)
 - [How I Found My First Valid Bug](https://medium.com/@vamsikandukuru22/how-i-found-my-first-valid-bug-c138e6823804?source=rss------bug_bounty_writeup-5)
 - [$3,134 Bug Bounty: How a Researcher Hacked Google with a Simple URL Trick](https://medium.com/@rajauzairabdullah/3-134-bug-bounty-how-a-researcher-hacked-google-with-a-simple-url-trick-aa4d52c52d26?source=rss------bug_bounty_writeup-5)
@@ -19,7 +20,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Critical Auth Bypass: How Forgot Password Feature Allowed Unverified Users to Access the Entire App…](https://medium.com/@viralecho/critical-auth-bypass-how-forgot-password-feature-allowed-unverified-users-to-access-the-entire-app-ad4ae8b832d4?source=rss------bug_bounty_writeup-5)
 - [Day 7 &amp; 8: What Took 2 Days..](https://smartpicks4u.medium.com/day-7-8-what-took-2-days-c404fe7fe8bf?source=rss------bug_bounty_writeup-5)
 - [Breaking Logic with Timing: A Race Condition Case Study &lpar;with a Vibe &rpar;](https://medium.com/@omnikkotow/breaking-logic-with-timing-a-race-condition-case-study-with-a-vibe-9a47db69d68e?source=rss------bug_bounty_writeup-5)
-- [The File That Answered Back — XXE Hidden in Cell A2](https://alvinferd.medium.com/the-file-that-answered-back-xxe-hidden-in-cell-a2-20dbb8161dd8?source=rss------bug_bounty_writeup-5)
 - [How I Found an Exposed Google Maps API Key in a Production Config File](https://infosecwriteups.com/how-i-found-an-exposed-google-maps-api-key-in-a-production-config-file-53453b909521?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
