@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How I Earned €200 in 10 Minutes by Exploiting a Race Condition on a Job Application Portal](https://medium.com/@amrgomaa009/how-i-earned-200-in-10-minutes-by-exploiting-a-race-condition-on-a-job-application-portal-2347bb98c4c0?source=rss------bug_bounty_writeup-5)
 - [The HTTP 303 Hack — From Python HTTP Client Defaults to AWS Credential Exfiltration — A Deep Dive…](https://alvinferd.medium.com/the-http-303-hack-from-python-http-client-defaults-to-aws-credential-exfiltration-a-deep-dive-bfaece6c3805?source=rss------bug_bounty_writeup-5)
 - [“Bug Bounty Bootcamp #35: SSRF — Turning the Server Into Your Personal Proxy to Hack Internal…](https://infosecwriteups.com/bug-bounty-bootcamp-35-ssrf-turning-the-server-into-your-personal-proxy-to-hack-internal-c9f74582cf0c?source=rss----7b722bfd1b8d---4)
 - [“Bug Bounty Bootcamp #33: IDOR Hunting — When Changing a Single Number Grants You Everyone’s…](https://infosecwriteups.com/bug-bounty-bootcamp-33-idor-hunting-when-changing-a-single-number-grants-you-everyones-d66af4fdabd5?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [$3,134 Bug Bounty: How a Researcher Hacked Google with a Simple URL Trick](https://cybersecuritywriteups.com/3-134-bug-bounty-how-a-researcher-hacked-google-with-a-simple-url-trick-aa4d52c52d26?source=rss------bug_bounty_writeup-5)
 - [$800 Bounty: Privilege Escalation via API — From Scheduler to Team Admin](https://infosecwriteups.com/800-bounty-privilege-escalation-via-api-from-scheduler-to-team-admin-810bb8401a0f?source=rss----7b722bfd1b8d---4)
 - [How To Hack Part 5](https://infosecwriteups.com/how-to-hack-part-5-d79099f523f5?source=rss----7b722bfd1b8d---4)
-- [Authentication bypass via unauthenticated JWT generation on a telecom provider](https://medium.com/@amrgomaa009/authentication-bypass-via-unauthenticated-jwt-generation-on-a-telecom-provider-78df29d88261?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
