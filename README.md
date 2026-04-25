@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [No Rules, No Locks — Firebase Misconfiguration and the Borrowers It Left Behind](https://alvinferd.medium.com/no-rules-no-locks-firebase-misconfiguration-and-the-borrowers-it-left-behind-90d568038414?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Series — Part 3 &lpar;HTTP Parameter Pollution&rpar;](https://medium.com/@adii.utsav/bug-bounty-series-part-3-http-parameter-pollution-e2bbf95c8cae?source=rss------bug_bounty_writeup-5)
 - [Race Condition Allow Limit Bypass Free Tier Account](https://medium.com/@enums/race-condition-allow-limit-bypass-free-tier-account-cbb28c3ad8e5?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Series — Part 2 &lpar;Open Redirect&rpar;](https://medium.com/@adii.utsav/bug-bounty-series-part-2-open-redirect-dbe134323982?source=rss------bug_bounty_writeup-5)
@@ -938,8 +939,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [SameSite=Strict? No Problem — Bypassing It With a Client-Side Redirect](https://smartpicks4u.medium.com/samesite-strict-no-problem-bypassing-it-with-a-client-side-redirect-45dbb439addb?source=rss------bug_bounty_writeup-5)
 - [The Easiest Bug Bounty Win You’re Overlooking [The $$ Bug Hiding in Plain Sight]](https://blackmambaa.medium.com/the-easiest-bug-bounty-win-youre-overlooking-the-bug-hiding-in-plain-sight-4455a58e1b4a?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Series— Part 1 &lpar;Bug Bounty Basics&rpar;](https://medium.com/@adii.utsav/bug-bounty-series-part-1-bug-bounty-basics-7c2937fa8cde?source=rss------bug_bounty_writeup-5)
-- [Day 10: Bypassing SameSite Lax with Method Override &lpar;CSRF Lab Walkthrough&rpar;](https://smartpicks4u.medium.com/day-10-bypassing-samesite-lax-with-method-override-csrf-lab-walkthrough-aed3f70cdea8?source=rss------bug_bounty_writeup-5)
-- [How a Fake Image and an Expired Token Made a Server Confess Everything](https://medium.com/@abdullah44040/how-a-fake-image-and-an-expired-token-made-a-server-confess-everything-ad1f169b1f70?source=rss------bug_bounty_writeup-5)
 - [$800 Bounty: Privilege Escalation via API — From Scheduler to Team Admin](https://infosecwriteups.com/800-bounty-privilege-escalation-via-api-from-scheduler-to-team-admin-810bb8401a0f?source=rss----7b722bfd1b8d---4)
 - [How To Hack Part 5](https://infosecwriteups.com/how-to-hack-part-5-d79099f523f5?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
