@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Bug Bounty Series — Part 3 &lpar;HTTP Parameter Pollution&rpar;](https://medium.com/@adii.utsav/bug-bounty-series-part-3-http-parameter-pollution-e2bbf95c8cae?source=rss------bug_bounty_writeup-5)
 - [Race Condition Allow Limit Bypass Free Tier Account](https://medium.com/@enums/race-condition-allow-limit-bypass-free-tier-account-cbb28c3ad8e5?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Series — Part 2 &lpar;Open Redirect&rpar;](https://medium.com/@adii.utsav/bug-bounty-series-part-2-open-redirect-dbe134323982?source=rss------bug_bounty_writeup-5)
 - [How I Earned €200 in 10 Minutes by Exploiting a Race Condition on a Job Application Portal](https://medium.com/@amrgomaa009/how-i-earned-200-in-10-minutes-by-exploiting-a-race-condition-on-a-job-application-portal-2347bb98c4c0?source=rss------bug_bounty_writeup-5)
@@ -18,7 +19,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Bug Bounty Series— Part 1 &lpar;Bug Bounty Basics&rpar;](https://medium.com/@adii.utsav/bug-bounty-series-part-1-bug-bounty-basics-7c2937fa8cde?source=rss------bug_bounty_writeup-5)
 - [Day 10: Bypassing SameSite Lax with Method Override &lpar;CSRF Lab Walkthrough&rpar;](https://smartpicks4u.medium.com/day-10-bypassing-samesite-lax-with-method-override-csrf-lab-walkthrough-aed3f70cdea8?source=rss------bug_bounty_writeup-5)
 - [How a Fake Image and an Expired Token Made a Server Confess Everything](https://medium.com/@abdullah44040/how-a-fake-image-and-an-expired-token-made-a-server-confess-everything-ad1f169b1f70?source=rss------bug_bounty_writeup-5)
-- [How I Found a Critical Bug Using Claude Desktop &lpar;Free&rpar;](https://medium.com/@red_darkin/how-i-found-a-critical-bug-using-claude-desktop-free-a626e8f3ed67?source=rss------bug_bounty_writeup-5)
 - [$800 Bounty: Privilege Escalation via API — From Scheduler to Team Admin](https://infosecwriteups.com/800-bounty-privilege-escalation-via-api-from-scheduler-to-team-admin-810bb8401a0f?source=rss----7b722bfd1b8d---4)
 - [How To Hack Part 5](https://infosecwriteups.com/how-to-hack-part-5-d79099f523f5?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
