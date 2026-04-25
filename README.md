@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How a Small Validation Flaw Led to a 0-Click Account Takeover](https://medium.com/@ohmyleg_/how-a-small-validation-flaw-led-to-a-0-click-account-takeover-4fa944dce03e?source=rss------bug_bounty_writeup-5)
 - [No Rules, No Locks — Firebase Misconfiguration and the Borrowers It Left Behind](https://alvinferd.medium.com/no-rules-no-locks-firebase-misconfiguration-and-the-borrowers-it-left-behind-90d568038414?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Series — Part 3 &lpar;HTTP Parameter Pollution&rpar;](https://medium.com/@adii.utsav/bug-bounty-series-part-3-http-parameter-pollution-e2bbf95c8cae?source=rss------bug_bounty_writeup-5)
 - [Race Condition Allow Limit Bypass Free Tier Account](https://medium.com/@enums/race-condition-allow-limit-bypass-free-tier-account-cbb28c3ad8e5?source=rss------bug_bounty_writeup-5)
@@ -938,7 +939,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Spring — Spring Boot Actuator RCE + Symlink Arbitrary Write to Root | TryHackMe](https://infosecwriteups.com/spring-spring-boot-actuator-rce-symlink-arbitrary-write-to-root-tryhackme-ed5c7635ed3c?source=rss----7b722bfd1b8d---4)
 - [SameSite=Strict? No Problem — Bypassing It With a Client-Side Redirect](https://smartpicks4u.medium.com/samesite-strict-no-problem-bypassing-it-with-a-client-side-redirect-45dbb439addb?source=rss------bug_bounty_writeup-5)
 - [The Easiest Bug Bounty Win You’re Overlooking [The $$ Bug Hiding in Plain Sight]](https://blackmambaa.medium.com/the-easiest-bug-bounty-win-youre-overlooking-the-bug-hiding-in-plain-sight-4455a58e1b4a?source=rss------bug_bounty_writeup-5)
-- [Bug Bounty Series— Part 1 &lpar;Bug Bounty Basics&rpar;](https://medium.com/@adii.utsav/bug-bounty-series-part-1-bug-bounty-basics-7c2937fa8cde?source=rss------bug_bounty_writeup-5)
 - [$800 Bounty: Privilege Escalation via API — From Scheduler to Team Admin](https://infosecwriteups.com/800-bounty-privilege-escalation-via-api-from-scheduler-to-team-admin-810bb8401a0f?source=rss----7b722bfd1b8d---4)
 - [How To Hack Part 5](https://infosecwriteups.com/how-to-hack-part-5-d79099f523f5?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
