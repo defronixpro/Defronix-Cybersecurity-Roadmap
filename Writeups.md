@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [️‍♂️ How I Find Critical Data Leaks Using Just Google SearchJackpot!!](https://vanshrathorebughunter.medium.com/%EF%B8%8F-%EF%B8%8F-how-i-find-critical-data-leaks-using-just-google-search-jackpot-f85592f61925?source=rss------bug_bounty_writeup-5)
 - [How I Found a Reflected XSS in a Government Website](https://medium.com/@moamensamer/how-i-found-a-reflected-xss-in-a-government-website-1488dace0c81?source=rss------bug_bounty_writeup-5)
 - [What Bug Bounty Culture Isn’t Telling You](https://medium.com/@w0lfstrong/what-bug-bounty-culture-isnt-telling-you-b5245af7bbbc?source=rss------bug_bounty_writeup-5)
 - [SSH vs SSL/TLS — Lessons I Learned While Studying Cybersecurity and Solving Labs](https://infosecwriteups.com/ssh-vs-ssl-tls-lessons-i-learned-while-studying-cybersecurity-and-solving-labs-026ba83941b1?source=rss----7b722bfd1b8d---4)
@@ -19,7 +20,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Bug Bounty Series — Part 3 &lpar;HTTP Parameter Pollution&rpar;](https://medium.com/@adii.utsav/bug-bounty-series-part-3-http-parameter-pollution-e2bbf95c8cae?source=rss------bug_bounty_writeup-5)
 - [Race Condition Allow Limit Bypass Free Tier Account](https://medium.com/@enums/race-condition-allow-limit-bypass-free-tier-account-cbb28c3ad8e5?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Series — Part 2 &lpar;Open Redirect&rpar;](https://medium.com/@adii.utsav/bug-bounty-series-part-2-open-redirect-dbe134323982?source=rss------bug_bounty_writeup-5)
-- [How I Earned €200 in 10 Minutes by Exploiting a Race Condition on a Job Application Portal](https://medium.com/@amrgomaa009/how-i-earned-200-in-10-minutes-by-exploiting-a-race-condition-on-a-job-application-portal-2347bb98c4c0?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
