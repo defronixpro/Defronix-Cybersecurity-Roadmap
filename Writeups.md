@@ -1,6 +1,10 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [The Quiet Signal — Hunt Forward Lab #001: C2 Beaconing Detection](https://infosecwriteups.com/the-quiet-signal-hunt-forward-lab-001-c2-beaconing-detection-2ac84f976e8a?source=rss----7b722bfd1b8d---4)
+- [From LinkedIn to Root Access: How a Phone Number, an Old Password Dump, and a Cache Poisoning Bug…](https://infosecwriteups.com/from-linkedin-to-root-access-how-a-phone-number-an-old-password-dump-and-a-cache-poisoning-bug-897b0745b439?source=rss----7b722bfd1b8d---4)
+- [“Bug Bounty Bootcamp #36: SSRF Hands-On — Confirming the Server Makes the Request and Reading Local…](https://infosecwriteups.com/bug-bounty-bootcamp-36-ssrf-hands-on-confirming-the-server-makes-the-request-and-reading-local-7229cff03049?source=rss----7b722bfd1b8d---4)
+- [When Email Speaks to Machines](https://infosecwriteups.com/when-email-speaks-to-machines-5505922bb130?source=rss----7b722bfd1b8d---4)
 - [How I Turned a “Harmless” Self-XSS into a Full Account Takeover](https://medium.com/@sadananddevre/how-i-turned-a-harmless-self-xss-into-a-full-account-takeover-50ff10244377?source=rss------bug_bounty_writeup-5)
 - [️‍♂️ How I Find Critical Data Leaks Using Just Google SearchJackpot!!](https://vanshrathorebughunter.medium.com/%EF%B8%8F-%EF%B8%8F-how-i-find-critical-data-leaks-using-just-google-search-jackpot-f85592f61925?source=rss------bug_bounty_writeup-5)
 - [How I Found a Reflected XSS in a Government Website](https://medium.com/@moamensamer/how-i-found-a-reflected-xss-in-a-government-website-1488dace0c81?source=rss------bug_bounty_writeup-5)
@@ -11,10 +15,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Your Email Inbox is Lying to You &lpar;And How to Catch It Red-Handed&rpar;](https://infosecwriteups.com/your-email-inbox-is-lying-to-you-and-how-to-catch-it-red-handed-7d42fbc62711?source=rss----7b722bfd1b8d---4)
 - [Everything You Need to Know About the DPDPA Act](https://infosecwriteups.com/everything-you-need-to-know-about-the-dpdpa-act-758eaf91ffb7?source=rss----7b722bfd1b8d---4)
 - [Malware Analysis: payloadfinal.bin &lpar;Agent Tesla&rpar;](https://infosecwriteups.com/malware-analysis-payloadfinal-bin-agent-tesla-c38cb9bc8c88?source=rss----7b722bfd1b8d---4)
-- [Flag Mastery: The Flags That Run Every Engagement](https://infosecwriteups.com/flag-mastery-the-flags-that-run-every-engagement-5468d7a2b6ce?source=rss----7b722bfd1b8d---4)
-- [Ehxb | Password Spraying Attacks on AD](https://infosecwriteups.com/ehxb-password-spraying-attacks-on-ad-46607fc4781b?source=rss----7b722bfd1b8d---4)
-- [How A Simple Bug That Refused to Die, Paid Twice.](https://infosecwriteups.com/how-a-simple-bug-that-refused-to-die-paid-twice-80752e4d5ec5?source=rss----7b722bfd1b8d---4)
-- [CVE Stack Monitor — Get Alerted on CVEs That Hit Your Exact Infrastructure](https://infosecwriteups.com/cve-stack-monitor-get-alerted-on-cves-that-hit-your-exact-infrastructure-bb7c2322e30f?source=rss----7b722bfd1b8d---4)
 - [Ehxb | Password Spraying Attacks on AD](https://infosecwriteups.com/ehxb-password-spraying-attacks-on-ad-46607fc4781b?source=rss------bug_bounty_writeup-5)
 - [How a Small Validation Flaw Led to a 0-Click Account Takeover](https://medium.com/@ohmyleg_/how-a-small-validation-flaw-led-to-a-0-click-account-takeover-4fa944dce03e?source=rss------bug_bounty_writeup-5)
 - [No Rules, No Locks — Firebase Misconfiguration and the Borrowers It Left Behind](https://alvinferd.medium.com/no-rules-no-locks-firebase-misconfiguration-and-the-borrowers-it-left-behind-90d568038414?source=rss------bug_bounty_writeup-5)
