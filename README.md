@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [I Was Testing a “URL Preview” Feature… and Ended Up Inside Their Internal Network](https://medium.com/@21bec131/i-was-testing-a-url-preview-feature-and-ended-up-inside-their-internal-network-df1ac3461272?source=rss------bug_bounty_writeup-5)
 - [How I Discovered a Cognito Misconfiguration That Bypassed Corporate SSO and Exposed a Production…](https://1-day.medium.com/how-i-discovered-a-cognito-misconfiguration-that-bypassed-corporate-sso-and-exposed-a-production-5ad7419ecc2b?source=rss------bug_bounty_writeup-5)
 - [WebSockets Aren’t Scary &lpar;I Learned Them So You Don’t Have To&rpar;](https://smartpicks4u.medium.com/websockets-arent-scary-i-learned-them-so-you-don-t-have-to-f2a87780fd28?source=rss------bug_bounty_writeup-5)
 - [Connecting a Windows Endpoint to Wazuh](https://infosecwriteups.com/connecting-a-windows-endpoint-to-wazuh-e4b21e941f3e?source=rss----7b722bfd1b8d---4)
