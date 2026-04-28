@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How I Discovered a Cognito Misconfiguration That Bypassed Corporate SSO and Exposed a Production…](https://1-day.medium.com/how-i-discovered-a-cognito-misconfiguration-that-bypassed-corporate-sso-and-exposed-a-production-5ad7419ecc2b?source=rss------bug_bounty_writeup-5)
 - [WebSockets Aren’t Scary &lpar;I Learned Them So You Don’t Have To&rpar;](https://smartpicks4u.medium.com/websockets-arent-scary-i-learned-them-so-you-don-t-have-to-f2a87780fd28?source=rss------bug_bounty_writeup-5)
 - [Connecting a Windows Endpoint to Wazuh](https://infosecwriteups.com/connecting-a-windows-endpoint-to-wazuh-e4b21e941f3e?source=rss----7b722bfd1b8d---4)
 - [Abused an MCP Server to Perform Lateral Movement | Critical Finding | MCP Testing Methodology](https://infosecwriteups.com/abused-an-mcp-server-to-perform-lateral-movement-critical-finding-mcp-testing-methodology-dd0557d49522?source=rss----7b722bfd1b8d---4)
@@ -19,7 +20,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [What Bug Bounty Culture Isn’t Telling You](https://medium.com/@w0lfstrong/what-bug-bounty-culture-isnt-telling-you-b5245af7bbbc?source=rss------bug_bounty_writeup-5)
 - [Ehxb | Password Spraying Attacks on AD](https://infosecwriteups.com/ehxb-password-spraying-attacks-on-ad-46607fc4781b?source=rss------bug_bounty_writeup-5)
 - [How a Small Validation Flaw Led to a 0-Click Account Takeover](https://medium.com/@ohmyleg_/how-a-small-validation-flaw-led-to-a-0-click-account-takeover-4fa944dce03e?source=rss------bug_bounty_writeup-5)
-- [No Rules, No Locks — Firebase Misconfiguration and the Borrowers It Left Behind](https://alvinferd.medium.com/no-rules-no-locks-firebase-misconfiguration-and-the-borrowers-it-left-behind-90d568038414?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
