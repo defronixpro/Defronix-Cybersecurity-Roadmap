@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [COMMON HTTP ERROR CODES &amp; Bypass Techniques](https://medium.com/@cybersecplayground/common-http-error-codes-bypass-techniques-d2d7a09ec062?source=rss------bug_bounty_writeup-5)
 - [I Was Testing a “URL Preview” Feature… and Ended Up Inside Their Internal Network](https://medium.com/@21bec131/i-was-testing-a-url-preview-feature-and-ended-up-inside-their-internal-network-df1ac3461272?source=rss------bug_bounty_writeup-5)
 - [How I Discovered a Cognito Misconfiguration That Bypassed Corporate SSO and Exposed a Production…](https://1-day.medium.com/how-i-discovered-a-cognito-misconfiguration-that-bypassed-corporate-sso-and-exposed-a-production-5ad7419ecc2b?source=rss------bug_bounty_writeup-5)
 - [WebSockets Aren’t Scary &lpar;I Learned Them So You Don’t Have To&rpar;](https://smartpicks4u.medium.com/websockets-arent-scary-i-learned-them-so-you-don-t-have-to-f2a87780fd28?source=rss------bug_bounty_writeup-5)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How I Found a Reflected XSS in a Government Website](https://medium.com/@moamensamer/how-i-found-a-reflected-xss-in-a-government-website-1488dace0c81?source=rss------bug_bounty_writeup-5)
 - [What Bug Bounty Culture Isn’t Telling You](https://medium.com/@w0lfstrong/what-bug-bounty-culture-isnt-telling-you-b5245af7bbbc?source=rss------bug_bounty_writeup-5)
 - [Ehxb | Password Spraying Attacks on AD](https://infosecwriteups.com/ehxb-password-spraying-attacks-on-ad-46607fc4781b?source=rss------bug_bounty_writeup-5)
-- [How a Small Validation Flaw Led to a 0-Click Account Takeover](https://medium.com/@ohmyleg_/how-a-small-validation-flaw-led-to-a-0-click-account-takeover-4fa944dce03e?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
