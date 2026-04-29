@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [$500 OAuth Account Fusion Pre-Takeover Attack](https://medium.com/@tinopreter/500-oauth-account-fusion-pre-takeover-attack-477484aa3813?source=rss------bug_bounty_writeup-5)
 - [WaTF Bank Walkthrough &lpar;Part 4&rpar;: Exploiting Android App Security Flaws](https://infosecwriteups.com/watf-bank-walkthrough-part-4-exploiting-android-app-security-flaws-fb8c8bc6da14?source=rss----7b722bfd1b8d---4)
 - [URL Anatomy &amp; Encoding: Why Your Payloads Break](https://infosecwriteups.com/url-anatomy-encoding-why-your-payloads-break-faec39eef0c5?source=rss----7b722bfd1b8d---4)
 - [PaloAltoRCE Lab Write-Up | By BnHany](https://infosecwriteups.com/paloaltorce-lab-write-up-by-bnhany-03e767059788?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Using Param Miner to Discover Parameters in Burp Suite: My Bug Bounty Journey](https://medium.com/@MutexSec/using-param-miner-to-discover-parameters-in-burp-suite-my-bug-bounty-journey-2e98a1990e05?source=rss------bug_bounty_writeup-5)
 - [How I Turned a “Harmless” Self-XSS into a Full Account Takeover](https://medium.com/@sadananddevre/how-i-turned-a-harmless-self-xss-into-a-full-account-takeover-50ff10244377?source=rss------bug_bounty_writeup-5)
 - [️‍♂️ How I Find Critical Data Leaks Using Just Google SearchJackpot!!](https://vanshrathorebughunter.medium.com/%EF%B8%8F-%EF%B8%8F-how-i-find-critical-data-leaks-using-just-google-search-jackpot-f85592f61925?source=rss------bug_bounty_writeup-5)
-- [How I Found a Reflected XSS in a Government Website](https://medium.com/@moamensamer/how-i-found-a-reflected-xss-in-a-government-website-1488dace0c81?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
