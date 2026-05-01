@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I Turned $3 Into 8 Paid Bugs](https://medium.com/@0xs3fo/how-i-turned-3-into-8-paid-bugs-b81c5384465c?source=rss------bug_bounty_writeup-5)
 - [How I Discovered 5 broken Access Control Bugs in a Single Web Application](https://medium.com/@0xyz_/how-i-discovered-5-broken-access-control-bugs-in-a-single-web-application-44d95652872f?source=rss------bug_bounty_writeup-5)
 - [How focusing on a single bug bounty program for months helped me find critical vulnerabilities](https://medium.com/@deepk007/how-focusing-on-a-single-bug-bounty-program-for-months-helped-me-find-critical-vulnerabilities-3581d3e32e38?source=rss------bug_bounty_writeup-5)
 - [Found a Leaked JWT Token in a Public GitHub Repo — Here Is What Actually Happened](https://medium.com/@krithickcyber/found-a-leaked-jwt-token-in-a-public-github-repo-here-is-what-actually-happened-27d05dd06624?source=rss------bug_bounty_writeup-5)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [URL Anatomy &amp; Encoding: Why Your Payloads Break](https://infosecwriteups.com/url-anatomy-encoding-why-your-payloads-break-faec39eef0c5?source=rss----7b722bfd1b8d---4)
 - [PaloAltoRCE Lab Write-Up | By BnHany](https://infosecwriteups.com/paloaltorce-lab-write-up-by-bnhany-03e767059788?source=rss----7b722bfd1b8d---4)
 - [How a Simple Google Dork Led Me to a Critical Authentication Bypass on Sony &amp; Their Hall of Thanks…](https://medium.com/@itss4leh/how-a-simple-google-dork-led-me-to-a-critical-authentication-bypass-on-sony-their-hall-of-thanks-6e28176a7f05?source=rss------bug_bounty_writeup-5)
-- [How a Simple Google Dork Led Me to an XSS on Ford Motor Company &amp; Their Hall of Fame [Sept 2021]](https://medium.com/@itss4leh/how-a-simple-google-dork-led-me-to-an-xss-on-ford-motor-company-their-hall-of-fame-sept-2021-950c3dc52254?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
