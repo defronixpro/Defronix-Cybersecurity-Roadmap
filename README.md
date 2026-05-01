@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Found a Leaked JWT Token in a Public GitHub Repo — Here Is What Actually Happened](https://medium.com/@krithickcyber/found-a-leaked-jwt-token-in-a-public-github-repo-here-is-what-actually-happened-27d05dd06624?source=rss------bug_bounty_writeup-5)
 - [Chaining IDOR and Broken Authentication to Access Sensitive Student Data &lpar;Case Study&rpar;](https://medium.com/@idrisiarsalan78/chaining-idor-and-broken-authentication-to-access-sensitive-student-data-case-study-c9c5526e3c13?source=rss------bug_bounty_writeup-5)
 - [Excessive Data Exposure Leading to Unauthorized Access to Paid Features](https://medium.com/@kanishkakhandelwal18/excessive-data-exposure-leading-to-unauthorized-access-to-paid-features-2dc1f7554e50?source=rss------bug_bounty_writeup-5)
 - [How a Simple Comment Box Almost Cost a Fintech Giant $15,000](https://medium.com/@21bec131/how-a-simple-comment-box-almost-cost-a-fintech-giant-15-000-3fe6e35daafd?source=rss------bug_bounty_writeup-5)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How a Simple Google Dork Led Me to an XSS on Ford Motor Company &amp; Their Hall of Fame [Sept 2021]](https://medium.com/@itss4leh/how-a-simple-google-dork-led-me-to-an-xss-on-ford-motor-company-their-hall-of-fame-sept-2021-950c3dc52254?source=rss------bug_bounty_writeup-5)
 - [COMMON HTTP ERROR CODES &amp; Bypass Techniques](https://medium.com/@cybersecplayground/common-http-error-codes-bypass-techniques-d2d7a09ec062?source=rss------bug_bounty_writeup-5)
 - [I Was Testing a “URL Preview” Feature… and Ended Up Inside Their Internal Network](https://medium.com/@21bec131/i-was-testing-a-url-preview-feature-and-ended-up-inside-their-internal-network-df1ac3461272?source=rss------bug_bounty_writeup-5)
-- [How I Discovered a Cognito Misconfiguration That Bypassed Corporate SSO and Exposed a Production…](https://1-day.medium.com/how-i-discovered-a-cognito-misconfiguration-that-bypassed-corporate-sso-and-exposed-a-production-5ad7419ecc2b?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
