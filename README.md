@@ -922,6 +922,11 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Ha-Natraj — LFI Log Poisoning + Apache2 User Hijack + sudo nmap to Root | OffSec PG Play](https://infosecwriteups.com/ha-natraj-lfi-log-poisoning-apache2-user-hijack-sudo-nmap-to-root-offsec-pg-play-dbbd1fa12bee?source=rss----7b722bfd1b8d---4)
+- [eCPPT Powershell for Pentesters INE’s CTF 1 : A Practical Attack Story](https://infosecwriteups.com/ecppt-powershell-for-pentesters-ines-ctf-1-a-practical-attack-story-cdb40c55d476?source=rss----7b722bfd1b8d---4)
+- [When Logout Isn’t Really Goodbye: A Subtle Data Exposure Bug.](https://infosecwriteups.com/when-logout-isnt-really-goodbye-a-subtle-data-exposure-bug-271b683ddb9a?source=rss----7b722bfd1b8d---4)
+- [TryHackMe Walkthrough: MBR and GPT Analysis &lpar;Beginner to Intermediate Guide&rpar;](https://infosecwriteups.com/before-windows-loads-the-hidden-boot-architecture-every-tech-person-should-understand-d2217d9b0b2b?source=rss----7b722bfd1b8d---4)
+- [PART 2: I Published a Scam Expose.](https://infosecwriteups.com/part-2-i-published-a-scam-expose-bc420e0bbc00?source=rss----7b722bfd1b8d---4)
 - [How I discovered my first valid Bug](https://medium.com/@hayersam4/how-i-discovered-my-first-valid-bug-e1f1277c92e0?source=rss------bug_bounty_writeup-5)
 - [How I Turned $3 Into 8 Paid Bugs](https://medium.com/@0xs3fo/how-i-turned-3-into-8-paid-bugs-b81c5384465c?source=rss------bug_bounty_writeup-5)
 - [How I Discovered 5 broken Access Control Bugs in a Single Web Application](https://medium.com/@0xyz_/how-i-discovered-5-broken-access-control-bugs-in-a-single-web-application-44d95652872f?source=rss------bug_bounty_writeup-5)
@@ -936,12 +941,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Building an Android App Analysis Lab on Ubuntu: A Practical Setup Guide](https://infosecwriteups.com/building-an-android-app-analysis-lab-on-ubuntu-a-practical-setup-guide-4a09fff37622?source=rss----7b722bfd1b8d---4)
 - [Android Emulation &amp; Virtualisation](https://infosecwriteups.com/android-emulation-virtualisation-2f6b33fcc4aa?source=rss----7b722bfd1b8d---4)
 - [Vulnerable AI Lab](https://infosecwriteups.com/vulnerable-ai-lab-3747e96314dd?source=rss----7b722bfd1b8d---4)
-- [AI Offensive Security: Practical Attacks Against LLM Agents](https://infosecwriteups.com/ai-offensive-security-practical-attacks-against-llm-agents-516dbdabbf86?source=rss----7b722bfd1b8d---4)
-- [Intigriti April 2026 XSS Challenge Writeup](https://infosecwriteups.com/intigriti-april-2026-xss-challenge-writeup-a85b483e86f8?source=rss----7b722bfd1b8d---4)
 - [$500 OAuth Account Fusion Pre-Takeover Attack](https://medium.com/@tinopreter/500-oauth-account-fusion-pre-takeover-attack-477484aa3813?source=rss------bug_bounty_writeup-5)
-- [WaTF Bank Walkthrough &lpar;Part 4&rpar;: Exploiting Android App Security Flaws](https://infosecwriteups.com/watf-bank-walkthrough-part-4-exploiting-android-app-security-flaws-fb8c8bc6da14?source=rss----7b722bfd1b8d---4)
-- [URL Anatomy &amp; Encoding: Why Your Payloads Break](https://infosecwriteups.com/url-anatomy-encoding-why-your-payloads-break-faec39eef0c5?source=rss----7b722bfd1b8d---4)
-- [PaloAltoRCE Lab Write-Up | By BnHany](https://infosecwriteups.com/paloaltorce-lab-write-up-by-bnhany-03e767059788?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
