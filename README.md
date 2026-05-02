@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I Ended Up in the WHO Hall of Fame via Google Dorking](https://g0w6y.medium.com/how-i-ended-up-in-the-who-hall-of-fame-via-google-dorking-f85d2ebf47f4?source=rss------bug_bounty_writeup-5)
 - [Ha-Natraj — LFI Log Poisoning + Apache2 User Hijack + sudo nmap to Root | OffSec PG Play](https://infosecwriteups.com/ha-natraj-lfi-log-poisoning-apache2-user-hijack-sudo-nmap-to-root-offsec-pg-play-dbbd1fa12bee?source=rss----7b722bfd1b8d---4)
 - [eCPPT Powershell for Pentesters INE’s CTF 1 : A Practical Attack Story](https://infosecwriteups.com/ecppt-powershell-for-pentesters-ines-ctf-1-a-practical-attack-story-cdb40c55d476?source=rss----7b722bfd1b8d---4)
 - [When Logout Isn’t Really Goodbye: A Subtle Data Exposure Bug.](https://infosecwriteups.com/when-logout-isnt-really-goodbye-a-subtle-data-exposure-bug-271b683ddb9a?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Building an Android App Analysis Lab on Ubuntu: A Practical Setup Guide](https://infosecwriteups.com/building-an-android-app-analysis-lab-on-ubuntu-a-practical-setup-guide-4a09fff37622?source=rss----7b722bfd1b8d---4)
 - [Android Emulation &amp; Virtualisation](https://infosecwriteups.com/android-emulation-virtualisation-2f6b33fcc4aa?source=rss----7b722bfd1b8d---4)
 - [Vulnerable AI Lab](https://infosecwriteups.com/vulnerable-ai-lab-3747e96314dd?source=rss----7b722bfd1b8d---4)
-- [$500 OAuth Account Fusion Pre-Takeover Attack](https://medium.com/@tinopreter/500-oauth-account-fusion-pre-takeover-attack-477484aa3813?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
