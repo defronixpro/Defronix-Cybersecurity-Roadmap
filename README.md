@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [تێپەرێنم eWPTX چۆن توانیم تاقیکردنەوەی](https://medium.com/@erroreboymask/%D8%AA%DB%8E%D9%BE%DB%95%D8%B1%DB%8E%D9%86%D9%85-ewptx-%DA%86%DB%86%D9%86-%D8%AA%D9%88%D8%A7%D9%86%DB%8C%D9%85-%D8%AA%D8%A7%D9%82%DB%8C%DA%A9%D8%B1%D8%AF%D9%86%DB%95%D9%88%DB%95%DB%8C-4aef2189cf8b?source=rss------bug_bounty_writeup-5)
 - [Hunting on Government Infrastructure: WAF Bypasses, OAuth Testing, and Knowing When to Pivot](https://medium.com/@sathyaboobalan.r2003/hunting-on-government-infrastructure-waf-bypasses-oauth-testing-and-knowing-when-to-pivot-b2e69e4fe089?source=rss------bug_bounty_writeup-5)
 - [Unauthorized Admin Panel Access via JavaScript Recon](https://medium.com/@rahimasec/unauthorized-admin-panel-access-via-javascript-recon-02f4b2625e09?source=rss------bug_bounty_writeup-5)
 - [How I Ended Up in the WHO Hall of Fame via Google Dorking](https://g0w6y.medium.com/how-i-ended-up-in-the-who-hall-of-fame-via-google-dorking-f85d2ebf47f4?source=rss------bug_bounty_writeup-5)
@@ -936,7 +937,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [The boring method that got me paid in bug bounty &lpar;while others chased hype&rpar; helped me find critical vulnerabilities](https://medium.com/@deepk007/how-focusing-on-a-single-bug-bounty-program-for-months-helped-me-find-critical-vulnerabilities-3581d3e32e38?source=rss------bug_bounty_writeup-5)
 - [Found a Leaked JWT Token in a Public GitHub Repo — Here Is What Actually Happened](https://medium.com/@krithickcyber/found-a-leaked-jwt-token-in-a-public-github-repo-here-is-what-actually-happened-27d05dd06624?source=rss------bug_bounty_writeup-5)
 - [Chaining IDOR and Broken Authentication to Access Sensitive Student Data &lpar;Case Study&rpar;](https://medium.com/@idrisiarsalan78/chaining-idor-and-broken-authentication-to-access-sensitive-student-data-case-study-c9c5526e3c13?source=rss------bug_bounty_writeup-5)
-- [Excessive Data Exposure Leading to Unauthorized Access to Paid Features](https://medium.com/@kanishkakhandelwal18/excessive-data-exposure-leading-to-unauthorized-access-to-paid-features-2dc1f7554e50?source=rss------bug_bounty_writeup-5)
 - [We Got Targeted: How Attackers Used Microsoft Teams to Own an Employee’s Machine, And How We Caught…](https://infosecwriteups.com/we-got-targeted-how-attackers-used-microsoft-teams-to-own-an-employees-machine-and-how-we-caught-40fcf202098b?source=rss----7b722bfd1b8d---4)
 - [Open Redirect Simple Bug, Powerful Chains: Phishing Se OAuth Bypass Tak! &lpar;Hinglish Mein&rpar;](https://infosecwriteups.com/open-redirect-simple-bug-powerful-chains-phishing-se-oauth-bypass-tak-hinglish-mein-7d1b9adf8dcb?source=rss----7b722bfd1b8d---4)
 - [Building an Android App Analysis Lab on Ubuntu: A Practical Setup Guide](https://infosecwriteups.com/building-an-android-app-analysis-lab-on-ubuntu-a-practical-setup-guide-4a09fff37622?source=rss----7b722bfd1b8d---4)
