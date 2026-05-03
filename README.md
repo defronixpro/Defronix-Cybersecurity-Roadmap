@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Parameter Index Manipulation Leading to Unauthorized Field Injection](https://medium.com/@0xoroot/parameter-index-manipulation-leading-to-unauthorized-field-injection-7e830ecfad05?source=rss------bug_bounty_writeup-5)
 - [The Ghost in the Machine: A Bug Bounty Short Story](https://abdelaalx2000.medium.com/the-ghost-in-the-machine-a-bug-bounty-short-story-58f2367705a6?source=rss------bug_bounty_writeup-5)
 - [Find SQL injection with burp Suite scanner](https://awais0x1.medium.com/discovering-an-sql-injection-with-burps-scanner-41c6c5910d84?source=rss------bug_bounty_writeup-5)
 - [تێپەرێنم eWPTX چۆن توانیم تاقیکردنەوەی](https://medium.com/@erroreboymask/%D8%AA%DB%8E%D9%BE%DB%95%D8%B1%DB%8E%D9%86%D9%85-ewptx-%DA%86%DB%86%D9%86-%D8%AA%D9%88%D8%A7%D9%86%DB%8C%D9%85-%D8%AA%D8%A7%D9%82%DB%8C%DA%A9%D8%B1%D8%AF%D9%86%DB%95%D9%88%DB%95%DB%8C-4aef2189cf8b?source=rss------bug_bounty_writeup-5)
@@ -936,7 +937,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How I discovered my first valid Bug](https://medium.com/@hayersam4/how-i-discovered-my-first-valid-bug-e1f1277c92e0?source=rss------bug_bounty_writeup-5)
 - [How I Turned $3 Into 8 Paid Bugs](https://medium.com/@0xs3fo/how-i-turned-3-into-8-paid-bugs-b81c5384465c?source=rss------bug_bounty_writeup-5)
 - [How I Discovered 5 broken Access Control Bugs in a Single Web Application](https://medium.com/@0xyz_/how-i-discovered-5-broken-access-control-bugs-in-a-single-web-application-44d95652872f?source=rss------bug_bounty_writeup-5)
-- [The boring method that got me paid in bug bounty &lpar;while others chased hype&rpar; helped me find critical vulnerabilities](https://medium.com/@deepk007/how-focusing-on-a-single-bug-bounty-program-for-months-helped-me-find-critical-vulnerabilities-3581d3e32e38?source=rss------bug_bounty_writeup-5)
 - [We Got Targeted: How Attackers Used Microsoft Teams to Own an Employee’s Machine, And How We Caught…](https://infosecwriteups.com/we-got-targeted-how-attackers-used-microsoft-teams-to-own-an-employees-machine-and-how-we-caught-40fcf202098b?source=rss----7b722bfd1b8d---4)
 - [Open Redirect Simple Bug, Powerful Chains: Phishing Se OAuth Bypass Tak! &lpar;Hinglish Mein&rpar;](https://infosecwriteups.com/open-redirect-simple-bug-powerful-chains-phishing-se-oauth-bypass-tak-hinglish-mein-7d1b9adf8dcb?source=rss----7b722bfd1b8d---4)
 - [Building an Android App Analysis Lab on Ubuntu: A Practical Setup Guide](https://infosecwriteups.com/building-an-android-app-analysis-lab-on-ubuntu-a-practical-setup-guide-4a09fff37622?source=rss----7b722bfd1b8d---4)
