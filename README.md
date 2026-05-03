@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Chaining Logic Flaws: From KYC Bypass to Authenticated Time-Based SQLi and Mass IDOR](https://medium.com/@xelcezeri/chaining-logic-flaws-from-kyc-bypass-to-authenticated-time-based-sqli-and-mass-idor-0425f362dad5?source=rss------bug_bounty_writeup-5)
 - [Real Estate CRM Pentest: Broken Auth + IDOR + Stored XSS — Full Attack Chain](https://alisalive.medium.com/real-estate-crm-pentest-broken-auth-idor-stored-xss-full-attack-chain-5ef610a57e49?source=rss------bug_bounty_writeup-5)
 - [Parameter Index Manipulation Leading to Unauthorized Field Injection](https://medium.com/@0xoroot/parameter-index-manipulation-leading-to-unauthorized-field-injection-7e830ecfad05?source=rss------bug_bounty_writeup-5)
 - [The Ghost in the Machine: A Bug Bounty Short Story](https://abdelaalx2000.medium.com/the-ghost-in-the-machine-a-bug-bounty-short-story-58f2367705a6?source=rss------bug_bounty_writeup-5)
@@ -936,7 +937,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [TryHackMe Walkthrough: MBR and GPT Analysis &lpar;Beginner to Intermediate Guide&rpar;](https://infosecwriteups.com/before-windows-loads-the-hidden-boot-architecture-every-tech-person-should-understand-d2217d9b0b2b?source=rss----7b722bfd1b8d---4)
 - [PART 2: I Published a Scam Expose.](https://infosecwriteups.com/part-2-i-published-a-scam-expose-bc420e0bbc00?source=rss----7b722bfd1b8d---4)
 - [How I discovered my first valid Bug](https://medium.com/@hayersam4/how-i-discovered-my-first-valid-bug-e1f1277c92e0?source=rss------bug_bounty_writeup-5)
-- [How I Turned $3 Into 8 Paid Bugs](https://medium.com/@0xs3fo/how-i-turned-3-into-8-paid-bugs-b81c5384465c?source=rss------bug_bounty_writeup-5)
 - [We Got Targeted: How Attackers Used Microsoft Teams to Own an Employee’s Machine, And How We Caught…](https://infosecwriteups.com/we-got-targeted-how-attackers-used-microsoft-teams-to-own-an-employees-machine-and-how-we-caught-40fcf202098b?source=rss----7b722bfd1b8d---4)
 - [Open Redirect Simple Bug, Powerful Chains: Phishing Se OAuth Bypass Tak! &lpar;Hinglish Mein&rpar;](https://infosecwriteups.com/open-redirect-simple-bug-powerful-chains-phishing-se-oauth-bypass-tak-hinglish-mein-7d1b9adf8dcb?source=rss----7b722bfd1b8d---4)
 - [Building an Android App Analysis Lab on Ubuntu: A Practical Setup Guide](https://infosecwriteups.com/building-an-android-app-analysis-lab-on-ubuntu-a-practical-setup-guide-4a09fff37622?source=rss----7b722bfd1b8d---4)
@@ -946,7 +946,17 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
 - [How to backup and restore the Windows Registry](https://www.bleepingcomputer.com/tutorials/how-to-backup-and-restore-the-windows-registry/)
+- [How To Fix Error: Externally-Managed-Environment In Python &lpar;Kali Linux&rpar;](https://technicalnavigator.in/how-to-fix-error-externally-managed-environment-in-python-kali-linux/)
+- [Understanding Systemctl Command in Linux &lpar;Practical&rpar;](https://technicalnavigator.in/understanding-systemctl-command-in-linux-practical/)
+- [Macros in docm &amp; Linux memory dump| Hack The Boo  Challanges](https://technicalnavigator.in/macros-in-docm-linux-memory-dump-hack-the-boo-challanges/)
+- [Android Apps debugging |  Frida, JADX, Genymotion](https://technicalnavigator.in/android-apps-debugging-frida-jadx-genymotion/)
+- [MouseServer | wifimouse – Windows/ Linux](https://technicalnavigator.in/mouseserver-wifimouse-windows-linux/)
+- [FFUF fuzzer | web-application penetration-testing](https://technicalnavigator.in/ffuf-fuzzer-web-application-penetration-testing/)
 - [How to open a Windows 11 Command Prompt as Administrator](https://www.bleepingcomputer.com/tutorials/how-to-open-a-windows-11-command-prompt-as-administrator/)
+- [Classes-Objects &amp; Deserialization bug](https://technicalnavigator.in/classes-objects-deserialization-bug/)
+- [Loki Tool | Multhreading Over Sockets in C](https://technicalnavigator.in/loki-tool-multhreading-over-sockets-in-c/)
+- [Egghunter | NASM | C prototype](https://technicalnavigator.in/egghunter-nasm-c-prototype/)
+- [TELNET &amp; FTP Analysis](https://technicalnavigator.in/telnet-ftp-analysis/)
 - [How to make the Start menu full screen in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-make-the-start-menu-full-screen-in-windows-10/)
 - [How to install the Microsoft Visual C++ 2015 Runtime](https://www.bleepingcomputer.com/tutorials/how-to-install-the-microsoft-visual-c-2015-runtime/)
 - [How to open an elevated PowerShell Admin prompt in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-open-an-elevated-powershell-admin-prompt-in-windows-10/)
