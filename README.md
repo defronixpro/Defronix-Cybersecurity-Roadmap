@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [From Directory Brute-Forcing to Real-Time GPS Tracking: Exploiting S3 Bucket Misconfigurations](https://medium.com/@21bec131/from-directory-brute-forcing-to-real-time-gps-tracking-exploiting-s3-bucket-misconfigurations-f03b088a0a3d?source=rss------bug_bounty_writeup-5)
 - [The Ghost Email: How Weak Validation Broke Authentication](https://scriptjacker.medium.com/the-ghost-email-how-weak-validation-broke-authentication-b45774caae70?source=rss------bug_bounty_writeup-5)
 - [Reading Responses: Status Codes, Headers, and Body Forensics](https://infosecwriteups.com/reading-responses-status-codes-headers-and-body-forensics-76c2da93335f?source=rss----7b722bfd1b8d---4)
 - [Breakdown of CVE-2026–31431 &lpar;Copy Fail&rpar; an Overl00k3d Linux Kernel Vulnerability Enables Privilege…](https://infosecwriteups.com/breakdown-of-cve-2026-31431-copy-fail-an-overl00k3d-linux-kernel-vulnerability-enables-privilege-f8658453ab81?source=rss----7b722bfd1b8d---4)
@@ -937,7 +938,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [تێپەرێنم eWPTX چۆن توانیم تاقیکردنەوەی](https://medium.com/@error-01/%D8%AA%DB%8E%D9%BE%DB%95%D8%B1%DB%8E%D9%86%D9%85-ewptx-%DA%86%DB%86%D9%86-%D8%AA%D9%88%D8%A7%D9%86%DB%8C%D9%85-%D8%AA%D8%A7%D9%82%DB%8C%DA%A9%D8%B1%D8%AF%D9%86%DB%95%D9%88%DB%95%DB%8C-4aef2189cf8b?source=rss------bug_bounty_writeup-5)
 - [Hunting on Government Infrastructure: WAF Bypasses, OAuth Testing, and Knowing When to Pivot](https://medium.com/@sathyaboobalan.r2003/hunting-on-government-infrastructure-waf-bypasses-oauth-testing-and-knowing-when-to-pivot-b2e69e4fe089?source=rss------bug_bounty_writeup-5)
 - [Unauthorized Admin Panel Access via JavaScript Recon](https://medium.com/@rahimasec/unauthorized-admin-panel-access-via-javascript-recon-02f4b2625e09?source=rss------bug_bounty_writeup-5)
-- [How I Ended Up in the WHO Hall of Fame via Google Dorking](https://g0w6y.medium.com/how-i-ended-up-in-the-who-hall-of-fame-via-google-dorking-f85d2ebf47f4?source=rss------bug_bounty_writeup-5)
 - [Ha-Natraj — LFI Log Poisoning + Apache2 User Hijack + sudo nmap to Root | OffSec PG Play](https://infosecwriteups.com/ha-natraj-lfi-log-poisoning-apache2-user-hijack-sudo-nmap-to-root-offsec-pg-play-dbbd1fa12bee?source=rss----7b722bfd1b8d---4)
 - [eCPPT Powershell for Pentesters INE’s CTF 1 : A Practical Attack Story](https://infosecwriteups.com/ecppt-powershell-for-pentesters-ines-ctf-1-a-practical-attack-story-cdb40c55d476?source=rss----7b722bfd1b8d---4)
 - [When Logout Isn’t Really Goodbye: A Subtle Data Exposure Bug.](https://infosecwriteups.com/when-logout-isnt-really-goodbye-a-subtle-data-exposure-bug-271b683ddb9a?source=rss----7b722bfd1b8d---4)
@@ -946,17 +946,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
 - [How to backup and restore the Windows Registry](https://www.bleepingcomputer.com/tutorials/how-to-backup-and-restore-the-windows-registry/)
-- [How To Fix Error: Externally-Managed-Environment In Python &lpar;Kali Linux&rpar;](https://technicalnavigator.in/how-to-fix-error-externally-managed-environment-in-python-kali-linux/)
-- [Understanding Systemctl Command in Linux &lpar;Practical&rpar;](https://technicalnavigator.in/understanding-systemctl-command-in-linux-practical/)
-- [Macros in docm &amp; Linux memory dump| Hack The Boo  Challanges](https://technicalnavigator.in/macros-in-docm-linux-memory-dump-hack-the-boo-challanges/)
-- [Android Apps debugging |  Frida, JADX, Genymotion](https://technicalnavigator.in/android-apps-debugging-frida-jadx-genymotion/)
-- [MouseServer | wifimouse – Windows/ Linux](https://technicalnavigator.in/mouseserver-wifimouse-windows-linux/)
-- [FFUF fuzzer | web-application penetration-testing](https://technicalnavigator.in/ffuf-fuzzer-web-application-penetration-testing/)
 - [How to open a Windows 11 Command Prompt as Administrator](https://www.bleepingcomputer.com/tutorials/how-to-open-a-windows-11-command-prompt-as-administrator/)
-- [Classes-Objects &amp; Deserialization bug](https://technicalnavigator.in/classes-objects-deserialization-bug/)
-- [Loki Tool | Multhreading Over Sockets in C](https://technicalnavigator.in/loki-tool-multhreading-over-sockets-in-c/)
-- [Egghunter | NASM | C prototype](https://technicalnavigator.in/egghunter-nasm-c-prototype/)
-- [TELNET &amp; FTP Analysis](https://technicalnavigator.in/telnet-ftp-analysis/)
 - [How to make the Start menu full screen in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-make-the-start-menu-full-screen-in-windows-10/)
 - [How to install the Microsoft Visual C++ 2015 Runtime](https://www.bleepingcomputer.com/tutorials/how-to-install-the-microsoft-visual-c-2015-runtime/)
 - [How to open an elevated PowerShell Admin prompt in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-open-an-elevated-powershell-admin-prompt-in-windows-10/)
