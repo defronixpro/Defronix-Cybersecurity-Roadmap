@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [️Full Account Takeover Through Unsafe Google Linking With Permanent Loss of Access for the Victim](https://medium.com/@0xMo7areb/%EF%B8%8Ffull-account-takeover-through-unsafe-google-linking-with-permanent-loss-of-access-for-the-victim-abbfae81538a?source=rss------bug_bounty_writeup-5)
 - [The “Infinite Discount” Glitch: How I Used a Race Condition to Buy a MacBook for -$300](https://medium.com/@21bec131/the-infinite-discount-glitch-how-i-used-a-race-condition-to-buy-a-macbook-for-300-4257a28e1946?source=rss------bug_bounty_writeup-5)
 - [Unauthorized Workspace Deletion via Broken Access Control](https://medium.com/@sagar_kirola-G35638/unauthorized-workspace-deletion-via-broken-access-control-e7fbd4234581?source=rss------bug_bounty_writeup-5)
 - [HackTheBox — TwoMillion: A Lesson in API Abuse and Privilege Escalation](https://medium.com/@shxdowz/hackthebox-twomillion-a-lesson-in-api-abuse-and-privilege-escalation-0c66bd704070?source=rss------bug_bounty_writeup-5)
@@ -937,7 +938,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Real Estate CRM Pentest: Broken Auth + IDOR + Stored XSS — Full Attack Chain](https://alisalive.medium.com/real-estate-crm-pentest-broken-auth-idor-stored-xss-full-attack-chain-5ef610a57e49?source=rss------bug_bounty_writeup-5)
 - [Parameter Index Manipulation Leading to Unauthorized Field Injection](https://medium.com/@0xoroot/parameter-index-manipulation-leading-to-unauthorized-field-injection-7e830ecfad05?source=rss------bug_bounty_writeup-5)
 - [The Ghost in the Machine: A Bug Bounty Short Story](https://abdelaalx2000.medium.com/the-ghost-in-the-machine-a-bug-bounty-short-story-58f2367705a6?source=rss------bug_bounty_writeup-5)
-- [Find SQL injection with burp Suite scanner](https://awais0x1.medium.com/discovering-an-sql-injection-with-burps-scanner-41c6c5910d84?source=rss------bug_bounty_writeup-5)
 - [Ha-Natraj — LFI Log Poisoning + Apache2 User Hijack + sudo nmap to Root | OffSec PG Play](https://infosecwriteups.com/ha-natraj-lfi-log-poisoning-apache2-user-hijack-sudo-nmap-to-root-offsec-pg-play-dbbd1fa12bee?source=rss----7b722bfd1b8d---4)
 - [eCPPT Powershell for Pentesters INE’s CTF 1 : A Practical Attack Story](https://infosecwriteups.com/ecppt-powershell-for-pentesters-ines-ctf-1-a-practical-attack-story-cdb40c55d476?source=rss----7b722bfd1b8d---4)
 - [When Logout Isn’t Really Goodbye: A Subtle Data Exposure Bug.](https://infosecwriteups.com/when-logout-isnt-really-goodbye-a-subtle-data-exposure-bug-271b683ddb9a?source=rss----7b722bfd1b8d---4)
