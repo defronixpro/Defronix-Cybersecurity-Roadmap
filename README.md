@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [From a Simple CSRF to Full Account Takeover](https://medium.com/@montaser_mohsen/from-a-simple-csrf-to-full-account-takeover-fb274a55c2da?source=rss------bug_bounty_writeup-5)
 - [How an “Out-of-Scope” XSS Led to a 300 CHF Bounty](https://medium.com/@asifebrahim580/how-an-out-of-scope-xss-led-to-a-300-chf-bounty-3a6b022469ce?source=rss------bug_bounty_writeup-5)
 - [Login Page Testing Checklist: 15 Important Test Cases Every Security Tester Should Know](https://osintteam.blog/login-page-testing-checklist-15-important-test-cases-every-security-tester-should-know-58cef512f39e?source=rss------bug_bounty_writeup-5)
 - [Reverse Engineering Web Apps &amp; APIs 101](https://medium.com/@jirosec/reverse-engineering-web-apps-apis-101-c98e33a916f4?source=rss------bug_bounty_writeup-5)
@@ -930,7 +931,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Unauthorized Workspace Deletion via Broken Access Control](https://medium.com/@sagar_kirola-G35638/unauthorized-workspace-deletion-via-broken-access-control-e7fbd4234581?source=rss------bug_bounty_writeup-5)
 - [HackTheBox — TwoMillion: A Lesson in API Abuse and Privilege Escalation](https://medium.com/@shxdowz/hackthebox-twomillion-a-lesson-in-api-abuse-and-privilege-escalation-0c66bd704070?source=rss------bug_bounty_writeup-5)
 - [From Directory Brute-Forcing to Real-Time GPS Tracking: Exploiting S3 Bucket Misconfigurations](https://medium.com/@21bec131/from-directory-brute-forcing-to-real-time-gps-tracking-exploiting-s3-bucket-misconfigurations-f03b088a0a3d?source=rss------bug_bounty_writeup-5)
-- [The Ghost Email: How Weak Validation Broke Authentication](https://scriptjacker.medium.com/the-ghost-email-how-weak-validation-broke-authentication-b45774caae70?source=rss------bug_bounty_writeup-5)
 - [Reading Responses: Status Codes, Headers, and Body Forensics](https://infosecwriteups.com/reading-responses-status-codes-headers-and-body-forensics-76c2da93335f?source=rss----7b722bfd1b8d---4)
 - [Breakdown of CVE-2026–31431 &lpar;Copy Fail&rpar; an Overl00k3d Linux Kernel Vulnerability Enables Privilege…](https://infosecwriteups.com/breakdown-of-cve-2026-31431-copy-fail-an-overl00k3d-linux-kernel-vulnerability-enables-privilege-f8658453ab81?source=rss----7b722bfd1b8d---4)
 - [KubSTU CTF 2026 Writeups: Five Challenges, Saturday](https://infosecwriteups.com/kubstu-ctf-2026-writeups-five-challenges-saturday-43d7f2bec403?source=rss----7b722bfd1b8d---4)
@@ -945,7 +945,17 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
 - [How to backup and restore the Windows Registry](https://www.bleepingcomputer.com/tutorials/how-to-backup-and-restore-the-windows-registry/)
+- [How To Fix Error: Externally-Managed-Environment In Python &lpar;Kali Linux&rpar;](https://technicalnavigator.in/how-to-fix-error-externally-managed-environment-in-python-kali-linux/)
+- [Understanding Systemctl Command in Linux &lpar;Practical&rpar;](https://technicalnavigator.in/understanding-systemctl-command-in-linux-practical/)
+- [Macros in docm &amp; Linux memory dump| Hack The Boo  Challanges](https://technicalnavigator.in/macros-in-docm-linux-memory-dump-hack-the-boo-challanges/)
+- [Android Apps debugging |  Frida, JADX, Genymotion](https://technicalnavigator.in/android-apps-debugging-frida-jadx-genymotion/)
+- [MouseServer | wifimouse – Windows/ Linux](https://technicalnavigator.in/mouseserver-wifimouse-windows-linux/)
+- [FFUF fuzzer | web-application penetration-testing](https://technicalnavigator.in/ffuf-fuzzer-web-application-penetration-testing/)
 - [How to open a Windows 11 Command Prompt as Administrator](https://www.bleepingcomputer.com/tutorials/how-to-open-a-windows-11-command-prompt-as-administrator/)
+- [Classes-Objects &amp; Deserialization bug](https://technicalnavigator.in/classes-objects-deserialization-bug/)
+- [Loki Tool | Multhreading Over Sockets in C](https://technicalnavigator.in/loki-tool-multhreading-over-sockets-in-c/)
+- [Egghunter | NASM | C prototype](https://technicalnavigator.in/egghunter-nasm-c-prototype/)
+- [TELNET &amp; FTP Analysis](https://technicalnavigator.in/telnet-ftp-analysis/)
 - [How to make the Start menu full screen in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-make-the-start-menu-full-screen-in-windows-10/)
 - [How to install the Microsoft Visual C++ 2015 Runtime](https://www.bleepingcomputer.com/tutorials/how-to-install-the-microsoft-visual-c-2015-runtime/)
 - [How to open an elevated PowerShell Admin prompt in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-open-an-elevated-powershell-admin-prompt-in-windows-10/)
