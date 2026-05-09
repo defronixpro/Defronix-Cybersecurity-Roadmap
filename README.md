@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [IDOR in Email Preference Management — Unauthenticated Access &amp; Modification](https://medium.com/@dev_fr_/idor-in-email-preference-management-unauthenticated-access-modification-342ffb0d08c1?source=rss------bug_bounty_writeup-5)
 - [How an “Out-of-Scope” XSS Led to a 300 CHF Bounty](https://medium.com/@asifebrahim580/how-an-out-of-scope-xss-led-to-a-300-chf-bounty-3a6b022469ce?source=rss------bug_bounty_writeup-5)
 - [Login Page Testing Checklist: 15 Important Test Cases Every Security Tester Should Know](https://osintteam.blog/login-page-testing-checklist-15-important-test-cases-every-security-tester-should-know-58cef512f39e?source=rss------bug_bounty_writeup-5)
 - [Reverse Engineering Web Apps &amp; APIs 101](https://medium.com/@jirosec/reverse-engineering-web-apps-apis-101-c98e33a916f4?source=rss------bug_bounty_writeup-5)
@@ -937,7 +938,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [From Anonymous to Administrator: A Chain of Quiet Mistakes](https://infosecwriteups.com/from-anonymous-to-administrator-a-chain-of-quiet-mistakes-55d0daf90bf9?source=rss----7b722bfd1b8d---4)
 - [Understanding SSRF: Concepts, Patterns and Practical Exploitation](https://infosecwriteups.com/understanding-ssrf-concepts-patterns-and-practical-exploitation-6cb029768f03?source=rss----7b722bfd1b8d---4)
 - [How I Found an Unprotected Login Portal on a Federal VDP &lpar;and Why It Still Got P5&rpar;](https://infosecwriteups.com/how-i-found-an-unprotected-login-portal-on-a-federal-vdp-and-why-it-still-got-p5-e93dbed192b0?source=rss----7b722bfd1b8d---4)
-- [Chaining Logic Flaws: From KYC Bypass to Authenticated Time-Based SQLi and Mass IDOR](https://medium.com/@xelcezeri/chaining-logic-flaws-from-kyc-bypass-to-authenticated-time-based-sqli-and-mass-idor-0425f362dad5?source=rss------bug_bounty_writeup-5)
 - [Ha-Natraj — LFI Log Poisoning + Apache2 User Hijack + sudo nmap to Root | OffSec PG Play](https://infosecwriteups.com/ha-natraj-lfi-log-poisoning-apache2-user-hijack-sudo-nmap-to-root-offsec-pg-play-dbbd1fa12bee?source=rss----7b722bfd1b8d---4)
 - [eCPPT Powershell for Pentesters INE’s CTF 1 : A Practical Attack Story](https://infosecwriteups.com/ecppt-powershell-for-pentesters-ines-ctf-1-a-practical-attack-story-cdb40c55d476?source=rss----7b722bfd1b8d---4)
 - [When Logout Isn’t Really Goodbye: A Subtle Data Exposure Bug.](https://infosecwriteups.com/when-logout-isnt-really-goodbye-a-subtle-data-exposure-bug-271b683ddb9a?source=rss----7b722bfd1b8d---4)
