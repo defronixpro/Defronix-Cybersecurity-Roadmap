@@ -922,7 +922,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [IDOR in Email Preference Management — Unauthenticated Access &amp; Modification](https://medium.com/@dev_fr_/idor-in-email-preference-management-unauthenticated-access-modification-342ffb0d08c1?source=rss------bug_bounty_writeup-5)
 - [How an “Out-of-Scope” XSS Led to a 300 CHF Bounty](https://medium.com/@asifebrahim580/how-an-out-of-scope-xss-led-to-a-300-chf-bounty-3a6b022469ce?source=rss------bug_bounty_writeup-5)
 - [Login Page Testing Checklist: 15 Important Test Cases Every Security Tester Should Know](https://osintteam.blog/login-page-testing-checklist-15-important-test-cases-every-security-tester-should-know-58cef512f39e?source=rss------bug_bounty_writeup-5)
 - [Reverse Engineering Web Apps &amp; APIs 101](https://medium.com/@jirosec/reverse-engineering-web-apps-apis-101-c98e33a916f4?source=rss------bug_bounty_writeup-5)
