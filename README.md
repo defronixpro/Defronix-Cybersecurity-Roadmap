@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Don’t blindly trust external account statistics shown on the user’s Intigriti Profile](https://medium.com/@thespamcontroller/dont-blindly-trust-external-account-statistics-shown-on-the-user-s-intigriti-profile-58a450cb94bd?source=rss------bug_bounty_writeup-5)
 - [IOS camera do not detect or warn against homograph domains leading to malicous website](https://vrseclabs.medium.com/ios-camera-do-not-detect-or-warn-against-homograph-domains-leading-to-malicous-website-5a39829d896c?source=rss------bug_bounty_writeup-5)
 - [Critical Recon -&gt; easy Bug Bounty &lpar;Red Bull&rpar;](https://medium.com/@sam5epi0l/critical-recon-easy-bug-bounty-red-bull-3834275a55c2?source=rss------bug_bounty_writeup-5)
 - [From a Simple CSRF to Full Account Takeover](https://medium.com/@montaser_mohsen/from-a-simple-csrf-to-full-account-takeover-fb274a55c2da?source=rss------bug_bounty_writeup-5)
@@ -930,7 +931,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Reverse Engineering Web Apps &amp; APIs 101](https://medium.com/@jirosec/reverse-engineering-web-apps-apis-101-c98e33a916f4?source=rss------bug_bounty_writeup-5)
 - [️Full Account Takeover Through Unsafe Google Linking With Permanent Loss of Access for the Victim](https://medium.com/@0xMo7areb/%EF%B8%8Ffull-account-takeover-through-unsafe-google-linking-with-permanent-loss-of-access-for-the-victim-abbfae81538a?source=rss------bug_bounty_writeup-5)
 - [The “Infinite Discount” Glitch: How I Used a Race Condition to Buy a MacBook for -$300](https://medium.com/@21bec131/the-infinite-discount-glitch-how-i-used-a-race-condition-to-buy-a-macbook-for-300-4257a28e1946?source=rss------bug_bounty_writeup-5)
-- [Unauthorized Workspace Deletion via Broken Access Control](https://medium.com/@sagar_kirola-G35638/unauthorized-workspace-deletion-via-broken-access-control-e7fbd4234581?source=rss------bug_bounty_writeup-5)
 - [Reading Responses: Status Codes, Headers, and Body Forensics](https://infosecwriteups.com/reading-responses-status-codes-headers-and-body-forensics-76c2da93335f?source=rss----7b722bfd1b8d---4)
 - [Breakdown of CVE-2026–31431 &lpar;Copy Fail&rpar; an Overl00k3d Linux Kernel Vulnerability Enables Privilege…](https://infosecwriteups.com/breakdown-of-cve-2026-31431-copy-fail-an-overl00k3d-linux-kernel-vulnerability-enables-privilege-f8658453ab81?source=rss----7b722bfd1b8d---4)
 - [KubSTU CTF 2026 Writeups: Five Challenges, Saturday](https://infosecwriteups.com/kubstu-ctf-2026-writeups-five-challenges-saturday-43d7f2bec403?source=rss----7b722bfd1b8d---4)
