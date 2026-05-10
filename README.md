@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [IOS camera do not detect or warn against homograph domains leading to malicous website](https://vrseclabs.medium.com/ios-camera-do-not-detect-or-warn-against-homograph-domains-leading-to-malicous-website-5a39829d896c?source=rss------bug_bounty_writeup-5)
+- [Critical Recon -&gt; easy Bug Bounty &lpar;Red Bull&rpar;](https://medium.com/@sam5epi0l/critical-recon-easy-bug-bounty-red-bull-3834275a55c2?source=rss------bug_bounty_writeup-5)
 - [From a Simple CSRF to Full Account Takeover](https://medium.com/@montaser_mohsen/from-a-simple-csrf-to-full-account-takeover-fb274a55c2da?source=rss------bug_bounty_writeup-5)
 - [How an “Out-of-Scope” XSS Led to a 300 CHF Bounty](https://medium.com/@asifebrahim580/how-an-out-of-scope-xss-led-to-a-300-chf-bounty-3a6b022469ce?source=rss------bug_bounty_writeup-5)
 - [Login Page Testing Checklist: 15 Important Test Cases Every Security Tester Should Know](https://osintteam.blog/login-page-testing-checklist-15-important-test-cases-every-security-tester-should-know-58cef512f39e?source=rss------bug_bounty_writeup-5)
@@ -929,8 +931,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [️Full Account Takeover Through Unsafe Google Linking With Permanent Loss of Access for the Victim](https://medium.com/@0xMo7areb/%EF%B8%8Ffull-account-takeover-through-unsafe-google-linking-with-permanent-loss-of-access-for-the-victim-abbfae81538a?source=rss------bug_bounty_writeup-5)
 - [The “Infinite Discount” Glitch: How I Used a Race Condition to Buy a MacBook for -$300](https://medium.com/@21bec131/the-infinite-discount-glitch-how-i-used-a-race-condition-to-buy-a-macbook-for-300-4257a28e1946?source=rss------bug_bounty_writeup-5)
 - [Unauthorized Workspace Deletion via Broken Access Control](https://medium.com/@sagar_kirola-G35638/unauthorized-workspace-deletion-via-broken-access-control-e7fbd4234581?source=rss------bug_bounty_writeup-5)
-- [HackTheBox — TwoMillion: A Lesson in API Abuse and Privilege Escalation](https://medium.com/@shxdowz/hackthebox-twomillion-a-lesson-in-api-abuse-and-privilege-escalation-0c66bd704070?source=rss------bug_bounty_writeup-5)
-- [From Directory Brute-Forcing to Real-Time GPS Tracking: Exploiting S3 Bucket Misconfigurations](https://medium.com/@21bec131/from-directory-brute-forcing-to-real-time-gps-tracking-exploiting-s3-bucket-misconfigurations-f03b088a0a3d?source=rss------bug_bounty_writeup-5)
 - [Reading Responses: Status Codes, Headers, and Body Forensics](https://infosecwriteups.com/reading-responses-status-codes-headers-and-body-forensics-76c2da93335f?source=rss----7b722bfd1b8d---4)
 - [Breakdown of CVE-2026–31431 &lpar;Copy Fail&rpar; an Overl00k3d Linux Kernel Vulnerability Enables Privilege…](https://infosecwriteups.com/breakdown-of-cve-2026-31431-copy-fail-an-overl00k3d-linux-kernel-vulnerability-enables-privilege-f8658453ab81?source=rss----7b722bfd1b8d---4)
 - [KubSTU CTF 2026 Writeups: Five Challenges, Saturday](https://infosecwriteups.com/kubstu-ctf-2026-writeups-five-challenges-saturday-43d7f2bec403?source=rss----7b722bfd1b8d---4)
