@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [I found a secret door into an admin panel — and got paid $750 for it](https://medium.com/@syedfaiz7/i-found-a-secret-door-into-an-admin-panel-and-got-paid-750-for-it-92c73f3c4b26?source=rss------bug_bounty_writeup-5)
 - [Uber Eats BOLA &lpar;IDOR&rpar; Vulnerability | $2,000 Bounty | Technical Write-up](https://nullsecurityx.medium.com/uber-eats-bola-idor-vulnerability-2-000-bounty-technical-write-up-a73c44f9f18f?source=rss------bug_bounty_writeup-5)
 - [PortSwigger Lab -Broken Access Control &lpar;User role can be modified in user profile&rpar; Writeup](https://medium.com/@rahimsec0/portswigger-lab-broken-access-control-user-role-can-be-modified-in-user-profile-writeup-24efc48b2718?source=rss------bug_bounty_writeup-5)
 - [How I Found Unlimited Account Creation Vulnerability Due to Improper Access Control](https://medium.com/@iamshafayat/how-i-found-unlimited-account-creation-vulnerability-due-to-improper-access-control-96ed33839a1e?source=rss------bug_bounty_writeup-5)
@@ -933,7 +934,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [IOS camera do not detect or warn against homograph domains leading to malicous website](https://vrseclabs.medium.com/ios-camera-do-not-detect-or-warn-against-homograph-domains-leading-to-malicous-website-5a39829d896c?source=rss------bug_bounty_writeup-5)
 - [Critical Recon -&gt; easy Bug Bounty &lpar;Red Bull&rpar;](https://medium.com/@sam5epi0l/critical-recon-easy-bug-bounty-red-bull-3834275a55c2?source=rss------bug_bounty_writeup-5)
 - [From a Simple CSRF to Full Account Takeover](https://medium.com/@montaser_mohsen/from-a-simple-csrf-to-full-account-takeover-fb274a55c2da?source=rss------bug_bounty_writeup-5)
-- [How an “Out-of-Scope” XSS Led to a 300 CHF Bounty](https://medium.com/@asifebrahim580/how-an-out-of-scope-xss-led-to-a-300-chf-bounty-3a6b022469ce?source=rss------bug_bounty_writeup-5)
 - [Reading Responses: Status Codes, Headers, and Body Forensics](https://infosecwriteups.com/reading-responses-status-codes-headers-and-body-forensics-76c2da93335f?source=rss----7b722bfd1b8d---4)
 - [Breakdown of CVE-2026–31431 &lpar;Copy Fail&rpar; an Overl00k3d Linux Kernel Vulnerability Enables Privilege…](https://infosecwriteups.com/breakdown-of-cve-2026-31431-copy-fail-an-overl00k3d-linux-kernel-vulnerability-enables-privilege-f8658453ab81?source=rss----7b722bfd1b8d---4)
 - [KubSTU CTF 2026 Writeups: Five Challenges, Saturday](https://infosecwriteups.com/kubstu-ctf-2026-writeups-five-challenges-saturday-43d7f2bec403?source=rss----7b722bfd1b8d---4)
