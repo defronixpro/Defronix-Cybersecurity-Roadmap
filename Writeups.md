@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How a Hidden GraphQL Endpoint Turned Into a Serious Data Leak](https://medium.com/@0xJad/how-a-hidden-graphql-endpoint-turned-into-a-serious-data-leak-6e459cc2f56e?source=rss------bug_bounty_writeup-5)
 - [The Most Dangerous Bugs Aren’t in Your Code — They’re in Your Logic](https://medium.com/@drishtipandey/the-most-dangerous-bugs-arent-in-your-code-they-re-in-your-logic-898e6817f7e6?source=rss------bug_bounty_writeup-5)
 - [From Viewer to Admin — Breaking Organization Isolation in a VDP Platform](https://medium.com/@montaser_mohsen/from-viewer-to-admin-breaking-organization-isolation-in-a-vdp-platform-ab57c8ee0c46?source=rss------bug_bounty_writeup-5)
 - [Critical Authentication Flaw — Grants Full WordPress Admin Access](https://medium.com/@a7med.ctf/critical-authentication-flaw-grants-full-wordpress-admin-access-78432a377915?source=rss------bug_bounty_writeup-5)
@@ -18,7 +19,6 @@ APPRENTICE | Lab -02](https://infosecwriteups.com/information-disclosure-on-debu
 - [I found a secret door into an admin panel — and got paid $750 for it](https://medium.com/@syedfaiz7/i-found-a-secret-door-into-an-admin-panel-and-got-paid-750-for-it-92c73f3c4b26?source=rss------bug_bounty_writeup-5)
 - [Uber Eats BOLA &lpar;IDOR&rpar; Vulnerability | $2,000 Bounty | Technical Write-up](https://nullsecurityx.medium.com/uber-eats-bola-idor-vulnerability-2-000-bounty-technical-write-up-a73c44f9f18f?source=rss------bug_bounty_writeup-5)
 - [PortSwigger Lab -Broken Access Control &lpar;User role can be modified in user profile&rpar; Writeup](https://medium.com/@rahimsec0/portswigger-lab-broken-access-control-user-role-can-be-modified-in-user-profile-writeup-24efc48b2718?source=rss------bug_bounty_writeup-5)
-- [How I Found Unlimited Account Creation Vulnerability Due to Improper Access Control](https://medium.com/@iamshafayat/how-i-found-unlimited-account-creation-vulnerability-due-to-improper-access-control-96ed33839a1e?source=rss------bug_bounty_writeup-5)
 - [You Don’t Need a 0-Day for RCE: A Real-World Kill Chain](https://infosecwriteups.com/you-dont-need-a-0-day-for-rce-a-real-world-kill-chain-e7ec690ba9a4?source=rss----7b722bfd1b8d---4)
 - [How I Defeat Passkeys Nearly Every Time](https://infosecwriteups.com/passkeys-arent-nearly-as-effective-as-we-thought-54eed4eecf4a?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
