@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [From Viewer to Admin — Breaking Organization Isolation in a VDP Platform](https://medium.com/@montaser_mohsen/from-viewer-to-admin-breaking-organization-isolation-in-a-vdp-platform-ab57c8ee0c46?source=rss------bug_bounty_writeup-5)
+- [Critical Authentication Flaw — Grants Full WordPress Admin Access](https://medium.com/@a7med.ctf/critical-authentication-flaw-grants-full-wordpress-admin-access-78432a377915?source=rss------bug_bounty_writeup-5)
 - [Unprotected Admin Functionality](https://medium.com/@erinmin56/unprotected-admin-functionality-2e0df4232104?source=rss------bug_bounty_writeup-5)
 - [Lab Write-up: Linux CLI — Identifying Incorrect File Extensions](https://infosecwriteups.com/lab-write-up-linux-cli-identifying-incorrect-file-extensions-71e03bb908e8?source=rss----7b722bfd1b8d---4)
 - [AI Models &amp; Data | TryHackMe Write-up](https://infosecwriteups.com/ai-models-data-tryhackme-write-up-c9d70e005bbb?source=rss----7b722bfd1b8d---4)
@@ -940,8 +942,6 @@ APPRENTICE | Lab -02](https://infosecwriteups.com/information-disclosure-on-debu
 - [PortSwigger Lab -Broken Access Control &lpar;User role controlled by request parameter&rpar; Writeup](https://medium.com/@rahimsec0/portswigger-lab-broken-access-control-user-role-controlled-by-request-parameter-writeup-74c76fb1c950?source=rss------bug_bounty_writeup-5)
 - [You Don’t Need a 0-Day for RCE: A Real-World Kill Chain](https://infosecwriteups.com/you-dont-need-a-0-day-for-rce-a-real-world-kill-chain-e7ec690ba9a4?source=rss----7b722bfd1b8d---4)
 - [How I Defeat Passkeys Nearly Every Time](https://infosecwriteups.com/passkeys-arent-nearly-as-effective-as-we-thought-54eed4eecf4a?source=rss----7b722bfd1b8d---4)
-- [IOS camera do not detect or warn against homograph domains leading to malicous website](https://vrseclabs.medium.com/ios-camera-do-not-detect-or-warn-against-homograph-domains-leading-to-malicous-website-5a39829d896c?source=rss------bug_bounty_writeup-5)
-- [Critical Recon -&gt; easy Bug Bounty &lpar;Red Bull&rpar;](https://medium.com/@sam5epi0l/critical-recon-easy-bug-bounty-red-bull-3834275a55c2?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
