@@ -922,6 +922,11 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How to Detect Persistence Mechanisms with Elastic SIEM: SOC Analyst Hands-On Lab | Hunt Forward Lab…](https://infosecwriteups.com/how-to-detect-persistence-mechanisms-with-elastic-siem-soc-analyst-hands-on-lab-hunt-forward-lab-13265ccdd666?source=rss----7b722bfd1b8d---4)
+- [CVE-2026-44843: One Chat Message Steals Your Credentials. Then It Gets Worse!](https://infosecwriteups.com/cve-2026-44843-one-chat-message-steals-your-credentials-then-it-gets-worse-264146623aec?source=rss----7b722bfd1b8d---4)
+- [Exploiting Insecure Output Handling in LLMs via Indirect Prompt Injection &lpar;XSS&rpar;](https://infosecwriteups.com/exploiting-insecure-output-handling-in-llms-via-indirect-prompt-injection-xss-7807e198d9fc?source=rss----7b722bfd1b8d---4)
+- [Phishing-as-a-Service &lpar;PhaaS&rpar;: Inside a Telegram Phishing Bot](https://infosecwriteups.com/phishing-as-a-service-phaas-inside-a-telegram-phishing-bot-d6ebc4be83ad?source=rss----7b722bfd1b8d---4)
+- [APT41 Targeting Pharmaceutical Sector: Log4Shell to Domain Compromise](https://infosecwriteups.com/apt41-targeting-pharmaceutical-sector-log4shell-to-domain-compromise-9e4c1ba9dad6?source=rss----7b722bfd1b8d---4)
 - [PortSwigger Lab -Broken Access Control &lpar;URL-based access control can be circumvented&rpar; Writeup](https://medium.com/@rahimsec0/portswigger-lab-broken-access-control-url-based-access-control-can-be-circumvented-writeup-6920a23aafa1?source=rss------bug_bounty_writeup-5)
 - [How a Hidden GraphQL Endpoint Turned Into a Serious Data Leak](https://medium.com/@0xJad/how-a-hidden-graphql-endpoint-turned-into-a-serious-data-leak-6e459cc2f56e?source=rss------bug_bounty_writeup-5)
 - [The Most Dangerous Bugs Aren’t in Your Code — They’re in Your Logic](https://medium.com/@drishtipandey/the-most-dangerous-bugs-arent-in-your-code-they-re-in-your-logic-898e6817f7e6?source=rss------bug_bounty_writeup-5)
@@ -933,15 +938,9 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Bad USB: The Invisible Hardware Threat](https://infosecwriteups.com/bad-usb-the-invisible-hardware-threat-c1bc8f064405?source=rss----7b722bfd1b8d---4)
 - [Microsoft Edge Password Exposure: How a Memory Dump Reveals Your Credentials](https://infosecwriteups.com/microsoft-edge-password-exposure-how-a-memory-dump-reveals-your-credentials-c18b1aa7046a?source=rss----7b722bfd1b8d---4)
 - [Your Wallet Is the Inbox: How Web3 Phishing Attacks Are Targeting Users On-Chain](https://infosecwriteups.com/your-wallet-is-the-new-inbox-how-web3-phishing-attacks-are-targeting-users-on-chain-64dd37f28a52?source=rss----7b722bfd1b8d---4)
-- [Attack Playbook — Operation DragonRx](https://infosecwriteups.com/attack-playbook-operation-dragonrx-91339316f0df?source=rss----7b722bfd1b8d---4)
-- [Information disclosure on debug page
-APPRENTICE | Lab -02](https://infosecwriteups.com/information-disclosure-on-debug-page-apprentice-lab-02-9d1f09ed7b66?source=rss----7b722bfd1b8d---4)
-- [Information disclosure in error messages | Lab -01](https://infosecwriteups.com/information-disclosure-in-error-messages-lab-01-588b3d76b76e?source=rss----7b722bfd1b8d---4)
 - [Dependency Confusion in Microsoft Power Apps](https://medium.com/@hritik_s/dependency-confusion-in-microsoft-power-apps-01103e43e05e?source=rss------bug_bounty_writeup-5)
 - [I found a secret door into an admin panel — and got paid $750 for it](https://medium.com/@syedfaiz7/i-found-a-secret-door-into-an-admin-panel-and-got-paid-750-for-it-92c73f3c4b26?source=rss------bug_bounty_writeup-5)
 - [Uber Eats BOLA &lpar;IDOR&rpar; Vulnerability | $2,000 Bounty | Technical Write-up](https://nullsecurityx.medium.com/uber-eats-bola-idor-vulnerability-2-000-bounty-technical-write-up-a73c44f9f18f?source=rss------bug_bounty_writeup-5)
-- [You Don’t Need a 0-Day for RCE: A Real-World Kill Chain](https://infosecwriteups.com/you-dont-need-a-0-day-for-rce-a-real-world-kill-chain-e7ec690ba9a4?source=rss----7b722bfd1b8d---4)
-- [How I Defeat Passkeys Nearly Every Time](https://infosecwriteups.com/passkeys-arent-nearly-as-effective-as-we-thought-54eed4eecf4a?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
