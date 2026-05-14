@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [*$$$$ How I Turned a ‘Low Severity’ Reflected XSS into Full Admin Account Takeover](https://medium.com/@asharm.khan7/how-i-turned-a-low-severity-reflected-xss-into-full-admin-account-takeover-42ff5ab31230?source=rss------bug_bounty_writeup-5)
 - [How Hackers Actually Earn Passive Income With Recon](https://infosecwriteups.com/how-hackers-actually-earn-passive-income-with-recon-c77c2a74975f?source=rss----7b722bfd1b8d---4)
 - [ShadowGate Active Directory Lab Walkthrough [HackSmarter]](https://infosecwriteups.com/shadowgate-active-directory-lab-walkthrough-hacksmarter-682901853271?source=rss----7b722bfd1b8d---4)
 - [TryHackMe Walkthrough: CVE-2026–31431 — Copy-Fail](https://infosecwriteups.com/tryhackme-walkthrough-cve-2026-31431-copy-fail-c927e9e59f8d?source=rss----7b722bfd1b8d---4)
@@ -19,7 +20,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [From Viewer to Admin — Breaking Organization Isolation in a VDP Platform](https://medium.com/@montaser_mohsen/from-viewer-to-admin-breaking-organization-isolation-in-a-vdp-platform-ab57c8ee0c46?source=rss------bug_bounty_writeup-5)
 - [Critical Authentication Flaw — Grants Full WordPress Admin Access](https://medium.com/@a7med.ctf/critical-authentication-flaw-grants-full-wordpress-admin-access-78432a377915?source=rss------bug_bounty_writeup-5)
 - [Unprotected Admin Functionality](https://medium.com/@erinmin56/unprotected-admin-functionality-2e0df4232104?source=rss------bug_bounty_writeup-5)
-- [Dependency Confusion in Microsoft Power Apps](https://medium.com/@hritik_s/dependency-confusion-in-microsoft-power-apps-01103e43e05e?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
