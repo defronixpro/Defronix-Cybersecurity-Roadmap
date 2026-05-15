@@ -9,7 +9,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [JetBrains Lab Write-Up | By BnHany](https://infosecwriteups.com/jetbrains-lab-write-up-by-bnhany-ff7d8ab2d07c?source=rss----7b722bfd1b8d---4)
 - [Access to members-only YouTube video content](https://infosecwriteups.com/access-to-members-only-youtube-video-content-6f5d951da209?source=rss----7b722bfd1b8d---4)
 - [[Writeup] Chaining IDOR to Full Account Takeover &lpar;ATO&rpar; via Email Manipulation in a Passwordless…](https://medium.com/@ziadabdo1255/writeup-chaining-idor-to-full-account-takeover-ato-via-email-manipulation-in-a-passwordless-9941ded6b796?source=rss------bug_bounty_writeup-5)
-- [*$$$$ How I Turned a ‘Low Severity’ Reflected XSS into Full Admin Account Takeover](https://medium.com/@asharm.khan7/how-i-turned-a-low-severity-reflected-xss-into-full-admin-account-takeover-42ff5ab31230?source=rss------bug_bounty_writeup-5)
+- [How I Turned a ‘Low Severity’ Reflected XSS into Full Account Takeover](https://medium.com/@asharm.khan7/how-i-turned-a-low-severity-reflected-xss-into-full-admin-account-takeover-42ff5ab31230?source=rss------bug_bounty_writeup-5)
 - [How Hackers Actually Earn Passive Income With Recon](https://infosecwriteups.com/how-hackers-actually-earn-passive-income-with-recon-c77c2a74975f?source=rss----7b722bfd1b8d---4)
 - [ShadowGate Active Directory Lab Walkthrough [HackSmarter]](https://infosecwriteups.com/shadowgate-active-directory-lab-walkthrough-hacksmarter-682901853271?source=rss----7b722bfd1b8d---4)
 - [TryHackMe Walkthrough: CVE-2026–31431 — Copy-Fail](https://infosecwriteups.com/tryhackme-walkthrough-cve-2026-31431-copy-fail-c927e9e59f8d?source=rss----7b722bfd1b8d---4)
