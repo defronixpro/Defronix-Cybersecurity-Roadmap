@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [The Bug That Almost Wasn’t: How a “Dead End” Led to 500+ Leaked Customer Records](https://medium.com/@priyanshbhadoria5/the-bug-that-almost-wasnt-how-a-dead-end-led-to-500-leaked-customer-records-18db26e53705?source=rss------bug_bounty_writeup-5)
 - [I Got Blocked by Outlier Twice. The Second Time I Had Built My Own Browser.](https://infosecwriteups.com/i-got-blocked-by-outlier-twice-the-second-time-i-had-built-my-own-browser-4a9040438f4e?source=rss----7b722bfd1b8d---4)
 - [POST, PUT, DELETE: Building Custom Requests from Zero](https://infosecwriteups.com/post-put-delete-building-custom-requests-from-zero-abd73dd88d59?source=rss----7b722bfd1b8d---4)
 - [I Reverse Engineered this Android Application and here’s what i found!](https://infosecwriteups.com/i-reverse-engineered-this-android-application-and-heres-what-i-found-10d267e2d867?source=rss----7b722bfd1b8d---4)
@@ -940,7 +941,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How a Hidden GraphQL Endpoint Turned Into a Serious Data Leak](https://medium.com/@0xJad/how-a-hidden-graphql-endpoint-turned-into-a-serious-data-leak-6e459cc2f56e?source=rss------bug_bounty_writeup-5)
 - [The Most Dangerous Bugs Aren’t in Your Code — They’re in Your Logic](https://medium.com/@drishtipandey/the-most-dangerous-bugs-arent-in-your-code-they-re-in-your-logic-898e6817f7e6?source=rss------bug_bounty_writeup-5)
 - [From Viewer to Admin — Breaking Organization Isolation in a VDP Platform](https://medium.com/@montaser_mohsen/from-viewer-to-admin-breaking-organization-isolation-in-a-vdp-platform-ab57c8ee0c46?source=rss------bug_bounty_writeup-5)
-- [Critical Authentication Flaw — Grants Full WordPress Admin Access](https://medium.com/@a7med.ctf/critical-authentication-flaw-grants-full-wordpress-admin-access-78432a377915?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
