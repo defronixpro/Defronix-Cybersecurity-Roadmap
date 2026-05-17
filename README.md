@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How a Simple Self XSS Became Stored XSS](https://scriptjacker.medium.com/how-a-simple-self-xss-became-stored-xss-307d30281a66?source=rss------bug_bounty_writeup-5)
 - [IDOR Vulnerabilities in Delivery Platform Affecting 5.4M+ Drivers](https://medium.com/@abdulhaqkhokhar/idor-vulnerabilities-in-delivery-platform-affecting-5-4m-drivers-ca4c8790493b?source=rss------bug_bounty_writeup-5)
 - [BBSCute | Proving Grounds | OSCP Preparation](https://medium.com/@SilentExploit/bbscute-proving-grounds-oscp-preparation-6b2209895cb6?source=rss------bug_bounty_writeup-5)
 - [When graphql is present, race condition isn’t the only way to exceed plan limits](https://canitey.medium.com/when-graphql-is-present-race-condition-isnt-the-only-way-to-exceed-plan-limits-6d70584eaf0c?source=rss------bug_bounty_writeup-5)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [JWT, OAuth, and Every Auth Method You’ll Meet in Web App Testing—Explained Simply](https://osintteam.blog/jwt-oauth-and-every-auth-method-youll-meet-in-web-app-testing-explained-simply-3b5555f9ae65?source=rss------bug_bounty_writeup-5)
 - [Access to members-only YouTube video content](https://infosecwriteups.com/access-to-members-only-youtube-video-content-6f5d951da209?source=rss------bug_bounty_writeup-5)
 - [PortSwigger Lab -Broken Access Control &lpar;URL-based access control can be circumvented&rpar; Writeup](https://medium.com/@rahimsec0/portswigger-lab-broken-access-control-url-based-access-control-can-be-circumvented-writeup-6920a23aafa1?source=rss------bug_bounty_writeup-5)
-- [How a Hidden GraphQL Endpoint Turned Into a Serious Data Leak](https://medium.com/@0xJad/how-a-hidden-graphql-endpoint-turned-into-a-serious-data-leak-6e459cc2f56e?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
