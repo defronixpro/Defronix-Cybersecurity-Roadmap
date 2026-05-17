@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [IDOR Vulnerabilities in Delivery Platform Affecting 5.4M+ Drivers](https://medium.com/@abdulhaqkhokhar/idor-vulnerabilities-in-delivery-platform-affecting-5-4m-drivers-ca4c8790493b?source=rss------bug_bounty_writeup-5)
 - [BBSCute | Proving Grounds | OSCP Preparation](https://medium.com/@SilentExploit/bbscute-proving-grounds-oscp-preparation-6b2209895cb6?source=rss------bug_bounty_writeup-5)
 - [When graphql is present, race condition isn’t the only way to exceed plan limits](https://canitey.medium.com/when-graphql-is-present-race-condition-isnt-the-only-way-to-exceed-plan-limits-6d70584eaf0c?source=rss------bug_bounty_writeup-5)
 - [The Bug That Almost Wasn’t: How a “Dead End” Led to 500+ Leaked Customer Records](https://medium.com/@priyanshbhadoria5/the-bug-that-almost-wasnt-how-a-dead-end-led-to-500-leaked-customer-records-18db26e53705?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Access to members-only YouTube video content](https://infosecwriteups.com/access-to-members-only-youtube-video-content-6f5d951da209?source=rss------bug_bounty_writeup-5)
 - [PortSwigger Lab -Broken Access Control &lpar;URL-based access control can be circumvented&rpar; Writeup](https://medium.com/@rahimsec0/portswigger-lab-broken-access-control-url-based-access-control-can-be-circumvented-writeup-6920a23aafa1?source=rss------bug_bounty_writeup-5)
 - [How a Hidden GraphQL Endpoint Turned Into a Serious Data Leak](https://medium.com/@0xJad/how-a-hidden-graphql-endpoint-turned-into-a-serious-data-leak-6e459cc2f56e?source=rss------bug_bounty_writeup-5)
-- [The Most Dangerous Bugs Aren’t in Your Code — They’re in Your Logic](https://medium.com/@drishtipandey/the-most-dangerous-bugs-arent-in-your-code-they-re-in-your-logic-898e6817f7e6?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
