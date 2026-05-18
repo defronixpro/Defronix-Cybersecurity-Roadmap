@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [SQL Injection in Numeric Parameter&lpar;int&rpar; without common special characters](https://medium.com/@r9.mody/sql-injection-in-numeric-parameter-int-without-common-special-characters-ae31e15ea3e3?source=rss------bug_bounty_writeup-5)
 - [Create a Mass Assignment Lab With Me](https://infosecwriteups.com/create-a-mass-assignment-lab-with-me-30bcc5d30b0f?source=rss----7b722bfd1b8d---4)
 - [ICMP Walkthrough — OffSec Lab &lpar;Privilege Escalation via hping3&rpar;](https://infosecwriteups.com/icmp-walkthrough-offsec-lab-privilege-escalation-via-hping3-50ebb4589cae?source=rss----7b722bfd1b8d---4)
 - [Broken Authentication: How Attackers Gain Unauthorized Access to Your Application.](https://infosecwriteups.com/broken-authentication-how-attackers-gain-unauthorized-access-to-your-application-88f7e72439db?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [[Writeup] Chaining IDOR to Full Account Takeover &lpar;ATO&rpar; via Email Manipulation in a Passwordless…](https://medium.com/@ziadabdo1255/writeup-chaining-idor-to-full-account-takeover-ato-via-email-manipulation-in-a-passwordless-9941ded6b796?source=rss------bug_bounty_writeup-5)
 - [How I Turned a ‘Low Severity’ Reflected XSS into Full Account Takeover](https://medium.com/@asharm.khan7/how-i-turned-a-low-severity-reflected-xss-into-full-admin-account-takeover-42ff5ab31230?source=rss------bug_bounty_writeup-5)
 - [JWT, OAuth, and Every Auth Method You’ll Meet in Web App Testing—Explained Simply](https://osintteam.blog/jwt-oauth-and-every-auth-method-youll-meet-in-web-app-testing-explained-simply-3b5555f9ae65?source=rss------bug_bounty_writeup-5)
-- [Access to members-only YouTube video content](https://infosecwriteups.com/access-to-members-only-youtube-video-content-6f5d951da209?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
