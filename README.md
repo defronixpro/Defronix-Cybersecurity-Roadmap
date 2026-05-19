@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [أول ثغرة في 3 أيام فقط| تخلّص من عقدة أول ثغرة](https://medium.com/@firstbugpath/%D8%A3%D9%88%D9%84-%D8%AB%D8%BA%D8%B1%D8%A9-%D9%81%D9%8A-3-%D8%A3%D9%8A%D8%A7%D9%85-%D9%81%D9%82%D8%B7-%D8%AA%D8%AE%D9%84%D9%91%D8%B5-%D9%85%D9%86-%D8%B9%D9%82%D8%AF%D8%A9-%D8%A3%D9%88%D9%84-%D8%AB%D8%BA%D8%B1%D8%A9-b3a915ab76c9?source=rss------bug_bounty_writeup-5)
+- [تخلّص من عقدة اكتشاف أول ثغرة.هل لسه مجبتش أول ثغرة؟‎ !!!](https://medium.com/@firstbugpath/%D8%AA%D8%AE%D9%84%D9%91%D8%B5-%D9%85%D9%86-%D8%B9%D9%82%D8%AF%D8%A9-%D8%A7%D9%83%D8%AA%D8%B4%D8%A7%D9%81-%D8%A3%D9%88%D9%84-%D8%AB%D8%BA%D8%B1%D8%A9-%D9%87%D9%84-%D9%84%D8%B3%D9%87-%D9%85%D8%AC%D8%A8%D8%AA%D8%B4-%D8%A3%D9%88%D9%84-%D8%AB%D8%BA%D8%B1%D8%A9-dafc31d4d528?source=rss------bug_bounty_writeup-5)
 - [Open Source Security IT Platform: Threat Detection, Logging, Alerts, AI and SSO integration.](https://infosecwriteups.com/open-source-security-platform-for-it-infrastructure-centralizing-threat-detection-logs-and-sso-c08d1b412f37?source=rss----7b722bfd1b8d---4)
 - [Why InfoSec Needs A Seat at the CX Table](https://infosecwriteups.com/why-infosec-needs-a-seat-at-the-cx-table-35aec59723f0?source=rss----7b722bfd1b8d---4)
 - [SQL &amp; NoSQL Injection in APIs-The Vulnerability That Still Puts YOUR Data at Risk](https://infosecwriteups.com/sql-nosql-injection-in-apis-the-vulnerability-that-still-puts-your-data-at-risk-98ed14eebd23?source=rss----7b722bfd1b8d---4)
@@ -940,8 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [BBSCute | Proving Grounds | OSCP Preparation](https://medium.com/@SilentExploit/bbscute-proving-grounds-oscp-preparation-6b2209895cb6?source=rss------bug_bounty_writeup-5)
 - [When graphql is present, race condition isn’t the only way to exceed plan limits](https://canitey.medium.com/when-graphql-is-present-race-condition-isnt-the-only-way-to-exceed-plan-limits-6d70584eaf0c?source=rss------bug_bounty_writeup-5)
 - [The Bug That Almost Wasn’t: How a “Dead End” Led to 500+ Leaked Customer Records](https://medium.com/@priyanshbhadoria5/the-bug-that-almost-wasnt-how-a-dead-end-led-to-500-leaked-customer-records-18db26e53705?source=rss------bug_bounty_writeup-5)
-- [[Writeup] Chaining IDOR to Full Account Takeover &lpar;ATO&rpar; via Email Manipulation in a Passwordless…](https://medium.com/@ziadabdo1255/writeup-chaining-idor-to-full-account-takeover-ato-via-email-manipulation-in-a-passwordless-9941ded6b796?source=rss------bug_bounty_writeup-5)
-- [How I Turned a ‘Low Severity’ Reflected XSS into Full Account Takeover](https://medium.com/@asharm.khan7/how-i-turned-a-low-severity-reflected-xss-into-full-admin-account-takeover-42ff5ab31230?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
