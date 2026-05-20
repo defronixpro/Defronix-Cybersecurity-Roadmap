@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [The Bug I Slept On: How a 404 Error Led to My First-Ever Bug Bounty &lpar;A Massive Internal Data Leak&rpar;](https://medium.com/@hamzabohra9/the-bug-i-slept-on-how-a-404-error-led-to-my-first-ever-bug-bounty-a-massive-internal-data-leak-c2c3807bad3b?source=rss------bug_bounty_writeup-5)
+- [How a Throwaway Email Walked Me Into Someone Else’s Tenant — Unauthorized PII Information Access](https://medium.com/@thamotharan.vajramani/how-a-throwaway-email-walked-me-into-someone-elses-tenant-unauthorized-pii-information-access-b2530aa16827?source=rss------bug_bounty_writeup-5)
 - [Race Condition &lpar;TOCTOU&rpar; in Review API — Bypassing Business Logic with a Single Packet Attack](https://medium.com/@tanjimul_islam/race-condition-toctou-in-review-api-bypassing-business-logic-with-a-single-packet-attack-797070c88d6c?source=rss------bug_bounty_writeup-5)
 - [Bypassing the Frontend Obfuscation: How I Uncovered a Company’s Entire Internal Architecture…](https://medium.com/@priyanshbhadoria5/bypassing-the-frontend-obfuscation-how-i-uncovered-a-companys-entire-internal-architecture-da95e27668c9?source=rss------bug_bounty_writeup-5)
 - [How I Discovered Account Takeover &lpar;ATO&rpar; via XSS and Open redirect](https://jeetpal2007.medium.com/how-i-discovered-account-takeover-ato-via-xss-and-open-redirect-36f640760451?source=rss------bug_bounty_writeup-5)
@@ -940,8 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Paywall bypass exposing the premium articles for free](https://medium.com/@kripansuyal/paywall-bypass-exposing-the-premium-articles-for-free-6e4350cca0b1?source=rss------bug_bounty_writeup-5)
 - [SQL Injection in Numeric Parameter&lpar;int&rpar; without common special characters](https://medium.com/@r9.mody/sql-injection-in-numeric-parameter-int-without-common-special-characters-ae31e15ea3e3?source=rss------bug_bounty_writeup-5)
 - [Flu | Proving Grounds | Walkthrough | OSCP Preparation](https://medium.com/@SilentExploit/flu-proving-grounds-walkthrough-oscp-preparation-a5b2c75b11b6?source=rss------bug_bounty_writeup-5)
-- [How a Simple Self XSS Became Stored XSS](https://scriptjacker.medium.com/how-a-simple-self-xss-became-stored-xss-307d30281a66?source=rss------bug_bounty_writeup-5)
-- [IDOR Vulnerabilities in Delivery Platform Affecting 5.4M+ Drivers](https://medium.com/@abdulhaqkhokhar/idor-vulnerabilities-in-delivery-platform-affecting-5-4m-drivers-ca4c8790493b?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
