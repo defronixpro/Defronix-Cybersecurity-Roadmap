@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [أغرب حاجة في مجال الباونتي إنك ممكن تتعلم 6 شهور…
+ ومع ذلك متلاقيش ولا ثغرة واحدة.](https://medium.com/@firstbugpath/%D8%A3%D8%BA%D8%B1%D8%A8-%D8%AD%D8%A7%D8%AC%D8%A9-%D9%81%D9%8A-%D9%85%D8%AC%D8%A7%D9%84-%D8%A7%D9%84%D8%A8%D8%A7%D9%88%D9%86%D8%AA%D9%8A-%D8%A5%D9%86%D9%83-%D9%85%D9%85%D9%83%D9%86-%D8%AA%D8%AA%D8%B9%D9%84%D9%85-6-%D8%B4%D9%87%D9%88%D8%B1-%D9%88%D9%85%D8%B9-%D8%B0%D9%84%D9%83-%D9%85%D8%AA%D9%84%D8%A7%D9%82%D9%8A%D8%B4-%D9%88%D9%84%D8%A7-%D8%AB%D8%BA%D8%B1%D8%A9-%D9%88%D8%A7%D8%AD%D8%AF%D8%A9-f4e3dfe7a5b1?source=rss------bug_bounty_writeup-5)
 - [From Removed Admin to Full Workspace Takeover — A Broken Access Control Story](https://medium.com/@montaser_mohsen/from-removed-admin-to-full-workspace-takeover-a-broken-access-control-story-4275640d5d29?source=rss------bug_bounty_writeup-5)
 - [JavaScript Kodlarında Gizlənən $1,250: İlk Bug Bounty Hekayəm](https://tuncayabulfatzada.medium.com/javascript-kodlar%C4%B1nda-gizl%C9%99n%C9%99n-1-250-i%CC%87lk-bug-bounty-hekay%C9%99m-2caf0a3eb647?source=rss------bug_bounty_writeup-5)
 - [How Malware Hides Inside ZIP Files &amp; Why Most Defenses Still Miss It](https://infosecwriteups.com/how-malware-hides-inside-zip-files-why-most-defenses-still-miss-it-aea67a958fd9?source=rss----7b722bfd1b8d---4)
@@ -941,7 +943,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [تخلّص من عقدة اكتشاف أول ثغرة.هل لسه مجبتش أول ثغرة؟‎ !!!](https://medium.com/@firstbugpath/%D8%AA%D8%AE%D9%84%D9%91%D8%B5-%D9%85%D9%86-%D8%B9%D9%82%D8%AF%D8%A9-%D8%A7%D9%83%D8%AA%D8%B4%D8%A7%D9%81-%D8%A3%D9%88%D9%84-%D8%AB%D8%BA%D8%B1%D8%A9-%D9%87%D9%84-%D9%84%D8%B3%D9%87-%D9%85%D8%AC%D8%A8%D8%AA%D8%B4-%D8%A3%D9%88%D9%84-%D8%AB%D8%BA%D8%B1%D8%A9-dafc31d4d528?source=rss------bug_bounty_writeup-5)
 - [Open Source Security IT Platform: Threat Detection, Logging, Alerts, AI and SSO integration.](https://infosecwriteups.com/open-source-security-platform-for-it-infrastructure-centralizing-threat-detection-logs-and-sso-c08d1b412f37?source=rss----7b722bfd1b8d---4)
 - [Why InfoSec Needs A Seat at the CX Table](https://infosecwriteups.com/why-infosec-needs-a-seat-at-the-cx-table-35aec59723f0?source=rss----7b722bfd1b8d---4)
-- [Paywall bypass exposing the premium articles for free](https://medium.com/@kripansuyal/paywall-bypass-exposing-the-premium-articles-for-free-6e4350cca0b1?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
