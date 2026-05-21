@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [From Removed Admin to Full Workspace Takeover — A Broken Access Control Story](https://medium.com/@montaser_mohsen/from-removed-admin-to-full-workspace-takeover-a-broken-access-control-story-4275640d5d29?source=rss------bug_bounty_writeup-5)
 - [JavaScript Kodlarında Gizlənən $1,250: İlk Bug Bounty Hekayəm](https://tuncayabulfatzada.medium.com/javascript-kodlar%C4%B1nda-gizl%C9%99n%C9%99n-1-250-i%CC%87lk-bug-bounty-hekay%C9%99m-2caf0a3eb647?source=rss------bug_bounty_writeup-5)
 - [How Malware Hides Inside ZIP Files &amp; Why Most Defenses Still Miss It](https://infosecwriteups.com/how-malware-hides-inside-zip-files-why-most-defenses-still-miss-it-aea67a958fd9?source=rss----7b722bfd1b8d---4)
 - [Assertion101 Proving Grounds Walkthrough &lpar;Intermediate&rpar; | Complete Write-Up](https://infosecwriteups.com/assertion101-proving-grounds-walkthrough-intermediate-complete-write-up-0dc4b987dd31?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Open Source Security IT Platform: Threat Detection, Logging, Alerts, AI and SSO integration.](https://infosecwriteups.com/open-source-security-platform-for-it-infrastructure-centralizing-threat-detection-logs-and-sso-c08d1b412f37?source=rss----7b722bfd1b8d---4)
 - [Why InfoSec Needs A Seat at the CX Table](https://infosecwriteups.com/why-infosec-needs-a-seat-at-the-cx-table-35aec59723f0?source=rss----7b722bfd1b8d---4)
 - [Paywall bypass exposing the premium articles for free](https://medium.com/@kripansuyal/paywall-bypass-exposing-the-premium-articles-for-free-6e4350cca0b1?source=rss------bug_bounty_writeup-5)
-- [SQL Injection in Numeric Parameter&lpar;int&rpar; without common special characters](https://medium.com/@r9.mody/sql-injection-in-numeric-parameter-int-without-common-special-characters-ae31e15ea3e3?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
