@@ -17,7 +17,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [The Sleeper Agent Bug: How One HTML Payload Lay Hidden for Months to Attack My Inbox ⏳](https://infosecwriteups.com/the-sleeper-agent-bug-how-one-html-payload-lay-hidden-for-months-to-attack-my-inbox-9d3f1e9df60e?source=rss----7b722bfd1b8d---4)
 - [gRPC Penetration Testing for Beginners](https://infosecwriteups.com/grpc-penetration-testing-for-beginners-22d4a517b404?source=rss----7b722bfd1b8d---4)
 - [A Pentester’s Methodology for Toxic Vulnerability Combinations](https://infosecwriteups.com/a-pentesters-methodology-for-toxic-vulnerability-combinations-993cd63ba2cf?source=rss----7b722bfd1b8d---4)
-- [Enterprise — GitHub Credential Archaeology + Kerberoasting + Unquoted Service Path | TryHackMe](https://infosecwriteups.com/enterprise-github-credential-archaeology-kerberoasting-unquoted-service-path-tryhackme-1f1396d76204?source=rss----7b722bfd1b8d---4)
+- [Hunting CVEs in WordPress Plugins using Claude + Semgrep](https://infosecwriteups.com/hunting-cves-in-wordpress-plugins-using-claude-semgrep-1f0c82453356?source=rss----7b722bfd1b8d---4)
 - [Paywall bypass exposing the premium articles for free](https://medium.com/@kripansuyal/paywall-bypass-exposing-the-premium-articles-for-free-6e4350cca0b1?source=rss------bug_bounty_writeup-5)
 - [SQL Injection in Numeric Parameter&lpar;int&rpar; without common special characters](https://medium.com/@r9.mody/sql-injection-in-numeric-parameter-int-without-common-special-characters-ae31e15ea3e3?source=rss------bug_bounty_writeup-5)
 - [Flu | Proving Grounds | Walkthrough | OSCP Preparation](https://medium.com/@SilentExploit/flu-proving-grounds-walkthrough-oscp-preparation-a5b2c75b11b6?source=rss------bug_bounty_writeup-5)
