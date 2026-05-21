@@ -922,12 +922,13 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [JavaScript Kodlarında Gizlənən $1,250: İlk Bug Bounty Hekayəm](https://tuncayabulfatzada.medium.com/javascript-kodlar%C4%B1nda-gizl%C9%99n%C9%99n-1-250-i%CC%87lk-bug-bounty-hekay%C9%99m-2caf0a3eb647?source=rss------bug_bounty_writeup-5)
 - [How Malware Hides Inside ZIP Files &amp; Why Most Defenses Still Miss It](https://infosecwriteups.com/how-malware-hides-inside-zip-files-why-most-defenses-still-miss-it-aea67a958fd9?source=rss----7b722bfd1b8d---4)
 - [Assertion101 Proving Grounds Walkthrough &lpar;Intermediate&rpar; | Complete Write-Up](https://infosecwriteups.com/assertion101-proving-grounds-walkthrough-intermediate-complete-write-up-0dc4b987dd31?source=rss----7b722bfd1b8d---4)
 - [The Loud Failure: How a Broken WebSocket Leaked a Master Key to the Backend](https://infosecwriteups.com/the-loud-failure-how-a-broken-websocket-leaked-a-master-key-to-the-backend-8efc2835e4b5?source=rss----7b722bfd1b8d---4)
 - [Bug Bounty Bootcamp #37: SSRF in PDFs, Screenshots, and Bypassing Localhost Filters](https://infosecwriteups.com/bug-bounty-bootcamp-37-ssrf-in-pdfs-screenshots-and-bypassing-localhost-filters-0607d263333f?source=rss----7b722bfd1b8d---4)
 - [Can Pure Modbus Break a Reactor? Oldsmar, Stuxnet &amp; FrostyGoop, Tested](https://infosecwriteups.com/can-pure-modbus-break-a-reactor-oldsmar-stuxnet-frostygoop-tested-3c35dad8daa7?source=rss----7b722bfd1b8d---4)
-- [I Typed My Own Email Into 7 OSINT Tools. What Came Back Scared Me.](https://infosecwriteups.com/i-typed-my-own-email-into-7-osint-tools-what-came-back-scared-me-c09052c3ac3f?source=rss----7b722bfd1b8d---4)
+- [I Typed My Own Email Into 7 OSINT Tools. What Came Back Scared Me &lpar;PART 1&rpar;](https://infosecwriteups.com/i-typed-my-own-email-into-7-osint-tools-what-came-back-scared-me-c09052c3ac3f?source=rss----7b722bfd1b8d---4)
 - [An AI-Enhanced Workflow for Signature Evasion Testing](https://infosecwriteups.com/an-ai-enhanced-workflow-for-signature-evasion-testing-796859350b58?source=rss----7b722bfd1b8d---4)
 - [How to Detect Lateral Movement with Elastic SIEM: SOC Analyst Hands-On Lab | Hunt Forward Lab #006](https://infosecwriteups.com/how-to-detect-lateral-movement-with-elastic-siem-soc-analyst-hands-on-lab-hunt-forward-lab-006-4d5f054d8d5b?source=rss----7b722bfd1b8d---4)
 - [The Bug I Slept On: How a 404 Error Led to My First-Ever Bug Bounty &lpar;A Massive Internal Data Leak&rpar;](https://medium.com/@hamzabohra9/the-bug-i-slept-on-how-a-404-error-led-to-my-first-ever-bug-bounty-a-massive-internal-data-leak-c2c3807bad3b?source=rss------bug_bounty_writeup-5)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Why InfoSec Needs A Seat at the CX Table](https://infosecwriteups.com/why-infosec-needs-a-seat-at-the-cx-table-35aec59723f0?source=rss----7b722bfd1b8d---4)
 - [Paywall bypass exposing the premium articles for free](https://medium.com/@kripansuyal/paywall-bypass-exposing-the-premium-articles-for-free-6e4350cca0b1?source=rss------bug_bounty_writeup-5)
 - [SQL Injection in Numeric Parameter&lpar;int&rpar; without common special characters](https://medium.com/@r9.mody/sql-injection-in-numeric-parameter-int-without-common-special-characters-ae31e15ea3e3?source=rss------bug_bounty_writeup-5)
-- [Flu | Proving Grounds | Walkthrough | OSCP Preparation](https://medium.com/@SilentExploit/flu-proving-grounds-walkthrough-oscp-preparation-a5b2c75b11b6?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
