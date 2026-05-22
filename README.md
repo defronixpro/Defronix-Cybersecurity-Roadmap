@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [I Found My First Bug in 3 Hours. Then Nothing for 2 Weeks. Here’s What I Changed.](https://medium.com/@userwithheart/i-found-my-first-bug-in-3-hours-then-nothing-for-2-weeks-heres-what-i-changed-a9f6c5b20705?source=rss------bug_bounty_writeup-5)
 - [From a Simple Profile Endpoint to a 100k+ User IDOR on HackerRank](https://cybersecuritywriteups.com/from-a-simple-profile-endpoint-to-a-100k-user-idor-on-hackerrank-6f9b6e6fe746?source=rss------bug_bounty_writeup-5)
 - [أغرب حاجة في مجال الباونتي إنك ممكن تتعلم 6 شهور…
  ومع ذلك متلاقيش ولا ثغرة واحدة.](https://medium.com/@firstbugpath/%D8%A3%D8%BA%D8%B1%D8%A8-%D8%AD%D8%A7%D8%AC%D8%A9-%D9%81%D9%8A-%D9%85%D8%AC%D8%A7%D9%84-%D8%A7%D9%84%D8%A8%D8%A7%D9%88%D9%86%D8%AA%D9%8A-%D8%A5%D9%86%D9%83-%D9%85%D9%85%D9%83%D9%86-%D8%AA%D8%AA%D8%B9%D9%84%D9%85-6-%D8%B4%D9%87%D9%88%D8%B1-%D9%88%D9%85%D8%B9-%D8%B0%D9%84%D9%83-%D9%85%D8%AA%D9%84%D8%A7%D9%82%D9%8A%D8%B4-%D9%88%D9%84%D8%A7-%D8%AB%D8%BA%D8%B1%D8%A9-%D9%88%D8%A7%D8%AD%D8%AF%D8%A9-f4e3dfe7a5b1?source=rss------bug_bounty_writeup-5)
@@ -940,7 +941,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Race Condition &lpar;TOCTOU&rpar; in Review API — Bypassing Business Logic with a Single Packet Attack](https://medium.com/@tanjimul_islam/race-condition-toctou-in-review-api-bypassing-business-logic-with-a-single-packet-attack-797070c88d6c?source=rss------bug_bounty_writeup-5)
 - [Bypassing the Frontend Obfuscation: How I Uncovered a Company’s Entire Internal Architecture…](https://medium.com/@priyanshbhadoria5/bypassing-the-frontend-obfuscation-how-i-uncovered-a-companys-entire-internal-architecture-da95e27668c9?source=rss------bug_bounty_writeup-5)
 - [How I Discovered Account Takeover &lpar;ATO&rpar; via XSS and Open redirect](https://jeetpal2007.medium.com/how-i-discovered-account-takeover-ato-via-xss-and-open-redirect-36f640760451?source=rss------bug_bounty_writeup-5)
-- [أول ثغرة في 3 أيام فقط| تخلّص من عقدة أول ثغرة](https://medium.com/@firstbugpath/%D8%A3%D9%88%D9%84-%D8%AB%D8%BA%D8%B1%D8%A9-%D9%81%D9%8A-3-%D8%A3%D9%8A%D8%A7%D9%85-%D9%81%D9%82%D8%B7-%D8%AA%D8%AE%D9%84%D9%91%D8%B5-%D9%85%D9%86-%D8%B9%D9%82%D8%AF%D8%A9-%D8%A3%D9%88%D9%84-%D8%AB%D8%BA%D8%B1%D8%A9-b3a915ab76c9?source=rss------bug_bounty_writeup-5)
 - [Open Source Security IT Platform: Threat Detection, Logging, Alerts, AI and SSO integration.](https://infosecwriteups.com/open-source-security-platform-for-it-infrastructure-centralizing-threat-detection-logs-and-sso-c08d1b412f37?source=rss----7b722bfd1b8d---4)
 - [Why InfoSec Needs A Seat at the CX Table](https://infosecwriteups.com/why-infosec-needs-a-seat-at-the-cx-table-35aec59723f0?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
