@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Hunting for Bugs When the Low-Hanging Fruit is Forbidden: A Deep Dive into Finding Reflected XSS](https://medium.com/@priyanshbhadoria5/hunting-for-bugs-when-the-low-hanging-fruit-is-forbidden-a-deep-dive-into-finding-reflected-xss-8d52f058ad78?source=rss------bug_bounty_writeup-5)
 - [3 Brain-Dead Bugs Making Me Thousands in 2026](https://medium.com/@banisunil75/3-brain-dead-bugs-making-me-thousands-in-2026-385132100b64?source=rss------bug_bounty_writeup-5)
 - [Mass Assignment + JSON Validation Bypass: From Zero Access to Full Admin Takeover](https://medium.com/@0RedX_/mass-assignment-json-validation-bypass-from-zero-access-to-full-admin-takeover-fc478e5a94be?source=rss------bug_bounty_writeup-5)
 - [I Found My First Bug in 3 Hours. Then Nothing for 2 Weeks. Here’s What I Changed.](https://medium.com/@userwithheart/i-found-my-first-bug-in-3-hours-then-nothing-for-2-weeks-heres-what-i-changed-a9f6c5b20705?source=rss------bug_bounty_writeup-5)
@@ -18,7 +19,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How to Detect Lateral Movement with Elastic SIEM: SOC Analyst Hands-On Lab | Hunt Forward Lab #006](https://infosecwriteups.com/how-to-detect-lateral-movement-with-elastic-siem-soc-analyst-hands-on-lab-hunt-forward-lab-006-4d5f054d8d5b?source=rss----7b722bfd1b8d---4)
 - [The Bug I Slept On: How a 404 Error Led to My First-Ever Bug Bounty &lpar;A Massive Internal Data Leak&rpar;](https://medium.com/@hamzabohra9/the-bug-i-slept-on-how-a-404-error-led-to-my-first-ever-bug-bounty-a-massive-internal-data-leak-c2c3807bad3b?source=rss------bug_bounty_writeup-5)
 - [How a Throwaway Email Walked Me Into Someone Else’s Tenant — Unauthorized PII Information Access](https://medium.com/@thamotharan.vajramani/how-a-throwaway-email-walked-me-into-someone-elses-tenant-unauthorized-pii-information-access-b2530aa16827?source=rss------bug_bounty_writeup-5)
-- [Race Condition &lpar;TOCTOU&rpar; in Review API — Bypassing Business Logic with a Single Packet Attack](https://medium.com/@tanjimul_islam/race-condition-toctou-in-review-api-bypassing-business-logic-with-a-single-packet-attack-797070c88d6c?source=rss------bug_bounty_writeup-5)
 - [Open Source Security IT Platform: Threat Detection, Logging, Alerts, AI and SSO integration.](https://infosecwriteups.com/open-source-security-platform-for-it-infrastructure-centralizing-threat-detection-logs-and-sso-c08d1b412f37?source=rss----7b722bfd1b8d---4)
 - [Why InfoSec Needs A Seat at the CX Table](https://infosecwriteups.com/why-infosec-needs-a-seat-at-the-cx-table-35aec59723f0?source=rss----7b722bfd1b8d---4)
 - [SQL &amp; NoSQL Injection in APIs-The Vulnerability That Still Puts YOUR Data at Risk](https://infosecwriteups.com/sql-nosql-injection-in-apis-the-vulnerability-that-still-puts-your-data-at-risk-98ed14eebd23?source=rss----7b722bfd1b8d---4)
@@ -26,17 +26,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
 - [How to backup and restore the Windows Registry](https://www.bleepingcomputer.com/tutorials/how-to-backup-and-restore-the-windows-registry/)
-- [How To Fix Error: Externally-Managed-Environment In Python &lpar;Kali Linux&rpar;](https://technicalnavigator.in/how-to-fix-error-externally-managed-environment-in-python-kali-linux/)
-- [Understanding Systemctl Command in Linux &lpar;Practical&rpar;](https://technicalnavigator.in/understanding-systemctl-command-in-linux-practical/)
-- [Macros in docm &amp; Linux memory dump| Hack The Boo  Challanges](https://technicalnavigator.in/macros-in-docm-linux-memory-dump-hack-the-boo-challanges/)
-- [Android Apps debugging |  Frida, JADX, Genymotion](https://technicalnavigator.in/android-apps-debugging-frida-jadx-genymotion/)
-- [MouseServer | wifimouse – Windows/ Linux](https://technicalnavigator.in/mouseserver-wifimouse-windows-linux/)
-- [FFUF fuzzer | web-application penetration-testing](https://technicalnavigator.in/ffuf-fuzzer-web-application-penetration-testing/)
 - [How to open a Windows 11 Command Prompt as Administrator](https://www.bleepingcomputer.com/tutorials/how-to-open-a-windows-11-command-prompt-as-administrator/)
-- [Classes-Objects &amp; Deserialization bug](https://technicalnavigator.in/classes-objects-deserialization-bug/)
-- [Loki Tool | Multhreading Over Sockets in C](https://technicalnavigator.in/loki-tool-multhreading-over-sockets-in-c/)
-- [Egghunter | NASM | C prototype](https://technicalnavigator.in/egghunter-nasm-c-prototype/)
-- [TELNET &amp; FTP Analysis](https://technicalnavigator.in/telnet-ftp-analysis/)
 - [How to make the Start menu full screen in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-make-the-start-menu-full-screen-in-windows-10/)
 - [How to install the Microsoft Visual C++ 2015 Runtime](https://www.bleepingcomputer.com/tutorials/how-to-install-the-microsoft-visual-c-2015-runtime/)
 - [How to open an elevated PowerShell Admin prompt in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-open-an-elevated-powershell-admin-prompt-in-windows-10/)
