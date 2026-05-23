@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Metadata Information Disclosure](https://shahdmk99.medium.com/metadata-information-disclosure-4f7958bb2b4b?source=rss------bug_bounty_writeup-5)
 - [Dev Diaries TryHackMe Walkthrough](https://infosecwriteups.com/dev-diaries-tryhackme-walkthrough-5aa1866de9bf?source=rss----7b722bfd1b8d---4)
 - [SSRF in APIs: How a Single URL Parameter Can Expose Internal Systems](https://infosecwriteups.com/ssrf-in-apis-how-a-single-url-parameter-can-expose-internal-systems-63128bff63a4?source=rss----7b722bfd1b8d---4)
 - [Auth Mastery Part 1: Credential Types curl Handles](https://infosecwriteups.com/auth-mastery-part-1-credential-types-curl-handles-7b10a5b810d2?source=rss----7b722bfd1b8d---4)
@@ -942,7 +943,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [From Removed Admin to Full Workspace Takeover — A Broken Access Control Story](https://medium.com/@montaser_mohsen/from-removed-admin-to-full-workspace-takeover-a-broken-access-control-story-4275640d5d29?source=rss------bug_bounty_writeup-5)
 - [JavaScript Kodlarında Gizlənən $1,250: İlk Bug Bounty Hekayəm](https://tuncayabulfatzada.medium.com/javascript-kodlar%C4%B1nda-gizl%C9%99n%C9%99n-1-250-i%CC%87lk-bug-bounty-hekay%C9%99m-2caf0a3eb647?source=rss------bug_bounty_writeup-5)
 - [The Bug I Slept On: How a 404 Error Led to My First-Ever Bug Bounty &lpar;A Massive Internal Data Leak&rpar;](https://medium.com/@hamzabohra9/the-bug-i-slept-on-how-a-404-error-led-to-my-first-ever-bug-bounty-a-massive-internal-data-leak-c2c3807bad3b?source=rss------bug_bounty_writeup-5)
-- [How a Throwaway Email Walked Me Into Someone Else’s Tenant — Unauthorized PII Information Access](https://medium.com/@thamotharan.vajramani/how-a-throwaway-email-walked-me-into-someone-elses-tenant-unauthorized-pii-information-access-b2530aa16827?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
