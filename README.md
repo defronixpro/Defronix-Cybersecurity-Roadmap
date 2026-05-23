@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [3 Brain-Dead Bugs Making Me Thousands in 2026](https://medium.com/@banisunil75/3-brain-dead-bugs-making-me-thousands-in-2026-385132100b64?source=rss------bug_bounty_writeup-5)
 - [Mass Assignment + JSON Validation Bypass: From Zero Access to Full Admin Takeover](https://medium.com/@0RedX_/mass-assignment-json-validation-bypass-from-zero-access-to-full-admin-takeover-fc478e5a94be?source=rss------bug_bounty_writeup-5)
 - [I Found My First Bug in 3 Hours. Then Nothing for 2 Weeks. Here’s What I Changed.](https://medium.com/@userwithheart/i-found-my-first-bug-in-3-hours-then-nothing-for-2-weeks-heres-what-i-changed-a9f6c5b20705?source=rss------bug_bounty_writeup-5)
 - [From a Simple Profile Endpoint to a 100k+ User IDOR on HackerRank](https://cybersecuritywriteups.com/from-a-simple-profile-endpoint-to-a-100k-user-idor-on-hackerrank-6f9b6e6fe746?source=rss------bug_bounty_writeup-5)
@@ -934,15 +935,14 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [The Loud Failure: How a Broken WebSocket Leaked a Master Key to the Backend](https://infosecwriteups.com/the-loud-failure-how-a-broken-websocket-leaked-a-master-key-to-the-backend-8efc2835e4b5?source=rss----7b722bfd1b8d---4)
 - [Bug Bounty Bootcamp #37: SSRF in PDFs, Screenshots, and Bypassing Localhost Filters](https://infosecwriteups.com/bug-bounty-bootcamp-37-ssrf-in-pdfs-screenshots-and-bypassing-localhost-filters-0607d263333f?source=rss----7b722bfd1b8d---4)
 - [Can Pure Modbus Break a Reactor? Oldsmar, Stuxnet &amp; FrostyGoop, Tested](https://infosecwriteups.com/can-pure-modbus-break-a-reactor-oldsmar-stuxnet-frostygoop-tested-3c35dad8daa7?source=rss----7b722bfd1b8d---4)
-- [I Typed My Own Email Into 7 OSINT Tools. What Came Back Scared Me &lpar;PART 1&rpar;](https://infosecwriteups.com/i-typed-my-own-email-into-7-osint-tools-what-came-back-scared-me-c09052c3ac3f?source=rss----7b722bfd1b8d---4)
 - [An AI-Enhanced Workflow for Signature Evasion Testing](https://infosecwriteups.com/an-ai-enhanced-workflow-for-signature-evasion-testing-796859350b58?source=rss----7b722bfd1b8d---4)
 - [How to Detect Lateral Movement with Elastic SIEM: SOC Analyst Hands-On Lab | Hunt Forward Lab #006](https://infosecwriteups.com/how-to-detect-lateral-movement-with-elastic-siem-soc-analyst-hands-on-lab-hunt-forward-lab-006-4d5f054d8d5b?source=rss----7b722bfd1b8d---4)
 - [The Bug I Slept On: How a 404 Error Led to My First-Ever Bug Bounty &lpar;A Massive Internal Data Leak&rpar;](https://medium.com/@hamzabohra9/the-bug-i-slept-on-how-a-404-error-led-to-my-first-ever-bug-bounty-a-massive-internal-data-leak-c2c3807bad3b?source=rss------bug_bounty_writeup-5)
 - [How a Throwaway Email Walked Me Into Someone Else’s Tenant — Unauthorized PII Information Access](https://medium.com/@thamotharan.vajramani/how-a-throwaway-email-walked-me-into-someone-elses-tenant-unauthorized-pii-information-access-b2530aa16827?source=rss------bug_bounty_writeup-5)
 - [Race Condition &lpar;TOCTOU&rpar; in Review API — Bypassing Business Logic with a Single Packet Attack](https://medium.com/@tanjimul_islam/race-condition-toctou-in-review-api-bypassing-business-logic-with-a-single-packet-attack-797070c88d6c?source=rss------bug_bounty_writeup-5)
-- [Bypassing the Frontend Obfuscation: How I Uncovered a Company’s Entire Internal Architecture…](https://medium.com/@priyanshbhadoria5/bypassing-the-frontend-obfuscation-how-i-uncovered-a-companys-entire-internal-architecture-da95e27668c9?source=rss------bug_bounty_writeup-5)
 - [Open Source Security IT Platform: Threat Detection, Logging, Alerts, AI and SSO integration.](https://infosecwriteups.com/open-source-security-platform-for-it-infrastructure-centralizing-threat-detection-logs-and-sso-c08d1b412f37?source=rss----7b722bfd1b8d---4)
 - [Why InfoSec Needs A Seat at the CX Table](https://infosecwriteups.com/why-infosec-needs-a-seat-at-the-cx-table-35aec59723f0?source=rss----7b722bfd1b8d---4)
+- [SQL &amp; NoSQL Injection in APIs-The Vulnerability That Still Puts YOUR Data at Risk](https://infosecwriteups.com/sql-nosql-injection-in-apis-the-vulnerability-that-still-puts-your-data-at-risk-98ed14eebd23?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
