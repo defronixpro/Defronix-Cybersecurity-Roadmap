@@ -1,6 +1,8 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How a Simple Endpoint Exposed /etc/passwd via Path Traversal](https://meetcyber.net/how-a-simple-endpoint-exposed-etc-passwd-via-path-traversal-a0982e9de5b5?source=rss------bug_bounty_writeup-5)
+- [From Subdomain Enumeration to an Exposed Internal Configuration Panel](https://medium.com/@0xL0m4/from-subdomain-enumeration-to-an-exposed-internal-configuration-panel-3708df761dbc?source=rss------bug_bounty_writeup-5)
 - [How I Bypassed Open Redirect Validation in a Logout Endpoint](https://medium.com/@aryampillai/how-i-bypassed-open-redirect-validation-in-a-logout-endpoint-f23ef323b799?source=rss------bug_bounty_writeup-5)
 - [How I Found a Reflected XSS in Just 2 Minutes](https://medium.com/@satyasaiuppala2488/how-i-found-a-reflected-xss-in-just-2-minutes-5c0ace0f8603?source=rss------bug_bounty_writeup-5)
 - [The Subdomain Discovery Method That Actually Finds Forgotten Servers &lpar;Google Dorks That Still Work&rpar;](https://medium.com/@userwithheart/the-subdomain-discovery-method-that-actually-finds-forgotten-servers-google-dorks-that-still-work-7611d10ca59c?source=rss------bug_bounty_writeup-5)
@@ -18,8 +20,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Hunting for Bugs When the Low-Hanging Fruit is Forbidden: A Deep Dive into Finding Reflected XSS](https://medium.com/@priyanshbhadoria5/hunting-for-bugs-when-the-low-hanging-fruit-is-forbidden-a-deep-dive-into-finding-reflected-xss-8d52f058ad78?source=rss------bug_bounty_writeup-5)
 - [3 Brain-Dead Bugs Making Me Thousands in 2026](https://medium.com/@banisunil75/3-brain-dead-bugs-making-me-thousands-in-2026-385132100b64?source=rss------bug_bounty_writeup-5)
 - [Mass Assignment + JSON Validation Bypass: From Zero Access to Full Admin Takeover](https://medium.com/@0RedX_/mass-assignment-json-validation-bypass-from-zero-access-to-full-admin-takeover-fc478e5a94be?source=rss------bug_bounty_writeup-5)
-- [I Found My First Bug in 3 Hours. Then Nothing for 2 Weeks. Here’s What I Changed.](https://medium.com/@userwithheart/i-found-my-first-bug-in-3-hours-then-nothing-for-2-weeks-heres-what-i-changed-a9f6c5b20705?source=rss------bug_bounty_writeup-5)
-- [From a Simple Profile Endpoint to a 100k+ User IDOR on HackerRank](https://cybersecuritywriteups.com/from-a-simple-profile-endpoint-to-a-100k-user-idor-on-hackerrank-6f9b6e6fe746?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
