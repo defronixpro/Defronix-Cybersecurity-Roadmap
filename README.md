@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I Bypassed Open Redirect Validation in a Logout Endpoint](https://medium.com/@aryampillai/how-i-bypassed-open-redirect-validation-in-a-logout-endpoint-f23ef323b799?source=rss------bug_bounty_writeup-5)
 - [How I Found a Reflected XSS in Just 2 Minutes](https://medium.com/@satyasaiuppala2488/how-i-found-a-reflected-xss-in-just-2-minutes-5c0ace0f8603?source=rss------bug_bounty_writeup-5)
 - [The Subdomain Discovery Method That Actually Finds Forgotten Servers &lpar;Google Dorks That Still Work&rpar;](https://medium.com/@userwithheart/the-subdomain-discovery-method-that-actually-finds-forgotten-servers-google-dorks-that-still-work-7611d10ca59c?source=rss------bug_bounty_writeup-5)
 - [Metadata Information Disclosure](https://shahdmk99.medium.com/metadata-information-disclosure-4f7958bb2b4b?source=rss------bug_bounty_writeup-5)
@@ -940,23 +941,11 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Mass Assignment + JSON Validation Bypass: From Zero Access to Full Admin Takeover](https://medium.com/@0RedX_/mass-assignment-json-validation-bypass-from-zero-access-to-full-admin-takeover-fc478e5a94be?source=rss------bug_bounty_writeup-5)
 - [I Found My First Bug in 3 Hours. Then Nothing for 2 Weeks. Here’s What I Changed.](https://medium.com/@userwithheart/i-found-my-first-bug-in-3-hours-then-nothing-for-2-weeks-heres-what-i-changed-a9f6c5b20705?source=rss------bug_bounty_writeup-5)
 - [From a Simple Profile Endpoint to a 100k+ User IDOR on HackerRank](https://cybersecuritywriteups.com/from-a-simple-profile-endpoint-to-a-100k-user-idor-on-hackerrank-6f9b6e6fe746?source=rss------bug_bounty_writeup-5)
-- [أغرب حاجة في مجال الباونتي إنك ممكن تتعلم 6 شهور…
- ومع ذلك متلاقيش ولا ثغرة واحدة.](https://medium.com/@firstbugpath/%D8%A3%D8%BA%D8%B1%D8%A8-%D8%AD%D8%A7%D8%AC%D8%A9-%D9%81%D9%8A-%D9%85%D8%AC%D8%A7%D9%84-%D8%A7%D9%84%D8%A8%D8%A7%D9%88%D9%86%D8%AA%D9%8A-%D8%A5%D9%86%D9%83-%D9%85%D9%85%D9%83%D9%86-%D8%AA%D8%AA%D8%B9%D9%84%D9%85-6-%D8%B4%D9%87%D9%88%D8%B1-%D9%88%D9%85%D8%B9-%D8%B0%D9%84%D9%83-%D9%85%D8%AA%D9%84%D8%A7%D9%82%D9%8A%D8%B4-%D9%88%D9%84%D8%A7-%D8%AB%D8%BA%D8%B1%D8%A9-%D9%88%D8%A7%D8%AD%D8%AF%D8%A9-f4e3dfe7a5b1?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
 - [How to backup and restore the Windows Registry](https://www.bleepingcomputer.com/tutorials/how-to-backup-and-restore-the-windows-registry/)
-- [How To Fix Error: Externally-Managed-Environment In Python &lpar;Kali Linux&rpar;](https://technicalnavigator.in/how-to-fix-error-externally-managed-environment-in-python-kali-linux/)
-- [Understanding Systemctl Command in Linux &lpar;Practical&rpar;](https://technicalnavigator.in/understanding-systemctl-command-in-linux-practical/)
-- [Macros in docm &amp; Linux memory dump| Hack The Boo  Challanges](https://technicalnavigator.in/macros-in-docm-linux-memory-dump-hack-the-boo-challanges/)
-- [Android Apps debugging |  Frida, JADX, Genymotion](https://technicalnavigator.in/android-apps-debugging-frida-jadx-genymotion/)
-- [MouseServer | wifimouse – Windows/ Linux](https://technicalnavigator.in/mouseserver-wifimouse-windows-linux/)
-- [FFUF fuzzer | web-application penetration-testing](https://technicalnavigator.in/ffuf-fuzzer-web-application-penetration-testing/)
 - [How to open a Windows 11 Command Prompt as Administrator](https://www.bleepingcomputer.com/tutorials/how-to-open-a-windows-11-command-prompt-as-administrator/)
-- [Classes-Objects &amp; Deserialization bug](https://technicalnavigator.in/classes-objects-deserialization-bug/)
-- [Loki Tool | Multhreading Over Sockets in C](https://technicalnavigator.in/loki-tool-multhreading-over-sockets-in-c/)
-- [Egghunter | NASM | C prototype](https://technicalnavigator.in/egghunter-nasm-c-prototype/)
-- [TELNET &amp; FTP Analysis](https://technicalnavigator.in/telnet-ftp-analysis/)
 - [How to make the Start menu full screen in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-make-the-start-menu-full-screen-in-windows-10/)
 - [How to install the Microsoft Visual C++ 2015 Runtime](https://www.bleepingcomputer.com/tutorials/how-to-install-the-microsoft-visual-c-2015-runtime/)
 - [How to open an elevated PowerShell Admin prompt in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-open-an-elevated-powershell-admin-prompt-in-windows-10/)
