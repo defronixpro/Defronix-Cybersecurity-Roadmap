@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I found my first bug in 2 hours : &lpar;Blind SQLi&rpar;Time based SQL Injection.](https://arcy-02.medium.com/how-i-found-my-first-bug-in-2-hours-blind-sqli-time-based-sql-injection-cb31b95eb7ac?source=rss------bug_bounty_writeup-5)
+- [The “Noise Filter” Method – How I Stop Wasting Hours on False Positives](https://medium.com/@userwithheart/the-noise-filter-method-how-i-stop-wasting-hours-on-false-positives-9c74b1e53640?source=rss------bug_bounty_writeup-5)
 - [My Experience With H&amp;M’s Bug Bounty Program](https://medium.com/@amirghbeigi_92625/my-experience-with-h-ms-bug-bounty-program-7dc4185945e5?source=rss------bug_bounty_writeup-5)
 - [How a Simple Endpoint Exposed /etc/passwd via Path Traversal](https://meetcyber.net/how-a-simple-endpoint-exposed-etc-passwd-via-path-traversal-a0982e9de5b5?source=rss------bug_bounty_writeup-5)
 - [From Subdomain Enumeration to an Exposed Internal Configuration Panel](https://medium.com/@0xL0m4/from-subdomain-enumeration-to-an-exposed-internal-configuration-panel-3708df761dbc?source=rss------bug_bounty_writeup-5)
@@ -939,8 +941,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [“Bug Bounty Bootcamp #38: SSRF Chaining — Bypassing Domain Whitelists with Open Redirects and PDF…](https://infosecwriteups.com/bug-bounty-bootcamp-38-ssrf-chaining-bypassing-domain-whitelists-with-open-redirects-and-pdf-8c344246a1c7?source=rss----7b722bfd1b8d---4)
 - [Recon Isn’t Just Technical — It’s Psychological](https://infosecwriteups.com/recon-isnt-just-technical-it-s-psychological-0bc51a58487b?source=rss----7b722bfd1b8d---4)
 - [Finding &amp; Exploiting Exposed Google API Keys for Bug $Bounties](https://infosecwriteups.com/finding-exploiting-exposed-google-api-keys-for-bug-bounties-5ce6685a4927?source=rss----7b722bfd1b8d---4)
-- [Hunting for Bugs When the Low-Hanging Fruit is Forbidden: A Deep Dive into Finding Reflected XSS](https://medium.com/@priyanshbhadoria5/hunting-for-bugs-when-the-low-hanging-fruit-is-forbidden-a-deep-dive-into-finding-reflected-xss-8d52f058ad78?source=rss------bug_bounty_writeup-5)
-- [3 Brain-Dead Bugs Making Me Thousands in 2026](https://medium.com/@banisunil75/3-brain-dead-bugs-making-me-thousands-in-2026-385132100b64?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
