@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [My Experience With H&amp;M’s Bug Bounty Program](https://medium.com/@amirghbeigi_92625/my-experience-with-h-ms-bug-bounty-program-7dc4185945e5?source=rss------bug_bounty_writeup-5)
 - [How a Simple Endpoint Exposed /etc/passwd via Path Traversal](https://meetcyber.net/how-a-simple-endpoint-exposed-etc-passwd-via-path-traversal-a0982e9de5b5?source=rss------bug_bounty_writeup-5)
 - [From Subdomain Enumeration to an Exposed Internal Configuration Panel](https://medium.com/@0xL0m4/from-subdomain-enumeration-to-an-exposed-internal-configuration-panel-3708df761dbc?source=rss------bug_bounty_writeup-5)
 - [How I Bypassed Open Redirect Validation in a Logout Endpoint](https://medium.com/@aryampillai/how-i-bypassed-open-redirect-validation-in-a-logout-endpoint-f23ef323b799?source=rss------bug_bounty_writeup-5)
@@ -940,7 +941,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Finding &amp; Exploiting Exposed Google API Keys for Bug $Bounties](https://infosecwriteups.com/finding-exploiting-exposed-google-api-keys-for-bug-bounties-5ce6685a4927?source=rss----7b722bfd1b8d---4)
 - [Hunting for Bugs When the Low-Hanging Fruit is Forbidden: A Deep Dive into Finding Reflected XSS](https://medium.com/@priyanshbhadoria5/hunting-for-bugs-when-the-low-hanging-fruit-is-forbidden-a-deep-dive-into-finding-reflected-xss-8d52f058ad78?source=rss------bug_bounty_writeup-5)
 - [3 Brain-Dead Bugs Making Me Thousands in 2026](https://medium.com/@banisunil75/3-brain-dead-bugs-making-me-thousands-in-2026-385132100b64?source=rss------bug_bounty_writeup-5)
-- [Mass Assignment + JSON Validation Bypass: From Zero Access to Full Admin Takeover](https://medium.com/@0RedX_/mass-assignment-json-validation-bypass-from-zero-access-to-full-admin-takeover-fc478e5a94be?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
