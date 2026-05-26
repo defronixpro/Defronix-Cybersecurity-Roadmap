@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Admin Has the Power — CTF Write-Up](https://medium.com/@ahmedalaa44883/admin-has-the-power-ctf-write-up-1cb285c8a4b9?source=rss------bug_bounty_writeup-5)
 - [A Small Bug I Almost Ignored — Turned Into $50 Cash + Lifetime Premium](https://medium.com/@0xShadowMan/a-small-bug-i-almost-ignored-turned-into-50-cash-lifetime-premium-f0d5078d87d2?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Automation Toolkit 2026 Automate Recon &amp; Find Vulnerabilities Faster Advanced Ethical…](https://medium.com/@R.H_Rizvi/bug-bounty-automation-toolkit-2026-automate-recon-find-vulnerabilities-faster-advanced-ethical-127d18ae1e53?source=rss------bug_bounty_writeup-5)
 - [How I Used Burp Suite to Discover a $6,000 XSS Vulnerability Through Responsible Disclosure](https://medium.com/@cybervolt/how-i-used-burp-suite-to-discover-a-6-000-xss-vulnerability-through-responsible-disclosure-27ff36dc6a9b?source=rss------bug_bounty_writeup-5)
@@ -937,7 +938,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How I found my first bug in 2 hours : &lpar;Blind SQLi&rpar;Time based SQL Injection.](https://arcy-02.medium.com/how-i-found-my-first-bug-in-2-hours-blind-sqli-time-based-sql-injection-cb31b95eb7ac?source=rss------bug_bounty_writeup-5)
 - [The “Noise Filter” Method – How I Stop Wasting Hours on False Positives](https://medium.com/@userwithheart/the-noise-filter-method-how-i-stop-wasting-hours-on-false-positives-9c74b1e53640?source=rss------bug_bounty_writeup-5)
 - [My Experience With H&amp;M’s Bug Bounty Program](https://medium.com/@amirghbeigi_92625/my-experience-with-h-ms-bug-bounty-program-7dc4185945e5?source=rss------bug_bounty_writeup-5)
-- [How a Simple Endpoint Exposed /etc/passwd via Path Traversal](https://meetcyber.net/how-a-simple-endpoint-exposed-etc-passwd-via-path-traversal-a0982e9de5b5?source=rss------bug_bounty_writeup-5)
 - [Dev Diaries TryHackMe Walkthrough](https://infosecwriteups.com/dev-diaries-tryhackme-walkthrough-5aa1866de9bf?source=rss----7b722bfd1b8d---4)
 - [SSRF in APIs: How a Single URL Parameter Can Expose Internal Systems](https://infosecwriteups.com/ssrf-in-apis-how-a-single-url-parameter-can-expose-internal-systems-63128bff63a4?source=rss----7b722bfd1b8d---4)
 - [Auth Mastery Part 1: Credential Types curl Handles](https://infosecwriteups.com/auth-mastery-part-1-credential-types-curl-handles-7b10a5b810d2?source=rss----7b722bfd1b8d---4)
