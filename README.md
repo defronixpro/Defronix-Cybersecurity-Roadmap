@@ -922,7 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [Intigriti May 2026 Challenge — XSS via Stored Payload + SCA Shield Bypass](https://0x0meowsec.medium.com/intigriti-may-2026-challenge-xss-via-stored-payload-sca-shield-bypass-6ab4c1a976c2?source=rss------bug_bounty_writeup-5)
+- [A Small Bug I Almost Ignored — Turned Into $50 Cash + Lifetime Premium](https://medium.com/@0xShadowMan/a-small-bug-i-almost-ignored-turned-into-50-cash-lifetime-premium-f0d5078d87d2?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Automation Toolkit 2026 Automate Recon &amp; Find Vulnerabilities Faster Advanced Ethical…](https://medium.com/@R.H_Rizvi/bug-bounty-automation-toolkit-2026-automate-recon-find-vulnerabilities-faster-advanced-ethical-127d18ae1e53?source=rss------bug_bounty_writeup-5)
 - [How I Used Burp Suite to Discover a $6,000 XSS Vulnerability Through Responsible Disclosure](https://medium.com/@cybervolt/how-i-used-burp-suite-to-discover-a-6-000-xss-vulnerability-through-responsible-disclosure-27ff36dc6a9b?source=rss------bug_bounty_writeup-5)
 - [How I found Misconfigured Server Exposed Git Repository and Internal Assets](https://jeetpal2007.medium.com/how-i-found-misconfigured-server-exposed-git-repository-and-internal-assets-071f1f82aa0c?source=rss------bug_bounty_writeup-5)
