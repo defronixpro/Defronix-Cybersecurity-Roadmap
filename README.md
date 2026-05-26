@@ -922,6 +922,9 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Intigriti May 2026 Challenge — XSS via Stored Payload + SCA Shield Bypass](https://0x0meowsec.medium.com/intigriti-may-2026-challenge-xss-via-stored-payload-sca-shield-bypass-6ab4c1a976c2?source=rss------bug_bounty_writeup-5)
+- [Bug Bounty Automation Toolkit 2026 Automate Recon &amp; Find Vulnerabilities Faster Advanced Ethical…](https://medium.com/@R.H_Rizvi/bug-bounty-automation-toolkit-2026-automate-recon-find-vulnerabilities-faster-advanced-ethical-127d18ae1e53?source=rss------bug_bounty_writeup-5)
+- [How I Used Burp Suite to Discover a $6,000 XSS Vulnerability Through Responsible Disclosure](https://medium.com/@cybervolt/how-i-used-burp-suite-to-discover-a-6-000-xss-vulnerability-through-responsible-disclosure-27ff36dc6a9b?source=rss------bug_bounty_writeup-5)
 - [How I found Misconfigured Server Exposed Git Repository and Internal Assets](https://jeetpal2007.medium.com/how-i-found-misconfigured-server-exposed-git-repository-and-internal-assets-071f1f82aa0c?source=rss------bug_bounty_writeup-5)
 - [Testing SQL Injection Using Google gemma4:31b-cloud on PortSwigger’s Vulnerable Shop](https://infosecwriteups.com/testing-sql-injection-using-google-gemma4-31b-cloud-on-portswiggers-vulnerable-shop-ef9dc05dd1aa?source=rss----7b722bfd1b8d---4)
 - [Hacking the Scammers and Exposing Their Tactics in a Mission to Protect Nepalese Youth](https://infosecwriteups.com/hacking-the-scammers-and-exposing-their-tactics-in-a-mission-to-protect-nepalese-youth-173f67677c5c?source=rss----7b722bfd1b8d---4)
@@ -935,9 +938,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [The “Noise Filter” Method – How I Stop Wasting Hours on False Positives](https://medium.com/@userwithheart/the-noise-filter-method-how-i-stop-wasting-hours-on-false-positives-9c74b1e53640?source=rss------bug_bounty_writeup-5)
 - [My Experience With H&amp;M’s Bug Bounty Program](https://medium.com/@amirghbeigi_92625/my-experience-with-h-ms-bug-bounty-program-7dc4185945e5?source=rss------bug_bounty_writeup-5)
 - [How a Simple Endpoint Exposed /etc/passwd via Path Traversal](https://meetcyber.net/how-a-simple-endpoint-exposed-etc-passwd-via-path-traversal-a0982e9de5b5?source=rss------bug_bounty_writeup-5)
-- [From Subdomain Enumeration to an Exposed Internal Configuration Panel](https://medium.com/@0xL0m4/from-subdomain-enumeration-to-an-exposed-internal-configuration-panel-3708df761dbc?source=rss------bug_bounty_writeup-5)
-- [How I Bypassed Open Redirect Validation in a Logout Endpoint](https://medium.com/@aryampillai/how-i-bypassed-open-redirect-validation-in-a-logout-endpoint-f23ef323b799?source=rss------bug_bounty_writeup-5)
-- [How I Found a Reflected XSS in Just 2 Minutes](https://medium.com/@satyasaiuppala2488/how-i-found-a-reflected-xss-in-just-2-minutes-5c0ace0f8603?source=rss------bug_bounty_writeup-5)
 - [Dev Diaries TryHackMe Walkthrough](https://infosecwriteups.com/dev-diaries-tryhackme-walkthrough-5aa1866de9bf?source=rss----7b722bfd1b8d---4)
 - [SSRF in APIs: How a Single URL Parameter Can Expose Internal Systems](https://infosecwriteups.com/ssrf-in-apis-how-a-single-url-parameter-can-expose-internal-systems-63128bff63a4?source=rss----7b722bfd1b8d---4)
 - [Auth Mastery Part 1: Credential Types curl Handles](https://infosecwriteups.com/auth-mastery-part-1-credential-types-curl-handles-7b10a5b810d2?source=rss----7b722bfd1b8d---4)
