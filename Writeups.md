@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [The One GraphQL Query That Finds IDORs in Seconds &lpar;And Why Most Hunters Skip It&rpar;](https://medium.com/@userwithheart/the-one-graphql-query-that-finds-idors-in-seconds-and-why-most-hunters-skip-it-92fec75dd8a3?source=rss------bug_bounty_writeup-5)
 - [How to Detect Data Exfiltration with Elastic SIEM: SOC Analyst Hands-On Lab | Hunt Forward Lab #007](https://infosecwriteups.com/how-to-detect-data-exfiltration-with-elastic-siem-soc-analyst-hands-on-lab-hunt-forward-lab-007-fad0e47867fa?source=rss----7b722bfd1b8d---4)
 - [GKeyhunter Pro: Revolutionizing Gemini API Key Reconnaissance and Impact Demonstration for Bug…](https://medium.com/@tanjimul_islam/gkeyhunter-pro-revolutionizing-gemini-api-key-reconnaissance-and-impact-demonstration-for-bug-f3ac32f1a540?source=rss------bug_bounty_writeup-5)
 - [BAC + CSRF](https://medium.com/@rajveer_0101/bac-csrf-bceb26145135?source=rss------bug_bounty_writeup-5)
@@ -17,7 +18,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Building Another Vulnerable Lab — SSRF.](https://infosecwriteups.com/building-another-vulnerable-lab-ssrf-01c27ab92b4e?source=rss----7b722bfd1b8d---4)
 - [MonitorsFour HTB — HackTheBox Walkthrough | By Alham Rizvi](https://infosecwriteups.com/monitorsfour-htb-hackthebox-walkthrough-by-alham-rizvi-3862c72c498f?source=rss----7b722bfd1b8d---4)
 - [Rejected but Rewarded — What a GraphQL Misconfiguration Taught Me About Bug Bounty Triage.](https://infosecwriteups.com/rejected-but-rewarded-what-a-graphql-misconfiguration-taught-me-about-bug-bounty-triage-a69a9f42e12c?source=rss----7b722bfd1b8d---4)
-- [Recon to Exploitation: Custom Bash One-Liners to Elevate Your Bug Bounty Game](https://alfazhossain0.medium.com/recon-to-exploitation-custom-bash-one-liners-to-elevate-your-bug-bounty-game-b867bda5d032?source=rss------bug_bounty_writeup-5)
 - [Dev Diaries TryHackMe Walkthrough](https://infosecwriteups.com/dev-diaries-tryhackme-walkthrough-5aa1866de9bf?source=rss----7b722bfd1b8d---4)
 - [SSRF in APIs: How a Single URL Parameter Can Expose Internal Systems](https://infosecwriteups.com/ssrf-in-apis-how-a-single-url-parameter-can-expose-internal-systems-63128bff63a4?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
