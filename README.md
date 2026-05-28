@@ -922,6 +922,9 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [2FA Bypass via redirect uri manipulation](https://medium.com/@ahmadfaizabdilla/2fa-bypass-via-redirect-uri-manipulation-a32679272631?source=rss------bug_bounty_writeup-5)
+- [Chaining CSRF and XSS to Remote Code Execution in a WordPress Plugin](https://medium.com/@arianamiri1994/chaining-csrf-and-xss-to-remote-code-execution-in-a-wordpress-plugin-bf7dd51351cc?source=rss------bug_bounty_writeup-5)
+- [The One GraphQL Query That Finds IDORs in Seconds &lpar;And Why Most Hunters Skip It&rpar;](https://medium.com/@userwithheart/the-one-graphql-query-that-finds-idors-in-seconds-and-why-most-hunters-skip-it-92fec75dd8a3?source=rss------bug_bounty_writeup-5)
 - [How to Detect Data Exfiltration with Elastic SIEM: SOC Analyst Hands-On Lab | Hunt Forward Lab #007](https://infosecwriteups.com/how-to-detect-data-exfiltration-with-elastic-siem-soc-analyst-hands-on-lab-hunt-forward-lab-007-fad0e47867fa?source=rss----7b722bfd1b8d---4)
 - [GKeyhunter Pro: Revolutionizing Gemini API Key Reconnaissance and Impact Demonstration for Bug…](https://medium.com/@tanjimul_islam/gkeyhunter-pro-revolutionizing-gemini-api-key-reconnaissance-and-impact-demonstration-for-bug-f3ac32f1a540?source=rss------bug_bounty_writeup-5)
 - [BAC + CSRF](https://medium.com/@rajveer_0101/bac-csrf-bceb26145135?source=rss------bug_bounty_writeup-5)
@@ -929,8 +932,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Admin Has the Power — CTF Write-Up](https://medium.com/@ahmedalaa44883/admin-has-the-power-ctf-write-up-1cb285c8a4b9?source=rss------bug_bounty_writeup-5)
 - [A Small Bug I Almost Ignored — Turned Into $50 Cash + Lifetime Premium](https://medium.com/@0xShadowMan/a-small-bug-i-almost-ignored-turned-into-50-cash-lifetime-premium-f0d5078d87d2?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Automation Toolkit 2026 Automate Recon &amp; Find Vulnerabilities Faster Advanced Ethical…](https://medium.com/@R.H_Rizvi/bug-bounty-automation-toolkit-2026-automate-recon-find-vulnerabilities-faster-advanced-ethical-127d18ae1e53?source=rss------bug_bounty_writeup-5)
-- [How I Used Burp Suite to Discover a $6,000 XSS Vulnerability Through Responsible Disclosure](https://medium.com/@cybervolt/how-i-used-burp-suite-to-discover-a-6-000-xss-vulnerability-through-responsible-disclosure-27ff36dc6a9b?source=rss------bug_bounty_writeup-5)
-- [How I found Misconfigured Server Exposed Git Repository and Internal Assets](https://jeetpal2007.medium.com/how-i-found-misconfigured-server-exposed-git-repository-and-internal-assets-071f1f82aa0c?source=rss------bug_bounty_writeup-5)
 - [Testing SQL Injection Using Google gemma4:31b-cloud on PortSwigger’s Vulnerable Shop](https://infosecwriteups.com/testing-sql-injection-using-google-gemma4-31b-cloud-on-portswiggers-vulnerable-shop-ef9dc05dd1aa?source=rss----7b722bfd1b8d---4)
 - [Hacking the Scammers and Exposing Their Tactics in a Mission to Protect Nepalese Youth](https://infosecwriteups.com/hacking-the-scammers-and-exposing-their-tactics-in-a-mission-to-protect-nepalese-youth-173f67677c5c?source=rss----7b722bfd1b8d---4)
 - [The Invite That Lied: A Business Logic Flaw Hidden Behind LG’s Walls](https://infosecwriteups.com/the-invite-that-lied-a-business-logic-flaw-hidden-behind-lgs-walls-a49cca506294?source=rss----7b722bfd1b8d---4)
@@ -938,7 +939,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Building Another Vulnerable Lab — SSRF.](https://infosecwriteups.com/building-another-vulnerable-lab-ssrf-01c27ab92b4e?source=rss----7b722bfd1b8d---4)
 - [MonitorsFour HTB — HackTheBox Walkthrough | By Alham Rizvi](https://infosecwriteups.com/monitorsfour-htb-hackthebox-walkthrough-by-alham-rizvi-3862c72c498f?source=rss----7b722bfd1b8d---4)
 - [Rejected but Rewarded — What a GraphQL Misconfiguration Taught Me About Bug Bounty Triage.](https://infosecwriteups.com/rejected-but-rewarded-what-a-graphql-misconfiguration-taught-me-about-bug-bounty-triage-a69a9f42e12c?source=rss----7b722bfd1b8d---4)
-- [Recon to Exploitation: Custom Bash One-Liners to Elevate Your Bug Bounty Game](https://alfazhossain0.medium.com/recon-to-exploitation-custom-bash-one-liners-to-elevate-your-bug-bounty-game-b867bda5d032?source=rss------bug_bounty_writeup-5)
 - [Dev Diaries TryHackMe Walkthrough](https://infosecwriteups.com/dev-diaries-tryhackme-walkthrough-5aa1866de9bf?source=rss----7b722bfd1b8d---4)
 - [SSRF in APIs: How a Single URL Parameter Can Expose Internal Systems](https://infosecwriteups.com/ssrf-in-apis-how-a-single-url-parameter-can-expose-internal-systems-63128bff63a4?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
