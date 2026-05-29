@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Race Conditions Are Simpler Than You Think &lpar;Here’s How I Test for Them&rpar;](https://medium.com/@userwithheart/race-conditions-are-simpler-than-you-think-heres-how-i-test-for-them-bcd88adcc1da?source=rss------bug_bounty_writeup-5)
 - [“Bug Bounty Bootcamp #40: XXE — Reading Server Files and Pivoting to Internal Networks Through XML”](https://infosecwriteups.com/bug-bounty-bootcamp-40-xxe-reading-server-files-and-pivoting-to-internal-networks-through-xml-17708cf6029b?source=rss----7b722bfd1b8d---4)
 - [“Bug Bounty Bootcamp #39: PDF SSRF and Blind Exfiltration — When Headless Browsers Become Your Data…](https://infosecwriteups.com/bug-bounty-bootcamp-39-pdf-ssrf-and-blind-exfiltration-when-headless-browsers-become-your-data-507d6543d167?source=rss----7b722bfd1b8d---4)
 - [Extending Wazuh detection capabilities with clickdetect, Opensearch PPL and Sigma Rules](https://infosecwriteups.com/extending-wazuh-detection-capabilities-with-clickdetect-opensearch-ppl-and-sigma-rules-3a52e706cac5?source=rss----7b722bfd1b8d---4)
@@ -939,7 +940,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [BAC + CSRF](https://medium.com/@rajveer_0101/bac-csrf-bceb26145135?source=rss------bug_bounty_writeup-5)
 - [The File Upload Check That 90% of Hunters Forget &lpar;And How I Got $1500 From a JPEG&rpar;](https://medium.com/@userwithheart/the-file-upload-check-that-90-of-hunters-forget-and-how-i-got-1500-from-a-jpeg-008774a1e9b1?source=rss------bug_bounty_writeup-5)
 - [Admin Has the Power — CTF Write-Up](https://medium.com/@ahmedalaa44883/admin-has-the-power-ctf-write-up-1cb285c8a4b9?source=rss------bug_bounty_writeup-5)
-- [A Small Bug I Almost Ignored — Turned Into $50 Cash + Lifetime Premium](https://medium.com/@0xShadowMan/a-small-bug-i-almost-ignored-turned-into-50-cash-lifetime-premium-f0d5078d87d2?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
