@@ -19,7 +19,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [The File Upload Check That 90% of Hunters Forget &lpar;And How I Got $1500 From a JPEG&rpar;](https://medium.com/@userwithheart/the-file-upload-check-that-90-of-hunters-forget-and-how-i-got-1500-from-a-jpeg-008774a1e9b1?source=rss------bug_bounty_writeup-5)
 - [Admin Has the Power — CTF Write-Up](https://medium.com/@ahmedalaa44883/admin-has-the-power-ctf-write-up-1cb285c8a4b9?source=rss------bug_bounty_writeup-5)
 - [A Small Bug I Almost Ignored — Turned Into $50 Cash + Lifetime Premium](https://medium.com/@0xShadowMan/a-small-bug-i-almost-ignored-turned-into-50-cash-lifetime-premium-f0d5078d87d2?source=rss------bug_bounty_writeup-5)
-- [Bug Bounty Automation Toolkit 2026 Automate Recon &amp; Find Vulnerabilities Faster Advanced Ethical…](https://medium.com/@R.H_Rizvi/bug-bounty-automation-toolkit-2026-automate-recon-find-vulnerabilities-faster-advanced-ethical-127d18ae1e53?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
