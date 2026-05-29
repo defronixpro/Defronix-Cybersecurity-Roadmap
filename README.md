@@ -922,6 +922,9 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [CSRF Account Takeover: Rejected by the Security Team, Rewarded by the Security Director &lpar;$$$&rpar;](https://medium.com/@bhavishthakral123/csrf-account-takeover-rejected-by-the-security-team-rewarded-by-the-security-director-d00022676d87?source=rss------bug_bounty_writeup-5)
+- [Four-Way PHP Domino-Fall: Unchecked Input to Full Root Compromise](https://medium.com/@Xiac0heckmate/four-way-php-domino-fall-unchecked-input-to-full-root-compromise-f1b3fa5eacfe?source=rss------bug_bounty_writeup-5)
+- [Cracking SameSite for a $2,000 Web Cache Deception](https://medium.com/@tinopreter/cracking-samesite-for-a-2-000-web-cache-deception-746972278412?source=rss------bug_bounty_writeup-5)
 - [A $10,000 Bug. One JSON Field. Every Account on the Platform.](https://infosecwriteups.com/a-10-000-bug-one-json-field-every-account-on-the-platform-95471e37f752?source=rss----7b722bfd1b8d---4)
 - [Hacking JSON Web Tokens: How Attackers Exploit API Authentication](https://infosecwriteups.com/hacking-json-web-tokens-how-attackers-exploit-api-authentication-19bb28010bd8?source=rss----7b722bfd1b8d---4)
 - [Cybersploit 1 Walkthrough — OffSec | Beginner Guide &amp; Screenshots](https://infosecwriteups.com/cybersploit-1-walkthrough-offsec-beginner-guide-screenshots-25b56fbf759b?source=rss----7b722bfd1b8d---4)
@@ -937,9 +940,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Chaining CSRF and XSS to Remote Code Execution in a WordPress Plugin](https://medium.com/@arianamiri1994/chaining-csrf-and-xss-to-remote-code-execution-in-a-wordpress-plugin-bf7dd51351cc?source=rss------bug_bounty_writeup-5)
 - [The One GraphQL Query That Finds IDORs in Seconds &lpar;And Why Most Hunters Skip It&rpar;](https://medium.com/@userwithheart/the-one-graphql-query-that-finds-idors-in-seconds-and-why-most-hunters-skip-it-92fec75dd8a3?source=rss------bug_bounty_writeup-5)
 - [GKeyhunter Pro: Revolutionizing Gemini API Key Reconnaissance and Impact Demonstration for Bug…](https://medium.com/@tanjimul_islam/gkeyhunter-pro-revolutionizing-gemini-api-key-reconnaissance-and-impact-demonstration-for-bug-f3ac32f1a540?source=rss------bug_bounty_writeup-5)
-- [BAC + CSRF](https://medium.com/@rajveer_0101/bac-csrf-bceb26145135?source=rss------bug_bounty_writeup-5)
-- [The File Upload Check That 90% of Hunters Forget &lpar;And How I Got $1500 From a JPEG&rpar;](https://medium.com/@userwithheart/the-file-upload-check-that-90-of-hunters-forget-and-how-i-got-1500-from-a-jpeg-008774a1e9b1?source=rss------bug_bounty_writeup-5)
-- [Admin Has the Power — CTF Write-Up](https://medium.com/@ahmedalaa44883/admin-has-the-power-ctf-write-up-1cb285c8a4b9?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
