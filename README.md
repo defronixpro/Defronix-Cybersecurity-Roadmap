@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Threat Hunting for DNS Attacks -LetsDefend](https://medium.com/@firdansp/threat-hunting-for-dns-attacks-letsdefend-4ac05234dc3d?source=rss------bug_bounty_writeup-5)
 - [The Dumbest Bug I Ever Found &lpar;And Why Complexity Is Overrated&rpar;](https://medium.com/@userwithheart/the-dumbest-bug-i-ever-found-and-why-complexity-is-overrated-d9e566848151?source=rss------bug_bounty_writeup-5)
 - [CSRF Account Takeover: Rejected by the Security Team, Rewarded by the Security Director &lpar;$$$&rpar;](https://medium.com/@bhavishthakral123/csrf-account-takeover-rejected-by-the-security-team-rewarded-by-the-security-director-d00022676d87?source=rss------bug_bounty_writeup-5)
 - [Four-Way PHP Domino-Fall: Unchecked Input to Full Root Compromise](https://medium.com/@Xiac0heckmate/four-way-php-domino-fall-unchecked-input-to-full-root-compromise-f1b3fa5eacfe?source=rss------bug_bounty_writeup-5)
@@ -939,7 +940,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Built Pentest Environment On Your Mac Using Docker](https://infosecwriteups.com/built-pentest-environment-on-your-mac-using-docker-bc37c3dcb7ac?source=rss----7b722bfd1b8d---4)
 - [2FA Bypass via redirect uri manipulation](https://medium.com/@ahmadfaizabdilla/2fa-bypass-via-redirect-uri-manipulation-a32679272631?source=rss------bug_bounty_writeup-5)
 - [Chaining CSRF and XSS to Remote Code Execution in a WordPress Plugin](https://medium.com/@arianamiri1994/chaining-csrf-and-xss-to-remote-code-execution-in-a-wordpress-plugin-bf7dd51351cc?source=rss------bug_bounty_writeup-5)
-- [The One GraphQL Query That Finds IDORs in Seconds &lpar;And Why Most Hunters Skip It&rpar;](https://medium.com/@userwithheart/the-one-graphql-query-that-finds-idors-in-seconds-and-why-most-hunters-skip-it-92fec75dd8a3?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
