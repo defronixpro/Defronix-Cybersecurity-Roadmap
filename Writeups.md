@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [The Dumbest Bug I Ever Found &lpar;And Why Complexity Is Overrated&rpar;](https://medium.com/@userwithheart/the-dumbest-bug-i-ever-found-and-why-complexity-is-overrated-d9e566848151?source=rss------bug_bounty_writeup-5)
 - [CSRF Account Takeover: Rejected by the Security Team, Rewarded by the Security Director &lpar;$$$&rpar;](https://medium.com/@bhavishthakral123/csrf-account-takeover-rejected-by-the-security-team-rewarded-by-the-security-director-d00022676d87?source=rss------bug_bounty_writeup-5)
 - [Four-Way PHP Domino-Fall: Unchecked Input to Full Root Compromise](https://medium.com/@Xiac0heckmate/four-way-php-domino-fall-unchecked-input-to-full-root-compromise-f1b3fa5eacfe?source=rss------bug_bounty_writeup-5)
 - [Cracking SameSite for a $2,000 Web Cache Deception](https://medium.com/@tinopreter/cracking-samesite-for-a-2-000-web-cache-deception-746972278412?source=rss------bug_bounty_writeup-5)
@@ -18,7 +19,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [2FA Bypass via redirect uri manipulation](https://medium.com/@ahmadfaizabdilla/2fa-bypass-via-redirect-uri-manipulation-a32679272631?source=rss------bug_bounty_writeup-5)
 - [Chaining CSRF and XSS to Remote Code Execution in a WordPress Plugin](https://medium.com/@arianamiri1994/chaining-csrf-and-xss-to-remote-code-execution-in-a-wordpress-plugin-bf7dd51351cc?source=rss------bug_bounty_writeup-5)
 - [The One GraphQL Query That Finds IDORs in Seconds &lpar;And Why Most Hunters Skip It&rpar;](https://medium.com/@userwithheart/the-one-graphql-query-that-finds-idors-in-seconds-and-why-most-hunters-skip-it-92fec75dd8a3?source=rss------bug_bounty_writeup-5)
-- [GKeyhunter Pro: Revolutionizing Gemini API Key Reconnaissance and Impact Demonstration for Bug…](https://medium.com/@tanjimul_islam/gkeyhunter-pro-revolutionizing-gemini-api-key-reconnaissance-and-impact-demonstration-for-bug-f3ac32f1a540?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
