@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Completely Stuck? Here’s How I Got Out of a Three-Week Dry Spell](https://medium.com/@userwithheart/completely-stuck-heres-how-i-got-out-of-a-three-week-dry-spell-3b5e52b82f89?source=rss------bug_bounty_writeup-5)
 - [How I Created 20 Super-Admins in 1 Second: Exploiting a Race Condition in Querybook](https://infosecwriteups.com/how-i-created-20-super-admins-in-1-second-exploiting-a-race-condition-in-querybook-73cee916d6f9?source=rss----7b722bfd1b8d---4)
 - [How I Became the #1 Security Researcher on the DHS Vulnerability Disclosure Program](https://infosecwriteups.com/how-i-became-the-1-security-researcher-on-the-dhs-vulnerability-disclosure-program-cf75da2b83be?source=rss----7b722bfd1b8d---4)
 - [How I Got a Letter of Recognition from NASA &lpar;And How You Can Too&rpar;](https://infosecwriteups.com/how-i-got-a-letter-of-recognition-from-nasa-and-how-you-can-too-006f1b4c2649?source=rss----7b722bfd1b8d---4)
@@ -939,7 +940,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Four-Way PHP Domino-Fall: Unchecked Input to Full Root Compromise](https://medium.com/@Xiac0heckmate/four-way-php-domino-fall-unchecked-input-to-full-root-compromise-f1b3fa5eacfe?source=rss------bug_bounty_writeup-5)
 - [Cracking SameSite for a $2,000 Web Cache Deception](https://medium.com/@tinopreter/cracking-samesite-for-a-2-000-web-cache-deception-746972278412?source=rss------bug_bounty_writeup-5)
 - [Race Conditions Are Simpler Than You Think &lpar;Here’s How I Test for Them&rpar;](https://medium.com/@userwithheart/race-conditions-are-simpler-than-you-think-heres-how-i-test-for-them-bcd88adcc1da?source=rss------bug_bounty_writeup-5)
-- [2FA Bypass via redirect uri manipulation](https://medium.com/@ahmadfaizabdilla/2fa-bypass-via-redirect-uri-manipulation-a32679272631?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
