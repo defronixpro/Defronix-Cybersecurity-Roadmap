@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [The Ultimate Guide to Burp Suite: How to Test Like a Pro &lpar;And Stop Missing Critical Vulns&rpar;](https://medium.com/@21bec131/the-ultimate-guide-to-burp-suite-how-to-test-like-a-pro-and-stop-missing-critical-vulns-7bd950973b71?source=rss------bug_bounty_writeup-5)
 - [How to Write a Bug Report That Won’t Get Marked “Informative”](https://medium.com/@userwithheart/how-to-write-a-bug-report-that-wont-get-marked-informative-b52467f4b432?source=rss------bug_bounty_writeup-5)
 - [My First Bounty report which got accepted](https://medium.com/@Sanjeev1/my-first-bounty-report-which-got-accepted-fe9ec800709f?source=rss------bug_bounty_writeup-5)
 - [How Bug Bounty Hunters Are Using Claude Code.](https://infosecwriteups.com/how-bug-bounty-hunters-are-using-claude-code-a94d6ceb056a?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How to Choose a Target That Won’t Waste Your Time](https://medium.com/@userwithheart/how-to-choose-a-target-that-wont-waste-your-time-1a627a6519de?source=rss------bug_bounty_writeup-5)
 - [Threat Hunting for DNS Attacks -LetsDefend](https://medium.com/@firdansp/threat-hunting-for-dns-attacks-letsdefend-4ac05234dc3d?source=rss------bug_bounty_writeup-5)
 - [The Dumbest Bug I Ever Found &lpar;And Why Complexity Is Overrated&rpar;](https://medium.com/@userwithheart/the-dumbest-bug-i-ever-found-and-why-complexity-is-overrated-d9e566848151?source=rss------bug_bounty_writeup-5)
-- [CSRF Account Takeover: Rejected by the Security Team, Rewarded by the Security Director &lpar;$$$&rpar;](https://medium.com/@bhavishthakral123/csrf-account-takeover-rejected-by-the-security-team-rewarded-by-the-security-director-d00022676d87?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
