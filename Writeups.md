@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How I Chained a Broken Multi-Tenant Filter and a Missing IDOR Check to Hijack Corporate Admin…](https://medium.com/@21bec131/how-i-chained-a-broken-multi-tenant-filter-and-a-missing-idor-check-to-hijack-corporate-admin-93b9286016df?source=rss------bug_bounty_writeup-5)
 - [The 10-Minute Recon Routine That Finds What Scanners Miss](https://medium.com/@userwithheart/the-10-minute-recon-routine-that-finds-what-scanners-miss-32898accb63b?source=rss------bug_bounty_writeup-5)
 - [How I was able to Modify Ratings on a Target and Cause Business Impact](https://infosecwriteups.com/how-i-was-able-to-modify-ratings-on-a-target-and-cause-business-impact-f690fa0695b8?source=rss----7b722bfd1b8d---4)
 - [How I was able to Modify Ratings on a Target and Cause Business Impact](https://infosecwriteups.com/how-i-was-able-to-modify-ratings-on-a-target-and-cause-business-impact-f690fa0695b8?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Account Take Over via Password Reset — India’s Top Central Governement Platform &lpar;50k User’s Account…](https://osintteam.blog/account-take-over-via-password-reset-indias-top-central-governement-platform-50k-user-s-account-6ac6961a013e?source=rss------bug_bounty_writeup-5)
 - [Unauthorized Role Assignment via Registration using OPTIONS Method](https://medium.com/@xer0/unauthorized-role-assignment-via-registration-using-options-method-0c8e53055203?source=rss------bug_bounty_writeup-5)
 - [Completely Stuck? Here’s How I Got Out of a Three-Week Dry Spell](https://medium.com/@userwithheart/completely-stuck-heres-how-i-got-out-of-a-three-week-dry-spell-3b5e52b82f89?source=rss------bug_bounty_writeup-5)
-- [How to Choose a Target That Won’t Waste Your Time](https://medium.com/@userwithheart/how-to-choose-a-target-that-wont-waste-your-time-1a627a6519de?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
