@@ -1,6 +1,8 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [When “One-Time” Isn’t Enough: The Case of the Reusable Magic Link](https://medium.com/@jnassur45/when-one-time-isnt-enough-the-case-of-the-reusable-magic-link-a2d0237c6133?source=rss------bug_bounty_writeup-5)
+- [No Username. No Password. Just a Header — A $3,000 Authentication Bypass](https://medium.com/@0xalr/no-username-no-password-just-a-header-a-3-000-authentication-bypass-9b42432b6c69?source=rss------bug_bounty_writeup-5)
 - [From Exposed API Keys to Account Takeovers](https://scriptjacker.medium.com/from-exposed-api-keys-to-account-takeovers-7ac2a73d7113?source=rss------bug_bounty_writeup-5)
 - [How I Chained a Broken Multi-Tenant Filter and a Missing IDOR Check to Hijack Corporate Admin…](https://medium.com/@21bec131/how-i-chained-a-broken-multi-tenant-filter-and-a-missing-idor-check-to-hijack-corporate-admin-93b9286016df?source=rss------bug_bounty_writeup-5)
 - [The 10-Minute Recon Routine That Finds What Scanners Miss](https://medium.com/@userwithheart/the-10-minute-recon-routine-that-finds-what-scanners-miss-32898accb63b?source=rss------bug_bounty_writeup-5)
@@ -19,8 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How Bug Bounty Hunters Are Using Claude Code.](https://infosecwriteups.com/how-bug-bounty-hunters-are-using-claude-code-a94d6ceb056a?source=rss----7b722bfd1b8d---4)
 - [Common Mistakes Made by Cybersecurity Beginners](https://infosecwriteups.com/common-mistakes-made-by-cybersecurity-beginners-f55264e88c9f?source=rss----7b722bfd1b8d---4)
 - [Hard-Coded Third-Party API Key Exposed in Frontend Environment Object](https://medium.com/@tprajwol55/hard-coded-third-party-api-key-exposed-in-frontend-environment-object-0ad1efed1444?source=rss------bug_bounty_writeup-5)
-- [Account Take Over via Password Reset — India’s Top Central Governement Platform &lpar;50k User’s Account…](https://osintteam.blog/account-take-over-via-password-reset-indias-top-central-governement-platform-50k-user-s-account-6ac6961a013e?source=rss------bug_bounty_writeup-5)
-- [Unauthorized Role Assignment via Registration using OPTIONS Method](https://medium.com/@xer0/unauthorized-role-assignment-via-registration-using-options-method-0c8e53055203?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
