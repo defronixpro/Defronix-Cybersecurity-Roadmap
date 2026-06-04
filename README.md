@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [My First Bug in College Portal -IDOR,PII,SQL over 30,000 students information Leaks.](https://medium.com/@loki1818/my-first-bug-in-my-college-portal-idor-pii-sql-over-30-000-students-information-leaks-ed4e5e83a500?source=rss------bug_bounty_writeup-5)
 - [“Bug Bounty Bootcamp #43: Login Page?](https://infosecwriteups.com/bug-bounty-bootcamp-43-login-page-9b1a401051ba?source=rss----7b722bfd1b8d---4)
 - [I Bought a ₹1,599 Government Book for ₹1. The Server Approved It.](https://infosecwriteups.com/i-bought-a-1-599-government-book-for-1-the-server-approved-it-8a832499b1fb?source=rss----7b722bfd1b8d---4)
 - [I Typed 000000 and the App Thought MFA Was Already On](https://infosecwriteups.com/i-typed-000000-and-the-app-thought-mfa-was-already-on-8c21968e117a?source=rss----7b722bfd1b8d---4)
@@ -941,7 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [From Exposed API Keys to Account Takeovers](https://scriptjacker.medium.com/from-exposed-api-keys-to-account-takeovers-7ac2a73d7113?source=rss------bug_bounty_writeup-5)
 - [How I Chained a Broken Multi-Tenant Filter and a Missing IDOR Check to Hijack Corporate Admin…](https://medium.com/@21bec131/how-i-chained-a-broken-multi-tenant-filter-and-a-missing-idor-check-to-hijack-corporate-admin-93b9286016df?source=rss------bug_bounty_writeup-5)
 - [The 10-Minute Recon Routine That Finds What Scanners Miss](https://medium.com/@userwithheart/the-10-minute-recon-routine-that-finds-what-scanners-miss-32898accb63b?source=rss------bug_bounty_writeup-5)
-- [How I was able to Modify Ratings on a Target and Cause Business Impact](https://infosecwriteups.com/how-i-was-able-to-modify-ratings-on-a-target-and-cause-business-impact-f690fa0695b8?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
