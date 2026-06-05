@@ -922,6 +922,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [You Don’t Need More Tools. You Need Better Habits.](https://medium.com/@userwithheart/you-dont-need-more-tools-you-need-better-habits-79fba6aa5325?source=rss------bug_bounty_writeup-5)
+- [My Instructor Said “You Can’t Get a Shell.” I Got Root. — Full Web Pentest Exam Write-Up](https://alisalive.medium.com/my-instructor-said-you-cant-get-a-shell-i-got-root-full-web-pentest-exam-write-up-a82c804ce8e2?source=rss------bug_bounty_writeup-5)
 - [From $0 to $14,000: How a Blind SSRF in a PDF Generator Cracked a Corporate Internal Network](https://medium.com/@21bec131/from-0-to-14-000-how-a-blind-ssrf-in-a-pdf-generator-cracked-a-corporate-internal-network-fda87a31b823?source=rss------bug_bounty_writeup-5)
 - [Understand Your Target Before Touch any Tools](https://medium.com/@baler3ion/understand-your-target-before-touch-any-tools-88b47ebed01f?source=rss------bug_bounty_writeup-5)
 - [How I Turned random hunting Into $300 in Bounties](https://medium.com/@cyberspecter/how-i-turned-random-hunting-into-300-in-bounties-81a3b38a84a4?source=rss------bug_bounty_writeup-5)
@@ -940,8 +942,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [IDOR Sounds Fancy But It’s Just Broken Math](https://medium.com/@userwithheart/idor-sounds-fancy-but-its-just-broken-math-98152cfce501?source=rss------bug_bounty_writeup-5)
 - [From Zero to $8,500: Exploiting a Flawed Reset Token Validation to Bypass MFA and Take Over…](https://medium.com/@21bec131/from-zero-to-8-500-exploiting-a-flawed-reset-token-validation-to-bypass-mfa-and-take-over-ee84cf256f88?source=rss------bug_bounty_writeup-5)
 - [Session Revocation Failure — “Sign Out All Other Web Sessions” Non-Functional](https://medium.com/@jnassur45/session-revocation-failure-sign-out-all-other-web-sessions-non-functional-65b42c0ff9b8?source=rss------bug_bounty_writeup-5)
-- [When “One-Time” Isn’t Enough: The Case of the Reusable Magic Link](https://medium.com/@jnassur45/when-one-time-isnt-enough-the-case-of-the-reusable-magic-link-a2d0237c6133?source=rss------bug_bounty_writeup-5)
-- [No Username. No Password. Just a Header — A $3,000 Authentication Bypass](https://medium.com/@0xalr/no-username-no-password-just-a-header-a-3-000-authentication-bypass-9b42432b6c69?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
