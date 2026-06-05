@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [API Fuzzing for Security Testing: Part 1: Recon, Discovery &amp; Mapping the Attack Surface](https://osintteam.blog/api-fuzzing-for-security-testing-part-1-recon-discovery-mapping-the-attack-surface-924c458ce621?source=rss------bug_bounty_writeup-5)
 - [How a Broken Cryptographic Key Derivation Allowed Full Tenant Takeover on an Enterprise Identity…](https://medium.com/@21bec131/how-a-broken-cryptographic-key-derivation-allowed-full-tenant-takeover-on-an-enterprise-identity-c903ba4dbb05?source=rss------bug_bounty_writeup-5)
 - [I Started Learning AWS and Realised I Didn’t Fully Understand the Internet](https://infosecwriteups.com/i-started-learning-aws-and-realised-i-didnt-fully-understand-the-internet-a5abfd709343?source=rss----7b722bfd1b8d---4)
 - [Host &amp; Network Penetration Testing: System-Host Based Attacks CTF 1 — eJPT &lpar;INE&rpar;](https://infosecwriteups.com/host-network-penetration-testing-system-host-based-attacks-ctf-1-ejpt-ine-9cca24e33039?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [I Finished My Thesis Defense — A Journey to Mobile Forensic](https://infosecwriteups.com/i-finished-my-thesis-defense-a-journey-to-mobile-forensic-bba5a30f3184?source=rss----7b722bfd1b8d---4)
 - [“Bug Bounty Bootcamp #42: JWT Attacks — How a Stolen Token or a Weak Secret Can Grant You Admin…](https://infosecwriteups.com/bug-bounty-bootcamp-42-jwt-attacks-how-a-stolen-token-or-a-weak-secret-can-grant-you-admin-095cab895a0b?source=rss----7b722bfd1b8d---4)
 - [The Most Dangerous OAuth Bug I’ve Ever Found](https://medium.com/@AliMojaver/the-most-dangerous-oauth-bug-ive-ever-found-a2af1275385c?source=rss------bug_bounty_writeup-5)
-- [IDOR Sounds Fancy But It’s Just Broken Math](https://medium.com/@bughunting/idor-sounds-fancy-but-its-just-broken-math-98152cfce501?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
