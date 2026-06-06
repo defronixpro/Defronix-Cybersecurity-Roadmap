@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Why I Finally Built bugbountyscam.com Graveyard for Fake Bug Bounty Programs](https://afaqain.medium.com/why-i-finally-built-bugbountyscam-com-graveyard-for-fake-bug-bounty-programs-177c1063e35b?source=rss------bug_bounty_writeup-5)
 - [How I Found an OTP Authentication Bypass While Hunting for Bugs](https://medium.com/@ankitsingh787478/how-i-found-an-otp-authentication-bypass-while-hunting-for-bugs-e92fa6c4c9e7?source=rss------bug_bounty_writeup-5)
 - [I Was Removed From the Organization, But My Access Still Worked: Lessons From a Broken Access…](https://cybersecuritywriteups.com/i-was-removed-from-the-organization-but-my-access-still-worked-lessons-from-a-broken-access-151158d95f7d?source=rss------bug_bounty_writeup-5)
 - [Why Some Hunters Make $10k a Month and Others Make Nothing](https://medium.com/@bughunting/why-some-hunters-make-10k-a-month-and-others-make-nothing-e9a301b8a55a?source=rss------bug_bounty_writeup-5)
@@ -12,7 +13,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Price Manipulation in Payment Gateway / Shopping Cart](https://medium.com/@sebasvargas2/price-manipulation-in-payment-gateway-shopping-cart-73c6801575d7?source=rss------bug_bounty_writeup-5)
 - [You Don’t Need More Tools. You Need Better Habits.](https://medium.com/@bughunting/you-dont-need-more-tools-you-need-better-habits-79fba6aa5325?source=rss------bug_bounty_writeup-5)
 - [My Instructor Said “You Can’t Get a Shell.” I Got Root. — Full Web Pentest Exam Write-Up](https://alisalive.medium.com/my-instructor-said-you-cant-get-a-shell-i-got-root-full-web-pentest-exam-write-up-a82c804ce8e2?source=rss------bug_bounty_writeup-5)
-- [From $0 to $14,000: How a Blind SSRF in a PDF Generator Cracked a Corporate Internal Network](https://medium.com/@21bec131/from-0-to-14-000-how-a-blind-ssrf-in-a-pdf-generator-cracked-a-corporate-internal-network-fda87a31b823?source=rss------bug_bounty_writeup-5)
 - [“Bug Bounty Bootcamp #43: Login Page?](https://infosecwriteups.com/bug-bounty-bootcamp-43-login-page-9b1a401051ba?source=rss----7b722bfd1b8d---4)
 - [I Bought a ₹1,599 Government Book for ₹1. The Server Approved It.](https://infosecwriteups.com/i-bought-a-1-599-government-book-for-1-the-server-approved-it-8a832499b1fb?source=rss----7b722bfd1b8d---4)
 - [I Typed 000000 and the App Thought MFA Was Already On](https://infosecwriteups.com/i-typed-000000-and-the-app-thought-mfa-was-already-on-8c21968e117a?source=rss----7b722bfd1b8d---4)
