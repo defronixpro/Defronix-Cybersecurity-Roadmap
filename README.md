@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [I Was Removed From the Organization, But My Access Still Worked: Lessons From a Broken Access…](https://cybersecuritywriteups.com/i-was-removed-from-the-organization-but-my-access-still-worked-lessons-from-a-broken-access-151158d95f7d?source=rss------bug_bounty_writeup-5)
 - [Why Some Hunters Make $10k a Month and Others Make Nothing](https://medium.com/@bughunting/why-some-hunters-make-10k-a-month-and-others-make-nothing-e9a301b8a55a?source=rss------bug_bounty_writeup-5)
 - [API Fuzzing for Security Testing: Part 1: Recon, Discovery &amp; Mapping the Attack Surface](https://osintteam.blog/api-fuzzing-for-security-testing-part-1-recon-discovery-mapping-the-attack-surface-924c458ce621?source=rss------bug_bounty_writeup-5)
 - [How a Broken Cryptographic Key Derivation Allowed Full Tenant Takeover on an Enterprise Identity…](https://medium.com/@21bec131/how-a-broken-cryptographic-key-derivation-allowed-full-tenant-takeover-on-an-enterprise-identity-c903ba4dbb05?source=rss------bug_bounty_writeup-5)
@@ -933,7 +934,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [My Instructor Said “You Can’t Get a Shell.” I Got Root. — Full Web Pentest Exam Write-Up](https://alisalive.medium.com/my-instructor-said-you-cant-get-a-shell-i-got-root-full-web-pentest-exam-write-up-a82c804ce8e2?source=rss------bug_bounty_writeup-5)
 - [From $0 to $14,000: How a Blind SSRF in a PDF Generator Cracked a Corporate Internal Network](https://medium.com/@21bec131/from-0-to-14-000-how-a-blind-ssrf-in-a-pdf-generator-cracked-a-corporate-internal-network-fda87a31b823?source=rss------bug_bounty_writeup-5)
 - [Understand Your Target Before Touch any Tools](https://medium.com/@baler3ion/understand-your-target-before-touch-any-tools-88b47ebed01f?source=rss------bug_bounty_writeup-5)
-- [How I Turned random hunting Into $300 in Bounties](https://medium.com/@cyberspecter/how-i-turned-random-hunting-into-300-in-bounties-81a3b38a84a4?source=rss------bug_bounty_writeup-5)
 - [“Bug Bounty Bootcamp #43: Login Page?](https://infosecwriteups.com/bug-bounty-bootcamp-43-login-page-9b1a401051ba?source=rss----7b722bfd1b8d---4)
 - [I Bought a ₹1,599 Government Book for ₹1. The Server Approved It.](https://infosecwriteups.com/i-bought-a-1-599-government-book-for-1-the-server-approved-it-8a832499b1fb?source=rss----7b722bfd1b8d---4)
 - [I Typed 000000 and the App Thought MFA Was Already On](https://infosecwriteups.com/i-typed-000000-and-the-app-thought-mfa-was-already-on-8c21968e117a?source=rss----7b722bfd1b8d---4)
@@ -945,7 +945,17 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
 - [How to backup and restore the Windows Registry](https://www.bleepingcomputer.com/tutorials/how-to-backup-and-restore-the-windows-registry/)
+- [How To Fix Error: Externally-Managed-Environment In Python &lpar;Kali Linux&rpar;](https://technicalnavigator.in/how-to-fix-error-externally-managed-environment-in-python-kali-linux/)
+- [Understanding Systemctl Command in Linux &lpar;Practical&rpar;](https://technicalnavigator.in/understanding-systemctl-command-in-linux-practical/)
+- [Macros in docm &amp; Linux memory dump| Hack The Boo  Challanges](https://technicalnavigator.in/macros-in-docm-linux-memory-dump-hack-the-boo-challanges/)
+- [Android Apps debugging |  Frida, JADX, Genymotion](https://technicalnavigator.in/android-apps-debugging-frida-jadx-genymotion/)
+- [MouseServer | wifimouse – Windows/ Linux](https://technicalnavigator.in/mouseserver-wifimouse-windows-linux/)
+- [FFUF fuzzer | web-application penetration-testing](https://technicalnavigator.in/ffuf-fuzzer-web-application-penetration-testing/)
 - [How to open a Windows 11 Command Prompt as Administrator](https://www.bleepingcomputer.com/tutorials/how-to-open-a-windows-11-command-prompt-as-administrator/)
+- [Classes-Objects &amp; Deserialization bug](https://technicalnavigator.in/classes-objects-deserialization-bug/)
+- [Loki Tool | Multhreading Over Sockets in C](https://technicalnavigator.in/loki-tool-multhreading-over-sockets-in-c/)
+- [Egghunter | NASM | C prototype](https://technicalnavigator.in/egghunter-nasm-c-prototype/)
+- [TELNET &amp; FTP Analysis](https://technicalnavigator.in/telnet-ftp-analysis/)
 - [How to make the Start menu full screen in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-make-the-start-menu-full-screen-in-windows-10/)
 - [How to install the Microsoft Visual C++ 2015 Runtime](https://www.bleepingcomputer.com/tutorials/how-to-install-the-microsoft-visual-c-2015-runtime/)
 - [How to open an elevated PowerShell Admin prompt in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-open-an-elevated-powershell-admin-prompt-in-windows-10/)
