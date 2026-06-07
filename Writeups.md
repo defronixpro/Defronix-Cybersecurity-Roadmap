@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [From Self-XSS to Account Takeover: How I Turned a Low-Severity Finding into a Critical…](https://medium.com/@kanishkdadhich123/from-self-xss-to-account-takeover-how-i-turned-a-low-severity-finding-into-a-critical-6cde39fcd412?source=rss------bug_bounty_writeup-5)
 - [The Most Dangerous Security Bug Is the One That Feels Like a Feature](https://infosecwriteups.com/the-most-dangerous-security-bug-is-the-one-that-feels-like-a-feature-6339d438b3a5?source=rss----7b722bfd1b8d---4)
 - [The 5 Skills Every Cybersecurity Engineer Needs in 2026 &lpar;That Universities Still Aren’t Teaching&rpar;](https://infosecwriteups.com/the-5-skills-every-cybersecurity-engineer-needs-in-2026-that-universities-still-arent-teaching-b069a55c74ff?source=rss----7b722bfd1b8d---4)
 - [Update: The Ending of My $500 Loss and Web Cache Poisoning Story.](https://infosecwriteups.com/update-the-ending-of-my-500-loss-and-web-cache-poisoning-story-153603be845a?source=rss----7b722bfd1b8d---4)
@@ -19,7 +20,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Host &amp; Network Penetration Testing: System-Host Based Attacks CTF 1 — eJPT &lpar;INE&rpar;](https://infosecwriteups.com/host-network-penetration-testing-system-host-based-attacks-ctf-1-ejpt-ine-9cca24e33039?source=rss----7b722bfd1b8d---4)
 - [Price Manipulation in Payment Gateway / Shopping Cart](https://medium.com/@sebasvargas2/price-manipulation-in-payment-gateway-shopping-cart-73c6801575d7?source=rss------bug_bounty_writeup-5)
 - [You Don’t Need More Tools. You Need Better Habits.](https://medium.com/@bughunting/you-dont-need-more-tools-you-need-better-habits-79fba6aa5325?source=rss------bug_bounty_writeup-5)
-- [My Instructor Said “You Can’t Get a Shell.” I Got Root. — Full Web Pentest Exam Write-Up](https://alisalive.medium.com/my-instructor-said-you-cant-get-a-shell-i-got-root-full-web-pentest-exam-write-up-a82c804ce8e2?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
