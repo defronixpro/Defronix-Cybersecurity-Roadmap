@@ -1,8 +1,12 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [The Most Dangerous Security Bug Is the One That Feels Like a Feature](https://infosecwriteups.com/the-most-dangerous-security-bug-is-the-one-that-feels-like-a-feature-6339d438b3a5?source=rss----7b722bfd1b8d---4)
+- [The 5 Skills Every Cybersecurity Engineer Needs in 2026 &lpar;That Universities Still Aren’t Teaching&rpar;](https://infosecwriteups.com/the-5-skills-every-cybersecurity-engineer-needs-in-2026-that-universities-still-arent-teaching-b069a55c74ff?source=rss----7b722bfd1b8d---4)
+- [Update: The Ending of My $500 Loss and Web Cache Poisoning Story.](https://infosecwriteups.com/update-the-ending-of-my-500-loss-and-web-cache-poisoning-story-153603be845a?source=rss----7b722bfd1b8d---4)
+- [SPIP RCE + Docker SUID Escape | THM Publisher](https://infosecwriteups.com/spip-rce-docker-suid-escape-thm-publisher-7a2c3640c598?source=rss----7b722bfd1b8d---4)
 - [Splunk Exploring SPL: A Practical SOC Analyst Walkthrough for Search, Detection, and Threat Hunting](https://infosecwriteups.com/splunk-exploring-spl-a-practical-soc-analyst-walkthrough-for-search-detection-and-threat-hunting-ff138c4c7d51?source=rss----7b722bfd1b8d---4)
-- [I Became Admin on a CTF Platform](https://infosecwriteups.com/i-became-admin-on-a-ctf-platform-c26cb49546a5?source=rss----7b722bfd1b8d---4)
+- [How I Hijacked a CTF Platform with Four Lines of Burp Suite Rules](https://infosecwriteups.com/i-became-admin-on-a-ctf-platform-c26cb49546a5?source=rss----7b722bfd1b8d---4)
 - [Sensitive Information Disclosure Through an Exposed File Repository.](https://infosecwriteups.com/sensitive-information-disclosure-through-an-exposed-file-repository-9e7cfb74fff6?source=rss----7b722bfd1b8d---4)
 - [An Introduction to Module Stomping](https://infosecwriteups.com/an-introduction-to-module-stomping-26238af76d43?source=rss----7b722bfd1b8d---4)
 - [Why I Finally Built bugbountyscam.com Graveyard for Fake Bug Bounty Programs](https://afaqain.medium.com/why-i-finally-built-bugbountyscam-com-graveyard-for-fake-bug-bounty-programs-177c1063e35b?source=rss------bug_bounty_writeup-5)
@@ -13,13 +17,9 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How a Broken Cryptographic Key Derivation Allowed Full Tenant Takeover on an Enterprise Identity…](https://medium.com/@21bec131/how-a-broken-cryptographic-key-derivation-allowed-full-tenant-takeover-on-an-enterprise-identity-c903ba4dbb05?source=rss------bug_bounty_writeup-5)
 - [I Started Learning AWS and Realised I Didn’t Fully Understand the Internet](https://infosecwriteups.com/i-started-learning-aws-and-realised-i-didnt-fully-understand-the-internet-a5abfd709343?source=rss----7b722bfd1b8d---4)
 - [Host &amp; Network Penetration Testing: System-Host Based Attacks CTF 1 — eJPT &lpar;INE&rpar;](https://infosecwriteups.com/host-network-penetration-testing-system-host-based-attacks-ctf-1-ejpt-ine-9cca24e33039?source=rss----7b722bfd1b8d---4)
-- [“Bug Bounty Bootcamp #44: No Login?](https://infosecwriteups.com/bug-bounty-bootcamp-44-no-login-c3302844a47e?source=rss----7b722bfd1b8d---4)
 - [Price Manipulation in Payment Gateway / Shopping Cart](https://medium.com/@sebasvargas2/price-manipulation-in-payment-gateway-shopping-cart-73c6801575d7?source=rss------bug_bounty_writeup-5)
 - [You Don’t Need More Tools. You Need Better Habits.](https://medium.com/@bughunting/you-dont-need-more-tools-you-need-better-habits-79fba6aa5325?source=rss------bug_bounty_writeup-5)
 - [My Instructor Said “You Can’t Get a Shell.” I Got Root. — Full Web Pentest Exam Write-Up](https://alisalive.medium.com/my-instructor-said-you-cant-get-a-shell-i-got-root-full-web-pentest-exam-write-up-a82c804ce8e2?source=rss------bug_bounty_writeup-5)
-- [“Bug Bounty Bootcamp #43: Login Page?](https://infosecwriteups.com/bug-bounty-bootcamp-43-login-page-9b1a401051ba?source=rss----7b722bfd1b8d---4)
-- [I Bought a ₹1,599 Government Book for ₹1. The Server Approved It.](https://infosecwriteups.com/i-bought-a-1-599-government-book-for-1-the-server-approved-it-8a832499b1fb?source=rss----7b722bfd1b8d---4)
-- [I Typed 000000 and the App Thought MFA Was Already On](https://infosecwriteups.com/i-typed-000000-and-the-app-thought-mfa-was-already-on-8c21968e117a?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
