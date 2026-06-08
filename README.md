@@ -306,6 +306,13 @@ Optional, but If you aspire to become a proficient hacker with a deeper understa
 <summary>Basic Concepts of Bug Bounty</summary>
   <!-- BASICCONCEPTS:START --><table>
 <tr>
+<td><a href="https://www.youtube.com/watch?v=8PhDHDE2C7k"><img width="140px" src="http://img.youtube.com/vi/8PhDHDE2C7k/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=8PhDHDE2C7k">SOC vs Pentesting vs Bug Bounty - Different or Same ? &lpar; Hindi &rpar;</a><br/>Jun 8, 2026</td>
+</tr>
+</table>
+
+<table>
+<tr>
 <td><a href="https://www.youtube.com/watch?v=jtsY5VfVzuY"><img width="140px" src="http://img.youtube.com/vi/jtsY5VfVzuY/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=jtsY5VfVzuY">What is DOM in DOM XSS - Explained [ Hindi ]</a><br/>May 2, 2024</td>
 </tr>
