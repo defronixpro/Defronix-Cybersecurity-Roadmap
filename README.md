@@ -929,7 +929,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [How GraphQL Mutation Aliasing Led to a $12,500 DoS Bug in HackerOne’s Account Recovery Flow](https://medium.com/@Aacle/how-graphql-mutation-aliasing-led-to-a-12-500-dos-bug-in-hackerones-account-recovery-flow-a0635b2f3997?source=rss------bug_bounty_writeup-5)
+- [How GraphQL Mutation Aliasing Led to a $12,500 DoS Bug in HackerOne’s Account Recovery Flow](https://infosecwriteups.com/how-graphql-mutation-aliasing-led-to-a-12-500-dos-bug-in-hackerones-account-recovery-flow-a0635b2f3997?source=rss------bug_bounty_writeup-5)
 - [Swagger UI HTML Injection — From “No XSS” to $450 Bounty](https://abdelaalx2000.medium.com/swagger-ui-html-injection-from-no-xss-to-450-bounty-ee5ca5b2bb64?source=rss------bug_bounty_writeup-5)
 - [Applying Sherman Kent’s Analytic Discipline to CTI: A Practical Analyst Guide](https://infosecwriteups.com/applying-sherman-kents-analytic-discipline-to-cti-a-practical-analyst-guide-33142ad7553b?source=rss----7b722bfd1b8d---4)
 - [Operation Desert Hydra — AI-Assisted CTI Pipeline: MuddyWater to Kibana](https://infosecwriteups.com/operation-desert-hydra-ai-assisted-cti-pipeline-muddywater-to-kibana-34da7917acf0?source=rss----7b722bfd1b8d---4)
