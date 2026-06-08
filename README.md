@@ -922,6 +922,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Swagger UI HTML Injection — From “No XSS” to $450 Bounty](https://abdelaalx2000.medium.com/swagger-ui-html-injection-from-no-xss-to-450-bounty-ee5ca5b2bb64?source=rss------bug_bounty_writeup-5)
 - [Applying Sherman Kent’s Analytic Discipline to CTI: A Practical Analyst Guide](https://infosecwriteups.com/applying-sherman-kents-analytic-discipline-to-cti-a-practical-analyst-guide-33142ad7553b?source=rss----7b722bfd1b8d---4)
 - [Operation Desert Hydra — AI-Assisted CTI Pipeline: MuddyWater to Kibana](https://infosecwriteups.com/operation-desert-hydra-ai-assisted-cti-pipeline-muddywater-to-kibana-34da7917acf0?source=rss----7b722bfd1b8d---4)
 - [CTI as a Code: Complete Step-by-Step Methodology](https://infosecwriteups.com/cti-as-a-code-complete-step-by-step-methodology-dda5ef496a46?source=rss----7b722bfd1b8d---4)
@@ -940,7 +941,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Why Some Hunters Make $10k a Month and Others Make Nothing](https://medium.com/@bughunting/why-some-hunters-make-10k-a-month-and-others-make-nothing-e9a301b8a55a?source=rss------bug_bounty_writeup-5)
 - [API Fuzzing for Security Testing: Part 1: Recon, Discovery &amp; Mapping the Attack Surface](https://osintteam.blog/api-fuzzing-for-security-testing-part-1-recon-discovery-mapping-the-attack-surface-924c458ce621?source=rss------bug_bounty_writeup-5)
 - [How a Broken Cryptographic Key Derivation Allowed Full Tenant Takeover on an Enterprise Identity…](https://medium.com/@21bec131/how-a-broken-cryptographic-key-derivation-allowed-full-tenant-takeover-on-an-enterprise-identity-c903ba4dbb05?source=rss------bug_bounty_writeup-5)
-- [Price Manipulation in Payment Gateway / Shopping Cart](https://medium.com/@sebasvargas2/price-manipulation-in-payment-gateway-shopping-cart-73c6801575d7?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
