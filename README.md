@@ -929,6 +929,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [API Hacking Sounds Scary Until You Realize It’s Just Changing Numbers](https://medium.com/@bughunting/api-hacking-sounds-scary-until-you-realize-its-just-changing-numbers-4d621ca06a89?source=rss------bug_bounty_writeup-5)
 - [Broken Access Control leads to delete any user’s comment](https://medium.com/@0xRaccoon/broken-access-control-leads-to-delete-any-users-comment-1908ca07f2a9?source=rss------bug_bounty_writeup-5)
 - [How i found race conditions leading to premium subscribtion bypass via concurrent user addition](https://medium.com/@0xRaccoon/how-i-found-race-conditions-leading-to-premium-subscribtion-bypass-via-concurrent-user-addition-55e23758975e?source=rss------bug_bounty_writeup-5)
 - [How I Forced A/B Experiments on Any User via an Unauthenticated Endpoint &lpar;Missing Auth&rpar;](https://medium.com/@mahmodziad40/how-i-forced-a-b-experiments-on-any-user-via-an-unauthenticated-endpoint-missing-auth-ea675de83861?source=rss------bug_bounty_writeup-5)
@@ -948,7 +949,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Update: The Ending of My $500 Loss and Web Cache Poisoning Story.](https://infosecwriteups.com/update-the-ending-of-my-500-loss-and-web-cache-poisoning-story-153603be845a?source=rss----7b722bfd1b8d---4)
 - [Why I Finally Built bugbountyscam.com Graveyard for Fake Bug Bounty Programs](https://afaqain.medium.com/why-i-finally-built-bugbountyscam-com-graveyard-for-fake-bug-bounty-programs-177c1063e35b?source=rss------bug_bounty_writeup-5)
 - [How I Found an OTP Authentication Bypass While Hunting for Bugs](https://medium.com/@ankitsingh787478/how-i-found-an-otp-authentication-bypass-while-hunting-for-bugs-e92fa6c4c9e7?source=rss------bug_bounty_writeup-5)
-- [I Was Removed From the Organization, But My Access Still Worked: Lessons From a Broken Access…](https://cybersecuritywriteups.com/i-was-removed-from-the-organization-but-my-access-still-worked-lessons-from-a-broken-access-151158d95f7d?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
