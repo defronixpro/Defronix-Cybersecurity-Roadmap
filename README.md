@@ -929,6 +929,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [IDOR allows non-group members to add any group to favorites on their Facebook profile](https://medium.com/@r0hm4d/idor-allows-non-group-members-to-add-any-group-to-favorites-on-their-facebook-profile-466f7ab35f27?source=rss------bug_bounty_writeup-5)
+- [Non-group members can be added to projects even though the “Users cannot be added to projects in…](https://medium.com/@r0hm4d/non-group-members-can-be-added-to-projects-even-though-the-users-cannot-be-added-to-projects-in-deeb8ff41fd4?source=rss------bug_bounty_writeup-5)
 - [These Low-Hanging Fruit bugs  Made Me $120+ in 30 Minutes — Bugs That 80% of Hunters Ignore](https://medium.com/@bhavishthakral123/these-low-hanging-fruit-bugs-made-me-120-in-30-minutes-bugs-that-80-of-hunters-ignore-402258b69ec3?source=rss------bug_bounty_writeup-5)
 - [How I Found a Critical OAuth Misconfiguration That Led to Account Takeover](https://medium.com/@iamshafayat/how-i-found-a-critical-oauth-misconfiguration-that-led-to-account-takeover-abfec43eaea6?source=rss------bug_bounty_writeup-5)
 - [Zero-Click IP Leak in a Privacy Search Engine: Indirect Prompt Injection &amp; Silent Patching](https://infosecwriteups.com/zero-click-ip-leak-in-a-privacy-search-engine-indirect-prompt-injection-silent-patching-6d68ab7f9b7a?source=rss----7b722bfd1b8d---4)
@@ -947,8 +949,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How GraphQL Mutation Aliasing Led to a $12,500 DoS Bug in HackerOne’s Account Recovery Flow](https://infosecwriteups.com/how-graphql-mutation-aliasing-led-to-a-12-500-dos-bug-in-hackerones-account-recovery-flow-a0635b2f3997?source=rss------bug_bounty_writeup-5)
 - [Swagger UI HTML Injection — From “No XSS” to $450 Bounty](https://abdelaalx2000.medium.com/swagger-ui-html-injection-from-no-xss-to-450-bounty-ee5ca5b2bb64?source=rss------bug_bounty_writeup-5)
 - [Applying Sherman Kent’s Analytic Discipline to CTI: A Practical Analyst Guide](https://infosecwriteups.com/applying-sherman-kents-analytic-discipline-to-cti-a-practical-analyst-guide-33142ad7553b?source=rss----7b722bfd1b8d---4)
-- [I Got Rejected 12 Times Before My First Bounty](https://medium.com/@bughunting/i-got-rejected-12-times-before-my-first-bounty-164c31caf9eb?source=rss------bug_bounty_writeup-5)
-- [From Self-XSS to Account Takeover: How I Turned a Low-Severity Finding into a Critical…](https://medium.com/@kanishkdadhich123/from-self-xss-to-account-takeover-how-i-turned-a-low-severity-finding-into-a-critical-6cde39fcd412?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
