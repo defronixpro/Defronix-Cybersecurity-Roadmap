@@ -929,6 +929,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [FAREWELL — A New Chapter for 5kullk3r](https://5kullk3r.medium.com/farewell-a-new-chapter-for-5kullk3r-adba62bddf03?source=rss------bug_bounty_writeup-5)
+- [Easy 150$ Bounty: Delete all votes](https://medium.com/@sari.mmusab/easy-150-bounty-delete-all-votes-d0dc4a4becd5?source=rss------bug_bounty_writeup-5)
 - [IDOR allows non-group members to add any group to favorites on their Facebook profile](https://medium.com/@r0hm4d/idor-allows-non-group-members-to-add-any-group-to-favorites-on-their-facebook-profile-466f7ab35f27?source=rss------bug_bounty_writeup-5)
 - [Non-group members can be added to projects even though the “Users cannot be added to projects in…](https://medium.com/@r0hm4d/non-group-members-can-be-added-to-projects-even-though-the-users-cannot-be-added-to-projects-in-deeb8ff41fd4?source=rss------bug_bounty_writeup-5)
 - [These Low-Hanging Fruit bugs  Made Me $120+ in 30 Minutes — Bugs That 80% of Hunters Ignore](https://medium.com/@bhavishthakral123/these-low-hanging-fruit-bugs-made-me-120-in-30-minutes-bugs-that-80-of-hunters-ignore-402258b69ec3?source=rss------bug_bounty_writeup-5)
@@ -946,8 +948,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Broken Access Control leads to delete any user’s comment](https://medium.com/@0xRaccoon/broken-access-control-leads-to-delete-any-users-comment-1908ca07f2a9?source=rss------bug_bounty_writeup-5)
 - [How i found race conditions leading to premium subscribtion bypass via concurrent user addition](https://medium.com/@0xRaccoon/how-i-found-race-conditions-leading-to-premium-subscribtion-bypass-via-concurrent-user-addition-55e23758975e?source=rss------bug_bounty_writeup-5)
 - [How I Forced A/B Experiments on Any User via an Unauthenticated Endpoint &lpar;Missing Auth&rpar;](https://medium.com/@mahmodziad40/how-i-forced-a-b-experiments-on-any-user-via-an-unauthenticated-endpoint-missing-auth-ea675de83861?source=rss------bug_bounty_writeup-5)
-- [How GraphQL Mutation Aliasing Led to a $12,500 DoS Bug in HackerOne’s Account Recovery Flow](https://infosecwriteups.com/how-graphql-mutation-aliasing-led-to-a-12-500-dos-bug-in-hackerones-account-recovery-flow-a0635b2f3997?source=rss------bug_bounty_writeup-5)
-- [Swagger UI HTML Injection — From “No XSS” to $450 Bounty](https://abdelaalx2000.medium.com/swagger-ui-html-injection-from-no-xss-to-450-bounty-ee5ca5b2bb64?source=rss------bug_bounty_writeup-5)
 - [Applying Sherman Kent’s Analytic Discipline to CTI: A Practical Analyst Guide](https://infosecwriteups.com/applying-sherman-kents-analytic-discipline-to-cti-a-practical-analyst-guide-33142ad7553b?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
