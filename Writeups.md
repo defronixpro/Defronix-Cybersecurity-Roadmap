@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [The Bug Bounty Roadmap Nobody Talks About](https://medium.com/@bughunting/the-bug-bounty-roadmap-nobody-talks-about-c91831b04555?source=rss------bug_bounty_writeup-5)
 - [FAREWELL — A New Chapter for 5kullk3r](https://5kullk3r.medium.com/farewell-a-new-chapter-for-5kullk3r-adba62bddf03?source=rss------bug_bounty_writeup-5)
 - [Easy 150$ Bounty: Delete all votes](https://medium.com/@sari.mmusab/easy-150-bounty-delete-all-votes-d0dc4a4becd5?source=rss------bug_bounty_writeup-5)
 - [IDOR allows non-group members to add any group to favorites on their Facebook profile](https://medium.com/@r0hm4d/idor-allows-non-group-members-to-add-any-group-to-favorites-on-their-facebook-profile-466f7ab35f27?source=rss------bug_bounty_writeup-5)
@@ -19,7 +20,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [API Hacking Sounds Scary Until You Realize It’s Just Changing Numbers](https://medium.com/@bughunting/api-hacking-sounds-scary-until-you-realize-its-just-changing-numbers-4d621ca06a89?source=rss------bug_bounty_writeup-5)
 - [Broken Access Control leads to delete any user’s comment](https://medium.com/@0xRaccoon/broken-access-control-leads-to-delete-any-users-comment-1908ca07f2a9?source=rss------bug_bounty_writeup-5)
 - [How i found race conditions leading to premium subscribtion bypass via concurrent user addition](https://medium.com/@0xRaccoon/how-i-found-race-conditions-leading-to-premium-subscribtion-bypass-via-concurrent-user-addition-55e23758975e?source=rss------bug_bounty_writeup-5)
-- [How I Forced A/B Experiments on Any User via an Unauthenticated Endpoint &lpar;Missing Auth&rpar;](https://medium.com/@mahmodziad40/how-i-forced-a-b-experiments-on-any-user-via-an-unauthenticated-endpoint-missing-auth-ea675de83861?source=rss------bug_bounty_writeup-5)
 - [Applying Sherman Kent’s Analytic Discipline to CTI: A Practical Analyst Guide](https://infosecwriteups.com/applying-sherman-kents-analytic-discipline-to-cti-a-practical-analyst-guide-33142ad7553b?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
