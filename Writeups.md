@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [API Fuzzing for Security Testing: Part 2A: Breaking Authentication &amp; Authorization](https://osintteam.blog/api-fuzzing-for-security-testing-part-2a-breaking-authentication-authorization-5a8b8a2c1a96?source=rss------bug_bounty_writeup-5)
 - [AI Security: explanation to Exploitation || Part 1](https://infosecwriteups.com/ai-security-explanation-to-exploitation-part-1-4e63637f7fd1?source=rss----7b722bfd1b8d---4)
 - [Chaining Stored XSS and CSRF in Typemill CMS: A Deep Dive into Attribute Injection](https://infosecwriteups.com/chaining-stored-xss-and-csrf-in-typemill-cms-a-deep-dive-into-attribute-injection-909d20edf903?source=rss----7b722bfd1b8d---4)
 - [How I Built a Burp Extension Efficiently with Claude](https://infosecwriteups.com/how-i-built-a-burp-extension-efficiently-with-claude-85d43817b8f3?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Non-group members can be added to projects even though the “Users cannot be added to projects in…](https://medium.com/@r0hm4d/non-group-members-can-be-added-to-projects-even-though-the-users-cannot-be-added-to-projects-in-deeb8ff41fd4?source=rss------bug_bounty_writeup-5)
 - [These Low-Hanging Fruit bugs  Made Me $120+ in 30 Minutes — Bugs That 80% of Hunters Ignore](https://medium.com/@bhavishthakral123/these-low-hanging-fruit-bugs-made-me-120-in-30-minutes-bugs-that-80-of-hunters-ignore-402258b69ec3?source=rss------bug_bounty_writeup-5)
 - [How I Found a Critical OAuth Misconfiguration That Led to Account Takeover](https://medium.com/@iamshafayat/how-i-found-a-critical-oauth-misconfiguration-that-led-to-account-takeover-abfec43eaea6?source=rss------bug_bounty_writeup-5)
-- [API Hacking Sounds Scary Until You Realize It’s Just Changing Numbers](https://medium.com/@bughunting/api-hacking-sounds-scary-until-you-realize-its-just-changing-numbers-4d621ca06a89?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
