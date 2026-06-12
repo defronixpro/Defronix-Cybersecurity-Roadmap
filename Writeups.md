@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How I Found a Free GPT Proxy in a Bug Bounty Program](https://ad3sh.medium.com/how-i-found-a-free-gpt-proxy-in-a-bug-bounty-program-74b0a7a76bd5?source=rss------bug_bounty_writeup-5)
 - [Another &lpar;P4&rpar; Bug Report Got Accepted for &lpar;session&rpar; Vulnerability](https://medium.com/@Sanjeev1/another-p4-bug-report-got-accepted-for-session-vulnerability-0dea1bb02f2a?source=rss------bug_bounty_writeup-5)
 - [IEEE Victoris 4.0 — CTF 2025 — Quals DFIR Challenges](https://infosecwriteups.com/ieee-mansb-ctf-2025-dfir-writeup-3b49a1afe7f6?source=rss----7b722bfd1b8d---4)
 - [DVWA Cheat Sheet &lpar;Low &amp; Medium&rpar;](https://infosecwriteups.com/dvwa-cheat-sheet-low-medium-c7490e76f1b5?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [FAREWELL — A New Chapter for 5kullk3r](https://5kullk3r.medium.com/farewell-a-new-chapter-for-5kullk3r-adba62bddf03?source=rss------bug_bounty_writeup-5)
 - [Easy 150$ Bounty: Delete all votes](https://medium.com/@sari.mmusab/easy-150-bounty-delete-all-votes-d0dc4a4becd5?source=rss------bug_bounty_writeup-5)
 - [IDOR allows non-group members to add any group to favorites on their Facebook profile](https://medium.com/@r0hm4d/idor-allows-non-group-members-to-add-any-group-to-favorites-on-their-facebook-profile-466f7ab35f27?source=rss------bug_bounty_writeup-5)
-- [Non-group members can be added to projects even though the “Users cannot be added to projects in…](https://medium.com/@r0hm4d/non-group-members-can-be-added-to-projects-even-though-the-users-cannot-be-added-to-projects-in-deeb8ff41fd4?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
