@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [From Profile Update to Account Takeover: A Mass Assignment Story](https://scriptjacker.medium.com/from-profile-update-to-account-takeover-a-mass-assignment-story-60c6e8de4abc?source=rss------bug_bounty_writeup-5)
 - [The Best Bug Is the One You Actually Report](https://medium.com/@bughunting/the-best-bug-is-the-one-you-actually-report-b95bcf289b39?source=rss------bug_bounty_writeup-5)
 - [Reflected XSS Made Stupidly Simple](https://kd-200.medium.com/reflected-xss-made-stupidly-simple-16cff68672cb?source=rss------bug_bounty_writeup-5)
 - [How I Found a Free GPT Proxy in a Bug Bounty Program](https://ad3sh.medium.com/how-i-found-a-free-gpt-proxy-in-a-bug-bounty-program-74b0a7a76bd5?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Everything Looked Normal Until I Decoded It — A Hidden SQL Injection](https://medium.com/@unvalidor/everything-looked-normal-until-i-decoded-it-a-hidden-sql-injection-c96bba8d291f?source=rss------bug_bounty_writeup-5)
 - [Recon Is Everything — Where Real Bugs Actually Hide](https://kd-200.medium.com/recon-is-everything-where-real-bugs-actually-hide-95f349e2b726?source=rss------bug_bounty_writeup-5)
 - [The Bug Bounty Roadmap Nobody Talks About](https://medium.com/@bughunting/the-bug-bounty-roadmap-nobody-talks-about-c91831b04555?source=rss------bug_bounty_writeup-5)
-- [FAREWELL — A New Chapter for 5kullk3r](https://5kullk3r.medium.com/farewell-a-new-chapter-for-5kullk3r-adba62bddf03?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
