@@ -1,6 +1,8 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [The Comment That Handed Me a Secret Key](https://medium.com/@guyani/the-comment-that-handed-me-a-secret-key-f49ab34f93ef?source=rss------bug_bounty_writeup-5)
+- [Here’s a structured guide from basic to advanced Nmap scanning, with clear examples and…](https://cybersaurabh.medium.com/heres-a-structured-guide-from-basic-to-advanced-nmap-scanning-with-clear-examples-and-430673c945e4?source=rss------bug_bounty_writeup-5)
 - [How a Simple Google Dork Earned Me My First Bounty from Bugcrowd’s Own Bug Bounty Program](https://artanvir76.medium.com/how-a-simple-google-dork-earned-me-my-first-bounty-from-bugcrowds-own-bug-bounty-program-685c088495a6?source=rss------bug_bounty_writeup-5)
 - [Stored XSS via PNG Polyglot Upload and Filename Trust](https://medium.com/@raghavraut29/stored-xss-via-png-polyglot-upload-and-filename-trust-552020690f4f?source=rss------bug_bounty_writeup-5)
 - [From Profile Update to Account Takeover: A Mass Assignment Story](https://scriptjacker.medium.com/from-profile-update-to-account-takeover-a-mass-assignment-story-60c6e8de4abc?source=rss------bug_bounty_writeup-5)
@@ -17,10 +19,8 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Beyond the Patch: Understanding the SonicWall SSL-VPN MFA Bypass Exposure](https://infosecwriteups.com/beyond-the-patch-understanding-the-sonicwall-ssl-vpn-mfa-bypass-exposure-35b0627ceac2?source=rss----7b722bfd1b8d---4)
 - [I Simulated an SSH Brute-Force Attack on My Ubuntu Server — Here’s How Fail2Ban Stopped It](https://infosecwriteups.com/i-simulated-an-ssh-brute-force-attack-on-my-ubuntu-server-heres-how-fail2ban-stopped-it-c2a65ea22267?source=rss----7b722bfd1b8d---4)
 - [The Difference Between a Bug and a Feature &lpar;And Why It Matters&rpar;](https://medium.com/@bughunting/the-difference-between-a-bug-and-a-feature-and-why-it-matters-6e963a0943f8?source=rss------bug_bounty_writeup-5)
-- [API Fuzzing for Security Testing: Part 2A: Breaking Authentication &amp; Authorization](https://osintteam.blog/api-fuzzing-for-security-testing-part-2a-breaking-authentication-authorization-5a8b8a2c1a96?source=rss------bug_bounty_writeup-5)
 - [AI Security: explanation to Exploitation || Part 1](https://infosecwriteups.com/ai-security-explanation-to-exploitation-part-1-4e63637f7fd1?source=rss----7b722bfd1b8d---4)
 - [Chaining Stored XSS and CSRF in Typemill CMS: A Deep Dive into Attribute Injection](https://infosecwriteups.com/chaining-stored-xss-and-csrf-in-typemill-cms-a-deep-dive-into-attribute-injection-909d20edf903?source=rss----7b722bfd1b8d---4)
-- [Everything Looked Normal Until I Decoded It — A Hidden SQL Injection](https://medium.com/@unvalidor/everything-looked-normal-until-i-decoded-it-a-hidden-sql-injection-c96bba8d291f?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
