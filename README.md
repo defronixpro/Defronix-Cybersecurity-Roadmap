@@ -943,6 +943,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Building a Hackbot for Bug Bounties — Auth Testing Subagent Setup](https://infosecwriteups.com/building-a-hackbot-for-bug-bounties-auth-testing-subagent-setup-02cc9cb89196?source=rss------bug_bounty_writeup-5)
 - [My Instructor Said “You Can’t Get a Shell.” I Got Root. — Full Web Pentest Exam Write-Up](https://infosecwriteups.com/my-instructor-said-you-cant-get-a-shell-i-got-root-full-web-pentest-exam-write-up-a82c804ce8e2?source=rss----7b722bfd1b8d---4)
 - [Connectors CTF 2025 — DFIR Challenges](https://infosecwriteups.com/connectors-ctf-2025-dfir-challenges-6d66c31cce9a?source=rss----7b722bfd1b8d---4)
 - [Silent Breach Lab Writeup &lpar;CyberDefenders&rpar;](https://infosecwriteups.com/silent-breach-lab-writeup-cyberdefenders-c766dc7a9acb?source=rss----7b722bfd1b8d---4)
@@ -962,7 +963,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Recovering a Forgotten Password in a Self-Hosted n8n Docker Deployment](https://infosecwriteups.com/recovering-a-forgotten-password-in-a-self-hosted-n8n-docker-deployment-251e073757f5?source=rss----7b722bfd1b8d---4)
 - [Header Manipulation: Bypasses, Probing, and the Security Audit Nobody Does](https://infosecwriteups.com/header-manipulation-bypasses-probing-and-the-security-audit-nobody-does-62e85ad28cb0?source=rss----7b722bfd1b8d---4)
 - [Beyond the Patch: Understanding the SonicWall SSL-VPN MFA Bypass Exposure](https://infosecwriteups.com/beyond-the-patch-understanding-the-sonicwall-ssl-vpn-mfa-bypass-exposure-35b0627ceac2?source=rss----7b722bfd1b8d---4)
-- [The Difference Between a Bug and a Feature &lpar;And Why It Matters&rpar;](https://medium.com/@bughunting/the-difference-between-a-bug-and-a-feature-and-why-it-matters-6e963a0943f8?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
