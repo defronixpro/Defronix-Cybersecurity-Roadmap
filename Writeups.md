@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [READING The JavaScript Gave Me a Cross-Tenant Write + SSRF](https://medium.com/@mahmodziad40/reading-the-javascript-gave-me-a-cross-tenant-write-ssrf-367b20798d41?source=rss------bug_bounty_writeup-5)
 - [Pre-Account Takeover via OAuth Linking and Missing Email Verification](https://medium.com/@muzamil29876/pre-account-takeover-via-oauth-linking-and-missing-email-verification-c2f5acc2e975?source=rss------bug_bounty_writeup-5)
 - [How I Took Over Any Account in 200 Seconds Using the Password Reset Flow Itself](https://medium.com/@zishanfiroz/how-i-took-over-any-account-in-200-seconds-using-the-password-reset-flow-itself-6885352024ac?source=rss------bug_bounty_writeup-5)
 - [The File They Forgot to Delete](https://medium.com/@guyani/the-file-they-forgot-to-delete-12095fedd80b?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [The Comment That Handed Me a Secret Key](https://medium.com/@guyani/the-comment-that-handed-me-a-secret-key-f49ab34f93ef?source=rss------bug_bounty_writeup-5)
 - [Here’s a structured guide from basic to advanced Nmap scanning, with clear examples and…](https://cybersaurabh.medium.com/heres-a-structured-guide-from-basic-to-advanced-nmap-scanning-with-clear-examples-and-430673c945e4?source=rss------bug_bounty_writeup-5)
 - [How a Simple Google Dork Earned Me My First Bounty from Bugcrowd’s Own Bug Bounty Program](https://artanvir76.medium.com/how-a-simple-google-dork-earned-me-my-first-bounty-from-bugcrowds-own-bug-bounty-program-685c088495a6?source=rss------bug_bounty_writeup-5)
-- [Stored XSS via PNG Polyglot Upload and Filename Trust](https://medium.com/@raghavraut29/stored-xss-via-png-polyglot-upload-and-filename-trust-552020690f4f?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
