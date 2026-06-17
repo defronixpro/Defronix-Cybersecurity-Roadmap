@@ -950,6 +950,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Lab 4 of my Information Disclosure series.](https://medium.com/@guyani/lab-4-of-my-information-disclosure-series-db250aa86953?source=rss------bug_bounty_writeup-5)
 - [AI Security: explanation to Exploitation || Part 2](https://jeetpal2007.medium.com/ai-security-explanation-to-exploitation-part-2-d470b8a07b5f?source=rss------bug_bounty_writeup-5)
 - [Exploiting Server-Side Parameter Pollution in a REST URL &lpar;Expert Lab Walkthrough&rpar;](https://medium.com/@cybernerddd/exploiting-server-side-parameter-pollution-in-a-rest-url-expert-lab-walkthrough-4e5b4d717832?source=rss------bug_bounty_writeup-5)
 - [How I hacked NASA in 3 days using AI](https://medium.com/@contatopedrost/how-i-hacked-nasa-in-3-days-using-ai-87bf70ccf6c0?source=rss------bug_bounty_writeup-5)
@@ -959,7 +960,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How I Took Over Any Account in 200 Seconds Using the Password Reset Flow Itself](https://medium.com/@zishanfiroz/how-i-took-over-any-account-in-200-seconds-using-the-password-reset-flow-itself-6885352024ac?source=rss------bug_bounty_writeup-5)
 - [The File They Forgot to Delete](https://medium.com/@guyani/the-file-they-forgot-to-delete-12095fedd80b?source=rss------bug_bounty_writeup-5)
 - [SSRF by encoding](https://medium.com/@alastaair66/ssrf-by-encoding-ff67fa51ba01?source=rss------bug_bounty_writeup-5)
-- [Transfer files cannot be removed in Dropbox Transfer](https://medium.com/@r0hm4dh/transfer-files-cannot-be-removed-in-dropbox-transfer-4d7fbcea915e?source=rss------bug_bounty_writeup-5)
 - [Host &amp; Network Penetration Testing: Network-Based Attacks CTF 1 — eJPT &lpar;INE&rpar;](https://infosecwriteups.com/host-network-penetration-testing-network-based-attacks-ctf-1-ejpt-ine-675f149b7c1c?source=rss----7b722bfd1b8d---4)
 - [The Intelligent Shield. OpenCTI](https://infosecwriteups.com/the-intelligent-shield-057c9b4b9394?source=rss----7b722bfd1b8d---4)
 - [The Art of Taking Notes](https://infosecwriteups.com/the-art-of-taking-notes-ff5208fa13eb?source=rss----7b722bfd1b8d---4)
