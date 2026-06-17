@@ -953,7 +953,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Lab 4 of my Information Disclosure series.](https://medium.com/@guyani/lab-4-of-my-information-disclosure-series-db250aa86953?source=rss------bug_bounty_writeup-5)
 - [AI Security: explanation to Exploitation || Part 2](https://jeetpal2007.medium.com/ai-security-explanation-to-exploitation-part-2-d470b8a07b5f?source=rss------bug_bounty_writeup-5)
 - [Exploiting Server-Side Parameter Pollution in a REST URL &lpar;Expert Lab Walkthrough&rpar;](https://medium.com/@cybernerddd/exploiting-server-side-parameter-pollution-in-a-rest-url-expert-lab-walkthrough-4e5b4d717832?source=rss------bug_bounty_writeup-5)
-- [How I hacked NASA in 3 days using AI](https://medium.com/@contatopedrost/how-i-hacked-nasa-in-3-days-using-ai-87bf70ccf6c0?source=rss------bug_bounty_writeup-5)
+- [How I hacked NASA in 3 days with AI](https://medium.com/@contatopedrost/how-i-hacked-nasa-in-3-days-using-ai-87bf70ccf6c0?source=rss------bug_bounty_writeup-5)
 - [The 5 AM Club Is a Lie. Here’s What Actually Works for Bug Hunters.](https://medium.com/@bughunting/the-5-am-club-is-a-lie-heres-what-actually-works-for-bug-hunters-c7d5b25ee9cc?source=rss------bug_bounty_writeup-5)
 - [READING The JavaScript Gave Me a Cross-Tenant Write + SSRF](https://medium.com/@mahmodziad40/reading-the-javascript-gave-me-a-cross-tenant-write-ssrf-367b20798d41?source=rss------bug_bounty_writeup-5)
 - [Pre-Account Takeover via OAuth Linking and Missing Email Verification](https://medium.com/@muzamil29876/pre-account-takeover-via-oauth-linking-and-missing-email-verification-c2f5acc2e975?source=rss------bug_bounty_writeup-5)
