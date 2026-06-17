@@ -950,6 +950,10 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [AI Security: explanation to Exploitation || Part 2](https://jeetpal2007.medium.com/ai-security-explanation-to-exploitation-part-2-d470b8a07b5f?source=rss------bug_bounty_writeup-5)
+- [Exploiting Server-Side Parameter Pollution in a REST URL &lpar;Expert Lab Walkthrough&rpar;](https://medium.com/@cybernerddd/exploiting-server-side-parameter-pollution-in-a-rest-url-expert-lab-walkthrough-4e5b4d717832?source=rss------bug_bounty_writeup-5)
+- [How I hacked NASA in 3 days using AI](https://medium.com/@contatopedrost/how-i-hacked-nasa-in-3-days-using-ai-87bf70ccf6c0?source=rss------bug_bounty_writeup-5)
+- [The 5 AM Club Is a Lie. Here’s What Actually Works for Bug Hunters.](https://medium.com/@bughunting/the-5-am-club-is-a-lie-heres-what-actually-works-for-bug-hunters-c7d5b25ee9cc?source=rss------bug_bounty_writeup-5)
 - [READING The JavaScript Gave Me a Cross-Tenant Write + SSRF](https://medium.com/@mahmodziad40/reading-the-javascript-gave-me-a-cross-tenant-write-ssrf-367b20798d41?source=rss------bug_bounty_writeup-5)
 - [Pre-Account Takeover via OAuth Linking and Missing Email Verification](https://medium.com/@muzamil29876/pre-account-takeover-via-oauth-linking-and-missing-email-verification-c2f5acc2e975?source=rss------bug_bounty_writeup-5)
 - [How I Took Over Any Account in 200 Seconds Using the Password Reset Flow Itself](https://medium.com/@zishanfiroz/how-i-took-over-any-account-in-200-seconds-using-the-password-reset-flow-itself-6885352024ac?source=rss------bug_bounty_writeup-5)
@@ -966,10 +970,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Bug Bounty Bootcamp #45: Token?](https://infosecwriteups.com/bug-bounty-bootcamp-45-token-2b606811c7ba?source=rss----7b722bfd1b8d---4)
 - [TryHackMe — Checkmate | Full Walkthrough](https://infosecwriteups.com/tryhackme-checkmate-full-walkthrough-49a418a8e956?source=rss----7b722bfd1b8d---4)
 - [TryHackMe — Break Out The Cage | Full Write-Up](https://infosecwriteups.com/tryhackme-break-out-the-cage-full-write-up-6de0702d0e01?source=rss----7b722bfd1b8d---4)
-- [Building a Hackbot for Bug Bounties — Auth Testing Subagent Setup](https://infosecwriteups.com/building-a-hackbot-for-bug-bounties-auth-testing-subagent-setup-02cc9cb89196?source=rss------bug_bounty_writeup-5)
-- [The Comment That Handed Me a Secret Key](https://medium.com/@guyani/the-comment-that-handed-me-a-secret-key-f49ab34f93ef?source=rss------bug_bounty_writeup-5)
-- [Here’s a structured guide from basic to advanced Nmap scanning, with clear examples and…](https://cybersaurabh.medium.com/heres-a-structured-guide-from-basic-to-advanced-nmap-scanning-with-clear-examples-and-430673c945e4?source=rss------bug_bounty_writeup-5)
-- [How a Simple Google Dork Earned Me My First Bounty from Bugcrowd’s Own Bug Bounty Program](https://artanvir76.medium.com/how-a-simple-google-dork-earned-me-my-first-bounty-from-bugcrowds-own-bug-bounty-program-685c088495a6?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
