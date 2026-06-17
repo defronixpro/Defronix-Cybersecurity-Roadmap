@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Lab 4 of my Information Disclosure series.](https://medium.com/@guyani/lab-4-of-my-information-disclosure-series-db250aa86953?source=rss------bug_bounty_writeup-5)
 - [AI Security: explanation to Exploitation || Part 2](https://jeetpal2007.medium.com/ai-security-explanation-to-exploitation-part-2-d470b8a07b5f?source=rss------bug_bounty_writeup-5)
 - [Exploiting Server-Side Parameter Pollution in a REST URL &lpar;Expert Lab Walkthrough&rpar;](https://medium.com/@cybernerddd/exploiting-server-side-parameter-pollution-in-a-rest-url-expert-lab-walkthrough-4e5b4d717832?source=rss------bug_bounty_writeup-5)
 - [How I hacked NASA in 3 days using AI](https://medium.com/@contatopedrost/how-i-hacked-nasa-in-3-days-using-ai-87bf70ccf6c0?source=rss------bug_bounty_writeup-5)
@@ -10,7 +11,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How I Took Over Any Account in 200 Seconds Using the Password Reset Flow Itself](https://medium.com/@zishanfiroz/how-i-took-over-any-account-in-200-seconds-using-the-password-reset-flow-itself-6885352024ac?source=rss------bug_bounty_writeup-5)
 - [The File They Forgot to Delete](https://medium.com/@guyani/the-file-they-forgot-to-delete-12095fedd80b?source=rss------bug_bounty_writeup-5)
 - [SSRF by encoding](https://medium.com/@alastaair66/ssrf-by-encoding-ff67fa51ba01?source=rss------bug_bounty_writeup-5)
-- [Transfer files cannot be removed in Dropbox Transfer](https://medium.com/@r0hm4dh/transfer-files-cannot-be-removed-in-dropbox-transfer-4d7fbcea915e?source=rss------bug_bounty_writeup-5)
 - [Host &amp; Network Penetration Testing: Network-Based Attacks CTF 1 — eJPT &lpar;INE&rpar;](https://infosecwriteups.com/host-network-penetration-testing-network-based-attacks-ctf-1-ejpt-ine-675f149b7c1c?source=rss----7b722bfd1b8d---4)
 - [The Intelligent Shield. OpenCTI](https://infosecwriteups.com/the-intelligent-shield-057c9b4b9394?source=rss----7b722bfd1b8d---4)
 - [The Art of Taking Notes](https://infosecwriteups.com/the-art-of-taking-notes-ff5208fa13eb?source=rss----7b722bfd1b8d---4)
@@ -25,7 +25,17 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
 - [How to backup and restore the Windows Registry](https://www.bleepingcomputer.com/tutorials/how-to-backup-and-restore-the-windows-registry/)
+- [How To Fix Error: Externally-Managed-Environment In Python &lpar;Kali Linux&rpar;](https://technicalnavigator.in/how-to-fix-error-externally-managed-environment-in-python-kali-linux/)
+- [Understanding Systemctl Command in Linux &lpar;Practical&rpar;](https://technicalnavigator.in/understanding-systemctl-command-in-linux-practical/)
+- [Macros in docm &amp; Linux memory dump| Hack The Boo  Challanges](https://technicalnavigator.in/macros-in-docm-linux-memory-dump-hack-the-boo-challanges/)
+- [Android Apps debugging |  Frida, JADX, Genymotion](https://technicalnavigator.in/android-apps-debugging-frida-jadx-genymotion/)
+- [MouseServer | wifimouse – Windows/ Linux](https://technicalnavigator.in/mouseserver-wifimouse-windows-linux/)
+- [FFUF fuzzer | web-application penetration-testing](https://technicalnavigator.in/ffuf-fuzzer-web-application-penetration-testing/)
 - [How to open a Windows 11 Command Prompt as Administrator](https://www.bleepingcomputer.com/tutorials/how-to-open-a-windows-11-command-prompt-as-administrator/)
+- [Classes-Objects &amp; Deserialization bug](https://technicalnavigator.in/classes-objects-deserialization-bug/)
+- [Loki Tool | Multhreading Over Sockets in C](https://technicalnavigator.in/loki-tool-multhreading-over-sockets-in-c/)
+- [Egghunter | NASM | C prototype](https://technicalnavigator.in/egghunter-nasm-c-prototype/)
+- [TELNET &amp; FTP Analysis](https://technicalnavigator.in/telnet-ftp-analysis/)
 - [How to make the Start menu full screen in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-make-the-start-menu-full-screen-in-windows-10/)
 - [How to install the Microsoft Visual C++ 2015 Runtime](https://www.bleepingcomputer.com/tutorials/how-to-install-the-microsoft-visual-c-2015-runtime/)
 - [How to open an elevated PowerShell Admin prompt in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-open-an-elevated-powershell-admin-prompt-in-windows-10/)
