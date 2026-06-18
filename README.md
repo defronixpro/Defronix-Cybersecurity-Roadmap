@@ -306,6 +306,13 @@ Optional, but If you aspire to become a proficient hacker with a deeper understa
 <summary>Basic Concepts of Bug Bounty</summary>
   <!-- BASICCONCEPTS:START --><table>
 <tr>
+<td><a href="https://www.youtube.com/watch?v=NiGT63QUf1M"><img width="140px" src="http://img.youtube.com/vi/NiGT63QUf1M/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=NiGT63QUf1M">BGP Hijacking Explained - The Attack Used To Block &amp; Disrupt Telegram Traffic ? &lpar; Hindi &rpar;</a><br/>Jun 18, 2026</td>
+</tr>
+</table>
+
+<table>
+<tr>
 <td><a href="https://www.youtube.com/watch?v=_f0iEcC3U_c"><img width="140px" src="http://img.youtube.com/vi/_f0iEcC3U_c/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=_f0iEcC3U_c">Cyber Kill Chain - Stages Of Cyber Attacks Every Ethical Hacker Must Know &lpar; Hindi &rpar;</a><br/>Jun 16, 2026</td>
 </tr>
