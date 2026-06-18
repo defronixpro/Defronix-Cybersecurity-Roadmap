@@ -957,7 +957,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [Breaking Down Two Simple Vulnerabilities That Exposed A School’s Admission Records](https://medium.com/@avyuktsec/breaking-down-two-simple-vulnerabilities-that-exposed-a-schools-admission-records-040bd636a7f3?source=rss------bug_bounty_writeup-5)
+- [Breaking Down Two Simple Vulnerabilities That Exposed A School’s Admission Records](https://infosecwriteups.com/breaking-down-two-simple-vulnerabilities-that-exposed-a-schools-admission-records-040bd636a7f3?source=rss------bug_bounty_writeup-5)
 - [I Opened a Settings Page… and Found Everyone’s Personal Data Sitting Behind a URL](https://medium.com/@kanishkdadhich123/i-opened-a-settings-page-and-found-everyones-personal-data-sitting-behind-a-url-5c057a7e2955?source=rss------bug_bounty_writeup-5)
 - [The Password They Deleted But Never Erased](https://medium.com/@guyani/the-password-they-deleted-but-never-erased-519423d98611?source=rss------bug_bounty_writeup-5)
 - [A Premium Feature Bypass Hidden Behind a Single Boolean Parameter](https://medium.com/@ankitsingh787478/a-premium-feature-bypass-hidden-behind-a-single-boolean-parameter-1a37b1e5172a?source=rss------bug_bounty_writeup-5)
