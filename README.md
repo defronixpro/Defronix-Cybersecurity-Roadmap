@@ -957,6 +957,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [The One Thing Nobody Checks in Password Reset &lpar;And Why It Pays&rpar;](https://medium.com/@bughunting/the-one-thing-nobody-checks-in-password-reset-and-why-it-pays-215ae92a8d9c?source=rss------bug_bounty_writeup-5)
 - [Breaking Down Two Simple Vulnerabilities That Exposed A School’s Admission Records](https://infosecwriteups.com/breaking-down-two-simple-vulnerabilities-that-exposed-a-schools-admission-records-040bd636a7f3?source=rss------bug_bounty_writeup-5)
 - [I Opened a Settings Page… and Found Everyone’s Personal Data Sitting Behind a URL](https://medium.com/@kanishkdadhich123/i-opened-a-settings-page-and-found-everyones-personal-data-sitting-behind-a-url-5c057a7e2955?source=rss------bug_bounty_writeup-5)
 - [The Password They Deleted But Never Erased](https://medium.com/@guyani/the-password-they-deleted-but-never-erased-519423d98611?source=rss------bug_bounty_writeup-5)
@@ -976,7 +977,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [AI Security: explanation to Exploitation || Part 2](https://jeetpal2007.medium.com/ai-security-explanation-to-exploitation-part-2-d470b8a07b5f?source=rss------bug_bounty_writeup-5)
 - [Exploiting Server-Side Parameter Pollution in a REST URL &lpar;Expert Lab Walkthrough&rpar;](https://medium.com/@cybernerddd/exploiting-server-side-parameter-pollution-in-a-rest-url-expert-lab-walkthrough-4e5b4d717832?source=rss------bug_bounty_writeup-5)
 - [How I hacked NASA in 3 days with AI](https://medium.com/@contatopedrost/how-i-hacked-nasa-in-3-days-using-ai-87bf70ccf6c0?source=rss------bug_bounty_writeup-5)
-- [The 5 AM Club Is a Lie. Here’s What Actually Works for Bug Hunters.](https://medium.com/@bughunting/the-5-am-club-is-a-lie-heres-what-actually-works-for-bug-hunters-c7d5b25ee9cc?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
