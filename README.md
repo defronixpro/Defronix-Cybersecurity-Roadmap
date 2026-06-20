@@ -957,6 +957,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [API Hacking 101 — Where the Money Is in 2026](https://kd-200.medium.com/api-hacking-101-where-the-money-is-in-2026-eb03ef331c14?source=rss------bug_bounty_writeup-5)
 - [My First Bug Found Me &lpar;I Wasn’t Even Looking&rpar;](https://medium.com/@bughunting/my-first-bug-found-me-i-wasnt-even-looking-1d81633c9c46?source=rss------bug_bounty_writeup-5)
 - [API Fuzzing for Bug Bounty — Part 2b: Injection, Bypasses &amp; Output Exploitation](https://osintteam.blog/api-fuzzing-for-bug-bounty-part-2b-injection-bypasses-output-exploitation-facf1052e6d9?source=rss------bug_bounty_writeup-5)
 - [ASCTray.exe, Malicious or Benign?](https://medium.com/@jxnv/asctray-exe-malicious-or-benign-c5cb130df30d?source=rss------bug_bounty_writeup-5)
@@ -976,7 +977,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [A Premium Feature Bypass Hidden Behind a Single Boolean Parameter](https://medium.com/@ankitsingh787478/a-premium-feature-bypass-hidden-behind-a-single-boolean-parameter-1a37b1e5172a?source=rss------bug_bounty_writeup-5)
 - [Slort — RFI via PHP allow_url_include + Writable Scheduled Task Binary to Administrator | OffSec PG…](https://infosecwriteups.com/slort-rfi-via-php-allow-url-include-writable-scheduled-task-binary-to-administrator-offsec-pg-ac72c40761ae?source=rss----7b722bfd1b8d---4)
 - [“Bug Bounty Bootcamp #47: Account Takeover 101 — How to Steal Everyone’s Account &lpar;Legally&rpar;”](https://infosecwriteups.com/bug-bounty-bootcamp-47-account-takeover-101-how-to-steal-everyones-account-legally-684fd8e3e198?source=rss----7b722bfd1b8d---4)
-- [The MFA Bypass That Wasn’t an MFA Problem: A Lesson in Broken API Authorization](https://cybersecuritywriteups.com/the-mfa-bypass-that-wasnt-an-mfa-problem-a-lesson-in-broken-api-authorization-b6f0fbd4154f?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
