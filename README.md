@@ -957,6 +957,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I Discovered a High-Severity IDOR on an E-Commerce Platform](https://medium.com/@kanishkdadhich123/how-i-discovered-a-high-severity-idor-on-an-e-commerce-platform-f13a316aa71c?source=rss------bug_bounty_writeup-5)
 - [API Hacking 101 — Where the Money Is in 2026](https://kd-200.medium.com/api-hacking-101-where-the-money-is-in-2026-eb03ef331c14?source=rss------bug_bounty_writeup-5)
 - [My First Bug Found Me &lpar;I Wasn’t Even Looking&rpar;](https://medium.com/@bughunting/my-first-bug-found-me-i-wasnt-even-looking-1d81633c9c46?source=rss------bug_bounty_writeup-5)
 - [API Fuzzing for Bug Bounty — Part 2b: Injection, Bypasses &amp; Output Exploitation](https://osintteam.blog/api-fuzzing-for-bug-bounty-part-2b-injection-bypasses-output-exploitation-facf1052e6d9?source=rss------bug_bounty_writeup-5)
@@ -974,7 +975,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Breaking Down Two Simple Vulnerabilities That Exposed A School’s Admission Records](https://infosecwriteups.com/breaking-down-two-simple-vulnerabilities-that-exposed-a-schools-admission-records-040bd636a7f3?source=rss------bug_bounty_writeup-5)
 - [I Opened a Settings Page… and Found Everyone’s Personal Data Sitting Behind a URL](https://medium.com/@kanishkdadhich123/i-opened-a-settings-page-and-found-everyones-personal-data-sitting-behind-a-url-5c057a7e2955?source=rss------bug_bounty_writeup-5)
 - [The Password They Deleted But Never Erased](https://medium.com/@guyani/the-password-they-deleted-but-never-erased-519423d98611?source=rss------bug_bounty_writeup-5)
-- [A Premium Feature Bypass Hidden Behind a Single Boolean Parameter](https://medium.com/@ankitsingh787478/a-premium-feature-bypass-hidden-behind-a-single-boolean-parameter-1a37b1e5172a?source=rss------bug_bounty_writeup-5)
 - [Slort — RFI via PHP allow_url_include + Writable Scheduled Task Binary to Administrator | OffSec PG…](https://infosecwriteups.com/slort-rfi-via-php-allow-url-include-writable-scheduled-task-binary-to-administrator-offsec-pg-ac72c40761ae?source=rss----7b722bfd1b8d---4)
 - [“Bug Bounty Bootcamp #47: Account Takeover 101 — How to Steal Everyone’s Account &lpar;Legally&rpar;”](https://infosecwriteups.com/bug-bounty-bootcamp-47-account-takeover-101-how-to-steal-everyones-account-legally-684fd8e3e198?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
