@@ -957,6 +957,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [From Revoked Privileges to Resource Creation: A Privilege Persistence Vulnerability in a VDP…](https://medium.com/@montaser_mohsen/from-revoked-privileges-to-resource-creation-a-privilege-persistence-vulnerability-in-a-vdp-f1897413e294?source=rss------bug_bounty_writeup-5)
+- [How I Found My First Bug](https://arun1x.medium.com/how-i-found-my-first-bug-72e3eef75ac7?source=rss------bug_bounty_writeup-5)
 - [The Login That Didn’t Need a Password](https://medium.com/@guyani/the-login-that-didnt-need-a-password-d818c392406a?source=rss------bug_bounty_writeup-5)
 - [From a Simple Input Field to Stored XSS — A Realistic Bug Bounty Journey](https://medium.com/@ankitsingh787478/from-a-simple-input-field-to-stored-xss-a-realistic-bug-bounty-journey-a69e428e84ad?source=rss------bug_bounty_writeup-5)
 - [I Tested a Login Form and Accidentally Found Remote Code Execution](https://medium.com/@abdelrhmanelmoghazy1/i-tested-a-login-form-and-accidentally-found-remote-code-execution-069f861f59dc?source=rss------bug_bounty_writeup-5)
@@ -964,8 +966,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [API Hacking 101 — Where the Money Is in 2026](https://kd-200.medium.com/api-hacking-101-where-the-money-is-in-2026-eb03ef331c14?source=rss------bug_bounty_writeup-5)
 - [My First Bug Found Me &lpar;I Wasn’t Even Looking&rpar;](https://medium.com/@bughunting/my-first-bug-found-me-i-wasnt-even-looking-1d81633c9c46?source=rss------bug_bounty_writeup-5)
 - [API Fuzzing for Bug Bounty — Part 2b: Injection, Bypasses &amp; Output Exploitation](https://osintteam.blog/api-fuzzing-for-bug-bounty-part-2b-injection-bypasses-output-exploitation-facf1052e6d9?source=rss------bug_bounty_writeup-5)
-- [ASCTray.exe, Malicious or Benign?](https://medium.com/@jxnv/asctray-exe-malicious-or-benign-c5cb130df30d?source=rss------bug_bounty_writeup-5)
-- [7 Critical. 4 High. Zero Credentials. Full AI Chatbot Pentest.](https://infosecwriteups.com/7-critical-4-high-zero-credentials-full-ai-chatbot-pentest-22a05b760381?source=rss------bug_bounty_writeup-5)
 - [Breaking Down Two Simple Vulnerabilities That Exposed A School’s Admission Records](https://infosecwriteups.com/breaking-down-two-simple-vulnerabilities-that-exposed-a-schools-admission-records-040bd636a7f3?source=rss----7b722bfd1b8d---4)
 - [BITSCTF 2026 Writeups | OSINT And Steganography / Forensics Challenges](https://infosecwriteups.com/bitsctf-2026-writeups-osint-and-steganography-forensics-challenges-b91257ca0856?source=rss----7b722bfd1b8d---4)
 - [“Bug Bounty Bootcamp #48: OAuth + XSS ”](https://infosecwriteups.com/bug-bounty-bootcamp-48-oauth-xss-04246084a403?source=rss----7b722bfd1b8d---4)
