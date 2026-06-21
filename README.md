@@ -957,6 +957,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [The Login That Didn’t Need a Password](https://medium.com/@guyani/the-login-that-didnt-need-a-password-d818c392406a?source=rss------bug_bounty_writeup-5)
 - [From a Simple Input Field to Stored XSS — A Realistic Bug Bounty Journey](https://medium.com/@ankitsingh787478/from-a-simple-input-field-to-stored-xss-a-realistic-bug-bounty-journey-a69e428e84ad?source=rss------bug_bounty_writeup-5)
 - [I Tested a Login Form and Accidentally Found Remote Code Execution](https://medium.com/@abdelrhmanelmoghazy1/i-tested-a-login-form-and-accidentally-found-remote-code-execution-069f861f59dc?source=rss------bug_bounty_writeup-5)
 - [How I Discovered a High-Severity IDOR on an E-Commerce Platform](https://medium.com/@kanishkdadhich123/how-i-discovered-a-high-severity-idor-on-an-e-commerce-platform-f13a316aa71c?source=rss------bug_bounty_writeup-5)
@@ -973,8 +974,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [CRTA Exam Writeup — Passed | CyberWarFare Labs](https://infosecwriteups.com/crta-exam-writeup-passed-cyberwarfare-lab-d55e776c82e7?source=rss----7b722bfd1b8d---4)
 - [Web-RTA Exam Writeup — Passed | CyberWarFare Labs](https://infosecwriteups.com/web-rta-exam-writeup-passed-cyberwarfare-labs-20c6bd74e675?source=rss----7b722bfd1b8d---4)
 - [VulnHub — sunset: dawn | Full Walkthrough](https://infosecwriteups.com/vulnhub-sunset-dawn-full-walkthrough-db12d38d2e3b?source=rss----7b722bfd1b8d---4)
-- [The One Thing Nobody Checks in Password Reset &lpar;And Why It Pays&rpar;](https://medium.com/@bughunting/the-one-thing-nobody-checks-in-password-reset-and-why-it-pays-215ae92a8d9c?source=rss------bug_bounty_writeup-5)
-- [Breaking Down Two Simple Vulnerabilities That Exposed A School’s Admission Records](https://infosecwriteups.com/breaking-down-two-simple-vulnerabilities-that-exposed-a-schools-admission-records-040bd636a7f3?source=rss------bug_bounty_writeup-5)
 - [Slort — RFI via PHP allow_url_include + Writable Scheduled Task Binary to Administrator | OffSec PG…](https://infosecwriteups.com/slort-rfi-via-php-allow-url-include-writable-scheduled-task-binary-to-administrator-offsec-pg-ac72c40761ae?source=rss----7b722bfd1b8d---4)
 - [“Bug Bounty Bootcamp #47: Account Takeover 101 — How to Steal Everyone’s Account &lpar;Legally&rpar;”](https://infosecwriteups.com/bug-bounty-bootcamp-47-account-takeover-101-how-to-steal-everyones-account-legally-684fd8e3e198?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
