@@ -1,6 +1,8 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [I Spent 4 Hours Testing HubSpot’s AI Assistant for Prompt Injection — Here’s Everything I Found](https://medium.com/@sudoaccess/i-spent-4-hours-testing-hubspots-ai-assistant-for-prompt-injection-here-s-everything-i-found-3ac248aa717e?source=rss------bug_bounty_writeup-5)
+- [How one line of JavaScript let me walk into an admin panel](https://medium.com/@mrmorokali/how-one-line-of-javascript-let-me-walk-into-an-admin-panel-ff478c5d2842?source=rss------bug_bounty_writeup-5)
 - [From Revoked Privileges to Resource Creation: A Privilege Persistence Vulnerability in a VDP…](https://medium.com/@montaser_mohsen/from-revoked-privileges-to-resource-creation-a-privilege-persistence-vulnerability-in-a-vdp-f1897413e294?source=rss------bug_bounty_writeup-5)
 - [How I Found My First Bug](https://arun1x.medium.com/how-i-found-my-first-bug-72e3eef75ac7?source=rss------bug_bounty_writeup-5)
 - [The Login That Didn’t Need a Password](https://medium.com/@guyani/the-login-that-didnt-need-a-password-d818c392406a?source=rss------bug_bounty_writeup-5)
@@ -8,8 +10,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [I Tested a Login Form and Accidentally Found Remote Code Execution](https://medium.com/@abdelrhmanelmoghazy1/i-tested-a-login-form-and-accidentally-found-remote-code-execution-069f861f59dc?source=rss------bug_bounty_writeup-5)
 - [How I Discovered a High-Severity IDOR on an E-Commerce Platform](https://medium.com/@kanishkdadhich123/how-i-discovered-a-high-severity-idor-on-an-e-commerce-platform-f13a316aa71c?source=rss------bug_bounty_writeup-5)
 - [API Hacking 101 — Where the Money Is in 2026](https://kd-200.medium.com/api-hacking-101-where-the-money-is-in-2026-eb03ef331c14?source=rss------bug_bounty_writeup-5)
-- [My First Bug Found Me &lpar;I Wasn’t Even Looking&rpar;](https://medium.com/@bughunting/my-first-bug-found-me-i-wasnt-even-looking-1d81633c9c46?source=rss------bug_bounty_writeup-5)
-- [API Fuzzing for Bug Bounty — Part 2b: Injection, Bypasses &amp; Output Exploitation](https://osintteam.blog/api-fuzzing-for-bug-bounty-part-2b-injection-bypasses-output-exploitation-facf1052e6d9?source=rss------bug_bounty_writeup-5)
 - [Breaking Down Two Simple Vulnerabilities That Exposed A School’s Admission Records](https://infosecwriteups.com/breaking-down-two-simple-vulnerabilities-that-exposed-a-schools-admission-records-040bd636a7f3?source=rss----7b722bfd1b8d---4)
 - [BITSCTF 2026 Writeups | OSINT And Steganography / Forensics Challenges](https://infosecwriteups.com/bitsctf-2026-writeups-osint-and-steganography-forensics-challenges-b91257ca0856?source=rss----7b722bfd1b8d---4)
 - [“Bug Bounty Bootcamp #48: OAuth + XSS ”](https://infosecwriteups.com/bug-bounty-bootcamp-48-oauth-xss-04246084a403?source=rss----7b722bfd1b8d---4)
