@@ -957,6 +957,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Client-Side Path Traversal &lpar;CSPT&rpar;: I Found It, Chained It, and Wiped an Entire Organization](https://mugh33ra.medium.com/client-side-path-traversal-cspt-i-found-it-chained-it-and-wiped-an-entire-organization-a793d3f3d8eb?source=rss------bug_bounty_writeup-5)
 - [I Spent 4 Hours Testing HubSpot’s AI Assistant for Prompt Injection — Here’s Everything I Found](https://medium.com/@sudoaccess/i-spent-4-hours-testing-hubspots-ai-assistant-for-prompt-injection-here-s-everything-i-found-3ac248aa717e?source=rss------bug_bounty_writeup-5)
 - [How one line of JavaScript let me walk into an admin panel](https://medium.com/@mrmorokali/how-one-line-of-javascript-let-me-walk-into-an-admin-panel-ff478c5d2842?source=rss------bug_bounty_writeup-5)
 - [From Revoked Privileges to Resource Creation: A Privilege Persistence Vulnerability in a VDP…](https://medium.com/@montaser_mohsen/from-revoked-privileges-to-resource-creation-a-privilege-persistence-vulnerability-in-a-vdp-f1897413e294?source=rss------bug_bounty_writeup-5)
@@ -965,7 +966,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [From a Simple Input Field to Stored XSS — A Realistic Bug Bounty Journey](https://medium.com/@ankitsingh787478/from-a-simple-input-field-to-stored-xss-a-realistic-bug-bounty-journey-a69e428e84ad?source=rss------bug_bounty_writeup-5)
 - [I Tested a Login Form and Accidentally Found Remote Code Execution](https://medium.com/@abdelrhmanelmoghazy1/i-tested-a-login-form-and-accidentally-found-remote-code-execution-069f861f59dc?source=rss------bug_bounty_writeup-5)
 - [How I Discovered a High-Severity IDOR on an E-Commerce Platform](https://medium.com/@kanishkdadhich123/how-i-discovered-a-high-severity-idor-on-an-e-commerce-platform-f13a316aa71c?source=rss------bug_bounty_writeup-5)
-- [API Hacking 101 — Where the Money Is in 2026](https://kd-200.medium.com/api-hacking-101-where-the-money-is-in-2026-eb03ef331c14?source=rss------bug_bounty_writeup-5)
 - [Breaking Down Two Simple Vulnerabilities That Exposed A School’s Admission Records](https://infosecwriteups.com/breaking-down-two-simple-vulnerabilities-that-exposed-a-schools-admission-records-040bd636a7f3?source=rss----7b722bfd1b8d---4)
 - [BITSCTF 2026 Writeups | OSINT And Steganography / Forensics Challenges](https://infosecwriteups.com/bitsctf-2026-writeups-osint-and-steganography-forensics-challenges-b91257ca0856?source=rss----7b722bfd1b8d---4)
 - [“Bug Bounty Bootcamp #48: OAuth + XSS ”](https://infosecwriteups.com/bug-bounty-bootcamp-48-oauth-xss-04246084a403?source=rss----7b722bfd1b8d---4)
