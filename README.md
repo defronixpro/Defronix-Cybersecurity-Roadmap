@@ -964,7 +964,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [My First Valid Bug Bounty Report: One JS Scan, One Hidden API Key - $200](https://medium.com/@suhas.gouli12/my-first-valid-bug-bounty-report-one-js-scan-one-hidden-api-key-200-0f3286fd7552?source=rss------bug_bounty_writeup-5)
+- [How I Found an Email Verification Bypass by Reusing a Verified Validation ID](https://medium.com/@yahiaemara11/how-i-found-an-email-verification-bypass-by-reusing-a-verified-validation-id-f97917d7bec4?source=rss------bug_bounty_writeup-5)
+- [My First Valid Bug Bounty Report: One JS Scan, One Hidden API Key - $200](https://medium.com/@Rudr03/my-first-valid-bug-bounty-report-one-js-scan-one-hidden-api-key-200-0f3286fd7552?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty, 2026: Same Game, New Way to Start](https://infosecwriteups.com/bug-bounty-2026-same-game-new-way-to-start-22359c08e1a0?source=rss------bug_bounty_writeup-5)
 - [Finding the Bug Was Easy… Proving the Impact Wasn’t](https://medium.com/@abdelrahman.maged.cg/finding-the-bug-was-easy-proving-the-impact-wasnt-ff03a73bc204?source=rss------bug_bounty_writeup-5)
 - [I Made the Database Confess Its Own Name](https://medium.com/@guyani/i-made-the-database-confess-its-own-name-e53bea17470b?source=rss------bug_bounty_writeup-5)
@@ -973,7 +974,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [I Spent 4 Hours Testing HubSpot’s AI Assistant for Prompt Injection — Here’s Everything I Found](https://medium.com/@sudoaccess/i-spent-4-hours-testing-hubspots-ai-assistant-for-prompt-injection-here-s-everything-i-found-3ac248aa717e?source=rss------bug_bounty_writeup-5)
 - [How one line of JavaScript let me walk into an admin panel](https://medium.com/@mrmorokali/how-one-line-of-javascript-let-me-walk-into-an-admin-panel-ff478c5d2842?source=rss------bug_bounty_writeup-5)
 - [From Revoked Privileges to Resource Creation: A Privilege Persistence Vulnerability in a VDP…](https://medium.com/@montaser_mohsen/from-revoked-privileges-to-resource-creation-a-privilege-persistence-vulnerability-in-a-vdp-f1897413e294?source=rss------bug_bounty_writeup-5)
-- [How I Found My First Bug](https://arun1x.medium.com/how-i-found-my-first-bug-72e3eef75ac7?source=rss------bug_bounty_writeup-5)
 - [Breaking Down Two Simple Vulnerabilities That Exposed A School’s Admission Records](https://infosecwriteups.com/breaking-down-two-simple-vulnerabilities-that-exposed-a-schools-admission-records-040bd636a7f3?source=rss----7b722bfd1b8d---4)
 - [BITSCTF 2026 Writeups | OSINT And Steganography / Forensics Challenges](https://infosecwriteups.com/bitsctf-2026-writeups-osint-and-steganography-forensics-challenges-b91257ca0856?source=rss----7b722bfd1b8d---4)
 - [“Bug Bounty Bootcamp #48: OAuth + XSS ”](https://infosecwriteups.com/bug-bounty-bootcamp-48-oauth-xss-04246084a403?source=rss----7b722bfd1b8d---4)
