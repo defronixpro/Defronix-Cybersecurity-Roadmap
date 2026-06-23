@@ -306,6 +306,13 @@ Optional, but If you aspire to become a proficient hacker with a deeper understa
 <summary>Basic Concepts of Bug Bounty</summary>
   <!-- BASICCONCEPTS:START --><table>
 <tr>
+<td><a href="https://www.youtube.com/watch?v=D4K51b2EH8U"><img width="140px" src="http://img.youtube.com/vi/D4K51b2EH8U/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=D4K51b2EH8U">MITRE Attack For SOC &amp; Cybersecurity in One Shot - Everything With Demo Under 1 Hour &lpar; Hindi &rpar;</a><br/>Jun 23, 2026</td>
+</tr>
+</table>
+
+<table>
+<tr>
 <td><a href="https://www.youtube.com/watch?v=NiGT63QUf1M"><img width="140px" src="http://img.youtube.com/vi/NiGT63QUf1M/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=NiGT63QUf1M">BGP Hijacking Explained - The Attack Used To Block &amp; Disrupt Telegram Traffic ? &lpar; Hindi &rpar;</a><br/>Jun 18, 2026</td>
 </tr>
