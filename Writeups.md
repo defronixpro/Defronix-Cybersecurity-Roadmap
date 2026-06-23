@@ -1,6 +1,8 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Bug Bounty, 2026: Same Game, New Way to Start](https://medium.com/@Aacle/bug-bounty-2026-same-game-new-way-to-start-22359c08e1a0?source=rss------bug_bounty_writeup-5)
+- [Finding the Bug Was Easy… Proving the Impact Wasn’t](https://medium.com/@abdelrahman.maged.cg/finding-the-bug-was-easy-proving-the-impact-wasnt-ff03a73bc204?source=rss------bug_bounty_writeup-5)
 - [I Made the Database Confess Its Own Name](https://medium.com/@guyani/i-made-the-database-confess-its-own-name-e53bea17470b?source=rss------bug_bounty_writeup-5)
 - [JWT Attacks — Breaking the Token](https://kd-200.medium.com/jwt-attacks-breaking-the-token-65558124b6c4?source=rss------bug_bounty_writeup-5)
 - [Client-Side Path Traversal &lpar;CSPT&rpar;: I Found It, Chained It, and Wiped an Entire Organization](https://mugh33ra.medium.com/client-side-path-traversal-cspt-i-found-it-chained-it-and-wiped-an-entire-organization-a793d3f3d8eb?source=rss------bug_bounty_writeup-5)
@@ -8,8 +10,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How one line of JavaScript let me walk into an admin panel](https://medium.com/@mrmorokali/how-one-line-of-javascript-let-me-walk-into-an-admin-panel-ff478c5d2842?source=rss------bug_bounty_writeup-5)
 - [From Revoked Privileges to Resource Creation: A Privilege Persistence Vulnerability in a VDP…](https://medium.com/@montaser_mohsen/from-revoked-privileges-to-resource-creation-a-privilege-persistence-vulnerability-in-a-vdp-f1897413e294?source=rss------bug_bounty_writeup-5)
 - [How I Found My First Bug](https://arun1x.medium.com/how-i-found-my-first-bug-72e3eef75ac7?source=rss------bug_bounty_writeup-5)
-- [The Login That Didn’t Need a Password](https://medium.com/@guyani/the-login-that-didnt-need-a-password-d818c392406a?source=rss------bug_bounty_writeup-5)
-- [From a Simple Input Field to Stored XSS — A Realistic Bug Bounty Journey](https://medium.com/@ankitsingh787478/from-a-simple-input-field-to-stored-xss-a-realistic-bug-bounty-journey-a69e428e84ad?source=rss------bug_bounty_writeup-5)
 - [Breaking Down Two Simple Vulnerabilities That Exposed A School’s Admission Records](https://infosecwriteups.com/breaking-down-two-simple-vulnerabilities-that-exposed-a-schools-admission-records-040bd636a7f3?source=rss----7b722bfd1b8d---4)
 - [BITSCTF 2026 Writeups | OSINT And Steganography / Forensics Challenges](https://infosecwriteups.com/bitsctf-2026-writeups-osint-and-steganography-forensics-challenges-b91257ca0856?source=rss----7b722bfd1b8d---4)
 - [“Bug Bounty Bootcamp #48: OAuth + XSS ”](https://infosecwriteups.com/bug-bounty-bootcamp-48-oauth-xss-04246084a403?source=rss----7b722bfd1b8d---4)
