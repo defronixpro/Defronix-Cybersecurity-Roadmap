@@ -4,7 +4,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [The Database That Couldn’t Keep a Secret](https://medium.com/@guyani/the-database-that-couldnt-keep-a-secret-0e99202ab81b?source=rss------bug_bounty_writeup-5)
 - [How I Found an Email Verification Bypass by Reusing a Verified Validation ID](https://medium.com/@yahiaemara11/how-i-found-an-email-verification-bypass-by-reusing-a-verified-validation-id-f97917d7bec4?source=rss------bug_bounty_writeup-5)
 - [My First Valid Bug Bounty Report: One JS Scan, One Hidden API Key - $200](https://medium.com/@Rudr03/my-first-valid-bug-bounty-report-one-js-scan-one-hidden-api-key-200-0f3286fd7552?source=rss------bug_bounty_writeup-5)
-- [Bug Bounty, 2026: Same Game, New Way to Start](https://infosecwriteups.com/bug-bounty-2026-same-game-new-way-to-start-22359c08e1a0?source=rss------bug_bounty_writeup-5)
+- [Don’t Start Bug Bounty Hunting Until You See This](https://infosecwriteups.com/bug-bounty-2026-same-game-new-way-to-start-22359c08e1a0?source=rss------bug_bounty_writeup-5)
 - [Finding the Bug Was Easy… Proving the Impact Wasn’t](https://medium.com/@abdelrahman.maged.cg/finding-the-bug-was-easy-proving-the-impact-wasnt-ff03a73bc204?source=rss------bug_bounty_writeup-5)
 - [I Made the Database Confess Its Own Name](https://medium.com/@guyani/i-made-the-database-confess-its-own-name-e53bea17470b?source=rss------bug_bounty_writeup-5)
 - [JWT Attacks — Breaking the Token](https://kd-200.medium.com/jwt-attacks-breaking-the-token-65558124b6c4?source=rss------bug_bounty_writeup-5)
