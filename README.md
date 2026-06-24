@@ -964,6 +964,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [I Asked PostgreSQL a Question It Wasn’t Supposed to Answer](https://medium.com/@guyani/i-asked-postgresql-a-question-it-wasnt-supposed-to-answer-2c0a8dff5c08?source=rss------bug_bounty_writeup-5)
 - [RECON Part 1: Finding Subdomains — How a Hardcoded Password Got Me $300](https://medium.com/@syedfaiz7/recon-part-1-finding-subdomains-how-a-hardcoded-password-got-me-300-4055f044186e?source=rss------bug_bounty_writeup-5)
 - [I Wasted 3 Days Intercepting a Flutter App. Here’s What Actually Works.](https://infosecwriteups.com/i-wasted-3-days-intercepting-a-flutter-app-heres-what-actually-works-d3e9a4816818?source=rss----7b722bfd1b8d---4)
 - [TryHackMe — Mr. Robot CTF | Full Write-Up](https://infosecwriteups.com/tryhackme-mr-robot-ctf-full-write-up-f28d83777dde?source=rss----7b722bfd1b8d---4)
@@ -975,7 +976,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [I Made the Database Confess Its Own Name](https://medium.com/@guyani/i-made-the-database-confess-its-own-name-e53bea17470b?source=rss------bug_bounty_writeup-5)
 - [JWT Attacks — Breaking the Token](https://kd-200.medium.com/jwt-attacks-breaking-the-token-65558124b6c4?source=rss------bug_bounty_writeup-5)
 - [Client-Side Path Traversal &lpar;CSPT&rpar;: I Found It, Chained It, and Wiped an Entire Organization](https://mugh33ra.medium.com/client-side-path-traversal-cspt-i-found-it-chained-it-and-wiped-an-entire-organization-a793d3f3d8eb?source=rss------bug_bounty_writeup-5)
-- [I Spent 4 Hours Testing HubSpot’s AI Assistant for Prompt Injection — Here’s Everything I Found](https://medium.com/@sudoaccess/i-spent-4-hours-testing-hubspots-ai-assistant-for-prompt-injection-here-s-everything-i-found-3ac248aa717e?source=rss------bug_bounty_writeup-5)
 - [Breaking Down Two Simple Vulnerabilities That Exposed A School’s Admission Records](https://infosecwriteups.com/breaking-down-two-simple-vulnerabilities-that-exposed-a-schools-admission-records-040bd636a7f3?source=rss----7b722bfd1b8d---4)
 - [BITSCTF 2026 Writeups | OSINT And Steganography / Forensics Challenges](https://infosecwriteups.com/bitsctf-2026-writeups-osint-and-steganography-forensics-challenges-b91257ca0856?source=rss----7b722bfd1b8d---4)
 - [“Bug Bounty Bootcamp #48: OAuth + XSS ”](https://infosecwriteups.com/bug-bounty-bootcamp-48-oauth-xss-04246084a403?source=rss----7b722bfd1b8d---4)
