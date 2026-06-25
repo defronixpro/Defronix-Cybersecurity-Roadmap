@@ -964,6 +964,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How an Unsigned JWT Parameter Led to a $10,500 Full Account Takeover](https://medium.com/@21bec131/how-an-unsigned-jwt-parameter-led-to-a-10-500-full-account-takeover-2774dba64cc8?source=rss------bug_bounty_writeup-5)
+- [I Found a CORS Misconfiguration on a Banking API. The Browser Was Just Watching.](https://medium.com/@shuklaprateek130/i-found-a-cors-misconfiguration-on-a-banking-api-the-browser-was-just-watching-a6e945677de8?source=rss------bug_bounty_writeup-5)
 - [One Email, Multiple Accounts: Account Duplication](https://scriptjacker.medium.com/one-email-multiple-accounts-account-duplication-4c18d69597bc?source=rss------bug_bounty_writeup-5)
 - [I Asked PostgreSQL a Question It Wasn’t Supposed to Answer](https://medium.com/@guyani/i-asked-postgresql-a-question-it-wasnt-supposed-to-answer-2c0a8dff5c08?source=rss------bug_bounty_writeup-5)
 - [RECON Part 1: Finding Subdomains — How a Hardcoded Password Got Me $300](https://medium.com/@syedfaiz7/recon-part-1-finding-subdomains-how-a-hardcoded-password-got-me-300-4055f044186e?source=rss------bug_bounty_writeup-5)
@@ -974,8 +976,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [My First Valid Bug Bounty Report: One JS Scan, One Hidden API Key - $200](https://medium.com/@Rudr03/my-first-valid-bug-bounty-report-one-js-scan-one-hidden-api-key-200-0f3286fd7552?source=rss------bug_bounty_writeup-5)
 - [Don’t Start Bug Bounty Hunting Until You See This](https://infosecwriteups.com/bug-bounty-2026-same-game-new-way-to-start-22359c08e1a0?source=rss------bug_bounty_writeup-5)
 - [Finding the Bug Was Easy… Proving the Impact Wasn’t](https://medium.com/@abdelrahman.maged.cg/finding-the-bug-was-easy-proving-the-impact-wasnt-ff03a73bc204?source=rss------bug_bounty_writeup-5)
-- [I Made the Database Confess Its Own Name](https://medium.com/@guyani/i-made-the-database-confess-its-own-name-e53bea17470b?source=rss------bug_bounty_writeup-5)
-- [JWT Attacks — Breaking the Token](https://kd-200.medium.com/jwt-attacks-breaking-the-token-65558124b6c4?source=rss------bug_bounty_writeup-5)
 - [Breaking Down Two Simple Vulnerabilities That Exposed A School’s Admission Records](https://infosecwriteups.com/breaking-down-two-simple-vulnerabilities-that-exposed-a-schools-admission-records-040bd636a7f3?source=rss----7b722bfd1b8d---4)
 - [BITSCTF 2026 Writeups | OSINT And Steganography / Forensics Challenges](https://infosecwriteups.com/bitsctf-2026-writeups-osint-and-steganography-forensics-challenges-b91257ca0856?source=rss----7b722bfd1b8d---4)
 - [“Bug Bounty Bootcamp #48: OAuth + XSS ”](https://infosecwriteups.com/bug-bounty-bootcamp-48-oauth-xss-04246084a403?source=rss----7b722bfd1b8d---4)
