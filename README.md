@@ -964,6 +964,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I Locked a User Out of Their Own Account — My First Bug Bounty Finding](https://medium.com/@lazycracker123/how-i-locked-a-user-out-of-their-own-account-my-first-bug-bounty-finding-0c8fd3176845?source=rss------bug_bounty_writeup-5)
+- [Overly Permissive Azure SAS Token](https://meetcyber.net/overly-permissive-azure-sas-token-da1a15fe8714?source=rss------bug_bounty_writeup-5)
 - [“I Won’t Let Your Future Customers Register” — Hunting an Email Verification Bug Through Recon](https://medium.com/@Muhammad_Murtaza/i-wont-let-your-future-customers-register-hunting-an-email-verification-bug-through-recon-99c772c5ed84?source=rss------bug_bounty_writeup-5)
 - [How an Unsigned JWT Parameter Led to a $10,500 Full Account Takeover](https://medium.com/@21bec131/how-an-unsigned-jwt-parameter-led-to-a-10-500-full-account-takeover-2774dba64cc8?source=rss------bug_bounty_writeup-5)
 - [I Found a CORS Misconfiguration on a Banking API. The Browser Was Just Watching.](https://medium.com/@shuklaprateek130/i-found-a-cors-misconfiguration-on-a-banking-api-the-browser-was-just-watching-a6e945677de8?source=rss------bug_bounty_writeup-5)
@@ -974,8 +976,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [TryHackMe — Mr. Robot CTF | Full Write-Up](https://infosecwriteups.com/tryhackme-mr-robot-ctf-full-write-up-f28d83777dde?source=rss----7b722bfd1b8d---4)
 - [The Database That Couldn’t Keep a Secret](https://medium.com/@guyani/the-database-that-couldnt-keep-a-secret-0e99202ab81b?source=rss------bug_bounty_writeup-5)
 - [How I Found an Email Verification Bypass by Reusing a Verified Validation ID](https://medium.com/@yahiaemara11/how-i-found-an-email-verification-bypass-by-reusing-a-verified-validation-id-f97917d7bec4?source=rss------bug_bounty_writeup-5)
-- [My First Valid Bug Bounty Report: One JS Scan, One Hidden API Key - $200](https://medium.com/@Rudr03/my-first-valid-bug-bounty-report-one-js-scan-one-hidden-api-key-200-0f3286fd7552?source=rss------bug_bounty_writeup-5)
-- [Don’t Start Bug Bounty Hunting Until You See This](https://infosecwriteups.com/bug-bounty-2026-same-game-new-way-to-start-22359c08e1a0?source=rss------bug_bounty_writeup-5)
 - [Breaking Down Two Simple Vulnerabilities That Exposed A School’s Admission Records](https://infosecwriteups.com/breaking-down-two-simple-vulnerabilities-that-exposed-a-schools-admission-records-040bd636a7f3?source=rss----7b722bfd1b8d---4)
 - [BITSCTF 2026 Writeups | OSINT And Steganography / Forensics Challenges](https://infosecwriteups.com/bitsctf-2026-writeups-osint-and-steganography-forensics-challenges-b91257ca0856?source=rss----7b722bfd1b8d---4)
 - [“Bug Bounty Bootcamp #48: OAuth + XSS ”](https://infosecwriteups.com/bug-bounty-bootcamp-48-oauth-xss-04246084a403?source=rss----7b722bfd1b8d---4)
