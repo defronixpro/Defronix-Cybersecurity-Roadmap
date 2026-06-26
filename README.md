@@ -965,7 +965,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
 - [How I Locked a User Out of Their Own Account — My First Bug Bounty Finding](https://medium.com/@lazycracker123/how-i-locked-a-user-out-of-their-own-account-my-first-bug-bounty-finding-0c8fd3176845?source=rss------bug_bounty_writeup-5)
-- [Overly Permissive Azure SAS Token](https://meetcyber.net/overly-permissive-azure-sas-token-da1a15fe8714?source=rss------bug_bounty_writeup-5)
+- [The Azure Overly Permissive SAS Token That Exposed Thousands of Sensitive Files](https://meetcyber.net/overly-permissive-azure-sas-token-da1a15fe8714?source=rss------bug_bounty_writeup-5)
 - [“I Won’t Let Your Future Customers Register” — Hunting an Email Verification Bug Through Recon](https://medium.com/@Muhammad_Murtaza/i-wont-let-your-future-customers-register-hunting-an-email-verification-bug-through-recon-99c772c5ed84?source=rss------bug_bounty_writeup-5)
 - [How an Unsigned JWT Parameter Led to a $10,500 Full Account Takeover](https://medium.com/@21bec131/how-an-unsigned-jwt-parameter-led-to-a-10-500-full-account-takeover-2774dba64cc8?source=rss------bug_bounty_writeup-5)
 - [I Found a CORS Misconfiguration on a Banking API. The Browser Was Just Watching.](https://medium.com/@shuklaprateek130/i-found-a-cors-misconfiguration-on-a-banking-api-the-browser-was-just-watching-a6e945677de8?source=rss------bug_bounty_writeup-5)
