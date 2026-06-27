@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [When Missing Rate Limiting Leads to a Critical Authentication Finding: A Real-World Case Study](https://idkwhoiamx999.medium.com/when-missing-rate-limiting-leads-to-a-critical-authentication-finding-a-real-world-case-study-ec51f2efc229?source=rss------bug_bounty_writeup-5)
 - [Blueprint | THM](https://medium.com/@santoshmandal7257/blueprint-thm-df0444bc5e89?source=rss------bug_bounty_writeup-5)
 - [Overwatch || HTB Machine | Lab](https://medium.com/@santoshmandal7257/overwatch-htb-machine-lab-8ababdd344df?source=rss------bug_bounty_writeup-5)
 - [How I Earned a €2,000 Bounty by Reading a Single JavaScript File](https://medium.com/@deneuv1/how-i-earned-a-2-000-bounty-by-reading-a-single-javascript-file-af2665634295?source=rss------bug_bounty_writeup-5)
@@ -10,7 +11,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How an Unsigned JWT Parameter Led to a $10,500 Full Account Takeover](https://medium.com/@21bec131/how-an-unsigned-jwt-parameter-led-to-a-10-500-full-account-takeover-2774dba64cc8?source=rss------bug_bounty_writeup-5)
 - [I Found a CORS Misconfiguration on a Banking API. The Browser Was Just Watching.](https://medium.com/@shuklaprateek130/i-found-a-cors-misconfiguration-on-a-banking-api-the-browser-was-just-watching-a6e945677de8?source=rss------bug_bounty_writeup-5)
 - [One Email, Multiple Accounts: Account Duplication](https://scriptjacker.medium.com/one-email-multiple-accounts-account-duplication-4c18d69597bc?source=rss------bug_bounty_writeup-5)
-- [I Asked PostgreSQL a Question It Wasn’t Supposed to Answer](https://medium.com/@guyani/i-asked-postgresql-a-question-it-wasnt-supposed-to-answer-2c0a8dff5c08?source=rss------bug_bounty_writeup-5)
 - [I Wasted 3 Days Intercepting a Flutter App. Here’s What Actually Works.](https://infosecwriteups.com/i-wasted-3-days-intercepting-a-flutter-app-heres-what-actually-works-d3e9a4816818?source=rss----7b722bfd1b8d---4)
 - [TryHackMe — Mr. Robot CTF | Full Write-Up](https://infosecwriteups.com/tryhackme-mr-robot-ctf-full-write-up-f28d83777dde?source=rss----7b722bfd1b8d---4)
 - [Breaking Down Two Simple Vulnerabilities That Exposed A School’s Admission Records](https://infosecwriteups.com/breaking-down-two-simple-vulnerabilities-that-exposed-a-schools-admission-records-040bd636a7f3?source=rss----7b722bfd1b8d---4)
