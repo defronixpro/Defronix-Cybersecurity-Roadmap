@@ -964,6 +964,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [# Stored Credential Theft via Malicious Shared Connector Leading to Administrator Account…](https://medium.com/@B14ck/stored-credential-theft-via-malicious-shared-connector-leading-to-administrator-account-e7903fb8af3d?source=rss------bug_bounty_writeup-5)
 - [How a Single Google Dork Exposed 17 WordPress Users — and What We Can Learn](https://medium.com/@0xanubiis/how-a-single-google-dork-exposed-17-wordpress-users-and-what-we-can-learn-03d60821a952?source=rss------bug_bounty_writeup-5)
 - [When Missing Rate Limiting Leads to a Critical Authentication Finding: A Real-World Case Study](https://idkwhoiamx999.medium.com/when-missing-rate-limiting-leads-to-a-critical-authentication-finding-a-real-world-case-study-ec51f2efc229?source=rss------bug_bounty_writeup-5)
 - [Blueprint | THM](https://medium.com/@santoshmandal7257/blueprint-thm-df0444bc5e89?source=rss------bug_bounty_writeup-5)
@@ -973,7 +974,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [The Azure Overly Permissive SAS Token That Exposed Thousands of Sensitive Files](https://meetcyber.net/overly-permissive-azure-sas-token-da1a15fe8714?source=rss------bug_bounty_writeup-5)
 - [“I Won’t Let Your Future Customers Register” — Hunting an Email Verification Bug Through Recon](https://medium.com/@Muhammad_Murtaza/i-wont-let-your-future-customers-register-hunting-an-email-verification-bug-through-recon-99c772c5ed84?source=rss------bug_bounty_writeup-5)
 - [How an Unsigned JWT Parameter Led to a $10,500 Full Account Takeover](https://medium.com/@21bec131/how-an-unsigned-jwt-parameter-led-to-a-10-500-full-account-takeover-2774dba64cc8?source=rss------bug_bounty_writeup-5)
-- [I Found a CORS Misconfiguration on a Banking API. The Browser Was Just Watching.](https://medium.com/@shuklaprateek130/i-found-a-cors-misconfiguration-on-a-banking-api-the-browser-was-just-watching-a6e945677de8?source=rss------bug_bounty_writeup-5)
 - [I Wasted 3 Days Intercepting a Flutter App. Here’s What Actually Works.](https://infosecwriteups.com/i-wasted-3-days-intercepting-a-flutter-app-heres-what-actually-works-d3e9a4816818?source=rss----7b722bfd1b8d---4)
 - [TryHackMe — Mr. Robot CTF | Full Write-Up](https://infosecwriteups.com/tryhackme-mr-robot-ctf-full-write-up-f28d83777dde?source=rss----7b722bfd1b8d---4)
 - [Breaking Down Two Simple Vulnerabilities That Exposed A School’s Admission Records](https://infosecwriteups.com/breaking-down-two-simple-vulnerabilities-that-exposed-a-schools-admission-records-040bd636a7f3?source=rss----7b722bfd1b8d---4)
@@ -988,7 +988,17 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
 - [How to backup and restore the Windows Registry](https://www.bleepingcomputer.com/tutorials/how-to-backup-and-restore-the-windows-registry/)
+- [How To Fix Error: Externally-Managed-Environment In Python &lpar;Kali Linux&rpar;](https://technicalnavigator.in/how-to-fix-error-externally-managed-environment-in-python-kali-linux/)
+- [Understanding Systemctl Command in Linux &lpar;Practical&rpar;](https://technicalnavigator.in/understanding-systemctl-command-in-linux-practical/)
+- [Macros in docm &amp; Linux memory dump| Hack The Boo  Challanges](https://technicalnavigator.in/macros-in-docm-linux-memory-dump-hack-the-boo-challanges/)
+- [Android Apps debugging |  Frida, JADX, Genymotion](https://technicalnavigator.in/android-apps-debugging-frida-jadx-genymotion/)
+- [MouseServer | wifimouse – Windows/ Linux](https://technicalnavigator.in/mouseserver-wifimouse-windows-linux/)
+- [FFUF fuzzer | web-application penetration-testing](https://technicalnavigator.in/ffuf-fuzzer-web-application-penetration-testing/)
 - [How to open a Windows 11 Command Prompt as Administrator](https://www.bleepingcomputer.com/tutorials/how-to-open-a-windows-11-command-prompt-as-administrator/)
+- [Classes-Objects &amp; Deserialization bug](https://technicalnavigator.in/classes-objects-deserialization-bug/)
+- [Loki Tool | Multhreading Over Sockets in C](https://technicalnavigator.in/loki-tool-multhreading-over-sockets-in-c/)
+- [Egghunter | NASM | C prototype](https://technicalnavigator.in/egghunter-nasm-c-prototype/)
+- [TELNET &amp; FTP Analysis](https://technicalnavigator.in/telnet-ftp-analysis/)
 - [How to make the Start menu full screen in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-make-the-start-menu-full-screen-in-windows-10/)
 - [How to install the Microsoft Visual C++ 2015 Runtime](https://www.bleepingcomputer.com/tutorials/how-to-install-the-microsoft-visual-c-2015-runtime/)
 - [How to open an elevated PowerShell Admin prompt in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-open-an-elevated-powershell-admin-prompt-in-windows-10/)
