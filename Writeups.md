@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [السلام عليكم](https://medium.com/@minasmith40/%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85-%D8%B9%D9%84%D9%8A%D9%83%D9%85-79c3efc07bba?source=rss------bug_bounty_writeup-5)
 - [Breaking the Same XSS Twice: Stored XSS in a Welcome Banner — Before and After the Fix](https://medium.com/@hossam13/breaking-the-same-xss-twice-stored-xss-in-a-welcome-banner-before-and-after-the-fix-d9957707f4c7?source=rss------bug_bounty_writeup-5)
 - [How a Flawed CORS Policy on an API Gateway Led to a $13,000 Private Token Leak](https://medium.com/@21bec131/how-a-flawed-cors-policy-on-an-api-gateway-led-to-a-13-000-private-token-leak-39d3ef5700c5?source=rss------bug_bounty_writeup-5)
 - [# Stored Credential Theft via Malicious Shared Connector Leading to Administrator Account…](https://medium.com/@B14ck/stored-credential-theft-via-malicious-shared-connector-leading-to-administrator-account-e7903fb8af3d?source=rss------bug_bounty_writeup-5)
@@ -10,7 +11,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Overwatch || HTB Machine | Lab](https://medium.com/@santoshmandal7257/overwatch-htb-machine-lab-8ababdd344df?source=rss------bug_bounty_writeup-5)
 - [How I Earned a €2,000 Bounty by Reading a Single JavaScript File](https://medium.com/@deneuv1/how-i-earned-a-2-000-bounty-by-reading-a-single-javascript-file-af2665634295?source=rss------bug_bounty_writeup-5)
 - [How I Locked a User Out of Their Own Account — My First Bug Bounty Finding](https://medium.com/@lazycracker123/how-i-locked-a-user-out-of-their-own-account-my-first-bug-bounty-finding-0c8fd3176845?source=rss------bug_bounty_writeup-5)
-- [The Azure Overly Permissive SAS Token That Exposed Thousands of Sensitive Files](https://meetcyber.net/overly-permissive-azure-sas-token-da1a15fe8714?source=rss------bug_bounty_writeup-5)
 - [I Wasted 3 Days Intercepting a Flutter App. Here’s What Actually Works.](https://infosecwriteups.com/i-wasted-3-days-intercepting-a-flutter-app-heres-what-actually-works-d3e9a4816818?source=rss----7b722bfd1b8d---4)
 - [TryHackMe — Mr. Robot CTF | Full Write-Up](https://infosecwriteups.com/tryhackme-mr-robot-ctf-full-write-up-f28d83777dde?source=rss----7b722bfd1b8d---4)
 - [Breaking Down Two Simple Vulnerabilities That Exposed A School’s Admission Records](https://infosecwriteups.com/breaking-down-two-simple-vulnerabilities-that-exposed-a-schools-admission-records-040bd636a7f3?source=rss----7b722bfd1b8d---4)
@@ -21,14 +21,4 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [CRTA Exam Writeup — Passed | CyberWarFare Labs](https://infosecwriteups.com/crta-exam-writeup-passed-cyberwarfare-lab-d55e776c82e7?source=rss----7b722bfd1b8d---4)
 - [Web-RTA Exam Writeup — Passed | CyberWarFare Labs](https://infosecwriteups.com/web-rta-exam-writeup-passed-cyberwarfare-labs-20c6bd74e675?source=rss----7b722bfd1b8d---4)
 - [VulnHub — sunset: dawn | Full Walkthrough](https://infosecwriteups.com/vulnhub-sunset-dawn-full-walkthrough-db12d38d2e3b?source=rss----7b722bfd1b8d---4)
-- [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
-- [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
-- [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
-- [How to backup and restore the Windows Registry](https://www.bleepingcomputer.com/tutorials/how-to-backup-and-restore-the-windows-registry/)
-- [How to open a Windows 11 Command Prompt as Administrator](https://www.bleepingcomputer.com/tutorials/how-to-open-a-windows-11-command-prompt-as-administrator/)
-- [How to make the Start menu full screen in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-make-the-start-menu-full-screen-in-windows-10/)
-- [How to install the Microsoft Visual C++ 2015 Runtime](https://www.bleepingcomputer.com/tutorials/how-to-install-the-microsoft-visual-c-2015-runtime/)
-- [How to open an elevated PowerShell Admin prompt in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-open-an-elevated-powershell-admin-prompt-in-windows-10/)
-- [How to Translate a Web Page in Google Chrome](https://www.bleepingcomputer.com/tutorials/how-to-translate-a-web-page-in-google-chrome/)
-- [How to Install and Uninstall Google Chrome in Windows](https://www.bleepingcomputer.com/tutorials/how-to-install-and-uninstall-google-chrome-in-windows/)
 <!-- WRITEUPS:END -->
