@@ -964,6 +964,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Bypassing Enterprise SSO via a Forgotten Source Map: A Bug Bounty Story](https://medium.com/@priyanshbhadoria5/bypassing-enterprise-sso-via-a-forgotten-source-map-a-bug-bounty-story-a43ab0973146?source=rss------bug_bounty_writeup-5)
 - [Hacking With Google](https://infosecwriteups.com/hacking-with-google-26b8e134ee22?source=rss----7b722bfd1b8d---4)
 - [The OSCP Is a Mental Game](https://infosecwriteups.com/the-oscp-is-a-mental-game-d6583fc6b20b?source=rss----7b722bfd1b8d---4)
 - [Beating LinkedIn’s Mini Sudoku in 3 Seconds: A Parameter Tampering Case Study](https://infosecwriteups.com/beating-linkedins-mini-sudoku-in-3-seconds-a-parameter-tampering-case-study-9261b57873a8?source=rss----7b722bfd1b8d---4)
@@ -976,8 +977,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [# Stored Credential Theft via Malicious Shared Connector Leading to Administrator Account…](https://medium.com/@B14ck/stored-credential-theft-via-malicious-shared-connector-leading-to-administrator-account-e7903fb8af3d?source=rss------bug_bounty_writeup-5)
 - [How a Single Google Dork Exposed 17 WordPress Users — and What We Can Learn](https://medium.com/@0xanubiis/how-a-single-google-dork-exposed-17-wordpress-users-and-what-we-can-learn-03d60821a952?source=rss------bug_bounty_writeup-5)
 - [When Missing Rate Limiting Leads to a Critical Authentication Finding: A Real-World Case Study](https://idkwhoiamx999.medium.com/when-missing-rate-limiting-leads-to-a-critical-authentication-finding-a-real-world-case-study-ec51f2efc229?source=rss------bug_bounty_writeup-5)
-- [Blueprint | THM](https://medium.com/@santoshmandal7257/blueprint-thm-df0444bc5e89?source=rss------bug_bounty_writeup-5)
-- [Overwatch || HTB Machine | Lab](https://medium.com/@santoshmandal7257/overwatch-htb-machine-lab-8ababdd344df?source=rss------bug_bounty_writeup-5)
 - [I Wasted 3 Days Intercepting a Flutter App. Here’s What Actually Works.](https://infosecwriteups.com/i-wasted-3-days-intercepting-a-flutter-app-heres-what-actually-works-d3e9a4816818?source=rss----7b722bfd1b8d---4)
 - [TryHackMe — Mr. Robot CTF | Full Write-Up](https://infosecwriteups.com/tryhackme-mr-robot-ctf-full-write-up-f28d83777dde?source=rss----7b722bfd1b8d---4)
 - [Breaking Down Two Simple Vulnerabilities That Exposed A School’s Admission Records](https://infosecwriteups.com/breaking-down-two-simple-vulnerabilities-that-exposed-a-schools-admission-records-040bd636a7f3?source=rss----7b722bfd1b8d---4)
