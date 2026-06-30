@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How an Unchecked Server-Side Parameter Injection Earned a $6,500 High-Severity Payout](https://medium.com/@21bec131/how-an-unchecked-server-side-parameter-injection-earned-a-6-500-high-severity-payout-10abec521232?source=rss------bug_bounty_writeup-5)
 - [Intigriti June Bonus Challenge 2026 — Leaky Jar Write-up](https://medium.com/@Ryuk0x01/intigriti-june-bonus-challenge-2026-leaky-jar-write-up-8412310c7269?source=rss------bug_bounty_writeup-5)
 - [Bypassing Enterprise SSO via a Forgotten Source Map: A Bug Bounty Story](https://medium.com/@priyanshbhadoria5/bypassing-enterprise-sso-via-a-forgotten-source-map-a-bug-bounty-story-a43ab0973146?source=rss------bug_bounty_writeup-5)
 - [Hacking With Google](https://infosecwriteups.com/hacking-with-google-26b8e134ee22?source=rss----7b722bfd1b8d---4)
@@ -14,7 +15,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How a Flawed CORS Policy on an API Gateway Led to a $13,000 Private Token Leak](https://medium.com/@21bec131/how-a-flawed-cors-policy-on-an-api-gateway-led-to-a-13-000-private-token-leak-39d3ef5700c5?source=rss------bug_bounty_writeup-5)
 - [# Stored Credential Theft via Malicious Shared Connector Leading to Administrator Account…](https://medium.com/@B14ck/stored-credential-theft-via-malicious-shared-connector-leading-to-administrator-account-e7903fb8af3d?source=rss------bug_bounty_writeup-5)
 - [How a Single Google Dork Exposed 17 WordPress Users — and What We Can Learn](https://medium.com/@0xanubiis/how-a-single-google-dork-exposed-17-wordpress-users-and-what-we-can-learn-03d60821a952?source=rss------bug_bounty_writeup-5)
-- [When Missing Rate Limiting Leads to a Critical Authentication Finding: A Real-World Case Study](https://idkwhoiamx999.medium.com/when-missing-rate-limiting-leads-to-a-critical-authentication-finding-a-real-world-case-study-ec51f2efc229?source=rss------bug_bounty_writeup-5)
 - [I Wasted 3 Days Intercepting a Flutter App. Here’s What Actually Works.](https://infosecwriteups.com/i-wasted-3-days-intercepting-a-flutter-app-heres-what-actually-works-d3e9a4816818?source=rss----7b722bfd1b8d---4)
 - [TryHackMe — Mr. Robot CTF | Full Write-Up](https://infosecwriteups.com/tryhackme-mr-robot-ctf-full-write-up-f28d83777dde?source=rss----7b722bfd1b8d---4)
 - [Breaking Down Two Simple Vulnerabilities That Exposed A School’s Admission Records](https://infosecwriteups.com/breaking-down-two-simple-vulnerabilities-that-exposed-a-schools-admission-records-040bd636a7f3?source=rss----7b722bfd1b8d---4)
@@ -25,17 +25,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
 - [How to backup and restore the Windows Registry](https://www.bleepingcomputer.com/tutorials/how-to-backup-and-restore-the-windows-registry/)
-- [How To Fix Error: Externally-Managed-Environment In Python &lpar;Kali Linux&rpar;](https://technicalnavigator.in/how-to-fix-error-externally-managed-environment-in-python-kali-linux/)
-- [Understanding Systemctl Command in Linux &lpar;Practical&rpar;](https://technicalnavigator.in/understanding-systemctl-command-in-linux-practical/)
-- [Macros in docm &amp; Linux memory dump| Hack The Boo  Challanges](https://technicalnavigator.in/macros-in-docm-linux-memory-dump-hack-the-boo-challanges/)
-- [Android Apps debugging |  Frida, JADX, Genymotion](https://technicalnavigator.in/android-apps-debugging-frida-jadx-genymotion/)
-- [MouseServer | wifimouse – Windows/ Linux](https://technicalnavigator.in/mouseserver-wifimouse-windows-linux/)
-- [FFUF fuzzer | web-application penetration-testing](https://technicalnavigator.in/ffuf-fuzzer-web-application-penetration-testing/)
 - [How to open a Windows 11 Command Prompt as Administrator](https://www.bleepingcomputer.com/tutorials/how-to-open-a-windows-11-command-prompt-as-administrator/)
-- [Classes-Objects &amp; Deserialization bug](https://technicalnavigator.in/classes-objects-deserialization-bug/)
-- [Loki Tool | Multhreading Over Sockets in C](https://technicalnavigator.in/loki-tool-multhreading-over-sockets-in-c/)
-- [Egghunter | NASM | C prototype](https://technicalnavigator.in/egghunter-nasm-c-prototype/)
-- [TELNET &amp; FTP Analysis](https://technicalnavigator.in/telnet-ftp-analysis/)
 - [How to make the Start menu full screen in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-make-the-start-menu-full-screen-in-windows-10/)
 - [How to install the Microsoft Visual C++ 2015 Runtime](https://www.bleepingcomputer.com/tutorials/how-to-install-the-microsoft-visual-c-2015-runtime/)
 - [How to open an elevated PowerShell Admin prompt in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-open-an-elevated-powershell-admin-prompt-in-windows-10/)
