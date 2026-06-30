@@ -964,6 +964,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Intigriti June Bonus Challenge 2026 — Leaky Jar Write-up](https://medium.com/@Ryuk0x01/intigriti-june-bonus-challenge-2026-leaky-jar-write-up-8412310c7269?source=rss------bug_bounty_writeup-5)
 - [Bypassing Enterprise SSO via a Forgotten Source Map: A Bug Bounty Story](https://medium.com/@priyanshbhadoria5/bypassing-enterprise-sso-via-a-forgotten-source-map-a-bug-bounty-story-a43ab0973146?source=rss------bug_bounty_writeup-5)
 - [Hacking With Google](https://infosecwriteups.com/hacking-with-google-26b8e134ee22?source=rss----7b722bfd1b8d---4)
 - [The OSCP Is a Mental Game](https://infosecwriteups.com/the-oscp-is-a-mental-game-d6583fc6b20b?source=rss----7b722bfd1b8d---4)
