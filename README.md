@@ -964,6 +964,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I Discovered a Business Logic Vulnerability That Bypassed a Paid Subscription](https://medium.com/@montaser_mohsen/how-i-discovered-a-business-logic-vulnerability-that-bypassed-a-paid-subscription-50fb366f63bb?source=rss------bug_bounty_writeup-5)
+- [The Real Reasons Bug Bounty Reports Get Rejected](https://medium.com/@uday637/the-real-reasons-bug-bounty-reports-get-rejected-8de6d4572b2e?source=rss------bug_bounty_writeup-5)
 - [How an Unchecked Server-Side Parameter Injection Earned a $6,500 High-Severity Payout](https://medium.com/@21bec131/how-an-unchecked-server-side-parameter-injection-earned-a-6-500-high-severity-payout-10abec521232?source=rss------bug_bounty_writeup-5)
 - [Intigriti June Bonus Challenge 2026 — Leaky Jar Write-up](https://medium.com/@Ryuk0x01/intigriti-june-bonus-challenge-2026-leaky-jar-write-up-8412310c7269?source=rss------bug_bounty_writeup-5)
 - [Bypassing Enterprise SSO via a Forgotten Source Map: A Bug Bounty Story](https://medium.com/@priyanshbhadoria5/bypassing-enterprise-sso-via-a-forgotten-source-map-a-bug-bounty-story-a43ab0973146?source=rss------bug_bounty_writeup-5)
@@ -976,8 +978,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [السلام عليكم](https://medium.com/@minasmith40/%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85-%D8%B9%D9%84%D9%8A%D9%83%D9%85-79c3efc07bba?source=rss------bug_bounty_writeup-5)
 - [Breaking the Same XSS Twice: Stored XSS in a Welcome Banner — Before and After the Fix](https://medium.com/@hossam13/breaking-the-same-xss-twice-stored-xss-in-a-welcome-banner-before-and-after-the-fix-d9957707f4c7?source=rss------bug_bounty_writeup-5)
 - [How a Flawed CORS Policy on an API Gateway Led to a $13,000 Private Token Leak](https://medium.com/@21bec131/how-a-flawed-cors-policy-on-an-api-gateway-led-to-a-13-000-private-token-leak-39d3ef5700c5?source=rss------bug_bounty_writeup-5)
-- [# Stored Credential Theft via Malicious Shared Connector Leading to Administrator Account…](https://medium.com/@B14ck/stored-credential-theft-via-malicious-shared-connector-leading-to-administrator-account-e7903fb8af3d?source=rss------bug_bounty_writeup-5)
-- [How a Single Google Dork Exposed 17 WordPress Users — and What We Can Learn](https://medium.com/@0xanubiis/how-a-single-google-dork-exposed-17-wordpress-users-and-what-we-can-learn-03d60821a952?source=rss------bug_bounty_writeup-5)
 - [I Wasted 3 Days Intercepting a Flutter App. Here’s What Actually Works.](https://infosecwriteups.com/i-wasted-3-days-intercepting-a-flutter-app-heres-what-actually-works-d3e9a4816818?source=rss----7b722bfd1b8d---4)
 - [TryHackMe — Mr. Robot CTF | Full Write-Up](https://infosecwriteups.com/tryhackme-mr-robot-ctf-full-write-up-f28d83777dde?source=rss----7b722bfd1b8d---4)
 - [Breaking Down Two Simple Vulnerabilities That Exposed A School’s Admission Records](https://infosecwriteups.com/breaking-down-two-simple-vulnerabilities-that-exposed-a-schools-admission-records-040bd636a7f3?source=rss----7b722bfd1b8d---4)
