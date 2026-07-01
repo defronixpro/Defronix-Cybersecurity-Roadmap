@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How I Solved Intigriti’s LeakyJar Challenge: One-click CSRF to Expose the Master Baker’s Private…](https://medium.com/@shadowbugbounty32/how-i-solved-intigritis-leakyjar-challenge-one-click-csrf-to-expose-the-master-baker-s-private-fa19b99c4a2a?source=rss------bug_bounty_writeup-5)
 - [CORS Misconfigurations](https://kd-200.medium.com/cors-misconfigurations-a6334dc2b2b3?source=rss------bug_bounty_writeup-5)
 - [$600 IDOR](https://medium.com/@rajveer_0101/600-idor-1100d7aabb62?source=rss------bug_bounty_writeup-5)
 - [How I Found an Email Verification Bypass on an AI Freelance Platform](https://infosecwriteups.com/how-i-found-an-email-verification-bypass-on-an-ai-freelance-platform-6ad76663b658?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How I Discovered a Business Logic Vulnerability That Bypassed a Paid Subscription](https://medium.com/@montaser_mohsen/how-i-discovered-a-business-logic-vulnerability-that-bypassed-a-paid-subscription-50fb366f63bb?source=rss------bug_bounty_writeup-5)
 - [The Real Reasons Bug Bounty Reports Get Rejected](https://medium.com/@uday637/the-real-reasons-bug-bounty-reports-get-rejected-8de6d4572b2e?source=rss------bug_bounty_writeup-5)
 - [How an Unchecked Server-Side Parameter Injection Earned a $6,500 High-Severity Payout](https://medium.com/@21bec131/how-an-unchecked-server-side-parameter-injection-earned-a-6-500-high-severity-payout-10abec521232?source=rss------bug_bounty_writeup-5)
-- [Intigriti June Bonus Challenge 2026 — Leaky Jar Write-up](https://medium.com/@Ryuk0x01/intigriti-june-bonus-challenge-2026-leaky-jar-write-up-8412310c7269?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
