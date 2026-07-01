@@ -964,7 +964,9 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [Things Nobody Tells You When You Start Bug Bounty &lpar;I Learned the Hard Way&rpar;](https://medium.com/@rajuaryan033/things-nobody-tells-you-when-you-start-bug-bounty-i-learned-the-hard-way-9c77fc4f1ba6?source=rss------bug_bounty_writeup-5)
+- [Broken Authentication Vulnerability That Allowed Unauthorized Users to Like Private Posts](https://medium.com/@ankitrathva/broken-authentication-vulnerability-that-allowed-unauthorized-users-to-like-private-posts-1a9f9edd91c2?source=rss------bug_bounty_writeup-5)
+- [How I found a medium-severity vulnerability on the NASA website.](https://medium.com/@albertstive1010/how-i-found-a-medium-severity-vulnerability-on-the-nasa-website-0a6b0961dd01?source=rss------bug_bounty_writeup-5)
+- [Things Nobody Tells You When You Start Bug Bounty &lpar;I Learned the Hard Way&rpar;](https://medium.com/@Makishima_ShogO/things-nobody-tells-you-when-you-start-bug-bounty-i-learned-the-hard-way-9c77fc4f1ba6?source=rss------bug_bounty_writeup-5)
 - [How I Discovered a Business Logic Vulnerability That Bypassed a Paid Subscription](https://medium.com/@montaser_mohsen/how-i-discovered-a-business-logic-vulnerability-that-bypassed-a-paid-subscription-50fb366f63bb?source=rss------bug_bounty_writeup-5)
 - [The Real Reasons Bug Bounty Reports Get Rejected](https://medium.com/@uday637/the-real-reasons-bug-bounty-reports-get-rejected-8de6d4572b2e?source=rss------bug_bounty_writeup-5)
 - [How an Unchecked Server-Side Parameter Injection Earned a $6,500 High-Severity Payout](https://medium.com/@21bec131/how-an-unchecked-server-side-parameter-injection-earned-a-6-500-high-severity-payout-10abec521232?source=rss------bug_bounty_writeup-5)
@@ -976,8 +978,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Day 1 of Bug Hunting Learning : XSS Made Me Question Everything](https://medium.com/@samadhanbarahate61/day-1-of-bug-hunting-learning-xss-made-me-question-everything-343b308394e8?source=rss------bug_bounty_writeup-5)
 - [I Built a SOC Lab From Scratch. Here’s What Broke First.](https://infosecwriteups.com/i-built-a-soc-lab-from-scratch-heres-what-broke-first-8f0863cc6169?source=rss----7b722bfd1b8d---4)
 - [A Dropdown Value Is Still User Input: SQL Injection in WooCommerce’s Most Popular Order Export…](https://medium.com/@yaswanthrs007/a-dropdown-value-is-still-user-input-sql-injection-in-woocommerces-most-popular-order-export-e85fb4653cfb?source=rss------bug_bounty_writeup-5)
-- [السلام عليكم](https://medium.com/@minasmith40/%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85-%D8%B9%D9%84%D9%8A%D9%83%D9%85-79c3efc07bba?source=rss------bug_bounty_writeup-5)
-- [Breaking the Same XSS Twice: Stored XSS in a Welcome Banner — Before and After the Fix](https://medium.com/@hossam13/breaking-the-same-xss-twice-stored-xss-in-a-welcome-banner-before-and-after-the-fix-d9957707f4c7?source=rss------bug_bounty_writeup-5)
 - [I Wasted 3 Days Intercepting a Flutter App. Here’s What Actually Works.](https://infosecwriteups.com/i-wasted-3-days-intercepting-a-flutter-app-heres-what-actually-works-d3e9a4816818?source=rss----7b722bfd1b8d---4)
 - [TryHackMe — Mr. Robot CTF | Full Write-Up](https://infosecwriteups.com/tryhackme-mr-robot-ctf-full-write-up-f28d83777dde?source=rss----7b722bfd1b8d---4)
 - [Breaking Down Two Simple Vulnerabilities That Exposed A School’s Admission Records](https://infosecwriteups.com/breaking-down-two-simple-vulnerabilities-that-exposed-a-schools-admission-records-040bd636a7f3?source=rss----7b722bfd1b8d---4)
