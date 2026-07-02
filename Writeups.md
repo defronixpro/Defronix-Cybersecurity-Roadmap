@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How an Insecure Deserialization Flaw in a Cache Layer Triggered an $4,500 Remote Code Execution…](https://medium.com/@21bec131/how-an-insecure-deserialization-flaw-in-a-cache-layer-triggered-an-4-500-remote-code-execution-3e9dc90dabb0?source=rss------bug_bounty_writeup-5)
 - [2FA Bypass via Switching Between Email OTP and TOTP During Authentication](https://medium.com/@mahmoudmagdy45456/2fa-bypass-via-switching-between-email-otp-and-totp-during-authentication-1e6bfaddbadb?source=rss------bug_bounty_writeup-5)
 - [ContAInment : AI Security Tryhackme](https://medium.com/@rohitbindra1920/containment-ai-security-tryhackme-6e22540f2997?source=rss------bug_bounty_writeup-5)
 - [How I Found a Race Condition That Broke Organization Administration](https://medium.com/@omaralgbry1/how-i-found-a-race-condition-that-broke-organization-administration-ea9bd9f914ab?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Cryptanalysis: Recovering an Affine Encryption Scheme Using GF&lpar;2&rpar; Linear Algebra](https://infosecwriteups.com/cryptanalysis-recovering-an-affine-encryption-scheme-using-gf-2-linear-algebra-ef21a98880b6?source=rss----7b722bfd1b8d---4)
 - [Broken Authentication Vulnerability That Allowed Unauthorized Users to Like Private Posts](https://medium.com/@ankitrathva/broken-authentication-vulnerability-that-allowed-unauthorized-users-to-like-private-posts-1a9f9edd91c2?source=rss------bug_bounty_writeup-5)
 - [How I found a medium-severity vulnerability on the NASA website.](https://medium.com/@albertstive1010/how-i-found-a-medium-severity-vulnerability-on-the-nasa-website-0a6b0961dd01?source=rss------bug_bounty_writeup-5)
-- [Things Nobody Tells You When You Start Bug Bounty &lpar;I Learned the Hard Way&rpar;](https://medium.com/@Makishima_ShogO/things-nobody-tells-you-when-you-start-bug-bounty-i-learned-the-hard-way-9c77fc4f1ba6?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
