@@ -964,6 +964,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Day 2 of Bug Hunting: Understanding IDOR &amp; Broken Access Control](https://medium.com/@samadhanbarahate61/day-2-of-bug-hunting-understanding-idor-broken-access-control-5066612055c6?source=rss------bug_bounty_writeup-5)
 - [With Great Access Comes Great Responsibility](https://hasisyed.medium.com/with-great-access-comes-great-responsibility-3f0a7a093c47?source=rss------bug_bounty_writeup-5)
 - [How an Insecure Deserialization Flaw in a Cache Layer Triggered an $4,500 Remote Code Execution…](https://medium.com/@21bec131/how-an-insecure-deserialization-flaw-in-a-cache-layer-triggered-an-4-500-remote-code-execution-3e9dc90dabb0?source=rss------bug_bounty_writeup-5)
 - [2FA Bypass via Switching Between Email OTP and TOTP During Authentication](https://medium.com/@mahmoudmagdy45456/2fa-bypass-via-switching-between-email-otp-and-totp-during-authentication-1e6bfaddbadb?source=rss------bug_bounty_writeup-5)
@@ -983,7 +984,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Asymmetric Signing, Machine Fingerprinting, and Offline Grace Periods: Building a License System…](https://infosecwriteups.com/asymmetric-signing-machine-fingerprinting-and-offline-grace-periods-building-a-license-system-d8dd5678e1cb?source=rss----7b722bfd1b8d---4)
 - [Beyond Canarytokens: Building a DIY Document Tripwire with Passive OS Fingerprinting](https://infosecwriteups.com/beyond-canarytokens-building-a-diy-document-tripwire-with-passive-os-fingerprinting-c39716d386f6?source=rss----7b722bfd1b8d---4)
 - [Cryptanalysis: Recovering an Affine Encryption Scheme Using GF&lpar;2&rpar; Linear Algebra](https://infosecwriteups.com/cryptanalysis-recovering-an-affine-encryption-scheme-using-gf-2-linear-algebra-ef21a98880b6?source=rss----7b722bfd1b8d---4)
-- [Broken Authentication Vulnerability That Allowed Unauthorized Users to Like Private Posts](https://medium.com/@ankitrathva/broken-authentication-vulnerability-that-allowed-unauthorized-users-to-like-private-posts-1a9f9edd91c2?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
