@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How a Race Condition in an Order Checkout Led to a $4,000 Triple-Coupon Glitch](https://medium.com/@21bec131/how-a-race-condition-in-an-order-checkout-led-to-a-4-000-triple-coupon-glitch-09154fb205b8?source=rss------bug_bounty_writeup-5)
 - [How I Discovered a Critical Data Leak Starting with a Small Clue](https://medium.com/@uday637/how-i-discovered-a-critical-data-leak-starting-with-a-small-clue-363c7f8b6093?source=rss------bug_bounty_writeup-5)
 - [TryHackMe: Payload Walkthrough](https://infosecwriteups.com/tryhackme-payload-walkthrough-299cf414c360?source=rss----7b722bfd1b8d---4)
 - [Exploiting Resource-Based Constrained Delegation &lpar;RBCD&rpar;](https://infosecwriteups.com/exploiting-resource-based-constrained-delegation-rbcd-a63a02db6ca6?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How I Found a Race Condition That Broke Organization Administration](https://medium.com/@omaralgbry1/how-i-found-a-race-condition-that-broke-organization-administration-ea9bd9f914ab?source=rss------bug_bounty_writeup-5)
 - [How I Solved Intigriti’s LeakyJar Challenge: One-click CSRF to Expose the Master Baker’s Private…](https://medium.com/@shadowbugbounty32/how-i-solved-intigritis-leakyjar-challenge-one-click-csrf-to-expose-the-master-baker-s-private-fa19b99c4a2a?source=rss------bug_bounty_writeup-5)
 - [CORS Misconfigurations](https://kd-200.medium.com/cors-misconfigurations-a6334dc2b2b3?source=rss------bug_bounty_writeup-5)
-- [$600 IDOR](https://medium.com/@rajveer_0101/600-idor-1100d7aabb62?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
