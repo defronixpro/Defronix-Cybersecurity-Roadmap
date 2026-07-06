@@ -1,6 +1,8 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Your Subdomain Enum Is Only Finding Half the Attack Surface](https://medium.com/@Aacle/your-subdomain-enum-is-only-finding-half-the-attack-surface-bea3f9ea661e?source=rss------bug_bounty_writeup-5)
+- [From Auth Bypass to IDOR: Chaining Vulnerabilities to Access Other Users’ Data &lpar;PART 2&rpar;](https://medium.com/@viralecho/from-auth-bypass-to-idor-chaining-vulnerabilities-to-access-other-users-data-part-2-64ceec558b2b?source=rss------bug_bounty_writeup-5)
 - [Wazuh File Integrity Monitoring: Tracking Endpoint Modifications in Real Time](https://infosecwriteups.com/wazuh-file-integrity-monitoring-tracking-endpoint-modifications-in-real-time-269e384f3fa7?source=rss----7b722bfd1b8d---4)
 - [Mastering curl Commands Bug Bounty Hunter&#39;s Guide](https://infosecwriteups.com/mastering-curl-commands-bug-bounty-hunters-guide-57037fdc9714?source=rss----7b722bfd1b8d---4)
 - [Mass Assignment and the Identity Drift: From Profile Edit to Insurance Takeover](https://infosecwriteups.com/mass-assignment-and-the-identity-drift-from-profile-edit-to-insurance-takeover-5eb2be4c1f8e?source=rss----7b722bfd1b8d---4)
@@ -19,8 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How a Race Condition in an Order Checkout Led to a $4,000 Triple-Coupon Glitch](https://medium.com/@21bec131/how-a-race-condition-in-an-order-checkout-led-to-a-4-000-triple-coupon-glitch-09154fb205b8?source=rss------bug_bounty_writeup-5)
 - [How I Discovered a Critical Data Leak Starting with a Small Clue](https://medium.com/@uday637/how-i-discovered-a-critical-data-leak-starting-with-a-small-clue-363c7f8b6093?source=rss------bug_bounty_writeup-5)
 - [Day 2 of Bug Hunting: Understanding IDOR &amp; Broken Access Control](https://medium.com/@samadhanbarahate61/day-2-of-bug-hunting-understanding-idor-broken-access-control-5066612055c6?source=rss------bug_bounty_writeup-5)
-- [With Great Access Comes Great Responsibility](https://hasisyed.medium.com/with-great-access-comes-great-responsibility-3f0a7a093c47?source=rss------bug_bounty_writeup-5)
-- [How an Insecure Deserialization Flaw in a Cache Layer Triggered an $4,500 Remote Code Execution…](https://medium.com/@21bec131/how-an-insecure-deserialization-flaw-in-a-cache-layer-triggered-an-4-500-remote-code-execution-3e9dc90dabb0?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
