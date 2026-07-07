@@ -1,6 +1,8 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How I Took Over an Instagram Account Using Broken Link Hijacking &amp; Found Open Redirections on…](https://medium.com/@muhammedhaneefba/how-i-took-over-an-instagram-account-using-broken-link-hijacking-found-open-redirections-on-cefbca9a142c?source=rss------bug_bounty_writeup-5)
+- [Bypassing AI Chat Privacy: How a BOLA Vulnerability Exposed Private Messages on Spicychat &lpar;$700…](https://medium.com/@kenjisubagja/bypassing-ai-chat-privacy-how-a-bola-vulnerability-exposed-private-messages-on-spicychat-700-040f4491c477?source=rss------bug_bounty_writeup-5)
 - [BUG Bounty — The Upload Was Protected, But the File Was Public.](https://medium.com/@kenjisubagja/bug-bounty-the-upload-was-protected-but-the-file-was-public-fc02ed6b292a?source=rss------bug_bounty_writeup-5)
 - [Lookup: TryHackMe CTF Walkthrough](https://infosecwriteups.com/lookup-tryhackme-walkthrough-3caf2a7efb45?source=rss----7b722bfd1b8d---4)
 - [JWTweak v2.1: A Guided, Offline Toolkit for Modern JWT Attacks](https://infosecwriteups.com/jwtweak-v2-1-a-guided-offline-toolkit-for-modern-jwt-attacks-d951fa31f964?source=rss----7b722bfd1b8d---4)
@@ -19,8 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How an Exposed .git Directory Left a Scientific Observatory Vulnerable](https://medium.com/@novahunter0605/case-study-how-an-exposed-git-directory-left-a-scientific-observatory-vulnerable-5867505249c6?source=rss------bug_bounty_writeup-5)
 - [From Recon to Reward: Discovering a SQL Injection Vulnerability on a Subdomain](https://medium.com/@zinolioncity/from-recon-to-reward-discovering-a-sql-injection-vulnerability-on-a-subdomain-ed022f5650b6?source=rss------bug_bounty_writeup-5)
 - [Your Admin Panel Isn’t Protected. It’s Just Hidden.](https://medium.com/@abhishek__30235/your-admin-panel-isnt-protected-it-s-just-hidden-4448e46266bf?source=rss------bug_bounty_writeup-5)
-- [How Hackers Find and Target Vulnerable Websites: The Complete Technical Breakdown](https://mainekhacker.medium.com/how-hackers-find-and-target-vulnerable-websites-the-complete-technical-breakdown-68a53136ecc9?source=rss------bug_bounty_writeup-5)
-- [The Recon Habit Most Hunters Skip &lpar;And Pay For Later&rpar;](https://infosecwriteups.com/the-recon-habit-most-hunters-skip-and-pay-for-later-634fd0373cd9?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
