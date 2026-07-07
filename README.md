@@ -964,6 +964,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How to Report Bugs &amp; Earn PIF Rewards On TheBenefactor.Net](https://medium.com/@thebenefactor.com/how-to-report-bugs-earn-pif-rewards-on-thebenefactor-net-b42e370d33e5?source=rss------bug_bounty_writeup-5)
 - [How I Bypassed Mandatory 2FA Three Ways on a multi tenant SaaS Platform &lpar;~$1,125&rpar;](https://medium.com/@gautam2001sharma17/how-i-bypassed-mandatory-2fa-three-ways-on-a-multi-tenant-saas-platform-1-125-b69b6f275a0f?source=rss------bug_bounty_writeup-5)
 - [Your Subdomain Enum Is Only Finding Half the Attack Surface](https://medium.com/@Aacle/your-subdomain-enum-is-only-finding-half-the-attack-surface-bea3f9ea661e?source=rss------bug_bounty_writeup-5)
 - [From Auth Bypass to IDOR: Chaining Vulnerabilities to Access Other Users’ Data &lpar;PART 2&rpar;](https://medium.com/@viralecho/from-auth-bypass-to-idor-chaining-vulnerabilities-to-access-other-users-data-part-2-64ceec558b2b?source=rss------bug_bounty_writeup-5)
@@ -983,7 +984,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [TryHackMe CTF Writeup of Hidden Deep Into my Heart](https://infosecwriteups.com/tryhackme-ctf-writeup-of-hidden-deep-into-my-heart-a6624334a4b0?source=rss----7b722bfd1b8d---4)
 - [The Recon Habit Most Hunters Skip &lpar;And Pay For Later&rpar;](https://infosecwriteups.com/the-recon-habit-most-hunters-skip-and-pay-for-later-634fd0373cd9?source=rss------bug_bounty_writeup-5)
 - [How a Race Condition in an Order Checkout Led to a $4,000 Triple-Coupon Glitch](https://medium.com/@21bec131/how-a-race-condition-in-an-order-checkout-led-to-a-4-000-triple-coupon-glitch-09154fb205b8?source=rss------bug_bounty_writeup-5)
-- [How I Discovered a Critical Data Leak Starting with a Small Clue](https://medium.com/@uday637/how-i-discovered-a-critical-data-leak-starting-with-a-small-clue-363c7f8b6093?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
