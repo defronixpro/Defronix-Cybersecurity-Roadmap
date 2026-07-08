@@ -964,6 +964,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How a Trusted Header Turned Into an Open Redirect in Telekom’s System](https://medium.com/@m0ro23/how-a-trusted-header-turned-into-an-open-redirect-in-telekoms-system-250adc6d7878?source=rss------bug_bounty_writeup-5)
 - [How I Took Over an Instagram Account Using Broken Link Hijacking &amp; Found Open Redirections on…](https://medium.com/@muhammedhaneefba/how-i-took-over-an-instagram-account-using-broken-link-hijacking-found-open-redirections-on-cefbca9a142c?source=rss------bug_bounty_writeup-5)
 - [Bypassing AI Chat Privacy: How a BOLA Vulnerability Exposed Private Messages on Spicychat &lpar;$700…](https://medium.com/@kenjisubagja/bypassing-ai-chat-privacy-how-a-bola-vulnerability-exposed-private-messages-on-spicychat-700-040f4491c477?source=rss------bug_bounty_writeup-5)
 - [BUG Bounty — The Upload Was Protected, But the File Was Public.](https://medium.com/@kenjisubagja/bug-bounty-the-upload-was-protected-but-the-file-was-public-fc02ed6b292a?source=rss------bug_bounty_writeup-5)
@@ -983,7 +984,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [The File That Answered Back — XXE Hidden in Cell A2](https://infosecwriteups.com/the-file-that-answered-back-xxe-hidden-in-cell-a2-20dbb8161dd8?source=rss----7b722bfd1b8d---4)
 - [How an Exposed .git Directory Left a Scientific Observatory Vulnerable](https://medium.com/@novahunter0605/case-study-how-an-exposed-git-directory-left-a-scientific-observatory-vulnerable-5867505249c6?source=rss------bug_bounty_writeup-5)
 - [From Recon to Reward: Discovering a SQL Injection Vulnerability on a Subdomain](https://medium.com/@zinolioncity/from-recon-to-reward-discovering-a-sql-injection-vulnerability-on-a-subdomain-ed022f5650b6?source=rss------bug_bounty_writeup-5)
-- [Your Admin Panel Isn’t Protected. It’s Just Hidden.](https://medium.com/@abhishek__30235/your-admin-panel-isnt-protected-it-s-just-hidden-4448e46266bf?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
