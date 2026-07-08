@@ -964,6 +964,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How Relying on HTTP Referer Headers for API Protection Led to Google Places Proxy Abuse](https://medium.com/@kenjisubagja/how-relying-on-http-referer-headers-for-api-protection-led-to-google-places-proxy-abuse-8077f6ab6e96?source=rss------bug_bounty_writeup-5)
+- [I built a Free Search Extension for Burp Suite Community &lpar;Because I Was Tired of Clicking Through…](https://medium.com/@abdalah336/i-built-a-free-search-extension-for-burp-suite-community-because-i-was-tired-of-clicking-through-34e894de4f61?source=rss------bug_bounty_writeup-5)
 - [How a Trusted Header Turned Into an Open Redirect in Telekom’s System](https://medium.com/@m0ro23/how-a-trusted-header-turned-into-an-open-redirect-in-telekoms-system-250adc6d7878?source=rss------bug_bounty_writeup-5)
 - [How I Took Over an Instagram Account Using Broken Link Hijacking &amp; Found Open Redirections on…](https://medium.com/@muhammedhaneefba/how-i-took-over-an-instagram-account-using-broken-link-hijacking-found-open-redirections-on-cefbca9a142c?source=rss------bug_bounty_writeup-5)
 - [Bypassing AI Chat Privacy: How a BOLA Vulnerability Exposed Private Messages on Spicychat &lpar;$700…](https://medium.com/@kenjisubagja/bypassing-ai-chat-privacy-how-a-bola-vulnerability-exposed-private-messages-on-spicychat-700-040f4491c477?source=rss------bug_bounty_writeup-5)
@@ -977,13 +979,10 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How to Report Bugs &amp; Earn PIF Rewards On TheBenefactor.Net](https://medium.com/@thebenefactor.com/how-to-report-bugs-earn-pif-rewards-on-thebenefactor-net-b42e370d33e5?source=rss------bug_bounty_writeup-5)
 - [How I Bypassed Mandatory 2FA Three Ways on a multi tenant SaaS Platform &lpar;~$1,125&rpar;](https://medium.com/@gautam2001sharma17/how-i-bypassed-mandatory-2fa-three-ways-on-a-multi-tenant-saas-platform-1-125-b69b6f275a0f?source=rss------bug_bounty_writeup-5)
 - [Your Subdomain Enum Is Only Finding Half the Attack Surface](https://medium.com/@Aacle/your-subdomain-enum-is-only-finding-half-the-attack-surface-bea3f9ea661e?source=rss------bug_bounty_writeup-5)
-- [From Auth Bypass to IDOR: Chaining Vulnerabilities to Access Other Users’ Data &lpar;PART 2&rpar;](https://medium.com/@viralecho/from-auth-bypass-to-idor-chaining-vulnerabilities-to-access-other-users-data-part-2-64ceec558b2b?source=rss------bug_bounty_writeup-5)
 - [Wazuh File Integrity Monitoring: Tracking Endpoint Modifications in Real Time](https://infosecwriteups.com/wazuh-file-integrity-monitoring-tracking-endpoint-modifications-in-real-time-269e384f3fa7?source=rss----7b722bfd1b8d---4)
 - [Mastering curl Commands Bug Bounty Hunter&#39;s Guide](https://infosecwriteups.com/mastering-curl-commands-bug-bounty-hunters-guide-57037fdc9714?source=rss----7b722bfd1b8d---4)
 - [Mass Assignment and the Identity Drift: From Profile Edit to Insurance Takeover](https://infosecwriteups.com/mass-assignment-and-the-identity-drift-from-profile-edit-to-insurance-takeover-5eb2be4c1f8e?source=rss----7b722bfd1b8d---4)
 - [The File That Answered Back — XXE Hidden in Cell A2](https://infosecwriteups.com/the-file-that-answered-back-xxe-hidden-in-cell-a2-20dbb8161dd8?source=rss----7b722bfd1b8d---4)
-- [How an Exposed .git Directory Left a Scientific Observatory Vulnerable](https://medium.com/@novahunter0605/case-study-how-an-exposed-git-directory-left-a-scientific-observatory-vulnerable-5867505249c6?source=rss------bug_bounty_writeup-5)
-- [From Recon to Reward: Discovering a SQL Injection Vulnerability on a Subdomain](https://medium.com/@zinolioncity/from-recon-to-reward-discovering-a-sql-injection-vulnerability-on-a-subdomain-ed022f5650b6?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
