@@ -964,6 +964,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [I Tried to Break ChatGPT’s Safety Filters, Here’s What I Learned](https://medium.com/@wuchsec/i-tried-to-break-chatgpts-safety-filters-here-s-what-i-learned-ba95b91e67c9?source=rss------bug_bounty_writeup-5)
 - [The $0 IDOR That Was Worth More Than a $12,500 P1](https://infosecwriteups.com/the-0-idor-that-was-worth-more-than-a-12-500-p1-4444d32f2f61?source=rss------bug_bounty_writeup-5)
 - [How Relying on HTTP Referer Headers for API Protection Led to Google Places Proxy Abuse](https://medium.com/@kenjisubagja/how-relying-on-http-referer-headers-for-api-protection-led-to-google-places-proxy-abuse-8077f6ab6e96?source=rss------bug_bounty_writeup-5)
 - [I built a Free Search Extension for Burp Suite Community &lpar;Because I Was Tired of Clicking Through…](https://medium.com/@abdalah336/i-built-a-free-search-extension-for-burp-suite-community-because-i-was-tired-of-clicking-through-34e894de4f61?source=rss------bug_bounty_writeup-5)
@@ -978,7 +979,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Chaining a DOM XSS Sink, WAF Bypass, Cross-Origin Smuggling, and SDK Abuse into One Click Account…](https://infosecwriteups.com/chaining-a-dom-xss-sink-waf-bypass-cross-origin-smuggling-and-sdk-abuse-into-one-click-account-6c1a7095f8e1?source=rss----7b722bfd1b8d---4)
 - [BadSuccessor — Exploiting delegated Managed Service Accounts in Windows Server 2025](https://infosecwriteups.com/badsuccessor-exploiting-delegated-managed-service-accounts-in-windows-server-2025-0f2c84223bbb?source=rss----7b722bfd1b8d---4)
 - [How to Report Bugs &amp; Earn PIF Rewards On TheBenefactor.Net](https://medium.com/@thebenefactor.com/how-to-report-bugs-earn-pif-rewards-on-thebenefactor-net-b42e370d33e5?source=rss------bug_bounty_writeup-5)
-- [How I Bypassed Mandatory 2FA Three Ways on a multi tenant SaaS Platform &lpar;~$1,125&rpar;](https://medium.com/@gautam2001sharma17/how-i-bypassed-mandatory-2fa-three-ways-on-a-multi-tenant-saas-platform-1-125-b69b6f275a0f?source=rss------bug_bounty_writeup-5)
 - [Wazuh File Integrity Monitoring: Tracking Endpoint Modifications in Real Time](https://infosecwriteups.com/wazuh-file-integrity-monitoring-tracking-endpoint-modifications-in-real-time-269e384f3fa7?source=rss----7b722bfd1b8d---4)
 - [Mastering curl Commands Bug Bounty Hunter&#39;s Guide](https://infosecwriteups.com/mastering-curl-commands-bug-bounty-hunters-guide-57037fdc9714?source=rss----7b722bfd1b8d---4)
 - [Mass Assignment and the Identity Drift: From Profile Edit to Insurance Takeover](https://infosecwriteups.com/mass-assignment-and-the-identity-drift-from-profile-edit-to-insurance-takeover-5eb2be4c1f8e?source=rss----7b722bfd1b8d---4)
@@ -987,17 +987,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
 - [How to backup and restore the Windows Registry](https://www.bleepingcomputer.com/tutorials/how-to-backup-and-restore-the-windows-registry/)
-- [How To Fix Error: Externally-Managed-Environment In Python &lpar;Kali Linux&rpar;](https://technicalnavigator.in/how-to-fix-error-externally-managed-environment-in-python-kali-linux/)
-- [Understanding Systemctl Command in Linux &lpar;Practical&rpar;](https://technicalnavigator.in/understanding-systemctl-command-in-linux-practical/)
-- [Macros in docm &amp; Linux memory dump| Hack The Boo  Challanges](https://technicalnavigator.in/macros-in-docm-linux-memory-dump-hack-the-boo-challanges/)
-- [Android Apps debugging |  Frida, JADX, Genymotion](https://technicalnavigator.in/android-apps-debugging-frida-jadx-genymotion/)
-- [MouseServer | wifimouse – Windows/ Linux](https://technicalnavigator.in/mouseserver-wifimouse-windows-linux/)
-- [FFUF fuzzer | web-application penetration-testing](https://technicalnavigator.in/ffuf-fuzzer-web-application-penetration-testing/)
 - [How to open a Windows 11 Command Prompt as Administrator](https://www.bleepingcomputer.com/tutorials/how-to-open-a-windows-11-command-prompt-as-administrator/)
-- [Classes-Objects &amp; Deserialization bug](https://technicalnavigator.in/classes-objects-deserialization-bug/)
-- [Loki Tool | Multhreading Over Sockets in C](https://technicalnavigator.in/loki-tool-multhreading-over-sockets-in-c/)
-- [Egghunter | NASM | C prototype](https://technicalnavigator.in/egghunter-nasm-c-prototype/)
-- [TELNET &amp; FTP Analysis](https://technicalnavigator.in/telnet-ftp-analysis/)
 - [How to make the Start menu full screen in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-make-the-start-menu-full-screen-in-windows-10/)
 - [How to install the Microsoft Visual C++ 2015 Runtime](https://www.bleepingcomputer.com/tutorials/how-to-install-the-microsoft-visual-c-2015-runtime/)
 - [How to open an elevated PowerShell Admin prompt in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-open-an-elevated-powershell-admin-prompt-in-windows-10/)
