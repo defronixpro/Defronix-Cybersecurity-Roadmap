@@ -964,6 +964,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Bug Bounty — Bypassing Access Controls: How a Single Boolean Flag Exposed KYC Government IDs](https://medium.com/@kenjisubagja/bug-bounty-bypassing-access-controls-how-a-single-boolean-flag-exposed-kyc-government-ids-60475cbd9304?source=rss------bug_bounty_writeup-5)
 - [Recon to Shell Access: Nokia Hall of Fame](https://scriptjacker.medium.com/recon-to-shell-access-nokia-hall-of-fame-5a7995595631?source=rss------bug_bounty_writeup-5)
 - [I Tried to Break ChatGPT’s Safety Filters, Here’s What I Learned](https://medium.com/@wuchsec/i-tried-to-break-chatgpts-safety-filters-here-s-what-i-learned-ba95b91e67c9?source=rss------bug_bounty_writeup-5)
 - [The $0 IDOR That Was Worth More Than a $12,500 P1](https://infosecwriteups.com/the-0-idor-that-was-worth-more-than-a-12-500-p1-4444d32f2f61?source=rss------bug_bounty_writeup-5)
@@ -972,7 +973,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How a Trusted Header Turned Into an Open Redirect in Telekom’s System](https://medium.com/@m0ro23/how-a-trusted-header-turned-into-an-open-redirect-in-telekoms-system-250adc6d7878?source=rss------bug_bounty_writeup-5)
 - [How I Took Over an Instagram Account Using Broken Link Hijacking &amp; Found Open Redirections on…](https://medium.com/@muhammedhaneefba/how-i-took-over-an-instagram-account-using-broken-link-hijacking-found-open-redirections-on-cefbca9a142c?source=rss------bug_bounty_writeup-5)
 - [Bypassing AI Chat Privacy: How a BOLA Vulnerability Exposed Private Messages on Spicychat &lpar;$700…](https://medium.com/@kenjisubagja/bypassing-ai-chat-privacy-how-a-bola-vulnerability-exposed-private-messages-on-spicychat-700-040f4491c477?source=rss------bug_bounty_writeup-5)
-- [BUG Bounty — The Upload Was Protected, But the File Was Public.](https://medium.com/@kenjisubagja/bug-bounty-the-upload-was-protected-but-the-file-was-public-fc02ed6b292a?source=rss------bug_bounty_writeup-5)
 - [Lookup: TryHackMe CTF Walkthrough](https://infosecwriteups.com/lookup-tryhackme-walkthrough-3caf2a7efb45?source=rss----7b722bfd1b8d---4)
 - [JWTweak v2.1: A Guided, Offline Toolkit for Modern JWT Attacks](https://infosecwriteups.com/jwtweak-v2-1-a-guided-offline-toolkit-for-modern-jwt-attacks-d951fa31f964?source=rss----7b722bfd1b8d---4)
 - [No Rules, No Locks: Firebase Misconfiguration and the Borrowers It Left Behind](https://infosecwriteups.com/no-rules-no-locks-firebase-misconfiguration-and-the-borrowers-it-left-behind-90d568038414?source=rss----7b722bfd1b8d---4)
