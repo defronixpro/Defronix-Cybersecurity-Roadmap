@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Easy Bug__Easy Bounty](https://medium.com/@Yahia_Ramadan/easy-bug-easy-bounty-26e00da991ac?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty — Pwning Payment Gateways: Unauthenticated Non-Blind SSRF via Apple Pay Merchant…](https://medium.com/@kenjisubagja/bug-bounty-pwning-payment-gateways-unauthenticated-non-blind-ssrf-via-apple-pay-merchant-b9a8265fdc36?source=rss------bug_bounty_writeup-5)
 - [Unauthenticated S3 Presigned POST Credentials Allowed Arbitrary Uploads to a Production Bucket](https://medium.com/@northsidehacker/unauthenticated-s3-presigned-post-credentials-allowed-arbitrary-uploads-to-a-production-bucket-a8cfb2e0a428?source=rss------bug_bounty_writeup-5)
 - [From PortSwigger Labs to my First Real-World Bounty: How a Stored XSS Found Me](https://medium.com/@haninalmohammadi19/from-portswigger-labs-to-my-first-real-world-bounty-how-a-stored-xss-found-me-4211f2ed3ce9?source=rss------bug_bounty_writeup-5)
@@ -10,7 +11,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Recon to Shell Access: Nokia Hall of Fame](https://scriptjacker.medium.com/recon-to-shell-access-nokia-hall-of-fame-5a7995595631?source=rss------bug_bounty_writeup-5)
 - [I Tried to Break ChatGPT’s Safety Filters, Here’s What I Learned](https://medium.com/@wuchsec/i-tried-to-break-chatgpts-safety-filters-here-s-what-i-learned-ba95b91e67c9?source=rss------bug_bounty_writeup-5)
 - [The $0 IDOR That Was Worth More Than a $12,500 P1](https://infosecwriteups.com/the-0-idor-that-was-worth-more-than-a-12-500-p1-4444d32f2f61?source=rss------bug_bounty_writeup-5)
-- [How Relying on HTTP Referer Headers for API Protection Led to Google Places Proxy Abuse](https://medium.com/@kenjisubagja/how-relying-on-http-referer-headers-for-api-protection-led-to-google-places-proxy-abuse-8077f6ab6e96?source=rss------bug_bounty_writeup-5)
 - [Lookup: TryHackMe CTF Walkthrough](https://infosecwriteups.com/lookup-tryhackme-walkthrough-3caf2a7efb45?source=rss----7b722bfd1b8d---4)
 - [JWTweak v2.1: A Guided, Offline Toolkit for Modern JWT Attacks](https://infosecwriteups.com/jwtweak-v2-1-a-guided-offline-toolkit-for-modern-jwt-attacks-d951fa31f964?source=rss----7b722bfd1b8d---4)
 - [No Rules, No Locks: Firebase Misconfiguration and the Borrowers It Left Behind](https://infosecwriteups.com/no-rules-no-locks-firebase-misconfiguration-and-the-borrowers-it-left-behind-90d568038414?source=rss----7b722bfd1b8d---4)
