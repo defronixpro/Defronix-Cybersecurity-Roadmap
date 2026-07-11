@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Finding Reflected XSS Through Persistence](https://medium.com/@alyhsan.x/finding-reflected-xss-through-persistence-3e8b0a286c98?source=rss------bug_bounty_writeup-5)
 - [How I Found SQL Injection](https://medium.com/@chouhanashvin600/how-i-found-sql-injection-5120b0d0564f?source=rss------bug_bounty_writeup-5)
 - [Lab 1: Broken Access Control “Unprotected Admin Functionality” &lpar;PortSwigger Web Security Academy&rpar;](https://medium.com/@nitishmukhiya/lab-1-broken-access-control-unprotected-admin-functionality-portswigger-web-security-academy-49b71d270a23?source=rss------bug_bounty_writeup-5)
 - [Blind SSRF via Webhook Subscription URLs: When a SaaS Trusts Your Callback Too Much](https://medium.com/@ajinisadev/blind-ssrf-via-webhook-subscription-urls-when-a-saas-trusts-your-callback-too-much-987f62884693?source=rss------bug_bounty_writeup-5)
@@ -10,7 +11,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Bug Bounty — Pwning Payment Gateways: Unauthenticated Non-Blind SSRF via Apple Pay Merchant…](https://medium.com/@kenjisubagja/bug-bounty-pwning-payment-gateways-unauthenticated-non-blind-ssrf-via-apple-pay-merchant-b9a8265fdc36?source=rss------bug_bounty_writeup-5)
 - [Unauthenticated S3 Presigned POST Credentials Allowed Arbitrary Uploads to a Production Bucket](https://medium.com/@northsidehacker/unauthenticated-s3-presigned-post-credentials-allowed-arbitrary-uploads-to-a-production-bucket-a8cfb2e0a428?source=rss------bug_bounty_writeup-5)
 - [From PortSwigger Labs to my First Real-World Bounty: How a Stored XSS Found Me](https://medium.com/@haninalmohammadi19/from-portswigger-labs-to-my-first-real-world-bounty-how-a-stored-xss-found-me-4211f2ed3ce9?source=rss------bug_bounty_writeup-5)
-- [The Easy Bug Series | #01](https://medium.com/@huntersoham/the-easy-bug-series-01-7d3746dcaadc?source=rss------bug_bounty_writeup-5)
 - [Lookup: TryHackMe CTF Walkthrough](https://infosecwriteups.com/lookup-tryhackme-walkthrough-3caf2a7efb45?source=rss----7b722bfd1b8d---4)
 - [JWTweak v2.1: A Guided, Offline Toolkit for Modern JWT Attacks](https://infosecwriteups.com/jwtweak-v2-1-a-guided-offline-toolkit-for-modern-jwt-attacks-d951fa31f964?source=rss----7b722bfd1b8d---4)
 - [No Rules, No Locks: Firebase Misconfiguration and the Borrowers It Left Behind](https://infosecwriteups.com/no-rules-no-locks-firebase-misconfiguration-and-the-borrowers-it-left-behind-90d568038414?source=rss----7b722bfd1b8d---4)
