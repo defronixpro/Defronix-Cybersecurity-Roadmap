@@ -964,6 +964,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Lab 1: Broken Access Control “Unprotected Admin Functionality” &lpar;PortSwigger Web Security Academy&rpar;](https://medium.com/@nitishmukhiya/lab-1-broken-access-control-unprotected-admin-functionality-portswigger-web-security-academy-49b71d270a23?source=rss------bug_bounty_writeup-5)
+- [Blind SSRF via Webhook Subscription URLs: When a SaaS Trusts Your Callback Too Much](https://medium.com/@ajinisadev/blind-ssrf-via-webhook-subscription-urls-when-a-saas-trusts-your-callback-too-much-987f62884693?source=rss------bug_bounty_writeup-5)
 - [How I Chained an Open Redirect into Email Leak and Got $1,337 from Google](https://xlsize0bruh.medium.com/how-i-chained-an-open-redirect-into-email-leak-and-got-1-337-from-google-c8a4655677a2?source=rss------bug_bounty_writeup-5)
 - [Understanding window.postMessage&lpar;&rpar;: How Browsers Safely Communicate Across Origins &lpar;PART -2&rpar;](https://balajih4kr.medium.com/understanding-window-postmessage-how-browsers-safely-communicate-across-origins-part-2-b9c20c86585c?source=rss------bug_bounty_writeup-5)
 - [Easy Bug__Easy Bounty](https://medium.com/@Yahia_Ramadan/easy-bug-easy-bounty-26e00da991ac?source=rss------bug_bounty_writeup-5)
@@ -972,8 +974,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [From PortSwigger Labs to my First Real-World Bounty: How a Stored XSS Found Me](https://medium.com/@haninalmohammadi19/from-portswigger-labs-to-my-first-real-world-bounty-how-a-stored-xss-found-me-4211f2ed3ce9?source=rss------bug_bounty_writeup-5)
 - [The Easy Bug Series | #01](https://medium.com/@huntersoham/the-easy-bug-series-01-7d3746dcaadc?source=rss------bug_bounty_writeup-5)
 - [Smali by bithowl : Chapter 1 Introduction to Smali](https://medium.com/@bithowl/smali-by-bithowl-chapter-1-introduction-to-smali-2aad0ccd2547?source=rss------bug_bounty_writeup-5)
-- [Bug Bounty — Bypassing Access Controls: How a Single Boolean Flag Exposed KYC Government IDs](https://medium.com/@kenjisubagja/bug-bounty-bypassing-access-controls-how-a-single-boolean-flag-exposed-kyc-government-ids-60475cbd9304?source=rss------bug_bounty_writeup-5)
-- [Recon to Shell Access: Nokia Hall of Fame](https://scriptjacker.medium.com/recon-to-shell-access-nokia-hall-of-fame-5a7995595631?source=rss------bug_bounty_writeup-5)
 - [Lookup: TryHackMe CTF Walkthrough](https://infosecwriteups.com/lookup-tryhackme-walkthrough-3caf2a7efb45?source=rss----7b722bfd1b8d---4)
 - [JWTweak v2.1: A Guided, Offline Toolkit for Modern JWT Attacks](https://infosecwriteups.com/jwtweak-v2-1-a-guided-offline-toolkit-for-modern-jwt-attacks-d951fa31f964?source=rss----7b722bfd1b8d---4)
 - [No Rules, No Locks: Firebase Misconfiguration and the Borrowers It Left Behind](https://infosecwriteups.com/no-rules-no-locks-firebase-misconfiguration-and-the-borrowers-it-left-behind-90d568038414?source=rss----7b722bfd1b8d---4)
