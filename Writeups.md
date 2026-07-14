@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [The Parameter That Redirects Nowhere: HTML Injection via redirect_page $125 Bounty](https://medium.com/@gautam2001sharma17/the-parameter-that-redirects-nowhere-html-injection-via-redirect-page-125-bounty-edab7ac9247f?source=rss------bug_bounty_writeup-5)
 - [How I Demoted a Project Owner to Viewer Using Just Burp Suite — A Broken Access Bug](https://medium.com/@Rudr03/how-i-demoted-a-project-owner-to-viewer-using-just-burp-suite-a-broken-access-bug-83c1e8a74340?source=rss------bug_bounty_writeup-5)
 - [Exposing Administrative Secrets: How an Exposed Nylas Client Secret Led to Full Grant and Email…](https://medium.com/@xelcezeri/exposing-administrative-secrets-how-an-exposed-nylas-client-secret-led-to-full-grant-and-email-4a852720f5ac?source=rss------bug_bounty_writeup-5)
 - [How I Got €50 for Finding the Same Data Behind a Different Door](https://medium.com/@dheerajdonikena/how-i-got-50-for-finding-the-same-data-behind-a-different-door-110eb32989eb?source=rss------bug_bounty_writeup-5)
@@ -9,7 +10,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Account Takeover via CSRF on the Email-Change Endpoint $1,300 Bounty](https://medium.com/@gautam2001sharma17/account-takeover-via-csrf-on-the-email-change-endpoint-1-300-bounty-957e46f30b5f?source=rss------bug_bounty_writeup-5)
 - [Valid Tokens, Broken Limits: A Race Condition Story](https://medium.com/@0Ziiad/valid-tokens-broken-limits-a-race-condition-story-b19a77b26b33?source=rss------bug_bounty_writeup-5)
 - [Finding Reflected XSS Through Persistence](https://medium.com/@alyhsan.x/finding-reflected-xss-through-persistence-3e8b0a286c98?source=rss------bug_bounty_writeup-5)
-- [How I Found SQL Injection](https://medium.com/@chouhanashvin600/how-i-found-sql-injection-5120b0d0564f?source=rss------bug_bounty_writeup-5)
 - [Lookup: TryHackMe CTF Walkthrough](https://infosecwriteups.com/lookup-tryhackme-walkthrough-3caf2a7efb45?source=rss----7b722bfd1b8d---4)
 - [JWTweak v2.1: A Guided, Offline Toolkit for Modern JWT Attacks](https://infosecwriteups.com/jwtweak-v2-1-a-guided-offline-toolkit-for-modern-jwt-attacks-d951fa31f964?source=rss----7b722bfd1b8d---4)
 - [No Rules, No Locks: Firebase Misconfiguration and the Borrowers It Left Behind](https://infosecwriteups.com/no-rules-no-locks-firebase-misconfiguration-and-the-borrowers-it-left-behind-90d568038414?source=rss----7b722bfd1b8d---4)
