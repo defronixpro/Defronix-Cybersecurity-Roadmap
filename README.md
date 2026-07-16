@@ -306,6 +306,13 @@ Optional, but If you aspire to become a proficient hacker with a deeper understa
 <summary>Basic Concepts of Bug Bounty</summary>
   <!-- BASICCONCEPTS:START --><table>
 <tr>
+<td><a href="https://www.youtube.com/watch?v=O_qw8gf6ao8"><img width="140px" src="http://img.youtube.com/vi/O_qw8gf6ao8/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=O_qw8gf6ao8">SQL Injection - Most Dangerous Web Vulnerability &lpar; Hindi &rpar;</a><br/>Jul 16, 2026</td>
+</tr>
+</table>
+
+<table>
+<tr>
 <td><a href="https://www.youtube.com/watch?v=D4K51b2EH8U"><img width="140px" src="http://img.youtube.com/vi/D4K51b2EH8U/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=D4K51b2EH8U">MITRE Attack For SOC &amp; Cybersecurity in One Shot - Everything With Demo Under 1 Hour &lpar; Hindi &rpar;</a><br/>Jun 23, 2026</td>
 </tr>
