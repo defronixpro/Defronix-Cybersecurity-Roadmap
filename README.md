@@ -971,6 +971,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [&lpar;IDOR&rpar;Allows Deletion of OpenAPI Specification Files Across Organizations](https://medium.com/@X-Ghost/idor-allows-deletion-of-openapi-specification-files-across-organizations-22fe4d79711d?source=rss------bug_bounty_writeup-5)
 - [API Fuzzing for Bug Bounty — Part 3: GraphQL Security — The Complete Attack Playbook](https://osintteam.blog/api-fuzzing-for-bug-bounty-part-3-graphql-security-the-complete-attack-playbook-5d1c0a91068d?source=rss------bug_bounty_writeup-5)
 - [I Asked the Frontend for Secrets, and It Said Yes](https://osintteam.blog/i-asked-the-frontend-for-secrets-and-it-said-yes-7cb62e15f750?source=rss------bug_bounty_writeup-5)
 - [Breaking CORS : Hunting CORS Misconfigurations For Bug Bounty](https://osintteam.blog/breaking-cors-hunting-cors-misconfigurations-for-bug-bounty-1f2c36f0e408?source=rss------bug_bounty_writeup-5)
@@ -980,7 +981,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How I Got €50 for Finding the Same Data Behind a Different Door](https://medium.com/@dheerajdonikena/how-i-got-50-for-finding-the-same-data-behind-a-different-door-110eb32989eb?source=rss------bug_bounty_writeup-5)
 - [How I Broke a Financial App’s Pricing — By Sending Back What It Gave Me](https://medium.com/@dheerajdonikena/how-i-broke-a-financial-apps-pricing-by-sending-back-what-it-gave-me-51e67d402a43?source=rss------bug_bounty_writeup-5)
 - [How I Turned a Magic Link Feature Into Account Takeover](https://medium.com/@mrx_w_/how-i-turned-a-magic-link-feature-into-account-takeover-0745dcd30e96?source=rss------bug_bounty_writeup-5)
-- [Account Takeover via CSRF on the Email-Change Endpoint $1,300 Bounty](https://medium.com/@gautam2001sharma17/account-takeover-via-csrf-on-the-email-change-endpoint-1-300-bounty-957e46f30b5f?source=rss------bug_bounty_writeup-5)
 - [Lookup: TryHackMe CTF Walkthrough](https://infosecwriteups.com/lookup-tryhackme-walkthrough-3caf2a7efb45?source=rss----7b722bfd1b8d---4)
 - [JWTweak v2.1: A Guided, Offline Toolkit for Modern JWT Attacks](https://infosecwriteups.com/jwtweak-v2-1-a-guided-offline-toolkit-for-modern-jwt-attacks-d951fa31f964?source=rss----7b722bfd1b8d---4)
 - [No Rules, No Locks: Firebase Misconfiguration and the Borrowers It Left Behind](https://infosecwriteups.com/no-rules-no-locks-firebase-misconfiguration-and-the-borrowers-it-left-behind-90d568038414?source=rss----7b722bfd1b8d---4)
