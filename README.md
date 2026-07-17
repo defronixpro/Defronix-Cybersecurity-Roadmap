@@ -971,6 +971,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [I Built a Bug Bounty Recon Tool That Automates the Boring Parts &lpar;So I Don’t Have To&rpar;](https://kushalbhattarai.medium.com/i-built-a-bug-bounty-recon-tool-that-automates-the-boring-parts-so-i-dont-have-to-465585bf08dc?source=rss------bug_bounty_writeup-5)
 - [My Learning Journey with Bug Bounty Bootcamp book…](https://medium.com/@samadhanbarahate61/my-learning-journey-with-bug-bounty-bootcamp-book-65487a94e6a4?source=rss------bug_bounty_writeup-5)
 - [Zero Credentials, Full Access: Inside a Complete Authorization Failure](https://infosecwriteups.com/zero-credentials-full-access-inside-a-complete-authorization-failure-1607f0cf12ca?source=rss----7b722bfd1b8d---4)
 - [How I Found a Cross-Student IDOR in Academy LMS That Leaked Correct Quiz Answers](https://infosecwriteups.com/how-i-found-a-cross-student-idor-in-academy-lms-that-leaked-correct-quiz-answers-c68bfe06f3a0?source=rss----7b722bfd1b8d---4)
@@ -982,7 +983,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Lab 2 : Information Disclosure on a Debug Page](https://infosecwriteups.com/lab-2-information-disclosure-on-a-debug-page-5c0295cfbc12?source=rss----7b722bfd1b8d---4)
 - [TryHackMe — Linux Agency | Complete Write-Up &amp; Walkthrough](https://infosecwriteups.com/tryhackme-linux-agency-complete-write-up-walkthrough-82a20bd23d67?source=rss----7b722bfd1b8d---4)
 - [Host &amp; Network Penetration Testing: Exploitation CTF 3 — eJPT &lpar;INE&rpar;](https://infosecwriteups.com/host-network-penetration-testing-exploitation-ctf-3-ejpt-ine-9815c8abdfcb?source=rss----7b722bfd1b8d---4)
-- [File Upload Bypass Using a Pre-Signed S3 URL](https://medium.com/@m.elsaidy35/file-upload-bypass-on-indrive-29f81ba5ae5d?source=rss------bug_bounty_writeup-5)
+- [File Upload Bypass On Indrive](https://medium.com/@m.elsaidy35/file-upload-bypass-on-indrive-29f81ba5ae5d?source=rss------bug_bounty_writeup-5)
 - [How I Discovered a Weak Login Function Over HTTP That Exposed User Credentials](https://medium.com/@kirti.soni010/how-i-discovered-a-weak-login-function-over-http-that-exposed-user-credentials-f7ab18a4fb15?source=rss------bug_bounty_writeup-5)
 - [Workflow Bypass Leading to Unauthorized Access to Sensitive Records &lpar;IDOR / Broken Object-Level…](https://medium.com/@kaisec42/workflow-bypass-leading-to-unauthorized-access-to-sensitive-records-idor-broken-object-level-39bc801663e7?source=rss------bug_bounty_writeup-5)
 - [A Newsletter Confirmation Link That Doubled as a Permanent, Non-Expiring Login Token](https://medium.com/@northsidehacker/a-newsletter-confirmation-link-that-doubled-as-a-permanent-non-expiring-login-token-7bb7e424d0dc?source=rss------bug_bounty_writeup-5)
@@ -990,7 +991,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [API Fuzzing for Bug Bounty — Part 3: GraphQL Security — The Complete Attack Playbook](https://osintteam.blog/api-fuzzing-for-bug-bounty-part-3-graphql-security-the-complete-attack-playbook-5d1c0a91068d?source=rss------bug_bounty_writeup-5)
 - [I Asked the Frontend for Secrets, and It Said Yes](https://osintteam.blog/i-asked-the-frontend-for-secrets-and-it-said-yes-7cb62e15f750?source=rss------bug_bounty_writeup-5)
 - [Breaking CORS : Hunting CORS Misconfigurations For Bug Bounty](https://osintteam.blog/breaking-cors-hunting-cors-misconfigurations-for-bug-bounty-1f2c36f0e408?source=rss------bug_bounty_writeup-5)
-- [The Parameter That Redirects Nowhere: HTML Injection via redirect_page $125 Bounty](https://medium.com/@gautam2001sharma17/the-parameter-that-redirects-nowhere-html-injection-via-redirect-page-125-bounty-edab7ac9247f?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
