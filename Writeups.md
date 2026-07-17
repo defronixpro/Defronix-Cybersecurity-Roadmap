@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Cara Saya Menemukan Celah User Enumeration &amp; Missing Rate Limiting &lpar;Universitas Brawijaya&rpar;](https://medium.com/@Xenzuu7/cara-saya-menemukan-celah-user-enumeration-missing-rate-limiting-universitas-brawijaya-9f30e220223b?source=rss------bug_bounty_writeup-5)
 - [I Built a Bug Bounty Recon Tool That Automates the Boring Parts &lpar;So I Don’t Have To&rpar;](https://kushalbhattarai.medium.com/i-built-a-bug-bounty-recon-tool-that-automates-the-boring-parts-so-i-dont-have-to-465585bf08dc?source=rss------bug_bounty_writeup-5)
 - [My Learning Journey with Bug Bounty Bootcamp book…](https://medium.com/@samadhanbarahate61/my-learning-journey-with-bug-bounty-bootcamp-book-65487a94e6a4?source=rss------bug_bounty_writeup-5)
 - [Zero Credentials, Full Access: Inside a Complete Authorization Failure](https://infosecwriteups.com/zero-credentials-full-access-inside-a-complete-authorization-failure-1607f0cf12ca?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [&lpar;IDOR&rpar;Allows Deletion of OpenAPI Specification Files Across Organizations](https://medium.com/@X-Ghost/idor-allows-deletion-of-openapi-specification-files-across-organizations-22fe4d79711d?source=rss------bug_bounty_writeup-5)
 - [API Fuzzing for Bug Bounty — Part 3: GraphQL Security — The Complete Attack Playbook](https://osintteam.blog/api-fuzzing-for-bug-bounty-part-3-graphql-security-the-complete-attack-playbook-5d1c0a91068d?source=rss------bug_bounty_writeup-5)
 - [I Asked the Frontend for Secrets, and It Said Yes](https://osintteam.blog/i-asked-the-frontend-for-secrets-and-it-said-yes-7cb62e15f750?source=rss------bug_bounty_writeup-5)
-- [Breaking CORS : Hunting CORS Misconfigurations For Bug Bounty](https://osintteam.blog/breaking-cors-hunting-cors-misconfigurations-for-bug-bounty-1f2c36f0e408?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
