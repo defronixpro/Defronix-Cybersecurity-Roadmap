@@ -971,6 +971,9 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Bypassing Rate Limiting on a Password Reset Endpoint With a Single Whitespace Character](https://medium.com/@northsidehacker/bypassing-rate-limiting-on-a-password-reset-endpoint-with-a-single-whitespace-character-cb1691833d5b?source=rss------bug_bounty_writeup-5)
+- [Breaking the iframes: Modern Clickjacking Attacks Explained](https://osintteam.blog/breaking-the-iframes-modern-clickjacking-attacks-explained-3032da7c238f?source=rss------bug_bounty_writeup-5)
+- [Breaking Directories: A Bug Hunter’s Guide to Directory Traversal](https://osintteam.blog/breaking-directories-a-bug-hunters-guide-to-directory-traversal-112b98b515e7?source=rss------bug_bounty_writeup-5)
 - [I Found a CSRF-Style Bug in Proton and Earned a $200 Bounty.](https://medium.com/@kenjisubagja/i-found-a-csrf-style-bug-in-simplelogin-and-earned-a-200-bounty-7f0375f785d1?source=rss------bug_bounty_writeup-5)
 - [Cara Saya Menemukan Celah User Enumeration &amp; Missing Rate Limiting &lpar;Universitas Brawijaya&rpar;](https://medium.com/@Xenzuu7/cara-saya-menemukan-celah-user-enumeration-missing-rate-limiting-universitas-brawijaya-9f30e220223b?source=rss------bug_bounty_writeup-5)
 - [I Built a Bug Bounty Recon Tool That Automates the Boring Parts &lpar;So I Don’t Have To&rpar;](https://kushalbhattarai.medium.com/i-built-a-bug-bounty-recon-tool-that-automates-the-boring-parts-so-i-dont-have-to-465585bf08dc?source=rss------bug_bounty_writeup-5)
@@ -988,9 +991,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [File Upload Bypass On Indrive](https://medium.com/@m.elsaidy35/file-upload-bypass-on-indrive-29f81ba5ae5d?source=rss------bug_bounty_writeup-5)
 - [How I Discovered a Weak Login Function Over HTTP That Exposed User Credentials](https://medium.com/@kirti.soni010/how-i-discovered-a-weak-login-function-over-http-that-exposed-user-credentials-f7ab18a4fb15?source=rss------bug_bounty_writeup-5)
 - [Workflow Bypass Leading to Unauthorized Access to Sensitive Records &lpar;IDOR / Broken Object-Level…](https://medium.com/@kaisec42/workflow-bypass-leading-to-unauthorized-access-to-sensitive-records-idor-broken-object-level-39bc801663e7?source=rss------bug_bounty_writeup-5)
-- [A Newsletter Confirmation Link That Doubled as a Permanent, Non-Expiring Login Token](https://medium.com/@northsidehacker/a-newsletter-confirmation-link-that-doubled-as-a-permanent-non-expiring-login-token-7bb7e424d0dc?source=rss------bug_bounty_writeup-5)
-- [&lpar;IDOR&rpar;Allows Deletion of OpenAPI Specification Files Across Organizations](https://medium.com/@X-Ghost/idor-allows-deletion-of-openapi-specification-files-across-organizations-22fe4d79711d?source=rss------bug_bounty_writeup-5)
-- [API Fuzzing for Bug Bounty — Part 3: GraphQL Security — The Complete Attack Playbook](https://osintteam.blog/api-fuzzing-for-bug-bounty-part-3-graphql-security-the-complete-attack-playbook-5d1c0a91068d?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
