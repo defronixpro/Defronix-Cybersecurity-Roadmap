@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [When XSS Meets CSRF](https://mainekhacker.medium.com/when-xss-meets-csrf-3d595df08d0e?source=rss------bug_bounty_writeup-5)
 - [It Worked, Then It Didn’t, Then I Understood Why: A Bug Bounty Story on Authorization Bypass](https://atharvchawan.medium.com/it-worked-then-it-didnt-then-i-understood-why-a-bug-bounty-story-on-authorization-bypass-8104ff822da6?source=rss------bug_bounty_writeup-5)
 - [Device Code Phishing: How Attackers Abuse Microsoft’s Legitimate Authentication Page Without…](https://infosecwriteups.com/device-code-phishing-how-attackers-abuse-microsofts-legitimate-authentication-page-without-cfa189643f45?source=rss----7b722bfd1b8d---4)
 - [From SQL Injection to Infrastructure-Level RCE: A PostgreSQL Superuser Compromise](https://infosecwriteups.com/from-sql-injection-to-infrastructure-level-rce-a-postgresql-superuser-compromise-2e0169207286?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [I Built a Bug Bounty Recon Tool That Automates the Boring Parts &lpar;So I Don’t Have To&rpar;](https://kushalbhattarai.medium.com/i-built-a-bug-bounty-recon-tool-that-automates-the-boring-parts-so-i-dont-have-to-465585bf08dc?source=rss------bug_bounty_writeup-5)
 - [My Learning Journey with Bug Bounty Bootcamp book…](https://medium.com/@samadhanbarahate61/my-learning-journey-with-bug-bounty-bootcamp-book-65487a94e6a4?source=rss------bug_bounty_writeup-5)
 - [File Upload Bypass On Indrive](https://medium.com/@m.elsaidy35/file-upload-bypass-on-indrive-29f81ba5ae5d?source=rss------bug_bounty_writeup-5)
-- [How I Discovered a Weak Login Function Over HTTP That Exposed User Credentials](https://medium.com/@kirti.soni010/how-i-discovered-a-weak-login-function-over-http-that-exposed-user-credentials-f7ab18a4fb15?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
