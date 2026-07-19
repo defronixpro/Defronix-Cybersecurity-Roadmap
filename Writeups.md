@@ -1,7 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
-- [How I Found a Race Condition in an Email Verification Feature](https://medium.com/@mm4568434/how-i-found-a-race-condition-in-an-email-verification-feature-57f3637e9ca9?source=rss------bug_bounty_writeup-5)
+- [How I Found a Race Condition in an Email Verification Feature](https://mazenrady.medium.com/how-i-found-a-race-condition-in-an-email-verification-feature-57f3637e9ca9?source=rss------bug_bounty_writeup-5)
 - [When XSS Meets CSRF](https://mainekhacker.medium.com/when-xss-meets-csrf-3d595df08d0e?source=rss------bug_bounty_writeup-5)
 - [It Worked, Then It Didn’t, Then I Understood Why: A Bug Bounty Story on Authorization Bypass](https://atharvchawan.medium.com/it-worked-then-it-didnt-then-i-understood-why-a-bug-bounty-story-on-authorization-bypass-8104ff822da6?source=rss------bug_bounty_writeup-5)
 - [Device Code Phishing: How Attackers Abuse Microsoft’s Legitimate Authentication Page Without…](https://infosecwriteups.com/device-code-phishing-how-attackers-abuse-microsofts-legitimate-authentication-page-without-cfa189643f45?source=rss----7b722bfd1b8d---4)
