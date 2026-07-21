@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [The Subdomain Subfinder Missed: How a German Wordlist Led Me to a Hidden Bug &lpar;and a CHF 100…](https://infosecwriteups.com/the-subdomain-subfinder-missed-how-a-german-wordlist-led-me-to-a-hidden-bug-and-a-chf-100-d53ac4e6a880?source=rss------bug_bounty_writeup-5)
 - [Web Cache Deception: Exploiting Path Mapping for Walkthrough &lpar;Apprentice&rpar;](https://1amrahul.medium.com/web-cache-deception-exploiting-path-mapping-for-walkthrough-apprentice-feddd64c593a?source=rss------bug_bounty_writeup-5)
 - [Hunting an Unauthenticated IDOR in a Registration API](https://medium.com/@am8337/hunting-an-unauthenticated-idor-in-a-registration-api-6bb8036162e7?source=rss------bug_bounty_writeup-5)
 - [Account Lockout Abuse: How a Login Protection Mechanism Became a Potential DoS Vector](https://mazenrady.medium.com/account-lockout-abuse-how-a-login-protection-mechanism-became-a-potential-dos-vector-2e6b94a274f4?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [600$ For Stealing Podcasts/Show via RSS Feed Manipulation](https://infosecwriteups.com/600-for-stealing-podcasts-show-via-rss-feed-manipulation-f3f2cef08adf?source=rss----7b722bfd1b8d---4)
 - [Decoding the Obfuscated Layer: A Playbook Walkthrough of Command-Line Forensics](https://infosecwriteups.com/decoding-the-obfuscated-layer-a-playbook-walkthrough-of-command-line-forensics-d96840b5b5ef?source=rss----7b722bfd1b8d---4)
 - [Bypassing Rate Limiting on a Password Reset Endpoint With a Single Whitespace Character](https://medium.com/@northsidehacker/bypassing-rate-limiting-on-a-password-reset-endpoint-with-a-single-whitespace-character-cb1691833d5b?source=rss------bug_bounty_writeup-5)
-- [Breaking the iframes: Modern Clickjacking Attacks Explained](https://osintteam.blog/breaking-the-iframes-modern-clickjacking-attacks-explained-3032da7c238f?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
