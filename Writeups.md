@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How I Discovered a Critical Unauthorized Balance Top-Up Vulnerability Worth $3,000](https://medium.com/@0x0sadat/how-i-discovered-a-critical-unauthorized-balance-top-up-vulnerability-worth-3-000-2385eb2ce570?source=rss------bug_bounty_writeup-5)
 - [AllSignsPoint2Pwnage — TryHackMe Windows Write-up](https://infosecwriteups.com/allsignspoint2pwnage-tryhackme-windows-write-up-006864c93de0?source=rss----7b722bfd1b8d---4)
 - [PortSwigger Lab Writeup — Bypassing AI scanner defenses to exfiltrate sensitive information](https://infosecwriteups.com/portswigger-lab-writeup-bypassing-ai-scanner-defenses-to-exfiltrate-sensitive-information-92394302f4d4?source=rss----7b722bfd1b8d---4)
 - [The Subdomain Subfinder Missed: How a German Wordlist Led Me to a Hidden Bug &lpar;and a CHF 100…](https://infosecwriteups.com/the-subdomain-subfinder-missed-how-a-german-wordlist-led-me-to-a-hidden-bug-and-a-chf-100-d53ac4e6a880?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How I AES-Roasted My Active Directory Lab &lpar;And How to Fix It&rpar;](https://infosecwriteups.com/how-i-aes-roasted-my-active-directory-lab-and-how-to-fix-it-2bc057a8a20e?source=rss----7b722bfd1b8d---4)
 - [eCPPTv3 Review](https://infosecwriteups.com/ecpptv3-review-522cf02bf996?source=rss----7b722bfd1b8d---4)
 - [CallMeOnTheChain — EtherRAT Lab Writeup [CyberDefenders]](https://infosecwriteups.com/callmeonthechain-etherrat-lab-writeup-cyberdefenders-e7aecaf51b7a?source=rss----7b722bfd1b8d---4)
-- [Bypassing Rate Limiting on a Password Reset Endpoint With a Single Whitespace Character](https://medium.com/@northsidehacker/bypassing-rate-limiting-on-a-password-reset-endpoint-with-a-single-whitespace-character-cb1691833d5b?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
