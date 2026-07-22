@@ -971,6 +971,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [AllSignsPoint2Pwnage — TryHackMe Windows Write-up](https://infosecwriteups.com/allsignspoint2pwnage-tryhackme-windows-write-up-006864c93de0?source=rss----7b722bfd1b8d---4)
+- [PortSwigger Lab Writeup — Bypassing AI scanner defenses to exfiltrate sensitive information](https://infosecwriteups.com/portswigger-lab-writeup-bypassing-ai-scanner-defenses-to-exfiltrate-sensitive-information-92394302f4d4?source=rss----7b722bfd1b8d---4)
 - [The Subdomain Subfinder Missed: How a German Wordlist Led Me to a Hidden Bug &lpar;and a CHF 100…](https://infosecwriteups.com/the-subdomain-subfinder-missed-how-a-german-wordlist-led-me-to-a-hidden-bug-and-a-chf-100-d53ac4e6a880?source=rss------bug_bounty_writeup-5)
 - [Web Cache Deception: Exploiting Path Mapping for Walkthrough &lpar;Apprentice&rpar;](https://1amrahul.medium.com/web-cache-deception-exploiting-path-mapping-for-walkthrough-apprentice-feddd64c593a?source=rss------bug_bounty_writeup-5)
 - [Hunting an Unauthenticated IDOR in a Registration API](https://medium.com/@am8337/hunting-an-unauthenticated-idor-in-a-registration-api-6bb8036162e7?source=rss------bug_bounty_writeup-5)
@@ -988,8 +990,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How I AES-Roasted My Active Directory Lab &lpar;And How to Fix It&rpar;](https://infosecwriteups.com/how-i-aes-roasted-my-active-directory-lab-and-how-to-fix-it-2bc057a8a20e?source=rss----7b722bfd1b8d---4)
 - [eCPPTv3 Review](https://infosecwriteups.com/ecpptv3-review-522cf02bf996?source=rss----7b722bfd1b8d---4)
 - [CallMeOnTheChain — EtherRAT Lab Writeup [CyberDefenders]](https://infosecwriteups.com/callmeonthechain-etherrat-lab-writeup-cyberdefenders-e7aecaf51b7a?source=rss----7b722bfd1b8d---4)
-- [600$ For Stealing Podcasts/Show via RSS Feed Manipulation](https://infosecwriteups.com/600-for-stealing-podcasts-show-via-rss-feed-manipulation-f3f2cef08adf?source=rss----7b722bfd1b8d---4)
-- [Decoding the Obfuscated Layer: A Playbook Walkthrough of Command-Line Forensics](https://infosecwriteups.com/decoding-the-obfuscated-layer-a-playbook-walkthrough-of-command-line-forensics-d96840b5b5ef?source=rss----7b722bfd1b8d---4)
 - [Bypassing Rate Limiting on a Password Reset Endpoint With a Single Whitespace Character](https://medium.com/@northsidehacker/bypassing-rate-limiting-on-a-password-reset-endpoint-with-a-single-whitespace-character-cb1691833d5b?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
