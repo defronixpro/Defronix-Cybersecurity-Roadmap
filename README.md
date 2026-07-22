@@ -973,6 +973,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 <!-- WRITEUPS:START -->
 - [AllSignsPoint2Pwnage — TryHackMe Windows Write-up](https://infosecwriteups.com/allsignspoint2pwnage-tryhackme-windows-write-up-006864c93de0?source=rss----7b722bfd1b8d---4)
 - [PortSwigger Lab Writeup — Bypassing AI scanner defenses to exfiltrate sensitive information](https://infosecwriteups.com/portswigger-lab-writeup-bypassing-ai-scanner-defenses-to-exfiltrate-sensitive-information-92394302f4d4?source=rss----7b722bfd1b8d---4)
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes, with proof of exploitation.
 - [The Subdomain Subfinder Missed: How a German Wordlist Led Me to a Hidden Bug &lpar;and a CHF 100…](https://infosecwriteups.com/the-subdomain-subfinder-missed-how-a-german-wordlist-led-me-to-a-hidden-bug-and-a-chf-100-d53ac4e6a880?source=rss------bug_bounty_writeup-5)
 - [Web Cache Deception: Exploiting Path Mapping for Walkthrough &lpar;Apprentice&rpar;](https://1amrahul.medium.com/web-cache-deception-exploiting-path-mapping-for-walkthrough-apprentice-feddd64c593a?source=rss------bug_bounty_writeup-5)
 - [Hunting an Unauthenticated IDOR in a Registration API](https://medium.com/@am8337/hunting-an-unauthenticated-idor-in-a-registration-api-6bb8036162e7?source=rss------bug_bounty_writeup-5)
