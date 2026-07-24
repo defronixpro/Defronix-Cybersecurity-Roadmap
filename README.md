@@ -971,6 +971,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [The Organization Had No Owner… Yet I Could Still Join It](https://medium.com/@0xMo7areb/the-organization-had-no-owner-yet-i-could-still-join-it-605016230d2d?source=rss------bug_bounty_writeup-5)
 - [How a Simple Google Dork Led Me to Find Reflected XSS &amp; HTML Injection on NASA and Earn a Letter of…](https://medium.com/@itss4leh/how-a-simple-google-dork-led-me-to-find-reflected-xss-html-injection-on-nasa-and-earn-a-letter-of-83075852de42?source=rss------bug_bounty_writeup-5)
 - [Tailgate/WreckIt 7.0 Web Exploitation Challenge Write Up&lpar;CL;TE Vulnerability&rpar;](https://mailvelous.medium.com/tailgate-wreckit-7-0-web-exploitation-challenge-write-up-cl-te-vulnerability-b435a2ba0cd5?source=rss------bug_bounty_writeup-5)
 - [Change Your Role, or Change the Role?](https://medium.com/@r4sh1dy/change-your-role-or-change-the-role-a2870060714c?source=rss------bug_bounty_writeup-5)
@@ -984,7 +985,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Hunting an Unauthenticated IDOR in a Registration API](https://medium.com/@am8337/hunting-an-unauthenticated-idor-in-a-registration-api-6bb8036162e7?source=rss------bug_bounty_writeup-5)
 - [Account Lockout Abuse: How a Login Protection Mechanism Became a Potential DoS Vector](https://mazenrady.medium.com/account-lockout-abuse-how-a-login-protection-mechanism-became-a-potential-dos-vector-2e6b94a274f4?source=rss------bug_bounty_writeup-5)
 - [# From “users” to “admin”: How a Simple Response Copy-Paste Led to Privilege Escalation](https://medium.com/@pankaj_73968/from-users-to-admin-how-a-simple-response-copy-paste-led-to-privilege-escalation-f93c1220f1e5?source=rss------bug_bounty_writeup-5)
-- [Account Takeover via Broken Password Reset Validation](https://medium.com/@z9mohamed74/account-takeover-via-broken-password-reset-validation-35cb3c0d07c1?source=rss------bug_bounty_writeup-5)
 - [Device Code Phishing: How Attackers Abuse Microsoft’s Legitimate Authentication Page Without…](https://infosecwriteups.com/device-code-phishing-how-attackers-abuse-microsofts-legitimate-authentication-page-without-cfa189643f45?source=rss----7b722bfd1b8d---4)
 - [From SQL Injection to Infrastructure-Level RCE: A PostgreSQL Superuser Compromise](https://infosecwriteups.com/from-sql-injection-to-infrastructure-level-rce-a-postgresql-superuser-compromise-2e0169207286?source=rss----7b722bfd1b8d---4)
 - [From User Enumeration to PII Exposure: Chaining Two APIs Into a $2,000 Bug](https://infosecwriteups.com/from-user-enumeration-to-pii-exposure-chaining-two-apis-into-a-2-000-bug-adb9ed54ab30?source=rss----7b722bfd1b8d---4)
