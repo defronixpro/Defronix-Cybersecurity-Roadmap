@@ -971,6 +971,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Finding 4 Logic Vulnerabilities in a Single E-Commerce Target](https://medium.com/@zyad_ibrahim333/finding-4-logic-vulnerabilities-in-a-single-e-commerce-target-c448ff4cea76?source=rss------bug_bounty_writeup-5)
 - [The Organization Had No Owner… Yet I Could Still Join It](https://medium.com/@0xMo7areb/the-organization-had-no-owner-yet-i-could-still-join-it-605016230d2d?source=rss------bug_bounty_writeup-5)
 - [How a Simple Google Dork Led Me to Find Reflected XSS &amp; HTML Injection on NASA and Earn a Letter of…](https://medium.com/@itss4leh/how-a-simple-google-dork-led-me-to-find-reflected-xss-html-injection-on-nasa-and-earn-a-letter-of-83075852de42?source=rss------bug_bounty_writeup-5)
 - [Tailgate/WreckIt 7.0 Web Exploitation Challenge Write Up&lpar;CL;TE Vulnerability&rpar;](https://mailvelous.medium.com/tailgate-wreckit-7-0-web-exploitation-challenge-write-up-cl-te-vulnerability-b435a2ba0cd5?source=rss------bug_bounty_writeup-5)
@@ -984,7 +985,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Web Cache Deception: Exploiting Path Mapping for Walkthrough &lpar;Apprentice&rpar;](https://1amrahul.medium.com/web-cache-deception-exploiting-path-mapping-for-walkthrough-apprentice-feddd64c593a?source=rss------bug_bounty_writeup-5)
 - [Hunting an Unauthenticated IDOR in a Registration API](https://medium.com/@am8337/hunting-an-unauthenticated-idor-in-a-registration-api-6bb8036162e7?source=rss------bug_bounty_writeup-5)
 - [Account Lockout Abuse: How a Login Protection Mechanism Became a Potential DoS Vector](https://mazenrady.medium.com/account-lockout-abuse-how-a-login-protection-mechanism-became-a-potential-dos-vector-2e6b94a274f4?source=rss------bug_bounty_writeup-5)
-- [# From “users” to “admin”: How a Simple Response Copy-Paste Led to Privilege Escalation](https://medium.com/@pankaj_73968/from-users-to-admin-how-a-simple-response-copy-paste-led-to-privilege-escalation-f93c1220f1e5?source=rss------bug_bounty_writeup-5)
 - [Device Code Phishing: How Attackers Abuse Microsoft’s Legitimate Authentication Page Without…](https://infosecwriteups.com/device-code-phishing-how-attackers-abuse-microsofts-legitimate-authentication-page-without-cfa189643f45?source=rss----7b722bfd1b8d---4)
 - [From SQL Injection to Infrastructure-Level RCE: A PostgreSQL Superuser Compromise](https://infosecwriteups.com/from-sql-injection-to-infrastructure-level-rce-a-postgresql-superuser-compromise-2e0169207286?source=rss----7b722bfd1b8d---4)
 - [From User Enumeration to PII Exposure: Chaining Two APIs Into a $2,000 Bug](https://infosecwriteups.com/from-user-enumeration-to-pii-exposure-chaining-two-apis-into-a-2-000-bug-adb9ed54ab30?source=rss----7b722bfd1b8d---4)
@@ -995,7 +995,17 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
 - [How to backup and restore the Windows Registry](https://www.bleepingcomputer.com/tutorials/how-to-backup-and-restore-the-windows-registry/)
+- [How To Fix Error: Externally-Managed-Environment In Python &lpar;Kali Linux&rpar;](https://technicalnavigator.in/how-to-fix-error-externally-managed-environment-in-python-kali-linux/)
+- [Understanding Systemctl Command in Linux &lpar;Practical&rpar;](https://technicalnavigator.in/understanding-systemctl-command-in-linux-practical/)
+- [Macros in docm &amp; Linux memory dump| Hack The Boo  Challanges](https://technicalnavigator.in/macros-in-docm-linux-memory-dump-hack-the-boo-challanges/)
+- [Android Apps debugging |  Frida, JADX, Genymotion](https://technicalnavigator.in/android-apps-debugging-frida-jadx-genymotion/)
+- [MouseServer | wifimouse – Windows/ Linux](https://technicalnavigator.in/mouseserver-wifimouse-windows-linux/)
+- [FFUF fuzzer | web-application penetration-testing](https://technicalnavigator.in/ffuf-fuzzer-web-application-penetration-testing/)
 - [How to open a Windows 11 Command Prompt as Administrator](https://www.bleepingcomputer.com/tutorials/how-to-open-a-windows-11-command-prompt-as-administrator/)
+- [Classes-Objects &amp; Deserialization bug](https://technicalnavigator.in/classes-objects-deserialization-bug/)
+- [Loki Tool | Multhreading Over Sockets in C](https://technicalnavigator.in/loki-tool-multhreading-over-sockets-in-c/)
+- [Egghunter | NASM | C prototype](https://technicalnavigator.in/egghunter-nasm-c-prototype/)
+- [TELNET &amp; FTP Analysis](https://technicalnavigator.in/telnet-ftp-analysis/)
 - [How to make the Start menu full screen in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-make-the-start-menu-full-screen-in-windows-10/)
 - [How to install the Microsoft Visual C++ 2015 Runtime](https://www.bleepingcomputer.com/tutorials/how-to-install-the-microsoft-visual-c-2015-runtime/)
 - [How to open an elevated PowerShell Admin prompt in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-open-an-elevated-powershell-admin-prompt-in-windows-10/)
