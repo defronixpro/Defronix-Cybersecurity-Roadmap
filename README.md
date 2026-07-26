@@ -971,6 +971,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [One Header Away from 10+ GB of Customer Documents &lpar;PII&rpar; — $6K Bounty](https://alvinferd.medium.com/one-header-away-from-10-gb-of-customer-documents-pii-6k-bounty-0c0ac8c335f2?source=rss------bug_bounty_writeup-5)
 - [CRLF Injection — Advanced Bypass Techniques &lpar; P 2/3 &rpar;](https://medium.com/@cybersecplayground/crlf-injection-advanced-bypass-techniques-p-2-3-62b2ca091f7d?source=rss------bug_bounty_writeup-5)
 - [I Modified Collections I Did Not Own: IDOR](https://scriptjacker.medium.com/i-modified-collections-i-did-not-own-idor-856fb856a90e?source=rss------bug_bounty_writeup-5)
 - [The Bug Bounty Reality Check: 10 Hard Truths Every Hunter Learns the Hard Way &lpar;2026 Edition&rpar;](https://medium.com/@tanjimul_islam/the-bug-bounty-reality-check-10-hard-truths-every-hunter-learns-the-hard-way-2026-edition-40d8bd173ad7?source=rss------bug_bounty_writeup-5)
@@ -984,7 +985,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How I Discovered a Critical Unauthorized Balance Top-Up Vulnerability Worth $3,000](https://medium.com/@0x0sadat/how-i-discovered-a-critical-unauthorized-balance-top-up-vulnerability-worth-3-000-2385eb2ce570?source=rss------bug_bounty_writeup-5)
 - [AllSignsPoint2Pwnage — TryHackMe Windows Write-up](https://infosecwriteups.com/allsignspoint2pwnage-tryhackme-windows-write-up-006864c93de0?source=rss----7b722bfd1b8d---4)
 - [PortSwigger Lab Writeup — Bypassing AI scanner defenses to exfiltrate sensitive information](https://infosecwriteups.com/portswigger-lab-writeup-bypassing-ai-scanner-defenses-to-exfiltrate-sensitive-information-92394302f4d4?source=rss----7b722bfd1b8d---4)
-- [The Subdomain Subfinder Missed: How a German Wordlist Led Me to a Hidden Bug &lpar;and a CHF 100…](https://infosecwriteups.com/the-subdomain-subfinder-missed-how-a-german-wordlist-led-me-to-a-hidden-bug-and-a-chf-100-d53ac4e6a880?source=rss------bug_bounty_writeup-5)
 - [Device Code Phishing: How Attackers Abuse Microsoft’s Legitimate Authentication Page Without…](https://infosecwriteups.com/device-code-phishing-how-attackers-abuse-microsofts-legitimate-authentication-page-without-cfa189643f45?source=rss----7b722bfd1b8d---4)
 - [From SQL Injection to Infrastructure-Level RCE: A PostgreSQL Superuser Compromise](https://infosecwriteups.com/from-sql-injection-to-infrastructure-level-rce-a-postgresql-superuser-compromise-2e0169207286?source=rss----7b722bfd1b8d---4)
 - [From User Enumeration to PII Exposure: Chaining Two APIs Into a $2,000 Bug](https://infosecwriteups.com/from-user-enumeration-to-pii-exposure-chaining-two-apis-into-a-2-000-bug-adb9ed54ab30?source=rss----7b722bfd1b8d---4)
