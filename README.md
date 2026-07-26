@@ -971,7 +971,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [One Header Away from 10+ GB of Customer Documents &lpar;PII&rpar; — $6K Bounty](https://alvinferd.medium.com/one-header-away-from-10-gb-of-customer-documents-pii-6k-bounty-0c0ac8c335f2?source=rss------bug_bounty_writeup-5)
+- [Snowflake SQL Injection via Compile-Time Constant Folding with SYSTEM$WAIT](https://infosecwriteups.com/snowflake-sql-injection-via-compile-time-constant-folding-with-system-wait-81374a58e089?source=rss------bug_bounty_writeup-5)
+- [One Header Away from 10+ GB of Customer Documents &lpar;PII&rpar; — $6K Bounty](https://infosecwriteups.com/one-header-away-from-10-gb-of-customer-documents-pii-6k-bounty-0c0ac8c335f2?source=rss------bug_bounty_writeup-5)
 - [CRLF Injection — Advanced Bypass Techniques &lpar; P 2/3 &rpar;](https://medium.com/@cybersecplayground/crlf-injection-advanced-bypass-techniques-p-2-3-62b2ca091f7d?source=rss------bug_bounty_writeup-5)
 - [I Modified Collections I Did Not Own: IDOR](https://scriptjacker.medium.com/i-modified-collections-i-did-not-own-idor-856fb856a90e?source=rss------bug_bounty_writeup-5)
 - [The Bug Bounty Reality Check: 10 Hard Truths Every Hunter Learns the Hard Way &lpar;2026 Edition&rpar;](https://medium.com/@tanjimul_islam/the-bug-bounty-reality-check-10-hard-truths-every-hunter-learns-the-hard-way-2026-edition-40d8bd173ad7?source=rss------bug_bounty_writeup-5)
@@ -982,7 +983,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Change Your Role, or Change the Role?](https://medium.com/@r4sh1dy/change-your-role-or-change-the-role-a2870060714c?source=rss------bug_bounty_writeup-5)
 - [How to deploy File Integrity Monitoring with Wazuh SIEM!](https://infosecwriteups.com/how-to-deploy-file-integrity-monitoring-withwazuh-siem-106eb463eb10?source=rss----7b722bfd1b8d---4)
 - [Two Ways To Mess Up Your JWT Safety Net In Your Own Lab.](https://infosecwriteups.com/two-ways-to-mess-up-your-jwt-safety-net-in-your-own-lab-6d94a963b07d?source=rss----7b722bfd1b8d---4)
-- [How I Discovered a Critical Unauthorized Balance Top-Up Vulnerability Worth $3,000](https://medium.com/@0x0sadat/how-i-discovered-a-critical-unauthorized-balance-top-up-vulnerability-worth-3-000-2385eb2ce570?source=rss------bug_bounty_writeup-5)
 - [AllSignsPoint2Pwnage — TryHackMe Windows Write-up](https://infosecwriteups.com/allsignspoint2pwnage-tryhackme-windows-write-up-006864c93de0?source=rss----7b722bfd1b8d---4)
 - [PortSwigger Lab Writeup — Bypassing AI scanner defenses to exfiltrate sensitive information](https://infosecwriteups.com/portswigger-lab-writeup-bypassing-ai-scanner-defenses-to-exfiltrate-sensitive-information-92394302f4d4?source=rss----7b722bfd1b8d---4)
 - [Device Code Phishing: How Attackers Abuse Microsoft’s Legitimate Authentication Page Without…](https://infosecwriteups.com/device-code-phishing-how-attackers-abuse-microsofts-legitimate-authentication-page-without-cfa189643f45?source=rss----7b722bfd1b8d---4)
