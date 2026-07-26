@@ -971,6 +971,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [admin:admin123 — How Default Keycloak Credentials on a Cargo Training Environment Exposed 766…](https://medium.com/@priyanshbhadoria5/admin-admin123-how-default-keycloak-credentials-on-a-cargo-training-environment-exposed-766-f026dcf45023?source=rss------bug_bounty_writeup-5)
 - [Unauthenticated Disclosure of A/B Test Data in Convert Pro — How Two Forgotten AJAX Endpoints…](https://infosecwriteups.com/unauthenticated-disclosure-of-a-b-test-data-in-convert-pro-how-two-forgotten-ajax-endpoints-dbefc9c3e440?source=rss------bug_bounty_writeup-5)
 - [PeekList: How Brave’s Playlist bypassed FaceID Protection for Private Tabs](https://infosecwriteups.com/peeklist-how-braves-playlist-bypassed-faceid-protection-for-private-tabs-9d1691b077be?source=rss------bug_bounty_writeup-5)
 - [How an Unpatched N-Day Let Any Anonymous Visitor Rewrite WooCommerce Prices in ND Booking](https://infosecwriteups.com/how-an-unpatched-n-day-let-any-anonymous-visitor-rewrite-woocommerce-prices-in-nd-booking-65c69c9a32ef?source=rss------bug_bounty_writeup-5)
@@ -980,7 +981,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [CRLF Injection — Advanced Bypass Techniques &lpar; P 2/3 &rpar;](https://medium.com/@cybersecplayground/crlf-injection-advanced-bypass-techniques-p-2-3-62b2ca091f7d?source=rss------bug_bounty_writeup-5)
 - [I Modified Collections I Did Not Own: IDOR](https://scriptjacker.medium.com/i-modified-collections-i-did-not-own-idor-856fb856a90e?source=rss------bug_bounty_writeup-5)
 - [The Bug Bounty Reality Check: 10 Hard Truths Every Hunter Learns the Hard Way &lpar;2026 Edition&rpar;](https://medium.com/@tanjimul_islam/the-bug-bounty-reality-check-10-hard-truths-every-hunter-learns-the-hard-way-2026-edition-40d8bd173ad7?source=rss------bug_bounty_writeup-5)
-- [Finding 4 Logic Vulnerabilities in a Single E-Commerce Target](https://medium.com/@zyad_ibrahim333/finding-4-logic-vulnerabilities-in-a-single-e-commerce-target-c448ff4cea76?source=rss------bug_bounty_writeup-5)
 - [How to deploy File Integrity Monitoring with Wazuh SIEM!](https://infosecwriteups.com/how-to-deploy-file-integrity-monitoring-withwazuh-siem-106eb463eb10?source=rss----7b722bfd1b8d---4)
 - [Two Ways To Mess Up Your JWT Safety Net In Your Own Lab.](https://infosecwriteups.com/two-ways-to-mess-up-your-jwt-safety-net-in-your-own-lab-6d94a963b07d?source=rss----7b722bfd1b8d---4)
 - [AllSignsPoint2Pwnage — TryHackMe Windows Write-up](https://infosecwriteups.com/allsignspoint2pwnage-tryhackme-windows-write-up-006864c93de0?source=rss----7b722bfd1b8d---4)
