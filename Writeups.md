@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How to Start Bug Bounty Hunting in 2026: The Complete Beginner’s Guide](https://medium.com/@b0dj0x/how-to-start-bug-bounty-hunting-in-2026-the-complete-beginners-guide-bb10b7aa1012?source=rss------bug_bounty_writeup-5)
 - [How a Hidden GraphQL Endpoint Led Me to a Critical SQL Injection Worth €2,500](https://medium.com/@0x0sadat/how-a-hidden-graphql-endpoint-led-me-to-a-critical-sql-injection-worth-2-500-a2e39521944b?source=rss------bug_bounty_writeup-5)
 - [My eJPTv2 Journey — 82%](https://infosecwriteups.com/my-ejptv2-journey-82-a135093b247d?source=rss----7b722bfd1b8d---4)
 - [Unauthenticated Disclosure of A/B Test Data in Convert Pro — How Two Forgotten AJAX Endpoints…](https://infosecwriteups.com/unauthenticated-disclosure-of-a-b-test-data-in-convert-pro-how-two-forgotten-ajax-endpoints-dbefc9c3e440?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How an Unpatched N-Day Let Any Anonymous Visitor Rewrite WooCommerce Prices in ND Booking](https://infosecwriteups.com/how-an-unpatched-n-day-let-any-anonymous-visitor-rewrite-woocommerce-prices-in-nd-booking-65c69c9a32ef?source=rss------bug_bounty_writeup-5)
 - [The Header That Signed Itself: Full Account Takeover in a Google SSO Flow](https://uchihamrx.medium.com/the-header-that-signed-itself-full-account-takeover-in-a-google-sso-flow-940ed68b77e2?source=rss------bug_bounty_writeup-5)
 - [Snowflake SQL Injection via Compile-Time Constant Folding with SYSTEM$WAIT](https://infosecwriteups.com/snowflake-sql-injection-via-compile-time-constant-folding-with-system-wait-81374a58e089?source=rss------bug_bounty_writeup-5)
-- [One Header Away from 10+ GB of Customer Documents &lpar;PII&rpar; — $6K Bounty](https://infosecwriteups.com/one-header-away-from-10-gb-of-customer-documents-pii-6k-bounty-0c0ac8c335f2?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
