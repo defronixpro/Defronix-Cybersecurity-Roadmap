@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How I Found a Reflected XSS and Bypassed Wordfence WAF](https://medium.com/@elko0k/how-i-found-a-reflected-xss-and-bypassed-wordfence-waf-a7a120a0b952?source=rss------bug_bounty_writeup-5)
 - [I Found 15 Critical Vulnerabilities in One Afternoon](https://infosecwriteups.com/i-found-15-critical-vulnerabilities-in-one-afternoon-c9f16e88f652?source=rss------bug_bounty_writeup-5)
 - [admin:admin123 — How Default Keycloak Credentials on a Cargo Training Environment Exposed 766…](https://medium.com/@priyanshbhadoria5/admin-admin123-how-default-keycloak-credentials-on-a-cargo-training-environment-exposed-766-f026dcf45023?source=rss------bug_bounty_writeup-5)
 - [Unauthenticated Disclosure of A/B Test Data in Convert Pro — How Two Forgotten AJAX Endpoints…](https://infosecwriteups.com/unauthenticated-disclosure-of-a-b-test-data-in-convert-pro-how-two-forgotten-ajax-endpoints-dbefc9c3e440?source=rss------bug_bounty_writeup-5)
@@ -10,7 +11,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Snowflake SQL Injection via Compile-Time Constant Folding with SYSTEM$WAIT](https://infosecwriteups.com/snowflake-sql-injection-via-compile-time-constant-folding-with-system-wait-81374a58e089?source=rss------bug_bounty_writeup-5)
 - [One Header Away from 10+ GB of Customer Documents &lpar;PII&rpar; — $6K Bounty](https://infosecwriteups.com/one-header-away-from-10-gb-of-customer-documents-pii-6k-bounty-0c0ac8c335f2?source=rss------bug_bounty_writeup-5)
 - [CRLF Injection — Advanced Bypass Techniques &lpar; P 2/3 &rpar;](https://medium.com/@cybersecplayground/crlf-injection-advanced-bypass-techniques-p-2-3-62b2ca091f7d?source=rss------bug_bounty_writeup-5)
-- [I Modified Collections I Did Not Own: IDOR](https://scriptjacker.medium.com/i-modified-collections-i-did-not-own-idor-856fb856a90e?source=rss------bug_bounty_writeup-5)
 - [How to deploy File Integrity Monitoring with Wazuh SIEM!](https://infosecwriteups.com/how-to-deploy-file-integrity-monitoring-withwazuh-siem-106eb463eb10?source=rss----7b722bfd1b8d---4)
 - [Two Ways To Mess Up Your JWT Safety Net In Your Own Lab.](https://infosecwriteups.com/two-ways-to-mess-up-your-jwt-safety-net-in-your-own-lab-6d94a963b07d?source=rss----7b722bfd1b8d---4)
 - [AllSignsPoint2Pwnage — TryHackMe Windows Write-up](https://infosecwriteups.com/allsignspoint2pwnage-tryhackme-windows-write-up-006864c93de0?source=rss----7b722bfd1b8d---4)
