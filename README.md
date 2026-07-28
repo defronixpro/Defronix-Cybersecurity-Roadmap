@@ -971,6 +971,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I Turned an “Informative” HTML Injection into My First Paid Bounty](https://medium.com/@muhammadmaftuhk261/how-i-turned-an-informative-html-injection-into-my-first-paid-bounty-86de1aa4c8fd?source=rss------bug_bounty_writeup-5)
 - [How to Start Bug Bounty Hunting in 2026: The Complete Beginner’s Guide](https://medium.com/@b0dj0x/how-to-start-bug-bounty-hunting-in-2026-the-complete-beginners-guide-bb10b7aa1012?source=rss------bug_bounty_writeup-5)
 - [How a Hidden GraphQL Endpoint Led Me to a Critical SQL Injection Worth €2,500](https://medium.com/@0x0sadat/how-a-hidden-graphql-endpoint-led-me-to-a-critical-sql-injection-worth-2-500-a2e39521944b?source=rss------bug_bounty_writeup-5)
 - [My eJPTv2 Journey — 82%](https://infosecwriteups.com/my-ejptv2-journey-82-a135093b247d?source=rss----7b722bfd1b8d---4)
@@ -990,7 +991,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [PeekList: How Brave’s Playlist bypassed FaceID Protection for Private Tabs](https://infosecwriteups.com/peeklist-how-braves-playlist-bypassed-faceid-protection-for-private-tabs-9d1691b077be?source=rss------bug_bounty_writeup-5)
 - [How an Unpatched N-Day Let Any Anonymous Visitor Rewrite WooCommerce Prices in ND Booking](https://infosecwriteups.com/how-an-unpatched-n-day-let-any-anonymous-visitor-rewrite-woocommerce-prices-in-nd-booking-65c69c9a32ef?source=rss------bug_bounty_writeup-5)
 - [The Header That Signed Itself: Full Account Takeover in a Google SSO Flow](https://uchihamrx.medium.com/the-header-that-signed-itself-full-account-takeover-in-a-google-sso-flow-940ed68b77e2?source=rss------bug_bounty_writeup-5)
-- [Snowflake SQL Injection via Compile-Time Constant Folding with SYSTEM$WAIT](https://infosecwriteups.com/snowflake-sql-injection-via-compile-time-constant-folding-with-system-wait-81374a58e089?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
