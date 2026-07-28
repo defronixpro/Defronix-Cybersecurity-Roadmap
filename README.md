@@ -971,6 +971,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I found an IDOR in Google Classroom on Day 3 of my Hunting?](https://infosecwriteups.com/how-i-found-an-idor-in-google-classroom-on-day-3-of-my-hunting-abffd039406c?source=rss----7b722bfd1b8d---4)
 - [TryHackMe&lpar;RootMe&rpar;- Write-Up](https://infosecwriteups.com/author-krish-gupta-f5b8bf96f1ba?source=rss----7b722bfd1b8d---4)
 - [Tryhackme Room — W1seGuy | by Sahil Malvi](https://infosecwriteups.com/tryhackme-room-w1seguy-by-sahil-malvi-2a82afa5a2b4?source=rss----7b722bfd1b8d---4)
 - [The Invisible Hack: How a Linux Bug Lets Anyone Become Root — Without Leaving a Single Trace](https://infosecwriteups.com/the-invisible-hack-how-a-linux-bug-lets-anyone-become-root-without-leaving-a-single-trace-c3f648b617d4?source=rss----7b722bfd1b8d---4)
@@ -984,7 +985,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How I Turned an “Informative” HTML Injection into My First Paid Bounty](https://medium.com/@muhammadmaftuhk261/how-i-turned-an-informative-html-injection-into-my-first-paid-bounty-86de1aa4c8fd?source=rss------bug_bounty_writeup-5)
 - [How to Start Bug Bounty Hunting in 2026: The Complete Beginner’s Guide](https://medium.com/@b0dj0x/how-to-start-bug-bounty-hunting-in-2026-the-complete-beginners-guide-bb10b7aa1012?source=rss------bug_bounty_writeup-5)
 - [How a Hidden GraphQL Endpoint Led Me to a Critical SQL Injection Worth €2,500](https://medium.com/@0x0sadat/how-a-hidden-graphql-endpoint-led-me-to-a-critical-sql-injection-worth-2-500-a2e39521944b?source=rss------bug_bounty_writeup-5)
-- [My eJPTv2 Journey — 82%](https://infosecwriteups.com/my-ejptv2-journey-82-a135093b247d?source=rss----7b722bfd1b8d---4)
 - [How I Found a Reflected XSS and Bypassed Wordfence WAF](https://medium.com/@elko0k/how-i-found-a-reflected-xss-and-bypassed-wordfence-waf-a7a120a0b952?source=rss------bug_bounty_writeup-5)
 - [I Found 15 Critical Vulnerabilities in One Afternoon](https://infosecwriteups.com/i-found-15-critical-vulnerabilities-in-one-afternoon-c9f16e88f652?source=rss------bug_bounty_writeup-5)
 - [admin:admin123 — How Default Keycloak Credentials on a Cargo Training Environment Exposed 766…](https://medium.com/@priyanshbhadoria5/admin-admin123-how-default-keycloak-credentials-on-a-cargo-training-environment-exposed-766-f026dcf45023?source=rss------bug_bounty_writeup-5)
