@@ -971,6 +971,9 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [File Upload Bypasses — The $4k Bug That Sneaks Past Filters &lpar;Part 1&rpar;](https://medium.com/@cyber-ninjaaa/file-upload-bypasses-the-4k-bug-that-sneaks-past-filters-part-1-bc7d5022a7c0?source=rss------bug_bounty_writeup-5)
+- [How a Simple language Parameter Exposed an Internal Drupal CMS](https://medium.com/@thomasyoussef/how-a-simple-language-parameter-exposed-an-internal-drupal-cms-22d7df947344?source=rss------bug_bounty_writeup-5)
+- [How I Made $20k in One Week](https://medium.com/@cyber-ninjaaa/how-i-made-20k-in-one-week-16bfa0428b60?source=rss------bug_bounty_writeup-5)
 - [How I found an IDOR in Google Classroom on Day 3 of my Hunting?](https://infosecwriteups.com/how-i-found-an-idor-in-google-classroom-on-day-3-of-my-hunting-abffd039406c?source=rss----7b722bfd1b8d---4)
 - [TryHackMe&lpar;RootMe&rpar;- Write-Up](https://infosecwriteups.com/author-krish-gupta-f5b8bf96f1ba?source=rss----7b722bfd1b8d---4)
 - [Tryhackme Room — W1seGuy | by Sahil Malvi](https://infosecwriteups.com/tryhackme-room-w1seguy-by-sahil-malvi-2a82afa5a2b4?source=rss----7b722bfd1b8d---4)
@@ -988,9 +991,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How I Found a Reflected XSS and Bypassed Wordfence WAF](https://medium.com/@elko0k/how-i-found-a-reflected-xss-and-bypassed-wordfence-waf-a7a120a0b952?source=rss------bug_bounty_writeup-5)
 - [I Found 15 Critical Vulnerabilities in One Afternoon](https://infosecwriteups.com/i-found-15-critical-vulnerabilities-in-one-afternoon-c9f16e88f652?source=rss------bug_bounty_writeup-5)
 - [admin:admin123 — How Default Keycloak Credentials on a Cargo Training Environment Exposed 766…](https://medium.com/@priyanshbhadoria5/admin-admin123-how-default-keycloak-credentials-on-a-cargo-training-environment-exposed-766-f026dcf45023?source=rss------bug_bounty_writeup-5)
-- [Unauthenticated Disclosure of A/B Test Data in Convert Pro — How Two Forgotten AJAX Endpoints…](https://infosecwriteups.com/unauthenticated-disclosure-of-a-b-test-data-in-convert-pro-how-two-forgotten-ajax-endpoints-dbefc9c3e440?source=rss------bug_bounty_writeup-5)
-- [PeekList: How Brave’s Playlist bypassed FaceID Protection for Private Tabs](https://infosecwriteups.com/peeklist-how-braves-playlist-bypassed-faceid-protection-for-private-tabs-9d1691b077be?source=rss------bug_bounty_writeup-5)
-- [How an Unpatched N-Day Let Any Anonymous Visitor Rewrite WooCommerce Prices in ND Booking](https://infosecwriteups.com/how-an-unpatched-n-day-let-any-anonymous-visitor-rewrite-woocommerce-prices-in-nd-booking-65c69c9a32ef?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
