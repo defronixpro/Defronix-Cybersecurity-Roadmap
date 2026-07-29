@@ -971,6 +971,10 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I Uncovered an Account Takeover Flaw via Unexpired Reset Tokens](https://infosecwriteups.com/how-i-uncovered-an-account-takeover-flaw-via-unexpired-reset-tokens-8cb9f69a5c6c?source=rss------bug_bounty_writeup-5)
+- [Publisher: TryHackMe CTF Walkthrough](https://infosecwriteups.com/publisher-tryhackme-ctf-walkthrough-cc97c9506153?source=rss----7b722bfd1b8d---4)
+- [TryHackMe: Room 404 Walkthrough &lpar;Hacker’s Holiday Challenge&rpar;](https://infosecwriteups.com/tryhackme-room-404-walkthrough-hackers-holiday-challenge-f4f9a2b530e8?source=rss----7b722bfd1b8d---4)
+- [How I Found a High-Severity Directory Traversal in Flask-Admin](https://infosecwriteups.com/how-i-found-a-high-severity-directory-traversal-in-flask-admin-d3b99b4bec1d?source=rss----7b722bfd1b8d---4)
 - [The Most Overlooked Vulnerability — Http request Smuggling](https://infosecwriteups.com/the-most-overlooked-vulnerability-http-request-smuggling-0eeec415a0fb?source=rss----7b722bfd1b8d---4)
 - [Snowflake SQL Injection via Compile-Time Constant Folding with SYSTEM$WAIT](https://infosecwriteups.com/snowflake-sql-injection-via-compile-time-constant-folding-with-system-wait-81374a58e089?source=rss----7b722bfd1b8d---4)
 - [How I Hacked a Video Game Vault and Found the Hidden Flag](https://infosecwriteups.com/how-i-hacked-a-video-game-vault-and-found-the-hidden-flag-924fc1a47053?source=rss----7b722bfd1b8d---4)
@@ -984,13 +988,9 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How I Made $20k in One Week](https://medium.com/@cyber-ninjaaa/how-i-made-20k-in-one-week-16bfa0428b60?source=rss------bug_bounty_writeup-5)
 - [How I found an IDOR in Google Classroom on Day 3 of my Hunting?](https://infosecwriteups.com/how-i-found-an-idor-in-google-classroom-on-day-3-of-my-hunting-abffd039406c?source=rss----7b722bfd1b8d---4)
 - [TryHackMe&lpar;RootMe&rpar;- Write-Up](https://infosecwriteups.com/author-krish-gupta-f5b8bf96f1ba?source=rss----7b722bfd1b8d---4)
-- [Tryhackme Room — W1seGuy | by Sahil Malvi](https://infosecwriteups.com/tryhackme-room-w1seguy-by-sahil-malvi-2a82afa5a2b4?source=rss----7b722bfd1b8d---4)
-- [The Invisible Hack: How a Linux Bug Lets Anyone Become Root — Without Leaving a Single Trace](https://infosecwriteups.com/the-invisible-hack-how-a-linux-bug-lets-anyone-become-root-without-leaving-a-single-trace-c3f648b617d4?source=rss----7b722bfd1b8d---4)
-- [Proxy — TryHackMe Active Directory Write-up](https://infosecwriteups.com/proxy-tryhackme-active-directory-write-up-24cd64923aea?source=rss----7b722bfd1b8d---4)
 - [How I found an IDOR in Google Classroom on Day 3 of my Hunting?](https://infosecwriteups.com/how-i-found-an-idor-in-google-classroom-on-day-3-of-my-hunting-abffd039406c?source=rss------bug_bounty_writeup-5)
 - [How I Turned an “Informative” HTML Injection into My First Paid Bounty](https://medium.com/@muhammadmaftuhk261/how-i-turned-an-informative-html-injection-into-my-first-paid-bounty-86de1aa4c8fd?source=rss------bug_bounty_writeup-5)
 - [How to Start Bug Bounty Hunting in 2026: The Complete Beginner’s Guide](https://medium.com/@b0dj0x/how-to-start-bug-bounty-hunting-in-2026-the-complete-beginners-guide-bb10b7aa1012?source=rss------bug_bounty_writeup-5)
-- [How a Hidden GraphQL Endpoint Led Me to a Critical SQL Injection Worth €2,500](https://medium.com/@0x0sadat/how-a-hidden-graphql-endpoint-led-me-to-a-critical-sql-injection-worth-2-500-a2e39521944b?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
