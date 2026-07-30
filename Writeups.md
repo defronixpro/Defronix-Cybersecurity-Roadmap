@@ -3,7 +3,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 <!-- WRITEUPS:START -->
 - [&lpar;BAC&rpar;User role can be modified in user profile](https://medium.com/@abdallh.mohamed.abdallnaby/bac-user-role-can-be-modified-in-user-profile-c3774098ffca?source=rss------bug_bounty_writeup-5)
 - [Solving PortSwigger Lab: Password Brute-Force via Password Change](https://medium.com/@ayeshaaghafoor48/solving-portswigger-lab-password-brute-force-via-password-change-5e0ab2165017?source=rss------bug_bounty_writeup-5)
-- [How I Uncovered an Account Takeover Flaw via Unexpired Reset Tokens](https://infosecwriteups.com/how-i-uncovered-an-account-takeover-flaw-via-unexpired-reset-tokens-8cb9f69a5c6c?source=rss------bug_bounty_writeup-5)
+- [How I Uncovered an Account Takeover Flaw via Unexpired Reset Tokens](https://medium.com/@mauryah943/how-i-uncovered-an-account-takeover-flaw-via-unexpired-reset-tokens-8cb9f69a5c6c?source=rss------bug_bounty_writeup-5)
 - [Publisher: TryHackMe CTF Walkthrough](https://infosecwriteups.com/publisher-tryhackme-ctf-walkthrough-cc97c9506153?source=rss----7b722bfd1b8d---4)
 - [TryHackMe: Room 404 Walkthrough &lpar;Hacker’s Holiday Challenge&rpar;](https://infosecwriteups.com/tryhackme-room-404-walkthrough-hackers-holiday-challenge-f4f9a2b530e8?source=rss----7b722bfd1b8d---4)
 - [How I Found a High-Severity Directory Traversal in Flask-Admin](https://infosecwriteups.com/how-i-found-a-high-severity-directory-traversal-in-flask-admin-d3b99b4bec1d?source=rss----7b722bfd1b8d---4)
