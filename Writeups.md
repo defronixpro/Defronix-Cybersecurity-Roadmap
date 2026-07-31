@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Broken Access Control: A Non-Admin User Can Change Site Configuration](https://medium.com/@hs942422/broken-access-control-a-non-admin-user-can-change-site-configuration-ce2cb9349e38?source=rss------bug_bounty_writeup-5)
 - [How I Found My First Real-Life RCE: Exploiting CVE-2026–53576 in Kestra](https://medium.com/@belalshohaip222/how-i-found-my-first-real-life-rce-exploiting-cve-2026-53576-in-kestra-897bd67c529c?source=rss------bug_bounty_writeup-5)
 - [Breaking File Upload Filters: A Bug Hunter’s Techniques + Cheatsheet](https://osintteam.blog/breaking-file-upload-filters-a-bug-hunters-techniques-cheatsheet-5bff045f2775?source=rss------bug_bounty_writeup-5)
 - [&lpar;BAC&rpar;User ID controlled by request parameter](https://medium.com/@abdallh.mohamed.abdallnaby/bac-user-id-controlled-by-request-parameter-28b413efda59?source=rss------bug_bounty_writeup-5)
@@ -18,7 +19,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Account Takeover Across Multiple Programs via Featurebase Integration](https://infosecwriteups.com/account-takeover-across-multiple-programs-via-featurebase-integration-32214666123e?source=rss----7b722bfd1b8d---4)
 - [Automating Google Dorking Across Multiple Search Engines for Faster Recon](https://medium.com/@bughuntingtips/automating-google-dorking-across-multiple-search-engines-for-faster-recon-175a136ecbdb?source=rss------bug_bounty_writeup-5)
 - [Account Takeover Across Multiple Programs via Featurebase Integration](https://infosecwriteups.com/account-takeover-across-multiple-programs-via-featurebase-integration-32214666123e?source=rss------bug_bounty_writeup-5)
-- [7 Vulnerabilities, 0 Rewards: What Bug Bounty Beginners Need to Know](https://medium.com/@imron88/7-vulnerabilities-0-rewards-what-bug-bounty-beginners-need-to-know-4977da4eb92a?source=rss------bug_bounty_writeup-5)
 - [How I found an IDOR in Google Classroom on Day 3 of my Hunting?](https://infosecwriteups.com/how-i-found-an-idor-in-google-classroom-on-day-3-of-my-hunting-abffd039406c?source=rss----7b722bfd1b8d---4)
 - [TryHackMe&lpar;RootMe&rpar;- Write-Up](https://infosecwriteups.com/author-krish-gupta-f5b8bf96f1ba?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
