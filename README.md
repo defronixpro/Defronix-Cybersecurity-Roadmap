@@ -971,6 +971,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Breaking File Upload Filters: A Bug Hunter’s Techniques + Cheatsheet](https://osintteam.blog/breaking-file-upload-filters-a-bug-hunters-techniques-cheatsheet-5bff045f2775?source=rss------bug_bounty_writeup-5)
 - [&lpar;BAC&rpar;User ID controlled by request parameter](https://medium.com/@abdallh.mohamed.abdallnaby/bac-user-id-controlled-by-request-parameter-28b413efda59?source=rss------bug_bounty_writeup-5)
 - [&lpar;BAC&rpar;User role controlled by request parameter](https://medium.com/@abdallh.mohamed.abdallnaby/bac-user-role-controlled-by-request-parameter-388bc7e6df03?source=rss------bug_bounty_writeup-5)
 - [&lpar;BAC&rpar;User role can be modified in user profile](https://medium.com/@abdallh.mohamed.abdallnaby/bac-user-role-can-be-modified-in-user-profile-c3774098ffca?source=rss------bug_bounty_writeup-5)
@@ -988,7 +989,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Account Takeover Across Multiple Programs via Featurebase Integration](https://infosecwriteups.com/account-takeover-across-multiple-programs-via-featurebase-integration-32214666123e?source=rss------bug_bounty_writeup-5)
 - [7 Vulnerabilities, 0 Rewards: What Bug Bounty Beginners Need to Know](https://medium.com/@imron88/7-vulnerabilities-0-rewards-what-bug-bounty-beginners-need-to-know-4977da4eb92a?source=rss------bug_bounty_writeup-5)
 - [File Upload Bypasses — The $4k Bug That Sneaks Past Filters &lpar;Part 1&rpar;](https://medium.com/@cyber-ninjaaa/file-upload-bypasses-the-4k-bug-that-sneaks-past-filters-part-1-bc7d5022a7c0?source=rss------bug_bounty_writeup-5)
-- [How a Simple language Parameter Exposed an Internal Drupal CMS](https://medium.com/@thomasyoussef/how-a-simple-language-parameter-exposed-an-internal-drupal-cms-22d7df947344?source=rss------bug_bounty_writeup-5)
 - [How I found an IDOR in Google Classroom on Day 3 of my Hunting?](https://infosecwriteups.com/how-i-found-an-idor-in-google-classroom-on-day-3-of-my-hunting-abffd039406c?source=rss----7b722bfd1b8d---4)
 - [TryHackMe&lpar;RootMe&rpar;- Write-Up](https://infosecwriteups.com/author-krish-gupta-f5b8bf96f1ba?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
