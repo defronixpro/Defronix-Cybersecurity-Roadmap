@@ -9,7 +9,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How I Found My First Real-Life RCE: Exploiting CVE-2026–53576 in Kestra](https://medium.com/@belalshohaip222/how-i-found-my-first-real-life-rce-exploiting-cve-2026-53576-in-kestra-897bd67c529c?source=rss------bug_bounty_writeup-5)
 - [Breaking File Upload Filters: A Bug Hunter’s Techniques + Cheatsheet](https://osintteam.blog/breaking-file-upload-filters-a-bug-hunters-techniques-cheatsheet-5bff045f2775?source=rss------bug_bounty_writeup-5)
 - [&lpar;BAC&rpar;User ID controlled by request parameter](https://medium.com/@abdallh.mohamed.abdallnaby/bac-user-id-controlled-by-request-parameter-28b413efda59?source=rss------bug_bounty_writeup-5)
-- [&lpar;BAC&rpar;User role controlled by request parameter](https://medium.com/@abdallh.mohamed.abdallnaby/bac-user-role-controlled-by-request-parameter-388bc7e6df03?source=rss------bug_bounty_writeup-5)
 - [Publisher: TryHackMe CTF Walkthrough](https://infosecwriteups.com/publisher-tryhackme-ctf-walkthrough-cc97c9506153?source=rss----7b722bfd1b8d---4)
 - [TryHackMe: Room 404 Walkthrough &lpar;Hacker’s Holiday Challenge&rpar;](https://infosecwriteups.com/tryhackme-room-404-walkthrough-hackers-holiday-challenge-f4f9a2b530e8?source=rss----7b722bfd1b8d---4)
 - [How I Found a High-Severity Directory Traversal in Flask-Admin](https://infosecwriteups.com/how-i-found-a-high-severity-directory-traversal-in-flask-admin-d3b99b4bec1d?source=rss----7b722bfd1b8d---4)
