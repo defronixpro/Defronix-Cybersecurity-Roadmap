@@ -971,7 +971,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [Revisiting JWT Token Forgery Attack on Recent Bounty Target](https://alvinferd.medium.com/revisiting-jwt-token-forgery-attack-on-a-recent-bounty-target-bfe4a423f3df?source=rss------bug_bounty_writeup-5)
+- [Revisiting JWT Token Forgery Attack on Recent Bounty Target](https://infosecwriteups.com/revisiting-jwt-token-forgery-attack-on-a-recent-bounty-target-bfe4a423f3df?source=rss------bug_bounty_writeup-5)
 - [Broken Access Control: A Non-Admin User Can Change Site Configuration](https://medium.com/@hs942422/broken-access-control-a-non-admin-user-can-change-site-configuration-ce2cb9349e38?source=rss------bug_bounty_writeup-5)
 - [How I Found My First Real-Life RCE: Exploiting CVE-2026–53576 in Kestra](https://medium.com/@belalshohaip222/how-i-found-my-first-real-life-rce-exploiting-cve-2026-53576-in-kestra-897bd67c529c?source=rss------bug_bounty_writeup-5)
 - [Breaking File Upload Filters: A Bug Hunter’s Techniques + Cheatsheet](https://osintteam.blog/breaking-file-upload-filters-a-bug-hunters-techniques-cheatsheet-5bff045f2775?source=rss------bug_bounty_writeup-5)
@@ -988,7 +988,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How I Hacked a Video Game Vault and Found the Hidden Flag](https://infosecwriteups.com/how-i-hacked-a-video-game-vault-and-found-the-hidden-flag-924fc1a47053?source=rss----7b722bfd1b8d---4)
 - [Static Malware Analysis of Suspicious Windows PE Samples: A Blue Team Investigation](https://infosecwriteups.com/static-malware-analysis-of-suspicious-windows-pe-samples-a-blue-team-investigation-6c1e1b178513?source=rss----7b722bfd1b8d---4)
 - [Account Takeover Across Multiple Programs via Featurebase Integration](https://infosecwriteups.com/account-takeover-across-multiple-programs-via-featurebase-integration-32214666123e?source=rss----7b722bfd1b8d---4)
-- [Automating Google Dorking Across Multiple Search Engines for Faster Recon](https://medium.com/@bughuntingtips/automating-google-dorking-across-multiple-search-engines-for-faster-recon-175a136ecbdb?source=rss------bug_bounty_writeup-5)
 - [How I found an IDOR in Google Classroom on Day 3 of my Hunting?](https://infosecwriteups.com/how-i-found-an-idor-in-google-classroom-on-day-3-of-my-hunting-abffd039406c?source=rss----7b722bfd1b8d---4)
 - [TryHackMe&lpar;RootMe&rpar;- Write-Up](https://infosecwriteups.com/author-krish-gupta-f5b8bf96f1ba?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
