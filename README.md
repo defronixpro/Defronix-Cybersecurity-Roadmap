@@ -971,6 +971,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I found a blind stored XSS bug and got paid twice](https://jalwan.medium.com/how-i-found-a-blind-stored-xss-bug-and-got-paid-twice-3b4db4c84c23?source=rss------bug_bounty_writeup-5)
 - [How I Received a Hall of Fame Recognition from the World Health Organization](https://medium.com/@anijgurung48/how-i-received-a-hall-of-fame-recognition-from-the-world-health-organization-c102574e2e8c?source=rss------bug_bounty_writeup-5)
 - [Revisiting JWT Token Forgery Attack on Recent Bounty Target](https://infosecwriteups.com/revisiting-jwt-token-forgery-attack-on-a-recent-bounty-target-bfe4a423f3df?source=rss------bug_bounty_writeup-5)
 - [Broken Access Control: A Non-Admin User Can Change Site Configuration](https://medium.com/@hs942422/broken-access-control-a-non-admin-user-can-change-site-configuration-ce2cb9349e38?source=rss------bug_bounty_writeup-5)
@@ -979,7 +980,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [&lpar;BAC&rpar;User ID controlled by request parameter](https://medium.com/@abdallh.mohamed.abdallnaby/bac-user-id-controlled-by-request-parameter-28b413efda59?source=rss------bug_bounty_writeup-5)
 - [&lpar;BAC&rpar;User role controlled by request parameter](https://medium.com/@abdallh.mohamed.abdallnaby/bac-user-role-controlled-by-request-parameter-388bc7e6df03?source=rss------bug_bounty_writeup-5)
 - [&lpar;BAC&rpar;User role can be modified in user profile](https://medium.com/@abdallh.mohamed.abdallnaby/bac-user-role-can-be-modified-in-user-profile-c3774098ffca?source=rss------bug_bounty_writeup-5)
-- [Solving PortSwigger Lab: Password Brute-Force via Password Change](https://medium.com/@ayeshaaghafoor48/solving-portswigger-lab-password-brute-force-via-password-change-5e0ab2165017?source=rss------bug_bounty_writeup-5)
 - [Publisher: TryHackMe CTF Walkthrough](https://infosecwriteups.com/publisher-tryhackme-ctf-walkthrough-cc97c9506153?source=rss----7b722bfd1b8d---4)
 - [TryHackMe: Room 404 Walkthrough &lpar;Hacker’s Holiday Challenge&rpar;](https://infosecwriteups.com/tryhackme-room-404-walkthrough-hackers-holiday-challenge-f4f9a2b530e8?source=rss----7b722bfd1b8d---4)
 - [How I Found a High-Severity Directory Traversal in Flask-Admin](https://infosecwriteups.com/how-i-found-a-high-severity-directory-traversal-in-flask-admin-d3b99b4bec1d?source=rss----7b722bfd1b8d---4)
