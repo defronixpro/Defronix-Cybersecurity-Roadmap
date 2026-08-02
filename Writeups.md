@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Bug Bounty Hacking Recon Automation Bug Bounty Methodology](https://medium.com/@cyber-ninjaaa/bug-bounty-hacking-recon-automation-bug-bounty-methodology-09a741212ae7?source=rss------bug_bounty_writeup-5)
 - [&lpar;BAC&rpar;User ID controlled by request parameter with password disclosure](https://medium.com/@abdallh.mohamed.abdallnaby/bac-user-id-controlled-by-request-parameter-with-password-disclosure-59580d5f3eeb?source=rss------bug_bounty_writeup-5)
 - [&lpar;BAC&rpar;User ID controlled by request parameter, with unpredictable user IDs](https://medium.com/@abdallh.mohamed.abdallnaby/bac-user-id-controlled-by-request-parameter-with-unpredictable-user-ids-a6ac9788dc63?source=rss------bug_bounty_writeup-5)
 - [The Bug Bounty Playbook: Authentication Bypass](https://medium.com/@Aacle/the-bug-bounty-playbook-authentication-bypass-e70cc2824564?source=rss------bug_bounty_writeup-5)
@@ -8,7 +9,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How I Received a Hall of Fame Recognition from the World Health Organization](https://medium.com/@anijgurung48/how-i-received-a-hall-of-fame-recognition-from-the-world-health-organization-c102574e2e8c?source=rss------bug_bounty_writeup-5)
 - [Revisiting JWT Token Forgery Attack on Recent Bounty Target](https://infosecwriteups.com/revisiting-jwt-token-forgery-attack-on-a-recent-bounty-target-bfe4a423f3df?source=rss------bug_bounty_writeup-5)
 - [Broken Access Control: A Non-Admin User Can Change Site Configuration](https://medium.com/@hs942422/broken-access-control-a-non-admin-user-can-change-site-configuration-ce2cb9349e38?source=rss------bug_bounty_writeup-5)
-- [How I Found My First Real-Life RCE: Exploiting CVE-2026–53576 in Kestra](https://medium.com/@belalshohaip222/how-i-found-my-first-real-life-rce-exploiting-cve-2026-53576-in-kestra-897bd67c529c?source=rss------bug_bounty_writeup-5)
 - [Publisher: TryHackMe CTF Walkthrough](https://infosecwriteups.com/publisher-tryhackme-ctf-walkthrough-cc97c9506153?source=rss----7b722bfd1b8d---4)
 - [TryHackMe: Room 404 Walkthrough &lpar;Hacker’s Holiday Challenge&rpar;](https://infosecwriteups.com/tryhackme-room-404-walkthrough-hackers-holiday-challenge-f4f9a2b530e8?source=rss----7b722bfd1b8d---4)
 - [How I Found a High-Severity Directory Traversal in Flask-Admin](https://infosecwriteups.com/how-i-found-a-high-severity-directory-traversal-in-flask-admin-d3b99b4bec1d?source=rss----7b722bfd1b8d---4)
