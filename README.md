@@ -971,6 +971,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Intigriti July 2026 CTF Write-Up: Exploiting JSON Parser Differential &lpar;Duplicate-Key Confusion&rpar; to…](https://medium.com/@zabedullahpoyel/intigriti-july-2026-ctf-write-up-exploiting-json-parser-differential-duplicate-key-confusion-to-29b94d6001e4?source=rss------bug_bounty_writeup-5)
 - [LongShao &lpar;HackMyVM&rpar; — Complete Walkthrough](https://medium.com/@TheNotorious13/longshao-hackmyvm-complete-walkthrough-55db37878956?source=rss------bug_bounty_writeup-5)
 - [Hacking IIS for Bug Bounty: Attacking the Windows Underneath the Web Server](https://osintteam.blog/hacking-iis-for-bug-bounty-attacking-the-windows-underneath-the-web-server-799cf02f60f5?source=rss------bug_bounty_writeup-5)
 - [How I Turned a “Not Sensitive Enough” Bug Into a Confirmed IDOR](https://atharvchawan.medium.com/how-i-turned-a-not-sensitive-enough-bug-into-a-confirmed-idor-f075967fbce8?source=rss------bug_bounty_writeup-5)
@@ -979,7 +980,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Bug Bounty Hacking Recon Automation Bug Bounty Methodology](https://medium.com/@cyber-ninjaaa/bug-bounty-hacking-recon-automation-bug-bounty-methodology-09a741212ae7?source=rss------bug_bounty_writeup-5)
 - [&lpar;BAC&rpar;User ID controlled by request parameter with password disclosure](https://medium.com/@abdallh.mohamed.abdallnaby/bac-user-id-controlled-by-request-parameter-with-password-disclosure-59580d5f3eeb?source=rss------bug_bounty_writeup-5)
 - [&lpar;BAC&rpar;User ID controlled by request parameter, with unpredictable user IDs](https://medium.com/@abdallh.mohamed.abdallnaby/bac-user-id-controlled-by-request-parameter-with-unpredictable-user-ids-a6ac9788dc63?source=rss------bug_bounty_writeup-5)
-- [What’s Bug Bounty? And How to Start Hunting Today](https://medium.com/@heshamAbdulkareem/whats-bug-bounty-and-how-to-start-hunting-today-7f60676c7ae3?source=rss------bug_bounty_writeup-5)
 - [Publisher: TryHackMe CTF Walkthrough](https://infosecwriteups.com/publisher-tryhackme-ctf-walkthrough-cc97c9506153?source=rss----7b722bfd1b8d---4)
 - [TryHackMe: Room 404 Walkthrough &lpar;Hacker’s Holiday Challenge&rpar;](https://infosecwriteups.com/tryhackme-room-404-walkthrough-hackers-holiday-challenge-f4f9a2b530e8?source=rss----7b722bfd1b8d---4)
 - [How I Found a High-Severity Directory Traversal in Flask-Admin](https://infosecwriteups.com/how-i-found-a-high-severity-directory-traversal-in-flask-admin-d3b99b4bec1d?source=rss----7b722bfd1b8d---4)
