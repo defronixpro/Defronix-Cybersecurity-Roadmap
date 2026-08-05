@@ -971,6 +971,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Chaining a Session Leak and Broken Access Control in Revive Adserver 6.0.7 Program Hackerone](https://medium.com/@kenjisubagja/chaining-a-session-leak-and-broken-access-control-in-revive-adserver-6-0-7-program-hackerone-156e5cf97826?source=rss------bug_bounty_writeup-5)
 - [How I Found a Critical Bug That Exposed Every User’s PII With a Free Account](https://medium.com/@Aacle/how-i-found-a-critical-bug-that-exposed-every-users-pii-with-a-free-account-47ee4294f440?source=rss------bug_bounty_writeup-5)
 - [How I Found a $250 BOLA in a Government Transport App’s Real-Time API](https://medium.com/@anshbohra10/how-i-found-a-250-bola-in-a-government-transport-apps-real-time-api-5c981d6ca480?source=rss------bug_bounty_writeup-5)
 - [The Frontend Lied: How a Free Account Could Delete Production API Specs on an Airline’s Developer…](https://medium.com/@priyanshbhadoria5/the-frontend-lied-how-a-free-account-could-delete-production-api-specs-on-an-airlines-developer-4085f4093aeb?source=rss------bug_bounty_writeup-5)
