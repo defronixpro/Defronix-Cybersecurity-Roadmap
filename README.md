@@ -971,6 +971,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [The Premium Feature That Was Only One API Request Away](https://medium.com/@loayahmed686/the-premium-feature-that-was-only-one-api-request-away-b5e54efe404a?source=rss------bug_bounty_writeup-5)
 - [How I Got My NASA Hall of Fame: A Unique Twist on Google Dorking](https://vanshrathorebughunter.medium.com/how-i-got-my-nasa-hall-of-fame-a-unique-twist-on-google-dorking-a954193b317f?source=rss------bug_bounty_writeup-5)
 - [Chaining a Session Leak and Broken Access Control in Revive Adserver 6.0.7 Program Hackerone](https://medium.com/@kenjisubagja/chaining-a-session-leak-and-broken-access-control-in-revive-adserver-6-0-7-program-hackerone-156e5cf97826?source=rss------bug_bounty_writeup-5)
 - [How I Found a Critical Bug That Exposed Every User’s PII With a Free Account](https://medium.com/@Aacle/how-i-found-a-critical-bug-that-exposed-every-users-pii-with-a-free-account-47ee4294f440?source=rss------bug_bounty_writeup-5)
@@ -980,7 +981,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Breaking API Gateway Isolation with Path Traversal and URL Parsing Discrepancies](https://medium.com/@7azimo/breaking-api-gateway-isolation-with-path-traversal-and-url-parsing-discrepancies-01cac2a2724a?source=rss------bug_bounty_writeup-5)
 - [I Found an Unauthenticated WebSocket Leaking Live Customer Data](https://medium.com/@0xJad/i-found-an-unauthenticated-websocket-leaking-live-customer-data-b9b3b470bfe3?source=rss------bug_bounty_writeup-5)
 - [Intigriti July 2026 CTF Write-Up: Exploiting JSON Parser Differential &lpar;Duplicate-Key Confusion&rpar; to…](https://medium.com/@zabedullahpoyel/intigriti-july-2026-ctf-write-up-exploiting-json-parser-differential-duplicate-key-confusion-to-29b94d6001e4?source=rss------bug_bounty_writeup-5)
-- [LongShao &lpar;HackMyVM&rpar; — Complete Walkthrough](https://medium.com/@TheNotorious13/longshao-hackmyvm-complete-walkthrough-55db37878956?source=rss------bug_bounty_writeup-5)
 - [Publisher: TryHackMe CTF Walkthrough](https://infosecwriteups.com/publisher-tryhackme-ctf-walkthrough-cc97c9506153?source=rss----7b722bfd1b8d---4)
 - [TryHackMe: Room 404 Walkthrough &lpar;Hacker’s Holiday Challenge&rpar;](https://infosecwriteups.com/tryhackme-room-404-walkthrough-hackers-holiday-challenge-f4f9a2b530e8?source=rss----7b722bfd1b8d---4)
 - [How I Found a High-Severity Directory Traversal in Flask-Admin](https://infosecwriteups.com/how-i-found-a-high-severity-directory-traversal-in-flask-admin-d3b99b4bec1d?source=rss----7b722bfd1b8d---4)
