@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How to Build a Recon Workflow That Actually Finds Bugs &lpar;Not Just Data&rpar;](https://medium.com/@Aacle/how-to-build-a-recon-workflow-that-actually-finds-bugs-not-just-data-12167d2d93e8?source=rss------bug_bounty_writeup-5)
 - [Finding SQL Injection in a Government Website](https://medium.com/@zheverxploit/finding-sql-injection-in-a-government-website-657d2fba33d6?source=rss------bug_bounty_writeup-5)
 - [From Blocked to Registered: Two Email Blacklist Bypass Techniques](https://medium.com/@hs942422/from-blocked-to-registered-two-email-blacklist-bypass-techniques-1311282f7857?source=rss------bug_bounty_writeup-5)
 - [How a Synced Data Copy Leaked 544,000 Users’ PII](https://medium.com/@anshbohra10/how-a-synced-data-copy-leaked-544-000-users-pii-3e200d4e643e?source=rss------bug_bounty_writeup-5)
@@ -10,7 +11,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How I Almost Made $1,000 with a Pre-Account Takeover](https://medium.com/@zheverxploit/how-i-almost-made-1-000-with-a-pre-account-takeover-68e1b00742da?source=rss------bug_bounty_writeup-5)
 - [How I Bypassed Authentication on a Fintech Platform Using a Broken Password Reset Flow &lpar;Bug Bounty…](https://medium.com/@t3nv1/how-i-bypassed-authentication-on-a-fintech-platform-using-a-broken-password-reset-flow-bug-bounty-0abc5f54f144?source=rss------bug_bounty_writeup-5)
 - [The Premium Feature That Was Only One API Request Away](https://medium.com/@loayahmed686/the-premium-feature-that-was-only-one-api-request-away-b5e54efe404a?source=rss------bug_bounty_writeup-5)
-- [How I Got My NASA Hall of Fame: A Unique Twist on Google Dorking](https://vanshrathorebughunter.medium.com/how-i-got-my-nasa-hall-of-fame-a-unique-twist-on-google-dorking-a954193b317f?source=rss------bug_bounty_writeup-5)
 - [Publisher: TryHackMe CTF Walkthrough](https://infosecwriteups.com/publisher-tryhackme-ctf-walkthrough-cc97c9506153?source=rss----7b722bfd1b8d---4)
 - [TryHackMe: Room 404 Walkthrough &lpar;Hacker’s Holiday Challenge&rpar;](https://infosecwriteups.com/tryhackme-room-404-walkthrough-hackers-holiday-challenge-f4f9a2b530e8?source=rss----7b722bfd1b8d---4)
 - [How I Found a High-Severity Directory Traversal in Flask-Admin](https://infosecwriteups.com/how-i-found-a-high-severity-directory-traversal-in-flask-admin-d3b99b4bec1d?source=rss----7b722bfd1b8d---4)
