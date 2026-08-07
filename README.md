@@ -971,16 +971,16 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [From Blocked to Registered: Two Email Blacklist Bypass Techniques](https://medium.com/@hs942422/from-blocked-to-registered-two-email-blacklist-bypass-techniques-1311282f7857?source=rss------bug_bounty_writeup-5)
+- [How a Synced Data Copy Leaked 544,000 Users’ PII](https://medium.com/@anshbohra10/how-a-synced-data-copy-leaked-544-000-users-pii-3e200d4e643e?source=rss------bug_bounty_writeup-5)
+- [When a “Critical” Vulnerability is Dismissed as a “Known Risk”: The Reality of Bug Bounty Scams —…](https://medium.com/@kenjisubagja/when-a-critical-vulnerability-is-dismissed-as-a-known-risk-the-reality-of-bug-bounty-scams-2358988427e8?source=rss------bug_bounty_writeup-5)
+- [&lpar;BAC&rpar;URL-based access control can be circumvented](https://medium.com/@abdallh.mohamed.abdallnaby/bac-url-based-access-control-can-be-circumvented-967fa2152cee?source=rss------bug_bounty_writeup-5)
+- [&lpar;BAC&rpar;Method-based access control can be circumvented](https://medium.com/@abdallh.mohamed.abdallnaby/bac-method-based-access-control-can-be-circumvented-451bff70cfd5?source=rss------bug_bounty_writeup-5)
 - [How I Almost Made $1,000 with a Pre-Account Takeover](https://medium.com/@zheverxploit/how-i-almost-made-1-000-with-a-pre-account-takeover-68e1b00742da?source=rss------bug_bounty_writeup-5)
 - [How I Bypassed Authentication on a Fintech Platform Using a Broken Password Reset Flow &lpar;Bug Bounty…](https://medium.com/@t3nv1/how-i-bypassed-authentication-on-a-fintech-platform-using-a-broken-password-reset-flow-bug-bounty-0abc5f54f144?source=rss------bug_bounty_writeup-5)
 - [The Premium Feature That Was Only One API Request Away](https://medium.com/@loayahmed686/the-premium-feature-that-was-only-one-api-request-away-b5e54efe404a?source=rss------bug_bounty_writeup-5)
 - [How I Got My NASA Hall of Fame: A Unique Twist on Google Dorking](https://vanshrathorebughunter.medium.com/how-i-got-my-nasa-hall-of-fame-a-unique-twist-on-google-dorking-a954193b317f?source=rss------bug_bounty_writeup-5)
 - [Chaining a Session Leak and Broken Access Control in Revive Adserver 6.0.7 Program Hackerone](https://medium.com/@kenjisubagja/chaining-a-session-leak-and-broken-access-control-in-revive-adserver-6-0-7-program-hackerone-156e5cf97826?source=rss------bug_bounty_writeup-5)
-- [How I Found a Critical Bug That Exposed Every User’s PII With a Free Account](https://medium.com/@Aacle/how-i-found-a-critical-bug-that-exposed-every-users-pii-with-a-free-account-47ee4294f440?source=rss------bug_bounty_writeup-5)
-- [How I Found a $250 BOLA in a Government Transport App’s Real-Time API](https://medium.com/@anshbohra10/how-i-found-a-250-bola-in-a-government-transport-apps-real-time-api-5c981d6ca480?source=rss------bug_bounty_writeup-5)
-- [The Frontend Lied: How a Free Account Could Delete Production API Specs on an Airline’s Developer…](https://medium.com/@priyanshbhadoria5/the-frontend-lied-how-a-free-account-could-delete-production-api-specs-on-an-airlines-developer-4085f4093aeb?source=rss------bug_bounty_writeup-5)
-- [How I Got Full RCE &lpar;And Accidentally Skipped Two Flags Doing It&rpar; — Hacker101 CTF…](https://medium.com/@kagancoskunn/how-i-got-full-rce-by-accident-and-skipped-two-flags-doing-it-hacker101-ctf-y2fuihlvdsbyzwnvbj8-d236520037f5?source=rss------bug_bounty_writeup-5)
-- [Breaking API Gateway Isolation with Path Traversal and URL Parsing Discrepancies](https://medium.com/@7azimo/breaking-api-gateway-isolation-with-path-traversal-and-url-parsing-discrepancies-01cac2a2724a?source=rss------bug_bounty_writeup-5)
 - [Publisher: TryHackMe CTF Walkthrough](https://infosecwriteups.com/publisher-tryhackme-ctf-walkthrough-cc97c9506153?source=rss----7b722bfd1b8d---4)
 - [TryHackMe: Room 404 Walkthrough &lpar;Hacker’s Holiday Challenge&rpar;](https://infosecwriteups.com/tryhackme-room-404-walkthrough-hackers-holiday-challenge-f4f9a2b530e8?source=rss----7b722bfd1b8d---4)
 - [How I Found a High-Severity Directory Traversal in Flask-Admin](https://infosecwriteups.com/how-i-found-a-high-severity-directory-traversal-in-flask-admin-d3b99b4bec1d?source=rss----7b722bfd1b8d---4)
