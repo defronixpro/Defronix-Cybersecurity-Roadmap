@@ -980,7 +980,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How a Synced Data Copy Leaked 544,000 Users’ PII](https://medium.com/@anshbohra10/how-a-synced-data-copy-leaked-544-000-users-pii-3e200d4e643e?source=rss------bug_bounty_writeup-5)
 - [When a “Critical” Vulnerability is Dismissed as a “Known Risk”: The Reality of Bug Bounty Scams —…](https://medium.com/@kenjisubagja/when-a-critical-vulnerability-is-dismissed-as-a-known-risk-the-reality-of-bug-bounty-scams-2358988427e8?source=rss------bug_bounty_writeup-5)
 - [&lpar;BAC&rpar;URL-based access control can be circumvented](https://medium.com/@abdallh.mohamed.abdallnaby/bac-url-based-access-control-can-be-circumvented-967fa2152cee?source=rss------bug_bounty_writeup-5)
-- [&lpar;BAC&rpar;Method-based access control can be circumvented](https://medium.com/@abdallh.mohamed.abdallnaby/bac-method-based-access-control-can-be-circumvented-451bff70cfd5?source=rss------bug_bounty_writeup-5)
 - [Publisher: TryHackMe CTF Walkthrough](https://infosecwriteups.com/publisher-tryhackme-ctf-walkthrough-cc97c9506153?source=rss----7b722bfd1b8d---4)
 - [TryHackMe: Room 404 Walkthrough &lpar;Hacker’s Holiday Challenge&rpar;](https://infosecwriteups.com/tryhackme-room-404-walkthrough-hackers-holiday-challenge-f4f9a2b530e8?source=rss----7b722bfd1b8d---4)
 - [How I Found a High-Severity Directory Traversal in Flask-Admin](https://infosecwriteups.com/how-i-found-a-high-severity-directory-traversal-in-flask-admin-d3b99b4bec1d?source=rss----7b722bfd1b8d---4)
