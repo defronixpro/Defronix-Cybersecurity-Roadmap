@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [&lpar;BAC&rpar;Insecure direct object references](https://medium.com/@abdallh.mohamed.abdallnaby/bac-insecure-direct-object-references-14566633073a?source=rss------bug_bounty_writeup-5)
 - [Bypassing Filters to Achieve UNION-Based SQL Injection on a Search Endpoint](https://medium.com/@xelcezeri/bypassing-filters-to-achieve-union-based-sql-injection-on-a-search-endpoint-0f092ba254ed?source=rss------bug_bounty_writeup-5)
 - [MariaDB CVE-2026–49261: Pre-Authentication Remote Code Execution via wsrep_notify_cmd](https://letchupkt.medium.com/mariadb-cve-2026-49261-pre-authentication-remote-code-execution-via-wsrep-notify-cmd-aaa6dc7548b4?source=rss------bug_bounty_writeup-5)
 - [Smali By bithowl: Chapter 5 Smali File Structure](https://medium.com/@bithowl/smali-by-bithowl-chapter-5-smali-file-structure-07b9067bac15?source=rss------bug_bounty_writeup-5)
@@ -8,7 +9,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [The SSRF That Wasn’t Supposed to Work Twice](https://medium.com/@t3nv1/the-ssrf-that-wasnt-supposed-to-work-twice-9439f73d47e0?source=rss------bug_bounty_writeup-5)
 - [MariaDB CVE-2026–48165: Authenticated Remote Code Execution through WSREP State Snapshot Transfer](https://letchupkt.medium.com/mariadb-cve-2026-48165-authenticated-remote-code-execution-through-wsrep-state-snapshot-transfer-f9ce7d68ea1e?source=rss------bug_bounty_writeup-5)
 - [How to Build a Recon Workflow That Actually Finds Bugs &lpar;Not Just Data&rpar;](https://medium.com/@Aacle/how-to-build-a-recon-workflow-that-actually-finds-bugs-not-just-data-12167d2d93e8?source=rss------bug_bounty_writeup-5)
-- [Finding SQL Injection in a Government Website](https://medium.com/@zheverxploit/finding-sql-injection-in-a-government-website-657d2fba33d6?source=rss------bug_bounty_writeup-5)
 - [Publisher: TryHackMe CTF Walkthrough](https://infosecwriteups.com/publisher-tryhackme-ctf-walkthrough-cc97c9506153?source=rss----7b722bfd1b8d---4)
 - [TryHackMe: Room 404 Walkthrough &lpar;Hacker’s Holiday Challenge&rpar;](https://infosecwriteups.com/tryhackme-room-404-walkthrough-hackers-holiday-challenge-f4f9a2b530e8?source=rss----7b722bfd1b8d---4)
 - [How I Found a High-Severity Directory Traversal in Flask-Admin](https://infosecwriteups.com/how-i-found-a-high-severity-directory-traversal-in-flask-admin-d3b99b4bec1d?source=rss----7b722bfd1b8d---4)
