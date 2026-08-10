@@ -971,6 +971,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Stop Drowning in Recon Output. Start Hunting the Signal.](https://osintteam.blog/stop-drowning-in-recon-output-start-hunting-the-signal-21e5542888dc?source=rss------bug_bounty_writeup-5)
 - [How I Cut My Recon Time by 70% and Started Finding More Bugs](https://medium.com/@Aacle/how-i-cut-my-recon-time-by-70-and-started-finding-more-bugs-0b7aafeca46e?source=rss------bug_bounty_writeup-5)
 - [How a $5,000 “Low Severity” Bug Turned Into the Ultimate Admin Trap](https://medium.com/@t3nv1/how-a-5-000-low-severity-bug-turned-into-the-ultimate-admin-trap-86d9bd01d40d?source=rss------bug_bounty_writeup-5)
 - [Phantom 5: File Authority — Escalating from Group Membership to Root &lpar;A Linux Privilege Escalation…](https://infosecwriteups.com/phantom-5-file-authority-escalating-from-group-membership-to-root-a-linux-privilege-escalation-a5bec7f02b8c?source=rss----7b722bfd1b8d---4)
@@ -987,7 +988,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [MariaDB CVE-2026–49261: Pre-Authentication Remote Code Execution via wsrep_notify_cmd](https://letchupkt.medium.com/mariadb-cve-2026-49261-pre-authentication-remote-code-execution-via-wsrep-notify-cmd-aaa6dc7548b4?source=rss------bug_bounty_writeup-5)
 - [Smali By bithowl: Chapter 5 Smali File Structure](https://medium.com/@bithowl/smali-by-bithowl-chapter-5-smali-file-structure-07b9067bac15?source=rss------bug_bounty_writeup-5)
 - [Uncovering a Privacy Bug in Proton Meet — How a Simple Logic ‘Typo’ Earned Me $100](https://medium.com/@kenjisubagja/uncovering-a-privacy-bug-in-proton-meet-how-a-simple-logic-typo-earned-me-100-2a8c8d6c47d1?source=rss------bug_bounty_writeup-5)
-- [The SSRF That Wasn’t Supposed to Work Twice](https://medium.com/@t3nv1/the-ssrf-that-wasnt-supposed-to-work-twice-9439f73d47e0?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
