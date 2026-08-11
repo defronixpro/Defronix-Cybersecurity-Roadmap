@@ -971,6 +971,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Bonjour &lpar;Hackthebox&rpar; Complete Walkthrough](https://medium.com/@TheNotorious13/bonjour-hackthebox-complete-walkthrough-94f2a0495967?source=rss------bug_bounty_writeup-5)
 - [Stop Drowning in Recon Output. Start Hunting the Signal.](https://osintteam.blog/stop-drowning-in-recon-output-start-hunting-the-signal-21e5542888dc?source=rss------bug_bounty_writeup-5)
 - [How I Cut My Recon Time by 70% and Started Finding More Bugs](https://medium.com/@Aacle/how-i-cut-my-recon-time-by-70-and-started-finding-more-bugs-0b7aafeca46e?source=rss------bug_bounty_writeup-5)
 - [How a $5,000 “Low Severity” Bug Turned Into the Ultimate Admin Trap](https://medium.com/@t3nv1/how-a-5-000-low-severity-bug-turned-into-the-ultimate-admin-trap-86d9bd01d40d?source=rss------bug_bounty_writeup-5)
