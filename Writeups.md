@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [A Couple’s Hunt: Hardcoded Credentials Lead to Internal Data Exposure &amp; a $300 Bounty](https://medium.com/@mhrdkaa._/a-couples-hunt-hardcoded-credentials-lead-to-internal-data-exposure-a-300-bounty-933db89ac98c?source=rss------bug_bounty_writeup-5)
 - [Bonjour &lpar;Hackthebox&rpar; Complete Walkthrough](https://medium.com/@TheNotorious13/bonjour-hackthebox-complete-walkthrough-94f2a0495967?source=rss------bug_bounty_writeup-5)
 - [Stop Drowning in Recon Output. Start Hunting the Signal.](https://osintteam.blog/stop-drowning-in-recon-output-start-hunting-the-signal-21e5542888dc?source=rss------bug_bounty_writeup-5)
 - [How I Cut My Recon Time by 70% and Started Finding More Bugs](https://medium.com/@Aacle/how-i-cut-my-recon-time-by-70-and-started-finding-more-bugs-0b7aafeca46e?source=rss------bug_bounty_writeup-5)
@@ -18,7 +19,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [&lpar;BAC&rpar;Insecure direct object references](https://medium.com/@abdallh.mohamed.abdallnaby/bac-insecure-direct-object-references-14566633073a?source=rss------bug_bounty_writeup-5)
 - [Bypassing Filters to Achieve UNION-Based SQL Injection on a Search Endpoint](https://medium.com/@xelcezeri/bypassing-filters-to-achieve-union-based-sql-injection-on-a-search-endpoint-0f092ba254ed?source=rss------bug_bounty_writeup-5)
 - [MariaDB CVE-2026–49261: Pre-Authentication Remote Code Execution via wsrep_notify_cmd](https://letchupkt.medium.com/mariadb-cve-2026-49261-pre-authentication-remote-code-execution-via-wsrep-notify-cmd-aaa6dc7548b4?source=rss------bug_bounty_writeup-5)
-- [Smali By bithowl: Chapter 5 Smali File Structure](https://medium.com/@bithowl/smali-by-bithowl-chapter-5-smali-file-structure-07b9067bac15?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
