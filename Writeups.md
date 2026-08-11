@@ -18,7 +18,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Bypassing Filters to Achieve UNION-Based SQL Injection on a Search Endpoint](https://medium.com/@xelcezeri/bypassing-filters-to-achieve-union-based-sql-injection-on-a-search-endpoint-0f092ba254ed?source=rss------bug_bounty_writeup-5)
 - [MariaDB CVE-2026–49261: Pre-Authentication Remote Code Execution via wsrep_notify_cmd](https://letchupkt.medium.com/mariadb-cve-2026-49261-pre-authentication-remote-code-execution-via-wsrep-notify-cmd-aaa6dc7548b4?source=rss------bug_bounty_writeup-5)
 - [Smali By bithowl: Chapter 5 Smali File Structure](https://medium.com/@bithowl/smali-by-bithowl-chapter-5-smali-file-structure-07b9067bac15?source=rss------bug_bounty_writeup-5)
-- [Uncovering a Privacy Bug in Proton Meet — How a Simple Logic ‘Typo’ Earned Me $100](https://medium.com/@kenjisubagja/uncovering-a-privacy-bug-in-proton-meet-how-a-simple-logic-typo-earned-me-100-2a8c8d6c47d1?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
