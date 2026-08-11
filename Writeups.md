@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How a $100 Profile Picture Glitch Turned Into a $9,000 Zero-Day Reward](https://medium.com/@t3nv1/how-a-100-profile-picture-glitch-turned-into-a-9-000-zero-day-reward-e82bb8c084e8?source=rss------bug_bounty_writeup-5)
 - [A Couple’s Hunt: Hardcoded Credentials Lead to Internal Data Exposure &amp; a $300 Bounty](https://medium.com/@mhrdkaa._/a-couples-hunt-hardcoded-credentials-lead-to-internal-data-exposure-a-300-bounty-933db89ac98c?source=rss------bug_bounty_writeup-5)
 - [Bonjour &lpar;Hackthebox&rpar; Complete Walkthrough](https://medium.com/@TheNotorious13/bonjour-hackthebox-complete-walkthrough-94f2a0495967?source=rss------bug_bounty_writeup-5)
 - [Stop Drowning in Recon Output. Start Hunting the Signal.](https://osintteam.blog/stop-drowning-in-recon-output-start-hunting-the-signal-21e5542888dc?source=rss------bug_bounty_writeup-5)
