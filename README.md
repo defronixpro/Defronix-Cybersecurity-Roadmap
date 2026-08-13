@@ -971,6 +971,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Unique Username Validation Bypass to a Stored Open Redirect: How I Escalated a Bug Bounty Finding](https://medium.com/@ankitrathva/unique-username-validation-bypass-to-a-stored-open-redirect-how-i-escalated-a-bug-bounty-finding-eb059db498c2?source=rss------bug_bounty_writeup-5)
 - [How a 30-Year-Old Path Traversal Earned $150K From Apple’s AI Cloud](https://infosecwriteups.com/how-a-30-year-old-path-traversal-earned-150k-from-apples-ai-cloud-f7d6b8df1f25?source=rss------bug_bounty_writeup-5)
 - [How a $100 Profile Picture Glitch Turned Into a $9,000 Zero-Day Reward](https://medium.com/@t3nv1/how-a-100-profile-picture-glitch-turned-into-a-9-000-zero-day-reward-e82bb8c084e8?source=rss------bug_bounty_writeup-5)
 - [A Couple’s Hunt: Hardcoded Credentials Lead to Internal Data Exposure &amp; a $300 Bounty](https://medium.com/@mhrdkaa._/a-couples-hunt-hardcoded-credentials-lead-to-internal-data-exposure-a-300-bounty-933db89ac98c?source=rss------bug_bounty_writeup-5)
@@ -989,7 +990,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [TryHackMe: “Complimentary” Room Walkthrough &lpar; Hacker’s Holiday Challenge &rpar;](https://infosecwriteups.com/tryhackme-complimentary-room-walkthrough-hackers-holiday-challenge-719f29710300?source=rss----7b722bfd1b8d---4)
 - [Hacker Holidays 2026: Day 3 Walkthrough &lpar;Complimentary&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-3-walkthrough-complimentary-12e4ddc2d3c6?source=rss----7b722bfd1b8d---4)
 - [&lpar;BAC&rpar;Insecure direct object references](https://medium.com/@abdallh.mohamed.abdallnaby/bac-insecure-direct-object-references-14566633073a?source=rss------bug_bounty_writeup-5)
-- [Bypassing Filters to Achieve UNION-Based SQL Injection on a Search Endpoint](https://medium.com/@xelcezeri/bypassing-filters-to-achieve-union-based-sql-injection-on-a-search-endpoint-0f092ba254ed?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
