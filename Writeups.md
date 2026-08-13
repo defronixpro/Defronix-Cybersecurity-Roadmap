@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How I Systematically Find XSS Bugs in Bug Bounty Programs &lpar;Step-by-Step Method&rpar;](https://medium.com/@b0dj0x/how-i-systematically-find-xss-bugs-in-bug-bounty-programs-step-by-step-method-9bcb5a829f7d?source=rss------bug_bounty_writeup-5)
 - [Unique Username Validation Bypass to a Stored Open Redirect: How I Escalated a Bug Bounty Finding](https://medium.com/@ankitrathva/unique-username-validation-bypass-to-a-stored-open-redirect-how-i-escalated-a-bug-bounty-finding-eb059db498c2?source=rss------bug_bounty_writeup-5)
 - [How a 30-Year-Old Path Traversal Earned $150K From Apple’s AI Cloud](https://infosecwriteups.com/how-a-30-year-old-path-traversal-earned-150k-from-apples-ai-cloud-f7d6b8df1f25?source=rss------bug_bounty_writeup-5)
 - [How a $100 Profile Picture Glitch Turned Into a $9,000 Zero-Day Reward](https://medium.com/@t3nv1/how-a-100-profile-picture-glitch-turned-into-a-9-000-zero-day-reward-e82bb8c084e8?source=rss------bug_bounty_writeup-5)
@@ -19,7 +20,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Hack Smarter - Silent Corridor &lpar;Blue Team&rpar;](https://infosecwriteups.com/hack-smarter-silent-corridor-blue-team-e3a6ef6a65e6?source=rss----7b722bfd1b8d---4)
 - [TryHackMe: “Complimentary” Room Walkthrough &lpar; Hacker’s Holiday Challenge &rpar;](https://infosecwriteups.com/tryhackme-complimentary-room-walkthrough-hackers-holiday-challenge-719f29710300?source=rss----7b722bfd1b8d---4)
 - [Hacker Holidays 2026: Day 3 Walkthrough &lpar;Complimentary&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-3-walkthrough-complimentary-12e4ddc2d3c6?source=rss----7b722bfd1b8d---4)
-- [&lpar;BAC&rpar;Insecure direct object references](https://medium.com/@abdallh.mohamed.abdallnaby/bac-insecure-direct-object-references-14566633073a?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
