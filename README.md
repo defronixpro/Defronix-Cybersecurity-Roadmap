@@ -971,6 +971,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [{{7*7}} = 49: A Bug Hunter’s Guide to Server-Side Template Injection](https://osintteam.blog/7-7-49-a-bug-hunters-guide-to-server-side-template-injection-299cdcd6e259?source=rss------bug_bounty_writeup-5)
+- [How a Simple Wayback Search Revealed 44,000+ Exposed Job Applicant Emails](https://osintteam.blog/how-a-simple-wayback-search-revealed-44-000-exposed-job-applicant-emails-c6c2c361985e?source=rss------bug_bounty_writeup-5)
 - [How I Systematically Find XSS Bugs in Bug Bounty Programs &lpar;Step-by-Step Method&rpar;](https://medium.com/@b0dj0x/how-i-systematically-find-xss-bugs-in-bug-bounty-programs-step-by-step-method-9bcb5a829f7d?source=rss------bug_bounty_writeup-5)
 - [Unique Username Validation Bypass to a Stored Open Redirect: How I Escalated a Bug Bounty Finding](https://medium.com/@ankitrathva/unique-username-validation-bypass-to-a-stored-open-redirect-how-i-escalated-a-bug-bounty-finding-eb059db498c2?source=rss------bug_bounty_writeup-5)
 - [How a 30-Year-Old Path Traversal Earned $150K From Apple’s AI Cloud](https://infosecwriteups.com/how-a-30-year-old-path-traversal-earned-150k-from-apples-ai-cloud-f7d6b8df1f25?source=rss------bug_bounty_writeup-5)
@@ -978,8 +980,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [A Couple’s Hunt: Hardcoded Credentials Lead to Internal Data Exposure &amp; a $300 Bounty](https://medium.com/@mhrdkaa._/a-couples-hunt-hardcoded-credentials-lead-to-internal-data-exposure-a-300-bounty-933db89ac98c?source=rss------bug_bounty_writeup-5)
 - [Bonjour &lpar;Hackmyvm&rpar; Complete Walkthrough](https://medium.com/@TheNotorious13/bonjour-hackthebox-complete-walkthrough-94f2a0495967?source=rss------bug_bounty_writeup-5)
 - [Stop Drowning in Recon Output. Start Hunting the Signal.](https://osintteam.blog/stop-drowning-in-recon-output-start-hunting-the-signal-21e5542888dc?source=rss------bug_bounty_writeup-5)
-- [How I Cut My Recon Time by 70% and Started Finding More Bugs](https://medium.com/@Aacle/how-i-cut-my-recon-time-by-70-and-started-finding-more-bugs-0b7aafeca46e?source=rss------bug_bounty_writeup-5)
-- [How a $5,000 “Low Severity” Bug Turned Into the Ultimate Admin Trap](https://medium.com/@t3nv1/how-a-5-000-low-severity-bug-turned-into-the-ultimate-admin-trap-86d9bd01d40d?source=rss------bug_bounty_writeup-5)
 - [Phantom 5: File Authority — Escalating from Group Membership to Root &lpar;A Linux Privilege Escalation…](https://infosecwriteups.com/phantom-5-file-authority-escalating-from-group-membership-to-root-a-linux-privilege-escalation-a5bec7f02b8c?source=rss----7b722bfd1b8d---4)
 - [The Bug That Almost Wasn’t: How a “Dead End” Led to 500+ Leaked Customer Records](https://infosecwriteups.com/the-bug-that-almost-wasnt-how-a-dead-end-led-to-500-leaked-customer-records-18db26e53705?source=rss----7b722bfd1b8d---4)
 - [Hacker Holidays 2026: Day 4 Walkthrough &lpar;Packed Light&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-4-walkthrough-packed-light-02a5a14604a7?source=rss----7b722bfd1b8d---4)
