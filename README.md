@@ -971,6 +971,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [One IDOR, Three Leaks, $3K in Payouts](https://medium.com/@ferdusalam0/one-idor-three-leaks-3k-in-payouts-c5ff37e9f267?source=rss------bug_bounty_writeup-5)
+- [How I Systematically Find SQL Injection Bugs in Bug Bounty Programs &lpar;Step-by-Step Method&rpar;](https://medium.com/@b0dj0x/how-i-systematically-find-sql-injection-bugs-in-bug-bounty-programs-step-by-step-method-0bbaf03c4722?source=rss------bug_bounty_writeup-5)
 - [SSH for Beginners: Connect to Remote Servers Using VS Code](https://infosecwriteups.com/ssh-for-beginners-connect-to-remote-servers-using-vs-code-a09b87056340?source=rss----7b722bfd1b8d---4)
 - [Cap: Easy Level HackTheBox Linux Machine [Walkthrough]](https://infosecwriteups.com/cap-easy-level-hackthebox-linux-machine-feea61e860a5?source=rss----7b722bfd1b8d---4)
 - [TryHackMe Walkthrough: Hacker Holidays Day 3 — Complimentary](https://infosecwriteups.com/tryhackme-walkthrough-hacker-holidays-day-3-complimentary-85f90b704757?source=rss----7b722bfd1b8d---4)
@@ -989,7 +991,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How a 30-Year-Old Path Traversal Earned $150K From Apple’s AI Cloud](https://infosecwriteups.com/how-a-30-year-old-path-traversal-earned-150k-from-apples-ai-cloud-f7d6b8df1f25?source=rss------bug_bounty_writeup-5)
 - [How a $100 Profile Picture Glitch Turned Into a $9,000 Zero-Day Reward](https://medium.com/@t3nv1/how-a-100-profile-picture-glitch-turned-into-a-9-000-zero-day-reward-e82bb8c084e8?source=rss------bug_bounty_writeup-5)
 - [A Couple’s Hunt: Hardcoded Credentials Lead to Internal Data Exposure &amp; a $300 Bounty](https://medium.com/@mhrdkaa._/a-couples-hunt-hardcoded-credentials-lead-to-internal-data-exposure-a-300-bounty-933db89ac98c?source=rss------bug_bounty_writeup-5)
-- [Bonjour &lpar;Hackmyvm&rpar; Complete Walkthrough](https://medium.com/@TheNotorious13/bonjour-hackthebox-complete-walkthrough-94f2a0495967?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
