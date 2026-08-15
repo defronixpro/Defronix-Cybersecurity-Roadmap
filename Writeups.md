@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How to Exploit a JWT Authentication Bypass](https://medium.com/@gdefault830/how-to-exploit-a-jwt-authentication-bypass-cde76147fd7d?source=rss------bug_bounty_writeup-5)
 - [How a Forgotten “Export to Excel” Feature Exfiltrated a Bank’s Database for $5,000](https://medium.com/@t3nv1/how-a-forgotten-export-to-excel-feature-exfiltrated-a-banks-database-for-5-000-caf3df3a6ae6?source=rss------bug_bounty_writeup-5)
 - [Critical Exposure Of Algolia Key That Led to Production, Staging, and Draft Data](https://medium.com/@am8337/critical-exposure-of-algolia-key-that-led-to-production-staging-and-draft-data-ade1c34774eb?source=rss------bug_bounty_writeup-5)
 - [Finding SSRF In Modern Web Apps](https://medium.com/@gdefault830/finding-ssrf-in-modern-web-apps-40fd364b4ff9?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [tryhackme beach bar day - 05 writeup](https://infosecwriteups.com/tryhackme-beach-bar-day-05-writeup-86beb05cd3d4?source=rss----7b722bfd1b8d---4)
 - [LetsDefend Practical Case: Corporate Policy Violation | Browser Forensics | Incident Responder…](https://infosecwriteups.com/letsdefend-practical-case-corporate-policy-violation-browser-forensics-incident-responder-e3b9c833a4dc?source=rss----7b722bfd1b8d---4)
 - [When HTTP Cookies Become a Covert Channel: Packed Light](https://infosecwriteups.com/when-http-cookies-become-a-covert-channel-packed-light-aa6255eddaa5?source=rss----7b722bfd1b8d---4)
-- [{{7*7}} = 49: A Bug Hunter’s Guide to Server-Side Template Injection](https://osintteam.blog/7-7-49-a-bug-hunters-guide-to-server-side-template-injection-299cdcd6e259?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
