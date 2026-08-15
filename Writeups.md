@@ -1,7 +1,6 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
-- [How to Exploit a JWT Authentication Bypass](https://medium.com/@gdefault830/how-to-exploit-a-jwt-authentication-bypass-cde76147fd7d?source=rss------bug_bounty_writeup-5)
 - [How a Forgotten “Export to Excel” Feature Exfiltrated a Bank’s Database for $5,000](https://medium.com/@t3nv1/how-a-forgotten-export-to-excel-feature-exfiltrated-a-banks-database-for-5-000-caf3df3a6ae6?source=rss------bug_bounty_writeup-5)
 - [Critical Exposure Of Algolia Key That Led to Production, Staging, and Draft Data](https://medium.com/@am8337/critical-exposure-of-algolia-key-that-led-to-production-staging-and-draft-data-ade1c34774eb?source=rss------bug_bounty_writeup-5)
 - [Finding SSRF In Modern Web Apps](https://medium.com/@gdefault830/finding-ssrf-in-modern-web-apps-40fd364b4ff9?source=rss------bug_bounty_writeup-5)
