@@ -971,6 +971,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I Found an SSRF Vulnerability in Istio and Got Credited in the Official Release Notes](https://medium.com/@0xanubiis/how-i-found-an-ssrf-vulnerability-in-istio-and-got-credited-in-the-official-release-notes-e4d6f21c9707?source=rss------bug_bounty_writeup-5)
 - [How to Find Your First Bug Bounty Vulnerability in 2026 &lpar;The Beginner Method That Actually Pays&rpar;](https://medium.com/@b0dj0x/how-to-find-your-first-bug-bounty-vulnerability-in-2026-the-beginner-method-that-actually-pays-dbd385c063f2?source=rss------bug_bounty_writeup-5)
 - [One IDOR, Three Leaks, $3K in Payouts](https://medium.com/@ferdusalam0/one-idor-three-leaks-3k-in-payouts-c5ff37e9f267?source=rss------bug_bounty_writeup-5)
 - [How I Systematically Find SQL Injection Bugs in Bug Bounty Programs &lpar;Step-by-Step Method&rpar;](https://medium.com/@b0dj0x/how-i-systematically-find-sql-injection-bugs-in-bug-bounty-programs-step-by-step-method-0bbaf03c4722?source=rss------bug_bounty_writeup-5)
@@ -990,7 +991,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How I Systematically Find XSS Bugs in Bug Bounty Programs &lpar;Step-by-Step Method&rpar;](https://medium.com/@b0dj0x/how-i-systematically-find-xss-bugs-in-bug-bounty-programs-step-by-step-method-9bcb5a829f7d?source=rss------bug_bounty_writeup-5)
 - [Unique Username Validation Bypass to a Stored Open Redirect: How I Escalated a Bug Bounty Finding](https://medium.com/@ankitrathva/unique-username-validation-bypass-to-a-stored-open-redirect-how-i-escalated-a-bug-bounty-finding-eb059db498c2?source=rss------bug_bounty_writeup-5)
 - [How a 30-Year-Old Path Traversal Earned $150K From Apple’s AI Cloud](https://infosecwriteups.com/how-a-30-year-old-path-traversal-earned-150k-from-apples-ai-cloud-f7d6b8df1f25?source=rss------bug_bounty_writeup-5)
-- [How a $100 Profile Picture Glitch Turned Into a $9,000 Zero-Day Reward](https://medium.com/@t3nv1/how-a-100-profile-picture-glitch-turned-into-a-9-000-zero-day-reward-e82bb8c084e8?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
