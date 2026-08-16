@@ -971,6 +971,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [2 Race Condition let me get money free on a 10 Million users Company on a Hackerone program](https://medium.com/@sebasvargas2/2-race-condition-let-me-get-money-free-on-a-10-million-users-company-on-a-hackerone-program-7e41fe5e0115?source=rss------bug_bounty_writeup-5)
 - [The Bug Wasn’t Hidden. I Was Looking in the Wrong Place.](https://medium.com/@abobakrmohamed0101/the-bug-wasnt-hidden-i-was-looking-in-the-wrong-place-162e8917a8f9?source=rss------bug_bounty_writeup-5)
 - [How a Forgotten “Export to Excel” Feature Exfiltrated a Bank’s Database for $5,000](https://medium.com/@t3nv1/how-a-forgotten-export-to-excel-feature-exfiltrated-a-banks-database-for-5-000-caf3df3a6ae6?source=rss------bug_bounty_writeup-5)
 - [Critical Exposure Of Algolia Key That Led to Production, Staging, and Draft Data](https://medium.com/@am8337/critical-exposure-of-algolia-key-that-led-to-production-staging-and-draft-data-ade1c34774eb?source=rss------bug_bounty_writeup-5)
@@ -979,7 +980,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How I Found an SSRF Vulnerability in Istio and Got Credited in the Official Release Notes](https://medium.com/@0xanubiis/how-i-found-an-ssrf-vulnerability-in-istio-and-got-credited-in-the-official-release-notes-e4d6f21c9707?source=rss------bug_bounty_writeup-5)
 - [How to Find Your First Bug Bounty Vulnerability in 2026 &lpar;The Beginner Method That Actually Pays&rpar;](https://medium.com/@b0dj0x/how-to-find-your-first-bug-bounty-vulnerability-in-2026-the-beginner-method-that-actually-pays-dbd385c063f2?source=rss------bug_bounty_writeup-5)
 - [One IDOR, Three Leaks, $3K in Payouts](https://medium.com/@ferdusalam0/one-idor-three-leaks-3k-in-payouts-c5ff37e9f267?source=rss------bug_bounty_writeup-5)
-- [How I Systematically Find SQL Injection Bugs in Bug Bounty Programs &lpar;Step-by-Step Method&rpar;](https://medium.com/@b0dj0x/how-i-systematically-find-sql-injection-bugs-in-bug-bounty-programs-step-by-step-method-0bbaf03c4722?source=rss------bug_bounty_writeup-5)
 - [SSH for Beginners: Connect to Remote Servers Using VS Code](https://infosecwriteups.com/ssh-for-beginners-connect-to-remote-servers-using-vs-code-a09b87056340?source=rss----7b722bfd1b8d---4)
 - [Cap: Easy Level HackTheBox Linux Machine [Walkthrough]](https://infosecwriteups.com/cap-easy-level-hackthebox-linux-machine-feea61e860a5?source=rss----7b722bfd1b8d---4)
 - [TryHackMe Walkthrough: Hacker Holidays Day 3 — Complimentary](https://infosecwriteups.com/tryhackme-walkthrough-hacker-holidays-day-3-complimentary-85f90b704757?source=rss----7b722bfd1b8d---4)
@@ -994,17 +994,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
 - [How to backup and restore the Windows Registry](https://www.bleepingcomputer.com/tutorials/how-to-backup-and-restore-the-windows-registry/)
-- [How To Fix Error: Externally-Managed-Environment In Python &lpar;Kali Linux&rpar;](https://technicalnavigator.in/how-to-fix-error-externally-managed-environment-in-python-kali-linux/)
-- [Understanding Systemctl Command in Linux &lpar;Practical&rpar;](https://technicalnavigator.in/understanding-systemctl-command-in-linux-practical/)
-- [Macros in docm &amp; Linux memory dump| Hack The Boo  Challanges](https://technicalnavigator.in/macros-in-docm-linux-memory-dump-hack-the-boo-challanges/)
-- [Android Apps debugging |  Frida, JADX, Genymotion](https://technicalnavigator.in/android-apps-debugging-frida-jadx-genymotion/)
-- [MouseServer | wifimouse – Windows/ Linux](https://technicalnavigator.in/mouseserver-wifimouse-windows-linux/)
-- [FFUF fuzzer | web-application penetration-testing](https://technicalnavigator.in/ffuf-fuzzer-web-application-penetration-testing/)
 - [How to open a Windows 11 Command Prompt as Administrator](https://www.bleepingcomputer.com/tutorials/how-to-open-a-windows-11-command-prompt-as-administrator/)
-- [Classes-Objects &amp; Deserialization bug](https://technicalnavigator.in/classes-objects-deserialization-bug/)
-- [Loki Tool | Multhreading Over Sockets in C](https://technicalnavigator.in/loki-tool-multhreading-over-sockets-in-c/)
-- [Egghunter | NASM | C prototype](https://technicalnavigator.in/egghunter-nasm-c-prototype/)
-- [TELNET &amp; FTP Analysis](https://technicalnavigator.in/telnet-ftp-analysis/)
 - [How to make the Start menu full screen in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-make-the-start-menu-full-screen-in-windows-10/)
 - [How to install the Microsoft Visual C++ 2015 Runtime](https://www.bleepingcomputer.com/tutorials/how-to-install-the-microsoft-visual-c-2015-runtime/)
 - [How to open an elevated PowerShell Admin prompt in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-open-an-elevated-powershell-admin-prompt-in-windows-10/)
