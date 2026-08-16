@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [The Bug Wasn’t Hidden. I Was Looking in the Wrong Place.](https://medium.com/@abobakrmohamed0101/the-bug-wasnt-hidden-i-was-looking-in-the-wrong-place-162e8917a8f9?source=rss------bug_bounty_writeup-5)
 - [How a Forgotten “Export to Excel” Feature Exfiltrated a Bank’s Database for $5,000](https://medium.com/@t3nv1/how-a-forgotten-export-to-excel-feature-exfiltrated-a-banks-database-for-5-000-caf3df3a6ae6?source=rss------bug_bounty_writeup-5)
 - [Critical Exposure Of Algolia Key That Led to Production, Staging, and Draft Data](https://medium.com/@am8337/critical-exposure-of-algolia-key-that-led-to-production-staging-and-draft-data-ade1c34774eb?source=rss------bug_bounty_writeup-5)
 - [Finding SSRF In Modern Web Apps](https://medium.com/@gdefault830/finding-ssrf-in-modern-web-apps-40fd364b4ff9?source=rss------bug_bounty_writeup-5)
@@ -14,7 +15,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [TryHackMe Walkthrough: Hacker Holidays Day 3 — Complimentary](https://infosecwriteups.com/tryhackme-walkthrough-hacker-holidays-day-3-complimentary-85f90b704757?source=rss----7b722bfd1b8d---4)
 - [Hacker Holidays 2026: Day 5 Walkthrough &lpar;Beach Bar&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-5-walkthrough-beach-bar-7976102d19f1?source=rss----7b722bfd1b8d---4)
 - [AWS Cloud Security Challenge: SSRF, IMDSv2, and Cloud Takeover](https://infosecwriteups.com/aws-cloud-security-challenge-ssrf-imdsv2-and-cloud-takeover-4cc6374ef67f?source=rss----7b722bfd1b8d---4)
-- [Shadow AI: The Breach Nobody Approved, Signed Off On, or Even Saw Coming](https://medium.com/@t3nv1/shadow-ai-the-breach-nobody-approved-signed-off-on-or-even-saw-coming-e97737fe30eb?source=rss------bug_bounty_writeup-5)
 - [Escalating a Blind Upload to RCE via Path Traversal into Cron and DNS-Restricted Callback Bypass](https://infosecwriteups.com/escalating-a-blind-upload-to-rce-via-path-traversal-into-cron-and-dns-restricted-callback-bypass-0f63db01be92?source=rss----7b722bfd1b8d---4)
 - [Revisiting JWT Token Forgery Attack on Recent Bounty Target](https://infosecwriteups.com/revisiting-jwt-token-forgery-attack-on-a-recent-bounty-target-bfe4a423f3df?source=rss----7b722bfd1b8d---4)
 - [tryhackme beach bar day - 05 writeup](https://infosecwriteups.com/tryhackme-beach-bar-day-05-writeup-86beb05cd3d4?source=rss----7b722bfd1b8d---4)
