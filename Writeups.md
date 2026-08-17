@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Hidden Web Paths: Smart Content Discovery Techniques](https://medium.com/@ph620095/hidden-web-paths-smart-content-discovery-techniques-ea90394eb6e7?source=rss------bug_bounty_writeup-5)
 - [Business Logic Bugs: When the App Says “You Can’t” — But You Actually Can](https://medium.com/@ahmedaliabdallah/business-logic-bugs-when-the-app-says-you-cant-but-you-actually-can-b52d2ada7ffd?source=rss------bug_bounty_writeup-5)
 - [How a Forgot-Password “Feature” Let Me Impersonate Any Executive for a $5,500 Bounty](https://medium.com/@t3nv1/how-a-forgot-password-feature-let-me-impersonate-any-executive-for-a-5-500-bounty-7a21297a18ca?source=rss------bug_bounty_writeup-5)
 - [The Bug Wasn’t Hidden. I Was Looking in the Wrong Place.](https://medium.com/@abobakrmohamed0101/the-bug-wasnt-hidden-i-was-looking-in-the-wrong-place-162e8917a8f9?source=rss------bug_bounty_writeup-5)
@@ -8,7 +9,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Critical Exposure Of Algolia Key That Led to Production, Staging, and Draft Data](https://medium.com/@am8337/critical-exposure-of-algolia-key-that-led-to-production-staging-and-draft-data-ade1c34774eb?source=rss------bug_bounty_writeup-5)
 - [Finding SSRF In Modern Web Apps](https://medium.com/@gdefault830/finding-ssrf-in-modern-web-apps-40fd364b4ff9?source=rss------bug_bounty_writeup-5)
 - [Smali By bithowl: Chapter 6 Smali Naming System](https://medium.com/@bithowl/smali-by-bithowl-chapter-6-smali-naming-system-93cc0c8bb14a?source=rss------bug_bounty_writeup-5)
-- [How I Found an SSRF Vulnerability in Istio and Got Credited in the Official Release Notes](https://medium.com/@0xanubiis/how-i-found-an-ssrf-vulnerability-in-istio-and-got-credited-in-the-official-release-notes-e4d6f21c9707?source=rss------bug_bounty_writeup-5)
 - [SSH for Beginners: Connect to Remote Servers Using VS Code](https://infosecwriteups.com/ssh-for-beginners-connect-to-remote-servers-using-vs-code-a09b87056340?source=rss----7b722bfd1b8d---4)
 - [Cap: Easy Level HackTheBox Linux Machine [Walkthrough]](https://infosecwriteups.com/cap-easy-level-hackthebox-linux-machine-feea61e860a5?source=rss----7b722bfd1b8d---4)
 - [TryHackMe Walkthrough: Hacker Holidays Day 3 — Complimentary](https://infosecwriteups.com/tryhackme-walkthrough-hacker-holidays-day-3-complimentary-85f90b704757?source=rss----7b722bfd1b8d---4)
