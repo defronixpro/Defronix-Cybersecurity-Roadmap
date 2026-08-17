@@ -972,7 +972,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
 - [How a Forgot-Password “Feature” Let Me Impersonate Any Executive for a $5,500 Bounty](https://medium.com/@t3nv1/how-a-forgot-password-feature-let-me-impersonate-any-executive-for-a-5-500-bounty-7a21297a18ca?source=rss------bug_bounty_writeup-5)
-- [2 Race Condition let me get money free on a 10 Million users Company on a Hackerone program](https://medium.com/@sebasvargas2/2-race-condition-let-me-get-money-free-on-a-10-million-users-company-on-a-hackerone-program-7e41fe5e0115?source=rss------bug_bounty_writeup-5)
 - [The Bug Wasn’t Hidden. I Was Looking in the Wrong Place.](https://medium.com/@abobakrmohamed0101/the-bug-wasnt-hidden-i-was-looking-in-the-wrong-place-162e8917a8f9?source=rss------bug_bounty_writeup-5)
 - [How a Forgotten “Export to Excel” Feature Exfiltrated a Bank’s Database for $5,000](https://medium.com/@t3nv1/how-a-forgotten-export-to-excel-feature-exfiltrated-a-banks-database-for-5-000-caf3df3a6ae6?source=rss------bug_bounty_writeup-5)
 - [Critical Exposure Of Algolia Key That Led to Production, Staging, and Draft Data](https://medium.com/@am8337/critical-exposure-of-algolia-key-that-led-to-production-staging-and-draft-data-ade1c34774eb?source=rss------bug_bounty_writeup-5)
