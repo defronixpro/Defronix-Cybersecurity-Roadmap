@@ -971,6 +971,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [2FA Bypass: The Patterns That Keep Coming Back](https://kd-200.medium.com/2fa-bypass-the-patterns-that-keep-coming-back-19ea618df1f2?source=rss------bug_bounty_writeup-5)
 - [The 10 Best Bug Bounty Tools in 2026 &lpar;What Actual Hunters Use for Manual Testing&rpar;](https://medium.com/@b0dj0x/the-10-best-bug-bounty-tools-in-2026-what-actual-hunters-use-for-manual-testing-853d0dac4532?source=rss------bug_bounty_writeup-5)
 - [Hacker Holidays 2026: Day 10 Walkthrough &lpar;The Hollow Shell&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-10-walkthrough-the-hollow-shell-99df009baf37?source=rss----7b722bfd1b8d---4)
 - [Hacker Holidays 2026: Day 9 Walkthrough &lpar;CryptoCabana&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-9-walkthrough-cryptocabana-a6a1caa9438a?source=rss----7b722bfd1b8d---4)
@@ -988,7 +989,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Business Logic Bugs: When the App Says “You Can’t” — But You Actually Can](https://medium.com/@ahmedaliabdallah/business-logic-bugs-when-the-app-says-you-cant-but-you-actually-can-b52d2ada7ffd?source=rss------bug_bounty_writeup-5)
 - [How a Forgot-Password “Feature” Let Me Impersonate Any Executive for a $5,500 Bounty](https://medium.com/@t3nv1/how-a-forgot-password-feature-let-me-impersonate-any-executive-for-a-5-500-bounty-7a21297a18ca?source=rss------bug_bounty_writeup-5)
 - [The Bug Wasn’t Hidden. I Was Looking in the Wrong Place.](https://medium.com/@abobakrmohamed0101/the-bug-wasnt-hidden-i-was-looking-in-the-wrong-place-162e8917a8f9?source=rss------bug_bounty_writeup-5)
-- [How a Forgotten “Export to Excel” Feature Exfiltrated a Bank’s Database for $5,000](https://medium.com/@t3nv1/how-a-forgotten-export-to-excel-feature-exfiltrated-a-banks-database-for-5-000-caf3df3a6ae6?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
