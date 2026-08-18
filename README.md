@@ -971,6 +971,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [The “Read-Only” Analytics Role That Could Delete a $40 Billion Cloud Empire](https://medium.com/@t3nv1/the-read-only-analytics-role-that-could-delete-a-40-billion-cloud-empire-ef9f6ce68ab7?source=rss------bug_bounty_writeup-5)
 - [2FA Bypass: The Patterns That Keep Coming Back](https://kd-200.medium.com/2fa-bypass-the-patterns-that-keep-coming-back-19ea618df1f2?source=rss------bug_bounty_writeup-5)
 - [The 10 Best Bug Bounty Tools in 2026 &lpar;What Actual Hunters Use for Manual Testing&rpar;](https://medium.com/@b0dj0x/the-10-best-bug-bounty-tools-in-2026-what-actual-hunters-use-for-manual-testing-853d0dac4532?source=rss------bug_bounty_writeup-5)
 - [Hacker Holidays 2026: Day 10 Walkthrough &lpar;The Hollow Shell&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-10-walkthrough-the-hollow-shell-99df009baf37?source=rss----7b722bfd1b8d---4)
