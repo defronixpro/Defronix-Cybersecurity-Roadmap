@@ -971,6 +971,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How a Simple SVG XSS Test Led Me to Arbitrary HTML Upload](https://islamelkad.medium.com/how-a-simple-svg-xss-test-led-me-to-arbitrary-html-upload-a060f4c67e4f?source=rss------bug_bounty_writeup-5)
 - [Sauna Write-Up &lpar;Easy Difficulty&rpar;](https://medium.com/@kankojoseph/sauna-write-up-easy-difficulty-d832841696ee?source=rss------bug_bounty_writeup-5)
 - [API Hacking — Part 2](https://medium.com/@mohaba746/api-hacking-part-2-af94c576d22d?source=rss------bug_bounty_writeup-5)
 - [Never Trust a 403 — The Access-Control Bypass Toolkit](https://kd-200.medium.com/never-trust-a-403-the-access-control-bypass-toolkit-814452522001?source=rss------bug_bounty_writeup-5)
@@ -980,7 +981,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [A Langfuse SSRF, default ClickHouse credentials, and a novel error-based extraction technique that…](https://vivek-ghinaiya.medium.com/a-langfuse-ssrf-default-clickhouse-credentials-and-a-novel-error-based-extraction-technique-that-7a88896e4ed2?source=rss------bug_bounty_writeup-5)
 - [The “Read-Only” Analytics Role That Could Delete a $40 Billion Cloud Empire](https://medium.com/@t3nv1/the-read-only-analytics-role-that-could-delete-a-40-billion-cloud-empire-ef9f6ce68ab7?source=rss------bug_bounty_writeup-5)
 - [2FA Bypass: The Patterns That Keep Coming Back](https://kd-200.medium.com/2fa-bypass-the-patterns-that-keep-coming-back-19ea618df1f2?source=rss------bug_bounty_writeup-5)
-- [The 10 Best Bug Bounty Tools in 2026 &lpar;What Actual Hunters Use for Manual Testing&rpar;](https://medium.com/@b0dj0x/the-10-best-bug-bounty-tools-in-2026-what-actual-hunters-use-for-manual-testing-853d0dac4532?source=rss------bug_bounty_writeup-5)
 - [Hacker Holidays 2026: Day 10 Walkthrough &lpar;The Hollow Shell&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-10-walkthrough-the-hollow-shell-99df009baf37?source=rss----7b722bfd1b8d---4)
 - [Hacker Holidays 2026: Day 9 Walkthrough &lpar;CryptoCabana&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-9-walkthrough-cryptocabana-a6a1caa9438a?source=rss----7b722bfd1b8d---4)
 - [Hacker Holidays 2026: Day 8 Walkthrough &lpar;Towel on the Sunbed&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-8-walkthrough-towel-on-the-sunbed-4cd1f708eb3c?source=rss----7b722bfd1b8d---4)
