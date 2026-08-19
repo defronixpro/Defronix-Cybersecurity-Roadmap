@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Never Trust a 403 — The Access-Control Bypass Toolkit](https://kd-200.medium.com/never-trust-a-403-the-access-control-bypass-toolkit-814452522001?source=rss------bug_bounty_writeup-5)
 - [When a Trusted Profile Link Becomes a Malware Delivery Vector](https://icecream23.medium.com/when-a-trusted-profile-link-becomes-a-malware-delivery-vector-30dac8d85afc?source=rss------bug_bounty_writeup-5)
 - [I Bypassed Email Verification in One Request](https://scriptjacker.medium.com/i-bypassed-email-verification-in-one-request-569a3c87590d?source=rss------bug_bounty_writeup-5)
 - [this is my first bug i found](https://medium.com/@mr.amanmaurya999/this-is-my-first-bug-i-found-f75969918f3a?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How an Unauthenticated API Endpoint Exposed 19,990 User Records](https://infosecwriteups.com/how-an-unauthenticated-api-endpoint-exposed-19-990-user-records-ecfe395cf94a?source=rss----7b722bfd1b8d---4)
 - [How I Took Over Any Employee Account With Just a Username](https://medium.com/@yassine.hasnaoui.cyber/how-i-took-over-any-employee-account-with-just-a-username-f7c5cae5a5c2?source=rss------bug_bounty_writeup-5)
 - [Bug Bounty Recon &amp; Vulnerability Cheat Sheet](https://medium.com/@t3nv1/bug-bounty-recon-vulnerability-cheat-sheet-12d9db390d7f?source=rss------bug_bounty_writeup-5)
-- [Hidden Web Paths: Smart Content Discovery Techniques](https://medium.com/@ph620095/hidden-web-paths-smart-content-discovery-techniques-ea90394eb6e7?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
