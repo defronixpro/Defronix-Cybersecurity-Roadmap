@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [A Langfuse SSRF, default ClickHouse credentials, and a novel error-based extraction technique that…](https://vivek-ghinaiya.medium.com/a-langfuse-ssrf-default-clickhouse-credentials-and-a-novel-error-based-extraction-technique-that-7a88896e4ed2?source=rss------bug_bounty_writeup-5)
 - [The “Read-Only” Analytics Role That Could Delete a $40 Billion Cloud Empire](https://medium.com/@t3nv1/the-read-only-analytics-role-that-could-delete-a-40-billion-cloud-empire-ef9f6ce68ab7?source=rss------bug_bounty_writeup-5)
 - [2FA Bypass: The Patterns That Keep Coming Back](https://kd-200.medium.com/2fa-bypass-the-patterns-that-keep-coming-back-19ea618df1f2?source=rss------bug_bounty_writeup-5)
 - [The 10 Best Bug Bounty Tools in 2026 &lpar;What Actual Hunters Use for Manual Testing&rpar;](https://medium.com/@b0dj0x/the-10-best-bug-bounty-tools-in-2026-what-actual-hunters-use-for-manual-testing-853d0dac4532?source=rss------bug_bounty_writeup-5)
@@ -19,7 +20,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Hidden Web Paths: Smart Content Discovery Techniques](https://medium.com/@ph620095/hidden-web-paths-smart-content-discovery-techniques-ea90394eb6e7?source=rss------bug_bounty_writeup-5)
 - [Business Logic Bugs: When the App Says “You Can’t” — But You Actually Can](https://medium.com/@ahmedaliabdallah/business-logic-bugs-when-the-app-says-you-cant-but-you-actually-can-b52d2ada7ffd?source=rss------bug_bounty_writeup-5)
 - [How a Forgot-Password “Feature” Let Me Impersonate Any Executive for a $5,500 Bounty](https://medium.com/@t3nv1/how-a-forgot-password-feature-let-me-impersonate-any-executive-for-a-5-500-bounty-7a21297a18ca?source=rss------bug_bounty_writeup-5)
-- [The Bug Wasn’t Hidden. I Was Looking in the Wrong Place.](https://medium.com/@abobakrmohamed0101/the-bug-wasnt-hidden-i-was-looking-in-the-wrong-place-162e8917a8f9?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
