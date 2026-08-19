@@ -971,6 +971,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Sauna Write-Up &lpar;Easy Difficulty&rpar;](https://medium.com/@kankojoseph/sauna-write-up-easy-difficulty-d832841696ee?source=rss------bug_bounty_writeup-5)
 - [API Hacking — Part 2](https://medium.com/@mohaba746/api-hacking-part-2-af94c576d22d?source=rss------bug_bounty_writeup-5)
 - [Never Trust a 403 — The Access-Control Bypass Toolkit](https://kd-200.medium.com/never-trust-a-403-the-access-control-bypass-toolkit-814452522001?source=rss------bug_bounty_writeup-5)
 - [When a Trusted Profile Link Becomes a Malware Delivery Vector](https://icecream23.medium.com/when-a-trusted-profile-link-becomes-a-malware-delivery-vector-30dac8d85afc?source=rss------bug_bounty_writeup-5)
@@ -990,7 +991,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Hacker Holidays Day 8 — Do Not Disturb&lpar;TryHackMe&rpar; Full Writeup](https://infosecwriteups.com/hacker-holidays-day-8-do-not-disturb-tryhackme-full-writeup-059061b7973e?source=rss----7b722bfd1b8d---4)
 - [Proving Grounds — Practice — Authby](https://infosecwriteups.com/proving-grounds-practice-authby-3da2d1396a23?source=rss----7b722bfd1b8d---4)
 - [How an Unauthenticated API Endpoint Exposed 19,990 User Records](https://infosecwriteups.com/how-an-unauthenticated-api-endpoint-exposed-19-990-user-records-ecfe395cf94a?source=rss----7b722bfd1b8d---4)
-- [How I Took Over Any Employee Account With Just a Username](https://medium.com/@yassine.hasnaoui.cyber/how-i-took-over-any-employee-account-with-just-a-username-f7c5cae5a5c2?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
