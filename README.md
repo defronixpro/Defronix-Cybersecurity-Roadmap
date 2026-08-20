@@ -971,6 +971,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I Forged My Way Into a Real Service Account Token: An OIDC Trust Chain Attack](https://medium.com/@nizarkadiri70/how-i-forged-my-way-into-a-real-service-account-token-an-oidc-trust-chain-attack-806174dcae97?source=rss------bug_bounty_writeup-5)
 - [How to Find IDOR Vulnerabilities in Bug Bounty](https://medium.com/@b0dj0x/how-to-find-idor-vulnerabilities-in-bug-bounty-4c6bd63aa4a8?source=rss------bug_bounty_writeup-5)
 - [I Tested the Same Site With Claude Twice. The Focused Prompt Found 5 XSS the Big Prompt Missed.](https://medium.com/@Aacle/i-tested-the-same-site-with-claude-twice-the-focused-prompt-found-5-xss-the-big-prompt-missed-986571a9986d?source=rss------bug_bounty_writeup-5)
 - [How a Simple SVG XSS Test Led Me to Arbitrary HTML Upload](https://islamelkad.medium.com/how-a-simple-svg-xss-test-led-me-to-arbitrary-html-upload-a060f4c67e4f?source=rss------bug_bounty_writeup-5)
@@ -980,7 +981,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [When a Trusted Profile Link Becomes a Malware Delivery Vector](https://icecream23.medium.com/when-a-trusted-profile-link-becomes-a-malware-delivery-vector-30dac8d85afc?source=rss------bug_bounty_writeup-5)
 - [I Bypassed Email Verification in One Request](https://scriptjacker.medium.com/i-bypassed-email-verification-in-one-request-569a3c87590d?source=rss------bug_bounty_writeup-5)
 - [this is my first bug i found](https://medium.com/@mr.amanmaurya999/this-is-my-first-bug-i-found-f75969918f3a?source=rss------bug_bounty_writeup-5)
-- [A Langfuse SSRF, default ClickHouse credentials, and a novel error-based extraction technique that…](https://vivek-ghinaiya.medium.com/a-langfuse-ssrf-default-clickhouse-credentials-and-a-novel-error-based-extraction-technique-that-7a88896e4ed2?source=rss------bug_bounty_writeup-5)
 - [Hacker Holidays 2026: Day 10 Walkthrough &lpar;The Hollow Shell&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-10-walkthrough-the-hollow-shell-99df009baf37?source=rss----7b722bfd1b8d---4)
 - [Hacker Holidays 2026: Day 9 Walkthrough &lpar;CryptoCabana&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-9-walkthrough-cryptocabana-a6a1caa9438a?source=rss----7b722bfd1b8d---4)
 - [Hacker Holidays 2026: Day 8 Walkthrough &lpar;Towel on the Sunbed&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-8-walkthrough-towel-on-the-sunbed-4cd1f708eb3c?source=rss----7b722bfd1b8d---4)
