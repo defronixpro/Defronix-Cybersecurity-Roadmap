@@ -971,6 +971,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Google Classroom IDOR Vulnerability POC Video](https://marrijalikhan.medium.com/google-classroom-idor-vulnerability-poc-video-c0201d18dd04?source=rss------bug_bounty_writeup-5)
 - [How a “Draft Auto-Save” Feature Exposed Confidential Enterprise Board Documents leading to $4,500…](https://medium.com/@t4nv1/how-a-draft-auto-save-feature-exposed-confidential-enterprise-board-documents-leading-to-4-500-490cae4285fa?source=rss------bug_bounty_writeup-5)
 - [“We Don’t Use XML” — Yes You Do, and It’s Reading Files](https://kd-200.medium.com/we-dont-use-xml-yes-you-do-and-it-s-reading-files-9f85b1eb4994?source=rss------bug_bounty_writeup-5)
 - [How I Found an Application Resurrection Vulnerability &lpar;Deletion Bypass&rpar;](https://medium.com/@dahel792/how-i-found-an-application-resurrection-vulnerability-deletion-bypass-10188cc6696b?source=rss------bug_bounty_writeup-5)
@@ -980,7 +981,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How a “Delete Account” Button Became a $12,500 Nuke for an Entire User Database](https://medium.com/@t4nv1/how-a-delete-account-button-became-a-12-500-nuke-for-an-entire-user-database-aaa2ea50a339?source=rss------bug_bounty_writeup-5)
 - [Authentication vs. Authorization: How a Misconfigured OAuth Chain Led to an Auth Bypass](https://medium.com/@priyanshbhadoria5/authentication-vs-authorization-how-a-misconfigured-oauth-chain-led-to-an-auth-bypass-b14d1c0d402a?source=rss------bug_bounty_writeup-5)
 - [Secrets Exposure: Publicly Accessible docker-compose.yml Exposing MinIO Credentials](https://medium.com/@haris.aidhin/secrets-exposure-publicly-accessible-docker-compose-yml-exposing-minio-credentials-cea3aeea4a65?source=rss------bug_bounty_writeup-5)
-- [How an Unsanitized “Filter” Input Nuked a SaaS Unicorn’s Database for a $7,000 Bounty](https://medium.com/@t4nv1/how-an-unsanitized-filter-input-nuked-a-saas-unicorns-database-for-a-7-000-bounty-c74054c57533?source=rss------bug_bounty_writeup-5)
 - [Hacker Holidays 2026: Day 10 Walkthrough &lpar;The Hollow Shell&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-10-walkthrough-the-hollow-shell-99df009baf37?source=rss----7b722bfd1b8d---4)
 - [Hacker Holidays 2026: Day 9 Walkthrough &lpar;CryptoCabana&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-9-walkthrough-cryptocabana-a6a1caa9438a?source=rss----7b722bfd1b8d---4)
 - [Hacker Holidays 2026: Day 8 Walkthrough &lpar;Towel on the Sunbed&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-8-walkthrough-towel-on-the-sunbed-4cd1f708eb3c?source=rss----7b722bfd1b8d---4)
