@@ -971,6 +971,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Smali By bithowl: Chapter 7 Smali Directives](https://medium.com/@bithowl/smali-by-bithowl-chapter-7-smali-directives-c3498fa64da9?source=rss------bug_bounty_writeup-5)
 - [I Analyzed HackerOne’s 100 Biggest Payouts Ever.](https://medium.com/@Aacle/i-analyzed-hackerones-100-biggest-payouts-ever-d7ab00e139c9?source=rss------bug_bounty_writeup-5)
 - [Cyber Lens: The Ultimate Free Google Dorking Tool for Ethical Hackers &amp; OSINT Researchers in 2026](https://medium.com/@ali.y.alhamad/cyber-lens-the-ultimate-free-google-dorking-tool-for-ethical-hackers-osint-researchers-in-2026-e4fe1bdde11c?source=rss------bug_bounty_writeup-5)
 - [How a “Delete Account” Button Became a $12,500 Nuke for an Entire User Database](https://medium.com/@t4nv1/how-a-delete-account-button-became-a-12-500-nuke-for-an-entire-user-database-aaa2ea50a339?source=rss------bug_bounty_writeup-5)
@@ -980,7 +981,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Blind SSRF Without Callbacks: How I Used Timing to Prove Kubernetes and AWS Metadata Access](https://medium.com/@nizarkadiri70/blind-ssrf-without-callbacks-how-i-used-timing-to-prove-kubernetes-and-aws-metadata-access-ac1cc05af779?source=rss------bug_bounty_writeup-5)
 - [Hunting Open Redirects: My Practical Methodology for Web Application Testing](https://medium.com/@neerajachalampalem/hunting-open-redirects-my-practical-methodology-for-web-application-testing-238a3a9e0a97?source=rss------bug_bounty_writeup-5)
 - [My Bug Bounty Journey: I Started With Confusion, Not Confidence](https://medium.com/@ghannu0x01/my-bug-bounty-journey-i-started-with-confusion-not-confidence-d5efb7536f59?source=rss------bug_bounty_writeup-5)
-- [How I Forged My Way Into a Real Service Account Token: An OIDC Trust Chain Attack](https://medium.com/@nizarkadiri70/how-i-forged-my-way-into-a-real-service-account-token-an-oidc-trust-chain-attack-806174dcae97?source=rss------bug_bounty_writeup-5)
 - [Hacker Holidays 2026: Day 10 Walkthrough &lpar;The Hollow Shell&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-10-walkthrough-the-hollow-shell-99df009baf37?source=rss----7b722bfd1b8d---4)
 - [Hacker Holidays 2026: Day 9 Walkthrough &lpar;CryptoCabana&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-9-walkthrough-cryptocabana-a6a1caa9438a?source=rss----7b722bfd1b8d---4)
 - [Hacker Holidays 2026: Day 8 Walkthrough &lpar;Towel on the Sunbed&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-8-walkthrough-towel-on-the-sunbed-4cd1f708eb3c?source=rss----7b722bfd1b8d---4)
