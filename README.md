@@ -971,6 +971,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How an Unsanitized Header Generated a $6,000 Bounty via Cache Poisoning](https://medium.com/@t4nv1/how-an-unsanitized-header-generated-a-6-000-bounty-via-cache-poisoning-da7757cc6f18?source=rss------bug_bounty_writeup-5)
+- [How I Hacked A Telecom Company](https://medium.com/@the_phreak/how-i-hacked-a-telecom-company-edc5455e4443?source=rss------bug_bounty_writeup-5)
 - [How I Found My First LLM Vulnerability and Escalated it to Admin Access](https://medium.com/@dilip.gogula/how-i-found-my-first-llm-vulnerability-and-escalated-it-to-admin-access-5e570e2eb425?source=rss------bug_bounty_writeup-5)
 - [A 400 Is Not a Dead End — My First Bug Bounty &lpar;€250&rpar;](https://medium.com/@HariHax/a-400-is-not-a-dead-end-my-first-bug-bounty-250-0fd813c24f55?source=rss------bug_bounty_writeup-5)
 - [How 8 of the Top 20 HackerOne SSRF Reports Escalated to Cloud Credentials Leaks](https://medium.com/codetodeploy/ssrf-to-cloud-credentials-how-8-of-the-top-20-hackerone-reports-escalated-e453ab59887a?source=rss------bug_bounty_writeup-5)
@@ -979,8 +981,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How a “Draft Auto-Save” Feature Exposed Confidential Enterprise Board Documents leading to $4,500…](https://medium.com/@t4nv1/how-a-draft-auto-save-feature-exposed-confidential-enterprise-board-documents-leading-to-4-500-490cae4285fa?source=rss------bug_bounty_writeup-5)
 - [“We Don’t Use XML” — Yes You Do, and It’s Reading Files](https://kd-200.medium.com/we-dont-use-xml-yes-you-do-and-it-s-reading-files-9f85b1eb4994?source=rss------bug_bounty_writeup-5)
 - [How I Found an Application Resurrection Vulnerability &lpar;Deletion Bypass&rpar;](https://medium.com/@dahel792/how-i-found-an-application-resurrection-vulnerability-deletion-bypass-10188cc6696b?source=rss------bug_bounty_writeup-5)
-- [Smali By bithowl: Chapter 7 Smali Directives](https://medium.com/@bithowl/smali-by-bithowl-chapter-7-smali-directives-c3498fa64da9?source=rss------bug_bounty_writeup-5)
-- [I Analyzed HackerOne’s 100 Biggest Payouts Ever.](https://medium.com/@Aacle/i-analyzed-hackerones-100-biggest-payouts-ever-d7ab00e139c9?source=rss------bug_bounty_writeup-5)
 - [Hacker Holidays 2026: Day 10 Walkthrough &lpar;The Hollow Shell&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-10-walkthrough-the-hollow-shell-99df009baf37?source=rss----7b722bfd1b8d---4)
 - [Hacker Holidays 2026: Day 9 Walkthrough &lpar;CryptoCabana&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-9-walkthrough-cryptocabana-a6a1caa9438a?source=rss----7b722bfd1b8d---4)
 - [Hacker Holidays 2026: Day 8 Walkthrough &lpar;Towel on the Sunbed&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-8-walkthrough-towel-on-the-sunbed-4cd1f708eb3c?source=rss----7b722bfd1b8d---4)
