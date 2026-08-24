@@ -1,6 +1,9 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [I Changed One “User_Id” and the API Said “Sure” — From Password Reset to Mass Account Takeover](https://infosecwriteups.com/i-changed-one-user-id-and-the-api-said-sure-from-password-reset-to-mass-account-takeover-9d4d4e15e022?source=rss----7b722bfd1b8d---4)
+- [I Changed One “User_Id” and the API Said “Sure” — From Password Reset to Mass Account Takeover](https://infosecwriteups.com/i-changed-one-user-id-and-the-api-said-sure-from-password-reset-to-mass-account-takeover-9d4d4e15e022?source=rss------bug_bounty_writeup-5)
+- [Lakera’s Break The Agent Challenge— Solace AI Write-up](https://infosecwriteups.com/lakeras-break-the-agent-challenge-solace-ai-write-up-5f99a48c6c69?source=rss----7b722bfd1b8d---4)
 - [One .contains&lpar;&rpar; Away From a Full JavaScript Bridge Takeover](https://medium.com/@husein.ayoub/one-contains-away-from-a-full-javascript-bridge-takeover-e0c05eb066f8?source=rss------bug_bounty_writeup-5)
 - [How an Unsanitized Header Generated a $6,000 Bounty via Cache Poisoning](https://medium.com/@t4nv1/how-an-unsanitized-header-generated-a-6-000-bounty-via-cache-poisoning-da7757cc6f18?source=rss------bug_bounty_writeup-5)
 - [How I Hacked A Telecom Company](https://medium.com/@the_phreak/how-i-hacked-a-telecom-company-edc5455e4443?source=rss------bug_bounty_writeup-5)
@@ -10,7 +13,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Google Classroom IDOR Vulnerability POC Video](https://marrijalikhan.medium.com/google-classroom-idor-vulnerability-poc-video-c0201d18dd04?source=rss------bug_bounty_writeup-5)
 - [Insecure Firestore Security Rules &amp; PII Exposure](https://infosecwriteups.com/insecure-firestore-security-rules-pii-exposure-762763ac577f?source=rss------bug_bounty_writeup-5)
 - [How a “Draft Auto-Save” Feature Exposed Confidential Enterprise Board Documents leading to $4,500…](https://medium.com/@t4nv1/how-a-draft-auto-save-feature-exposed-confidential-enterprise-board-documents-leading-to-4-500-490cae4285fa?source=rss------bug_bounty_writeup-5)
-- [“We Don’t Use XML” — Yes You Do, and It’s Reading Files](https://kd-200.medium.com/we-dont-use-xml-yes-you-do-and-it-s-reading-files-9f85b1eb4994?source=rss------bug_bounty_writeup-5)
 - [Hacker Holidays 2026: Day 10 Walkthrough &lpar;The Hollow Shell&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-10-walkthrough-the-hollow-shell-99df009baf37?source=rss----7b722bfd1b8d---4)
 - [Hacker Holidays 2026: Day 9 Walkthrough &lpar;CryptoCabana&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-9-walkthrough-cryptocabana-a6a1caa9438a?source=rss----7b722bfd1b8d---4)
 - [Hacker Holidays 2026: Day 8 Walkthrough &lpar;Towel on the Sunbed&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-8-walkthrough-towel-on-the-sunbed-4cd1f708eb3c?source=rss----7b722bfd1b8d---4)
@@ -19,8 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [TryHackMe — Guided Pentest: Infrastructure | Full Walkthrough](https://infosecwriteups.com/tryhackme-guided-pentest-infrastructure-full-walkthrough-8984cd1806f4?source=rss----7b722bfd1b8d---4)
 - [Behavioral Malware Analysis: Investigating a Multi-Stage Malware Sample Inside an Isolated Lab](https://infosecwriteups.com/behavioral-malware-analysis-investigating-a-multi-stage-malware-sample-inside-an-isolated-lab-fba44d152d5b?source=rss----7b722bfd1b8d---4)
 - [Hacker Holidays Day 8 — Do Not Disturb&lpar;TryHackMe&rpar; Full Writeup](https://infosecwriteups.com/hacker-holidays-day-8-do-not-disturb-tryhackme-full-writeup-059061b7973e?source=rss----7b722bfd1b8d---4)
-- [Proving Grounds — Practice — Authby](https://infosecwriteups.com/proving-grounds-practice-authby-3da2d1396a23?source=rss----7b722bfd1b8d---4)
-- [How an Unauthenticated API Endpoint Exposed 19,990 User Records](https://infosecwriteups.com/how-an-unauthenticated-api-endpoint-exposed-19-990-user-records-ecfe395cf94a?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
