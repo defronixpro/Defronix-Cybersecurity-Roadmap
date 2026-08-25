@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Finding Sensitive Backend Information Through GraphQL Errors](https://medium.com/@ananya.itims/finding-sensitive-backend-information-through-graphql-errors-72f82ad2c27b?source=rss------bug_bounty_writeup-5)
 - [Power Supply Write-Up&lpar;AI/ML&rpar;](https://medium.com/@kankojoseph/power-supply-write-up-ai-ml-8f20eff9288b?source=rss------bug_bounty_writeup-5)
 - [How a Blind SSTI in an Email Template Engine Led to Remote Code Execution and a $25,000 Bounty](https://medium.com/@t4nv1/how-a-blind-ssti-in-an-email-template-engine-led-to-remote-code-execution-and-a-25-000-bounty-8f1e4f8633d1?source=rss------bug_bounty_writeup-5)
 - [Loom Subscription Bypass Let Starter Users Download Premium Transcriptions](https://osintteam.blog/loom-subscription-bypass-let-starter-users-download-premium-transcriptions-0bcfb6a5f43f?source=rss------bug_bounty_writeup-5)
@@ -12,7 +13,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How an Unsanitized Header Generated a $6,000 Bounty via Cache Poisoning](https://medium.com/@t4nv1/how-an-unsanitized-header-generated-a-6-000-bounty-via-cache-poisoning-da7757cc6f18?source=rss------bug_bounty_writeup-5)
 - [Bug Hunting #2](https://medium.com/@the_phreak/how-i-hacked-a-telecom-company-edc5455e4443?source=rss------bug_bounty_writeup-5)
 - [How I Found My First LLM Vulnerability and Escalated it to Admin Access](https://medium.com/@dilip.gogula/how-i-found-my-first-llm-vulnerability-and-escalated-it-to-admin-access-5e570e2eb425?source=rss------bug_bounty_writeup-5)
-- [A 400 Is Not a Dead End — My First Bug Bounty &lpar;€250&rpar;](https://medium.com/@HariHax/a-400-is-not-a-dead-end-my-first-bug-bounty-250-0fd813c24f55?source=rss------bug_bounty_writeup-5)
 - [Hacker Holidays 2026: Day 10 Walkthrough &lpar;The Hollow Shell&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-10-walkthrough-the-hollow-shell-99df009baf37?source=rss----7b722bfd1b8d---4)
 - [Hacker Holidays 2026: Day 9 Walkthrough &lpar;CryptoCabana&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-9-walkthrough-cryptocabana-a6a1caa9438a?source=rss----7b722bfd1b8d---4)
 - [Hacker Holidays 2026: Day 8 Walkthrough &lpar;Towel on the Sunbed&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-8-walkthrough-towel-on-the-sunbed-4cd1f708eb3c?source=rss----7b722bfd1b8d---4)
