@@ -980,7 +980,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Lakera’s Break The Agent Challenge— Solace AI Write-up](https://infosecwriteups.com/lakeras-break-the-agent-challenge-solace-ai-write-up-5f99a48c6c69?source=rss----7b722bfd1b8d---4)
 - [One .contains&lpar;&rpar; Away From a Full JavaScript Bridge Takeover](https://medium.com/@husein.ayoub/one-contains-away-from-a-full-javascript-bridge-takeover-e0c05eb066f8?source=rss------bug_bounty_writeup-5)
 - [How an Unsanitized Header Generated a $6,000 Bounty via Cache Poisoning](https://medium.com/@t4nv1/how-an-unsanitized-header-generated-a-6-000-bounty-via-cache-poisoning-da7757cc6f18?source=rss------bug_bounty_writeup-5)
-- [How I Hacked A Telecom Company](https://medium.com/@the_phreak/how-i-hacked-a-telecom-company-edc5455e4443?source=rss------bug_bounty_writeup-5)
+- [Bug Hunting #2](https://medium.com/@the_phreak/how-i-hacked-a-telecom-company-edc5455e4443?source=rss------bug_bounty_writeup-5)
 - [How I Found My First LLM Vulnerability and Escalated it to Admin Access](https://medium.com/@dilip.gogula/how-i-found-my-first-llm-vulnerability-and-escalated-it-to-admin-access-5e570e2eb425?source=rss------bug_bounty_writeup-5)
 - [A 400 Is Not a Dead End — My First Bug Bounty &lpar;€250&rpar;](https://medium.com/@HariHax/a-400-is-not-a-dead-end-my-first-bug-bounty-250-0fd813c24f55?source=rss------bug_bounty_writeup-5)
 - [Hacker Holidays 2026: Day 10 Walkthrough &lpar;The Hollow Shell&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-10-walkthrough-the-hollow-shell-99df009baf37?source=rss----7b722bfd1b8d---4)
