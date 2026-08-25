@@ -971,6 +971,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Loom Subscription Bypass Let Starter Users Download Premium Transcriptions](https://osintteam.blog/loom-subscription-bypass-let-starter-users-download-premium-transcriptions-0bcfb6a5f43f?source=rss------bug_bounty_writeup-5)
+- [Host Header Injection: One Header, Five Different Bugs](https://kd-200.medium.com/host-header-injection-one-header-five-different-bugs-394f6f7f1089?source=rss------bug_bounty_writeup-5)
 - [I Changed One “User_Id” and the API Said “Sure” — From Password Reset to Mass Account Takeover](https://infosecwriteups.com/i-changed-one-user-id-and-the-api-said-sure-from-password-reset-to-mass-account-takeover-9d4d4e15e022?source=rss----7b722bfd1b8d---4)
 - [I Changed One “User_Id” and the API Said “Sure” — From Password Reset to Mass Account Takeover](https://infosecwriteups.com/i-changed-one-user-id-and-the-api-said-sure-from-password-reset-to-mass-account-takeover-9d4d4e15e022?source=rss------bug_bounty_writeup-5)
 - [Lakera’s Break The Agent Challenge— Solace AI Write-up](https://infosecwriteups.com/lakeras-break-the-agent-challenge-solace-ai-write-up-5f99a48c6c69?source=rss----7b722bfd1b8d---4)
@@ -981,8 +983,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [A 400 Is Not a Dead End — My First Bug Bounty &lpar;€250&rpar;](https://medium.com/@HariHax/a-400-is-not-a-dead-end-my-first-bug-bounty-250-0fd813c24f55?source=rss------bug_bounty_writeup-5)
 - [How 8 of the Top 20 HackerOne SSRF Reports Escalated to Cloud Credentials Leaks](https://medium.com/codetodeploy/ssrf-to-cloud-credentials-how-8-of-the-top-20-hackerone-reports-escalated-e453ab59887a?source=rss------bug_bounty_writeup-5)
 - [Google Classroom IDOR Vulnerability POC Video](https://marrijalikhan.medium.com/google-classroom-idor-vulnerability-poc-video-c0201d18dd04?source=rss------bug_bounty_writeup-5)
-- [Insecure Firestore Security Rules &amp; PII Exposure](https://infosecwriteups.com/insecure-firestore-security-rules-pii-exposure-762763ac577f?source=rss------bug_bounty_writeup-5)
-- [How a “Draft Auto-Save” Feature Exposed Confidential Enterprise Board Documents leading to $4,500…](https://medium.com/@t4nv1/how-a-draft-auto-save-feature-exposed-confidential-enterprise-board-documents-leading-to-4-500-490cae4285fa?source=rss------bug_bounty_writeup-5)
 - [Hacker Holidays 2026: Day 10 Walkthrough &lpar;The Hollow Shell&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-10-walkthrough-the-hollow-shell-99df009baf37?source=rss----7b722bfd1b8d---4)
 - [Hacker Holidays 2026: Day 9 Walkthrough &lpar;CryptoCabana&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-9-walkthrough-cryptocabana-a6a1caa9438a?source=rss----7b722bfd1b8d---4)
 - [Hacker Holidays 2026: Day 8 Walkthrough &lpar;Towel on the Sunbed&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-8-walkthrough-towel-on-the-sunbed-4cd1f708eb3c?source=rss----7b722bfd1b8d---4)
