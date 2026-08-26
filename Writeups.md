@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [I Watched a Paid Course for Free &lpar;A Short IDOR Story&rpar;](https://medium.com/@ay01011017/i-watched-a-paid-course-for-free-a-short-idor-story-d08dd103d299?source=rss------bug_bounty_writeup-5)
 - [Assembly for Malware Analysis](https://infosecwriteups.com/assembly-for-malware-analysis-be0679241940?source=rss----7b722bfd1b8d---4)
 - [Got My First $$ Bug Bounty](https://infosecwriteups.com/got-my-first-bug-bounty-9d3d017b4342?source=rss----7b722bfd1b8d---4)
 - [From SQL Injection to Remote Code Execution: Following an Unexpected Attack Chain](https://infosecwriteups.com/from-sql-injection-to-remote-code-execution-following-an-unexpected-attack-chain-4cf6eb22dbb5?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [One .contains&lpar;&rpar; Away From a Full JavaScript Bridge Takeover](https://medium.com/@husein.ayoub/one-contains-away-from-a-full-javascript-bridge-takeover-e0c05eb066f8?source=rss------bug_bounty_writeup-5)
 - [How an Unsanitized Header Generated a $6,000 Bounty via Cache Poisoning](https://medium.com/@t4nv1/how-an-unsanitized-header-generated-a-6-000-bounty-via-cache-poisoning-da7757cc6f18?source=rss------bug_bounty_writeup-5)
 - [Bug Hunting #2](https://medium.com/@the_phreak/how-i-hacked-a-telecom-company-edc5455e4443?source=rss------bug_bounty_writeup-5)
-- [How I Found My First LLM Vulnerability and Escalated it to Admin Access](https://medium.com/@dilip.gogula/how-i-found-my-first-llm-vulnerability-and-escalated-it-to-admin-access-5e570e2eb425?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
