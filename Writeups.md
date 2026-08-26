@@ -1,16 +1,16 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Assembly for Malware Analysis](https://infosecwriteups.com/assembly-for-malware-analysis-be0679241940?source=rss----7b722bfd1b8d---4)
+- [Got My First $$ Bug Bounty](https://infosecwriteups.com/got-my-first-bug-bounty-9d3d017b4342?source=rss----7b722bfd1b8d---4)
+- [From SQL Injection to Remote Code Execution: Following an Unexpected Attack Chain](https://infosecwriteups.com/from-sql-injection-to-remote-code-execution-following-an-unexpected-attack-chain-4cf6eb22dbb5?source=rss----7b722bfd1b8d---4)
+- [scriptCTF Writeups 2026 | Cybersecurity](https://infosecwriteups.com/scriptctf-writeups-2026-cybersecurity-7916c6097e3c?source=rss----7b722bfd1b8d---4)
+- [Try Hack Me Hackerholidays Day7 Do Not Disturb Walkthrough](https://infosecwriteups.com/try-hack-me-hackerholidays-day7-do-not-disturb-walkthrough-c09c42834387?source=rss----7b722bfd1b8d---4)
+- [One Email. One Click. One Enterprise-Wide Ransomware Incident.](https://infosecwriteups.com/one-email-one-click-one-enterprise-wide-ransomware-incident-995808f1150a?source=rss----7b722bfd1b8d---4)
 - [Hack The Box : Cohort Full Walkthrough &lpar; Linux ; Very Easy &rpar;](https://infosecwriteups.com/hack-the-box-cohort-full-walkthrough-linux-very-easy-a68197c9dbce?source=rss----7b722bfd1b8d---4)
 - [The WAF Blocked My XSS — So I Rotated What It Was Reading](https://infosecwriteups.com/the-waf-blocked-my-xss-so-i-rotated-what-it-was-reading-47bc630c17ae?source=rss----7b722bfd1b8d---4)
 - [Bypassing AI Scanner Defenses to Exfiltrate Sensitive Information — PortSwigger Web Security…](https://infosecwriteups.com/bypassing-ai-scanner-defenses-to-exfiltrate-sensitive-information-portswigger-web-security-346b99f322ef?source=rss----7b722bfd1b8d---4)
 - [Agent P — Writeup](https://infosecwriteups.com/agent-p-writeup-5e40f134ba94?source=rss----7b722bfd1b8d---4)
-- [How a Single HTTP Redirect Bypassed SSRF Filters on 4 Programs Over 8 Years](https://infosecwriteups.com/how-a-single-http-redirect-bypassed-ssrf-filters-on-4-programs-over-8-years-4f67437ba6c7?source=rss----7b722bfd1b8d---4)
-- [How I Found a GraphQL Endpoint Leaking Millions](https://infosecwriteups.com/how-i-found-a-graphql-endpoint-leaking-millions-5cbfd55d994e?source=rss----7b722bfd1b8d---4)
-- [How I Chained Three Bugs to XSS an Intigriti CTF — IDOR + DOM Clobbering + DOMPurify 3.0.9 Bypass](https://infosecwriteups.com/how-i-chained-three-bugs-to-xss-an-intigriti-ctf-idor-dom-clobbering-dompurify-3-0-9-bypass-25b74fc7afc7?source=rss----7b722bfd1b8d---4)
-- [How I Made Over $10,000 Just by Chaining Multiple IDORs in a Single Web App &lpar;All from the Share…](https://infosecwriteups.com/how-i-made-over-10-000-just-by-chaining-multiple-idors-in-a-single-web-app-all-from-the-share-4d425a15aa37?source=rss----7b722bfd1b8d---4)
-- [[HS] Casino Writeup](https://infosecwriteups.com/hs-casino-writeup-a82d5df7ad37?source=rss----7b722bfd1b8d---4)
-- [../../ to Admin for a $,$$$ Bounty](https://infosecwriteups.com/to-admin-for-a-bounty-b946f781607f?source=rss----7b722bfd1b8d---4)
 - [Finding Sensitive Backend Information Through GraphQL Errors](https://medium.com/@ananya.itims/finding-sensitive-backend-information-through-graphql-errors-72f82ad2c27b?source=rss------bug_bounty_writeup-5)
 - [Power Supply Write-Up&lpar;AI/ML&rpar;](https://medium.com/@kankojoseph/power-supply-write-up-ai-ml-8f20eff9288b?source=rss------bug_bounty_writeup-5)
 - [How a Blind SSTI in an Email Template Engine Led to Remote Code Execution and a $25,000 Bounty](https://medium.com/@t4nv1/how-a-blind-ssti-in-an-email-template-engine-led-to-remote-code-execution-and-a-25-000-bounty-8f1e4f8633d1?source=rss------bug_bounty_writeup-5)
