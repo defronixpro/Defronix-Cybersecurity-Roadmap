@@ -990,7 +990,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How a Blind SSTI in an Email Template Engine Led to Remote Code Execution and a $25,000 Bounty](https://medium.com/@t4nv1/how-a-blind-ssti-in-an-email-template-engine-led-to-remote-code-execution-and-a-25-000-bounty-8f1e4f8633d1?source=rss------bug_bounty_writeup-5)
 - [Loom Subscription Bypass Let Starter Users Download Premium Transcriptions](https://osintteam.blog/loom-subscription-bypass-let-starter-users-download-premium-transcriptions-0bcfb6a5f43f?source=rss------bug_bounty_writeup-5)
 - [Host Header Injection: One Header, Five Different Bugs](https://kd-200.medium.com/host-header-injection-one-header-five-different-bugs-394f6f7f1089?source=rss------bug_bounty_writeup-5)
-- [I Changed One “User_Id” and the API Said “Sure” — From Password Reset to Mass Account Takeover](https://infosecwriteups.com/i-changed-one-user-id-and-the-api-said-sure-from-password-reset-to-mass-account-takeover-9d4d4e15e022?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
