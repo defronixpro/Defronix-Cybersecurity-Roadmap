@@ -971,6 +971,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How a Race Condition in Single-Use Coupon Redemption Led to Unlimited Credits and an $11,000 Bounty](https://medium.com/@t4nv1/how-a-race-condition-in-single-use-coupon-redemption-led-to-unlimited-credits-and-an-11-000-bounty-67a93a486ee0?source=rss------bug_bounty_writeup-5)
 - [How I Manipulated One Parameter to Love Another User’s Comment -IDOR &amp; Broken Authorization](https://medium.com/@ankitrathva/how-i-manipulated-one-parameter-to-love-another-users-comment-idor-broken-authorization-5cd5a67a13cd?source=rss------bug_bounty_writeup-5)
 - [How an Unsanitized SVG Upload Led to Cross-Site Scripting &lpar;XSS&rpar; and a $3,500 Bounty](https://medium.com/@t4nv1/how-an-unsanitized-svg-upload-led-to-cross-site-scripting-xss-and-a-3-500-bounty-3fa6b97c3efc?source=rss------bug_bounty_writeup-5)
 - [I Watched a Paid Course for Free &lpar;A Short IDOR Story&rpar;](https://medium.com/@ay01011017/i-watched-a-paid-course-for-free-a-short-idor-story-d08dd103d299?source=rss------bug_bounty_writeup-5)
@@ -990,7 +991,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Loom Subscription Bypass Let Starter Users Download Premium Transcriptions](https://osintteam.blog/loom-subscription-bypass-let-starter-users-download-premium-transcriptions-0bcfb6a5f43f?source=rss------bug_bounty_writeup-5)
 - [Host Header Injection: One Header, Five Different Bugs](https://kd-200.medium.com/host-header-injection-one-header-five-different-bugs-394f6f7f1089?source=rss------bug_bounty_writeup-5)
 - [I Changed One “User_Id” and the API Said “Sure” — From Password Reset to Mass Account Takeover](https://infosecwriteups.com/i-changed-one-user-id-and-the-api-said-sure-from-password-reset-to-mass-account-takeover-9d4d4e15e022?source=rss------bug_bounty_writeup-5)
-- [One .contains&lpar;&rpar; Away From a Full JavaScript Bridge Takeover](https://medium.com/@husein.ayoub/one-contains-away-from-a-full-javascript-bridge-takeover-e0c05eb066f8?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
