@@ -1,6 +1,8 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [alg:none and Friends — A JWT Hacking Field Guide](https://kd-200.medium.com/alg-none-and-friends-a-jwt-hacking-field-guide-4864f2e1c673?source=rss------bug_bounty_writeup-5)
+- [From an OTP Race Condition to Zero-Interaction Account Takeover](https://medium.com/@noureldin_shaban/from-an-otp-race-condition-to-zero-interaction-account-takeover-2a95bde82181?source=rss------bug_bounty_writeup-5)
 - [How I Got My First Bounty After a Year of Hunting](https://medium.com/@pranavrp77/how-i-got-my-first-bounty-after-a-year-of-hunting-2d86357a9a98?source=rss------bug_bounty_writeup-5)
 - [Hunting Down Hackers: Incident Response with Wireshark](https://infosecwriteups.com/hunting-down-hackers-incident-response-with-wireshark-dad8110b74e9?source=rss----7b722bfd1b8d---4)
 - [[HS] Dark Writeup](https://infosecwriteups.com/hs-dark-writeup-022749c6f241?source=rss----7b722bfd1b8d---4)
@@ -18,8 +20,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How an Unsanitized SVG Upload Led to Cross-Site Scripting &lpar;XSS&rpar; and a $3,500 Bounty](https://medium.com/@t4nv1/how-an-unsanitized-svg-upload-led-to-cross-site-scripting-xss-and-a-3-500-bounty-3fa6b97c3efc?source=rss------bug_bounty_writeup-5)
 - [I Watched a Paid Course for Free &lpar;A Short IDOR Story&rpar;](https://medium.com/@ay01011017/i-watched-a-paid-course-for-free-a-short-idor-story-d08dd103d299?source=rss------bug_bounty_writeup-5)
 - [Finding Sensitive Backend Information Through GraphQL Errors](https://medium.com/@ananya.itims/finding-sensitive-backend-information-through-graphql-errors-72f82ad2c27b?source=rss------bug_bounty_writeup-5)
-- [Power Supply Write-Up&lpar;AI/ML&rpar;](https://medium.com/@kankojoseph/power-supply-write-up-ai-ml-8f20eff9288b?source=rss------bug_bounty_writeup-5)
-- [How a Blind SSTI in an Email Template Engine Led to Remote Code Execution and a $25,000 Bounty](https://medium.com/@t4nv1/how-a-blind-ssti-in-an-email-template-engine-led-to-remote-code-execution-and-a-25-000-bounty-8f1e4f8633d1?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
