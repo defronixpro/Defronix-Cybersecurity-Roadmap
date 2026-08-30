@@ -971,6 +971,14 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [He Sent 200,000 Reset Codes to Instagram in 10 Minutes. Instagram Paid Him $30,000.](https://infosecwriteups.com/he-sent-200-000-reset-codes-to-instagram-in-10-minutes-instagram-paid-him-30-000-0afd2bcaa3b2?source=rss----7b722bfd1b8d---4)
+- [How I Scraped Most Dark Stores in India — Blinkit, Zepto &amp; Swiggy Instamart](https://infosecwriteups.com/how-i-scraped-most-dark-stores-in-india-blinkit-zepto-swiggy-instamart-ad939ff17af9?source=rss----7b722bfd1b8d---4)
+- [EGCTF 2025 Qualifications — “TNKR.1” Forensics Challenge](https://infosecwriteups.com/egctf-2025-qualifications-tnkr-1-forensics-challenge-1ee952e9f69b?source=rss----7b722bfd1b8d---4)
+- [WebStrike Blue Team Lab &lpar;CyberDefenders&rpar;](https://infosecwriteups.com/webstrike-blue-team-lab-cyberdefenders-c5eb87ea6dd0?source=rss----7b722bfd1b8d---4)
+- [A KQL Query Is Not a Detection: What My Microsoft Sentinel Lab Actually Validated](https://infosecwriteups.com/i-built-an-azure-detection-engineering-lab-with-microsoft-sentinel-79bf6b5e6635?source=rss----7b722bfd1b8d---4)
+- [I Made Claude Believe I Was an Anthropic-Verified 
+Researcher.](https://infosecwriteups.com/i-made-claude-believe-i-was-an-anthropic-verified-researcher-e38e4fa4716f?source=rss----7b722bfd1b8d---4)
+- [When a Single Text File Breaks a Trust Boundary &lpar;Bug Bounty writeup&rpar;](https://infosecwriteups.com/when-a-single-text-file-breaks-a-trust-boundary-bug-bounty-writeup-824c1e2dc9f0?source=rss----7b722bfd1b8d---4)
 - [₹4,000 for a 2-Minute Google Search: Publicly Exposed Invoice Leaking Customer PII](https://medium.com/@whoadnan01/4-000-for-a-2-minute-google-search-publicly-exposed-invoice-leaking-customer-pii-7365bb80c6ab?source=rss------bug_bounty_writeup-5)
 - [alg:none and Friends — A JWT Hacking Field Guide](https://kd-200.medium.com/alg-none-and-friends-a-jwt-hacking-field-guide-4864f2e1c673?source=rss------bug_bounty_writeup-5)
 - [From an OTP Race Condition to Zero-Interaction Account Takeover](https://medium.com/@noureldin_shaban/from-an-otp-race-condition-to-zero-interaction-account-takeover-2a95bde82181?source=rss------bug_bounty_writeup-5)
@@ -978,13 +986,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Hunting Down Hackers: Incident Response with Wireshark](https://infosecwriteups.com/hunting-down-hackers-incident-response-with-wireshark-dad8110b74e9?source=rss----7b722bfd1b8d---4)
 - [[HS] Dark Writeup](https://infosecwriteups.com/hs-dark-writeup-022749c6f241?source=rss----7b722bfd1b8d---4)
 - [Operation RepoGhost: Exposing a Russian-Linked Malware Campaign Hiding in GitHub’s Open-Source…](https://infosecwriteups.com/operation-repoghost-exposing-a-russian-linked-malware-campaign-hiding-in-githubs-open-source-85a5dd6fa01e?source=rss----7b722bfd1b8d---4)
-- [LetsDefend: Kerberoasting Challenge &lpar;Walkthrough&rpar;](https://infosecwriteups.com/letsdefend-kerbroasting-challenge-walkthrough-0bad84ae465b?source=rss----7b722bfd1b8d---4)
-- [Hacker Holidays 2026: Day 14 Walkthrough &lpar;Management Wants a Word&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-14-walkthrough-management-wants-a-word-fa655886d56d?source=rss----7b722bfd1b8d---4)
-- [Hacker Holidays 2026: Day 13 Walkthrough &lpar;The Guestbook&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-13-walkthrough-the-guestbook-31011e460277?source=rss----7b722bfd1b8d---4)
-- [Hacker Holidays 2026: Day 12 Walkthrough &lpar;After Hours&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-12-walkthrough-after-hours-582f6bded460?source=rss----7b722bfd1b8d---4)
-- [Hacker Holidays 2026: Day 11 Walkthrough &lpar;Infinity Pool&rpar;](https://infosecwriteups.com/hacker-holidays-2026-day-11-walkthrough-infinity-pool-76267e802804?source=rss----7b722bfd1b8d---4)
-- [[OFFSEC] Stapler Writeup](https://infosecwriteups.com/offsec-stapler-writeup-d7e5f4600a0a?source=rss----7b722bfd1b8d---4)
-- [How I Got My Highest Payout](https://infosecwriteups.com/how-i-got-my-highest-payout-466213a1cb47?source=rss----7b722bfd1b8d---4)
 - [I Uploaded a PDF and Got Stored XSS](https://hunter0x0.medium.com/i-uploaded-a-pdf-and-got-stored-xss-f1687e4cf103?source=rss------bug_bounty_writeup-5)
 - [How a Race Condition in Single-Use Coupon Redemption Led to Unlimited Credits and an $11,000 Bounty](https://medium.com/@t4nv1/how-a-race-condition-in-single-use-coupon-redemption-led-to-unlimited-credits-and-an-11-000-bounty-67a93a486ee0?source=rss------bug_bounty_writeup-5)
 - [How I Manipulated One Parameter to Love Another User’s Comment -IDOR &amp; Broken Authorization](https://medium.com/@ankitrathva/how-i-manipulated-one-parameter-to-love-another-users-comment-idor-broken-authorization-5cd5a67a13cd?source=rss------bug_bounty_writeup-5)
