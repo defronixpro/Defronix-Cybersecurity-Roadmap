@@ -1,9 +1,9 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How a Simple GraphQL Scope Bypass Led to an Account Takeover &lpar;$4,500 Bounty&rpar;](https://medium.com/@t4nv1/how-a-simple-graphql-scope-bypass-led-to-an-account-takeover-4-500-bounty-abb6e7f4f1b4?source=rss------bug_bounty_writeup-5)
 - [I Called Myself “Admin” and the Site Let Me](https://hunter0x0.medium.com/i-called-myself-admin-and-the-site-let-me-608cca85c26b?source=rss------bug_bounty_writeup-5)
 - [How to Start Bug Bounty Hunting in 2026: A Complete Beginner’s Guide](https://medium.com/@atnoforcybersecurity/how-to-start-bug-bounty-hunting-in-2026-a-complete-beginners-guide-d98fd8e894bf?source=rss------bug_bounty_writeup-5)
-- [He Sent 200,000 Reset Codes to Instagram in 10 Minutes. Instagram Paid Him $30,000.](https://infosecwriteups.com/he-sent-200-000-reset-codes-to-instagram-in-10-minutes-instagram-paid-him-30-000-0afd2bcaa3b2?source=rss----7b722bfd1b8d---4)
 - [How I Scraped Most Dark Stores in India — Blinkit, Zepto &amp; Swiggy Instamart](https://infosecwriteups.com/how-i-scraped-most-dark-stores-in-india-blinkit-zepto-swiggy-instamart-ad939ff17af9?source=rss----7b722bfd1b8d---4)
 - [EGCTF 2025 Qualifications — “TNKR.1” Forensics Challenge](https://infosecwriteups.com/egctf-2025-qualifications-tnkr-1-forensics-challenge-1ee952e9f69b?source=rss----7b722bfd1b8d---4)
 - [WebStrike Blue Team Lab &lpar;CyberDefenders&rpar;](https://infosecwriteups.com/webstrike-blue-team-lab-cyberdefenders-c5eb87ea6dd0?source=rss----7b722bfd1b8d---4)
@@ -18,9 +18,9 @@ Researcher.](https://infosecwriteups.com/i-made-claude-believe-i-was-an-anthropi
 - [Hunting Down Hackers: Incident Response with Wireshark](https://infosecwriteups.com/hunting-down-hackers-incident-response-with-wireshark-dad8110b74e9?source=rss----7b722bfd1b8d---4)
 - [[HS] Dark Writeup](https://infosecwriteups.com/hs-dark-writeup-022749c6f241?source=rss----7b722bfd1b8d---4)
 - [Operation RepoGhost: Exposing a Russian-Linked Malware Campaign Hiding in GitHub’s Open-Source…](https://infosecwriteups.com/operation-repoghost-exposing-a-russian-linked-malware-campaign-hiding-in-githubs-open-source-85a5dd6fa01e?source=rss----7b722bfd1b8d---4)
+- [LetsDefend: Kerberoasting Challenge &lpar;Walkthrough&rpar;](https://infosecwriteups.com/letsdefend-kerbroasting-challenge-walkthrough-0bad84ae465b?source=rss----7b722bfd1b8d---4)
 - [I Uploaded a PDF and Got Stored XSS](https://hunter0x0.medium.com/i-uploaded-a-pdf-and-got-stored-xss-f1687e4cf103?source=rss------bug_bounty_writeup-5)
 - [How a Race Condition in Single-Use Coupon Redemption Led to Unlimited Credits and an $11,000 Bounty](https://medium.com/@t4nv1/how-a-race-condition-in-single-use-coupon-redemption-led-to-unlimited-credits-and-an-11-000-bounty-67a93a486ee0?source=rss------bug_bounty_writeup-5)
-- [How I Manipulated One Parameter to Love Another User’s Comment -IDOR &amp; Broken Authorization](https://medium.com/@ankitrathva/how-i-manipulated-one-parameter-to-love-another-users-comment-idor-broken-authorization-5cd5a67a13cd?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
