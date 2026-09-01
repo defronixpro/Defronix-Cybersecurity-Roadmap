@@ -971,6 +971,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Finding Hidden Parameters with Arjun](https://meetcyber.net/finding-hidden-parameters-with-arjun-6d941e0ff81f?source=rss------bug_bounty_writeup-5)
 - [One Researcher Earned $811,000 Hunting Bugs for Google](https://medium.com/@muhamedfazalps7/one-researcher-earned-811-000-hunting-bugs-for-google-21c2c6dcbe11?source=rss------bug_bounty_writeup-5)
 - [1 Dangerous Hour: Delayed Role Revocation Bug in JWT Based Systems](https://medium.com/@prabaswaradaffa2/1-dangerous-hour-delayed-role-revocation-bug-in-jwt-based-systems-56dbaf15a331?source=rss------bug_bounty_writeup-5)
 - [How a Simple GraphQL Scope Bypass Led to an Account Takeover &lpar;$4,500 Bounty&rpar;](https://medium.com/@t4nv1/how-a-simple-graphql-scope-bypass-led-to-an-account-takeover-4-500-bounty-abb6e7f4f1b4?source=rss------bug_bounty_writeup-5)
@@ -986,7 +987,6 @@ Researcher.](https://infosecwriteups.com/i-made-claude-believe-i-was-an-anthropi
 - [₹4,000 for a 2-Minute Google Search: Publicly Exposed Invoice Leaking Customer PII](https://medium.com/@whoadnan01/4-000-for-a-2-minute-google-search-publicly-exposed-invoice-leaking-customer-pii-7365bb80c6ab?source=rss------bug_bounty_writeup-5)
 - [alg:none and Friends — A JWT Hacking Field Guide](https://kd-200.medium.com/alg-none-and-friends-a-jwt-hacking-field-guide-4864f2e1c673?source=rss------bug_bounty_writeup-5)
 - [From an OTP Race Condition to Zero-Interaction Account Takeover](https://medium.com/@noureldin_shaban/from-an-otp-race-condition-to-zero-interaction-account-takeover-2a95bde82181?source=rss------bug_bounty_writeup-5)
-- [How I Got My First Bounty After a Year of Hunting](https://medium.com/@pranavrp77/how-i-got-my-first-bounty-after-a-year-of-hunting-2d86357a9a98?source=rss------bug_bounty_writeup-5)
 - [Hunting Down Hackers: Incident Response with Wireshark](https://infosecwriteups.com/hunting-down-hackers-incident-response-with-wireshark-dad8110b74e9?source=rss----7b722bfd1b8d---4)
 - [[HS] Dark Writeup](https://infosecwriteups.com/hs-dark-writeup-022749c6f241?source=rss----7b722bfd1b8d---4)
 - [Operation RepoGhost: Exposing a Russian-Linked Malware Campaign Hiding in GitHub’s Open-Source…](https://infosecwriteups.com/operation-repoghost-exposing-a-russian-linked-malware-campaign-hiding-in-githubs-open-source-85a5dd6fa01e?source=rss----7b722bfd1b8d---4)
