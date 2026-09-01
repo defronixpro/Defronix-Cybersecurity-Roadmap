@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [HTTP Request Smuggling: The Silent Killer Hiding in Your Proxy Chain](https://jerrome1.medium.com/http-request-smuggling-the-silent-killer-hiding-in-your-proxy-chain-5337e665fb32?source=rss------bug_bounty_writeup-5)
 - [Finding Hidden Parameters with Arjun](https://meetcyber.net/finding-hidden-parameters-with-arjun-6d941e0ff81f?source=rss------bug_bounty_writeup-5)
 - [One Researcher Earned $811,000 Hunting Bugs for Google](https://medium.com/@muhamedfazalps7/one-researcher-earned-811-000-hunting-bugs-for-google-21c2c6dcbe11?source=rss------bug_bounty_writeup-5)
 - [1 Dangerous Hour: Delayed Role Revocation Bug in JWT Based Systems](https://medium.com/@prabaswaradaffa2/1-dangerous-hour-delayed-role-revocation-bug-in-jwt-based-systems-56dbaf15a331?source=rss------bug_bounty_writeup-5)
@@ -16,7 +17,6 @@ Researcher.](https://infosecwriteups.com/i-made-claude-believe-i-was-an-anthropi
 - [When a Single Text File Breaks a Trust Boundary &lpar;Bug Bounty writeup&rpar;](https://infosecwriteups.com/when-a-single-text-file-breaks-a-trust-boundary-bug-bounty-writeup-824c1e2dc9f0?source=rss----7b722bfd1b8d---4)
 - [₹4,000 for a 2-Minute Google Search: Publicly Exposed Invoice Leaking Customer PII](https://medium.com/@whoadnan01/4-000-for-a-2-minute-google-search-publicly-exposed-invoice-leaking-customer-pii-7365bb80c6ab?source=rss------bug_bounty_writeup-5)
 - [alg:none and Friends — A JWT Hacking Field Guide](https://kd-200.medium.com/alg-none-and-friends-a-jwt-hacking-field-guide-4864f2e1c673?source=rss------bug_bounty_writeup-5)
-- [From an OTP Race Condition to Zero-Interaction Account Takeover](https://medium.com/@noureldin_shaban/from-an-otp-race-condition-to-zero-interaction-account-takeover-2a95bde82181?source=rss------bug_bounty_writeup-5)
 - [Hunting Down Hackers: Incident Response with Wireshark](https://infosecwriteups.com/hunting-down-hackers-incident-response-with-wireshark-dad8110b74e9?source=rss----7b722bfd1b8d---4)
 - [[HS] Dark Writeup](https://infosecwriteups.com/hs-dark-writeup-022749c6f241?source=rss----7b722bfd1b8d---4)
 - [Operation RepoGhost: Exposing a Russian-Linked Malware Campaign Hiding in GitHub’s Open-Source…](https://infosecwriteups.com/operation-repoghost-exposing-a-russian-linked-malware-campaign-hiding-in-githubs-open-source-85a5dd6fa01e?source=rss----7b722bfd1b8d---4)
