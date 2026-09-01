@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [One Researcher Earned $811,000 Hunting Bugs for Google](https://medium.com/@muhamedfazalps7/one-researcher-earned-811-000-hunting-bugs-for-google-21c2c6dcbe11?source=rss------bug_bounty_writeup-5)
 - [1 Dangerous Hour: Delayed Role Revocation Bug in JWT Based Systems](https://medium.com/@prabaswaradaffa2/1-dangerous-hour-delayed-role-revocation-bug-in-jwt-based-systems-56dbaf15a331?source=rss------bug_bounty_writeup-5)
 - [How a Simple GraphQL Scope Bypass Led to an Account Takeover &lpar;$4,500 Bounty&rpar;](https://medium.com/@t4nv1/how-a-simple-graphql-scope-bypass-led-to-an-account-takeover-4-500-bounty-abb6e7f4f1b4?source=rss------bug_bounty_writeup-5)
 - [I Called Myself “Admin” and the Site Let Me](https://hunter0x0.medium.com/i-called-myself-admin-and-the-site-let-me-608cca85c26b?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Researcher.](https://infosecwriteups.com/i-made-claude-believe-i-was-an-anthropi
 - [[HS] Dark Writeup](https://infosecwriteups.com/hs-dark-writeup-022749c6f241?source=rss----7b722bfd1b8d---4)
 - [Operation RepoGhost: Exposing a Russian-Linked Malware Campaign Hiding in GitHub’s Open-Source…](https://infosecwriteups.com/operation-repoghost-exposing-a-russian-linked-malware-campaign-hiding-in-githubs-open-source-85a5dd6fa01e?source=rss----7b722bfd1b8d---4)
 - [LetsDefend: Kerberoasting Challenge &lpar;Walkthrough&rpar;](https://infosecwriteups.com/letsdefend-kerbroasting-challenge-walkthrough-0bad84ae465b?source=rss----7b722bfd1b8d---4)
-- [I Uploaded a PDF and Got Stored XSS](https://hunter0x0.medium.com/i-uploaded-a-pdf-and-got-stored-xss-f1687e4cf103?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
