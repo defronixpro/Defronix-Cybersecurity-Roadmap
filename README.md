@@ -971,6 +971,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Uncovering a High-Severity Blind SSRF via WordPress XML-RPC](https://0x7ipher.medium.com/uncovering-a-high-severity-blind-ssrf-via-wordpress-xml-rpc-e2f8638e89b8?source=rss------bug_bounty_writeup-5)
 - [Information Disclosure Through Verbose Error Messages](https://medium.com/@ananya.itims/information-disclosure-through-verbose-error-messages-99f5eab634c5?source=rss------bug_bounty_writeup-5)
 - [HOW TO START BUG BOUNTY FROM ZERO KNOWLEDGE BY mahfujwhh](https://mahfujwhh.medium.com/how-to-start-bug-bounty-from-zero-knowledge-by-mahfujwhh-7a1824aebc2d?source=rss------bug_bounty_writeup-5)
 - [Roadmap for Bug Bounty Hunters &amp; Penetration Testers :](https://medium.com/@divyanshukr4246/roadmap-for-bug-bounty-hunters-penetration-testers-cab541abda97?source=rss------bug_bounty_writeup-5)
@@ -987,7 +988,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [One Researcher Earned $811,000 Hunting Bugs for Google](https://medium.com/@muhamedfazalps7/one-researcher-earned-811-000-hunting-bugs-for-google-21c2c6dcbe11?source=rss------bug_bounty_writeup-5)
 - [1 Dangerous Hour: Delayed Role Revocation Bug in JWT Based Systems](https://medium.com/@prabaswaradaffa2/1-dangerous-hour-delayed-role-revocation-bug-in-jwt-based-systems-56dbaf15a331?source=rss------bug_bounty_writeup-5)
 - [How a Simple GraphQL Scope Bypass Led to an Account Takeover &lpar;$4,500 Bounty&rpar;](https://medium.com/@t4nv1/how-a-simple-graphql-scope-bypass-led-to-an-account-takeover-4-500-bounty-abb6e7f4f1b4?source=rss------bug_bounty_writeup-5)
-- [I Called Myself “Admin” and the Site Let Me](https://hunter0x0.medium.com/i-called-myself-admin-and-the-site-let-me-608cca85c26b?source=rss------bug_bounty_writeup-5)
 - [How I Scraped Most Dark Stores in India — Blinkit, Zepto &amp; Swiggy Instamart](https://infosecwriteups.com/how-i-scraped-most-dark-stores-in-india-blinkit-zepto-swiggy-instamart-ad939ff17af9?source=rss----7b722bfd1b8d---4)
 - [EGCTF 2025 Qualifications — “TNKR.1” Forensics Challenge](https://infosecwriteups.com/egctf-2025-qualifications-tnkr-1-forensics-challenge-1ee952e9f69b?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
