@@ -1,6 +1,10 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [HOW TO START BUG BOUNTY FROM ZERO KNOWLEDGE BY mahfujwhh](https://mahfujwhh.medium.com/how-to-start-bug-bounty-from-zero-knowledge-by-mahfujwhh-7a1824aebc2d?source=rss------bug_bounty_writeup-5)
+- [Roadmap for Bug Bounty Hunters &amp; Penetration Testers :](https://medium.com/@divyanshukr4246/roadmap-for-bug-bounty-hunters-penetration-testers-cab541abda97?source=rss------bug_bounty_writeup-5)
+- [Android App RCE via Dynamic Code Loading](https://infosecwriteups.com/android-app-rce-via-dynamic-code-loading-c333fffd0c87?source=rss----7b722bfd1b8d---4)
+- [The $8,000 Shortcut: Hijacking Microsoft Edge via NTFS Directory Junctions](https://infosecwriteups.com/the-8-000-shortcut-hijacking-microsoft-edge-via-ntfs-directory-junctions-087e5fdf8c9d?source=rss----7b722bfd1b8d---4)
 - [Hiding a Signup Button Isn’t Security: From Client-Side Controls to Cross-Tenant Data Exposure](https://infosecwriteups.com/hiding-a-signup-button-isnt-security-from-client-side-controls-to-cross-tenant-data-exposure-7df0aefe37d5?source=rss----7b722bfd1b8d---4)
 - [1-Click ATO Via Host Header Injection: Exploiting Password Reset Poisoning.](https://infosecwriteups.com/1-click-ato-via-host-header-injection-exploiting-password-reset-poisoning-2da6fee32402?source=rss----7b722bfd1b8d---4)
 - [PortSwigger Web Security Academy Walkthrough: User Role Can Be Modified in User Profile](https://infosecwriteups.com/portswigger-web-security-academy-walkthrough-user-role-can-be-modified-in-user-profile-b706bbd0eae4?source=rss----7b722bfd1b8d---4)
@@ -16,10 +20,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How to Start Bug Bounty Hunting in 2026: A Complete Beginner’s Guide](https://medium.com/@atnoforcybersecurity/how-to-start-bug-bounty-hunting-in-2026-a-complete-beginners-guide-d98fd8e894bf?source=rss------bug_bounty_writeup-5)
 - [How I Scraped Most Dark Stores in India — Blinkit, Zepto &amp; Swiggy Instamart](https://infosecwriteups.com/how-i-scraped-most-dark-stores-in-india-blinkit-zepto-swiggy-instamart-ad939ff17af9?source=rss----7b722bfd1b8d---4)
 - [EGCTF 2025 Qualifications — “TNKR.1” Forensics Challenge](https://infosecwriteups.com/egctf-2025-qualifications-tnkr-1-forensics-challenge-1ee952e9f69b?source=rss----7b722bfd1b8d---4)
-- [WebStrike Blue Team Lab &lpar;CyberDefenders&rpar;](https://infosecwriteups.com/webstrike-blue-team-lab-cyberdefenders-c5eb87ea6dd0?source=rss----7b722bfd1b8d---4)
-- [A KQL Query Is Not a Detection: What My Microsoft Sentinel Lab Actually Validated](https://infosecwriteups.com/i-built-an-azure-detection-engineering-lab-with-microsoft-sentinel-79bf6b5e6635?source=rss----7b722bfd1b8d---4)
-- [₹4,000 for a 2-Minute Google Search: Publicly Exposed Invoice Leaking Customer PII](https://medium.com/@whoadnan01/4-000-for-a-2-minute-google-search-publicly-exposed-invoice-leaking-customer-pii-7365bb80c6ab?source=rss------bug_bounty_writeup-5)
-- [alg:none and Friends — A JWT Hacking Field Guide](https://kd-200.medium.com/alg-none-and-friends-a-jwt-hacking-field-guide-4864f2e1c673?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
