@@ -971,6 +971,15 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Roadmap for Bug Bounty Hunters &amp; Penetration Testers :](https://medium.com/@divyanshukr4246/roadmap-for-bug-bounty-hunters-penetration-testers-cab541abda97?source=rss------bug_bounty_writeup-5)
+- [Android App RCE via Dynamic Code Loading](https://infosecwriteups.com/android-app-rce-via-dynamic-code-loading-c333fffd0c87?source=rss----7b722bfd1b8d---4)
+- [The $8,000 Shortcut: Hijacking Microsoft Edge via NTFS Directory Junctions](https://infosecwriteups.com/the-8-000-shortcut-hijacking-microsoft-edge-via-ntfs-directory-junctions-087e5fdf8c9d?source=rss----7b722bfd1b8d---4)
+- [Hiding a Signup Button Isn’t Security: From Client-Side Controls to Cross-Tenant Data Exposure](https://infosecwriteups.com/hiding-a-signup-button-isnt-security-from-client-side-controls-to-cross-tenant-data-exposure-7df0aefe37d5?source=rss----7b722bfd1b8d---4)
+- [1-Click ATO Via Host Header Injection: Exploiting Password Reset Poisoning.](https://infosecwriteups.com/1-click-ato-via-host-header-injection-exploiting-password-reset-poisoning-2da6fee32402?source=rss----7b722bfd1b8d---4)
+- [PortSwigger Web Security Academy Walkthrough: User Role Can Be Modified in User Profile](https://infosecwriteups.com/portswigger-web-security-academy-walkthrough-user-role-can-be-modified-in-user-profile-b706bbd0eae4?source=rss----7b722bfd1b8d---4)
+- [Access Control Vulnerabilities: Unprotected Admin Functionality with Unpredictable URL](https://infosecwriteups.com/access-control-vulnerabilities-unprotected-admin-functionality-with-unpredictable-url-1a3436277906?source=rss----7b722bfd1b8d---4)
+- [Challenge 2: Cotton Candy](https://infosecwriteups.com/challenge-2-cotton-candy-49391942df39?source=rss----7b722bfd1b8d---4)
+- [Windows Incident Surface | TryHackMe](https://infosecwriteups.com/windows-incident-surface-tryhackme-dd574d479777?source=rss----7b722bfd1b8d---4)
 - [HTTP Request Smuggling: The Silent Killer Hiding in Your Proxy Chain](https://jerrome1.medium.com/http-request-smuggling-the-silent-killer-hiding-in-your-proxy-chain-5337e665fb32?source=rss------bug_bounty_writeup-5)
 - [Finding Hidden Parameters with Arjun](https://meetcyber.net/finding-hidden-parameters-with-arjun-6d941e0ff81f?source=rss------bug_bounty_writeup-5)
 - [One Researcher Earned $811,000 Hunting Bugs for Google](https://medium.com/@muhamedfazalps7/one-researcher-earned-811-000-hunting-bugs-for-google-21c2c6dcbe11?source=rss------bug_bounty_writeup-5)
@@ -980,17 +989,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How to Start Bug Bounty Hunting in 2026: A Complete Beginner’s Guide](https://medium.com/@atnoforcybersecurity/how-to-start-bug-bounty-hunting-in-2026-a-complete-beginners-guide-d98fd8e894bf?source=rss------bug_bounty_writeup-5)
 - [How I Scraped Most Dark Stores in India — Blinkit, Zepto &amp; Swiggy Instamart](https://infosecwriteups.com/how-i-scraped-most-dark-stores-in-india-blinkit-zepto-swiggy-instamart-ad939ff17af9?source=rss----7b722bfd1b8d---4)
 - [EGCTF 2025 Qualifications — “TNKR.1” Forensics Challenge](https://infosecwriteups.com/egctf-2025-qualifications-tnkr-1-forensics-challenge-1ee952e9f69b?source=rss----7b722bfd1b8d---4)
-- [WebStrike Blue Team Lab &lpar;CyberDefenders&rpar;](https://infosecwriteups.com/webstrike-blue-team-lab-cyberdefenders-c5eb87ea6dd0?source=rss----7b722bfd1b8d---4)
-- [A KQL Query Is Not a Detection: What My Microsoft Sentinel Lab Actually Validated](https://infosecwriteups.com/i-built-an-azure-detection-engineering-lab-with-microsoft-sentinel-79bf6b5e6635?source=rss----7b722bfd1b8d---4)
-- [I Made Claude Believe I Was an Anthropic-Verified 
-Researcher.](https://infosecwriteups.com/i-made-claude-believe-i-was-an-anthropic-verified-researcher-e38e4fa4716f?source=rss----7b722bfd1b8d---4)
-- [When a Single Text File Breaks a Trust Boundary &lpar;Bug Bounty writeup&rpar;](https://infosecwriteups.com/when-a-single-text-file-breaks-a-trust-boundary-bug-bounty-writeup-824c1e2dc9f0?source=rss----7b722bfd1b8d---4)
 - [₹4,000 for a 2-Minute Google Search: Publicly Exposed Invoice Leaking Customer PII](https://medium.com/@whoadnan01/4-000-for-a-2-minute-google-search-publicly-exposed-invoice-leaking-customer-pii-7365bb80c6ab?source=rss------bug_bounty_writeup-5)
-- [alg:none and Friends — A JWT Hacking Field Guide](https://kd-200.medium.com/alg-none-and-friends-a-jwt-hacking-field-guide-4864f2e1c673?source=rss------bug_bounty_writeup-5)
-- [Hunting Down Hackers: Incident Response with Wireshark](https://infosecwriteups.com/hunting-down-hackers-incident-response-with-wireshark-dad8110b74e9?source=rss----7b722bfd1b8d---4)
-- [[HS] Dark Writeup](https://infosecwriteups.com/hs-dark-writeup-022749c6f241?source=rss----7b722bfd1b8d---4)
-- [Operation RepoGhost: Exposing a Russian-Linked Malware Campaign Hiding in GitHub’s Open-Source…](https://infosecwriteups.com/operation-repoghost-exposing-a-russian-linked-malware-campaign-hiding-in-githubs-open-source-85a5dd6fa01e?source=rss----7b722bfd1b8d---4)
-- [LetsDefend: Kerberoasting Challenge &lpar;Walkthrough&rpar;](https://infosecwriteups.com/letsdefend-kerbroasting-challenge-walkthrough-0bad84ae465b?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
