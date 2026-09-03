@@ -971,6 +971,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [From a Forgotten Config Endpoint to Full OAuth2 Takeover &lpar;Critical&rpar;](https://medium.com/@hossam13/from-a-forgotten-config-endpoint-to-full-oauth2-takeover-critical-6f718caa12e0?source=rss------bug_bounty_writeup-5)
+- [How a Viewer Role Snaked into Financial Records](https://brbr0s.medium.com/how-a-viewer-role-snaked-into-financial-records-0e98610d2111?source=rss------bug_bounty_writeup-5)
 - [How “Cancel” Button deletes entire business: Discovering a CSRF and Confirmation Logic Flaw](https://medium.com/@ankitrathva/how-cancel-button-deletes-entire-business-discovering-a-csrf-and-confirmation-logic-flaw-7b2d336d0013?source=rss------bug_bounty_writeup-5)
 - [I Counted to 2 Million and a Company’s Payment Data Fell Out](https://medium.com/@fauzimagusti/i-counted-to-2-million-and-a-companys-payment-data-fell-out-69c327424581?source=rss------bug_bounty_writeup-5)
 - [Uncovering a High-Severity Blind SSRF via WordPress XML-RPC](https://0x7ipher.medium.com/uncovering-a-high-severity-blind-ssrf-via-wordpress-xml-rpc-e2f8638e89b8?source=rss------bug_bounty_writeup-5)
@@ -987,7 +989,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Windows Incident Surface | TryHackMe](https://infosecwriteups.com/windows-incident-surface-tryhackme-dd574d479777?source=rss----7b722bfd1b8d---4)
 - [HTTP Request Smuggling: The Silent Killer Hiding in Your Proxy Chain](https://jerrome1.medium.com/http-request-smuggling-the-silent-killer-hiding-in-your-proxy-chain-5337e665fb32?source=rss------bug_bounty_writeup-5)
 - [Finding Hidden Parameters with Arjun](https://meetcyber.net/finding-hidden-parameters-with-arjun-6d941e0ff81f?source=rss------bug_bounty_writeup-5)
-- [One Researcher Earned $811,000 Hunting Bugs for Google](https://medium.com/@muhamedfazalps7/one-researcher-earned-811-000-hunting-bugs-for-google-21c2c6dcbe11?source=rss------bug_bounty_writeup-5)
 - [How I Scraped Most Dark Stores in India — Blinkit, Zepto &amp; Swiggy Instamart](https://infosecwriteups.com/how-i-scraped-most-dark-stores-in-india-blinkit-zepto-swiggy-instamart-ad939ff17af9?source=rss----7b722bfd1b8d---4)
 - [EGCTF 2025 Qualifications — “TNKR.1” Forensics Challenge](https://infosecwriteups.com/egctf-2025-qualifications-tnkr-1-forensics-challenge-1ee952e9f69b?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
