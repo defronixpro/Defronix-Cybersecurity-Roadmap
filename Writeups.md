@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How I Got Free “Elite” Subscriptions and 14,000+ Coins on GirlfriendGPT — For $0 — Then Got Paid…](https://medium.com/@kenjisubagja/how-i-got-free-elite-subscriptions-and-14-000-coins-on-girlfriendgpt-for-0-then-got-paid-8dc244369331?source=rss------bug_bounty_writeup-5)
 - [5 recon habits that still land your first $500 bug bounty](https://nitingavhane.medium.com/5-recon-habits-that-still-land-your-first-500-bug-bounty-18df95e02959?source=rss------bug_bounty_writeup-5)
 - [Host &amp; Network Penetration Testing: Post-Exploitation CTF 2 — eJPT &lpar;INE&rpar;](https://infosecwriteups.com/host-network-penetration-testing-post-exploitation-ctf-2-ejpt-ine-fab668917f29?source=rss----7b722bfd1b8d---4)
 - [VulnNet Roasted — TryHackMe Active Directory Write-up](https://infosecwriteups.com/vulnnet-roasted-tryhackme-active-directory-write-up-9cdfccacc13e?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Information Disclosure Through Verbose Error Messages](https://medium.com/@ananya.itims/information-disclosure-through-verbose-error-messages-99f5eab634c5?source=rss------bug_bounty_writeup-5)
 - [HOW TO START BUG BOUNTY FROM ZERO KNOWLEDGE BY mahfujwhh](https://mahfujwhh.medium.com/how-to-start-bug-bounty-from-zero-knowledge-by-mahfujwhh-7a1824aebc2d?source=rss------bug_bounty_writeup-5)
 - [Roadmap for Bug Bounty Hunters &amp; Penetration Testers :](https://medium.com/@divyanshukr4246/roadmap-for-bug-bounty-hunters-penetration-testers-cab541abda97?source=rss------bug_bounty_writeup-5)
-- [HTTP Request Smuggling: The Silent Killer Hiding in Your Proxy Chain](https://jerrome1.medium.com/http-request-smuggling-the-silent-killer-hiding-in-your-proxy-chain-5337e665fb32?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
