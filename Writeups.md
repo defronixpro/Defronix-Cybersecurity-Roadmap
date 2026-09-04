@@ -5,7 +5,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How a Viewer Role Snaked into Financial Records](https://brbr0s.medium.com/how-a-viewer-role-snaked-into-financial-records-0e98610d2111?source=rss------bug_bounty_writeup-5)
 - [How “Cancel” Button deletes entire business: Discovering a CSRF and Confirmation Logic Flaw](https://medium.com/@ankitrathva/how-cancel-button-deletes-entire-business-discovering-a-csrf-and-confirmation-logic-flaw-7b2d336d0013?source=rss------bug_bounty_writeup-5)
 - [I Counted to 2 Million and a Company’s Payment Data Fell Out](https://medium.com/@fauzimagusti/i-counted-to-2-million-and-a-companys-payment-data-fell-out-69c327424581?source=rss------bug_bounty_writeup-5)
-- [Uncovering a High-Severity Blind SSRF via WordPress XML-RPC](https://0x7ipher.medium.com/uncovering-a-high-severity-blind-ssrf-via-wordpress-xml-rpc-e2f8638e89b8?source=rss------bug_bounty_writeup-5)
+- [Uncovering a High-Severity Blind SSRF via WordPress XML-RPC](https://cybersecuritywriteups.com/uncovering-a-high-severity-blind-ssrf-via-wordpress-xml-rpc-e2f8638e89b8?source=rss------bug_bounty_writeup-5)
 - [Information Disclosure Through Verbose Error Messages](https://medium.com/@ananya.itims/information-disclosure-through-verbose-error-messages-99f5eab634c5?source=rss------bug_bounty_writeup-5)
 - [HOW TO START BUG BOUNTY FROM ZERO KNOWLEDGE BY mahfujwhh](https://mahfujwhh.medium.com/how-to-start-bug-bounty-from-zero-knowledge-by-mahfujwhh-7a1824aebc2d?source=rss------bug_bounty_writeup-5)
 - [Roadmap for Bug Bounty Hunters &amp; Penetration Testers :](https://medium.com/@divyanshukr4246/roadmap-for-bug-bounty-hunters-penetration-testers-cab541abda97?source=rss------bug_bounty_writeup-5)
