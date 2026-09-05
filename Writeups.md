@@ -1,6 +1,8 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Debugging Endpoints Nobody Bothers to Test Leads to Some Crits](https://0xsponge.medium.com/debugging-endpoints-nobody-bothers-to-test-leads-to-some-crits-579eb9fbceb7?source=rss------bug_bounty_writeup-5)
+- [Airbuds Bug Bounty: How I Deleted Anyone’s Post With a Single Request](https://medium.com/@okandriy/airbuds-bug-bounty-how-i-deleted-anyones-post-with-a-single-request-f639f840cd0d?source=rss------bug_bounty_writeup-5)
 - [Everyone Chains SSTI to RCE. I Chained It to Account Takeover.](https://medium.com/@HariHax/everyone-chains-ssti-to-rce-i-chained-it-to-account-takeover-c279188ff9ce?source=rss------bug_bounty_writeup-5)
 - [Remote Code Execution &lpar;RCE&rpar; in 2026: From Zero to Understanding How Hackers Take Control](https://amitlt2.medium.com/remote-code-execution-rce-in-2026-from-zero-to-understanding-how-hackers-take-control-6fb61cd1ca89?source=rss------bug_bounty_writeup-5)
 - [300$ ETag Bounty](https://medium.com/@sari.mmusab/300-etag-bounty-9f6e9aecc12e?source=rss------bug_bounty_writeup-5)
@@ -19,8 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [From a Forgotten Config Endpoint to Full OAuth2 Takeover &lpar;Critical&rpar;](https://medium.com/@hossam13/from-a-forgotten-config-endpoint-to-full-oauth2-takeover-critical-6f718caa12e0?source=rss------bug_bounty_writeup-5)
 - [How a Viewer Role Snaked into Financial Records](https://brbr0s.medium.com/how-a-viewer-role-snaked-into-financial-records-0e98610d2111?source=rss------bug_bounty_writeup-5)
 - [How “Cancel” Button deletes entire business: Discovering a CSRF and Confirmation Logic Flaw](https://medium.com/@ankitrathva/how-cancel-button-deletes-entire-business-discovering-a-csrf-and-confirmation-logic-flaw-7b2d336d0013?source=rss------bug_bounty_writeup-5)
-- [I Counted to 2 Million and a Company’s Payment Data Fell Out](https://medium.com/@fauzimagusti/i-counted-to-2-million-and-a-companys-payment-data-fell-out-69c327424581?source=rss------bug_bounty_writeup-5)
-- [Uncovering a High-Severity Blind SSRF via WordPress XML-RPC](https://cybersecuritywriteups.com/uncovering-a-high-severity-blind-ssrf-via-wordpress-xml-rpc-e2f8638e89b8?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
