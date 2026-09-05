@@ -971,7 +971,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [Debugging Endpoints Nobody Bothers to Test Leads to Some Crits](https://0xsponge.medium.com/debugging-endpoints-nobody-bothers-to-test-leads-to-some-crits-579eb9fbceb7?source=rss------bug_bounty_writeup-5)
+- [Debugging Endpoints Nobody Bothers to Test Leads to Some Crits](https://infosecwriteups.com/debugging-endpoints-nobody-bothers-to-test-leads-to-some-crits-579eb9fbceb7?source=rss------bug_bounty_writeup-5)
 - [Airbuds Bug Bounty: How I Deleted Anyone’s Post With a Single Request](https://medium.com/@okandriy/airbuds-bug-bounty-how-i-deleted-anyones-post-with-a-single-request-f639f840cd0d?source=rss------bug_bounty_writeup-5)
 - [Everyone Chains SSTI to RCE. I Chained It to Account Takeover.](https://medium.com/@HariHax/everyone-chains-ssti-to-rce-i-chained-it-to-account-takeover-c279188ff9ce?source=rss------bug_bounty_writeup-5)
 - [Remote Code Execution &lpar;RCE&rpar; in 2026: From Zero to Understanding How Hackers Take Control](https://amitlt2.medium.com/remote-code-execution-rce-in-2026-from-zero-to-understanding-how-hackers-take-control-6fb61cd1ca89?source=rss------bug_bounty_writeup-5)
@@ -995,7 +995,17 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
 - [How to backup and restore the Windows Registry](https://www.bleepingcomputer.com/tutorials/how-to-backup-and-restore-the-windows-registry/)
+- [How To Fix Error: Externally-Managed-Environment In Python &lpar;Kali Linux&rpar;](https://technicalnavigator.in/how-to-fix-error-externally-managed-environment-in-python-kali-linux/)
+- [Understanding Systemctl Command in Linux &lpar;Practical&rpar;](https://technicalnavigator.in/understanding-systemctl-command-in-linux-practical/)
+- [Macros in docm &amp; Linux memory dump| Hack The Boo  Challanges](https://technicalnavigator.in/macros-in-docm-linux-memory-dump-hack-the-boo-challanges/)
+- [Android Apps debugging |  Frida, JADX, Genymotion](https://technicalnavigator.in/android-apps-debugging-frida-jadx-genymotion/)
+- [MouseServer | wifimouse – Windows/ Linux](https://technicalnavigator.in/mouseserver-wifimouse-windows-linux/)
+- [FFUF fuzzer | web-application penetration-testing](https://technicalnavigator.in/ffuf-fuzzer-web-application-penetration-testing/)
 - [How to open a Windows 11 Command Prompt as Administrator](https://www.bleepingcomputer.com/tutorials/how-to-open-a-windows-11-command-prompt-as-administrator/)
+- [Classes-Objects &amp; Deserialization bug](https://technicalnavigator.in/classes-objects-deserialization-bug/)
+- [Loki Tool | Multhreading Over Sockets in C](https://technicalnavigator.in/loki-tool-multhreading-over-sockets-in-c/)
+- [Egghunter | NASM | C prototype](https://technicalnavigator.in/egghunter-nasm-c-prototype/)
+- [TELNET &amp; FTP Analysis](https://technicalnavigator.in/telnet-ftp-analysis/)
 - [How to make the Start menu full screen in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-make-the-start-menu-full-screen-in-windows-10/)
 - [How to install the Microsoft Visual C++ 2015 Runtime](https://www.bleepingcomputer.com/tutorials/how-to-install-the-microsoft-visual-c-2015-runtime/)
 - [How to open an elevated PowerShell Admin prompt in Windows 10](https://www.bleepingcomputer.com/tutorials/how-to-open-an-elevated-powershell-admin-prompt-in-windows-10/)
