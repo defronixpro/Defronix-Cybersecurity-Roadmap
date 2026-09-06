@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Exposed Django Debug Mode on a Development Subdomain](https://medium.com/@MaMad4Ever/exposed-django-debug-mode-on-a-development-subdomain-d8376cd90c94?source=rss------bug_bounty_writeup-5)
 - [How One OIDC URL Turned Into a Much Bigger SSRF](https://nozarshi1.medium.com/how-one-oidc-url-turned-into-a-much-bigger-ssrf-4bd2ef83c597?source=rss------bug_bounty_writeup-5)
 - [Debugging Endpoints Nobody Bothers to Test Leads to Some Crits](https://infosecwriteups.com/debugging-endpoints-nobody-bothers-to-test-leads-to-some-crits-579eb9fbceb7?source=rss------bug_bounty_writeup-5)
 - [Airbuds Bug Bounty: How I Deleted Anyone’s Post With a Single Request](https://medium.com/@okandriy/airbuds-bug-bounty-how-i-deleted-anyones-post-with-a-single-request-f639f840cd0d?source=rss------bug_bounty_writeup-5)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [I Hacked into my University’s Vending Machine And it was soo BAD!](https://infosecwriteups.com/i-hacked-into-my-universitys-vending-machine-and-it-was-soo-bad-c411c2b968f4?source=rss----7b722bfd1b8d---4)
 - [[$538] IDOR allows friends to edit the date on their friends’ timeline posts on Facebook](https://infosecwriteups.com/538-idor-allows-friends-to-edit-the-date-on-their-friends-timeline-posts-on-facebook-2726457c023b?source=rss----7b722bfd1b8d---4)
 - [From a Forgotten Config Endpoint to Full OAuth2 Takeover &lpar;Critical&rpar;](https://medium.com/@hossam13/from-a-forgotten-config-endpoint-to-full-oauth2-takeover-critical-6f718caa12e0?source=rss------bug_bounty_writeup-5)
-- [How a Viewer Role Snaked into Financial Records](https://brbr0s.medium.com/how-a-viewer-role-snaked-into-financial-records-0e98610d2111?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
