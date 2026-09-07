@@ -971,6 +971,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [One Parameter One User’s Phone Number And Someone Else’s Email Address Famous Bus Booking in India](https://systemweakness.com/one-parameter-54baeff941bb?source=rss------bug_bounty_writeup-5)
 - [CRLF Injection — Real-World Exploitation &amp; Reporting &lpar; P 3/3 &rpar;](https://medium.com/@cybersecplayground/crlf-injection-real-world-exploitation-reporting-p-3-3-1da1d5fbfdd2?source=rss------bug_bounty_writeup-5)
 - [Exposed Django Debug Mode on a Development Subdomain](https://medium.com/@MaMad4Ever/exposed-django-debug-mode-on-a-development-subdomain-d8376cd90c94?source=rss------bug_bounty_writeup-5)
 - [How One OIDC URL Turned Into a Much Bigger SSRF](https://nozarshi1.medium.com/how-one-oidc-url-turned-into-a-much-bigger-ssrf-4bd2ef83c597?source=rss------bug_bounty_writeup-5)
@@ -980,7 +981,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Remote Code Execution &lpar;RCE&rpar; in 2026: From Zero to Understanding How Hackers Take Control](https://amitlt2.medium.com/remote-code-execution-rce-in-2026-from-zero-to-understanding-how-hackers-take-control-6fb61cd1ca89?source=rss------bug_bounty_writeup-5)
 - [300$ ETag Bounty](https://medium.com/@sari.mmusab/300-etag-bounty-9f6e9aecc12e?source=rss------bug_bounty_writeup-5)
 - [How I Got Free “Elite” Subscriptions and 14,000+ Coins on GirlfriendGPT — For $0 — Then Got Paid…](https://medium.com/@kenjisubagja/how-i-got-free-elite-subscriptions-and-14-000-coins-on-girlfriendgpt-for-0-then-got-paid-8dc244369331?source=rss------bug_bounty_writeup-5)
-- [5 recon habits that still land your first $500 bug bounty](https://nitingavhane.medium.com/5-recon-habits-that-still-land-your-first-500-bug-bounty-18df95e02959?source=rss------bug_bounty_writeup-5)
 - [Host &amp; Network Penetration Testing: Post-Exploitation CTF 2 — eJPT &lpar;INE&rpar;](https://infosecwriteups.com/host-network-penetration-testing-post-exploitation-ctf-2-ejpt-ine-fab668917f29?source=rss----7b722bfd1b8d---4)
 - [VulnNet Roasted — TryHackMe Active Directory Write-up](https://infosecwriteups.com/vulnnet-roasted-tryhackme-active-directory-write-up-9cdfccacc13e?source=rss----7b722bfd1b8d---4)
 - [Water Bottle — TryHackMe [Easy]](https://infosecwriteups.com/water-bottle-tryhackme-easy-945994518a12?source=rss----7b722bfd1b8d---4)
