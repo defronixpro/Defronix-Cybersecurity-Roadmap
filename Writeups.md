@@ -1,6 +1,12 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [The Best Claude Code Setup for Bug Bounty Hunting](https://infosecwriteups.com/the-best-claude-code-setup-for-bug-bounty-hunting-a16a0a50e811?source=rss----7b722bfd1b8d---4)
+- [Improper OTP Implementation to Full Account Takeover](https://infosecwriteups.com/improper-otp-implementation-to-full-account-takeover-df21e126f10f?source=rss----7b722bfd1b8d---4)
+- [Insecure Firestore Security Rules &amp; PII Exposure](https://infosecwriteups.com/insecure-firestore-security-rules-pii-exposure-762763ac577f?source=rss----7b722bfd1b8d---4)
+- [Payment Bypass Flaw in TechPSC HUB](https://infosecwriteups.com/payment-bypass-flaw-in-techpsc-hub-863bb2f37b60?source=rss----7b722bfd1b8d---4)
+- [BOLA: Enumerating an Entire Employee Directory Through a Predictable ID](https://infosecwriteups.com/bola-enumerating-an-entire-employee-directory-through-a-predictable-id-2fa11370e919?source=rss----7b722bfd1b8d---4)
+- [Corridor — A Simple Web CTF That Made Me Look Twice](https://infosecwriteups.com/corridor-a-simple-web-ctf-that-made-me-look-twice-668a430418f1?source=rss----7b722bfd1b8d---4)
 - [Uncovering an Open Redirect Using Wayback](https://medium.com/@MaMad4Ever/uncovering-an-open-redirect-using-wayback-9799face6b8f?source=rss------bug_bounty_writeup-5)
 - [One Parameter One User’s Phone Number And Someone Else’s Email Address Famous Bus Booking in India](https://systemweakness.com/one-parameter-54baeff941bb?source=rss------bug_bounty_writeup-5)
 - [CRLF Injection — Real-World Exploitation &amp; Reporting &lpar; P 3/3 &rpar;](https://medium.com/@cybersecplayground/crlf-injection-real-world-exploitation-reporting-p-3-3-1da1d5fbfdd2?source=rss------bug_bounty_writeup-5)
@@ -15,12 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [VulnNet Roasted — TryHackMe Active Directory Write-up](https://infosecwriteups.com/vulnnet-roasted-tryhackme-active-directory-write-up-9cdfccacc13e?source=rss----7b722bfd1b8d---4)
 - [Water Bottle — TryHackMe [Easy]](https://infosecwriteups.com/water-bottle-tryhackme-easy-945994518a12?source=rss----7b722bfd1b8d---4)
 - [Phishing Analysis Fundamentals: TryHackMe Walkthrough](https://infosecwriteups.com/phishing-analysis-fundamentals-tryhackme-walkthrough-ce3219570302?source=rss----7b722bfd1b8d---4)
-- [File upload to RCE](https://infosecwriteups.com/file-upload-to-rce-7c04b3b252de?source=rss----7b722bfd1b8d---4)
-- [When an Exposed .git Directory Tells the Whole Story — Solving TryHackMe&#39;s Room 404](https://infosecwriteups.com/when-an-exposed-git-directory-tells-the-whole-story-solving-tryhackmes-room-404-126fb10ee1a1?source=rss----7b722bfd1b8d---4)
-- [How I Turned Self-XSS into Reflected XSS &lpar;and Bypassed the WAF&rpar;](https://infosecwriteups.com/how-i-turned-self-xss-into-reflected-xss-and-bypassed-the-waf-474aad02b5e6?source=rss----7b722bfd1b8d---4)
-- [How an Integer Overflow Vulnerability Let Me Buy Anything for ₹0](https://infosecwriteups.com/how-an-integer-overflow-let-me-buy-anything-for-0-b1d2ed8bffdd?source=rss----7b722bfd1b8d---4)
-- [I Hacked into my University’s Vending Machine And it was soo BAD!](https://infosecwriteups.com/i-hacked-into-my-universitys-vending-machine-and-it-was-soo-bad-c411c2b968f4?source=rss----7b722bfd1b8d---4)
-- [[$538] IDOR allows friends to edit the date on their friends’ timeline posts on Facebook](https://infosecwriteups.com/538-idor-allows-friends-to-edit-the-date-on-their-friends-timeline-posts-on-facebook-2726457c023b?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
