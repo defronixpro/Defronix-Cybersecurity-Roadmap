@@ -971,6 +971,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I Found My First $5,000 Bug With Zero CS Degree](https://medium.com/@bugitrix/how-i-found-my-first-5-000-bug-with-zero-cs-degree-f43e87f67177?source=rss------bug_bounty_writeup-5)
+- [Critical IDOR in Order Tracking: Sequential IDs + Zero Authentication = Anyone’s Orders &lpar;and PII&rpar;](https://medium.com/@donghcoder/critical-idor-in-order-tracking-sequential-ids-zero-authentication-anyones-orders-and-pii-789247650c89?source=rss------bug_bounty_writeup-5)
 - [Finding an SSRF in Next.js Server Actions](https://medium.com/@theteatoast/finding-an-ssrf-in-next-js-server-actions-ad981ab216d2?source=rss------bug_bounty_writeup-5)
 - [My First Paid Bug Bounty: A Broken Access Control Vulnerability](https://medium.com/@omaralgbry1/my-first-paid-bug-bounty-a-broken-access-control-vulnerability-aff35ac83718?source=rss------bug_bounty_writeup-5)
 - [5 Burp Suite Extensions That Quietly 10x My Bug Bounty Payouts](https://medium.com/@bugitrix/5-burp-suite-extensions-that-quietly-10x-my-bug-bounty-payouts-371ace4587cc?source=rss------bug_bounty_writeup-5)
@@ -985,8 +987,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [CRLF Injection — Real-World Exploitation &amp; Reporting &lpar; P 3/3 &rpar;](https://medium.com/@cybersecplayground/crlf-injection-real-world-exploitation-reporting-p-3-3-1da1d5fbfdd2?source=rss------bug_bounty_writeup-5)
 - [Exposed Django Debug Mode on a Development Subdomain](https://medium.com/@MaMad4Ever/exposed-django-debug-mode-on-a-development-subdomain-d8376cd90c94?source=rss------bug_bounty_writeup-5)
 - [How One OIDC URL Turned Into a Much Bigger SSRF](https://nozarshi1.medium.com/how-one-oidc-url-turned-into-a-much-bigger-ssrf-4bd2ef83c597?source=rss------bug_bounty_writeup-5)
-- [Debugging Endpoints Nobody Bothers to Test Leads to Some Crits](https://infosecwriteups.com/debugging-endpoints-nobody-bothers-to-test-leads-to-some-crits-579eb9fbceb7?source=rss------bug_bounty_writeup-5)
-- [Airbuds Bug Bounty: How I Deleted Anyone’s Post With a Single Request](https://medium.com/@okandriy/airbuds-bug-bounty-how-i-deleted-anyones-post-with-a-single-request-f639f840cd0d?source=rss------bug_bounty_writeup-5)
 - [Host &amp; Network Penetration Testing: Post-Exploitation CTF 2 — eJPT &lpar;INE&rpar;](https://infosecwriteups.com/host-network-penetration-testing-post-exploitation-ctf-2-ejpt-ine-fab668917f29?source=rss----7b722bfd1b8d---4)
 - [VulnNet Roasted — TryHackMe Active Directory Write-up](https://infosecwriteups.com/vulnnet-roasted-tryhackme-active-directory-write-up-9cdfccacc13e?source=rss----7b722bfd1b8d---4)
 - [Water Bottle — TryHackMe [Easy]](https://infosecwriteups.com/water-bottle-tryhackme-easy-945994518a12?source=rss----7b722bfd1b8d---4)
