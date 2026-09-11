@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Agent Sudo — TryHackMe](https://medium.com/@shahdaaymann/agent-sudo-tryhackme-f1337c6119a5?source=rss------bug_bounty_writeup-5)
 - [One .svg and a CDN: How a File Extension Leaked Strangers&#39; PII](https://medium.com/@abhinabshrestha9/one-svg-and-a-cdn-how-a-file-extension-leaked-strangers-pii-c8ca95ba5ddf?source=rss------bug_bounty_writeup-5)
 - [From N/A to $$$: How a 4-Month Dead Report Became My First Bug Bounty Win](https://medium.com/@Brian_Bange/from-n-a-to-how-a-4-month-dead-report-became-my-first-bug-bounty-win-3b2338c86a31?source=rss------bug_bounty_writeup-5)
 - [API Security in 2026: The Vulnerabilities Everyone’s Missing.](https://medium.com/@bugitrix/api-security-in-2026-the-vulnerabilities-everyones-missing-318683ac7aee?source=rss------bug_bounty_writeup-5)
@@ -16,7 +17,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Payment Bypass Flaw in TechPSC HUB](https://infosecwriteups.com/payment-bypass-flaw-in-techpsc-hub-863bb2f37b60?source=rss----7b722bfd1b8d---4)
 - [BOLA: Enumerating an Entire Employee Directory Through a Predictable ID](https://infosecwriteups.com/bola-enumerating-an-entire-employee-directory-through-a-predictable-id-2fa11370e919?source=rss----7b722bfd1b8d---4)
 - [Corridor — A Simple Web CTF That Made Me Look Twice](https://infosecwriteups.com/corridor-a-simple-web-ctf-that-made-me-look-twice-668a430418f1?source=rss----7b722bfd1b8d---4)
-- [Uncovering an Open Redirect Using Wayback](https://medium.com/@MaMad4Ever/uncovering-an-open-redirect-using-wayback-9799face6b8f?source=rss------bug_bounty_writeup-5)
 - [Host &amp; Network Penetration Testing: Post-Exploitation CTF 2 — eJPT &lpar;INE&rpar;](https://infosecwriteups.com/host-network-penetration-testing-post-exploitation-ctf-2-ejpt-ine-fab668917f29?source=rss----7b722bfd1b8d---4)
 - [VulnNet Roasted — TryHackMe Active Directory Write-up](https://infosecwriteups.com/vulnnet-roasted-tryhackme-active-directory-write-up-9cdfccacc13e?source=rss----7b722bfd1b8d---4)
 - [Water Bottle — TryHackMe [Easy]](https://infosecwriteups.com/water-bottle-tryhackme-easy-945994518a12?source=rss----7b722bfd1b8d---4)
