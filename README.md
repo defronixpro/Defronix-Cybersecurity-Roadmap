@@ -971,6 +971,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [API Security in 2026: The Vulnerabilities Everyone’s Missing.](https://medium.com/@bugitrix/api-security-in-2026-the-vulnerabilities-everyones-missing-318683ac7aee?source=rss------bug_bounty_writeup-5)
 - [postMessage XSS: The Listener Nobody Audits](https://kd-200.medium.com/postmessage-xss-the-listener-nobody-audits-ba587d1b208e?source=rss------bug_bounty_writeup-5)
 - [How I Found My First $5,000 Bug With Zero CS Degree](https://medium.com/@bugitrix/how-i-found-my-first-5-000-bug-with-zero-cs-degree-f43e87f67177?source=rss------bug_bounty_writeup-5)
 - [Critical IDOR in Order Tracking: Sequential IDs + Zero Authentication = Anyone’s Orders &lpar;and PII&rpar;](https://medium.com/@donghcoder/critical-idor-in-order-tracking-sequential-ids-zero-authentication-anyones-orders-and-pii-789247650c89?source=rss------bug_bounty_writeup-5)
@@ -986,7 +987,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Uncovering an Open Redirect Using Wayback](https://medium.com/@MaMad4Ever/uncovering-an-open-redirect-using-wayback-9799face6b8f?source=rss------bug_bounty_writeup-5)
 - [One Parameter One User’s Phone Number And Someone Else’s Email Address Famous Bus Booking in India](https://systemweakness.com/one-parameter-54baeff941bb?source=rss------bug_bounty_writeup-5)
 - [CRLF Injection — Real-World Exploitation &amp; Reporting &lpar; P 3/3 &rpar;](https://medium.com/@cybersecplayground/crlf-injection-real-world-exploitation-reporting-p-3-3-1da1d5fbfdd2?source=rss------bug_bounty_writeup-5)
-- [Exposed Django Debug Mode on a Development Subdomain](https://medium.com/@MaMad4Ever/exposed-django-debug-mode-on-a-development-subdomain-d8376cd90c94?source=rss------bug_bounty_writeup-5)
 - [Host &amp; Network Penetration Testing: Post-Exploitation CTF 2 — eJPT &lpar;INE&rpar;](https://infosecwriteups.com/host-network-penetration-testing-post-exploitation-ctf-2-ejpt-ine-fab668917f29?source=rss----7b722bfd1b8d---4)
 - [VulnNet Roasted — TryHackMe Active Directory Write-up](https://infosecwriteups.com/vulnnet-roasted-tryhackme-active-directory-write-up-9cdfccacc13e?source=rss----7b722bfd1b8d---4)
 - [Water Bottle — TryHackMe [Easy]](https://infosecwriteups.com/water-bottle-tryhackme-easy-945994518a12?source=rss----7b722bfd1b8d---4)
