@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Smali By bithowl: Chapter 10 Register Types](https://medium.com/@bithowl/smali-by-bithowl-chapter-10-register-types-8e7b6290deb0?source=rss------bug_bounty_writeup-5)
 - [Agent Sudo — TryHackMe](https://medium.com/@shahdaaymann/agent-sudo-tryhackme-f1337c6119a5?source=rss------bug_bounty_writeup-5)
 - [One .svg and a CDN: How a File Extension Leaked Strangers&#39; PII](https://medium.com/@abhinabshrestha9/one-svg-and-a-cdn-how-a-file-extension-leaked-strangers-pii-c8ca95ba5ddf?source=rss------bug_bounty_writeup-5)
 - [From N/A to $$$: How a 4-Month Dead Report Became My First Bug Bounty Win](https://medium.com/@Brian_Bange/from-n-a-to-how-a-4-month-dead-report-became-my-first-bug-bounty-win-3b2338c86a31?source=rss------bug_bounty_writeup-5)
@@ -10,7 +11,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Critical IDOR in Order Tracking: Sequential IDs + Zero Authentication = Anyone’s Orders &lpar;and PII&rpar;](https://medium.com/@donghcoder/critical-idor-in-order-tracking-sequential-ids-zero-authentication-anyones-orders-and-pii-789247650c89?source=rss------bug_bounty_writeup-5)
 - [Finding an SSRF in Next.js Server Actions](https://medium.com/@theteatoast/finding-an-ssrf-in-next-js-server-actions-ad981ab216d2?source=rss------bug_bounty_writeup-5)
 - [My First Paid Bug Bounty: A Broken Access Control Vulnerability](https://medium.com/@omaralgbry1/my-first-paid-bug-bounty-a-broken-access-control-vulnerability-aff35ac83718?source=rss------bug_bounty_writeup-5)
-- [5 Burp Suite Extensions That Quietly 10x My Bug Bounty Payouts](https://medium.com/@bugitrix/5-burp-suite-extensions-that-quietly-10x-my-bug-bounty-payouts-371ace4587cc?source=rss------bug_bounty_writeup-5)
 - [The Best Claude Code Setup for Bug Bounty Hunting](https://infosecwriteups.com/the-best-claude-code-setup-for-bug-bounty-hunting-a16a0a50e811?source=rss----7b722bfd1b8d---4)
 - [Improper OTP Implementation to Full Account Takeover](https://infosecwriteups.com/improper-otp-implementation-to-full-account-takeover-df21e126f10f?source=rss----7b722bfd1b8d---4)
 - [Insecure Firestore Security Rules &amp; PII Exposure](https://infosecwriteups.com/insecure-firestore-security-rules-pii-exposure-762763ac577f?source=rss----7b722bfd1b8d---4)
