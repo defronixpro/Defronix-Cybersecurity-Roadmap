@@ -971,6 +971,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [My First $100 Bounty: Exploiting IDOR Vulnerability in Account Section](https://bugbountywizard.app/my-first-100-bounty-exploiting-idor-vulnerability-in-account-section-d5b00bf8ed59?source=rss------bug_bounty_writeup-5)
 - [Smali By bithowl: Chapter 10 Register Types](https://medium.com/@bithowl/smali-by-bithowl-chapter-10-register-types-8e7b6290deb0?source=rss------bug_bounty_writeup-5)
 - [Agent Sudo — TryHackMe](https://medium.com/@shahdaaymann/agent-sudo-tryhackme-f1337c6119a5?source=rss------bug_bounty_writeup-5)
 - [One .svg and a CDN: How a File Extension Leaked Strangers&#39; PII](https://medium.com/@abhinabshrestha9/one-svg-and-a-cdn-how-a-file-extension-leaked-strangers-pii-c8ca95ba5ddf?source=rss------bug_bounty_writeup-5)
@@ -980,7 +981,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How I Found My First $5,000 Bug With Zero CS Degree](https://medium.com/@bugitrix/how-i-found-my-first-5-000-bug-with-zero-cs-degree-f43e87f67177?source=rss------bug_bounty_writeup-5)
 - [Critical IDOR in Order Tracking: Sequential IDs + Zero Authentication = Anyone’s Orders &lpar;and PII&rpar;](https://medium.com/@donghcoder/critical-idor-in-order-tracking-sequential-ids-zero-authentication-anyones-orders-and-pii-789247650c89?source=rss------bug_bounty_writeup-5)
 - [Finding an SSRF in Next.js Server Actions](https://medium.com/@theteatoast/finding-an-ssrf-in-next-js-server-actions-ad981ab216d2?source=rss------bug_bounty_writeup-5)
-- [My First Paid Bug Bounty: A Broken Access Control Vulnerability](https://medium.com/@omaralgbry1/my-first-paid-bug-bounty-a-broken-access-control-vulnerability-aff35ac83718?source=rss------bug_bounty_writeup-5)
 - [The Best Claude Code Setup for Bug Bounty Hunting](https://infosecwriteups.com/the-best-claude-code-setup-for-bug-bounty-hunting-a16a0a50e811?source=rss----7b722bfd1b8d---4)
 - [Improper OTP Implementation to Full Account Takeover](https://infosecwriteups.com/improper-otp-implementation-to-full-account-takeover-df21e126f10f?source=rss----7b722bfd1b8d---4)
 - [Insecure Firestore Security Rules &amp; PII Exposure](https://infosecwriteups.com/insecure-firestore-security-rules-pii-exposure-762763ac577f?source=rss----7b722bfd1b8d---4)
