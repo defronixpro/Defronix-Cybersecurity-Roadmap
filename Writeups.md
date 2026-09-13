@@ -1,6 +1,9 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Poisoning the Pipeline: How HTTP Request Smuggling Let Me Capture Other Users’ Sessions &lpar;$11,000…](https://medium.com/@t4nv1/poisoning-the-pipeline-how-http-request-smuggling-let-me-capture-other-users-sessions-11-000-6076624bc548?source=rss------bug_bounty_writeup-5)
+- [OTP IDOR: When One Code Verifies the Wrong Phone Number](https://scriptjacker.medium.com/otp-idor-when-one-code-verifies-the-wrong-phone-number-df0d2b6475f8?source=rss------bug_bounty_writeup-5)
+- [3 Name Fields, 3 Bugs: How Free Text Became a Phishing Delivery System](https://nanashi0.medium.com/3-name-fields-3-bugs-how-free-text-became-a-phishing-delivery-system-a05d25782194?source=rss------bug_bounty_writeup-5)
 - [I Read 100 Bug Bounty Reports on HackerOne — Here’s What Separates $50 Bugs From $10,000 Ones](https://medium.com/@bugitrix/i-read-100-bug-bounty-reports-on-hackerone-heres-what-separates-50-bugs-from-10-000-ones-1d03fa51e7d3?source=rss------bug_bounty_writeup-5)
 - [Broken Email Change Flow leads to Email Verification Bypass](https://medium.com/@ankitrathva/broken-email-change-flow-leads-to-email-verification-bypass-6df46ce12ab4?source=rss------bug_bounty_writeup-5)
 - [My First $100 Bounty: Exploiting IDOR Vulnerability in Account Section](https://bugbountywizard.app/my-first-100-bounty-exploiting-idor-vulnerability-in-account-section-d5b00bf8ed59?source=rss------bug_bounty_writeup-5)
@@ -8,9 +11,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Agent Sudo — TryHackMe](https://medium.com/@shahdaaymann/agent-sudo-tryhackme-f1337c6119a5?source=rss------bug_bounty_writeup-5)
 - [One .svg and a CDN: How a File Extension Leaked Strangers&#39; PII](https://medium.com/@abhinabshrestha9/one-svg-and-a-cdn-how-a-file-extension-leaked-strangers-pii-c8ca95ba5ddf?source=rss------bug_bounty_writeup-5)
 - [From N/A to $$$: How a 4-Month Dead Report Became My First Bug Bounty Win](https://medium.com/@Brian_Bange/from-n-a-to-how-a-4-month-dead-report-became-my-first-bug-bounty-win-3b2338c86a31?source=rss------bug_bounty_writeup-5)
-- [API Security in 2026: The Vulnerabilities Everyone’s Missing.](https://medium.com/@bugitrix/api-security-in-2026-the-vulnerabilities-everyones-missing-318683ac7aee?source=rss------bug_bounty_writeup-5)
-- [postMessage XSS: The Listener Nobody Audits](https://kd-200.medium.com/postmessage-xss-the-listener-nobody-audits-ba587d1b208e?source=rss------bug_bounty_writeup-5)
-- [How I Found My First $5,000 Bug With Zero CS Degree](https://medium.com/@bugitrix/how-i-found-my-first-5-000-bug-with-zero-cs-degree-f43e87f67177?source=rss------bug_bounty_writeup-5)
 - [The Best Claude Code Setup for Bug Bounty Hunting](https://infosecwriteups.com/the-best-claude-code-setup-for-bug-bounty-hunting-a16a0a50e811?source=rss----7b722bfd1b8d---4)
 - [Improper OTP Implementation to Full Account Takeover](https://infosecwriteups.com/improper-otp-implementation-to-full-account-takeover-df21e126f10f?source=rss----7b722bfd1b8d---4)
 - [Insecure Firestore Security Rules &amp; PII Exposure](https://infosecwriteups.com/insecure-firestore-security-rules-pii-exposure-762763ac577f?source=rss----7b722bfd1b8d---4)
