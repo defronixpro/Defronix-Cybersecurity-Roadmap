@@ -971,6 +971,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [I Read 100 Bug Bounty Reports on HackerOne — Here’s What Separates $50 Bugs From $10,000 Ones](https://medium.com/@bugitrix/i-read-100-bug-bounty-reports-on-hackerone-heres-what-separates-50-bugs-from-10-000-ones-1d03fa51e7d3?source=rss------bug_bounty_writeup-5)
 - [Broken Email Change Flow leads to Email Verification Bypass](https://medium.com/@ankitrathva/broken-email-change-flow-leads-to-email-verification-bypass-6df46ce12ab4?source=rss------bug_bounty_writeup-5)
 - [My First $100 Bounty: Exploiting IDOR Vulnerability in Account Section](https://bugbountywizard.app/my-first-100-bounty-exploiting-idor-vulnerability-in-account-section-d5b00bf8ed59?source=rss------bug_bounty_writeup-5)
 - [Smali By bithowl: Chapter 10 Register Types](https://medium.com/@bithowl/smali-by-bithowl-chapter-10-register-types-8e7b6290deb0?source=rss------bug_bounty_writeup-5)
@@ -980,7 +981,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [API Security in 2026: The Vulnerabilities Everyone’s Missing.](https://medium.com/@bugitrix/api-security-in-2026-the-vulnerabilities-everyones-missing-318683ac7aee?source=rss------bug_bounty_writeup-5)
 - [postMessage XSS: The Listener Nobody Audits](https://kd-200.medium.com/postmessage-xss-the-listener-nobody-audits-ba587d1b208e?source=rss------bug_bounty_writeup-5)
 - [How I Found My First $5,000 Bug With Zero CS Degree](https://medium.com/@bugitrix/how-i-found-my-first-5-000-bug-with-zero-cs-degree-f43e87f67177?source=rss------bug_bounty_writeup-5)
-- [Critical IDOR in Order Tracking: Sequential IDs + Zero Authentication = Anyone’s Orders &lpar;and PII&rpar;](https://medium.com/@donghcoder/critical-idor-in-order-tracking-sequential-ids-zero-authentication-anyones-orders-and-pii-789247650c89?source=rss------bug_bounty_writeup-5)
 - [The Best Claude Code Setup for Bug Bounty Hunting](https://infosecwriteups.com/the-best-claude-code-setup-for-bug-bounty-hunting-a16a0a50e811?source=rss----7b722bfd1b8d---4)
 - [Improper OTP Implementation to Full Account Takeover](https://infosecwriteups.com/improper-otp-implementation-to-full-account-takeover-df21e126f10f?source=rss----7b722bfd1b8d---4)
 - [Insecure Firestore Security Rules &amp; PII Exposure](https://infosecwriteups.com/insecure-firestore-security-rules-pii-exposure-762763ac577f?source=rss----7b722bfd1b8d---4)
