@@ -971,6 +971,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [My Journey From 0 to 10k$](https://medium.com/@Seox12/my-journey-from-0-to-10k-6cb3b2800ff1?source=rss------bug_bounty_writeup-5)
 - [Poisoning the Pipeline: How HTTP Request Smuggling Let Me Capture Other Users’ Sessions &lpar;$11,000…](https://medium.com/@t4nv1/poisoning-the-pipeline-how-http-request-smuggling-let-me-capture-other-users-sessions-11-000-6076624bc548?source=rss------bug_bounty_writeup-5)
 - [OTP IDOR: When One Code Verifies the Wrong Phone Number](https://scriptjacker.medium.com/otp-idor-when-one-code-verifies-the-wrong-phone-number-df0d2b6475f8?source=rss------bug_bounty_writeup-5)
 - [3 Name Fields, 3 Bugs: How Free Text Became a Phishing Delivery System](https://nanashi0.medium.com/3-name-fields-3-bugs-how-free-text-became-a-phishing-delivery-system-a05d25782194?source=rss------bug_bounty_writeup-5)
@@ -980,7 +981,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Smali By bithowl: Chapter 10 Register Types](https://medium.com/@bithowl/smali-by-bithowl-chapter-10-register-types-8e7b6290deb0?source=rss------bug_bounty_writeup-5)
 - [Agent Sudo — TryHackMe](https://medium.com/@shahdaaymann/agent-sudo-tryhackme-f1337c6119a5?source=rss------bug_bounty_writeup-5)
 - [One .svg and a CDN: How a File Extension Leaked Strangers&#39; PII](https://medium.com/@abhinabshrestha9/one-svg-and-a-cdn-how-a-file-extension-leaked-strangers-pii-c8ca95ba5ddf?source=rss------bug_bounty_writeup-5)
-- [From N/A to $$$: How a 4-Month Dead Report Became My First Bug Bounty Win](https://medium.com/@Brian_Bange/from-n-a-to-how-a-4-month-dead-report-became-my-first-bug-bounty-win-3b2338c86a31?source=rss------bug_bounty_writeup-5)
 - [The Best Claude Code Setup for Bug Bounty Hunting](https://infosecwriteups.com/the-best-claude-code-setup-for-bug-bounty-hunting-a16a0a50e811?source=rss----7b722bfd1b8d---4)
 - [Improper OTP Implementation to Full Account Takeover](https://infosecwriteups.com/improper-otp-implementation-to-full-account-takeover-df21e126f10f?source=rss----7b722bfd1b8d---4)
 - [Insecure Firestore Security Rules &amp; PII Exposure](https://infosecwriteups.com/insecure-firestore-security-rules-pii-exposure-762763ac577f?source=rss----7b722bfd1b8d---4)
