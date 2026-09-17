@@ -1,6 +1,8 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How I Tricked OpenClaw Into Attacking Its Own Network: A NAT64 SSRF Bypass](https://infosecwriteups.com/how-i-tricked-openclaw-into-attacking-its-own-network-a-nat64-ssrf-bypass-9b93a7f11cd9?source=rss----7b722bfd1b8d---4)
+- [From Bug to Schema: Exploring Error-Based SQL Injection on an Authenticating Portal](https://infosecwriteups.com/from-bug-to-schema-exploring-error-based-sql-injection-on-an-authenticating-portal-be905548ada2?source=rss----7b722bfd1b8d---4)
 - [I Spent 6 Months on Bug Bounty. My First Report Was a Duplicate. Here’s What I Wish I Knew.](https://medium.com/@riyalimba/i-spent-6-months-on-bug-bounty-my-first-report-was-a-duplicate-heres-what-i-wish-i-knew-3c454e4300c2?source=rss------bug_bounty_writeup-5)
 - [Sensitive Customer Data Exposure Through a Reservation XLSX Export](https://medium.com/@0xfalcon7/sensitive-customer-data-exposure-through-a-reservation-xlsx-export-9e643666fd14?source=rss------bug_bounty_writeup-5)
 - [The Invoice Number That Read AWS](https://ritikver22000.medium.com/the-invoice-number-that-read-aws-fef6b987d5e4?source=rss------bug_bounty_writeup-5)
@@ -19,8 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Corridor — A Simple Web CTF That Made Me Look Twice](https://infosecwriteups.com/corridor-a-simple-web-ctf-that-made-me-look-twice-668a430418f1?source=rss----7b722bfd1b8d---4)
 - [Host &amp; Network Penetration Testing: Post-Exploitation CTF 2 — eJPT &lpar;INE&rpar;](https://infosecwriteups.com/host-network-penetration-testing-post-exploitation-ctf-2-ejpt-ine-fab668917f29?source=rss----7b722bfd1b8d---4)
 - [VulnNet Roasted — TryHackMe Active Directory Write-up](https://infosecwriteups.com/vulnnet-roasted-tryhackme-active-directory-write-up-9cdfccacc13e?source=rss----7b722bfd1b8d---4)
-- [Water Bottle — TryHackMe [Easy]](https://infosecwriteups.com/water-bottle-tryhackme-easy-945994518a12?source=rss----7b722bfd1b8d---4)
-- [Phishing Analysis Fundamentals: TryHackMe Walkthrough](https://infosecwriteups.com/phishing-analysis-fundamentals-tryhackme-walkthrough-ce3219570302?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
