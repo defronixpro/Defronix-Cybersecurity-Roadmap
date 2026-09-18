@@ -971,6 +971,9 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Google Just Warned That AI Agents Are Hunting Bugs for Hackers.](https://medium.com/@riyalimba/google-just-warned-that-ai-agents-are-hunting-bugs-for-hackers-76d3a6276e39?source=rss------bug_bounty_writeup-5)
+- [How I Use AI for Bug Hunting &lpar;Without Losing My Mind&rpar;](https://sukhveersingh97997.medium.com/how-i-use-ai-for-bug-hunting-without-losing-my-mind-7d29784fd188?source=rss------bug_bounty_writeup-5)
+- [CVE-2026–2619: How a Read-Only GitLab Auditor Could Modify Vulnerability Flags](https://medium.com/@dahalkabish/cve-2026-2619-how-a-read-only-gitlab-auditor-could-modify-vulnerability-flags-768c33ab8cbb?source=rss------bug_bounty_writeup-5)
 - [How an Android OAuth Custom Scheme Became a Full Account Takeover](https://medium.com/@mohamedatefsarhan123/how-an-android-oauth-custom-scheme-became-a-full-account-takeover-4a43cd9a51ac?source=rss------bug_bounty_writeup-5)
 - [From Zero to Bug Hunter: My First Real Vulnerability and Why You Should Start Today](https://sukhveersingh97997.medium.com/from-zero-to-bug-hunter-my-first-real-vulnerability-and-why-you-should-start-today-20f1a4d92d62?source=rss------bug_bounty_writeup-5)
 - [Advanced OSINT Is Not More Tools. It Is Better Questions.](https://medium.com/@b0dj0x/advanced-osint-is-not-more-tools-it-is-better-questions-5e155287cb9d?source=rss------bug_bounty_writeup-5)
@@ -980,9 +983,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Sensitive Customer Data Exposure Through a Reservation XLSX Export](https://medium.com/@0xfalcon7/sensitive-customer-data-exposure-through-a-reservation-xlsx-export-9e643666fd14?source=rss------bug_bounty_writeup-5)
 - [The Invoice Number That Read AWS](https://ritikver22000.medium.com/the-invoice-number-that-read-aws-fef6b987d5e4?source=rss------bug_bounty_writeup-5)
 - [What Happens When an AI Agent Becomes Your Bug Hunting Partner?](https://shuvonsec.medium.com/what-happens-when-an-ai-agent-becomes-your-bug-hunting-partner-ba380e3341c7?source=rss------bug_bounty_writeup-5)
-- [HTTP Request Smuggling Part 2: The Desync Endgame Advanced Classes, and Chaining for Maximum Impact](https://osintteam.blog/http-request-smuggling-part-2-the-desync-endgame-advanced-classes-and-chaining-for-maximum-impact-e69f5d19a87f?source=rss------bug_bounty_writeup-5)
-- [The Story of How I Hacked an International University in Indonesia AGAIN](https://christmex.medium.com/the-story-of-how-i-hacked-an-international-university-in-indonesia-again-57b4fef9fbd8?source=rss------bug_bounty_writeup-5)
-- [From Recon to Responsible Disclosure: Finding an Exposed Test Endpoint in a Government API](https://medium.com/@krisnasirait48/from-recon-to-responsible-disclosure-finding-an-exposed-test-endpoint-in-a-government-api-cce43d2d41a2?source=rss------bug_bounty_writeup-5)
 - [The Best Claude Code Setup for Bug Bounty Hunting](https://infosecwriteups.com/the-best-claude-code-setup-for-bug-bounty-hunting-a16a0a50e811?source=rss----7b722bfd1b8d---4)
 - [Improper OTP Implementation to Full Account Takeover](https://infosecwriteups.com/improper-otp-implementation-to-full-account-takeover-df21e126f10f?source=rss----7b722bfd1b8d---4)
 - [Insecure Firestore Security Rules &amp; PII Exposure](https://infosecwriteups.com/insecure-firestore-security-rules-pii-exposure-762763ac577f?source=rss----7b722bfd1b8d---4)
