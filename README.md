@@ -971,6 +971,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [SQL Injection: Time-Based Blind Detection Payload](https://medium.com/@cybersecplayground/sql-injection-time-based-blind-detection-payload-953657dd542b?source=rss------bug_bounty_writeup-5)
 - [How a Simple Stored XSS Turned Into an Account Action Chain](https://medium.com/@hackwithabraham/how-a-simple-stored-xss-turned-into-an-account-action-chain-3e044303c508?source=rss------bug_bounty_writeup-5)
 - [Smali By bithowl: Chapter 11 Register Instructions](https://medium.com/@bithowl/smali-by-bithowl-chapter-11-register-instructions-f4f4b45ab2d9?source=rss------bug_bounty_writeup-5)
 - [$9,000 for a Cookie That Shouldn’t Have Been an Object: Java Deserialization to RCE](https://medium.com/@t4nv1/9-000-for-a-cookie-that-shouldnt-have-been-an-object-java-deserialization-to-rce-9f7886d50cb3?source=rss------bug_bounty_writeup-5)
@@ -980,7 +981,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [CVE-2026–2619: How a Read-Only GitLab Auditor Could Modify Vulnerability Flags](https://medium.com/@dahalkabish/cve-2026-2619-how-a-read-only-gitlab-auditor-could-modify-vulnerability-flags-768c33ab8cbb?source=rss------bug_bounty_writeup-5)
 - [How an Android OAuth Custom Scheme Became a Full Account Takeover](https://medium.com/@mohamedatefsarhan123/how-an-android-oauth-custom-scheme-became-a-full-account-takeover-4a43cd9a51ac?source=rss------bug_bounty_writeup-5)
 - [From Zero to Bug Hunter: My First Real Vulnerability and Why You Should Start Today](https://sukhveersingh97997.medium.com/from-zero-to-bug-hunter-my-first-real-vulnerability-and-why-you-should-start-today-20f1a4d92d62?source=rss------bug_bounty_writeup-5)
-- [Advanced OSINT Is Not More Tools. It Is Better Questions.](https://medium.com/@b0dj0x/advanced-osint-is-not-more-tools-it-is-better-questions-5e155287cb9d?source=rss------bug_bounty_writeup-5)
 - [How I Tricked OpenClaw Into Attacking Its Own Network: A NAT64 SSRF Bypass](https://infosecwriteups.com/how-i-tricked-openclaw-into-attacking-its-own-network-a-nat64-ssrf-bypass-9b93a7f11cd9?source=rss----7b722bfd1b8d---4)
 - [From Bug to Schema: Exploring Error-Based SQL Injection on an Authenticating Portal](https://infosecwriteups.com/from-bug-to-schema-exploring-error-based-sql-injection-on-an-authenticating-portal-be905548ada2?source=rss----7b722bfd1b8d---4)
 - [The Best Claude Code Setup for Bug Bounty Hunting](https://infosecwriteups.com/the-best-claude-code-setup-for-bug-bounty-hunting-a16a0a50e811?source=rss----7b722bfd1b8d---4)
