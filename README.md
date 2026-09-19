@@ -971,6 +971,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How a Simple Stored XSS Turned Into an Account Action Chain](https://medium.com/@hackwithabraham/how-a-simple-stored-xss-turned-into-an-account-action-chain-3e044303c508?source=rss------bug_bounty_writeup-5)
+- [Smali By bithowl: Chapter 11 Register Instructions](https://medium.com/@bithowl/smali-by-bithowl-chapter-11-register-instructions-f4f4b45ab2d9?source=rss------bug_bounty_writeup-5)
 - [$9,000 for a Cookie That Shouldn’t Have Been an Object: Java Deserialization to RCE](https://medium.com/@t4nv1/9-000-for-a-cookie-that-shouldnt-have-been-an-object-java-deserialization-to-rce-9f7886d50cb3?source=rss------bug_bounty_writeup-5)
 - [Scheduled Report Authorization Flaw Enables Cross-User Dashboard Data Disclosure](https://medium.com/@iamdawoodayub/scheduled-report-authorization-flaw-enables-cross-user-dashboard-data-disclosure-37115a8741ec?source=rss------bug_bounty_writeup-5)
 - [Google Just Warned That AI Agents Are Hunting Bugs for Hackers.](https://medium.com/@riyalimba/google-just-warned-that-ai-agents-are-hunting-bugs-for-hackers-76d3a6276e39?source=rss------bug_bounty_writeup-5)
@@ -981,8 +983,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Advanced OSINT Is Not More Tools. It Is Better Questions.](https://medium.com/@b0dj0x/advanced-osint-is-not-more-tools-it-is-better-questions-5e155287cb9d?source=rss------bug_bounty_writeup-5)
 - [How I Tricked OpenClaw Into Attacking Its Own Network: A NAT64 SSRF Bypass](https://infosecwriteups.com/how-i-tricked-openclaw-into-attacking-its-own-network-a-nat64-ssrf-bypass-9b93a7f11cd9?source=rss----7b722bfd1b8d---4)
 - [From Bug to Schema: Exploring Error-Based SQL Injection on an Authenticating Portal](https://infosecwriteups.com/from-bug-to-schema-exploring-error-based-sql-injection-on-an-authenticating-portal-be905548ada2?source=rss----7b722bfd1b8d---4)
-- [I Spent 6 Months on Bug Bounty. My First Report Was a Duplicate. Here’s What I Wish I Knew.](https://medium.com/@riyalimba/i-spent-6-months-on-bug-bounty-my-first-report-was-a-duplicate-heres-what-i-wish-i-knew-3c454e4300c2?source=rss------bug_bounty_writeup-5)
-- [Sensitive Customer Data Exposure Through a Reservation XLSX Export](https://medium.com/@0xfalcon7/sensitive-customer-data-exposure-through-a-reservation-xlsx-export-9e643666fd14?source=rss------bug_bounty_writeup-5)
 - [The Best Claude Code Setup for Bug Bounty Hunting](https://infosecwriteups.com/the-best-claude-code-setup-for-bug-bounty-hunting-a16a0a50e811?source=rss----7b722bfd1b8d---4)
 - [Improper OTP Implementation to Full Account Takeover](https://infosecwriteups.com/improper-otp-implementation-to-full-account-takeover-df21e126f10f?source=rss----7b722bfd1b8d---4)
 - [Insecure Firestore Security Rules &amp; PII Exposure](https://infosecwriteups.com/insecure-firestore-security-rules-pii-exposure-762763ac577f?source=rss----7b722bfd1b8d---4)
