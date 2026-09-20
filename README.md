@@ -971,7 +971,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [The Anonymous 5-GB File Host That Almost Wasn’t: How a Silent Websocket Led Me to Unauthenticated…](https://medium.com/@priyanshbhadoria5/the-anonymous-5-gb-file-host-that-almost-wasnt-how-a-silent-websocket-led-me-to-unauthenticated-c34120be1492?source=rss------bug_bounty_writeup-5)
+- [The Report Nobody Read &lpar;And What I Learned From It&rpar;](https://systemweakness.com/the-report-nobody-read-and-what-i-learned-from-it-88751313b2b7?source=rss------bug_bounty_writeup-5)
+- [How a Silent Websocket Led Me to Unauthenticated Uploads on a University’s Exam Platform](https://medium.com/@priyanshbhadoria5/the-anonymous-5-gb-file-host-that-almost-wasnt-how-a-silent-websocket-led-me-to-unauthenticated-c34120be1492?source=rss------bug_bounty_writeup-5)
 - [How I Found an Undocumented GraphQL Endpoint Leaking Home Addresses of French Company Owners &lpar;EUR…](https://medium.com/@anshbohra10/how-i-found-an-undocumented-graphql-endpoint-leaking-home-addresses-of-french-company-owners-eur-8536b9dd0ec1?source=rss------bug_bounty_writeup-5)
 - [SQL Injection: Time-Based Blind Detection Payload](https://medium.com/@cybersecplayground/sql-injection-time-based-blind-detection-payload-953657dd542b?source=rss------bug_bounty_writeup-5)
 - [How a Simple Stored XSS Turned Into an Account Action Chain](https://medium.com/@hackwithabraham/how-a-simple-stored-xss-turned-into-an-account-action-chain-3e044303c508?source=rss------bug_bounty_writeup-5)
@@ -980,7 +981,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Scheduled Report Authorization Flaw Enables Cross-User Dashboard Data Disclosure](https://medium.com/@iamdawoodayub/scheduled-report-authorization-flaw-enables-cross-user-dashboard-data-disclosure-37115a8741ec?source=rss------bug_bounty_writeup-5)
 - [Google Just Warned That AI Agents Are Hunting Bugs for Hackers.](https://medium.com/@riyalimba/google-just-warned-that-ai-agents-are-hunting-bugs-for-hackers-76d3a6276e39?source=rss------bug_bounty_writeup-5)
 - [How I Use AI for Bug Hunting &lpar;Without Losing My Mind&rpar;](https://sukhveersingh97997.medium.com/how-i-use-ai-for-bug-hunting-without-losing-my-mind-7d29784fd188?source=rss------bug_bounty_writeup-5)
-- [CVE-2026–2619: How a Read-Only GitLab Auditor Could Modify Vulnerability Flags](https://medium.com/@dahalkabish/cve-2026-2619-how-a-read-only-gitlab-auditor-could-modify-vulnerability-flags-768c33ab8cbb?source=rss------bug_bounty_writeup-5)
 - [How I Tricked OpenClaw Into Attacking Its Own Network: A NAT64 SSRF Bypass](https://infosecwriteups.com/how-i-tricked-openclaw-into-attacking-its-own-network-a-nat64-ssrf-bypass-9b93a7f11cd9?source=rss----7b722bfd1b8d---4)
 - [From Bug to Schema: Exploring Error-Based SQL Injection on an Authenticating Portal](https://infosecwriteups.com/from-bug-to-schema-exploring-error-based-sql-injection-on-an-authenticating-portal-be905548ada2?source=rss----7b722bfd1b8d---4)
 - [The Best Claude Code Setup for Bug Bounty Hunting](https://infosecwriteups.com/the-best-claude-code-setup-for-bug-bounty-hunting-a16a0a50e811?source=rss----7b722bfd1b8d---4)
