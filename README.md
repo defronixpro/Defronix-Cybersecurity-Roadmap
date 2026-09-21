@@ -971,6 +971,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [BAC: Unauthorized Email Sending.](https://medium.com/@kiwi.bounty22/bac-unauthorized-email-sending-a38a07bd74f0?source=rss------bug_bounty_writeup-5)
 - [How a public javascript file led me to a phone verification bypass on a social media website](https://medium.com/@sairajthorat077/how-a-public-javascript-file-led-me-to-a-phone-verification-bypass-on-a-social-media-website-a7ecdd6df9b8?source=rss------bug_bounty_writeup-5)
 - [The Report Nobody Read &lpar;And What I Learned From It&rpar;](https://systemweakness.com/the-report-nobody-read-and-what-i-learned-from-it-88751313b2b7?source=rss------bug_bounty_writeup-5)
 - [How a Silent Websocket Led Me to Unauthenticated Uploads on a University’s Exam Platform](https://medium.com/@priyanshbhadoria5/the-anonymous-5-gb-file-host-that-almost-wasnt-how-a-silent-websocket-led-me-to-unauthenticated-c34120be1492?source=rss------bug_bounty_writeup-5)
@@ -980,7 +981,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Smali By bithowl: Chapter 11 Register Instructions](https://medium.com/@bithowl/smali-by-bithowl-chapter-11-register-instructions-f4f4b45ab2d9?source=rss------bug_bounty_writeup-5)
 - [$9,000 for a Cookie That Shouldn’t Have Been an Object: Java Deserialization to RCE](https://medium.com/@t4nv1/9-000-for-a-cookie-that-shouldnt-have-been-an-object-java-deserialization-to-rce-9f7886d50cb3?source=rss------bug_bounty_writeup-5)
 - [Scheduled Report Authorization Flaw Enables Cross-User Dashboard Data Disclosure](https://medium.com/@iamdawoodayub/scheduled-report-authorization-flaw-enables-cross-user-dashboard-data-disclosure-37115a8741ec?source=rss------bug_bounty_writeup-5)
-- [Google Just Warned That AI Agents Are Hunting Bugs for Hackers.](https://medium.com/@riyalimba/google-just-warned-that-ai-agents-are-hunting-bugs-for-hackers-76d3a6276e39?source=rss------bug_bounty_writeup-5)
 - [How I Tricked OpenClaw Into Attacking Its Own Network: A NAT64 SSRF Bypass](https://infosecwriteups.com/how-i-tricked-openclaw-into-attacking-its-own-network-a-nat64-ssrf-bypass-9b93a7f11cd9?source=rss----7b722bfd1b8d---4)
 - [From Bug to Schema: Exploring Error-Based SQL Injection on an Authenticating Portal](https://infosecwriteups.com/from-bug-to-schema-exploring-error-based-sql-injection-on-an-authenticating-portal-be905548ada2?source=rss----7b722bfd1b8d---4)
 - [The Best Claude Code Setup for Bug Bounty Hunting](https://infosecwriteups.com/the-best-claude-code-setup-for-bug-bounty-hunting-a16a0a50e811?source=rss----7b722bfd1b8d---4)
