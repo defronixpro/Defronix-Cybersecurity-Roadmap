@@ -972,12 +972,12 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
 - [100 Days of Bug Bounty — Day 1](https://zubairahm3d.medium.com/100-days-of-bug-bounty-day-1-b077dd4f9655?source=rss------bug_bounty_writeup-5)
-- [How I Started Getting Bug Bounties in Just My Second Month](https://medium.com/@sairajthorat077/how-i-started-getting-bug-bounties-in-just-my-second-month-b80448dc9901?source=rss------bug_bounty_writeup-5)
+- [How I Started Getting Bug Bounties in Just My Second Month](https://infosecwriteups.com/how-i-started-getting-bug-bounties-in-just-my-second-month-b80448dc9901?source=rss------bug_bounty_writeup-5)
 - [From Vulnerability to Report: How Security Researchers Communicate Impact](https://medium.com/@RaminAghabeigi/from-vulnerability-to-report-how-security-researchers-communicate-impact-cf4fe56c67c1?source=rss------bug_bounty_writeup-5)
 - [One Hidden JSON Field Turned My User Ticket into an Admin Ticket](https://medium.com/@ArshiaHex/one-hidden-json-field-turned-my-user-ticket-into-an-admin-ticket-5b019cb6489f?source=rss------bug_bounty_writeup-5)
-- [How a single broken button got me £150 from a bug bounty program](https://medium.com/@sairajthorat077/how-a-single-broken-button-got-me-150-from-a-bug-bounty-program-81f203d7f733?source=rss------bug_bounty_writeup-5)
+- [How a single broken button got me £150 from a bug bounty program](https://infosecwriteups.com/how-a-single-broken-button-got-me-150-from-a-bug-bounty-program-81f203d7f733?source=rss------bug_bounty_writeup-5)
 - [BAC: Unauthorized Email Sending.](https://medium.com/@kiwi.bounty22/bac-unauthorized-email-sending-a38a07bd74f0?source=rss------bug_bounty_writeup-5)
-- [How a public javascript file led me to a phone verification bypass on a social media website](https://medium.com/@sairajthorat077/how-a-public-javascript-file-led-me-to-a-phone-verification-bypass-on-a-social-media-website-a7ecdd6df9b8?source=rss------bug_bounty_writeup-5)
+- [How a public javascript file led me to a phone verification bypass on a social media website](https://infosecwriteups.com/how-a-public-javascript-file-led-me-to-a-phone-verification-bypass-on-a-social-media-website-a7ecdd6df9b8?source=rss------bug_bounty_writeup-5)
 - [The Report Nobody Read &lpar;And What I Learned From It&rpar;](https://systemweakness.com/the-report-nobody-read-and-what-i-learned-from-it-88751313b2b7?source=rss------bug_bounty_writeup-5)
 - [How a Silent Websocket Led Me to Unauthenticated Uploads on a University’s Exam Platform](https://medium.com/@priyanshbhadoria5/the-anonymous-5-gb-file-host-that-almost-wasnt-how-a-silent-websocket-led-me-to-unauthenticated-c34120be1492?source=rss------bug_bounty_writeup-5)
 - [How I Found an Undocumented GraphQL Endpoint Leaking Home Addresses of French Company Owners &lpar;EUR…](https://medium.com/@anshbohra10/how-i-found-an-undocumented-graphql-endpoint-leaking-home-addresses-of-french-company-owners-eur-8536b9dd0ec1?source=rss------bug_bounty_writeup-5)
