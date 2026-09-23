@@ -971,6 +971,9 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [100 Days of Bug Bounty — Day 2](https://zubairahm3d.medium.com/100-days-of-bug-bounty-day-2-b1f1a8700518?source=rss------bug_bounty_writeup-5)
+- [I Found a Tax PDF While Reconning a Private Company](https://medium.com/@mansigolecha84_17480/i-found-a-tax-pdf-while-reconning-a-private-company-026b5556a05b?source=rss------bug_bounty_writeup-5)
+- [How I Became Better at Bug Bounty Hunting: 7 Tips I Wish I Knew Earlier](https://medium.com/@sairajthorat077/how-i-became-better-at-bug-bounty-hunting-7-tips-i-wish-i-knew-earlier-00f41bceda9a?source=rss------bug_bounty_writeup-5)
 - [From a Strange Base64 Parameter to a Critical PHP Deserialization Vulnerability](https://babycoder143.medium.com/from-a-strange-base64-parameter-to-a-critical-php-deserialization-vulnerability-dc9c93468f50?source=rss------bug_bounty_writeup-5)
 - [100 Days of Bug Bounty — Day 1](https://zubairahm3d.medium.com/100-days-of-bug-bounty-day-1-b077dd4f9655?source=rss------bug_bounty_writeup-5)
 - [How I Started Getting Bug Bounties in Just My Second Month](https://infosecwriteups.com/how-i-started-getting-bug-bounties-in-just-my-second-month-b80448dc9901?source=rss------bug_bounty_writeup-5)
@@ -978,9 +981,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [One Hidden JSON Field Turned My User Ticket into an Admin Ticket](https://medium.com/@ArshiaHex/one-hidden-json-field-turned-my-user-ticket-into-an-admin-ticket-5b019cb6489f?source=rss------bug_bounty_writeup-5)
 - [How a single broken button got me £150 from a bug bounty program](https://infosecwriteups.com/how-a-single-broken-button-got-me-150-from-a-bug-bounty-program-81f203d7f733?source=rss------bug_bounty_writeup-5)
 - [BAC: Unauthorized Email Sending.](https://medium.com/@kiwi.bounty22/bac-unauthorized-email-sending-a38a07bd74f0?source=rss------bug_bounty_writeup-5)
-- [How a public javascript file led me to a phone verification bypass on a social media website](https://infosecwriteups.com/how-a-public-javascript-file-led-me-to-a-phone-verification-bypass-on-a-social-media-website-a7ecdd6df9b8?source=rss------bug_bounty_writeup-5)
-- [The Report Nobody Read &lpar;And What I Learned From It&rpar;](https://systemweakness.com/the-report-nobody-read-and-what-i-learned-from-it-88751313b2b7?source=rss------bug_bounty_writeup-5)
-- [How a Silent Websocket Led Me to Unauthenticated Uploads on a University’s Exam Platform](https://medium.com/@priyanshbhadoria5/the-anonymous-5-gb-file-host-that-almost-wasnt-how-a-silent-websocket-led-me-to-unauthenticated-c34120be1492?source=rss------bug_bounty_writeup-5)
 - [How I Tricked OpenClaw Into Attacking Its Own Network: A NAT64 SSRF Bypass](https://infosecwriteups.com/how-i-tricked-openclaw-into-attacking-its-own-network-a-nat64-ssrf-bypass-9b93a7f11cd9?source=rss----7b722bfd1b8d---4)
 - [From Bug to Schema: Exploring Error-Based SQL Injection on an Authenticating Portal](https://infosecwriteups.com/from-bug-to-schema-exploring-error-based-sql-injection-on-an-authenticating-portal-be905548ada2?source=rss----7b722bfd1b8d---4)
 - [The Best Claude Code Setup for Bug Bounty Hunting](https://infosecwriteups.com/the-best-claude-code-setup-for-bug-bounty-hunting-a16a0a50e811?source=rss----7b722bfd1b8d---4)
