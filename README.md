@@ -971,6 +971,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [From a Strange Base64 Parameter to a Critical PHP Deserialization Vulnerability](https://babycoder143.medium.com/from-a-strange-base64-parameter-to-a-critical-php-deserialization-vulnerability-dc9c93468f50?source=rss------bug_bounty_writeup-5)
 - [100 Days of Bug Bounty — Day 1](https://zubairahm3d.medium.com/100-days-of-bug-bounty-day-1-b077dd4f9655?source=rss------bug_bounty_writeup-5)
 - [How I Started Getting Bug Bounties in Just My Second Month](https://infosecwriteups.com/how-i-started-getting-bug-bounties-in-just-my-second-month-b80448dc9901?source=rss------bug_bounty_writeup-5)
 - [From Vulnerability to Report: How Security Researchers Communicate Impact](https://medium.com/@RaminAghabeigi/from-vulnerability-to-report-how-security-researchers-communicate-impact-cf4fe56c67c1?source=rss------bug_bounty_writeup-5)
@@ -980,7 +981,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How a public javascript file led me to a phone verification bypass on a social media website](https://infosecwriteups.com/how-a-public-javascript-file-led-me-to-a-phone-verification-bypass-on-a-social-media-website-a7ecdd6df9b8?source=rss------bug_bounty_writeup-5)
 - [The Report Nobody Read &lpar;And What I Learned From It&rpar;](https://systemweakness.com/the-report-nobody-read-and-what-i-learned-from-it-88751313b2b7?source=rss------bug_bounty_writeup-5)
 - [How a Silent Websocket Led Me to Unauthenticated Uploads on a University’s Exam Platform](https://medium.com/@priyanshbhadoria5/the-anonymous-5-gb-file-host-that-almost-wasnt-how-a-silent-websocket-led-me-to-unauthenticated-c34120be1492?source=rss------bug_bounty_writeup-5)
-- [How I Found an Undocumented GraphQL Endpoint Leaking Home Addresses of French Company Owners &lpar;EUR…](https://medium.com/@anshbohra10/how-i-found-an-undocumented-graphql-endpoint-leaking-home-addresses-of-french-company-owners-eur-8536b9dd0ec1?source=rss------bug_bounty_writeup-5)
 - [How I Tricked OpenClaw Into Attacking Its Own Network: A NAT64 SSRF Bypass](https://infosecwriteups.com/how-i-tricked-openclaw-into-attacking-its-own-network-a-nat64-ssrf-bypass-9b93a7f11cd9?source=rss----7b722bfd1b8d---4)
 - [From Bug to Schema: Exploring Error-Based SQL Injection on an Authenticating Portal](https://infosecwriteups.com/from-bug-to-schema-exploring-error-based-sql-injection-on-an-authenticating-portal-be905548ada2?source=rss----7b722bfd1b8d---4)
 - [The Best Claude Code Setup for Bug Bounty Hunting](https://infosecwriteups.com/the-best-claude-code-setup-for-bug-bounty-hunting-a16a0a50e811?source=rss----7b722bfd1b8d---4)
