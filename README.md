@@ -971,6 +971,9 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [I Verified One Email and Claimed Another’s Invitation](https://scriptjacker.medium.com/i-verified-one-email-and-claimed-anothers-invitation-5c372c83ba77?source=rss------bug_bounty_writeup-5)
+- [From Admin to Owner: How I Discovered a Critical Full Organization Takeover](https://medium.com/@ankitrathva/from-admin-to-owner-how-i-discovered-a-critical-full-organization-takeover-610a1aa013a7?source=rss------bug_bounty_writeup-5)
+- [100 Days of Bug Bounty — Day 3](https://zubairahm3d.medium.com/100-days-of-bug-bounty-day-3-93d24bf37659?source=rss------bug_bounty_writeup-5)
 - [I Bypassed OTP Verification by Changing One Response](https://medium.com/@sahilmaurya2575/i-bypassed-otp-verification-by-changing-one-response-c54ec1db8876?source=rss------bug_bounty_writeup-5)
 - [100 Days of Bug Bounty — Day 2](https://zubairahm3d.medium.com/100-days-of-bug-bounty-day-2-b1f1a8700518?source=rss------bug_bounty_writeup-5)
 - [I Found a Tax PDF While Reconning a Private Company](https://medium.com/@mansigolecha84_17480/i-found-a-tax-pdf-while-reconning-a-private-company-026b5556a05b?source=rss------bug_bounty_writeup-5)
@@ -978,9 +981,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [From a Strange Base64 Parameter to a Critical PHP Deserialization Vulnerability](https://babycoder143.medium.com/from-a-strange-base64-parameter-to-a-critical-php-deserialization-vulnerability-dc9c93468f50?source=rss------bug_bounty_writeup-5)
 - [100 Days of Bug Bounty — Day 1](https://zubairahm3d.medium.com/100-days-of-bug-bounty-day-1-b077dd4f9655?source=rss------bug_bounty_writeup-5)
 - [How I Started Getting Bug Bounties in Just My Second Month](https://infosecwriteups.com/how-i-started-getting-bug-bounties-in-just-my-second-month-b80448dc9901?source=rss------bug_bounty_writeup-5)
-- [From Vulnerability to Report: How Security Researchers Communicate Impact](https://medium.com/@RaminAghabeigi/from-vulnerability-to-report-how-security-researchers-communicate-impact-cf4fe56c67c1?source=rss------bug_bounty_writeup-5)
-- [One Hidden JSON Field Turned My User Ticket into an Admin Ticket](https://medium.com/@ArshiaHex/one-hidden-json-field-turned-my-user-ticket-into-an-admin-ticket-5b019cb6489f?source=rss------bug_bounty_writeup-5)
-- [How a single broken button got me £150 from a bug bounty program](https://infosecwriteups.com/how-a-single-broken-button-got-me-150-from-a-bug-bounty-program-81f203d7f733?source=rss------bug_bounty_writeup-5)
 - [How I Tricked OpenClaw Into Attacking Its Own Network: A NAT64 SSRF Bypass](https://infosecwriteups.com/how-i-tricked-openclaw-into-attacking-its-own-network-a-nat64-ssrf-bypass-9b93a7f11cd9?source=rss----7b722bfd1b8d---4)
 - [From Bug to Schema: Exploring Error-Based SQL Injection on an Authenticating Portal](https://infosecwriteups.com/from-bug-to-schema-exploring-error-based-sql-injection-on-an-authenticating-portal-be905548ada2?source=rss----7b722bfd1b8d---4)
 - [The Best Claude Code Setup for Bug Bounty Hunting](https://infosecwriteups.com/the-best-claude-code-setup-for-bug-bounty-hunting-a16a0a50e811?source=rss----7b722bfd1b8d---4)
