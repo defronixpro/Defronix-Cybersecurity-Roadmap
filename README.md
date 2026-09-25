@@ -971,6 +971,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [The Illusion of Instant Block](https://medium.com/@yosefmostef99/the-illusion-of-instant-block-4620220283f9?source=rss------bug_bounty_writeup-5)
 - [The Forgotten Bucket: How a 404 Became a High-Severity Subdomain Takeover](https://0xkrishn.medium.com/the-forgotten-bucket-how-a-404-became-a-high-severity-subdomain-takeover-739a0c4e5cab?source=rss------bug_bounty_writeup-5)
 - [100 Days of Bug Bounty — Day 4](https://zubairahm3d.medium.com/100-days-of-bug-bounty-day-4-6e589804d2a3?source=rss------bug_bounty_writeup-5)
 - [Top 10 Bugs That Still Pay in 2026](https://medium.com/@bugitrix/top-10-bugs-that-still-pay-in-2026-65f7e4001d42?source=rss------bug_bounty_writeup-5)
@@ -980,7 +981,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [From Admin to Owner: How I Discovered a Critical Full Organization Takeover](https://medium.com/@ankitrathva/from-admin-to-owner-how-i-discovered-a-critical-full-organization-takeover-610a1aa013a7?source=rss------bug_bounty_writeup-5)
 - [100 Days of Bug Bounty — Day 3](https://zubairahm3d.medium.com/100-days-of-bug-bounty-day-3-93d24bf37659?source=rss------bug_bounty_writeup-5)
 - [I Bypassed OTP Verification by Changing One Response](https://medium.com/@sahilmaurya2575/i-bypassed-otp-verification-by-changing-one-response-c54ec1db8876?source=rss------bug_bounty_writeup-5)
-- [100 Days of Bug Bounty — Day 2](https://zubairahm3d.medium.com/100-days-of-bug-bounty-day-2-b1f1a8700518?source=rss------bug_bounty_writeup-5)
 - [How I Tricked OpenClaw Into Attacking Its Own Network: A NAT64 SSRF Bypass](https://infosecwriteups.com/how-i-tricked-openclaw-into-attacking-its-own-network-a-nat64-ssrf-bypass-9b93a7f11cd9?source=rss----7b722bfd1b8d---4)
 - [From Bug to Schema: Exploring Error-Based SQL Injection on an Authenticating Portal](https://infosecwriteups.com/from-bug-to-schema-exploring-error-based-sql-injection-on-an-authenticating-portal-be905548ada2?source=rss----7b722bfd1b8d---4)
 - [The Best Claude Code Setup for Bug Bounty Hunting](https://infosecwriteups.com/the-best-claude-code-setup-for-bug-bounty-hunting-a16a0a50e811?source=rss----7b722bfd1b8d---4)
