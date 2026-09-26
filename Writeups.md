@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [100 Days of Bug Bounty — Day 5](https://zubairahm3d.medium.com/100-days-of-bug-bounty-day-5-605f464ce771?source=rss------bug_bounty_writeup-5)
 - [The Illusion of Instant Block](https://medium.com/@yosefmostef99/the-illusion-of-instant-block-4620220283f9?source=rss------bug_bounty_writeup-5)
 - [The Forgotten Bucket: How a 404 Became a High-Severity Subdomain Takeover](https://0xkrishn.medium.com/the-forgotten-bucket-how-a-404-became-a-high-severity-subdomain-takeover-739a0c4e5cab?source=rss------bug_bounty_writeup-5)
 - [100 Days of Bug Bounty — Day 4](https://zubairahm3d.medium.com/100-days-of-bug-bounty-day-4-6e589804d2a3?source=rss------bug_bounty_writeup-5)
@@ -10,7 +11,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [I Verified One Email and Claimed Another’s Invitation](https://scriptjacker.medium.com/i-verified-one-email-and-claimed-anothers-invitation-5c372c83ba77?source=rss------bug_bounty_writeup-5)
 - [From Admin to Owner: How I Discovered a Critical Full Organization Takeover](https://medium.com/@ankitrathva/from-admin-to-owner-how-i-discovered-a-critical-full-organization-takeover-610a1aa013a7?source=rss------bug_bounty_writeup-5)
 - [100 Days of Bug Bounty — Day 3](https://zubairahm3d.medium.com/100-days-of-bug-bounty-day-3-93d24bf37659?source=rss------bug_bounty_writeup-5)
-- [I Bypassed OTP Verification by Changing One Response](https://medium.com/@sahilmaurya2575/i-bypassed-otp-verification-by-changing-one-response-c54ec1db8876?source=rss------bug_bounty_writeup-5)
 - [How I Tricked OpenClaw Into Attacking Its Own Network: A NAT64 SSRF Bypass](https://infosecwriteups.com/how-i-tricked-openclaw-into-attacking-its-own-network-a-nat64-ssrf-bypass-9b93a7f11cd9?source=rss----7b722bfd1b8d---4)
 - [From Bug to Schema: Exploring Error-Based SQL Injection on an Authenticating Portal](https://infosecwriteups.com/from-bug-to-schema-exploring-error-based-sql-injection-on-an-authenticating-portal-be905548ada2?source=rss----7b722bfd1b8d---4)
 - [The Best Claude Code Setup for Bug Bounty Hunting](https://infosecwriteups.com/the-best-claude-code-setup-for-bug-bounty-hunting-a16a0a50e811?source=rss----7b722bfd1b8d---4)
