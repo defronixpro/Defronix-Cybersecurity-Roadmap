@@ -1,6 +1,8 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [100 Days of Bug Bounty — Day 8](https://zubairahm3d.medium.com/100-days-of-bug-bounty-day-8-3b5e00289721?source=rss------bug_bounty_writeup-5)
+- [I Read This Book and Found My First Valid Bug in Less Than a Week — Here’s the Book](https://sukhveersingh97997.medium.com/i-read-this-book-and-found-my-first-valid-bug-in-less-than-a-week-heres-the-book-3c031eb66520?source=rss------bug_bounty_writeup-5)
 - [How I Read an Application Before Trying to Hack It](https://medium.com/@sairajthorat077/how-i-read-an-application-before-trying-to-hack-it-6879ee33b0f8?source=rss------bug_bounty_writeup-5)
 - [Swipe-to-Leak: OTP Theft via an Implicit Broadcast on Notification Dismiss](https://medium.com/@husein.ayoub/swipe-to-leak-otp-theft-via-an-implicit-broadcast-on-notification-dismiss-51e9ab7f3718?source=rss------bug_bounty_writeup-5)
 - [The Easy Bug Series | #03](https://medium.com/@huntersoham/the-easy-bug-series-03-445871c4b65f?source=rss------bug_bounty_writeup-5)
@@ -9,8 +11,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [100 Days of Bug Bounty — Day 5](https://zubairahm3d.medium.com/100-days-of-bug-bounty-day-5-605f464ce771?source=rss------bug_bounty_writeup-5)
 - [The Illusion of Instant Block](https://medium.com/@yosefmostef99/the-illusion-of-instant-block-4620220283f9?source=rss------bug_bounty_writeup-5)
 - [The Forgotten Bucket: How a 404 Became a High-Severity Subdomain Takeover](https://0xkrishn.medium.com/the-forgotten-bucket-how-a-404-became-a-high-severity-subdomain-takeover-739a0c4e5cab?source=rss------bug_bounty_writeup-5)
-- [100 Days of Bug Bounty — Day 4](https://zubairahm3d.medium.com/100-days-of-bug-bounty-day-4-6e589804d2a3?source=rss------bug_bounty_writeup-5)
-- [Top 10 Bugs That Still Pay in 2026](https://medium.com/@bugitrix/top-10-bugs-that-still-pay-in-2026-65f7e4001d42?source=rss------bug_bounty_writeup-5)
 - [How I Tricked OpenClaw Into Attacking Its Own Network: A NAT64 SSRF Bypass](https://infosecwriteups.com/how-i-tricked-openclaw-into-attacking-its-own-network-a-nat64-ssrf-bypass-9b93a7f11cd9?source=rss----7b722bfd1b8d---4)
 - [From Bug to Schema: Exploring Error-Based SQL Injection on an Authenticating Portal](https://infosecwriteups.com/from-bug-to-schema-exploring-error-based-sql-injection-on-an-authenticating-portal-be905548ada2?source=rss----7b722bfd1b8d---4)
 - [The Best Claude Code Setup for Bug Bounty Hunting](https://infosecwriteups.com/the-best-claude-code-setup-for-bug-bounty-hunting-a16a0a50e811?source=rss----7b722bfd1b8d---4)
