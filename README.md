@@ -978,7 +978,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Password Reset Flows: Three Token Tests Every Bug Hunter Should Know](https://medium.com/@molapomanuel709/password-reset-flows-three-token-tests-every-bug-hunter-should-know-89f21dcdabaf?source=rss------bug_bounty_writeup-5)
 - [How I Use AI to Understand Applications Instead of Just Generating Payloads](https://medium.com/@sairajthorat077/how-i-use-ai-to-understand-applications-instead-of-just-generating-payloads-bb14e1a67b69?source=rss------bug_bounty_writeup-5)
 - [100 Days of Bug Bounty — Day 10](https://zubairahm3d.medium.com/100-days-of-bug-bounty-day-10-b35e93600259?source=rss------bug_bounty_writeup-5)
-- [Easy Bug Series | #05](https://medium.com/@huntersoham/easy-bug-series-05-30618ca1bda1?source=rss------bug_bounty_writeup-5)
+- [Easy Bug Series | #05](https://systemweakness.com/easy-bug-series-05-30618ca1bda1?source=rss------bug_bounty_writeup-5)
 - [Road to First Bug Day 0/90](https://medium.com/@dakshrai9375/road-to-first-bug-day-0-90-46568355c121?source=rss------bug_bounty_writeup-5)
 - [When Deleting the Default Workspace Made the Entire Account Unusable](https://medium.com/@ankitrathva/when-deleting-the-default-workspace-made-the-entire-account-unusable-9f7950e60054?source=rss------bug_bounty_writeup-5)
 - [How I Tricked OpenClaw Into Attacking Its Own Network: A NAT64 SSRF Bypass](https://infosecwriteups.com/how-i-tricked-openclaw-into-attacking-its-own-network-a-nat64-ssrf-bypass-9b93a7f11cd9?source=rss----7b722bfd1b8d---4)
