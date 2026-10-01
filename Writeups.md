@@ -1,6 +1,9 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How I Use AI to Understand Applications Instead of Just Generating Payloads](https://medium.com/@sairajthorat077/how-i-use-ai-to-understand-applications-instead-of-just-generating-payloads-bb14e1a67b69?source=rss------bug_bounty_writeup-5)
+- [100 Days of Bug Bounty — Day 10](https://zubairahm3d.medium.com/100-days-of-bug-bounty-day-10-b35e93600259?source=rss------bug_bounty_writeup-5)
+- [Easy Bug Series | #05](https://medium.com/@huntersoham/easy-bug-series-05-30618ca1bda1?source=rss------bug_bounty_writeup-5)
 - [Road to First Bug Day 0/90](https://medium.com/@dakshrai9375/road-to-first-bug-day-0-90-46568355c121?source=rss------bug_bounty_writeup-5)
 - [When Deleting the Default Workspace Made the Entire Account Unusable](https://medium.com/@ankitrathva/when-deleting-the-default-workspace-made-the-entire-account-unusable-9f7950e60054?source=rss------bug_bounty_writeup-5)
 - [$10,000 Bounty: How I Chained Weak APK Encryption and a JWT Cookie for Full Admin Access](https://medium.com/@DarkyOS/10-000-bounty-how-i-chained-weak-apk-encryption-and-a-jwt-cookie-for-full-admin-access-fccd7496a650?source=rss------bug_bounty_writeup-5)
@@ -8,9 +11,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How a Simple Negative Quantity Exposed a Serious Checkout Logic Flaw](https://medium.com/@kittubadri22/how-a-simple-negative-quantity-exposed-a-serious-checkout-logic-flaw-0ba3298cb622?source=rss------bug_bounty_writeup-5)
 - [The Easy Bug Series | #04](https://medium.com/@huntersoham/the-easy-bug-series-04-529f49e9717f?source=rss------bug_bounty_writeup-5)
 - [When the Wall Has a Door: A Bug Hunter’s Guide to CSP Bypass](https://osintteam.blog/when-the-wall-has-a-door-a-bug-hunters-guide-to-csp-bypass-f00717fcbcd1?source=rss------bug_bounty_writeup-5)
-- [Intigriti September 2026 CTF Write-Up: Exploiting UNION-Based SQL Injection in Critter Gallery](https://medium.com/@zabedullahpoyel/intigriti-september-2026-ctf-write-up-exploiting-union-based-sql-injection-in-critter-gallery-6a18d25e397c?source=rss------bug_bounty_writeup-5)
-- [From Payment Metadata to Unauthorized Subscription Access](https://medium.com/@nader3bnaser/from-payment-metadata-to-unauthorized-subscription-access-2ace7bc7bd69?source=rss------bug_bounty_writeup-5)
-- [3 month bug bounty plan!](https://cordi0.medium.com/3-month-bug-bounty-plan-71c190a2dec4?source=rss------bug_bounty_writeup-5)
 - [How I Tricked OpenClaw Into Attacking Its Own Network: A NAT64 SSRF Bypass](https://infosecwriteups.com/how-i-tricked-openclaw-into-attacking-its-own-network-a-nat64-ssrf-bypass-9b93a7f11cd9?source=rss----7b722bfd1b8d---4)
 - [From Bug to Schema: Exploring Error-Based SQL Injection on an Authenticating Portal](https://infosecwriteups.com/from-bug-to-schema-exploring-error-based-sql-injection-on-an-authenticating-portal-be905548ada2?source=rss----7b722bfd1b8d---4)
 - [The Best Claude Code Setup for Bug Bounty Hunting](https://infosecwriteups.com/the-best-claude-code-setup-for-bug-bounty-hunting-a16a0a50e811?source=rss----7b722bfd1b8d---4)
