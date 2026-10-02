@@ -971,6 +971,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [HTTP Request Smuggling &lpar;TE.CL&rpar; to Session Hijacking via GraphQL](https://gentilsecurity.medium.com/http-request-smuggling-te-cl-to-session-hijacking-via-graphql-303f14dcec82?source=rss------bug_bounty_writeup-5)
 - [Broken Object Level Authorization &lpar;BOLA / IDOR&rpar; in Linktree GraphQL API Allows Unauthorized…](https://medium.com/@apop69166/broken-object-level-authorization-bola-idor-in-linktree-graphql-api-allows-unauthorized-93c233e5a357?source=rss------bug_bounty_writeup-5)
 - [Exposure of Shareable AWS S3 Pre-Signed Download URLs for Paid Digital Products](https://medium.com/@apop69166/exposure-of-shareable-aws-s3-pre-signed-download-urls-for-paid-digital-products-8e7dbef9fab3?source=rss------bug_bounty_writeup-5)
 - [Broken Function Level Authorization in Linktree GraphQL API Allows Lower-Privileged Admins to…](https://medium.com/@apop69166/broken-function-level-authorization-in-linktree-graphql-api-allows-lower-privileged-admins-to-5d53185b3693?source=rss------bug_bounty_writeup-5)
@@ -980,7 +981,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [100 Days of Bug Bounty — Day 10](https://zubairahm3d.medium.com/100-days-of-bug-bounty-day-10-b35e93600259?source=rss------bug_bounty_writeup-5)
 - [Easy Bug Series | #05](https://systemweakness.com/easy-bug-series-05-30618ca1bda1?source=rss------bug_bounty_writeup-5)
 - [Road to First Bug Day 0/90](https://medium.com/@dakshrai9375/road-to-first-bug-day-0-90-46568355c121?source=rss------bug_bounty_writeup-5)
-- [When Deleting the Default Workspace Made the Entire Account Unusable](https://medium.com/@ankitrathva/when-deleting-the-default-workspace-made-the-entire-account-unusable-9f7950e60054?source=rss------bug_bounty_writeup-5)
 - [How I Tricked OpenClaw Into Attacking Its Own Network: A NAT64 SSRF Bypass](https://infosecwriteups.com/how-i-tricked-openclaw-into-attacking-its-own-network-a-nat64-ssrf-bypass-9b93a7f11cd9?source=rss----7b722bfd1b8d---4)
 - [From Bug to Schema: Exploring Error-Based SQL Injection on an Authenticating Portal](https://infosecwriteups.com/from-bug-to-schema-exploring-error-based-sql-injection-on-an-authenticating-portal-be905548ada2?source=rss----7b722bfd1b8d---4)
 - [The Best Claude Code Setup for Bug Bounty Hunting](https://infosecwriteups.com/the-best-claude-code-setup-for-bug-bounty-hunting-a16a0a50e811?source=rss----7b722bfd1b8d---4)
