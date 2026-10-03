@@ -971,6 +971,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How to Earn a Living Through Dropshipping: A Beginner’s Roadmap to Building an Online Business](https://medium.com/active-minds-hub/how-to-earn-a-living-through-dropshipping-a-beginners-roadmap-to-building-an-online-business-80a8a7336a46?source=rss------bug_bounty_writeup-5)
 - [Subdomain Enumeration in Bug Bounty](https://medium.com/@molapomanuel709/subdomain-enumeration-in-bug-bounty-1bc751f19bfc?source=rss------bug_bounty_writeup-5)
 - [HTTP Request Smuggling &lpar;TE.CL&rpar; to Session Hijacking via GraphQL](https://gentilsecurity.medium.com/http-request-smuggling-te-cl-to-session-hijacking-via-graphql-303f14dcec82?source=rss------bug_bounty_writeup-5)
 - [Broken Object Level Authorization &lpar;BOLA / IDOR&rpar; in Linktree GraphQL API Allows Unauthorized…](https://medium.com/@apop69166/broken-object-level-authorization-bola-idor-in-linktree-graphql-api-allows-unauthorized-93c233e5a357?source=rss------bug_bounty_writeup-5)
@@ -979,7 +980,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Server-Side reCAPTCHA Validation Bypass on /services/request-send.php](https://medium.com/@apop69166/server-side-recaptcha-validation-bypass-on-services-request-send-php-0e74076636f2?source=rss------bug_bounty_writeup-5)
 - [Password Reset Flows: Three Token Tests Every Bug Hunter Should Know](https://medium.com/@molapomanuel709/password-reset-flows-three-token-tests-every-bug-hunter-should-know-89f21dcdabaf?source=rss------bug_bounty_writeup-5)
 - [How I Use AI to Understand Applications Instead of Just Generating Payloads](https://medium.com/@sairajthorat077/how-i-use-ai-to-understand-applications-instead-of-just-generating-payloads-bb14e1a67b69?source=rss------bug_bounty_writeup-5)
-- [Easy Bug Series | #05](https://systemweakness.com/easy-bug-series-05-30618ca1bda1?source=rss------bug_bounty_writeup-5)
 - [How I Tricked OpenClaw Into Attacking Its Own Network: A NAT64 SSRF Bypass](https://infosecwriteups.com/how-i-tricked-openclaw-into-attacking-its-own-network-a-nat64-ssrf-bypass-9b93a7f11cd9?source=rss----7b722bfd1b8d---4)
 - [From Bug to Schema: Exploring Error-Based SQL Injection on an Authenticating Portal](https://infosecwriteups.com/from-bug-to-schema-exploring-error-based-sql-injection-on-an-authenticating-portal-be905548ada2?source=rss----7b722bfd1b8d---4)
 - [The Best Claude Code Setup for Bug Bounty Hunting](https://infosecwriteups.com/the-best-claude-code-setup-for-bug-bounty-hunting-a16a0a50e811?source=rss----7b722bfd1b8d---4)
