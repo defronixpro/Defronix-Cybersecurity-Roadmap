@@ -971,6 +971,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Account Pre-Hijacking &amp; Logic Bypass: How I Took Over Accounts on a Identity Platform](https://aboutal3b.medium.com/account-pre-hijacking-logic-bypass-how-i-took-over-accounts-on-a-identity-platform-b45be02804c7?source=rss------bug_bounty_writeup-5)
 - [How a Campaign Name Became a No-Click Data Exfiltration Primitive: A Deep Dive into CSV Formula…](https://medium.com/@arminqk/how-a-campaign-name-became-a-no-click-data-exfiltration-primitive-a-deep-dive-into-csv-formula-c676516147cc?source=rss------bug_bounty_writeup-5)
 - [From Named Pipe to SYSTEM: How I Found a Local Privilege Escalation in a Major Windows Application](https://sneharghya.medium.com/from-named-pipe-to-system-how-i-found-a-local-privilege-escalation-in-a-major-windows-application-6a77a179a461?source=rss------bug_bounty_writeup-5)
 - [A 403 Bypass Worth $900: How a Semicolon Exposed API Documentation](https://medium.com/@papjm/a-403-bypass-worth-900-how-a-semicolon-exposed-api-documentation-698eecaf9308?source=rss------bug_bounty_writeup-5)
@@ -980,7 +981,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How to Earn a Living Through Dropshipping: A Beginner’s Roadmap to Building an Online Business](https://medium.com/active-minds-hub/how-to-earn-a-living-through-dropshipping-a-beginners-roadmap-to-building-an-online-business-80a8a7336a46?source=rss------bug_bounty_writeup-5)
 - [Subdomain Enumeration in Bug Bounty](https://medium.com/@molapomanuel709/subdomain-enumeration-in-bug-bounty-1bc751f19bfc?source=rss------bug_bounty_writeup-5)
 - [HTTP Request Smuggling &lpar;TE.CL&rpar; to Session Hijacking via GraphQL](https://gentilsecurity.medium.com/http-request-smuggling-te-cl-to-session-hijacking-via-graphql-303f14dcec82?source=rss------bug_bounty_writeup-5)
-- [Broken Object Level Authorization &lpar;BOLA / IDOR&rpar; in Linktree GraphQL API Allows Unauthorized…](https://medium.com/@apop69166/broken-object-level-authorization-bola-idor-in-linktree-graphql-api-allows-unauthorized-93c233e5a357?source=rss------bug_bounty_writeup-5)
 - [How I Tricked OpenClaw Into Attacking Its Own Network: A NAT64 SSRF Bypass](https://infosecwriteups.com/how-i-tricked-openclaw-into-attacking-its-own-network-a-nat64-ssrf-bypass-9b93a7f11cd9?source=rss----7b722bfd1b8d---4)
 - [From Bug to Schema: Exploring Error-Based SQL Injection on an Authenticating Portal](https://infosecwriteups.com/from-bug-to-schema-exploring-error-based-sql-injection-on-an-authenticating-portal-be905548ada2?source=rss----7b722bfd1b8d---4)
 - [The Best Claude Code Setup for Bug Bounty Hunting](https://infosecwriteups.com/the-best-claude-code-setup-for-bug-bounty-hunting-a16a0a50e811?source=rss----7b722bfd1b8d---4)
