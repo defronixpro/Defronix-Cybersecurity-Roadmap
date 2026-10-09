@@ -971,16 +971,16 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Error-Based SQL Injection di Portal Perizinan Pemerintah Kabupaten [REDACTED] via Parameter id](https://icikiwirsol.medium.com/error-based-sql-injection-di-portal-perizinan-pemerintah-kabupaten-redacted-via-parameter-id-ba1ec54b7c42?source=rss------bug_bounty_writeup-5)
+- [Error-Based SQL Injection di Portal Berita Pemerintah kabupaten [REDACTED] via Parameter id_news](https://icikiwirsol.medium.com/error-based-sql-injection-di-portal-berita-pemerintah-kabupaten-redacted-via-parameter-id-news-c655489968b3?source=rss------bug_bounty_writeup-5)
+- [Reflected XSS di Portal Anggaran Pemerintah [REDACTED] via Parameter anggaran](https://icikiwirsol.medium.com/reflected-xss-di-portal-anggaran-pemerintah-redacted-via-parameter-anggaran-c757860dae22?source=rss------bug_bounty_writeup-5)
+- [Reflected XSS di Portal Pemerintah Kota [REDACTED] via Parameter Tahun pada Root Domain dan…](https://icikiwirsol.medium.com/reflected-xss-di-portal-pemerintah-kota-redacted-via-parameter-tahun-pada-root-domain-dan-b1c07f6e4a89?source=rss------bug_bounty_writeup-5)
+- [Exposed docker-compose.yml](https://icikiwirsol.medium.com/exposed-docker-compose-yml-dc21fed23311?source=rss------bug_bounty_writeup-5)
 - [How I Got Unlimited Office 365 Premium Memberships &amp; Unlimited LinkedIn Premium Vouchers](https://medium.com/@iamsecure1920/how-i-got-unlimited-office-365-premium-memberships-unlimited-linkedin-premium-vouchers-42ca4231e2af?source=rss------bug_bounty_writeup-5)
 - [How One Student Earned $1,030 From an Adobe Bug: A Bugitrix Case Study](https://medium.com/@bugitrix/how-one-student-earned-1-030-from-an-adobe-bug-a-bugitrix-case-study-fd25a99bbb90?source=rss------bug_bounty_writeup-5)
 - [Account Pre-Hijacking &amp; Logic Bypass: How I Took Over Accounts on a Identity Platform](https://aboutal3b.medium.com/account-pre-hijacking-logic-bypass-how-i-took-over-accounts-on-a-identity-platform-b45be02804c7?source=rss------bug_bounty_writeup-5)
 - [How a Campaign Name Became a No-Click Data Exfiltration Primitive: A Deep Dive into CSV Formula…](https://medium.com/@arminqk/how-a-campaign-name-became-a-no-click-data-exfiltration-primitive-a-deep-dive-into-csv-formula-c676516147cc?source=rss------bug_bounty_writeup-5)
 - [From Named Pipe to SYSTEM: How I Found a Local Privilege Escalation in a Major Windows Application](https://sneharghya.medium.com/from-named-pipe-to-system-how-i-found-a-local-privilege-escalation-in-a-major-windows-application-6a77a179a461?source=rss------bug_bounty_writeup-5)
-- [A 403 Bypass Worth $900: How a Semicolon Exposed API Documentation](https://medium.com/@papjm/a-403-bypass-worth-900-how-a-semicolon-exposed-api-documentation-698eecaf9308?source=rss------bug_bounty_writeup-5)
-- [An Old Password Reset Link Was Enough to Take Back the Account](https://medium.com/@nourammar877/an-old-password-reset-link-was-enough-to-take-back-the-account-cdf5c788e1e5?source=rss------bug_bounty_writeup-5)
-- [Easy Bug Series | #06](https://medium.com/@huntersoham/easy-bug-series-06-a80f948c773e?source=rss------bug_bounty_writeup-5)
-- [Stored XSS lead to full account take over](https://medium.com/@mo.muwafak2001/stored-xss-lead-to-full-account-take-over-d530e7f6b26a?source=rss------bug_bounty_writeup-5)
-- [How to Earn a Living Through Dropshipping: A Beginner’s Roadmap to Building an Online Business](https://medium.com/active-minds-hub/how-to-earn-a-living-through-dropshipping-a-beginners-roadmap-to-building-an-online-business-80a8a7336a46?source=rss------bug_bounty_writeup-5)
 - [How I Tricked OpenClaw Into Attacking Its Own Network: A NAT64 SSRF Bypass](https://infosecwriteups.com/how-i-tricked-openclaw-into-attacking-its-own-network-a-nat64-ssrf-bypass-9b93a7f11cd9?source=rss----7b722bfd1b8d---4)
 - [From Bug to Schema: Exploring Error-Based SQL Injection on an Authenticating Portal](https://infosecwriteups.com/from-bug-to-schema-exploring-error-based-sql-injection-on-an-authenticating-portal-be905548ada2?source=rss----7b722bfd1b8d---4)
 - [The Best Claude Code Setup for Bug Bounty Hunting](https://infosecwriteups.com/the-best-claude-code-setup-for-bug-bounty-hunting-a16a0a50e811?source=rss----7b722bfd1b8d---4)
