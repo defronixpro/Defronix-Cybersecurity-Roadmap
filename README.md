@@ -971,6 +971,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [One-Click Account Deletion: How a Direct Link Can Instantly Delete an Authenticated User’s Account](https://medium.com/@0xfalcon7/one-click-account-deletion-how-a-direct-link-can-instantly-delete-an-authenticated-users-account-4fb7c054fa3c?source=rss------bug_bounty_writeup-5)
 - [Error-Based SQL Injection di Portal Perizinan Pemerintah Kabupaten [REDACTED] via Parameter id](https://icikiwirsol.medium.com/error-based-sql-injection-di-portal-perizinan-pemerintah-kabupaten-redacted-via-parameter-id-ba1ec54b7c42?source=rss------bug_bounty_writeup-5)
 - [Error-Based SQL Injection di Portal Berita Pemerintah kabupaten [REDACTED] via Parameter id_news](https://icikiwirsol.medium.com/error-based-sql-injection-di-portal-berita-pemerintah-kabupaten-redacted-via-parameter-id-news-c655489968b3?source=rss------bug_bounty_writeup-5)
 - [Reflected XSS di Portal Anggaran Pemerintah [REDACTED] via Parameter anggaran](https://icikiwirsol.medium.com/reflected-xss-di-portal-anggaran-pemerintah-redacted-via-parameter-anggaran-c757860dae22?source=rss------bug_bounty_writeup-5)
@@ -980,7 +981,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How One Student Earned $1,030 From an Adobe Bug: A Bugitrix Case Study](https://medium.com/@bugitrix/how-one-student-earned-1-030-from-an-adobe-bug-a-bugitrix-case-study-fd25a99bbb90?source=rss------bug_bounty_writeup-5)
 - [Account Pre-Hijacking &amp; Logic Bypass: How I Took Over Accounts on a Identity Platform](https://aboutal3b.medium.com/account-pre-hijacking-logic-bypass-how-i-took-over-accounts-on-a-identity-platform-b45be02804c7?source=rss------bug_bounty_writeup-5)
 - [How a Campaign Name Became a No-Click Data Exfiltration Primitive: A Deep Dive into CSV Formula…](https://medium.com/@arminqk/how-a-campaign-name-became-a-no-click-data-exfiltration-primitive-a-deep-dive-into-csv-formula-c676516147cc?source=rss------bug_bounty_writeup-5)
-- [From Named Pipe to SYSTEM: How I Found a Local Privilege Escalation in a Major Windows Application](https://sneharghya.medium.com/from-named-pipe-to-system-how-i-found-a-local-privilege-escalation-in-a-major-windows-application-6a77a179a461?source=rss------bug_bounty_writeup-5)
 - [How I Tricked OpenClaw Into Attacking Its Own Network: A NAT64 SSRF Bypass](https://infosecwriteups.com/how-i-tricked-openclaw-into-attacking-its-own-network-a-nat64-ssrf-bypass-9b93a7f11cd9?source=rss----7b722bfd1b8d---4)
 - [From Bug to Schema: Exploring Error-Based SQL Injection on an Authenticating Portal](https://infosecwriteups.com/from-bug-to-schema-exploring-error-based-sql-injection-on-an-authenticating-portal-be905548ada2?source=rss----7b722bfd1b8d---4)
 - [The Best Claude Code Setup for Bug Bounty Hunting](https://infosecwriteups.com/the-best-claude-code-setup-for-bug-bounty-hunting-a16a0a50e811?source=rss----7b722bfd1b8d---4)
