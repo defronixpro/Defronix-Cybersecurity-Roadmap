@@ -971,6 +971,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I Identified a Potential Subscription Payment Enforcement Issue Despite Insufficient Funds](https://medium.com/@molapomanuel709/how-i-identified-a-potential-subscription-payment-enforcement-issue-despite-insufficient-funds-f4bb0a9dc46c?source=rss------bug_bounty_writeup-5)
 - [LFI Bypass: Double URL Encoding Path Traversal](https://medium.com/@cybersecplayground/lfi-bypass-double-url-encoding-path-traversal-bcfe0ebaaaa5?source=rss------bug_bounty_writeup-5)
 - [One-Click Account Deletion: How a Direct Link Can Instantly Delete an Authenticated User’s Account](https://medium.com/@0xfalcon7/one-click-account-deletion-how-a-direct-link-can-instantly-delete-an-authenticated-users-account-4fb7c054fa3c?source=rss------bug_bounty_writeup-5)
 - [Error-Based SQL Injection di Portal Perizinan Pemerintah Kabupaten [REDACTED] via Parameter id](https://icikiwirsol.medium.com/error-based-sql-injection-di-portal-perizinan-pemerintah-kabupaten-redacted-via-parameter-id-ba1ec54b7c42?source=rss------bug_bounty_writeup-5)
@@ -980,7 +981,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Exposed docker-compose.yml](https://icikiwirsol.medium.com/exposed-docker-compose-yml-dc21fed23311?source=rss------bug_bounty_writeup-5)
 - [How I Got Unlimited Office 365 Premium Memberships &amp; Unlimited LinkedIn Premium Vouchers](https://medium.com/@iamsecure1920/how-i-got-unlimited-office-365-premium-memberships-unlimited-linkedin-premium-vouchers-42ca4231e2af?source=rss------bug_bounty_writeup-5)
 - [How One Student Earned $1,030 From an Adobe Bug: A Bugitrix Case Study](https://medium.com/@bugitrix/how-one-student-earned-1-030-from-an-adobe-bug-a-bugitrix-case-study-fd25a99bbb90?source=rss------bug_bounty_writeup-5)
-- [Account Pre-Hijacking &amp; Logic Bypass: How I Took Over Accounts on a Identity Platform](https://aboutal3b.medium.com/account-pre-hijacking-logic-bypass-how-i-took-over-accounts-on-a-identity-platform-b45be02804c7?source=rss------bug_bounty_writeup-5)
 - [How I Tricked OpenClaw Into Attacking Its Own Network: A NAT64 SSRF Bypass](https://infosecwriteups.com/how-i-tricked-openclaw-into-attacking-its-own-network-a-nat64-ssrf-bypass-9b93a7f11cd9?source=rss----7b722bfd1b8d---4)
 - [From Bug to Schema: Exploring Error-Based SQL Injection on an Authenticating Portal](https://infosecwriteups.com/from-bug-to-schema-exploring-error-based-sql-injection-on-an-authenticating-portal-be905548ada2?source=rss----7b722bfd1b8d---4)
 - [The Best Claude Code Setup for Bug Bounty Hunting](https://infosecwriteups.com/the-best-claude-code-setup-for-bug-bounty-hunting-a16a0a50e811?source=rss----7b722bfd1b8d---4)
