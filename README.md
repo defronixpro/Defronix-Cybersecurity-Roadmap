@@ -971,6 +971,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [I Asked How Guests Get Their Identity — and Found a Meeting Logic Flaw](https://medium.com/@moatymohamed897/i-asked-how-guests-get-their-identity-and-found-a-meeting-logic-flaw-66252694b409?source=rss------bug_bounty_writeup-5)
+- [$8,800 for a Redirect Nobody Validated: Stealing OAuth Tokens Through an Open Redirect](https://medium.com/@t4nv1/8-800-for-a-redirect-nobody-validated-stealing-oauth-tokens-through-an-open-redirect-7645d4122944?source=rss------bug_bounty_writeup-5)
 - [Reflected XSS pada Dua Parameter Berbeda di Portal Pemerintah Kabupaten [REDACTED]](https://icikiwirsol.medium.com/reflected-xss-pada-dua-parameter-berbeda-di-portal-pemerintah-kabupaten-redacted-0449e740c2e6?source=rss------bug_bounty_writeup-5)
 - [How I Found a JWT Signature Verification Flaw Vulnerability | by Samadhan Shimple](https://samadhanshimple.medium.com/how-i-found-a-jwt-signature-verification-flaw-vulnerability-by-samadhan-shimple-6707b1a157cc?source=rss------bug_bounty_writeup-5)
 - [How I Identified a Potential Subscription Payment Enforcement Issue Despite Insufficient Funds](https://medium.com/@molapomanuel709/how-i-identified-a-potential-subscription-payment-enforcement-issue-despite-insufficient-funds-f4bb0a9dc46c?source=rss------bug_bounty_writeup-5)
@@ -979,8 +981,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Error-Based SQL Injection di Portal Perizinan Pemerintah Kabupaten [REDACTED] via Parameter id](https://icikiwirsol.medium.com/error-based-sql-injection-di-portal-perizinan-pemerintah-kabupaten-redacted-via-parameter-id-ba1ec54b7c42?source=rss------bug_bounty_writeup-5)
 - [Error-Based SQL Injection di Portal Berita Pemerintah kabupaten [REDACTED] via Parameter id_news](https://icikiwirsol.medium.com/error-based-sql-injection-di-portal-berita-pemerintah-kabupaten-redacted-via-parameter-id-news-c655489968b3?source=rss------bug_bounty_writeup-5)
 - [Reflected XSS di Portal Anggaran Pemerintah [REDACTED] via Parameter anggaran](https://icikiwirsol.medium.com/reflected-xss-di-portal-anggaran-pemerintah-redacted-via-parameter-anggaran-c757860dae22?source=rss------bug_bounty_writeup-5)
-- [Reflected XSS di Portal Pemerintah Kota [REDACTED] via Parameter Tahun pada Root Domain dan…](https://icikiwirsol.medium.com/reflected-xss-di-portal-pemerintah-kota-redacted-via-parameter-tahun-pada-root-domain-dan-b1c07f6e4a89?source=rss------bug_bounty_writeup-5)
-- [Exposed docker-compose.yml](https://icikiwirsol.medium.com/exposed-docker-compose-yml-dc21fed23311?source=rss------bug_bounty_writeup-5)
 - [How I Tricked OpenClaw Into Attacking Its Own Network: A NAT64 SSRF Bypass](https://infosecwriteups.com/how-i-tricked-openclaw-into-attacking-its-own-network-a-nat64-ssrf-bypass-9b93a7f11cd9?source=rss----7b722bfd1b8d---4)
 - [From Bug to Schema: Exploring Error-Based SQL Injection on an Authenticating Portal](https://infosecwriteups.com/from-bug-to-schema-exploring-error-based-sql-injection-on-an-authenticating-portal-be905548ada2?source=rss----7b722bfd1b8d---4)
 - [The Best Claude Code Setup for Bug Bounty Hunting](https://infosecwriteups.com/the-best-claude-code-setup-for-bug-bounty-hunting-a16a0a50e811?source=rss----7b722bfd1b8d---4)
