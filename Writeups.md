@@ -3,7 +3,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 <!-- WRITEUPS:START -->
 - [How a Free Trial Led to Broken Access Control](https://medium.com/@a7medsalah169/how-a-free-trial-led-to-broken-access-control-537488544be0?source=rss------bug_bounty_writeup-5)
 - [An Email Address Was Enough: Two Account Deletion Findings Worth $850](https://medium.com/@papjm/an-email-address-was-enough-two-account-deletion-findings-worth-850-89037f87dbc0?source=rss------bug_bounty_writeup-5)
-- [Android Deep Link Hijacking to Account Takeover via OAuth Code Interception](https://medium.com/@ahmed.m.abd.elftah.abbas/android-deep-link-hijacking-to-account-takeover-via-oauth-code-interception-db24544254be?source=rss------bug_bounty_writeup-5)
+- [Android Deep Link Hijacking to Account Takeover via OAuth Code Interception](https://0x3bas.medium.com/android-deep-link-hijacking-to-account-takeover-via-oauth-code-interception-db24544254be?source=rss------bug_bounty_writeup-5)
 - [I found a secret door into an admin panel — and got paid $1350 for it](https://medium.com/@dhruv.gup707/i-found-a-secret-door-into-an-admin-panel-and-got-paid-1350-for-it-bb170e9974b0?source=rss------bug_bounty_writeup-5)
 - [RECON Part 1: Finding Subdomains — How a Hardcoded Password Got Me $$$$](https://medium.com/@dhruv.gup707/recon-part-1-finding-subdomains-how-a-hardcoded-password-got-me-91c99ae07988?source=rss------bug_bounty_writeup-5)
 - [How I found a Zero-Click Account Tack over via password rest link](https://cyghost.medium.com/how-i-found-a-zero-click-account-tack-over-via-password-rest-link-9f4eafbc9009?source=rss------bug_bounty_writeup-5)
