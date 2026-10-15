@@ -971,6 +971,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [I found a secret door into an admin panel — and got paid $1350 for it](https://medium.com/@dhruv.gup707/i-found-a-secret-door-into-an-admin-panel-and-got-paid-1350-for-it-bb170e9974b0?source=rss------bug_bounty_writeup-5)
+- [RECON Part 1: Finding Subdomains — How a Hardcoded Password Got Me $$$$](https://medium.com/@dhruv.gup707/recon-part-1-finding-subdomains-how-a-hardcoded-password-got-me-91c99ae07988?source=rss------bug_bounty_writeup-5)
 - [How I found a Zero-Click Account Tack over via password rest link](https://cyghost.medium.com/how-i-found-a-zero-click-account-tack-over-via-password-rest-link-9f4eafbc9009?source=rss------bug_bounty_writeup-5)
 - [Harmless Link Becomes RCE](https://bugatsec.medium.com/harmless-link-becomes-rce-78a55827ce26?source=rss------bug_bounty_writeup-5)
 - [Reflected XSS di Aplikasi Pelaporan Kecamatan Pemerintah Kabupaten [REDACTED] via Parameter id](https://icikiwirsol.medium.com/reflected-xss-di-aplikasi-pelaporan-kecamatan-pemerintah-kabupaten-redacted-via-parameter-id-1a19d6e1474c?source=rss------bug_bounty_writeup-5)
@@ -979,8 +981,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [10 GitHub OSINT Tools I Actually Reach For During Recon](https://nitingavhane.medium.com/10-github-osint-tools-i-actually-reach-for-during-recon-d192149f82e6?source=rss------bug_bounty_writeup-5)
 - [SQL injection vulnerability in WHERE clause allowing retrieval of hidden data &lpar;PortSwigger Lab…](https://vivek0x.medium.com/sql-injection-in-the-where-clause-breaking-out-of-a-hidden-category-filter-portswigger-lab-09ff7f3621fa?source=rss------bug_bounty_writeup-5)
 - [I Asked How Guests Get Their Identity — and Found a Meeting Logic Flaw](https://medium.com/@moatymohamed897/i-asked-how-guests-get-their-identity-and-found-a-meeting-logic-flaw-66252694b409?source=rss------bug_bounty_writeup-5)
-- [$8,800 for a Redirect Nobody Validated: Stealing OAuth Tokens Through an Open Redirect](https://medium.com/@t4nv1/8-800-for-a-redirect-nobody-validated-stealing-oauth-tokens-through-an-open-redirect-7645d4122944?source=rss------bug_bounty_writeup-5)
-- [Reflected XSS pada Dua Parameter Berbeda di Portal Pemerintah Kabupaten [REDACTED]](https://icikiwirsol.medium.com/reflected-xss-pada-dua-parameter-berbeda-di-portal-pemerintah-kabupaten-redacted-0449e740c2e6?source=rss------bug_bounty_writeup-5)
 - [How I Tricked OpenClaw Into Attacking Its Own Network: A NAT64 SSRF Bypass](https://infosecwriteups.com/how-i-tricked-openclaw-into-attacking-its-own-network-a-nat64-ssrf-bypass-9b93a7f11cd9?source=rss----7b722bfd1b8d---4)
 - [From Bug to Schema: Exploring Error-Based SQL Injection on an Authenticating Portal](https://infosecwriteups.com/from-bug-to-schema-exploring-error-based-sql-injection-on-an-authenticating-portal-be905548ada2?source=rss----7b722bfd1b8d---4)
 - [The Best Claude Code Setup for Bug Bounty Hunting](https://infosecwriteups.com/the-best-claude-code-setup-for-bug-bounty-hunting-a16a0a50e811?source=rss----7b722bfd1b8d---4)
