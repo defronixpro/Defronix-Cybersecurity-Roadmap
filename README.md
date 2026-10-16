@@ -971,16 +971,16 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Exposed MCP Server: From Recon to OAuth Security Flaws](https://scriptjacker.medium.com/exposed-mcp-server-from-recon-to-oauth-security-flaws-8c40084e0e6d?source=rss------bug_bounty_writeup-5)
+- [Exposed .env File di Subdomain Development Portal Pemerintah Kabupaten [REDACTED]: Kebocoran…](https://icikiwirsol.medium.com/exposed-env-file-di-subdomain-development-portal-pemerintah-kabupaten-redacted-kebocoran-6d740731d016?source=rss------bug_bounty_writeup-5)
+- [Exposed CGI printenv.pl](https://icikiwirsol.medium.com/exposed-cgi-printenv-pl-599f7bce435a?source=rss------bug_bounty_writeup-5)
+- [Exposed Source Code Archive &lpar;ekinerja.zip&rpar;](https://icikiwirsol.medium.com/exposed-source-code-archive-ekinerja-zip-6bd37068dce1?source=rss------bug_bounty_writeup-5)
 - [Write-Up: How I Found a Business Logic Flaw That Permanently Orphaned Teams on a Developer Platform](https://medium.com/@atefm5667/write-up-how-i-found-a-business-logic-flaw-that-permanently-orphaned-teams-on-a-developer-platform-6be675083192?source=rss------bug_bounty_writeup-5)
 - [Broken Access Control in a Study Platform’s Class Materials API When “Delete My Own Stuff” Became “D](https://medium.com/@yasser0hamoda1/broken-access-control-in-a-study-platforms-class-materials-api-when-delete-my-own-stuff-became-d-89160bd2c583?source=rss------bug_bounty_writeup-5)
 - [How a Free Trial Led to Broken Access Control](https://medium.com/@a7medsalah169/how-a-free-trial-led-to-broken-access-control-537488544be0?source=rss------bug_bounty_writeup-5)
 - [An Email Address Was Enough: Two Account Deletion Findings Worth $850](https://medium.com/@papjm/an-email-address-was-enough-two-account-deletion-findings-worth-850-89037f87dbc0?source=rss------bug_bounty_writeup-5)
 - [Android Deep Link Hijacking to Account Takeover via OAuth Code Interception](https://0x3bas.medium.com/android-deep-link-hijacking-to-account-takeover-via-oauth-code-interception-db24544254be?source=rss------bug_bounty_writeup-5)
 - [I found a secret door into an admin panel — and got paid $1350 for it](https://medium.com/@dhruv.gup707/i-found-a-secret-door-into-an-admin-panel-and-got-paid-1350-for-it-bb170e9974b0?source=rss------bug_bounty_writeup-5)
-- [RECON Part 1: Finding Subdomains — How a Hardcoded Password Got Me $$$$](https://medium.com/@dhruv.gup707/recon-part-1-finding-subdomains-how-a-hardcoded-password-got-me-91c99ae07988?source=rss------bug_bounty_writeup-5)
-- [How I found a Zero-Click Account Tack over via password rest link](https://cyghost.medium.com/how-i-found-a-zero-click-account-tack-over-via-password-rest-link-9f4eafbc9009?source=rss------bug_bounty_writeup-5)
-- [Harmless Link Becomes RCE](https://bugatsec.medium.com/harmless-link-becomes-rce-78a55827ce26?source=rss------bug_bounty_writeup-5)
-- [Reflected XSS di Aplikasi Pelaporan Kecamatan Pemerintah Kabupaten [REDACTED] via Parameter id](https://icikiwirsol.medium.com/reflected-xss-di-aplikasi-pelaporan-kecamatan-pemerintah-kabupaten-redacted-via-parameter-id-1a19d6e1474c?source=rss------bug_bounty_writeup-5)
 - [How I Tricked OpenClaw Into Attacking Its Own Network: A NAT64 SSRF Bypass](https://infosecwriteups.com/how-i-tricked-openclaw-into-attacking-its-own-network-a-nat64-ssrf-bypass-9b93a7f11cd9?source=rss----7b722bfd1b8d---4)
 - [From Bug to Schema: Exploring Error-Based SQL Injection on an Authenticating Portal](https://infosecwriteups.com/from-bug-to-schema-exploring-error-based-sql-injection-on-an-authenticating-portal-be905548ada2?source=rss----7b722bfd1b8d---4)
 - [The Best Claude Code Setup for Bug Bounty Hunting](https://infosecwriteups.com/the-best-claude-code-setup-for-bug-bounty-hunting-a16a0a50e811?source=rss----7b722bfd1b8d---4)
