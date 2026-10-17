@@ -971,6 +971,9 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Invalid Role Leads to Organization Lockout and Unauthorized API Access](https://medium.com/@banertheinrich/invalid-role-leads-to-organization-lockout-and-unauthorized-api-access-511a180c8fb9?source=rss------bug_bounty_writeup-5)
+- [My Bug Bounty Report Was Marked N/A. Then I Received $1,200.](https://medium.com/@hacker-zero/my-bug-bounty-report-was-marked-n-a-then-i-received-1-200-457508133978?source=rss------bug_bounty_writeup-5)
+- [$12,000 for Listening to How Long ‘No’ Takes: A Timing Attack That Recovered a Secret API Key](https://medium.com/@t4nv1/12-000-for-listening-to-how-long-no-takes-a-timing-attack-that-recovered-a-secret-api-key-b45f45acf2ef?source=rss------bug_bounty_writeup-5)
 - [Exposed MCP Server: From Recon to OAuth Security Flaws](https://scriptjacker.medium.com/exposed-mcp-server-from-recon-to-oauth-security-flaws-8c40084e0e6d?source=rss------bug_bounty_writeup-5)
 - [Exposed .env File di Subdomain Development Portal Pemerintah Kabupaten [REDACTED]: Kebocoran…](https://icikiwirsol.medium.com/exposed-env-file-di-subdomain-development-portal-pemerintah-kabupaten-redacted-kebocoran-6d740731d016?source=rss------bug_bounty_writeup-5)
 - [Exposed CGI printenv.pl](https://icikiwirsol.medium.com/exposed-cgi-printenv-pl-599f7bce435a?source=rss------bug_bounty_writeup-5)
@@ -978,9 +981,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Write-Up: How I Found a Business Logic Flaw That Permanently Orphaned Teams on a Developer Platform](https://medium.com/@atefm5667/write-up-how-i-found-a-business-logic-flaw-that-permanently-orphaned-teams-on-a-developer-platform-6be675083192?source=rss------bug_bounty_writeup-5)
 - [Broken Access Control in a Study Platform’s Class Materials API When “Delete My Own Stuff” Became “D](https://medium.com/@yasser0hamoda1/broken-access-control-in-a-study-platforms-class-materials-api-when-delete-my-own-stuff-became-d-89160bd2c583?source=rss------bug_bounty_writeup-5)
 - [How a Free Trial Led to Broken Access Control](https://medium.com/@a7medsalah169/how-a-free-trial-led-to-broken-access-control-537488544be0?source=rss------bug_bounty_writeup-5)
-- [An Email Address Was Enough: Two Account Deletion Findings Worth $850](https://medium.com/@papjm/an-email-address-was-enough-two-account-deletion-findings-worth-850-89037f87dbc0?source=rss------bug_bounty_writeup-5)
-- [Android Deep Link Hijacking to Account Takeover via OAuth Code Interception](https://0x3bas.medium.com/android-deep-link-hijacking-to-account-takeover-via-oauth-code-interception-db24544254be?source=rss------bug_bounty_writeup-5)
-- [I found a secret door into an admin panel — and got paid $1350 for it](https://medium.com/@dhruv.gup707/i-found-a-secret-door-into-an-admin-panel-and-got-paid-1350-for-it-bb170e9974b0?source=rss------bug_bounty_writeup-5)
 - [How I Tricked OpenClaw Into Attacking Its Own Network: A NAT64 SSRF Bypass](https://infosecwriteups.com/how-i-tricked-openclaw-into-attacking-its-own-network-a-nat64-ssrf-bypass-9b93a7f11cd9?source=rss----7b722bfd1b8d---4)
 - [From Bug to Schema: Exploring Error-Based SQL Injection on an Authenticating Portal](https://infosecwriteups.com/from-bug-to-schema-exploring-error-based-sql-injection-on-an-authenticating-portal-be905548ada2?source=rss----7b722bfd1b8d---4)
 - [The Best Claude Code Setup for Bug Bounty Hunting](https://infosecwriteups.com/the-best-claude-code-setup-for-bug-bounty-hunting-a16a0a50e811?source=rss----7b722bfd1b8d---4)
