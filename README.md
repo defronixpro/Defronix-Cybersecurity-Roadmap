@@ -971,6 +971,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Could This Have Been a €1,000 Bug? My First Accepted Bug Bounty Report](https://vicricsec.medium.com/could-this-have-been-a-1-000-bug-my-first-accepted-bug-bounty-report-e44b8c75cd2c?source=rss------bug_bounty_writeup-5)
 - [How I Bypassed a Region-Locked Comment Feature on a Public Bug Bounty Program](https://medium.com/@mostafa23110006/how-i-bypassed-a-region-locked-comment-feature-on-a-public-bug-bounty-program-b5c65fdfe67b?source=rss------bug_bounty_writeup-5)
 - [One Pending Invitation Was Enough to Restore Revoked Admin Privileges](https://cyghost.medium.com/one-pending-invitation-was-enough-to-restore-revoked-admin-privileges-9408c10f83d2?source=rss------bug_bounty_writeup-5)
 - [Invalid Role Leads to Organization Lockout and Unauthorized API Access](https://medium.com/@banertheinrich/invalid-role-leads-to-organization-lockout-and-unauthorized-api-access-511a180c8fb9?source=rss------bug_bounty_writeup-5)
@@ -979,7 +980,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Exposed MCP Server: From Recon to OAuth Security Flaws](https://scriptjacker.medium.com/exposed-mcp-server-from-recon-to-oauth-security-flaws-8c40084e0e6d?source=rss------bug_bounty_writeup-5)
 - [Exposed .env File di Subdomain Development Portal Pemerintah Kabupaten [REDACTED]: Kebocoran…](https://icikiwirsol.medium.com/exposed-env-file-di-subdomain-development-portal-pemerintah-kabupaten-redacted-kebocoran-6d740731d016?source=rss------bug_bounty_writeup-5)
 - [Exposed CGI printenv.pl](https://icikiwirsol.medium.com/exposed-cgi-printenv-pl-599f7bce435a?source=rss------bug_bounty_writeup-5)
-- [Exposed Source Code Archive &lpar;ekinerja.zip&rpar;](https://icikiwirsol.medium.com/exposed-source-code-archive-ekinerja-zip-6bd37068dce1?source=rss------bug_bounty_writeup-5)
 - [How I Tricked OpenClaw Into Attacking Its Own Network: A NAT64 SSRF Bypass](https://infosecwriteups.com/how-i-tricked-openclaw-into-attacking-its-own-network-a-nat64-ssrf-bypass-9b93a7f11cd9?source=rss----7b722bfd1b8d---4)
 - [From Bug to Schema: Exploring Error-Based SQL Injection on an Authenticating Portal](https://infosecwriteups.com/from-bug-to-schema-exploring-error-based-sql-injection-on-an-authenticating-portal-be905548ada2?source=rss----7b722bfd1b8d---4)
 - [The Best Claude Code Setup for Bug Bounty Hunting](https://infosecwriteups.com/the-best-claude-code-setup-for-bug-bounty-hunting-a16a0a50e811?source=rss----7b722bfd1b8d---4)
