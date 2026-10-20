@@ -971,6 +971,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [6 Hours = 25 Reflected XSS and 2 Open Redirects](https://medium.com/@belalmohamed3690/6-hours-25-reflected-xss-and-2-open-redirects-0c3da54f1c0b?source=rss------bug_bounty_writeup-5)
 - [IDOR in a Third-Party AI Chat Widget: Sensitive Data Exposure](https://infosecwriteups.com/idor-in-a-third-party-ai-chat-widget-sensitive-data-exposure-49bd64c01f3c?source=rss------bug_bounty_writeup-5)
 - [Insecure Direct Object Reference &lpar;IDOR&rpar; — Unauthorized Product Price Modification](https://medium.com/@mo.muwafak2001/insecure-direct-object-reference-idor-unauthorized-product-price-modification-4a4b3da74aad?source=rss------bug_bounty_writeup-5)
 - [Logistics Company Admin Panel Compromise](https://medium.com/@l4zz3rj0d/logistics-company-admin-panel-compromise-3060ce283624?source=rss------bug_bounty_writeup-5)
@@ -979,7 +980,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Could This Have Been a €1,000 Bug? My First Accepted Bug Bounty Report](https://vicricsec.medium.com/could-this-have-been-a-1-000-bug-my-first-accepted-bug-bounty-report-e44b8c75cd2c?source=rss------bug_bounty_writeup-5)
 - [How I Bypassed a Region-Locked Comment Feature on a Public Bug Bounty Program](https://medium.com/@mostafa23110006/how-i-bypassed-a-region-locked-comment-feature-on-a-public-bug-bounty-program-b5c65fdfe67b?source=rss------bug_bounty_writeup-5)
 - [One Pending Invitation Was Enough to Restore Revoked Admin Privileges](https://cyghost.medium.com/one-pending-invitation-was-enough-to-restore-revoked-admin-privileges-9408c10f83d2?source=rss------bug_bounty_writeup-5)
-- [Invalid Role Leads to Organization Lockout and Unauthorized API Access](https://medium.com/@banertheinrich/invalid-role-leads-to-organization-lockout-and-unauthorized-api-access-511a180c8fb9?source=rss------bug_bounty_writeup-5)
 - [How I Tricked OpenClaw Into Attacking Its Own Network: A NAT64 SSRF Bypass](https://infosecwriteups.com/how-i-tricked-openclaw-into-attacking-its-own-network-a-nat64-ssrf-bypass-9b93a7f11cd9?source=rss----7b722bfd1b8d---4)
 - [From Bug to Schema: Exploring Error-Based SQL Injection on an Authenticating Portal](https://infosecwriteups.com/from-bug-to-schema-exploring-error-based-sql-injection-on-an-authenticating-portal-be905548ada2?source=rss----7b722bfd1b8d---4)
 - [The Best Claude Code Setup for Bug Bounty Hunting](https://infosecwriteups.com/the-best-claude-code-setup-for-bug-bounty-hunting-a16a0a50e811?source=rss----7b722bfd1b8d---4)
