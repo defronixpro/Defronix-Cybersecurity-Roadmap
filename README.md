@@ -971,6 +971,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Apple HOF &lpar;July 2026&rpar;: A Logic Flaw in iCloud Family Sharing](https://medium.com/@anas-nady/apple-hof-july-2026-a-logic-flaw-in-icloud-family-sharing-b2400549fe2c?source=rss------bug_bounty_writeup-5)
 - [6 Hours = 25 Reflected XSS and 2 Open Redirects](https://medium.com/@belalmohamed3690/6-hours-25-reflected-xss-and-2-open-redirects-0c3da54f1c0b?source=rss------bug_bounty_writeup-5)
 - [IDOR in a Third-Party AI Chat Widget: Sensitive Data Exposure](https://infosecwriteups.com/idor-in-a-third-party-ai-chat-widget-sensitive-data-exposure-49bd64c01f3c?source=rss------bug_bounty_writeup-5)
 - [Insecure Direct Object Reference &lpar;IDOR&rpar; — Unauthorized Product Price Modification](https://medium.com/@mo.muwafak2001/insecure-direct-object-reference-idor-unauthorized-product-price-modification-4a4b3da74aad?source=rss------bug_bounty_writeup-5)
