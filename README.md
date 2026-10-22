@@ -971,13 +971,13 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [When a “Secret” S3 Link Isn’t So Secret: IDOR in a Whistleblowing System](https://medium.com/@prabaswaradaffa2/when-a-secret-s3-link-isnt-so-secret-idor-in-a-whistleblowing-system-4e6b47471435?source=rss------bug_bounty_writeup-5)
+- [I Started Learning Bug Bounty, and I Realized Recon Is Half the Battle](https://medium.com/@krishikachellappandian/i-started-learning-bug-bounty-and-i-realized-recon-is-half-the-battle-fee2a5ff940f?source=rss------bug_bounty_writeup-5)
 - [Apple HOF &lpar;July 2026&rpar;: A Logic Flaw in iCloud Family Sharing](https://medium.com/@anas-nady/apple-hof-july-2026-a-logic-flaw-in-icloud-family-sharing-b2400549fe2c?source=rss------bug_bounty_writeup-5)
 - [6 Hours = 25 Reflected XSS and 2 Open Redirects](https://medium.com/@belalmohamed3690/6-hours-25-reflected-xss-and-2-open-redirects-0c3da54f1c0b?source=rss------bug_bounty_writeup-5)
 - [IDOR in a Third-Party AI Chat Widget: Sensitive Data Exposure](https://infosecwriteups.com/idor-in-a-third-party-ai-chat-widget-sensitive-data-exposure-49bd64c01f3c?source=rss------bug_bounty_writeup-5)
 - [Insecure Direct Object Reference &lpar;IDOR&rpar; — Unauthorized Product Price Modification](https://medium.com/@mo.muwafak2001/insecure-direct-object-reference-idor-unauthorized-product-price-modification-4a4b3da74aad?source=rss------bug_bounty_writeup-5)
 - [Logistics Company Admin Panel Compromise](https://medium.com/@l4zz3rj0d/logistics-company-admin-panel-compromise-3060ce283624?source=rss------bug_bounty_writeup-5)
-- [XSS by Proxy: “Tricking the AI Into Reading Its Own Death Sentence Out Loud ”](https://meetcyber.net/xss-by-proxy-tricking-the-ai-into-reading-its-own-death-sentence-out-loud-2ae1811a4f88?source=rss------bug_bounty_writeup-5)
-- [$4,800 for an Equals Sign: CSV Formula Injection That Turns an Export Feature Into a Payload…](https://medium.com/@t4nv1/4-800-for-an-equals-sign-csv-formula-injection-that-turns-an-export-feature-into-a-payload-dfd73da69617?source=rss------bug_bounty_writeup-5)
 - [How I Tricked OpenClaw Into Attacking Its Own Network: A NAT64 SSRF Bypass](https://infosecwriteups.com/how-i-tricked-openclaw-into-attacking-its-own-network-a-nat64-ssrf-bypass-9b93a7f11cd9?source=rss----7b722bfd1b8d---4)
 - [From Bug to Schema: Exploring Error-Based SQL Injection on an Authenticating Portal](https://infosecwriteups.com/from-bug-to-schema-exploring-error-based-sql-injection-on-an-authenticating-portal-be905548ada2?source=rss----7b722bfd1b8d---4)
 - [The Best Claude Code Setup for Bug Bounty Hunting](https://infosecwriteups.com/the-best-claude-code-setup-for-bug-bounty-hunting-a16a0a50e811?source=rss----7b722bfd1b8d---4)
