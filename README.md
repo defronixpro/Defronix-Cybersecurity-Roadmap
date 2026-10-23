@@ -971,13 +971,13 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [The frontend knew who was an admin. The server forgot to check](https://osintteam.blog/the-frontend-knew-who-was-an-admin-the-server-forgot-to-check-dfde602843bf?source=rss------bug_bounty_writeup-5)
 - [How I found BAC leads to De-escalate the Administrator privilege](https://medium.com/@0xRaccoon/how-i-found-bac-leads-to-de-escalate-the-administrator-privilege-c855a1e61994?source=rss------bug_bounty_writeup-5)
 - [PHP2Shell: AI Uncovers Critical RCE Vulnerabilities Affecting 70% of the Internet](https://shaifsec.medium.com/php2shell-ai-uncovers-critical-rce-vulnerabilities-affecting-70-of-the-internet-aaf4e04d8008?source=rss------bug_bounty_writeup-5)
 - [When the PDF Started Oversharing: From XXE to Reading /etc/passwd](https://0mar-3lsayed.medium.com/when-the-pdf-started-oversharing-from-xxe-to-reading-etc-passwd-d19360a702a8?source=rss------bug_bounty_writeup-5)
 - [Rate Limiting Bypass: Step-by-Step Bug Bounty Guide](https://meetcyber.net/rate-limiting-bypass-step-by-step-bug-bounty-guide-958953831352?source=rss------bug_bounty_writeup-5)
 - [When a “Secret” S3 Link Isn’t So Secret: IDOR in a Whistleblowing System](https://medium.com/@prabaswaradaffa2/when-a-secret-s3-link-isnt-so-secret-idor-in-a-whistleblowing-system-4e6b47471435?source=rss------bug_bounty_writeup-5)
 - [I Started Learning Bug Bounty, and I Realized Recon Is Half the Battle](https://medium.com/@krishikachellappandian/i-started-learning-bug-bounty-and-i-realized-recon-is-half-the-battle-fee2a5ff940f?source=rss------bug_bounty_writeup-5)
-- [Apple HOF &lpar;July 2026&rpar;: A Logic Flaw in iCloud Family Sharing](https://medium.com/@anas-nady/apple-hof-july-2026-a-logic-flaw-in-icloud-family-sharing-b2400549fe2c?source=rss------bug_bounty_writeup-5)
 - [How I Tricked OpenClaw Into Attacking Its Own Network: A NAT64 SSRF Bypass](https://infosecwriteups.com/how-i-tricked-openclaw-into-attacking-its-own-network-a-nat64-ssrf-bypass-9b93a7f11cd9?source=rss----7b722bfd1b8d---4)
 - [From Bug to Schema: Exploring Error-Based SQL Injection on an Authenticating Portal](https://infosecwriteups.com/from-bug-to-schema-exploring-error-based-sql-injection-on-an-authenticating-portal-be905548ada2?source=rss----7b722bfd1b8d---4)
 - [The Best Claude Code Setup for Bug Bounty Hunting](https://infosecwriteups.com/the-best-claude-code-setup-for-bug-bounty-hunting-a16a0a50e811?source=rss----7b722bfd1b8d---4)
