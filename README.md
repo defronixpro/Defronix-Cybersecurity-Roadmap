@@ -971,6 +971,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [[Business Logic Error] Coupon Code Reuse and Stack leads to Buy Product for Free.](https://betabyte.medium.com/business-logic-error-coupon-code-reuse-and-stack-leads-to-buy-product-for-free-38420b02c94a?source=rss------bug_bounty_writeup-5)
 - [How to Buy a €666 Collectible for Free](https://medium.com/@0xst4rk007_37141/how-to-buy-a-666-collectible-for-free-40e9b837e069?source=rss------bug_bounty_writeup-5)
 - [The Empty JSON That Bypassed a Domain Purchase](https://medium.com/@belalramadanammar/the-empty-json-that-bypassed-a-domain-purchase-661b1b385c97?source=rss------bug_bounty_writeup-5)
 - [Finding Stored Cross-Site Scripting &lpar;XSS&rpar; in a Live Chat Feature | Bug Bounty Research](https://medium.com/@RAHUL-Nj/finding-stored-cross-site-scripting-xss-in-a-live-chat-feature-bug-bounty-research-181de99369ef?source=rss------bug_bounty_writeup-5)
@@ -980,7 +981,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [The frontend knew who was an admin. The server forgot to check](https://osintteam.blog/the-frontend-knew-who-was-an-admin-the-server-forgot-to-check-dfde602843bf?source=rss------bug_bounty_writeup-5)
 - [How I found BAC leads to De-escalate the Administrator privilege](https://medium.com/@0xRaccoon/how-i-found-bac-leads-to-de-escalate-the-administrator-privilege-c855a1e61994?source=rss------bug_bounty_writeup-5)
 - [PHP2Shell: AI Uncovers Critical RCE Vulnerabilities Affecting 70% of the Internet](https://shaifsec.medium.com/php2shell-ai-uncovers-critical-rce-vulnerabilities-affecting-70-of-the-internet-aaf4e04d8008?source=rss------bug_bounty_writeup-5)
-- [When the PDF Started Oversharing: From XXE to Reading /etc/passwd](https://0mar-3lsayed.medium.com/when-the-pdf-started-oversharing-from-xxe-to-reading-etc-passwd-d19360a702a8?source=rss------bug_bounty_writeup-5)
 - [How I Tricked OpenClaw Into Attacking Its Own Network: A NAT64 SSRF Bypass](https://infosecwriteups.com/how-i-tricked-openclaw-into-attacking-its-own-network-a-nat64-ssrf-bypass-9b93a7f11cd9?source=rss----7b722bfd1b8d---4)
 - [From Bug to Schema: Exploring Error-Based SQL Injection on an Authenticating Portal](https://infosecwriteups.com/from-bug-to-schema-exploring-error-based-sql-injection-on-an-authenticating-portal-be905548ada2?source=rss----7b722bfd1b8d---4)
 - [The Best Claude Code Setup for Bug Bounty Hunting](https://infosecwriteups.com/the-best-claude-code-setup-for-bug-bounty-hunting-a16a0a50e811?source=rss----7b722bfd1b8d---4)
