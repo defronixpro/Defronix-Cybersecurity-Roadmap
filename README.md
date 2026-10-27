@@ -971,6 +971,9 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [EternalBlue Step by Step: Exploiting MS17–010 SMBv1 in a Lab and Hardening Windows Against It for…](https://masimshahzad.medium.com/eternalblue-step-by-step-exploiting-ms17-010-smbv1-in-a-lab-and-hardening-windows-against-it-for-8732af2b04f4?source=rss------bug_bounty_writeup-5)
+- [Understanding and Mitigating Log4Shell CVE-2021–44228](https://masimshahzad.medium.com/understanding-and-mitigating-log4shell-cve-2021-44228-13bf7fec8057?source=rss------bug_bounty_writeup-5)
+- [That “Coupon Already Applied” Error Was Lying To Me — Intigriti Monthly Challenge Write-Up](https://medium.com/@hacker_np/that-coupon-already-applied-error-was-lying-to-me-intigriti-monthly-challenge-write-up-fa610e3f0514?source=rss------bug_bounty_writeup-5)
 - [Chained Information Disclosure and Broken Object-Level Authorization Leading to Cross-Account Data…](https://medium.com/@akashmotkar001/chained-information-disclosure-and-broken-object-level-authorization-leading-to-cross-account-data-4fceb2b92c16?source=rss------bug_bounty_writeup-5)
 - [“Intigriti October CTF Writeup: Exploiting Flawed Business Logic for a 100% Discount”](https://medium.com/@0xCaptainFahim/intigriti-october-ctf-writeup-exploiting-flawed-business-logic-for-a-100-discount-43a6b56ab9fa?source=rss------bug_bounty_writeup-5)
 - [[Business Logic Error] Coupon Code Reuse and Stack leads to Buy Product for Free.](https://betabyte.medium.com/business-logic-error-coupon-code-reuse-and-stack-leads-to-buy-product-for-free-38420b02c94a?source=rss------bug_bounty_writeup-5)
@@ -978,9 +981,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [The Empty JSON That Bypassed a Domain Purchase](https://medium.com/@belalramadanammar/the-empty-json-that-bypassed-a-domain-purchase-661b1b385c97?source=rss------bug_bounty_writeup-5)
 - [Finding Stored Cross-Site Scripting &lpar;XSS&rpar; in a Live Chat Feature | Bug Bounty Research](https://medium.com/@RAHUL-Nj/finding-stored-cross-site-scripting-xss-in-a-live-chat-feature-bug-bounty-research-181de99369ef?source=rss------bug_bounty_writeup-5)
 - [Cookie Cutter: Sensitive Data Stored in a Base64-Encoded Cookie](https://oxdzubair.medium.com/cookie-cutter-sensitive-data-stored-in-a-base64-encoded-cookie-webverse-labs-a3ceebb14f83?source=rss------bug_bounty_writeup-5)
-- [Breaking the Vault: Bypassing Chatbot Limits via Race Conditions &amp; Response Manipulation](https://medium.com/@aazzazy772/breaking-the-vault-bypassing-chatbot-limits-via-race-conditions-response-manipulation-e8f68ce3e354?source=rss------bug_bounty_writeup-5)
-- [From P4 to P1 — Day 1: Understanding Low-Severity Vulnerabilities in Bug Bounty Hunting](https://medium.com/@cyb3rD1vvya/from-p4-to-p1-day-1-understanding-low-severity-vulnerabilities-in-bug-bounty-hunting-6a82fb21b876?source=rss------bug_bounty_writeup-5)
-- [The frontend knew who was an admin. The server forgot to check](https://osintteam.blog/the-frontend-knew-who-was-an-admin-the-server-forgot-to-check-dfde602843bf?source=rss------bug_bounty_writeup-5)
 - [How I Tricked OpenClaw Into Attacking Its Own Network: A NAT64 SSRF Bypass](https://infosecwriteups.com/how-i-tricked-openclaw-into-attacking-its-own-network-a-nat64-ssrf-bypass-9b93a7f11cd9?source=rss----7b722bfd1b8d---4)
 - [From Bug to Schema: Exploring Error-Based SQL Injection on an Authenticating Portal](https://infosecwriteups.com/from-bug-to-schema-exploring-error-based-sql-injection-on-an-authenticating-portal-be905548ada2?source=rss----7b722bfd1b8d---4)
 - [The Best Claude Code Setup for Bug Bounty Hunting](https://infosecwriteups.com/the-best-claude-code-setup-for-bug-bounty-hunting-a16a0a50e811?source=rss----7b722bfd1b8d---4)
