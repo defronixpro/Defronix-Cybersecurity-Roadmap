@@ -971,6 +971,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Recon with a Purpose: Turning Small Clues into Hidden Attack Surfaces](https://medium.com/@mostafaelhlag1/recon-with-a-purpose-turning-small-clues-into-hidden-attack-surfaces-68101ef906c7?source=rss------bug_bounty_writeup-5)
 - [Catatan tentang Penetrasi Keamanan Sistem Oracle Identity Manager di U.S.](https://medium.com/@rdennisius/catatan-tentang-penetrasi-keamanan-sistem-oracle-identity-manager-di-u-s-c7bfb97e37fe?source=rss------bug_bounty_writeup-5)
 - [P3 — Missing Rate Limiting on Sensitive API Endpoint](https://medium.com/@akashmotkar001/p3-missing-rate-limiting-on-sensitive-api-endpoint-b6ff8aae734b?source=rss------bug_bounty_writeup-5)
 - [I Bypassed a Whitelist-Based SSRF Filter PortSwigger Expert Lab Walkthrough](https://medium.com/@sahariarhasan83/i-bypassed-a-whitelist-based-ssrf-filter-portswigger-expert-lab-walkthrough-84c7296f951e?source=rss------bug_bounty_writeup-5)
@@ -980,7 +981,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Chained Information Disclosure and Broken Object-Level Authorization Leading to Cross-Account Data…](https://medium.com/@akashmotkar001/chained-information-disclosure-and-broken-object-level-authorization-leading-to-cross-account-data-4fceb2b92c16?source=rss------bug_bounty_writeup-5)
 - [“Intigriti October CTF Writeup: Exploiting Flawed Business Logic for a 100% Discount”](https://medium.com/@0xCaptainFahim/intigriti-october-ctf-writeup-exploiting-flawed-business-logic-for-a-100-discount-43a6b56ab9fa?source=rss------bug_bounty_writeup-5)
 - [[Business Logic Error] Coupon Code Reuse and Stack leads to Buy Product for Free.](https://betabyte.medium.com/business-logic-error-coupon-code-reuse-and-stack-leads-to-buy-product-for-free-38420b02c94a?source=rss------bug_bounty_writeup-5)
-- [How to Buy a €666 Collectible for Free](https://medium.com/@0xst4rk007_37141/how-to-buy-a-666-collectible-for-free-40e9b837e069?source=rss------bug_bounty_writeup-5)
 - [How I Tricked OpenClaw Into Attacking Its Own Network: A NAT64 SSRF Bypass](https://infosecwriteups.com/how-i-tricked-openclaw-into-attacking-its-own-network-a-nat64-ssrf-bypass-9b93a7f11cd9?source=rss----7b722bfd1b8d---4)
 - [From Bug to Schema: Exploring Error-Based SQL Injection on an Authenticating Portal](https://infosecwriteups.com/from-bug-to-schema-exploring-error-based-sql-injection-on-an-authenticating-portal-be905548ada2?source=rss----7b722bfd1b8d---4)
 - [The Best Claude Code Setup for Bug Bounty Hunting](https://infosecwriteups.com/the-best-claude-code-setup-for-bug-bounty-hunting-a16a0a50e811?source=rss----7b722bfd1b8d---4)
