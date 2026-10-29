@@ -971,6 +971,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [6 Methods of Automating the Reconnaissance Method of Bug Bounty](https://meetcyber.net/6-methods-of-automating-the-reconnaissance-method-of-bug-bounty-583f9ce0d983?source=rss------bug_bounty_writeup-5)
 - [When OAuth Bypasses 2FA: Finding an Authentication Misconfiguration](https://medium.com/@ankitrathva/when-oauth-bypasses-2fa-finding-an-authentication-misconfiguration-fa1455e760a8?source=rss------bug_bounty_writeup-5)
 - [GraphQL Authorization Flaws: How One Missing Check in a Resolver Exposes Private Data](https://masimshahzad.medium.com/graphql-authorization-flaws-how-one-missing-check-in-a-resolver-exposes-private-data-e8709320188e?source=rss------bug_bounty_writeup-5)
 - [How to Find SSRF Bugs That Pay: Hunting Server Side Request Forgery in URL Fetch and Image Import…](https://masimshahzad.medium.com/how-to-find-ssrf-bugs-that-pay-hunting-server-side-request-forgery-in-url-fetch-and-image-import-63e5c93ab433?source=rss------bug_bounty_writeup-5)
@@ -980,7 +981,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [I Bypassed a Whitelist-Based SSRF Filter PortSwigger Expert Lab Walkthrough](https://medium.com/@sahariarhasan83/i-bypassed-a-whitelist-based-ssrf-filter-portswigger-expert-lab-walkthrough-84c7296f951e?source=rss------bug_bounty_writeup-5)
 - [EternalBlue Step by Step: Exploiting MS17–010 SMBv1 in a Lab and Hardening Windows Against It for…](https://masimshahzad.medium.com/eternalblue-step-by-step-exploiting-ms17-010-smbv1-in-a-lab-and-hardening-windows-against-it-for-8732af2b04f4?source=rss------bug_bounty_writeup-5)
 - [Understanding and Mitigating Log4Shell CVE-2021–44228](https://masimshahzad.medium.com/understanding-and-mitigating-log4shell-cve-2021-44228-13bf7fec8057?source=rss------bug_bounty_writeup-5)
-- [That “Coupon Already Applied” Error Was Lying To Me — Intigriti Monthly Challenge Write-Up](https://medium.com/@hacker_np/that-coupon-already-applied-error-was-lying-to-me-intigriti-monthly-challenge-write-up-fa610e3f0514?source=rss------bug_bounty_writeup-5)
 - [How I Tricked OpenClaw Into Attacking Its Own Network: A NAT64 SSRF Bypass](https://infosecwriteups.com/how-i-tricked-openclaw-into-attacking-its-own-network-a-nat64-ssrf-bypass-9b93a7f11cd9?source=rss----7b722bfd1b8d---4)
 - [From Bug to Schema: Exploring Error-Based SQL Injection on an Authenticating Portal](https://infosecwriteups.com/from-bug-to-schema-exploring-error-based-sql-injection-on-an-authenticating-portal-be905548ada2?source=rss----7b722bfd1b8d---4)
 - [The Best Claude Code Setup for Bug Bounty Hunting](https://infosecwriteups.com/the-best-claude-code-setup-for-bug-bounty-hunting-a16a0a50e811?source=rss----7b722bfd1b8d---4)
