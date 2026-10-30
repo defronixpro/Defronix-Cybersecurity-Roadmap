@@ -971,6 +971,9 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [ProxyShell Step by Step: How Three Exchange Flaws Chain Into Remote Code Execution in a Lab](https://masimshahzad.medium.com/proxyshell-step-by-step-how-three-exchange-flaws-chain-into-remote-code-execution-in-a-lab-b3bf73fba151?source=rss------bug_bounty_writeup-5)
+- [Spring4Shell Step by Step: How CVE 2022 22965 Turns Data Binding Into Remote Code Execution in a…](https://masimshahzad.medium.com/spring4shell-step-by-step-how-cve-2022-22965-turns-data-binding-into-remote-code-execution-in-a-b0de9a5adc3f?source=rss------bug_bounty_writeup-5)
+- [IDOR in Munshi: Changing a Purchase Inquiry ID Exposed Another User’s Thread](https://medium.com/@TheWildEye/idor-in-munshi-changing-a-purchase-inquiry-id-exposed-another-users-thread-540323a91bf5?source=rss------bug_bounty_writeup-5)
 - [My Second Year in Bug Bounty $$$$](https://infosecwriteups.com/my-second-year-in-bug-bounty-9a9fd009ee0d?source=rss----7b722bfd1b8d---4)
 - [My Second Year in Bug Bounty $$$$](https://infosecwriteups.com/my-second-year-in-bug-bounty-9a9fd009ee0d?source=rss------bug_bounty_writeup-5)
 - [6 Methods of Automating the Reconnaissance Method of Bug Bounty](https://meetcyber.net/6-methods-of-automating-the-reconnaissance-method-of-bug-bounty-583f9ce0d983?source=rss------bug_bounty_writeup-5)
@@ -979,9 +982,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How to Find SSRF Bugs That Pay: Hunting Server Side Request Forgery in URL Fetch and Image Import…](https://masimshahzad.medium.com/how-to-find-ssrf-bugs-that-pay-hunting-server-side-request-forgery-in-url-fetch-and-image-import-63e5c93ab433?source=rss------bug_bounty_writeup-5)
 - [Recon with a Purpose: Turning Small Clues into Hidden Attack Surfaces](https://medium.com/@mostafaelhlag1/recon-with-a-purpose-turning-small-clues-into-hidden-attack-surfaces-68101ef906c7?source=rss------bug_bounty_writeup-5)
 - [Catatan tentang Penetrasi Keamanan Sistem Oracle Identity Manager di U.S.](https://medium.com/@rdennisius/catatan-tentang-penetrasi-keamanan-sistem-oracle-identity-manager-di-u-s-c7bfb97e37fe?source=rss------bug_bounty_writeup-5)
-- [P3 — Missing Rate Limiting on Sensitive API Endpoint](https://medium.com/@akashmotkar001/p3-missing-rate-limiting-on-sensitive-api-endpoint-b6ff8aae734b?source=rss------bug_bounty_writeup-5)
-- [I Bypassed a Whitelist-Based SSRF Filter PortSwigger Expert Lab Walkthrough](https://medium.com/@sahariarhasan83/i-bypassed-a-whitelist-based-ssrf-filter-portswigger-expert-lab-walkthrough-84c7296f951e?source=rss------bug_bounty_writeup-5)
-- [EternalBlue Step by Step: Exploiting MS17–010 SMBv1 in a Lab and Hardening Windows Against It for…](https://masimshahzad.medium.com/eternalblue-step-by-step-exploiting-ms17-010-smbv1-in-a-lab-and-hardening-windows-against-it-for-8732af2b04f4?source=rss------bug_bounty_writeup-5)
 - [How I Tricked OpenClaw Into Attacking Its Own Network: A NAT64 SSRF Bypass](https://infosecwriteups.com/how-i-tricked-openclaw-into-attacking-its-own-network-a-nat64-ssrf-bypass-9b93a7f11cd9?source=rss----7b722bfd1b8d---4)
 - [From Bug to Schema: Exploring Error-Based SQL Injection on an Authenticating Portal](https://infosecwriteups.com/from-bug-to-schema-exploring-error-based-sql-injection-on-an-authenticating-portal-be905548ada2?source=rss----7b722bfd1b8d---4)
 - [The Best Claude Code Setup for Bug Bounty Hunting](https://infosecwriteups.com/the-best-claude-code-setup-for-bug-bounty-hunting-a16a0a50e811?source=rss----7b722bfd1b8d---4)
