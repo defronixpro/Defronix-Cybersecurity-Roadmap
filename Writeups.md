@@ -1,6 +1,8 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [My Second Year in Bug Bounty $$$$](https://infosecwriteups.com/my-second-year-in-bug-bounty-9a9fd009ee0d?source=rss----7b722bfd1b8d---4)
+- [My Second Year in Bug Bounty $$$$](https://infosecwriteups.com/my-second-year-in-bug-bounty-9a9fd009ee0d?source=rss------bug_bounty_writeup-5)
 - [6 Methods of Automating the Reconnaissance Method of Bug Bounty](https://meetcyber.net/6-methods-of-automating-the-reconnaissance-method-of-bug-bounty-583f9ce0d983?source=rss------bug_bounty_writeup-5)
 - [When OAuth Bypasses 2FA: Finding an Authentication Misconfiguration](https://medium.com/@ankitrathva/when-oauth-bypasses-2fa-finding-an-authentication-misconfiguration-fa1455e760a8?source=rss------bug_bounty_writeup-5)
 - [GraphQL Authorization Flaws: How One Missing Check in a Resolver Exposes Private Data](https://masimshahzad.medium.com/graphql-authorization-flaws-how-one-missing-check-in-a-resolver-exposes-private-data-e8709320188e?source=rss------bug_bounty_writeup-5)
@@ -10,7 +12,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [P3 — Missing Rate Limiting on Sensitive API Endpoint](https://medium.com/@akashmotkar001/p3-missing-rate-limiting-on-sensitive-api-endpoint-b6ff8aae734b?source=rss------bug_bounty_writeup-5)
 - [I Bypassed a Whitelist-Based SSRF Filter PortSwigger Expert Lab Walkthrough](https://medium.com/@sahariarhasan83/i-bypassed-a-whitelist-based-ssrf-filter-portswigger-expert-lab-walkthrough-84c7296f951e?source=rss------bug_bounty_writeup-5)
 - [EternalBlue Step by Step: Exploiting MS17–010 SMBv1 in a Lab and Hardening Windows Against It for…](https://masimshahzad.medium.com/eternalblue-step-by-step-exploiting-ms17-010-smbv1-in-a-lab-and-hardening-windows-against-it-for-8732af2b04f4?source=rss------bug_bounty_writeup-5)
-- [Understanding and Mitigating Log4Shell CVE-2021–44228](https://masimshahzad.medium.com/understanding-and-mitigating-log4shell-cve-2021-44228-13bf7fec8057?source=rss------bug_bounty_writeup-5)
 - [How I Tricked OpenClaw Into Attacking Its Own Network: A NAT64 SSRF Bypass](https://infosecwriteups.com/how-i-tricked-openclaw-into-attacking-its-own-network-a-nat64-ssrf-bypass-9b93a7f11cd9?source=rss----7b722bfd1b8d---4)
 - [From Bug to Schema: Exploring Error-Based SQL Injection on an Authenticating Portal](https://infosecwriteups.com/from-bug-to-schema-exploring-error-based-sql-injection-on-an-authenticating-portal-be905548ada2?source=rss----7b722bfd1b8d---4)
 - [The Best Claude Code Setup for Bug Bounty Hunting](https://infosecwriteups.com/the-best-claude-code-setup-for-bug-bounty-hunting-a16a0a50e811?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [BOLA: Enumerating an Entire Employee Directory Through a Predictable ID](https://infosecwriteups.com/bola-enumerating-an-entire-employee-directory-through-a-predictable-id-2fa11370e919?source=rss----7b722bfd1b8d---4)
 - [Corridor — A Simple Web CTF That Made Me Look Twice](https://infosecwriteups.com/corridor-a-simple-web-ctf-that-made-me-look-twice-668a430418f1?source=rss----7b722bfd1b8d---4)
 - [Host &amp; Network Penetration Testing: Post-Exploitation CTF 2 — eJPT &lpar;INE&rpar;](https://infosecwriteups.com/host-network-penetration-testing-post-exploitation-ctf-2-ejpt-ine-fab668917f29?source=rss----7b722bfd1b8d---4)
-- [VulnNet Roasted — TryHackMe Active Directory Write-up](https://infosecwriteups.com/vulnnet-roasted-tryhackme-active-directory-write-up-9cdfccacc13e?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
