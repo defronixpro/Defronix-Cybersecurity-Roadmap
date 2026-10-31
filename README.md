@@ -971,6 +971,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [One Login, Two Paths, One Critical Security Flaw CYSHIELD CTF 2026](https://isv0x1.medium.com/one-login-two-paths-one-critical-security-flaw-cyshield-ctf-2026-0ab6fc4fc0b1?source=rss------bug_bounty_writeup-5)
 - [ProxyShell Step by Step: How Three Exchange Flaws Chain Into Remote Code Execution in a Lab](https://masimshahzad.medium.com/proxyshell-step-by-step-how-three-exchange-flaws-chain-into-remote-code-execution-in-a-lab-b3bf73fba151?source=rss------bug_bounty_writeup-5)
 - [Spring4Shell Step by Step: How CVE 2022 22965 Turns Data Binding Into Remote Code Execution in a…](https://masimshahzad.medium.com/spring4shell-step-by-step-how-cve-2022-22965-turns-data-binding-into-remote-code-execution-in-a-b0de9a5adc3f?source=rss------bug_bounty_writeup-5)
 - [IDOR in Munshi: Changing a Purchase Inquiry ID Exposed Another User’s Thread](https://medium.com/@TheWildEye/idor-in-munshi-changing-a-purchase-inquiry-id-exposed-another-users-thread-540323a91bf5?source=rss------bug_bounty_writeup-5)
@@ -981,7 +982,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [GraphQL Authorization Flaws: How One Missing Check in a Resolver Exposes Private Data](https://masimshahzad.medium.com/graphql-authorization-flaws-how-one-missing-check-in-a-resolver-exposes-private-data-e8709320188e?source=rss------bug_bounty_writeup-5)
 - [How to Find SSRF Bugs That Pay: Hunting Server Side Request Forgery in URL Fetch and Image Import…](https://masimshahzad.medium.com/how-to-find-ssrf-bugs-that-pay-hunting-server-side-request-forgery-in-url-fetch-and-image-import-63e5c93ab433?source=rss------bug_bounty_writeup-5)
 - [Recon with a Purpose: Turning Small Clues into Hidden Attack Surfaces](https://medium.com/@mostafaelhlag1/recon-with-a-purpose-turning-small-clues-into-hidden-attack-surfaces-68101ef906c7?source=rss------bug_bounty_writeup-5)
-- [Catatan tentang Penetrasi Keamanan Sistem Oracle Identity Manager di U.S.](https://medium.com/@rdennisius/catatan-tentang-penetrasi-keamanan-sistem-oracle-identity-manager-di-u-s-c7bfb97e37fe?source=rss------bug_bounty_writeup-5)
 - [How I Tricked OpenClaw Into Attacking Its Own Network: A NAT64 SSRF Bypass](https://infosecwriteups.com/how-i-tricked-openclaw-into-attacking-its-own-network-a-nat64-ssrf-bypass-9b93a7f11cd9?source=rss----7b722bfd1b8d---4)
 - [From Bug to Schema: Exploring Error-Based SQL Injection on an Authenticating Portal](https://infosecwriteups.com/from-bug-to-schema-exploring-error-based-sql-injection-on-an-authenticating-portal-be905548ada2?source=rss----7b722bfd1b8d---4)
 - [The Best Claude Code Setup for Bug Bounty Hunting](https://infosecwriteups.com/the-best-claude-code-setup-for-bug-bounty-hunting-a16a0a50e811?source=rss----7b722bfd1b8d---4)
