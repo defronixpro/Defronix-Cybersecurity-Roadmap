@@ -971,6 +971,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How I Got Private Bug Bounty Invitations Without Hunting a Single Bug](https://cyghost.medium.com/how-i-got-private-bug-bounty-invitations-without-hunting-a-single-bug-b5026b6fa739?source=rss------bug_bounty_writeup-5)
 - [Intent Redirection to One-Click Account Takeover &lpar;But It’s a Duplicate&rpar;](https://abdelnasserr.medium.com/intent-redirection-to-one-click-account-takeover-but-its-a-duplicate-275f5a0aefaf?source=rss------bug_bounty_writeup-5)
 - [One-Click Cookie Theft via Deep Link XSS &lpar;But Deep Links Are Out of Scope&rpar;](https://abdelnasserr.medium.com/one-click-cookie-theft-via-deep-link-xss-but-deep-links-are-out-of-scope-b9cb1b43dacb?source=rss------bug_bounty_writeup-5)
 - [Stealing App Internal Files via Intent Redirection to Insecure WebView](https://abdelnasserr.medium.com/stealing-app-internal-files-via-intent-redirection-to-insecure-webview-9defd06aa0c6?source=rss------bug_bounty_writeup-5)
@@ -980,7 +981,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How I Found My First Bug: Information Disclosure via Exposed Directory Listing](https://medium.com/@atitofffff/how-i-found-my-first-bug-information-disclosure-via-exposed-directory-listing-5589bc190c5c?source=rss------bug_bounty_writeup-5)
 - [Rate Limit Bypass Techniques: A Bug Bounty Hunter’s Field Guide](https://osintteam.blog/rate-limit-bypass-techniques-a-bug-bounty-hunters-field-guide-44d5bfdad22c?source=rss------bug_bounty_writeup-5)
 - [One link, all your private chats: how AI assistants get turned against you](https://osintteam.blog/one-link-all-your-private-chats-how-ai-assistants-get-turned-against-you-51eb2019cd3c?source=rss------bug_bounty_writeup-5)
-- [How two forward slashes let anyone use a government website as a free file host](https://medium.com/@priyanshbhadoria5/how-two-forward-slashes-let-anyone-use-a-government-website-as-a-free-file-host-e12a44ef4064?source=rss------bug_bounty_writeup-5)
 - [My Second Year in Bug Bounty $$$$](https://infosecwriteups.com/my-second-year-in-bug-bounty-9a9fd009ee0d?source=rss----7b722bfd1b8d---4)
 - [How I Tricked OpenClaw Into Attacking Its Own Network: A NAT64 SSRF Bypass](https://infosecwriteups.com/how-i-tricked-openclaw-into-attacking-its-own-network-a-nat64-ssrf-bypass-9b93a7f11cd9?source=rss----7b722bfd1b8d---4)
 - [From Bug to Schema: Exploring Error-Based SQL Injection on an Authenticating Portal](https://infosecwriteups.com/from-bug-to-schema-exploring-error-based-sql-injection-on-an-authenticating-portal-be905548ada2?source=rss----7b722bfd1b8d---4)
