@@ -971,6 +971,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How a Broken Email Confirmation Flow Took Over Any Shopify Store](https://medium.com/@l4zz3rj0d/how-a-broken-email-confirmation-flow-took-over-any-shopify-store-0bc8ea8cc5ad?source=rss------bug_bounty_writeup-5)
 - [One Deep Link, Zero Validation, Full ATO &lpar;Again&rpar;](https://abdelnasserr.medium.com/one-deep-link-zero-validation-full-ato-again-294e21e2389b?source=rss------bug_bounty_writeup-5)
 - [How I Got Private Bug Bounty Invitations Without Hunting a Single Bug](https://cyghost.medium.com/how-i-got-private-bug-bounty-invitations-without-hunting-a-single-bug-b5026b6fa739?source=rss------bug_bounty_writeup-5)
 - [Intent Redirection to One-Click Account Takeover &lpar;But It’s a Duplicate&rpar;](https://abdelnasserr.medium.com/intent-redirection-to-one-click-account-takeover-but-its-a-duplicate-275f5a0aefaf?source=rss------bug_bounty_writeup-5)
@@ -980,7 +981,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [[$10,000] Google Jules — The Silent Code Heist - Stealing Github Codes Remotely](https://medium.com/@avinash_/10-000-google-jules-the-silent-code-heist-stealing-github-codes-remotely-9da6870ebec1?source=rss------bug_bounty_writeup-5)
 - [Network Security Testing Explained: What to Look For and How to Test It End to End](https://medium.com/@vigneshkumaroffsec/network-security-testing-explained-what-to-look-for-and-how-to-test-it-end-to-end-5cf118d50a4c?source=rss------bug_bounty_writeup-5)
 - [How I Found My First Bug: Information Disclosure via Exposed Directory Listing](https://medium.com/@atitofffff/how-i-found-my-first-bug-information-disclosure-via-exposed-directory-listing-5589bc190c5c?source=rss------bug_bounty_writeup-5)
-- [Rate Limit Bypass Techniques: A Bug Bounty Hunter’s Field Guide](https://osintteam.blog/rate-limit-bypass-techniques-a-bug-bounty-hunters-field-guide-44d5bfdad22c?source=rss------bug_bounty_writeup-5)
 - [My Second Year in Bug Bounty $$$$](https://infosecwriteups.com/my-second-year-in-bug-bounty-9a9fd009ee0d?source=rss----7b722bfd1b8d---4)
 - [How I Tricked OpenClaw Into Attacking Its Own Network: A NAT64 SSRF Bypass](https://infosecwriteups.com/how-i-tricked-openclaw-into-attacking-its-own-network-a-nat64-ssrf-bypass-9b93a7f11cd9?source=rss----7b722bfd1b8d---4)
 - [From Bug to Schema: Exploring Error-Based SQL Injection on an Authenticating Portal](https://infosecwriteups.com/from-bug-to-schema-exploring-error-based-sql-injection-on-an-authenticating-portal-be905548ada2?source=rss----7b722bfd1b8d---4)
