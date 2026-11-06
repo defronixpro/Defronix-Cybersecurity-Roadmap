@@ -971,7 +971,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
-- [Broken Access Control #2: I Flipped One Cookie From “false” to “true” and Walked Into the Admin…](https://zahidhussainshah.medium.com/broken-access-control-2-i-flipped-one-cookie-from-false-to-true-and-walked-into-the-admin-6bf2988c28e7?source=rss------bug_bounty_writeup-5)
+- [Broken Access Control #2: I Flipped One Cookie From “false” to “true” and Walked Into the Admin…](https://osintteam.blog/broken-access-control-2-i-flipped-one-cookie-from-false-to-true-and-walked-into-the-admin-6bf2988c28e7?source=rss------bug_bounty_writeup-5)
 - [How a Broken Email Confirmation Flow Took Over Any Shopify Store](https://medium.com/@l4zz3rj0d/how-a-broken-email-confirmation-flow-took-over-any-shopify-store-0bc8ea8cc5ad?source=rss------bug_bounty_writeup-5)
 - [One Deep Link, Zero Validation, Full ATO &lpar;Again&rpar;](https://abdelnasserr.medium.com/one-deep-link-zero-validation-full-ato-again-294e21e2389b?source=rss------bug_bounty_writeup-5)
 - [How I Got Private Bug Bounty Invitations Without Hunting a Single Bug](https://cyghost.medium.com/how-i-got-private-bug-bounty-invitations-without-hunting-a-single-bug-b5026b6fa739?source=rss------bug_bounty_writeup-5)
