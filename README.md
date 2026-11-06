@@ -971,6 +971,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Scrambled Isn’t Secret: What I Learned From an MD5-Hashed User ID](https://mufasa-noir.medium.com/scrambled-isnt-secret-what-i-learned-from-an-md5-hashed-user-id-5700e326699f?source=rss------bug_bounty_writeup-5)
+- [How Four Lines of Code Could Delete Any Facebook Photo Album](https://medium.com/@l4zz3rj0d/how-four-lines-of-code-could-delete-any-facebook-photo-album-68626d5766b6?source=rss------bug_bounty_writeup-5)
 - [Broken Access Control #2: I Flipped One Cookie From “false” to “true” and Walked Into the Admin…](https://osintteam.blog/broken-access-control-2-i-flipped-one-cookie-from-false-to-true-and-walked-into-the-admin-6bf2988c28e7?source=rss------bug_bounty_writeup-5)
 - [How a Broken Email Confirmation Flow Took Over Any Shopify Store](https://medium.com/@l4zz3rj0d/how-a-broken-email-confirmation-flow-took-over-any-shopify-store-0bc8ea8cc5ad?source=rss------bug_bounty_writeup-5)
 - [One Deep Link, Zero Validation, Full ATO &lpar;Again&rpar;](https://abdelnasserr.medium.com/one-deep-link-zero-validation-full-ato-again-294e21e2389b?source=rss------bug_bounty_writeup-5)
@@ -979,8 +981,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [One-Click Cookie Theft via Deep Link XSS &lpar;But Deep Links Are Out of Scope&rpar;](https://abdelnasserr.medium.com/one-click-cookie-theft-via-deep-link-xss-but-deep-links-are-out-of-scope-b9cb1b43dacb?source=rss------bug_bounty_writeup-5)
 - [Stealing App Internal Files via Intent Redirection to Insecure WebView](https://abdelnasserr.medium.com/stealing-app-internal-files-via-intent-redirection-to-insecure-webview-9defd06aa0c6?source=rss------bug_bounty_writeup-5)
 - [“Exploiting Trust: DOM Clobbering to Same-Origin Script Execution in Intigriti’s Registry…](https://medium.com/@0xCaptainFahim/exploiting-trust-dom-clobbering-to-same-origin-script-execution-in-intigritis-registry-61dffe119c69?source=rss------bug_bounty_writeup-5)
-- [[$10,000] Google Jules — The Silent Code Heist - Stealing Github Codes Remotely](https://medium.com/@avinash_/10-000-google-jules-the-silent-code-heist-stealing-github-codes-remotely-9da6870ebec1?source=rss------bug_bounty_writeup-5)
-- [Network Security Testing Explained: What to Look For and How to Test It End to End](https://medium.com/@vigneshkumaroffsec/network-security-testing-explained-what-to-look-for-and-how-to-test-it-end-to-end-5cf118d50a4c?source=rss------bug_bounty_writeup-5)
 - [My Second Year in Bug Bounty $$$$](https://infosecwriteups.com/my-second-year-in-bug-bounty-9a9fd009ee0d?source=rss----7b722bfd1b8d---4)
 - [How I Tricked OpenClaw Into Attacking Its Own Network: A NAT64 SSRF Bypass](https://infosecwriteups.com/how-i-tricked-openclaw-into-attacking-its-own-network-a-nat64-ssrf-bypass-9b93a7f11cd9?source=rss----7b722bfd1b8d---4)
 - [From Bug to Schema: Exploring Error-Based SQL Injection on an Authenticating Portal](https://infosecwriteups.com/from-bug-to-schema-exploring-error-based-sql-injection-on-an-authenticating-portal-be905548ada2?source=rss----7b722bfd1b8d---4)
