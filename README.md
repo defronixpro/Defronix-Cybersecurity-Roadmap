@@ -971,6 +971,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Four Vulnerabilities With Ai-Agent, One Subdomain : Exploring the Hidden Attack Surface of a…](https://medium.com/@0xmannaf/four-vulnerabilities-with-ai-agent-one-subdomain-exploring-the-hidden-attack-surface-of-a-9a7d073f785c?source=rss------bug_bounty_writeup-5)
+- [How Peloton Confused Authentication with Authorization](https://medium.com/@l4zz3rj0d/how-peloton-confused-authentication-with-authorization-714b8b70116e?source=rss------bug_bounty_writeup-5)
 - [P3 — Sensitive Information Disclosure Through Verbose API Error Messages](https://medium.com/@akashmotkar001/p3-sensitive-information-disclosure-through-verbose-api-error-messages-65fa5cc74a12?source=rss------bug_bounty_writeup-5)
 - [Scrambled Isn’t Secret: What I Learned From an MD5-Hashed User ID](https://mufasa-noir.medium.com/scrambled-isnt-secret-what-i-learned-from-an-md5-hashed-user-id-5700e326699f?source=rss------bug_bounty_writeup-5)
 - [How Four Lines of Code Could Delete Any Facebook Photo Album](https://medium.com/@l4zz3rj0d/how-four-lines-of-code-could-delete-any-facebook-photo-album-68626d5766b6?source=rss------bug_bounty_writeup-5)
@@ -979,8 +981,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [One Deep Link, Zero Validation, Full ATO &lpar;Again&rpar;](https://abdelnasserr.medium.com/one-deep-link-zero-validation-full-ato-again-294e21e2389b?source=rss------bug_bounty_writeup-5)
 - [How I Got Private Bug Bounty Invitations Without Hunting a Single Bug](https://cyghost.medium.com/how-i-got-private-bug-bounty-invitations-without-hunting-a-single-bug-b5026b6fa739?source=rss------bug_bounty_writeup-5)
 - [Intent Redirection to One-Click Account Takeover &lpar;But It’s a Duplicate&rpar;](https://abdelnasserr.medium.com/intent-redirection-to-one-click-account-takeover-but-its-a-duplicate-275f5a0aefaf?source=rss------bug_bounty_writeup-5)
-- [One-Click Cookie Theft via Deep Link XSS &lpar;But Deep Links Are Out of Scope&rpar;](https://abdelnasserr.medium.com/one-click-cookie-theft-via-deep-link-xss-but-deep-links-are-out-of-scope-b9cb1b43dacb?source=rss------bug_bounty_writeup-5)
-- [Stealing App Internal Files via Intent Redirection to Insecure WebView](https://abdelnasserr.medium.com/stealing-app-internal-files-via-intent-redirection-to-insecure-webview-9defd06aa0c6?source=rss------bug_bounty_writeup-5)
 - [My Second Year in Bug Bounty $$$$](https://infosecwriteups.com/my-second-year-in-bug-bounty-9a9fd009ee0d?source=rss----7b722bfd1b8d---4)
 - [How I Tricked OpenClaw Into Attacking Its Own Network: A NAT64 SSRF Bypass](https://infosecwriteups.com/how-i-tricked-openclaw-into-attacking-its-own-network-a-nat64-ssrf-bypass-9b93a7f11cd9?source=rss----7b722bfd1b8d---4)
 - [From Bug to Schema: Exploring Error-Based SQL Injection on an Authenticating Portal](https://infosecwriteups.com/from-bug-to-schema-exploring-error-based-sql-injection-on-an-authenticating-portal-be905548ada2?source=rss----7b722bfd1b8d---4)
