@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [How a Browser Extension Check Led to Uncovering CVE-2021–44528 &lpar;Open Redirect&rpar;](https://medium.com/@adarshnair135/how-a-browser-extension-check-led-to-uncovering-cve-2021-44528-open-redirect-3c525e0054ef?source=rss------bug_bounty_writeup-5)
 - [Intigriti BRP Challenge Write-up](https://medium.com/@laftman/intigriti-brp-challenge-write-up-187eded7dfe9?source=rss------bug_bounty_writeup-5)
 - [P3 — Insecure Direct Object Reference &lpar;IDOR&rpar; in User Profile API](https://medium.com/@akashmotkar001/p3-insecure-direct-object-reference-idor-in-user-profile-api-fc105aea6765?source=rss------bug_bounty_writeup-5)
 - [Thinking Like a Developer: My Journey to Tesla’s Top 50 Hall of Fame](https://asjadbutt.medium.com/thinking-like-a-developer-my-journey-to-teslas-top-50-hall-of-fame-37bec976796f?source=rss------bug_bounty_writeup-5)
@@ -10,7 +11,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [Four Vulnerabilities With Ai-Agent, One Subdomain : Exploring the Hidden Attack Surface of a…](https://medium.com/@0xmannaf/four-vulnerabilities-with-ai-agent-one-subdomain-exploring-the-hidden-attack-surface-of-a-9a7d073f785c?source=rss------bug_bounty_writeup-5)
 - [How Peloton Confused Authentication with Authorization](https://medium.com/@l4zz3rj0d/how-peloton-confused-authentication-with-authorization-714b8b70116e?source=rss------bug_bounty_writeup-5)
 - [P3 — Sensitive Information Disclosure Through Verbose API Error Messages](https://medium.com/@akashmotkar001/p3-sensitive-information-disclosure-through-verbose-api-error-messages-65fa5cc74a12?source=rss------bug_bounty_writeup-5)
-- [Scrambled Isn’t Secret: What I Learned From an MD5-Hashed User ID](https://mufasa-noir.medium.com/scrambled-isnt-secret-what-i-learned-from-an-md5-hashed-user-id-5700e326699f?source=rss------bug_bounty_writeup-5)
 - [My Second Year in Bug Bounty $$$$](https://infosecwriteups.com/my-second-year-in-bug-bounty-9a9fd009ee0d?source=rss----7b722bfd1b8d---4)
 - [How I Tricked OpenClaw Into Attacking Its Own Network: A NAT64 SSRF Bypass](https://infosecwriteups.com/how-i-tricked-openclaw-into-attacking-its-own-network-a-nat64-ssrf-bypass-9b93a7f11cd9?source=rss----7b722bfd1b8d---4)
 - [From Bug to Schema: Exploring Error-Based SQL Injection on an Authenticating Portal](https://infosecwriteups.com/from-bug-to-schema-exploring-error-based-sql-injection-on-an-authenticating-portal-be905548ada2?source=rss----7b722bfd1b8d---4)
