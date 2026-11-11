@@ -971,6 +971,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How a Login Token for a Forum Became a Login Token for OpenAI’s Internal Code](https://medium.com/@l4zz3rj0d/how-a-login-token-for-a-forum-became-a-login-token-for-openais-internal-code-0b865ed1469a?source=rss------bug_bounty_writeup-5)
+- [P2 — Unauthenticated AI Agent Access via Cloudflare Turnstile CAPTCHA Bypass Leading to Internal…](https://medium.com/@akashmotkar001/p2-unauthenticated-ai-agent-access-via-cloudflare-turnstile-captcha-bypass-leading-to-internal-527ab9ca1ce5?source=rss------bug_bounty_writeup-5)
 - [How a Browser Extension Check Led to Uncovering CVE-2021–44528 &lpar;Open Redirect&rpar;](https://medium.com/@adarshnair135/how-a-browser-extension-check-led-to-uncovering-cve-2021-44528-open-redirect-3c525e0054ef?source=rss------bug_bounty_writeup-5)
 - [Intigriti BRP Challenge Write-up](https://medium.com/@laftman/intigriti-brp-challenge-write-up-187eded7dfe9?source=rss------bug_bounty_writeup-5)
 - [P3 — Insecure Direct Object Reference &lpar;IDOR&rpar; in User Profile API](https://medium.com/@akashmotkar001/p3-insecure-direct-object-reference-idor-in-user-profile-api-fc105aea6765?source=rss------bug_bounty_writeup-5)
@@ -979,8 +981,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Chaining an Open Redirect Into Account Takeover &lpar;P1 · CVSS 9.0&rpar;](https://medium.com/@josekuttykunnelthazhebinu/chaining-an-open-redirect-into-account-takeover-p1-cvss-9-0-a1aa68abb172?source=rss------bug_bounty_writeup-5)
 - [Is Every CORS Misconfiguration a Vulnerability?](https://medium.com/@youssefelbakrey0/is-every-cors-misconfiguration-a-vulnerability-7eb0fbde1f45?source=rss------bug_bounty_writeup-5)
 - [Four Vulnerabilities With Ai-Agent, One Subdomain : Exploring the Hidden Attack Surface of a…](https://medium.com/@0xmannaf/four-vulnerabilities-with-ai-agent-one-subdomain-exploring-the-hidden-attack-surface-of-a-9a7d073f785c?source=rss------bug_bounty_writeup-5)
-- [How Peloton Confused Authentication with Authorization](https://medium.com/@l4zz3rj0d/how-peloton-confused-authentication-with-authorization-714b8b70116e?source=rss------bug_bounty_writeup-5)
-- [P3 — Sensitive Information Disclosure Through Verbose API Error Messages](https://medium.com/@akashmotkar001/p3-sensitive-information-disclosure-through-verbose-api-error-messages-65fa5cc74a12?source=rss------bug_bounty_writeup-5)
 - [My Second Year in Bug Bounty $$$$](https://infosecwriteups.com/my-second-year-in-bug-bounty-9a9fd009ee0d?source=rss----7b722bfd1b8d---4)
 - [How I Tricked OpenClaw Into Attacking Its Own Network: A NAT64 SSRF Bypass](https://infosecwriteups.com/how-i-tricked-openclaw-into-attacking-its-own-network-a-nat64-ssrf-bypass-9b93a7f11cd9?source=rss----7b722bfd1b8d---4)
 - [From Bug to Schema: Exploring Error-Based SQL Injection on an Authenticating Portal](https://infosecwriteups.com/from-bug-to-schema-exploring-error-based-sql-injection-on-an-authenticating-portal-be905548ada2?source=rss----7b722bfd1b8d---4)
