@@ -971,6 +971,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [One Modified Cookie, Any Account: Discovering a Session Forgery Vulnerability](https://0xben10.medium.com/one-modified-cookie-any-account-discovering-a-session-forgery-vulnerability-fdc9ec1ea451?source=rss------bug_bounty_writeup-5)
 - [How a Login Token for a Forum Became a Login Token for OpenAI’s Internal Code](https://medium.com/@l4zz3rj0d/how-a-login-token-for-a-forum-became-a-login-token-for-openais-internal-code-0b865ed1469a?source=rss------bug_bounty_writeup-5)
 - [P2 — Unauthenticated AI Agent Access via Cloudflare Turnstile CAPTCHA Bypass Leading to Internal…](https://medium.com/@akashmotkar001/p2-unauthenticated-ai-agent-access-via-cloudflare-turnstile-captcha-bypass-leading-to-internal-527ab9ca1ce5?source=rss------bug_bounty_writeup-5)
 - [How a Browser Extension Check Led to Uncovering CVE-2021–44528 &lpar;Open Redirect&rpar;](https://medium.com/@adarshnair135/how-a-browser-extension-check-led-to-uncovering-cve-2021-44528-open-redirect-3c525e0054ef?source=rss------bug_bounty_writeup-5)
@@ -980,7 +981,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How Egor Homakov Generated Free Money on Starbucks Gift Cards](https://medium.com/@l4zz3rj0d/how-egor-homakov-generated-free-money-on-starbucks-gift-cards-436396b02014?source=rss------bug_bounty_writeup-5)
 - [Chaining an Open Redirect Into Account Takeover &lpar;P1 · CVSS 9.0&rpar;](https://medium.com/@josekuttykunnelthazhebinu/chaining-an-open-redirect-into-account-takeover-p1-cvss-9-0-a1aa68abb172?source=rss------bug_bounty_writeup-5)
 - [Is Every CORS Misconfiguration a Vulnerability?](https://medium.com/@youssefelbakrey0/is-every-cors-misconfiguration-a-vulnerability-7eb0fbde1f45?source=rss------bug_bounty_writeup-5)
-- [Four Vulnerabilities With Ai-Agent, One Subdomain : Exploring the Hidden Attack Surface of a…](https://medium.com/@0xmannaf/four-vulnerabilities-with-ai-agent-one-subdomain-exploring-the-hidden-attack-surface-of-a-9a7d073f785c?source=rss------bug_bounty_writeup-5)
 - [My Second Year in Bug Bounty $$$$](https://infosecwriteups.com/my-second-year-in-bug-bounty-9a9fd009ee0d?source=rss----7b722bfd1b8d---4)
 - [How I Tricked OpenClaw Into Attacking Its Own Network: A NAT64 SSRF Bypass](https://infosecwriteups.com/how-i-tricked-openclaw-into-attacking-its-own-network-a-nat64-ssrf-bypass-9b93a7f11cd9?source=rss----7b722bfd1b8d---4)
 - [From Bug to Schema: Exploring Error-Based SQL Injection on an Authenticating Portal](https://infosecwriteups.com/from-bug-to-schema-exploring-error-based-sql-injection-on-an-authenticating-portal-be905548ada2?source=rss----7b722bfd1b8d---4)
