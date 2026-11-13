@@ -971,6 +971,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [The 2026 Bug Bounty Starter Kit: The Free Path From Your First Command to Your First Valid Bug](https://osintteam.blog/the-2026-bug-bounty-starter-kit-the-free-path-from-your-first-command-to-your-first-valid-bug-11640b716481?source=rss------bug_bounty_writeup-5)
+- [Broken Access Control: How a Client-Side Role Could Rewrite a Contract from Fixed-Term to Permanent](https://medium.com/@ziadh7987/broken-access-control-how-a-client-side-role-could-rewrite-a-contract-from-fixed-term-to-permanent-24e09acbecfe?source=rss------bug_bounty_writeup-5)
 - [Broken Access Control Missing Server-Side Authorization Allows Member to Access Billing Data and…](https://medium.com/@silent_hunter_/broken-access-control-missing-server-side-authorization-allows-member-to-access-billing-data-and-b75a1569013f?source=rss------bug_bounty_writeup-5)
 - [One Modified Cookie, Any Account: Discovering a Session Forgery Vulnerability](https://0xben10.medium.com/one-modified-cookie-any-account-discovering-a-session-forgery-vulnerability-fdc9ec1ea451?source=rss------bug_bounty_writeup-5)
 - [How a Login Token for a Forum Became a Login Token for OpenAI’s Internal Code](https://medium.com/@l4zz3rj0d/how-a-login-token-for-a-forum-became-a-login-token-for-openais-internal-code-0b865ed1469a?source=rss------bug_bounty_writeup-5)
@@ -979,8 +981,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Intigriti BRP Challenge Write-up](https://medium.com/@laftman/intigriti-brp-challenge-write-up-187eded7dfe9?source=rss------bug_bounty_writeup-5)
 - [P3 — Insecure Direct Object Reference &lpar;IDOR&rpar; in User Profile API](https://medium.com/@akashmotkar001/p3-insecure-direct-object-reference-idor-in-user-profile-api-fc105aea6765?source=rss------bug_bounty_writeup-5)
 - [Thinking Like a Developer: My Journey to Tesla’s Top 50 Hall of Fame](https://asjadbutt.medium.com/thinking-like-a-developer-my-journey-to-teslas-top-50-hall-of-fame-37bec976796f?source=rss------bug_bounty_writeup-5)
-- [How Egor Homakov Generated Free Money on Starbucks Gift Cards](https://medium.com/@l4zz3rj0d/how-egor-homakov-generated-free-money-on-starbucks-gift-cards-436396b02014?source=rss------bug_bounty_writeup-5)
-- [Chaining an Open Redirect Into Account Takeover &lpar;P1 · CVSS 9.0&rpar;](https://medium.com/@josekuttykunnelthazhebinu/chaining-an-open-redirect-into-account-takeover-p1-cvss-9-0-a1aa68abb172?source=rss------bug_bounty_writeup-5)
 - [My Second Year in Bug Bounty $$$$](https://infosecwriteups.com/my-second-year-in-bug-bounty-9a9fd009ee0d?source=rss----7b722bfd1b8d---4)
 - [How I Tricked OpenClaw Into Attacking Its Own Network: A NAT64 SSRF Bypass](https://infosecwriteups.com/how-i-tricked-openclaw-into-attacking-its-own-network-a-nat64-ssrf-bypass-9b93a7f11cd9?source=rss----7b722bfd1b8d---4)
 - [From Bug to Schema: Exploring Error-Based SQL Injection on an Authenticating Portal](https://infosecwriteups.com/from-bug-to-schema-exploring-error-based-sql-injection-on-an-authenticating-portal-be905548ada2?source=rss----7b722bfd1b8d---4)
