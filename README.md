@@ -971,6 +971,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [TryHackMe: Bounty Hacker — A Walkthrough](https://medium.com/@muhammad.anas.rah/tryhackme-bounty-hacker-a-walkthrough-d6386ffff855?source=rss------bug_bounty_writeup-5)
 - [The Internal Tool T-Mobile Forgot Was Facing the Public Internet](https://medium.com/@l4zz3rj0d/the-internal-tool-t-mobile-forgot-was-facing-the-public-internet-010ce4ee0894?source=rss------bug_bounty_writeup-5)
 - [How I Found an Admin Session That Refused to Die — A Role-Based Access Control Horror Story](https://medium.com/@muhameddkhalid/how-i-found-an-admin-session-that-refused-to-die-a-role-based-access-control-horror-story-f5673a2bb25d?source=rss------bug_bounty_writeup-5)
 - [How a one-line missing check let a declined invite delete a team’s passwords &lpar;CVE-2026–128970…](https://osintteam.blog/how-a-one-line-missing-check-let-a-declined-invite-delete-a-teams-passwords-cve-2026-128970-0133d2981b48?source=rss------bug_bounty_writeup-5)
@@ -981,7 +982,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Broken Access Control Missing Server-Side Authorization Allows Member to Access Billing Data and…](https://medium.com/@silent_hunter_/broken-access-control-missing-server-side-authorization-allows-member-to-access-billing-data-and-b75a1569013f?source=rss------bug_bounty_writeup-5)
 - [One Modified Cookie, Any Account: Discovering a Session Forgery Vulnerability](https://0xben10.medium.com/one-modified-cookie-any-account-discovering-a-session-forgery-vulnerability-fdc9ec1ea451?source=rss------bug_bounty_writeup-5)
 - [How a Login Token for a Forum Became a Login Token for OpenAI’s Internal Code](https://medium.com/@l4zz3rj0d/how-a-login-token-for-a-forum-became-a-login-token-for-openais-internal-code-0b865ed1469a?source=rss------bug_bounty_writeup-5)
-- [P2 — Unauthenticated AI Agent Access via Cloudflare Turnstile CAPTCHA Bypass Leading to Internal…](https://medium.com/@akashmotkar001/p2-unauthenticated-ai-agent-access-via-cloudflare-turnstile-captcha-bypass-leading-to-internal-527ab9ca1ce5?source=rss------bug_bounty_writeup-5)
 - [My Second Year in Bug Bounty $$$$](https://infosecwriteups.com/my-second-year-in-bug-bounty-9a9fd009ee0d?source=rss----7b722bfd1b8d---4)
 - [How I Tricked OpenClaw Into Attacking Its Own Network: A NAT64 SSRF Bypass](https://infosecwriteups.com/how-i-tricked-openclaw-into-attacking-its-own-network-a-nat64-ssrf-bypass-9b93a7f11cd9?source=rss----7b722bfd1b8d---4)
 - [From Bug to Schema: Exploring Error-Based SQL Injection on an Authenticating Portal](https://infosecwriteups.com/from-bug-to-schema-exploring-error-based-sql-injection-on-an-authenticating-portal-be905548ada2?source=rss----7b722bfd1b8d---4)
