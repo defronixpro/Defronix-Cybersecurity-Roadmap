@@ -971,6 +971,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How to Recover Data from Windows: A Complete Step-by-Step Guide](https://infosecwriteups.com/how-to-recover-data-from-windows-a-complete-step-by-step-guide-299b3a947bdf?source=rss----7b722bfd1b8d---4)
 - [The 2026 Bug Bounty Starter Kit: The Free Path From Your First Command to Your First Valid Bug](https://osintteam.blog/the-2026-bug-bounty-starter-kit-the-free-path-from-your-first-command-to-your-first-valid-bug-11640b716481?source=rss------bug_bounty_writeup-5)
 - [Broken Access Control: How a Client-Side Role Could Rewrite a Contract from Fixed-Term to Permanent](https://medium.com/@ziadh7987/broken-access-control-how-a-client-side-role-could-rewrite-a-contract-from-fixed-term-to-permanent-24e09acbecfe?source=rss------bug_bounty_writeup-5)
 - [Broken Access Control Missing Server-Side Authorization Allows Member to Access Billing Data and…](https://medium.com/@silent_hunter_/broken-access-control-missing-server-side-authorization-allows-member-to-access-billing-data-and-b75a1569013f?source=rss------bug_bounty_writeup-5)
@@ -990,7 +991,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Payment Bypass Flaw in TechPSC HUB](https://infosecwriteups.com/payment-bypass-flaw-in-techpsc-hub-863bb2f37b60?source=rss----7b722bfd1b8d---4)
 - [BOLA: Enumerating an Entire Employee Directory Through a Predictable ID](https://infosecwriteups.com/bola-enumerating-an-entire-employee-directory-through-a-predictable-id-2fa11370e919?source=rss----7b722bfd1b8d---4)
 - [Corridor — A Simple Web CTF That Made Me Look Twice](https://infosecwriteups.com/corridor-a-simple-web-ctf-that-made-me-look-twice-668a430418f1?source=rss----7b722bfd1b8d---4)
-- [Host &amp; Network Penetration Testing: Post-Exploitation CTF 2 — eJPT &lpar;INE&rpar;](https://infosecwriteups.com/host-network-penetration-testing-post-exploitation-ctf-2-ejpt-ine-fab668917f29?source=rss----7b722bfd1b8d---4)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
