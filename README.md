@@ -971,16 +971,16 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [How Trusting a Request Header Turned a Password Reset Into Account Takeover](https://medium.com/@l4zz3rj0d/how-trusting-a-request-header-turned-a-password-reset-into-account-takeover-b95223be8c94?source=rss------bug_bounty_writeup-5)
+- [I Started the Login. You Finished It. I Got Your Account.](https://medium.com/@ali.zamini/i-started-the-login-you-finished-it-i-got-your-account-2c51f98f6ccb?source=rss------bug_bounty_writeup-5)
+- [P2 Broken Access Control Allowing Unauthorized Account Email Modification and Account Takeover](https://medium.com/@akashmotkar001/p2-broken-access-control-allowing-unauthorized-account-email-modification-and-account-takeover-dea75b86edf1?source=rss------bug_bounty_writeup-5)
+- [I Ignored a NEXT_PUBLIC_ Token for a Week. Then It Unlocked Blind SQLi and the Whole Database](https://medium.com/@akash.sundaramoorthi1/i-ignored-a-next-public-token-for-a-week-then-it-unlocked-blind-sqli-and-the-whole-database-6b61f3c1e07d?source=rss------bug_bounty_writeup-5)
 - [Stored HTML Injection in Munshi: A Profile Name Reached the Support Email as HTML](https://medium.com/@TheWildEye/stored-html-injection-in-munshi-a-profile-name-reached-the-support-email-as-html-0fd4e946b6bf?source=rss------bug_bounty_writeup-5)
 - [Soft-Deleted, Still Editable: BOLA in Munshi’s Invoice API](https://medium.com/@TheWildEye/soft-deleted-still-editable-bola-in-munshis-invoice-api-93e82bfee165?source=rss------bug_bounty_writeup-5)
 - [AI Agent Internal System Prompt and Tool Schema Disclosure](https://medium.com/@akashmotkar001/ai-agent-internal-system-prompt-and-tool-schema-disclosure-619eb67b9bd9?source=rss------bug_bounty_writeup-5)
 - [Prompt Injection in Munshi AI Assistant Exposed Internal Backend Security Details](https://medium.com/@TheWildEye/prompt-injection-in-munshi-ai-assistant-exposed-internal-backend-security-details-174efb524244?source=rss------bug_bounty_writeup-5)
 - [How I Escalated from Operator to Admin on a Leading Travel Platform on Hackerone Via GraphQL…](https://medium.com/@sebasvargas2/cross-supplier-privilege-escalation-how-i-escalated-from-operator-to-admin-on-a-leading-travel-614a67f459ab?source=rss------bug_bounty_writeup-5)
 - [TryHackMe: Bounty Hacker — A Walkthrough](https://medium.com/@muhammad.anas.rah/tryhackme-bounty-hacker-a-walkthrough-d6386ffff855?source=rss------bug_bounty_writeup-5)
-- [The Internal Tool T-Mobile Forgot Was Facing the Public Internet](https://medium.com/@l4zz3rj0d/the-internal-tool-t-mobile-forgot-was-facing-the-public-internet-010ce4ee0894?source=rss------bug_bounty_writeup-5)
-- [How I Found an Admin Session That Refused to Die — A Role-Based Access Control Horror Story](https://medium.com/@muhameddkhalid/how-i-found-an-admin-session-that-refused-to-die-a-role-based-access-control-horror-story-f5673a2bb25d?source=rss------bug_bounty_writeup-5)
-- [How a one-line missing check let a declined invite delete a team’s passwords &lpar;CVE-2026–128970…](https://osintteam.blog/how-a-one-line-missing-check-let-a-declined-invite-delete-a-teams-passwords-cve-2026-128970-0133d2981b48?source=rss------bug_bounty_writeup-5)
-- [P4 Anonymous S3 Bucket Object Listing Leading to Cloud Storage Information Disclosure](https://medium.com/@akashmotkar001/p4anonymous-s3-bucket-object-listing-leading-to-cloud-storage-information-disclosure-555ee8a3e796?source=rss------bug_bounty_writeup-5)
 - [How to Recover Data from Windows: A Complete Step-by-Step Guide](https://infosecwriteups.com/how-to-recover-data-from-windows-a-complete-step-by-step-guide-299b3a947bdf?source=rss----7b722bfd1b8d---4)
 - [My Second Year in Bug Bounty $$$$](https://infosecwriteups.com/my-second-year-in-bug-bounty-9a9fd009ee0d?source=rss----7b722bfd1b8d---4)
 - [How I Tricked OpenClaw Into Attacking Its Own Network: A NAT64 SSRF Bypass](https://infosecwriteups.com/how-i-tricked-openclaw-into-attacking-its-own-network-a-nat64-ssrf-bypass-9b93a7f11cd9?source=rss----7b722bfd1b8d---4)
