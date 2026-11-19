@@ -1,6 +1,7 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [The Lock Icon That Lied: Bypassing an “Admins Only” Feature by Simply… Not Being One](https://medium.com/@arunkumarje/the-lock-icon-that-lied-bypassing-an-admins-only-feature-by-simply-not-being-one-b32ca1f1f91d?source=rss------bug_bounty_writeup-5)
 - [How I Found IDOR, SQLi and XSS on NASA](https://infosecwriteups.com/how-i-found-idor-sqli-and-xss-on-nasa-ac75c9bd555e?source=rss----7b722bfd1b8d---4)
 - [The Metadata Nobody Reads: How a Government Portal Leaked Internal Usernames Across 15,000…](https://infosecwriteups.com/the-metadata-nobody-reads-how-a-government-portal-leaked-internal-usernames-across-15-000-91194827019b?source=rss----7b722bfd1b8d---4)
 - [Beyond the Click: Tracking Attachment Opens and Macro Execution in Anglerphish](https://infosecwriteups.com/beyond-the-click-tracking-attachment-opens-and-macro-execution-in-anglerphish-d1080a2b5ae1?source=rss----7b722bfd1b8d---4)
@@ -20,7 +21,6 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [AI Agent Internal System Prompt and Tool Schema Disclosure](https://medium.com/@akashmotkar001/ai-agent-internal-system-prompt-and-tool-schema-disclosure-619eb67b9bd9?source=rss------bug_bounty_writeup-5)
 - [Prompt Injection in Munshi AI Assistant Exposed Internal Backend Security Details](https://medium.com/@TheWildEye/prompt-injection-in-munshi-ai-assistant-exposed-internal-backend-security-details-174efb524244?source=rss------bug_bounty_writeup-5)
 - [How I Escalated from Operator to Admin on a Leading Travel Platform on Hackerone Via GraphQL…](https://medium.com/@sebasvargas2/cross-supplier-privilege-escalation-how-i-escalated-from-operator-to-admin-on-a-leading-travel-614a67f459ab?source=rss------bug_bounty_writeup-5)
-- [TryHackMe: Bounty Hacker — A Walkthrough](https://medium.com/@muhammad.anas.rah/tryhackme-bounty-hacker-a-walkthrough-d6386ffff855?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
