@@ -971,6 +971,10 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [I Wasn’t Supposed to Be Here, But Nobody Stopped Me](https://medium.com/@silent_hunter_/i-wasnt-supposed-to-be-here-but-nobody-stopped-me-61fd518e869d?source=rss------bug_bounty_writeup-5)
+- [Your API Key Is Not a Secret: How I Turn Leaked Google Keys Into Bug Bounty Payouts](https://medium.com/@Realrio/your-api-key-is-not-a-secret-how-i-turn-leaked-google-keys-into-bug-bounty-payouts-ac65c375e3af?source=rss------bug_bounty_writeup-5)
+- [One Click Full Control: Exploiting CSPT to Modify Organization](https://medium.com/@mahdisalhi0500/one-click-full-control-exploiting-cspt-to-modify-organization-f646cb29b9e6?source=rss------bug_bounty_writeup-5)
+- [How an Empty String Unlocked Every Database Backup in Swisscom’s Open-Source Project](https://medium.com/@0xanubiis/how-an-empty-string-unlocked-every-database-backup-in-swisscoms-open-source-project-83a56bfdac21?source=rss------bug_bounty_writeup-5)
 - [One-Click Account Takeover via DOM XSS - How an Exposed Test Runner Opened the Door](https://medium.com/@forlaythegeneral/one-click-account-takeover-via-dom-xss-how-an-exposed-test-runner-opened-the-door-f0f826c4f74f?source=rss------bug_bounty_writeup-5)
 - [From a Simple Username Field to XSS: How One Input Exposed a Security Flaw in a Government Portal](https://medium.com/@adarshnair135/from-a-simple-username-field-to-xss-how-one-input-exposed-a-security-flaw-in-a-government-portal-c7183939ad60?source=rss------bug_bounty_writeup-5)
 - [The Lock Icon That Lied: Bypassing an “Admins Only” Feature by Simply… Not Being One](https://medium.com/@arunkumarje/the-lock-icon-that-lied-bypassing-an-admins-only-feature-by-simply-not-being-one-b32ca1f1f91d?source=rss------bug_bounty_writeup-5)
@@ -987,10 +991,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How Trusting a Request Header Turned a Password Reset Into Account Takeover](https://medium.com/@l4zz3rj0d/how-trusting-a-request-header-turned-a-password-reset-into-account-takeover-b95223be8c94?source=rss------bug_bounty_writeup-5)
 - [I Started the Login. You Finished It. I Got Your Account.](https://medium.com/@ali.zamini/i-started-the-login-you-finished-it-i-got-your-account-2c51f98f6ccb?source=rss------bug_bounty_writeup-5)
 - [P2 Broken Access Control Allowing Unauthorized Account Email Modification and Account Takeover](https://medium.com/@akashmotkar001/p2-broken-access-control-allowing-unauthorized-account-email-modification-and-account-takeover-dea75b86edf1?source=rss------bug_bounty_writeup-5)
-- [I Ignored a NEXT_PUBLIC_ Token for a Week. Then It Unlocked Blind SQLi and the Whole Database](https://medium.com/@akash.sundaramoorthi1/i-ignored-a-next-public-token-for-a-week-then-it-unlocked-blind-sqli-and-the-whole-database-6b61f3c1e07d?source=rss------bug_bounty_writeup-5)
-- [Stored HTML Injection in Munshi: A Profile Name Reached the Support Email as HTML](https://medium.com/@TheWildEye/stored-html-injection-in-munshi-a-profile-name-reached-the-support-email-as-html-0fd4e946b6bf?source=rss------bug_bounty_writeup-5)
-- [Soft-Deleted, Still Editable: BOLA in Munshi’s Invoice API](https://medium.com/@TheWildEye/soft-deleted-still-editable-bola-in-munshis-invoice-api-93e82bfee165?source=rss------bug_bounty_writeup-5)
-- [AI Agent Internal System Prompt and Tool Schema Disclosure](https://medium.com/@akashmotkar001/ai-agent-internal-system-prompt-and-tool-schema-disclosure-619eb67b9bd9?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
