@@ -1,6 +1,9 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Account Enumeration via Password-Reset and Registration Verification-Code Endpoints](https://zyt00nax0x.medium.com/%D8%A8%D8%B3%D9%85-%D8%A7%D9%84%D9%84%D9%87-%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86-%D8%A7%D9%84%D8%B1%D8%AD%D9%8A%D9%85-1a99dc7b59b7?source=rss------bug_bounty_writeup-5)
+- [IDOR in /app-api/enduserapp/profile/{userId} — Cross-Account PII Disclosure](https://zyt00nax0x.medium.com/%D8%A8%D8%B3%D9%85-%D8%A7%D9%84%D9%84%D9%87-%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86-%D8%A7%D9%84%D8%B1%D8%AD%D9%8A%D9%85-2c5cf55d1c86?source=rss------bug_bounty_writeup-5)
+- [How a Next.js CDN Proxy Turned Into a One-Click Account Takeover](https://medium.com/@r3dd404/how-a-next-js-cdn-proxy-turned-into-a-one-click-account-takeover-dd8bc8dd9fde?source=rss------bug_bounty_writeup-5)
 - [14/14 on HTB CPTS, First Attempt: What Actually Mattered](https://infosecwriteups.com/14-14-on-htb-cpts-first-attempt-what-actually-mattered-34ab2910551b?source=rss----7b722bfd1b8d---4)
 - [AI Red Teaming: Persistent Injection](https://infosecwriteups.com/ai-red-teaming-persistent-injection-f1f5c8aeffcf?source=rss----7b722bfd1b8d---4)
 - [Bypassing the Frontend Obfuscation: How I Uncovered a Company’s Entire Internal Architecture…](https://infosecwriteups.com/bypassing-the-frontend-obfuscation-how-i-uncovered-a-companys-entire-internal-architecture-da95e27668c9?source=rss----7b722bfd1b8d---4)
@@ -17,10 +20,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How an Email No One Opened Still Leaked Someone’s Gmail Through ChatGPT](https://medium.com/@l4zz3rj0d/how-an-email-no-one-opened-still-leaked-someones-gmail-through-chatgpt-786596a06ccb?source=rss------bug_bounty_writeup-5)
 - [Lab: Basic SSRF against the local server Walkthrough](https://medium.com/@Geetanjalijhade/lab-basic-ssrf-against-the-local-server-walkthrough-044727d2c087?source=rss------bug_bounty_writeup-5)
 - [P2 Password Reset Token Not Invalidated After Successful Password Change](https://medium.com/@akashmotkar001/p2-password-reset-token-not-invalidated-after-successful-password-change-ad251de19a39?source=rss------bug_bounty_writeup-5)
-- [The Devil Went Down to Georgia: How I Made $60k Hacking the DHS](https://sirleeroyjenkins.medium.com/the-devil-went-down-to-georgia-how-i-made-60k-hacking-the-dhs-5401fe833c58?source=rss------bug_bounty_writeup-5)
-- [️ Apple HOF &lpar;May 2026&rpar;: Stopping Podcast Hijacking](https://infosecwriteups.com/%EF%B8%8F-apple-hof-may-2026-stopping-podcast-hijacking-5baf19fae4f4?source=rss------bug_bounty_writeup-5)
-- [PostMessage Leads to One-Click Account Takeover](https://medium.com/@mahmoudfarag.rm4/postmessage-leads-to-one-click-account-takeover-87a401ca3a49?source=rss------bug_bounty_writeup-5)
-- [I Wasn’t Supposed to Be Here, But Nobody Stopped Me](https://medium.com/@silent_hunter_/i-wasnt-supposed-to-be-here-but-nobody-stopped-me-61fd518e869d?source=rss------bug_bounty_writeup-5)
+- [The Devil Went Down to Georgia: How I Made $60k Hacking the DHS](https://infosecwriteups.com/the-devil-went-down-to-georgia-how-i-made-60k-hacking-the-dhs-5401fe833c58?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
