@@ -971,16 +971,16 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Null Byte Injection in Token Name Blocks Admin From Deleting It](https://medium.com/@islmhmdymhmed/null-byte-injection-in-token-name-blocks-admin-from-deleting-it-25a4c1c24069?source=rss------bug_bounty_writeup-5)
+- [How a 1 MB Image Caused a Denial of Service](https://medium.com/@clocktower011/how-a-1-mb-image-caused-a-denial-of-service-dce8641fed79?source=rss------bug_bounty_writeup-5)
 - [How an Email No One Opened Still Leaked Someone’s Gmail Through ChatGPT](https://medium.com/@l4zz3rj0d/how-an-email-no-one-opened-still-leaked-someones-gmail-through-chatgpt-786596a06ccb?source=rss------bug_bounty_writeup-5)
 - [Lab: Basic SSRF against the local server Walkthrough](https://medium.com/@Geetanjalijhade/lab-basic-ssrf-against-the-local-server-walkthrough-044727d2c087?source=rss------bug_bounty_writeup-5)
 - [P2 Password Reset Token Not Invalidated After Successful Password Change](https://medium.com/@akashmotkar001/p2-password-reset-token-not-invalidated-after-successful-password-change-ad251de19a39?source=rss------bug_bounty_writeup-5)
 - [The Devil Went Down to Georgia: How I Made $60k Hacking the DHS](https://sirleeroyjenkins.medium.com/the-devil-went-down-to-georgia-how-i-made-60k-hacking-the-dhs-5401fe833c58?source=rss------bug_bounty_writeup-5)
-- [️ Apple HOF &lpar;May 2026&rpar;: Stopping Podcast Hijacking](https://medium.com/@anas-nady/%EF%B8%8F-apple-hof-may-2026-stopping-podcast-hijacking-5baf19fae4f4?source=rss------bug_bounty_writeup-5)
+- [️ Apple HOF &lpar;May 2026&rpar;: Stopping Podcast Hijacking](https://infosecwriteups.com/%EF%B8%8F-apple-hof-may-2026-stopping-podcast-hijacking-5baf19fae4f4?source=rss------bug_bounty_writeup-5)
 - [PostMessage Leads to One-Click Account Takeover](https://medium.com/@mahmoudfarag.rm4/postmessage-leads-to-one-click-account-takeover-87a401ca3a49?source=rss------bug_bounty_writeup-5)
 - [I Wasn’t Supposed to Be Here, But Nobody Stopped Me](https://medium.com/@silent_hunter_/i-wasnt-supposed-to-be-here-but-nobody-stopped-me-61fd518e869d?source=rss------bug_bounty_writeup-5)
 - [Your API Key Is Not a Secret: How I Turn Leaked Google Keys Into Bug Bounty Payouts](https://medium.com/@Realrio/your-api-key-is-not-a-secret-how-i-turn-leaked-google-keys-into-bug-bounty-payouts-ac65c375e3af?source=rss------bug_bounty_writeup-5)
-- [One Click Full Control: Exploiting CSPT to Modify Organization](https://medium.com/@mahdisalhi0500/one-click-full-control-exploiting-cspt-to-modify-organization-f646cb29b9e6?source=rss------bug_bounty_writeup-5)
-- [How an Empty String Unlocked Every Database Backup in Swisscom’s Open-Source Project](https://medium.com/@0xanubiis/how-an-empty-string-unlocked-every-database-backup-in-swisscoms-open-source-project-83a56bfdac21?source=rss------bug_bounty_writeup-5)
 - [How I Found IDOR, SQLi and XSS on NASA](https://infosecwriteups.com/how-i-found-idor-sqli-and-xss-on-nasa-ac75c9bd555e?source=rss----7b722bfd1b8d---4)
 - [The Metadata Nobody Reads: How a Government Portal Leaked Internal Usernames Across 15,000…](https://infosecwriteups.com/the-metadata-nobody-reads-how-a-government-portal-leaked-internal-usernames-across-15-000-91194827019b?source=rss----7b722bfd1b8d---4)
 - [Beyond the Click: Tracking Attachment Opens and Macro Execution in Anglerphish](https://infosecwriteups.com/beyond-the-click-tracking-attachment-opens-and-macro-execution-in-anglerphish-d1080a2b5ae1?source=rss----7b722bfd1b8d---4)
