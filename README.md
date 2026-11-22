@@ -971,6 +971,9 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [From Recon to Remote Code Execution : My Encounter with React2Shell &lpar;CVE-2025–55182&rpar;](https://ryh04x.medium.com/from-recon-to-remote-code-execution-my-encounter-with-react2shell-cve-2025-55182-6b4efca990c5?source=rss------bug_bounty_writeup-5)
+- [How I Cracked the Burp Suite Certified Practitioner &lpar;BSCP&rpar; Exam — And How You Can Too!](https://infosecwriteups.com/how-i-cracked-the-burp-suite-certified-practitioner-bscp-exam-and-how-you-can-too-90ffa87b3097?source=rss----7b722bfd1b8d---4)
+- [The Ultimate Guide to SSRF: Hunting, Bypassing and Exploiting in Modern Bug Bounty](https://infosecwriteups.com/the-ultimate-guide-to-ssrf-hunting-bypassing-and-exploiting-in-modern-bug-bounty-a43fa34ba324?source=rss----7b722bfd1b8d---4)
 - [Account Enumeration via Password-Reset and Registration Verification-Code Endpoints](https://zyt00nax0x.medium.com/%D8%A8%D8%B3%D9%85-%D8%A7%D9%84%D9%84%D9%87-%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86-%D8%A7%D9%84%D8%B1%D8%AD%D9%8A%D9%85-1a99dc7b59b7?source=rss------bug_bounty_writeup-5)
 - [IDOR in /app-api/enduserapp/profile/{userId} — Cross-Account PII Disclosure](https://zyt00nax0x.medium.com/%D8%A8%D8%B3%D9%85-%D8%A7%D9%84%D9%84%D9%87-%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86-%D8%A7%D9%84%D8%B1%D8%AD%D9%8A%D9%85-2c5cf55d1c86?source=rss------bug_bounty_writeup-5)
 - [How a Next.js CDN Proxy Turned Into a One-Click Account Takeover](https://medium.com/@r3dd404/how-a-next-js-cdn-proxy-turned-into-a-one-click-account-takeover-dd8bc8dd9fde?source=rss------bug_bounty_writeup-5)
@@ -982,15 +985,12 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [PHP2Shell: Practical RCE Reproduction in a Docker Lab](https://infosecwriteups.com/php2shell-practical-rce-reproduction-in-a-docker-lab-fc00fb2a8cf8?source=rss----7b722bfd1b8d---4)
 - [The Bare LLM: Manipulating the CloudBank Chatbot &lpar;Part 2&rpar;](https://infosecwriteups.com/inside-the-bare-llm-manipulating-the-cloudbank-chatbot-part-2-8efbc92666a7?source=rss----7b722bfd1b8d---4)
 - [The Bare LLM: Attacking and Securing the FruitMart Chatbot &lpar;Part 1&rpar;](https://infosecwriteups.com/inside-the-bare-llm-attacking-and-securing-the-fruitmart-chatbot-part-1-4eabe9ad5bbe?source=rss----7b722bfd1b8d---4)
-- [Passing the OSEP: Course Review and Exam Preparation tips](https://infosecwriteups.com/passing-the-osep-course-review-and-exam-preparation-tips-167f987251f4?source=rss----7b722bfd1b8d---4)
-- [My Journey To Conquering The OSCE3](https://infosecwriteups.com/my-journey-to-conquering-the-osce3-e4cb5d68467b?source=rss----7b722bfd1b8d---4)
 - [The Message That Ate the CPU: Finding a Quadratic-Time DoS in Markdown Parsing](https://elze1n.medium.com/the-message-that-ate-the-cpu-finding-a-quadratic-time-dos-in-markdown-parsing-7813c2dc8df4?source=rss------bug_bounty_writeup-5)
 - [Null Byte Injection in Token Name Blocks Admin From Deleting It](https://medium.com/@islmhmdymhmed/null-byte-injection-in-token-name-blocks-admin-from-deleting-it-25a4c1c24069?source=rss------bug_bounty_writeup-5)
 - [How a 1 MB Image Caused a Denial of Service](https://medium.com/@clocktower011/how-a-1-mb-image-caused-a-denial-of-service-dce8641fed79?source=rss------bug_bounty_writeup-5)
 - [How an Email No One Opened Still Leaked Someone’s Gmail Through ChatGPT](https://medium.com/@l4zz3rj0d/how-an-email-no-one-opened-still-leaked-someones-gmail-through-chatgpt-786596a06ccb?source=rss------bug_bounty_writeup-5)
 - [Lab: Basic SSRF against the local server Walkthrough](https://medium.com/@Geetanjalijhade/lab-basic-ssrf-against-the-local-server-walkthrough-044727d2c087?source=rss------bug_bounty_writeup-5)
 - [P2 Password Reset Token Not Invalidated After Successful Password Change](https://medium.com/@akashmotkar001/p2-password-reset-token-not-invalidated-after-successful-password-change-ad251de19a39?source=rss------bug_bounty_writeup-5)
-- [The Devil Went Down to Georgia: How I Made $60k Hacking the DHS](https://infosecwriteups.com/the-devil-went-down-to-georgia-how-i-made-60k-hacking-the-dhs-5401fe833c58?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
