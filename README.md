@@ -971,6 +971,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Changing “false” to “true”: How I Discovered an Email Verification Bypass Through Mass Assignment](https://medium.com/@anujrawal/changing-false-to-true-how-i-discovered-an-email-verification-bypass-through-mass-assignment-12233efb1f00?source=rss------bug_bounty_writeup-5)
 - [From Recon to Remote Code Execution : My Encounter with React2Shell &lpar;CVE-2025–55182&rpar;](https://ryh04x.medium.com/from-recon-to-remote-code-execution-my-encounter-with-react2shell-cve-2025-55182-6b4efca990c5?source=rss------bug_bounty_writeup-5)
 - [How I Cracked the Burp Suite Certified Practitioner &lpar;BSCP&rpar; Exam — And How You Can Too!](https://infosecwriteups.com/how-i-cracked-the-burp-suite-certified-practitioner-bscp-exam-and-how-you-can-too-90ffa87b3097?source=rss----7b722bfd1b8d---4)
 - [The Ultimate Guide to SSRF: Hunting, Bypassing and Exploiting in Modern Bug Bounty](https://infosecwriteups.com/the-ultimate-guide-to-ssrf-hunting-bypassing-and-exploiting-in-modern-bug-bounty-a43fa34ba324?source=rss----7b722bfd1b8d---4)
@@ -990,7 +991,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How a 1 MB Image Caused a Denial of Service](https://medium.com/@clocktower011/how-a-1-mb-image-caused-a-denial-of-service-dce8641fed79?source=rss------bug_bounty_writeup-5)
 - [How an Email No One Opened Still Leaked Someone’s Gmail Through ChatGPT](https://medium.com/@l4zz3rj0d/how-an-email-no-one-opened-still-leaked-someones-gmail-through-chatgpt-786596a06ccb?source=rss------bug_bounty_writeup-5)
 - [Lab: Basic SSRF against the local server Walkthrough](https://medium.com/@Geetanjalijhade/lab-basic-ssrf-against-the-local-server-walkthrough-044727d2c087?source=rss------bug_bounty_writeup-5)
-- [P2 Password Reset Token Not Invalidated After Successful Password Change](https://medium.com/@akashmotkar001/p2-password-reset-token-not-invalidated-after-successful-password-change-ad251de19a39?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
