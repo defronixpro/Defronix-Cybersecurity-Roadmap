@@ -971,6 +971,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Day 04 gave us recon. Today we learn how logins actually work.](https://iamrudhh.medium.com/day-04-gave-us-recon-today-we-learn-how-logins-actually-work-8faf3528a397?source=rss------bug_bounty_writeup-5)
 - [When GraphQL Meets Web Cache Deception](https://medium.com/@0x_karim/when-graphql-meets-web-cache-deception-10d90d1bf743?source=rss------bug_bounty_writeup-5)
 - [P2 Server-Side Request Forgery &lpar;SSRF&rpar; Leading to Internal Network Resource Access](https://medium.com/@akashmotkar001/p2-server-side-request-forgery-ssrf-leading-to-internal-network-resource-access-7ab58789c6db?source=rss------bug_bounty_writeup-5)
 - [PortSwigger lab: Password Brute-Force via Password Change](https://infosecwriteups.com/portswigger-lab-password-brute-force-via-password-change-cb0666075eaa?source=rss----7b722bfd1b8d---4)
@@ -990,7 +991,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [How a Silent Websocket Led Me to Unauthenticated Uploads on a University’s Exam Platform](https://infosecwriteups.com/the-anonymous-5-gb-file-host-that-almost-wasnt-how-a-silent-websocket-led-me-to-unauthenticated-c34120be1492?source=rss----7b722bfd1b8d---4)
 - [PHP2Shell: Practical RCE Reproduction in a Docker Lab](https://infosecwriteups.com/php2shell-practical-rce-reproduction-in-a-docker-lab-fc00fb2a8cf8?source=rss----7b722bfd1b8d---4)
 - [The Message That Ate the CPU: Finding a Quadratic-Time DoS in Markdown Parsing](https://elze1n.medium.com/the-message-that-ate-the-cpu-finding-a-quadratic-time-dos-in-markdown-parsing-7813c2dc8df4?source=rss------bug_bounty_writeup-5)
-- [Null Byte Injection in Token Name Blocks Admin From Deleting It](https://medium.com/@islmhmdymhmed/null-byte-injection-in-token-name-blocks-admin-from-deleting-it-25a4c1c24069?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
