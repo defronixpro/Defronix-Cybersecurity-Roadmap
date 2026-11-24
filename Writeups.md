@@ -1,6 +1,11 @@
 # Writeups 🖊️🛡️
 Welcome to our curated repository of top-notch cybersecurity write-ups! Dive into a comprehensive collection of insightful articles, guides, and analyses covering a wide spectrum of cybersecurity topics from various sources every minute. Whether you're a seasoned cybersecurity professional, an aspiring enthusiast, or simply intrigued by the world of digital security, our repository is your one-stop destination. Explore detailed write-ups on the latest vulnerabilities, exploits, threat intelligence, defensive strategies, and more, all meticulously compiled to provide you with valuable insights and actionable knowledge. Stay informed, stay secure!
 <!-- WRITEUPS:START -->
+- [Exploiting Unauthorized Tool Invocation in the MegaCorp Office Assistant &lpar;Part 4&rpar;](https://infosecwriteups.com/inside-agentic-ai-exploiting-unauthorized-tool-invocation-in-the-megacorp-office-assistant-08b1f39a7582?source=rss----7b722bfd1b8d---4)
+- [Review of the CompTIA SecAI+ Exam](https://infosecwriteups.com/comptia-secai-review-acc5bff2b890?source=rss----7b722bfd1b8d---4)
+- [The Devil Went Down to Georgia: How I Made $60k Hacking the DHS](https://infosecwriteups.com/the-devil-went-down-to-georgia-how-i-made-60k-hacking-the-dhs-5401fe833c58?source=rss----7b722bfd1b8d---4)
+- [Intel Inside: How a Cracked JWT Key led to Full Account Takeover on Intel and CBSE’s AI Platform](https://infosecwriteups.com/intel-inside-how-a-cracked-jwt-key-led-to-full-account-takeover-on-intel-and-cbses-ai-platform-f06bb84ac1a2?source=rss----7b722bfd1b8d---4)
+- [Day 04 gave us recon. Today we learn how logins actually work.](https://iamrudhh.medium.com/day-04-gave-us-recon-today-we-learn-how-logins-actually-work-8faf3528a397?source=rss------bug_bounty_writeup-5)
 - [When GraphQL Meets Web Cache Deception](https://medium.com/@0x_karim/when-graphql-meets-web-cache-deception-10d90d1bf743?source=rss------bug_bounty_writeup-5)
 - [P2 Server-Side Request Forgery &lpar;SSRF&rpar; Leading to Internal Network Resource Access](https://medium.com/@akashmotkar001/p2-server-side-request-forgery-ssrf-leading-to-internal-network-resource-access-7ab58789c6db?source=rss------bug_bounty_writeup-5)
 - [PortSwigger lab: Password Brute-Force via Password Change](https://infosecwriteups.com/portswigger-lab-password-brute-force-via-password-change-cb0666075eaa?source=rss----7b722bfd1b8d---4)
@@ -15,12 +20,7 @@ Welcome to our curated repository of top-notch cybersecurity write-ups! Dive int
 - [How a Next.js CDN Proxy Turned Into a One-Click Account Takeover](https://medium.com/@r3dd404/how-a-next-js-cdn-proxy-turned-into-a-one-click-account-takeover-dd8bc8dd9fde?source=rss------bug_bounty_writeup-5)
 - [14/14 on HTB CPTS, First Attempt: What Actually Mattered](https://infosecwriteups.com/14-14-on-htb-cpts-first-attempt-what-actually-mattered-34ab2910551b?source=rss----7b722bfd1b8d---4)
 - [AI Red Teaming: Persistent Injection](https://infosecwriteups.com/ai-red-teaming-persistent-injection-f1f5c8aeffcf?source=rss----7b722bfd1b8d---4)
-- [Bypassing the Frontend Obfuscation: How I Uncovered a Company’s Entire Internal Architecture…](https://infosecwriteups.com/bypassing-the-frontend-obfuscation-how-i-uncovered-a-companys-entire-internal-architecture-da95e27668c9?source=rss----7b722bfd1b8d---4)
-- [admin:admin123 — How Default Keycloak Credentials on a Cargo Training Environment Exposed 766…](https://infosecwriteups.com/admin-admin123-how-default-keycloak-credentials-on-a-cargo-training-environment-exposed-766-f026dcf45023?source=rss----7b722bfd1b8d---4)
-- [How a Silent Websocket Led Me to Unauthenticated Uploads on a University’s Exam Platform](https://infosecwriteups.com/the-anonymous-5-gb-file-host-that-almost-wasnt-how-a-silent-websocket-led-me-to-unauthenticated-c34120be1492?source=rss----7b722bfd1b8d---4)
-- [PHP2Shell: Practical RCE Reproduction in a Docker Lab](https://infosecwriteups.com/php2shell-practical-rce-reproduction-in-a-docker-lab-fc00fb2a8cf8?source=rss----7b722bfd1b8d---4)
 - [The Message That Ate the CPU: Finding a Quadratic-Time DoS in Markdown Parsing](https://elze1n.medium.com/the-message-that-ate-the-cpu-finding-a-quadratic-time-dos-in-markdown-parsing-7813c2dc8df4?source=rss------bug_bounty_writeup-5)
-- [Null Byte Injection in Token Name Blocks Admin From Deleting It](https://medium.com/@islmhmdymhmed/null-byte-injection-in-token-name-blocks-admin-from-deleting-it-25a4c1c24069?source=rss------bug_bounty_writeup-5)
 - [How to access the Dark Web using the Tor Browser](https://www.bleepingcomputer.com/tutorials/how-to-access-the-dark-web-using-the-tor-browser/)
 - [How to enable Kernel-mode Hardware-enforced Stack Protection in Windows 11](https://www.bleepingcomputer.com/tutorials/how-to-enable-kernel-mode-hardware-enforced-stack-protection-in-windows-11/)
 - [How to use the Windows Registry Editor](https://www.bleepingcomputer.com/tutorials/how-to-use-the-windows-registry-editor/)
