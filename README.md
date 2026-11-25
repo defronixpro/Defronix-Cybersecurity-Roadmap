@@ -971,6 +971,8 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [Race Condition Leading to Bypass of Free Plan Limits](https://medium.com/@mo.muwafak2001/race-condition-leading-to-bypass-of-free-plan-limits-5e4d70f41684?source=rss------bug_bounty_writeup-5)
+- [Time-Based Business Logic Bypass via API](https://scriptjacker.medium.com/time-based-business-logic-bypass-via-api-04bb08fed6aa?source=rss------bug_bounty_writeup-5)
 - [P4 Information Disclosure Through HTTP Response Headers](https://medium.com/@akashmotkar001/p4-information-disclosure-through-http-response-headers-7e58940d07ac?source=rss------bug_bounty_writeup-5)
 - [Breach US Government site by only changing “false” to “true” state?](https://mxyuyu.medium.com/breach-us-government-site-by-only-changing-false-to-true-state-67d2662ab2a5?source=rss------bug_bounty_writeup-5)
 - [Base64-encoded Reflected XSS in Indeed’s Email Marketing | Bug Bounty WriteUp](https://medium.com/@zwet2022/base64-encoded-reflected-xss-in-indeeds-email-marketing-bug-bounty-writeup-f7718294636f?source=rss------bug_bounty_writeup-5)
@@ -985,8 +987,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [P2 Server-Side Request Forgery &lpar;SSRF&rpar; Leading to Internal Network Resource Access](https://medium.com/@akashmotkar001/p2-server-side-request-forgery-ssrf-leading-to-internal-network-resource-access-7ab58789c6db?source=rss------bug_bounty_writeup-5)
 - [PortSwigger lab: Password Brute-Force via Password Change](https://infosecwriteups.com/portswigger-lab-password-brute-force-via-password-change-cb0666075eaa?source=rss----7b722bfd1b8d---4)
 - [Exploiting Broken Brute-Force Protection with Multiple Credentials per Request](https://infosecwriteups.com/exploiting-broken-brute-force-protection-with-multiple-credentials-per-request-6bf33d5d9c5f?source=rss----7b722bfd1b8d---4)
-- [The Wildcard Parameter That Exposed 60 Million USPS Accounts](https://medium.com/@l4zz3rj0d/the-wildcard-parameter-that-exposed-60-million-usps-accounts-50b372babfb6?source=rss------bug_bounty_writeup-5)
-- [Changing “false” to “true”: How I Discovered an Email Verification Bypass Through Mass Assignment](https://medium.com/@anujrawal/changing-false-to-true-how-i-discovered-an-email-verification-bypass-through-mass-assignment-12233efb1f00?source=rss------bug_bounty_writeup-5)
 - [How I Cracked the Burp Suite Certified Practitioner &lpar;BSCP&rpar; Exam — And How You Can Too!](https://infosecwriteups.com/how-i-cracked-the-burp-suite-certified-practitioner-bscp-exam-and-how-you-can-too-90ffa87b3097?source=rss----7b722bfd1b8d---4)
 - [The Ultimate Guide to SSRF: Hunting, Bypassing and Exploiting in Modern Bug Bounty](https://infosecwriteups.com/the-ultimate-guide-to-ssrf-hunting-bypassing-and-exploiting-in-modern-bug-bounty-a43fa34ba324?source=rss----7b722bfd1b8d---4)
 - [14/14 on HTB CPTS, First Attempt: What Actually Mattered](https://infosecwriteups.com/14-14-on-htb-cpts-first-attempt-what-actually-mattered-34ab2910551b?source=rss----7b722bfd1b8d---4)
