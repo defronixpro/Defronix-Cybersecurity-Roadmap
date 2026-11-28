@@ -971,6 +971,7 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 
 ### Writeups 📙💯
 <!-- WRITEUPS:START -->
+- [P3 Weak Password Policy Enforcement Through Direct API Requests](https://medium.com/@akashmotkar001/p3-weak-password-policy-enforcement-through-direct-api-requests-4cd374df1f2d?source=rss------bug_bounty_writeup-5)
 - [One Parameter, One Request: How I Bypassed Access Controls and Unlocked a Restricted AI Feature](https://infosecwriteups.com/one-parameter-one-request-how-i-bypassed-access-controls-and-unlocked-a-restricted-ai-feature-67bee6ef87d3?source=rss------bug_bounty_writeup-5)
 - [Day 06 — Bug Bounty: Exploring OWASP Top 10](https://iamrudhh.medium.com/day-06-bug-bounty-exploring-owasp-top-10-d425ffe1eaac?source=rss------bug_bounty_writeup-5)
 - [Race Condition Leading to Bypass of Free Plan Limits](https://medium.com/@mo.muwafak2001/race-condition-leading-to-bypass-of-free-plan-limits-5e4d70f41684?source=rss------bug_bounty_writeup-5)
@@ -984,7 +985,6 @@ Blogs provide valuable insights, tutorials, and updates on cybersecurity trends,
 - [Review of the CompTIA SecAI+ Exam](https://infosecwriteups.com/comptia-secai-review-acc5bff2b890?source=rss----7b722bfd1b8d---4)
 - [The Devil Went Down to Georgia: How I Made $60k Hacking the DHS](https://infosecwriteups.com/the-devil-went-down-to-georgia-how-i-made-60k-hacking-the-dhs-5401fe833c58?source=rss----7b722bfd1b8d---4)
 - [Intel Inside: How a Cracked JWT Key led to Full Account Takeover on Intel and CBSE’s AI Platform](https://infosecwriteups.com/intel-inside-how-a-cracked-jwt-key-led-to-full-account-takeover-on-intel-and-cbses-ai-platform-f06bb84ac1a2?source=rss----7b722bfd1b8d---4)
-- [Day 05 gave us recon. Today we learn how logins actually work.](https://iamrudhh.medium.com/day-04-gave-us-recon-today-we-learn-how-logins-actually-work-8faf3528a397?source=rss------bug_bounty_writeup-5)
 - [PortSwigger lab: Password Brute-Force via Password Change](https://infosecwriteups.com/portswigger-lab-password-brute-force-via-password-change-cb0666075eaa?source=rss----7b722bfd1b8d---4)
 - [Exploiting Broken Brute-Force Protection with Multiple Credentials per Request](https://infosecwriteups.com/exploiting-broken-brute-force-protection-with-multiple-credentials-per-request-6bf33d5d9c5f?source=rss----7b722bfd1b8d---4)
 - [How I Cracked the Burp Suite Certified Practitioner &lpar;BSCP&rpar; Exam — And How You Can Too!](https://infosecwriteups.com/how-i-cracked-the-burp-suite-certified-practitioner-bscp-exam-and-how-you-can-too-90ffa87b3097?source=rss----7b722bfd1b8d---4)
